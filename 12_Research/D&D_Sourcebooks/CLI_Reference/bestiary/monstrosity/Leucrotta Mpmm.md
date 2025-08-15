@@ -1,3 +1,12 @@
+---
+title: Leucrotta Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Leucrotta Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-leucrotta-mpmm-leucrotta-mpmm.svg)
 
-# [[leucrotta-mpmm|Leucrotta]]
+# [[leucrotta mpmm|Leucrotta]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -103,7 +112,6 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -115,11 +123,6 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -141,11 +144,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

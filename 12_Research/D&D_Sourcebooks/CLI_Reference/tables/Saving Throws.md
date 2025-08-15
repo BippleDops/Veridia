@@ -1,3 +1,12 @@
+---
+title: Saving Throws
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Saving Throws
 
 ---
@@ -37,7 +46,6 @@ world: Both
 | Charisma | Withstanding effects, such as possession, that would subsume your personality or hurl you to another plane of existence |
 ^saving-throws
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-scale-walker-captain-scale-walker.svg]]
 
 # Captain Scale-Walker
 *The Deep Navigator, Keeper of Ancient Routes*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,8 +59,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
@@ -73,17 +67,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -93,8 +83,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in the deepest waters of [[Aquabyssos]]. Born in the twilight depths where light barely penetrates, he has spent decades mapping the treacherous passages between the surface waters and the abyssal plains. His ship, *The Serpent's Current*, is one of the few vessels capable of navigating the crushing pressures and strange currents that guard Aquabyssos's most valuable secrets.
@@ -212,11 +200,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Economic Structure
 
@@ -236,7 +222,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -248,7 +233,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

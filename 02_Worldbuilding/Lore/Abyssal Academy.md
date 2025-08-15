@@ -31,7 +31,7 @@ leader: '[[Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mi
 parent_location: '[[Abyssos Prime]]'
 related_entities:
 - '[[Deep Mother]]'
-- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 specialties:
 - Deep Lore Research
@@ -44,12 +44,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Abyssal Academy
 
 *Institute of Deep Knowledge and Forbidden Studies*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,36 +75,26 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -120,7 +107,7 @@ Under the guidance of the enigmatic [[Professor Euclid Mindmaze|02 Worldbuilding
 The Academy consists of seven interconnected spiral towers, each devoted to a different field of study:
 
 **The Tower of Depths** - Marine biology and abyssal creature studies
-**The Mind Spire** - Psionic research and [[02_Worldbuilding/Lore/Aboleth Mind Mazes|mental architecture]]
+**The Mind Spire** - Psionic research and [[02 Worldbuilding/Lore/Aboleth Mind Mazes|mental architecture]]
 **The History Helix** - Ancient civilizations and pre-drowning knowledge
 **The Theoretical Tower** - Mathematics, magic theory, and reality studies
 **The Observation Orb** - Astronomy, divination, and far-sight disciplines
@@ -253,8 +240,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

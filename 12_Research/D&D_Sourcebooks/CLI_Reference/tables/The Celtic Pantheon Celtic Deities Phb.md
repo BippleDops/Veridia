@@ -1,3 +1,12 @@
+---
+title: The Celtic Pantheon Celtic Deities Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Celtic Pantheon Celtic Deities Phb
 
 ---
@@ -29,22 +38,21 @@ world: Both
 
 | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
-| [[celtic-the-daghdha|The Daghdha]], god of weather and crops | CG | Nature, Trickery | Bubbling cauldron or shield |
-| [[celtic-arawn|Arawn]], god of life and death | NE | Life, Death | Black star on gray background |
-| [[celtic-belenus|Belenus]], god of sun, light, and warmth | NG | Light | Solar disk and standing stones |
-| [[celtic-brigantia|Brigantia]], goddess of rivers and livestock | NG | Life | Footbridge |
-| [[celtic-diancecht|Diancecht]], god of medicine and healing | LG | Life | Crossed oak and mistletoe branches |
-| [[celtic-dunatis|Dunatis]], god of mountains and peaks | N | Nature | Red sun-capped mountain peak |
-| [[celtic-goibhniu|Goibhniu]], god of smiths and healing | NG | Knowledge, Life | Giant mallet over sword |
-| [[celtic-lugh|Lugh]], god of arts, travel, and commerce | CN | Knowledge, Life | Pair of long hands |
+| [[celtic the daghdha|The Daghdha]], god of weather and crops | CG | Nature, Trickery | Bubbling cauldron or shield |
+| [[celtic arawn|Arawn]], god of life and death | NE | Life, Death | Black star on gray background |
+| [[celtic belenus|Belenus]], god of sun, light, and warmth | NG | Light | Solar disk and standing stones |
+| [[celtic brigantia|Brigantia]], goddess of rivers and livestock | NG | Life | Footbridge |
+| [[celtic diancecht|Diancecht]], god of medicine and healing | LG | Life | Crossed oak and mistletoe branches |
+| [[celtic dunatis|Dunatis]], god of mountains and peaks | N | Nature | Red sun-capped mountain peak |
+| [[celtic goibhniu|Goibhniu]], god of smiths and healing | NG | Knowledge, Life | Giant mallet over sword |
+| [[celtic lugh|Lugh]], god of arts, travel, and commerce | CN | Knowledge, Life | Pair of long hands |
 | [[celtic-ma-mac-lir|Ma mac Lir]], god of oceans and sea creatures | LN | Nature, Tempest | Wave of white water on green |
-| [[celtic-math-mathonwy|Math Mathonwy]], god of magic | NE | Knowledge | Staff |
-| [[celtic-morrigan|Morrigan]], goddess of battle | CE | War | Two crossed spears |
-| [[celtic-nuada|Nuada]], god of war and warriors | N | War | Silver hand on black background |
-| [[celtic-oghma|Oghma]], god of speech and writing | NG | Knowledge | Unfurled scroll |
-| [[celtic-silvanus|Silvanus]], god of nature and forests | N | Nature | Summer oak tree |
+| [[celtic math mathonwy|Math Mathonwy]], god of magic | NE | Knowledge | Staff |
+| [[celtic morrigan|Morrigan]], goddess of battle | CE | War | Two crossed spears |
+| [[celtic nuada|Nuada]], god of war and warriors | N | War | Silver hand on black background |
+| [[celtic oghma|Oghma]], god of speech and writing | NG | Knowledge | Unfurled scroll |
+| [[celtic silvanus|Silvanus]], god of nature and forests | N | Nature | Summer oak tree |
 ^celtic-deities
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -92,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

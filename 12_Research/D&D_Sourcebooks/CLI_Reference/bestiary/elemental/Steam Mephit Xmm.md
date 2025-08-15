@@ -1,3 +1,12 @@
+---
+title: Steam Mephit Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Steam Mephit Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-steam-mephit-xmm-steam-mephit-xmm.svg)
 
-# [[steam-mephit-xmm|Steam Mephit]]
+# [[steam mephit xmm|Steam Mephit]]
 *Source: Monster Manual (2024) p. 208. Available in the SRD and the Free Rules (2024)*  
 
 These arrogant mephits are made of heat and vaporous water. They often trick creatures into doing them favors, then renege on promised rewards.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ These arrogant mephits are made of heat and vaporous water. They often trick cre
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mephits
 
@@ -95,12 +98,12 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "languages": "Primordial (Aquan, Ig)"
 "cr": "1/4"
 "traits":
-  - "desc": "Attack rolls against the mephit are made with [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "Attack rolls against the mephit are made with [[disadvantage xphb|Disadvantage]]\
       \ unless the mephit has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Blurred Form"
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
-      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mephit. Failure: 5 (2d4) Fire damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -108,10 +111,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (d4) Slashing damage plus\
       \ 2 (d4) Fire damage."
     "name": "Claw"
-  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ Failure: 5 (2d4) Fire damage, and the target's [[speed-xphb|Speed]]\
+  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+      \ Failure: 5 (2d4) Fire damage, and the target's [[speed xphb|Speed]]\
       \ decreases by 10 feet until the end of the mephit's next turn. Success: Half\
-      \ damage only. Failure or Success: Being underwater doesn't grant [[resistance-xphb|Resistance]]\
+      \ damage only. Failure or Success: Being underwater doesn't grant [[resistance xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 6)"
 "source":
@@ -140,11 +143,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

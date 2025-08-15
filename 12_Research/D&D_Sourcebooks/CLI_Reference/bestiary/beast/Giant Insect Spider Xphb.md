@@ -1,3 +1,12 @@
+---
+title: Giant Insect Spider Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Insect Spider Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-spider-xphb-giant-insect-spider-xphb.svg)
 
-# [[giant-insect-spider-xphb|Giant Insect (Spider)]]
+# [[giant insect spider xphb|Giant Insect (Spider)]]
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*  
 
 ```statblock
@@ -70,7 +79,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -82,11 +90,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -104,7 +107,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -115,7 +117,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

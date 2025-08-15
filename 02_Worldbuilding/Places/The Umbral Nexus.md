@@ -30,14 +30,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg]]
 
 # The Umbral Nexus
 *Heart of the Shadow Web*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,29 +62,21 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -98,7 +86,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -455,8 +442,6 @@ Ongoing situations affecting The Umbral Nexus:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - The authorities needs help investigating before the festival
@@ -475,7 +460,6 @@ Ongoing situations affecting The Umbral Nexus:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

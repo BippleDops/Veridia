@@ -1,3 +1,12 @@
+---
+title: Goblin Hexer Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Goblin Hexer Xmm
 
 ---
@@ -35,13 +44,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png]]
 
 # [[goblin-hexer-xmm|Goblin Hexer]]
 *Source: Monster Manual (2024) p. 143*  
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +61,6 @@ Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Goblins
 
@@ -111,7 +113,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - "desc": "The goblin casts one of the following spells, using Intelligence as the\
       \ spellcasting ability (spell save DC 13):\n\nAt will: [[minor-illusion-xphb|Minor Illusion]]\n\
       \n1/day each: [[blindness-deafness-xphb|Blindness/Deafness]],\
-      \ [[faerie-fire-xphb|Faerie Fire]], [[grease-xphb|Grease]]"
+      \ [[faerie-fire-xphb|Faerie Fire]], [[grease xphb|Grease]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\
@@ -143,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

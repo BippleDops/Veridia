@@ -1,3 +1,12 @@
+---
+title: Crossbow Trap Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crossbow Trap Xge
 
 ---
@@ -30,7 +39,6 @@ The crossbow trap is a favorite of kobolds and other creatures that rely on trap
 
 *Source: Xanathar's Guide to Everything p. 113*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ The crossbow trap is a favorite of kobolds and other creatures that rely on trap
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## 12_Research Specific Content
 

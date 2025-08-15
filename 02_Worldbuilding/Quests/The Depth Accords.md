@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,25 +38,17 @@ improvements: 20
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
 
 ### Art Improvements
 
-- Add AI art prompts for key scenes
 - Add AI art prompts for key scenes
 
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
 
 ### Accessibility Improvements
 
-- Include content warnings and safety tools
 - Include content warnings and safety tools
 
 ### Level_Range Improvements
@@ -73,7 +62,6 @@ improvements: 20
 ### Props Improvements
 
 - List physical props and handouts needed
-
 
 ## Adventure Overview
 
@@ -90,7 +78,6 @@ An exciting quest that challenges heroes to uncover the truth.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Secret Connections
 

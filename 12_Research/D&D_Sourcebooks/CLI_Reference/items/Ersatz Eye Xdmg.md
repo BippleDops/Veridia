@@ -1,3 +1,12 @@
+---
+title: Ersatz Eye Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ersatz Eye Xdmg
 
 ---
@@ -34,7 +43,6 @@ This magical eye replaces a real one that was lost or removed. While the Ersatz 
 
 *Source: Dungeon Master's Guide (2024) p. 259*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This magical eye replaces a real one that was lost or removed. While the Ersatz 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

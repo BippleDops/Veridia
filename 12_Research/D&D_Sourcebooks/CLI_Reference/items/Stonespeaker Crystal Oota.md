@@ -1,3 +1,12 @@
+---
+title: Stonespeaker Crystal Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stonespeaker Crystal Oota
 
 ---
@@ -30,14 +39,13 @@ world: Both
 
 Created by the stone giant librarians of Gravenhollow, this nineteen-inch-long shard of quartz grants you advantage on Intelligence ([[skills#Investigation|Investigation]]) checks while it is on your person.
 
-The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: [[speak-with-animals-xphb|speak with animals]] (2 charges), [[speak-with-dead-xphb|speak with dead]] (4 charges), or [[speak-with-plants-xphb|speak with plants]] (3 charges).
+The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: [[speak with animals xphb|speak with animals]] (2 charges), [[speak with dead xphb|speak with dead]] (4 charges), or [[speak with plants xphb|speak with plants]] (3 charges).
 
 When you cast a divination spell, you can use the crystal in place of one material component that would normally be consumed by the spell, at a cost of 1 charge per level of the spell. The crystal is not consumed when used in this way.
 
 The crystal regains `1d6 + 4` expended charges daily at dawn. If you expend the crystal's last charge, roll a `d20`. On a 1, the crystal vanishes, lost forever.
 
 *Source: Out of the Abyss p. 223*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The crystal regains `1d6 + 4` expended charges daily at dawn. If you expend the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,21 +75,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

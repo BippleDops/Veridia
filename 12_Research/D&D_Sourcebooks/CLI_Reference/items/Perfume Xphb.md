@@ -1,3 +1,12 @@
+---
+title: Perfume Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Perfume Xphb
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Cost**: 5 gp
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[advantage-xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[advantage xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
 
 *Source: Player's Handbook (2024) p. 227. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

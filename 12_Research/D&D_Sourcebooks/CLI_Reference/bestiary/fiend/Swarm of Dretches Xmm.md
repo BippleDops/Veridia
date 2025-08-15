@@ -1,3 +1,12 @@
+---
+title: Swarm of Dretches Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Dretches Xmm
 
 ---
@@ -30,13 +39,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png]]
 
 # [[swarm-of-dretches-xmm|Swarm of Dretches]]
 *Source: Monster Manual (2024) p. 104*  
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ Swarms of dretches sometimes escape the Abyss onto other planes of existence, or
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Dretches
 
@@ -113,7 +115,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
   - "desc": "The swarm makes two Rend attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Slashing damage,\
-      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[bloodied-xphb|Bloodied]]."
+      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[bloodied xphb|Bloodied]]."
     "name": "Rend"
 "source":
   - "XMM"
@@ -141,21 +143,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

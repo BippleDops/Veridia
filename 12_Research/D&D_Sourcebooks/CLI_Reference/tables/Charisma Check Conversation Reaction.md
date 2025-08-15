@@ -1,3 +1,12 @@
+---
+title: Charisma Check Conversation Reaction
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charisma Check Conversation Reaction
 
 ---
@@ -48,7 +57,6 @@ world: Both
 | 20 | The creature does as asked as long as no risks or sacrifices are involved. |
 ^dc-hostile-creatures-reaction
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a conspiracy
@@ -92,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Animated Halberd Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animated Halberd Cos
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-halberd-cos-animated-halberd-cos.svg)
 
-# [[animated-halberd-cos|Animated Halberd]]
+# [[animated halberd cos|Animated Halberd]]
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -62,8 +71,8 @@ world: Both
 "cr": "1/4"
 "traits":
   - "desc": "The sword is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
+      \ while in the area of an [[antimagic field xphb|antimagic field]].\
+      \ If targeted by [[dispel magic xphb|dispel magic]],\
       \ the sword must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
@@ -81,7 +90,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -93,11 +101,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -115,7 +118,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about a local noble
@@ -124,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

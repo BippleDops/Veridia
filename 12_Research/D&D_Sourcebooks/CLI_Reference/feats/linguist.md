@@ -1,3 +1,12 @@
+---
+title: linguist
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # linguist
 
 ---
@@ -30,7 +39,6 @@ You have studied languages and codes, gaining the following benefits:
 - You learn three languages of your choice.  
 - You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ You have studied languages and codes, gaining the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for power
@@ -76,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

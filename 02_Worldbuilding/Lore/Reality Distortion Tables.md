@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,8 +38,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -51,12 +46,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
@@ -78,8 +70,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -97,7 +87,6 @@ Reality Distortion Tables represents a crucial aspect of the world's history, co
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -109,7 +98,6 @@ Reality Distortion Tables represents a crucial aspect of the world's history, co
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

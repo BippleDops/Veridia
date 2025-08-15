@@ -1,3 +1,12 @@
+---
+title: Gnome Tables Gnome Bonds Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Tables Gnome Bonds Mtf
 
 ---
@@ -39,7 +48,6 @@ world: Both
 | 6 | You are willing to take risks to learn about the world. |
 ^gnome-bonds
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

@@ -1,3 +1,12 @@
+---
+title: Quest - The Divine Test
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Divine Test
 
 ---
@@ -16,8 +25,6 @@ updated: '2025-08-13T01:18:36.888373+00:00'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ updated: '2025-08-13T01:18:36.888373+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,14 +54,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

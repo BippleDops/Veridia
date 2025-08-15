@@ -1,3 +1,12 @@
+---
+title: Holy Aura Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Holy Aura Xphb
 
 ---
@@ -35,12 +44,11 @@ world: Both
 - **Components:** V, S, M (a reliquary worth 1,000+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, you emit an aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, creatures of your choice have [[advantage-xphb|Advantage]] on all saving throws, and other creatures have [[disadvantage-xphb|Disadvantage]] on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the end of its next turn.
+For the duration, you emit an aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, creatures of your choice have [[advantage xphb|Advantage]] on all saving throws, and other creatures have [[disadvantage xphb|Disadvantage]] on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the end of its next turn.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 286. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ For the duration, you emit an aura in a 30-foot [[emanation-area-of-effect-xphb|
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help investigating before the festival
@@ -87,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

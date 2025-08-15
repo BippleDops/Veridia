@@ -1,3 +1,12 @@
+---
+title: Haste Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Haste Xphb
 
 ---
@@ -43,14 +52,13 @@ world: Both
 - **Components:** V, S, M (a shaving of licorice root)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's [[speed-xphb|Speed]] is doubled, it gains a +2 bonus to [[armor-class-xphb|Armor Class]], it has [[advantage-xphb|Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [[actions#Attack|Attack]] (one attack only), [[actions#Dash|Dash]], [[actions#Disengage|Disengage]], [[actions#Hide|Hide]], or [[actions#Utilize|Utilize]] action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's [[speed xphb|Speed]] is doubled, it gains a +2 bonus to [[armor-class-xphb|Armor Class]], it has [[advantage xphb|Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [[actions#Attack|Attack]] (one attack only), [[actions#Dash|Dash]], [[actions#Disengage|Disengage]], [[actions#Hide|Hide]], or [[actions#Utilize|Utilize]] action.
 
-When the spell ends, the target is [[conditions#Incapacitated|Incapacitated]] and has a [[speed-xphb|Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
+When the spell ends, the target is [[conditions#Incapacitated|Incapacitated]] and has a [[speed xphb|Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge "subclass=XGE;class=XPHB"|Ranger (Horizon Walker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Vengeance)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge "subclass=XGE;class=XPHB"|Ranger (Horizon Walker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Vengeance)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ When the spell ends, the target is [[conditions#Incapacitated|Incapacitated]] an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

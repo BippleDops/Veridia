@@ -1,3 +1,12 @@
+---
+title: Black Dragon Mask Hotdq
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Black Dragon Mask Hotdq
 
 ---
@@ -33,7 +42,6 @@ world: Both
 
 This horned mask of glossy ebony has horns and a skull-like mien. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ This horned mask of glossy ebony has horns and a skull-like mien. The mask resha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Damage Absorption
 
@@ -97,11 +100,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Related Notes
 
@@ -110,16 +111,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

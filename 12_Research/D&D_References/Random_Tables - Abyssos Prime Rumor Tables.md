@@ -1,3 +1,12 @@
+---
+title: Random_Tables - Abyssos Prime Rumor Tables
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random_Tables - Abyssos Prime Rumor Tables
 
 ---
@@ -22,7 +31,6 @@ world: Both
 updated: '2025-08-13T01:18:37.211947+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## What's Whispered in the Depths
 
@@ -238,11 +241,9 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

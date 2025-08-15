@@ -1,3 +1,12 @@
+---
+title: Reference_Cards - Aquabyssos Quick Reference Cards
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reference_Cards - Aquabyssos Quick Reference Cards
 
 ---
@@ -159,7 +168,6 @@ Roll d6:
 | Comfortable | 30 SP | Good food, private room |
 | Wealthy | 60 SP | Fine dining, suite |
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -171,11 +179,6 @@ Roll d6:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 🎯 SUCCESS AT A COST TABLE
 
@@ -242,21 +245,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -39,12 +39,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Pressure Crystals
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Pressure_Crystals.png|Pressure Crystals Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,11 +68,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
@@ -87,12 +80,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
@@ -102,7 +92,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
@@ -111,7 +100,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -166,8 +154,6 @@ Ongoing situations affecting Pressure Crystals:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -179,7 +165,6 @@ Ongoing situations affecting Pressure Crystals:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

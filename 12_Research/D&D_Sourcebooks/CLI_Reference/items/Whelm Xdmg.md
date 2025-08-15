@@ -1,3 +1,12 @@
+---
+title: Whelm Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Whelm Xdmg
 
 ---
@@ -25,22 +34,20 @@ world: Both
 ---
 
 > [!figure] Item
-![[04_Resources/Assets/Items/item-artifact-whelm-xdmg-v1-whelm-xdmg.png]]
 
 # Whelm
-*Weapon ([[warhammer-xphb|warhammer]]), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
+*Weapon ([[warhammer xphb|warhammer]]), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
 - **Range**: 60/180
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 Whelm is a powerful weapon forged by dwarves and lost in the dungeon of White Plume Mountain.
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,15 +60,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hurl
 
-Whelm has [[item-properties#Thrown|Thrown]] with a normal range of 60 feet and a long range of 180 feet. When you hit with a ranged attack roll using Whelm, the target takes an extra `d8` Force damage, or an extra `4d8` Force damage if the target is a Construct, an Elemental, or a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
+Whelm has [[item properties#Thrown|Thrown]] with a normal range of 60 feet and a long range of 180 feet. When you hit with a ranged attack roll using Whelm, the target takes an extra `d8` Force damage, or an extra `4d8` Force damage if the target is a Construct, an Elemental, or a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
 
 ## Shock Wave
 
@@ -103,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -111,11 +112,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

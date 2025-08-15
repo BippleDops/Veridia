@@ -1,3 +1,12 @@
+---
+title: Mummy Lord
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mummy Lord
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-mummy-lord.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Monster Manual_
@@ -58,8 +61,8 @@ On initiative count 20 (losing initiative ties), the mummy lord takes a lair act
 A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:
 
 - Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.  
-- [[divination-xphb|Divination]] spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [[divination-xphb|divination]] spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
-- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [[remove-curse-xphb|remove curse]] spell or other magic.  
+- [[divination xphb|Divination]] spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [[divination xphb|divination]] spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
+- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [[remove curse xphb|remove curse]] spell or other magic.  
 
 If the mummy lord is destroyed, these regional effects end immediately.
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

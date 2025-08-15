@@ -1,3 +1,12 @@
+---
+title: Gold Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gold Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,19 +46,14 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient gold dragon's lair is altered by its presence, creating the following effects:
 
-- **Dream Messenger.** While in its lair, the dragon can cast [[dream-xphb|Dream]], requiring no Material components and using Charisma as the spellcasting ability. When casting the spell this way, the dragon can target any creature within 6 miles.  
-- **Foretelling Fog.** The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly Obscured]] by opalescent fog. While in that area, creatures can't be [[conditions#Surprised|surprised]], as the fog swirls into shapes that warn of danger.  
+- **Dream Messenger.** While in its lair, the dragon can cast [[dream xphb|Dream]], requiring no Material components and using Charisma as the spellcasting ability. When casting the spell this way, the dragon can target any creature within 6 miles.  
+- **Foretelling Fog.** The area within 1 mile of the lair is [[lightly obscured xphb|Lightly Obscured]] by opalescent fog. While in that area, creatures can't be [[conditions#Surprised|surprised]], as the fog swirls into shapes that warn of danger.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 
@@ -70,14 +73,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

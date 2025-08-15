@@ -1,3 +1,12 @@
+---
+title: Reference Quick Reference Dnd5e DM Screen 2014
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rules_Reference - Quick_Reference - DnD5e-DM Screen-2014
 
 ---
@@ -24,7 +33,6 @@ updated: '2025-08-13T12:34:17.778592+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -58,11 +61,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Related Notes
 
@@ -70,7 +71,6 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

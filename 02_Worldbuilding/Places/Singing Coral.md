@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-singing-coral-singing-coral.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,15 +51,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -77,7 +67,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
@@ -90,7 +79,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -140,8 +128,6 @@ Ongoing situations affecting Singing Coral:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

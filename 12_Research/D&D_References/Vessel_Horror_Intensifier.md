@@ -1,3 +1,12 @@
+---
+title: Vessel_Horror_Intensifier
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vessel_Horror_Intensifier
 
 ---
@@ -23,7 +32,6 @@ world: Both
 
 Turn ships into characters and haunted spaces. Hooks deeply into [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ Turn ships into characters and haunted spaces. Hooks deeply into [[Aquabyssos|02
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mechanics
 - Horror Scenes grant XP to ship and crew; but drain Sanity Pool (see [[Vehicle_Core_Rules#6) Ship Sanity & Madness (Living/Conscious Vessels)|Ship Sanity]])
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

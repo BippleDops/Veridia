@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,7 +50,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -70,24 +66,18 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -186,16 +176,13 @@ Key locations marked:
 ---
 *Tags*: #location #city #worldbuilding #place
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 
@@ -215,7 +202,6 @@ Key stop on magic items trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

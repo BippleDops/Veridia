@@ -1,3 +1,12 @@
+---
+title: Shadowfell Despair Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadowfell Despair Xdmg
 
 ---
@@ -31,11 +40,10 @@ world: Both
 
 | dice: 1d6 | Effect |
 |-----------|--------|
-| 1–3 | Apathy. The character has [[disadvantage-xphb|Disadvantage]] on [[death-saving-throw-xphb|Death Saving Throws]] and [[initiative-xphb|Initiative]] rolls. |
-| 4–5 | Dread. The character has [[disadvantage-xphb|Disadvantage]] on all saving throws. |
-| 6 | Delusion. The character has [[disadvantage-xphb|Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
+| 1–3 | Apathy. The character has [[disadvantage xphb|Disadvantage]] on [[death saving throw xphb|Death Saving Throws]] and [[initiative xphb|Initiative]] rolls. |
+| 4–5 | Dread. The character has [[disadvantage xphb|Disadvantage]] on all saving throws. |
+| 6 | Delusion. The character has [[disadvantage xphb|Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
 ^shadowfell-despair
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a conspiracy
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

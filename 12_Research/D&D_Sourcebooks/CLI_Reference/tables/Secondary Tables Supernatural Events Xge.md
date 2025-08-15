@@ -1,3 +1,12 @@
+---
+title: Secondary Tables Supernatural Events Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Secondary Tables Supernatural Events Xge
 
 ---
@@ -48,7 +57,6 @@ world: Both
 | 96-100 | You saw a portal that you believe leads to another plane of existence. |
 ^supernatural-events
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the government
@@ -97,11 +99,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Level Advancement Character Advancement Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Level Advancement Character Advancement Xphb
 
 ---
@@ -51,7 +60,6 @@ world: Both
 | 20 | 355,000 | +6 |
 ^character-advancement
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -63,11 +71,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

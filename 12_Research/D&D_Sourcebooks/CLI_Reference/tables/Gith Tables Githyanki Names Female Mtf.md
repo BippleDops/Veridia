@@ -1,3 +1,12 @@
+---
+title: Gith Tables Githyanki Names Female Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gith Tables Githyanki Names Female Mtf
 
 ---
@@ -43,7 +52,6 @@ world: Both
 | 10 | Zar'ryth |
 ^githyanki-names-female
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

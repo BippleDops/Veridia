@@ -1,3 +1,12 @@
+---
+title: Creature Size on Squares and Hexes Creature Size and Space
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # creature-size-on-squares-and-hexes-creature-size-and-space
 
 ---
@@ -36,7 +45,6 @@ world: Both
 | Gargantuan | 16 squares (4 by 4) or more | 12 hexes or more |
 ^creature-size-and-space
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -88,7 +89,6 @@ Mentioned in The Second Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

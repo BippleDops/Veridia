@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg]]
 
 # Captain Lyanna Brightshield
 *The Incorruptible, Rising Star of the Crystal Wardens*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +56,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
@@ -74,25 +68,18 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] history, earning her position through exceptional skill and unwavering integrity. Protégé of [[Lord Commander Gareth Steelborn]], she leads special investigations into corruption and crime. She's beginning to notice inconsistencies in the royal court but hasn't yet connected them to [[Queen Seraphina Lumengarde]]'s condition.
@@ -192,11 +179,9 @@ Captain Lyanna Brightshield is a undersea element of the setting, known for biol
 
 Legends speak of Captain Lyanna Brightshield as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Lyanna Brightshield.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Historical Timeline
 
@@ -214,7 +199,6 @@ Legends speak of Captain Lyanna Brightshield as a nexus where past and present c
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

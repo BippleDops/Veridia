@@ -1,3 +1,12 @@
+---
+title: Phoenix Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Phoenix Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phoenix-mpmm-phoenix-mpmm.svg)
 
-# [[phoenix-mpmm|Phoenix]]
+# [[phoenix mpmm|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  
@@ -122,7 +131,6 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -134,11 +142,6 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -160,11 +163,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

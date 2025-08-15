@@ -1,3 +1,12 @@
+---
+title: Aquabyssos_Survival_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos_Survival_Guide
 
 ---
@@ -60,7 +69,6 @@ world: Aquabyssos
 
 *This guide is provided by the Aquabyssos Tourism Board in cooperation with the Merchants Guild, Depth Guard, and Temple of the Deep. Current as of the Tidal Year 847.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -72,11 +80,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -89,7 +92,6 @@ world: Aquabyssos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -105,11 +107,9 @@ world: Aquabyssos
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

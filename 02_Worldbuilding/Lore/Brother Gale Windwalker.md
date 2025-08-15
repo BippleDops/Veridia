@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,25 +42,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -73,7 +62,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -91,10 +79,8 @@ Brother Gale Windwalker represents a crucial aspect of the world's history, cosm
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
-- A document has gone missing and truth emerges
 - A document has gone missing and truth emerges
 - A merchant needs help finding before the festival
 - A shipment has gone missing and chaos spreads

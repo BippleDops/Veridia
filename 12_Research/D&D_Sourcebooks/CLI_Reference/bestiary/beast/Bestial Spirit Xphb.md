@@ -1,3 +1,12 @@
+---
+title: Bestial Spirit Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bestial Spirit Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-xphb-bestial-spirit-xphb.svg)
 
-# [[bestial-spirit-xphb|Bestial Spirit]]
+# [[bestial spirit xphb|Bestial Spirit]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -74,7 +83,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -86,11 +94,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -108,11 +111,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Quick_Reference_Combat_Actions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quick_Reference_Combat_Actions
 
 ---
@@ -16,7 +25,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player Action Economy Chart
 

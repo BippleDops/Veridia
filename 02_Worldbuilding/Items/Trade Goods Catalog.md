@@ -25,8 +25,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Trade Goods
 ![](04_Resources/Assets/Items/items-trade-goods-catalog.svg)
 
@@ -34,7 +32,6 @@ improvements: 20
 *The Merchant's Bible: Everything Has a Price*
 
 > *"Show me a man's inventory and I'll tell you his dreams, his fears, and the exact price of his soul."* - [[Banker Titus Goldcurrent]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,13 +60,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -79,7 +72,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
@@ -87,8 +79,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -98,7 +88,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 This comprehensive catalog details the trade goods that flow through [[The Grand Trade Routes]] connecting [[Aethermoor]] and [[Aquabyssos]]. Each entry includes base pricing, mechanical effects, availability, and the complex factors that determine true market value in an ever-changing economic landscape.
@@ -598,12 +587,9 @@ The economic complexity allows for sophisticated plots involving market manipula
 
 Trade Goods Catalog is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

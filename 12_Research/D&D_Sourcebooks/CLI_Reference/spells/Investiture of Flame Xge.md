@@ -1,3 +1,12 @@
+---
+title: Investiture of Flame Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Investiture of Flame Xge
 
 ---
@@ -43,10 +52,9 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
 - Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes `d10` fire damage.  
 - You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `4d8` fire damage on a failed save, or half as much damage on a successful one.  
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 159*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -99,7 +100,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

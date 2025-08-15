@@ -1,3 +1,12 @@
+---
+title: Occupied Space Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Occupied Space Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 A space is occupied if a creature is in it or if it is completely filled by objects.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ A space is occupied if a creature is in it or if it is completely filled by obje
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,14 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

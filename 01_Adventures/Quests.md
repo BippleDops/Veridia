@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,8 +39,6 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Variants Improvements
 
@@ -52,14 +47,9 @@ improvements: 20
 ### Soundtrack Improvements
 
 - Suggest music/ambiance for each scene
-- Suggest music/ambiance for each scene
-- Suggest music/ambiance for each scene
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Art Improvements
@@ -78,7 +68,6 @@ improvements: 20
 
 - Include content warnings and safety tools
 
-
 ## Adventure Overview
 
 An exciting quest that challenges heroes to save the realm.
@@ -94,7 +83,6 @@ An exciting quest that challenges heroes to save the realm.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Moral Quandaries
 

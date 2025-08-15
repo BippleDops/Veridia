@@ -1,3 +1,12 @@
+---
+title: Wand of Conducting Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Conducting Xdmg
 
 ---
@@ -34,7 +43,6 @@ world: Both
 
 This wand has 3 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge and create orchestral music by waving it around. The music can be heard out to 120 feet and ends when you stop waving the wand.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This wand has 3 charges. While holding it, you can take a [[actions#Magic|Magic]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

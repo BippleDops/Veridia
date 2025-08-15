@@ -40,15 +40,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-wardens-the-crystal-wardens.svg]]
 
 # The Crystal Wardens
 
 *"Where crystal meets steel, where magic bonds with duty, where the light of Aethermoor finds its most devoted guardians."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,7 +73,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
@@ -89,8 +84,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -108,7 +101,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
@@ -117,8 +109,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Overview
 
@@ -136,12 +126,12 @@ The supreme leader of the Crystal Wardens, currently held by High Warden Solariu
 **Council of Prisms** - Seven senior leaders
 Each member specializes in a different aspect of crystal warfare and goverce:
 - **Prism Warden of Combat** - [[Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
-- **Prism Warden of Research** - [[Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
+- **Prism Warden of Research** - [[Artificer General Magnus Gemheart]] - Crystal technology development and innovation
 - **Prism Warden of Intelligence** - [[Spymaster Quartz Clearview]] - Information gathering and strategic analysis
 - **Prism Warden of Training** - [[Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
-- **Prism Warden of Diplomacy** - [[Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
+- **Prism Warden of Diplomacy** - [[Ambassador Warden Luna Peacegem]] - External relations and treaty negotiations
 - **Prism Warden of Supply** - [[Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
-- **Prism Warden of Justice** - [[Judge-Militant Adamant Truestone]] - Military law and internal discipline
+- **Prism Warden of Justice** - [[Judge Militant Adamant Truestone]] - Military law and internal discipline
 
 ### Operational Divisions
 
@@ -660,8 +650,6 @@ Ongoing situations affecting The Crystal Wardens:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

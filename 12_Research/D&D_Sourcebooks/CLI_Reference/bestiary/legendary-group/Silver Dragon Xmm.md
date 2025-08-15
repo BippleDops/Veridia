@@ -1,3 +1,12 @@
+---
+title: Silver Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Silver Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-silver-dragon-xmm-adult-silver-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -50,7 +53,7 @@ _Source: Monster Manual (2024)_
 The region containing an adult or ancient silver dragon's lair is changed by its magic, creating the following effects:
 
 - **Gentle Gusts.** Winds buoy creatures that fall within 1 mile of the lair. Such creatures descend at a rate of 60 feet per round and take no damage from falling.  
-- **Sun and Storms.** While in its lair, the dragon can cast [[control-weather-xphb|Control Weather]], requiring no Material components and using the same spellcasting ability as its Spellcasting action.  
+- **Sun and Storms.** While in its lair, the dragon can cast [[control weather xphb|Control Weather]], requiring no Material components and using the same spellcasting ability as its Spellcasting action.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -85,11 +86,9 @@ Mentioned in The Hidden Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

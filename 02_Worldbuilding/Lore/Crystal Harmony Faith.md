@@ -13,9 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,20 +40,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
@@ -79,7 +69,6 @@ improvements: 20
 
 - Describe how this culture exists in other regions
 
-
 ## Overview
 
 Crystal Harmony Faith represents a crucial aspect of the world's history, cosmology, or fundamental nature.
@@ -95,7 +84,6 @@ Crystal Harmony Faith represents a crucial aspect of the world's history, cosmol
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

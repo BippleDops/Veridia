@@ -1,3 +1,12 @@
+---
+title: Divine Favor Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Divine Favor Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 Until the spell ends, your attacks with weapons deal an extra `d4` Radiant damage on a hit.
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[list spells classes paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Until the spell ends, your attacks with weapons deal an extra `d4` Radiant damag
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -92,11 +93,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

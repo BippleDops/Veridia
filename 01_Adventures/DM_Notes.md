@@ -1,3 +1,12 @@
+---
+title: DM_Notes
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # DM_Notes
 
 ---
@@ -13,7 +22,6 @@ modified: '2025-08-14'
 # DM Notes
 
 *Secret information*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,22 +50,17 @@ modified: '2025-08-14'
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-- Provide scaling for different level ranges
 
 ### Session_Zero Improvements
 
-- Add session zero integration questions
-- Add session zero integration questions
 - Add session zero integration questions
 
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Art Improvements
 
-- Add AI art prompts for key scenes
 - Add AI art prompts for key scenes
 
 ### Accessibility Improvements
@@ -67,8 +70,6 @@ modified: '2025-08-14'
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Spotlight Improvements
 
@@ -77,7 +78,6 @@ modified: '2025-08-14'
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-
 
 ## Related
 
@@ -90,7 +90,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -107,13 +106,11 @@ modified: '2025-08-14'
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
 
-
 ## Critical Decisions
 
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
-
 
 ## Moral Quandaries
 

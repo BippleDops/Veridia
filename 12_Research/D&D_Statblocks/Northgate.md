@@ -1,3 +1,12 @@
+---
+title: Northgate
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Northgate
 
 ---
@@ -41,10 +50,9 @@ updated: '2025-08-13T01:18:34.465666+00:00'
 **Duration:** 4-6 sessions  
 **Threat:** Critical trade route under threat from multiple hostile forces
 
-**Connected Locations:** [[Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]], [[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]], [[Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
+**Connected Locations:** [[Pearl Harbor City|02 Worldbuilding/Places/Pearl Harbor City]], [[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]], [[Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
 **Related Groups:** [[Merchant's Covet|02 Worldbuilding/Groups/Merchant's Covet]], [[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]], [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
 **Key Themes:** Frontier life, trade diplomacy, border security, resource competition, wilderness survival
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ updated: '2025-08-13T01:18:34.465666+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 
@@ -315,7 +318,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -323,11 +325,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

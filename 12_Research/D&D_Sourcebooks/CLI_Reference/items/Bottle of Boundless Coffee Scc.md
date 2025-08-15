@@ -1,3 +1,12 @@
+---
+title: Bottle of Boundless Coffee Scc
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bottle of Boundless Coffee Scc
 
 ---
@@ -36,7 +45,6 @@ Each time you drink the coffee, roll a `d20`. On a 1, the bottle refuses to disp
 
 *Source: Strixhaven: A Curriculum of Chaos p. 38*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ Each time you drink the coffee, roll a `d20`. On a 1, the bottle refuses to disp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Related Notes
 
@@ -83,16 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

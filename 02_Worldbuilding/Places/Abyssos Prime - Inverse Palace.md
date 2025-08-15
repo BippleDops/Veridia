@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg]]
 
 # Abyssos Prime - Inverse Palace
 
 *Where reality bends inward and the depths dream of ascension*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,36 +63,26 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -117,7 +103,7 @@ The palace's most striking features are its **seventeen towering spires** that p
 
 ### The Gravity Wells
 
-Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[Void-Touched]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
+Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[Void Touched]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
 
 - **The Ascending Throne Room**: Where petitioners must "fall upward" to approach [[The Deep Sovereign]]
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
@@ -202,7 +188,7 @@ This repository contains knowledge gathered from across the [[Multiverse]], stor
 - Maps of the [[Pressure Territories]]
 - Histories of the [[Sunken Civilizations]]
 - Prophecies regarding the [[Rising Dark]]
-- Formulas for creating [[Pressure-Wrought]] items
+- Formulas for creating [[Pressure Wrought]] items
 - Intelligence on surface world activities gathered by [[Deep Spies]]
 
 ### The Living Corridors
@@ -234,7 +220,7 @@ Opposing the Ascension Plot are the **Deep Purists**, traditionalists who believ
 
 ### The Temporal Rebellion
 
-A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
+A secretive faction has discovered that the palace's [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
 
 - Find timelines where the [[Great Sundering]] never occurred
 - Retrieve lost knowledge from destroyed realities
@@ -397,12 +383,9 @@ Ongoing situations affecting Abyssos Prime - Inverse Palace:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 

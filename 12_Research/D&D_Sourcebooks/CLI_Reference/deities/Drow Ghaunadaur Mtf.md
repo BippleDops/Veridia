@@ -1,3 +1,12 @@
+---
+title: Drow Ghaunadaur Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Ghaunadaur Mtf
 
 ---
@@ -40,7 +49,6 @@ Worship of That Which Lurks is widespread in the Underdark. Not just drow pay re
 
 Those who are faithful to Lolth often oppose Ghaunadaur's cultists, driving them into hiding or forcing them into open conflict. Some priestesses and scholars believe that this enmity exists because Ghaunadaur betrayed Lolth shortly after she betrayed Corellon. In these legends, Ghaunadaur tried to curry favor with Corellon and recapture his earlier formless nature by turning on Lolth. Ghaunadaur's double act of betrayal brought retribution from both gods, and he was cast down into the world as a skinless, boneless mass. Other stories portray Ghaunadaur as an incredibly ancient and ineffable deity, one of the so-called Great Old Ones. Both claims might have merit, because the truth about the time of the birth of gods can never be known for certain.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ Those who are faithful to Lolth often oppose Ghaunadaur's cultists, driving them
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -93,16 +94,13 @@ Mentioned in The Hidden Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

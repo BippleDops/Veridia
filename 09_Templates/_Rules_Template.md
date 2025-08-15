@@ -11,8 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Name
 *Rule name*
 
@@ -27,7 +25,6 @@ improvements: 20
 
 ---
 *Add homebrew rules here*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,18 +49,13 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Simplified Improvements
 
-- Create simplified version for new players
-- Create simplified version for new players
 - Create simplified version for new players
 
 ### Heroic Improvements
@@ -73,11 +65,9 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Interaction Improvements
 
-- Clarify interaction with multiclassing
 - Clarify interaction with multiclassing
 
 ### Automated Improvements
@@ -91,7 +81,6 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-
 
 ## Rule Summary
 
@@ -129,7 +118,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

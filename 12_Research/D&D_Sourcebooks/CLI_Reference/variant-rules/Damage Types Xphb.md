@@ -1,3 +1,12 @@
+---
+title: Damage Types Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Damage Types Xphb
 
 ---
@@ -46,7 +55,6 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 | Thunder | Concussive sound |
 ^damage-types
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -98,16 +99,13 @@ Mentioned in The Second Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

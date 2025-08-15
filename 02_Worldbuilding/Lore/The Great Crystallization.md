@@ -26,12 +26,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Great Crystallization
 
 *The Day the Sky Wept Crystal Tears*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,29 +57,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## The Event
 
@@ -217,17 +205,13 @@ The Great Crystallization represents an important aspect of the world's history,
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Economic Structure
 
@@ -246,7 +230,6 @@ Mentioned in The Second Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

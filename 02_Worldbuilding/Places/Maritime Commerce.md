@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-maritime-commerce-maritime-commerce.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,23 +60,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
@@ -94,7 +84,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -142,12 +131,9 @@ Ongoing situations affecting Maritime Commerce:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

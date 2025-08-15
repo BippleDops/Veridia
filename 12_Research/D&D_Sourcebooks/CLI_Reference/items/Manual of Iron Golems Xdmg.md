@@ -1,3 +1,12 @@
+---
+title: Manual of Iron Golems Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Manual of Iron Golems Xdmg
 
 ---
@@ -30,14 +39,13 @@ world: Both
 
 - **Weight**: 5.0 lbs.
 
-This tome contains information and incantations necessary to make a [[iron-golem-xmm|iron golem]]. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes `6d6` psychic damage.
+This tome contains information and incantations necessary to make a [[iron golem xmm|iron golem]]. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes `6d6` psychic damage.
 
 To create an iron golem, you must spend 120 days, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay 100,000 gp to purchase supplies.
 
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
 *Source: Dungeon Master's Guide (2024) p. 277. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Once you finish creating the golem, the book is consumed in eldritch flames. The
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -89,7 +90,6 @@ Mentioned in The Second Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

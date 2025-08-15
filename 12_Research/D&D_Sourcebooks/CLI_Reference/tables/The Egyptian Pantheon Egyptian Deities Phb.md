@@ -1,3 +1,12 @@
+---
+title: The Egyptian Pantheon Egyptian Deities Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Egyptian Pantheon Egyptian Deities Phb
 
 ---
@@ -29,22 +38,21 @@ world: Both
 
 | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
-| [[egyptian-re-horakhty|Re-Horakhty]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
-| [[egyptian-anubis|Anubis]], god of judgment and death | LN | Death | Black jackal |
-| [[egyptian-apep|Apep]], god of evil, fire, and serpents | NE | Trickery | Flaming snake |
-| [[egyptian-bast|Bast]], goddess of cats and vengeance | CG | War | Cat |
-| [[egyptian-bes|Bes]], god of luck and music | CN | Trickery | Image of the misshapen deity |
-| [[egyptian-hathor|Hathor]], goddess of love, music, and motherhood | NG | Life, Light | Horned cow's head with lunar disk |
-| [[egyptian-imhotep|Imhotep]], god of crafts and medicine | NG | Knowledge | Step pyramid |
-| [[egyptian-isis|Isis]], goddess of fertility and magic | NG | Knowledge, Life | Ankh and star |
-| [[egyptian-nephthys|Nephthys]], goddess of death and grief | CG | Death | Horns around a lunar disk |
-| [[egyptian-osiris|Osiris]], god of nature and the underworld | LG | Life, Nature | Crook and flail |
-| [[egyptian-ptah|Ptah]], god of crafts, knowledge, and secrets | LN | Knowledge | Bull |
-| [[egyptian-set|Set]], god of darkness and desert storms | CE | Death, Tempest, Trickery | Coiled cobra |
-| [[egyptian-sobek|Sobek]], god of water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |
-| [[egyptian-thoth|Thoth]], god of knowledge and wisdom | N | Knowledge | Ibis |
+| [[egyptian re horakhty|Re-Horakhty]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
+| [[egyptian anubis|Anubis]], god of judgment and death | LN | Death | Black jackal |
+| [[egyptian apep|Apep]], god of evil, fire, and serpents | NE | Trickery | Flaming snake |
+| [[egyptian bast|Bast]], goddess of cats and vengeance | CG | War | Cat |
+| [[egyptian bes|Bes]], god of luck and music | CN | Trickery | Image of the misshapen deity |
+| [[egyptian hathor|Hathor]], goddess of love, music, and motherhood | NG | Life, Light | Horned cow's head with lunar disk |
+| [[egyptian imhotep|Imhotep]], god of crafts and medicine | NG | Knowledge | Step pyramid |
+| [[egyptian isis|Isis]], goddess of fertility and magic | NG | Knowledge, Life | Ankh and star |
+| [[egyptian nephthys|Nephthys]], goddess of death and grief | CG | Death | Horns around a lunar disk |
+| [[egyptian osiris|Osiris]], god of nature and the underworld | LG | Life, Nature | Crook and flail |
+| [[egyptian ptah|Ptah]], god of crafts, knowledge, and secrets | LN | Knowledge | Bull |
+| [[egyptian set|Set]], god of darkness and desert storms | CE | Death, Tempest, Trickery | Coiled cobra |
+| [[egyptian sobek|Sobek]], god of water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |
+| [[egyptian thoth|Thoth]], god of knowledge and wisdom | N | Knowledge | Ibis |
 ^egyptian-deities
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -97,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

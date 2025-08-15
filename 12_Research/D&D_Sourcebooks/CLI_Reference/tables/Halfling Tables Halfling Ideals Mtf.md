@@ -1,3 +1,12 @@
+---
+title: Halfling Tables Halfling Ideals Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Tables Halfling Ideals Mtf
 
 ---
@@ -39,7 +48,6 @@ world: Both
 | 6 | Excitement. Can you steal the sleeping giant's pouch? Of course you can! |
 ^halfling-ideals
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

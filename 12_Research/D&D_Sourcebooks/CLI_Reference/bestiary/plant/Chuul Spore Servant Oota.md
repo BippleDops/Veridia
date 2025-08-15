@@ -1,3 +1,12 @@
+---
+title: Chuul Spore Servant Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chuul Spore Servant Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
 
-# [[chuul-spore-servant-oota|Chuul Spore Servant]]
+# [[chuul spore servant oota|Chuul Spore Servant]]
 *Source: Out of the Abyss p. 228*  
 
 ```statblock
@@ -72,7 +81,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -84,11 +92,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -106,7 +109,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help delivering before the new moon
@@ -116,7 +118,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

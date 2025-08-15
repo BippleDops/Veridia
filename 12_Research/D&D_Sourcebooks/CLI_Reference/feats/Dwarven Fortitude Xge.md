@@ -1,3 +1,12 @@
+---
+title: Dwarven Fortitude Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Fortitude Xge
 
 ---
@@ -26,13 +35,12 @@ world: Both
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[dwarf-xphb|Dwarf]]
+**Prerequisite**: [[dwarf xphb|Dwarf]]
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
 - Increase your Constitution score by 1, to a maximum of 20.  
 - Whenever you take the [[actions#Dodge|Dodge]] action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

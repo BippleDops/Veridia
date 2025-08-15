@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg]]
 
 # Throne Room
 
 *The Crystal Heart of a Corrupted Kingdom*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,11 +73,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
@@ -95,19 +89,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -187,7 +176,7 @@ Sitting on the transformed throne grants supernatural authority over subjects:
 The throne connects to crystal formations throughout [[Aethermoor]]:
 - Real-time surveillance through crystal networks in major buildings
 - Communication with crystal consciousness in mines and sacred sites
-- Coordination of [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] through shared crystal awareness
+- Coordination of [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] through shared crystal awareness
 - Influence over crystal-enhanced citizens and possessed individuals
 - Control of crystal-based magical infrastructure throughout the kingdom
 
@@ -197,7 +186,7 @@ The throne connects to crystal formations throughout [[Aethermoor]]:
 Traditional royal audiences have been modified by the throne room's new properties:
 
 **Approach Protocol:**
-- Visitors must be escorted by [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members
+- Visitors must be escorted by [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members
 - Crystal formations scan approaching individuals for hostile intentions
 - Memory crystals record all interactions for later review
 - Reality fluctuations may disorient or overwhelm unprepared visitors
@@ -306,7 +295,7 @@ The throne room sometimes displays visions of potential futures:
 Only certain individuals can safely access the archived memories:
 - **[[The Queen]]**: Complete access to all stored information
 - **[[Possessed Noble Coterie]]**: Limited access to memories relevant to their responsibilities
-- **[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]**: Access to tactical and security-related memories
+- **[[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]**: Access to tactical and security-related memories
 - **Authorized Researchers**: Scholars studying convergence phenomena under supervision
 - **The Throne Room Itself**: The chamber's consciousness can selectively reveal information
 
@@ -408,8 +397,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Narrative_Branching_Decision_Trees
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Narrative_Branching_Decision_Trees
 
 ---
@@ -446,7 +455,6 @@ Queen's Corruption Response
 **Consequence Chains**: 156 tracked outcome sequences
 **Integration Depth**: Cross-campaign decision impact analysis complete
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -458,11 +466,6 @@ Queen's Corruption Response
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -476,11 +479,9 @@ Queen's Corruption Response
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

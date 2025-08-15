@@ -1,3 +1,12 @@
+---
+title: The Crown's Burden
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Crown's Burden
 
 ---
@@ -37,7 +46,6 @@ obsidianUIMode: preview
 
 *Every Ruler Bears the Weight of Every Ruler Before*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -69,8 +77,6 @@ obsidianUIMode: preview
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
@@ -79,25 +85,18 @@ obsidianUIMode: preview
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Quest Overview
 
@@ -252,7 +251,7 @@ While party explores Queen's mind, crisis erupts outside:
 - Common people riot from confusion
 
 **Shadow Opportunity**:
-The [[Shadow-Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
+The [[Shadow Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
 
 **Time Pressure**:
 Each day spent in the mindscape, the Queen deteriorates:
@@ -536,8 +535,6 @@ Legends speak of The Crown's Burden as a nexus where past and present converge. 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

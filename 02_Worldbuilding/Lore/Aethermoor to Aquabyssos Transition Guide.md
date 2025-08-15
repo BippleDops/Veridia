@@ -27,12 +27,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Aethermoor to Aquabyssos Transition Guide
 
 *"From sky to sea, from breath to current - the journey changes everything."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,18 +58,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -86,17 +78,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -194,17 +183,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Historical Timeline
 
@@ -222,7 +207,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

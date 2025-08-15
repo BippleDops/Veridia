@@ -1,3 +1,12 @@
+---
+title: Hybrid Class System
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hybrid Class System
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void-touched archetypes, memory-thief specialists, reality-shaper subclasses.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Example Archetypes
 - Reality Shaper (Subclass): Anchor aura, paradox step

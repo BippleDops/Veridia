@@ -1,3 +1,12 @@
+---
+title: Ogre Bolt Launcher Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ogre Bolt Launcher Mpmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-bolt-launcher-mpmm-ogre-bolt-launcher-mpmm.svg)
 
-# [[ogre-bolt-launcher-mpmm|Ogre Bolt Launcher]]
+# [[ogre bolt launcher mpmm|Ogre Bolt Launcher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ogres of War
 
@@ -66,7 +69,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[hide-armor-xphb|hide armor]]"
+"ac_class": "[[hide armor xphb|hide armor]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "1"
@@ -114,11 +117,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

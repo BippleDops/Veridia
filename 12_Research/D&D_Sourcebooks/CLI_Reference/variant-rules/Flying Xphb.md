@@ -1,3 +1,12 @@
+---
+title: Flying Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flying Xphb
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Flying
 *Source: Player's Handbook (2024) p. 367. Available in the SRD and the Free Rules (2024)* 
 
-A variety of effects allow a creature to fly. While flying, you fall if you have the [[conditions#Incapacitated|Incapacitated]] or [[conditions#prone|Prone]] condition or your [[fly-speed-xphb|Fly Speed]] is reduced to 0. You can stay aloft in those circumstances if you can hover.
+A variety of effects allow a creature to fly. While flying, you fall if you have the [[conditions#Incapacitated|Incapacitated]] or [[conditions#prone|Prone]] condition or your [[fly speed xphb|Fly Speed]] is reduced to 0. You can stay aloft in those circumstances if you can hover.
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 

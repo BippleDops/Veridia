@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-steelhart-captain-steelhart.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,13 +53,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -77,7 +69,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
@@ -90,9 +81,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -206,8 +194,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -224,7 +210,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 
@@ -243,7 +228,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

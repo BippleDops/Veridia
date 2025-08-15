@@ -1,3 +1,12 @@
+---
+title: Cube of Summoning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cube of Summoning Xdmg
 
 ---
@@ -30,7 +39,7 @@ world: Both
 
 This Tiny cube looks like a jack-in-the-box. When you wind its crank as a [[actions#Magic|Magic]] action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can't otherwise be opened.
 
-Roll on the [[cube-of-summoning-xdmg|Cube of Summoning]] table to determine which spell the cube casts to summon the creature. The spell is cast at level 5 (save DC 17, +9 attack bonus) and doesn't require [[conditions#Concentration|Concentration]], but you otherwise function as the spell's caster.
+Roll on the [[cube of summoning xdmg|Cube of Summoning]] table to determine which spell the cube casts to summon the creature. The spell is cast at level 5 (save DC 17, +9 attack bonus) and doesn't require [[conditions#Concentration|Concentration]], but you otherwise function as the spell's caster.
 
 Once the cube summons a creature, the cube can't do so again until the next dawn.
 
@@ -40,16 +49,15 @@ Once the cube summons a creature, the cube can't do so again until the next dawn
 
 | dice: 1d6 | Spell |
 |-----------|-------|
-| 1 | [[summon-aberration-xphb|Summon Aberration]] |
-| 2 | [[summon-beast-xphb|Summon Beast]] |
-| 3 | [[summon-construct-xphb|Summon Construct]] |
-| 4 | [[summon-dragon-xphb|Summon Dragon]] |
-| 5 | [[summon-elemental-xphb|Summon Elemental]] |
-| 6 | [[summon-fey-xphb|Summon Fey]] |
+| 1 | [[summon aberration xphb|Summon Aberration]] |
+| 2 | [[summon beast xphb|Summon Beast]] |
+| 3 | [[summon construct xphb|Summon Construct]] |
+| 4 | [[summon dragon xphb|Summon Dragon]] |
+| 5 | [[summon elemental xphb|Summon Elemental]] |
+| 6 | [[summon fey xphb|Summon Fey]] |
 ^cube-of-summoning
 
 *Source: Dungeon Master's Guide (2024) p. 247*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,11 +70,6 @@ Once the cube summons a creature, the cube can't do so again until the next dawn
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

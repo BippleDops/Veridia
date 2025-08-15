@@ -11,11 +11,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-smuggler-s-cove-smuggler-s-cove.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,8 +41,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
@@ -53,7 +48,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -63,20 +57,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -93,7 +81,6 @@ Smuggler''s Cove represents a crucial aspect of the world's history, cosmology, 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Historical Timeline
 
@@ -112,7 +99,6 @@ Smuggler''s Cove represents a crucial aspect of the world's history, cosmology, 
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -124,7 +110,6 @@ Smuggler''s Cove represents a crucial aspect of the world's history, cosmology, 
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -144,7 +129,6 @@ Smuggler''s Cove represents a crucial aspect of the world's history, cosmology, 
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -156,7 +140,6 @@ Smuggler''s Cove represents a crucial aspect of the world's history, cosmology, 
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

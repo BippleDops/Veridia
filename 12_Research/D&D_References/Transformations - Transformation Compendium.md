@@ -1,3 +1,12 @@
+---
+title: Transformations - Transformation Compendium
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Transformations - Transformation Compendium
 
 ---
@@ -26,7 +35,6 @@ world: Both
 # Transformation Compendium
 *100+ Paths to Power and Peril*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -131,7 +134,7 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Great Crystallization]]
 - [[Deep Mother]]
-- [[03_Mechanics/Conditions|03 Mechanics/Conditions]]
+- [[03 Mechanics/Conditions|03 Mechanics/Conditions]]
 
 *"Every gift has its price. Every change leaves a scar. Every transformation tells a story."*
 
@@ -147,8 +150,6 @@ Legends speak of Transformation Compendium as a nexus where past and present con
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -159,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

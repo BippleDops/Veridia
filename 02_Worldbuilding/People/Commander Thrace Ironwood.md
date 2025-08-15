@@ -30,14 +30,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg]]
 
 # Commander Thrace Ironwood
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +62,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
@@ -96,12 +86,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Commander Thrace Ironwood leads the military wing of the [[Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
@@ -486,7 +474,6 @@ Commander Thrace Ironwood is a undersea element of the setting, known for biolum
 
 Legends speak of Commander Thrace Ironwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Thrace Ironwood.
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -498,7 +485,6 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

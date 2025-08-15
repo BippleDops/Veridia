@@ -1,3 +1,12 @@
+---
+title: Energy Bow Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Energy Bow Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 # Energy Bow
 *Very rare (requires attunement)*  
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [[bright light xphb|Bright Light]] in a 20-foot radius and [[dim light xphb|Dim Light]] for an additional 20 feet.
 
 This weapon has the following additional properties.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ This weapon has the following additional properties.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Arrow of Restraint
 
@@ -60,7 +63,7 @@ Whenever you use this weapon to make a ranged attack against a creature, you can
 
 ## Arrow of Transport
 
-As a [[actions#Magic|Magic]] action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[cube-area-of-effect-xphb|Cube]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
+As a [[actions#Magic|Magic]] action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[cube area of effect xphb|Cube]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
 
 ## Energy Ladder
 
@@ -74,7 +77,7 @@ As a [[actions#Magic|Magic]] action, you can loose a flurry of energy arrows fro
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

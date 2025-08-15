@@ -1,3 +1,12 @@
+---
+title: Ranger Xphb Monster Slayer Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ranger Xphb Monster Slayer Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Monster Slayer
-*[[ranger-xphb|Ranger]]: Ranger Subclass*  
+*[[ranger xphb|Ranger]]: Ranger Subclass*  
 *Source: Xanathar's Guide to Everything p. 43*  
 
 > [!tldr] Class and Feature Progression
@@ -68,11 +77,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[protection-from-evil-and-good-xphb|protection from evil and good]] |
-| 5th | [[zone-of-truth-xphb|zone of truth]] |
-| 9th | [[magic-circle-xphb|magic circle]] |
-| 13th | [[banishment-xphb|banishment]] |
-| 17th | [[hold-monster-xphb|hold monster]] |
+| 3rd | [[protection from evil and good xphb|protection from evil and good]] |
+| 5th | [[zone of truth xphb|zone of truth]] |
+| 9th | [[magic circle xphb|magic circle]] |
+| 13th | [[banishment xphb|banishment]] |
+| 17th | [[hold monster xphb|hold monster]] |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)
@@ -101,7 +110,6 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -113,11 +121,6 @@ At 15th level, you gain the ability to counterattack when your prey tries to sab
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -135,21 +138,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

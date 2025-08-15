@@ -1,3 +1,12 @@
+---
+title: Bronze Dragon
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bronze Dragon
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,23 +46,18 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
-- The dragon creates fog as though it had cast the [[fog-cloud-xphb|fog cloud]] spell. The fog lasts until initiative count 20 on the next round.  
+- The dragon creates fog as though it had cast the [[fog cloud xphb|fog cloud]] spell. The fog lasts until initiative count 20 on the next round.  
 - A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (`d10`) thunder damage and be [[conditions#Deafened|deafened]] until the end of its next turn.  
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[adult-bronze-dragon-xmm|adult]] or [[ancient-bronze-dragon-xmm|ancient]]) bronze dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[adult bronze dragon xmm|adult]] or [[ancient bronze dragon xmm|ancient]]) bronze dragon can use one or more of the following additional lair actions while in its lair:
 
 - **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 5 (`d10`) slashing damage; then the swarm vanishes.  
 - **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) slashing damage.  
@@ -64,7 +67,7 @@ At your discretion, a legendary ([[adult-bronze-dragon-xmm|adult]] or [[ancient-
 
 The region containing a legendary bronze dragon's lair is warped by the dragon's magic.
 
-- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the [[control-weather-xphb|control weather]] spell.  
+- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the [[control weather xphb|control weather]] spell.  
 - Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.  
 - Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.  
 
@@ -94,15 +97,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
 - Someone is hunting a witness for love
-- An heirloom has gone missing and truth emerges
 - An heirloom has gone missing and truth emerges

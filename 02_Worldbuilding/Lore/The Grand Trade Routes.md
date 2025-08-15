@@ -28,8 +28,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Map
 ![](04_Resources/Assets/Maps/map-trade-routes-the-grand-trade-routes.svg)
 
@@ -38,7 +36,6 @@ improvements: 20
 *The Golden Arteries of Two Realms*
 
 > *"Gold flows like water through these channels, and where it pools, power grows. Control the routes, control the realms."* - [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,19 +64,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -106,14 +97,13 @@ improvements: 20
 
 - Describe how this culture exists in other regions
 
-
 ## Overview
 
 The Grand Trade Routes represent the most lucrative and dangerous commercial pathways connecting [[Aethermoor]] and [[Aquabyssos]], spanning both surface waters and the deepest oceanic trenches. These routes carry everything from essential crystals and pressure-forged goods to exotic luxuries and forbidden knowledge. Control over these arteries of commerce determines the rise and fall of merchant empires, kingdoms, and criminal syndicates.
 
 ### The Golden Circuit
 
-**Primary Route**: [[Port Meridian]] → [[Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Route**: [[Port Meridian]] → [[Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 
 **Journey Time**: 3-4 weeks complete circuit
 **Cargo Volume**: 50,000+ tons annually
@@ -465,8 +455,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Economic Structure
 
 ### Currency
@@ -484,7 +472,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

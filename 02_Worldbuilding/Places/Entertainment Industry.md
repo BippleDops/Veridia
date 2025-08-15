@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-entertainment-industry-entertainment-industry.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,8 +53,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
@@ -67,26 +61,18 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -133,8 +119,6 @@ Ongoing situations affecting Entertainment Industry:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## A Day in the Life
 

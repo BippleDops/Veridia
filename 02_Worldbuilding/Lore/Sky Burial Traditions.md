@@ -43,12 +43,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Sky Burial Traditions
 
 *"In death, we return to the winds that gave us flight. In the winds, we find the endless sky that welcomed our first breath."* - The Aeromancer's Farewell
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,13 +74,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -93,23 +86,18 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 

@@ -1,3 +1,12 @@
+---
+title: Vorpal Sword Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vorpal Sword Xdmg
 
 ---
@@ -33,9 +42,9 @@ world: Both
 *Legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/vorpal-sword.webp#right)
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores [[resistance-xphb|Resistance]] to Slashing damage.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores [[resistance xphb|Resistance]] to Slashing damage.
 
-When you use this weapon to attack a creature that has at least one head and roll a 20 on the `d20` for the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it has [[immunity-xphb|Immunity]] to Slashing damage, if it doesn't have or need a head, or if the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 30 Slashing damage from the hit. If the creature has Legendary [[resistance-xphb|Resistance]], it can expend one daily use of that trait to avoid losing its head, taking the extra damage instead.
+When you use this weapon to attack a creature that has at least one head and roll a 20 on the `d20` for the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it has [[immunity xphb|Immunity]] to Slashing damage, if it doesn't have or need a head, or if the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 30 Slashing damage from the hit. If the creature has Legendary [[resistance xphb|Resistance]], it can expend one daily use of that trait to avoid losing its head, taking the extra damage instead.
 
 **Variants**:
 - [Vorpal Glaive](#Vorpal%20Glaive)
@@ -46,11 +55,10 @@ When you use this weapon to attack a creature that has at least one head and rol
 ### Vorpal Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 318. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ When you use this weapon to attack a creature that has at least one head and rol
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

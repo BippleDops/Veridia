@@ -1,3 +1,12 @@
+---
+title: Malnutrition Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Malnutrition Xphb
 
 ---
@@ -25,7 +34,7 @@ world: Both
 # Malnutrition
 *Generic Hazard*  
 
-A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution [[saving-throw-xphb|saving throw]] or gain 1 [[conditions#Exhaustion|Exhaustion]] level at the day's end. A creature that eats nothing for 5 days automatically gains 1 [[conditions#Exhaustion|Exhaustion]] level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution [[saving throw xphb|saving throw]] or gain 1 [[conditions#Exhaustion|Exhaustion]] level at the day's end. A creature that eats nothing for 5 days automatically gains 1 [[conditions#Exhaustion|Exhaustion]] level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
 
 [[conditions#Exhaustion|Exhaustion]] caused by malnutrition can't be removed until the creature eats the full amount of food required for a day.
 
@@ -43,7 +52,6 @@ A creature needs an amount of food per day based on its size, as shown in the Fo
 
 *Source: Player's Handbook (2024) p. 371*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ A creature needs an amount of food per day based on its size, as shown in the Fo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the cult
@@ -93,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

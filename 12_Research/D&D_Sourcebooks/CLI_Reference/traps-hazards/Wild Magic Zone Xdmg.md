@@ -1,3 +1,12 @@
+---
+title: Wild Magic Zone Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wild Magic Zone Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 
 A past magical disaster or uncontrolled surge of power in a particular place can cause the fabric of magic to unravel, creating a wild magic zone. In such an area, which is typically no more than 300 feet in diameter, magic behaves unpredictably.
 
-Whenever a creature expends a spell slot to cast a spell in a wild magic zone, roll `d20`. If you roll a 20 on the die, roll on the [[wild-magic-surge-xphb|Wild Magic Surge]] table in the "Player's Handbook" to create a magical effect.
+Whenever a creature expends a spell slot to cast a spell in a wild magic zone, roll `d20`. If you roll a 20 on the die, roll on the [[wild magic surge xphb|Wild Magic Surge]] table in the "Player's Handbook" to create a magical effect.
 
 *Source: Dungeon Master's Guide (2024) p. 69*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ Whenever a creature expends a spell slot to cast a spell in a wild magic zone, r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -77,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

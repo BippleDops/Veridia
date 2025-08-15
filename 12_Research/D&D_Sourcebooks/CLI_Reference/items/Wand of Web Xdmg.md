@@ -1,3 +1,12 @@
+---
+title: Wand of Web Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Web Xdmg
 
 ---
@@ -30,8 +39,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web-xphb|Web]] (save DC 13) from it.
-
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web xphb|Web]] (save DC 13) from it.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 

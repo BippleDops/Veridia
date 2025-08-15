@@ -16,9 +16,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,25 +43,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -78,7 +67,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -177,16 +165,13 @@ Key locations marked:
 ---
 *Tags*: #location #city #worldbuilding #place
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -211,7 +196,6 @@ Mentioned in The Second Prophecy of Winds
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -223,7 +207,6 @@ Mentioned in The Second Prophecy of Winds
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

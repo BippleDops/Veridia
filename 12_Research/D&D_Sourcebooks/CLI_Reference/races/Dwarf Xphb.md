@@ -1,3 +1,12 @@
+---
+title: Dwarf Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarf Xphb
 
 ---
@@ -38,18 +47,17 @@ You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have [[resistance-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
+You have [[resistance xphb|Resistance]] to Poison damage. You also have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
 
 ### Dwarven Toughness
 
-Your [[hit-points-xphb|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your [[hit points xphb|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ### Stonecunning
 
-As a [[bonus-action-xphb|Bonus Action]], you gain [[senses#Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[senses#Tremorsense|Tremorsense]]. The stone can be natural or worked.
+As a [[bonus action xphb|Bonus Action]], you gain [[senses#Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[senses#Tremorsense|Tremorsense]]. The stone can be natural or worked.
 
-You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
-
+You can use this [[bonus action xphb|Bonus Action]] a number of times equal to your [[proficiency xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long rest xphb|Long Rest]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,11 +70,6 @@ You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -91,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

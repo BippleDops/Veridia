@@ -1,3 +1,12 @@
+---
+title: Beguiling Influence
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Beguiling Influence
 
 ---
@@ -28,7 +37,6 @@ world: Both
 
 You gain proficiency in the [[skills#Deception|Deception]] and [[skills#Persuasion|Persuasion]] skills.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ You gain proficiency in the [[skills#Deception|Deception]] and [[skills#Persuasi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -73,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

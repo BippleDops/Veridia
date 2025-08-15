@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-protocol-expert-formal-protocol-expert-formal.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,24 +53,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -84,12 +73,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -137,8 +124,6 @@ Ongoing situations affecting Protocol Expert Formal:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for money
@@ -160,7 +145,6 @@ Ongoing situations affecting Protocol Expert Formal:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

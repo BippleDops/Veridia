@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg]]
 
 # Grand Master Valdric Shardseeker
 *Founder and Supreme Leader of the Order of the Shattered Crown*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,24 +67,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -106,7 +95,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 Grand Master Valdric Shardseeker is the ancient founder and supreme leader of the [[Order of the Shattered Crown]], a mystical order dedicated to reuniting the fragments of the legendary [[The Crown of Stars]]. At 73 years old, Valdric has spent over four decades in pursuit of the [[The Seven Shards]], his body and soul transformed by prolonged exposure to their cosmic energies. He stands as both mentor to [[Keeper of the Shattered Crown, Marcus Crystalvein]] and the ultimate authority on Crown lore, wielding powers that blur the line between divine and mortal.
@@ -676,21 +664,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 nriched: true -->
 - [[The Crown of Stars]]
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Historical Timeline
 

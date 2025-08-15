@@ -1,3 +1,12 @@
+---
+title: injuries
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # injuries
 
 ---
@@ -33,10 +42,7 @@ It's up to you to decide when to check for a lingering injury. A creature might 
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 
-![[lingering-injuries|Lingering Injuries]]
-
 Instead of using the effect described in the table, you can put the responsibility of representing a character's lingering injury in the hands of the player. Roll on the Lingering Injuries table as usual, but instead of suffering the effect described for that result, that character gains a new flaw with the same name. It's up to the player to express the lingering injury during play, just like any other flaw, with the potential to gain inspiration when the injury affects the character in a meaningful way.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +55,6 @@ Instead of using the effect described in the table, you can put the responsibili
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -83,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

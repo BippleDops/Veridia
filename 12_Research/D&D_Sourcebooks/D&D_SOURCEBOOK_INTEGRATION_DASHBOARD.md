@@ -1,3 +1,12 @@
+---
+title: D&D_SOURCEBOOK_INTEGRATION_DASHBOARD
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # D&D_SOURCEBOOK_INTEGRATION_DASHBOARD
 
 ---
@@ -200,85 +209,58 @@ The vault website includes a front-page multi-select interface for choosing whic
     📚 D&D Sourcebook Integration
     Select sourcebooks to integrate with your Cordelia campaign:
 
-    
-        
         Curse of Strahd
         (CoS) - Levels 1-10
         horror, undead, gothic
     
-    
-        
         Tomb of Annihilation
         (ToA) - Levels 1-11
         exploration, jungle, undead
     
-    
-        
         Waterdeep: Dragon Heist
         (WDH) - Levels 1-5
         urban, intrigue, crime
     
-    
-        
         Waterdeep: Dungeon of the Mad Mage
         (WDMM) - Levels 5-20
         dungeon, magic, exploration
     
-    
-        
         Ghosts of Saltmarsh
         (GoS) - Levels 1-12
         nautical, pirates, coastal
     
-    
-        
         Baldur's Gate: Descent into Avernus
         (DiA) - Levels 1-13
         planar, devils, redemption
     
-    
-        
         Icewind Dale: Rime of the Frostmaiden
         (RotFM) - Levels 1-12
         arctic, horror, survival
     
-    
-        
         Candlekeep Mysteries
         (CM) - Levels 1-16
         mystery, investigation, magic
     
-    
-        
         The Wild Beyond the Witchlight
         (WBtW) - Levels 1-8
         fey, carnival, whimsical
     
-    
-        
         Call of the Netherdeep
         (CoN) - Levels 3-12
         epic, multiverse, ancient
     
-    
-        
         Journeys through the Radiant Citadel
         (JttRC) - Levels 1-14
         diverse, cultural, anthology
     
-    
-        
         Dragons of Stormwreck Isle
         (DoSI) - Levels 1-3
         dragons, beginner, island
     
-    
-        
         Keys from the Golden Vault
         (KftGV) - Levels 1-11
         heist, crime, stealth
     
-
 ```
 
 ### Quality Assurance
@@ -289,7 +271,6 @@ The vault website includes a front-page multi-select interface for choosing whic
 
 ---
 *This dashboard manages the complete integration of D&D 5e sourcebooks with the Cordelia dual-realm campaign setting.*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -302,11 +283,6 @@ The vault website includes a front-page multi-select interface for choosing whic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quick Actions
 - [[#create-new-adaptation|Create New Adaptation]]
@@ -331,11 +307,9 @@ The vault website includes a front-page multi-select interface for choosing whic
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -346,7 +320,6 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

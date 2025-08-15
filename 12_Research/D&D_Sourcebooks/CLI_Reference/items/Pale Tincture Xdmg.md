@@ -1,3 +1,12 @@
+---
+title: Pale Tincture Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pale Tincture Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 250 gp
 
 A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (`d6`) Poison damage and have the [[conditions#Poisoned|Poisoned]] condition. The [[conditions#Poisoned|Poisoned]] creature repeats the save every 24 hours, taking 3 (`d6`) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains [[conditions#Poisoned|Poisoned]]. After seven successful saves against the poison, the creature is no longer [[conditions#Poisoned|Poisoned]].
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Pale Tincture must succeed on a DC 16 Constitution savin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a witness for love
@@ -86,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

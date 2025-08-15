@@ -1,3 +1,12 @@
+---
+title: Cloak of Many Fashions Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloak of Many Fashions Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-many-fashions.webp#right)
 
-While wearing this cloak, you can take a [[bonus-action-xphb|Bonus Action]] to change the style, color, and apparent quality of the garment. The cloak's weight doesn't change. Regardless of its appearance, the cloak can't be anything but a cloak. Although it can duplicate the appearance of other magic cloaks, it doesn't gain their magical properties.
+While wearing this cloak, you can take a [[bonus action xphb|Bonus Action]] to change the style, color, and apparent quality of the garment. The cloak's weight doesn't change. Regardless of its appearance, the cloak can't be anything but a cloak. Although it can duplicate the appearance of other magic cloaks, it doesn't gain their magical properties.
 
 *Source: Dungeon Master's Guide (2024) p. 245*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this cloak, you can take a [[bonus-action-xphb|Bonus Action]] to c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

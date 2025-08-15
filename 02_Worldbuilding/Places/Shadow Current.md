@@ -27,11 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-current-shadow-current.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,7 +56,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
@@ -69,14 +64,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -86,7 +76,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
@@ -95,7 +84,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -143,12 +131,9 @@ Ongoing situations affecting Shadow Current:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 
@@ -173,7 +158,6 @@ Key stop on metals trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

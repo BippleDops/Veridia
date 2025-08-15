@@ -1,3 +1,12 @@
+---
+title: Aquabyssos Adaptation Mechanics
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos Adaptation Mechanics
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T12:34:17.776220+00:00'
 world: Aethermoor
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Practical, table-ready rules for Aquabyssos Adaptation Mechanics across Aquabyssos and Aethermoor.
@@ -58,16 +61,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reality-distortion-effects-reality-distortion-effects.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +54,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
@@ -67,17 +62,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
@@ -99,7 +90,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -146,8 +136,6 @@ Ongoing situations affecting Reality Distortion Effects:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Trade Importance
 

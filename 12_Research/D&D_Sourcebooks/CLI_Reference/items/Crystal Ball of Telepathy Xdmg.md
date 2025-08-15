@@ -1,3 +1,12 @@
+---
+title: Crystal Ball of Telepathy Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Ball of Telepathy Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 17) with it. In addition, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also cast [[suggestion-xphb|Suggestion]] (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this [[suggestion-xphb|Suggestion]] to maintain it during its duration, but it ends if [[scrying-xphb|Scrying]] ends. You can't cast [[suggestion-xphb|Suggestion]] in this way again until the next dawn.
+While touching this crystal orb, you can cast [[scrying xphb|Scrying]] (save DC 17) with it. In addition, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also cast [[suggestion xphb|Suggestion]] (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this [[suggestion xphb|Suggestion]] to maintain it during its duration, but it ends if [[scrying xphb|Scrying]] ends. You can't cast [[suggestion xphb|Suggestion]] in this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 159. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting an heir for love
@@ -83,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

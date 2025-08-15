@@ -1,3 +1,12 @@
+---
+title: Storm_Caller_Druid
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm_Caller_Druid
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Aethermoor
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Storm Caller Druid represents the primal connection between [[Aethermoor]] and the elemental forces of air, storm, and sky. These druids have learned to channel the raw power of tempests, commanding wind and lightning to protect the aerial realms and maintain the balance between civilization and the wild fury of storms. They serve as weather guardians, sky shepherds, and harbingers of nature's wrath.
@@ -96,16 +99,13 @@ This build emphasizes the primal connection between druidic magic and the elemen
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -118,7 +118,6 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

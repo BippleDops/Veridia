@@ -1,3 +1,12 @@
+---
+title: Crystal Ball Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Ball Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[scrying-xphb|scrying]] spell (save DC 17) with it.
+The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[scrying xphb|scrying]] spell (save DC 17) with it.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ The typical crystal ball, a very rare item, is about 6 inches in diameter. While
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

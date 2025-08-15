@@ -1,3 +1,12 @@
+---
+title: Work Wages Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Work Wages Xge
 
 ---
@@ -35,7 +44,6 @@ world: Both
 | 21+ | Comfortable lifestyle for the week + 25 gp |
 ^wages
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

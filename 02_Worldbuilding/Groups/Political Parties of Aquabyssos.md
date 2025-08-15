@@ -27,17 +27,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg]]
 
 # Political Parties of Aquabyssos
 *The Fractured Spectrum of Underwater Democracy*
 
 > *"In the depths, every political current eventually circles back on itself, creating whirlpools of contradiction and undertows of betrayal."*
 > — Political Theorist Marina Currentanalyst
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,24 +62,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
@@ -93,12 +82,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Parliament of Echoes operates through a complex multi-party system that has evolved from pre-Drowning political structures. Each party represents different visions for Aquabyssos's future, but all are influenced by the unique challenges of underwater civilization, shadow infiltration, and the ongoing succession crisis.
@@ -275,7 +262,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -298,7 +284,6 @@ Things widely suspected
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -310,7 +295,6 @@ Things widely suspected
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -329,7 +313,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

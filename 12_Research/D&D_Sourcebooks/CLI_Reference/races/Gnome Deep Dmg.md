@@ -1,3 +1,12 @@
+---
+title: Gnome Deep Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Deep Dmg
 
 ---
@@ -35,8 +44,8 @@ world: Both
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [[nondetection-xphb|nondetection]] (self only)  
-- **1/day each.** [[blindness-deafness-xphb|blindness/deafness]], [[blur-xphb|blur]], [[disguise-self-xphb|disguise self]]  
+- **At will.** [[nondetection xphb|nondetection]] (self only)  
+- **1/day each.** [[blindness deafness xphb|blindness/deafness]], [[blur xphb|blur]], [[disguise self xphb|disguise self]]  
 
 Intelligence is your spellcasting ability for these spells.
 
@@ -56,7 +65,6 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 
 You can speak, read, and write Gnomish, Terran, and Undercommon.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -68,11 +76,6 @@ You can speak, read, and write Gnomish, Terran, and Undercommon.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals the truth about this place
@@ -100,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

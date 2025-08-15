@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,13 +52,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
@@ -76,9 +68,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
@@ -91,7 +80,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -127,7 +115,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -144,7 +131,6 @@ Things widely suspected
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-preservation-technology-memory-preservation-technology.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,7 +52,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
@@ -65,13 +60,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -81,17 +72,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -139,8 +127,6 @@ Ongoing situations affecting Memory Preservation Technology:
 - External threats
 - Opportunities arising
 
-
-
 ## Economic Structure
 
 ### Currency
@@ -158,7 +144,6 @@ Ongoing situations affecting Memory Preservation Technology:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

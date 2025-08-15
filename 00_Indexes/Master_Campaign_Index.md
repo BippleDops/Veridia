@@ -1,3 +1,12 @@
+---
+title: Master_Campaign_Index
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Master_Campaign_Index
 
 ---
@@ -134,14 +143,14 @@ Reality Stability → Merger Events
 1. Check [[Session Log]] for last session
 2. Update [[Faction Tracker]] standings
 3. Review [[Quest Campaign Tracker]] status
-4. Check [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
+4. Check [[02 Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
 5. Generate encounters with [[Encounter Builder]]
 6. Prepare scenes with [[Scene Framing Templates]]
 
 ### World Building
 
-1. Use [[1-DM Toolkit/DM Board]] creation buttons
-2. Follow [[05_Templates|05 Templates]] for consistency
+1. Use [[1 DM Toolkit/DM Board]] creation buttons
+2. Follow [[05 Templates|05 Templates]] for consistency
 3. Update relevant trackers
 4. Cross-reference with existing content
 5. Maintain completion status

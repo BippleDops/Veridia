@@ -23,9 +23,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +50,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
@@ -67,8 +62,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
@@ -76,8 +69,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
@@ -91,7 +82,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -164,11 +154,9 @@ Guard Captain Morris is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
-
 
 ## Historical Timeline
 
@@ -187,7 +175,6 @@ Member of House Dragonblood - Trait: prophecy
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -199,7 +186,6 @@ Member of House Dragonblood - Trait: prophecy
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -218,7 +204,6 @@ Member of House Dragonblood - Trait: prophecy
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

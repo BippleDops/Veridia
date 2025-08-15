@@ -27,10 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-mad-oracle-thessaly-mad-oracle-thessaly.svg]]
 
 # Mad Oracle Thessaly
 
@@ -38,7 +35,6 @@ improvements: 20
 
 > *"She sees all times at once - past, present, future swirling in her mind like currents in a maelstrom. To seek her wisdom is to risk madness yourself, for truth unfiltered by time's gentle progression burns the soul with its terrible clarity."*
 > — [[High Priest Nereon]], speaking of the Oracle's burden
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,36 +63,26 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -569,12 +555,9 @@ Ongoing situations affecting Mad Oracle Thessaly:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Religious Observances
 
@@ -587,7 +570,6 @@ Key stop on magic items trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

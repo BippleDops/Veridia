@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg]]
 
 # Depth Crystal Harvest
 
 *"Where pressure forges beauty and danger in equal measure."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,13 +63,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -87,19 +79,14 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Depth Crystal Harvest is a treacherous mining operation located in the deepest trenches surrounding Aquabyssos, where rare pressure-formed crystals grow in the extreme depths. These sites are both essential to the city's economy and extraordinarily dangerous to access.
@@ -168,12 +155,9 @@ Depth Crystal Harvest is a notable location characterized by its unique features
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -199,7 +183,6 @@ Depth Crystal Harvest is a notable location characterized by its unique features
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

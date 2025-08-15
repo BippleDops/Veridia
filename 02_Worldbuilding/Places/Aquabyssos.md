@@ -26,8 +26,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-continent-aquabyssos-aquabyssos.svg)
 
@@ -35,7 +33,6 @@ improvements: 20
 *The Drowned Realm, Where Depth Meets Democracy*
 
 > *"In Aquabyssos, every citizen breathes water and dreams of sky, while shadows vote in parliament and memories grow like coral."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +61,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
@@ -78,14 +73,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -99,7 +89,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -394,8 +383,8 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 - [[The Scattered Emperor]] - Political leader
 - [[Senator Glaucus]] - Political figure
 - [[The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
-- [[02_Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
-- [[02_Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
+- [[02 Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
+- [[02 Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
 - [[Master Index]] - General world information
 
 ---
@@ -437,16 +426,13 @@ Aquabyssos was established in the distant past, growing from humble beginnings t
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Cultural Practices
 
@@ -459,7 +445,6 @@ Key stop on metals trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -479,7 +464,6 @@ Key stop on metals trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -491,7 +475,6 @@ Key stop on metals trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

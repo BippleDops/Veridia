@@ -1,3 +1,12 @@
+---
+title: Dire Wolf Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dire Wolf Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dire-wolf-xmm-dire-wolf-xmm.svg)
 
-# [[dire-wolf-xmm|Dire Wolf]]
+# [[dire wolf xmm|Dire Wolf]]
 *Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,15 +55,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Dire Wolf (XMM)"
@@ -82,7 +85,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The wolf has [[advantage-xphb|Advantage]]\
+  - "desc": "The wolf has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the wolf's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -118,11 +121,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

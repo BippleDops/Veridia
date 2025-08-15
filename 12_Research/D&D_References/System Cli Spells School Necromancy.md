@@ -1,3 +1,12 @@
+---
+title: System Cli Spells School Necromancy
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Spells School Necromancy
 
 ---
@@ -38,7 +47,6 @@ world: Both Worlds
 > *"In the crushing depths where preservation becomes an act of defiance against entropy itself, necromancy evolves beyond mere death magic. We become the guardians of continuity, ensuring that consciousness and identity persist even when flesh fails and time seeks to erase all traces of existence."*
 > — [[Death Speaker Marina Depthkeeper]], High Preserver of the [[Halls of Eternal Memory]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ world: Both Worlds
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -180,7 +183,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

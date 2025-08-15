@@ -1,3 +1,12 @@
+---
+title: Boon of Quick Casting
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boon of Quick Casting
 
 ---
@@ -29,7 +38,6 @@ Choose one of your spells of 1st through 3rd level that has a casting time of 1 
 
 *Source: Dungeon Master's Guide p. 232*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ Choose one of your spells of 1st through 3rd level that has a casting time of 1 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

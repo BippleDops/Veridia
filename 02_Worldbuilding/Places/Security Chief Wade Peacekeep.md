@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-security-chief-wade-peacekeep-security-chief-wade-peacekeep.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,29 +54,21 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -90,7 +78,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -138,8 +125,6 @@ Ongoing situations affecting Security Chief Wade Peacekeep:
 - External threats
 - Opportunities arising
 
-
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -151,7 +136,6 @@ Ongoing situations affecting Security Chief Wade Peacekeep:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

@@ -21,11 +21,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,15 +54,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -76,7 +66,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
@@ -85,7 +74,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -107,12 +95,9 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## A Day in the Life
 

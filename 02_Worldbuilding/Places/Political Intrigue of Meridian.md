@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg]]
 
 # Political Intrigue of Meridian
 
 *"In the depths of politics, every ally may become an enemy."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,21 +61,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -93,8 +81,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 A complex web of political maneuvering, secret alliances, and power struggles currently engulfing Port Meridian as various factions compete for control. The intrigue involves corruption scandals, succession disputes, and foreign interference.
@@ -245,12 +231,9 @@ Ongoing situations affecting Political Intrigue of Meridian:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Trade Importance
 

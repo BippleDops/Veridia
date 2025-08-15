@@ -1,3 +1,12 @@
+---
+title: Sanctuary Charm Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sanctuary Charm Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Sanctuary Charm
 *Charm*  
 
-After spending a [[long-rest-xphb|Long Rest]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[healing-word-xphb|Healing Word]] once without expending a spell slot. You can't gain this Charm again while you still have it.
+After spending a [[long rest xphb|Long Rest]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[healing word xphb|Healing Word]] once without expending a spell slot. You can't gain this Charm again while you still have it.
 
 *Source: Dungeon Master's Guide (2024) p. 345*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ After spending a [[long-rest-xphb|Long Rest]] in your "Bastion", you gain a magi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest ancient magic
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

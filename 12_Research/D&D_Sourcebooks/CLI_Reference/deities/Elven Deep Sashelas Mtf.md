@@ -1,3 +1,12 @@
+---
+title: Elven Deep Sashelas Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Deep Sashelas Mtf
 
 ---
@@ -38,7 +47,6 @@ Deep Sashelas, sometimes known just as Sashelas, is the elven deity of the sea, 
 
 Most of Sashelas's most devoted followers are sea elves, as are his priests. Many seafarers toss offerings of gold and jewels overboard, beseeching Sashelas to calm storms or provide favorable winds, and he is inclined to aid them even if they aren't fully dedicated to his worship. His sea elf priests often lurk in the water beneath ships when these offerings are made. They catch the treasures as they sink and use them to decorate Sashelas's underwater shrines, to purchase items from coastal merchants that can't be manufactured underwater, and to bribe dragon turtles into their service. Ceremonies honoring Sashelas are held underwater at times of uncommonly high tides or during electrical storms, when flashes of lightning above the waves provide illumination to the calmer realm below the surface.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Most of Sashelas's most devoted followers are sea elves, as are his priests. Man
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sea of Knowledge
 
@@ -80,15 +83,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Plot Hooks
 
-- A document has gone missing and chaos spreads
 - A document has gone missing and chaos spreads
 - A merchant needs help investigating before the new moon
 - The authorities needs help investigating before dawn

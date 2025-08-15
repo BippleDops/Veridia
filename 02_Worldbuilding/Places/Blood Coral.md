@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-blood-coral-blood-coral.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,24 +52,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -139,12 +127,9 @@ Ongoing situations affecting Blood Coral:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -170,7 +155,6 @@ Ongoing situations affecting Blood Coral:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -182,7 +166,6 @@ Ongoing situations affecting Blood Coral:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

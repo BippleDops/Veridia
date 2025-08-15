@@ -1,3 +1,12 @@
+---
+title: Clockwork Iron Cobra Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Clockwork Iron Cobra Mpmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-iron-cobra-mpmm-clockwork-iron-cobra-mpmm.svg)
 
-# [[clockwork-iron-cobra-mpmm|Clockwork Iron Cobra]]
+# [[clockwork iron cobra mpmm|Clockwork Iron Cobra]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ An iron cobra is exactly what its name implies: a metal snake with a poisonous b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Clockworks
 
@@ -172,7 +175,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

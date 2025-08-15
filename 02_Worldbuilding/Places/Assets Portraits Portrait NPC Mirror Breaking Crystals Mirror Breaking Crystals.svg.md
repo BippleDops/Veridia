@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,17 +48,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
@@ -71,11 +64,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -85,7 +76,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -184,7 +174,6 @@ Key locations marked:
 ---
 *Tags*: #location #port #worldbuilding #place
 
-
 ## Plot Hooks
 
 - A letter reveals a conspiracy about a local noble
@@ -204,7 +193,6 @@ Key locations marked:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Economic Structure
 
 ### Currency
@@ -222,7 +210,6 @@ Key locations marked:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

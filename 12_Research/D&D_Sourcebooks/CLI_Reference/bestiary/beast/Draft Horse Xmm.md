@@ -1,3 +1,12 @@
+---
+title: Draft Horse Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Draft Horse Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draft-horse-xmm-draft-horse-xmm.svg)
 
-# [[draft-horse-xmm|Draft Horse]]
+# [[draft horse xmm|Draft Horse]]
 *Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 349. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Draft Horse (XMM)"
@@ -106,11 +109,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

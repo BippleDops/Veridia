@@ -1,3 +1,12 @@
+---
+title: Relics Common Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Relics Common Xdmg
 
 ---
@@ -31,17 +40,16 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
-| 09–28 | [[potion-of-healing-xdmg|Potion of Healing]] |
-| 29–36 | [[pot-of-awakening-xdmg|Pot of Awakening]] |
-| 37–44 | [[ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
-| 45–52 | [[shield-of-expression-xdmg|Shield of Expression]] |
-| 53–60 | [[smoldering-armor-xdmg|Smoldering Armor]] |
-| 61–80 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-cantrip-xdmg|cantrip]] or [[spell-scroll-level-1-xdmg|level 1]] spell) |
-| 81–90 | [[staff-of-adornment-xdmg|Staff of Adornment]] |
-| 91–00 | [[staff-of-flowers-xdmg|Staff of Flowers]] |
+| 01–08 | [[ear horn of hearing xdmg|Ear Horn of Hearing]] |
+| 09–28 | [[potion of healing xdmg|Potion of Healing]] |
+| 29–36 | [[pot of awakening xdmg|Pot of Awakening]] |
+| 37–44 | [[ruby of the war mage xdmg|Ruby of the War Mage]] |
+| 45–52 | [[shield of expression xdmg|Shield of Expression]] |
+| 53–60 | [[smoldering armor xdmg|Smoldering Armor]] |
+| 61–80 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll cantrip xdmg|cantrip]] or [[spell scroll level 1 xdmg|level 1]] spell) |
+| 81–90 | [[staff of adornment xdmg|Staff of Adornment]] |
+| 91–00 | [[staff of flowers xdmg|Staff of Flowers]] |
 ^relics-common
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the cult
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

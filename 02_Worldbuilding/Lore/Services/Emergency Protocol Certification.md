@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,7 +39,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
@@ -63,10 +59,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
@@ -84,7 +76,6 @@ improvements: 20
 
 - Add smells, sounds, and textures unique to this culture
 
-
 ## Overview
 
 02_Worldbuilding/Services/Emergency Protocol Certification represents a crucial aspect of the world's history, cosmology, or fundamental nature.
@@ -101,11 +92,9 @@ improvements: 20
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -130,7 +119,6 @@ improvements: 20
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -148,7 +136,6 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

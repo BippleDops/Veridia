@@ -1,3 +1,12 @@
+---
+title: README
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 ## Vault Purpose
 This is a comprehensive D&D 5e campaign world featuring two interconnected realms (Aquabyssos and Aethermoor) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics.
 
@@ -262,16 +271,16 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 *Vault Version: 2.0 (Post-Consolidation)*
 ## Semantic Connections
 *Related concepts and locations:*
-- [[wizard-xphb-school-of-enchantment]]
+- [[wizard-xphb-school-of-enchantment (classes)]]
 - [[Visibility Underwater Underwater Encounter Distance Xdmg]]
 - [[Aquabyssos_Submarines_Catalog]]
 - [[Ocean Ecosystem Management]]
-- [[Border Territories]]
-- [[aarakocra-skirmisher-xmm]]
-- [[create-undead-xphb]]
-- [[summon-aberration-xphb]]
-- [[Border Fortresses]]
-- [[scroll-of-protection-undead-xdmg]]
+- [[Border Territories (D&D References)]]
+- [[aarakocra-skirmisher-xmm (elemental)]]
+- [[create-undead-xphb (spells)]]
+- [[summon-aberration-xphb (spells)]]
+- [[Border Fortresses (D&D References)]]
+- [[scroll-of-protection-undead-xdmg (items)]]
 
 ## Related
 

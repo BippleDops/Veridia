@@ -1,3 +1,12 @@
+---
+title: Pit Trap Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pit Trap Xge
 
 ---
@@ -30,7 +39,6 @@ The simplest of pit traps consists of a 10-foot-deep hole in the floor, conceale
 
 *Source: Xanathar's Guide to Everything p. 114*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ The simplest of pit traps consists of a 10-foot-deep hole in the floor, conceale
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Nightmare Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nightmare Xmm
 
 ---
@@ -30,11 +39,9 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-nightmare-xmm-nightmare-xmm.png]]
 
-# [[nightmare-xmm|Nightmare]]
+# [[nightmare xmm|Nightmare]]
 *Source: Monster Manual (2024) p. 226. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Nightmare
 
@@ -99,7 +101,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [[resistance-xphb|Resistance]]\
+  - "desc": "The nightmare can grant [[resistance xphb|Resistance]]\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
   - "desc": "The nightmare sheds [[bright-light-xphb|Bright Light]]\
@@ -139,16 +141,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

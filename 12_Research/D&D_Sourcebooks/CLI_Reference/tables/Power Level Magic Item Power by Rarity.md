@@ -1,3 +1,12 @@
+---
+title: Power Level Magic Item Power by Rarity
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Power Level Magic Item Power by Rarity
 
 ---
@@ -36,7 +45,6 @@ world: Both
 | Legendary | 9th | +4 |
 ^magic-item-power-by-rarity
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before the new moon
@@ -80,16 +82,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

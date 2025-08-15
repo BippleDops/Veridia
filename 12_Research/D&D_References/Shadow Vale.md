@@ -1,3 +1,12 @@
+---
+title: Shadow Vale
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Vale
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # Shadow Vale
 *The Twilight Commune, Haven of the Shadow-Touched, The Community of Faded Light*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Shadow Vale represents [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s largest and most organized community of shadow-touched individuals, functioning as both residential neighborhood and mutual aid organization. Unlike other shadow organizations focused on power or profit, Shadow Vale prioritizes community support, integration, and the preservation of identity despite shadow corruption. They've created a functioning society where those transformed by shadow can live with dignity, maintaining their humanity while embracing their changed nature.
@@ -96,7 +99,7 @@ Shadow Vale represents [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s large
 - **Community Elder**: [[Community Elder Mistweave]] - Elected leader and representative
 - **Residential Coordinator**: [[Neighbor Advocate Penumbra]] - Housing and district management
 - **Social Services Director**: [[Care Coordinator Nightlight]] - Community support and welfare
-- **Education Coordinator**: [[Teacher-Administrator Shadowlearn]] - Schools and knowledge preservation
+- **Education Coordinator**: [[Teacher Administrator Shadowlearn]] - Schools and knowledge preservation
 - **Economic Development Chief**: [[Enterprise Director Duskwork]] - Employment and business development
 - **Cultural Preservation Officer**: [[Heritage Keeper Memoryshade]] - Identity and tradition maintece
 
@@ -258,8 +261,6 @@ Shadow Vale is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Shadow Vale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Vale.
 
-
-
 ## Plot Hooks
 
 - A merchant needs help delivering before the new moon
@@ -274,11 +275,9 @@ Legends speak of Shadow Vale as a nexus where past and present converge. Locals 
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

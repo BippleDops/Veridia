@@ -1,3 +1,12 @@
+---
+title: Lock of Trickery Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lock of Trickery Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Lock of Trickery
 *Wondrous item, common*  
 
-This lock appears to be an ordinary [[lock-xphb|Lock]] (of the type described in chapter 6 of the "Player's Handbook") and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have [[disadvantage-xphb|Disadvantage]].
+This lock appears to be an ordinary [[lock xphb|Lock]] (of the type described in chapter 6 of the "Player's Handbook") and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have [[disadvantage xphb|Disadvantage]].
 
 *Source: Dungeon Master's Guide (2024) p. 275*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ This lock appears to be an ordinary [[lock-xphb|Lock]] (of the type described in
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -84,7 +85,6 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

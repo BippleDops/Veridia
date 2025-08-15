@@ -1,3 +1,12 @@
+---
+title: Tome of Clear Thought Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tome of Clear Thought Xdmg
 
 ---
@@ -34,7 +43,6 @@ This book contains memory and logic exercises, and its words are charged with ma
 
 *Source: Dungeon Master's Guide (2024) p. 317. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This book contains memory and logic exercises, and its words are charged with ma
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -85,7 +86,6 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

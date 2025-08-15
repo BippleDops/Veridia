@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-constellation-codex-constellation-codex.svg]]
 
 # Constellation Codex
 
 *"The stars remember what mortals forget."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,8 +62,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
@@ -80,8 +74,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
@@ -90,18 +82,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Constellation Codex is an ancient tome containing comprehensive knowledge of underwater astronomy, celestial navigation, and the prophetic meanings of star patterns visible from ocean depths. This legendary artifact is said to predict major events by reading celestial omens.
@@ -272,8 +260,6 @@ Ongoing situations affecting Constellation Codex:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -296,7 +282,6 @@ Ongoing situations affecting Constellation Codex:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -28,11 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-cerulean-trench-the-cerulean-trench.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,19 +57,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -100,7 +90,6 @@ improvements: 20
 
 - Describe rites of passage and adulthood markers
 
-
 ## Overview
 
 The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[12_Research/D&D_Statblocks/The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[12_Research/D&D_Statblocks/The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[Aquabyssos World Overview]].
@@ -115,7 +104,7 @@ Vertical cliff faces lined with glowing crystalline formations. [[The Trencher F
 
 ### The Pressure Cathedral (10000-12000 feet)
 
-A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[12_Research/D&D_Statblocks/The Deepmind]] here.
+A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth Touched]] claims to receive visions from [[12_Research/D&D_Statblocks/The Deepmind]] here.
 
 ### The Void Gardens (12000-15000 feet)
 
@@ -238,8 +227,6 @@ Ongoing situations affecting The Cerulean Trench:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Merchant_and_Trader_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merchant_and_Trader_Guide
 
 ---
@@ -222,7 +231,6 @@ world: Both
 4. **Apprentice Problems**: Resolve issues with merchant's training program
 5. **Reputation Recovery**: Help merchant rebuild after scandal
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -234,11 +242,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -252,11 +255,9 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -270,11 +271,9 @@ world: Both
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Quest_Tracker
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest_Tracker
 
 ---

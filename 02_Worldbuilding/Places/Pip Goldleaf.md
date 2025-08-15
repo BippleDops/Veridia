@@ -45,10 +45,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg]]
 
 # Pip Goldleaf
 
@@ -56,7 +53,6 @@ improvements: 20
 
 > *"Grandmother says I have the Goldleaf eye for opportunity, but I think I see things she doesn't. The world is changing faster than the old merchants realize, and those who adapt first will profit most."*
 > — Pip Goldleaf, discussing market trends with fellow apprentices
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -85,19 +81,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
@@ -107,14 +97,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -375,12 +361,9 @@ Ongoing situations affecting Pip Goldleaf:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -400,7 +383,6 @@ Mentioned in The First Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

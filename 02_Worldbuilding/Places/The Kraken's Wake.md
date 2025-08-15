@@ -23,9 +23,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,26 +50,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -82,7 +70,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -130,8 +117,6 @@ Ongoing situations affecting The Kraken's Wake:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -148,7 +133,6 @@ Ongoing situations affecting The Kraken's Wake:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

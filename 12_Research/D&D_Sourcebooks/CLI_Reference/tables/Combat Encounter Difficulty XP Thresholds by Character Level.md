@@ -1,3 +1,12 @@
+---
+title: Combat Encounter Difficulty XP Thresholds by Character Level
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # combat-encounter-difficulty-xp-thresholds-by-character-level
 
 ---
@@ -50,7 +59,6 @@ world: Both
 | 20th | 2,800 | 5,700 | 8,500 | 12,700 |
 ^xp-thresholds-by-character-level
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -62,11 +70,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## 12_Research Specific Content
 

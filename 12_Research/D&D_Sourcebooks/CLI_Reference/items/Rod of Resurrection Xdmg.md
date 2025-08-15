@@ -1,3 +1,12 @@
+---
+title: Rod of Resurrection Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rod of Resurrection Xdmg
 
 ---
@@ -31,12 +40,11 @@ world: Both
 
 - **Weight**: 2.0 lbs.
 
-The rod has 5 charges. While you hold it, you can cast one of the following spells from it: [[heal-xphb|Heal]] (expends 1 charge) or [[resurrection-xphb|Resurrection]] (expends 5 charges).
+The rod has 5 charges. While you hold it, you can cast one of the following spells from it: [[heal xphb|Heal]] (expends 1 charge) or [[resurrection xphb|Resurrection]] (expends 5 charges).
 
 The rod regains 1 expended charge daily at dawn. If you expend the last charge, roll `d20`. On a 1, the rod disappears in a harmless burst of radiance.
 
 *Source: Dungeon Master's Guide (2024) p. 301. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The rod regains 1 expended charge daily at dawn. If you expend the last charge, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

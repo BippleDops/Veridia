@@ -1,3 +1,12 @@
+---
+title: Twinned Spell Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Twinned Spell Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Twinned Spell
 *Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
-When you cast a spell, such as [[charm-person-xphb|Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
-
+When you cast a spell, such as [[charm person xphb|Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you cast a spell, such as [[charm-person-xphb|Charm Person]], that can be c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

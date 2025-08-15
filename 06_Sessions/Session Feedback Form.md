@@ -1,3 +1,12 @@
+---
+title: Session Feedback Form
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Feedback_Form
 
 ---
@@ -193,7 +202,6 @@ SHARING PREFERENCES:
 *Thank you for taking the time to provide feedback!*
 *Your input helps make the game better for everyone.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -205,11 +213,6 @@ SHARING PREFERENCES:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -223,16 +226,13 @@ SHARING PREFERENCES:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

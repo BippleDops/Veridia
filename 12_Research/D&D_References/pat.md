@@ -20,10 +20,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -36,11 +33,6 @@ improvements: 20
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -53,8 +45,6 @@ Legends speak of pat as a nexus where past and present converge. Locals describe
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

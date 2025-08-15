@@ -1,3 +1,12 @@
+---
+title: Hungry Sorrowsworn Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hungry Sorrowsworn Mpmm
 
 ---
@@ -30,11 +39,10 @@ updated: '2025-08-13T12:34:05.353270+00:00'
 world: Both
 ---
 
-# [[hungry-sorrowsworn-mpmm|Hungry Sorrowsworn]]
+# [[hungry sorrowsworn mpmm|Hungry Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sorrowsworn
 
@@ -123,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -141,11 +142,9 @@ Mentioned in The First Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

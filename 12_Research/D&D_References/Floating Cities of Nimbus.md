@@ -1,3 +1,12 @@
+---
+title: Floating Cities of Nimbus
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Floating Cities of Nimbus
 
 ---
@@ -15,7 +24,6 @@ updated: '2025-08-13T01:18:34.800341+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -27,11 +35,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

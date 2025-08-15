@@ -1,3 +1,12 @@
+---
+title: Feign Death Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Feign Death Xphb
 
 ---
@@ -44,14 +53,13 @@ world: Both
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed-xphb|Speed]] is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed xphb|Speed]] is 0.
 
-The target also has [[resistance-xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
+The target also has [[resistance xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 271*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ The target also has [[resistance-xphb|Resistance]] to all damage except Psychic 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

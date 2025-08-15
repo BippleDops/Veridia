@@ -1,3 +1,12 @@
+---
+title: Cave Fisher Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cave Fisher Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cave-fisher-mpmm-cave-fisher-mpmm.svg)
 
-# [[cave-fisher-mpmm|Cave Fisher]]
+# [[cave fisher mpmm|Cave Fisher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -39,7 +48,6 @@ A cave fisher is a subterranean arachnid with a long snout that houses spinneret
 A cave fisher usually hunts small animals and is particularly fond of bats, so it stretches a filament over an opening that such prey might travel through. It then climbs to a hiding spot and adheres itself to the surface to rest and wait. When prey blunders into the filament, the cave fisher reels in its meal. A group of cave fishers might work together to cover a large area with filaments, but as soon as one captures potential food, every cave fisher in the area competes for the prize. If a victim escapes from the initial ambush, a cave fisher can reclaim its prey by shooting a filament out to capture it again.
 
 Scarce food might draw a group of cave fishers up to the surface, into a shadowy canyon or a gloomy forest that features both native animal prey and creatures such as explorers or travelers occasionally moving through the area.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Scarce food might draw a group of cave fishers up to the surface, into a shadowy
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Valuable Parts
 
@@ -146,7 +149,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

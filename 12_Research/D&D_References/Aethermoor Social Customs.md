@@ -1,3 +1,12 @@
+---
+title: Aethermoor Social Customs
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor Social Customs
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-12T00:00:00+00:00'
 
 > *"In the realm of sky and cloud, where the earth falls away and only wind remains, we have learned that culture must be as adaptable as the air itself, yet as enduring as the eternal winds."* - [[Master Wind Rider Zephyr Stormcaller]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-12T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -484,11 +487,9 @@ The altitude-based social hierarchy provides natural tension and conflict opport
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Related Notes
 
@@ -497,16 +498,13 @@ Mentioned in The Second Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

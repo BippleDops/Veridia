@@ -1,3 +1,12 @@
+---
+title: Faction_Relationship_Web
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faction_Relationship_Web
 
 ---
@@ -16,7 +25,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Political Alliance & Conflict Map
 
@@ -181,11 +184,9 @@ Deep Cultists:  ░░░░░░░░░░ (0%)          ██████�
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

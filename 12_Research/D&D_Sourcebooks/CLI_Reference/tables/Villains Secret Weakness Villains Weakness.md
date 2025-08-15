@@ -1,3 +1,12 @@
+---
+title: Villains Secret Weakness Villains Weakness
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Villains Secret Weakness Villains Weakness
 
 ---
@@ -41,7 +50,6 @@ world: Both
 | 8 | The villain loses its power if a mystic bargain it struck long ago is completed. |
 ^villains-weakness
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

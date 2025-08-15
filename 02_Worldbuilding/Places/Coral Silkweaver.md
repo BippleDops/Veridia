@@ -23,11 +23,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-seamstress-coral-silkweaver-seamstress-coral-silkweaver.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,39 +53,30 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -136,12 +124,9 @@ Ongoing situations affecting Coral Silkweaver:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## A Day in the Life
 

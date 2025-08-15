@@ -1,3 +1,12 @@
+---
+title: Blue Slaad Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blue Slaad Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-blue-slaad-xmm-blue-slaad-xmm.svg)
 
-# [[blue-slaad-xmm|Blue Slaad]]
+# [[blue slaad xmm|Blue Slaad]]
 *Source: Monster Manual (2024) p. 285*  
 
 Almost as numerous as red slaadi, blue slaadi are muscular brutes with vicious blades extending from the backs of their claws. These claws carry a magical curse called chaos phage, which can transform victims into red or green slaadi. Blue slaadi accompany red slaadi and behave similarly. They innately know the signs of chaos phage and avoid slaying creatures that carry it or other slaad curses.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Almost as numerous as red slaadi, blue slaadi are muscular brutes with vicious b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Slaadi
 
@@ -68,8 +71,8 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater restoration xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
+> One can obtain a slaad's control gem using a [[wish xphb|Wish]] or [[imprisonment xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -99,11 +102,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "languages": "Slaad; telepathy 60 ft."
 "cr": "7"
 "traits":
-  - "desc": "The slaad has [[advantage-xphb|Advantage]]\
+  - "desc": "The slaad has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [[hit-points-xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
+  - "desc": "The slaad regains 10 [[hit points xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit points xphb|Hit Point]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The slaad makes three Mutating Claw attacks."
@@ -111,15 +114,15 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
       \ plus 3 (d6) Poison damage. If the target is a Humanoid not cursed by a slaad,\
       \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-      \ Failure: The target is cursed. The cursed target can't regain [[hit-points-xphb|Hit Points]],\
-      \ and its [[hit-points-xphb|Hit Point]] maximum\
+      \ Failure: The target is cursed. The cursed target can't regain [[hit points xphb|Hit Points]],\
+      \ and its [[hit points xphb|Hit Point]] maximum\
       \ decreases by 10 (3d6) after every 24 hours and doesn't return to normal after\
-      \ finishing a [[long-rest-xphb|Long Rest]].\
-      \ If the curse reduces the target's [[hit-points-xphb|Hit Point]]\
+      \ finishing a [[long rest xphb|Long Rest]].\
+      \ If the curse reduces the target's [[hit points xphb|Hit Point]]\
       \ maximum to 0, the curse ends, and instead of dying, the target instantly transforms\
-      \ into a [[red-slaad-xmm|Red Slaad]]\
-      \ or, if it can cast spells of level 3 or higher, a [[green-slaad-xmm|Green Slaad]].\
-      \ Only a [[wish-xphb|Wish]] spell can reverse this\
+      \ into a [[red slaad xmm|Red Slaad]]\
+      \ or, if it can cast spells of level 3 or higher, a [[green slaad xmm|Green Slaad]].\
+      \ Only a [[wish xphb|Wish]] spell can reverse this\
       \ transformation."
     "name": "Mutating Claw"
 "source":
@@ -148,7 +151,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -156,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

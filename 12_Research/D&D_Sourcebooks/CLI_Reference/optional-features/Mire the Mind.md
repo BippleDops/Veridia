@@ -1,3 +1,12 @@
+---
+title: Mire the Mind
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mire the Mind
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 5
 
-You can cast [[slow-xphb|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
+You can cast [[slow xphb|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can cast [[slow-xphb|slow]] once using a warlock spell slot. You can't do so
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

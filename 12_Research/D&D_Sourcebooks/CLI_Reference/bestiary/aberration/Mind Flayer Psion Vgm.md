@@ -1,3 +1,12 @@
+---
+title: Mind Flayer Psion Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mind Flayer Psion Vgm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mind-flayer-psion-vgm-mind-flayer-psion-vgm.svg)
 
-# [[mind-flayer-psion-vgm|Mind Flayer Psion]]
+# [[mind flayer psion vgm|Mind Flayer Psion]]
 *Source: Volo's Guide to Monsters p. 71*  
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Mind flayers sometimes devote themselves to deeper study of psionic power, and m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mind Flayer
 
@@ -84,7 +87,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[[breastplate-xphb|breastplate]]"
+"ac_class": "[[breastplate xphb|breastplate]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -115,21 +118,21 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
   - "desc": "The mind flayer is a 10th-level spellcaster. Its innate spellcasting\
       \ ability is Intelligence (spell save DC 15; +7 to hit with spell attacks).\
       \ It can innately cast the following spells, requiring no components:\n\nAt\
-      \ will: [[guidance-xphb|guidance]], [[mage-hand-xphb|mage hand]],\
-      \ [[vicious-mockery-xphb|vicious mockery]], [[true-strike-xphb|true\]]
-      \ strike]], [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\]]
-      \ monster]], [[plane-shift-xphb|plane shift]]\
-      \ (self only)\n\n1st level (4 slots): [[charm-person-xphb|charm person]],\
-      \ [[command-xphb|command]], [[comprehend-languages-xphb|comprehend languages]],\
-      \ [[sanctuary-xphb|sanctuary]]\n\n2nd level (3 slots):\
-      \ [[crown-of-madness-xphb|crown of madness]], [[phantasmal-force-xphb|phantasmal\]]
-      \ force]], [[see-invisibility-xphb|see invisibility]]\n\
-      \n3rd level (3 slots): [[clairvoyance-xphb|clairvoyance]],\
-      \ [[fear-xphb|fear]], [[meld-into-stone-xphb|meld into stone]]\n\
-      \n4th level (3 slots): [[confusion-xphb|confusion]],\
-      \ [[stone-shape-xphb|stone shape]]\n\n5th level\
-      \ (2 slots): [[scrying-xphb|scrying]], [[telekinesis-xphb|telekinesis]]"
+      \ will: [[guidance xphb|guidance]], [[mage hand xphb|mage hand]],\
+      \ [[vicious mockery xphb|vicious mockery]], [[true strike xphb|true\]]
+      \ strike]], [[detect thoughts xphb|detect thoughts]],\
+      \ [[levitate xphb|levitate]]\n\n1/day each: [[dominate monster xphb|dominate\]]
+      \ monster]], [[plane shift xphb|plane shift]]\
+      \ (self only)\n\n1st level (4 slots): [[charm person xphb|charm person]],\
+      \ [[command xphb|command]], [[comprehend languages xphb|comprehend languages]],\
+      \ [[sanctuary xphb|sanctuary]]\n\n2nd level (3 slots):\
+      \ [[crown of madness xphb|crown of madness]], [[phantasmal force xphb|phantasmal\]]
+      \ force]], [[see invisibility xphb|see invisibility]]\n\
+      \n3rd level (3 slots): [[clairvoyance xphb|clairvoyance]],\
+      \ [[fear xphb|fear]], [[meld into stone xphb|meld into stone]]\n\
+      \n4th level (3 slots): [[confusion xphb|confusion]],\
+      \ [[stone shape xphb|stone shape]]\n\n5th level\
+      \ (2 slots): [[scrying xphb|scrying]], [[telekinesis xphb|telekinesis]]"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The mind flayer has advantage on saving throws against spells and other\
       \ magical effects."
@@ -178,7 +181,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for power
@@ -190,7 +192,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

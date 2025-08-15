@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-archivist-the-archivist.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,15 +51,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -72,7 +62,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
@@ -86,8 +75,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -103,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

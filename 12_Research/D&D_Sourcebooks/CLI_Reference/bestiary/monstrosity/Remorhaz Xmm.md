@@ -1,3 +1,12 @@
+---
+title: Remorhaz Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Remorhaz Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-remorhaz-xmm-remorhaz-xmm.svg)
 
-# [[remorhaz-xmm|Remorhaz]]
+# [[remorhaz xmm|Remorhaz]]
 *Source: Monster Manual (2024) p. 258. Available in the SRD and the Free Rules (2024)*  
 
 Full-grown remorhazes are single-minded ambush predators. They attempt to bite prey and trap it against their searing bodies, then swallow their meal whole. Remorhazes eat as much as they can, since they might go months without feeding.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Full-grown remorhazes are single-minded ambush predators. They attempt to bite p
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Remorhazes
 
@@ -86,7 +89,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "cr": "11"
 "traits":
   - "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot\
-      \ [[emanation-area-of-effect-xphb|Emanation]]\
+      \ [[emanation area of effect xphb|Emanation]]\
       \ originating from the remorhaz takes 16 (3d10) Fire damage."
     "name": "Heat Aura"
 "actions":
@@ -102,7 +105,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
       \ The target is swallowed by the remorhaz, and the [[conditions#Grappled|Grappled]]\
       \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, it\
-      \ has [[cover-xphb|Total Cover]] against attacks\
+      \ has [[cover xphb|Total Cover]] against attacks\
       \ and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage\
       \ plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.\n\n\
       If the remorhaz takes 30 damage or more on a single turn from a creature inside\
@@ -139,11 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Grenade Launcher Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Grenade Launcher Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Weight**: 7.0 lbs.
 
-As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]].
+As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[sphere area of effect xphb|Sphere]].
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ As an action, you can either throw a grenade at a point up to 60 feet away or us
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Spellcasting Multiclass Spellcaster Spell
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spellcasting Multiclass Spellcaster Spell
 
 ---
@@ -51,7 +60,6 @@ world: Both
 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 ^multiclass-spellcaster-spell-slots-per-spell-level
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -63,11 +71,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -93,21 +95,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

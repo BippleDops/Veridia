@@ -1,3 +1,12 @@
+---
+title: Create Homunculus Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Create Homunculus Xge
 
 ---
@@ -34,16 +43,15 @@ world: Both
 - **Components:** V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)
 - **Duration:** Instantaneous
 
-While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking `2d4` piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a [[homunculus-xmm|homunculus]].
+While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking `2d4` piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a [[homunculus xmm|homunculus]].
 
-The statistics of the [[homunculus-xmm|homunculus]] are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.
+The statistics of the [[homunculus xmm|homunculus]] are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 152*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ You can have only one homunculus at a time. If you cast this spell while your ho
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,14 +81,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

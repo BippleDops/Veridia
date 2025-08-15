@@ -1,3 +1,12 @@
+---
+title: Depth Sickness Mechanics
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Depth Sickness Mechanics
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:17.784389+00:00'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Practical, table-ready rules for Depth Sickness Mechanics across Aquabyssos and Aethermoor.
@@ -56,7 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

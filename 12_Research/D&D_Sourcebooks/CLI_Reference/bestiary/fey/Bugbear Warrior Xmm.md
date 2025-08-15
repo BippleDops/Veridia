@@ -1,3 +1,12 @@
+---
+title: Bugbear Warrior Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bugbear Warrior Xmm
 
 ---
@@ -35,11 +44,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bugbear-warrior-xmm-bugbear-warrior-xmm.svg)
 
-# [[bugbear-warrior-xmm|Bugbear Warrior]]
+# [[bugbear warrior xmm|Bugbear Warrior]]
 *Source: Monster Manual (2024) p. 62. Available in the SRD and the Free Rules (2024)*  
 
 Bugbear warriors serve those who offer them treasure, food, or the chance to hunt challenging prey.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Bugbear warriors serve those who offer them treasure, food, or the chance to hun
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Bugbears
 
@@ -101,7 +104,7 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
       \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12)."
     "name": "Grab"
-  - "desc": "Melee  or Ranged Attack Roll: +4 (with [[advantage-xphb|Advantage]]\
+  - "desc": "Melee  or Ranged Attack Roll: +4 (with [[advantage xphb|Advantage]]\
       \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage."
     "name": "Light Hammer"
@@ -131,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals ancient history about this place
@@ -144,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

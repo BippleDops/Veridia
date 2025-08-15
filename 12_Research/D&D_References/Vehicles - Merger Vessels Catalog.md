@@ -1,3 +1,12 @@
+---
+title: Vehicles - Merger Vessels Catalog
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Merger Vessels Catalog
 
 ---
@@ -63,7 +72,6 @@ world: Both
 
 Integration keys: Anchors/RSB, Sanity & memory costs, Deep Mother bargains, Paradox rules.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -75,11 +83,6 @@ Integration keys: Anchors/RSB, Sanity & memory costs, Deep Mother bargains, Para
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -96,7 +99,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

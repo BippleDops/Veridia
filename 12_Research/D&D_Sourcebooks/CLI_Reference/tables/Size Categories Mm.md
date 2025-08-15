@@ -1,3 +1,12 @@
+---
+title: Size Categories Mm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Size Categories Mm
 
 ---
@@ -29,14 +38,13 @@ world: Both
 
 | Size | Space | Examples |
 |------|-------|----------|
-| Tiny | 2½ by 2½ ft. | [[imp-xmm|Imp]], [[sprite-xmm|sprite]] |
+| Tiny | 2½ by 2½ ft. | [[imp xmm|Imp]], [[sprite xmm|sprite]] |
 | Small | 5 by 5 ft. | [[giant-rat-xmm|Giant rat]], [[goblin-warrior-xmm|goblin]] |
-| Medium | 5 by 5 ft. | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]], [[werewolf-xmm|werewolf]] |
-| Large | 10 by 10 ft. | [[hippogriff-xmm|Hippogriff]], [[ogre-xmm|ogre]] |
-| Huge | 15 by 15 ft. | [[fire-giant-xmm|Fire giant]], [[treant-xmm|treant]] |
-| Gargantuan | 20 by 20 ft. or larger | [[kraken-xmm|Kraken]], [[purple-worm-xmm|purple worm]] |
+| Medium | 5 by 5 ft. | [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Orc]], [[werewolf xmm|werewolf]] |
+| Large | 10 by 10 ft. | [[hippogriff xmm|Hippogriff]], [[ogre xmm|ogre]] |
+| Huge | 15 by 15 ft. | [[fire-giant-xmm|Fire giant]], [[treant xmm|treant]] |
+| Gargantuan | 20 by 20 ft. or larger | [[kraken xmm|Kraken]], [[purple-worm-xmm|purple worm]] |
 ^size-categories
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for love
@@ -81,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Forgotten Realms Savras
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forgotten Realms Savras
 
 ---
@@ -32,7 +41,6 @@ world: Both
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Crystal ball containing many kinds of eyes
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,16 +69,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -88,7 +88,6 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

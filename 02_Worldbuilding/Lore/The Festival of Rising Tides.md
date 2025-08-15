@@ -34,15 +34,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Festival of Rising Tides
 
 *The Great Awakening of Waters and Spirits*
 
 > *"When the spring tides reach their highest peak and the Deep Mother stirs from winter's rest, all of Aquabyssos rejoices in the eternal dance between water and soul. In those seven sacred days, we remember who we are - children of the tide, keepers of the depths, and guardians of the eternal flow."*
 > — [[High Tide Celebrant Coral Festivus]], Master of Ceremonies
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,11 +68,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -85,17 +80,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -105,8 +96,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -589,7 +578,7 @@ Specialist in memory preservation and spiritual healing, providing individual an
 **[[Festival Artisans Guild]]** - Cultural Craft Organization
 Professional organization coordinating artisan activities, craft fairs, and cultural preservation efforts during festival events. Primary contact for craft participation and cultural arts education.
 
-**[[Inter-Community Harmony Council]]** - Diplomatic Organization
+**[[Inter Community Harmony Council]]** - Diplomatic Organization
 Coordinating body managing relationships between different communities during festival activities. Key organization for diplomatic activities and inter-community cooperation.
 
 **[[Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]]** - Religious Organization
@@ -639,12 +628,9 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Cultural Practices
 
@@ -657,7 +643,6 @@ Mentioned in The Hidden Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

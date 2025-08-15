@@ -1,3 +1,12 @@
+---
+title: Military Saddle Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Military Saddle Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 20 gp
 - **Weight**: 30.0 lbs.
 
-A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[advantage-xphb|Advantage]] on any ability check you make to remain mounted.
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[advantage xphb|Advantage]] on any ability check you make to remain mounted.
 
 *Source: Player's Handbook (2024) p. 230. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A saddle comes with a bit, a bridle, reins, and any other equipment needed to us
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and war looms
@@ -84,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

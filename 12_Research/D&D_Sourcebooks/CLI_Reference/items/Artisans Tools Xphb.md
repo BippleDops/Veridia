@@ -1,3 +1,12 @@
+---
+title: Artisans Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Artisans Tools Xphb
 
 ---
@@ -32,26 +41,25 @@ world: Both
 
 **Items in this group:**
 
-- [[alchemists-supplies-xphb|Alchemist's Supplies]]
-- [[brewers-supplies-xphb|Brewer's Supplies]]
-- [[calligraphers-supplies-xphb|Calligrapher's Supplies]]
-- [[carpenters-tools-xphb|Carpenter's Tools]]
-- [[cartographers-tools-xphb|Cartographer's Tools]]
-- [[cobblers-tools-xphb|Cobbler's Tools]]
-- [[cooks-utensils-xphb|Cook's Utensils]]
-- [[glassblowers-tools-xphb|Glassblower's Tools]]
-- [[jewelers-tools-xphb|Jeweler's Tools]]
-- [[leatherworkers-tools-xphb|Leatherworker's Tools]]
-- [[masons-tools-xphb|Mason's Tools]]
-- [[painters-supplies-xphb|Painter's Supplies]]
-- [[potters-tools-xphb|Potter's Tools]]
-- [[smiths-tools-xphb|Smith's Tools]]
-- [[tinkers-tools-xphb|Tinker's Tools]]
-- [[weavers-tools-xphb|Weaver's Tools]]
-- [[woodcarvers-tools-xphb|Woodcarver's Tools]]
+- [[alchemists supplies xphb|Alchemist's Supplies]]
+- [[brewers supplies xphb|Brewer's Supplies]]
+- [[calligraphers supplies xphb|Calligrapher's Supplies]]
+- [[carpenters tools xphb|Carpenter's Tools]]
+- [[cartographers tools xphb|Cartographer's Tools]]
+- [[cobblers tools xphb|Cobbler's Tools]]
+- [[cooks utensils xphb|Cook's Utensils]]
+- [[glassblowers tools xphb|Glassblower's Tools]]
+- [[jewelers tools xphb|Jeweler's Tools]]
+- [[leatherworkers tools xphb|Leatherworker's Tools]]
+- [[masons tools xphb|Mason's Tools]]
+- [[painters supplies xphb|Painter's Supplies]]
+- [[potters tools xphb|Potter's Tools]]
+- [[smiths tools xphb|Smith's Tools]]
+- [[tinkers tools xphb|Tinker's Tools]]
+- [[weavers tools xphb|Weaver's Tools]]
+- [[woodcarvers tools xphb|Woodcarver's Tools]]
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,16 +89,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -111,21 +111,17 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

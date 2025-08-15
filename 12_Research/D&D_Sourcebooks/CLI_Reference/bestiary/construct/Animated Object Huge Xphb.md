@@ -1,3 +1,12 @@
+---
+title: Animated Object Huge Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animated Object Huge Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-object-huge-xphb-animated-object-huge-xphb.svg)
 
-# [[animated-object-huge-xphb|Animated Object (Huge)]]
+# [[animated object huge xphb|Animated Object (Huge)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock
@@ -58,7 +67,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -70,11 +78,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -91,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

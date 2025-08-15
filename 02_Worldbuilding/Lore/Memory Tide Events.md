@@ -30,12 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Memory Tide Events
-
-![[04_Resources/Assets/Art/Lore/Memory_Tide_Events.png|Memory Tide Events Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,18 +63,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -89,8 +79,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
@@ -99,7 +87,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Summary
 
@@ -125,8 +112,6 @@ Memory Tide Events represents an important aspect of the world's history, cultur
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -143,7 +128,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 
@@ -162,7 +146,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Aura of Life Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aura of Life Xphb
 
 ---
@@ -38,12 +47,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance-xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
+An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 

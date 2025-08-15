@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg]]
 
 # The Forsaken Consortium Collective
 *Claiming What Others Left Behind*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,18 +54,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -78,8 +69,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -93,7 +82,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -256,8 +244,8 @@ Massive warehouse and manufacturing complex originally built by the [[Silverscal
 20. **The Legacy Decision**: Character inherits connection to pre-Collective industrial history, must decide how to honor past while building future.
 
 ## Related Quests
-- [[Quest - The Crystal Innovatio]] - Developing new crystal applications and technologies
-- [[Quest - Nature's Balance]] - Environmental restoration and sustainable development
+- [[Quest   The Crystal Innovatio]] - Developing new crystal applications and technologies
+- [[Quest   Nature's Balance]] - Environmental restoration and sustainable development
 - **The Recognition Campaign** - Achieving formal government acknowledgment and legal status
 - **The Hostile Takeover** - Defending against corporate attempts to reclaim facilities
 - **The Democratic Experiment** - Navigating internal goverce challenges and decision-making
@@ -290,11 +278,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Historical Timeline
 
@@ -313,7 +299,6 @@ Things widely suspected
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -331,7 +316,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

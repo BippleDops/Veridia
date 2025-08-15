@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-aethermoor-aethermoor.svg]]
 
 # Aethermoor
 *The Shattered Crown Continent*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,13 +55,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -83,11 +75,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -97,7 +87,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 Aethermoor is a continent forever changed by the Great Crystallization, an event 500 years ago when massive spires of crystallized magic erupted from the earth. These Aether Crystals grant incredible magical power but come with a terrible price - prolonged exposure causes crystalline corruption, slowly transforming living beings into crystal themselves.
@@ -224,17 +213,13 @@ Aethermoor is a notable location characterized by its unique features and strate
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -257,7 +242,6 @@ Mentioned in The First Prophecy of Depths
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

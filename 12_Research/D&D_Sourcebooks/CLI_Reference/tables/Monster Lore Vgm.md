@@ -1,3 +1,12 @@
+---
+title: Monster Lore Vgm
+type: lore
+tags:
+- lore
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Monster Lore Vgm
 
 ---
@@ -31,7 +40,6 @@ world: Both
 | Giants | Hags | Orcs |
 | Gnolls | Kobolds | Yuan-ti |
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Related Notes
 
@@ -77,7 +78,6 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

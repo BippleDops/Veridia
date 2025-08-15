@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg]]
 
 # The Waking Prophets
 
 *"Sleep is death's rehearsal - we practice eternal vigilance." - Prophet Insomnia*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,19 +65,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -90,7 +80,6 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -104,7 +93,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Waking Prophets believe that sleep is a curse that separates consciousness from divine truth. This ascetic order practices extreme sleep deprivation, claiming that exhaustion-induced visions reveal authentic prophecy. Members undergo rigorous training to function without sleep while maintaining prophetic clarity.
@@ -169,8 +157,6 @@ The group has achieved notable success in predicting events, though critics argu
 4. Rescue mission to extract someone from cult involvement
 5. Competition with other prophetic organizations over accuracy
 6. Government seeks consultation on interpreted threat
-
- 
 
 ## Background
 

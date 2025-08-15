@@ -1,3 +1,12 @@
+---
+title: Giant Strider Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Strider Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-strider-mpmm-giant-strider-mpmm.svg)
 
-# [[giant-strider-mpmm|Giant Strider]]
+# [[giant strider mpmm|Giant Strider]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
 
 > [!quote] A quote from Mordenkainen  
@@ -91,7 +100,6 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -103,11 +111,6 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -129,7 +132,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -143,11 +145,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

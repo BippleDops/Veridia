@@ -1,3 +1,12 @@
+---
+title: Arcane Study Charm Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arcane Study Charm Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Arcane Study Charm
 *Charm*  
 
-After spending a [[long-rest-xphb|Long Rest]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[identify-xphb|Identify]] without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a [[long rest xphb|Long Rest]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[identify xphb|Identify]] without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 *Source: Dungeon Master's Guide (2024) p. 336*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ After spending a [[long-rest-xphb|Long Rest]] in your "Bastion", you gain a magi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -82,16 +83,13 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

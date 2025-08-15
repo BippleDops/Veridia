@@ -36,12 +36,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Merchant Lord Silas Copperfield
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png|Merchant Lord Silas Copperfield Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,12 +65,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -89,13 +81,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
@@ -105,7 +93,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 Merchant Lord Silas Copperfield is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -159,16 +146,12 @@ Ongoing situations affecting Merchant Lord Silas Copperfield:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
 
-
 ## Plot Hooks
 
-- Strange accidents suggest a curse
 - Strange accidents suggest a curse
 - A stranger needs help investigating before winter
 

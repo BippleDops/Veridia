@@ -1,3 +1,12 @@
+---
+title: List Optfeaturetype Mm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Optfeaturetype Mm
 
 ---
@@ -25,27 +34,16 @@ world: Both
 # Metamagic
 *Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the SRD* 
 
-- [[careful-spell-xphb|Careful Spell]]
-- [[careful-spell-xphb|Careful Spell]]
-- [[distant-spell-xphb|Distant Spell]]
-- [[distant-spell-xphb|Distant Spell]]
-- [[empowered-spell-xphb|Empowered Spell]]
-- [[empowered-spell-xphb|Empowered Spell]]
-- [[extended-spell-xphb|Extended Spell]]
-- [[extended-spell-xphb|Extended Spell]]
-- [[heightened-spell-xphb|Heightened Spell]]
-- [[heightened-spell-xphb|Heightened Spell]]
-- [[quickened-spell-xphb|Quickened Spell]]
-- [[quickened-spell-xphb|Quickened Spell]]
-- [[seeking-spell-xphb|Seeking Spell]]
-- [[seeking-spell-xphb|Seeking Spell]]
-- [[subtle-spell-xphb|Subtle Spell]]
-- [[subtle-spell-xphb|Subtle Spell]]
-- [[transmuted-spell-xphb|Transmuted Spell]]
-- [[transmuted-spell-xphb|Transmuted Spell]]
-- [[twinned-spell-xphb|Twinned Spell]]
-- [[twinned-spell-xphb|Twinned Spell]]
-
+- [[careful spell xphb|Careful Spell]]
+- [[distant spell xphb|Distant Spell]]
+- [[empowered spell xphb|Empowered Spell]]
+- [[extended spell xphb|Extended Spell]]
+- [[heightened spell xphb|Heightened Spell]]
+- [[quickened spell xphb|Quickened Spell]]
+- [[seeking spell xphb|Seeking Spell]]
+- [[subtle spell xphb|Subtle Spell]]
+- [[transmuted spell xphb|Transmuted Spell]]
+- [[twinned spell xphb|Twinned Spell]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Elven Hanali Celanil Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Hanali Celanil Mtf
 
 ---
@@ -40,7 +49,6 @@ In Arvandor, Hanali maintains a hidden pool called Evergold. She bathes in it at
 
 Priests of Hanali perform weddings between elves and preside over most other family-related ceremonies. Other than nuptials and a spate of spring celebrations, the priests conduct few observances.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ Priests of Hanali perform weddings between elves and preside over most other fam
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Pools of Beauty
 
@@ -82,16 +85,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -106,7 +106,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

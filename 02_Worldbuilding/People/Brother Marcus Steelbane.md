@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg]]
 
 # Brother Marcus Steelbane
 *The Iron Monk, Guardian of the Sacred Flame*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,13 +56,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -76,16 +68,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -96,12 +85,11 @@ improvements: 20
 
 - Describe rites of passage and adulthood markers
 
-
 ## Overview
-Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[Aethermoor]], serving the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
+Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[Aethermoor]], serving the [[02 Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
 
 ## Background
-Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
+Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[02 Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
 
 ## Secrets
 > [!warning] DM Only
@@ -199,16 +187,13 @@ Brother Marcus Steelbane is a undersea element of the setting, known for biolumi
 
 Legends speak of Brother Marcus Steelbane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Brother Marcus Steelbane.
 
-
 ## Bloodline
 
 Member of House Wolfblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Economic Structure
 

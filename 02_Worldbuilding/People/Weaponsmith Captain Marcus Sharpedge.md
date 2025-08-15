@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-weaponsmith-captain-marcus-sharpedge-v1-weaponsmith-captain-marcus-sharpedge.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,18 +52,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -89,12 +80,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -167,11 +156,9 @@ Weaponsmith Captain Marcus Sharpedge is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Economic Structure
 
@@ -190,7 +177,6 @@ Mentioned in The Second Prophecy of Depths
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

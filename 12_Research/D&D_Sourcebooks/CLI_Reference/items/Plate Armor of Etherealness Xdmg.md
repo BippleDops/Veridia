@@ -1,3 +1,12 @@
+---
+title: Plate Armor of Etherealness Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Plate Armor of Etherealness Xdmg
 
 ---
@@ -36,10 +45,9 @@ world: Both
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-While you're wearing this armor, you can take a [[actions#Magic|Magic]] action and use a command word to gain the effect of the [[etherealness-xphb|Etherealness]] spell. The spell ends immediately if you remove the armor or take a [[actions#Magic|Magic]] action to repeat the command word. This property of the armor can't be used again until the next dawn.
+While you're wearing this armor, you can take a [[actions#Magic|Magic]] action and use a command word to gain the effect of the [[etherealness xphb|Etherealness]] spell. The spell ends immediately if you remove the armor or take a [[actions#Magic|Magic]] action to repeat the command word. This property of the armor can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 286. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ While you're wearing this armor, you can take a [[actions#Magic|Magic]] action a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,16 +77,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Sword of Answering Squelcher
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sword of Answering Squelcher
 
 ---
@@ -29,12 +38,12 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-squelcher-sword-of-answering-squelcher.svg)
 
 # Sword of Answering (Squelcher)
-*Weapon ([[longsword-xphb|longsword]]), major, legendary (requires attunement by a neutral evil creature)*  
+*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a neutral evil creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as "Final Word." Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.
@@ -44,7 +53,6 @@ Squelcher, the Neutral Evil sword, has a spinel set in its pommel.
 You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
 
 *Source: Dungeon Master's Guide p. 206*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ You gain a +3 bonus to attack and damage rolls made with this sword. In addition
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals a betrayal about the government
@@ -89,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Primordial Ward Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Primordial Ward Xge
 
 ---
@@ -38,10 +47,9 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 163*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ When you take damage of one of those types, you can use your reaction to gain im
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -95,11 +96,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

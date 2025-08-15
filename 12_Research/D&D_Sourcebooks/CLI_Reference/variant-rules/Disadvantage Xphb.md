@@ -1,3 +1,12 @@
+---
+title: Disadvantage Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Disadvantage Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Disadvantage
 *Source: Player's Handbook (2024) p. 366. Available in the SRD and the Free Rules (2024)* 
 
-If you have Disadvantage on a [[d20-test-xphb|D20 Test]], roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and [[advantage-xphb|Advantage]] and Disadvantage on the same roll cancel each other.
-
+If you have Disadvantage on a [[d20 test xphb|D20 Test]], roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and [[advantage xphb|Advantage]] and Disadvantage on the same roll cancel each other.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ If you have Disadvantage on a [[d20-test-xphb|D20 Test]], roll two d20s and use 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,16 +64,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Bag of Holding Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bag of Holding Xdmg
 
 ---
@@ -34,10 +43,9 @@ This bag has an interior space considerably larger than its outside dimensionsâ€
 
 If the bag is overloaded, pierced, or torn, it is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth unharmed, but the bag must be put right before it can be used again. The bag holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing a Bag of Holding inside an extradimensional space created by a [[hewards-handy-haversack-xdmg|Heward's Handy Haversack]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
+Placing a Bag of Holding inside an extradimensional space created by a [[hewards handy haversack xdmg|Heward's Handy Haversack]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius [[sphere area of effect xphb|Sphere]] centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the SRD and the Free Rules (2024)*
-
 
 ## ðŸ”§ Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Placing a Bag of Holding inside an extradimensional space created by a [[hewards
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

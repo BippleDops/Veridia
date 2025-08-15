@@ -1,3 +1,12 @@
+---
+title: Young Copper Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Copper Dragon Xmm
 
 ---
@@ -28,11 +37,10 @@ updated: '2025-08-13T12:34:06.033093+00:00'
 world: Both
 ---
 
-# [[young-copper-dragon-xmm|Young Copper Dragon]]
+# [[young copper dragon xmm|Young Copper Dragon]]
 *Source: Monster Manual (2024) p. 78. Available in the SRD and the Free Rules (2024)*  
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Young copper dragons forge strong connections with a community or group of frien
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Copper Dragons
 
@@ -105,12 +108,12 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 40 (9d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target can't take Reactions; its [[speed-xphb|Speed]]\
-      \ is halved; and it can take either an action or a [[bonus-action-xphb|Bonus Action]]\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+      \ Failure: The target can't take Reactions; its [[speed xphb|Speed]]\
+      \ is halved; and it can take either an action or a [[bonus action xphb|Bonus Action]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
 "source":
@@ -138,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

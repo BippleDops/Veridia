@@ -1,3 +1,12 @@
+---
+title: Eyes of Minute Seeing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eyes of Minute Seeing Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Eyes of Minute Seeing
 *Wondrous item, uncommon*  
 
-These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you [[senses#Darkvision|Darkvision]] within that range and [[advantage-xphb|Advantage]] on Intelligence ([[skills#Investigation|Investigation]]) checks made to examine something within that range.
+These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you [[senses#Darkvision|Darkvision]] within that range and [[advantage xphb|Advantage]] on Intelligence ([[skills#Investigation|Investigation]]) checks made to examine something within that range.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ These crystal lenses fit over the eyes. While wearing them, your vision improves
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,16 +71,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

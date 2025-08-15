@@ -1,3 +1,12 @@
+---
+title: Potion of Longevity Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Longevity Xdmg
 
 ---
@@ -38,7 +47,6 @@ Suspended in this amber liquid is a tiny heart that, against all reason, is stil
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Suspended in this amber liquid is a tiny heart that, against all reason, is stil
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,21 +75,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

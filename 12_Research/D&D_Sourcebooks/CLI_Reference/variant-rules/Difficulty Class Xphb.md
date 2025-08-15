@@ -1,3 +1,12 @@
+---
+title: Difficulty Class Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Difficulty Class Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Difficulty Class
 *Source: Player's Handbook (2024) p. 366. Available in the SRD and the Free Rules (2024)* 
 
-A Difficulty Class (DC) is the target number for an ability check or a [[saving-throw-xphb|saving throw]].
-
+A Difficulty Class (DC) is the target number for an ability check or a [[saving throw xphb|saving throw]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A Difficulty Class (DC) is the target number for an ability check or a [[saving-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

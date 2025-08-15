@@ -31,12 +31,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Temple of the Sunken Cathedral
 
 *"Where prayers flow upward and faith sinks down, where the sacred drowns in deeper truth."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,24 +62,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -100,7 +90,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -371,8 +360,6 @@ Ongoing situations affecting Temple of the Sunken Cathedral:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

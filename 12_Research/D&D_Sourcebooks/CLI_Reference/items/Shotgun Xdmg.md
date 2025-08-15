@@ -1,3 +1,12 @@
+---
+title: Shotgun Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shotgun Xdmg
 
 ---
@@ -32,11 +41,10 @@ world: Both
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Ammunition|Ammunition]], [[item properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

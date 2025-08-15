@@ -1,3 +1,12 @@
+---
+title: Merchant_Guild_Membership_Benefits
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merchant_Guild_Membership_Benefits
 
 ---
@@ -69,7 +78,6 @@ world: Both
 *Join today and expand your trading horizons across both realms*
 *Guild motto: "Profit through unity, prosperity through courage"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -81,11 +89,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -99,16 +102,13 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

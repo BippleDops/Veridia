@@ -1,3 +1,12 @@
+---
+title: Silvered Ammunition
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Silvered Ammunition
 
 ---
@@ -50,7 +59,6 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 *Source: Player's Handbook p. 148. Available in the Basic Rules (2014)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -62,11 +70,6 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing an heir for love
@@ -93,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

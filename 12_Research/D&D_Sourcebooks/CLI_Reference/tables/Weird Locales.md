@@ -1,3 +1,12 @@
+---
+title: Weird Locales
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Weird Locales
 
 ---
@@ -32,7 +41,7 @@ world: Both
 | dice: d20 | Locale |
 |-----------|--------|
 | 1-2 | Dead magic zone (similar to an antimagic field) |
-| 3 | Wild magic zone (roll on the [[wild-magic-surge-phb|Wild Magic Surge]] table in the Player's Handbook whenever a spell is cast within the zone) |
+| 3 | Wild magic zone (roll on the [[wild magic surge phb|Wild Magic Surge]] table in the Player's Handbook whenever a spell is cast within the zone) |
 | 4 | Boulder carved with talking faces |
 | 5 | Crystal cave that mystically answers questions |
 | 6 | Ancient tree containing a trapped spirit |
@@ -49,7 +58,6 @@ world: Both
 | 20 | Floating earth mote with a tower on it |
 ^weird-locales
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -61,11 +69,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

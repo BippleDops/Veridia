@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-spiral-sanctum-the-spiral-sanctum.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,27 +52,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -86,12 +76,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -142,12 +130,9 @@ Ongoing situations affecting The Spiral Sanctum:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -173,7 +158,6 @@ Ongoing situations affecting The Spiral Sanctum:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -191,7 +175,6 @@ Ongoing situations affecting The Spiral Sanctum:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Otilukes Freezing Sphere Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Otilukes Freezing Sphere Xphb
 
 ---
@@ -44,10 +53,9 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 6.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 302. Available in the SRD (as "Freezing Sphere") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ You can refrain from firing the globe after completing the spell's casting. If y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -98,7 +99,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

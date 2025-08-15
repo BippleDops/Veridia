@@ -1,3 +1,12 @@
+---
+title: Prismatic Wall Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Prismatic Wall Xphb
 
 ---
@@ -50,16 +59,15 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 | 1 | **Red.** *Failed Save:* `12d6` Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
 | 2 | **Orange.** *Failed Save:* `12d6` Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [[gust-of-wind-xphb|Gust of Wind]]). |
 | 3 | **Yellow.** *Failed Save:* `12d6` Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |
-| 4 | **Green.** *Failed Save:* `12d6` Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A [[passwall-xphb|Passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
+| 4 | **Green.** *Failed Save:* `12d6` Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A [[passwall xphb|Passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
 | 5 | **Blue.** *Failed Save:* `12d6` Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |
-| 6 | **Indigo.** *Failed Save:* The target has the [[conditions#Restrained|Restrained]] condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [[conditions#Petrified|Petrified]] condition until it is freed by an effect like the [[greater-restoration-xphb|Greater Restoration]] spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by [[bright-light-xphb|Bright Light]] shed by the [[daylight-xphb|Daylight]] spell. |
+| 6 | **Indigo.** *Failed Save:* The target has the [[conditions#Restrained|Restrained]] condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [[conditions#Petrified|Petrified]] condition until it is freed by an effect like the [[greater-restoration-xphb|Greater Restoration]] spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by [[bright-light-xphb|Bright Light]] shed by the [[daylight xphb|Daylight]] spell. |
 | 7 | **Violet.** *Failed Save:* The target has the [[conditions#Blinded|Blinded]] condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [[dispel-magic-xphb|Dispel Magic]]. |
 ^prismatic-layers
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 308. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,11 +80,6 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before the festival
@@ -105,7 +107,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

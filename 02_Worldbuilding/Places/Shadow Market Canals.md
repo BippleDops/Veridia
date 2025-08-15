@@ -41,15 +41,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-market-canals-shadow-market-canals.svg]]
 
 # Shadow Market Canals
 
 *"In the deepest channels beneath the city, where official maps fear to tread, commerce flows as dark and swift as the currents themselves."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,19 +74,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -100,7 +90,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
@@ -109,8 +98,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -343,7 +330,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[Speed-Current Jet]], a reformed street racing champion
+**Leadership**: [[Speed Current Jet]], a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation
 
 ### The Depth Dealers
@@ -351,7 +338,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
 **Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[Arcane-Depth Void]], mysterious figure who may not be entirely human
+**Leadership**: [[Arcane Depth Void]], mysterious figure who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts
 
 ### The Silent Current
@@ -367,7 +354,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
+**Leadership**: [[Mind Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
 ### Direct Physical Connections
@@ -393,7 +380,7 @@ Unofficial connection through royal intelligence networks:
 - Discrete disposal of politically sensitive items
 - Emergency communication channels during crises
 
-**[[Reflection Pools - Surgical Theater]]**
+**[[Reflection Pools   Surgical Theater]]**
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments
@@ -655,8 +642,6 @@ Ongoing situations affecting Shadow Market Canals:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A journal reveals ancient history about this place
@@ -680,7 +665,6 @@ Ongoing situations affecting Shadow Market Canals:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

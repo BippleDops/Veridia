@@ -1,3 +1,12 @@
+---
+title: Portable Ram Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Portable Ram Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 4 gp
 - **Weight**: 35.0 lbs.
 
-You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[advantage-xphb|Advantage]] on this check.
+You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[advantage xphb|Advantage]] on this check.
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ You can use a Portable Ram to break down doors. When doing so, you gain a +4 bon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Party Shadows
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Party Shadows
 
 ---
@@ -57,7 +66,6 @@ The **Party Shadows** represent the darkest evolution of Aquabyssos political ma
 
 Unlike conventional political organizations, the Party Shadows operate through layers of plausible deniability and memory modification. Their members exist in a state of controlled shadow-integration, maintaining enough humanity to navigate society while possessing enough shadow-nature to access the realm's darker powers. They are the whispered rumors made manifest, the forgotten votes that change everything, the shadows behind the throne that cast no reflection.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -69,11 +77,6 @@ Unlike conventional political organizations, the Party Shadows operate through l
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organizational Structure
 
@@ -240,7 +243,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the festival
@@ -252,7 +254,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

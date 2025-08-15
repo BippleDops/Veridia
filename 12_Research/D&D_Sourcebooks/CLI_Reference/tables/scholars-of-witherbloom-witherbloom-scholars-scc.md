@@ -1,3 +1,12 @@
+---
+title: scholars-of-witherbloom-witherbloom-scholars-scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # scholars-of-witherbloom-witherbloom-scholars-scc
 
 ---
@@ -40,7 +49,6 @@ world: Both
 | 8 | Pestcatcher, harvesting life energy from the pests of the bayou | Decay |
 ^witherbloom-scholars
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

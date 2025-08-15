@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,20 +47,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -77,12 +67,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Basic Information
 
@@ -193,7 +181,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]] (ally)
-- [[02_Worldbuilding_People_Dr._Marina_Coralheart_-_Shadow]] (rival)
+- [[02_Worldbuilding_People_Dr._Marina_Coralheart_ _Shadow]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -201,7 +189,6 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Historical Timeline
 

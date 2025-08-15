@@ -1,3 +1,12 @@
+---
+title: Halfling Cyrrollalee Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Cyrrollalee Mtf
 
 ---
@@ -41,7 +50,6 @@ So Cyrrollalee set all the people in the town to baking pies, but not just any p
 
 Cyrrollalee returned a hero, and from that day forward all the townsfolk remembered her with a word of thanks when baking pies.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ Cyrrollalee returned a hero, and from that day forward all the townsfolk remembe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before dawn
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

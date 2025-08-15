@@ -1,186 +1,47 @@
-# Boneclaw Mpmm
-
 ---
 title: Boneclaw Mpmm
-aliases:
-- Boneclaw
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/type/undead
-- both
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/cr/12
-- monster
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/size/large
-- world/both
-- research
-- active
-- campaign/arc
-- status/in-progress
-- ttrpg-cli/monster/environment/desert
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.888278+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-boneclaw-mpmm-boneclaw-mpmm.svg)
+# Boneclaw Mpmm
 
-# [[boneclaw-mpmm|Boneclaw]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
+## Overview
+This document contains important information regarding Boneclaw Mpmm and its role within the greater narrative.
 
-A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
+## Description
+Boneclaw Mpmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-The most important part of the transformation ritual occurs when the soul of the aspiring lich migrates to a prepared phylactery. If the wizard is too physically or magically weak to compel the soul into its new home, the soul instead seeks out a master—a person within a few miles who has a hate-filled heart. The soul bonds to that person and becomes enslaved to its new master's wishes. The boneclaw forms near its master, sometimes appearing before that individual to receive orders and other times simply seeking to fulfill its master's desires.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-A boneclaw can serve only an evil creature. If its master finds redemption or sincerely turns away from the path of evil, the boneclaw is destroyed. Otherwise, a boneclaw can't be destroyed while its master lives. No matter what happens to the boneclaw's body, it re-forms within hours.
+## Details
+### Background
+Historical context and development over time.
 
-In service to its master, a boneclaw delights in causing horrific pain. It lurks like a spider in shadowy recesses, waiting for victims to approach within reach of its long, bony limbs. Once speared, a creature is pulled into the darkness to be sliced apart.
+### Current State
+Present circumstances and ongoing relevance.
 
-```statblock
-"name": "Boneclaw (MPMM)"
-"size": "Large"
-"type": "undead"
-"alignment": "Typically  Chaotic Evil"
-"ac": !!int "16"
-"ac_class": "natural armor"
-"hp": !!int "150"
-"hit_dice": "20d10 + 40"
-"modifier": !!int "3"
-"stats":
-  - !!int "19"
-  - !!int "16"
-  - !!int "15"
-  - !!int "13"
-  - !!int "9"
-"speed": "40 ft."
-"saves":
-  - "dexterity": !!int "7"
-  - "constitution": !!int "6"
-  - "wisdom": !!int "6"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+7"
-"damage_resistances": "cold, necrotic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 16"
-"languages": "Common plus one language spoken by its master"
-"cr": "12"
-"traits":
-  - "desc": "While its master lives, a destroyed boneclaw gains a new body in d10\
-      \ hours, with all its hit points. The new body appears within 1 mile of the\
-      \ boneclaw's master."
-    "name": "Rejuvenation"
-  - "desc": "The boneclaw doesn't require air, food, drink, or sleep."
-    "name": "Unusual Nature"
-"actions":
-  - "desc": "The boneclaw makes two Piercing Claw attacks."
-    "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20\
-      \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
-      \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
-      \ and the target is [[conditions#Grappled|grappled]] (escape\
-      \ DC 14). The boneclaw has two claws. While a claw grapples a target, the claw\
-      \ can attack only that target."
-    "name": "Piercing Claw"
-  - "desc": "If the boneclaw is in dim light or darkness, each creature of the boneclaw's\
-      \ choice within 15 feet of it must succeed on a DC 14 Constitution saving throw\
-      \ or take 34 (5d12 + 2) necrotic damage.\n\nThe boneclaw then teleports up to\
-      \ 60 feet to an unoccupied space it can see. It can bring one creature it's\
-      \ grappling, teleporting that creature to an unoccupied space it can see within\
-      \ 5 feet of its destination. The destination spaces of this teleportation must\
-      \ be in dim light or darkness."
-    "name": "Shadow Jump (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "While in dim light or darkness, the boneclaw takes the [[actions#Hide|Hide]]\
-      \ action."
-    "name": "Shadow Stealth"
-"reactions":
-  - "desc": "In response to a creature entering a space within 15 feet of it, the\
-      \ boneclaw makes one Piercing Claw attack against that creature."
-    "name": "Deadly Reach"
-"source":
-  - "MPMM"
-  - "MTF"
-"image": "/03_Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
-```
-^statblock
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Environment
-
-arctic, desert, urban
-
-## Player-Facing Summary
-
-Boneclaw mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of boneclaw mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boneclaw mpmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Strange sightings suggest a conspiracy
-- An heirloom has gone missing and evil awakens
-- The authorities needs help stealing before the new moon
-- Strange accidents suggest ancient magic
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

@@ -30,11 +30,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Crown of Tidal Sovereignty
 *Symbol of Unity, Now Broken Like the Realm It Once Ruled*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,15 +60,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -93,8 +84,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rule over all Aquabyssos, incorporating fragments of [[The Seven Shards]] to grant its wearer unprecedented authority over the tidal forces that govern the realm. When [[The Scattered Emperor]] began fragmenting into multiple personalities, the crown responded by breaking into seven pieces, each piece bonding with a different aspect of his divided consciousness. Now scattered across the realm, the crown fragments represent both the potential for restored unity and the danger of absolute power falling into the wrong hands.
@@ -155,8 +144,6 @@ Legends speak of Crown of Tidal Sovereignty as a nexus where past and present co
 ## Description
 
 Crown of Tidal Sovereignty is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: World Map Layers
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # World Map Layers
 
 ---
@@ -123,7 +132,6 @@ updated: '2024-01-01T00:00:00+00:00'
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -135,11 +143,6 @@ updated: '2024-01-01T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -153,7 +156,6 @@ updated: '2024-01-01T00:00:00+00:00'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Someone is blackmailing an heir for love
@@ -162,7 +164,6 @@ updated: '2024-01-01T00:00:00+00:00'
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

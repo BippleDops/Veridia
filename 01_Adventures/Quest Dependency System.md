@@ -19,9 +19,6 @@ updated: '2025-08-13T12:34:03.167080+00:00'
 world: Universal
 ---
 
-
-
-
 # Quest Dependency System
 
 ## Dependencies Overview
@@ -53,7 +50,6 @@ SORT questLevel ASC
 - See also: [[Central Index]]
 - Related: [[Historical Context]]
 - Connected to: [[Side Adventures]]
-
 
 ## DM Notes
 

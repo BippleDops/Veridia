@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-umberlee-umberlee.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,8 +52,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
@@ -66,18 +60,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -87,8 +76,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -136,8 +123,6 @@ Ongoing situations affecting Umberlee:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A noble needs help investigating before the new moon
@@ -159,7 +144,6 @@ Ongoing situations affecting Umberlee:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

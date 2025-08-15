@@ -41,7 +41,7 @@ location_type: Sacred Memorial Site
 notable_npcs:
 - '[[Sister Morwyn Veilkeeper]]'
 - '[[Brother Thaddeus the Rememberer]]'
-- '[[Echo-Keeper Selin]]'
+- '[[Echo Keeper Selin]]'
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 pressure_effects: Moderate
@@ -66,11 +66,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-of-the-dead-sister-morwyn-keeper-of-the-dead-sister-morwyn.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -103,11 +99,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -125,16 +119,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Where the Dead Are Not Forgotten
 
@@ -240,7 +228,7 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 - Has perfect memory of every person memorialized
 - Speaks in whispers to preserve sacred silence
 
-**[[Echo-Keeper Selin]]** - Spiritual medium
+**[[Echo Keeper Selin]]** - Spiritual medium
 - Channels final messages from the dying
 - Maintains the Garden of Whispered Names
 - Shows signs of prophetic ability
@@ -392,16 +380,13 @@ Sister Morwyn is a notable location characterized by its unique features and str
 ### Founding
 Sister Morwyn was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -425,7 +410,6 @@ Key stop on spices trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Adamantine Weapon Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adamantine Weapon Xdmg
 
 ---
@@ -64,7 +73,7 @@ world: Both
 # Adamantine Weapon
 *Uncommon*  
 
-This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[critical-hit-xphb|Critical Hit]].
+This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[critical hit xphb|Critical Hit]].
 
 **Variants**:
 - [Adamantine Arrow](#Adamantine%20Arrow)
@@ -105,11 +114,10 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 227*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -122,11 +130,6 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -143,7 +146,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

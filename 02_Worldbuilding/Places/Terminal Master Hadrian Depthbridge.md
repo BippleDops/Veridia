@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-terminal-master-hadrian-depthbridge-terminal-master-hadrian-depthbridge.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,39 +54,30 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -137,8 +124,6 @@ Ongoing situations affecting Terminal Master Hadrian Depthbridge:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

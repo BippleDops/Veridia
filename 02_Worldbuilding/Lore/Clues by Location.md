@@ -31,12 +31,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Clues by Location
-
-![[04_Resources/Assets/Art/Lore/Clues_by_Location.png|Clues by Location Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,13 +60,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
@@ -81,23 +72,18 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Summary
 
@@ -122,8 +108,6 @@ Clues by Location represents an important aspect of the world's history, culture
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Economic Structure
 

@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,25 +53,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
@@ -89,7 +77,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -167,20 +154,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Relationships
 
 - **Child**: [[Portrait NPC the Throne Chamber of Eternal Bubbles the Throne Chamber of Eternal Bubbles.svg]]
 - **Friend**: [[Captain Marrow Drinker]]
 - **Lover**: [[Portrait NPC Financial Corruption V1 Financial Corruption.svg]]
-- **Student**: [[Quest - The Corruption Cure]]
+- **Student**: [[Quest   The Corruption Cure]]
 - **Victim**: [[Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg]]
-
 
 ## Religious Observances
 
@@ -193,7 +177,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

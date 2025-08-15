@@ -1,3 +1,12 @@
+---
+title: Preparing Spells Spell Preparation by Class
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Preparing Spells Spell Preparation by Class
 
 ---
@@ -29,16 +38,15 @@ world: Both
 
 | Class | Change When You... | Number of Spells |
 |-------|--------------------|------------------|
-| [[bard-xphb|Bard]] | Gain a level | One |
-| [[cleric-xphb|Cleric]] | Finish a Long Rest | Any |
-| [[druid-xphb|Druid]] | Finish a Long Rest | Any |
-| [[paladin-xphb|Paladin]] | Finish a Long Rest | One |
-| [[ranger-xphb|Ranger]] | Finish a Long Rest | One |
-| [[sorcerer-xphb|Sorcerer]] | Gain a level | One |
-| [[warlock-xphb|Warlock]] | Gain a level | One |
-| [[wizard-xphb|Wizard]] | Finish a Long Rest | Any |
+| [[bard xphb|Bard]] | Gain a level | One |
+| [[cleric xphb|Cleric]] | Finish a Long Rest | Any |
+| [[druid xphb|Druid]] | Finish a Long Rest | Any |
+| [[paladin xphb|Paladin]] | Finish a Long Rest | One |
+| [[ranger xphb|Ranger]] | Finish a Long Rest | One |
+| [[sorcerer xphb|Sorcerer]] | Gain a level | One |
+| [[warlock xphb|Warlock]] | Gain a level | One |
+| [[wizard xphb|Wizard]] | Finish a Long Rest | Any |
 ^spell-preparation-by-class
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

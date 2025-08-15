@@ -1,3 +1,12 @@
+---
+title: Lord Vexton Shadowmere
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lord Vexton Shadowmere
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # The Shadow Court
 *The Umbral Aristocracy, Lords of the Between-Spaces, The Ancient Hierarchy*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview and Purpose
 The Shadow Court represents the oldest and most influential shadow-touched nobility in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], tracing their lineage to the first beings who crossed from the shadow realm generations ago. Unlike newer shadow organizations that focus on commerce or political activism, the Shadow Court maintains the traditions, protocols, and hierarchies of their origin realm while wielding considerable influence over both shadow-touched and traditional politics in Aquabyssos.
@@ -276,16 +279,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Related Notes
 

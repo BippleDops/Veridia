@@ -1,3 +1,12 @@
+---
+title: Unarmed Fighting Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Unarmed Fighting Xphb
 
 ---
@@ -30,7 +39,6 @@ When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning 
 
 At the start of each of your turns, you can deal `d4` Bludgeoning damage to one creature [[conditions#Grappled|Grappled]] by you.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ At the start of each of your turns, you can deal `d4` Bludgeoning damage to one 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Wood Elf Magic Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wood Elf Magic Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Wood Elf Magic
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[elf-xphb|Elf]]
+**Prerequisite**: [[elf xphb|Elf]]
 
-You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [[longstrider-xphb|longstrider]] and [[pass-without-trace-xphb|pass without trace]] spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
-
+You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [[longstrider xphb|longstrider]] and [[pass without trace xphb|pass without trace]] spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You learn the magic of the primeval woods, which are revered and protected by yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -81,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

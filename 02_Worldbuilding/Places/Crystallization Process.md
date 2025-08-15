@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png]]
 
 # Crystallization Process
 
 *"From the pressure of depths, beauty and power are born."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,12 +65,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
@@ -84,12 +77,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -99,8 +89,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 The specialized magical and scientific process used in Aquabyssos to create various types of crystals for industrial, magical, and decorative purposes. This complex procedure combines natural pressure, magical energy, and precise timing to produce crystals with specific properties.
@@ -275,8 +263,6 @@ Ongoing situations affecting Crystallization Process:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -288,7 +274,6 @@ Ongoing situations affecting Crystallization Process:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

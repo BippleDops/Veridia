@@ -1,3 +1,12 @@
+---
+title: Dancing Sword Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dancing Sword Xdmg
 
 ---
@@ -34,9 +43,9 @@ world: Both
 *Very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dancing-sword.webp#right)
 
-You can take a [[bonus-action-xphb|Bonus Action]] to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.
+You can take a [[bonus action xphb|Bonus Action]] to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.
 
-While the weapon hovers, you can take a [[bonus-action-xphb|Bonus Action]] to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same [[bonus-action-xphb|Bonus Action]], you can cause the weapon to attack one creature within 5 feet of the weapon.
+While the weapon hovers, you can take a [[bonus action xphb|Bonus Action]] to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same [[bonus action xphb|Bonus Action]], you can cause the weapon to attack one creature within 5 feet of the weapon.
 
 After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.
 
@@ -51,11 +60,10 @@ After the hovering weapon attacks for the fourth time, it flies back to you and 
 ### Dancing Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 248. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ After the hovering weapon attacks for the fourth time, it flies back to you and 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -98,11 +100,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

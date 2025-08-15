@@ -27,10 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-depth-market-the-depth-market.svg]]
 
 # The Depth Market
 
@@ -38,7 +35,6 @@ improvements: 20
 
 > *"Down here, in the crushing dark where pressure makes diamonds and cold preserves wonders, you can find anything - if you're willing to pay the price. Just remember: in the depths, everything costs more than money."*
 > — [[Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,11 +63,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -85,24 +79,18 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -712,7 +700,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Related Items and Concepts**:
 - [[Abyssal Crystals]]
-- [[Deep-Sea Artifacts]]
+- [[Deep Sea Artifacts]]
 - [[Pressure Technology]]
 - [[Depth Merchant's Consortium]]
 
@@ -762,12 +750,9 @@ Ongoing situations affecting The Depth Market:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

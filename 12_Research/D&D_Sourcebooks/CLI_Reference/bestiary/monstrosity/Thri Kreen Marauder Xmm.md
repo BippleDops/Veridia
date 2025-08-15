@@ -1,3 +1,12 @@
+---
+title: Thri Kreen Marauder Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Thri Kreen Marauder Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-thri-kreen-marauder-xmm.svg)
 
-# [[thri-kreen-marauder-xmm|Thri-kreen Marauder]]
+# [[thri kreen marauder xmm|Thri-kreen Marauder]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Thri-kreen marauders employ weapons made of stone and bone, such as the spear-li
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Thri-kreen
 
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

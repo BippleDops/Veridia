@@ -1,3 +1,12 @@
+---
+title: Black Abishai Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Black Abishai Mpmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-black-abishai-mpmm.svg)
 
-# [[black-abishai-mpmm|Black Abishai]]
+# [[black abishai mpmm|Black Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Expert assassins and infiltrators, black abishais can weave shadows to mask thei
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Abishais
 
@@ -109,7 +112,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) force damage."
     "name": "Scimitar"
-  - "desc": "The abishai casts [[darkness-xphb|darkness]]\
+  - "desc": "The abishai casts [[darkness xphb|darkness]]\
       \ at a point within 120 feet of it, requiring no spell components or [[conditions#Concentration|concentration]].\
       \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
       \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"
@@ -145,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

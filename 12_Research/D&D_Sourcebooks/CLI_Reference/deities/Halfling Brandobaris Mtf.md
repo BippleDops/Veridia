@@ -1,3 +1,12 @@
+---
+title: Halfling Brandobaris Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Brandobaris Mtf
 
 ---
@@ -39,7 +48,6 @@ Brandobaris continues to wander in search of excitement, and now, as an ascended
 
 Although he never seems to rest in his travels, Brandobaris always has time to reward halflings who dare to take risks and explore the world to make their own mark on it. He has been known to give a bit of aid to halflings in dire straits, turning them invisible for a time or intervening so that they can't be heard or tracked.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ Although he never seems to rest in his travels, Brandobaris always has time to r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help delivering before the new moon
@@ -86,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

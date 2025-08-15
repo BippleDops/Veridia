@@ -1,3 +1,12 @@
+---
+title: Fireball Fungus Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fireball Fungus Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Fireball Fungus
 *Generic Hazard*  
 
-A fireball fungus is a Small, iimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[bright-light-xphb|Bright Light]] in a 15-foot radius and [[dim-light-xphb|Dim Light]] for an additional 15 feet.
+A fireball fungus is a Small, iimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[bright light xphb|Bright Light]] in a 15-foot radius and [[dim light xphb|Dim Light]] for an additional 15 feet.
 
-A fireball fungus has AC 10, HP 6, and [[immunity-xphb|Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[fireball-xphb|Fireball]] spell (save DC 15) had been centered on it.
-
+A fireball fungus has AC 10, HP 6, and [[immunity xphb|Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[fireball xphb|Fireball]] spell (save DC 15) had been centered on it.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ A fireball fungus has AC 10, HP 6, and [[immunity-xphb|Immunity]] to Psychic dam
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## At Higher Levels
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -79,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: High Altitude Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # High Altitude Xdmg
 
 ---
@@ -32,7 +41,6 @@ Creatures can become acclimated to a high altitude by spending 30 days or more a
 
 *Source: Dungeon Master's Guide (2024) p. 69*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ Creatures can become acclimated to a high altitude by spending 30 days or more a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 

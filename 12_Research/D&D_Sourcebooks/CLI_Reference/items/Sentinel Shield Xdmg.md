@@ -1,3 +1,12 @@
+---
+title: Sentinel Shield Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sentinel Shield Xdmg
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sentinel-shield-xdmg-sentinel-shield-xdmg.svg)
 
 # Sentinel Shield
-*Armor ([[shield-xphb|shield]]), uncommon*  
+*Armor ([[shield xphb|shield]]), uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls and Wisdom ([[skills#Perception|Perception]]) checks. The Shield is emblazoned with a symbol of an eye.
+While holding this Shield, you have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls and Wisdom ([[skills#Perception|Perception]]) checks. The Shield is emblazoned with a symbol of an eye.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While holding this Shield, you have [[advantage-xphb|Advantage]] on [[initiative
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before dawn
@@ -86,16 +88,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

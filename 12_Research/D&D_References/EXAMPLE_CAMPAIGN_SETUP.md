@@ -1,3 +1,12 @@
+---
+title: EXAMPLE_CAMPAIGN_SETUP
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # EXAMPLE_CAMPAIGN_SETUP
 
 ---
@@ -106,7 +115,6 @@ campaign_role: primary
 relationship_complexity: high
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ relationship_complexity: high
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Basic Information
 **Title**: Sovereign Ruler of Aquabyssos
@@ -644,8 +647,6 @@ python scripts/backup_automation.py --vault-path . backup --type incremental --t
         "status": "active_enemies",
         "threat_level": "high"
     }
-  }
-}
 
 ---
 
@@ -724,11 +725,9 @@ This example campaign demonstrates how the Cordelia Vault's systems work togethe
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

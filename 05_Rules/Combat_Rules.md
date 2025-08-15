@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,9 +34,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
-- Include session zero discussion points
-- Include session zero discussion points
 
 ### Automated Improvements
 
@@ -47,7 +41,6 @@ improvements: 20
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Abuse_Prevention Improvements
@@ -57,16 +50,13 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Simplified Improvements
@@ -76,7 +66,6 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-
 
 ## Initiative
 Roll d20 + DEX modifier
@@ -121,11 +110,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Examples of Play
 
@@ -137,7 +124,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Edge Cases & Rulings
 

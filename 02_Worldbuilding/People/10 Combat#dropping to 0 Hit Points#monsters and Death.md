@@ -16,9 +16,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,14 +47,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
@@ -67,7 +59,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
@@ -76,12 +67,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -192,7 +181,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Lord Blackwater]] (rival)
-- [[Sorrow-Root Nightbloom]] (enemy)
+- [[Sorrow Root Nightbloom]] (enemy)
 - [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -200,7 +189,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Serpentblood - Trait: curse
-
 
 ## Historical Timeline
 
@@ -219,7 +207,6 @@ Member of House Serpentblood - Trait: curse
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -237,7 +224,6 @@ Member of House Serpentblood - Trait: curse
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transportation-guild-transportation-guild.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +54,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
@@ -67,22 +62,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -96,7 +86,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -144,8 +133,6 @@ Ongoing situations affecting Transportation Guild:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -157,7 +144,6 @@ Ongoing situations affecting Transportation Guild:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -176,7 +162,6 @@ Ongoing situations affecting Transportation Guild:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

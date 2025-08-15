@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg]]
 
 # The Slave Markets of Tethys
 *Where Human Lives Become Currency*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,14 +55,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
@@ -80,17 +71,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 The Slave Markets of Tethys serve as the primary hub for human trafficking operations controlled by [[The Crimson Fleet]], supplying forced labor to [[The Iron Pits of Malachar]], [[The Crimson Foundries]], and [[The Bone Colosseum]].
@@ -141,12 +129,9 @@ Ongoing situations affecting The Slave Markets of Tethys:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

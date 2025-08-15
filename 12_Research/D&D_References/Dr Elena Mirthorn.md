@@ -1,3 +1,12 @@
+---
+title: Dr Elena Mirthorn
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr Elena Mirthorn
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:16.125619+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Dimensional Nexus (Both Realms)
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -54,14 +57,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Plot Hooks
 
-- Someone is searching for an heir for love
 - Someone is searching for an heir for love
 - Strange disappearances suggest ancient magic

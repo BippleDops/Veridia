@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sorrow-gardens-the-sorrow-gardens.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,9 +57,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
@@ -76,7 +69,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
@@ -84,8 +76,6 @@ improvements: 20
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -95,7 +85,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -143,17 +132,13 @@ Ongoing situations affecting The Sorrow Gardens:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Historical Timeline
 

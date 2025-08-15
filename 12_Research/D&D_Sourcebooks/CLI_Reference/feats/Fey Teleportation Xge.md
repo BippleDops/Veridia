@@ -1,3 +1,12 @@
+---
+title: Fey Teleportation Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fey Teleportation Xge
 
 ---
@@ -26,14 +35,13 @@ world: Both
 # Fey Teleportation
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[elf-xphb|Elf]]
+**Prerequisite**: [[elf xphb|Elf]]
 
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
 
 - Increase your Intelligence or Charisma by 1, to a maximum of 20.  
 - You learn to speak, read, and write Sylvan.  
-- You learn the [[misty-step-xphb|misty step]] spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
-
+- You learn the [[misty step xphb|misty step]] spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -82,7 +83,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

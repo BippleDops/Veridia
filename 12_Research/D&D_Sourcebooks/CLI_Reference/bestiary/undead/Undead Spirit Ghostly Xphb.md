@@ -1,3 +1,12 @@
+---
+title: Undead Spirit Ghostly Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Undead Spirit Ghostly Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
 
-# [[undead-spirit-ghostly-xphb|Undead Spirit (Ghostly)]]
+# [[undead spirit ghostly xphb|Undead Spirit (Ghostly)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -73,7 +82,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -85,11 +93,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -107,7 +110,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before winter
@@ -120,7 +122,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

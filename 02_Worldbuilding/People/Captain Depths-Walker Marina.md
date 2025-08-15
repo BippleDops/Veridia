@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-depths-walker-marina-captain-depths-walker-marina.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,12 +54,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -73,9 +66,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
@@ -84,13 +74,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Player-Facing Summary
 
@@ -168,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns humility
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Religious Observances
 

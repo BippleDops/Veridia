@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 08 Between Two Worlds
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 08 Between Two Worlds
 
 ---
@@ -44,7 +53,6 @@ world: Aethermoor
 
 > *Reality fractures. The party exists simultaneously in Meridian and Aquabyssos.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -68,17 +76,13 @@ world: Aethermoor
 ### Props Improvements
 
 - List physical props and handouts to prepare
-- List physical props and handouts to prepare
 
 ### Foreshadowing Improvements
 
 - Plant seeds for future sessions
-- Plant seeds for future sessions
 
 ### Mood Improvements
 
-- Define intended emotional arc
-- Define intended emotional arc
 - Define intended emotional arc
 
 ### Environment Improvements
@@ -88,9 +92,6 @@ world: Aethermoor
 ### Voices Improvements
 
 - Note distinct NPC voices and mannerisms
-- Note distinct NPC voices and mannerisms
-- Note distinct NPC voices and mannerisms
-- Note distinct NPC voices and mannerisms
 
 ### Rulings Improvements
 
@@ -99,12 +100,10 @@ world: Aethermoor
 ### X_Factor Improvements
 
 - Add one surprising element
-- Add one surprising element
 
 ### Meta Improvements
 
 - Address any table/player issues
-
 
 ## 🎬 Strong Start
 
@@ -143,15 +142,15 @@ Key Mechanics:
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[insect-plague-xphb]]
-- [[secondary-tables-arcane-matters-xge]]
-- [[belt-of-storm-giant-strength-xdmg]]
-- [[wizard-xphb-school-of-enchantment]]
+- [[insect plague xphb]]
+- [[secondary tables arcane matters xge]]
+- [[belt of storm giant strength xdmg]]
+- [[wizard xphb school of enchantment]]
 - [[List Spells Optional Features Gift of the Depths Xphb]]
 - [[Enforcement Authority Charte]]
-- [[protection-from-energy-xphb]]
+- [[protection from energy xphb]]
 - [[Advocate Lightfight]]
-- [[potion-of-stone-giant-strength-xdmg]]
+- [[potion of stone giant strength xdmg]]
 - [[Nurse Nightshade]]
 
 ## Related
@@ -165,7 +164,6 @@ Key Mechanics:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Player Spotlight Moments
 

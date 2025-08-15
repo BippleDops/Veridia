@@ -1,3 +1,12 @@
+---
+title: Young Red Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Red Dragon Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-red-dragon-xmm-v1-young-red-dragon-xmm.svg)
 
-# [[young-red-dragon-xmm|Young Red Dragon]]
+# [[young red dragon xmm|Young Red Dragon]]
 *Source: Monster Manual (2024) p. 254. Available in the SRD and the Free Rules (2024)*  
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Young red dragons number among the most unpredictable of their kind. They seek t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Red Dragons
 
@@ -108,7 +111,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 56 (16d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
@@ -137,7 +140,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -152,16 +154,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

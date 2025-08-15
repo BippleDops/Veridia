@@ -1,0 +1,88 @@
+---
+title: cover-xphb (tables)
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
+# cover-xphb
+
+---
+title: cover xphb
+aliases:
+- Cover
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
+updated: '2025-08-12T23:37:33.490393'
+world: Both
+---
+
+# Cover
+*Source: Player's Handbook (2024) p. 25. Available in the SRD and the Free Rules (2024)* 
+
+**Cover**
+
+| Degree | Benefit to Target | Offered By... |
+|--------|-------------------|---------------|
+| [[cover xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [[cover xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [[cover xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
+^cover
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+
+## Player-Facing Summary
+
+Cover xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cover xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cover xphb.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Related
+
+*Links to related content will be added here.*
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the government
+- A prisoner has gone missing and chaos spreads
+- Strange dreams suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

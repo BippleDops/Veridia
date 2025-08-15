@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,10 +46,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -65,20 +58,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -189,7 +176,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg]] (ally)
-- [[Quest - The Traitor Within]] (enemy)
+- [[Quest   The Traitor Within]] (enemy)
 - [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding

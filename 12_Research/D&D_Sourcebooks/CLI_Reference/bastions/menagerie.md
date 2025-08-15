@@ -1,3 +1,12 @@
+---
+title: menagerie
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # menagerie
 
 ---
@@ -31,7 +40,6 @@ world: Both
 
 A Menagerie has enclosures big enough to contain up to four Large creatures. Four Small or Medium creatures can occupy the same space as one Large creature there.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ A Menagerie has enclosures big enough to contain up to four Large creatures. Fou
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Recruit: Creature
 
@@ -59,19 +62,19 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 | Creature | Size | Cost |
 |----------|------|------|
-| [[ape-xmm|Ape]] | Medium | 500 GP |
-| [[black-bear-xmm|Black Bear]] | Medium | 500 GP |
-| [[brown-bear-xmm|Brown Bear]] | Large | 1,000 GP |
-| [[constrictor-snake-xmm|Constrictor Snake]] | Large | 250 GP |
-| [[crocodile-xmm|Crocodile]] | Large | 500 GP |
-| [[dire-wolf-xmm|Dire Wolf]] | Large | 1,000 GP |
-| [[giant-vulture-xmm|Giant Vulture]] | Large | 1,000 GP |
-| [[hyena-xmm|Hyena]] | Medium | 50 GP |
-| [[jackal-xmm|Jackal]] | Small | 50 GP |
-| [[lion-xmm|Lion]] | Large | 1,000 GP |
-| [[owlbear-xmm|Owlbear]] | Large | 3,500 GP |
-| [[panther-xmm|Panther]] | Medium | 250 GP |
-| [[tiger-xmm|Tiger]] | Large | 1,000 GP |
+| [[ape xmm|Ape]] | Medium | 500 GP |
+| [[black bear xmm|Black Bear]] | Medium | 500 GP |
+| [[brown bear xmm|Brown Bear]] | Large | 1,000 GP |
+| [[constrictor snake xmm|Constrictor Snake]] | Large | 250 GP |
+| [[crocodile xmm|Crocodile]] | Large | 500 GP |
+| [[dire wolf xmm|Dire Wolf]] | Large | 1,000 GP |
+| [[giant vulture xmm|Giant Vulture]] | Large | 1,000 GP |
+| [[hyena xmm|Hyena]] | Medium | 50 GP |
+| [[jackal xmm|Jackal]] | Small | 50 GP |
+| [[lion xmm|Lion]] | Large | 1,000 GP |
+| [[owlbear xmm|Owlbear]] | Large | 3,500 GP |
+| [[panther xmm|Panther]] | Medium | 250 GP |
+| [[tiger xmm|Tiger]] | Large | 1,000 GP |
 ^menagerie-creatures
 
 With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.

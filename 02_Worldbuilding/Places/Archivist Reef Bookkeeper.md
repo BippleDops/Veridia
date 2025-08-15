@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archivist-reef-bookkeeper-archivist-reef-bookkeeper.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,22 +56,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
@@ -85,7 +76,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
@@ -94,7 +84,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -142,8 +131,6 @@ Ongoing situations affecting Archivist Reef Bookkeeper:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for power
@@ -166,7 +153,6 @@ Ongoing situations affecting Archivist Reef Bookkeeper:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -178,7 +164,6 @@ Ongoing situations affecting Archivist Reef Bookkeeper:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

@@ -18,15 +18,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg]]
 
 # The Drowned Embassy
 
 *Where air meets water, and diplomacy meets conspiracy*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,17 +51,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -74,7 +66,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -88,9 +79,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[The Shadowmere]], serving as [[Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
@@ -154,12 +142,9 @@ Ongoing situations affecting The Drowned Embassy:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

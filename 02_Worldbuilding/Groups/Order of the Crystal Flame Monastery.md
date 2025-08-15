@@ -14,10 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Places/Order of the Crystal Flame Monastery](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_places_order_of_the_crystal_flame_monastery.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,14 +43,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -71,7 +63,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
@@ -84,7 +75,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Organization Overview
 
@@ -213,11 +203,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #order #faction #worldbuilding
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

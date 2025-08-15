@@ -1,3 +1,12 @@
+---
+title: Feinting Attack Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Feinting Attack Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Feinting Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [[bonus-action-xphb|Bonus Action]], you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [[advantage-xphb|Advantage]] on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
-
+As a [[bonus action xphb|Bonus Action]], you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [[advantage xphb|Advantage]] on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ As a [[bonus-action-xphb|Bonus Action]], you can expend one Superiority Die to f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

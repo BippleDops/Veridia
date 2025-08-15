@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trade-regulations-trade-regulations.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,16 +60,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -83,11 +76,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
@@ -97,7 +88,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -145,12 +135,9 @@ Ongoing situations affecting Trade Regulations:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -170,7 +157,6 @@ Key stop on spices trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

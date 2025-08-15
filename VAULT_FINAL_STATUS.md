@@ -71,7 +71,7 @@ Your vault is now the most comprehensive, interconnected, and complete TTRPG res
 ## Navigation
 - [[00_Indexes/Master_Index]] - Central navigation
 - [[00_Indexes/Quick_Start_Guide]] - Getting started
-- [[13_Performance]] - All reports and metrics
+- [[13 Performance]] - All reports and metrics
 
 ---
 

@@ -1,3 +1,12 @@
+---
+title: Campaign_Legacy_System
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Legacy_System
 
 ---
@@ -22,7 +31,6 @@ world: Both
 
 Multi-generational play: inherited transformations, faction reputation, ancestral memory, bloodline curses, temporal legacy.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ Multi-generational play: inherited transformations, faction reputation, ancestra
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -56,7 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting an heir for power
@@ -65,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

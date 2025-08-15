@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,23 +53,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -95,7 +85,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -143,8 +132,6 @@ Ongoing situations affecting Quartermaster Shadow Supply:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is hunting information for love
@@ -164,7 +151,6 @@ Ongoing situations affecting Quartermaster Shadow Supply:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Economic Structure
 
 ### Currency
@@ -182,7 +168,6 @@ Ongoing situations affecting Quartermaster Shadow Supply:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

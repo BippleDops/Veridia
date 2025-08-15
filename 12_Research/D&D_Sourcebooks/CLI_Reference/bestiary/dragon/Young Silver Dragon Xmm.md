@@ -1,3 +1,12 @@
+---
+title: Young Silver Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Silver Dragon Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-silver-dragon-xmm-v1-young-silver-dragon-xmm.svg)
 
-# [[young-silver-dragon-xmm|Young Silver Dragon]]
+# [[young silver dragon xmm|Young Silver Dragon]]
 *Source: Monster Manual (2024) p. 278. Available in the SRD and the Free Rules (2024)*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Young silver dragons usually have close ties with elder metallic dragons or hero
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Silver Dragons
 
@@ -110,7 +113,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 49 (11d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
@@ -145,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Bulette Pup Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bulette Pup Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulette-pup-xmm-bulette-pup-xmm.svg)
 
-# [[bulette-pup-xmm|Bulette Pup]]
+# [[bulette pup xmm|Bulette Pup]]
 *Source: Monster Manual (2024) p. 63*  
 
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Juvenile bulettes are known as pups. They travel in small groups, using their nu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Bulettes
 
@@ -120,11 +123,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -135,16 +136,13 @@ Mentioned in The Second Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

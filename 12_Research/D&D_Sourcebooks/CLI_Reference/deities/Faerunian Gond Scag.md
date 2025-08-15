@@ -1,3 +1,12 @@
+---
+title: Faerunian Gond Scag
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faerunian Gond Scag
 
 ---
@@ -45,7 +54,6 @@ Most who favor Gond practice time-honored crafting professions: they are smiths 
 
 The center of Gond's worship on the Sword Coast lies in Baldur's Gate, where the faithful have erected two huge structures in honor of the Wonderbringer: a temple called the High House of Wonders and a museum of craft and design called the Hall of Wonders. Lantan had been the preeminent place of Gond's worship in the world until a century ago, when the island nation disappeared, and since its return the few Lantanese merchants seen in Sword Coast ports have said little about the present state of their homeland.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ The center of Gond's worship on the Sword Coast lies in Baldur's Gate, where the
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

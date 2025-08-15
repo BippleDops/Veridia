@@ -1,3 +1,12 @@
+---
+title: Crystal_Singer_Bard
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal_Singer_Bard
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Crystal Singer represents a unique bardic tradition that harnesses the resot frequencies of magical crystals to create powerful effects. These performers bridge the gap between [[Aquabyssos]] and [[Aethermoor]], using crystalline harmonics to manipulate reality, heal the corrupted, and communicate across dimensional boundaries. They are as much scientists as artists, studying the fundamental frequencies that bind the dual worlds together.
@@ -64,16 +67,13 @@ This build emphasizes the intersection of magic, music, and science that defines
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

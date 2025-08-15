@@ -1,3 +1,12 @@
+---
+title: Warhammer Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Warhammer Xphb
 
 ---
@@ -31,12 +40,11 @@ world: Both
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 5.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,16 +74,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -94,7 +94,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

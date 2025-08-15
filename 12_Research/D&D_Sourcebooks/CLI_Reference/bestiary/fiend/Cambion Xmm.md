@@ -1,3 +1,12 @@
+---
+title: Cambion Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cambion Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cambion-xmm-cambion-xmm.svg)
 
-# [[cambion-xmm|Cambion]]
+# [[cambion xmm|Cambion]]
 *Source: Monster Manual (2024) p. 65*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cambion
 
@@ -125,11 +128,11 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
     "name": "Fire Ray"
   - "desc": "The cambion casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n2/day each: [[alter-self-xphb|Alter Self]],\
-      \ [[command-xphb|Command]] (level 3 version), [[detect-magic-xphb|Detect\]]
-      \ Magic]]\n\n1/day each: [[dominate-person-xphb|Dominate\]]
+      \n2/day each: [[alter self xphb|Alter Self]],\
+      \ [[command xphb|Command]] (level 3 version), [[detect magic xphb|Detect\]]
+      \ Magic]]\n\n1/day each: [[dominate person xphb|Dominate\]]
       \ Person]] (level 8 version),\
-      \ [[plane-shift-xphb|Plane Shift]] (self only)"
+      \ [[plane shift xphb|Plane Shift]] (self only)"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -157,16 +160,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

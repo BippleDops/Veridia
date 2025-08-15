@@ -1,3 +1,12 @@
+---
+title: Monk Xphb Way of the Kensei Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Monk Xphb Way of the Kensei Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Way of the Kensei
-*[[monk-xphb|Monk]]: Monk Subclass*  
+*[[monk xphb|Monk]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
@@ -81,7 +90,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 #### Way of the Brush
 
-You gain proficiency with your choice of [[calligraphers-supplies-xphb|calligrapher's supplies]] or [[painters-supplies-xphb|painter's supplies]].
+You gain proficiency with your choice of [[calligraphers supplies xphb|calligrapher's supplies]] or [[painters supplies xphb|painter's supplies]].
 
 ### One with the Blade (Level 6)
 
@@ -103,7 +112,6 @@ At 11th level, you gain the ability to augment your weapons further with your ki
 
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -115,11 +123,6 @@ At 17th level, your mastery of weapons grants you extraordinary accuracy. If you
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -136,7 +139,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

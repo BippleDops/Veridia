@@ -1,3 +1,12 @@
+---
+title: Dr Siphon Gillwater
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr Siphon Gillwater
 
 ---
@@ -34,9 +43,6 @@ world: Aquabyssos
 
 # Dr. Siphon Gillwater
 
-![[04_Resources/Assets/Art/Places/Dr._Siphon_Gillwater.png|Dr. Siphon Gillwater Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +54,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Dr. Siphon Gillwater is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -73,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help delivering before the festival
@@ -83,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

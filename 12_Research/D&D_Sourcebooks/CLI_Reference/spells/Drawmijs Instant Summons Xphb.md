@@ -1,3 +1,12 @@
+---
+title: Drawmijs Instant Summons Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drawmijs Instant Summons Xphb
 
 ---
@@ -40,10 +49,9 @@ Thereafter, you can take a [[actions#Magic|Magic]] action to speak the object's 
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 266. Available in the SRD (as "Instant Summons") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

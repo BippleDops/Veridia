@@ -1,3 +1,12 @@
+---
+title: 3 Ammunition Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Ammunition Xdmg
 
 ---
@@ -39,7 +48,7 @@ world: Both
 You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([[magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg|20,000 GP]]).
+> ([[magic item values by rarity magic item rarities and values xdmg|20,000 GP]]).
 
 **Variants**:
 - [+3 Arrow](#+3%20Arrow)
@@ -55,7 +64,6 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 
 *Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -89,7 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a portal
@@ -101,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

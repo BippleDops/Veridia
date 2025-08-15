@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-city-council-of-aquabyssos-city-council-of-aquabyssos.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,20 +53,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -140,8 +128,6 @@ Ongoing situations affecting City Council of Aquabyssos:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the cult
@@ -161,7 +147,6 @@ Ongoing situations affecting City Council of Aquabyssos:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Economic Structure
 
 ### Currency
@@ -179,7 +164,6 @@ Ongoing situations affecting City Council of Aquabyssos:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

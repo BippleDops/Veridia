@@ -16,11 +16,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Asset
 ![](04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,8 +42,6 @@ improvements: 20
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Heroic Improvements
 
@@ -54,8 +49,6 @@ improvements: 20
 
 ### Magic_Items Improvements
 
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 - Note how magic items affect this rule
 
 ### Session_Zero Improvements
@@ -69,11 +62,9 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Monster_Use Improvements
 
-- Explain if/how monsters use this rule
 - Explain if/how monsters use this rule
 
 ### Narrative_Triggers Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-
 
 ## Current Combat
 
@@ -132,11 +122,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

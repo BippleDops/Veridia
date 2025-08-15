@@ -1,3 +1,12 @@
+---
+title: Watery Sphere Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Watery Sphere Xge
 
 ---
@@ -49,10 +58,9 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature [[conditions#Restrained|restrained]] by the sphere is knocked [[conditions#prone|prone]] in the space where it falls. The water then vanishes.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +73,6 @@ When the spell ends, the sphere falls to the ground and extinguishes all normal 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,16 +90,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -111,7 +111,6 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

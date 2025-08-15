@@ -1,3 +1,12 @@
+---
+title: Mounts and Vehicles Tack Harness and Drawn Vehicles Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb
 
 ---
@@ -28,21 +37,20 @@ world: Both
 
 | Item | Weight | Cost |
 |------|--------|------|
-| &emsp;[[carriage-xphb|Carriage]] | 600 lb. | 100 GP |
-| &emsp;[[cart-xphb|Cart]] | 200 lb. | 15 GP |
-| &emsp;[[chariot-xphb|Chariot]] | 100 lb. | 250 GP |
-| &emsp;[[feed-per-day-xphb|Feed per day]] | 10 lb. | 5 CP |
+| &emsp;[[carriage xphb|Carriage]] | 600 lb. | 100 GP |
+| &emsp;[[cart xphb|Cart]] | 200 lb. | 15 GP |
+| &emsp;[[chariot xphb|Chariot]] | 100 lb. | 250 GP |
+| &emsp;[[feed per day xphb|Feed per day]] | 10 lb. | 5 CP |
 | *Saddle* |
-| &emsp;[[exotic-saddle-xphb|Exotic]] | 40 lb. | 60 GP |
-| &emsp;[[military-saddle-xphb|Military]] | 30 lb. | 20 GP |
-| &emsp;[[riding-saddle-xphb|Riding]] | 25 lb. | 10 GP |
-| &emsp;[[sled-xphb|Sled]] | 300 lb. | 20 GP |
+| &emsp;[[exotic saddle xphb|Exotic]] | 40 lb. | 60 GP |
+| &emsp;[[military saddle xphb|Military]] | 30 lb. | 20 GP |
+| &emsp;[[riding saddle xphb|Riding]] | 25 lb. | 10 GP |
+| &emsp;[[sled xphb|Sled]] | 300 lb. | 20 GP |
 | &emsp;Stabling per day | — | 5 SP |
-| &emsp;[[wagon-xphb|Wagon]] | 400 lb. | 35 GP |
+| &emsp;[[wagon xphb|Wagon]] | 400 lb. | 35 GP |
 ^tack-harness-and-drawn-vehicles
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -91,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

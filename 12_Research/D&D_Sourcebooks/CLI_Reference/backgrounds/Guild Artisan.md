@@ -1,3 +1,12 @@
+---
+title: Guild Artisan
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Guild Artisan
 
 ---
@@ -29,10 +38,9 @@ world: Both
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [[travelers-clothes-xphb|traveler's clothes]], and a belt [[pouch-xphb|pouch]] containing 15 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [[travelers clothes xphb|traveler's clothes]], and a belt [[pouch xphb|pouch]] containing 15 gp  
 
 You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ You are a member of an artisan's guild, skilled in a particular field and closel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Feature: Guild Membership
 
@@ -157,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

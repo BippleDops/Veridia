@@ -29,12 +29,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Race Against the Festival
-
-![[04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png|Race Against the Festival Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,8 +58,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -73,14 +66,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -94,7 +82,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Summary
 
@@ -120,8 +107,6 @@ Race Against the Festival represents an important aspect of the world's history,
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -139,7 +124,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -151,7 +135,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -170,7 +153,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

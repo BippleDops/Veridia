@@ -1,3 +1,12 @@
+---
+title: Spell Scroll Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Scroll Xdmg
 
 ---
@@ -30,19 +39,18 @@ world: Both
 
 **Items in this group:**
 
-- [[spell-scroll-cantrip-xdmg|Spell Scroll (Cantrip)]]
-- [[spell-scroll-level-1-xdmg|Spell Scroll (Level 1)]]
-- [[spell-scroll-level-2-xdmg|Spell Scroll (Level 2)]]
-- [[spell-scroll-level-3-xdmg|Spell Scroll (Level 3)]]
-- [[spell-scroll-level-4-xdmg|Spell Scroll (Level 4)]]
-- [[spell-scroll-level-5-xdmg|Spell Scroll (Level 5)]]
-- [[spell-scroll-level-6-xdmg|Spell Scroll (Level 6)]]
-- [[spell-scroll-level-7-xdmg|Spell Scroll (Level 7)]]
-- [[spell-scroll-level-8-xdmg|Spell Scroll (Level 8)]]
-- [[spell-scroll-level-9-xdmg|Spell Scroll (Level 9)]]
+- [[spell scroll cantrip xdmg|Spell Scroll (Cantrip)]]
+- [[spell scroll level 1 xdmg|Spell Scroll (Level 1)]]
+- [[spell scroll level 2 xdmg|Spell Scroll (Level 2)]]
+- [[spell scroll level 3 xdmg|Spell Scroll (Level 3)]]
+- [[spell scroll level 4 xdmg|Spell Scroll (Level 4)]]
+- [[spell scroll level 5 xdmg|Spell Scroll (Level 5)]]
+- [[spell scroll level 6 xdmg|Spell Scroll (Level 6)]]
+- [[spell scroll level 7 xdmg|Spell Scroll (Level 7)]]
+- [[spell scroll level 8 xdmg|Spell Scroll (Level 8)]]
+- [[spell scroll level 9 xdmg|Spell Scroll (Level 9)]]
 
 *Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

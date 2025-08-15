@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,18 +46,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -69,7 +61,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Basic Information
 
@@ -197,9 +187,9 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest - The Admiral's Gambit]] (enemy)
+- [[Quest   The Admiral's Gambit]] (enemy)
 - [[Free Current Safe Houses]] (ally)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L-03_Deep_Mother_Dream_Tide]] (rival)
+- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

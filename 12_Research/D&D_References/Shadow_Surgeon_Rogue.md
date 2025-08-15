@@ -1,3 +1,12 @@
+---
+title: Shadow_Surgeon_Rogue
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow_Surgeon_Rogue
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Surgeon represents the most dangerous and morally complex character option in the [[Shadow Conspiracy]]. These rogues have mastered the art of consciousness manipulation, identity theft, and surgical precision in both healing and harm. They operate in the shadows of [[Aquabyssos]] society, capable of becoming anyone while serving mysterious masters who seek to control the realm through infiltration and psychological warfare.
@@ -92,7 +95,6 @@ This build is designed for mature players interested in exploring complex moral 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

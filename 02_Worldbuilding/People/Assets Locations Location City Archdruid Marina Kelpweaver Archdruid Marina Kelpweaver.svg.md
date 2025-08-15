@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,24 +47,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -197,7 +186,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[The Depth Lords]] (enemy)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-scream-archives-the-scream-archives.svg]] (friend)
-- [[Quest - The Deepmind Weapon]] (ally)
+- [[Quest   The Deepmind Weapon]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -205,11 +194,9 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Economic Structure
 

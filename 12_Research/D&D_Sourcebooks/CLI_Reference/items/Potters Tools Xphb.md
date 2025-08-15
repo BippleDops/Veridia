@@ -1,3 +1,12 @@
+---
+title: Potters Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potters Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [[jug-xphb|Jug]], [[lamp-xphb|Lamp]]  
+- **Craft.** [[jug xphb|Jug]], [[lamp xphb|Lamp]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Faerie Dragon Adult Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faerie Dragon Adult Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-faerie-dragon-adult-xmm-faerie-dragon-adult-xmm.svg)
 
-# [[faerie-dragon-adult-xmm|Faerie Dragon Adult]]
+# [[faerie dragon adult xmm|Faerie Dragon Adult]]
 *Source: Monster Manual (2024) p. 117*  
 
 The pranks of faerie dragon adults tend to lead others to people in need or wrongs to be righted.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ The pranks of faerie dragon adults tend to lead others to people in need or wron
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Faerie Dragons
 
@@ -90,14 +93,14 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "2"
 "traits":
-  - "desc": "The dragon has [[advantage-xphb|Advantage]]\
+  - "desc": "The dragon has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d4 + 5) Piercing damage\
       \ plus 3 (d6) Psychic damage."
     "name": "Bite"
-  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
@@ -106,13 +109,13 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
     "name": "Euphoria Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [[dancing-lights-xphb|Dancing Lights]],\
-      \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]]\n\
-      \n1/day each: [[hallucinatory-terrain-xphb|Hallucinatory Terrain]],\
-      \ [[polymorph-xphb|Polymorph]]"
+      \ will: [[dancing lights xphb|Dancing Lights]],\
+      \ [[mage hand xphb|Mage Hand]], [[minor illusion xphb|Minor Illusion]]\n\
+      \n1/day each: [[hallucinatory terrain xphb|Hallucinatory Terrain]],\
+      \ [[polymorph xphb|Polymorph]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The dragon casts [[greater-invisibility-xphb|Greater Invisibility]]\
+  - "desc": "The dragon casts [[greater invisibility xphb|Greater Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Superior Invisibility"
@@ -141,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

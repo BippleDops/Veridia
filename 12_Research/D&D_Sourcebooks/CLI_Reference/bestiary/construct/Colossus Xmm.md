@@ -1,3 +1,12 @@
+---
+title: Colossus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Colossus Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-colossus-xmm-colossus-xmm.svg)
 
-# [[colossus-xmm|Colossus]]
+# [[colossus xmm|Colossus]]
 *Source: Monster Manual (2024) p. 76*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Colossus
 
@@ -98,7 +101,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
     "name": "Immutable Form"
   - "desc": "If the colossus fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The colossus has [[advantage-xphb|Advantage]]\
+  - "desc": "The colossus has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The colossus deals double damage to objects and structures."
@@ -115,16 +118,16 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
       \ condition."
     "name": "Radiant Ray"
   - "desc": "Dexterity Saving Throw: DC 26, each creature in a 300-foot-long, 10-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 65 (10d12) Radiant damage. Success: Half damage. Failure or Success: A\
-      \ creature reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ creature reduced to 0 [[hit points xphb|Hit Points]]\
       \ by this beam disintegrates into dust, leaving behind any magic items it was\
       \ wearing or carrying."
     "name": "Divine Beam (Recharge 5-6)"
 "legendary_actions":
   - "desc": "The colossus makes one Radiant Ray attack."
     "name": "Smite"
-  - "desc": "The colossus moves up to half its [[speed-xphb|Speed]]\
+  - "desc": "The colossus moves up to half its [[speed xphb|Speed]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it can make one Slam attack at any point during that move."
     "name": "Stomp"
@@ -154,11 +157,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -169,11 +170,9 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

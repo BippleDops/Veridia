@@ -1,3 +1,12 @@
+---
+title: campaign_coherence_maintenance
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # campaign_coherence_maintece
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Systems for Maintaining Narrative and World Consistency
 
@@ -194,16 +197,13 @@ Effective coherence maintece shows:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

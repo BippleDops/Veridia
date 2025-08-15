@@ -1,3 +1,12 @@
+---
+title: Ring of X Ray Vision Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of X Ray Vision Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 While wearing this ring, you can take a [[actions#Magic|Magic]] action to gain X-ray vision with a range of 30 feet for 1 minute. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead block the vision.
 
-Whenever you use the ring again before taking a [[long-rest-xphb|Long Rest]], you must succeed on a DC 15 Constitution saving throw or gain 1 [[conditions#Exhaustion|Exhaustion]] level.
+Whenever you use the ring again before taking a [[long rest xphb|Long Rest]], you must succeed on a DC 15 Constitution saving throw or gain 1 [[conditions#Exhaustion|Exhaustion]] level.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Whenever you use the ring again before taking a [[long-rest-xphb|Long Rest]], yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

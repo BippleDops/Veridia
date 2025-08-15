@@ -1,3 +1,12 @@
+---
+title: Adjudicating Areas of Effect Targets in Area
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adjudicating Areas of Effect Targets in Area
 
 ---
@@ -43,8 +52,7 @@ world: Both
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [[cylinder-area-of-effect-xphb|Cylinders]], [[emanation-area-of-effect-xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[sphere-area-of-effect-xphb|Spheres]].
-
+*Use this column for [[cylinder area of effect xphb|Cylinders]], [[emanation area of effect xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[sphere area of effect xphb|Spheres]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the festival
@@ -94,11 +96,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

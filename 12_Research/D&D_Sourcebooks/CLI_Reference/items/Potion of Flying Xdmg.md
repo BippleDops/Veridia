@@ -1,3 +1,12 @@
+---
+title: Potion of Flying Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Flying Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
+When you drink this potion, you gain a [[fly speed xphb|Fly Speed]] equal to your [[speed xphb|Speed]] for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
 
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 
 *Source: Dungeon Master's Guide (2024) p. 287. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ This potion's clear liquid floats at the top of its container and has cloudy whi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

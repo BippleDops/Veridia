@@ -1,3 +1,12 @@
+---
+title: Giant Ape Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Ape Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-ape-xmm-giant-ape-xmm.svg)
 
-# [[giant-ape-xmm|Giant Ape]]
+# [[giant ape xmm|Giant Ape]]
 *Source: Monster Manual (2024) p. 354. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Ape (XMM)"
@@ -89,7 +92,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Fist"
   - "desc": "The ape hurls a boulder at a point it can see within 90 feet. Dexterity\
-      \ Saving Throw: DC 17, each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
+      \ Saving Throw: DC 17, each creature in a 5-foot-radius [[sphere area of effect xphb|Sphere]]\
       \ centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target\
       \ is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
@@ -123,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

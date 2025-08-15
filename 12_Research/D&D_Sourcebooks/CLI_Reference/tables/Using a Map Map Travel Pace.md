@@ -1,3 +1,12 @@
+---
+title: Using a Map Map Travel Pace
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Using a Map Map Travel Pace
 
 ---
@@ -35,7 +44,6 @@ world: Both
 | Kingdom (1 hex = 6 mi.) | 1 hex/3 hr., 3 hexes/day | 1 hex/2 hr., 4 hexes/day | 1 hex/1½ hr., 5 hexes/day |
 ^map-travel-pace
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

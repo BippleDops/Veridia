@@ -1,3 +1,12 @@
+---
+title: Abyssal Cathedral
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Abyssal Cathedral
 
 ---
@@ -37,11 +46,9 @@ world: Aquabyssos
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-abyssal-cathedral-abyssal-cathedral.svg]]
 
 # Abyssal Cathedral
 *The Living Architect, Master of Flesh Stone, Builder of Dreams Made Manifest*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +61,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Abyssal Cathedral represents the pinnacle of biomantic architecture, a being who has transcended the boundary between creator and creation. Once a traditional stone architect from the old Aquabyssos, they have become something far more extraordinary—a living embodiment of architectural vision who grows buildings from their own essence and shapes structures that breathe, think, and evolve.
@@ -249,7 +251,6 @@ Legends speak of Abyssal Cathedral as a nexus where past and present converge. L
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and evil awakens
@@ -259,7 +260,6 @@ Legends speak of Abyssal Cathedral as a nexus where past and present converge. L
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

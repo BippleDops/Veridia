@@ -1,3 +1,12 @@
+---
+title: Lost Sorrowsworn Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lost Sorrowsworn Mpmm
 
 ---
@@ -37,13 +46,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lost-sorrowsworn-mpmm-lost-sorrowsworn-mpmm.svg)
 
-# [[lost-sorrowsworn-mpmm|Lost Sorrowsworn]]
+# [[lost sorrowsworn mpmm|Lost Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
 
 Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a flood of fear and panic as its mind buckles under the fury of this assault. The harder a victim's allies fight to break the grasp, the more the victim suffers.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sorrowsworn
 
@@ -135,11 +138,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -151,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

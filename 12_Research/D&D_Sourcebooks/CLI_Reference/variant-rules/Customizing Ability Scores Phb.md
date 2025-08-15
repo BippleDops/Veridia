@@ -1,3 +1,12 @@
+---
+title: Customizing Ability Scores Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Customizing Ability Scores Phb
 
 ---
@@ -47,7 +56,6 @@ This method of determining ability scores enables you to create a set of three h
 
 Alternatively, see the Point Buy Calculator.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -59,11 +67,6 @@ Alternatively, see the Point Buy Calculator.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

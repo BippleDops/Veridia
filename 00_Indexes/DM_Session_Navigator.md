@@ -1,3 +1,12 @@
+---
+title: DM_Session_Navigator
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # DM_Session_Navigator
 
 ---

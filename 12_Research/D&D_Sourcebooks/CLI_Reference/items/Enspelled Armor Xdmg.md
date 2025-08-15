@@ -1,3 +1,12 @@
+---
+title: Enspelled Armor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Enspelled Armor Xdmg
 
 ---
@@ -32,18 +41,17 @@ world: Both
 
 **Items in this group:**
 
-- [[enspelled-armor-cantrip-xdmg|Enspelled Armor (Cantrip)]]
-- [[enspelled-armor-level-1-xdmg|Enspelled Armor (Level 1)]]
-- [[enspelled-armor-level-2-xdmg|Enspelled Armor (Level 2)]]
-- [[enspelled-armor-level-3-xdmg|Enspelled Armor (Level 3)]]
-- [[enspelled-armor-level-4-xdmg|Enspelled Armor (Level 4)]]
-- [[enspelled-armor-level-5-xdmg|Enspelled Armor (Level 5)]]
-- [[enspelled-armor-level-6-xdmg|Enspelled Armor (Level 6)]]
-- [[enspelled-armor-level-7-xdmg|Enspelled Armor (Level 7)]]
-- [[enspelled-armor-level-8-xdmg|Enspelled Armor (Level 8)]]
+- [[enspelled armor cantrip xdmg|Enspelled Armor (Cantrip)]]
+- [[enspelled armor level 1 xdmg|Enspelled Armor (Level 1)]]
+- [[enspelled armor level 2 xdmg|Enspelled Armor (Level 2)]]
+- [[enspelled armor level 3 xdmg|Enspelled Armor (Level 3)]]
+- [[enspelled armor level 4 xdmg|Enspelled Armor (Level 4)]]
+- [[enspelled armor level 5 xdmg|Enspelled Armor (Level 5)]]
+- [[enspelled armor level 6 xdmg|Enspelled Armor (Level 6)]]
+- [[enspelled armor level 7 xdmg|Enspelled Armor (Level 7)]]
+- [[enspelled armor level 8 xdmg|Enspelled Armor (Level 8)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

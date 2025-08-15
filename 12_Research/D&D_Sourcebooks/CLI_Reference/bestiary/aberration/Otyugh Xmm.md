@@ -1,3 +1,12 @@
+---
+title: Otyugh Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Otyugh Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otyugh-xmm-otyugh-xmm.svg)
 
-# [[otyugh-xmm|Otyugh]]
+# [[otyugh xmm|Otyugh]]
 *Source: Monster Manual (2024) p. 233. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Otyugh
 
@@ -103,9 +106,9 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage,\
       \ and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition. Whenever the [[conditions#Poisoned|Poisoned]]\
-      \ target finishes a [[long-rest-xphb|Long Rest]],\
+      \ target finishes a [[long rest xphb|Long Rest]],\
       \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-      \ Failure: The target's [[hit-points-xphb|Hit Point]]\
+      \ Failure: The target's [[hit points xphb|Hit Point]]\
       \ maximum decreases by 5 (d10) and doesn't return to normal until the [[conditions#Poisoned|Poisoned]]\
       \ condition ends on the target. Success: The [[conditions#Poisoned|Poisoned]]\
       \ condition ends."
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals a betrayal about a local noble
@@ -159,11 +161,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

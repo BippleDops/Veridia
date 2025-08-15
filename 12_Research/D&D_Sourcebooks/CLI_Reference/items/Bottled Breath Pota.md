@@ -1,3 +1,12 @@
+---
+title: Bottled Breath Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bottled Breath Pota
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 This bottle contains a breath of elemental air. When you inhale it, you either exhale it or hold it.
 
-If you exhale the breath, you gain the effect of the [[gust-of-wind-xphb|gust of wind]] spell. If you hold the breath, you don't need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn't give you the benefit of exhaling the breath.
+If you exhale the breath, you gain the effect of the [[gust of wind xphb|gust of wind]] spell. If you hold the breath, you don't need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn't give you the benefit of exhaling the breath.
 
 *Source: Princes of the Apocalypse p. 222*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ If you exhale the breath, you gain the effect of the [[gust-of-wind-xphb|gust of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

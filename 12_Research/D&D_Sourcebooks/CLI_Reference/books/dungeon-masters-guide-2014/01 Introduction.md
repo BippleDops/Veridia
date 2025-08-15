@@ -1,3 +1,12 @@
+---
+title: 01 Introduction
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 01 Introduction
 
 ---
@@ -31,7 +40,6 @@ The *Dungeon Master's Guide* assumes that you know the basics of how to play the
 
 This book has two important companions: the Player's Handbook, which contains the rules your players need to create characters and the rules you need to run the game, and the Monster Manual, which contains ready-to use monsters to populate your D&D world.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ This book has two important companions: the Player's Handbook, which contains th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## The Dungeon Master
 
@@ -194,7 +197,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -202,11 +204,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

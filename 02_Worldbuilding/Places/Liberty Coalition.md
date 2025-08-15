@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-liberty-coalition-liberty-coalition.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,13 +57,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -77,7 +69,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
@@ -85,7 +76,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
@@ -95,7 +85,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -143,8 +132,6 @@ Ongoing situations affecting Liberty Coalition:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -162,7 +149,6 @@ Ongoing situations affecting Liberty Coalition:
 - Natural disasters
 - Current power structures established
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -174,7 +160,6 @@ Ongoing situations affecting Liberty Coalition:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

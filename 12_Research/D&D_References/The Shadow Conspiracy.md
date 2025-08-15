@@ -1,3 +1,12 @@
+---
+title: The Shadow Conspiracy
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Shadow Conspiracy
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # The Shadow Conspiracy
 *The Dark Harvest Architects, The Replacement Initiative, Those Who Cast No Light*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Conspiracy is a coordinated effort by independent shadows to systematically replace the population of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] with shadow duplicates. Born from the phenomenon of shadows gaining independence 50 years ago, the conspiracy has infiltrated every level of society, from the [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] to common merchants. Their ultimate goal, known as "The Dark Harvest," would see every original being replaced, creating a world of shadows ruling shadows.
@@ -249,8 +252,6 @@ The Shadow Conspiracy is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of The Shadow Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Conspiracy.
-
-
 
 ## 12_Research Specific Content
 

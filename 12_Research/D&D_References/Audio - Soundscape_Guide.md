@@ -1,3 +1,12 @@
+---
+title: Audio - Soundscape_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Audio - Soundscape_Guide
 
 ---
@@ -24,7 +33,6 @@ Recommendations:
 
 Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -53,7 +56,6 @@ Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

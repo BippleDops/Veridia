@@ -1,3 +1,12 @@
+---
+title: Nonplayer Character Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nonplayer Character Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Nonplayer Character
 *Source: Player's Handbook (2024) p. 371. Available in the SRD and the Free Rules (2024)* 
 
-A nonplayer character (NPC) is a [[monster-xphb|monster]] that has a personal name and a distinct personality.
-
+A nonplayer character (NPC) is a [[monster xphb|monster]] that has a personal name and a distinct personality.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A nonplayer character (NPC) is a [[monster-xphb|monster]] that has a personal na
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -72,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

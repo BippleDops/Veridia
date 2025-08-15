@@ -1,3 +1,12 @@
+---
+title: Bring It to an End Adventure Climax Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bring It to an End Adventure Climax Xdmg
 
 ---
@@ -43,7 +52,6 @@ world: Both
 | 10 | Just when the characters think the main threat is defeated, it transforms into a different monster or a more powerful form. |
 ^adventure-climax
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

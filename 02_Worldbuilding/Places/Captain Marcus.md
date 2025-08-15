@@ -35,15 +35,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg]]
 
 # Captain Marcus
 
 *"The sea respects discipline and despises weakness. Under my command, we embody both the honor and the strength that keep Aquabyssos safe from the depths' darkest threats."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,23 +68,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -106,8 +96,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -226,8 +214,6 @@ Ongoing situations affecting Captain Marcus:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

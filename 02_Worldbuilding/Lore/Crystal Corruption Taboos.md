@@ -44,15 +44,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Crystal Corruption Taboos
 
 *The Unspoken Rules That Keep Worlds Safe from Their Greatest Fear*
 
 > *"We do not speak of the Tainted because speaking gives them power. We do not look upon the Marked because looking spreads the stain. We do not touch what they have touched because touching invites the curse. These are not mere superstitions—they are the wisdom written in crystal scars across our history, the lessons learned in the blood of the fallen. The taboos exist not to punish, but to protect. Not to exclude, but to preserve. For in a world where crystal corruption can consume reality itself, social boundaries become survival necessities."*
 > — [[Cultural Anthropologist Warden Clearlight]], "The Necessary Cruelties: A Study of Protective Taboos"
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,10 +78,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
@@ -92,8 +85,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -111,7 +102,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -1079,7 +1069,7 @@ Taboo variation between communities and worlds creates adventures focused on cul
 ---
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
-*— [[Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+*— [[Philosopher Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
 
 ## Player-Facing Summary
 
@@ -1101,8 +1091,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - A merchant needs help finding before the festival
@@ -1121,7 +1109,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

@@ -23,11 +23,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,12 +53,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -75,12 +69,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
@@ -94,7 +85,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -142,12 +132,9 @@ Ongoing situations affecting Manta Ray:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Cultural Practices
 

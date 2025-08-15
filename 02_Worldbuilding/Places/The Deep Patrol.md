@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg]]
 
 # The Deep Patrol
 
 *"In the crushing depths where others fear to venture, we stand watch."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,8 +60,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
@@ -74,18 +68,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
@@ -95,8 +84,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 The Deep Patrol is Aquabyssos's elite military unit specializing in extreme depth operations, protecting the city from threats originating in the deepest ocean trenches. These highly trained specialists operate in conditions that would kill ordinary soldiers.
@@ -246,12 +233,9 @@ Ongoing situations affecting The Deep Patrol:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 

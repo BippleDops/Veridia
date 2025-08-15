@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 05 The Queens Madness
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 05 The Queens Madness
 
 ---
@@ -29,10 +38,10 @@ danger_level: 8
 date: 
 duration_hours: 4
 encounters:
-- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal]]
+- '[[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal]]
   Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
-- '[[Throne Room - Heart of Palace]]'
+- '[[Throne Room   Heart of Palace]]'
 gold_gained: 0
 items_gained:
 - Royal Seal of Authority
@@ -73,7 +82,6 @@ world: Aethermoor
 xp_awarded: 1500
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -85,11 +93,6 @@ xp_awarded: 1500
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 Captain Lyanna Brightshield crashes through the party's hideout window, begging for help to save the possessed Queen. The party must navigate the transformed palace, witness the Queen's struggle against an ancient Aquabyssos consciousness, and learn the shocking truth about the Crimson Sage's identity while racing against time before the Crystal Festival.
@@ -121,7 +124,7 @@ Deeper sections partially flooded:
 - **Aquabyssos Bleed-Through**: Glimpses of underwater palace
 - **Ancient Whispers**: WIS save DC 14 or hear the Drowned calling
 
-### Location: [[Palace Courtyard - Crystal Garden]]
+### Location: [[Palace Courtyard   Crystal Garden]]
 **Transformation**: Royal gardens now forest of living crystal, nobles wandering in synchronized patterns.
 
 ### Stealth Challenge
@@ -145,7 +148,7 @@ Center of garden:
 - Touching water: CON save DC 16 or gain 1d3 corruption
 - Hidden beneath: Royal signet ring (bypasses throne room wards)
 
-### Location: [[Throne Room - Heart of Palace]]
+### Location: [[Throne Room   Heart of Palace]]
 **Transformation**: Massive crystal growing from throne, reality fractures showing glimpses of Aquabyssos.
 
 ### Witnessing the Pre-Ritual
@@ -288,7 +291,6 @@ This session establishes:
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

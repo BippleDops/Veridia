@@ -1,3 +1,12 @@
+---
+title: Gnoll Flesh Gnawer Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnoll Flesh Gnawer Mpmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
 
-# [[gnoll-flesh-gnawer-mpmm|Gnoll Flesh Gnawer]]
+# [[gnoll flesh gnawer mpmm|Gnoll Flesh Gnawer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gnolls
 
@@ -67,7 +70,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[studded-leather-armor-xphb|studded leather]]"
+"ac_class": "[[studded leather armor xphb|studded leather]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -124,11 +127,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

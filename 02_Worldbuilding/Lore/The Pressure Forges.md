@@ -19,11 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Asset
-![[04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,14 +52,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -77,14 +68,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -106,12 +93,9 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -136,7 +120,6 @@ Mentioned in The First Prophecy of Shadows
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -148,7 +131,6 @@ Mentioned in The First Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

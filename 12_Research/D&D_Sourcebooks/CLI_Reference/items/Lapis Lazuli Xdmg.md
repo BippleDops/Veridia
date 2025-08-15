@@ -1,3 +1,12 @@
+---
+title: Lapis Lazuli Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lapis Lazuli Xdmg
 
 ---
@@ -36,7 +45,6 @@ A light and dark blue with yellow flecks gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ A light and dark blue with yellow flecks gemstone.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

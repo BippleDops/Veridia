@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-merchant-headquarters-memory-merchant-headquarters.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,25 +53,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
@@ -85,8 +73,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -134,8 +120,6 @@ Ongoing situations affecting Memory Merchant Headquarters:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -147,7 +131,6 @@ Ongoing situations affecting Memory Merchant Headquarters:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -166,7 +149,6 @@ Ongoing situations affecting Memory Merchant Headquarters:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

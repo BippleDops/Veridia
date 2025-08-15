@@ -37,14 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-island-docks-whisper-island-docks.svg]]
 
 # Whisper Island
 *The Isle of Forgotten Secrets*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,11 +69,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -87,9 +81,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
@@ -98,17 +89,14 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -249,7 +237,7 @@ Ongoing conflict between different memory merchant factions:
 Investigation into missing persons whose identities have been completely erased:
 - Victims include important political figures from multiple governments
 - Evidence suggests coordinated operation spanning decades
-- May be connected to larger conspiracy involving [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- May be connected to larger conspiracy involving [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Potential threat to stability of both surface and underwater governments
 
 ## Quest Hooks
@@ -334,12 +322,9 @@ Ongoing situations affecting Whisper Island:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

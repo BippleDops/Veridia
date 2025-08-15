@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,27 +47,21 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
@@ -80,7 +71,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -98,11 +88,9 @@ Future Gardeners represents a crucial aspect of the world's history, cosmology, 
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -126,7 +114,6 @@ Future Gardeners represents a crucial aspect of the world's history, cosmology, 
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

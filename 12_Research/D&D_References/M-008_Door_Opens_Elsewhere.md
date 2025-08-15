@@ -1,3 +1,12 @@
+---
+title: M-008_Door_Opens_Elsewhere
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # M-008_Door_Opens_Elsewhere
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T01:18:31.125318+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Read-Aloud
 > The maintece door sighs open—not into the crawlspace, but onto a wind-stung cliff under twin moons.
@@ -57,7 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest ancient magic
@@ -68,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

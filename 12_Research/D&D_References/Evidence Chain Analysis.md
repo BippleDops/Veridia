@@ -1,3 +1,12 @@
+---
+title: Evidence Chain Analysis
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Evidence Chain Analysis
 
 ---
@@ -39,7 +48,6 @@ updated: '2025-08-13T01:18:35.213376+00:00'
 > *"Truth leaves traces, even when powerful forces work to erase them. Every conspiracy, no matter how carefully orchestrated, creates patterns of evidence that connect across time, space, and seemingly unrelated events. Evidence Chain Analysis is not merely a collection of investigative techniques - it is a comprehensive framework for following these traces through the labyrinth of deception that surrounds us, allowing determined researchers to reconstruct hidden realities from fragments of scattered proof."*
 > — [[Master Investigator Lysander Truthweaver]], "The Methodology of Revelation: A Complete Guide to Evidence Chain Analysis"
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ updated: '2025-08-13T01:18:35.213376+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -84,7 +87,7 @@ The crisis demanded new approaches that could handle the complexity of multi-lay
 - **[[Archivist Methodius Recordkeeper]]**: Created standardized techniques for preserving and analyzing documentary evidence
 - **[[Sage Analytical Mindweaver]]**: Pioneered methods for detecting magical manipulation of evidence
 - **[[Scholar Temporal Chronos]]**: Established techniques for investigating events across extended time periods
-- **[[Detective Cross-Reference Clarke]]**: Developed pattern recognition methods for connecting seemingly unrelated incidents
+- **[[Detective Cross Reference Clarke]]**: Developed pattern recognition methods for connecting seemingly unrelated incidents
 
 ### The Classical Period
 **Years 320-400 GC**
@@ -715,12 +718,9 @@ Legends speak of Evidence Chain Analysis as a nexus where past and present conve
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

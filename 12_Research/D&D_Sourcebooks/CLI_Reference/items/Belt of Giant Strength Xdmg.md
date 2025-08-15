@@ -1,3 +1,12 @@
+---
+title: Belt of Giant Strength Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Belt of Giant Strength Xdmg
 
 ---
@@ -30,24 +39,23 @@ world: Both
 
 | Belt | Str. | Rarity |
 |------|------|--------|
-| [[belt-of-hill-giant-strength-xdmg|Belt of Hill Giant Strength]] | 21 | Rare |
-| [[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]] or [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]] | 23 | Very Rare |
-| [[belt-of-fire-giant-strength-xdmg|Belt of Fire Giant Strength]] | 25 | Very Rare |
-| [[belt-of-cloud-giant-strength-xdmg|Belt of Cloud Giant Strength]] | 27 | Legendary |
-| [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]] | 29 | Legendary |
+| [[belt of hill giant strength xdmg|Belt of Hill Giant Strength]] | 21 | Rare |
+| [[belt of frost giant strength xdmg|Belt of Frost Giant Strength]] or [[belt of stone giant strength xdmg|Belt of Stone Giant Strength]] | 23 | Very Rare |
+| [[belt of fire giant strength xdmg|Belt of Fire Giant Strength]] | 25 | Very Rare |
+| [[belt of cloud giant strength xdmg|Belt of Cloud Giant Strength]] | 27 | Legendary |
+| [[belt of storm giant strength xdmg|Belt of Storm Giant Strength]] | 29 | Legendary |
 ^belt-str-rarity
 
 **Items in this group:**
 
-- [[belt-of-cloud-giant-strength-xdmg|Belt of Cloud Giant Strength]]
-- [[belt-of-fire-giant-strength-xdmg|Belt of Fire Giant Strength]]
-- [[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]]
-- [[belt-of-hill-giant-strength-xdmg|Belt of Hill Giant Strength]]
-- [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]]
-- [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]]
+- [[belt of cloud giant strength xdmg|Belt of Cloud Giant Strength]]
+- [[belt of fire giant strength xdmg|Belt of Fire Giant Strength]]
+- [[belt of frost giant strength xdmg|Belt of Frost Giant Strength]]
+- [[belt of hill giant strength xdmg|Belt of Hill Giant Strength]]
+- [[belt of stone giant strength xdmg|Belt of Stone Giant Strength]]
+- [[belt of storm giant strength xdmg|Belt of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

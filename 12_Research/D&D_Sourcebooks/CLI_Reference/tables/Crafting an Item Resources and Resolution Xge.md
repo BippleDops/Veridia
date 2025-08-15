@@ -1,3 +1,12 @@
+---
+title: Crafting an Item Resources and Resolution Xge
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crafting an Item Resources and Resolution Xge
 
 ---
@@ -27,12 +36,11 @@ world: Both
 
 | Proficiency | Items |
 |-------------|-------|
-| [[herbalism-kit-xphb|Herbalism kit]] | Antitoxin, potion of healing |
-| [[leatherworkers-tools-xphb|Leatherworker's tools]] | Leather armor, boots |
-| [[smiths-tools-xphb|Smith's tools]] | Armor, weapons |
-| [[weavers-tools-xphb|Weaver's tools]] | Cloaks, robes |
+| [[herbalism kit xphb|Herbalism kit]] | Antitoxin, potion of healing |
+| [[leatherworkers tools xphb|Leatherworker's tools]] | Leather armor, boots |
+| [[smiths tools xphb|Smith's tools]] | Armor, weapons |
+| [[weavers tools xphb|Weaver's tools]] | Cloaks, robes |
 ^proficiency-items
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Timeline Fracture Points
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Timeline Fracture Points
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:17.759607+00:00'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Practical, table-ready rules for Timeline Fracture Points across Aquabyssos and Aethermoor.
@@ -53,12 +56,9 @@ Legends speak of Timeline Fracture Points as a nexus where past and present conv
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

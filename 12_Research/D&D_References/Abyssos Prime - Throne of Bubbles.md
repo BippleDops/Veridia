@@ -1,3 +1,12 @@
+---
+title: Abyssos Prime - Throne of Bubbles
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Abyssos Prime - Throne of Bubbles
 
 ---
@@ -28,12 +37,10 @@ world: Aquabyssos
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg]]
 
 # Abyssos Prime - Throne of Bubbles
 
 *"Here, where the deepest currents converge, sits the seat of all power beneath the waves." - Court Chronicler*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Throne of Bubbles serves as the ceremonial heart of Aquabyssos's royal power, a magnificent underwater structure where Queen Nerida holds court and receives dignitaries. The throne itself is carved from a single massive pearl, surrounded by continuously rising streams of luminescent bubbles that create an ethereal, otherworldly atmosphere. Located in the deepest chamber of the Royal Palace, it represents the ultimate symbol of authority over the underwater realm.
@@ -124,7 +126,7 @@ Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and pre
 
 ## Cross-References
 
-- [[Abyssos Prime - Throne of Bubbles]]
+- [[Abyssos Prime   Throne of Bubbles]]
 
 nriched: true -->
 
@@ -132,16 +134,13 @@ nriched: true -->
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

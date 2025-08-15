@@ -1,3 +1,12 @@
+---
+title: Storm_Soul_Integration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm_Soul_Integration
 
 ---
@@ -85,7 +94,6 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 
 *Storm soul integration grants mastery over weather but risks losing human identity to elemental forces.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -97,11 +105,6 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -114,7 +117,6 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

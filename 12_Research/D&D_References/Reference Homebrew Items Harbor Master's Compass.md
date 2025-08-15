@@ -1,3 +1,12 @@
+---
+title: Reference Homebrew Items Harbor Master's Compass
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rules_Reference - Homebrew - Items - Harbor Master's Compass
 
 ---
@@ -37,7 +46,7 @@ world: Both
 
 > [!infobox]
 > # Harbor Master's Compass
-> ![[Harbor Master's Compass|cover]]
+> 
 > ###### Item Information
 > | | |
 > |---|---|
@@ -45,7 +54,6 @@ world: Both
 > | **Rarity** | Rare |
 > | **Attunement** | Required |
 > | **Price** | 2,500 gp |
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +66,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -163,16 +166,13 @@ Legends speak of Harbor Master's Compass as a nexus where past and present conve
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

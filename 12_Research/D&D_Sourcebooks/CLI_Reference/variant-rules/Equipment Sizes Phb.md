@@ -1,3 +1,12 @@
+---
+title: Equipment Sizes Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Equipment Sizes Phb
 
 ---
@@ -31,7 +40,6 @@ The DM can impose more realism. For example, a suit of plate armor made for one 
 
 Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armorsmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The DM can either roll `1d4 × 10` or determine the increase in cost based on the extent of the alterations required.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ Using this variant, when adventurers find armor, clothing, and similar items tha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

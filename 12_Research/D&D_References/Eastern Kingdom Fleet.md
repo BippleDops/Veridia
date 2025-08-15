@@ -1,3 +1,12 @@
+---
+title: Eastern Kingdom Fleet
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eastern Kingdom Fleet
 
 ---
@@ -38,7 +47,6 @@ primary_role: Naval Support
 > *"When darkness threatened to swallow both sea and land, they came from distant shores with sails full of hope and hulls heavy with purpose. The Eastern Fleet reminds us that even in our darkest hour, we are not alone in this vast world."*
 > — [[Admiral Storm Tidecaller]], Aquabyssos Naval Command
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ primary_role: Naval Support
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -296,7 +299,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -304,11 +306,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Burnt Othur Fumes Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Burnt Othur Fumes Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 500 gp
 
 A creature subjected to Burnt Othur Fumes must succeed on a DC 13 Constitution saving throw or take 10 (`3d6`) Poison damage, and it must repeat the save at the start of each of its turns. On each successive failed save, the creature takes 3 (`d6`) Poison damage. After three successful saves, the poison ends.
 
 *Source: Dungeon Master's Guide (2024) p. 90. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Burnt Othur Fumes must succeed on a DC 13 Constitution s
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the government
@@ -84,16 +86,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

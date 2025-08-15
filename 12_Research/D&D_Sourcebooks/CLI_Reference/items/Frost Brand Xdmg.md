@@ -1,3 +1,12 @@
+---
+title: Frost Brand Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Frost Brand Xdmg
 
 ---
@@ -34,9 +43,9 @@ world: Both
 *Very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/frost-brand.webp#right)
 
-When you hit with an attack roll using this magic weapon, the target takes an extra `d6` Cold damage. In addition, while you hold the weapon, you have [[resistance-xphb|Resistance]] to Fire damage.
+When you hit with an attack roll using this magic weapon, the target takes an extra `d6` Cold damage. In addition, while you hold the weapon, you have [[resistance xphb|Resistance]] to Fire damage.
 
-In freezing temperatures, the weapon sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
+In freezing temperatures, the weapon sheds [[bright light xphb|Bright Light]] in a 10-foot radius and [[dim light xphb|Dim Light]] for an additional 10 feet.
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of yourself. Once used, this property can't be used again for 1 hour.
 
@@ -51,11 +60,10 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 ### Frost Brand Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 263. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -89,7 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

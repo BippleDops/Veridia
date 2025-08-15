@@ -1,3 +1,12 @@
+---
+title: Iron Spikes Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Iron Spikes Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
-Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you can use a blunt object, such as a [[light-hammer-xphb|Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[rope-xphb|Rope]] or [[chain-xphb|Chain]] to the Spike.
+Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you can use a blunt object, such as a [[light hammer xphb|Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[rope xphb|Rope]] or [[chain xphb|Chain]] to the Spike.
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

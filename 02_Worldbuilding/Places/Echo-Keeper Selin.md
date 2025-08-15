@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-echo-keeper-selin-echo-keeper-selin.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,20 +57,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -143,8 +131,6 @@ Ongoing situations affecting Echo-Keeper Selin:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -161,7 +147,6 @@ Ongoing situations affecting Echo-Keeper Selin:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

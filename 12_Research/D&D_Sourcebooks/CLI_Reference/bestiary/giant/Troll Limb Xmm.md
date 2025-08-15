@@ -1,3 +1,12 @@
+---
+title: Troll Limb Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Troll Limb Xmm
 
 ---
@@ -36,9 +45,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troll-limb-xmm-troll-limb-xmm.svg)
 
-# [[troll-limb-xmm|Troll Limb]]
+# [[troll limb xmm|Troll Limb]]
 *Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Troll
 
@@ -88,15 +91,15 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The limb regains 5 [[hit-points-xphb|Hit Points]]\
+  - "desc": "The limb regains 5 [[hit points xphb|Hit Points]]\
       \ at the start of each of its turns. If the limb takes Acid or Fire damage,\
       \ this trait doesn't function on the limb's next turn. The limb dies only if\
-      \ it starts its turn with 0 [[hit-points-xphb|Hit Points]]\
+      \ it starts its turn with 0 [[hit points xphb|Hit Points]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "The limb uncannily has the same senses as a whole troll. If the limb\
       \ isn't destroyed within 24 hours, roll d12. On a 12, the limb turns into a\
-      \ [[troll-xmm|Troll]]. Otherwise, the limb\
+      \ [[troll xmm|Troll]]. Otherwise, the limb\
       \ withers away."
     "name": "Troll Spawn"
 "actions":
@@ -128,16 +131,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

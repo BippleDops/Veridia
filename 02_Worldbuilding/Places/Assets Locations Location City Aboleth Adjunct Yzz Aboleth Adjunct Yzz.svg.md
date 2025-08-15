@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,9 +44,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
@@ -70,12 +64,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -85,7 +76,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -184,11 +174,9 @@ Key locations marked:
 ---
 *Tags*: #location #city #worldbuilding #place
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

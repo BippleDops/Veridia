@@ -45,10 +45,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg]]
 
 # The Shrinking Sanctuary
 
@@ -56,7 +53,6 @@ improvements: 20
 
 > *"Every day we grow closer together - not by choice, but by necessity. Our refuge saves us from the dangers without, but it cannot save us from the mathematics of its own existence."*
 > — [[Keeper Temporal Safehaven]], Sanctuary Administrator
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -89,12 +85,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
@@ -104,12 +97,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
@@ -123,7 +113,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -532,7 +521,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 - [[Refugee Integration Protocols]]
 - [[Community Resource Sharing]]
 - [[Sanctuary Emergency Systems]]
-- [[Faith-Stability Magical Theory]]
+- [[Faith Stability Magical Theory]]
 
 ## Player-Facing Summary
 
@@ -582,8 +571,6 @@ Ongoing situations affecting The Shrinking Sanctuary:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

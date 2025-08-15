@@ -1,3 +1,12 @@
+---
+title: Githzerai Groups Githzerai Special Allies Mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githzerai Groups Githzerai Special Allies Mtf
 
 ---
@@ -33,11 +42,10 @@ world: Both
 |----------|------|
 | 1-3 | The group has no allies |
 | 4-5 | `d4` [[githzerai-zerth-xmm|Zerths]] |
-| 6 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
-| 7 | `d4` [[githzerai-zerth-xmm|githzerai zerths]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
-| 8 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|githzerai anarch]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 6 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 7 | `d4` [[githzerai-zerth-xmm|githzerai zerths]], `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 8 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|githzerai anarch]], `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
 ^githzerai-special-allies
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -92,11 +93,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

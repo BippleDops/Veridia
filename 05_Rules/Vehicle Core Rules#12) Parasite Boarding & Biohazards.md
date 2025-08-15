@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,9 +34,6 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Automated Improvements
 
@@ -48,12 +42,9 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Simplified Improvements
 
-- Create simplified version for new players
 - Create simplified version for new players
 
 ### Session_Zero Improvements
@@ -63,14 +54,10 @@ improvements: 20
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-
 
 ## Mechanic Overview
 
@@ -243,16 +230,13 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Edge Cases & Rulings
 
@@ -264,7 +248,6 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
-
 
 ## Balance Analysis
 

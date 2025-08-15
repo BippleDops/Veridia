@@ -1,3 +1,12 @@
+---
+title: Cloak of Protection Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloak of Protection Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
-You gain a +1 bonus to [[armor-class-xphb|Armor Class]] and saving throws while you wear this cloak.
+You gain a +1 bonus to [[armor class xphb|Armor Class]] and saving throws while you wear this cloak.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ You gain a +1 bonus to [[armor-class-xphb|Armor Class]] and saving throws while 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

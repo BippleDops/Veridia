@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-ambassador-reed-treatymaker-ambassador-reed-treatymaker.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,9 +52,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
@@ -67,13 +60,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -139,12 +127,9 @@ Ongoing situations affecting Ambassador Reed Treatymaker:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Cultural Practices
 
@@ -157,7 +142,6 @@ Key stop on magic items trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -176,7 +160,6 @@ Key stop on magic items trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

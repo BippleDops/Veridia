@@ -1,3 +1,12 @@
+---
+title: Ring of Elemental Command Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Elemental Command Xdmg
 
 ---
@@ -33,13 +42,12 @@ world: Both
 
 **Items in this group:**
 
-- [[ring-of-elemental-command-air-xdmg|Ring of Elemental Command (Air)]]
-- [[ring-of-elemental-command-earth-xdmg|Ring of Elemental Command (Earth)]]
-- [[ring-of-elemental-command-fire-xdmg|Ring of Elemental Command (Fire)]]
-- [[ring-of-elemental-command-water-xdmg|Ring of Elemental Command (Water)]]
+- [[ring of elemental command air xdmg|Ring of Elemental Command (Air)]]
+- [[ring of elemental command earth xdmg|Ring of Elemental Command (Earth)]]
+- [[ring of elemental command fire xdmg|Ring of Elemental Command (Fire)]]
+- [[ring of elemental command water xdmg|Ring of Elemental Command (Water)]]
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Gnoll Fang of Yeenoghu Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnoll Fang of Yeenoghu Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
 
-# [[gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]
+# [[gnoll fang of yeenoghu xmm|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual (2024) p. 141*  
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenog
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gnolls
 
@@ -103,8 +106,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 7 (1d8 + 3) Piercing damage."
     "name": "Bone Flail"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Bite attack."
     "name": "Rampage (2/Day)"
 "source":
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -143,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

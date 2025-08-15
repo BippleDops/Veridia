@@ -1,3 +1,12 @@
+---
+title: Cordon of Arrows Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cordon of Arrows Xphb
 
 ---
@@ -39,10 +48,9 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Using a Higher-Level Spell Slot.** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]
+**Classes**: [[list spells classes ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 258*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

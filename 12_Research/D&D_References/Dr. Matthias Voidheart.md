@@ -1,3 +1,12 @@
+---
+title: Dr. Matthias Voidheart
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr. Matthias Voidheart
 
 ---
@@ -18,7 +27,6 @@ world: Both
 updated: '2025-08-13T12:34:12.122158+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ updated: '2025-08-13T12:34:12.122158+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -48,8 +51,6 @@ Legends speak of Dr. Matthias Voidheart as a nexus where past and present conver
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - A merchant needs help delivering before winter
@@ -61,7 +62,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

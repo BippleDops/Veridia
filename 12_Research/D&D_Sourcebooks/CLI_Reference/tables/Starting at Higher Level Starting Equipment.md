@@ -1,3 +1,12 @@
+---
+title: Starting at Higher Level Starting Equipment
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Starting at Higher Level Starting Equipment
 
 ---
@@ -35,7 +44,6 @@ world: Both
 | 17th-20th | 20,000 gp plus `1d10 × 250` gp, two uncommon magic items, normal starting equipment | 20,000 gp plus `1d10 × 250` gp, two uncommon magic items, one rare item, normal starting equipment | 20,000 gp plus `1d10 × 250` gp, three uncommon magic items, two rare items, one very rare item, normal starting equipment |
 ^starting-equipment
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -81,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

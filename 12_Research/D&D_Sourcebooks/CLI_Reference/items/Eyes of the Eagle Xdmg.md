@@ -1,3 +1,12 @@
+---
+title: Eyes of the Eagle Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eyes of the Eagle Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/eyes-of-the-eagle.webp#right)
 
-These crystal lenses fit over the eyes. While wearing them, you have [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
+These crystal lenses fit over the eyes. While wearing them, you have [[advantage xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ These crystal lenses fit over the eyes. While wearing them, you have [[advantage
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

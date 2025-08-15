@@ -1,3 +1,12 @@
+---
+title: Clockwork Stone Defender Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Clockwork Stone Defender Mpmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-stone-defender-mpmm-clockwork-stone-defender-mpmm.svg)
 
-# [[clockwork-stone-defender-mpmm|Clockwork Stone Defender]]
+# [[clockwork stone defender mpmm|Clockwork Stone Defender]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 
-The thick plates of stone riveted onto a stone [[defender-xdmg|defender]] give it substantial protection. Its chief role is as a bodyguard.
-
+The thick plates of stone riveted onto a stone [[defender xdmg|defender]] give it substantial protection. Its chief role is as a bodyguard.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ The thick plates of stone riveted onto a stone [[defender-xdmg|defender]] give i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Clockworks
 
@@ -167,11 +170,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Stegosaurus Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stegosaurus Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stegosaurus-mpmm-stegosaurus-mpmm.svg)
 
-# [[stegosaurus-mpmm|Stegosaurus]]
+# [[stegosaurus mpmm|Stegosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
@@ -70,7 +79,6 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -82,11 +90,6 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -108,11 +111,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Related Notes
 
@@ -121,11 +122,9 @@ Mentioned in The Second Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

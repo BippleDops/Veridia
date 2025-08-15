@@ -1,3 +1,12 @@
+---
+title: Spell Gem Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Gem Oota
 
 ---
@@ -32,19 +41,18 @@ world: Both
 
 **Items in this group:**
 
-- [[spell-gem-amber-oota|Spell Gem (Amber)]]
-- [[spell-gem-bloodstone-oota|Spell Gem (Bloodstone)]]
-- [[spell-gem-diamond-oota|Spell Gem (Diamond)]]
-- [[spell-gem-jade-oota|Spell Gem (Jade)]]
-- [[spell-gem-lapis-lazuli-oota|Spell Gem (Lapis lazuli)]]
-- [[spell-gem-obsidian-oota|Spell Gem (Obsidian)]]
-- [[spell-gem-quartz-oota|Spell Gem (Quartz)]]
-- [[spell-gem-ruby-oota|Spell Gem (Ruby)]]
-- [[spell-gem-star-ruby-oota|Spell Gem (Star ruby)]]
-- [[spell-gem-topaz-oota|Spell Gem (Topaz)]]
+- [[spell gem amber oota|Spell Gem (Amber)]]
+- [[spell gem bloodstone oota|Spell Gem (Bloodstone)]]
+- [[spell gem diamond oota|Spell Gem (Diamond)]]
+- [[spell gem jade oota|Spell Gem (Jade)]]
+- [[spell gem lapis lazuli oota|Spell Gem (Lapis lazuli)]]
+- [[spell gem obsidian oota|Spell Gem (Obsidian)]]
+- [[spell gem quartz oota|Spell Gem (Quartz)]]
+- [[spell gem ruby oota|Spell Gem (Ruby)]]
+- [[spell gem star ruby oota|Spell Gem (Star ruby)]]
+- [[spell gem topaz oota|Spell Gem (Topaz)]]
 
 *Source: Out of the Abyss p. 223*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

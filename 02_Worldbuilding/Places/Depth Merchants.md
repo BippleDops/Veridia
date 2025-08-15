@@ -40,14 +40,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg]]
 
 # Depth Merchants
 *Where the Deep Ocean Yields Its Treasures*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,28 +72,21 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -111,7 +100,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -541,17 +529,13 @@ Ongoing situations affecting Depth Merchants:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 
@@ -570,7 +554,6 @@ Key stop on magic items trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

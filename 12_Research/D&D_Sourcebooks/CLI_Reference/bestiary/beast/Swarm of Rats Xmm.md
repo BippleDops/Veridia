@@ -1,3 +1,12 @@
+---
+title: Swarm of Rats Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Rats Xmm
 
 ---
@@ -34,9 +43,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-rats-xmm-swarm-of-rats-xmm.svg)
 
-# [[swarm-of-rats-xmm|Swarm of Rats]]
+# [[swarm of rats xmm|Swarm of Rats]]
 *Source: Monster Manual (2024) p. 370. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,15 +57,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Swarm of Rats (XMM)"
@@ -86,12 +89,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny rat. The swarm\
-      \ can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ can't regain [[hit points xphb|Hit Points]]\
+      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage,\
-      \ or 2 (d4) Piercing damage if the swarm is [[bloodied-xphb|Bloodied]]."
+      \ or 2 (d4) Piercing damage if the swarm is [[bloodied xphb|Bloodied]]."
     "name": "Bites"
 "source":
   - "XMM"
@@ -119,16 +122,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

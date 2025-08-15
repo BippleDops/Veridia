@@ -1,3 +1,12 @@
+---
+title: Staff of Frost Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Frost Xdmg
 
 ---
@@ -31,11 +40,10 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [[resistance-xphb|Resistance]] to Cold damage while you hold this staff.
-
+You have [[resistance xphb|Resistance]] to Cold damage while you hold this staff.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You have [[resistance-xphb|Resistance]] to Cold damage while you hold this staff
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spells
 
@@ -60,10 +63,10 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cone-of-cold-xphb|Cone of Cold]] | 5 |
-| [[fog-cloud-xphb|Fog Cloud]] | 1 |
-| [[ice-storm-xphb|Ice Storm]] | 4 |
-| [[wall-of-ice-xphb|Wall of Ice]] | 4 |
+| [[cone of cold xphb|Cone of Cold]] | 5 |
+| [[fog cloud xphb|Fog Cloud]] | 1 |
+| [[ice storm xphb|Ice Storm]] | 4 |
+| [[wall of ice xphb|Wall of Ice]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges
@@ -88,11 +91,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

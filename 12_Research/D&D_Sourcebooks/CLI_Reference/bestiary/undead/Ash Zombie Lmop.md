@@ -1,3 +1,12 @@
+---
+title: Ash Zombie Lmop
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ash Zombie Lmop
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)
 
-# [[ash-zombie-lmop|Ash Zombie]]
+# [[ash zombie lmop|Ash Zombie]]
 *Source: Lost Mine of Phandelver p. 31*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ash Zombies
 
@@ -121,11 +124,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

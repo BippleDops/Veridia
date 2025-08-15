@@ -30,12 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Pier 7
-
-![[04_Resources/Assets/Art/Lore/Pier_7.png|Pier 7 Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,8 +59,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
@@ -74,17 +67,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -94,12 +83,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Summary
 
@@ -125,8 +112,6 @@ Pier 7 represents an important aspect of the world's history, culture, or cosmol
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - Someone is searching for an heir for love
@@ -145,7 +130,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Economic Structure
 
 ### Currency
@@ -163,7 +147,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]
 
 # Purist Coalition Thugs
 *The Clean Blade Movement, Crystal Breakers, Guardians of Natural Order*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,19 +67,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -97,7 +87,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -106,7 +95,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 The Purist Coalition Thugs represent the militant arm of [[Aethermoor]]'s anti-crystal corruption movement, believing that the widespread use of [[Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] is slowly poisoning both the land and its people. What began as a legitimate philosophical movement questioning magical dependence has evolved into a violent extremist organization that uses terrorism, sabotage, and assassination to "purify" the kingdom from crystal influence. They see themselves as freedom fighters saving civilization from magical addiction, but their methods often harm innocent civilians caught between ideology and pragmatism.
@@ -251,7 +239,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

@@ -39,7 +39,7 @@ faction: '[[The Depth Wardens]]'
 faction_rank: 5
 first_name: Marina
 influence: 8
-last_encounter: '[[Aethermoor - Session 01 Blood in the Harbor]]'
+last_encounter: '[[Aethermoor   Session 01 Blood in the Harbor]]'
 last_name: Coralheart
 max_hp: 52
 notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
@@ -56,7 +56,7 @@ relationship_type: complicated
 relationships:
 - '[[Captain Lyanna Brightshield]]'
 - '[[The Crimson Sage]]'
-- '[[Jasper Three-Eyes Flint]]'
+- '[[Jasper Three Eyes Flint]]'
 - '[[Lord Aurelius Goldwave]]'
 - '[[Vex Shadowthorn]]'
 - '[[The Bloodline Carrier]]'
@@ -81,11 +81,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -114,16 +110,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -133,11 +126,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -147,12 +138,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Description
 Marina commands attention the moment she enters a room. Her deep red hair flows past her shoulders with an almost liquid quality, seeming to move even in still air. Her sea-green eyes shift between jade and turquoise depending on her mood and the light. What most take for elaborate nautical tattoos covering her arms and neck are actually ancestral depth-marks that glow faintly when she's near large bodies of water or shard energy.
@@ -291,7 +280,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -308,7 +296,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

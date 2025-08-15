@@ -1,3 +1,12 @@
+---
+title: Relics Legendary Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Relics Legendary Xdmg
 
 ---
@@ -31,19 +40,18 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
-| 09–18 | [[3-armor-xdmg|Armor, +3]] |
-| 19–27 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
-| 28–36 | [[holy-avenger-xdmg|Holy Avenger]] |
-| 37–45 | [[horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
-| 46–54 | [[rod-of-resurrection-xdmg|Rod of Resurrection]] |
-| 55–63 | [[scarab-of-protection-xdmg|Scarab of Protection]] |
-| 64–72 | [[scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]] |
-| 73–80 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-level-9-xdmg|level 9]] spell) |
-| 81–90 | [[talisman-of-pure-good-xdmg|Talisman of Pure Good]] |
-| 91–00 | [[talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]] |
+| 01–08 | [[armor of invulnerability xdmg|Armor of Invulnerability]] |
+| 09–18 | [[3 armor xdmg|Armor, +3]] |
+| 19–27 | [[enspelled staff xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–36 | [[holy avenger xdmg|Holy Avenger]] |
+| 37–45 | [[horn of valhalla iron xdmg|Horn of Valhalla (iron)]] |
+| 46–54 | [[rod of resurrection xdmg|Rod of Resurrection]] |
+| 55–63 | [[scarab of protection xdmg|Scarab of Protection]] |
+| 64–72 | [[scroll of titan summoning xdmg|Scroll of Titan Summoning]] |
+| 73–80 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll level 9 xdmg|level 9]] spell) |
+| 81–90 | [[talisman of pure good xdmg|Talisman of Pure Good]] |
+| 91–00 | [[talisman of ultimate evil xdmg|Talisman of Ultimate Evil]] |
 ^relics-legendary
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

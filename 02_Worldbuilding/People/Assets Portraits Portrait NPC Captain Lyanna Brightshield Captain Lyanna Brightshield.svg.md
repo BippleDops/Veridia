@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,23 +45,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -74,7 +65,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
@@ -83,7 +73,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Basic Information
 
@@ -194,7 +183,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]] (colleague)
-- [[Quest - The Shadow Fleet]] (rival)
+- [[Quest   The Shadow Fleet]] (rival)
 - [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -202,7 +191,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Cultural Practices
 
@@ -215,7 +203,6 @@ Member of House Lionblood - Trait: divine blood
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

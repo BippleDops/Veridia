@@ -1,3 +1,12 @@
+---
+title: Master_Places_Index
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Master_Places_Index
 
 ---
@@ -28,7 +37,6 @@ chronology: active
 # Master Places Index
 *Comprehensive Directory of All Locations in Aquabyssos & Aethermoor*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ chronology: active
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Index Overview
 
@@ -200,12 +203,10 @@ All locations connect to:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
 - A shipment has gone missing and truth emerges
-- Strange disappearances suggest a curse
 - Strange disappearances suggest a curse
 
 ## Related Notes
@@ -215,11 +216,9 @@ All locations connect to:
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

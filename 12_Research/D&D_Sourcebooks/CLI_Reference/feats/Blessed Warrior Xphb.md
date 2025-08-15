@@ -1,3 +1,12 @@
+---
+title: Blessed Warrior Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blessed Warrior Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: When Gaining the Level 2 Paladin "Fighting Style" Feature
 
-You learn two Cleric cantrips of your choice. [[guidance-xphb|Guidance]] and [[sacred-flame-xphb|Sacred Flame]] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
-
+You learn two Cleric cantrips of your choice. [[guidance xphb|Guidance]] and [[sacred flame xphb|Sacred Flame]] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You learn two Cleric cantrips of your choice. [[guidance-xphb|Guidance]] and [[s
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about this place
@@ -74,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

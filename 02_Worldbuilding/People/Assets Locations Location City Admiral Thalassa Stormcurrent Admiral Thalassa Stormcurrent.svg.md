@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,13 +46,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -65,8 +58,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
@@ -75,13 +66,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Basic Information
 
@@ -193,7 +181,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Captain Steelhart]] (rival)
 - [[04_Resources_Assets_Locations_location-city-the-drowning-truth-v1-the-drowning-truth.svg]] (rival)
-- [[Quest - The Failing Magic]] (enemy)
+- [[Quest   The Failing Magic]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -201,11 +189,9 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Relationships
 
@@ -213,7 +199,6 @@ Mentioned in The Hidden Prophecy of Winds
 - **Enemy**: [[Assets Symbols Symbol Heraldry Witness Protection Protocols V1 Witness Protection Protocols.svg]]
 - **Sibling**: [[Portrait NPC Captain Thaddeus Stormwright V2 Captain Thaddeus Stormwright.svg]]
 - **Enemy**: [[Portrait NPC Captain Thorne Darkwater V1 Captain Thorne Darkwater.svg]]
-
 
 ## A Day in the Life
 

@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-foreign-affairs-foreign-affairs.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,13 +56,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -80,7 +72,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -89,12 +80,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -142,12 +131,9 @@ Ongoing situations affecting Foreign Affairs:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

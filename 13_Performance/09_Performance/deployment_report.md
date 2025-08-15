@@ -60,13 +60,11 @@ node scripts/video_generation.js --image path/to/image.png
 curl http://127.0.0.1:8188/system_stats | jq
 ```
 
-
 ## Connections
 
 - See also: [[Master Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[Side Adventures]]
-
 
 ## DM Notes
 

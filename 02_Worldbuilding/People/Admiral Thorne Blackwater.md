@@ -50,11 +50,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -83,10 +79,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
@@ -99,20 +91,14 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[Pressure's End]], standing as the primary military force between [[Aquabyssos World Overview]] and the horrors of [[The Hadal Depths]]. A veteran of over 200 deep patrols, his body bears scars from encounters with creatures that shouldn't exist. Pressure adaptation has made him massive - nearly 8 feet tall with dense muscle and bone structure. His eyes are completely black, adapted to see in the absolute darkness of the deep.
@@ -292,7 +278,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
 
 ## Historical Timeline
 

@@ -1,3 +1,12 @@
+---
+title: Triton Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Triton Vgm
 
 ---
@@ -50,7 +59,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-A child of the sea, you can call on the magic of elemental air and water. You can cast [[fog-cloud-xphb|fog cloud]] with this trait. Starting at 3rd level, you can cast [[gust-of-wind-xphb|gust of wind]] with it, and starting at 5th level, you can also cast [[wall-of-water-xge|wall of water]] with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+A child of the sea, you can call on the magic of elemental air and water. You can cast [[fog cloud xphb|fog cloud]] with this trait. Starting at 3rd level, you can cast [[gust of wind xphb|gust of wind]] with it, and starting at 5th level, you can also cast [[wall of water xge|wall of water]] with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Darkvision
 
@@ -68,7 +77,6 @@ Adapted to even the most extreme ocean depths, you have resistance to cold damag
 
 You can speak, read, and write Common and Primordial.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -80,11 +88,6 @@ You can speak, read, and write Common and Primordial.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -168,7 +171,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -181,7 +183,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

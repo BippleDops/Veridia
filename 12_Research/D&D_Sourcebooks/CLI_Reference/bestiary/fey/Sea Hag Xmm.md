@@ -1,3 +1,12 @@
+---
+title: Sea Hag Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sea Hag Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sea-hag-xmm-sea-hag-xmm.svg)
 
-# [[sea-hag-xmm|Sea Hag]]
+# [[sea hag xmm|Sea Hag]]
 *Source: Monster Manual (2024) p. 271. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sea Hag
 
@@ -99,10 +102,10 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 11): [[augury-xphb|Augury]], [[find-familiar-xphb|Find Familiar]],\
-      \ [[identify-xphb|Identify]], [[locate-object-xphb|Locate Object]],\
-      \ [[scrying-xphb|Scrying]], or [[unseen-servant-xphb|Unseen Servant]].\
-      \ The hag must finish a [[long-rest-xphb|Long Rest]]\
+      \ save DC 11): [[augury xphb|Augury]], [[find familiar xphb|Find Familiar]],\
+      \ [[identify xphb|Identify]], [[locate object xphb|Locate Object]],\
+      \ [[scrying xphb|Scrying]], or [[unseen servant xphb|Unseen Servant]].\
+      \ The hag must finish a [[long rest xphb|Long Rest]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "The hag can breathe air and water."
@@ -117,12 +120,12 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
     "name": "Claw"
   - "desc": "Wisdom Saving Throw: DC 11, one [[conditions#frightened|Frightened]]\
-      \ creature the hag can see within 30 feet. Failure: If the target has 20 [[hit-points-xphb|Hit\]]
+      \ creature the hag can see within 30 feet. Failure: If the target has 20 [[hit points xphb|Hit\]]
       \ Points]] or fewer, it drops\
-      \ to 0 [[hit-points-xphb|Hit Points]]. Otherwise,\
+      \ to 0 [[hit points xphb|Hit Points]]. Otherwise,\
       \ the target takes 13 (3d8) Psychic damage."
     "name": "Death Glare (Recharge 5-6)"
-  - "desc": "The hag casts [[disguise-self-xphb|Disguise Self]],\
+  - "desc": "The hag casts [[disguise self xphb|Disguise Self]],\
       \ using Constitution as the spellcasting ability (spell save DC 13). The spell's\
       \ duration is 24 hours.\n"
     "name": "Illusory Appearance"
@@ -151,7 +154,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

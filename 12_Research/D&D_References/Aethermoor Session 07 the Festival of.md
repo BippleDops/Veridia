@@ -1,3 +1,12 @@
+---
+title: Aethermoor Session 07 the Festival of
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor Session 07 the Festival of
 
 ---
@@ -45,7 +54,6 @@ world: Aethermoor
 
 > *The festival grounds pulse with violet energy. Thousands of citizens stand in concentric circles, crystal veins spreading across their skin.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 🎬 Strong Start
 
@@ -109,7 +112,6 @@ Environmental Effects:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -118,7 +120,6 @@ Environmental Effects:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

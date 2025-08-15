@@ -1,3 +1,12 @@
+---
+title: Staff of Striking Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Striking Xdmg
 
 ---
@@ -33,13 +42,12 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic Quarterstaff that grants a +3 bonus to attack rolls and damage rolls made with it.
 
 The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 charges. For each charge you expend, the target takes an extra `d6` Force damage.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ The staff has 10 charges. When you hit with a melee attack using it, you can exp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -97,11 +98,9 @@ Mentioned in The Second Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

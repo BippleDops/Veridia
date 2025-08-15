@@ -28,10 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-tensions-surface-tensions.svg]]
 
 # Surface Tensions
 
@@ -39,7 +36,6 @@ improvements: 20
 
 > *"Here, where the water kisses the sky and ancient grudges refuse to drown, every handshake carries the weight of history, every trade deal echoes with the memory of war, and every sunrise brings new reasons to hope or despair."*
 > — [[Ambassador Marina Bridgewater]], Chief Diplomatic Liaison
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,18 +64,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -93,14 +84,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -742,8 +729,8 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 
 **Related Items and Concepts**:
 - [[The Boundary Accords]]
-- [[Inter-Realm Diplomacy]]
-- [[Surface-Underwater Trade]]
+- [[Inter Realm Diplomacy]]
+- [[Surface Underwater Trade]]
 - [[Cultural Integration]]
 
 ## Player-Facing Summary
@@ -792,8 +779,6 @@ Ongoing situations affecting Surface Tensions:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A shipment has gone missing and war looms
@@ -817,7 +802,6 @@ Ongoing situations affecting Surface Tensions:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Mace of Terror Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mace of Terror Xdmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Mace of Terror
-*Weapon ([[mace-xphb|mace]]), rare (requires attunement)*  
+*Weapon ([[mace xphb|mace]]), rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -34,7 +43,6 @@ world: Both
 This magic weapon has 3 charges and regains `d3` expended charges daily at dawn. While holding the weapon, you can take a [[actions#Magic|Magic]] action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute. While [[conditions#frightened|Frightened]] in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't make [[actions#Opportunity%20Attack|Opportunity Attacks]]. For its action, it can use only the [[actions#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the [[actions#Dodge|Dodge]] action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ This magic weapon has 3 charges and regains `d3` expended charges daily at dawn.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

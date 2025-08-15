@@ -1,3 +1,12 @@
+---
+title: Random-Encounter-Tables-Aethermoor
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random-Encounter-Tables-Aethermoor
 
 ---
@@ -28,9 +37,6 @@ accessibility:
 
 # Random-Encounter-Tables-Aethermoor
 
-![[04_Resources/Assets/Art/Lore/Random-Encounter-Tables-Aethermoor.png|Random-Encounter-Tables-Aethermoor Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +48,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Random-Encounter-Tables-Aethermoor describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -66,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

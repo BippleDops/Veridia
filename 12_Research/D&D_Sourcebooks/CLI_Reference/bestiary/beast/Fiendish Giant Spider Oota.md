@@ -1,3 +1,12 @@
+---
+title: Fiendish Giant Spider Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fiendish Giant Spider Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
 
-# [[fiendish-giant-spider-oota|Fiendish Giant Spider]]
+# [[fiendish giant spider oota|Fiendish Giant Spider]]
 *Source: Out of the Abyss p. 97*  
 
 ```statblock
@@ -84,7 +93,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

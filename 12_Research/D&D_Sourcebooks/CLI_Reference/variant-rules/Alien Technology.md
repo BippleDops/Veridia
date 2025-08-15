@@ -1,3 +1,12 @@
+---
+title: Alien Technology
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alien Technology
 
 ---
@@ -31,9 +40,6 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![[figuring-out-alien-technology|Figuring Out Alien Technology]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +51,6 @@ A character who has seen an item used or has operated a similar item has advanta
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: The Shadow Trade Network
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Shadow Trade Network
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T01:18:36.721083+00:00'
 # The Shadow Trade Network
 *Commerce in the Darkness Between Laws*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ updated: '2025-08-13T01:18:36.721083+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -349,7 +352,7 @@ Early smugglers discovered that shadow magic could:
 20. **The Legitimization Attempt**: Network seeks to transform into legitimate business organization, characters evaluate sincerity and help or hinder process.
 
 ## Related Quests
-- [[Quest - The Shadow Conspiracy Investigatio|02 Worldbuilding/Groups/Quest The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
+- [[Quest   The Shadow Conspiracy Investigatio|02 Worldbuilding/Groups/Quest The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Characters interact with Network shipping and transportation operations
 - **The Corruption Investigation** - Exposing Network influence within government institutions
 - **The Shadow Market Infiltration** - Characters infiltrate Network operations for law enforcement or personal reasons
@@ -369,8 +372,6 @@ Legends speak of The Shadow Trade Network as a nexus where past and present conv
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: 3 Shield Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Shield Xdmg
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Generated/Items/item-artifact-3-shield-xdmg-3-shield-xdmg.svg)
 
 # +3 Shield
-*Armor ([[shield-xphb|shield]]), very rare*  
+*Armor ([[shield xphb|shield]]), very rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have a +3 bonus to [[armor-class-xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
+While holding this Shield, you have a +3 bonus to [[armor class xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While holding this Shield, you have a +3 bonus to [[armor-class-xphb|Armor Class
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,13 +51,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -71,11 +63,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -85,12 +75,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -141,12 +129,9 @@ Ongoing situations affecting Express Racers:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

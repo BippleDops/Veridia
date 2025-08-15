@@ -1,3 +1,12 @@
+---
+title: Piwafwi Cloak of Elvenkind Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Piwafwi Cloak of Elvenkind Oota
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/piwafwi-cloak-of-elvenkind.webp#right)
 
-This dark spider silk cloak is made by [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It loses its magic if exposed to sunlight for 1 hour without interruption.
+This dark spider silk cloak is made by [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It loses its magic if exposed to sunlight for 1 hour without interruption.
 
 While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Perception]]) checks made to see you have disadvantage. and you have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 *Source: Out of the Abyss p. 222*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Percepti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -85,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

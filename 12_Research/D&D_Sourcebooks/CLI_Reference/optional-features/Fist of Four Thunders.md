@@ -1,3 +1,12 @@
+---
+title: Fist of Four Thunders
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fist of Four Thunders
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Fist of Four Thunders
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[thunderwave-xphb|thunderwave]].
-
+You can spend 2 ki points to cast [[thunderwave xphb|thunderwave]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can spend 2 ki points to cast [[thunderwave-xphb|thunderwave]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

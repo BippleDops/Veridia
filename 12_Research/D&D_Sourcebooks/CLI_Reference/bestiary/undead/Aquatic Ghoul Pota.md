@@ -1,3 +1,12 @@
+---
+title: Aquatic Ghoul Pota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquatic Ghoul Pota
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-ghoul-pota-aquatic-ghoul-pota.svg)
 
-# [[aquatic-ghoul-pota|Aquatic Ghoul]]
+# [[aquatic ghoul pota|Aquatic Ghoul]]
 *Source: Princes of the Apocalypse p. 87*  
 
 ```statblock
@@ -72,7 +81,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -84,11 +92,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -106,11 +109,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

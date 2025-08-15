@@ -1,3 +1,12 @@
+---
+title: Oblex Spawn Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Oblex Spawn Mpmm
 
 ---
@@ -33,13 +42,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oblex-spawn-mpmm-oblex-spawn-mpmm.svg)
 
-# [[oblex-spawn-mpmm|Oblex Spawn]]
+# [[oblex spawn mpmm|Oblex Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
 
 Newly formed oblexes lack the capabilities of their older kin. They seek only to feed on memories and grow until they can impersonate their victims.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Newly formed oblexes lack the capabilities of their older kin. They seek only to
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Oblexes
 
@@ -135,15 +138,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Plot Hooks
 
-- Strange sightings suggest a curse
 - Strange sightings suggest a curse
 - Someone is hunting information for money
 
@@ -154,16 +154,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

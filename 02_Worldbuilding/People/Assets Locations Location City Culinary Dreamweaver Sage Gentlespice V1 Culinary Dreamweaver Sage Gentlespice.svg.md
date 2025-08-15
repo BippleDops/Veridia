@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,25 +46,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
@@ -81,7 +70,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Basic Information
 
@@ -193,7 +181,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[The Emerald Sage Willowbark]] (colleague)
 - [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg]] (colleague)
-- [[#Cross-Campaign Characters]] (rival)
+- [[#Cross Campaign Characters]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

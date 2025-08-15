@@ -1,3 +1,12 @@
+---
+title: Gnoll Pack Lord Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnoll Pack Lord Xmm
 
 ---
@@ -31,11 +40,10 @@ updated: '2025-08-13T12:34:05.862926+00:00'
 world: Both
 ---
 
-# [[gnoll-pack-lord-xmm|Gnoll Pack Lord]]
+# [[gnoll pack lord xmm|Gnoll Pack Lord]]
 *Source: Monster Manual (2024) p. 140*  
 
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Rising above other gnolls with their viciousness and physical prowess, gnoll pac
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gnolls
 
@@ -97,13 +100,13 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Javelin"
   - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-      \ that has the Rampage [[bonus-action-xphb|Bonus Action]].\
-      \ The target can take a [[reaction-xphb|Reaction]]\
+      \ that has the Rampage [[bonus action xphb|Bonus Action]].\
+      \ The target can take a [[reaction xphb|Reaction]]\
       \ to make one melee attack."
     "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Bone Whip attack."
     "name": "Rampage (2/Day)"
 "source":
@@ -132,11 +135,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -147,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

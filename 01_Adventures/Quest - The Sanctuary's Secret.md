@@ -1,3 +1,12 @@
+---
+title: Quest - The Sanctuary's Secret
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Sanctuary's Secret
 
 ---
@@ -16,8 +25,6 @@ updated: '2025-08-13T01:18:36.917690+00:00'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-sanctuary-s-secret-quest-the-sanctuary-s-secret.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ updated: '2025-08-13T01:18:36.917690+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,7 +54,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before dawn
@@ -64,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Black Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Black Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-black-dragon-xmm-adult-black-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,18 +46,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient black dragon's lair is warped by its presence, creating the following effects:
 
-- **Acrid Haze.** Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area [[lightly-obscured-xphb|Lightly Obscured]]. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.  
+- **Acrid Haze.** Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area [[lightly obscured xphb|Lightly Obscured]]. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.  
 - **Foul Water.** Water sources within 1 mile of the lair are supernaturally fouled. A creature that drinks such water must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -85,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

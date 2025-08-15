@@ -1,3 +1,12 @@
+---
+title: Wretched Sorrowsworn Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wretched Sorrowsworn Mpmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wretched-sorrowsworn-mpmm-wretched-sorrowsworn-mpmm.svg)
 
-# [[wretched-sorrowsworn-mpmm|Wretched Sorrowsworn]]
+# [[wretched sorrowsworn mpmm|Wretched Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sorrowsworn
 
@@ -123,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

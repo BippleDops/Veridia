@@ -1,3 +1,12 @@
+---
+title: Campaign_Index
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Index
 
 ---
@@ -30,7 +39,6 @@ world: Both
 > [!navigation] Quick Navigation Hub
 > Optimized index for rapid access to campaign content. Updated automatically via Dataview.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 📜 Active Quests
 
@@ -156,11 +159,9 @@ SORT date DESC
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

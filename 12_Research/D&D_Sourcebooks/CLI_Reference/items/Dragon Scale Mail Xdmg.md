@@ -1,3 +1,12 @@
+---
+title: Dragon Scale Mail Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragon Scale Mail Xdmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Dragon Scale Mail
-*Medium armor ([[scale-mail-xphb|scale mail]]), very rare (requires attunement)*  
+*Medium armor ([[scale mail xphb|scale mail]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -34,19 +43,18 @@ world: Both
 
 **Items in this group:**
 
-- [[black-dragon-scale-mail-xdmg|Black Dragon Scale Mail]]
-- [[blue-dragon-scale-mail-xdmg|Blue Dragon Scale Mail]]
-- [[brass-dragon-scale-mail-xdmg|Brass Dragon Scale Mail]]
-- [[bronze-dragon-scale-mail-xdmg|Bronze Dragon Scale Mail]]
-- [[copper-dragon-scale-mail-xdmg|Copper Dragon Scale Mail]]
-- [[gold-dragon-scale-mail-xdmg|Gold Dragon Scale Mail]]
-- [[green-dragon-scale-mail-xdmg|Green Dragon Scale Mail]]
-- [[red-dragon-scale-mail-xdmg|Red Dragon Scale Mail]]
-- [[silver-dragon-scale-mail-xdmg|Silver Dragon Scale Mail]]
-- [[white-dragon-scale-mail-xdmg|White Dragon Scale Mail]]
+- [[black dragon scale mail xdmg|Black Dragon Scale Mail]]
+- [[blue dragon scale mail xdmg|Blue Dragon Scale Mail]]
+- [[brass dragon scale mail xdmg|Brass Dragon Scale Mail]]
+- [[bronze dragon scale mail xdmg|Bronze Dragon Scale Mail]]
+- [[copper dragon scale mail xdmg|Copper Dragon Scale Mail]]
+- [[gold dragon scale mail xdmg|Gold Dragon Scale Mail]]
+- [[green dragon scale mail xdmg|Green Dragon Scale Mail]]
+- [[red dragon scale mail xdmg|Red Dragon Scale Mail]]
+- [[silver dragon scale mail xdmg|Silver Dragon Scale Mail]]
+- [[white dragon scale mail xdmg|White Dragon Scale Mail]]
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,14 +84,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

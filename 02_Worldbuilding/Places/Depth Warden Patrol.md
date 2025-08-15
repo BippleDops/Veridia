@@ -33,17 +33,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-warden-patrol-depth-warden-patrol.svg]]
 
 # Depth Warden Patrol
 *Mobile Law Enforcement in the Deep*
 
 > *"The Depth Wardens are the current that carries justice to every corner of Aquabyssos. Where the law is needed, there they flow. Where order must be maintained, there they stand firm. They are the pressure that keeps our realm stable, the guardians who ensure that darkness—whether from the depths or from the hearts of wrongdoers—does not overwhelm the light."*
 > — [[Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]], Chief of Depth Warden Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,7 +68,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
@@ -85,13 +80,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -101,13 +92,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Overview
 
@@ -543,12 +531,9 @@ Ongoing situations affecting Depth Warden Patrol:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 

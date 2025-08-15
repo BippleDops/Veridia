@@ -1,3 +1,12 @@
+---
+title: Spell Points
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Points
 
 ---
@@ -35,14 +44,9 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[bard-xphb|bards]], [[cleric-xphb|clerics]], [[druid-xphb|druids]], [[sorcerer-xphb|sorcerers]], and [[wizard-xphb|wizards]]. For a [[paladin-xphb|paladin]] or [[ranger-xphb|ranger]], halve the character's level in that class and then consult the table. For a [[fighter-xphb|fighter (Eldritch Knight)]] or [[rogue-xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[bard xphb|bards]], [[cleric xphb|clerics]], [[druid xphb|druids]], [[sorcerer xphb|sorcerers]], and [[wizard xphb|wizards]]. For a [[paladin xphb|paladin]] or [[ranger xphb|ranger]], halve the character's level in that class and then consult the table. For a [[fighter xphb|fighter (Eldritch Knight)]] or [[rogue xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
-
-![[variant-spell-points-spell-point-cost|Variant: Spell Points; Spell Point Cost]]
-
-![[variant-spell-points-spell-points-by-level|Variant: Spell Points; Spell Points by Level]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +59,6 @@ This system can be applied to monsters that cast spells using spell slots, but i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

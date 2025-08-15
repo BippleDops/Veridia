@@ -1,3 +1,12 @@
+---
+title: Campaign_Direction_Survey
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Direction_Survey
 
 ---
@@ -117,7 +126,6 @@ Any specific threats you'd like to face?
 
 *Your input shapes the campaign's future direction*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -129,11 +137,6 @@ Any specific threats you'd like to face?
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Related
 
@@ -147,21 +150,17 @@ Any specific threats you'd like to face?
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
 
-
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

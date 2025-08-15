@@ -1,3 +1,12 @@
+---
+title: Pushing Attack Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pushing Attack Xphb
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Pushing Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll using a weapon or an [[unarmed-strike-xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+When you hit a creature with an attack roll using a weapon or an [[unarmed strike xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ When you hit a creature with an attack roll using a weapon or an [[unarmed-strik
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

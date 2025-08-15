@@ -1,3 +1,12 @@
+---
+title: Ring of Elemental Command Air Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Elemental Command Air Xdmg
 
 ---
@@ -31,9 +40,8 @@ world: Both
 
 The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Every Ring of Elemental Command has the following two properties:
 
-- **Elemental Bane.** While wearing the ring, you have [[advantage-xphb|Advantage]] on attack rolls against Elementals and they have [[disadvantage-xphb|Disadvantage]] on attack rolls against you.  
+- **Elemental Bane.** While wearing the ring, you have [[advantage xphb|Advantage]] on attack rolls against Elementals and they have [[disadvantage xphb|Disadvantage]] on attack rolls against you.  
 - **Elemental Compulsion.** While wearing the ring, you can take a [[actions#Magic|Magic]] action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [[conditions#Charmed|Charmed]] condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,21 +54,16 @@ The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Eve
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Elemental Focus
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Air.** You know Auran, you have [[resistance-xphb|Resistance]] to Lightning damage, and you have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] and can hover.  
+- **Air.** You know Auran, you have [[resistance xphb|Resistance]] to Lightning damage, and you have a [[fly speed xphb|Fly Speed]] equal to your [[speed xphb|Speed]] and can hover.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[chain-lightning-xphb|Chain Lightning]] (3 charges), [[feather-fall-xphb|Feather Fall]] (0 charges), [[gust-of-wind-xphb|Gust of Wind]] (2 charges), [[wind-wall-xphb|Wind Wall]] (1 charge)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[chain lightning xphb|Chain Lightning]] (3 charges), [[feather fall xphb|Feather Fall]] (0 charges), [[gust of wind xphb|Gust of Wind]] (2 charges), [[wind wall xphb|Wind Wall]] (1 charge)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

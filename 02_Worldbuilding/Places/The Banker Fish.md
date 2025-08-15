@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg]]
 
 # The Aquatic Bank - Underwater Ficial Institution
 
 *A magnificent ficial establishment where the currents of commerce flow through innovative underwater banking, and the wisdom of the depths guides sound ficial practices*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,19 +65,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -90,7 +80,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
@@ -104,7 +93,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -443,12 +431,9 @@ Ongoing situations affecting The Banker Fish:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -472,7 +457,6 @@ Key stop on spices trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

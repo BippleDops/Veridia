@@ -1,3 +1,12 @@
+---
+title: loyalty
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # loyalty
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 Loyalty is an optional rule you can use to determine how far an NPC party member will go to protect or assist the other members of the party (even those she doesn't particularly like). An NPC party member who is abused or ignored is likely to abandon the party, whereas an NPC who owes a life characters or shares their goals might fight to the death for them. Loyalty can be roleplayed or represented by this rule.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ Loyalty is an optional rule you can use to determine how far an NPC party member
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Loyalty Score
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

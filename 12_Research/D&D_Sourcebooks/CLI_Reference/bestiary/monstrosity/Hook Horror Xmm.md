@@ -1,3 +1,12 @@
+---
+title: Hook Horror Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hook Horror Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hook-horror-xmm-hook-horror-xmm.svg)
 
-# [[hook-horror-xmm|Hook Horror]]
+# [[hook horror xmm|Hook Horror]]
 *Source: Monster Manual (2024) p. 173*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hook Horror
 
@@ -121,11 +124,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-cult-text-with-marginalia.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_cult_text_with_marginalia_png.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,19 +54,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Organization Overview
 
@@ -216,11 +206,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #cult #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Cultural Practices
 
@@ -233,7 +221,6 @@ What they claim to pursue
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

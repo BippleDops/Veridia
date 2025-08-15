@@ -1,3 +1,12 @@
+---
+title: Book Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Book Xphb
 
 ---
@@ -37,7 +46,6 @@ A Book contains fiction or nonfiction. If you consult an accurate nonfiction Boo
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ A Book contains fiction or nonfiction. If you consult an accurate nonfiction Boo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals the truth about a local noble
@@ -80,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

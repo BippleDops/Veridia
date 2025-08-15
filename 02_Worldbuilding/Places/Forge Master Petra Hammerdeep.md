@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Forge Master Petra Hammerdeep
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Forge_Master_Petra_Hammerdeep.png|Forge Master Petra Hammerdeep Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,23 +71,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -102,12 +91,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -162,12 +149,9 @@ Ongoing situations affecting Forge Master Petra Hammerdeep:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

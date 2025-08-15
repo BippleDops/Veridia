@@ -1,3 +1,12 @@
+---
+title: Artifact Properties Major Beneficial
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Artifact Properties Major Beneficial
 
 ---
@@ -42,7 +51,6 @@ world: Both
 | 91-00 | While attuned to the artifact, you can't be [[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]], [[conditions#Petrified|petrified]], or [[conditions#Stunned|stunned]]. |
 ^major-beneficial-properties
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals ancient history about this place
@@ -87,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

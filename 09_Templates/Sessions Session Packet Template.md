@@ -1,3 +1,12 @@
+---
+title: Sessions Session Packet Template
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sessions - Session_Packet_Template
 
 ---
@@ -24,18 +33,17 @@ Date: {{session_date}}
 Campaign: {{campaign_name}}
 
 handouts:
-  - [[D-005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
+  - [[D 005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
 gm_sheets:
-  - [[D-005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
+  - [[D 005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
   - [[M-L-01_The_Great_Convergence|06 GM Resources/Travel/Encounter Sheets/M L 01 The Great Convergence]]
 
 assets:
-  - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
 
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ assets:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player Handouts
 ```dataviewjs
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

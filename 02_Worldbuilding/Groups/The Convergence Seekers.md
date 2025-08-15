@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-convergence-seekers-the-convergence-seekers.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,12 +52,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
@@ -74,9 +67,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -94,7 +84,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -130,7 +119,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -154,7 +142,6 @@ Things widely suspected
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -166,7 +153,6 @@ Things widely suspected
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

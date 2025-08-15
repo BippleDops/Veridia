@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,8 +45,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
@@ -61,7 +56,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -79,14 +73,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -198,7 +188,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[The Ancient Nobility]] (ally)
 - [[04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-master-host-torrent-welcomeall.svg]] (colleague)
-- [[Quest - The Crimson Tide]] (colleague)
+- [[Quest   The Crimson Tide]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -206,15 +196,13 @@ This NPC can serve multiple roles:
 
 Member of House Eagleblood - Trait: curse
 
-
 ## Relationships
 
-- **Parent**: [[Session 1 the Queens Summons_1]]
+- **Parent**: [[Session 1 the Queens Summons 1]]
 - **Friend**: [[Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg]]
-- **Sibling**: [[Quest - The Democratic Balance]]
+- **Sibling**: [[Quest   The Democratic Balance]]
 - **Lover**: [[Portrait NPC Captain Lyanna Brightshield V2 Captain Lyanna Brightshield.svg]]
 - **Parent**: [[Assets Locations Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
-
 
 ## A Day in the Life
 

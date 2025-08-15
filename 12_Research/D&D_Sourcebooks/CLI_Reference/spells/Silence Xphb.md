@@ -1,3 +1,12 @@
+---
+title: Silence Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Silence Xphb
 
 ---
@@ -38,12 +47,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. Any creature or object entirely inside the [[sphere-area-of-effect-xphb|Sphere]] has [[immunity-xphb|Immunity]] to Thunder damage, and creatures have the [[conditions#Deafened|Deafened]] condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. Any creature or object entirely inside the [[sphere-area-of-effect-xphb|Sphere]] has [[immunity xphb|Immunity]] to Thunder damage, and creatures have the [[conditions#Deafened|Deafened]] condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Malice Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Malice Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Malice
 *Adventuring gear, poison (inhaled)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 250 gp
 
 A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. The creature also has the [[conditions#Blinded|Blinded]] condition while [[conditions#Poisoned|Poisoned]] in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Malice must succeed on a DC 15 Constitution saving throw
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help delivering before the festival
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

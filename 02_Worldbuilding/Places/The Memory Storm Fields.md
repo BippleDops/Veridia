@@ -39,15 +39,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-memory-storm-fields-the-memory-storm-fields.svg]]
 
 # The Memory Storm Fields
 
 *Where Past and Present Collide in Torrents of Recollection*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -84,24 +80,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -111,7 +100,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -209,8 +197,6 @@ Ongoing situations affecting The Memory Storm Fields:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A prisoner has gone missing and chaos spreads
@@ -234,7 +220,6 @@ Ongoing situations affecting The Memory Storm Fields:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -246,7 +231,6 @@ Ongoing situations affecting The Memory Storm Fields:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -265,7 +249,6 @@ Ongoing situations affecting The Memory Storm Fields:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

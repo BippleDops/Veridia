@@ -1,3 +1,12 @@
+---
+title: Hobgoblin Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hobgoblin Vgm
 
 ---
@@ -55,7 +64,6 @@ Hobgoblins are careful not to show weakness in front of their allies, for fear o
 
 You can speak, read, and write Common and Goblin.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ You can speak, read, and write Common and Goblin.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -89,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -103,7 +104,6 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

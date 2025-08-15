@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg]]
 
 # Market Mystery
 
 *"In the marketplace, every transaction hides a story."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,8 +62,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
@@ -76,19 +70,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -98,7 +86,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 A puzzling investigation where valuable goods are disappearing from the Grand Market without any trace of theft or tampering. Merchants report perfect inventory at closing but find items missing when they reopen, with no signs of break-ins or security breaches.
@@ -253,12 +240,9 @@ Ongoing situations affecting Market Mystery:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

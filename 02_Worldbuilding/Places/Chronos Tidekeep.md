@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chronos-tidekeep-chronos-tidekeep.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,14 +53,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
@@ -78,11 +69,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Player-Facing Summary
 
@@ -140,8 +128,6 @@ Ongoing situations affecting Chronos Tidekeep:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange sightings suggest a conspiracy
@@ -158,7 +144,6 @@ Ongoing situations affecting Chronos Tidekeep:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

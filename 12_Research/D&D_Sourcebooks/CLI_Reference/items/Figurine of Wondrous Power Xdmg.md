@@ -1,3 +1,12 @@
+---
+title: Figurine of Wondrous Power Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Figurine of Wondrous Power Xdmg
 
 ---
@@ -33,17 +42,16 @@ world: Both
 **Items in this group:**
 
 - [[figurine-of-wondrous-power-bronze-griffon-xdmg|Figurine of Wondrous Power, Bronze Griffon]]
-- [[figurine-of-wondrous-power-ebony-fly-xdmg|Figurine of Wondrous Power, Ebony Fly]]
-- [[figurine-of-wondrous-power-golden-lions-xdmg|Figurine of Wondrous Power, Golden Lions]]
-- [[figurine-of-wondrous-power-ivory-goats-xdmg|Figurine of Wondrous Power, Ivory Goats]]
+- [[figurine of wondrous power ebony fly xdmg|Figurine of Wondrous Power, Ebony Fly]]
+- [[figurine of wondrous power golden lions xdmg|Figurine of Wondrous Power, Golden Lions]]
+- [[figurine of wondrous power ivory goats xdmg|Figurine of Wondrous Power, Ivory Goats]]
 - [[figurine-of-wondrous-power-marble-elephant-xdmg|Figurine of Wondrous Power, Marble Elephant]]
 - [[figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of Wondrous Power, Obsidian Steed]]
-- [[figurine-of-wondrous-power-onyx-dog-xdmg|Figurine of Wondrous Power, Onyx Dog]]
+- [[figurine of wondrous power onyx dog xdmg|Figurine of Wondrous Power, Onyx Dog]]
 - [[figurine-of-wondrous-power-serpentine-owl-xdmg|Figurine of Wondrous Power, Serpentine Owl]]
-- [[figurine-of-wondrous-power-silver-raven-xdmg|Figurine of Wondrous Power, Silver Raven]]
+- [[figurine of wondrous power silver raven xdmg|Figurine of Wondrous Power, Silver Raven]]
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

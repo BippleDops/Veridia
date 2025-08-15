@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-rescue-temporal-rescue.svg]]
 
 # Temporal Rescue
 
 *"When time itself becomes the enemy, heroes must race against eternity."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,19 +62,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -104,7 +94,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 An emergency mission where someone important has been displaced in time by magical accident or deliberate action. Players must navigate temporal anomalies, paradoxes, and time-based hazards to rescue the victim before temporal forces strand them permanently.
@@ -254,8 +243,6 @@ Ongoing situations affecting Temporal Rescue:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -272,7 +259,6 @@ Ongoing situations affecting Temporal Rescue:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

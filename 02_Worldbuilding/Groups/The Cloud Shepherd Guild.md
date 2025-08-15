@@ -14,10 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Groups/The Cloud Shepherd Guild](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cloud_shepherd_guild.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,9 +43,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
@@ -73,8 +67,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
@@ -83,8 +75,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Organization Overview
 
@@ -212,7 +202,6 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #guild #faction #worldbuilding
-
 
 ## Plot Hooks
 

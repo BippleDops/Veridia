@@ -1,3 +1,12 @@
+---
+title: Item Mastery
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Item Mastery
 
 ---
@@ -22,7 +31,6 @@ updated: '2025-08-13T12:34:03.309417+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cleave
 _Source: Player's Handbook (2024) p. 214. Available in the SRD and the Free Rules (2024)_
@@ -51,7 +54,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the Light property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a [[bonus-action-xphb|Bonus Action]]. You can make this extra attack only once per turn.
+When you make the extra attack of the Light property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a [[bonus action xphb|Bonus Action]]. You can make this extra attack only once per turn.
 
 ## Push
 
@@ -59,19 +62,19 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ## Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage-xphb|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[disadvantage xphb|Disadvantage]] on its next attack roll before the start of your next turn.
 
 ## Slow
 
-If you hit a creature with this weapon and deal damage to it, you can reduce its [[speed-xphb|Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[speed-xphb|Speed]] reduction doesn't exceed 10 feet.
+If you hit a creature with this weapon and deal damage to it, you can reduce its [[speed xphb|Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[speed xphb|Speed]] reduction doesn't exceed 10 feet.
 
 ## Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[proficiency-xphb|Proficiency Bonus]]). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[proficiency xphb|Proficiency Bonus]]). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
 
 ## Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage-xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[advantage xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ## Player-Facing Summary
 
@@ -89,21 +92,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

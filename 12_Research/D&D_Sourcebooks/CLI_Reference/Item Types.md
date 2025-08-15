@@ -1,3 +1,12 @@
+---
+title: Item Types
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Item Types
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-13T12:34:03.304830+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Adventuring Gear
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
@@ -56,7 +59,7 @@ _Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each type of Artisan's Tools tools requires a separate proficiency.
 
-If you have proficiency with a tool, add your [[proficiency-xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb|Advantage]] on the check too.
+If you have proficiency with a tool, add your [[proficiency xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage xphb|Advantage]] on the check too.
 
 ## Explosive
 
@@ -138,7 +141,7 @@ _Source: Player's Handbook p. 143_
 ## Ranged Weapon
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 
-**Range.** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[disadvantage-xphb|Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
+**Range.** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[disadvantage xphb|Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
 
 ## Ring
 _Source: Dungeon Master's Guide p. 139_
@@ -191,9 +194,9 @@ Gemstones are small, lightweight, and easily secured compared to their same valu
 
 **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-**Damage Threshold.** See the [[damage-threshold-xphb|rules glossary]].
+**Damage Threshold.** See the [[damage threshold xphb|rules glossary]].
 
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit-points-xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit points xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Vehicle (Land)
 
@@ -205,9 +208,9 @@ Gemstones are small, lightweight, and easily secured compared to their same valu
 
 **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-**Damage Threshold.** See the [[damage-threshold-xphb|rules glossary]].
+**Damage Threshold.** See the [[damage threshold xphb|rules glossary]].
 
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit-points-xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit points xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Wand
 

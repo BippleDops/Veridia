@@ -123,7 +123,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg]] (enemy)
-- [[#Cross-Campaign Characters]] (enemy)
-- [[Head_of_Memory_Integration_Dr._Nautilus_Depthcaller]] (rival)
+- [[#Cross Campaign Characters]] (enemy)
+- [[Head of Memory Integration Dr. Nautilus Depthcaller]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding

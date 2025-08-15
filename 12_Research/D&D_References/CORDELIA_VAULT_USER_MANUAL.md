@@ -1,3 +1,12 @@
+---
+title: CORDELIA_VAULT_USER_MANUAL
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # CORDELIA_VAULT_USER_MANUAL
 
 ---
@@ -19,7 +28,6 @@ modified: '2025-08-14'
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -31,11 +39,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 📚 TABLE OF CONTENTS
 
@@ -1134,7 +1137,6 @@ The vault includes customizable templates for AI and manual content generation. 
     "cross_referencing": true,
     "vault_consistency": true
   }
-}
 
 **Context-Aware Generation**:
 The AI system automatically includes relevant vault context when generating new content:
@@ -1559,11 +1561,9 @@ python scripts/random_generator_engine.py --vault-path . --type npc --count 1
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

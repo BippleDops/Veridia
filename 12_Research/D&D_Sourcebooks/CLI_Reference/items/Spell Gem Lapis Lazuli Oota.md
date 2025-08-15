@@ -1,3 +1,12 @@
+---
+title: Spell Gem Lapis Lazuli Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Gem Lapis Lazuli Oota
 
 ---
@@ -25,7 +34,6 @@ world: Both
 ---
 
 > [!figure] Item
-![[04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png]]
 
 # Spell Gem (Lapis lazuli)
 *Wondrous item, uncommon (attunement optional)*  
@@ -44,7 +52,6 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 
 *Source: Out of the Abyss p. 223*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +63,6 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,26 +80,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

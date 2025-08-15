@@ -1,3 +1,12 @@
+---
+title: Citrine Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Citrine Xdmg
 
 ---
@@ -36,7 +45,6 @@ A pale yellow brown gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ A pale yellow brown gemstone.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

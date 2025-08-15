@@ -1,3 +1,12 @@
+---
+title: Velociraptor Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Velociraptor Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
 
-# [[velociraptor-mpmm|Velociraptor]]
+# [[velociraptor mpmm|Velociraptor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
@@ -82,7 +91,6 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -94,11 +102,6 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -120,11 +123,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -133,11 +134,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

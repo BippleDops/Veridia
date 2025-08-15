@@ -1,3 +1,12 @@
+---
+title: Session Summary Template
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Summary_Template
 
 ---
@@ -54,17 +63,11 @@ _________________________________________
 
 New Information Learned:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Mystery Elements Revealed:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Plot Threads Advanced:
-- _______________________________________
-- _______________________________________
 - _______________________________________
 
 ### NPCs Encountered
@@ -86,51 +89,33 @@ Returning NPCs:
 
 Immediate Consequences:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Relationship Changes:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 World State Changes:
-- _______________________________________
-- _______________________________________
 - _______________________________________
 
 ### Loot & Rewards
 
 Items Gained:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Information/Knowledge:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Allies/Contacts:
-- _______________________________________
-- _______________________________________
 - _______________________________________
 
 ### Looking Forward
 
 Next Session Hooks:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Unresolved Questions:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Player Goals:
-- _______________________________________
-- _______________________________________
 - _______________________________________
 
 ### Session Highlights
@@ -157,17 +142,11 @@ GM Performance:         1  2  3  4  5
 
 GM Reminders:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Player Reminders:
 - _______________________________________
-- _______________________________________
-- _______________________________________
 
 Follow-up Actions Needed:
-- _______________________________________
-- _______________________________________
 - _______________________________________
 
 #### For Players Writing Recaps
@@ -223,7 +202,6 @@ Follow-up Actions Needed:
 
 *Good session summaries help everyone remember the story and feel connected to the ongoing campaign.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -235,11 +213,6 @@ Follow-up Actions Needed:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -253,11 +226,9 @@ Follow-up Actions Needed:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Related Notes
 
@@ -266,11 +237,9 @@ Follow-up Actions Needed:
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

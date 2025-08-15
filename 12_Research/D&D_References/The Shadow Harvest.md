@@ -1,3 +1,12 @@
+---
+title: The Shadow Harvest
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Shadow Harvest
 
 ---
@@ -38,7 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # The Shadow Harvest
 *Reapers of the Void, Masters of Shadow Essence, The Darkest Addiction*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -210,7 +213,7 @@ Secret agreements with organizations in other realms provide access to different
 - [[Shadow Enhancement Elixirs]]
 - [[The Final Darkening]]
 - [[Shadow Energy Addiction]]
-- [[Void-Touched Equipment]]
+- [[Void Touched Equipment]]
 
 ## Player-Facing Summary
 
@@ -228,11 +231,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -246,21 +247,17 @@ Mentioned in The First Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

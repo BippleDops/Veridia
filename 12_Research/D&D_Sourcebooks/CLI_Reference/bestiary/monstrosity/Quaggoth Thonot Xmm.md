@@ -1,3 +1,12 @@
+---
+title: Quaggoth Thonot Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaggoth Thonot Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-thonot-xmm-quaggoth-thonot-xmm.svg)
 
-# [[quaggoth-thonot-xmm|Quaggoth Thonot]]
+# [[quaggoth thonot xmm|Quaggoth Thonot]]
 *Source: Monster Manual (2024) p. 251*  
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Quaggoth thonots possess psionic abilities, which they use to give themselves an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quaggoths
 
@@ -91,8 +94,8 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "While [[bloodied-xphb|Bloodied]], the\
-      \ quaggoth has [[advantage-xphb|Advantage]]\
+  - "desc": "While [[bloodied xphb|Bloodied]], the\
+      \ quaggoth has [[advantage xphb|Advantage]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
@@ -103,13 +106,13 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Claw"
   - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-      \ [[mage-hand-xphb|Mage Hand]] (the hand is Invisible),\
-      \ [[minor-illusion-xphb|Minor Illusion]]\n\n2/day:\
-      \ [[mind-spike-xphb|Mind Spike]]"
+      \ [[mage hand xphb|Mage Hand]] (the hand is Invisible),\
+      \ [[minor illusion xphb|Minor Illusion]]\n\n2/day:\
+      \ [[mind spike xphb|Mind Spike]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The quaggoth casts [[feather-fall-xphb|Feather Fall]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's\
+  - "desc": "The quaggoth casts [[feather fall xphb|Feather Fall]]\
+      \ or [[shield xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (3/Day)"
@@ -138,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

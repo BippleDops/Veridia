@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg]]
 
 # The Order of the Shattered Crown
 
 *"From broken royalty, we forge new purpose in service."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +62,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
@@ -87,11 +78,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Order of the Shattered Crown is a religious organization composed primarily of former nobility who have renounced their titles and wealth to serve the common people. Founded after a devastating civil war, they seek redemption through charitable works and protection of the defenseless.
@@ -279,8 +267,6 @@ Ongoing situations affecting The Order of the Shattered Crown:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

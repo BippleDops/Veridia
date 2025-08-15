@@ -1,3 +1,12 @@
+---
+title: 13 Conditions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 13 Conditions
 
 ---
@@ -33,7 +42,6 @@ If multiple effects impose the same condition on a creature, each instance of th
 
 For a full list of the conditions, see the conditions page. The conditions are:- [[conditions#Blinded|blinded]]  - [[conditions#Charmed|charmed]]  - [[conditions#Deafened|deafened]]  - [[conditions#Exhaustion|exhaustion]]  - [[conditions#frightened|frightened]]  - [[conditions#Grappled|grappled]]  - [[conditions#Incapacitated|incapacitated]]  - [[conditions#Invisible|invisible]]  - [[conditions#Paralyzed|paralyzed]]  - [[conditions#Petrified|petrified]]  - [[conditions#Poisoned|poisoned]]  - [[conditions#prone|prone]]  - [[conditions#Restrained|restrained]]  - [[conditions#Stunned|stunned]]  - [[conditions#Unconscious|unconscious]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ For a full list of the conditions, see the conditions page. The conditions are:-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -82,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

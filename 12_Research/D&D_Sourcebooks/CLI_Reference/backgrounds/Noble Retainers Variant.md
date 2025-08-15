@@ -1,3 +1,12 @@
+---
+title: Noble Retainers Variant
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Noble Retainers Variant
 
 ---
@@ -29,7 +38,7 @@ world: Both
 - **Skill Proficiencies.** [[skills#History|History]], [[skills#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [[fine-clothes-xphb|fine clothes]], a [[signet-ring|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [[fine clothes xphb|fine clothes]], a [[signet ring|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 
@@ -43,7 +52,6 @@ Does your family have a coat of arms? An insignia you might wear on a signet rin
 
 These details help establish your family and your title as features of the world of the campaign.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ These details help establish your family and your title as features of the world
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Feature: Retainers
 
@@ -134,16 +137,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

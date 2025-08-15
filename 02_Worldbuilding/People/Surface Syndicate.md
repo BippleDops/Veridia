@@ -31,15 +31,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-syndicate-surface-syndicate.svg)
 
 # Surface Syndicate
 
 *"The surface world's gold flows as deep as their ignorance runs shallow." - Captain Marina Blacktide*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,31 +73,22 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 The Surface Syndicate operates as a sophisticated criminal organization specializing in illicit trade between the surface world and Aquabyssos. Led by surface-born criminals who've adapted to underwater life, they exploit the cultural and economic gaps between the two realms. The Syndicate smuggles prohibited goods, launders currency through shell companies, and maintains extensive networks of corrupt officials in both worlds.
@@ -277,11 +265,9 @@ Surface Syndicate is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Surface Syndicate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Syndicate.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Economic Structure
 

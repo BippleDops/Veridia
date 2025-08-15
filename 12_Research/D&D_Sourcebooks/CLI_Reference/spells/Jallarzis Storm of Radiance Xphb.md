@@ -1,3 +1,12 @@
+---
+title: Jallarzis Storm of Radiance Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Jallarzis Storm of Radiance Xphb
 
 ---
@@ -43,10 +52,9 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 **Using a Higher-Level Spell Slot.** The Radiant and Thunder damage increase by `d10` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 289*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Related Notes
 
@@ -93,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

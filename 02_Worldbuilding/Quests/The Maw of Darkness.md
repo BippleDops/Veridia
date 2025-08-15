@@ -1,3 +1,12 @@
+---
+title: The Maw of Darkness
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Maw of Darkness
 
 ---
@@ -37,7 +46,6 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 **Duration:** 4-5 sessions  
 **Threat:** An ancient predator from before the drowning has awakened and begun consuming memories, souls, and reality itself
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -65,9 +73,6 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
@@ -76,7 +81,6 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
@@ -84,7 +88,6 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -98,12 +101,10 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -137,7 +138,7 @@ As the Maw awakens, its influence spreads:
 
 ### Session 1: Strange Reports
 
-**Location:** [[Abyssos Prime - Parliament of Echoes]]  
+**Location:** [[Abyssos Prime   Parliament of Echoes]]  
 **Objective:** Investigate initial reports of unusual phenomena
 
 **Strange Incidents:**
@@ -357,7 +358,7 @@ Success is measured in "Reality Stability Points":
 - **[[Depth Wardens]]**: Military force losing members to erasure attacks
 - **[[The Singing Trenches]]**: Geological formations that may resonate with void energies
 - **[[Crystal Festival]]**: Annual event that might amplify reality distortions
-- **[[Time-Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
+- **[[Time Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
 - **[[The Lock]]**: Ancient barrier that may have contained similar threats before
 
 Connected Adventures
@@ -387,11 +388,9 @@ The Maw of Darkness is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Maw of Darkness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Maw of Darkness.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

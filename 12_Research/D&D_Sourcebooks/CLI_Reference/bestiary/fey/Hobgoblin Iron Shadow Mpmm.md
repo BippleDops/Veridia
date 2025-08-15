@@ -1,3 +1,12 @@
+---
+title: Hobgoblin Iron Shadow Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hobgoblin Iron Shadow Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-iron-shadow-mpmm-hobgoblin-iron-shadow-mpmm.svg)
 
-# [[hobgoblin-iron-shadow-mpmm|Hobgoblin Iron Shadow]]
+# [[hobgoblin iron shadow mpmm|Hobgoblin Iron Shadow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -86,10 +95,10 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
       \ and its destination must be in dim light or darkness."
     "name": "Shadow Jaunt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 12):\n\nAt will: [[minor-illusion-xphb|minor illusion]],\
-      \ [[prestidigitation-xphb|prestidigitation]]\n\n1/day\
-      \ each: [[charm-person-xphb|charm person]], [[disguise-self-xphb|disguise\]]
-      \ self]], [[silent-image-xphb|silent image]]"
+      \ the spellcasting ability (spell save DC 12):\n\nAt will: [[minor illusion xphb|minor illusion]],\
+      \ [[prestidigitation xphb|prestidigitation]]\n\n1/day\
+      \ each: [[charm person xphb|charm person]], [[disguise self xphb|disguise\]]
+      \ self]], [[silent image xphb|silent image]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -97,7 +106,6 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -110,11 +118,6 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -136,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Related Notes
 
@@ -148,7 +149,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Common Idioms and Sayings
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Common Idioms and Sayings
 
 ---
@@ -22,7 +31,6 @@ world: Both
 obsidianUIMode: preview
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 A comprehensive collection of idioms, proverbs, and common expressions used across both Aquabyssos and Aethermoor, reflecting the unique environmental and cultural influences of each realm.
@@ -318,7 +321,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

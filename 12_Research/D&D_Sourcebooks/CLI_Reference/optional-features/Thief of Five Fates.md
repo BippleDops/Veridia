@@ -1,3 +1,12 @@
+---
+title: Thief of Five Fates
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Thief of Five Fates
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Thief of Five Fates
 *Source: Player's Handbook p. 111. Available in the SRD*  
 
-You can cast [[bane-xphb|bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
+You can cast [[bane xphb|bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can cast [[bane-xphb|bane]] once using a warlock spell slot. You can't do so
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

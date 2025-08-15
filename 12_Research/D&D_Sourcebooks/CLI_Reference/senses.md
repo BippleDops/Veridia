@@ -1,3 +1,12 @@
+---
+title: senses
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # senses
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T01:18:31.224705+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,21 +40,16 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Blindsight
 _Source: Player's Handbook (2024) p. 361. Available in the SRD_
 
-If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[cover-xphb|Total Cover]] even if you have the [[conditions#Blinded|Blinded]] condition or are in [[darkness-xphb|Darkness]]. Moreover, in that range, you can see something that has the [[conditions#Invisible|Invisible]] condition.
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[cover xphb|Total Cover]] even if you have the [[conditions#Blinded|Blinded]] condition or are in [[darkness xphb|Darkness]]. Moreover, in that range, you can see something that has the [[conditions#Invisible|Invisible]] condition.
 
 ## Darkvision
 _Source: Player's Handbook (2024) p. 365. Available in the SRD_
 
-If you have Darkvision, you can see in [[dim-light-xphb|Dim Light]] within a specified range as if it were [[bright-light-xphb|Bright Light]] and in [[darkness-xphb|Darkness]] within that range as if it were [[dim-light-xphb|Dim Light]]. You discern colors in that [[darkness-xphb|Darkness]] only as shades of gray.
+If you have Darkvision, you can see in [[dim light xphb|Dim Light]] within a specified range as if it were [[bright light xphb|Bright Light]] and in [[darkness xphb|Darkness]] within that range as if it were [[dim light xphb|Dim Light]]. You discern colors in that [[darkness xphb|Darkness]] only as shades of gray.
 
 ## Tremorsense
 _Source: Player's Handbook (2024) p. 377. Available in the SRD_
@@ -59,9 +62,9 @@ Tremorsense can't detect creatures or objects in the air, and it doesn't count a
 
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-- **Darkness.** You can see in normal and magical [[darkness-xphb|Darkness]].  
+- **Darkness.** You can see in normal and magical [[darkness xphb|Darkness]].  
 - **Invisibility.** You see creatures and objects that have the [[conditions#Invisible|Invisible]] condition.  
-- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [[saving-throw-xphb|saving throws]] against them.  
+- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [[saving throw xphb|saving throws]] against them.  
 - **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  
 - **Ethereal Plane.** You see into the Ethereal Plane.
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -96,7 +97,6 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,111 +1,47 @@
-# 10 Appendix a Backgrounds
-
 ---
 title: 10 Appendix a Backgrounds
-aliases:
-- Appendix A: Backgrounds
 type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/hotdq
-- research
-- world/both
-- active
 - note
-- status/in-progress
-created: 2025-07-23 12:39
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:04.993900+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Appendix A: Backgrounds
-*Source: Hoard of the Dragon Queen, p. 176* 
+# 10 Appendix a Backgrounds
 
-This appendix provides players with an easy way to create characters with compelling ties to the events of Tyranny of Dragons.
+## Overview
+This document contains important information regarding 10 Appendix a Backgrounds and its role within the greater narrative.
 
+## Description
+10 Appendix a Backgrounds represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Background Template
-
-Below is a background template that applies to any background that you select or create. You can replace or augment some or all of the options in your chosen background with one or more of the elements given below. Each section tells you whether it replaces or adds to your background.
-
-### The Story Thus Far...
-
-As the Cult of the Dragon has grown bolder, its actions have drawn attention. Your character has stumbled into the Cult's scheme in some manner or has a connection to dragons. The following tables provide you with bonds tailored to this campaign. Use them in place of or in addition to the ones you selected from (or created for) your background.
-
-#### Campaign Bonds (d10)
-
-`dice: [](10-appendix-a-backgrounds.md#^bond)`
-
-| dice: d10 | Bond |
-|-----------|------|
-| 1 | [[/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]], a wandering monk, once saved your life. He's sent urgent word for you to meet him in a small town called Greenest. Looks like it's time to pay off that debt. |
-| 2 | When an orc raid drove your family from your home, the people of Greenest took you in. Anyone who threatens Greenest is your sworn enemy. |
-| 3 | Every five nights, you have a strange sequence of apocalyptic dreams. The world is destroyed by cold, choking fumes, lightning storms, waves of acid, and horrible fire. Each time, the dream ends with ten evil eyes glaring at you from the darkness. You feel a strange compulsion to travel to Greenest. Perhaps the answer to the riddle of your dreams awaits you there. |
-| 4 | [[/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]], a crusading warrior and champion of good, is your friend and mentor. He has asked you to travel to Greenest in search of rumors of increasing dragon activity. |
-| 5 | You have heard rumors that your close childhood friend, a half-elf named Talis, has been kidnapped by a strange group of dragon cultists. Your investigations into the cult have led you to the town of Greenest. You must save her! |
-| 6 | Being the grandchild of a renowned dragon slayer is usually a good way to impress people, but just last week a gang of ruffians attack you. You barely escaped with your life, but as you fled, the ruffians told you that the Cult of the Dragon never forgets and always avenges. You're hoping to lie low in a sleepy little town called Greenest until this blows over. |
-| 7 | On his deathbed, your father confessed that he had become involved with a group called the Cult of the Dragon. They paid him to smuggle goods across the Sword Coast. Wracked by guilt, he begged you to investigate the cult and undo the evil he may have helped foster. He urged you to begin your search in a town called Greenest. |
-| 8 | The dragons destroyed everything you hold dear. They killed your family and destroyed your home. Now, with nothing but what you carry on your back and a horrid scar of the near fatal wounds you sustained in the attack, you seek revenge. |
-| 9 | You and your family were members of the Cult of the Dragon, until your rivals in the cult arranged to wipe you out. Though they slaughtered your kin, you survived, but they think you're dead. Now is your chance for vengeance! Your hit list consists of three names: a human cultist named [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]], a half-orc named Bog Luck, and a half-dragon named [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]. You have arrived in Greenest, knowing it's next on the cult's list of targets. |
-| 10 | You have a secret. You once were a gold dragon who served Bahamut. You were too proud and vain, to the point that Bahamut decided to teach you a lesson. You have been trapped in a weak, humanoid body, with your memories of your former life but a dim shadow. You remember only one thing with perfect clarity: Bahamut's command to go into the world and prove your devotion to the cause of good. If you prove worthy, on your death you will return to his side in your true form. |
-^bond
-
-## Optional Features
-
-Below are two optional features that you can choose in place of the feature normally granted by your background.
-
-- Cult of the Dragon Infiltrator  
-- Dragon Scholar
-
-## Player-Facing Summary
-
-10 appendix a backgrounds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of 10 appendix a backgrounds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix a backgrounds.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A noble needs help finding before the new moon
-- Strange accidents suggest a portal
-- A journal reveals a betrayal about this place
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

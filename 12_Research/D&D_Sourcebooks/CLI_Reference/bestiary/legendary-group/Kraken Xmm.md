@@ -1,3 +1,12 @@
+---
+title: Kraken Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Kraken Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-xmm-kraken-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -50,7 +53,7 @@ _Source: Monster Manual (2024)_
 The region containing a kraken's lair is twisted by its presence, creating the following effects:
 
 - **Ocean Tyrant.** The kraken exerts its domice over animals in its domain. All Beasts within 1 mile of the lair have the [[conditions#Charmed|Charmed]] condition while in that area.  
-- **Sea and Storms.** While in its lair, the kraken can cast [[control-weather-xphb|Control Weather]], requiring no spell components and using Intelligence as the spellcasting ability.  
+- **Sea and Storms.** While in its lair, the kraken can cast [[control weather xphb|Control Weather]], requiring no spell components and using Intelligence as the spellcasting ability.  
 
 If the kraken dies or moves its lair elsewhere, these effects end immediately.
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -88,7 +89,6 @@ Mentioned in The First Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

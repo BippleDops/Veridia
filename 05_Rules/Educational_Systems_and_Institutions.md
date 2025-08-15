@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,12 +38,9 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Session_Zero Improvements
 
-- Include session zero discussion points
 - Include session zero discussion points
 
 ### Variant Improvements
@@ -56,21 +50,14 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Automated Improvements
 
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 - Add macro/code for VTT implementation
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-
 
 ## Mechanic Overview
 
@@ -243,7 +230,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -261,7 +247,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Quick Reference
 

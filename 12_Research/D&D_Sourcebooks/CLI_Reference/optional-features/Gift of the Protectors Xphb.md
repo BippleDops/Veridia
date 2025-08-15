@@ -1,3 +1,12 @@
+---
+title: Gift of the Protectors Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gift of the Protectors Xphb
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
 
-When any creature whose name is on the page is reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright, the creature magically drops to 1 [[hit-points-xphb|Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[long-rest-xphb|Long Rest]].
+When any creature whose name is on the page is reduced to 0 [[hit points xphb|Hit Points]] but not killed outright, the creature magically drops to 1 [[hit points xphb|Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[long rest xphb|Long Rest]].
 
 As a [[actions#Magic|Magic]] action, you can erase a name on the page by touching it.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ As a [[actions#Magic|Magic]] action, you can erase a name on the page by touchin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

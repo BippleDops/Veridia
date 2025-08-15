@@ -1,3 +1,12 @@
+---
+title: Staff of the Python Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of the Python Xdmg
 
 ---
@@ -31,17 +40,16 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-As a [[actions#Magic|Magic]] action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a [[giant-constrictor-snake-xmm|Giant Constrictor Snake]] in that space. The snake is under your control and shares your [[initiative-xphb|Initiative]] count, taking its turn immediately after yours.
+As a [[actions#Magic|Magic]] action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a [[giant constrictor snake xmm|Giant Constrictor Snake]] in that space. The snake is under your control and shares your [[initiative xphb|Initiative]] count, taking its turn immediately after yours.
 
 On your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you don't have the [[conditions#Incapacitated|Incapacitated]] condition. You decide what action the snake takes and where it moves during its turn, or you can issue it a general command, such as to attack your enemies or guard a location. Absent commands from you, the snake defends itself.
 
-As a [[bonus-action-xphb|Bonus Action]], you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [[hit-points-xphb|Hit Points]], it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [[hit-points-xphb|Hit Points]], it regains all of them.
+As a [[bonus action xphb|Bonus Action]], you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [[hit points xphb|Hit Points]], it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [[hit points xphb|Hit Points]], it regains all of them.
 
 *Source: Dungeon Master's Guide (2024) p. 311. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ As a [[bonus-action-xphb|Bonus Action]], you can command the snake to revert to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -86,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

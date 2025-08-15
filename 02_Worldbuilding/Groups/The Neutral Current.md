@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +60,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
@@ -82,12 +76,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -97,7 +88,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -114,11 +104,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### Open Secrets
 Things widely suspected
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Historical Timeline
 

@@ -1,3 +1,12 @@
+---
+title: Aerisi Kalinoth Pota
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aerisi Kalinoth Pota
 
 ---
@@ -24,8 +33,6 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.png]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -38,18 +45,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Princes of the Apocalypse_
 
 If Aerisi is in the air node while [[yan-c-bin-pota|Yan-C-Bin]] isn't, Aerisi can take lair actions. On initiative count 20 (losing initiative ties), Aerisi uses a lair action to cast one of her spells, up to 3rd level, without using components or a spell slot. She can't cast the same spell two rounds in a row, although she can continue to concentrate on a spell she previously cast using a lair action. Aerisi can take no other lair actions while [[conditions#Concentration|concentrating]] on a spell cast as a lair action.
 
-If Aerisi casts [[invisibility-xphb|invisibility]] using this lair action, she also draws the power of the air node into herself. By doing so, she regains 15 (`3d8 + 2`) hit points.
+If Aerisi casts [[invisibility xphb|invisibility]] using this lair action, she also draws the power of the air node into herself. By doing so, she regains 15 (`3d8 + 2`) hit points.
 
 ## Player-Facing Summary
 
@@ -67,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -83,11 +83,9 @@ Mentioned in The Hidden Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

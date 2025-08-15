@@ -16,8 +16,6 @@ updated: '2025-08-12T23:37:33.014460'
 world: Universal
 ---
 
-
-
 # Location Network Graph
 
 ## Travel Network Overview
@@ -51,7 +49,6 @@ graph LR
 - See also: [[Master Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[World Events]]
-
 
 ## DM Notes
 

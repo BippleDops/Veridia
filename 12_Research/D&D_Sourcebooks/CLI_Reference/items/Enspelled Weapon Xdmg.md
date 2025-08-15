@@ -1,3 +1,12 @@
+---
+title: Enspelled Weapon Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Enspelled Weapon Xdmg
 
 ---
@@ -32,18 +41,17 @@ world: Both
 
 **Items in this group:**
 
-- [[enspelled-weapon-cantrip-xdmg|Enspelled Weapon (Cantrip)]]
-- [[enspelled-weapon-level-1-xdmg|Enspelled Weapon (Level 1)]]
-- [[enspelled-weapon-level-2-xdmg|Enspelled Weapon (Level 2)]]
-- [[enspelled-weapon-level-3-xdmg|Enspelled Weapon (Level 3)]]
-- [[enspelled-weapon-level-4-xdmg|Enspelled Weapon (Level 4)]]
-- [[enspelled-weapon-level-5-xdmg|Enspelled Weapon (Level 5)]]
-- [[enspelled-weapon-level-6-xdmg|Enspelled Weapon (Level 6)]]
-- [[enspelled-weapon-level-7-xdmg|Enspelled Weapon (Level 7)]]
-- [[enspelled-weapon-level-8-xdmg|Enspelled Weapon (Level 8)]]
+- [[enspelled weapon cantrip xdmg|Enspelled Weapon (Cantrip)]]
+- [[enspelled weapon level 1 xdmg|Enspelled Weapon (Level 1)]]
+- [[enspelled weapon level 2 xdmg|Enspelled Weapon (Level 2)]]
+- [[enspelled weapon level 3 xdmg|Enspelled Weapon (Level 3)]]
+- [[enspelled weapon level 4 xdmg|Enspelled Weapon (Level 4)]]
+- [[enspelled weapon level 5 xdmg|Enspelled Weapon (Level 5)]]
+- [[enspelled weapon level 6 xdmg|Enspelled Weapon (Level 6)]]
+- [[enspelled weapon level 7 xdmg|Enspelled Weapon (Level 7)]]
+- [[enspelled weapon level 8 xdmg|Enspelled Weapon (Level 8)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

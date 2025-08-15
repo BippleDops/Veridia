@@ -1,3 +1,12 @@
+---
+title: 750 Gp Art Objects Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 750 Gp Art Objects Xdmg
 
 ---
@@ -31,18 +40,17 @@ world: Both
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [[silver-chalice-set-with-moonstones-xdmg|Silver chalice set with moonstones]] |
-| 2 | [[bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg|Bundle of sheet music representing the lost dirges of a famous composer]] |
-| 3 | [[carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg|Carved wooden harp with ivory inlay and zircon gems]] |
-| 4 | [[gold-idol-xdmg|Gold idol]] |
-| 5 | [[gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg|Gold comb shaped like a dragon with red garnets as eyes]] |
-| 6 | [[bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]] |
-| 7 | [[detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg|Detailed, life-sized dragonborn skull cast in electrum]] |
-| 8 | [[silver-and-gold-brooch-xdmg|Silver and gold brooch]] |
-| 9 | [[obsidian-statuette-with-gold-fittings-and-inlay-xdmg|Obsidian statuette with gold fittings and inlay]] |
-| 10 | [[painted-gold-war-mask-xdmg|Painted gold war mask]] |
+| 1 | [[silver chalice set with moonstones xdmg|Silver chalice set with moonstones]] |
+| 2 | [[bundle of sheet music representing the lost dirges of a famous composer xdmg|Bundle of sheet music representing the lost dirges of a famous composer]] |
+| 3 | [[carved wooden harp with ivory inlay and zircon gems xdmg|Carved wooden harp with ivory inlay and zircon gems]] |
+| 4 | [[gold idol xdmg|Gold idol]] |
+| 5 | [[gold comb shaped like a dragon with red garnets as eyes xdmg|Gold comb shaped like a dragon with red garnets as eyes]] |
+| 6 | [[bottle stopper cork embossed with gold leaf and set with amethysts xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]] |
+| 7 | [[detailed life sized dragonborn skull cast in electrum xdmg|Detailed, life-sized dragonborn skull cast in electrum]] |
+| 8 | [[silver and gold brooch xdmg|Silver and gold brooch]] |
+| 9 | [[obsidian statuette with gold fittings and inlay xdmg|Obsidian statuette with gold fittings and inlay]] |
+| 10 | [[painted gold war mask xdmg|Painted gold war mask]] |
 ^750-gp-art-objects
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Prophecy Connection
 

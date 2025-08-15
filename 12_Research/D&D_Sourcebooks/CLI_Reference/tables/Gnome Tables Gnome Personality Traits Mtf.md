@@ -1,3 +1,12 @@
+---
+title: Gnome Tables Gnome Personality Traits Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Tables Gnome Personality Traits Mtf
 
 ---
@@ -39,7 +48,6 @@ world: Both
 | 6 | You like to make little objects and creatures out of twigs or bits of metal and give them to friends. |
 ^gnome-personality-traits
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

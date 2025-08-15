@@ -39,12 +39,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Uniting the Factions
-
-![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/Uniting_the_Factions.png|Uniting the Factions Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,14 +68,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -98,14 +88,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Role and Motive
 Uniting the Factions moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -226,12 +212,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Storm Giant Quintessent Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm Giant Quintessent Mpmm
 
 ---
@@ -32,7 +41,6 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png]]
 
 # [[storm-giant-quintessent-mpmm|Storm Giant Quintessent]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
@@ -42,7 +50,6 @@ To forestall the inevitable, some storm giants approaching the end of their natu
 A storm giant quintessent sheds their armor and weapons but gains the power to form makeshift weapons out of thin air. When the giant has no further use of these elemental weapons, or when the giant dies, the weapons disappear.
 
 A storm giant quintessent can revert to their true giant form temporarily and can maintain that form long enough for the giant to communicate with a mortal, carry out a short task, or defend their home against aggressors.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +62,6 @@ A storm giant quintessent can revert to their true giant form temporarily and ca
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## A Quintessent's Lair
 
@@ -158,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

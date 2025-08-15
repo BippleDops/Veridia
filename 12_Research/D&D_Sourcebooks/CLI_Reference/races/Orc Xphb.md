@@ -1,3 +1,12 @@
+---
+title: Orc Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orc Xphb
 
 ---
@@ -34,9 +43,9 @@ world: Both
 
 ### Adrenaline Rush
 
-You can take the [[actions#Dash|Dash]] action as a [[bonus-action-xphb|Bonus Action]]. When you do so, you gain a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your [[proficiency-xphb|Proficiency Bonus]].
+You can take the [[actions#Dash|Dash]] action as a [[bonus action xphb|Bonus Action]]. When you do so, you gain a number of [[temporary hit points xphb|Temporary Hit Points]] equal to your [[proficiency xphb|Proficiency Bonus]].
 
-You can use this trait a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
+You can use this trait a number of times equal to your [[proficiency xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]].
 
 ### Darkvision
 
@@ -44,8 +53,7 @@ You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Relentless Endurance
 
-When you are reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright, you can drop to 1 [[hit-points-xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
-
+When you are reduced to 0 [[hit points xphb|Hit Points]] but not killed outright, you can drop to 1 [[hit points xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[long rest xphb|Long Rest]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +66,6 @@ When you are reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

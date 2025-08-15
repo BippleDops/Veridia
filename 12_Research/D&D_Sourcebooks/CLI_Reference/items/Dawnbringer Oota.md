@@ -1,3 +1,12 @@
+---
+title: Dawnbringer Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dawnbringer Oota
 
 ---
@@ -26,23 +35,22 @@ world: Both
 ---
 
 # Dawnbringer
-*Weapon ([[longsword-xphb|longsword]]), legendary (requires attunement by a creature of non-evil alignment)*  
+*Weapon ([[longsword xphb|longsword]]), legendary (requires attunement by a creature of non-evil alignment)*  
 ![](/03_Mechanics/CLI/items/img/dawnbringer.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant
   - Two-handed: 1d10 radiant
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-Lost for ages in the Underdark, Dawnbringer appears to be a gilded longsword hilt. While grasping the hilt, you can use a bonus action to make a blade of pure radiance spring from the hilt, or cause the blade to disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [[shortsword-xphb|shortswords]] or [[longsword-xphb|longswords]], you are proficient with Dawnbringer.
+Lost for ages in the Underdark, Dawnbringer appears to be a gilded longsword hilt. While grasping the hilt, you can use a bonus action to make a blade of pure radiance spring from the hilt, or cause the blade to disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [[shortsword xphb|shortswords]] or [[longsword xphb|longswords]], you are proficient with Dawnbringer.
 
 You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `d8` radiant damage.
 
 The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
-While holding the weapon, you can use an action to touch a creature with the blade and cast [[lesser-restoration-xphb|lesser restoration]] on that creature. Once used, this ability can't be used again until the next dawn.
-
+While holding the weapon, you can use an action to touch a creature with the blade and cast [[lesser restoration xphb|lesser restoration]] on that creature. Once used, this ability can't be used again until the next dawn.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ While holding the weapon, you can use an action to touch a creature with the bla
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sentience
 
@@ -91,14 +94,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

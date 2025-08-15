@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mist-walker-captain-luna-pathfinder-mist-walker-captain-luna-pathfinder.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,18 +58,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -83,8 +74,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
@@ -93,7 +82,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -166,7 +154,6 @@ Mist Walker Captain Luna Pathfinder is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -183,7 +170,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 
@@ -202,7 +188,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

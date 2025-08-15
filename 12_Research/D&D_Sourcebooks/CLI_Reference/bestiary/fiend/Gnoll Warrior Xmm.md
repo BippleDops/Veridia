@@ -1,3 +1,12 @@
+---
+title: Gnoll Warrior Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnoll Warrior Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-warrior-xmm-gnoll-warrior-xmm.svg)
 
-# [[gnoll-warrior-xmm|Gnoll Warrior]]
+# [[gnoll warrior xmm|Gnoll Warrior]]
 *Source: Monster Manual (2024) p. 140. Available in the SRD and the Free Rules (2024)*  
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Gnoll warriors crave endless slaughter but quickly grow bored with the prey they
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gnolls
 
@@ -97,8 +100,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Bow"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Rampage (1/Day)"
 "source":
@@ -127,26 +130,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

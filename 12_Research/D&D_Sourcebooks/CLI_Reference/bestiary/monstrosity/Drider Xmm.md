@@ -1,3 +1,12 @@
+---
+title: Drider Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drider Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-drider-xmm-drider-xmm.svg)
 
-# [[drider-xmm|Drider]]
+# [[drider xmm|Drider]]
 *Source: Monster Manual (2024) p. 105. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Drider
 
@@ -106,7 +109,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the drider has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -121,8 +124,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [[darkness-xphb|Darkness]],\
-      \ [[faerie-fire-xphb|Faerie Fire]], or [[web-xphb|Web]],\
+  - "desc": "The drider casts [[darkness xphb|Darkness]],\
+      \ [[faerie fire xphb|Faerie Fire]], or [[web xphb|Web]],\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"
@@ -152,16 +155,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Quest - The Drowned Prophecy
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Drowned Prophecy
 
 ---
@@ -36,7 +45,6 @@ world: Both
 updated: '2025-08-13T01:18:34.479424+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ updated: '2025-08-13T01:18:34.479424+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Ancient prophecies are manifesting as physical objects in [[The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
@@ -137,7 +140,6 @@ Legends speak of Quest   The Drowned Prophecy as a nexus where past and present 
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -145,11 +147,9 @@ Legends speak of Quest   The Drowned Prophecy as a nexus where past and present 
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

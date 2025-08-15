@@ -1,3 +1,12 @@
+---
+title: Leatherworkers Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Leatherworkers Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[sling-xphb|Sling]], [[whip-xphb|Whip]], [[hide-armor-xphb|Hide Armor]], [[leather-armor-xphb|Leather Armor]], [[studded-leather-armor-xphb|Studded Leather Armor]], [[backpack-xphb|Backpack]], [[crossbow-bolt-case-xphb|Crossbow Bolt Case]], [[map-or-scroll-case-xphb|Map or Scroll Case]], [[parchment-xphb|Parchment]], [[pouch-xphb|Pouch]], [[quiver-xphb|Quiver]], [[waterskin-xphb|Waterskin]]  
+- **Craft.** [[sling xphb|Sling]], [[whip xphb|Whip]], [[hide armor xphb|Hide Armor]], [[leather armor xphb|Leather Armor]], [[studded leather armor xphb|Studded Leather Armor]], [[backpack xphb|Backpack]], [[crossbow bolt case xphb|Crossbow Bolt Case]], [[map or scroll case xphb|Map or Scroll Case]], [[parchment xphb|Parchment]], [[pouch xphb|Pouch]], [[quiver xphb|Quiver]], [[waterskin xphb|Waterskin]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a curse
@@ -87,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

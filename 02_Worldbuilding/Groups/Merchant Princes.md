@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-merchant-princes-merchant-princes.svg]]
 
 # Merchant Princes
 *Gold Flows Like Water, Power Follows the Current*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,14 +55,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -80,7 +71,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
@@ -89,12 +79,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Merchant Princes control [[Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
@@ -174,7 +162,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

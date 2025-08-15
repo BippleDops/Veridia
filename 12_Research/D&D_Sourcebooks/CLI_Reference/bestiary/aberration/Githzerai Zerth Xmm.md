@@ -1,3 +1,12 @@
+---
+title: Githzerai Zerth Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githzerai Zerth Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)
 
-# [[githzerai-zerth-xmm|Githzerai Zerth]]
+# [[githzerai zerth xmm|Githzerai Zerth]]
 *Source: Monster Manual (2024) p. 137*  
 
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Githzerai zerths embody the discipline espoused by their first leader, Zerthimon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Githzerai
 
@@ -129,18 +132,18 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-      \ [[mage-hand-xphb|Mage Hand]] (the hand is Invisible)\n\
-      \n1/day each: [[phantasmal-killer-xphb|Phantasmal Killer]]\
-      \ (level 6 version), [[plane-shift-xphb|Plane Shift]],\
-      \ [[see-invisibility-xphb|See Invisibility]]"
+      \ [[mage hand xphb|Mage Hand]] (the hand is Invisible)\n\
+      \n1/day each: [[phantasmal killer xphb|Phantasmal Killer]]\
+      \ (level 6 version), [[plane shift xphb|Plane Shift]],\
+      \ [[see invisibility xphb|See Invisibility]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [[jump-xphb|Jump]], requiring\
+  - "desc": "The githzerai casts [[jump xphb|Jump]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's\
+  - "desc": "The githzerai casts [[feather fall xphb|Feather Fall]]\
+      \ or [[shield xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"
@@ -170,16 +173,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

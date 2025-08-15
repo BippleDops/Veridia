@@ -1,3 +1,12 @@
+---
+title: 11 Afterword
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 11 Afterword
 
 ---
@@ -39,7 +48,6 @@ world: Both
 > ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/144-a-04.webp#gallery)
 > ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/145-a-05.webp#gallery)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -87,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

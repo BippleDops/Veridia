@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-bathyal-succession-bathyal-succession.svg]]
 
 # Bathyal Succession
 
 *"When the throne beckons from the deepest depths, who will answer the call?"*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,26 +65,21 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -102,8 +93,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 The Bathyal Succession is a complex political crisis unfolding in Aquabyssos as the current ruler's health fails and multiple claimants vie for the throne. This succession dispute threatens to tear apart the underwater kingdom's fragile political stability.
@@ -197,8 +186,6 @@ Ongoing situations affecting Bathyal Succession:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Historical Timeline
 

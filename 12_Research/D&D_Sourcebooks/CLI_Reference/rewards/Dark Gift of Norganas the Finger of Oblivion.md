@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Norganas the Finger of Oblivion
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Norganas the Finger of Oblivion
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Norganas, the Finger of Oblivion
 *Charm*  
 
-Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the [[finger-of-death-xphb|finger of death]] spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
+Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the [[finger of death xphb|finger of death]] spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
 
 This dark gift turns the beneficiary's blood pitch black and viscid, like tar.
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This dark gift turns the beneficiary's blood pitch black and viscid, like tar.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

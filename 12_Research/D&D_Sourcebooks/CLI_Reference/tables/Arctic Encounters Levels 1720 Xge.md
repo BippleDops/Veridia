@@ -1,3 +1,12 @@
+---
+title: Arctic Encounters Levels 1720 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arctic Encounters Levels 1720 Xge
 
 ---
@@ -31,26 +40,25 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `2d10` [[revet-xmm|revets]] |
-| 03-04 | `2d8` [[troll-xmm|trolls]] |
-| 05-06 | `2d10` [[werebear-xmm|werebears]] |
+| 01-02 | `2d10` [[revet xmm|revets]] |
+| 03-04 | `2d8` [[troll xmm|trolls]] |
+| 05-06 | `2d10` [[werebear xmm|werebears]] |
 | 07-08 | 1 [[frost-giant-xmm|frost giant]] |
-| 09-10 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 09-10 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
 | 11-20 | `d4` [[frost-giant-xmm|frost giants]] |
 | 21-25 | A Circular patch of black ice on the ground. The air temperature around the patch is warmer than in the surrounding area, and characters who inspect the ice find bits of machinery frozen within. |
 | 26-35 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] |
 | 36-40 | An adventurer frozen 6 feet under the ice; 50% chance the corpse has a rare magic item of the DM's choice |
 | 41-50 | `d3` [[abominable-yeti-xmm|abominable yetis]] |
-| 51-60 | `d4` [[remorhaz-xmm|remorhazes]] |
+| 51-60 | `d4` [[remorhaz xmm|remorhazes]] |
 | 61-65 | A 500-foot-high wall of ice that is 300 feet thick and spread across `d4` miles |
-| 66-75 | `d4` [[roc-xmm|rocs]] |
+| 66-75 | `d4` [[roc xmm|rocs]] |
 | 76-80 | The likeness of a stern woman with long, flowing hair, carved into the side of a mountain |
 | 81-90 | `d10` [[frost-giant-xmm|frost giants]] with `2d4` [[polar-bear-xmm|polar bears]] |
 | 91-96 | `d3` [[adult-white-dragon-xmm|adult white dragons]] |
 | 97-99 | `2d4` [[abominable-yeti-xmm|abominable yetis]] |
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] with `d3` [[young-white-dragon-xmm|young white dragons]] |
 ^arctic-encounters-levels-1720
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

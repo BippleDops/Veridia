@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,7 +44,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
@@ -56,17 +52,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -80,12 +72,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Basic Information
 
@@ -197,14 +187,13 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Commander Typhoon Blackheart]] (enemy)
 - [[Shadow Conspiracy]] (friend)
-- [[Lady Crystal-Heart Miraleth]] (friend)
+- [[Lady Crystal Heart Miraleth]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
 
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Historical Timeline
 
@@ -222,7 +211,6 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

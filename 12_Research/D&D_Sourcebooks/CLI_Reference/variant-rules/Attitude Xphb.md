@@ -1,3 +1,12 @@
+---
+title: Attitude Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Attitude Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Attitude
 *Source: Player's Handbook (2024) p. 361. Available in the SRD and the Free Rules (2024)* 
 
-A [[monster-xphb|monster]] has a starting attitude toward a [[player-character-xphb|player character]]: [[friendly-attitude-xphb|Friendly]], [[hostile-attitude-xphb|Hostile]], or [[indifferent-attitude-xphb|Indifferent]].
-
+A [[monster xphb|monster]] has a starting attitude toward a [[player character xphb|player character]]: [[friendly attitude xphb|Friendly]], [[hostile attitude xphb|Hostile]], or [[indifferent attitude xphb|Indifferent]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A [[monster-xphb|monster]] has a starting attitude toward a [[player-character-x
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

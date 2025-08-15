@@ -1,3 +1,12 @@
+---
+title: Lance of Lethargy Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lance of Lethargy Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Lance of Lethargy
 *Source: Xanathar's Guide to Everything p. 57*  
 
-**Prerequisite**: [[eldritch-blast-xphb|eldritch blast]] cantrip
+**Prerequisite**: [[eldritch blast xphb|eldritch blast]] cantrip
 
-Once on each of your turns when you hit a creature with your [[eldritch-blast-xphb|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
-
+Once on each of your turns when you hit a creature with your [[eldritch blast xphb|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Once on each of your turns when you hit a creature with your [[eldritch-blast-xp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Minotaur of Baphomet Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Minotaur of Baphomet Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-of-baphomet-xmm-minotaur-of-baphomet-xmm.svg)
 
-# [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]]
+# [[minotaur of baphomet xmm|Minotaur of Baphomet]]
 *Source: Monster Manual (2024) p. 215. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Minotaur of Baphomet
 
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

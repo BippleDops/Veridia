@@ -1,3 +1,12 @@
+---
+title: Long Term Madness
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Long Term Madness
 
 ---
@@ -34,17 +43,16 @@ world: Both
 | 01-10 | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins. |
 | 11-20 | The character experiences vivid hallucinations and has disadvantage on ability checks. |
 | 21-30 | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks. |
-| 31-40 | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [[antipathy-sympathy-xphb|antipathy/sympathy]] spell. |
+| 31-40 | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [[antipathy sympathy xphb|antipathy/sympathy]] spell. |
 | 41-45 | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects. |
 | 46-55 | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it. |
 | 56-65 | The character is [[conditions#Blinded|blinded]] (25%) or [[conditions#Deafened|deafened]] (75%). |
 | 66-75 | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity. |
 | 76-85 | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
-| 86-90 | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the [[confusion-xphb|confusion]] spell. The confusion effect lasts for 1 minute. |
+| 86-90 | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the [[confusion xphb|confusion]] spell. The confusion effect lasts for 1 minute. |
 | 91-95 | The character loses the ability to speak. |
 | 96-100 | The character falls [[conditions#Unconscious|unconscious]]. No amount of jostling or damage can wake the character. |
 ^long-term-madness
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Cross_Realm_Adaptation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cross_Realm_Adaptation
 
 ---
@@ -29,7 +38,6 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 
 *Cross-realm adaptation enables diplomatic bridge-building but comes with social and identity costs.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -59,11 +62,9 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Visibility Underwater Underwater Encounter
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Visibility Underwater Underwater Encounter
 
 ---
@@ -29,11 +38,10 @@ world: Both
 
 | Visibility | Encounter Distance |
 |------------|--------------------|
-| Clear water, [[bright-light-xphb|Bright Light]] | 60 feet |
-| Clear water, [[dim-light-xphb|Dim Light]] | 30 feet |
-| Murky water or [[darkness-xphb|Darkness]] | 10 feet |
+| Clear water, [[bright light xphb|Bright Light]] | 60 feet |
+| Clear water, [[dim light xphb|Dim Light]] | 30 feet |
+| Murky water or [[darkness xphb|Darkness]] | 10 feet |
 ^underwater-encounter-distance
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

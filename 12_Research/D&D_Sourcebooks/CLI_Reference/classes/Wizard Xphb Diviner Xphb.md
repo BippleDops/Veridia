@@ -1,3 +1,12 @@
+---
+title: Wizard Xphb Diviner Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wizard Xphb Diviner Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Diviner
-*[[wizard-xphb|Wizard]]: Wizard Subclass*  
+*[[wizard xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 173*  
 
 > [!tldr] Class and Feature Progression
@@ -67,9 +76,9 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Portent (Level 3)
 
-Glimpses of the future begin to press on your awareness. Whenever you finish a [[long-rest-xphb|Long Rest]], roll two d20s and record the numbers rolled. You can replace any [[d20-test-xphb|D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Glimpses of the future begin to press on your awareness. Whenever you finish a [[long rest xphb|Long Rest]], roll two d20s and record the numbers rolled. You can replace any [[d20 test xphb|D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [[long-rest-xphb|Long Rest]], you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [[long rest xphb|Long Rest]], you lose any unused foretelling rolls.
 
 ### Expert Divination (Level 6)
 
@@ -77,7 +86,7 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 ### The Third Eye (Level 10)
 
-You can increase your powers of perception. As a [[bonus-action-xphb|Bonus Action]], choose one of the following benefits, which lasts until you start a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. You can't use this feature again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
+You can increase your powers of perception. As a [[bonus action xphb|Bonus Action]], choose one of the following benefits, which lasts until you start a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]]. You can't use this feature again until you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]].
 
 #### Darkvision
 
@@ -89,12 +98,11 @@ You can read any language.
 
 #### See Invisibility
 
-You can cast [[see-invisibility-xphb|See Invisibility]] without expending a spell slot.
+You can cast [[see invisibility xphb|See Invisibility]] without expending a spell slot.
 
 ### Greater Portent (Level 14)
 
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -107,11 +115,6 @@ The visions in your dreams intensify and paint a more accurate picture in your m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -129,11 +132,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

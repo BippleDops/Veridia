@@ -1,3 +1,12 @@
+---
+title: Earth Elemental Myrmidon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Earth Elemental Myrmidon Mpmm
 
 ---
@@ -30,9 +39,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-myrmidon-mpmm-earth-elemental-myrmidon-mpmm.svg)
 
-# [[earth-elemental-myrmidon-mpmm|Earth Elemental Myrmidon]]
+# [[earth elemental myrmidon mpmm|Earth Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Elemental Myrmidons
 
@@ -61,7 +64,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[plate-armor-xphb|plate]]"
+"ac_class": "[[plate armor xphb|plate]]"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "0"
@@ -111,11 +114,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -126,11 +127,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

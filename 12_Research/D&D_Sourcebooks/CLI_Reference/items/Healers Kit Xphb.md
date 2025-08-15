@@ -1,3 +1,12 @@
+---
+title: Healers Kit Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Healers Kit Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.
 
-A Healer's Kit has ten uses. As a [[actions#Utilize|Utilize]] action, you can expend one of its uses to stabilize an [[conditions#Unconscious|Unconscious]] creature that has 0 [[hit-points-xphb|Hit Points]] without needing to make a Wisdom ([[skills#Medicine|Medicine]]) check.
+A Healer's Kit has ten uses. As a [[actions#Utilize|Utilize]] action, you can expend one of its uses to stabilize an [[conditions#Unconscious|Unconscious]] creature that has 0 [[hit points xphb|Hit Points]] without needing to make a Wisdom ([[skills#Medicine|Medicine]]) check.
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Healer's Kit has ten uses. As a [[actions#Utilize|Utilize]] action, you can ex
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

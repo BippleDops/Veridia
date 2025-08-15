@@ -1,3 +1,12 @@
+---
+title: Ghast Gravecaller Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ghast Gravecaller Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
 
-# [[ghast-gravecaller-xmm|Ghast Gravecaller]]
+# [[ghast gravecaller xmm|Ghast Gravecaller]]
 *Source: Monster Manual (2024) p. 130*  
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Ghast gravecallers wield fell magic and converse with corpses. They might pose a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ghasts
 
@@ -92,7 +95,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "cr": "6"
 "traits":
   - "desc": "Constitution Saving Throw: DC 13, any creature that starts its turn\
-      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the ghast. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this ghast's Stench for 24 hours."
@@ -109,8 +112,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
       \ 15 (2d10 + 4) Necrotic damage, and the target has the [[conditions#frightened|Frightened]]\
     "name": "Horrific Necrosis"
   - "desc": "The ghast casts one of the following spells, requiring no Material components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[speak-with-dead-xphb|Speak\]]
-      \ with Dead]], [[thaumaturgy-xphb|Thaumaturgy]]"
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[speak with dead xphb|Speak\]]
+      \ with Dead]], [[thaumaturgy xphb|Thaumaturgy]]"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -138,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -146,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

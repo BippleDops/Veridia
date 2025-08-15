@@ -1,3 +1,12 @@
+---
+title: Ability Check Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ability Check Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Ability Check
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-An ability check is a [[d20-test-xphb|D20 Test]] that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
-
+An ability check is a [[d20 test xphb|D20 Test]] that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ An ability check is a [[d20-test-xphb|D20 Test]] that represents using one of th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,16 +64,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -82,7 +82,6 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

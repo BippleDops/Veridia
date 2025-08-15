@@ -1,3 +1,12 @@
+---
+title: Guild Traditions Compendium
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Guild Traditions Compendium
 
 ---
@@ -28,7 +37,6 @@ updated: '2025-08-12T00:00:00+00:00'
 
 > *"A guild without traditions is merely a business arrangement. But a guild with deep traditions becomes a family, a culture, and a legacy that outlasts the lives of any individual member. In our rituals and customs, we preserve not just techniques, but the very soul of our craft."* - [[Guildmaster Supreme Arcturus Mastery]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ updated: '2025-08-12T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -682,7 +685,6 @@ The extensive guild system provides natural explanations for professional compet
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

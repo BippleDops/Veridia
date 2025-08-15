@@ -1,3 +1,12 @@
+---
+title: Gnome Urdlen Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Urdlen Mtf
 
 ---
@@ -39,7 +48,6 @@ Though the details differ from telling to telling, all gnomes know the story of 
 
 Gnomes believe that Urdlen exerts influence on their lives when they experience jealousy, greed, petulance, or envy. Individuals are more likely to fall prey to these feelings when they don't spend enough time in activities with others, and so tales of Urdlen serve as a somber reminder of the importance of participating in society.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ Gnomes believe that Urdlen exerts influence on their lives when they experience 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -86,11 +87,9 @@ Mentioned in The First Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

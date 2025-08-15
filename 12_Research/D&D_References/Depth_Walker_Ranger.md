@@ -1,3 +1,12 @@
+---
+title: Depth_Walker_Ranger
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Depth_Walker_Ranger
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Depth Walker Ranger represents the elite scouts and pathfinders of [[Aquabyssos]], masters of navigation through the crushing depths and treacherous underwater terrain. These hardy individuals serve as guides, hunters, and protectors of the deep realms, capable of surviving in environments where others would be crushed by pressure or lost in the endless darkness.
@@ -78,7 +81,6 @@ This build emphasizes the unique challenges and opportunities of the underwater 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

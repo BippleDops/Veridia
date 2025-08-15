@@ -1,3 +1,12 @@
+---
+title: 5000 Gp Gemstones
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 5000 Gp Gemstones
 
 ---
@@ -31,12 +40,11 @@ world: Both
 
 | dice: d4 | Stone Description |
 |----------|-------------------|
-| 1 | [[black-sapphire-xdmg|Black sapphire]] (translucent lustrous black with glowing highlights) |
-| 2 | [[diamond-xdmg|Diamond]] (transparent blue-white, canary, pink, brown, or blue) |
-| 3 | [[jacinth-xdmg|Jacinth]] (transparent fiery orange) |
-| 4 | [[ruby-xdmg|Ruby]] (transparent clear red to deep crimson) |
+| 1 | [[black sapphire xdmg|Black sapphire]] (translucent lustrous black with glowing highlights) |
+| 2 | [[diamond xdmg|Diamond]] (transparent blue-white, canary, pink, brown, or blue) |
+| 3 | [[jacinth xdmg|Jacinth]] (transparent fiery orange) |
+| 4 | [[ruby xdmg|Ruby]] (transparent clear red to deep crimson) |
 ^5000-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -87,7 +88,6 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

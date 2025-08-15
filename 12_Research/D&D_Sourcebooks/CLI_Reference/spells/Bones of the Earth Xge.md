@@ -1,3 +1,12 @@
+---
+title: Bones of the Earth Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bones of the Earth Xge
 
 ---
@@ -42,10 +51,9 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 150*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +66,6 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -99,16 +100,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

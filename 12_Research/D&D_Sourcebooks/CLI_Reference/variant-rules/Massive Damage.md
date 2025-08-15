@@ -1,3 +1,12 @@
+---
+title: Massive Damage
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Massive Damage
 
 ---
@@ -29,9 +38,6 @@ This optional rule makes it easier for a creature to be felled by massive damage
 
 When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
 
-![[massive-damage-system-shock|Massive Damage; System Shock]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +49,6 @@ When a creature takes damage from a single source equal to or greater than half 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,14 +66,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

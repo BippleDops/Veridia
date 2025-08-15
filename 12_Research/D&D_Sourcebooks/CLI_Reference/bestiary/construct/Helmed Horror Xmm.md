@@ -1,3 +1,12 @@
+---
+title: Helmed Horror Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Helmed Horror Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
 
-# [[helmed-horror-xmm|Helmed Horror]]
+# [[helmed horror xmm|Helmed Horror]]
 *Source: Monster Manual (2024) p. 166*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Helmed Horror
 
@@ -105,12 +108,12 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-  - "desc": "The helmed horror has [[advantage-xphb|Advantage]]\
+  - "desc": "The helmed horror has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [[heat-metal-xphb|Heat Metal]],\
-      \ [[lightning-bolt-xphb|Lightning Bolt]], and [[magic-missile-xphb|Magic\]]
+      \ choices include [[heat metal xphb|Heat Metal]],\
+      \ [[lightning bolt xphb|Lightning Bolt]], and [[magic missile xphb|Magic\]]
       \ Missile]]."
     "name": "Spell Immunity"
 "actions":
@@ -145,16 +148,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

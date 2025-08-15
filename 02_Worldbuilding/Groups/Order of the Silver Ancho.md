@@ -16,10 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Groups/Order of the Silver Ancho](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silver_ancho.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,7 +49,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
@@ -61,14 +57,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Contradictions Improvements
@@ -86,7 +77,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Organization Overview
 
@@ -215,11 +205,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #order #faction #worldbuilding
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Cultural Practices
 
@@ -232,7 +220,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Celestial Spirit Avenger Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Celestial Spirit Avenger Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
 
-# [[celestial-spirit-avenger-xphb|Celestial Spirit (Avenger)]]
+# [[celestial spirit avenger xphb|Celestial Spirit (Avenger)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -64,7 +73,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -76,11 +84,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -97,7 +100,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

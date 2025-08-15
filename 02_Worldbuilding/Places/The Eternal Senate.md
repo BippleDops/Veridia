@@ -39,7 +39,7 @@ government: Undead Parliamentary Democracy
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
 notable_npcs:
-- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal]]
+- '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal]]
   Speaker]]'
 - '[[Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
@@ -47,7 +47,7 @@ notable_npcs:
 obsidianUIMode: preview
 parent_location: '[[Parliament of Echoes]]'
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The]]
+ruler: '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The]]
   Eternal Speaker]]'
 services:
 - Legislative Sessions
@@ -70,11 +70,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-eternal-senate-the-eternal-senate.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -103,12 +99,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
@@ -118,12 +111,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -133,12 +123,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Where Death is No Barrier to Democracy
 
@@ -203,7 +191,7 @@ Elaborately carved throne that serves as the seat of the Eternal Speaker, the pa
 
 ### The Eternal Speaker
 
-**[[02_Worldbuilding/People/The Eternal Speaker|Full Details]]**
+**[[02 Worldbuilding/People/The Eternal Speaker|Full Details]]**
 The parliamentary leader who presides over sessions and maintains order. The current Speaker is a lich who died during the drowning but retained their political acumen and dedication to democratic principles.
 
 **Powers and Responsibilities:**
@@ -470,12 +458,9 @@ Ongoing situations affecting The Eternal Senate:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 

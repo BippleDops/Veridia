@@ -1,3 +1,12 @@
+---
+title: Hydra Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hydra Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydra-xmm-hydra-xmm.svg)
 
-# [[hydra-xmm|Hydra]]
+# [[hydra xmm|Hydra]]
 *Source: Monster Manual (2024) p. 175. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hydra
 
@@ -111,10 +114,10 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ dead. At the end of each of its turns when it has at least one living head,\
       \ the hydra grows two heads for each of its heads that died since its last turn,\
       \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [[hit-points-xphb|Hit Points]] when it grows\
+      \ [[hit points xphb|Hit Points]] when it grows\
       \ new heads."
     "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction-xphb|Reaction]]\
+  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction xphb|Reaction]]\
       \ that can be used only for [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Reactive Heads"
 "actions":
@@ -148,14 +151,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

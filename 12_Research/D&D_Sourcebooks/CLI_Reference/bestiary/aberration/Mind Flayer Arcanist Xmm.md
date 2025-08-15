@@ -1,3 +1,12 @@
+---
+title: Mind Flayer Arcanist Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mind Flayer Arcanist Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-arcanist-xmm-mind-flayer-arcanist-xmm.svg)
 
-# [[mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]
+# [[mind flayer arcanist xmm|Mind Flayer Arcanist]]
 *Source: Monster Manual (2024) p. 214*  
 
 Mind flayer arcanists enhance their psionic abilities with magic. Other mind flayers view those that undertake such experiments with disgust and fear.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Mind flayer arcanists enhance their psionic abilities with magic. Other mind fla
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mind Flayers
 
@@ -118,7 +121,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "11"
 "traits":
-  - "desc": "The mind flayer has [[advantage-xphb|Advantage]]\
+  - "desc": "The mind flayer has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -128,27 +131,27 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
       \ 27 (4d10 + 5) Psychic damage, and the mind flayer can teleport the target\
       \ up to 30 feet to an unoccupied space the mind flayer can see on a surface\
       \ or liquid large enough to support the target. If this damage reduces the target\
-      \ to 0 [[hit-points-xphb|Hit Points]], the\
+      \ to 0 [[hit points xphb|Hit Points]], the\
       \ mind flayer kills it and magically devours its brain."
     "name": "Arcane Tentacles"
-  - "desc": "Intelligence Saving Throw: DC 17, each creature in a 40-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Intelligence Saving Throw: DC 17, each creature in a 40-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mind flayer. Failure: 41 (8d8 + 5) Psychic damage,\
       \ and the target has the [[conditions#Stunned|Stunned]] condition\
       \ until the end of the mind flayer's next turn. Success: Half damage only."
     "name": "Mind Burst (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\]]
-      \ Self]], [[mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day each: [[clairvoyance-xphb|Clairvoyance]],\
-      \ [[dimension-door-xphb|Dimension Door]], [[fireball-xphb|Fireball]]\
-      \ (level 5 version), [[lightning-bolt-xphb|Lightning Bolt]]\
-      \ (level 5 version), [[plane-shift-xphb|Plane Shift]]\
-      \ (self only), [[sending-xphb|Sending]]"
+      \ DC 17):\n\nAt will: [[detect magic xphb|Detect Magic]],\
+      \ [[detect thoughts xphb|Detect Thoughts]], [[disguise self xphb|Disguise\]]
+      \ Self]], [[mage hand xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n1/day each: [[clairvoyance xphb|Clairvoyance]],\
+      \ [[dimension door xphb|Dimension Door]], [[fireball xphb|Fireball]]\
+      \ (level 5 version), [[lightning bolt xphb|Lightning Bolt]]\
+      \ (level 5 version), [[plane shift xphb|Plane Shift]]\
+      \ (self only), [[sending xphb|Sending]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The mind flayer casts [[shield-xphb|Shield]]\
+  - "desc": "The mind flayer casts [[shield xphb|Shield]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Shield (2/Day)"
@@ -178,7 +181,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before winter
@@ -191,11 +193,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

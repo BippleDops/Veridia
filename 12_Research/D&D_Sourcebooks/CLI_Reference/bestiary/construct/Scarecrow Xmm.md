@@ -1,3 +1,12 @@
+---
+title: Scarecrow Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scarecrow Xmm
 
 ---
@@ -28,9 +37,8 @@ updated: '2025-08-13T12:34:06.079076+00:00'
 world: Both
 ---
 
-# [[scarecrow-xmm|Scarecrow]]
+# [[scarecrow xmm|Scarecrow]]
 *Source: Monster Manual (2024) p. 269*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Scarecrow
 
@@ -135,26 +138,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

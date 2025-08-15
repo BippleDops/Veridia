@@ -1,3 +1,12 @@
+---
+title: Frost Giant Everlasting One Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Frost Giant Everlasting One Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-everlasting-one-mpmm-frost-giant-everlasting-one-mpmm.svg)
 
-# [[frost-giant-everlasting-one-mpmm|Frost Giant Everlasting One]]
+# [[frost giant everlasting one mpmm|Frost Giant Everlasting One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -107,7 +116,6 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -119,11 +127,6 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -145,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -158,11 +159,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

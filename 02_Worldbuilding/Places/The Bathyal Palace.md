@@ -33,11 +33,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-bathyal-palace-the-bathyal-palace.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +62,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
@@ -87,18 +78,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 Suspended in the open water at 2,800 feet depth, the Bathyal Palace is a massive structure of crystallized water and compressed pearl that serves as the neutral meeting ground for all major factions of [[Aquabyssos World Overview]]. Built on the site where the last surface kingdoms signed their final treaty before [[The Great Drowning]], it remains magically neutral territory where violence is supposedly impossible.
@@ -219,7 +206,6 @@ The Bathyal Palace is a notable location characterized by its unique features an
 
 ### Founding
 The Bathyal Palace was established in the distant past, growing from humble beginnings to its current state.
-
 
 ## Cultural Practices
 

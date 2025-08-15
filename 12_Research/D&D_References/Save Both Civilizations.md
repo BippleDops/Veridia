@@ -1,3 +1,12 @@
+---
+title: Save Both Civilizations
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Save Both Civilizations
 
 ---
@@ -38,7 +47,6 @@ threat_level: Existential
 > *"When the darkness comes for all that lives and breathes, when corruption spreads across sea and land alike, there can be no half-measures, no chosen sides. We must preserve both worlds or watch helplessly as all civilization crumbles into the abyss. The choice before us is not which world to save—it is whether we possess the courage, wisdom, and unity to save them all."*
 > — [[Chancellor Marina Depthcaller]], First Speaker of the [[United Councils of Both Worlds]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ threat_level: Existential
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -382,11 +385,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

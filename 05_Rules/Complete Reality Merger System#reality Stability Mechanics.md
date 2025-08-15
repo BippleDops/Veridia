@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,23 +34,17 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Interaction Improvements
 
-- Clarify interaction with multiclassing
 - Clarify interaction with multiclassing
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Magic_Items Improvements
 
-- Note how magic items affect this rule
 - Note how magic items affect this rule
 
 ### Variant Improvements
@@ -71,9 +62,6 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-
 
 ## Mechanic Overview
 
@@ -245,7 +233,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

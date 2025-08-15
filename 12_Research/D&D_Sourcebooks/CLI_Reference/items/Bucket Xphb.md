@@ -1,3 +1,12 @@
+---
+title: Bucket Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bucket Xphb
 
 ---
@@ -37,7 +46,6 @@ A Bucket holds up to half a cubic foot of contents.
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ A Bucket holds up to half a cubic foot of contents.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 

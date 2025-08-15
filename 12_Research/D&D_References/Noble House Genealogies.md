@@ -1,3 +1,12 @@
+---
+title: Noble House Genealogies
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Noble House Genealogies
 
 ---
@@ -23,7 +32,6 @@ updated: '2025-08-13T01:18:35.037054+00:00'
 # Noble House Genealogies
 *"Blood remembers what the mind forgets"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ updated: '2025-08-13T01:18:35.037054+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The noble bloodlines of Aquabyssos stretch back millennia, creating a complex web of legitimate heirs, bastard lines, ancient feuds, and political marriages. Understanding these connections reveals the true power dynamics beneath surface politics.
@@ -414,7 +417,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a portal
@@ -424,11 +426,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

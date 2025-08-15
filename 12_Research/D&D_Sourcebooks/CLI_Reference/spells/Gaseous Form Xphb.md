@@ -1,3 +1,12 @@
+---
+title: Gaseous Form Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gaseous Form Xphb
 
 ---
@@ -43,16 +52,15 @@ world: Both
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 [[hit-points-xphb|Hit Points]] or if it takes a [[actions#Magic|Magic]] action to end the spell on itself.
 
-While in this form, the target's only method of movement is a [[fly-speed-xphb|Fly Speed]] of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage; it has [[immunity-xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[advantage-xphb|Advantage]] on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
+While in this form, the target's only method of movement is a [[fly-speed-xphb|Fly Speed]] of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has [[resistance xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage; it has [[immunity xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[advantage xphb|Advantage]] on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 277. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +73,6 @@ The target can't talk or manipulate objects, and any objects it was carrying or 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting an heir for money
@@ -96,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

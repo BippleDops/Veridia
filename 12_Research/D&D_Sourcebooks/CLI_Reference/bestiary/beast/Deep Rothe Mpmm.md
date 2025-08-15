@@ -1,3 +1,12 @@
+---
+title: Deep Rothe Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deep Rothe Mpmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deep-rothe-mpmm-deep-rothe-mpmm.svg)
 
-# [[deep-rothe-mpmm|Deep Rothé]]
+# [[deep rothe mpmm|Deep Rothé]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  
 
 Deep rothé are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothé came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothé have spent in the Underdark, where ambient magic slowly transforms everything.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Deep rothé are Underdark cattle that communicate with one another using the dan
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cattle
 
@@ -88,7 +91,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ the target immediately before the hit, the target takes an extra 7 (2d6) piercing\
       \ damage."
     "name": "Gore"
-  - "desc": "The rothé casts [[dancing-lights-xphb|dancing lights]],\
+  - "desc": "The rothé casts [[dancing lights xphb|dancing lights]],\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Dancing Lights"
 "source":
@@ -118,7 +121,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and evil awakens
@@ -133,11 +135,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

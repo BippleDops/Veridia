@@ -1,3 +1,12 @@
+---
+title: Forest Encounters Levels 1720 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forest Encounters Levels 1720 Xge
 
 ---
@@ -32,31 +41,30 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-05 | 1 [[young-green-dragon-xmm|young green dragon]] |
-| 06-10 | 1 [[treant-xmm|treant]] |
+| 06-10 | 1 [[treant xmm|treant]] |
 | 11-13 | 1 [[guardian-naga-xmm|guardian naga]] |
-| 14-16 | `d10` [[revet-xmm|revets]] |
-| 17-19 | `1d8 + 1` [[unicorn-xmm|unicorns]] |
+| 14-16 | `d10` [[revet xmm|revets]] |
+| 17-19 | `1d8 + 1` [[unicorn xmm|unicorns]] |
 | 20-22 | `d3` [[grick-ancient-xmm|grick alphas]] |
 | 23-25 | For a few hundred feet, wherever the characters step, flowers bloom and emit soft light. |
 | 26-28 | 1 [[young-gold-dragon-xmm|young gold dragon]] |
 | 29-31 | `1d6 + 2` [[shambling-mound-xmm|shambling mounds]] |
-| 32-34 | `2d4` [[werebear-xmm|werebears]] |
-| 35-37 | `d4` [[oni-xmm|oni]] |
+| 32-34 | `2d4` [[werebear xmm|werebears]] |
+| 35-37 | `d4` [[oni xmm|oni]] |
 | 38-40 | `4d6 + 10` elves living in a small community in the treetop |
-| 41-43 | `1d6 + 2` [[gorgon-xmm|gorgons]] |
-| 44-46 | `2d4` [[troll-xmm|trolls]] |
+| 41-43 | `1d6 + 2` [[gorgon xmm|gorgons]] |
+| 44-46 | `2d4` [[troll xmm|trolls]] |
 | 47-49 | `d4` [[giant-ape-xmm|giant apes]] |
-| 50-52 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
+| 50-52 | `d3` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
 | 53-62 | `d3` [[young-green-dragon-xmm|young green dragons]] |
 | 63-65 | A 50-foot-tall stone statue of an elf warrior with hand raised, palm out, as if to forbid travelers from coming this way |
-| 66-75 | `d4` [[treant-xmm|treants]] |
+| 66-75 | `d4` [[treant xmm|treants]] |
 | 76-80 | A cairn set atop a low hill |
 | 81-90 | 1 [[adult-gold-dragon-xmm|adult gold dragon]] |
 | 91-96 | 1 [[ancient-green-dragon-xmm|ancient green dragon]] |
-| 97-99 | `2d4 + 1` [[treant-xmm|treants]] |
+| 97-99 | `2d4 + 1` [[treant xmm|treants]] |
 | 00 | 1 [[ancient-gold-dragon-xmm|ancient gold dragon]] |
 ^forest-encounters-levels-1720
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,11 +77,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -91,11 +94,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

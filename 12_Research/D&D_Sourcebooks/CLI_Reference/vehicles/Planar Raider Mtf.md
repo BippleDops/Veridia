@@ -1,3 +1,12 @@
+---
+title: Planar Raider Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Planar Raider Mtf
 
 ---
@@ -44,7 +53,6 @@ title: Planar Raider
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ title: Planar Raider
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Weapon: Ballistas (2)
 
@@ -88,14 +91,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

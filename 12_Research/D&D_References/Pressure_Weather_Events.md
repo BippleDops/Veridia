@@ -1,3 +1,12 @@
+---
+title: Pressure_Weather_Events
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure_Weather_Events
 
 ---
@@ -24,7 +33,6 @@ world: Both
 
 Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]. Many events trigger saves from [[Depth Survival Mechanics]] or sanity checks from [[Sanity System]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]. Many events
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Depth (d20)
 1 Rapid squeeze • 2 Thermal vent wall • 3 Black smoker ash • 4 Abyssal current • 5 Cavitation field • 6 Kelp storm • 7 Silt blizzard • 8 Pressure inversion • 9 Hull creak chorus • 10  hush pocket • 11 Leviathan wake • 12 Memory rain • 13 Shadow bloom • 14 Anchor resoce • 15 Rift tremor • 16 Jelly swarm • 17 Saltfall • 18 Coral spawn • 19 Maelstrom edge • 20 Deep Mother pulse
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for power
@@ -76,16 +78,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

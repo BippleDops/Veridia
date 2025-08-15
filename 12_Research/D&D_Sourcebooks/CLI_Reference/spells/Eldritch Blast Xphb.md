@@ -1,3 +1,12 @@
+---
+title: Eldritch Blast Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eldritch Blast Xphb
 
 ---
@@ -37,10 +46,9 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 **Cantrip Upgrade.** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]
+**Classes**: [[list spells classes warlock|Warlock]]
 
 *Source: Player's Handbook (2024) p. 267. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

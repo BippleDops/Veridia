@@ -1,3 +1,12 @@
+---
+title: Slippery Ice Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Slippery Ice Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Slippery Ice
 *Environmental Hazard*  
 
-Slippery ice is [[difficult-terrain-xphb|Difficult Terrain]]. A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the [[conditions#prone|Prone]] condition.
+Slippery ice is [[difficult terrain xphb|Difficult Terrain]]. A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the [[conditions#prone|Prone]] condition.
 
 *Source: Dungeon Master's Guide (2024) p. 69*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Slippery ice is [[difficult-terrain-xphb|Difficult Terrain]]. A creature that mo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

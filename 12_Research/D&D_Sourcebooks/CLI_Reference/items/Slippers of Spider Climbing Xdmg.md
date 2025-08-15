@@ -1,3 +1,12 @@
+---
+title: Slippers of Spider Climbing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Slippers of Spider Climbing Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/slippers-of-spider-climbing.webp#right)
 
-While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]]. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a [[climb speed xphb|Climb Speed]] equal to your [[speed xphb|Speed]]. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
 *Source: Dungeon Master's Guide (2024) p. 304. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While you wear these light shoes, you can move up, down, and across vertical sur
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

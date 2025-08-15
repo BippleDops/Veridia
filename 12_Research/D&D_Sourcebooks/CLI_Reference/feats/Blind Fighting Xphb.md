@@ -1,3 +1,12 @@
+---
+title: Blind Fighting Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blind Fighting Xphb
 
 ---
@@ -28,7 +37,6 @@ world: Both
 
 You have [[senses#Blindsight|Blindsight]] with a range of 10 feet.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ You have [[senses#Blindsight|Blindsight]] with a range of 10 feet.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

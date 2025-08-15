@@ -1,3 +1,12 @@
+---
+title: Hat of Vermin Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hat of Vermin Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/hat-of-vermin.webp#right)
 
-This hat has 3 charges. While holding the hat, you can take a [[actions#Magic|Magic]] action to expend 1 charge and summon your choice of a [[bat-xmm|Bat]], a [[frog-xmm|Frog]], or a [[rat-xmm|Rat]]. The summoned creature magically appears in the hat and tries to get away from you as quickly as possible. The creature is [[indifferent-attitude-xphb|Indifferent]] toward you and other creatures, and it isn't under your control. It behaves as an ordinary creature of its kind and disappears after 1 hour or when it drops to 0 [[hit-points-xphb|Hit Points]]. The hat regains all expended charges daily at dawn.
+This hat has 3 charges. While holding the hat, you can take a [[actions#Magic|Magic]] action to expend 1 charge and summon your choice of a [[bat xmm|Bat]], a [[frog xmm|Frog]], or a [[rat xmm|Rat]]. The summoned creature magically appears in the hat and tries to get away from you as quickly as possible. The creature is [[indifferent attitude xphb|Indifferent]] toward you and other creatures, and it isn't under your control. It behaves as an ordinary creature of its kind and disappears after 1 hour or when it drops to 0 [[hit points xphb|Hit Points]]. The hat regains all expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 267*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This hat has 3 charges. While holding the hat, you can take a [[actions#Magic|Ma
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for money
@@ -76,11 +78,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

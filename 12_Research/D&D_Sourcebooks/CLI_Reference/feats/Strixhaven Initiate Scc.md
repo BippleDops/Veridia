@@ -1,3 +1,12 @@
+---
+title: Strixhaven Initiate Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Strixhaven Initiate Scc
 
 ---
@@ -38,13 +47,12 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 | College | Cantrips | 1st-Level Spell |
 |---------|----------|-----------------|
-| Lorehold | Choose two from [[light-xphb|light]], [[sacred-flame-xphb|sacred flame]], and [[thaumaturgy-xphb|thaumaturgy]]. | Choose one 1st-level cleric or wizard spell. |
-| Prismari | Choose two from [[fire-bolt-xphb|fire bolt]], [[prestidigitation-xphb|prestidigitation]], and [[ray-of-frost-xphb|ray of frost]]. | Choose one 1st-level bard or sorcerer spell. |
-| Quandrix | Choose two from [[druidcraft-xphb|druidcraft]], [[guidance-xphb|guidance]], and [[mage-hand-xphb|mage hand]]. | Choose one 1st-level druid or wizard spell. |
-| Silverquill | Choose two from [[sacred-flame-xphb|sacred flame]], [[thaumaturgy-xphb|thaumaturgy]], and [[vicious-mockery-xphb|vicious mockery]]. | Choose one 1st-level bard or cleric spell. |
-| Witherbloom | Choose two from [[chill-touch-xphb|chill touch]], [[druidcraft-xphb|druidcraft]], and [[spare-the-dying-xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
+| Lorehold | Choose two from [[light xphb|light]], [[sacred flame xphb|sacred flame]], and [[thaumaturgy xphb|thaumaturgy]]. | Choose one 1st-level cleric or wizard spell. |
+| Prismari | Choose two from [[fire bolt xphb|fire bolt]], [[prestidigitation xphb|prestidigitation]], and [[ray of frost xphb|ray of frost]]. | Choose one 1st-level bard or sorcerer spell. |
+| Quandrix | Choose two from [[druidcraft xphb|druidcraft]], [[guidance xphb|guidance]], and [[mage hand xphb|mage hand]]. | Choose one 1st-level druid or wizard spell. |
+| Silverquill | Choose two from [[sacred flame xphb|sacred flame]], [[thaumaturgy xphb|thaumaturgy]], and [[vicious mockery xphb|vicious mockery]]. | Choose one 1st-level bard or cleric spell. |
+| Witherbloom | Choose two from [[chill touch xphb|chill touch]], [[druidcraft xphb|druidcraft]], and [[spare the dying xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

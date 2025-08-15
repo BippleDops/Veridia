@@ -1,3 +1,12 @@
+---
+title: Quick_Reference_and_Handouts
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quick_Reference_and_Handouts
 
 ---
@@ -464,7 +473,6 @@ If campaign goes off rails, return to:
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -476,11 +484,6 @@ If campaign goes off rails, return to:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -494,11 +497,9 @@ If campaign goes off rails, return to:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

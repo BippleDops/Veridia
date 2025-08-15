@@ -20,8 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Overview
 Characters exposed to excessive memory magic or information gathering develop supernatural recall abilities but suffer cognitive overload.
 
@@ -34,7 +32,6 @@ Characters exposed to excessive memory magic or information gathering develop su
 ---
 
 *Memory overflow grants incredible recall but threatens individual identity and sanity.*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,19 +56,13 @@ Characters exposed to excessive memory magic or information gathering develop su
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
 
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Variant Improvements
@@ -81,18 +72,14 @@ Characters exposed to excessive memory magic or information gathering develop su
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-
 
 ## When to Use
 
@@ -126,7 +113,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Balance Analysis
 

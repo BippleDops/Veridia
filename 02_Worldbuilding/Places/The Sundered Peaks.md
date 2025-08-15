@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sundered-peaks-the-sundered-peaks.svg]]
 
 # The Sundered Peaks
 *Where Earth Meets Sky and Crystal*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,22 +56,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -85,17 +76,14 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 The Sundered Peaks form [[Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
@@ -212,12 +200,9 @@ Ongoing situations affecting The Sundered Peaks:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -240,7 +225,6 @@ Key stop on spices trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

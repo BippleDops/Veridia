@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Sykane the Soul Hungerer Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Sykane the Soul Hungerer Cos
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Sykane, the Soul Hungerer
 *Charm*  
 
-Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [[raise-dead-xphb|raise dead]] spell as an action. After it has been used three times, the dark gift vanishes.
+Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [[raise dead xphb|raise dead]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
 
 *Source: Curse of Strahd p. 192*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ As soon as this dark gift is received, the beneficiary's eyes glow a sickly yell
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

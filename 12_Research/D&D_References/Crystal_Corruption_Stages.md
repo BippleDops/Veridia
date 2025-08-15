@@ -1,3 +1,12 @@
+---
+title: Crystal_Corruption_Stages
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal_Corruption_Stages
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:45:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Crystal Corruption represents one of the most widespread transformation threats in both [[Aquabyssos]] and [[Aethermoor]]. The [[Crystal Plague]] spreads through contact with corrupted crystals, gradually replacing organic tissue with crystalline structures. Unlike other transformations, crystal corruption can be beautiful and seductive, making victims reluctant to seek treatment until it's too late.
@@ -213,7 +216,6 @@ Crystal Corruption represents one of the most widespread transformation threats 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

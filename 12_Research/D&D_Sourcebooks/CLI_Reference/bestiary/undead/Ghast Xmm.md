@@ -1,3 +1,12 @@
+---
+title: Ghast Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ghast Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-xmm-ghast-xmm.svg)
 
-# [[ghast-xmm|Ghast]]
+# [[ghast xmm|Ghast]]
 *Source: Monster Manual (2024) p. 130. Available in the SRD and the Free Rules (2024)*  
 
 Ghasts frequently organize ghouls into packs to despoil crypts and steal the wealth within.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Ghasts frequently organize ghouls into packs to despoil crypts and steal the wea
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ghasts
 
@@ -92,7 +95,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "cr": "2"
 "traits":
   - "desc": "Constitution Saving Throw: DC 10, any creature that starts its turn\
-      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the ghast. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this ghast's Stench for 24 hours."
@@ -132,7 +135,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help finding before the new moon
@@ -142,11 +144,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

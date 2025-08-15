@@ -1,3 +1,12 @@
+---
+title: Giant Frog Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Frog Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-frog-xmm-giant-frog-xmm.svg)
 
-# [[giant-frog-xmm|Giant Frog]]
+# [[giant frog xmm|Giant Frog]]
 *Source: Monster Manual (2024) p. 357. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,15 +55,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Frog (XMM)"
@@ -85,8 +88,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [[long-jump-xphb|Long Jump]]\
-      \ is up to 20 feet and its [[high-jump-xphb|High Jump]]\
+  - "desc": "The frog's [[long jump xphb|Long Jump]]\
+      \ is up to 20 feet and its [[high jump xphb|High Jump]]\
       \ is up to 10 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
@@ -97,7 +100,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The frog swallows a Small or smaller target it is grappling. While swallowed,\
       \ the target isn't [[conditions#Grappled|Grappled]] but has\
       \ the [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
-      \ conditions, and it has [[cover-xphb|Total Cover]]\
+      \ conditions, and it has [[cover xphb|Total Cover]]\
       \ against attacks and other effects outside the frog. While swallowing the target,\
       \ the frog can't use Bite, and if the frog dies, the swallowed target is no\
       \ longer [[conditions#Restrained|Restrained]] and can escape\
@@ -132,11 +135,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

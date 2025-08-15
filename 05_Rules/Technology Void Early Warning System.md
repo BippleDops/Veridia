@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,24 +39,17 @@ improvements: 20
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
 
 ### Session_Zero Improvements
 
-- Include session zero discussion points
-- Include session zero discussion points
 - Include session zero discussion points
 
 ### Monster_Use Improvements
@@ -69,12 +59,10 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-
 
 ## Mechanic Overview
 
@@ -246,7 +234,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

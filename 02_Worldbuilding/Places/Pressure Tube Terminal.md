@@ -23,17 +23,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-tube-terminal-pressure-tube-terminal.svg]]
 
 # Pressure Tube Terminal
 *Gateway to the Underwater Realm*
 
 > *"All currents converge here, all journeys begin and end in these halls of crystal and flowing water. This terminal is not merely a station - it is the beating heart that pumps life and commerce through the arteries of our kingdom."*
 > — [[Terminal Director Admiral Current Swiftflow]], Master of the Central Hub
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,19 +58,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
@@ -84,7 +74,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -93,7 +82,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -283,12 +271,9 @@ Ongoing situations affecting Pressure Tube Terminal:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

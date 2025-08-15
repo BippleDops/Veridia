@@ -33,15 +33,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Underwater Breathing
 
 *The Breath of Life in the Depths*
 
 > *"Before the Breathing Systems, humans lasted minutes in the deep water. Now they live their entire lives breathing the ocean itself. We didn't just solve a technical problem—we redefined what it means to be human beneath the waves."*
 > — [[Master Respiratory Engineer Marina Gillwright]], Director of Breathing Systems Development
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,8 +67,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
@@ -79,10 +74,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -96,13 +87,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -493,7 +481,7 @@ Multiple organizations contribute to breathing technology advancement:
 
 - **[[Aquabyssos Medical University]]**: Academic research and medical training programs
 - **[[Respiratory Sciences Research Institute]]**: Advanced studies in breathing and life support technology
-- **[[Bio-Integration Laboratory]]**: Specialized research in biological breathing system integration
+- **[[Bio Integration Laboratory]]**: Specialized research in biological breathing system integration
 - **[[International Breathing Technology Consortium]]**: Global cooperation on breathing innovations
 - **[[Emergency Life Support Research Foundation]]**: Crisis response and medical treatment advancement
 
@@ -564,17 +552,13 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 

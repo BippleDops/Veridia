@@ -1,3 +1,12 @@
+---
+title: Celestial Spirit Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Celestial Spirit Xphb
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:06.044137+00:00'
 world: Both
 ---
 
-# [[celestial-spirit-xphb|Celestial Spirit]]
+# [[celestial spirit xphb|Celestial Spirit]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -67,7 +76,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -79,11 +87,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -101,14 +104,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

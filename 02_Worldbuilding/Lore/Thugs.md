@@ -21,11 +21,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,8 +50,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
@@ -68,13 +62,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -93,7 +83,6 @@ improvements: 20
 
 - Show how traditions are changing with new generation
 
-
 ## Player-Facing Summary
 
 Thugs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -109,8 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 
@@ -130,7 +117,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

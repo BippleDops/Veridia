@@ -1,3 +1,12 @@
+---
+title: Aethermoor_Sky_Navigation_Chart
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor_Sky_Navigation_Chart
 
 ---
@@ -203,7 +212,6 @@ world: Aethermoor
 
 *Issued by the Royal Aethermoor Navigation Authority in cooperation with the Sky Pilots Guild. Chart valid through Storm Season 848.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -215,11 +223,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -233,11 +236,9 @@ world: Aethermoor
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

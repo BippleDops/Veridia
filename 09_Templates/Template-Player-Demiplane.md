@@ -1,288 +1,47 @@
+---
+title: Template-Player-Demiplane
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Template-Player-Demiplane
 
----
-title: Template Player Demiplane
-aliases:
-- Bob
-type: Lore
-tags:
-- lore
-- both
-- research
-- category/player
-- active
-created: '2025-08-11'
-modified: '2025-08-14'
-status: active
-level: 2
-NoteIcon: player
-Player: Bob
-Role: Player
-Class:
-- Barbarian
-Race:
-- Human
-hp: 55
-max_hp: 71
-ac: 16
-modifier: 3
-pasperc: 13
-Status: Active
-PlayerKnownLanguages:
-- Celestial
-- Common
-- Dwarvish
-faction_standing:
-  Faction Name 1: 1
-  Faction Name 3: 3
-char_race: Human
-char_gender: Male
-char_status: Alive
-char_age: Young Adult
-char_items: []
-parents:
-- Mother
-- Father
-partner:
-- Partner
-children:
-- Son
-allies:
-- Friend
-enemies:
-- Enemy
-siblings:
-- Sister
-obsidianUIMode: preview
-MyContainer: 
-world: Both
-updated: '2025-08-13T01:18:31.196346+00:00'
----
+## Overview
+This document contains important information regarding Template-Player-Demiplane and its role within the greater narrative.
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewPlayer");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Player Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
+## Description
+Template-Player-Demiplane represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-> [!NOTE|div-m] Player Name:  `Placeholder`
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-> [!column|no-i no-t]
->> [!div-m|no-title]
->> ![[Template_Player_Placeholder.png|Template Player Placeholder.png]]
->
->> [!div-m|no-title] Place Name
->> ~~~meta-bind
->> INPUT[select(
->> option(1, 🧙Description),
->> option(2, ⚙️Configure),
->> option(3, 📝GM Notes),
->> class(tabbed)
->> )]
->> ~~~
->>>[!tabbed-box-maxh480|10]
->>> >[!div-m|no-title]
->>> > ![[#Description|no-h clean]]
->>> 
->>> > ![[#Configure|no-h clean]]
->>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
+## Details
+### Background
+Historical context and development over time.
 
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🧙‍♂️Char Sheet),
-> option(2, ⚔️Inventory),
-> option(3, 🔗Connections),
-> option(4, 🧑‍🤝‍🧑Relationships),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box-maxh]
-> > >[!div-m|no-title]
-> > > ![[#Character Sheet|no-h clean]]
-> >
-> > > ![[#Inventory|no-h clean]]
-> > > [!div-m|no-title]
-> > > ![[#Connections|no-h clean]]
-> > 
-> > > ![[#Relationships|no-h clean]]
+### Current State
+Present circumstances and ongoing relevance.
 
----
-
-```dataviewjs
-const player = dv.current();
-const factions = dv.pages('"03_Mechanics/Guilds and Groups"');
-let tableData = [];
-for (let faction of factions) {
-    let factionName = faction.faction;
-    let playerStanding = player.faction_standing?.[factionName] || 0;
-
-    // Ensure benefits is treated as an array
-    let benefitsList = Array.isArray(faction.benefits) ? faction.benefits : [];
-
-    // Filter benefits the player qualifies for
-    let qualifiedBenefits = benefitsList
-        .filter(b => playerStanding >= b.standing)
-        .map(b => b.reward)
-        .join(", "); 
-
-    let primaryContact = faction.primary_contact || "No contact set";
-
-    tableData.push([factionName, playerStanding, qualifiedBenefits || "No benefits yet", primaryContact]);
-dv.table(["Faction", "Your Standing", "Benefits", "Primary Contact"], tableData);
-```
-
-# Description
-
-This is the persons description. 
-
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Configure
-
-| Initiative Tracker Stat     | Value                        |
-| -------- | ---------------------------- |
-| Level    | `INPUT[number:level]`        |
-| HP       | `INPUT[number:hp]`           |
-| AC       | `INPUT[number:ac]`           |
-| Modifier | `INPUT[number:modifier]`     |
-
-## GM Notes
-
-Make notes of what you need to track in the town here. 
-
-## Character Sheet
-
-%% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
-```custom-frames
-frame: Demiplane
-style: height: 800px;
-
-## Inventory
-
-The following items belong to `= this.file.name`.
-
-Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
-
-## Connections
-Is the person linked to any groups or quests?
-
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
-
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
+### Future Potential
+Possible developments and plot directions.
 
 ## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-List important relationships here. 
-
-var parents = dv.current().parents ?? [];
-var children = dv.current().children ?? [];
-var enemies = dv.current().enemies ?? [];
-var allies = dv.current().allies ?? [];
-var siblings = dv.current().siblings ?? [];
-var current = dv.current().file.name;
-var partner = dv.current().partner ?? [];
-
-dv.paragraph("```mermaid\nflowchart LR\n" +
-  // Parents with internal-link on individual nodes only
-  (parents.length > 0 ? parents.map((parent, index) => `P${index + 1}[${parent}]:::internal-link\nP${index + 1} --> Current\n`).join('') : '') +
-  
-  // Current node
-  `Current[${current}]\n` +
-  
-  // Partner group node (no internal-link applied)
-  (partner.length > 0 ? `PT[Partner]\nCurrent --> PT\n` : '') +
-  
-  // Individual partners with internal-link
-  (partner.length > 0 ? partner.map((p, index) => `PT${index + 1}[${p}]:::internal-link\nPT --> PT${index + 1}\n`).join('') : '') +
-
-  // Children group node (no internal-link applied)
-  (children.length > 0 ? `C[Children]\nCurrent --> C\n${children.map((child, index) => `C${index + 1}[${child}]:::internal-link\nC --> C${index + 1}\n`).join('')}` : '') +
-
-  // Siblings group node (no internal-link applied)
-  (siblings.length > 0 ? `S[Siblings]\nCurrent --> S\n${siblings.map((sibling, index) => `S${index + 1}[${sibling}]:::internal-link\nS --> S${index + 1}\n`).join('')}` : '') +
-
-  // Enemies group node (no internal-link applied)
-  (enemies.length > 0 ? `E[Enemies]\nCurrent --> E\n${enemies.map((enemy, index) => `E${index + 1}[${enemy}]:::internal-link\nE --> E${index + 1}\n`).join('')}` : '') +
-
-  // Allies group node (no internal-link applied)
-  (allies.length > 0 ? `A[Allies]\nCurrent --> A\n${allies.map((ally, index) => `A${index + 1}[${ally}]:::internal-link\nA --> A${index + 1}\n`).join('')}` : '') +
-
-  // Styling: Apply internal-link only to individual nodes, not group nodes
-  `class ${parents.length > 0 ? parents.map((_, index) => `P${index + 1},`).join('') : ''}Current${children.length > 0 ? children.map((_, index) => `C${index + 1},`).join('') : ''}${siblings.length > 0 ? siblings.map((_, index) => `S${index + 1},`).join('') : ''}${enemies.length > 0 ? enemies.map((_, index) => `E${index + 1},`).join('') : ''}${allies.length > 0 ? allies.map((_, index) => `A${index + 1},`).join('') : ''} internal-link;`
-)
-%% CODE ABOVE CREATED WITH CHAT-GPT. ITS COMPLEX CODE THAT SHOULD NOT BE CHANGED UNLESS YOU KNOW WHAT YOU ARE DOING %%
-%% MERMAID-FIX-TEXT-CLIPPING.CSS is enabled in Settings > Appearance > CSS Snippets. This fixes text clipping and styles the boxes %%
-
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> `BUTTON[button_person]` Nodes will link to notes of the same name. 
-> 
-> | Parents    | Partner    | Children |
-> | --- | --- | --- |
-> | `INPUT[list:parents]`    | `INPUT[list:partner]`    | `INPUT[list:children]`  |
-> | Siblings    | Enemies    | Allies |
-> | `INPUT[list:siblings]`    | `INPUT[list:enemies]`    | `INPUT[list:allies]`  |
-
-## Auto-Indexes
-```dataview
-LIST FROM outgoing(file) WHERE status = "complete"
-
-## Player-Facing Summary
-
-Template Player Demiplane is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Template Player Demiplane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Template Player Demiplane.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A noble needs help investigating before the new moon
-- A journal reveals ancient history about this place
-- A journal reveals a conspiracy about the government
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

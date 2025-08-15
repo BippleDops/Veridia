@@ -1,3 +1,12 @@
+---
+title: Dwarves in the World Dwarf Adventurer Story
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarves in the World Dwarf Adventurer Story
 
 ---
@@ -39,7 +48,6 @@ world: Both
 | 6 | You struggle to resist the lure of Abbathor, but can't hold it at bay. Better to walk the world and sate your greed on non-dwarves. |
 ^dwarf-adventurer-story-hooks
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

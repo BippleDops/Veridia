@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Trade Route #51
 **Origin**: Port Meridian
 **Destination**: Crystal Caverns
@@ -154,7 +152,6 @@ improvements: 20
 **Hazards**: Bandits
 **Profit Margin**: 170%
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -182,8 +179,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
@@ -192,22 +187,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -218,7 +208,6 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -227,11 +216,9 @@ improvements: 20
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -257,7 +244,6 @@ Mentioned in The Second Prophecy of Shadows
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -270,7 +256,6 @@ Mentioned in The Second Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -282,7 +267,6 @@ Mentioned in The Second Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

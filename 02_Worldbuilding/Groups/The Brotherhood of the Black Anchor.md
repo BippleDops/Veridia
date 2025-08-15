@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-brotherhood-of-the-black-anchor-the-brotherhood-of-the-black-anchor.svg]]
 
 # The Brotherhood of the Black Anchor
 *In Shadow We Sail, In Silence We Strike*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,28 +58,21 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -93,7 +82,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Brotherhood of the Black Anchor operates as a sophisticated smuggling and piracy network that competes directly with both [[The Crimson Fleet]] and [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for control of maritime criminal activities, specializing in stealth operations and information trafficking.
@@ -122,7 +110,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Pit Fighting Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Pit Fighting Xge
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. If you want to introduce competitive fighting in a battle-to-the-death situation, the standard combat rules apply to that sort of activity.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Resources
 
@@ -55,13 +58,9 @@ The character must make a series of checks, with a DC determined at random based
 
 The character makes three checks: Strength ([[skills#Athletics|Athletics]]), Dexterity ([[skills#Acrobatics|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![[pit-fighting-results-xge|Pit Fighting Results]]
-
 ## Complications
 
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
-
-![[pit-fighting-complications-xge|Pit Fighting Complications]]
 
 ## Player-Facing Summary
 
@@ -79,16 +78,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

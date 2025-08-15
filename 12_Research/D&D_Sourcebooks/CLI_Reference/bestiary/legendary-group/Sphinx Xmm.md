@@ -1,3 +1,12 @@
+---
+title: Sphinx Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sphinx Xmm
 
 ---
@@ -24,8 +33,6 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.png]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -38,18 +45,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The region containing a sphinx of lore's or sphinx of valor's lair is altered by its presence, creating the following effects:
 
-- **Distant Sight.** While in its lair, the sphinx can cast [[clairvoyance-xphb|Clairvoyance]], requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile.  
+- **Distant Sight.** While in its lair, the sphinx can cast [[clairvoyance xphb|Clairvoyance]], requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile.  
 - **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes a [[actions#Study|Study]] action while within 1 mile of the lair, it adds `d6` to any ability check it makes for that action.  
 
 If the sphinx dies or moves its lair elsewhere, these effects end immediately.
@@ -70,16 +72,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -89,7 +88,6 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Giant Axe Beak Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Axe Beak Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-axe-beak-xmm-giant-axe-beak-xmm.svg)
 
-# [[giant-axe-beak-xmm|Giant Axe Beak]]
+# [[giant axe beak xmm|Giant Axe Beak]]
 *Source: Monster Manual (2024) p. 24*  
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Giant axe beaks typically dwell in secluded, primeval realms, such as isolated i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Axe Beaks
 
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

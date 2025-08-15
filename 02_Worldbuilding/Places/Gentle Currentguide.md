@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gentle-currentguide-gentle-currentguide.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,8 +51,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
@@ -73,7 +67,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
@@ -82,18 +75,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -144,12 +133,9 @@ Ongoing situations affecting Gentle Currentguide:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -174,7 +160,6 @@ Ongoing situations affecting Gentle Currentguide:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -192,7 +177,6 @@ Ongoing situations affecting Gentle Currentguide:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

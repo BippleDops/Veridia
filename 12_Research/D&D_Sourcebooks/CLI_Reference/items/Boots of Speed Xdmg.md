@@ -1,3 +1,12 @@
+---
+title: Boots of Speed Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boots of Speed Xdmg
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/boots-of-speed.webp#right)
 
-While you wear these boots, you can take a [[bonus-action-xphb|Bonus Action]] to click the boots' heels together. If you do, the boots double your [[speed-xphb|Speed]], and any creature that makes an [[actions#Opportunity%20Attack|Opportunity Attack]] against you has [[disadvantage-xphb|Disadvantage]] on the attack roll. If you click your heels together again, you end the effect.
+While you wear these boots, you can take a [[bonus action xphb|Bonus Action]] to click the boots' heels together. If you do, the boots double your [[speed xphb|Speed]], and any creature that makes an [[actions#Opportunity%20Attack|Opportunity Attack]] against you has [[disadvantage xphb|Disadvantage]] on the attack roll. If you click your heels together again, you end the effect.
 
-When you've used the boots' property for a total of 10 minutes, the magic ceases to function for you until you finish a [[long-rest-xphb|Long Rest]].
+When you've used the boots' property for a total of 10 minutes, the magic ceases to function for you until you finish a [[long rest xphb|Long Rest]].
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ When you've used the boots' property for a total of 10 minutes, the magic ceases
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

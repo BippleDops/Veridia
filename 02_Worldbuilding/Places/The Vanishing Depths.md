@@ -24,9 +24,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,14 +55,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -75,7 +67,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
@@ -84,12 +75,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
@@ -324,12 +313,9 @@ Ongoing situations affecting The Vanishing Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -353,7 +339,6 @@ Key stop on spices trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

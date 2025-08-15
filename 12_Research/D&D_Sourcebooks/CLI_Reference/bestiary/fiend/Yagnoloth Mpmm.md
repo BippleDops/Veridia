@@ -1,3 +1,12 @@
+---
+title: Yagnoloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yagnoloth Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-v1-yagnoloth-mpmm.svg)
 
-# [[yagnoloth-mpmm|Yagnoloth]]
+# [[yagnoloth mpmm|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -111,10 +120,10 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[darkness-xphb|darkness]], [[detect-magic-xphb|detect\]]
-      \ magic]], [[dispel-magic-xphb|dispel magic]],\
-      \ [[invisibility-xphb|invisibility]] (self only),\
-      \ [[suggestion-xphb|suggestion]]\n\n3/day: [[lightning-bolt-xphb|lightning\]]
+      \nAt will: [[darkness xphb|darkness]], [[detect magic xphb|detect\]]
+      \ magic]], [[dispel magic xphb|dispel magic]],\
+      \ [[invisibility xphb|invisibility]] (self only),\
+      \ [[suggestion xphb|suggestion]]\n\n3/day: [[lightning bolt xphb|lightning\]]
       \ bolt]]"
     "name": "Spellcasting"
 "source":
@@ -123,7 +132,6 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -136,11 +144,6 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -162,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -175,7 +177,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

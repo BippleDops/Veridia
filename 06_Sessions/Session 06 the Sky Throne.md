@@ -1,3 +1,12 @@
+---
+title: Session 06 the Sky Throne
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_06_The_Sky_Throne
 
 ---
@@ -23,7 +32,6 @@ world: Aethermoor
 
 *Level 6-7 Characters | 4-5 Hours | Court Intrigue/Investigation/Political Maneuvering*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -286,16 +289,13 @@ As the party attempts to claim or secure the Fifth Shard, **The Collector's** ag
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -309,7 +309,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

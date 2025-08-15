@@ -1,3 +1,12 @@
+---
+title: Shadow Mastiff Alpha Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Mastiff Alpha Mpmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
 
-# [[shadow-mastiff-alpha-mpmm|Shadow Mastiff Alpha]]
+# [[shadow mastiff alpha mpmm|Shadow Mastiff Alpha]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Shadow Mastiffs
 
@@ -138,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

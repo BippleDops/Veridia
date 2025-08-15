@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-countess-marina-stormcrest-countess-marina-stormcrest.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,19 +52,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -86,12 +76,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -139,8 +127,6 @@ Ongoing situations affecting Countess Marina Stormcrest:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for love
@@ -157,7 +143,6 @@ Ongoing situations affecting Countess Marina Stormcrest:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

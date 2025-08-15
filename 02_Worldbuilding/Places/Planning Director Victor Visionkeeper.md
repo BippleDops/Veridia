@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-planning-director-victor-visionkeeper-planning-director-victor-visionkeeper.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,18 +53,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -77,8 +68,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -140,8 +128,6 @@ Ongoing situations affecting Planning Director Victor Visionkeeper:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -158,7 +144,6 @@ Ongoing situations affecting Planning Director Victor Visionkeeper:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

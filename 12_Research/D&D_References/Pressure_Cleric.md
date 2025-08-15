@@ -1,3 +1,12 @@
+---
+title: Pressure_Cleric
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure_Cleric
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Pressure Cleric represents a unique divine tradition that venerates the crushing depths of [[Aquabyssos]] as a sacred force. These clerics serve deities of the deep ocean, channeling the inexorable power of water pressure to heal, harm, and maintain the cosmic balance between surface and depth. They are both healers who help communities adapt to crushing environments and warriors who wield pressure as a weapon.

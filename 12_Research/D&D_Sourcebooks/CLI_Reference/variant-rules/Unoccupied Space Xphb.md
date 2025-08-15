@@ -1,3 +1,12 @@
+---
+title: Unoccupied Space Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Unoccupied Space Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 A space is unoccupied if no creatures are in it and it isn't completely filled by objects.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ A space is unoccupied if no creatures are in it and it isn't completely filled b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,11 +64,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Young Brass Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Brass Dragon Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-brass-dragon-xmm-v1-young-brass-dragon-xmm.svg)
 
-# [[young-brass-dragon-xmm|Young Brass Dragon]]
+# [[young brass dragon xmm|Young Brass Dragon]]
 *Source: Monster Manual (2024) p. 54. Available in the SRD and the Free Rules (2024)*  
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Young brass dragons travel extensively, often spending a few years in a region b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Brass Dragons
 
@@ -110,10 +113,10 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 38 (11d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
       \ 2nd Failure: The target has the [[conditions#Unconscious|Unconscious]]\
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

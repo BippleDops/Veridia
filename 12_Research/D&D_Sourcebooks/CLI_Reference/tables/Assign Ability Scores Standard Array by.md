@@ -1,3 +1,12 @@
+---
+title: Assign Ability Scores Standard Array by
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Assign Ability Scores Standard Array by
 
 ---
@@ -29,20 +38,19 @@ world: Both
 
 | Class | Str. | Dex. | Con. | Int. | Wis. | Cha. |
 |-------|------|------|------|------|------|------|
-| [[barbarian-xphb|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
-| [[bard-xphb|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
-| [[cleric-xphb|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
-| [[druid-xphb|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
-| [[fighter-xphb|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
-| [[monk-xphb|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
-| [[paladin-xphb|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
-| [[ranger-xphb|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
-| [[rogue-xphb|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
-| [[sorcerer-xphb|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
-| [[warlock-xphb|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
-| [[wizard-xphb|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
+| [[barbarian xphb|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
+| [[bard xphb|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
+| [[cleric xphb|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
+| [[druid xphb|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
+| [[fighter xphb|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
+| [[monk xphb|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
+| [[paladin xphb|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
+| [[ranger xphb|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
+| [[rogue xphb|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
+| [[sorcerer xphb|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
+| [[warlock xphb|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
+| [[wizard xphb|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
 ^standard-array-by-class
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

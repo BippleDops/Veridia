@@ -1,3 +1,12 @@
+---
+title: archive
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # archive
 
 ---
@@ -31,7 +40,6 @@ world: Both
 
 An Archive is a repository of valuable books, maps, and scrolls. It is usually attached to a Library behind a locked or secret door.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,15 +51,10 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Research: Helpful Lore
 
-When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[legend-lore-xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
+When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[legend lore xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
 
 ## Reference Book
 
@@ -85,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

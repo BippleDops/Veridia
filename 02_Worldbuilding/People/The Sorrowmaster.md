@@ -23,8 +23,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-sorrowmaster-the-sorrowmaster.svg)
 
@@ -46,7 +44,6 @@ improvements: 20
 **Languages** Common, Aquabyssan, Abyssal, Celestial, telepathy 60 ft.  
 **Challenge Rating** 15 (13,000 XP)  
 **Proficiency Bonus** +5
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,17 +72,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -99,7 +92,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
@@ -112,8 +104,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Special Abilities
 
@@ -310,16 +300,13 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Wolfblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Economic Structure
 

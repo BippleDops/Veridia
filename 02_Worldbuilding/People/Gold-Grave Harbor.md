@@ -24,11 +24,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-gold-grave-harbor-gold-grave-harbor.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,19 +54,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
@@ -79,17 +70,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -203,8 +191,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -221,7 +207,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

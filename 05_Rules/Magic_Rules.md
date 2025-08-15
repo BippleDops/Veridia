@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,23 +34,17 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
 
 ### Abuse_Prevention Improvements
 
-- Add guidelines to prevent exploitation
 - Add guidelines to prevent exploitation
 
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Variant Improvements
@@ -63,14 +54,10 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
-- Include session zero discussion points
-- Include session zero discussion points
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-
 
 ## Rule Summary
 
@@ -108,7 +95,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

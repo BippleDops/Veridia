@@ -1,3 +1,12 @@
+---
+title: The Crown Authority
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Crown Authority
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # The Crown Authority
 *The Royal Administration, The Bureaucratic Crown, Servants of Order*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Crown Authority is the vast bureaucratic apparatus that actually governs [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] on a daily basis, serving as the administrative backbone beneath the royal pageantry. While [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] and [[The Crown|02 Worldbuilding/Groups/The Crown]] provide symbolic leadership and grand policy direction, the Crown Authority handles the mundane but essential work of tax collection, law enforcement coordination, infrastructure maintece, and civil administration. They are the silent machinery that keeps the kingdom functioning, often overlooked but absolutely indispensable.
@@ -207,12 +210,9 @@ The Crown Authority is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Crown Authority as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown Authority.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Related Notes
 
@@ -221,11 +221,9 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

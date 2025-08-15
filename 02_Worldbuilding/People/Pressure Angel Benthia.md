@@ -34,17 +34,11 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png]]
-
 # Pressure Angel Benthia
 *Guardian of the Depths, Herald of Divine Weight*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,12 +67,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
@@ -100,18 +91,14 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Benthia is one of the [[The Deep Mother]]'s Pressure Angels—divine beings born from the intersection of the goddess's will and the crushing depths of the ocean. She serves as guardian of critical pressure points where the Deep Mother's influence is strongest, manifesting as both protector and test for those who would approach the deepest mysteries. Unlike mortal servants, she is pure divine force given form, embodying the Deep Mother's power over pressure, depth, and the weight of existence itself.
@@ -272,7 +259,7 @@ If Benthia is encountered at a major pressure nexus point during a moment of cos
 ---
 
 ### Direct Divine Servants
-**[[Sister Thalassa the Depth-Touched]]**: Regularly receives guidance and testing from Benthia
+**[[Sister Thalassa the Depth Touched]]**: Regularly receives guidance and testing from Benthia
 - Personal relationship developed over years of faithful service
 - Benthia serves as her spiritual director and divine contact
 - Tests her faith periodically to ensure continued worthiness
@@ -499,7 +486,6 @@ Pressure Angel Benthia is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of Pressure Angel Benthia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Angel Benthia.
-
 
 ## Bloodline
 

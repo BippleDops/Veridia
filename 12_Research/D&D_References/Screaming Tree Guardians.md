@@ -1,3 +1,12 @@
+---
+title: Screaming Tree Guardians
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Screaming Tree Guardians
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Their cries echo through wood and water, warning all who would harm the ancient groves."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Screaming Tree Guardians are sentient plant creatures that have evolved to protect underwater kelp forests and surface woodlands through the use of devastating sonic attacks. These guardians can produce ear-piercing shrieks that disorient enemies, call for help from other forest creatures, and even cause physical damage through focused sound waves.
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

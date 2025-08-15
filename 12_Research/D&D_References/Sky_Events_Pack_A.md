@@ -1,3 +1,12 @@
+---
+title: Sky_Events_Pack_A
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sky_Events_Pack_A
 
 ---
@@ -27,7 +36,6 @@ Use with [[Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanit
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Use with [[Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanit
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

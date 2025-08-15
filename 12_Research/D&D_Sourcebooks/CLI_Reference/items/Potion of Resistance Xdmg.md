@@ -1,3 +1,12 @@
+---
+title: Potion of Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Resistance Xdmg
 
 ---
@@ -32,39 +41,38 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance-xphb|Resistance]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
+When you drink this potion, you have [[resistance xphb|Resistance]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 
 `dice: [](potion-of-resistance-xdmg.md#^damage-type)`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
-| 1 | [[potion-of-acid-resistance-xdmg|Acid]] |
-| 2 | [[potion-of-cold-resistance-xdmg|Cold]] |
-| 3 | [[potion-of-fire-resistance-xdmg|Fire]] |
-| 4 | [[potion-of-force-resistance-xdmg|Force]] |
-| 5 | [[potion-of-lightning-resistance-xdmg|Lightning]] |
-| 6 | [[potion-of-necrotic-resistance-xdmg|Necrotic]] |
-| 7 | [[potion-of-poison-resistance-xdmg|Poison]] |
-| 8 | [[potion-of-psychic-resistance-xdmg|Psychic]] |
-| 9 | [[potion-of-radiant-resistance-xdmg|Radiant]] |
-| 10 | [[potion-of-thunder-resistance-xdmg|Thunder]] |
+| 1 | [[potion of acid resistance xdmg|Acid]] |
+| 2 | [[potion of cold resistance xdmg|Cold]] |
+| 3 | [[potion of fire resistance xdmg|Fire]] |
+| 4 | [[potion of force resistance xdmg|Force]] |
+| 5 | [[potion of lightning resistance xdmg|Lightning]] |
+| 6 | [[potion of necrotic resistance xdmg|Necrotic]] |
+| 7 | [[potion of poison resistance xdmg|Poison]] |
+| 8 | [[potion of psychic resistance xdmg|Psychic]] |
+| 9 | [[potion of radiant resistance xdmg|Radiant]] |
+| 10 | [[potion of thunder resistance xdmg|Thunder]] |
 ^damage-type
 
 **Items in this group:**
 
-- [[potion-of-acid-resistance-xdmg|Potion of Acid Resistance]]
-- [[potion-of-cold-resistance-xdmg|Potion of Cold Resistance]]
-- [[potion-of-fire-resistance-xdmg|Potion of Fire Resistance]]
-- [[potion-of-force-resistance-xdmg|Potion of Force Resistance]]
-- [[potion-of-lightning-resistance-xdmg|Potion of Lightning Resistance]]
-- [[potion-of-necrotic-resistance-xdmg|Potion of Necrotic Resistance]]
-- [[potion-of-poison-resistance-xdmg|Potion of Poison Resistance]]
-- [[potion-of-psychic-resistance-xdmg|Potion of Psychic Resistance]]
-- [[potion-of-radiant-resistance-xdmg|Potion of Radiant Resistance]]
-- [[potion-of-thunder-resistance-xdmg|Potion of Thunder Resistance]]
+- [[potion of acid resistance xdmg|Potion of Acid Resistance]]
+- [[potion of cold resistance xdmg|Potion of Cold Resistance]]
+- [[potion of fire resistance xdmg|Potion of Fire Resistance]]
+- [[potion of force resistance xdmg|Potion of Force Resistance]]
+- [[potion of lightning resistance xdmg|Potion of Lightning Resistance]]
+- [[potion of necrotic resistance xdmg|Potion of Necrotic Resistance]]
+- [[potion of poison resistance xdmg|Potion of Poison Resistance]]
+- [[potion of psychic resistance xdmg|Potion of Psychic Resistance]]
+- [[potion of radiant resistance xdmg|Potion of Radiant Resistance]]
+- [[potion of thunder resistance xdmg|Potion of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,11 +85,6 @@ When you drink this potion, you have [[resistance-xphb|Resistance]] to one type 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -107,16 +109,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

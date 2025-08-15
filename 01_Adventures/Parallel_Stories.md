@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### ParallelEvent_81
 
 **While Party Is**: Traveling
@@ -104,7 +102,6 @@ improvements: 20
 **Connection to Party**: Thematic parallel
 **Party Learns**: Never directly
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -136,8 +133,6 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Variants Improvements
 
@@ -146,28 +141,22 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Add session zero integration questions
-- Add session zero integration questions
 
 ### Spotlight Improvements
 
-- Include spotlight moment for each character class
 - Include spotlight moment for each character class
 
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Soundtrack Improvements
 
-- Suggest music/ambiance for each scene
 - Suggest music/ambiance for each scene
 
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-
 
 ## DM Notes
 
@@ -176,7 +165,6 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: System Cli Spells School Divination
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Spells School Divination
 
 ---
@@ -38,7 +47,6 @@ world: Both Worlds
 > *"In the endless depths where sight fails and sound distorts, divination becomes the difference between survival and becoming another mystery of the deep. We do not merely see what is - we perceive what was, what might be, and what must never come to pass."*
 > — [[Oracle Pelagic Deepgaze]], High Seer of the [[Parliament of Echoes]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ world: Both Worlds
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -173,7 +176,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

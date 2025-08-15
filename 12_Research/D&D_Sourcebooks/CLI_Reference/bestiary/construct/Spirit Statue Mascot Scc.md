@@ -1,3 +1,12 @@
+---
+title: Spirit Statue Mascot Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spirit Statue Mascot Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
 
-# [[spirit-statue-mascot-scc|Spirit Statue Mascot]]
+# [[spirit statue mascot scc|Spirit Statue Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  
 
 To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living.
@@ -84,7 +93,6 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -118,16 +121,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

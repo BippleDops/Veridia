@@ -1,3 +1,12 @@
+---
+title: Drow Selvetarm Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Selvetarm Mtf
 
 ---
@@ -44,7 +53,6 @@ Enraged by Lolth's duplicity, Selvetarm is an engine of destruction, an eight-li
 
 Because of his status as a captive, Selvetarm draws little attention from drow of high status. Low-caste drow warriors who are themselves slaves or indentured servants, or who have no chance to rise in rank, can beseech Selvetarm for prowess in battle without suffering any shame. Anyone of high standing or who hopes to attain high standing shies away from openly expressing reverence for Selvetarm, though such an individual might still beg his aid privately.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ Because of his status as a captive, Selvetarm draws little attention from drow o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

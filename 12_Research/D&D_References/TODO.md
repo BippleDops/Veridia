@@ -10,7 +10,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
 # 📋 Vault *Current Tasks and Future Improvements*
 
 ---
@@ -19,7 +18,6 @@ status: active
 created: 2025-08-13
 updated: 2025-08-13
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -32,11 +30,6 @@ updated: 2025-08-13
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 📝 Notes
 
@@ -62,16 +55,13 @@ updated: 2025-08-13
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 

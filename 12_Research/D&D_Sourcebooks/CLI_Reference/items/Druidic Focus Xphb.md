@@ -1,3 +1,12 @@
+---
+title: Druidic Focus Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Druidic Focus Xphb
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 **Items in this group:**
 
-- [[sprig-of-mistletoe-xphb|Sprig of mistletoe]]
-- [[wooden-staff-xphb|Wooden staff]]
-- [[yew-wand-xphb|Yew wand]]
+- [[sprig of mistletoe xphb|Sprig of mistletoe]]
+- [[wooden staff xphb|Wooden staff]]
+- [[yew wand xphb|Yew wand]]
 
 *Source: Player's Handbook (2024) p. 225*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,14 +75,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

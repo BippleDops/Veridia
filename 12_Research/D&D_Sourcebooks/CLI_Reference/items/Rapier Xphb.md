@@ -1,3 +1,12 @@
+---
+title: Rapier Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rapier Xphb
 
 ---
@@ -29,12 +38,11 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
+- **Properties**: [[item properties#Finesse|Finesse]]
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -84,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

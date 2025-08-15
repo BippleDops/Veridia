@@ -1,3 +1,12 @@
+---
+title: Quest - The Awakening Ritual
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Awakening Ritual
 
 ---
@@ -15,7 +24,6 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.856540+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -27,11 +35,6 @@ updated: '2025-08-13T01:18:34.856540+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -45,8 +48,6 @@ Legends speak of Quest   The Awakening Ritual as a nexus where past and present 
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -56,7 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Quest - The Healer's Burden
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Healer's Burden
 
 ---
@@ -16,12 +25,10 @@ world: Both
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg]]
 
 # Quest - The Healer's Burden
 
 *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to do no harm."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 
@@ -181,7 +183,6 @@ This quest works best when players have established relationships with potential
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

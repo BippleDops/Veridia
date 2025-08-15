@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,28 +38,21 @@ improvements: 20
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Soundtrack Improvements
 
-- Suggest music/ambiance for each scene
 - Suggest music/ambiance for each scene
 
 ### Backup Improvements
@@ -76,7 +66,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Add session zero integration questions
-
 
 ## Adventure Overview
 
@@ -94,11 +83,9 @@ An exciting quest that challenges heroes to prevent disaster.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Encounter Scaling
 
@@ -108,7 +95,6 @@ Mentioned in The Second Prophecy of Shadows
 | 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
-
 
 ## Treasure Parcels
 
@@ -121,7 +107,6 @@ Mentioned in The Second Prophecy of Shadows
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
-
 
 ## Critical Decisions
 

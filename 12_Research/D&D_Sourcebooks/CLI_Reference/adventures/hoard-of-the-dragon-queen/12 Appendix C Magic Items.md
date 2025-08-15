@@ -1,3 +1,12 @@
+---
+title: 12 Appendix C Magic Items
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 12 Appendix C Magic Items
 
 ---
@@ -25,18 +34,17 @@ world: Both
 # Appendix C: Magic Items
 *Source: Hoard of the Dragon Queen, p. 178* 
 
-- [[dragontooth-dagger-rot|Dragontooth Dagger]]  
-- [[hazirawn-hotdq|Hazirawn]]  
-- [[insignia-of-claws-hotdq|Insignia of Claws]]  
-- [[tankard-of-plenty-hotdq|Tankard of Plenty]]  
-- [[wand-of-winter-hotdq|Wand of Winter]]  
-- [[black-dragon-mask-hotdq|Black Dragon Mask]]  
+- [[dragontooth dagger rot|Dragontooth Dagger]]  
+- [[hazirawn hotdq|Hazirawn]]  
+- [[insignia of claws hotdq|Insignia of Claws]]  
+- [[tankard of plenty hotdq|Tankard of Plenty]]  
+- [[wand of winter hotdq|Wand of Winter]]  
+- [[black dragon mask hotdq|Black Dragon Mask]]  
 - Blue Dragon Mask  
 - Green Dragon Mask  
 - Red Dragon Mask  
 - White Dragon Mask  
-- [[mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]]
-
+- [[mask of the dragon queen rot|Mask of the Dragon Queen]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

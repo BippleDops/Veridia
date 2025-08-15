@@ -1,3 +1,12 @@
+---
+title: Armor of Lightning Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor of Lightning Resistance Xdmg
 
 ---
@@ -42,7 +51,7 @@ world: Both
 # Armor of Lightning Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance-xphb|Resistance]] to lightning damage while you wear this armor.
+You have [[resistance xphb|Resistance]] to lightning damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Lightning Resistance](#Breastplate%20of%20Lightning%20Resistance)
@@ -65,7 +74,6 @@ You have [[resistance-xphb|Resistance]] to lightning damage while you wear this 
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ You have [[resistance-xphb|Resistance]] to lightning damage while you wear this 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,16 +102,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -122,7 +122,6 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

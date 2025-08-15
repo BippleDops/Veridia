@@ -1,3 +1,12 @@
+---
+title: Scimitar of Speed Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scimitar of Speed Xdmg
 
 ---
@@ -25,17 +34,16 @@ world: Both
 ---
 
 # Scimitar of Speed
-*Weapon ([[scimitar-xphb|scimitar]]), very rare (requires attunement)*  
+*Weapon ([[scimitar xphb|scimitar]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/scimitar-of-speed.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[bonus-action-xphb|Bonus Action]] on each of your turns.
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[bonus action xphb|Bonus Action]] on each of your turns.
 
 *Source: Dungeon Master's Guide (2024) p. 302. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,21 +73,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

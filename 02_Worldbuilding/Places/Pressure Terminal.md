@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-terminal-pressure-terminal.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,25 +52,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -88,7 +76,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## The Grand Transportation Nexus of Aquabyssos
 
@@ -661,7 +648,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 - [[Royal Transit Authority]]  
 
 **Related Items and Concepts**:  
-- [[Pressure-Tube System]]  
+- [[Pressure Tube System]]  
 - [[Transportation Pods]]  
 - [[Pressure Crystals]]  
 - [[Emergency Protocols]]
@@ -711,8 +698,6 @@ Ongoing situations affecting Pressure Terminal:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

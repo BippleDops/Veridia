@@ -1,3 +1,12 @@
+---
+title: Session Zero Worksheet
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Zero_Worksheet
 
 ---
@@ -213,7 +222,6 @@ COMMUNICATION AGREEMENT:
 *Bring questions and be ready to discuss*
 *Remember: This is about setting up for everyone's fun*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -225,11 +233,6 @@ COMMUNICATION AGREEMENT:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -243,11 +246,9 @@ COMMUNICATION AGREEMENT:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -261,11 +262,9 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

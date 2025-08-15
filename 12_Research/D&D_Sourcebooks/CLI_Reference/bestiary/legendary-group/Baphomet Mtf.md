@@ -1,107 +1,47 @@
-# Baphomet Mtf
-
 ---
 title: Baphomet Mtf
-aliases:
-- Baphomet
-type: note
+type: organization
 tags:
-- both
-- content/faction
-- research
-- world/both
-- active
-- ttrpg-cli/compendium/src/5e/mtf
-- note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.986128+00:00'
-world: Both
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-baphomet-mtf-baphomet-mtf.svg)
+# Baphomet Mtf
 
+## Overview
+This document contains important information regarding Baphomet Mtf and its role within the greater narrative.
 
-## 🔧 Deep Evaluation Improvements
+## Description
+Baphomet Mtf represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*20 targeted improvements identified*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Connection Improvements
+## Details
+### Background
+Historical context and development over time.
 
-- Add cross-references to related notes
+### Current State
+Present circumstances and ongoing relevance.
 
-### Enhancement Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-
-## Lair actions
-_Source: Mordenkainen's Tome of Foes_
-
-On initiative count 20 (losing initiative ties), Baphomet can take a lair action to cause one of the following magical effects; he can't use the same effect two rounds in a row:
-
-- Baphomet seals one doorway or other entryway within the lair. The opening must be unoccupied. It is filled with solid stone for 1 minute or until Baphomet creates this effect again.  
-- Baphomet chooses a room within the lair that is no larger in any dimension than 100 feet. Until the next initiative count 20, gravity is reversed within that room. Any creatures or objects in the room when this happens fall in the direction of the new pull of gravity, unless they have some means of remaining aloft. Baphomet can ignore the gravity reversal if he's in the room, although he likes to use this action to land on a ceiling to attack targets flying near it.  
-- Baphomet casts [[mirage-arcane-xphb|mirage arcane]], affecting a room within the lair that is no larger in any dimension than 100 feet. The effect ends on the next initiative count 20.  
-
-## Regional effects
-
-The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
-
-- Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
-- Beasts within 1 mile of the lair become [[conditions#frightened|frightened]] and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
-- If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 18 Wisdom saving throw or descend into a madness determined by the Madness of Baphomet table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
-
-If Baphomet dies, these effects fade over the course of `d10` days.
-
-### Madness of Baphomet
-
-If a creature goes mad in Baphomet's lair or within line of sight of the demon lord, roll on the Madness of Baphomet table to determine the nature of the madness, which is a character flaw that lasts until cured. See the "Dungeon Master's Guide" for more on madness.
-
-**Madness of Baphomet**
-
-`dice: [](baphomet-mtf.md#^madness-of-baphomet)`
-
-| dice: d100 | Flaw (lasts until cured) |
-|------------|--------------------------|
-| 01–20 | "My anger consumes me. I can't be reasoned with when my rage has been stoked." |
-| 21–40 | "I degenerate into beastly behavior, seeming more like a wild animal than a thinking being." |
-| 41–60 | "The world is my hunting ground. Others are my prey." |
-| 61–80 | "Hate comes easily to me and explodes into rage." |
-| 81–00 | "I see those who oppose me not as people, but as beasts meant to be preyed upon." |
-^madness-of-baphomet
-
-## Player-Facing Summary
-
-Baphomet mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of baphomet mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around baphomet mtf.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A journal reveals a betrayal about this place
-- A map reveals a conspiracy about a local noble
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

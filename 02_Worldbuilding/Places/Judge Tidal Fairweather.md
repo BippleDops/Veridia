@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-judge-tidal-fairweather-judge-tidal-fairweather.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,13 +52,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -76,7 +68,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
@@ -84,7 +75,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -94,7 +84,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -142,12 +131,9 @@ Ongoing situations affecting Judge Tidal Fairweather:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -173,7 +159,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -185,7 +170,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,28 +45,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -79,8 +69,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -190,7 +178,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest - The Corruption Files]] (rival)
+- [[Quest   The Corruption Files]] (rival)
 - [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-harbormaster-tidal-stormcrest.svg]] (colleague)
 - [[Captain Marina Shieldcurrent]] (friend)
 ---
@@ -200,20 +188,17 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Relationships
 
 - **Ally**: [[Portrait NPC Merchant Captain Trade V1 Merchant Captain Trade.svg]]
 - **Child**: [[Portrait NPC Queen Morwyn Lumengarde Queen Morwyn Lumengarde.svg]]
-- **Student**: [[House of Lords - Secret Chamber]]
+- **Student**: [[House of Lords   Secret Chamber]]
 - **Enemy**: [[Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg]]
 - **Victim**: [[Assets Locations Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg]]
-
 
 ## Cultural Practices
 
@@ -226,7 +211,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

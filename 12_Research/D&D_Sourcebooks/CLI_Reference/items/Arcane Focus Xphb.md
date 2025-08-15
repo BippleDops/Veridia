@@ -1,3 +1,12 @@
+---
+title: Arcane Focus Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arcane Focus Xphb
 
 ---
@@ -32,14 +41,13 @@ world: Both
 
 **Items in this group:**
 
-- [[crystal-xphb|Crystal]]
-- [[orb-xphb|Orb]]
-- [[rod-xphb|Rod]]
-- [[staff-xphb|Staff]]
-- [[wand-xphb|Wand]]
+- [[crystal xphb|Crystal]]
+- [[orb xphb|Orb]]
+- [[rod xphb|Rod]]
+- [[staff xphb|Staff]]
+- [[wand xphb|Wand]]
 
 *Source: Player's Handbook (2024) p. 224*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

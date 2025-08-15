@@ -1,3 +1,12 @@
+---
+title: Deck of Illusions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deck of Illusions
 
 ---
@@ -41,40 +50,39 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | dice: 1d34 | Playing Card | Illusion |
 |------------|--------------|----------|
 | 1 | Ace of hearts | [[adult-red-dragon-xmm|Red dragon]] |
-| 2 | King of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]] and four [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] |
-| 3 | Queen of hearts | [[succubus-xmm|Succubus/Incubus]] |
-| 4 | Jack of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]] |
+| 2 | King of hearts | [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]] and four [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] |
+| 3 | Queen of hearts | [[succubus xmm|Succubus/Incubus]] |
+| 4 | Jack of hearts | [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|Druid]] |
 | 5 | Ten of hearts | [[cloud-giant-xmm|Cloud giant]] |
-| 6 | Nine of hearts | [[ettin-xmm|Ettin]] |
+| 6 | Nine of hearts | [[ettin xmm|Ettin]] |
 | 7 | Eight of hearts | [[bugbear-warrior-xmm|Bugbear]] |
 | 8 | Two of hearts | [[goblin-warrior-xmm|Goblin]] |
-| 9 | Ace of diamonds | [[beholder-xmm|Beholder]] |
-| 10 | King of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]] and [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] apprentice |
+| 9 | Ace of diamonds | [[beholder xmm|Beholder]] |
+| 10 | King of diamonds | [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|Archmage]] and [[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mage]] apprentice |
 | 11 | Queen of diamonds | [[night-hag-xmm|Night hag]] |
-| 12 | Jack of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]] |
+| 12 | Jack of diamonds | [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|Assassin]] |
 | 13 | Ten of diamonds | [[fire-giant-xmm|Fire giant]] |
-| 14 | Nine of diamonds | [[oni-xmm|Ogre mage]] |
+| 14 | Nine of diamonds | [[oni xmm|Ogre mage]] |
 | 15 | Eight of diamonds | [[gnoll-warrior-xmm|Gnoll]] |
 | 16 | Two of diamonds | [[kobold-warrior-xmm|Kobold]] |
-| 17 | Ace of spades | [[lich-xmm|Lich]] |
-| 18 | King of spades | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]] and two [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
-| 19 | Queen of spades | [[medusa-xmm|Medusa]] |
-| 20 | Jack of spades | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]] |
+| 17 | Ace of spades | [[lich xmm|Lich]] |
+| 18 | King of spades | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priest]] and two [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
+| 19 | Queen of spades | [[medusa xmm|Medusa]] |
+| 20 | Jack of spades | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]] |
 | 21 | Ten of spades | [[frost-giant-xmm|Frost giant]] |
-| 22 | Nine of spades | [[troll-xmm|Troll]] |
+| 22 | Nine of spades | [[troll xmm|Troll]] |
 | 23 | Eight of spades | [[hobgoblin-warrior-xmm|Hobgoblin]] |
 | 24 | Two of spades | [[goblin-warrior-xmm|Goblin]] |
 | 25 | Ace of clubs | [[iron-golem-xmm|Iron golem]] |
-| 26 | King of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit captain]] and three [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
-| 27 | Queen of clubs | [[erinyes-xmm|Erinyes]] |
-| 28 | Jack of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] |
+| 26 | King of clubs | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit captain]] and three [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
+| 27 | Queen of clubs | [[erinyes xmm|Erinyes]] |
+| 28 | Jack of clubs | [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] |
 | 29 | Ten of clubs | [[hill-giant-xmm|Hill giant]] |
-| 30 | Nine of clubs | [[ogre-xmm|Ogre]] |
-| 31 | Eight of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]] |
+| 30 | Nine of clubs | [[ogre xmm|Ogre]] |
+| 31 | Eight of clubs | [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Orc]] |
 | 32 | Two of clubs | [[kobold-warrior-xmm|Kobold]] |
 | 33-34 | jokers (2) | You (the deck's owner) |
 ^1-playing-card-illusion
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -87,11 +95,6 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -109,7 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help delivering before the festival
@@ -122,11 +124,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

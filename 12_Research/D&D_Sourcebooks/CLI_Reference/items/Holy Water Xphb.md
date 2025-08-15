@@ -1,3 +1,12 @@
+---
+title: Holy Water Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Holy Water Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.
 
-When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency-xphb|Proficiency Bonus]]) or take `2d8` Radiant damage if it is a Fiend or an Undead.
+When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency xphb|Proficiency Bonus]]) or take `2d8` Radiant damage if it is a Fiend or an Undead.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When you take the [[actions#Attack|Attack]] action, you can replace one of your 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

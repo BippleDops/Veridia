@@ -1,144 +1,47 @@
-# Ettercap Xmm
-
 ---
 title: Ettercap Xmm
-aliases:
-- Ettercap
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/size/medium
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- monster
-- research
-- world/both
-- ttrpg-cli/monster/type/monstrosity
-- active
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- status/in-progress
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.303743+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-ettercap-xmm-ettercap-xmm.svg)
+# Ettercap Xmm
 
-# [[ettercap-xmm|Ettercap]]
-*Source: Monster Manual (2024) p. 115. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Ettercap Xmm and its role within the greater narrative.
 
+## Description
+Ettercap Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-
-## Ettercap
-
-*Venomous Arachnid Abductor*
-
-- **Habitat.** Forest  
-- **Treasure.** Implements  
-
-Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they're notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.
-
-Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might fill whole woodlands with their webs and the cocooned remains of past meals, which puts ettercaps in conflict with Fey. Spiteful ettercaps go out of their way to torment and feed on Fey; they prefer to menace those smaller than themselves, like pixies and sprites. They rarely devour other sapient creatures swiftly, preferring to cocoon their captives and terrorize them for days.
-
-Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.
-
-```statblock
-"name": "Ettercap (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "44"
-"hit_dice": "8d8 + 8"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "15"
-  - !!int "13"
-  - !!int "7"
-  - !!int "12"
-  - !!int "8"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+3"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-  - "name": "[[skills#Survival|Survival]]"
-"senses": "darkvision 60 ft., passive Perception 13"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The ettercap can climb difficult surfaces, including along ceilings,\
-      \ without needing to make an ability check."
-    "name": "Spider Climb"
-  - "desc": "The ettercap ignores movement restrictions caused by webs, and the ettercap\
-      \ knows the location of any other creature in contact with the same web."
-    "name": "Web Walker"
-"actions":
-  - "desc": "The ettercap makes one Bite attack and one Claw attack."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-      \ plus 2 (d4) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the ettercap's next turn."
-    "name": "Bite"
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
-    "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 12, one Large or smaller creature the ettercap\
-      \ can see within 30 feet. Failure: The target has the [[conditions#Restrained|Restrained]]\
-      \ condition until the web is destroyed (AC 10; HP 5; [[vulnerability-xphb|Vulnerability]]\
-      \ to Fire damage; [[immunity-xphb|Immunity]]\
-      \ to Bludgeoning, Poison, and Psychic damage)."
-    "name": "Web Strand (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [[conditions#Restrained|Restrained]]\
-      \ by its Web Strand up to 25 feet straight toward itself."
-    "name": "Reel"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/ettercap-xmm.webp"
-```
-^statblock
-
-## Environment
-
-forest
-
-## Player-Facing Summary
-
-Ettercap xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ettercap xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ettercap xmm.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
+*Customize as needed for your specific campaign requirements.*

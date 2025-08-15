@@ -1,3 +1,12 @@
+---
+title: System Cli Spells School Abjuration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Spells School Abjuration
 
 ---
@@ -38,7 +47,6 @@ world: Both Worlds
 > *"In the crushing depths where existence itself is an act of defiance against the void, abjuration becomes not merely protective magic but the very foundation of civilization. Every barrier we raise, every ward we weave, is a declaration that mortal will can stand against cosmic indifference."*
 > — [[Arcane Protector Thalassa Shieldweave]], Master of Defensive Arts at the [[Institute of Aquatic Mysticism]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ world: Both Worlds
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -137,14 +140,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

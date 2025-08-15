@@ -1,3 +1,12 @@
+---
+title: Bard Xphb College of Swords Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bard Xphb College of Swords Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # College of Swords
-*[[bard-xphb|Bard]]: Bard Subclass*  
+*[[bard xphb|Bard]]: Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 > [!tldr] Class and Feature Progression
@@ -66,7 +75,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[scimitar-xphb|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[scimitar xphb|scimitar]].
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -74,8 +83,8 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [[dueling-xphb|Dueling]]  
-- [[two-weapon-fighting-xphb|Two-Weapon Fighting]]  
+- [[dueling xphb|Dueling]]  
+- [[two weapon fighting xphb|Two-Weapon Fighting]]  
 
 ### Blade Flourish (Level 3)
 
@@ -103,7 +112,6 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 Starting at 14th level, whenever you use a Blade Flourish option, you can roll a `d6` and use it instead of expending a Bardic Inspiration die.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -115,16 +123,11 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Bard
-> ![[list-optfeaturetype-fs-b#Fighting%20Style,%20Bard|Fighting Style, Bard]]
+> 
 ^list-optfeature-fs-b
 
 ## Player-Facing Summary
@@ -143,7 +146,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and chaos spreads
@@ -154,7 +156,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

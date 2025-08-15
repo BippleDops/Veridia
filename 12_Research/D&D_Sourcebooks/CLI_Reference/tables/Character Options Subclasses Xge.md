@@ -1,3 +1,12 @@
+---
+title: Character Options Subclasses Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Character Options Subclasses Xge
 
 ---
@@ -31,8 +40,8 @@ world: Both
 |-------|----------|-----------------|-------------|
 | Barbarian | Path of the Ancestral Guardian | 3rd | Calls on the spirits of honored ancestors to protect others |
 | Barbarian | Path of the Storm Herald | 3rd | Filled with a rage that channels the primal magic of the storm |
-| Barbarian | [[barbarian-xphb-path-of-the-zealot-xphb|Path of the Zealot]] | 3rd | Fueled by a religious zeal that visits destruction on foes |
-| Bard | [[bard-xphb-college-of-glamour-xphb|College of Glamour]] | 3rd | Wields the beguiling, glorious magic of the Feywild |
+| Barbarian | [[barbarian xphb path of the zealot xphb|Path of the Zealot]] | 3rd | Fueled by a religious zeal that visits destruction on foes |
+| Bard | [[bard xphb college of glamour xphb|College of Glamour]] | 3rd | Wields the beguiling, glorious magic of the Feywild |
 | Bard | College of Swords | 3rd | Entertains and slays with daring feats of weapon prowess |
 | Bard | College of Whispers | 3rd | Plants fear and doubt in the minds of others  |
 | Cleric | Forge Domain | 1st | Clad in heavy armor, serves a god of the forge or creation |
@@ -47,7 +56,7 @@ world: Both
 | Monk | Way of the Sun Soul | 3rd | Transforms ki into bursts of fire and searing bolts of light |
 | Paladin | Oath of Conquest | 3rd | Strikes terror in enemies and crushes the forces of chaos |
 | Paladin | Oath of Redemption | 3rd | Offers redemption to the worthy and destruction to those who refuse mercy or righteousness |
-| Ranger | [[ranger-xphb-gloom-stalker-xphb|Gloom Stalker]] | 3rd | Unafraid of the dark, relentlessly stalks and ambushes foes |
+| Ranger | [[ranger xphb gloom stalker xphb|Gloom Stalker]] | 3rd | Unafraid of the dark, relentlessly stalks and ambushes foes |
 | Ranger | Horizon Walker | 3rd | Finds portals to other worlds and channels planar magic |
 | Ranger | Monster Slayer | 3rd | Hunts down creatures of the night and wielders of grim magic |
 | Rogue | Inquisitive | 3rd | Roots out secrets, akin to a masterful detective |
@@ -57,11 +66,10 @@ world: Both
 | Sorcerer | Divine Soul | 1st | Harnesses magic bestowed by a god or other divine source |
 | Sorcerer | Shadow Magic | 1st | Wields the grim magic of the Shadowfell |
 | Sorcerer | Storm Sorcery | 1st | Crackles with the power of the storm |
-| Warlock | [[warlock-xphb-celestial-patron-xphb|The Celestial]] | 1st | Forges a pact with a being from celestial realms |
+| Warlock | [[warlock xphb celestial patron xphb|The Celestial]] | 1st | Forges a pact with a being from celestial realms |
 | Warlock | The Hexblade | 1st | Serves a shadowy entity that bestows dread curses |
 | Wizard | War Magic | 2nd | Mixes evocation and abjuration magic to dominate the battlefield |
 ^subclasses
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,11 +82,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -96,16 +99,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

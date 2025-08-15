@@ -1,3 +1,12 @@
+---
+title: Fraz Urbluu Mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fraz Urbluu Mtf
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fraz-urbluu-mtf-fraz-urbluu-mtf.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -50,8 +53,8 @@ _Source: Mordenkainen's Tome of Foes_
 On Initiative count 20 (losing initiative ties), Fraz-Urb'luu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
 - Fraz-Urb'luu causes up to 5 doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none.  
-- Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[simulacrum-xphb|simulacrum]] spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
-- Fraz-Urb'luu creates a [[wave-xdmg|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
+- Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[simulacrum xphb|simulacrum]] spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
+- Fraz-Urb'luu creates a [[wave xdmg|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
 
 ## Regional effects
 
@@ -96,11 +99,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -113,7 +114,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

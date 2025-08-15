@@ -1,3 +1,12 @@
+---
+title: Dark Shard Amulet Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Shard Amulet Xdmg
 
 ---
@@ -32,7 +41,6 @@ world: Both
 
 This amulet is fashioned from a shard of resilient material originating from an otherworldly realm. While you are wearing it, you gain the following benefits.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,19 +52,14 @@ This amulet is fashioned from a shard of resilient material originating from an 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spellcasting Focus
 
-You can use the amulet as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Warlock spells.
+You can use the amulet as a [[spellcasting focus xphb|Spellcasting Focus]] for your Warlock spells.
 
 ## Unknown Spell
 
-As a [[actions#Magic|Magic]] action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [[long-rest-xphb|Long Rest]].
+As a [[actions#Magic|Magic]] action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [[long rest xphb|Long Rest]].
 
 *Source: Dungeon Master's Guide (2024) p. 248*
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -94,21 +95,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

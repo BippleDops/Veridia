@@ -1,3 +1,12 @@
+---
+title: Steel Predator Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Steel Predator Mpmm
 
 ---
@@ -28,7 +37,7 @@ updated: '2025-08-13T12:34:06.097736+00:00'
 world: Both
 ---
 
-# [[steel-predator-mpmm|Steel Predator]]
+# [[steel predator mpmm|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -100,8 +109,8 @@ If all goes according to plan, a steel predator slays its target and then volunt
     "name": "Stunning Roar (Recharge 5-6)"
   - "desc": "The steel predator casts one of the following spells, requiring no spell\
       \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
-      \ [[dimension-door-xphb|dimension door]] (self only),\
-      \ [[plane-shift-xphb|plane shift]] (self only)"
+      \ [[dimension door xphb|dimension door]] (self only),\
+      \ [[plane shift xphb|plane shift]] (self only)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -109,7 +118,6 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "image": "/03_Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -122,11 +130,6 @@ If all goes according to plan, a steel predator slays its target and then volunt
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 

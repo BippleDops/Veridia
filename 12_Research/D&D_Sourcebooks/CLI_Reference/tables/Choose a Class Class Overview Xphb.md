@@ -1,3 +1,12 @@
+---
+title: Choose a Class Class Overview Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Choose a Class Class Overview Xphb
 
 ---
@@ -29,20 +38,19 @@ world: Both
 
 | Class | Likes... | Primary Ability | Complexity |
 |-------|----------|-----------------|------------|
-| [[barbarian-xphb|Barbarian]] | Battle | Strength | Average |
-| [[bard-xphb|Bard]] | Performing | Charisma | High |
-| [[cleric-xphb|Cleric]] | Gods | Wisdom | Average |
-| [[druid-xphb|Druid]] | Nature | Wisdom | High |
-| [[fighter-xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
-| [[monk-xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
-| [[paladin-xphb|Paladin]] | Defense | Strength and Charisma | Average |
-| [[ranger-xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
-| [[rogue-xphb|Rogue]] | Stealth | Dexterity | Low |
-| [[sorcerer-xphb|Sorcerer]] | Power | Charisma | High |
-| [[warlock-xphb|Warlock]] | Occult lore | Charisma | High |
-| [[wizard-xphb|Wizard]] | Spellbooks | Intelligence | Average |
+| [[barbarian xphb|Barbarian]] | Battle | Strength | Average |
+| [[bard xphb|Bard]] | Performing | Charisma | High |
+| [[cleric xphb|Cleric]] | Gods | Wisdom | Average |
+| [[druid xphb|Druid]] | Nature | Wisdom | High |
+| [[fighter xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
+| [[monk xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[paladin xphb|Paladin]] | Defense | Strength and Charisma | Average |
+| [[ranger xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
+| [[rogue xphb|Rogue]] | Stealth | Dexterity | Low |
+| [[sorcerer xphb|Sorcerer]] | Power | Charisma | High |
+| [[warlock xphb|Warlock]] | Occult lore | Charisma | High |
+| [[wizard xphb|Wizard]] | Spellbooks | Intelligence | Average |
 ^class-overview
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -92,7 +93,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

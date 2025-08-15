@@ -1,3 +1,12 @@
+---
+title: Magic Item Table A
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Item Table A
 
 ---
@@ -31,16 +40,15 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-50 | [[potion-of-healing-xdmg|Potion of healing]] |
-| 51-60 | [[spell-scroll-cantrip-xdmg|Spell scroll (cantrip)]] |
-| 61-70 | [[potion-of-climbing-xdmg|Potion of climbing]] |
-| 71-90 | [[spell-scroll-level-1-xdmg|Spell scroll (1st level)]] |
-| 91-94 | [[spell-scroll-level-2-xdmg|Spell scroll (2nd level)]] |
-| 95-98 | [[potion-of-greater-healing-xdmg|Potion of greater healing]] |
-| 99 | [[bag-of-holding-xdmg|Bag of holding]] |
-| 00 | [[driftglobe-xdmg|Driftglobe]] |
+| 01-50 | [[potion of healing xdmg|Potion of healing]] |
+| 51-60 | [[spell scroll cantrip xdmg|Spell scroll (cantrip)]] |
+| 61-70 | [[potion of climbing xdmg|Potion of climbing]] |
+| 71-90 | [[spell scroll level 1 xdmg|Spell scroll (1st level)]] |
+| 91-94 | [[spell scroll level 2 xdmg|Spell scroll (2nd level)]] |
+| 95-98 | [[potion of greater healing xdmg|Potion of greater healing]] |
+| 99 | [[bag of holding xdmg|Bag of holding]] |
+| 00 | [[driftglobe xdmg|Driftglobe]] |
 ^magic-item-table-a
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about this place
@@ -84,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

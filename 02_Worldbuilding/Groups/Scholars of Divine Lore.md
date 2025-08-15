@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg]]
 
 # Scholars of Divine Lore
 
 *"Knowledge illuminates where ignorance breeds fear. We study the darkness to preserve the light."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,19 +62,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
@@ -104,7 +94,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -374,11 +363,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Religious Observances
 

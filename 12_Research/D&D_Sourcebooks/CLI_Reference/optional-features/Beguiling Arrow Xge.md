@@ -1,3 +1,12 @@
+---
+title: Beguiling Arrow Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Beguiling Arrow Xge
 
 ---
@@ -30,7 +39,6 @@ Your enchantment magic causes this arrow to temporarily beguile its target. The 
 
 The psychic damage increases to `4d6` when you reach 18th level in this class.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ The psychic damage increases to `4d6` when you reach 18th level in this class.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

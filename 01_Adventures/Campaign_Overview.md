@@ -1,3 +1,12 @@
+---
+title: Campaign_Overview
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Overview
 
 ---
@@ -9,7 +18,6 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -38,7 +46,6 @@ modified: '2025-08-14'
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Variants Improvements
 
@@ -47,12 +54,9 @@ modified: '2025-08-14'
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-- Include spotlight moment for each character class
 
 ### Session_Zero Improvements
 
-- Add session zero integration questions
-- Add session zero integration questions
 - Add session zero integration questions
 
 ### Soundtrack Improvements
@@ -66,17 +70,14 @@ modified: '2025-08-14'
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-- Provide scaling for different level ranges
 
 ### Backup Improvements
 
-- Add 'What if players skip this?' contingency
 - Add 'What if players skip this?' contingency
 
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-
 
 ## Related
 
@@ -89,7 +90,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Encounter Scaling
 

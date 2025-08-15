@@ -1,3 +1,12 @@
+---
+title: Boon of Resilience
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boon of Resilience
 
 ---
@@ -29,7 +38,6 @@ You have resistance to bludgeoning, piercing, and slashing damage from nonmagica
 
 *Source: Dungeon Master's Guide p. 232*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ You have resistance to bludgeoning, piercing, and slashing damage from nonmagica
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

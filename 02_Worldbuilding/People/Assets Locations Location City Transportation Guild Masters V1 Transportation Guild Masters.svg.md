@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,21 +46,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
@@ -81,7 +70,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Basic Information
 
@@ -193,7 +181,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Duke Lysander Crystalvein]] (friend)
 - [[King Consort Meridian]] (colleague)
-- [[Quest - Refugees of the Deep]] (ally)
+- [[Quest   Refugees of the Deep]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -203,7 +191,6 @@ This NPC can serve multiple roles:
 - **Friend**: [[Assets Symbols Symbol Heraldry Family Retaine Family Retaine.svg]]
 - **Lover**: [[The Reality Sick Mayor Lord Quantum Aldrich]]
 - **Blackmailer**: [[Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
-
 
 ## A Day in the Life
 

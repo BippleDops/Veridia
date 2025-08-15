@@ -1,3 +1,12 @@
+---
+title: Alhoon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alhoon Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-alhoon-mpmm-alhoon-mpmm.svg)
 
-# [[alhoon-mpmm|Alhoon]]
+# [[alhoon mpmm|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
 
 > [!quote] A quote from Mordenkainen  
@@ -49,7 +58,6 @@ Lichdom offers salvation and the prospect of being able to pursue knowledge inde
 
 Confronting this reality, a group of nine mind flayer arcanists used their arcane magic and psionics to weave a new truth. These nine called themselves the Alhoon, and those who follow in their footsteps are referred to by the same name.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -61,11 +69,6 @@ Confronting this reality, a group of nine mind flayer arcanists used their arcan
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Collaborative Undeath
 
@@ -144,14 +147,14 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [[dancing-lights-xphb|dancing lights]],\
-      \ [[detect-magic-xphb|detect magic]], [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[disguise-self-xphb|disguise self]], [[mage-hand-xphb|mage hand]],\
-      \ [[prestidigitation-xphb|prestidigitation]]\n\n1/day\
-      \ each: [[dominate-monster-xphb|dominate monster]],\
-      \ [[globe-of-invulnerability-xphb|globe of invulnerability]],\
-      \ [[invisibility-xphb|invisibility]], [[modify-memory-xphb|modify memory]],\
-      \ [[plane-shift-xphb|plane shift]] (self only), [[wall-of-force-xphb|wall\]]
+      At will: [[dancing lights xphb|dancing lights]],\
+      \ [[detect magic xphb|detect magic]], [[detect thoughts xphb|detect thoughts]],\
+      \ [[disguise self xphb|disguise self]], [[mage hand xphb|mage hand]],\
+      \ [[prestidigitation xphb|prestidigitation]]\n\n1/day\
+      \ each: [[dominate monster xphb|dominate monster]],\
+      \ [[globe of invulnerability xphb|globe of invulnerability]],\
+      \ [[invisibility xphb|invisibility]], [[modify memory xphb|modify memory]],\
+      \ [[plane shift xphb|plane shift]] (self only), [[wall of force xphb|wall\]]
       \ of force]]"
     "name": "Spellcasting"
 "reactions":
@@ -185,7 +188,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

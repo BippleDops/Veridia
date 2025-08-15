@@ -1,3 +1,12 @@
+---
+title: Swarm of Venomous Snakes Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Venomous Snakes Xmm
 
 ---
@@ -36,9 +45,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-venomous-snakes-xmm-swarm-of-venomous-snakes-xmm.svg)
 
-# [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]]
+# [[swarm of venomous snakes xmm|Swarm of Venomous Snakes]]
 *Source: Monster Manual (2024) p. 371. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,15 +59,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Swarm of Venomous Snakes (XMM)"
@@ -89,12 +92,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny snake. The swarm\
-      \ can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ can't regain [[hit points xphb|Hit Points]]\
+      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage—\
-      or 6 (1d4 + 4) Piercing damage if the swarm is [[bloodied-xphb|Bloodied]]—\
+      or 6 (1d4 + 4) Piercing damage if the swarm is [[bloodied xphb|Bloodied]]—\
       plus 10 (3d6) Poison damage."
     "name": "Bites"
 "source":
@@ -122,7 +125,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

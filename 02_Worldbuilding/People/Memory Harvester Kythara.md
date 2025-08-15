@@ -31,14 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg]]
 
 # Memory Harvester Kythara
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,12 +67,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
@@ -86,12 +79,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
@@ -105,7 +95,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Kythara tends the [[Memory Meadows]] where the [[The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality.
@@ -333,7 +322,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Collaborative response to dream-based magical threats
 
 ### Religious & Spiritual Connections
-**[[Sister Thalassa the Depth-Touched]]**: Shared devotion to Deep Mother with different interpretations
+**[[Sister Thalassa the Depth Touched]]**: Shared devotion to Deep Mother with different interpretations
 - Regular theological discussions about divine will and proper worship methods
 - Collaboration on protecting sacred sites from commercial exploitation
 - Disagreement over awakening timeline and preparation strategies
@@ -371,7 +360,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Theological debates about whether memory preservation serves or hinders spiritual growth
 
 ### Political & Social Networks
-**[[02_Worldbuilding/People/Senator Nereon Tidecaller|02 Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
+**[[02 Worldbuilding/People/Senator Nereon Tidecaller|02 Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
 - Advocacy for legal protections for sacred memory sites and traditional practices
 - Funding for memory preservation research and ethical standards development
 - Political protection from commercial interests seeking to exploit Memory Meadows
@@ -525,7 +514,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ---
 
-### Links to [[Quest - The Convergence Crisis]]
+### Links to [[Quest   The Convergence Crisis]]
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
 - Divine memories serve as cosmic reference points maintaining dimensional stability
@@ -551,7 +540,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Collaboration on projects requiring access to trans-dimensional memory archives
 - Shared responsibility for maintaining cosmic memory stability during convergence events
 
-### Connection to [[The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
+### Connection to [[The Shadow Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
 **Memory-Shadow Interface**: Intersection between shadow magic and memory manipulation
 - Study of how shadow energy affects memory formation and preservation
 - Development of protective techniques preventing shadow corruption of stored memories
@@ -752,11 +741,9 @@ Memory Harvester Kythara is a undersea element of the setting, known for biolumi
 
 Legends speak of Memory Harvester Kythara as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Harvester Kythara.
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Economic Structure
 

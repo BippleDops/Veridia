@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg]]
 
 # The Harmony Collective
 
 *"In unity of thought, in silence of discord, we find the perfect current." - Chorus Leader Serenity*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,26 +63,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -96,7 +83,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Harmony Collective is a mysterious organization that promotes absolute unity of thought and purpose among the citizens of Aquabyssos. Operating from hidden chambers throughout the city, they believe that individual discord creates dangerous currents that threaten the stability of their underwater realm. Members undergo ritual "harmonization" processes that allegedly align their minds with a greater collective consciousness.
@@ -244,7 +230,6 @@ The Harmony Collective is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of The Harmony Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Harmony Collective.
-
 
 ## Historical Timeline
 

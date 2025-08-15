@@ -1,3 +1,12 @@
+---
+title: The Tide Rises
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Tide Rises
 
 ---
@@ -35,7 +44,6 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 
 *Missing nobles, diplomatic immunity, and a conspiracy that threatens to drown Aethermoor*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,35 +75,26 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Quest Overview
 
@@ -158,8 +157,6 @@ Legends speak of The Tide Rises as a nexus where past and present converge. Loca
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -182,7 +179,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -195,7 +191,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -207,7 +202,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

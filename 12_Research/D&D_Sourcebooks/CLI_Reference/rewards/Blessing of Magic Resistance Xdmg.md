@@ -1,3 +1,12 @@
+---
+title: Blessing of Magic Resistance Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blessing of Magic Resistance Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Blessing of Magic Resistance
 
-You have [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects.
+You have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects.
 
 *Source: Dungeon Master's Guide (2024) p. 98*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ You have [[advantage-xphb|Advantage]] on saving throws against spells and other 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the government
@@ -72,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

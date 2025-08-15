@@ -18,15 +18,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg]]
 
 # The Synthesis Gardens
 
 *Where nature and crystal become one abomination*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,9 +51,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
@@ -65,9 +58,6 @@ improvements: 20
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -81,16 +71,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
-Hidden deep within [[The Verdant Reach]], the Synthesis Gardens represent [[Sorrow-Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
+Hidden deep within [[The Verdant Reach]], the Synthesis Gardens represent [[Sorrow Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
 
 ## Description
 The Gardens exist in a two-mile radius of corrupted forest where the boundaries between plant, crystal, and flesh blur. Trees with crystalline bark pulse with internal light, while crystal formations sprout leaves and bleed sap. The air itself shimmers with pollen that carries corruption, and the ground shifts between soil, crystal, and something disturbingly in-between.
@@ -182,12 +169,9 @@ Ongoing situations affecting The Synthesis Gardens:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Economic Structure
 

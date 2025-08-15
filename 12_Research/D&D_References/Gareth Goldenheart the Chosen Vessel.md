@@ -1,3 +1,12 @@
+---
+title: Gareth Goldenheart the Chosen Vessel
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gareth Goldenheart the Chosen Vessel
 
 ---
@@ -20,8 +29,6 @@ world: Both
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -56,7 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
@@ -67,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

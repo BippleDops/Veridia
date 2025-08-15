@@ -1,3 +1,12 @@
+---
+title: Stable Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stable Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Stable
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A creature is Stable if it has 0 [[hit-points-xphb|Hit Points]] but isn't required to make [[death-saving-throw-xphb|Death Saving Throws]].
-
+A creature is Stable if it has 0 [[hit points xphb|Hit Points]] but isn't required to make [[death saving throw xphb|Death Saving Throws]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A creature is Stable if it has 0 [[hit-points-xphb|Hit Points]] but isn't requir
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,11 +64,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 

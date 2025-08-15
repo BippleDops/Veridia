@@ -1,3 +1,12 @@
+---
+title: Shortsword Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shortsword Xphb
 
 ---
@@ -29,12 +38,11 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

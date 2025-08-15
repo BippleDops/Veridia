@@ -1,3 +1,12 @@
+---
+title: Mummy Lord Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mummy Lord Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-xmm-mummy-lord-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,19 +46,14 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The region containing a mummy lord's lair is warped by its presence, creating the following effects:
 
-- **Cursed Fate.** Whenever a creature other than the mummy or one of its allies casts a Divination spell while within 1 mile of the lair, the creature makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[bonus-action-xphb|Bonus Action]], or [[reaction-xphb|Reaction]] used to cast the spell is wasted, but any resources used to cast it aren't expended.  
-- **Soul Drain.** Creatures within 1 mile of the lair have [[disadvantage-xphb|Disadvantage]] on Death Saving Throws.  
+- **Cursed Fate.** Whenever a creature other than the mummy or one of its allies casts a Divination spell while within 1 mile of the lair, the creature makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[bonus action xphb|Bonus Action]], or [[reaction xphb|Reaction]] used to cast the spell is wasted, but any resources used to cast it aren't expended.  
+- **Soul Drain.** Creatures within 1 mile of the lair have [[disadvantage xphb|Disadvantage]] on Death Saving Throws.  
 
 If the mummy lord is destroyed or moves its lair elsewhere, these effects end immediately. The effects resume if the mummy lord gains a new body (see its Undead Restoration trait).
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

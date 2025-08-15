@@ -1,3 +1,12 @@
+---
+title: Skills With Different Abilities Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Skills With Different Abilities Phb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in [[skills#Athletics|Athletics]], for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the DM might ask for a check using an unusual combination of ability and skill, or you might ask your DM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your DM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your DM might allow you to apply your proficiency in [[skills#Athletics|Athletics]] and ask for a Constitution ([[skills#Athletics|Athletics]]) check. So if you're proficient in [[skills#Athletics|Athletics]], you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength ([[skills#Athletics|Athletics]]) check. Similarly, when your half-orc barbarian uses a display of raw strength to intimidate an enemy, your DM might ask for a Strength ([[skills#Intimidation|Intimidation]]) check, even though [[skills#Intimidation|Intimidation]] is normally associated with Charisma.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Normally, your proficiency in a skill applies only to a specific kind of ability
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

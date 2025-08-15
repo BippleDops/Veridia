@@ -37,12 +37,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Brother Matthias Inkdrinker
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Brother_Matthias_Inkdrinker.png|Brother Matthias Inkdrinker Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,24 +70,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
@@ -102,8 +90,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -157,8 +143,6 @@ Ongoing situations affecting Brother Matthias Inkdrinker:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Economic Structure
 

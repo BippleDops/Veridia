@@ -1,3 +1,12 @@
+---
+title: Sphinx of Wonder Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sphinx of Wonder Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-wonder-xmm-sphinx-of-wonder-xmm.svg)
 
-# [[sphinx-of-wonder-xmm|Sphinx of Wonder]]
+# [[sphinx of wonder xmm|Sphinx of Wonder]]
 *Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the SRD and the Free Rules (2024)*  
 
 A sphinx of wonder is brightly feathered and the size of a lion cub. One comes into being every time a unique idea is conceived on the Material Plane. Each sphinx of wonder is fascinated by a particular type of story or field of study, and it learns all it can about that topic. It bears a unique sigil on its forehead that suggests the type of knowledge that fascinates it. Sometimes, a sphinx of wonder forms a bond with a mortal scholar and aids them in their research.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ A sphinx of wonder is brightly feathered and the size of a lion cub. One comes i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sphinxes
 
@@ -107,7 +110,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-  - "desc": "The sphinx has [[advantage-xphb|Advantage]]\
+  - "desc": "The sphinx has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -145,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -165,11 +166,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Elemental Gem Emerald Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elemental Gem Emerald Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/elemental-gem-emerald.webp#right)
 
-This gem contains a mote of elemental energy. When you take a [[actions#Utilize|Utilize]] action to break the gem, a [[water-elemental-xmm|Water Elemental]] is summoned, and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb|Bonus Action]].
+This gem contains a mote of elemental energy. When you take a [[actions#Utilize|Utilize]] action to break the gem, a [[water elemental xmm|Water Elemental]] is summoned, and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus action xphb|Bonus Action]].
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This gem contains a mote of elemental energy. When you take a [[actions#Utilize|
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

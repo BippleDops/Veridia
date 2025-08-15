@@ -1,3 +1,12 @@
+---
+title: Magic Item Special Features Magic Creator Or Intended User Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # magic-item-special-features-magic-items-creator-or-intended-user-xdmg
 
 ---
@@ -39,14 +48,13 @@ world: Both
 | 9 | Elemental Fire. This item is warm to the touch, and any metal parts are crafted from black iron. Flame imagery covers its surface. |
 | 10 | Elemental Water. Lustrous fish scales replace leather or cloth on this item, and seashells and worked coral (as hard as any metal) replace metal portions. |
 | 11–12 | Elf. The item is half the normal weight. It is adorned with symbols of nature: leaves, vines, stars, and the like. |
-| 13 | Fey. The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding [[dim-light-xphb|Dim Light]] in a 5-foot radius. Any metal in the item is silver or mithral rather than iron or steel. |
+| 13 | Fey. The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding [[dim light xphb|Dim Light]] in a 5-foot radius. Any metal in the item is silver or mithral rather than iron or steel. |
 | 14 | Fiend. The item is made of iron or horn, and any cloth or leather components are crafted from the hide of Fiends. Leering faces or vile runes are engraved on its surface. Celestials find it repulsive. |
 | 15 | Giant. The item is larger than normal and was crafted by Giants for use by their smaller allies. |
 | 16 | Gnome. The item is crafted to appear ordinary and well used. It could also incorporate gears and mechanical components, even if these aren't essential to its function. |
 | 17–19 | Human. The item was created during the heyday of a fallen human kingdom, or it is tied to a human of legend. It might hold writing in a forgotten language or symbols whose significance is lost to the ages. |
 | 20 | Undead. The item incorporates symbols of death, such as bones and skulls, and it might be crafted from parts of corpses. It feels cold to the touch. |
 ^magic-items-creator-or-intended-user
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -99,7 +100,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

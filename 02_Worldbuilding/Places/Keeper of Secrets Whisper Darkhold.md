@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-of-secrets-whisper-darkhold-keeper-of-secrets-whisper-darkhold.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,20 +52,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -139,12 +127,9 @@ Ongoing situations affecting Keeper of Secrets Whisper Darkhold:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 
@@ -163,7 +148,6 @@ Key stop on textiles trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

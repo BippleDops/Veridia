@@ -1,3 +1,12 @@
+---
+title: README_Handouts_Export
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # README_Handouts_Export
 
 ---
@@ -21,7 +30,6 @@ world: Both
 
 This guide explains how to export player handouts and GM encounter sheets to PDF.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ This guide explains how to export player handouts and GM encounter sheets to PDF
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Export Steps (Obsidian)
 1. Open the handout or GM sheet note you want to export.
@@ -62,11 +65,9 @@ This guide explains how to export player handouts and GM encounter sheets to PDF
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

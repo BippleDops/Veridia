@@ -1,3 +1,12 @@
+---
+title: Gunpowder Powder Horn Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gunpowder Powder Horn Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 35 gp
 - **Weight**: 2.0 lbs.
 
-Setting fire to a powder horn full of Gunpowder causes it to explode. When a powder horn explodes, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on the powder horn makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage on a failed save or half as much damage on a successful one.
+Setting fire to a powder horn full of Gunpowder causes it to explode. When a powder horn explodes, each creature in a 10-foot-radius [[sphere area of effect xphb|Sphere]] centered on the powder horn makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Setting fire to a powder horn full of Gunpowder causes it to explode. When a pow
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

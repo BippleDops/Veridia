@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg]]
 
 # Pressure Suit Malfunction
 
 *"When your lifeline fails, every second becomes precious."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,24 +61,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -100,7 +89,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 A critical equipment failure involving pressure suits used for deep-sea operations around Aquabyssos. Multiple suits have experienced dangerous malfunctions, threatening the lives of workers, explorers, and military personnel operating in high-pressure environments.
@@ -257,8 +245,6 @@ Ongoing situations affecting Pressure Suit Malfunction:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -270,7 +256,6 @@ Ongoing situations affecting Pressure Suit Malfunction:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

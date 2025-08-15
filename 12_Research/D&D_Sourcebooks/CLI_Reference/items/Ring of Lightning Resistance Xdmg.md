@@ -1,3 +1,12 @@
+---
+title: Ring of Lightning Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Lightning Resistance Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Ring of Lightning Resistance
 *Ring, rare*  
 
-You have [[resistance-xphb|Resistance]] to lightning damage while wearing this ring. The ring is set with citrine.
+You have [[resistance xphb|Resistance]] to lightning damage while wearing this ring. The ring is set with citrine.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ You have [[resistance-xphb|Resistance]] to lightning damage while wearing this r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -83,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

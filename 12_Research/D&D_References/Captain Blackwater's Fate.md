@@ -1,3 +1,12 @@
+---
+title: Captain Blackwater's Fate
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Captain Blackwater's Fate
 
 ---
@@ -55,7 +64,6 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:34.486880+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ updated: '2025-08-13T01:18:34.486880+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -160,12 +163,9 @@ Legends speak of Captain Blackwater's Fate as a nexus where past and present con
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Related Notes
 
@@ -174,11 +174,9 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

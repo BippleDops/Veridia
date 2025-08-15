@@ -27,8 +27,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Market Plaza
 ![](04_Resources/Assets/Places/place-markets-commercial-hubs-and-markets.svg)
 
@@ -36,7 +34,6 @@ improvements: 20
 *The Beating Hearts of Two Realms' Economies*
 
 > *"Every coin has two sides, every market has two faces. The wise merchant learns to profit from both."* - Market Proverb
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,24 +66,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -100,7 +90,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 The commercial hubs and markets of [[Aethermoor]] and [[Aquabyssos]] serve as the vital organs of inter-realm commerce, where fortunes are made and lost, where cultures blend and clash, and where the invisible hands of [[Major Trading Companies]] shape the destiny of nations through careful manipulation of supply and demand.
@@ -593,12 +582,9 @@ Ongoing situations affecting Commercial Hubs and Markets:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -622,7 +608,6 @@ Mentioned in The Second Prophecy of Depths
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -641,7 +626,6 @@ Mentioned in The Second Prophecy of Depths
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -653,7 +637,6 @@ Mentioned in The Second Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

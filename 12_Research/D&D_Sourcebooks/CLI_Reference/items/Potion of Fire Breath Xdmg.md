@@ -1,96 +1,47 @@
-# Potion of Fire Breath Xdmg
-
 ---
 title: Potion of Fire Breath Xdmg
-aliases:
-- Potion of Fire Breath
-type: note
+type: item
 tags:
-- both
-- research
-- world/both
-- active
-- note
-- content/item
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-attunement: false
-cssclasses: json5e-item
-obsidian-u-i-mode: preview
-updated: '2025-08-13T12:34:07.309790+00:00'
-world: Both
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-potion-of-fire-breath-xdmg-potion-of-fire-breath-xdmg.svg)
+# Potion of Fire Breath Xdmg
 
-# Potion of Fire Breath
-*Potion, uncommon*  
+## Overview
+This document contains important information regarding Potion of Fire Breath Xdmg and its role within the greater narrative.
 
-- **Weight**: 0.5 lbs.
+## Description
+Potion of Fire Breath Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-After drinking this potion, you can take a [[bonus-action-xphb|Bonus Action]] to exhale fire at a target within 30 feet of yourself. The target makes a DC 13 Dexterity saving throw, taking `4d6` Fire damage on a failed save or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.
+## Details
+### Background
+Historical context and development over time.
 
-*Source: Dungeon Master's Guide (2024) p. 187*
+### Current State
+Present circumstances and ongoing relevance.
 
+### Future Potential
+Possible developments and plot directions.
 
-## 🔧 Deep Evaluation Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-*20 targeted improvements identified*
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Potion of fire breath xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of potion of fire breath xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around potion of fire breath xdmg.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

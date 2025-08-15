@@ -1,3 +1,12 @@
+---
+title: Modron Duodrone Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Modron Duodrone Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-duodrone-xmm-modron-duodrone-xmm.svg)
 
-# [[modron-duodrone-xmm|Modron Duodrone]]
+# [[modron duodrone xmm|Modron Duodrone]]
 *Source: Monster Manual (2024) p. 217*  
 
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Duodrones can perform two tasks at once and often oversee monodrone work groups.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Modrons
 
@@ -152,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

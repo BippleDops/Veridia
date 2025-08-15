@@ -1,3 +1,12 @@
+---
+title: Potion of Vitality Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Vitality Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, it removes any [[conditions#Exhaustion|Exhaustion]] levels you have and ends the [[conditions#Poisoned|Poisoned]] condition on you. For the next 24 hours, you regain the maximum number of [[hit-points-xphb|Hit Points]] for any [[hit-points-xphb|Hit Point]] Die you spend.
+When you drink this potion, it removes any [[conditions#Exhaustion|Exhaustion]] levels you have and ends the [[conditions#Poisoned|Poisoned]] condition on you. For the next 24 hours, you regain the maximum number of [[hit points xphb|Hit Points]] for any [[hit points xphb|Hit Point]] Die you spend.
 
 This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ This potion's crimson liquid regularly pulses with dull light, calling to mind a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a portal
@@ -85,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

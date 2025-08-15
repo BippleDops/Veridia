@@ -1,3 +1,12 @@
+---
+title: Dhergoloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dhergoloth Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
 
-# [[dhergoloth-mpmm|Dhergoloth]]
+# [[dhergoloth mpmm|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
 
 > [!quote] A quote from Mordenkainen  
@@ -89,7 +98,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \nAt will: [[darkness-xphb|darkness]], [[fear-xphb|fear]]"
+      \nAt will: [[darkness xphb|darkness]], [[fear xphb|fear]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -97,7 +106,6 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -110,11 +118,6 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -135,7 +138,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

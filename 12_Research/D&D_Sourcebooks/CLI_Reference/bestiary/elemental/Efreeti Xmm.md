@@ -1,3 +1,12 @@
+---
+title: Efreeti Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Efreeti Xmm
 
 ---
@@ -30,9 +39,8 @@ updated: '2025-08-13T12:34:05.746059+00:00'
 world: Both
 ---
 
-# [[efreeti-xmm|Efreeti]]
+# [[efreeti xmm|Efreeti]]
 *Source: Monster Manual (2024) p. 109. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Efreeti
 
@@ -93,13 +96,13 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 "cr": "11"
 "traits":
   - "desc": "If the efreeti dies outside the Elemental Plane of Fire, its body dissolves\
-      \ into ash, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ into ash, and it gains a new body in d4 days, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere on the Plane of Fire."
     "name": "Elemental Restoration"
-  - "desc": "The efreeti has [[advantage-xphb|Advantage]]\
+  - "desc": "The efreeti has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The efreeti has a 30 percent chance of knowing the [[wish-xphb|Wish]]\
+  - "desc": "The efreeti has a 30 percent chance of knowing the [[wish xphb|Wish]]\
       \ spell. If the efreeti knows it, the efreeti can cast it only on behalf of\
       \ a non-genie creature who communicates a wish in a way the efreeti can understand.\
       \ If the efreeti casts the spell for the creature, the efreeti suffers none\
@@ -117,11 +120,11 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
     "name": "Hurl Flame"
   - "desc": "The efreeti casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[elementalism-xphb|Elementalism]]\n\n1/day each:\
-      \ [[gaseous-form-xphb|Gaseous Form]], [[invisibility-xphb|Invisibility]],\
-      \ [[major-image-xphb|Major Image]], [[plane-shift-xphb|Plane Shift]],\
-      \ [[tongues-xphb|Tongues]], [[wall-of-fire-xphb|Wall of Fire]]\
+      \nAt will: [[detect magic xphb|Detect Magic]],\
+      \ [[elementalism xphb|Elementalism]]\n\n1/day each:\
+      \ [[gaseous form xphb|Gaseous Form]], [[invisibility xphb|Invisibility]],\
+      \ [[major image xphb|Major Image]], [[plane shift xphb|Plane Shift]],\
+      \ [[tongues xphb|Tongues]], [[wall of fire xphb|Wall of Fire]]\
       \ (level 7 version)"
     "name": "Spellcasting"
 "source":
@@ -150,11 +153,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -164,7 +165,6 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

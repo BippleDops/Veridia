@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,8 +55,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
@@ -68,7 +62,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
@@ -78,7 +71,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
@@ -87,13 +79,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -109,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Historical Timeline
 

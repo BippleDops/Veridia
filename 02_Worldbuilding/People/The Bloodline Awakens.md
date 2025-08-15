@@ -38,17 +38,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg]]
 
 # The Bloodline Awakens
 *When Ancient Heritage Stirs to Life*
 
 > *"The blood remembers what the mind forgets. In the depths where pressure crushes hope and darkness devours light, the old powers stir. Children of forgotten lineages suddenly manifest abilities their ancestors wielded in ages past. But power without understanding is a curse that transforms blessing into nightmare."*
 > — Archives of the [[Archivist Mnemonic the Forgotten]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,12 +73,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -92,7 +85,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
@@ -101,18 +93,14 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -858,11 +846,9 @@ Legends speak of The Bloodline Awakens as a nexus where past and present converg
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Cultural Practices
 

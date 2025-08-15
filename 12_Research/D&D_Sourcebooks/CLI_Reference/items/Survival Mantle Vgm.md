@@ -1,3 +1,12 @@
+---
+title: Survival Mantle Vgm
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Survival Mantle Vgm
 
 ---
@@ -36,10 +45,9 @@ world: Both
 
 This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
 
-A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [[cloudkill-xphb|cloudkill]] spell, a [[stinking-cloud-xphb|stinking cloud]] spell, inhaled poisons, and the breath weapons of some dragons).
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [[cloudkill xphb|cloudkill]] spell, a [[stinking cloud xphb|stinking cloud]] spell, inhaled poisons, and the breath weapons of some dragons).
 
 *Source: Volo's Guide to Monsters p. 81*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ A creature wearing a survival mantle can breathe normally in any environment (in
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -91,7 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

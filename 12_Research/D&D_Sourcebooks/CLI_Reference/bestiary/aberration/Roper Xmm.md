@@ -1,3 +1,12 @@
+---
+title: Roper Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Roper Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-roper-xmm-roper-xmm.svg)
 
-# [[roper-xmm|Roper]]
+# [[roper xmm|Roper]]
 *Source: Monster Manual (2024) p. 262. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Roper
 
@@ -71,7 +74,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [[wild-magic-zone-xdmg|Wild Magic zones]]. |
+| 3 | "dead magic zone" or [[wild magic zone xdmg|Wild Magic zones]]. |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |
@@ -121,7 +124,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
       \ condition (escape DC 14) from one of six tentacles, and the target has the\
       \ [[conditions#Poisoned|Poisoned]] condition until the grapple\
       \ ends.\n\nThe tentacle can be damaged, freeing a creature it has [[conditions#Grappled|Grappled]]\
-      \ when destroyed (AC 20, HP 10, [[immunity-xphb|Immunity]]\
+      \ when destroyed (AC 20, HP 10, [[immunity xphb|Immunity]]\
       \ to Poison and Psychic damage). Damaging the tentacle deals no damage to the\
       \ roper, and a destroyed tentacle regrows at the start of the roper's next turn."
     "name": "Tentacle"
@@ -154,14 +157,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

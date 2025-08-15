@@ -1,3 +1,12 @@
+---
+title: Berbalang Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Berbalang Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-berbalang-mpmm-berbalang-mpmm.svg)
 
-# [[berbalang-mpmm|Berbalang]]
+# [[berbalang mpmm|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  
 
 Berbalangs creep across the [[conditions#Petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -84,8 +93,8 @@ The knowledge that berbalangs accumulate makes them great sources of information
     "name": "Claw"
   - "desc": "The berbalang casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
-      \ [[speak-with-dead-xphb|speak with dead]]\n\n1/day:\
-      \ [[plane-shift-xphb|plane shift]] (self only)"
+      \ [[speak with dead xphb|speak with dead]]\n\n1/day:\
+      \ [[plane shift xphb|plane shift]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The berbalang creates one spectral duplicate of itself in an unoccupied\
@@ -104,7 +113,6 @@ The knowledge that berbalangs accumulate makes them great sources of information
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -116,11 +124,6 @@ The knowledge that berbalangs accumulate makes them great sources of information
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -141,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

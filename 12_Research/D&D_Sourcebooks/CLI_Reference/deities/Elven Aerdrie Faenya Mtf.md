@@ -1,3 +1,12 @@
+---
+title: Elven Aerdrie Faenya Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Aerdrie Faenya Mtf
 
 ---
@@ -34,7 +43,6 @@ world: Both
 - **Province**: Air, rain, fertility, birth
 - **Symbol**: Bird silhouetted against a cloud
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

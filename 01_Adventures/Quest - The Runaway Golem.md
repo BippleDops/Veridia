@@ -1,3 +1,12 @@
+---
+title: Quest - The Runaway Golem
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Runaway Golem
 
 ---
@@ -26,12 +35,10 @@ cr: '5'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg]]
 
 # Quest - The Runaway Golem
 
 **Level:** 4-6 | **Type:** Chase/Investigation | **Duration:** 2-3 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +51,6 @@ cr: '5'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Artificer Master Elena Gearwright's prized creation, a sentient stone golem named "Faithful," has disappeared from her workshop. The construct was her life's work, designed with experimental consciousness magic. She fears it may be confused, dangerous, or stolen by rivals.
@@ -91,7 +93,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Staff of Withering Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Withering Xdmg
 
 ---
@@ -31,15 +40,14 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 3 charges and regains `d3` expended charges daily at dawn.
 
-The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff , and you can expend 1 charge to deal an extra `2d10` Necrotic damage to the target and force it to make a DC 15 Constitution saving throw. On a failed save, the target has [[disadvantage-xphb|Disadvantage]] for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff , and you can expend 1 charge to deal an extra `2d10` Necrotic damage to the target and force it to make a DC 15 Constitution saving throw. On a failed save, the target has [[disadvantage xphb|Disadvantage]] for 1 hour on any ability check or saving throw that uses Strength or Constitution.
 
 *Source: Dungeon Master's Guide (2024) p. 312. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 

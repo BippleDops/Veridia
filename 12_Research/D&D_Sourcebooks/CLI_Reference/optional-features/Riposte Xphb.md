@@ -1,3 +1,12 @@
+---
+title: Riposte Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Riposte Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Riposte
 *Source: Player's Handbook (2024) p. 95*  
 
-When a creature misses you with a melee attack roll, you can take a [[reaction-xphb|Reaction]] and expend one Superiority Die to make a melee attack roll with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]] against the creature. If you hit, add the Superiority Die to the attack's damage.
-
+When a creature misses you with a melee attack roll, you can take a [[reaction xphb|Reaction]] and expend one Superiority Die to make a melee attack roll with a weapon or an [[unarmed strike xphb|Unarmed Strike]] against the creature. If you hit, add the Superiority Die to the attack's damage.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When a creature misses you with a melee attack roll, you can take a [[reaction-x
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -82,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,20 +46,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -72,7 +62,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
@@ -81,7 +70,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -192,8 +180,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg]] (colleague)
-- [[God-King Aetheron]] (enemy)
-- [[Master_Artificer_Coral_Gemwright]] (friend)
+- [[God King Aetheron]] (enemy)
+- [[Master Artificer Coral Gemwright]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -201,13 +189,11 @@ This NPC can serve multiple roles:
 
 Member of House Dragonblood - Trait: magical affinity
 
-
 ## Relationships
 
 - **Victim**: [[Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg]]
 - **Lover**: [[Portrait NPC the Waking Prophets V2 the Waking Prophets.svg]]
 - **Victim**: [[Director of Experimental Procedures Dr. Siren Voidtouch]]
-
 
 ## Historical Timeline
 
@@ -226,7 +212,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -238,7 +223,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

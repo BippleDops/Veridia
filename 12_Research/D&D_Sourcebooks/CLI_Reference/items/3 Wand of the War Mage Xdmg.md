@@ -1,3 +1,12 @@
+---
+title: 3 Wand of the War Mage Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Wand of the War Mage Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore [[cover-xphb|Half Cover]] when making a spell attack roll.
+While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore [[cover xphb|Half Cover]] when making a spell attack roll.
 
 *Source: Dungeon Master's Guide (2024) p. 322. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ While holding this wand, you gain a +3 bonus to spell attack rolls. In addition,
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,16 +73,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -90,7 +90,6 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-marcus-evenscale-marcus-evenscale.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,22 +52,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
@@ -81,7 +72,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
@@ -90,8 +80,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -139,17 +127,13 @@ Ongoing situations affecting Marcus Evenscale:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 
@@ -173,7 +157,6 @@ Key stop on textiles trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

@@ -28,12 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Face the Ancient Threat
-
-![[04_Resources/Assets/Art/Lore/Face_the_Ancient_Threat.png|Face the Ancient Threat Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,24 +61,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -97,7 +85,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Summary
 
@@ -123,8 +110,6 @@ Face the Ancient Threat represents an important aspect of the world's history, c
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Economic Structure
 
 ### Currency
@@ -143,7 +128,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -155,7 +139,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

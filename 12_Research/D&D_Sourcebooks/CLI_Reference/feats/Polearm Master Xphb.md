@@ -1,3 +1,12 @@
+---
+title: Polearm Master Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Polearm Master Xphb
 
 ---
@@ -32,10 +41,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity or Strength by 1, to a maximum of 20.
 
-**Pole Strike.** Immediately after you take the [[actions#Attack|Attack]] action and attack with a [[quarterstaff-xphb|Quarterstaff]], a [[spear-xphb|Spear]], or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a `d4`.
+**Pole Strike.** Immediately after you take the [[actions#Attack|Attack]] action and attack with a [[quarterstaff xphb|Quarterstaff]], a [[spear xphb|Spear]], or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a `d4`.
 
-**Reactive Strike.** While you're holding a [[quarterstaff-xphb|Quarterstaff]], a [[spear-xphb|Spear]], or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
-
+**Reactive Strike.** While you're holding a [[quarterstaff xphb|Quarterstaff]], a [[spear xphb|Spear]], or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You gain the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

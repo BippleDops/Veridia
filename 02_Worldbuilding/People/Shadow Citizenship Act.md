@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg]]
 
 # Shadow Citizenship Act
 
 *"Even those who walk in darkness deserve the light of citizenship." - Councillor Elena Voidwhisper*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,16 +73,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -100,7 +93,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
@@ -109,8 +101,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 The Shadow Citizenship Act is controversial legislation proposing to grant full citizenship rights to shadow-touched beings, reformed criminals, and other marginalized groups currently existing on society's periphery. The act has created deep divisions within Aquabyssos politics.
@@ -270,11 +260,9 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 iched: true -->
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Cultural Practices
 

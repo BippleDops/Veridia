@@ -1,3 +1,12 @@
+---
+title: Gibbering Mouther Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gibbering Mouther Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gibbering-mouther-xmm-gibbering-mouther-xmm.svg)
 
-# [[gibbering-mouther-xmm|Gibbering Mouther]]
+# [[gibbering mouther xmm|Gibbering Mouther]]
 *Source: Monster Manual (2024) p. 133. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gibbering Mouther
 
@@ -102,14 +105,14 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ground in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the mouther is [[difficult-terrain-xphb|Difficult Terrain]]."
+  - "desc": "The ground in a 10-foot [[emanation area of effect xphb|Emanation]]\
+      \ originating from the mouther is [[difficult terrain xphb|Difficult Terrain]]."
     "name": "Aberrant Ground"
   - "desc": "The mouther babbles incoherently while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. Wisdom Saving Throw: DC 10, any creature that starts its turn\
       \ within 20 feet of the mouther while it is babbling. Failure: The target\
       \ rolls d8 to determine what it does during the current turn:\n\n- 1-4.\
-      \ The target does nothing.  \n- 5-6. The target takes no action or [[bonus-action-xphb|Bonus\]]
+      \ The target does nothing.  \n- 5-6. The target takes no action or [[bonus action xphb|Bonus\]]
       \ Action]] and uses all\
       \ its movement to move in a random direction.  \n- 7-8. The target makes\
       \ a melee attack against a randomly determined creature within its reach or\
@@ -118,11 +121,11 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 "actions":
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6) Piercing damage.\
       \ If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
-      \ condition. The target dies if it is reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ condition. The target dies if it is reduced to 0 [[hit points xphb|Hit Points]]\
       \ by this attack. Its body is then absorbed into the mouther, leaving only equipment\
       \ behind."
     "name": "Bite"
-  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius [[sphere area of effect xphb|Sphere]]\
       \ centered on a point within 30 feet. Failure: 7 (2d6) Radiant damage, and\
       \ the target has the [[conditions#Blinded|Blinded]] condition\
       \ until the end of the mouther's next turn."
@@ -153,11 +156,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

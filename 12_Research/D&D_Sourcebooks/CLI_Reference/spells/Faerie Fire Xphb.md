@@ -1,3 +1,12 @@
+---
+title: Faerie Fire Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faerie Fire Xphb
 
 ---
@@ -42,12 +51,11 @@ world: Both
 
 Objects in a 20-foot [[cube-area-of-effect-xphb|Cube]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[cube-area-of-effect-xphb|Cube]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
-[[actions#Attack|Attack]] rolls against an affected creature or object have [[advantage-xphb|Advantage]] if the attacker can see it.
+[[actions#Attack|Attack]] rolls against an affected creature or object have [[advantage xphb|Advantage]] if the attacker can see it.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 271. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ Objects in a 20-foot [[cube-area-of-effect-xphb|Cube]] within range are outlined
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

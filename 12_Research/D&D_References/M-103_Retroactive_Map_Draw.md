@@ -1,3 +1,12 @@
+---
+title: M-103_Retroactive_Map_Draw
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # M-103_Retroactive_Map_Draw
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T01:18:31.132678+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Read-Aloud
 > Ink crawls across the chart on its own, sketching the path you just took—or will take.
@@ -56,7 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

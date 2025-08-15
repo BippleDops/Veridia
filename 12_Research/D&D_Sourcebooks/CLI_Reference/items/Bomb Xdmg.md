@@ -1,3 +1,12 @@
+---
+title: Bomb Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bomb Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 100 gp
 - **Weight**: 1.0 lbs.
 
-As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere area of effect xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ As an action, you can light a Bomb and throw it at a point up to 60 feet away, w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -91,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

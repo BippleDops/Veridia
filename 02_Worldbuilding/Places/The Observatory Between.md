@@ -28,8 +28,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-structure-observatory-between-observatory-between.svg)
 
@@ -37,7 +35,6 @@ improvements: 20
 *Where Two Worlds Meet in Glass and Time*
 
 > *"Here, the drowning and the floating dance together, and neither can tell which is the dream."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +63,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
@@ -95,7 +87,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
@@ -104,7 +95,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -309,9 +299,9 @@ Multiple contingency plans for different types of reality failure, each requirin
 
 ## References
 
-- [[02_Worldbuilding/People/The Keeper of Between|02 Worldbuilding/People/The Keeper Of Between]] - Facility administrator
-- [[02_Worldbuilding/Groups/The Reunification Coalition|02 Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
-- [[02_Worldbuilding/Groups/The Preservation Protocol|02 Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
+- [[02 Worldbuilding/People/The Keeper of Between|02 Worldbuilding/People/The Keeper Of Between]] - Facility administrator
+- [[02 Worldbuilding/Groups/The Reunification Coalition|02 Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
+- [[02 Worldbuilding/Groups/The Preservation Protocol|02 Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
 - [[Master Index]] - General world information
 
 ---
@@ -363,11 +353,9 @@ Ongoing situations affecting The Observatory Between:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

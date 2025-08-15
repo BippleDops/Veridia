@@ -37,15 +37,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
 
 # The Seven Shards Mystery
 
 *"Seven fragments of impossible beauty, each containing power beyond measure. But power for what purpose, and why were they scattered across the realms?"*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,18 +74,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -103,13 +94,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -258,8 +246,6 @@ Ongoing situations affecting The Seven Shards Mystery:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## A Day in the Life
 

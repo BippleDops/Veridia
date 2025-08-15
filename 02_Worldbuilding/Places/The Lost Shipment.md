@@ -37,12 +37,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Lost Shipment
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Lost_Shipment.png|The Lost Shipment Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,10 +66,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
@@ -83,11 +74,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -105,8 +94,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -161,12 +148,9 @@ Ongoing situations affecting The Lost Shipment:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 
@@ -185,7 +169,6 @@ Key stop on textiles trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

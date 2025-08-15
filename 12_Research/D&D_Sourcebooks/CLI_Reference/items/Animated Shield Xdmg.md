@@ -1,3 +1,12 @@
+---
+title: Animated Shield Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animated Shield Xdmg
 
 ---
@@ -25,16 +34,15 @@ world: Both
 ---
 
 # Animated Shield
-*Armor ([[shield-xphb|shield]]), very rare (requires attunement)*  
+*Armor ([[shield xphb|shield]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/animated-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you can take a [[bonus-action-xphb|Bonus Action]] to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a [[bonus-action-xphb|Bonus Action]] to end this effect, or until you die or have the [[conditions#Incapacitated|Incapacitated]] condition, at which point the Shield falls to the ground or into your hand if you have one free.
+While holding this Shield, you can take a [[bonus action xphb|Bonus Action]] to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a [[bonus action xphb|Bonus Action]] to end this effect, or until you die or have the [[conditions#Incapacitated|Incapacitated]] condition, at which point the Shield falls to the ground or into your hand if you have one free.
 
 *Source: Dungeon Master's Guide (2024) p. 229. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ While holding this Shield, you can take a [[bonus-action-xphb|Bonus Action]] to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Related Notes
 
@@ -81,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

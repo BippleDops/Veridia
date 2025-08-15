@@ -1,3 +1,12 @@
+---
+title: 3 Weapon Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Weapon Xdmg
 
 ---
@@ -140,11 +149,10 @@ You have a +3 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -157,11 +165,6 @@ You have a +3 bonus to attack and damage rolls made with this magic weapon.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -179,7 +182,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing an heir for power
@@ -193,7 +195,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

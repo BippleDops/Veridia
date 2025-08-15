@@ -14,9 +14,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,14 +37,9 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Abuse_Prevention Improvements
@@ -61,7 +53,6 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Session_Zero Improvements
 
@@ -69,7 +60,6 @@ improvements: 20
 
 ### Simplified Improvements
 
-- Create simplified version for new players
 - Create simplified version for new players
 
 ### Heroic Improvements
@@ -79,7 +69,6 @@ improvements: 20
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-
 
 ## Mechanic Overview
 
@@ -252,7 +241,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the government
@@ -269,7 +257,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Quick Reference
 

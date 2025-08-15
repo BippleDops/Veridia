@@ -1,3 +1,12 @@
+---
+title: Underwater Encounters Levels 510 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Underwater Encounters Levels 510 Xge
 
 ---
@@ -31,31 +40,30 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `3d6` [[steam-mephit-xmm|steam mephits]] |
-| 03-04 | `d10` [[sahuagin-warrior-xmm|sahuagin]] |
-| 05-06 | 1 [[giant-octopus-xmm|giant octopus]] |
-| 07-08 | `3d6` [[constrictor-snake-xmm|constrictor snakes]] |
-| 09-10 | `2d10` [[merfolk-skirmisher-xmm|merfolk]] with `d4` [[giant-seahorse-xmm|giant sea horses]] |
-| 11-15 | `d4` [[sea-hag-xmm|sea hags]] |
-| 16-20 | `2d4` [[swarm-of-piranhas-xmm|swarms of quippers]] |
+| 01-02 | `3d6` [[steam mephit xmm|steam mephits]] |
+| 03-04 | `d10` [[sahuagin warrior xmm|sahuagin]] |
+| 05-06 | 1 [[giant octopus xmm|giant octopus]] |
+| 07-08 | `3d6` [[constrictor snake xmm|constrictor snakes]] |
+| 09-10 | `2d10` [[merfolk skirmisher xmm|merfolk]] with `d4` [[giant seahorse xmm|giant sea horses]] |
+| 11-15 | `d4` [[sea hag xmm|sea hags]] |
+| 16-20 | `2d4` [[swarm of piranhas xmm|swarms of quippers]] |
 | 21-25 | A sunken galleon with a 50% chance of a random treasure hoard inside (roll on the Treasure Hoard: Challenge 5-10 table in chapter 7 of the *Dungeon Master's Guide*) |
-| 26-30 | `d4` [[plesiosaurus-xmm|plesiosauruses]] |
-| 31-35 | `3d6` [[reef-shark-xmm|reef sharks]] |
+| 26-30 | `d4` [[plesiosaurus xmm|plesiosauruses]] |
+| 31-35 | `3d6` [[reef shark xmm|reef sharks]] |
 | 36-40 | An abandoned bathysphere |
-| 41-50 | `d4` [[giant-constrictor-snake-xmm|giant constrictor snakes]] |
-| 51-55 | `2d4` [[hunter-shark-xmm|hunter sharks]] |
-| 56-60 | `d3` [[sahuagin-priest-xmm|sahuagin priestesses]] with `2d10` [[sahuagin-warrior-xmm|sahuagin]] |
+| 41-50 | `d4` [[giant constrictor snake xmm|giant constrictor snakes]] |
+| 51-55 | `2d4` [[hunter shark xmm|hunter sharks]] |
+| 56-60 | `d3` [[sahuagin priest xmm|sahuagin priestesses]] with `2d10` [[sahuagin warrior xmm|sahuagin]] |
 | 61-65 | An empty castle made from coral |
-| 66-70 | `d4` [[killer-whale-xmm|killer whales]] |
-| 71-75 | `d10` [[merrow-xmm|merrow]] |
+| 66-70 | `d4` [[killer whale xmm|killer whales]] |
+| 71-75 | `d10` [[merrow xmm|merrow]] |
 | 76-80 | An eerie statue of a squatting humanoid, with bat wings on its back and tentacles sprouting from its face |
-| 81-85 | `d4` [[water-elemental-xmm|water elementals]] |
-| 86-90 | 1 [[sahuagin-baron-xmm|sahuagin baron]] with `2d8` [[sahuagin-warrior-xmm|sahuagin]] |
-| 91-96 | `d4` [[giant-shark-xmm|giant sharks]] |
-| 97-99 | 1 [[marid-xmm|marid]] |
-| 00 | 1 [[storm-giant-xmm|storm giant]] |
+| 81-85 | `d4` [[water elemental xmm|water elementals]] |
+| 86-90 | 1 [[sahuagin baron xmm|sahuagin baron]] with `2d8` [[sahuagin warrior xmm|sahuagin]] |
+| 91-96 | `d4` [[giant shark xmm|giant sharks]] |
+| 97-99 | 1 [[marid xmm|marid]] |
+| 00 | 1 [[storm giant xmm|storm giant]] |
 ^underwater-encounters-levels-510
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,11 +93,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -109,11 +110,9 @@ Mentioned in The Second Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

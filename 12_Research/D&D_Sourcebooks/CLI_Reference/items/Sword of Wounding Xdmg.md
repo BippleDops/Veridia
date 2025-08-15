@@ -1,3 +1,12 @@
+---
+title: Sword of Wounding Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sword of Wounding Xdmg
 
 ---
@@ -36,7 +45,7 @@ world: Both
 # Sword of Wounding
 *Rare (requires attunement)*  
 
-When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit-points-xphb|Hit Points]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit points xphb|Hit Points]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 **Variants**:
 - [Glaive of Wounding](#Glaive%20of%20Wounding)
@@ -49,11 +58,10 @@ When you hit a creature with an attack using this magic weapon, the target takes
 ### Shortsword of Wounding
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 314. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,11 +74,6 @@ When you hit a creature with an attack using this magic weapon, the target takes
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

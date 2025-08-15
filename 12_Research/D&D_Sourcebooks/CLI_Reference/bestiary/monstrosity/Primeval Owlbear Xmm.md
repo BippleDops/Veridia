@@ -1,3 +1,12 @@
+---
+title: Primeval Owlbear Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Primeval Owlbear Xmm
 
 ---
@@ -28,11 +37,10 @@ updated: '2025-08-13T12:34:05.366010+00:00'
 world: Both
 ---
 
-# [[primeval-owlbear-xmm|Primeval Owlbear]]
+# [[primeval owlbear xmm|Primeval Owlbear]]
 *Source: Monster Manual (2024) p. 234*  
 
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Ancient forests and Feywild demesnes steeped in magic can give rise to particula
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Owlbears
 
@@ -101,7 +104,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The owlbear has [[advantage-xphb|Advantage]]\
+  - "desc": "The owlbear has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -113,7 +116,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
       \ (2d8) Slashing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Ravage"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the owlbear. Failure: 27 (6d8) Thunder damage, and the\
       \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. Success: Half damage only."
@@ -144,11 +147,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -162,11 +163,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

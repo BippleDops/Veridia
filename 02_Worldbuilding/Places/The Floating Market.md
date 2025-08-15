@@ -32,14 +32,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-floating-market-the-floating-market.svg]]
 
 # The Floating Market
 *The Nexus of Worlds, Where All Realities Meet*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,9 +64,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
@@ -79,12 +72,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -102,8 +92,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 The Floating Market exists in a carefully maintained dimensional pocket that touches both [[Aethermoor]] and [[Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
@@ -176,7 +164,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Reputation**: Honest dealing, fair prices, extensive network
 
 #### The Exotic Bazaar
-*Merchant Prince: [[Zara al-Zahir]] - Djinn-touched Trader*
+*Merchant Prince: [[Zara al Zahir]] - Djinn-touched Trader*
 - **Specialty**: Rare goods from across multiple dimensions
 - **Weekly Auctions**: High-value items, starting bids 1,000+ gp
 - **Current Inventory**:
@@ -547,7 +535,7 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 - Portal energy regeneration period
 
 ### Dimensional Mechanics
-The market maintains its neutral status through a complex system of dimensional anchors powered by [[The Great Crystal-Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
+The market maintains its neutral status through a complex system of dimensional anchors powered by [[The Great Crystal Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
 
 ### Plot Hooks
 1. **The Diplomatic Crisis**: Mediate dispute threatening Market's neutral status
@@ -605,8 +593,6 @@ Ongoing situations affecting The Floating Market:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Economic Structure
 

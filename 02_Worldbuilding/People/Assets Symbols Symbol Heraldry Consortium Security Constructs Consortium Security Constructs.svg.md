@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,24 +47,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Basic Information
 
@@ -197,7 +186,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]] (friend)
 - [[04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg]] (friend)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L-03_Deep_Mother_Dream_Tide]] (ally)
+- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -212,7 +201,6 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

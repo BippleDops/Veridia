@@ -1,5 +1,4 @@
 ---
-
 title: Infected NPC Database
 type: npc
 tags:
@@ -18,180 +17,43 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+# Infected NPC Database
 
+## Overview
+Infected NPC Database is a notable figure in the realm, known for their unique skills and complex motivations.
 
+## Appearance
+- **Age**: Middle-aged
+- **Build**: Average height, lean build
+- **Distinguishing Features**: Keen eyes that miss nothing
+- **Typical Attire**: Practical clothing suited for their profession
 
-## 🔧 Deep Evaluation Improvements
+## Personality
+- **Traits**: Observant, calculating, pragmatic
+- **Ideals**: Knowledge is power, loyalty must be earned
+- **Bonds**: Connected to several influential organizations
+- **Flaws**: Tendency to overthink situations
 
-*20 targeted improvements identified*
+## Background
+Born into modest circumstances, Infected NPC Database rose through dedication and cunning to their current position.
 
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
-### Diaspora Improvements
-
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
-
-## Physical Description
-Infected NPC Database is a short elf with piercing green eyes and short brown hair. Their youthful features speak to a life of study.
-
-### Early Life
-Born in a small farming village, Infected NPC Database showed early signs of exceptional talent. Their childhood was marked by adventure, which shaped their worldview significantly.
-
-### Formative Years
-During their youth, Infected NPC Database trained under a master. A defining moment came when they made a terrible mistake.
-
-### Recent History
-In recent years, Infected NPC Database has been involved in political intrigue. Their actions during the Last War earned them fame.
-
-### Present Location
-Currently operating out of [[The Gilded Dragon Inn]], where they lay low from enemies.
-
-### Ongoing Projects
-1. Building a power base
-2. Protecting a valuable secret
-3. Accumulating resources
-
-### Deep Secrets
-*For DM Only:* Infected NPC Database is actually the lost heir to the throne.
-
-### Personal Quests
-1. **The Past Returns**: Someone from Infected NPC Database's past arrives with news that changes everything
-2. **The Debt**: An old obligation must be fulfilled, requiring the party's assistance
-3. **The Discovery**: Infected NPC Database has uncovered something that could shift the balance of power
-4. **The Betrayal**: Evidence suggests Infected NPC Database has been betrayed by someone close
-5. **The Choice**: Infected NPC Database must decide between two equally important obligations
-
-### Legendary Actions
-(If appropriate for CR)
-
-### Quotes
-> "Truth is a luxury few can afford"
-
-> "The gods play games with mortal lives"
-
-### Theme Song
-*Heroic fanfare that captures their essence*
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
+## Abilities
+- **Skills**: Investigation, Persuasion, Insight
+- **Special Abilities**: Keen tactical mind
+- **Equipment**: Various tools of their trade
 
 ## Relationships
+- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **Rivals**: [[Shadow Conspiracy]]
+- **Contacts**: Network of informants throughout the city
 
-- **Child**: [[Lord Commander Gareth]]
-- **Ally**: [[The Dimensional Adaptation Recovery of Captain Pressure Storm]]
-- **Sibling**: [[Sister Thalassa the Depth-Touched]]
-- **Creditor**: [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg]]
-- **Creditor**: [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg]]
-
+## Current Activities
+Actively involved in current events, pursuing their own agenda while maintaining public appearances.
 
 ## Plot Hooks
+1. Seeks adventurers for a delicate mission
+2. Has information about a mystery the party is investigating
+3. May become an ally or adversary based on party actions
 
-- Strange dreams suggest a portal
-- Someone is blackmailing a artifact for revenge
-
-## Historical Timeline
-
-### The Age of Founding (1000 years ago)
-- The First Settlement
-- Discovery of magical crystals
-- War with indigenous peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current power structures established
-
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
+## DM Notes
+*This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*

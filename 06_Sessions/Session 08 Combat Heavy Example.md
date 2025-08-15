@@ -1,3 +1,12 @@
+---
+title: Session 08 Combat Heavy Example
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_08_Combat_Heavy_Example
 
 ---
@@ -146,7 +155,6 @@ Shadow Conspiracy forces launched a coordinated assault on Meridian Junction to 
 
 *This session shows how extended combat can remain engaging through environmental variety, tactical challenges, and character development opportunities.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -158,11 +166,6 @@ Shadow Conspiracy forces launched a coordinated assault on Meridian Junction to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -176,11 +179,9 @@ Shadow Conspiracy forces launched a coordinated assault on Meridian Junction to 
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 

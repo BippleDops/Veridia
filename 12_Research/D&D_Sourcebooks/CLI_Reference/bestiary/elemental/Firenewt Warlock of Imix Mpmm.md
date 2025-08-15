@@ -1,3 +1,12 @@
+---
+title: Firenewt Warlock of Imix Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Firenewt Warlock of Imix Mpmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warlock-of-imix-mpmm-firenewt-warlock-of-imix-mpmm.svg)
 
-# [[firenewt-warlock-of-imix-mpmm|Firenewt Warlock of Imix]]
+# [[firenewt warlock of imix mpmm|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Firenewts
 
@@ -98,9 +101,9 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance-xphb|guidance]],\
-      \ [[light-xphb|light]], [[mage-armor-xphb|mage armor]],\
-      \ [[mage-hand-xphb|mage hand]], [[prestidigitation-xphb|prestidigitation]]"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance xphb|guidance]],\
+      \ [[light xphb|light]], [[mage armor xphb|mage armor]],\
+      \ [[mage hand xphb|mage hand]], [[prestidigitation xphb|prestidigitation]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -129,7 +132,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -142,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

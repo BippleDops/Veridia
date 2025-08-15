@@ -1,3 +1,12 @@
+---
+title: Shadow Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Dragon Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
-# [[shadow-dragon-xmm|Shadow Dragon]]
+# [[shadow dragon xmm|Shadow Dragon]]
 *Source: Monster Manual (2024) p. 275*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Shadow Dragons
 
@@ -107,12 +110,12 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "traits":
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the dragon\
-      \ has [[resistance-xphb|Resistance]] to damage\
+  - "desc": "While in [[dim light xphb|Dim Light]]\
+      \ or [[darkness xphb|Darkness]], the dragon\
+      \ has [[resistance xphb|Resistance]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
-  - "desc": "While in sunlight, the dragon has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the dragon has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -121,19 +124,19 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
       \ plus 3 (d6) Necrotic damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 35 (10d6) Necrotic damage. Success: Half damage. Failure or\
-      \ Success: A Humanoid reduced to 0 [[hit-points-xphb|Hit Points]]\
-      \ by this damage dies, and a [[shadow-xmm|Shadow]]\
+      \ Success: A Humanoid reduced to 0 [[hit points xphb|Hit Points]]\
+      \ by this damage dies, and a [[shadow xmm|Shadow]]\
       \ rises from the corpse. The shadow is under the dragon's control and shares\
-      \ the dragon's [[initiative-xphb|Initiative]]\
+      \ the dragon's [[initiative xphb|Initiative]]\
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "legendary_actions":
-  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "The dragon uses Shadow Stealth, and one creature of its choice that it\
@@ -145,12 +148,12 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
       \ creating the following effects:"
     "name": ""
   - "desc": "- Negative Energy Suffusion. Whenever a creature within 1 mile of\
-      \ the lair regains [[hit-points-xphb|Hit Points]]\
-      \ from a spell, it subtracts d10 from the number of [[hit-points-xphb|Hit Points]]\
+      \ the lair regains [[hit points xphb|Hit Points]]\
+      \ from a spell, it subtracts d10 from the number of [[hit points xphb|Hit Points]]\
       \ regained.  \n- Stifling Shadows. Within 1 mile of the lair, effects that\
-      \ normally create [[bright-light-xphb|Bright Light]]\
-      \ instead create [[dim-light-xphb|Dim Light]],\
-      \ and creatures there have [[advantage-xphb|Advantage]]\
+      \ normally create [[bright light xphb|Bright Light]]\
+      \ instead create [[dim light xphb|Dim Light]],\
+      \ and creatures there have [[advantage xphb|Advantage]]\
       \ on Dexterity ([[skills#Stealth|Stealth]]) checks.  "
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
 "source":
@@ -179,16 +182,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

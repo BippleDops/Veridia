@@ -1,3 +1,12 @@
+---
+title: Dwarven Thrower Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Thrower Xdmg
 
 ---
@@ -25,20 +34,19 @@ world: Both
 ---
 
 # Dwarven Thrower
-*Weapon ([[warhammer-xphb|warhammer]]), very rare (requires attunement by a dwarf)*  
+*Weapon ([[warhammer xphb|warhammer]]), very rare (requires attunement by a dwarf)*  
 ![](/03_Mechanics/CLI/items/img/dwarven-thrower.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has [[item-properties#Thrown|Thrown]] with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `d8` Force damage, or an extra `2d8` Force damage if the target is a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has [[item properties#Thrown|Thrown]] with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `d8` Force damage, or an extra `2d8` Force damage if the target is a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
 
 *Source: Dungeon Master's Guide (2024) p. 256. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## 12_Research Specific Content
 

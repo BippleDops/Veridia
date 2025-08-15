@@ -34,9 +34,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -64,8 +61,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
@@ -78,13 +73,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -94,9 +85,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Aquabyssos & Aethermoor: The Convergence Codex
 
@@ -326,7 +314,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: The Forgotten Ones
 **Bloodline Gift**: Perfect memory across timelines
 **Curse**: Everyone forgets them eventually
-**Key NPCs**: [[Jasper Three-Eyes Flint]], [[The Forgotten Representative]]
+**Key NPCs**: [[Jasper Three Eyes Flint]], [[The Forgotten Representative]]
 
 #### House Saltweaver-Tidesinger
 
@@ -342,7 +330,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
+**Key NPCs**: [[Captain Lyanna Brightshield]], [[Dawn Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 
@@ -667,8 +655,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Roleplaying a Yuan Ti Yuan Ti Personality Traits Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm
 
 ---
@@ -40,7 +49,6 @@ world: Both
 | 8 | I await the day when we again conquer lands by force, as we did in the old times. |
 ^yuan-ti-personality-traits
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

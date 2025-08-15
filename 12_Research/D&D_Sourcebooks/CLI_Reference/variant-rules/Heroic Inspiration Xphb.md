@@ -1,3 +1,12 @@
+---
+title: Heroic Inspiration Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Heroic Inspiration Xphb
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Heroic Inspiration
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-If you ([[player-character-xphb|a player character]]) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
+If you ([[player character xphb|a player character]]) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
-If you gain Heroic Inspiration but already have it, it's lost unless you give it to a [[player-character-xphb|player character]] who lacks it.
-
+If you gain Heroic Inspiration but already have it, it's lost unless you give it to a [[player character xphb|player character]] who lacks it.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ If you gain Heroic Inspiration but already have it, it's lost unless you give it
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## 12_Research Specific Content
 

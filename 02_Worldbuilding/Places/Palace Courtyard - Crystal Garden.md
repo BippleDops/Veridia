@@ -24,8 +24,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-palace-courtyard-crystal-garden-palace-courtyard-crystal-garden.svg)
 
@@ -34,7 +32,6 @@ improvements: 20
 
 > *"In these sacred grounds where crystal meets chlorophyll, where ancient magic nurtures new growth, we witness the perfect marriage of natural beauty and supernatural wonder. Every bloom tells a story, every crystal sings a song of harmony between worlds."*
 > — [[Master Gardener Sage Harmony Bloomtender]], Keeper of the Living Crystal
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,14 +60,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -79,8 +71,6 @@ improvements: 20
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -98,7 +88,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -294,12 +283,9 @@ Ongoing situations affecting Palace Courtyard - Crystal Garden:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 

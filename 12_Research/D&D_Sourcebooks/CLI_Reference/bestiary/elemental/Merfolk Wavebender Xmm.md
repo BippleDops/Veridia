@@ -1,3 +1,12 @@
+---
+title: Merfolk Wavebender Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merfolk Wavebender Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-wavebender-xmm-merfolk-wavebender-xmm.svg)
 
-# [[merfolk-wavebender-xmm|Merfolk Wavebender]]
+# [[merfolk wavebender xmm|Merfolk Wavebender]]
 *Source: Monster Manual (2024) p. 209*  
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ These merfolk mages use magic to manipulate water, storms, and sea creatures to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Merfolk
 
@@ -105,9 +108,9 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Aquatic Burst"
   - "desc": "The merfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [[elementalism-xphb|Elementalism]],\
-      \ [[light-xphb|Light]]\n\n1/day each: [[control-water-xphb|Control\]]
-      \ Water]], [[create-or-destroy-water-xphb|Create or Destroy\]]
+      \nAt will: [[elementalism xphb|Elementalism]],\
+      \ [[light xphb|Light]]\n\n1/day each: [[control water xphb|Control\]]
+      \ Water]], [[create or destroy water xphb|Create or Destroy\]]
       \ Water]]"
     "name": "Spellcasting"
 "reactions":
@@ -142,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for power
@@ -155,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

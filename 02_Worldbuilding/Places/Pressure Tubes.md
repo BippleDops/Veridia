@@ -25,17 +25,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-tubes-pressure-tubes.svg]]
 
 # Pressure Tubes
 *The Circulatory System of the Deep Realm*
 
 > *"In the tubes, distance becomes irrelevant and the ocean's vastness collapses into moments. Here, the crushing depths that would destroy surface dwellers become the very force that propels us forward - pressure transformed from obstacle into opportunity."*
 > — [[Chief Engineer Nereus Flowstream]], Master of Tube Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,39 +60,30 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -394,12 +381,9 @@ Ongoing situations affecting Pressure Tubes:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -417,7 +401,6 @@ Mentioned in The First Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

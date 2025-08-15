@@ -39,14 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg]]
 
 # Prince Caspian Duskwater
 *The Exiled Heir, The Forgotten Prince*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,8 +71,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
@@ -85,12 +79,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -104,7 +95,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
@@ -113,7 +103,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, exiled five years ago for attempting to expose the crystal corruption in the royal court. Now he builds an army in exile, claiming to be the rightful ruler of [[Aethermoor]]. Unknown to most, he has made a dark pact for power to reclaim his throne.
@@ -211,11 +200,9 @@ Prince Caspian Duskwater is a undersea element of the setting, known for biolumi
 
 Legends speak of Prince Caspian Duskwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prince Caspian Duskwater.
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: magical affinity
-
 
 ## Cultural Practices
 
@@ -228,7 +215,6 @@ Member of House Lionblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

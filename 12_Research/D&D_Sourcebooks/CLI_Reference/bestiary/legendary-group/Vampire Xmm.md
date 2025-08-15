@@ -1,3 +1,12 @@
+---
+title: Vampire Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vampire Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-vampire-xmm-v1-vampire-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -50,8 +53,8 @@ _Source: Monster Manual (2024)_
 The region containing a vampire's lair is warped by its presence, creating the following effects:
 
 - **Children of the Night.** The vampire exerts influence over the animals in its domain. From dusk until dawn, Medium or smaller Beasts have the [[conditions#Charmed|Charmed]] condition while within 1 mile of the lair.  
-- **Looming Shadows.** Shadows within 1 mile of the lair seem to move as if alive. Any creature (excluding the vampire and its allies) that finishes a [[short-rest-xphb|Short Rest]] while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
-- **Mists.** The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly Obscured]] by a persistent, creeping fog. The vampire and any creatures of its choice are unaffected by the fog.  
+- **Looming Shadows.** Shadows within 1 mile of the lair seem to move as if alive. Any creature (excluding the vampire and its allies) that finishes a [[short rest xphb|Short Rest]] while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
+- **Mists.** The area within 1 mile of the lair is [[lightly obscured xphb|Lightly Obscured]] by a persistent, creeping fog. The vampire and any creatures of its choice are unaffected by the fog.  
 
 If the vampire dies or moves its lair elsewhere, these effects end immediately.
 
@@ -71,10 +74,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- An heirloom has gone missing and truth emerges
 - An heirloom has gone missing and truth emerges
 - Someone is hunting information for love
 - A prisoner has gone missing and chaos spreads
@@ -82,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

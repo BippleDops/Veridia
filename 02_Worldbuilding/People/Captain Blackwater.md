@@ -23,16 +23,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-blackwater-captain-blackwater.svg]]
 
 # Captain Blackwater
 *The Lost Brother, Herald of Crystal Song*
 
 > *"For the Table: Captain Blackwater works best as a tragic mirror to heroic ideals - a warning of what happens when noble intentions meet corrupting power. Use him to challenge players' assumptions about salvation versus corruption."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,35 +61,26 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
@@ -286,16 +273,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## Bloodline
 
 Member of House Wolfblood - Trait: magical affinity
-
 
 ## Relationships
 
@@ -303,7 +287,6 @@ Member of House Wolfblood - Trait: magical affinity
 - **Enemy**: [[Portrait NPC Captain Threshold V2 Captain Threshold.svg]]
 - **Enemy**: [[Portrait NPC Captain Twin Reality Marsh V2 Captain Twin Reality Marsh.svg]]
 - **Debtor**: [[Portrait NPC Shadow Parliament V1 Shadow Parliament.svg]]
-
 
 ## Cultural Practices
 

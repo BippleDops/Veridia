@@ -1,108 +1,47 @@
-# Moonbeam Xphb
-
 ---
 title: Moonbeam Xphb
-aliases:
-- Moonbeam
 type: note
 tags:
-- both
-- mechanics/magic
-- content/lore
-- world/both
-- research
-- active
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of the Moon)
-- Paladin (Oath of the Ancients)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.565640+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Moonbeam
-*2nd-level, Evocation*  
+# Moonbeam Xphb
 
-- **Casting time:** 1 Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a moonseed leaf)
-- **Duration:** Concentration, up to 1 minute
+## Overview
+This document contains important information regarding Moonbeam Xphb and its role within the greater narrative.
 
-A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high [[cylinder-area-of-effect-xphb|Cylinder]] centered on a point within range. Until the spell ends, [[dim-light-xphb|Dim Light]] fills the [[cylinder-area-of-effect-xphb|Cylinder]], and you can take a [[actions#Magic|Magic]] action on later turns to move the [[cylinder-area-of-effect-xphb|Cylinder]] up to 60 feet.
+## Description
+Moonbeam Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-When the [[cylinder-area-of-effect-xphb|Cylinder]] appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes `2d10` Radiant damage, and if the creature is shape-shifted (as a result of the [[polymorph-xphb|Polymorph]] spell, for example), it reverts to its true form and can't shape-shift until it leaves the [[cylinder-area-of-effect-xphb|Cylinder]]. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-**Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 2.
+## Details
+### Background
+Historical context and development over time.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+### Current State
+Present circumstances and ongoing relevance.
 
-*Source: Player's Handbook (2024) p. 300. Available in the SRD and the Free Rules (2024)*
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Moonbeam xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of moonbeam xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around moonbeam xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- The authorities needs help finding before winter
-- A map reveals a betrayal about a local noble
-- A document has gone missing and evil awakens
-- Strange accidents suggest a portal
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

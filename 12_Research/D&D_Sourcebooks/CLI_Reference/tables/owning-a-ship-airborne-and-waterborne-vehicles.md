@@ -1,3 +1,12 @@
+---
+title: owning-a-ship-airborne-and-waterborne-vehicles
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # owning-a-ship-airborne-and-waterborne-vehicles
 
 ---
@@ -37,7 +46,6 @@ world: Both
 | Warship | 25,000 gp | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 |
 ^airborne-and-waterborne-vehicles
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

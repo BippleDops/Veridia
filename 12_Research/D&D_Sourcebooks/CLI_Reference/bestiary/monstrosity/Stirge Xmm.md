@@ -1,3 +1,12 @@
+---
+title: Stirge Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stirge Xmm
 
 ---
@@ -35,11 +44,10 @@ updated: '2025-08-13T12:34:05.323196+00:00'
 world: Both
 ---
 
-# [[stirge-xmm|Stirge]]
+# [[stirge xmm|Stirge]]
 *Source: Monster Manual (2024) p. 299. Available in the SRD and the Free Rules (2024)*  
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ A single stirge is usually little more than an annoyance, but several can be dea
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Stirges
 
@@ -133,11 +136,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -148,11 +149,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

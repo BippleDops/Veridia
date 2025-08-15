@@ -1,3 +1,12 @@
+---
+title: Acid Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Acid Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.
 
-When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency-xphb|Proficiency Bonus]]) or take `2d6` Acid damage.
+When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency xphb|Proficiency Bonus]]) or take `2d6` Acid damage.
 
 *Source: Player's Handbook (2024) p. 222. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When you take the [[actions#Attack|Attack]] action, you can replace one of your 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,18 +74,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals the truth about the government
 - The authorities needs help stealing before the new moon
 - Strange sightings suggest a portal
-- Strange sightings suggest a portal
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

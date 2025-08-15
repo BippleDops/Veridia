@@ -1,3 +1,12 @@
+---
+title: Create New Location
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Create New Location
 
 ---
@@ -28,9 +37,6 @@ accessibility:
 
 # Create New Location
 
-![[04_Resources/Assets/Art/Lore/Create_New_Location.png|Create New Location Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +48,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Create New Location describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -67,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Related Notes
 
@@ -80,16 +79,13 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

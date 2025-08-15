@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Death Domain Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Death Domain Dmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Death Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Dungeon Master's Guide p. 96*  
 
 > [!tldr] Class and Feature Progression
@@ -59,7 +68,7 @@ world: Both
 
 ### Death Domain (Level 3)
 
-The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [[dragonlance-chemosh-phb|Chemosh]], Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([[egyptian-anubis|Anubis]], Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [[dragonlance-morgion-phb|Morgion]]), and the underworld ([[greek-hades|Hades]] and [[norse-hel|Hel]]).
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [[dragonlance chemosh phb|Chemosh]], Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([[egyptian anubis|Anubis]], Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [[dragonlance morgion phb|Morgion]]), and the underworld ([[greek hades|Hades]] and [[norse hel|Hel]]).
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -67,11 +76,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[false-life-xphb|false life]], [[ray-of-sickness-xphb|ray of sickness]] |
-| 3rd | [[blindness-deafness-xphb|blindness/deafness]], [[ray-of-enfeeblement-xphb|ray of enfeeblement]] |
-| 5th | [[animate-dead-xphb|animate dead]], [[vampiric-touch-xphb|vampiric touch]] |
-| 7th | [[blight-xphb|blight]], [[death-ward-xphb|death ward]] |
-| 9th | [[antilife-shell-xphb|antilife shell]], [[cloudkill-xphb|cloudkill]] |
+| 1st | [[false life xphb|false life]], [[ray of sickness xphb|ray of sickness]] |
+| 3rd | [[blindness deafness xphb|blindness/deafness]], [[ray of enfeeblement xphb|ray of enfeeblement]] |
+| 5th | [[animate dead xphb|animate dead]], [[vampiric touch xphb|vampiric touch]] |
+| 7th | [[blight xphb|blight]], [[death ward xphb|death ward]] |
+| 9th | [[antilife shell xphb|antilife shell]], [[cloudkill xphb|cloudkill]] |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -96,7 +105,6 @@ Starting at 6th level, the cleric's ability to channel negative energy becomes m
 
 Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -108,11 +116,6 @@ Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -130,14 +133,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

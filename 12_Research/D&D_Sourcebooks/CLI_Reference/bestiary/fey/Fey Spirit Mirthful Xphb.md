@@ -1,3 +1,12 @@
+---
+title: Fey Spirit Mirthful Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fey Spirit Mirthful Xphb
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:05.553647+00:00'
 world: Both
 ---
 
-# [[fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
+# [[fey spirit mirthful xphb|Fey Spirit (Mirthful)]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -64,7 +73,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -76,11 +84,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -98,10 +101,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- Strange sightings suggest a curse
 - Strange sightings suggest a curse
 - A noble needs help stealing before dawn
 - A document has gone missing and truth emerges

@@ -1,3 +1,12 @@
+---
+title: Party Information
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Party Information
 
 ---
@@ -24,7 +33,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Know your allies, for in the depths, trust flows deeper than blood."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Party Information encompasses the tracking and management of adventuring group dynamics, character relationships, shared resources, and collective reputation throughout both Aquabyssos and Aethermoor. This system goes beyond basic character statistics to include political affiliations, cultural connections, and the complex web of alliances and enemies that develop during inter-realm adventures.
@@ -82,8 +85,6 @@ Legends speak of Party Information as a nexus where past and present converge. L
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## 12_Research Specific Content
 

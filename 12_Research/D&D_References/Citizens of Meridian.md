@@ -1,3 +1,12 @@
+---
+title: Citizens of Meridian
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Citizens of Meridian
 
 ---
@@ -28,7 +37,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"We who dwell between the depths and heights know both the pressure of the deep and the freedom of the sky." - Meridian Citizen's Creed*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Citizens of Meridian represent a unique demographic within Aethermoor society, comprising individuals who live and work in the transitional zones between the surface territories and the deeper regions that interface with Aquabyssos. These citizens have developed distinctive cultural practices, technological adaptations, and social structures that reflect their position as intermediaries between two vastly different worlds. Their daily lives involve constant adaptation to pressure changes, environmental shifts, and the complex diplomatic requirements of inter-realm relations.
@@ -130,8 +133,6 @@ Legends speak of Citizens of Meridian as a nexus where past and present converge
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -145,7 +146,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

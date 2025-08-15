@@ -31,12 +31,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Queen
 
 *Queen Seraphina Lumengarde, the Crystal-Possessed Monarch*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,35 +66,26 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -186,7 +174,7 @@ Many of the queen's closest advisors have also been exposed to crystal possessio
 **Key Court Figures:**
 - **[[Lord Chancellor Prism]]**: The queen's chief advisor, fully possessed and serving as the Sage's primary lieutet
 - **[[High Crystallographer Magnus]]**: Royal mage attempting to find a cure for the possession
-- **[[02_Worldbuilding/Lore/General Radiance Stormwright]]**: Military commander struggling with loyalty to crown vs. duty to kingdom
+- **[[02 Worldbuilding/Lore/General Radiance Stormwright]]**: Military commander struggling with loyalty to crown vs. duty to kingdom
 - **[[Princess Luminara]]**: Seraphina's daughter, showing early signs of inherited susceptibility
 - **[[Prince Aurelius]]**: Seraphina's son, actively working with resistance elements
 
@@ -261,7 +249,7 @@ The original Seraphina's consciousness recognizes the danger but cannot override
 - **Cosmic Purpose**: Awareness of reality-scale consequences of failure
 - **Personal Loss**: Grief over losing her own identity and relationships
 
-### [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
+### [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 
 **Royal Protection Force:**
 The queen's personal guard has been enhanced with crystal magic, making them formidable but also susceptible to possession influence:
@@ -377,7 +365,7 @@ A religious organization believing crystal possession can be cured through spiri
 - Torn between love for mother and horror at her transformation
 - Secretly working with [[Prince Aurelius]] to find cure
 - Experiencing crystal dreams that mirror her mother's early symptoms
-- Protected by [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members who remember their original loyalty
+- Protected by [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members who remember their original loyalty
 
 **[[Prince Aurelius]] (Son, Age 23):**
 - Immune to crystal possession due to genetic variation
@@ -395,13 +383,13 @@ A religious organization believing crystal possession can be cured through spiri
 
 ### Court Observers and Victims
 
-**[[Lady Crystal-Heart Miraleth]]:**
+**[[Lady Crystal Heart Miraleth]]:**
 - Former court favorite now imprisoned for questioning royal decisions
 - Maintains detailed diary of queen's transformation (hidden in crystal matrix)
 - Represents perspective of loyal subjects betrayed by possessed leadership
 - Potential witness if legal proceedings ever occur
 
-**[[Ambassador Foreign-Relations Valdris]]:**
+**[[Ambassador Foreign Relations Valdris]]:**
 - Diplomatic representative struggling to explain Aethermoor's behavior to allies
 - Maintaining secret communications with foreign courts
 - Documenting evidence of possession for potential international intervention
@@ -543,8 +531,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Cultural Practices
 

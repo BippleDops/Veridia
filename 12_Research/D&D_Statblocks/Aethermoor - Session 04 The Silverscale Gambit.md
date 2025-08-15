@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 04 The Silverscale Gambit
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 04 The Silverscale Gambit
 
 ---
@@ -37,7 +46,7 @@ items_gained:
 - Aquabyssos breathing apparatus
 - Crimson Hand intelligence reports
 locations_visited:
-- '[[Port Meridian - Merchant Quarter]]'
+- '[[Port Meridian   Merchant Quarter]]'
 - '[[Silverscale Banking House]]'
 - '[[Smuggler''s Cove]]'
 - '[[Silverscale Emergency Bunker]]'
@@ -55,7 +64,7 @@ plot_threads:
 - Vex was Marcus's apprentice
 - Queen discovered shard in royal vault
 - Crystal Festival aligned with cosmic event
-primary_location: '[[Port Meridian - Merchant Quarter]]'
+primary_location: '[[Port Meridian   Merchant Quarter]]'
 quests_completed: []
 quests_progressed:
 - '[[The Seven Shards Mystery]]'
@@ -69,7 +78,6 @@ world: Aethermoor
 xp_awarded: 1200
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -81,11 +89,6 @@ xp_awarded: 1200
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 The Silverscale Consortium's flagship explodes in the harbor, raining crystallized gold across the merchant quarter. As the party races against the Crimson Hand to secure ancient documents, Marina reveals her true heritage as an Aquabyssos descendant. The confrontation with Vex Shadowthorn unveils deeper conspiracies while Director Silverscale offers a devil's bargain.
@@ -239,11 +242,9 @@ This session establishes:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -258,11 +259,9 @@ This session establishes:
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -15,10 +15,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![Cultural Ambassador Bridge-Builder](../../04_Resources/Assets/Generated/Misc/cultural_ambassador_bridge_builder.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,22 +44,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -76,7 +68,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -85,7 +76,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Organization Overview
 
@@ -213,7 +203,6 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #cult #faction #worldbuilding
-
 
 ## Plot Hooks
 

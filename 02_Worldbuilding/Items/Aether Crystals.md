@@ -31,11 +31,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Aether Crystals
 *Crystallized Magic as Living Currency*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,18 +69,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -93,13 +85,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [[The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
@@ -163,12 +152,9 @@ Legends speak of Aether Crystals as a nexus where past and present converge. Loc
 
 Aether Crystals is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 

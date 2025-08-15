@@ -1,3 +1,12 @@
+---
+title: Ring of Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Resistance Xdmg
 
 ---
@@ -30,39 +39,38 @@ world: Both
 # Ring of Resistance
 *Ring, rare*  
 
-You have [[resistance-xphb|Resistance]] to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
+You have [[resistance xphb|Resistance]] to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
 
 `dice: [](ring-of-resistance-xdmg.md#^damage-type-gem)`
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|
-| 1 | [[ring-of-acid-resistance-xdmg|Acid]] | Pearl |
-| 2 | [[ring-of-cold-resistance-xdmg|Cold]] | Tourmaline |
-| 3 | [[ring-of-fire-resistance-xdmg|Fire]] | Garnet |
-| 4 | [[ring-of-force-resistance-xdmg|Force]] | Sapphire |
-| 5 | [[ring-of-lightning-resistance-xdmg|Lightning]] | Citrine |
-| 6 | [[ring-of-necrotic-resistance-xdmg|Necrotic]] | Jet |
-| 7 | [[ring-of-poison-resistance-xdmg|Poison]] | Amethyst |
-| 8 | [[ring-of-psychic-resistance-xdmg|Psychic]] | Jade |
-| 9 | [[ring-of-radiant-resistance-xdmg|Radiant]] | Topaz |
-| 10 | [[ring-of-thunder-resistance-xdmg|Thunder]] | Spinel |
+| 1 | [[ring of acid resistance xdmg|Acid]] | Pearl |
+| 2 | [[ring of cold resistance xdmg|Cold]] | Tourmaline |
+| 3 | [[ring of fire resistance xdmg|Fire]] | Garnet |
+| 4 | [[ring of force resistance xdmg|Force]] | Sapphire |
+| 5 | [[ring of lightning resistance xdmg|Lightning]] | Citrine |
+| 6 | [[ring of necrotic resistance xdmg|Necrotic]] | Jet |
+| 7 | [[ring of poison resistance xdmg|Poison]] | Amethyst |
+| 8 | [[ring of psychic resistance xdmg|Psychic]] | Jade |
+| 9 | [[ring of radiant resistance xdmg|Radiant]] | Topaz |
+| 10 | [[ring of thunder resistance xdmg|Thunder]] | Spinel |
 ^damage-type-gem
 
 **Items in this group:**
 
-- [[ring-of-acid-resistance-xdmg|Ring of Acid Resistance]]
-- [[ring-of-cold-resistance-xdmg|Ring of Cold Resistance]]
-- [[ring-of-fire-resistance-xdmg|Ring of Fire Resistance]]
-- [[ring-of-force-resistance-xdmg|Ring of Force Resistance]]
-- [[ring-of-lightning-resistance-xdmg|Ring of Lightning Resistance]]
-- [[ring-of-necrotic-resistance-xdmg|Ring of Necrotic Resistance]]
-- [[ring-of-poison-resistance-xdmg|Ring of Poison Resistance]]
-- [[ring-of-psychic-resistance-xdmg|Ring of Psychic Resistance]]
-- [[ring-of-radiant-resistance-xdmg|Ring of Radiant Resistance]]
-- [[ring-of-thunder-resistance-xdmg|Ring of Thunder Resistance]]
+- [[ring of acid resistance xdmg|Ring of Acid Resistance]]
+- [[ring of cold resistance xdmg|Ring of Cold Resistance]]
+- [[ring of fire resistance xdmg|Ring of Fire Resistance]]
+- [[ring of force resistance xdmg|Ring of Force Resistance]]
+- [[ring of lightning resistance xdmg|Ring of Lightning Resistance]]
+- [[ring of necrotic resistance xdmg|Ring of Necrotic Resistance]]
+- [[ring of poison resistance xdmg|Ring of Poison Resistance]]
+- [[ring of psychic resistance xdmg|Ring of Psychic Resistance]]
+- [[ring of radiant resistance xdmg|Ring of Radiant Resistance]]
+- [[ring of thunder resistance xdmg|Ring of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,11 +83,6 @@ You have [[resistance-xphb|Resistance]] to one damage type while wearing this ri
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -97,7 +100,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for money
@@ -107,7 +109,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

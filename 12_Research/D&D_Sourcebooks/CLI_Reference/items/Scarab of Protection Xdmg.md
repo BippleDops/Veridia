@@ -1,3 +1,12 @@
+---
+title: Scarab of Protection Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scarab of Protection Xdmg
 
 ---
@@ -33,7 +42,6 @@ world: Both
 
 This beetle-shaped medallion provides three benefits while it is on your person.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,23 +53,18 @@ This beetle-shaped medallion provides three benefits while it is on your person.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Defense
 
-You gain a +1 bonus to [[armor-class-xphb|Armor Class]].
+You gain a +1 bonus to [[armor class xphb|Armor Class]].
 
 ## Preservation
 
-The scarab has 12 charges. If you fail a saving throw against a Necromancy spell or a harmful effect originating from an Undead, you can take a [[reaction-xphb|Reaction]] to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
+The scarab has 12 charges. If you fail a saving throw against a Necromancy spell or a harmful effect originating from an Undead, you can take a [[reaction xphb|Reaction]] to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
 
 ## Spell Resistance
 
-You have [[advantage-xphb|Advantage]] on saving throws against spells.
+You have [[advantage xphb|Advantage]] on saving throws against spells.
 
 *Source: Dungeon Master's Guide (2024) p. 302. Available in the SRD and the Free Rules (2024)*
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -97,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

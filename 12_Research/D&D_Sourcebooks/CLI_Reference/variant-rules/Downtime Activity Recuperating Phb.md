@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Recuperating Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Recuperating Phb
 
 ---
@@ -32,7 +41,6 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 - End one effect on you that prevents you from regaining hit points.  
 - For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

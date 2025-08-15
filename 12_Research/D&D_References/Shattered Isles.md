@@ -1,3 +1,12 @@
+---
+title: Shattered Isles
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shattered Isles
 
 ---
@@ -37,7 +46,6 @@ access_restriction: Prohibited Without Authorization
 > *"Where once proud peaks pierced the ocean's heart in perfect formation, now broken fragments drift in impossible patterns, each island a piece of a puzzle that reality itself cannot solve. The Isles remember what they were, and in their remembering, they resist what they have become."*
 > — [[Navigator Deep Current]], [[Eastern Kingdom Fleet]] Exploration Division
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ access_restriction: Prohibited Without Authorization
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -380,7 +383,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

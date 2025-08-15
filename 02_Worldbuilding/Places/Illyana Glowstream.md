@@ -36,15 +36,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg]]
 
 # Illyana Glowstream
 
 *"Light is not merely illumination - it is hope made manifest, and in these dark times, hope is the most powerful magic of all."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,8 +69,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
@@ -82,7 +76,6 @@ improvements: 20
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -96,7 +89,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
@@ -105,13 +97,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -231,12 +220,9 @@ Ongoing situations affecting Illyana Glowstream:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Economic Structure
 
@@ -255,7 +241,6 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

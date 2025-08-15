@@ -1,17 +1,18 @@
 ---
 created: 2025-08-14
-updated: 2025-08-14
-type: lore
-status: placeholder
+status: null
 tags:
-- placeholder
+- null
 - needs-content
 - lore
+title: Aethermoor Campaign Overview
+type: lore
+updated: 2025-08-14
 ---
 
 # 08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+> *This is a  note created automatically because it was referenced in other notes.*
 
 ## Description
 
@@ -26,32 +27,29 @@ tags:
 ### Referenced In
 - [[Player Portal]]
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02 Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
 
 ## Notes
 
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+*This  was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
 
 ## Related
 - *[Add related links]*
 
 ---
-*Placeholder generated: 2025-08-14*
+* generated: 2025-08-14*
 
 ## Overview
 
 Aethermoor Campaign Overview represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
-
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
 
 ## Game Applications
 

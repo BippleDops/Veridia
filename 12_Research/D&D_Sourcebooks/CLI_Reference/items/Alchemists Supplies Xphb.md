@@ -1,3 +1,12 @@
+---
+title: Alchemists Supplies Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alchemists Supplies Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[acid-xphb|Acid]], [[alchemists-fire-xphb|Alchemist's Fire]], [[component-pouch-xphb|Component Pouch]], [[oil-xphb|Oil]], [[paper-xphb|Paper]], [[perfume-xphb|Perfume]]  
+- **Craft.** [[acid xphb|Acid]], [[alchemists fire xphb|Alchemist's Fire]], [[component pouch xphb|Component Pouch]], [[oil xphb|Oil]], [[paper xphb|Paper]], [[perfume xphb|Perfume]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,14 +76,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

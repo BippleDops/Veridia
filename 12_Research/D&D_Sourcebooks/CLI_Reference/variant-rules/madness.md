@@ -1,3 +1,12 @@
+---
+title: madness
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # madness
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,17 +45,12 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact-other-plane-xphb|contact other plane]] and [[symbol-xphb|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact other plane xphb|contact other plane]] and [[symbol xphb|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
-Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[new-ability-scores-honor-and-sanity|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
+Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[new ability scores honor and sanity|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
 ## Madness Effects
 
@@ -59,15 +62,9 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-![[short-term-madness|Short-Term Madness]]
-
-![[long-term-madness|Long-Term Madness]]
-
-![[indefinite-madness|Indefinite Madness]]
-
 ## Curing Madness
 
-A [[calm-emotions-xphb|calm emotions]] spell can suppress the effects of madness, while a [[lesser-restoration-xphb|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove-curse-xphb|remove curse]] or [[dispel-evil-and-good-xphb|dispel evil]] might also prove effective. A [[greater-restoration-xphb|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[calm emotions xphb|calm emotions]] spell can suppress the effects of madness, while a [[lesser restoration xphb|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove curse xphb|remove curse]] or [[dispel evil and good xphb|dispel evil]] might also prove effective. A [[greater restoration xphb|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
 
 ## Player-Facing Summary
 
@@ -85,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting an heir for revenge
@@ -96,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

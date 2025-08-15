@@ -1,3 +1,12 @@
+---
+title: Hidden Pit Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hidden Pit Xdmg
 
 ---
@@ -30,7 +39,6 @@ This 10-foot-deep pit has a hinged lid constructed from material identical to th
 
 A creature that falls into the pit takes 3 (`d6`) Bludgeoning damage from the fall.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,19 +50,14 @@ A creature that falls into the pit takes 3 (`d6`) Bludgeoning damage from the fa
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Detect and Disarm
 
-As a [[actions#Study|Study]] action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([[skills#Investigation|Investigation]]) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [[arcane-lock-xphb|Arcane Lock]] or similar magic.
+As a [[actions#Study|Study]] action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([[skills#Investigation|Investigation]]) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [[arcane lock xphb|Arcane Lock]] or similar magic.
 
 ## Escape
 
-A creature needs a Climb Speed, climbing gear, or magic such as [[spider-climb-xphb|Spider Climb]] to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
+A creature needs a Climb Speed, climbing gear, or magic such as [[spider climb xphb|Spider Climb]] to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
 
 ## At Higher Levels
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a curse
@@ -96,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

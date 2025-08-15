@@ -1,3 +1,12 @@
+---
+title: Choker Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Choker Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-choker-mpmm-choker-mpmm.svg)
 
-# [[choker-mpmm|Choker]]
+# [[choker mpmm|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -97,7 +106,6 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -109,11 +117,6 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -135,7 +138,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a conspiracy about this place
@@ -145,11 +147,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

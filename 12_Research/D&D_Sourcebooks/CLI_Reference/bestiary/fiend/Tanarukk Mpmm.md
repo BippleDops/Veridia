@@ -1,3 +1,12 @@
+---
+title: Tanarukk Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tanarukk Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tanarukk-mpmm-tanarukk-mpmm.svg)
 
-# [[tanarukk-mpmm|Tanarukk]]
+# [[tanarukk mpmm|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
 
 > [!quote] A quote from Tasha  
@@ -42,7 +51,7 @@ world: Both
 
 When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers' strength.
 
-The demon lord [[/03_Mechanics/CLI/bestiary/npc/baphomet-mpmm|Baphomet]] gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
+The demon lord [[/03 Mechanics/CLI/bestiary/npc/baphomet mpmm|Baphomet]] gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
 
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
@@ -98,7 +107,6 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -110,11 +118,6 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -136,7 +139,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting information for money
@@ -148,11 +150,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

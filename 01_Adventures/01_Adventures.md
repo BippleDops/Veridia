@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,12 +39,9 @@ improvements: 20
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Art Improvements
 
-- Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 - Add AI art prompts for key scenes
 
 ### Soundtrack Improvements
@@ -57,8 +51,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Add session zero integration questions
-- Add session zero integration questions
-- Add session zero integration questions
 
 ### Variants Improvements
 
@@ -66,7 +58,6 @@ improvements: 20
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Spotlight Improvements
@@ -76,8 +67,6 @@ improvements: 20
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-- Provide scaling for different level ranges
-
 
 ## Adventure Overview
 
@@ -94,7 +83,6 @@ An exciting quest that challenges heroes to prevent disaster.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

@@ -26,7 +26,6 @@ modified: '2025-08-14'
 - Related: [[Historical Context]]
 - Connected to: [[Side Adventures]]
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*

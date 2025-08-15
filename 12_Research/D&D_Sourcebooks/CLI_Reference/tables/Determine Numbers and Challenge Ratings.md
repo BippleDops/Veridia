@@ -1,3 +1,12 @@
+---
+title: Determine Numbers and Challenge Ratings
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Determine Numbers and Challenge Ratings
 
 ---
@@ -36,7 +45,6 @@ world: Both
 | 10th | 1/12 | 1/12 | 1/10 | 1/5 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 4/1 | 5/1 | 6/1 |
 ^multiple-monsters-6th-10th-level
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about a local noble
@@ -83,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

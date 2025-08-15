@@ -20,7 +20,7 @@ modified: '2025-08-14'
 status: complete
 race: Distributed Consciousness
 class: Wizard/Aberration
-location: '[[Abyssos Prime - Throne of Bubbles]]'
+location: '[[Abyssos Prime   Throne of Bubbles]]'
 level: 20
 MyCategory: Unknown
 MyContainer: None
@@ -48,12 +48,12 @@ portrait: ''
 related_quests:
 - '[[Unite the Emperor]]'
 - '[[Investigate Shadow Conspiracy]]'
-- '[[02_Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
+- '[[02 Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
 relationship_type: ruler
 relationships:
 - '[[Shadow Duchess Nyx]]'
 - '[[Parliament of Echoes]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Marina Red Tide Coralheart   Aquabyssos]]'
 secrets:
 - Intentionally caused the original Cataclysm
 - Can reunite but will die if maintained
@@ -73,11 +73,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -106,13 +102,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -122,13 +114,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -138,7 +126,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Distributed Consciousness of Abyssos Prime
 
@@ -364,11 +351,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Economic Structure
 
@@ -388,7 +373,6 @@ Mentioned in The Hidden Prophecy of Stars
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -400,7 +384,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

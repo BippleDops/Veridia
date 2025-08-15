@@ -1,3 +1,12 @@
+---
+title: Maps - Battle_Map_Descriptions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Maps - Battle_Map_Descriptions
 
 ---
@@ -329,7 +338,6 @@ updated: '2024-01-01T00:00:00+00:00'
 ]
 ```
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -341,11 +349,6 @@ updated: '2024-01-01T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -359,11 +362,9 @@ updated: '2024-01-01T00:00:00+00:00'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -378,11 +379,9 @@ updated: '2024-01-01T00:00:00+00:00'
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

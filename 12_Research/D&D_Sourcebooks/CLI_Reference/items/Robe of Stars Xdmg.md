@@ -1,3 +1,12 @@
+---
+title: Robe of Stars Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Robe of Stars Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a [[actions#Magic|Magic]] action to remove one of the stars and expend it to cast the level 5 version of [[magic-missile-xphb|Magic Missile]]. Daily at dusk, `d6` removed stars reappear on the robe.
+Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a [[actions#Magic|Magic]] action to remove one of the stars and expend it to cast the level 5 version of [[magic missile xphb|Magic Missile]]. Daily at dusk, `d6` removed stars reappear on the robe.
 
 While you wear the robe, you can take a [[actions#Magic|Magic]] action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you take a [[actions#Magic|Magic]] action to return to the plane you were on. You reappear in the last space you occupied or, if that space is occupied, the nearest unoccupied space.
 
 *Source: Dungeon Master's Guide (2024) p. 297. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ While you wear the robe, you can take a [[actions#Magic|Magic]] action to enter 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -84,7 +85,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

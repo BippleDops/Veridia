@@ -1,3 +1,12 @@
+---
+title: Dragontooth Dagger Rot
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragontooth Dagger Rot
 
 ---
@@ -25,18 +34,17 @@ world: Both
 ---
 
 # Dragontooth Dagger
-*Weapon ([[dagger-xphb|dagger]]), rare*  
+*Weapon ([[dagger xphb|dagger]]), rare*  
 ![](/03_Mechanics/CLI/items/img/dragontooth-dagger.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]], [[item properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator's tooth, the handle is leather wrapped around the root of the tooth, and there is no crossguard.
 
 You gain a +1 bonus to attack and damage rolls made with this weapon. On a hit with this weapon, the target takes an extra `d6` acid damage.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ You gain a +1 bonus to attack and damage rolls made with this weapon. On a hit w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Draconic Potency
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

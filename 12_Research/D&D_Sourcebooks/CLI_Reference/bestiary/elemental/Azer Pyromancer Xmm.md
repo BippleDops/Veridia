@@ -1,3 +1,12 @@
+---
+title: Azer Pyromancer Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Azer Pyromancer Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-azer-pyromancer-xmm-azer-pyromancer-xmm.svg)
 
-# [[azer-pyromancer-xmm|Azer Pyromancer]]
+# [[azer pyromancer xmm|Azer Pyromancer]]
 *Source: Monster Manual (2024) p. 25*  
 
 Azer pyromancers conjure flames from the Elemental Plane of Fire to defend themselves and stoke magical forges.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Azer pyromancers conjure flames from the Elemental Plane of Fire to defend thems
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Azers
 
@@ -97,12 +100,12 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "cr": "6"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the azer takes 11 (2d10) Fire damage unless the azer has\
       \ the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [[bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
+  - "desc": "The azer sheds [[bright light xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim light xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -113,11 +116,11 @@ Azers are living bronze folk who work the primal elements of creation to craft w
     "name": "Flame Burst"
   - "desc": "The azer casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-      \ [[elementalism-xphb|Elementalism]], [[mage-hand-xphb|Mage Hand]]\n\
-      \n1/day: [[fireball-xphb|Fireball]]"
+      \ [[elementalism xphb|Elementalism]], [[mage hand xphb|Mage Hand]]\n\
+      \n1/day: [[fireball xphb|Fireball]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The azer casts [[hellish-rebuke-xphb|Hellish Rebuke]]\
+  - "desc": "The azer casts [[hellish rebuke xphb|Hellish Rebuke]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Hellish Rebuke (2/Day)"
@@ -147,14 +150,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

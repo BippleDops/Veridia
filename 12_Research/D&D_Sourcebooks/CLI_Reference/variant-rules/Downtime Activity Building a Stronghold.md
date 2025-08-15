@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Building a Stronghold
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Building a Stronghold
 
 ---
@@ -46,7 +55,6 @@ Once the estate is secured, a character needs access to building materials and l
 | Trading post | 5,000 gp | 60 days |
 ^building-a-stronghold
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ Once the estate is secured, a character needs access to building materials and l
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Related Notes
 
@@ -93,16 +94,13 @@ Mentioned in The Second Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Dagger Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dagger Xphb
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]], [[item properties#Thrown|Thrown]]
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

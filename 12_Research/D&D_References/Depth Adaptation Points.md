@@ -1,3 +1,12 @@
+---
+title: Depth Adaptation Points
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Depth Adaptation Points
 
 ---
@@ -27,7 +36,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Every fathom deeper changes you - the question is whether you adapt or break." - Engineer Prisma Depthwright*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Depth Adaptation Points (DAP) represent a creature's physiological and psychological adjustment to the extreme pressures and environmental conditions found in the deepest regions of Aquabyssos and the oceanic territories beyond. This system tracks how well individuals can function at various depth levels, from the comfortable upper districts to the crushing depths where only the most adapted can survive. The system reflects both temporary acclimatization and permanent biological changes that occur through extended deep-water exposure.
@@ -126,8 +129,6 @@ Legends speak of Depth Adaptation Points as a nexus where past and present conve
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -136,7 +137,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

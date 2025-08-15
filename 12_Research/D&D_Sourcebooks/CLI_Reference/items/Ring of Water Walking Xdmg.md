@@ -1,3 +1,12 @@
+---
+title: Ring of Water Walking Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Water Walking Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Ring, uncommon*  
 ![](/03_Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
-While wearing this ring, you cast [[water-walk-xphb|Water Walk]] from it, targeting only yourself.
+While wearing this ring, you cast [[water walk xphb|Water Walk]] from it, targeting only yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this ring, you cast [[water-walk-xphb|Water Walk]] from it, target
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Investigate Shadow Surgeons
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Investigate Shadow Surgeons
 
 ---
@@ -35,7 +44,6 @@ updated: '2025-08-13T01:18:36.744178+00:00'
 # Investigate Shadow Surgeons
 *The Medical Vigilants, Healers of the Light, Those Who Mend What Shadows Break*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ updated: '2025-08-13T01:18:36.744178+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedicated to studying, treating, and ultimately preventing the growing epidemic of shadow-related health complications plaguing [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. As shadow corruption spreads throughout the realm and [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] continues its replacement operations, the ISS has emerged as the foremost authority on shadow-inflicted medical conditions, developing treatments for everything from shadow poisoning to identity dissociation caused by shadow separation. They operate with the dual mission of healing the afflicted and gathering evidence about shadow-based crimes against the populace.
@@ -154,19 +157,19 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 
 #### Shadow Corruption Assessment
 **Medical Evaluation Protocols**
-- **[[02_Worldbuilding/Procedures/Thermal Differential Analysis|02 Worldbuilding/Procedures/Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
-- **[[02_Worldbuilding/Procedures/Memory Coherence Testing|02 Worldbuilding/Procedures/Memory Coherence Testing]]**: Identify gaps in personal memory
-- **[[02_Worldbuilding/Procedures/Shadow Resoce Scanning|02 Worldbuilding/Procedures/Shadow Resoce Scanning]]**: Medical imaging of shadow-affected tissue
-- **[[02_Worldbuilding/Procedures/Behavioral Pattern Analysis|02 Worldbuilding/Procedures/Behavioral Pattern Analysis]]**: Psychological evaluation for personality changes
-- **[[02_Worldbuilding/Procedures/Biological Authentication|02 Worldbuilding/Procedures/Biological Authentication]]**: Genetic testing to confirm identity
+- **[[02 Worldbuilding/Procedures/Thermal Differential Analysis|02 Worldbuilding/Procedures/Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
+- **[[02 Worldbuilding/Procedures/Memory Coherence Testing|02 Worldbuilding/Procedures/Memory Coherence Testing]]**: Identify gaps in personal memory
+- **[[02 Worldbuilding/Procedures/Shadow Resoce Scanning|02 Worldbuilding/Procedures/Shadow Resoce Scanning]]**: Medical imaging of shadow-affected tissue
+- **[[02 Worldbuilding/Procedures/Behavioral Pattern Analysis|02 Worldbuilding/Procedures/Behavioral Pattern Analysis]]**: Psychological evaluation for personality changes
+- **[[02 Worldbuilding/Procedures/Biological Authentication|02 Worldbuilding/Procedures/Biological Authentication]]**: Genetic testing to confirm identity
 
 #### Advanced Detection Methods
 **Specialized Medical Technology**
-- **[[02_Worldbuilding/Equipment/Shadow Contamination Scanners|02 Worldbuilding/Equipment/Shadow Contamination Scanners]]**: Detect shadow energy in biological tissue
-- **[[02_Worldbuilding/Equipment/Memory Pattern Analyzers|02 Worldbuilding/Equipment/Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
-- **[[02_Worldbuilding/Equipment/Cellular Shadow Trackers|02 Worldbuilding/Equipment/Cellular Shadow Trackers]]**: Monitor shadow corruption at cellular level
-- **[[02_Worldbuilding/Equipment/Neural Activity Mappers|02 Worldbuilding/Equipment/Neural Activity Mappers]]**: Brain function analysis for replaced individuals
-- **[[02_Worldbuilding/Equipment/Identity Verification Systems|02 Worldbuilding/Equipment/Identity Verification Systems]]**: Medical confirmation of true identity
+- **[[02 Worldbuilding/Equipment/Shadow Contamination Scanners|02 Worldbuilding/Equipment/Shadow Contamination Scanners]]**: Detect shadow energy in biological tissue
+- **[[02 Worldbuilding/Equipment/Memory Pattern Analyzers|02 Worldbuilding/Equipment/Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
+- **[[02 Worldbuilding/Equipment/Cellular Shadow Trackers|02 Worldbuilding/Equipment/Cellular Shadow Trackers]]**: Monitor shadow corruption at cellular level
+- **[[02 Worldbuilding/Equipment/Neural Activity Mappers|02 Worldbuilding/Equipment/Neural Activity Mappers]]**: Brain function analysis for replaced individuals
+- **[[02 Worldbuilding/Equipment/Identity Verification Systems|02 Worldbuilding/Equipment/Identity Verification Systems]]**: Medical confirmation of true identity
 
 #### Shadow Separation Recovery
 **Trauma-Informed Medical Care**
@@ -398,12 +401,9 @@ Investigate Shadow Surgeons is a undersea element of the setting, known for biol
 
 Legends speak of Investigate Shadow Surgeons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Investigate Shadow Surgeons.
 
-
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

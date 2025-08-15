@@ -1,3 +1,12 @@
+---
+title: the-outlands-and-sigil-gate-towns-of-the-outlands
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # the-outlands-and-sigil-gate-towns-of-the-outlands
 
 ---
@@ -46,7 +55,6 @@ world: Both
 | Fortitude | The Peaceable Kingdoms of Arcadia |
 ^gate-towns-of-the-outlands
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

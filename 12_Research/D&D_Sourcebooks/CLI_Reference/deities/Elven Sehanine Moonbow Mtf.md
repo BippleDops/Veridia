@@ -1,3 +1,12 @@
+---
+title: Elven Sehanine Moonbow Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Sehanine Moonbow Mtf
 
 ---
@@ -42,7 +51,6 @@ In stories of the Seldarine, Sehanine is Corellon's steadfast companion, the one
 
 Sehanine's priests often seek her guidance by entering into a state of true sleep and sifting through their dreams for signs. But Sehanine has another way of sending messages to the elves of the world. The crescent-shaped cataracts that appear in the eyes of an elderly elf at Transcendence are symbolic of the moonbow, an astronomical phenomenon with which she is associated. It appears in the night sky above the moon as a luminous arc of refracted light, no brighter than the moon itself. Only elves and some half-elves can perceive this sign, for it is meant only for Corellon's people. What it signifies depends on the phase of the moon. Above a full moon, when it is most often detected, it means that an elf of great importance and advanced age will soon journey to Arvandor. Elves who see the sign might be compelled to seek out this individual to commune with and learn from before the elder departs the world. The moonbow appearing above the moon during its other phases can be interpreted in many ways, depending on the season and the timing of its appearance. A moonbow appearing above a new moon is the most dreaded sign, for it is said to signal a coming period of great upheaval and many deaths.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ Sehanine's priests often seek her guidance by entering into a state of true slee
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lunar Worship
 
@@ -82,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals ancient history about this place
@@ -93,16 +95,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

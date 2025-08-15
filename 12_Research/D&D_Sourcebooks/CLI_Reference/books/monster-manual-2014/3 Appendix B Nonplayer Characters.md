@@ -1,3 +1,12 @@
+---
+title: 3 Appendix B Nonplayer Characters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Appendix B Nonplayer Characters
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a D&D campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ This appendix contains statistics for various humanoid nonplayer characters (NPC
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Customizing NPCs
 
@@ -65,27 +68,27 @@ You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustmen
 
 The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating. Magic items, as well as adjusting a creature's challenge rating, are described in the Dungeon Master's Guide.
 
-- [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Acolyte]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandit]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|Commoner]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultist]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatic]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiator]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guard]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|Mage]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Noble]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Scout]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Spy]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Thug]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warrior]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]]
+- [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Acolyte]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|Archmage]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|Assassin]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|Bandit]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|Commoner]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultist]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatic]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|Druid]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|Gladiator]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guard]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|Mage]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|Noble]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priest]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Scout]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Spy]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Thug]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warrior]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]]
 
 ## Player-Facing Summary
 
@@ -102,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

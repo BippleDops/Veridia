@@ -1,3 +1,12 @@
+---
+title: Mace of Smiting Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mace of Smiting Xdmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Mace of Smiting
-*Weapon ([[mace-xphb|mace]]), rare*  
+*Weapon ([[mace xphb|mace]]), rare*  
 ![](/03_Mechanics/CLI/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -33,10 +42,9 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +3 when you use the weapon to attack a Construct.
 
-When you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 Bludgeoning damage, or 14 Bludgeoning damage if it's a Construct. If a Construct has 25 [[hit-points-xphb|Hit Points]] or fewer after taking this damage, it is destroyed.
+When you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 Bludgeoning damage, or 14 Bludgeoning damage if it's a Construct. If a Construct has 25 [[hit points xphb|Hit Points]] or fewer after taking this damage, it is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When you roll a 20 on an attack roll made with this weapon, the target takes an 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -80,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

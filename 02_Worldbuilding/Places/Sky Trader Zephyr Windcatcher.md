@@ -42,12 +42,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Sky Trader Zephyr Windcatcher
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Sky_Trader_Zephyr_Windcatcher.png|Sky Trader Zephyr Windcatcher Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -80,19 +75,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -114,7 +103,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -169,8 +157,6 @@ Ongoing situations affecting Sky Trader Zephyr Windcatcher:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -187,7 +173,6 @@ Ongoing situations affecting Sky Trader Zephyr Windcatcher:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

@@ -1,3 +1,12 @@
+---
+title: Demon Customization Tables Unusual Demon
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Demon Customization Tables Unusual Demon
 
 ---
@@ -34,7 +43,7 @@ world: Both
 | 1 | Belches Flies. Once per day, the demon can use an action to belch enough flies to create an effect as though it cast fog cloud. |
 | 2 | Tiny Wings. The demon gains a flying speed of 10 feet. If it could already fly, its flying speed becomes 10 feet. |
 | 3 | Ever-Open Extra Eye. The demon gains advantage on Perception checks related to sight. |
-| 4 | Bleeds Wasps. The first time in each combat the demon is reduced to half its hit points or less, a [[swarm-of-insects-xmm|swarm of insects (wasps)]] forms around it. The swarm considers creatures other than the demon to be enemies. |
+| 4 | Bleeds Wasps. The first time in each combat the demon is reduced to half its hit points or less, a [[swarm of insects xmm|swarm of insects (wasps)]] forms around it. The swarm considers creatures other than the demon to be enemies. |
 | 5 | Extra Arm. The demon gains advantage on Sleight of Hand checks. |
 | 6 | Enormous Ears. The demon gains advantage on Perception checks to hear sounds. |
 | 7 | Silver Bones. The demon's natural weapons are considered silvered. |
@@ -53,7 +62,6 @@ world: Both
 | 20 | Vestigial Demon. A miniature vestigial twin of the demon grows from its body. The demon can't be blinded, deafened, or stunned. |
 ^unusual-demon-features
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -65,11 +73,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,10 +90,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- Strange accidents suggest a portal
 - Strange accidents suggest a portal
 - A map reveals the truth about a local noble
 - A noble needs help stealing before the festival
@@ -99,11 +100,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

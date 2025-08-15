@@ -1,3 +1,12 @@
+---
+title: Succubus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Succubus Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-succubus-xmm-succubus-xmm.svg)
 
-# [[succubus-xmm|Succubus]]
+# [[succubus xmm|Succubus]]
 *Source: Monster Manual (2024) p. 303. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Succubus
 
@@ -110,8 +113,8 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "When the succubus finishes a [[long-rest-xphb|Long Rest]],\
-      \ it can shape-shift into an [[incubus-xmm|Incubus]],\
+  - "desc": "When the succubus finishes a [[long rest xphb|Long Rest]],\
+      \ it can shape-shift into an [[incubus xmm|Incubus]],\
       \ using that stat block instead of this one."
     "name": "Incubus Form"
 "actions":
@@ -120,19 +123,19 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage."
     "name": "Fiendish Touch"
-  - "desc": "The succubus casts [[dominate-person-xphb|Dominate Person]]\
+  - "desc": "The succubus casts [[dominate person xphb|Dominate Person]]\
       \ (level 8 version), requiring no spell components and using Charisma as the\
       \ spellcasting ability (spell save DC 15)."
     "name": "Charm"
   - "desc": "Constitution Saving Throw: DC 15, one creature [[conditions#Charmed|Charmed]]\
       \ by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success:\
-      \ Half damage. Failure or Success: The target's [[hit-points-xphb|Hit Point]]\
+      \ Half damage. Failure or Success: The target's [[hit points xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Draining Kiss"
 "bonus_actions":
   - "desc": "The succubus shape-shifts to resemble a Medium or Small Humanoid or back\
       \ into its true form. Its game statistics are the same in each form, except\
-      \ its [[fly-speed-xphb|Fly Speed]] is available\
+      \ its [[fly speed xphb|Fly Speed]] is available\
       \ only in its true form. Any equipment it's wearing or carrying isn't transformed."
     "name": "Shape-Shift"
 "source":
@@ -161,11 +164,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -177,7 +178,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

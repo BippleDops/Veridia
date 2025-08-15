@@ -14,10 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Groups/The Silver Order](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_silver_order.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,32 +43,25 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
@@ -81,7 +71,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Organization Overview
 
@@ -210,11 +199,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #order #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

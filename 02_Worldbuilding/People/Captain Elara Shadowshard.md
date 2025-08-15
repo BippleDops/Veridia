@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,20 +53,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -211,11 +199,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns humility
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Relationships
 
@@ -223,7 +209,6 @@ Mentioned in The Second Prophecy of Depths
 - **Mentor**: [[Portrait NPC Lord Commander Gareth Steelborn V2 Lord Commander Gareth Steelborn.svg]]
 - **Ally**: [[Original Glaucus]]
 - **Friend**: [[portrait-npc-deep-lords-v1-deep-lords.svg]]
-
 
 ## Historical Timeline
 
@@ -241,7 +226,6 @@ Mentioned in The Second Prophecy of Depths
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Armored Saber Toothed Tiger Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armored Saber Toothed Tiger Cos
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
 
-# [[armored-saber-toothed-tiger-cos|Armored Saber-Toothed Tiger]]
+# [[armored saber toothed tiger cos|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -39,7 +48,7 @@ world: Both
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "17"
-"ac_class": "[[half-plate-armor-xphb|half plate armor]]"
+"ac_class": "[[half plate armor xphb|half plate armor]]"
 "hp": !!int "84"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "2"
@@ -82,7 +91,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -94,11 +102,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -115,7 +118,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -19,11 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ambassador-nerida-deepcurrent-ambassador-nerida-deepcurrent.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,20 +48,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -75,7 +64,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
@@ -84,7 +72,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
@@ -191,15 +178,13 @@ Legends speak of Ambassador Nerida Deepcurrent as a nexus where past and present
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Relationships
 
-- **Student**: [[Quest - The Voice Beneath]]
+- **Student**: [[Quest   The Voice Beneath]]
 - **Blackmailer**: [[Portrait NPC the Corroded Crown the Corroded Crown.svg]]
 - **Ally**: [[Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg]]
 - **Child**: [[Assets Symbols Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
 - **Victim**: [[Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg]]
-
 
 ## Historical Timeline
 

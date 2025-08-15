@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Performing Sacred Rites
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Performing Sacred Rites
 
 ---
@@ -31,7 +40,6 @@ A character who is a priest in the temple can lead these rites, which might incl
 
 A character who spends at least 10 days performing sacred rites gains "inspiration" (described in chapter 4 of the "Player's Handbook") at the start of each day for the next `2d6` days.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ A character who spends at least 10 days performing sacred rites gains "inspirati
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help stealing before the festival
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

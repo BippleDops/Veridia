@@ -22,12 +22,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Order of the Sunken Crown
 
 *"In the depths where light fails, we carry the burden of lost majesty."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,13 +53,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -72,12 +65,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
@@ -91,7 +81,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -139,8 +128,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - A stranger needs help finding before winter
@@ -159,7 +146,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

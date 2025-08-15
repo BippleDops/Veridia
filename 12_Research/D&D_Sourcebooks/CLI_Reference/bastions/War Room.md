@@ -1,3 +1,12 @@
+---
+title: War Room
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # War Room
 
 ---
@@ -35,7 +44,6 @@ The War Room is where you plan military actions in consultation with an inner ci
 
 The War Room contains war memorabilia plus a large table surrounded by enough chairs for you and your lieutets.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,18 +55,13 @@ The War Room contains war memorabilia plus a large table surrounded by enough ch
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Recruit Options
 
 When you issue the "Recruit" order to this facility, choose one of the following options:
 
 - **Recruit.** Lieutet. You gain one new lieutet. You can have up to ten lieutets at any time. Assign names and personalities to them as you see fit.  
-- **Recruit.** Soldiers. You commission one or more of your lieutets to assemble a small army. Each lieutet can muster one hundred [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] (see the "Monster Manual") in 7 days to fight for your cause. Reduce that number to twenty if you want them to be mounted on [[riding-horse-xmm|Riding Horses]] (see the "Monster Manual"). It costs you 1 GP per day to feed each guard and each horse in your army. Wherever the army goes, it must be led by you or at least one of your lieutets, or else it disbands immediately. The army also disbands if it goes 1 day without being fed. Otherwise, the army remains until it is destroyed or you command it to disband. You can't issue this Recruit order again until your current army disbands or is destroyed.  
+- **Recruit.** Soldiers. You commission one or more of your lieutets to assemble a small army. Each lieutet can muster one hundred [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guards]] (see the "Monster Manual") in 7 days to fight for your cause. Reduce that number to twenty if you want them to be mounted on [[riding-horse-xmm|Riding Horses]] (see the "Monster Manual"). It costs you 1 GP per day to feed each guard and each horse in your army. Wherever the army goes, it must be led by you or at least one of your lieutets, or else it disbands immediately. The army also disbands if it goes 1 day without being fed. Otherwise, the army remains until it is destroyed or you command it to disband. You can't issue this Recruit order again until your current army disbands or is destroyed.  
 
 *Source: Dungeon Master's Guide (2024) p. 349*
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help delivering before winter
@@ -87,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

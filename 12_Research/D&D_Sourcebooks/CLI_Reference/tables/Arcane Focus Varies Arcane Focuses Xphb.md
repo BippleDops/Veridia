@@ -1,3 +1,12 @@
+---
+title: Arcane Focus Varies Arcane Focuses Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arcane Focus Varies Arcane Focuses Xphb
 
 ---
@@ -29,13 +38,12 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[crystal-xphb|Crystal]] | 1 lb. | 10 GP |
-| [[orb-xphb|Orb]] | 3 lb. | 20 GP |
-| [[rod-xphb|Rod]] | 2 lb. | 10 GP |
-| [[staff-xphb|Staff]] (also a [[quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[wand-xphb|Wand]] | 1 lb. | 10 GP |
+| [[crystal xphb|Crystal]] | 1 lb. | 10 GP |
+| [[orb xphb|Orb]] | 3 lb. | 20 GP |
+| [[rod xphb|Rod]] | 2 lb. | 10 GP |
+| [[staff xphb|Staff]] (also a [[quarterstaff xphb|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[wand xphb|Wand]] | 1 lb. | 10 GP |
 ^arcane-focuses
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: New Quest
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # New Quest
 
 ---
@@ -44,15 +53,10 @@ status: "not-started"
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Info
 **Quest Giver**: [[]]
-**Location**: [[Location]]
+**Location**: [[location]]
 **Status**: Not Started
 
 ## Player-Facing Summary
@@ -71,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help finding before the new moon
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

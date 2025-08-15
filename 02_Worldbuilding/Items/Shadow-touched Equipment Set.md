@@ -31,11 +31,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Shadow-touched Equipment Set
 *Where Light Dies and Darkness Takes Form*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,25 +65,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Contradictions Improvements
@@ -96,7 +85,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
@@ -160,12 +148,9 @@ Legends speak of Shadow touched Equipment Set as a nexus where past and present 
 
 Shadow-touched Equipment Set is a remarkable item of significant craftsmanship. Its appearance immediately draws attention, featuring intricate details that hint at its magical nature.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -185,7 +170,6 @@ Shadow-touched Equipment Set is a remarkable item of significant craftsmanship. 
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

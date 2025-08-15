@@ -1,3 +1,12 @@
+---
+title: Deities of Dragonlance Good Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deities of Dragonlance Good Phb
 
 ---
@@ -29,15 +38,14 @@ world: Both
 
 | The Gods of Good | Alignment | Suggested Domains | Symbol |
 |------------------|-----------|-------------------|--------|
-| [[dragonlance-paladine-phb|Paladine]], god of rulers and guardians | LG | War | Silver triangle |
-| [[dragonlance-branchala-phb|Branchala]], god of music | NG | Light | Bard's harp |
-| [[dragonlance-habbakuk-phb|Habbakuk]], god of animal life and the sea | NG | Nature, Tempest | Blue bird |
-| [[dragonlance-kiri-jolith-phb|Kiri-Jolith]], god of honor and war | LG | War | Bison's horns |
-| [[dragonlance-majere-phb|Majere]], god of meditation and order | LG | Knowledge | Copper spider |
-| [[dragonlance-mishakal-phb|Mishakal]], goddess of healing | LG | Knowledge, Life | Blue infinity sign |
-| [[dragonlance-solinari-phb|Solinari]], god of good magic | LG | no clerics | White circle or sphere |
+| [[dragonlance paladine phb|Paladine]], god of rulers and guardians | LG | War | Silver triangle |
+| [[dragonlance branchala phb|Branchala]], god of music | NG | Light | Bard's harp |
+| [[dragonlance habbakuk phb|Habbakuk]], god of animal life and the sea | NG | Nature, Tempest | Blue bird |
+| [[dragonlance kiri jolith phb|Kiri-Jolith]], god of honor and war | LG | War | Bison's horns |
+| [[dragonlance majere phb|Majere]], god of meditation and order | LG | Knowledge | Copper spider |
+| [[dragonlance mishakal phb|Mishakal]], goddess of healing | LG | Knowledge, Life | Blue infinity sign |
+| [[dragonlance solinari phb|Solinari]], god of good magic | LG | no clerics | White circle or sphere |
 ^deities-of-dragonlance-good
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

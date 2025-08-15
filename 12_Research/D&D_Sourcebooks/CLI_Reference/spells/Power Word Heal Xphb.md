@@ -1,3 +1,12 @@
+---
+title: Power Word Heal Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Power Word Heal Xphb
 
 ---
@@ -35,12 +44,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A wave of healing energy washes over one creature you can see within range. The target regains all its [[hit-points-xphb|Hit Points]]. If the creature has the [[conditions#Charmed|Charmed]], [[conditions#frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[conditions#prone|Prone]] condition, it can use its [[reaction-xphb|Reaction]] to stand up.
+A wave of healing energy washes over one creature you can see within range. The target regains all its [[hit-points-xphb|Hit Points]]. If the creature has the [[conditions#Charmed|Charmed]], [[conditions#frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[conditions#prone|Prone]] condition, it can use its [[reaction xphb|Reaction]] to stand up.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ A wave of healing energy washes over one creature you can see within range. The 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

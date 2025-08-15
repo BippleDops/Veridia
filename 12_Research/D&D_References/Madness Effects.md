@@ -1,3 +1,12 @@
+---
+title: Madness Effects
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Madness Effects
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"The mind breaks before the body yields - in the depths, sanity is the first casualty."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -127,8 +130,6 @@ Legends speak of Madness Effects as a nexus where past and present converge. Loc
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Elf Eladrin Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elf Eladrin Dmg
 
 ---
@@ -64,12 +73,11 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [[longsword-xphb|longsword]], [[shortsword-xphb|shortsword]], [[shortbow-xphb|shortbow]], and [[longbow-xphb|longbow]].
+You have proficiency with the [[longsword xphb|longsword]], [[shortsword xphb|shortsword]], [[shortbow xphb|shortbow]], and [[longbow xphb|longbow]].
 
 ### Fey Step
 
-You can cast the [[misty-step-xphb|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
-
+You can cast the [[misty step xphb|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,11 +90,6 @@ You can cast the [[misty-step-xphb|misty step]] spell once using this trait. You
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -104,7 +107,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and evil awakens
@@ -116,11 +118,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

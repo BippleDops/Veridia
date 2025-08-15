@@ -1,3 +1,12 @@
+---
+title: Urban Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Urban Encounters Levels 1116 Xge
 
 ---
@@ -31,44 +40,43 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [[mimic-xmm|mimic]] |
-| 02-05 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 5d10 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]], all on [[riding-horse-xmm|riding horses]] |
-| 06-10 | 1d10 [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knights]] on [[warhorse-xmm|warhorses]] (one knight is a [[doppelganger-xmm|doppelganger]]) |
-| 11-13 | 1d8 [[succubus-xmm|succubi]] or 1d8 [[incubus-xmm|incubi]] |
-| 14-16 | 3d6 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
-| 17-19 | 1d10 [[wight-xmm|wights]] |
-| 20-22 | 3d6 [[wererat-xmm|wererats]] |
+| 01 | 1 [[mimic xmm|mimic]] |
+| 02-05 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 5d10 [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]], all on [[riding-horse-xmm|riding horses]] |
+| 06-10 | 1d10 [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|knights]] on [[warhorse xmm|warhorses]] (one knight is a [[doppelganger xmm|doppelganger]]) |
+| 11-13 | 1d8 [[succubus xmm|succubi]] or 1d8 [[incubus xmm|incubi]] |
+| 14-16 | 3d6 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
+| 17-19 | 1d10 [[wight xmm|wights]] |
+| 20-22 | 3d6 [[wererat xmm|wererats]] |
 | 23-25 | A distant boom followed by a plume of smoke rising from the other side of the community |
-| 26-28 | 1d8 + 1 [[ghost-xmm|ghosts]] |
-| 29-31 | 2d10 [[gargoyle-xmm|gargoyles]] |
+| 26-28 | 1d8 + 1 [[ghost xmm|ghosts]] |
+| 29-31 | 2d10 [[gargoyle xmm|gargoyles]] |
 | 32-34 | 1d6 + 2 [[water-weird-xmm|water weirds]] |
 | 35-37 | 1d4 + 4 [[will-o-wisp-xmm|will-o'-wisps]] |
 | 38-40 | Street performers putting on a puppet show, involving two puppets beating each other with sticks to the amusement of the gathered crowd |
-| 41-43 | 2d4 [[couatl-xmm|couatls]] |
-| 44-46 | 2d8 [[ghast-xmm|ghasts]] |
-| 47-51 | 1d8 + 1 [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
-| 52-55 | 3d4 [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priests]] |
-| 56-58 | 2d4 [[cambion-xmm|cambions]] |
-| 59-61 | 1d10 [[revet-xmm|revets]] |
+| 41-43 | 2d4 [[couatl xmm|couatls]] |
+| 44-46 | 2d8 [[ghast xmm|ghasts]] |
+| 47-51 | 1d8 + 1 [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 52-55 | 3d4 [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|priests]] |
+| 56-58 | 2d4 [[cambion xmm|cambions]] |
+| 59-61 | 1d10 [[revet xmm|revets]] |
 | 62-65 | 2d4 [[phase-spider-xmm|phase spiders]] |
-| 66-69 | A scruffy [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] that ducks into an alley to make a purchase from a suspicious looking figure |
+| 66-69 | A scruffy [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoner]] that ducks into an alley to make a purchase from a suspicious looking figure |
 | 70-72 | 1d8 [[invisible-stalker-xmm|invisible stalkers]] |
-| 73-75 | 1d8 + 1 [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|gladiators]] |
-| 76-80 | Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassin]]) |
+| 73-75 | 1d8 + 1 [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|gladiators]] |
+| 76-80 | Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|assassin]]) |
 | 81-82 | 1d4 [[young-silver-dragon-xmm|young silver dragons]] |
-| 83-84 | 1d4 [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassins]] |
-| 85-86 | 1d8 [[oni-xmm|oni]] |
-| 87-88 | 1d4 [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mages]] with 1d4 [[shield-guardian-xmm|shield guardians]] |
+| 83-84 | 1d4 [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|assassins]] |
+| 85-86 | 1d8 [[oni xmm|oni]] |
+| 87-88 | 1d4 [[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mages]] with 1d4 [[shield-guardian-xmm|shield guardians]] |
 | 89-90 | 1d10 [[vampire-spawn-xmm|vampire spawn]] |
 | 91-92 | 1 [[adult-silver-dragon-xmm|adult silver dragon]] |
 | 93-94 | 1d4 [[gray-slaad-xmm|gray slaadi]] |
-| 95-96 | 1 [[vampire-xmm|spellcaster vampire]] or 1 [[vampire-xmm|warrior vampire]] |
-| 97 | 1 [[rakshasa-xmm|rakshasa]] |
-| 98 | 1 [[vampire-xmm|vampire]] |
+| 95-96 | 1 [[vampire xmm|spellcaster vampire]] or 1 [[vampire xmm|warrior vampire]] |
+| 97 | 1 [[rakshasa xmm|rakshasa]] |
+| 98 | 1 [[vampire xmm|vampire]] |
 | 99 | 1 [[ancient-silver-dragon-xmm|ancient silver dragon]] |
-| 00 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] speeding down the street on a [[riding-horse-xmm|riding horse]], blasting 1d4 [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] with spells |
+| 00 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|archmage]] speeding down the street on a [[riding-horse-xmm|riding horse]], blasting 1d4 [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] with spells |
 ^urban-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,11 +89,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -102,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

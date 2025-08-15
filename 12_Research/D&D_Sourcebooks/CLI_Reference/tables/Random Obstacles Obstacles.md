@@ -1,3 +1,12 @@
+---
+title: Random Obstacles Obstacles
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Obstacles Obstacles
 
 ---
@@ -33,7 +42,7 @@ world: Both
 |-----------|----------|
 | 1 | Antilife aura with a radius of `1d10 × 10` ft.; while in the aura, living creatures can't regain hit points |
 | 2 | Battering winds reduce speed by half, impose disadvantage on ranged attack rolls |
-| 3 | [[blade-barrier-xphb|Blade barrier]] blocks passage |
+| 3 | [[blade barrier xphb|Blade barrier]] blocks passage |
 | 4-8 | Cave-in |
 | 9-12 | Chasm `1d4 × 10` ft. wide and `2d6 × 10` ft. deep, possibly connected to other levels of the dungeon |
 | 13-14 | Flooding leaves `2d10` ft. of water in the area; create nearby upward-sloping passages, raised floors, or rising sta irs to contain the water |
@@ -41,10 +50,9 @@ world: Both
 | 16 | Overgrown mushrooms block progress and must be hacked down (25 percent chance of a mold or fungus dungeon hazard hidden among them) |
 | 17 | Poisonous gas (deals `d6` poison damage per minute of exposure) |
 | 18 | Reverse gravity effect causes creatures to fall toward the ceiling |
-| 19 | [[wall-of-fire-xphb|Wall of fire]] blocks passage |
-| 20 | [[wall-of-force-xphb|Wall of force]] blocks passage |
+| 19 | [[wall of fire xphb|Wall of fire]] blocks passage |
+| 20 | [[wall of force xphb|Wall of force]] blocks passage |
 ^obstacles
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Maurezhi Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Maurezhi Mpmm
 
 ---
@@ -32,10 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-maurezhi-mpmm-maurezhi-mpmm.svg)
 
-# [[maurezhi-mpmm|Maurezhi]]
+# [[maurezhi mpmm|Maurezhi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
 
-When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[ghoul-xmm|ghouls]] and [[ghast-xmm|ghasts]] on the Material Plane.
+When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[ghoul xmm|ghouls]] and [[ghast xmm|ghasts]] on the Material Plane.
 
 When a maurezhi consumes the corpse of a Humanoid it has slain—a process that takes about 10 minutes—it instantly assumes the creature's appearance as it was in life. The new appearance begins to rot away over the next few days, eventually revealing the demon's original form.
 
@@ -85,7 +94,7 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
       \ (2d10 + 3) piercing damage. If the target is a Humanoid, its Charisma score\
       \ is reduced by d4. This reduction lasts until the target finishes a short or\
       \ long rest. The target dies if this reduces its Charisma to 0. It rises 24\
-      \ hours later as a [[ghoul-xmm|ghoul]]  unless\
+      \ hours later as a [[ghoul xmm|ghoul]]  unless\
       \ it has been revived or its corpse has been destroyed."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
@@ -94,7 +103,7 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claw"
-  - "desc": "The maurezhi targets one dead ghoul or [[ghast-xmm|ghast]]\
+  - "desc": "The maurezhi targets one dead ghoul or [[ghast xmm|ghast]]\
       \ it can see within 30 feet of it. The target is revived with all its hit points."
     "name": "Raise Ghoul (Recharge 5-6)"
 "source":
@@ -103,7 +112,6 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/maurezhi-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -116,11 +124,6 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -142,11 +145,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -156,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

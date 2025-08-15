@@ -1,3 +1,12 @@
+---
+title: Young Bronze Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Bronze Dragon Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-bronze-dragon-xmm-v1-young-bronze-dragon-xmm.svg)
 
-# [[young-bronze-dragon-xmm|Young Bronze Dragon]]
+# [[young bronze dragon xmm|Young Bronze Dragon]]
 *Source: Monster Manual (2024) p. 58. Available in the SRD and the Free Rules (2024)*  
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Many young bronze dragons become experts in a type of problem, like driving off 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Bronze Dragons
 
@@ -111,10 +114,10 @@ Bronze dragons usually make their homes near or under the sea.
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 15, each creature in a 60-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 49 (9d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target is pushed up to 40 feet straight away from the dragon\
       \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
@@ -143,7 +146,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

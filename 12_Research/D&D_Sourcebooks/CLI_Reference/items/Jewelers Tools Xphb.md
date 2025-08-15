@@ -1,3 +1,12 @@
+---
+title: Jewelers Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Jewelers Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [[arcane-focus-xphb|Arcane Focus]], [[holy-symbol-xphb|Holy Symbol]]  
+- **Craft.** [[arcane focus xphb|Arcane Focus]], [[holy symbol xphb|Holy Symbol]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help stealing before winter
@@ -88,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

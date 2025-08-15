@@ -26,15 +26,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)
 
 # Surface Sympathizer Settlements
 
 *"Where forbidden dreams of sky and sun still burn bright."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,22 +60,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -88,17 +80,14 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Hidden communities throughout Aquabyssos where citizens who favor reconciliation with the surface world gather in secret. These settlements exist in the outer districts and abandoned areas, providing sanctuary for those who dare to question the kingdom's isolationist policies.
@@ -198,12 +187,9 @@ Ongoing situations affecting Surface Sympathizer Settlements:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Economic Structure
 
@@ -222,7 +208,6 @@ Key stop on magic items trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

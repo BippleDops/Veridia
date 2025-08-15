@@ -1,3 +1,12 @@
+---
+title: Thunderous Greatclub Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Thunderous Greatclub Xdmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Thunderous Greatclub
-*Weapon ([[greatclub-xphb|greatclub]]), very rare (requires attunement)*  
+*Weapon ([[greatclub xphb|greatclub]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/thunderous-greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
@@ -35,7 +44,6 @@ world: Both
 While you are attuned to this magic weapon, your Strength is 20 unless your Strength is already equal to or greater than that score. The weapon deals an extra `d8` Thunder damage to any creature it hits and an extra `3d8` Thunder damage to objects it hits that aren't being worn or carried.
 
 The weapon has the following additional properties.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,15 +56,10 @@ The weapon has the following additional properties.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Clap of Thunder
 
-As a [[actions#Magic|Magic]] action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[cone-area-of-effect-xphb|Cone]] of thunderous energy. Each creature in the [[cone-area-of-effect-xphb|Cone]] must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition. Nonmagical objects in the [[cone-area-of-effect-xphb|Cone]] that aren't being worn or carried take `3d8` Thunder damage.
+As a [[actions#Magic|Magic]] action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[cone area of effect xphb|Cone]] of thunderous energy. Each creature in the [[cone area of effect xphb|Cone]] must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition. Nonmagical objects in the [[cone area of effect xphb|Cone]] that aren't being worn or carried take `3d8` Thunder damage.
 
 ## Earthquake
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

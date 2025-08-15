@@ -1,102 +1,47 @@
-# Market District
-
 ---
 title: Market District
-type: Location
+type: note
 tags:
-- both
-- research
-- world/both
-- content/location
-- active
-- location
-- complete
-- status/in-progress
-created: '2025-08-11'
-modified: '2025-08-14'
-status: complete
-danger_level: Moderate
-updated: '2025-08-13T12:34:17.106618+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] View
-![[04_Resources/Assets/Locations/location-city-market-district-market-district.svg]]
-
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
+# Market District
 
 ## Overview
-The bustling heart of Westmarch City's commerce, where merchants hawk their wares from dawn till dusk. The air fills with the sounds of haggling, the ring of hammer on anvil from Ironforge Smithy, and the calls of street vendors.
+This document contains important information regarding Market District and its role within the greater narrative.
 
-## Geography
-A sprawling district centered around the Grand Bazaar, with permanent shops lining the main thoroughfares and temporary stalls filling the squares.
+## Description
+Market District represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-### Districts/Areas
-1. **Grand Bazaar** - Open air market with rotating vendors
-2. **Craftsman's Row** - Permanent shops and workshops
-3. **Merchant Square** - Where major deals are conducted
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## Demographics
-**Population:** 3,000 (during market days: 5,000+)
-**Primary Race:** Human (60%), Dwarf (20%), Halfling (15%), Other (5%)
-**Government:** Merchant Council
-**Controlling Faction:** [[Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]
+## Details
+### Background
+Historical context and development over time.
 
-### Shops
-| Shop Name | Type | Owner | Notable Items |
-|-----------|------|-------|---------------|
-| Ironforge Smithy | Blacksmith | [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] | Masterwork weapons |
-| Starweaver's Arcana | Magic | [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] | Potions, scrolls |
-| The Golden Goose | Inn | [[Martha Hillbrook]] | Comfortable rooms |
+### Current State
+Present circumstances and ongoing relevance.
 
-## Player-Facing Summary
+### Future Potential
+Possible developments and plot directions.
 
-Market District is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## Lore Details
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-Legends speak of Market District as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market District.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

@@ -1,3 +1,12 @@
+---
+title: Choose a Background Ability Scores and Backgrounds Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # choose-a-background-ability-scores-and-backgrounds-xphb
 
 ---
@@ -28,14 +37,13 @@ world: Both
 
 | Ability | Backgrounds |
 |---------|-------------|
-| Strength | [[artisan-xphb|Artisan]], [[entertainer-xphb|Entertainer]], [[farmer-xphb|Farmer]], [[guard-xphb|Guard]], [[noble-xphb|Noble]], [[sailor-xphb|Sailor]], [[soldier-xphb|Soldier]] |
-| Dexterity | [[artisan-xphb|Artisan]], [[charlatan-xphb|Charlatan]], [[criminal-xphb|Criminal]], [[entertainer-xphb|Entertainer]], [[guide-xphb|Guide]], [[sailor-xphb|Sailor]], [[scribe-xphb|Scribe]], [[soldier-xphb|Soldier]], [[wayfarer-xphb|Wayfarer]] |
-| Constitution | [[charlatan-xphb|Charlatan]], [[criminal-xphb|Criminal]], [[farmer-xphb|Farmer]], [[guide-xphb|Guide]], [[hermit-xphb|Hermit]], [[merchant-xphb|Merchant]], [[sage-xphb|Sage]], [[soldier-xphb|Soldier]] |
-| Intelligence | [[acolyte-xphb|Acolyte]], [[artisan-xphb|Artisan]], [[criminal-xphb|Criminal]], [[guard-xphb|Guard]], [[merchant-xphb|Merchant]], [[noble-xphb|Noble]], [[sage-xphb|Sage]], [[scribe-xphb|Scribe]] |
-| Wisdom | [[acolyte-xphb|Acolyte]], [[farmer-xphb|Farmer]], [[guard-xphb|Guard]], [[guide-xphb|Guide]], [[hermit-xphb|Hermit]], [[sage-xphb|Sage]], [[sailor-xphb|Sailor]], [[scribe-xphb|Scribe]], [[wayfarer-xphb|Wayfarer]] |
-| Charisma | [[acolyte-xphb|Acolyte]], [[charlatan-xphb|Charlatan]], [[entertainer-xphb|Entertainer]], [[hermit-xphb|Hermit]], [[merchant-xphb|Merchant]], [[noble-xphb|Noble]], [[wayfarer-xphb|Wayfarer]] |
+| Strength | [[artisan xphb|Artisan]], [[entertainer xphb|Entertainer]], [[farmer xphb|Farmer]], [[guard xphb|Guard]], [[noble xphb|Noble]], [[sailor xphb|Sailor]], [[soldier xphb|Soldier]] |
+| Dexterity | [[artisan xphb|Artisan]], [[charlatan xphb|Charlatan]], [[criminal xphb|Criminal]], [[entertainer xphb|Entertainer]], [[guide xphb|Guide]], [[sailor xphb|Sailor]], [[scribe xphb|Scribe]], [[soldier xphb|Soldier]], [[wayfarer xphb|Wayfarer]] |
+| Constitution | [[charlatan xphb|Charlatan]], [[criminal xphb|Criminal]], [[farmer xphb|Farmer]], [[guide xphb|Guide]], [[hermit xphb|Hermit]], [[merchant xphb|Merchant]], [[sage xphb|Sage]], [[soldier xphb|Soldier]] |
+| Intelligence | [[acolyte xphb|Acolyte]], [[artisan xphb|Artisan]], [[criminal xphb|Criminal]], [[guard xphb|Guard]], [[merchant xphb|Merchant]], [[noble xphb|Noble]], [[sage xphb|Sage]], [[scribe xphb|Scribe]] |
+| Wisdom | [[acolyte xphb|Acolyte]], [[farmer xphb|Farmer]], [[guard xphb|Guard]], [[guide xphb|Guide]], [[hermit xphb|Hermit]], [[sage xphb|Sage]], [[sailor xphb|Sailor]], [[scribe xphb|Scribe]], [[wayfarer xphb|Wayfarer]] |
+| Charisma | [[acolyte xphb|Acolyte]], [[charlatan xphb|Charlatan]], [[entertainer xphb|Entertainer]], [[hermit xphb|Hermit]], [[merchant xphb|Merchant]], [[noble xphb|Noble]], [[wayfarer xphb|Wayfarer]] |
 ^ability-scores-and-backgrounds
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for money
@@ -80,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -37,12 +37,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Breaking the Deep
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Breaking_the_Deep.png|Breaking the Deep Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,39 +66,30 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -157,8 +143,6 @@ Ongoing situations affecting Breaking the Deep:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Trade Importance
 

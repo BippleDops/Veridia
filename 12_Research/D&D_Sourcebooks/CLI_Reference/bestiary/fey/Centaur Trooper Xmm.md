@@ -1,3 +1,12 @@
+---
+title: Centaur Trooper Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Centaur Trooper Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-centaur-trooper-xmm.svg)
 
-# [[centaur-trooper-xmm|Centaur Trooper]]
+# [[centaur trooper xmm|Centaur Trooper]]
 *Source: Monster Manual (2024) p. 67. Available in the SRD and the Free Rules (2024)*  
 
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creat
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Centaurs
 
@@ -99,7 +102,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [[speed-xphb|Speed]]\
+  - "desc": "The centaur moves up to its [[speed xphb|Speed]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. Strength\
@@ -132,11 +135,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -147,11 +148,9 @@ Mentioned in The Second Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

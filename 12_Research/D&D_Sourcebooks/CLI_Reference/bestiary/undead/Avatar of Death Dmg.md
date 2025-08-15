@@ -1,3 +1,12 @@
+---
+title: Avatar of Death Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Avatar of Death Dmg
 
 ---
@@ -30,10 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-avatar-of-death-dmg-avatar-of-death-dmg.svg)
 
-# [[avatar-of-death-dmg|Avatar of Death]]
+# [[avatar of death dmg|Avatar of Death]]
 *Source: Dungeon Master's Guide p. 164. Available in the SRD*  
 
-Summoned by the "Skull" card from the [[deck-of-many-things-xdmg|Deck of Many Things]].
+Summoned by the "Skull" card from the [[deck of many things xdmg|Deck of Many Things]].
 
 ```statblock
 "name": "Avatar of Death (DMG)"
@@ -68,7 +77,6 @@ Summoned by the "Skull" card from the [[deck-of-many-things-xdmg|Deck of Many Th
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -80,11 +88,6 @@ Summoned by the "Skull" card from the [[deck-of-many-things-xdmg|Deck of Many Th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -102,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a witness for revenge
@@ -116,11 +118,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

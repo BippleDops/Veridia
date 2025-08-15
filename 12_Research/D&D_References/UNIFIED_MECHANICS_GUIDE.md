@@ -1,3 +1,12 @@
+---
+title: UNIFIED_MECHANICS_GUIDE
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # UNIFIED_MECHANICS_GUIDE
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 > **IMPORTANT**: This document supersedes all other mechanics files in cases of conflict. Use this as the primary reference for all game mechanics.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Table of Contents
 1. [Core Difficulty Classes](#core-difficulty-classes)
@@ -342,7 +345,6 @@ When using older mechanics files, convert as follows:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Someone is hunting a witness for money
@@ -351,7 +353,6 @@ When using older mechanics files, convert as follows:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

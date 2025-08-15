@@ -1,3 +1,12 @@
+---
+title: Celestial Spirit Defender Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Celestial Spirit Defender Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg)
 
-# [[celestial-spirit-defender-xphb|Celestial Spirit (Defender)]]
+# [[celestial spirit defender xphb|Celestial Spirit (Defender)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -66,7 +75,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -78,11 +86,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

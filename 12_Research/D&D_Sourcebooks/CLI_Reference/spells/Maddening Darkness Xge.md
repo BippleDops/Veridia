@@ -1,90 +1,47 @@
-# Maddening Darkness Xge
-
 ---
 title: Maddening Darkness Xge
-aliases:
-- Maddening Darkness
 type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/xge
-- mechanics/magic
-- research
-- world/both
-- active
 - note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Warlock
-- Wizard
-- Wizard (Evoker)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.589552+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Maddening Darkness
-*8th-level, Evocation*  
+# Maddening Darkness Xge
 
-- **Casting time:** 1 Action
-- **Range:** 150 feet
-- **Components:** V, M (a drop of pitch mixed with a drop of mercury)
-- **Duration:** Concentration, up to 10 minutes
+## Overview
+This document contains important information regarding Maddening Darkness Xge and its role within the greater narrative.
 
-Magical darkness spreads from a point you choose within range to fill a 60-foot-radius sphere until the spell ends. The darkness spreads around corners. A creature with [[senses#Darkvision|darkvision]] can't see through this darkness. Non-magical light, as well as light created by spells of 8th level or lower, can't illuminate the area.
+## Description
+Maddening Darkness Xge represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking `8d8` psychic damage on a failed save, or half as much damage on a successful one.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+## Details
+### Background
+Historical context and development over time.
 
-*Source: Xanathar's Guide to Everything p. 160*
+### Current State
+Present circumstances and ongoing relevance.
 
+### Future Potential
+Possible developments and plot directions.
 
-## 🔧 Deep Evaluation Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Maddening darkness xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of maddening darkness xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around maddening darkness xge.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Someone is blackmailing a witness for money
-- A prisoner has gone missing and chaos spreads
-- Someone is searching for information for love
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

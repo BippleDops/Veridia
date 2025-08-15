@@ -1,3 +1,12 @@
+---
+title: Ancient Black Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ancient Black Dragon Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-black-dragon-xmm-ancient-black-dragon-xmm.svg)
 
-# [[ancient-black-dragon-xmm|Ancient Black Dragon]]
+# [[ancient black dragon xmm|Ancient Black Dragon]]
 *Source: Monster Manual (2024) p. 40. Available in the SRD and the Free Rules (2024)*  
 
 Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt the land, raise undead hordes, bind fiends, and replicate magical disasters. Ancient black dragons strive to create vast, dead domains where they are the greatest things that remain.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Black Dragons
 
@@ -108,35 +111,35 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
+      \ use of Spellcasting to cast [[melfs acid arrow xphb|Melf's Acid Arrow]]\
       \ (level 4 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +15, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 9 (2d8) Acid damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 22, each creature in a 90-foot-long, 10-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 67 (15d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit\
-      \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[fear-xphb|Fear]], [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
-      \ (level 4 version)\n\n1/day each: [[create-undead-xphb|Create Undead]],\
-      \ [[speak-with-dead-xphb|Speak with Dead]], [[vitriolic-sphere-xphb|Vitriolic\]]
+      \ with spell attacks):\n\nAt will: [[detect magic xphb|Detect Magic]],\
+      \ [[fear xphb|Fear]], [[melfs acid arrow xphb|Melf's Acid Arrow]]\
+      \ (level 4 version)\n\n1/day each: [[create undead xphb|Create Undead]],\
+      \ [[speak with dead xphb|Speak with Dead]], [[vitriolic sphere xphb|Vitriolic\]]
       \ Sphere]] (level 5 version)"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "Dexterity Saving Throw: DC 21, one creature the dragon can see within\
-      \ 120 feet. Failure: 33 (6d10) Poison damage, and the target has [[disadvantage-xphb|Disadvantage]]\
+      \ 120 feet. Failure: 33 (6d10) Poison damage, and the target has [[disadvantage xphb|Disadvantage]]\
       \ on saving throws to maintain [[conditions#Concentration|Concentration]]\
       \ until the end of its next turn. Failure or Success: The dragon can't take\
       \ this action again until the start of its next turn."
     "name": "Cloud of Insects"
-  - "desc": "The dragon uses Spellcasting to cast [[fear-xphb|Fear]].\
+  - "desc": "The dragon uses Spellcasting to cast [[fear xphb|Fear]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Frightful Presence"
-  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -144,7 +147,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ by its presence, creating the following effects:"
     "name": ""
   - "desc": "- Acrid Haze. Odorous and stifling fog covers the area within 1 mile\
-      \ of the lair, rendering that area [[lightly-obscured-xphb|Lightly Obscured]].\
+      \ of the lair, rendering that area [[lightly obscured xphb|Lightly Obscured]].\
       \ Travel for creatures other than the dragon and its allies takes twice the\
       \ usual time in that area.  \n- Foul Water. Water sources within 1 mile\
       \ of the lair are supernaturally fouled. A creature that drinks such water must\
@@ -177,14 +180,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

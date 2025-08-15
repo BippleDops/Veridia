@@ -1,3 +1,12 @@
+---
+title: Deities of Greyhawk Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deities of Greyhawk Phb
 
 ---
@@ -48,14 +57,13 @@ world: Both
 | Pholtus, god of light and law | LG | Light | Silver sun or full moon partially eclipsed by a smaller crescent moon |
 | Ralishaz, god of ill luck and insanity | CN | Trickery | Three bone fate-casting sticks |
 | Rao, god of peace and reason | LG | Knowledge | White heart |
-| [[greyhawk-st-cuthbert|St. Cuthbert]], god of common sense and zeal | LN | Knowledge | Circle at the center of a starburst of lines |
+| [[greyhawk st cuthbert|St. Cuthbert]], god of common sense and zeal | LN | Knowledge | Circle at the center of a starburst of lines |
 | Tharizdun, god of eternal darkness | CE | Trickery | Dark spiral or inverted ziggurat |
 | Trithereon, god of liberty and retribution | CG | War | Triskelion |
 | Ulaa, goddess of hills and mountains | LG | Life, War | Mountain with a circle at its heart |
 | Vecna, god of evil secrets | NE | Knowledge | Hand with eye in the palm |
 | Wee Jas, goddess of magic and death | LN | Death, Knowledge | Red skull in front of fireball |
 ^deities-of-greyhawk
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a portal
@@ -105,11 +107,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

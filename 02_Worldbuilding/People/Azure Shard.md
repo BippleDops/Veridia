@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-azure-shard-azure-shard.svg]]
 
 # Azure Shard
 *The Sky-Watcher, Guardian of the Heavens' Heart, The Blue Oracle*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,9 +67,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
@@ -82,25 +75,18 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 Azure Shard is both a person and an artifact—the human guardian who has become permanently merged with the Azure Shard of Sky and Storm, one of the legendary Seven Shards that once formed the Crown of Stars. Originally named Celeste Windwhisper, she transformed herself into the living embodiment of the Azure Shard three centuries ago to protect it from corruption during the great Shattering. Now she exists as an immortal guardian, watching over [[Aethermoor]] from her floating observatory, forever scanning the skies for threats and maintaining the delicate balance of weather and wind.
@@ -482,11 +468,9 @@ Azure Shard is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Azure Shard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Azure Shard.
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Cultural Practices
 
@@ -499,7 +483,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

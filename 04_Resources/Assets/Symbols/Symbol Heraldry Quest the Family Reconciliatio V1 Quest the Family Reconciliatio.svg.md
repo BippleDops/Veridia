@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,13 +39,9 @@ improvements: 20
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 
 ### Accessibility Improvements
 
-- Include content warnings and safety tools
 - Include content warnings and safety tools
 
 ### Session_Zero Improvements
@@ -65,7 +58,6 @@ improvements: 20
 
 ### Props Improvements
 
-- List physical props and handouts needed
 - List physical props and handouts needed
 
 ### Backup Improvements
@@ -84,7 +76,6 @@ improvements: 20
 
 - Connect to three other adventures in the vault
 
-
 ## Adventure Overview
 
 An exciting quest that challenges heroes to uncover the truth.
@@ -101,7 +92,6 @@ An exciting quest that challenges heroes to uncover the truth.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Treasure Parcels
 
 ### Parcel A (Combat Victory)
@@ -113,7 +103,6 @@ An exciting quest that challenges heroes to uncover the truth.
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
-
 
 ## Adventure Pacing
 
@@ -131,7 +120,6 @@ An exciting quest that challenges heroes to uncover the truth.
 - Final confrontation
 - Consequences
 - Epilogue hooks
-
 
 ## Critical Decisions
 

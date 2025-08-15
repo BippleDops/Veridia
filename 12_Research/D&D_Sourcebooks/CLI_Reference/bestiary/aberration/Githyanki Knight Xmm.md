@@ -1,3 +1,12 @@
+---
+title: Githyanki Knight Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githyanki Knight Xmm
 
 ---
@@ -30,13 +39,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-githyanki-knight-xmm-githyanki-knight-xmm.png]]
 
 # [[githyanki-knight-xmm|Githyanki Knight]]
 *Source: Monster Manual (2024) p. 135*  
 
 Githyanki knights wield silver blades to slay magic-users who use the [[astral-projection-xphb|Astral Projection]] spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ Githyanki knights wield silver blades to slay magic-users who use the [[astral-p
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Githyanki
 
@@ -96,7 +98,7 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "cr": "8"
 "actions":
   - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
-      \ with a use of Spellcasting to cast [[telekinesis-xphb|Telekinesis]]\
+      \ with a use of Spellcasting to cast [[telekinesis xphb|Telekinesis]]\
       \ if available."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
@@ -108,9 +110,9 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
       At will: [[mage-hand-xphb|Mage Hand]] (the hand\
-      \ is Invisible)\n\n2/day each: [[nondetection-xphb|Nondetection]]\
-      \ (self only), [[tongues-xphb|Tongues]]\n\n1/day\
-      \ each: [[plane-shift-xphb|Plane Shift]], [[telekinesis-xphb|Telekinesis]]"
+      \ is Invisible)\n\n2/day each: [[nondetection xphb|Nondetection]]\
+      \ (self only), [[tongues xphb|Tongues]]\n\n1/day\
+      \ each: [[plane-shift-xphb|Plane Shift]], [[telekinesis xphb|Telekinesis]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
@@ -142,21 +144,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

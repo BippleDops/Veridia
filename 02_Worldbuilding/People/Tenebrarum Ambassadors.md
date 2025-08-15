@@ -25,14 +25,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg]]
 
 # The Tenebrarum Ambassadors
 *Voices from the Shadow Realm, Diplomats of the Dark Current*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,24 +57,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -88,9 +77,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 The Tenebrarum Ambassadors represent a mysterious shadow realm that exists parallel to both Aquabyssos and the surface world. These diplomatic figures serve as intermediaries between their shadowy domain and the underwater kingdom, negotiating treaties, trade agreements, and mutual defense pacts. Their embassy, located in the darkest districts of [[Abyssos Prime]], operates under ancient diplomatic immunities while pursuing their realm's complex political agenda.
@@ -227,7 +213,6 @@ Tenebrarum Ambassadors is a void-touched element of the setting, known for impos
 ## Lore Details
 
 Legends speak of Tenebrarum Ambassadors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tenebrarum Ambassadors.
-
 
 ## Prophecy Connection
 

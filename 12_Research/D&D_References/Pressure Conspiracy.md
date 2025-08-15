@@ -1,3 +1,12 @@
+---
+title: Pressure Conspiracy
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure Conspiracy
 
 ---
@@ -17,8 +26,6 @@ updated: '2025-08-13T01:18:35.004488+00:00'
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-the-pressure-conspiracy.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -31,11 +38,6 @@ updated: '2025-08-13T01:18:35.004488+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

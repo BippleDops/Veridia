@@ -1,3 +1,12 @@
+---
+title: Alchemists Doom Scc
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alchemists Doom Scc
 
 ---
@@ -36,7 +45,6 @@ This sticky, adhesive fluid ignites when exposed to air. As an action, you can t
 
 *Source: Strixhaven: A Curriculum of Chaos p. 179*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ This sticky, adhesive fluid ignites when exposed to air. As an action, you can t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

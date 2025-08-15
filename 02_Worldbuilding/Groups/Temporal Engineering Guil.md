@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-temporal-engineering-guil-temporal-engineering-guil.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,9 +54,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
@@ -68,8 +61,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -83,17 +74,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -109,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Economic Structure
 
@@ -128,7 +115,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

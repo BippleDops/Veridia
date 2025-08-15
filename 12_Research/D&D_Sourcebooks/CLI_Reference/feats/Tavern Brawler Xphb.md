@@ -1,3 +1,12 @@
+---
+title: Tavern Brawler Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tavern Brawler Xphb
 
 ---
@@ -36,7 +45,6 @@ You gain the following benefits.
 
 **Push.** When you hit a creature with an Unarmed Strike as part of the [[actions#Attack|Attack]] action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ You gain the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

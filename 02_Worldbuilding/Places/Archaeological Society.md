@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archaeological-society-archaeological-society.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,18 +56,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -85,13 +76,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -139,8 +127,6 @@ Ongoing situations affecting Archaeological Society:
 - External threats
 - Opportunities arising
 
-
-
 ## Economic Structure
 
 ### Currency
@@ -158,7 +144,6 @@ Ongoing situations affecting Archaeological Society:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -42,17 +42,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-mad-bell-ringer-thomas-mad-bell-ringer-thomas.svg]]
 
 # Mad Bell-Ringer Thomas
 *The Prophet of Tolling Truth*
 
 > *"The bells know, they always know! Listen to their voices, for they speak of tides yet to come, of storms yet to break, of sorrows yet to drown the unwary!"*
 > — Mad Bell-Ringer Thomas, during one of his prophetic episodes
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,29 +77,21 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
@@ -113,7 +101,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -364,12 +351,9 @@ Ongoing situations affecting Mad Bell-Ringer Thomas:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Historical Timeline
 

@@ -25,14 +25,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg]]
 
 # Captain Thaddeus Blackwater
 *The Lost Explorer, Seeker of Truth*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,7 +57,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
@@ -74,13 +69,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -90,13 +81,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 Captain Thaddeus Blackwater was [[Aethermoor]]'s most famous explorer before his expedition vanished in [[The Crystalline Wastes]] two months ago. Secretly funded by [[Queen Seraphina Lumengarde]] to find the Seventh Shard, he discovered something that changed everything—but his final message was cut short.
@@ -243,7 +231,6 @@ Captain Thaddeus Blackwater is a undersea element of the setting, known for biol
 ## Lore Details
 
 Legends speak of Captain Thaddeus Blackwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Thaddeus Blackwater.
-
 
 ## Economic Structure
 

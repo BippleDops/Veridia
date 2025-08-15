@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-luminous-crystalbeam-keeper-luminous-crystalbeam.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,20 +53,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -140,8 +128,6 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -154,12 +140,10 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - DC 16 to detect
 - 6d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Detect Magic**
   - School: Divination
   - Manifestation: Permanent
-
 
 ## Temporal Layers
 
@@ -173,11 +157,9 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Hidden Prophecy of Stars
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Cultural Practices
 
@@ -191,7 +173,6 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -203,7 +184,6 @@ Ongoing situations affecting Keeper Luminous Crystalbeam:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

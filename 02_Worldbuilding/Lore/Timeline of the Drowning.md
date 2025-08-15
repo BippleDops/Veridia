@@ -32,12 +32,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Timeline of the Drowning
 
 *The Great Submersion That Created Aquabyssos*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,39 +63,30 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -123,7 +111,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Major Population Centers:**
 1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
 2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime - Pressure Terminal]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime   Pressure Terminal]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
 5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
 6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]
@@ -183,7 +171,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Shadow corruption beginning to manifest in aquatic forms
 - Memory alterations affecting those who interact with anomalous water
 - Temporal distortions around major bodies of water
-- First appearance of [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/legendary-group/aboleth]] creatures in accessible depths
+- First appearance of [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/legendary group/aboleth]] creatures in accessible depths
 
 **Year -10 BS: The False Tides**
 - Daily "phantom tides" occurring hundreds of miles inland
@@ -627,8 +615,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -645,7 +631,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

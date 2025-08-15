@@ -1,3 +1,12 @@
+---
+title: Reference Homebrew Bestiary Custom Homebrew Monster
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rules_Reference - Homebrew - Bestiary - Custom Homebrew Monster
 
 ---
@@ -45,10 +54,8 @@ world: Both
 "hit_dice": "16d8 + 48"
 "stats":
 - !!int "13"
-- !!int "13"
 - !!int "14"
 - !!int "12"
-- !!int "10"
 - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "saves":
@@ -102,7 +109,6 @@ world: Both
 
 *With a flattened, lupine face and skin pulled taught over its skeletal frame, the creature is terrible to behold. It wears entrails and bones of previous victims over its dark red fur and has black spikes jutting from its spine.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -114,15 +120,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Favor Warlike Lords
 
-While [[03_Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob|Qorgeth]] (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [[03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex|Chittr'k'k]], and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [[03_Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob|Mechuiti]], lord of cannibals, and to [[03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex|Typhon]], lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [[03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex|hierophant liches]], [[03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob|umbral vampires]], or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
+While [[03 Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob|Qorgeth]] (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [[03 Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex|Chittr'k'k]], and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [[03 Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob|Mechuiti]], lord of cannibals, and to [[03 Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex|Typhon]], lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [[03 Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex|hierophant liches]], [[03 Mechanics/CLI/bestiary/fiend/umbral-vampire-tob|umbral vampires]], or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
 
 ## Pack of Cannibals
 
@@ -158,16 +159,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

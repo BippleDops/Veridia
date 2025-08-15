@@ -1,3 +1,12 @@
+---
+title: Bag of Devouring Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bag of Devouring Xdmg
 
 ---
@@ -28,7 +37,7 @@ world: Both
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/bag-of-devouring.webp#right)
 
-This bag resembles a [[bag-of-holding-xdmg|Bag of Holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+This bag resembles a [[bag of holding xdmg|Bag of Holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
 The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can take an action to try to escape, doing so with a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check. Another creature can take an action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength ([[skills#Athletics|Athletics]]) check, provided the puller isn't pulled inside the bag first. Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
@@ -37,7 +46,6 @@ Iimate objects can be stored in the bag, which can hold a cubic foot of such mat
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ If the bag is pierced or torn, it is destroyed, and anything contained within it
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

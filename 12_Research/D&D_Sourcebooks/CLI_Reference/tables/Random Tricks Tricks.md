@@ -1,3 +1,12 @@
+---
+title: Random Tricks Tricks
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Tricks Tricks
 
 ---
@@ -41,30 +50,29 @@ world: Both
 | 23-26 | Creates an illusion |
 | 27-29 | Suppresses magic items for a time |
 | 30-32 | Enlarges or reduces characters |
-| 33-35 | [[magic-mouth-xphb|Magic mouth]] speaks a riddle |
-| 36-38 | [[confusion-xphb|Confusion]] (targets all creatures within 10 ft.) |
+| 33-35 | [[magic mouth xphb|Magic mouth]] speaks a riddle |
+| 36-38 | [[confusion xphb|Confusion]] (targets all creatures within 10 ft.) |
 | 39-41 | Gives directions (true or false) |
 | 42-44 | Grants a wish |
 | 45-47 | Flies about to avoid being touched |
-| 48-50 | Casts [[geas-xphb|geas]] on the characters |
+| 48-50 | Casts [[geas xphb|geas]] on the characters |
 | 51-53 | Increases, reduces, negates, or reverses gravity |
 | 54-56 | Induces greed |
 | 57-59 | Contains an imprisoned creature |
 | 60-62 | Locks or unlocks exits |
 | 63-65 | Offers a game of chance, with the promise of a reward or valuable information |
 | 66-68 | Helps or harms certain types of creatures |
-| 69-71 | Casts [[polymorph-xphb|polymorph]] on the characters (lasts 1 hour) |
+| 69-71 | Casts [[polymorph xphb|polymorph]] on the characters (lasts 1 hour) |
 | 72-75 | Presents a puzzle or riddle |
 | 76-78 | Prevents movement |
 | 79-81 | Releases coins, false coins, gems, false gems, a magic item, or a map |
 | 82-84 | Releases, summons, or turns into a monster |
-| 85-87 | Casts [[suggestion-xphb|suggestion]] on the characters |
+| 85-87 | Casts [[suggestion xphb|suggestion]] on the characters |
 | 88-90 | Wails loudly when touched |
 | 91-93 | Talks (normal speech, nonsense, poetry and rhymes, singing, spellcasting, or screaming) |
 | 94-97 | Teleports characters to another place |
 | 98-00 | Swaps two or more characters' minds |
 ^tricks
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,11 +85,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,11 +102,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

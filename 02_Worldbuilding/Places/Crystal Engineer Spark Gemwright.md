@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystal-engineer-spark-gemwright-crystal-engineer-spark-gemwright.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,24 +52,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
@@ -83,12 +72,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -139,8 +126,6 @@ Ongoing situations affecting Crystal Engineer Spark Gemwright:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the government
@@ -160,7 +145,6 @@ Ongoing situations affecting Crystal Engineer Spark Gemwright:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -172,7 +156,6 @@ Ongoing situations affecting Crystal Engineer Spark Gemwright:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

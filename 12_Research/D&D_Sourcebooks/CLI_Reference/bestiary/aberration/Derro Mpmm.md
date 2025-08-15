@@ -1,3 +1,12 @@
+---
+title: Derro Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Derro Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-mpmm-derro-mpmm.svg)
 
-# [[derro-mpmm|Derro]]
+# [[derro mpmm|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -54,7 +63,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather armor xphb|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -95,7 +104,6 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -107,11 +115,6 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -132,7 +135,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Potion of Mind Reading Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Mind Reading Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[detect-thoughts-xphb|Detect Thoughts]] spell (save DC 13) for 10 minutes (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the effect of the [[detect thoughts xphb|Detect Thoughts]] spell (save DC 13) for 10 minutes (no [[conditions#Concentration|Concentration]] required).
 
 This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,16 +75,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -93,16 +93,13 @@ Mentioned in The Second Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

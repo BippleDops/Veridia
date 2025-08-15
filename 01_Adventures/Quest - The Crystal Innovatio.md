@@ -1,3 +1,12 @@
+---
+title: Quest - The Crystal Innovatio
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Crystal Innovatio
 
 ---
@@ -16,8 +25,6 @@ updated: '2025-08-13T01:18:36.648784+00:00'
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ updated: '2025-08-13T01:18:36.648784+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,21 +54,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

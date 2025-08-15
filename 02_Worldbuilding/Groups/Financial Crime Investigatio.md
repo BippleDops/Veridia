@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigatio-ficial-crime-investigatio.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,12 +51,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -69,7 +62,6 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -83,8 +75,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
@@ -93,7 +83,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -129,7 +118,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -153,7 +141,6 @@ Things widely suspected
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -165,7 +152,6 @@ Things widely suspected
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

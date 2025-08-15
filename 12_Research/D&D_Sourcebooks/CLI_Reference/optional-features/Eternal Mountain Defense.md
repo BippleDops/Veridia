@@ -1,3 +1,12 @@
+---
+title: Eternal Mountain Defense
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eternal Mountain Defense
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [[stoneskin-xphb|stoneskin]], targeting yourself.
-
+You can spend 5 ki points to cast [[stoneskin xphb|stoneskin]], targeting yourself.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can spend 5 ki points to cast [[stoneskin-xphb|stoneskin]], targeting yourse
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: combat_narrative_integration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # combat_narrative_integration
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Weaving Story Elements into Tactical Encounters
 
@@ -200,11 +203,9 @@ Effective combat narrative integration shows:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

@@ -268,7 +268,6 @@ Your Obsidian TTRPG Vault is now the most comprehensive, interconnected, and enh
 - Related: [[Regional Politics]]
 - Connected to: [[World Events]]
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*

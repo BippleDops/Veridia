@@ -39,14 +39,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Surface Signals
 
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
-
 *The crackling voices from the world above the waves*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -83,12 +78,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -110,13 +102,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -529,11 +518,11 @@ Surface Signals serves as:
 
 ## See Also
 
-- [[02_Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
-- [[02_Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
-- [[02_Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
+- [[02 Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
+- [[02 Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
+- [[02 Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
 - [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems]]
-- [[02_Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
+- [[02 Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
 
 *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."*
 
@@ -575,12 +564,9 @@ Ongoing situations affecting Surface Signals:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Prophecy Connection
 

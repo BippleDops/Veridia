@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 
 # The Order of the Flowing Current
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,8 +68,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
@@ -81,7 +75,6 @@ improvements: 20
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
@@ -91,13 +84,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -107,7 +96,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Organization Overview and Purpose
 The Order of the Flowing Current represents the most prestigious martial arts organization in [[Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
@@ -345,11 +333,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

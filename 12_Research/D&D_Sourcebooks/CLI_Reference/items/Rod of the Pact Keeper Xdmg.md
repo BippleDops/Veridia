@@ -1,3 +1,12 @@
+---
+title: Rod of the Pact Keeper Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rod of the Pact Keeper Xdmg
 
 ---
@@ -34,12 +43,11 @@ world: Both
 
 **Items in this group:**
 
-- [[1-rod-of-the-pact-keeper-xdmg|+1 Rod of the Pact Keeper]]
-- [[2-rod-of-the-pact-keeper-xdmg|+2 Rod of the Pact Keeper]]
-- [[3-rod-of-the-pact-keeper-xdmg|+3 Rod of the Pact Keeper]]
+- [[1 rod of the pact keeper xdmg|+1 Rod of the Pact Keeper]]
+- [[2 rod of the pact keeper xdmg|+2 Rod of the Pact Keeper]]
+- [[3 rod of the pact keeper xdmg|+3 Rod of the Pact Keeper]]
 
 *Source: Dungeon Master's Guide (2024) p. 301*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

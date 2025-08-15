@@ -1,3 +1,12 @@
+---
+title: Quick_Reference - DnD5e-SideScreen-2014
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quick_Reference - DnD5e-SideScreen-2014
 
 ---
@@ -43,8 +52,8 @@ updated: '2025-08-13T01:18:37.135037+00:00'
 > [[08-using-ability-scores#Charisma|Charisma]]
 
 > [!info]- Checks
-> [[09-adventuring#Vision and Light|Vision and Light]]
-> [[detect-magic-xphb|Detect Magic]]
+> [[09 adventuring#Vision and Light|Vision and Light]]
+> [[detect magic xphb|Detect Magic]]
 > [[08-using-ability-scores#Advantage and Disadvantage|Advantage and Disadvantage]]
 > [[08-using-ability-scores#Proficiency Bonus|Proficiency Bonus]]
 > [[08-using-ability-scores#Ability Checks|Ability Checks]]
@@ -85,45 +94,45 @@ updated: '2025-08-13T01:18:37.135037+00:00'
 > [[actions|Escape a Grapple]]
 
 > [!info]- Misc. Combat
-> [[10-combat#Surprise|Surprise]]
-> [[10-combat#Initiative|Initiative]]
-> [[10-combat#Reactions|Reactions]]
-> [[10-combat#Moving around Other Creatures|Moving around Other Creatures]]
-> [[10-combat#Unseen Attackers and Targets|Unseen Attackers and Targets]]
-> [[10-combat#Grappling|Grappling]]
-> [[10-combat#Shoving a Creature|Shoving a Creature]]
+> [[10 combat#Surprise|Surprise]]
+> [[10 combat#Initiative|Initiative]]
+> [[10 combat#Reactions|Reactions]]
+> [[10 combat#Moving around Other Creatures|Moving around Other Creatures]]
+> [[10 combat#Unseen Attackers and Targets|Unseen Attackers and Targets]]
+> [[10 combat#Grappling|Grappling]]
+> [[10 combat#Shoving a Creature|Shoving a Creature]]
 > [[10-combat#Two-Weapon Fighting|Two-Weapon Fighting]]
-> [[06-equipment#Improvised Weapons|Improvised Weapons]]
-> [[10-combat#Being Prone|Being Prone]]
-> [[10-combat#Ranged Attacks in Close Combat|Ranged Attacks in Close Combat]]
-> [[10-combat#Mounted Combat|Mounted Combat]]
+> [[06 equipment#Improvised Weapons|Improvised Weapons]]
+> [[10 combat#Being Prone|Being Prone]]
+> [[10 combat#Ranged Attacks in Close Combat|Ranged Attacks in Close Combat]]
+> [[10 combat#Mounted Combat|Mounted Combat]]
 
 > [!info]- Movement
-> [[09-adventuring#Movement|Movement]]
-> [[09-adventuring#Difficult Terrain|Difficult Terrain]]
-> [[09-adventuring#Movement#Travel Pace|Travel Pace]]
-> [[09-adventuring#Movement#Forced March|Forced March]]
-> [[09-adventuring#Movement#Mounts and Vehicles|Mounts and Vehicles]]
-> [[09-adventuring#Movement#Difficult Terrain|Difficult Terrain]]
-> [[09-adventuring#Movement#Special Types of Movement|Special Types of Movement]]
-> [[09-adventuring#Movement#Climbing, Swimming, and Crawling|Climbing, Swimming, and Crawling]]
-> [[09-adventuring#Movement#Jumping|Jumping]]
-> [[09-adventuring#Movement#Activity While Traveling|Activity While Traveling]]
+> [[09 adventuring#Movement|Movement]]
+> [[09 adventuring#Difficult Terrain|Difficult Terrain]]
+> [[09 adventuring#Movement#Travel Pace|Travel Pace]]
+> [[09 adventuring#Movement#Forced March|Forced March]]
+> [[09 adventuring#Movement#Mounts and Vehicles|Mounts and Vehicles]]
+> [[09 adventuring#Movement#Difficult Terrain|Difficult Terrain]]
+> [[09 adventuring#Movement#Special Types of Movement|Special Types of Movement]]
+> [[09 adventuring#movement#climbing, swimming, and crawling|Climbing, Swimming, and Crawling]]
+> [[09 adventuring#Movement#Jumping|Jumping]]
+> [[09 adventuring#Movement#Activity While Traveling|Activity While Traveling]]
 
 > [!info]- Resting
-> [[09-adventuring#Food and Water|Food and Water]]
-> [[09-adventuring#Resting|Resting]]
-> [[09-adventuring#Short Rest|Short Rest]]
-> [[09-adventuring#Long Rest|Long Rest]]
-> [[09-adventuring#Recuperating|Recuperating]]
+> [[09 adventuring#Food and Water|Food and Water]]
+> [[09 adventuring#Resting|Resting]]
+> [[09 adventuring#Short Rest|Short Rest]]
+> [[09 adventuring#Long Rest|Long Rest]]
+> [[09 adventuring#Recuperating|Recuperating]]
 
 > [!info]- Healing and Death
-> [[10-combat#Damage and Healing#Healing|Healing]]
-> [[10-combat#Dropping to 0 Hit Points#Instant Death|Instant Death]]
-> [[10-combat#Dropping to 0 Hit Points#Falling Unconscious|Falling Unconscious]]
-> [[10-combat#Dropping to 0 Hit Points#Death Saving Throws|Death Saving Throws]]
-> [[10-combat#Dropping to 0 Hit Points#Stabilizing a Creature|Stabilizing a Creature]]
-> [[10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
+> [[10 combat#Damage and Healing#Healing|Healing]]
+> [[10 combat#Dropping to 0 Hit Points#Instant Death|Instant Death]]
+> [[10 combat#dropping to 0 hit points#falling unconscious|Falling Unconscious]]
+> [[10 combat#dropping to 0 hit points#death saving throws|Death Saving Throws]]
+> [[10 combat#dropping to 0 hit points#stabilizing a creature|Stabilizing a Creature]]
+> [[10 combat#dropping to 0 hit points#monsters and death|Monsters and Death]]
 
 > [!info]- Weapons and Armor
 > Weapons
@@ -159,7 +168,6 @@ updated: '2025-08-13T01:18:37.135037+00:00'
 > [[skills#Stealth|Stealth]]
 > [[skills#Survival|Survival]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -171,11 +179,6 @@ updated: '2025-08-13T01:18:37.135037+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -192,7 +195,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

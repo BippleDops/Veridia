@@ -1,3 +1,12 @@
+---
+title: Young Basilisk Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Basilisk Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-basilisk-oota-v1-young-basilisk-oota.svg)
 
-# [[young-basilisk-oota|Young Basilisk]]
+# [[young basilisk oota|Young Basilisk]]
 *Source: Out of the Abyss p. 100*  
 
 ```statblock
@@ -60,7 +69,7 @@ world: Both
       \ On a failed save, the creature magically begins to turn to stone and is [[conditions#Restrained|restrained]].\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
       \ the effect ends. On a failure, the creature is [[conditions#Petrified|petrified]]\
-      \ until freed by the  [[greater-restoration-xphb|greater restoration]]\
+      \ until freed by the  [[greater restoration xphb|greater restoration]]\
       \ spell or other magic.\n\nA creature that isn't [[conditions#Surprised|surprised]]\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
@@ -79,7 +88,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -91,11 +99,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -113,11 +116,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

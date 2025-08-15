@@ -1,3 +1,12 @@
+---
+title: The Depth Chart
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Depth Chart
 
 ---
@@ -35,7 +44,6 @@ access_restriction: Public Access with Security Restrictions
 > *"The Depth Chart doesn't just show where you are—it reveals the hidden geography of the deep, the safe passages through crushing pressures, and the secret routes that keep Aquabyssos connected. Navigation in the depths is a matter of life and death."*
 > — [[Master Cartographer Current Deepmap]], Director of Underwater Navigation Services
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ access_restriction: Public Access with Security Restrictions
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -247,7 +250,7 @@ Cooperation with [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates enhan
 - **[[Depth Survey Authority]]**: Government agency managing navigational mapping
 - **[[Emergency Navigation Response]]**: Crisis navigation and rescue coordination
 - **[[Commercial Navigation Services]]**: Private companies providing specialized navigation
-- **[[Cross-Realm Navigation Cooperation]]**: Inter-dimensional navigation collaboration
+- **[[Cross Realm Navigation Cooperation]]**: Inter-dimensional navigation collaboration
 
 ### Key Personnel
 
@@ -289,7 +292,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -302,11 +304,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

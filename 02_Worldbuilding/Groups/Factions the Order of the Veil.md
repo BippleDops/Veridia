@@ -16,10 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Factions/The Order of the Veil](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_order_of_the_veil.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,23 +45,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -74,7 +65,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
@@ -83,7 +73,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Organization Overview
 

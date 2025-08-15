@@ -1,3 +1,12 @@
+---
+title: Cloak of Elvenkind Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloak of Elvenkind Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-elvenkind.webp#right)
 
-While you wear this cloak, Wisdom ([[skills#Perception|Perception]]) checks made to perceive you have [[disadvantage-xphb|Disadvantage]], and you have [[advantage-xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
+While you wear this cloak, Wisdom ([[skills#Perception|Perception]]) checks made to perceive you have [[disadvantage xphb|Disadvantage]], and you have [[advantage xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While you wear this cloak, Wisdom ([[skills#Perception|Perception]]) checks made
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a conspiracy
@@ -79,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

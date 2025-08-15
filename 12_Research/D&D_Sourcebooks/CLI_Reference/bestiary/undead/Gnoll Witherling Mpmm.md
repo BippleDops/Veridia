@@ -1,3 +1,12 @@
+---
+title: Gnoll Witherling Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnoll Witherling Mpmm
 
 ---
@@ -34,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-gnoll-witherling-mpmm.svg)
 
-# [[gnoll-witherling-mpmm|Gnoll Witherling]]
+# [[gnoll witherling mpmm|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
 
 > [!quote] A quote from Mordenkainen  
@@ -96,7 +105,6 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -108,11 +116,6 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -134,14 +137,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

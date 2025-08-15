@@ -1,3 +1,12 @@
+---
+title: Magic Items for Sale Scc
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Items for Sale Scc
 
 ---
@@ -29,18 +38,17 @@ world: Both
 
 | Item | Rarity | Cost |
 |------|--------|------|
-| [[bottle-of-boundless-coffee-scc|Bottle of Boundless Coffee]] | Common | 100 gp |
-| [[cuddly-strixhaven-mascot-scc|Cuddly Strixhaven Mascot]] | Common | 100 gp |
-| [[lorehold-primer-scc|Lorehold Primer]] | Uncommon | 300 gp |
-| [[prismari-primer-scc|Prismari Primer]] | Uncommon | 300 gp |
-| [[quandrix-primer-scc|Quandrix Primer]] | Uncommon | 300 gp |
-| [[silverquill-primer-scc|Silverquill Primer]] | Uncommon | 300 gp |
-| [[spell-scroll-level-1-xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
+| [[bottle of boundless coffee scc|Bottle of Boundless Coffee]] | Common | 100 gp |
+| [[cuddly strixhaven mascot scc|Cuddly Strixhaven Mascot]] | Common | 100 gp |
+| [[lorehold primer scc|Lorehold Primer]] | Uncommon | 300 gp |
+| [[prismari primer scc|Prismari Primer]] | Uncommon | 300 gp |
+| [[quandrix primer scc|Quandrix Primer]] | Uncommon | 300 gp |
+| [[silverquill primer scc|Silverquill Primer]] | Uncommon | 300 gp |
+| [[spell scroll level 1 xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
 | [[strixhaven-pent-scc|Strixhaven Pent]] | Common | 100 gp |
-| [[1-weapon-xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
-| [[witherbloom-primer-scc|Witherbloom Primer]] | Uncommon | 300 gp |
+| [[1 weapon xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
+| [[witherbloom primer scc|Witherbloom Primer]] | Uncommon | 300 gp |
 ^magic-items-for-sale
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

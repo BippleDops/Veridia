@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,7 +44,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
@@ -56,30 +52,22 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -190,7 +178,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg]] (colleague)
-- [[Quest - The Refugee Emergency]] (ally)
+- [[Quest   The Refugee Emergency]] (ally)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-cipher-current-the-cipher-current.svg]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -199,7 +187,6 @@ This NPC can serve multiple roles:
 
 Member of House Eagleblood - Trait: curse
 
-
 ## Relationships
 
 - **Blackmailer**: [[Captain Rescue]]
@@ -207,7 +194,6 @@ Member of House Eagleblood - Trait: curse
 - **Rival**: [[Queen Morwyn Lumengarde]]
 - **Mentor**: [[NPC Name Generator]]
 - **Sibling**: [[Portrait NPC Captain Thrace Deeprunner V1 Captain Thrace Deeprunner.svg]]
-
 
 ## Historical Timeline
 
@@ -225,7 +211,6 @@ Member of House Eagleblood - Trait: curse
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

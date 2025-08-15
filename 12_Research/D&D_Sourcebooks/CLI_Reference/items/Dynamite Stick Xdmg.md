@@ -1,3 +1,12 @@
+---
+title: Dynamite Stick Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dynamite Stick Xdmg
 
 ---
@@ -32,14 +41,13 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
+An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere area of effect xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
 
 It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `d6` (to a maximum of `10d6`) and the effect's radius by 5 feet (to a maximum of 20 feet).
 
 It takes 1 minute to rig dynamite with a longer fuse so it explodes after a longer period of time, such as 1 minute or 10 minutes.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ It takes 1 minute to rig dynamite with a longer fuse so it explodes after a long
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -82,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

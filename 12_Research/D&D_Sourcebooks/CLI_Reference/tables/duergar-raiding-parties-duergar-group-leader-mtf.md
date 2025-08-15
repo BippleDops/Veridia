@@ -1,3 +1,12 @@
+---
+title: duergar-raiding-parties-duergar-group-leader-mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # duergar-raiding-parties-duergar-group-leader-mtf
 
 ---
@@ -30,11 +39,10 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] |
-| 2-4 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm|Duergar Warlord]] |
-| 5-6 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm|Duergar Despot]] |
+| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] |
+| 2-4 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm|Duergar Warlord]] |
+| 5-6 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm|Duergar Despot]] |
 ^duergar-group-leader
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -85,11 +86,9 @@ Mentioned in The Hidden Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

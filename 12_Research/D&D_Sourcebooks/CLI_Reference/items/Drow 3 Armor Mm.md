@@ -1,3 +1,12 @@
+---
+title: Drow 3 Armor Mm
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow 3 Armor Mm
 
 ---
@@ -66,7 +75,6 @@ You have a +3 bonus to AC while wearing this armor. This armor loses its enchant
 
 *Source: Monster Manual p. 126*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -78,11 +86,6 @@ You have a +3 bonus to AC while wearing this armor. This armor loses its enchant
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

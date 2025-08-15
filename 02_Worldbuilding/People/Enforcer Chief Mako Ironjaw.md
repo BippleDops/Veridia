@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-enforcer-chief-mako-ironjaw.svg]]
 
 # Enforcer Chief Mako Ironjaw
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,16 +55,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
@@ -82,22 +75,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
 
-
 ## Overview
-Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] and his organization, has made him legendary throughout the depths.
+Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] and his organization, has made him legendary throughout the depths.
 
 ## Secrets
 > [!warning] DM Only
@@ -192,11 +180,9 @@ Enforcer Chief Mako Ironjaw is a undersea element of the setting, known for biol
 
 Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Enforcer Chief Mako Ironjaw.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## A Day in the Life
 

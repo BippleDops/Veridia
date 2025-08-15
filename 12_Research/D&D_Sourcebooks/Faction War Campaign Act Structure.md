@@ -1,3 +1,12 @@
+---
+title: Faction War Campaign Act Structure
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faction War Campaign Act Structure
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:17.817770+00:00'
 world: Universal
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Universal
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Levels
 3–12
@@ -57,11 +60,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Related Notes
 
@@ -70,11 +71,9 @@ Mentioned in The Second Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -24,11 +24,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-old-valdris-old-valdris.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,22 +58,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -86,7 +78,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -95,7 +86,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 Old Valdris exists in a massive air bubble, perfectly preserved as it was in the moments before [[The Great Drowning]]. The city's 50,000 inhabitants are frozen in time, caught mid-action in their daily lives, turned to living crystal. The bubble is maintained by the collective dying wish of the population, and walking through the streets means witnessing the last moments of a civilization. Time moves strangely here - visitors age rapidly in some areas while becoming frozen in others.
@@ -205,12 +195,9 @@ Ongoing situations affecting Old Valdris:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Historical Timeline
 
@@ -229,7 +216,6 @@ Ongoing situations affecting Old Valdris:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -247,7 +233,6 @@ Ongoing situations affecting Old Valdris:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

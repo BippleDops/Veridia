@@ -35,10 +35,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg]]
 
 # Shadow Merchant Riptide
 
@@ -46,7 +43,6 @@ improvements: 20
 **Location:** [[Shadow Market Canals]] - Mobile operations  
 **Affiliations:** [[Shadow Surgeons Collective]], [[The Whisper Syndicate]]  
 **Specialties:** Memory trafficking, identity forgery, political blackmail
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,39 +71,30 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, dealing in stolen memories, forged identities, and political secrets. His network spans from the deepest criminal organizations to corrupt government officials. What makes him particularly dangerous is his collection of "insurance memories" - compromising experiences extracted from powerful figures that ensure his protection and influence.
@@ -273,12 +260,9 @@ Ongoing situations affecting Shadow Merchant Riptide:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Cultural Practices
 
@@ -291,7 +275,6 @@ Mentioned in The Second Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

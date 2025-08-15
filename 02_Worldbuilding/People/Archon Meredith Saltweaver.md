@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-archon-meredith-saltweaver-archon-meredith-saltweaver.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,23 +53,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -87,12 +77,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 Archon Meredith Saltweaver rules [[New Tethys]] and the [[Tethyan Hegemony]] with an iron fist wrapped in silk. A master politician and powerful hydromancer, she maintains her position through careful manipulation, strategic alliances, and rumored dark pacts. She appears as a regal woman in her 50s, though magic keeps her looking younger. Her skin has a blue-green tint from partial adaptation, and her eyes glow with an unsettling cerulean light.
@@ -183,11 +171,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Cultural Practices
 

@@ -1,3 +1,12 @@
+---
+title: Cubic Gate Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cubic Gate Xdmg
 
 ---
@@ -32,7 +41,6 @@ This cube is 3 inches across and radiates palpable magical energy. The six sides
 
 The cube has 3 charges and regains `d3` expended charges daily at dawn. As a [[actions#Magic|Magic]] action, you can expend 1 of the cube's charges to cast one of the following spells using the cube.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,19 +52,14 @@ The cube has 3 charges and regains `d3` expended charges daily at dawn. As a [[a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gate
 
-Pressing one side of the cube, you cast [[gate-xphb|Gate]], opening a portal to the plane of existence keyed to that side.
+Pressing one side of the cube, you cast [[gate xphb|Gate]], opening a portal to the plane of existence keyed to that side.
 
 ## Plane Shift
 
-Pressing one side of the cube twice, you cast [[plane-shift-xphb|Plane Shift]], transporting the targets to the plane of existence keyed to that side.
+Pressing one side of the cube twice, you cast [[plane shift xphb|Plane Shift]], transporting the targets to the plane of existence keyed to that side.
 
 *Source: Dungeon Master's Guide (2024) p. 247. Available in the SRD and the Free Rules (2024)*
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

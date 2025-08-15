@@ -1,3 +1,12 @@
+---
+title: Hostile Attitude Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hostile Attitude Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Hostile [Attitude]
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-A Hostile creature views you unfavorably. You have [[disadvantage-xphb|Disadvantage]] on an ability check to influence a Hostile creature.
-
+A Hostile creature views you unfavorably. You have [[disadvantage xphb|Disadvantage]] on an ability check to influence a Hostile creature.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A Hostile creature views you unfavorably. You have [[disadvantage-xphb|Disadvant
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,16 +64,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

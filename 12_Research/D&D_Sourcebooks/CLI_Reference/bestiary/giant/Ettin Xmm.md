@@ -1,3 +1,12 @@
+---
+title: Ettin Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ettin Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ettin-xmm-ettin-xmm.svg)
 
-# [[ettin-xmm|Ettin]]
+# [[ettin xmm|Ettin]]
 *Source: Monster Manual (2024) p. 116. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ettin
 
@@ -122,7 +125,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
       \ condition."
     "name": "Battleaxe"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
-      \ and the target has [[disadvantage-xphb|Disadvantage]]\
+      \ and the target has [[disadvantage xphb|Disadvantage]]\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Morningstar"
 "source":
@@ -151,11 +154,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## 12_Research Specific Content
 

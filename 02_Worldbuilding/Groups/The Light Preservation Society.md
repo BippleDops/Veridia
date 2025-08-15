@@ -32,14 +32,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg]]
 
 # The Light Preservation Society
 *Guardians of Authentic Humanity*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,8 +64,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
@@ -78,17 +72,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
@@ -106,7 +96,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -647,7 +636,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -665,7 +653,6 @@ Things widely suspected
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -677,7 +664,6 @@ Things widely suspected
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # creating-a-gnoll-war-band-gnoll-war-band-special-creatures-vgm
 
 ---
@@ -29,18 +38,17 @@ world: Both
 
 | dice: d20 | Special Creatures |
 |-----------|-------------------|
-| 1 | 1 [[barlgura-xmm|Barlgura]] |
-| 2-5 | `3d6` [[dretch-xmm|Dretches]] |
-| 6-8 | `2d6` [[ghoul-xmm|Ghouls]] |
-| 9-10 | `2d6` [[gnoll-witherling-mpmm|Gnoll Witherlings]] |
-| 11 | 1 [[hezrou-xmm|Hezrou]] |
-| 12-13 | `d4` [[leucrotta-mpmm|Leucrottas]] |
-| 14-16 | `2d6` [[manes-xmm|Manes]] |
-| 17-18 | `2d4` [[maw-demon-mpmm|Maw Demons]] |
-| 19 | 1 [[shoosuva-mpmm|Shoosuva]] |
-| 20 | `d3` [[troll-xmm|Trolls]] |
+| 1 | 1 [[barlgura xmm|Barlgura]] |
+| 2-5 | `3d6` [[dretch xmm|Dretches]] |
+| 6-8 | `2d6` [[ghoul xmm|Ghouls]] |
+| 9-10 | `2d6` [[gnoll witherling mpmm|Gnoll Witherlings]] |
+| 11 | 1 [[hezrou xmm|Hezrou]] |
+| 12-13 | `d4` [[leucrotta mpmm|Leucrottas]] |
+| 14-16 | `2d6` [[manes xmm|Manes]] |
+| 17-18 | `2d4` [[maw demon mpmm|Maw Demons]] |
+| 19 | 1 [[shoosuva mpmm|Shoosuva]] |
+| 20 | `d3` [[troll xmm|Trolls]] |
 ^gnoll-war-band-special-creatures
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals the truth about a local noble
@@ -84,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

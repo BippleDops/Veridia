@@ -1,3 +1,12 @@
+---
+title: Bracers of Archery Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bracers of Archery Xdmg
 
 ---
@@ -32,7 +41,6 @@ While wearing these bracers, you have proficiency with the Longbow and Shortbow,
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ While wearing these bracers, you have proficiency with the Longbow and Shortbow,
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

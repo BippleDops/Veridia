@@ -1,3 +1,12 @@
+---
+title: Wizard Xphb War Magic Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wizard Xphb War Magic Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # War Magic
-*[[wizard-xphb|Wizard]]: Wizard Subclass*  
+*[[wizard xphb|Wizard]]: Wizard Subclass*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -62,7 +71,7 @@ A variety of arcane colleges specialize in training wizards for war. The traditi
 
 Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.
 
-In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty [[fireball-xphb|fireball]] if I die before I can cast it?"
+In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty [[fireball xphb|fireball]] if I die before I can cast it?"
 
 ### Arcane Deflection (Level 2)
 
@@ -78,7 +87,7 @@ Starting at 2nd level, your keen ability to assess tactical situations allows yo
 
 Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a power surge.
 
-You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [[dispel-magic-xphb|dispel magic]] or [[counterspell-xphb|counterspell]], you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
+You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [[dispel magic xphb|dispel magic]] or [[counterspell xphb|counterspell]], you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
 
 Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level.
 
@@ -89,7 +98,6 @@ Beginning at 10th level, the magic you channel helps ward off harm. While you ma
 ### Deflecting Shroud (Level 14)
 
 At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -102,11 +110,6 @@ At 14th level, your Arcane Deflection becomes infused with deadly magic. When yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -123,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

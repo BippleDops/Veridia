@@ -1,3 +1,12 @@
+---
+title: Quest - Foreign Interests
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Foreign Interests
 
 ---
@@ -34,7 +43,6 @@ obsidianUIMode: preview
 # Quest - Foreign Interests
 *Spies in the Crystal Court, The Ambassador's Game, Shadows Across Borders*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,14 +54,9 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
-Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] ahead of the [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
+Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] ahead of the [[Quest   The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
 
 ### The Political Situation
 **Why Now?**
@@ -103,7 +106,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 World
 
 ### Opening Scene
 **The Queen's Request**
-**Location**: [[The Crystal Palace - Throne Room]]
+**Location**: [[The Crystal Palace   Throne Room]]
 
 **Read Aloud:**
 *"These delegations arrive with smiles and gifts, but I taste poison in their wine and see daggers behind their bows. I need eyes and ears I can trust—yours. Officially, you'll be cultural liaisons. Unofficially, discover what each delegation truly wants and prevent catastrophe."*
@@ -278,8 +281,6 @@ Legends speak of Quest   Foreign Interests as a nexus where past and present con
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## 12_Research Specific Content
 

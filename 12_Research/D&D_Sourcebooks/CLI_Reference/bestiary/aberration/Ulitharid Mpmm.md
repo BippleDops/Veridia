@@ -1,3 +1,12 @@
+---
+title: Ulitharid Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ulitharid Mpmm
 
 ---
@@ -31,14 +40,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ulitharid-mpmm-ulitharid-mpmm.svg)
 
-# [[ulitharid-mpmm|Ulitharid]]
+# [[ulitharid mpmm|Ulitharid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  
 
-Very rarely, when a tadpole from the brine pool of an [[elder-brain-mpmm|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[mind-flayer-xmm|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[elder-brain-mpmm|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[elder-brain-mpmm|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
+Very rarely, when a tadpole from the brine pool of an [[elder brain mpmm|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[mind flayer xmm|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[elder brain mpmm|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[elder brain mpmm|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
 
-When an ulitharid finds sharing leadership with an [[elder-brain-mpmm|elder brain]] insufferable, it breaks off from the colony, taking a group of [[mind-flayer-xmm|mind flayers]] with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [[elder-brain-mpmm|elder brain]] for the colony.
+When an ulitharid finds sharing leadership with an [[elder brain mpmm|elder brain]] insufferable, it breaks off from the colony, taking a group of [[mind flayer xmm|mind flayers]] with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [[elder brain mpmm|elder brain]] for the colony.
 
-This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [[elder-brain-mpmm|elder brain]].
+This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [[elder brain mpmm|elder brain]].
 
 ```statblock
 "name": "Ulitharid (MPMM)"
@@ -47,7 +56,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "subtype": "mind flayer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[[breastplate-xphb|breastplate]]"
+"ac_class": "[[breastplate xphb|breastplate]]"
 "hp": !!int "127"
 "hit_dice": "17d10 + 14"
 "modifier": !!int "1"
@@ -76,8 +85,8 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
   - "desc": "The ulitharid is aware of the presence of creatures within 2 miles of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [[mind-blank-xphb|mind blank]]\
-      \ spell, a [[nondetection-xphb|nondetection]] spell,\
+      \ but can't sense anything else about it. A creature protected by a [[mind blank xphb|mind blank]]\
+      \ spell, a [[nondetection xphb|nondetection]] spell,\
       \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The ulitharid has advantage on saving throws against spells and other\
@@ -112,13 +121,13 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The ulitharid casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      At will: [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\]]
-      \ monster]], [[befuddlement-xphb|feeblemind]],\
-      \ [[mass-suggestion-xphb|mass suggestion]], [[plane-shift-xphb|plane\]]
-      \ shift]] (self only), [[project-image-xphb|project\]]
-      \ image]], [[scrying-xphb|scrying]],\
-      \ [[telekinesis-xphb|telekinesis]]"
+      At will: [[detect thoughts xphb|detect thoughts]],\
+      \ [[levitate xphb|levitate]]\n\n1/day each: [[dominate monster xphb|dominate\]]
+      \ monster]], [[befuddlement xphb|feeblemind]],\
+      \ [[mass suggestion xphb|mass suggestion]], [[plane shift xphb|plane\]]
+      \ shift]] (self only), [[project image xphb|project\]]
+      \ image]], [[scrying xphb|scrying]],\
+      \ [[telekinesis xphb|telekinesis]]"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
@@ -126,7 +135,6 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "image": "/03_Mechanics/CLI/bestiary/aberration/token/ulitharid-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -139,11 +147,6 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -165,21 +168,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

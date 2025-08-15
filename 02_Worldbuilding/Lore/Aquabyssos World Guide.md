@@ -30,12 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Aquabyssos World Guide
-
-![[04_Resources/Assets/Art/Lore/Aquabyssos_World_Guide.png|Aquabyssos World Guide Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,24 +59,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
@@ -91,12 +79,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Summary
 
@@ -121,8 +107,6 @@ Aquabyssos World Guide represents an important aspect of the world's history, cu
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Cultural Practices
 

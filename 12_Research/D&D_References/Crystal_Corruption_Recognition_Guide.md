@@ -1,3 +1,12 @@
+---
+title: Crystal_Corruption_Recognition_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal_Corruption_Recognition_Guide
 
 ---
@@ -21,7 +30,6 @@ world: Both
 
 *Essential safety information for identifying and responding to corrupted crystals*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## ⚠️ CRITICAL WARNING ⚠️
 **Corrupted crystals pose extreme danger to mental and physical health. Do not handle suspected corrupted materials without proper protective equipment and training.**
@@ -119,11 +122,9 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

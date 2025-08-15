@@ -1,3 +1,12 @@
+---
+title: Quest - The Crown Reborn
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Crown Reborn
 
 ---
@@ -32,7 +41,6 @@ obsidianUIMode: preview
 # Quest - The Crown Reborn
 *Unite the Seven Shards and Restore the Ancient Crown of Stars*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -99,7 +102,7 @@ The first Shard lies trapped in the memory prison where [[The Shadow Conspiracy|
 
 ### Scene 3: Political Complications
 **Location**: Various political meetings and courts
-**NPCs**: [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] leaders, [[Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]], [[Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
+**NPCs**: [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] leaders, [[Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]], [[Senator Glaucus Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
 
 Word of the party's activities reaches multiple factions. Each tries to recruit, threaten, or manipulate them:
 
@@ -132,7 +135,7 @@ The second and third Shards are hidden in separate locations known only through 
 
 ### Scene 5: The Tidal Throne
 **Location**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]'s deepest sanctum
-**NPCs**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]], his court, [[Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
+**NPCs**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]], his court, [[Duchess Marina Ever Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
 
 The Emperor agrees to parley about the Shards' locations, but his price is steep - he wants guarantees that the reformed Crown won't threaten Aquabyssos's independence.
 
@@ -309,16 +312,13 @@ Legends speak of Quest   The Crown Reborn as a nexus where past and present conv
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

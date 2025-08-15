@@ -34,15 +34,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-original-palace-the-original-palace.svg]]
 
 # The Original Palace
 
 *The ancestral seat of the [[Deep Ones]] and the architectural marvel that served as the model for all subsequent underwater royal residences, the Original Palace stands as a testament to the ancient mastery of aquatic civilization.*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,20 +71,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -102,8 +91,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -401,12 +388,9 @@ Ongoing situations affecting The Original Palace:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Trade Importance
 

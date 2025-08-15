@@ -1,3 +1,12 @@
+---
+title: Reincarnate Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reincarnate Xphb
 
 ---
@@ -40,24 +49,23 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [[aasimar-xphb|Aasimar]] |
-| 2 | [[dragonborn-xphb|Dragonborn]] |
-| 3 | [[dwarf-xphb|Dwarf]] |
-| 4 | [[elf-xphb|Elf]] |
-| 5 | [[gnome-xphb|Gnome]] |
-| 6 | [[goliath-xphb|Goliath]] |
-| 7 | [[halfling-xphb|Halfling]] |
-| 8 | [[human-xphb|Human]] |
-| 9 | [[orc-xphb|Orc]] |
-| 10 | [[tiefling-xphb|Tiefling]] |
+| 1 | [[aasimar xphb|Aasimar]] |
+| 2 | [[dragonborn xphb|Dragonborn]] |
+| 3 | [[dwarf xphb|Dwarf]] |
+| 4 | [[elf xphb|Elf]] |
+| 5 | [[gnome xphb|Gnome]] |
+| 6 | [[goliath xphb|Goliath]] |
+| 7 | [[halfling xphb|Halfling]] |
+| 8 | [[human xphb|Human]] |
+| 9 | [[orc xphb|Orc]] |
+| 10 | [[tiefling xphb|Tiefling]] |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,11 +78,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -92,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -102,7 +104,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

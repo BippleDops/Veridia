@@ -1,3 +1,12 @@
+---
+title: Paladin Xphb Oath of Redemption Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Paladin Xphb Oath of Redemption Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Oath of Redemption
-*[[paladin-xphb|Paladin]]: Paladin Subclass*  
+*[[paladin xphb|Paladin]]: Paladin Subclass*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
 > [!tldr] Class and Feature Progression
@@ -91,11 +100,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[sanctuary-xphb|sanctuary]], [[sleep-xphb|sleep]] |
-| 5th | [[calm-emotions-xphb|calm emotions]], [[hold-person-xphb|hold person]] |
-| 9th | [[counterspell-xphb|counterspell]], [[hypnotic-pattern-xphb|hypnotic pattern]] |
-| 13th | [[otilukes-resilient-sphere-xphb|Otiluke's resilient sphere]], [[stoneskin-xphb|stoneskin]] |
-| 17th | [[hold-monster-xphb|hold monster]], [[wall-of-force-xphb|wall of force]] |
+| 3rd | [[sanctuary xphb|sanctuary]], [[sleep xphb|sleep]] |
+| 5th | [[calm emotions xphb|calm emotions]], [[hold person xphb|hold person]] |
+| 9th | [[counterspell xphb|counterspell]], [[hypnotic pattern xphb|hypnotic pattern]] |
+| 13th | [[otilukes resilient sphere xphb|Otiluke's resilient sphere]], [[stoneskin xphb|stoneskin]] |
+| 17th | [[hold monster xphb|hold monster]], [[wall of force xphb|wall of force]] |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)
@@ -129,7 +138,6 @@ At 20th level, you become an avatar of peace, which gives you two benefits:
 
 If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -141,11 +149,6 @@ If you attack a creature, cast a spell on it, or deal damage to it by any means 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -163,11 +166,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -179,7 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

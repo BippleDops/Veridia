@@ -33,14 +33,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg]]
 
 # Vex Shadowthorn's Apprentices
 *The Next Generation of Shadow*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,7 +65,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
@@ -82,12 +77,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -97,17 +89,14 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 [[Vex Shadowthorn]]'s apprentices represent the future of [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Handpicked for their unique talents and moral flexibility, these five individuals have been shaped by Vex's ruthless mentorship and complex philosophy. Each apprentice specializes in different aspects of criminal enterprise while sharing core skills in deception, combat, and survival.
@@ -131,7 +120,7 @@ improvements: 20
 **Relationships**:
 - [[Vex Shadowthorn]] - Surrogate parent figure, complex devotion
 - [[Prince Caspian Duskwater]] - Former lover, now information source
-- [[02_Worldbuilding/Places/The Gilded Serpent|02 Worldbuilding/Places/The Gilded Serpent]] - Manages operations there
+- [[02 Worldbuilding/Places/The Gilded Serpent|02 Worldbuilding/Places/The Gilded Serpent]] - Manages operations there
 - **Marcus "The Shade" Blackwood** - Mentor in combat techniques
 
 **Secrets**:
@@ -158,7 +147,7 @@ improvements: 20
 **Relationships**:
 - [[Ambassador Nerida Deepcurrent]] - Former academic colleague
 - [[The Biomancers|02 Worldbuilding/Groups/The Biomancers]] - Uneasy alliance through research
-- [[Duchess Marina Ever-Drowning]] - Secretly reports to her
+- [[Duchess Marina Ever Drowning]] - Secretly reports to her
 - Deep sea entities - Patron relationship
 
 **Secrets**:
@@ -394,11 +383,9 @@ Vex Shadowthorn's Apprentices is a undersea element of the setting, known for bi
 
 Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vex Shadowthorn's Apprentices.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Religious Observances
 

@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,18 +47,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -79,7 +71,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
@@ -88,7 +79,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -199,7 +189,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg]] (colleague)
-- [[NPC Directory.base]] (rival)
+- [[npc directory.base]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-freewater-captain-torrent-freewater.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -207,7 +197,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Wolfblood - Trait: magical affinity
-
 
 ## Cultural Practices
 
@@ -220,7 +209,6 @@ Member of House Wolfblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -239,7 +227,6 @@ Member of House Wolfblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

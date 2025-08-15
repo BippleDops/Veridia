@@ -37,15 +37,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Restoration Movement
 
 *Reclaiming the Deep Crown's Sacred Authority*
 
 > *"The depths remember what the surface has forgotten: that true authority flows not from the will of the many, but from the ancient compact between ruler and realm. We shall restore what was sundered, return what was lost, and rebuild what democratic chaos has torn down."*
-> — High Restorer [[Tidal-Crown Maraleth]], addressing the Assembly of Sacred Depths
-
+> — High Restorer [[Tidal Crown Maraleth]], addressing the Assembly of Sacred Depths
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,14 +71,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -95,18 +87,14 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -124,21 +112,21 @@ Even as [[The Bathyal Succession]] concluded with the establishment of democrati
 The earliest proto-Restoration activities centered around private gatherings of displaced nobles, traditionalist priests, and conservative scholars who met to discuss their concerns about the new democratic order. These informal meetings, initially focused on preserving traditional culture and religion under the new system, gradually evolved into more systematic criticism of democratic goverce itself.
 
 **Years 2-5 of the New Democratic Era** - **The Theological Challenge**
-The movement's religious dimension crystallized around the teachings of [[Deep-Priest Covet]], a traditionalist cleric who argued that democratic goverce violated ancient religious principles governing legitimate authority in [[Aquabyssos]]. His influential text "The Sacred Depths Remember" provided theological justification for opposing the new democratic order.
+The movement's religious dimension crystallized around the teachings of [[Deep Priest Covet]], a traditionalist cleric who argued that democratic goverce violated ancient religious principles governing legitimate authority in [[Aquabyssos]]. His influential text "The Sacred Depths Remember" provided theological justification for opposing the new democratic order.
 
 Covet's doctrine emphasized that [[Aquabyssos]]'s monarchical traditions were not merely political arrangements but sacred covets between rulers and the elemental forces of the deep oceans. He argued that democratic leaders, lacking proper religious consecration and hereditary connection to these forces, could not effectively protect the realm from spiritual and magical threats.
 
 The theological framework attracted support from traditional religious communities throughout [[Aquabyssos]], particularly in regions where ancient religious practices remained strong. Temples and shrines became centers for Restoration activities, providing organizational infrastructure and legitimacy for the growing movement.
 
 **Years 5-8 of the New Democratic Era** - **Political Organization**
-As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble-Born Marina Deepcurrent]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
+As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble Born Marina Deepcurrent]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
 
 The formation of the "Sacred Covet Party" marked the movement's entry into democratic politics, creating the paradox of using democratic processes to oppose democracy itself. The party's early electoral successes, particularly in traditional and rural areas, demonstrated significant popular support for Restoration ideals.
 
 However, participation in democratic goverce created tensions within the movement between "pragmatic restorationists" who sought change through existing institutions and "pure restorationists" who viewed any engagement with democratic processes as illegitimate compromise.
 
 **Years 8-12 of the New Democratic Era** - **The First Restoration Crisis**
-Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant-Priest Abyssal]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
+Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant Priest Abyssal]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
 
 The conspiracy's discovery and suppression by democratic authorities created the movement's first martyrs while also demonstrating the practical limitations of purely traditional approaches to political change. The crisis forced the movement to confront fundamental questions about means, methods, and ultimate objectives.
 
@@ -161,7 +149,7 @@ The coalition's electoral successes, particularly in local and regional election
 This period saw the movement's greatest political influence, with Traditional Values Coalition politicians holding significant positions in regional governments and influencing national policy debates. However, this success came at the cost of ideological coherence, as electoral considerations forced compromises that many committed restorationists viewed as betrayal of core principles.
 
 **Years 25-30 of the New Democratic Era (Recent Past)** - **The Second Fragmentation**
-The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef-Crown]] and radical "Pure Restorationists" led by [[High Restorer Tidal-Crown Maraleth]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
+The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef Crown]] and radical "Pure Restorationists" led by [[High Restorer Tidal Crown Maraleth]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
 
 The Democratic Traditionalists argued that working within existing institutions while advocating traditional values offered the most realistic path to meaningful change. They emphasized cultural and religious restoration over political transformation, seeking to influence society gradually through education, religious revival, and peaceful political participation.
 
@@ -178,7 +166,7 @@ Recent years have seen increased sophistication in movement organization, with d
 
 ### The Democratic Traditionalists
 
-**Leader**: [[Political Leader Reef-Crown]]
+**Leader**: [[Political Leader Reef Crown]]
 **Philosophy**: Gradual restoration of traditional values through democratic processes
 **Methods**: Electoral politics, cultural education, religious revival through [[Temple of the First Tide]] partnerships
 **Membership**: ~50,000 active supporters, broader sympathizer network coordinating through [[Reputation System]] influence networks
@@ -198,7 +186,7 @@ The Democratic Traditionalists represent the most moderate and politically succe
 
 ### The Pure Restorationists
 
-**Leader**: [[High Restorer Tidal-Crown Maraleth]]
+**Leader**: [[High Restorer Tidal Crown Maraleth]]
 **Philosophy**: Complete restoration of traditional monarchical goverce
 **Methods**: Religious authority through [[Deep Mother Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] shadow networks
 **Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] communication systems
@@ -250,7 +238,7 @@ The Evolutionary Traditionalists seek to preserve and revitalize traditional [[A
 
 ### The Doctrine of Sacred Depths
 
-Central to Restoration Movement theology is the concept that [[Aquabyssos]]'s oceanic environment possesses inherent spiritual significance that requires specific forms of goverce to properly honor and channel. This doctrine, developed primarily by [[Deep-Priest Covet]] and elaborated by subsequent theologians, provides religious justification for traditional monarchical authority.
+Central to Restoration Movement theology is the concept that [[Aquabyssos]]'s oceanic environment possesses inherent spiritual significance that requires specific forms of goverce to properly honor and channel. This doctrine, developed primarily by [[Deep Priest Covet]] and elaborated by subsequent theologians, provides religious justification for traditional monarchical authority.
 
 **The Ancient Compact**: According to Restoration doctrine, the original settlement of [[Aquabyssos]] involved sacred covets between the first rulers and the elemental forces of the deep oceans. These covets established mutual obligations: the rulers would govern according to traditional principles that honored the oceanic spirits, while the spirits would provide protection and prosperity for the realm.
 
@@ -450,8 +438,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -469,7 +455,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -482,7 +467,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -494,7 +478,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

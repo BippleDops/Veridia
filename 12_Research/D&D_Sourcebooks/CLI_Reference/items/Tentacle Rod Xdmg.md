@@ -1,3 +1,12 @@
+---
+title: Tentacle Rod Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tentacle Rod Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 - **Weight**: 2.0 lbs.
 
-This rod ends in three rubbery tentacles. While holding the rod, you can take a [[actions#Magic|Magic]] action to direct the tentacles to stretch outward, each one attacking a creature you can see within 15 feet of yourself. For each tentacle, make a melee attack roll with a +9 bonus. A tentacle deals `d6` Psychic damage on a hit. If you hit the same target with all three tentacles, the target must succeed on a DC 15 Dexterity saving throw or have the [[conditions#Restrained|Restrained]] condition until you have the [[conditions#Incapacitated|Incapacitated]] condition, until you take a [[bonus-action-xphb|Bonus Action]] to release the target, or until the target is no longer within 15 feet of you. While [[conditions#Restrained|Restrained]] in this way, the target takes `3d6` Psychic damage at the start of each of its turns. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
+This rod ends in three rubbery tentacles. While holding the rod, you can take a [[actions#Magic|Magic]] action to direct the tentacles to stretch outward, each one attacking a creature you can see within 15 feet of yourself. For each tentacle, make a melee attack roll with a +9 bonus. A tentacle deals `d6` Psychic damage on a hit. If you hit the same target with all three tentacles, the target must succeed on a DC 15 Dexterity saving throw or have the [[conditions#Restrained|Restrained]] condition until you have the [[conditions#Incapacitated|Incapacitated]] condition, until you take a [[bonus action xphb|Bonus Action]] to release the target, or until the target is no longer within 15 feet of you. While [[conditions#Restrained|Restrained]] in this way, the target takes `3d6` Psychic damage at the start of each of its turns. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 316*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ This rod ends in three rubbery tentacles. While holding the rod, you can take a 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,16 +71,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

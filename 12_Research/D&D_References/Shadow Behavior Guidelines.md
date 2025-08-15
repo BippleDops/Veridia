@@ -1,3 +1,12 @@
+---
+title: Shadow Behavior Guidelines
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Behavior Guidelines
 
 ---
@@ -38,7 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # Shadow Behavior Guidelines
 *The Moral Compass of the Depths, Keepers of Shadow Ethics, Community Standards Council*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -122,7 +125,7 @@ Provides specialized expertise and assistance in cases involving shadow abilitie
 **Relationship**: Cooperative Alliance
 Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development.
 
-#### **[[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
 **Relationship**: Cultural Exchange
 Learns from mer-folk approaches to community self-regulation and honor-based social systems.
 
@@ -257,7 +260,7 @@ Detailed preparations for organizational continuity if current leadership is com
 - [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 - [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
-- [[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
+- [[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 
 **Key Locations**:
 - [[The Council of Shadows]]
@@ -273,9 +276,9 @@ Detailed preparations for organizational continuity if current leadership is com
 
 **Important Concepts**:
 - [[The Shadow Conduct Codex]]
-- [[Shadow Community Self-Regulation]]
+- [[Shadow Community Self Regulation]]
 - [[Shadow Ability Ethics]]
-- [[Community-Based Restorative Justice]]
+- [[Community Based Restorative Justice]]
 - [[Shadow Transformation Psychology]]
 
 ## Player-Facing Summary
@@ -294,7 +297,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a witness for love
@@ -308,7 +310,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Temporary Hit Points Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Temporary Hit Points Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Temporary Hit Points
 *Source: Player's Handbook (2024) p. 376. Available in the SRD and the Free Rules (2024)* 
 
-Temporary Hit Points are granted by certain effects and act as a buffer against losing real [[hit-points-xphb|Hit Points]].
-
+Temporary Hit Points are granted by certain effects and act as a buffer against losing real [[hit points xphb|Hit Points]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Temporary Hit Points are granted by certain effects and act as a buffer against 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

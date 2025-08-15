@@ -1,3 +1,12 @@
+---
+title: Barlgura Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Barlgura Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barlgura-xmm-barlgura-xmm.svg)
 
-# [[barlgura-xmm|Barlgura]]
+# [[barlgura xmm|Barlgura]]
 *Source: Monster Manual (2024) p. 31*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Barlgura
 
@@ -99,7 +102,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 "cr": "5"
 "traits":
   - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
 "actions":
@@ -114,9 +117,9 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
     "name": "Thrash"
   - "desc": "The barlgura casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n2/day each: [[disguise-self-xphb|Disguise Self]],\
-      \ [[invisibility-xphb|Invisibility]] (self only)\n\
-      \n1/day each: [[entangle-xphb|Entangle]], [[phantasmal-killer-xphb|Phantasmal\]]
+      \n2/day each: [[disguise self xphb|Disguise Self]],\
+      \ [[invisibility xphb|Invisibility]] (self only)\n\
+      \n1/day each: [[entangle xphb|Entangle]], [[phantasmal killer xphb|Phantasmal\]]
       \ Killer]] (level 6 version)"
     "name": "Spellcasting"
 "bonus_actions":

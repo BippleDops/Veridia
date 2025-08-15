@@ -1,3 +1,12 @@
+---
+title: Halfling Yondalla Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Yondalla Mtf
 
 ---
@@ -39,7 +48,6 @@ Yondalla created the first halfling villages and showed the people how to build,
 
 To the halflings, Yondalla is responsible for the spring in their step and the bubbly excitement they feel from knowing that luck is on their side. When a pumpkin grows to enormous size or a garden yields twice as many carrots as usual, credit goes to Yondalla. When a halfling trips, slides down a hillside, and lands on a nugget of gold, that's Yondalla turning bad luck into good.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ To the halflings, Yondalla is responsible for the spring in their step and the b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,14 +76,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Wand of Enemy Detection Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Enemy Detection Xdmg
 
 ---
@@ -30,8 +39,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge. For 1 minute, you know the direction of the nearest creature [[hostile-attitude-xphb|Hostile]] to you within 60 feet, but not its distance from you. The wand can sense the presence of [[hostile-attitude-xphb|Hostile]] creatures that are [[conditions#Invisible|Invisible]], ethereal, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
-
+This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge. For 1 minute, you know the direction of the nearest creature [[hostile attitude xphb|Hostile]] to you within 60 feet, but not its distance from you. The wand can sense the presence of [[hostile attitude xphb|Hostile]] creatures that are [[conditions#Invisible|Invisible]], ethereal, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

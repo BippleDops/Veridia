@@ -1,3 +1,12 @@
+---
+title: Bracers of Defense Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bracers of Defense Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/bracers-of-defense.webp#right)
 
-While wearing these bracers, you gain a +2 bonus to [[armor-class-xphb|Armor Class]] if you are wearing no armor and using no Shield.
+While wearing these bracers, you gain a +2 bonus to [[armor class xphb|Armor Class]] if you are wearing no armor and using no Shield.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing these bracers, you gain a +2 bonus to [[armor-class-xphb|Armor Cla
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

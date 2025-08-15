@@ -1,3 +1,12 @@
+---
+title: Otherworldly Leap Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Otherworldly Leap Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[jump-xphb|Jump]] on yourself without expending a spell slot.
-
+You can cast [[jump xphb|Jump]] on yourself without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can cast [[jump-xphb|Jump]] on yourself without expending a spell slot.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -72,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

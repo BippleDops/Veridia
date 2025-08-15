@@ -40,12 +40,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Verdant Accord
-
-![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Verdant_Accord.png|The Verdant Accord Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,20 +69,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -109,7 +97,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Role and Motive
 The Verdant Accord moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -230,12 +217,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## A Day in the Life
 

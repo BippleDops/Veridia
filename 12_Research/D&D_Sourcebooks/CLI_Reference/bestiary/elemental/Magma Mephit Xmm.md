@@ -1,3 +1,12 @@
+---
+title: Magma Mephit Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magma Mephit Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-magma-mephit-xmm-magma-mephit-xmm.svg)
 
-# [[magma-mephit-xmm|Magma Mephit]]
+# [[magma mephit xmm|Magma Mephit]]
 *Source: Monster Manual (2024) p. 207. Available in the SRD and the Free Rules (2024)*  
 
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ These mephits embody the merging of earth and fire as glowing magma. They love m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mephits
 
@@ -97,7 +100,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mephit. Failure: 7 (2d6) Fire damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -105,7 +108,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 7 (2d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 6)"
 "source":
@@ -134,21 +137,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

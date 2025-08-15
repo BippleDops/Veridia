@@ -1,3 +1,12 @@
+---
+title: 100 Gp Gemstones Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 100 Gp Gemstones Xdmg
 
 ---
@@ -31,18 +40,17 @@ world: Both
 
 | dice: 1d10 | Stone |
 |------------|-------|
-| 1 | [[amber-xdmg|Amber]] (watery gold to rich gold) |
-| 2 | [[amethyst-xdmg|Amethyst]] (deep purple) |
-| 3 | [[chrysoberyl-xdmg|Chrysoberyl]] (yellow green to pale green) |
-| 4 | [[coral-xdmg|Coral]] (crimson) |
-| 5 | [[garnet-xdmg|Garnet]] (red, brown green, or violet) |
-| 6 | [[jade-xdmg|Jade]] (light green, deep green, or white) |
-| 7 | [[jet-xdmg|Jet]] (deep black) |
-| 8 | [[pearl-xdmg|Pearl]] (lustrous white, yellow, or pink) |
-| 9 | [[spinel-xdmg|Spinel]] (red, red brown, or deep green) |
-| 10 | [[tourmaline-xdmg|Tourmaline]] (pale green, blue, brown, or red) |
+| 1 | [[amber xdmg|Amber]] (watery gold to rich gold) |
+| 2 | [[amethyst xdmg|Amethyst]] (deep purple) |
+| 3 | [[chrysoberyl xdmg|Chrysoberyl]] (yellow green to pale green) |
+| 4 | [[coral xdmg|Coral]] (crimson) |
+| 5 | [[garnet xdmg|Garnet]] (red, brown green, or violet) |
+| 6 | [[jade xdmg|Jade]] (light green, deep green, or white) |
+| 7 | [[jet xdmg|Jet]] (deep black) |
+| 8 | [[pearl xdmg|Pearl]] (lustrous white, yellow, or pink) |
+| 9 | [[spinel xdmg|Spinel]] (red, red brown, or deep green) |
+| 10 | [[tourmaline xdmg|Tourmaline]] (pale green, blue, brown, or red) |
 ^100-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

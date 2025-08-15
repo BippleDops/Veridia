@@ -1,3 +1,12 @@
+---
+title: Tinkers Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tinkers Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [[musket-xphb|Musket]], [[pistol-xphb|Pistol]], [[bell-xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], [[flask-xphb|Flask]], [[hooded-lantern-xphb|Hooded Lantern]], [[hunting-trap-xphb|Hunting Trap]], [[lock-xphb|Lock]], [[manacles-xphb|Manacles]], [[mirror-xphb|Mirror]], [[shovel-xphb|Shovel]], [[signal-whistle-xphb|Signal Whistle]], [[tinderbox-xphb|Tinderbox]]  
+- **Craft.** [[musket xphb|Musket]], [[pistol xphb|Pistol]], [[bell xphb|Bell]], [[bullseye lantern xphb|Bullseye Lantern]], [[flask xphb|Flask]], [[hooded lantern xphb|Hooded Lantern]], [[hunting trap xphb|Hunting Trap]], [[lock xphb|Lock]], [[manacles xphb|Manacles]], [[mirror xphb|Mirror]], [[shovel xphb|Shovel]], [[signal whistle xphb|Signal Whistle]], [[tinderbox xphb|Tinderbox]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

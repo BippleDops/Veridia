@@ -1,3 +1,12 @@
+---
+title: Adamantine Armor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adamantine Armor Xdmg
 
 ---
@@ -38,7 +47,7 @@ world: Both
 # Adamantine Armor
 *Uncommon*  
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[critical-hit-xphb|Critical Hit]] against you becomes a normal hit.
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[critical hit xphb|Critical Hit]] against you becomes a normal hit.
 
 **Variants**:
 - [Adamantine Breastplate](#Adamantine%20Breastplate)
@@ -59,7 +68,6 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 
 *Source: Dungeon Master's Guide (2024) p. 227. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -71,11 +79,6 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -93,16 +96,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

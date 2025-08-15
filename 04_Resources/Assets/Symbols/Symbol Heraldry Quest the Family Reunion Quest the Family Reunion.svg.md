@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,8 +39,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Add session zero integration questions
-- Add session zero integration questions
-- Add session zero integration questions
 
 ### Props Improvements
 
@@ -52,21 +47,17 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 
 ### Accessibility Improvements
 
-- Include content warnings and safety tools
 - Include content warnings and safety tools
 
 ### Spotlight Improvements
@@ -80,7 +71,6 @@ improvements: 20
 ### Soundtrack Improvements
 
 - Suggest music/ambiance for each scene
-
 
 ## Adventure Overview
 
@@ -98,11 +88,9 @@ An exciting quest that challenges heroes to face destiny.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

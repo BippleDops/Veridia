@@ -1,3 +1,12 @@
+---
+title: Animated Object Large Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animated Object Large Xphb
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:06.067500+00:00'
 world: Both
 ---
 
-# [[animated-object-large-xphb|Animated Object (Large)]]
+# [[animated object large xphb|Animated Object (Large)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock
@@ -55,7 +64,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -88,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]
 
 # Shadow Binding Sanctum
 
 *"Where light fears to tread, we forge chains of darkness." - Shadow Binder Vex*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,26 +65,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
@@ -98,7 +85,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Shadow Binding Sanctum is a hidden facility where practitioners of shadow magic conduct dangerous experiments in binding and controlling shadow entities. Located in the deepest, darkest trenches beneath Aquabyssos, this sanctum serves as both research center and prison for captured shadow creatures. The facility exists in a perpetual state of twilight, where darkness is not merely the absence of light but a living, manipulable substance.
@@ -267,7 +253,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns humility
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -280,7 +265,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -292,7 +276,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

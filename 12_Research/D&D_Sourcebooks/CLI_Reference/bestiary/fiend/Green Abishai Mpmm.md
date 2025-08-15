@@ -1,3 +1,12 @@
+---
+title: Green Abishai Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Green Abishai Mpmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-abishai-mpmm-green-abishai-mpmm.svg)
 
-# [[green-abishai-mpmm|Green Abishai]]
+# [[green abishai mpmm|Green Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Green abishais are adept at discovering secrets and other sensitive information,
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Abishais
 
@@ -115,11 +118,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [[alter-self-xphb|alter self]], [[major-image-xphb|major\]]
-      \ image]]\n\n3/day each: [[charm-person-xphb|charm\]]
-      \ person]], [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[fear-xphb|fear]]\n\n1/day each: [[confusion-xphb|confusion]],\
-      \ [[dominate-person-xphb|dominate person]], [[mass-suggestion-xphb|mass\]]
+      \nAt will: [[alter self xphb|alter self]], [[major image xphb|major\]]
+      \ image]]\n\n3/day each: [[charm person xphb|charm\]]
+      \ person]], [[detect thoughts xphb|detect thoughts]],\
+      \ [[fear xphb|fear]]\n\n1/day each: [[confusion xphb|confusion]],\
+      \ [[dominate person xphb|dominate person]], [[mass suggestion xphb|mass\]]
       \ suggestion]]"
     "name": "Spellcasting"
 "source":
@@ -149,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Wand of Binding Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Binding Xdmg
 
 ---
@@ -34,7 +43,6 @@ world: Both
 
 This wand has 7 charges.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This wand has 7 charges.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spells
 
@@ -58,8 +61,8 @@ While holding the wand, you can cast one of the spells (save DC 17) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[hold-monster-xphb|Hold Monster]] | 5 |
-| [[hold-person-xphb|Hold Person]] | 2 |
+| [[hold monster xphb|Hold Monster]] | 5 |
+| [[hold person xphb|Hold Person]] | 2 |
 ^spell-charge-cost
 
 ## Regaining Charges
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

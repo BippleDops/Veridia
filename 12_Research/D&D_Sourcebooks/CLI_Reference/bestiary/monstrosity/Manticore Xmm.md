@@ -1,139 +1,47 @@
-# Manticore Xmm
-
 ---
 title: Manticore Xmm
-aliases:
-- Manticore
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/environment/coastal
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/environment/hill
-- world/surface
-- ttrpg-cli/monster/environment/mountain
-- monster
-- research
-- ttrpg-cli/monster/size/large
-- world/both
-- ttrpg-cli/monster/type/monstrosity
-- active
-- campaign/arc
-- status/in-progress
-- ttrpg-cli/monster/cr/3
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.338766+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-manticore-xmm-manticore-xmm.svg)
+# Manticore Xmm
 
-# [[manticore-xmm|Manticore]]
-*Source: Monster Manual (2024) p. 202. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Manticore Xmm and its role within the greater narrative.
 
+## Description
+Manticore Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-
-## Manticore
-
-*Winged, Leonine People-Eater*
-
-- **Habitat.** Arctic, Coastal, Grassland, Hill, Mountain  
-- **Treasure.** Any  
-
-With lion-like claws, leathery wings, and broad jaws filled with rows of sharp teeth, manticores ambush travelers from above and devour them. Manticores crave the taste of humans, but lacking their favored prey, they eagerly consume other peoples and livestock.
-
-Manticores have tails bristling with detachable spikes. These monsters launch their tail spikes at their prey, skewering those on the ground or knocking flying creatures from the air.
-
-Despite their ravenous tendencies, manticores enjoy speaking with those they're about to devour. Sometimes they make agreements with their prey. Roll on or choose a result from the Manticore Negotiations table to inspire what a manticore might offer in exchange for a more tempting meal.
-
-**Manticore Negotiations**
-
-`dice: [](manticore-xmm.md#^manticore-negotiations)`
-
-| dice: 1d8 | The Manticore Agrees To... |
-|-----------|----------------------------|
-| 1 | Attack a particular foe. |
-| 2 | Create a distraction. |
-| 3 | Give up a captive or corpse. |
-| 4 | Let a group navigate its territory unharmed. |
-| 5 | Let someone pretend to slay it in battle. |
-| 6 | Scare or threaten someone. |
-| 7 | Serve a creature as a steed until the sun sets. |
-| 8 | Try to locate something from its vantage point in the sky. |
-^manticore-negotiations
-
-```statblock
-"name": "Manticore (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Lawful Evil"
-"ac": !!int "14"
-"hp": !!int "68"
-"hit_dice": "8d10 + 24"
-"modifier": !!int "3"
-"stats":
-  - !!int "17"
-  - !!int "16"
-  - !!int "7"
-  - !!int "12"
-  - !!int "8"
-"speed": "30 ft., fly 50 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "Common"
-"cr": "3"
-"actions":
-  - "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-    "name": "Rend"
-  - "desc": "Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing\
-      \ damage."
-    "name": "Tail Spike"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
-```
-^statblock
-
-## Environment
-
-arctic, coastal, grassland, hill, mountain
-
-## Player-Facing Summary
-
-Manticore xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of manticore xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around manticore xmm.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
+*Customize as needed for your specific campaign requirements.*

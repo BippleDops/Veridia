@@ -21,9 +21,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,19 +52,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
@@ -81,9 +72,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Basic Information
 
@@ -194,7 +182,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]] (rival)
-- [[Quest - The Corruption Files]] (friend)
+- [[Quest   The Corruption Files]] (friend)
 - [[04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding

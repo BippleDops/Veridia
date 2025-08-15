@@ -1,3 +1,12 @@
+---
+title: Captain Dr. Bloodletting
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Captain Dr. Bloodletting
 
 ---
@@ -18,8 +27,6 @@ updated: '2025-08-13T01:18:36.871672+00:00'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -32,11 +39,6 @@ updated: '2025-08-13T01:18:36.871672+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -54,16 +56,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -77,7 +76,6 @@ Mentioned in The Second Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

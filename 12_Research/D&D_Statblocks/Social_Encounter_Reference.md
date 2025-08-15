@@ -1,3 +1,12 @@
+---
+title: Social_Encounter_Reference
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Social_Encounter_Reference
 
 ---
@@ -180,7 +189,6 @@ world: Both
 | **Excellent** | Ongoing alliance | Becomes recurring ally |
 | **Perfect** | Complete trust | Shares dangerous secrets |
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -192,11 +200,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -210,11 +213,9 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: House Deepcurrent
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # House Deepcurrent
 
 ---
@@ -29,7 +38,6 @@ world: Aquabyssos
 > [!figure] Heraldry
 > ![](04_Resources/Assets/Symbols/symbol-heraldry-house-deepcurrent.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 House Deepcurrent represents the ancient noble families who claim descent from the original Deep Kings. They are master manipulators of both water currents and political currents, known for their long-term planning and mysterious connections to entities from the deepest trenches.
@@ -194,7 +197,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

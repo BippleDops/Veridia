@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,14 +47,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -67,12 +59,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
@@ -82,7 +71,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Basic Information
 
@@ -192,9 +180,9 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Captain Scale-Walker]] (enemy)
-- [[Quest - The Corruption Files]] (colleague)
-- [[#Cross-Campaign Characters]] (colleague)
+- [[Captain Scale Walker]] (enemy)
+- [[Quest   The Corruption Files]] (colleague)
+- [[#Cross Campaign Characters]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 

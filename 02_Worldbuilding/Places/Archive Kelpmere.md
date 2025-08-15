@@ -20,7 +20,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archive-kelpmere-archive-kelpmere.svg]]
 
 ## Player-Facing Summary
 

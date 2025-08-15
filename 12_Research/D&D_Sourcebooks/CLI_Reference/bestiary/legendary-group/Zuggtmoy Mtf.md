@@ -1,3 +1,12 @@
+---
+title: Zuggtmoy Mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Zuggtmoy Mtf
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-zuggtmoy-mtf-v1-zuggtmoy-mtf.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,18 +46,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 
-- Zuggtmoy causes four [[gas-spore-fungus-xmm|gas spores]] or [[violet-fungus-xmm|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
+- Zuggtmoy causes four [[gas spore fungus xmm|gas spores]] or [[violet fungus xmm|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
 - Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.  
 - Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.  
 
@@ -96,16 +99,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

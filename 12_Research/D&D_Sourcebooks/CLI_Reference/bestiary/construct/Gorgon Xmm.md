@@ -1,169 +1,47 @@
-# Gorgon Xmm
-
 ---
 title: Gorgon Xmm
-aliases:
-- Gorgon
-type: monster
+type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/environment/hill
-- world/surface
-- ttrpg-cli/monster/type/construct
-- monster
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- world/both
-- research
-- active
-- ttrpg-cli/monster/environment/forest
-- status/in-progress
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:06.086427+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
+# Gorgon Xmm
 
-# [[gorgon-xmm|Gorgon]]
-*Source: Monster Manual (2024) p. 148. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Gorgon Xmm and its role within the greater narrative.
 
-Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [[conditions#Petrified|petrified]] foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
+## Description
+Gorgon Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Gorgons
-
-*Bull-like Guardians with Petrifying Breath*
-
-- **Habitat.** Forest, Grassland, Hill  
-- **Treasure.** Any  
-
-Resembling mighty bulls armored in iron plates, gorgons are lifelike automatons that seek to destroy all who enter their territories. In addition to goring foes with their deadly horns and trampling them under their iron hooves, gorgons exhale gouts of noxious gas.
-
-Gorgons are created by magic-users to serve as guardians. The process for creating a gorgon is labor intensive and dangerous, with one method requiring the skeleton of a bull, the blood of a medusa, and the brain of a basilisk fused into a frame of ensorcelled iron. If the process fails, petrifying gas emerges from the materials, creating a magical threat that can fill a structure and linger for years.
-
-When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
-
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
-
-**Gorgon Command Keys**
-
-`dice: [](gorgon-xmm.md#^gorgon-command-keys)`
-
-| dice: 1d6 | Gorgon Won't Attack Those That... |
-|-----------|-----------------------------------|
-| 1 | Cast a particular spell in the gorgon's presence. |
-| 2 | Keep their back to the gorgon or otherwise act like they don't see the monster. |
-| 3 | Offer it a drink of blood, water, or wine. |
-| 4 | Recite a specific rhyme or sing a certain song. |
-| 5 | Say its creator's name backward. |
-| 6 | Wear a mask, perhaps in the shape of a bull or an animal meaningful to the gorgon's creator. |
-^gorgon-command-keys
-
-> [!quote] A quote from Lum the Maestro  
-> 
-> Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
-
-```statblock
-"name": "Gorgon (XMM)"
-"size": "Large"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "19"
-"hp": !!int "114"
-"hit_dice": "12d10 + 48"
-"modifier": !!int "0"
-"stats":
-  - !!int "20"
-  - !!int "11"
-  - !!int "18"
-  - !!int "2"
-  - !!int "12"
-  - !!int "7"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
-"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Petrified|petrified]]"
-"senses": "darkvision 60 ft., passive Perception 17"
-"languages": ""
-"cr": "5"
-"actions":
-  - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature and the gorgon moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [[conditions#prone|Prone]]\
-      \ condition."
-    "name": "Gore"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ 1st Failure: The target has the [[conditions#Restrained|Restrained]]\
-      \ condition and repeats the save at the end of its next turn if it is still\
-      \ [[conditions#Restrained|Restrained]], ending the effect\
-      \ on itself on a success. 2nd Failure: The target has the [[conditions#Petrified|Petrified]]\
-      \ condition instead of the [[conditions#Restrained|Restrained]]\
-    "name": "Petrifying Breath (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has\
-      \ the [[conditions#prone|Prone]] condition. Failure: 16\
-      \ (2d10 + 5) Bludgeoning damage. Success: Half damage."
-    "name": "Trample"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/construct/token/gorgon-xmm.webp"
-```
-^statblock
-
-## Environment
-
-forest, grassland, hill
-
-## Player-Facing Summary
-
-Gorgon xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of gorgon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gorgon xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A letter reveals the truth about a local noble
-- A corpse reveals ancient history about this place
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

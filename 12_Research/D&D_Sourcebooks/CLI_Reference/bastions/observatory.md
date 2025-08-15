@@ -1,3 +1,12 @@
+---
+title: observatory
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # observatory
 
 ---
@@ -22,7 +31,6 @@ world: Both
 ---
 
 > [!figure] Map
-![[04_Resources/Assets/Maps/map-map-shattered-observatory-shattered-observatory.svg]]
 
 # Observatory
 *Level 13 Bastion facility*  
@@ -33,7 +41,6 @@ world: Both
 - **Order**: empower
 
 Situated atop your Bastion, your Observatory contains a telescope aimed at the night sky.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ Situated atop your Bastion, your Observatory contains a telescope aimed at the n
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Observatory Charm
 
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before winter
@@ -88,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -31,8 +31,6 @@ world: Aquabyssos
 
 # Aethermoor Archives
 
-![[04_Resources/Assets/Art/Lore/Aethermoor_Archives.png|Aethermoor Archives Portrait]]
-
 ## Summary
 
 Aethermoor Archives describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

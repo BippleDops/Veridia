@@ -23,10 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg]]
 
 # Mayor Bartholomew "Barrel" Thompson
 
@@ -45,7 +42,6 @@ improvements: 20
 **Languages** Common, Aquabyssan, Primordial, Thieves' Cant  
 **Challenge Rating** 6 (2,300 XP)  
 **Proficiency Bonus** +3
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,24 +70,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
@@ -105,8 +94,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 Mayor Bartholomew Thompson is a portly, gregarious man who exemplifies the corruption that festers in Aquabyssos's outer districts. Once a successful surface merchant who fled to the depths to escape gambling debts, Thompson has rebuilt his fortune through a combination of legitimate trade and criminal enterprise. His jovial exterior masks a calculating mind that treats politics as just another business transaction.
@@ -295,7 +282,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Economic Structure
 
 ### Currency
@@ -314,7 +300,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -326,7 +311,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

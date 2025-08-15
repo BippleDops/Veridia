@@ -1,3 +1,12 @@
+---
+title: Relentless Hex Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Relentless Hex Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Relentless Hex
 *Source: Xanathar's Guide to Everything p. 57*  
 
-**Prerequisite**: Level 7; [[hex-xphb|hex]] spell or a warlock feature that curses
+**Prerequisite**: Level 7; [[hex xphb|hex]] spell or a warlock feature that curses
 
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your [[hex-xphb|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
-
+Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your [[hex xphb|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Your curse creates a temporary bond between you and your target. As a bonus acti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## 12_Research Specific Content
 

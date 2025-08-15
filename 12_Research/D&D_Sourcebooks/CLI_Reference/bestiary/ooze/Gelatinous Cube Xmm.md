@@ -1,3 +1,12 @@
+---
+title: Gelatinous Cube Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gelatinous Cube Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gelatinous-cube-xmm-gelatinous-cube-xmm.svg)
 
-# [[gelatinous-cube-xmm|Gelatinous Cube]]
+# [[gelatinous cube xmm|Gelatinous Cube]]
 *Source: Monster Manual (2024) p. 129. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gelatinous Cube
 
@@ -101,8 +104,8 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 "traits":
   - "desc": "The cube fills its entire space and is transparent. Other creatures can\
       \ enter that space, but a creature that does so is subjected to the cube's Engulf\
-      \ and has [[disadvantage-xphb|Disadvantage]]\
-      \ on the saving throw.\n\nCreatures inside the cube have [[cover-xphb|Total Cover]],\
+      \ and has [[disadvantage xphb|Disadvantage]]\
+      \ on the saving throw.\n\nCreatures inside the cube have [[cover xphb|Total Cover]],\
       \ and the cube can hold one Large creature or up to four Medium or Small creatures\
       \ inside itself at a time.\n\nAs an action, a creature within 5 feet of the\
       \ cube can pull a creature or an object out of the cube by succeeding on a DC\
@@ -116,10 +119,10 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
-  - "desc": "The cube moves up to its [[speed-xphb|Speed]]\
+  - "desc": "The cube moves up to its [[speed xphb|Speed]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ The cube can move through the spaces of Large or smaller creatures if it has\
-      \ room inside itself to contain them (see the Ooze [[cube-area-of-effect-xphb|Cube]]\
+      \ room inside itself to contain them (see the Ooze [[cube area of effect xphb|Cube]]\
       \ trait). Dexterity Saving Throw: DC 12, each creature whose space the cube\
       \ enters for the first time during this move. Failure: 10 (3d6) Acid damage,\
       \ and the target is engulfed. An engulfed target is suffocating, can't cast\
@@ -158,7 +161,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -168,11 +170,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

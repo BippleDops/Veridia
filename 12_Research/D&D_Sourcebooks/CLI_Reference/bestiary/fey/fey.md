@@ -19,10 +19,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-fey.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -35,11 +33,6 @@ improvements: 20
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

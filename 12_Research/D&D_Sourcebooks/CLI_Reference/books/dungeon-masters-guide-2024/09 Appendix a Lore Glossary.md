@@ -1,3 +1,12 @@
+---
+title: 09 Appendix a Lore Glossary
+type: lore
+tags:
+- lore
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 09 Appendix a Lore Glossary
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 This appendix provides brief descriptions for many of the D&D game's most famous heroes, villains, creatures, locations, and materials. The entries are presented in alphabetical order.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,17 +47,10 @@ This appendix provides brief descriptions for many of the D&D game's most famous
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Acererak
 
 Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and takes pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons to suffer horrible deaths. The most famous of such dungeons is the Tomb of Horrors, hidden in the Vast Swamp in the Greyhawk setting (see ""Greyhawk Gazetteer"" in "chapter 5"); another lies under the lost city of Omu in the jungles of Chult in the Forgotten Realms setting (described in the adventure Tomb of Annihilation).
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp#center|Acererak]]
 
 ## Adamantine
 
@@ -85,7 +86,7 @@ Barovia *(buh-ROVE-ee-ah)* is a "Domain of Dread" sequestered in the "Shadowfell
 
 Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [[bigbys-hand-xphb|Bigby's Hand]] is his undisputed magnum opus.
 
-A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[reincarnate-xphb|Reincarnate]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
+A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[reincarnate xphb|Reincarnate]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
 
 ## Boo
 
@@ -151,8 +152,6 @@ In the Dragonlance setting, "Bahamut"—who is known there as Paladine—dwelled
 
 When the gears of the plane of "Mechanus" (see "chapter 6") complete seventeen cycles—once every 289 years—the modron *(MOE-dron)* leader, Primus, sends a vast army of modrons across the Outer Planes. The purpose of this march is unclear. Most believe it to be a data-gathering mission meant to ascertain the current state of the cosmos, but some see it as reconnaissance aimed at some future act of conquest. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp#center|The Great Modron March]]
-
 ## Gruumsh
 
 Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or patron of the orc people. Some orcs attribute their tenacity and toughness to Gruumsh's lingering influence. Some myths describe a primeval conflict between Gruumsh and "Corellon", which resulted in Gruumsh losing one eye and Corellon's spilled blood becoming the first elves.
@@ -208,8 +207,6 @@ According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago
 ## Kyuss
 
 Variously identified as an "Elder Evil", as a demigod, or as a mortal priest of the demon lord "Orcus" (see "chapter 6"), Kyuss *(KYE-uss)* is a mysterious figure best known as the Worm That Walks. Kyuss manifests on the Material Plane as a colossal mass of maggots and worms animated by a single evil will.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp#center|Kyuss]]
 
 ## Laeral Silverhand
 
@@ -269,8 +266,6 @@ In the past few years, hardy folk from the cities of "Neverwinter" and "Waterdee
 
 The Prince of Frost is a son of Titania, the "Summer Queen". He was once known as the Sun Prince, but his heart grew cold when he was spurned by the fey noble he loved. He is now a creature of wrath and winter, ruling from his Fortress of Frozen Tears in the Vale of Long Night in the "Feywild" (see "chapter 6"). He detests mortals of the Material Plane and dreams of covering their many worlds with perpetual winter.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp#center|The Prince of Frost]]
-
 ## Queen of Air and Darkness, The
 
 The mysterious Queen of Air and Darkness is the archfey ruler of the "Gloaming Court" in the "Feywild" (see "chapter 6"). Though she is often described as malicious and evil, her motivations are as obscure and whimsical as any other archfey's. She gives supernatural boons and terrible curses with equal whimsy, with little regard for the elaborate customs surrounding gifts and favors in other courts of the Feywild. Though she is said to have a spectral form resembling a terrifying elf, to the unaided eye she appears as a strange, black diamond, hovering in the air like the slitted pupil of an unseen cat.
@@ -280,8 +275,6 @@ The mysterious Queen of Air and Darkness is the archfey ruler of the "Gloaming C
 The Raven Queen is a being of mystery. Those who claim to have encountered her have described an array of disturbing images: a terrible shadow that clawed at their innermost thoughts, a pale and regal elf who exploded into an untold number of ravens, a shambling tangle of slick roots and sticks that overwhelmed them with dread, or an unknown presence that pulled them screaming into the gloom.
 
 Despite all attempts to demystify her, the Raven Queen has remained enigmatic and aloof. She rules from her Raven Throne within the Fortress of Memories, a mazelike castle deep within the bleakness of the "Shadowfell" (see "chapter 6"). From there she sends out her raven servants to find interesting souls she can pluck from the planes of existence. Once these souls are in the Shadowfell, she watches as they attempt to unravel the mystery of their being.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp#center|The Raven Queen]]
 
 ## Rock of Bral, The
 
@@ -312,8 +305,6 @@ In the centuries since his transformation, Strahd's lust for life has grown. He 
 ## Summer Queen, The
 
 Titania, the Summer Queen, is the regal and charismatic ruler of the "Summer Court" in the "Feywild" (see "chapter 6"). Perhaps the mightiest of the archfey, she can ripen a crop with a smile and summon wildfires with the merest crinkling of her brow.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp#center|The Summer Queen]]
 
 ## Sword Coast, The
 
@@ -362,8 +353,6 @@ Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human C
 Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[book-of-vile-darkness-xdmg|Book of Vile Darkness]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutet. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]] are described in "chapter 7").
 
 Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp#center|Vecna]]
 
 ## Venger
 
@@ -416,7 +405,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

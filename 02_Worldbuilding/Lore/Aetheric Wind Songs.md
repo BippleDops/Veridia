@@ -41,7 +41,7 @@ regions:
 - '[[The Windswept Heights]]'
 - '[[Port Meridian Harbor]]'
 - '[[The Royal Palace]]'
-- '[[Lighthouse Peak - Resoce Chamber]]'
+- '[[Lighthouse Peak   Resoce Chamber]]'
 related_phenomena:
 - '[[Resoce Peaks]]'
 - '[[The Lighthouse of Storms]]'
@@ -53,9 +53,6 @@ world: Aethermoor
 evaluated: '2025-08-14'
 improvements: 20
 ---
-
-
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -84,17 +81,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
@@ -104,22 +97,18 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## The Living Music of Sky and Storm
 
@@ -295,10 +284,10 @@ Court wind singers have elevated the tradition to high art, creating elaborate p
 **Emergency Response Protocols:**
 Palace singers maintain readiness to provide emergency weather management during political crises or natural disasters, serving as both practical tool and symbol of royal authority.
 
-### The Lighthouse Harmonics ([[Lighthouse Peak - Resoce Chamber]])
+### The Lighthouse Harmonics ([[Lighthouse Peak   Resoce Chamber]])
 
 **Navigation and Safety Traditions:**
-The [[Lighthouse Peak - Resoce Chamber]] serves as a center for wind-song traditions focused on maritime safety and navigation:
+The [[Lighthouse Peak   Resoce Chamber]] serves as a center for wind-song traditions focused on maritime safety and navigation:
 
 **Beacon Wind Amplification:**
 Specialized songs that work with the lighthouse's crystal technology to project navigation signals across vast distances, helping ships navigate safely even in the worst weather.
@@ -617,7 +606,7 @@ Changing climate patterns have made traditional wind-song techniques ineffective
 ### Magic and Research Adventures
 
 **The Resoce Experiment (Levels 8-16)**
-Researchers at [[Lighthouse Peak - Resoce Chamber]] are developing powerful new applications of wind-song magic, but the experiments are causing dangerous side effects. Characters must help evaluate the research while ensuring public safety.
+Researchers at [[Lighthouse Peak   Resoce Chamber]] are developing powerful new applications of wind-song magic, but the experiments are causing dangerous side effects. Characters must help evaluate the research while ensuring public safety.
 - **Magical Research:** Understanding advanced theoretical concepts behind wind songs
 - **Safety Investigation:** Identifying and mitigating dangerous experimental effects
 - **Ethical Questions:** Determining appropriate limits for wind-song development
@@ -753,8 +742,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Economic Structure
 

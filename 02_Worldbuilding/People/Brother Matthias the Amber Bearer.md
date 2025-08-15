@@ -31,14 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-brother-matthias-the-amber-bearer-brother-matthias-the-amber-bearer.svg]]
 
 # Brother Matthias the Amber Bearer
 *Unwitting Guardian of the Amber Shard, The Righteous Crusader*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,23 +63,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
@@ -93,7 +83,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
@@ -102,7 +91,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 Brother Matthias is one of the most zealous and effective members of the [[Purist Coalition]], known for his unwavering faith and supernatural resilience in battle against crystal corruption. What neither he nor his leader [[High Inquisitor Maltheos]] realizes is that his legendary endurance and unbreakable will come from the [[The Seven Shards]] embedded in his chest—a cruel irony that would destroy his worldview if discovered.
@@ -343,7 +331,6 @@ Brother Matthias the Amber Bearer is a undersea element of the setting, known fo
 
 Legends speak of Brother Matthias the Amber Bearer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Brother Matthias the Amber Bearer.
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -355,7 +342,6 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -374,7 +360,6 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -49,7 +49,6 @@ The town is organized into 7 distinct districts:
 5. **Craft Quarter**: Workshops and artisan studios
 6. **Noble Estate**: Exclusive area for the wealthy
 
-
 ### Defensive Structures
 - **Walls**: Modern military design
 - **Gates**: 4 main entrances, heavily guarded

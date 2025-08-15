@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Scribing a Spell Scroll Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Scribing a Spell Scroll Xge
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Downtime Activity: Scribing a Spell Scroll
 *Source: Xanathar's Guide to Everything p. 133* 
 
-With time and patience, a spellcaster can transfer a spell to a scroll, creating a [[spell-scroll-xdmg|spell scroll]].
-
+With time and patience, a spellcaster can transfer a spell to a scroll, creating a [[spell scroll xdmg|spell scroll]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,25 +47,16 @@ With time and patience, a spellcaster can transfer a spell to a scroll, creating
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Resources
 
-Scribing a [[spell-scroll-xdmg|spell scroll]] takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the [[spell-scroll-xdmg|Spell Scroll]] Costs table. In addition, the character must have proficiency in the [[skills#Arcana|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
+Scribing a [[spell scroll xdmg|spell scroll]] takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the [[spell scroll xdmg|Spell Scroll]] Costs table. In addition, the character must have proficiency in the [[skills#Arcana|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![[resources-spell-scroll-costs-xge|Resources; Spell Scroll Costs]]
-
 ## Complications
 
-Crafting a [[spell-scroll-xdmg|spell scroll]] is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
-
-![[scribe-a-scroll-complications-xge|Scribe a Scroll Complications]]
+Crafting a [[spell scroll xdmg|spell scroll]] is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
 ## Player-Facing Summary
 
@@ -75,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help delivering before winter
@@ -84,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

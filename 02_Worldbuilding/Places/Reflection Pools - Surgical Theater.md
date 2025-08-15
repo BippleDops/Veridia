@@ -44,15 +44,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg]]
 
 # Reflection Pools - Surgical Theater
 
 *"Where flesh meets consciousness, and the boundaries between healing the body and healing the mind dissolve in the sacred waters of restoration."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -85,24 +81,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
@@ -116,7 +105,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -544,17 +532,13 @@ Ongoing situations affecting Reflection Pools - Surgical Theater:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 
@@ -574,7 +558,6 @@ Key stop on metals trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

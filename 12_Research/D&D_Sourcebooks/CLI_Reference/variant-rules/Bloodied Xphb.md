@@ -1,3 +1,12 @@
+---
+title: Bloodied Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bloodied Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Bloodied
 *Source: Player's Handbook (2024) p. 362. Available in the SRD and the Free Rules (2024)* 
 
-A creature is Bloodied while it has half its [[hit-points-xphb|Hit Points]] or fewer remaining.
-
+A creature is Bloodied while it has half its [[hit points xphb|Hit Points]] or fewer remaining.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A creature is Bloodied while it has half its [[hit-points-xphb|Hit Points]] or f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

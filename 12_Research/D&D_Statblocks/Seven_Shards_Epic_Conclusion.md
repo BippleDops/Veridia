@@ -1,3 +1,12 @@
+---
+title: Seven_Shards_Epic_Conclusion
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Seven_Shards_Epic_Conclusion
 
 ---
@@ -440,7 +449,6 @@ World's beginning or world's end
 **Epic Scale Events**: 7 multi-session sequences designed
 **Integration Points**: 23 cross-campaign connection nodes established
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -452,11 +460,6 @@ World's beginning or world's end
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -470,11 +473,9 @@ World's beginning or world's end
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

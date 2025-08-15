@@ -29,11 +29,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,21 +58,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -86,18 +78,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -117,7 +105,7 @@ Laboratories containing failed experiments in creating life. Twisted proto-creat
 
 ### The Inverse Cathedral
 
-A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[Anti-Priest us]] conducts backwards sermons to an congregation of shadows.
+A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[Anti Priest us]] conducts backwards sermons to an congregation of shadows.
 
 ### The Memory Core
 
@@ -256,8 +244,6 @@ Ongoing situations affecting The Primordial Vaults:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -269,7 +255,6 @@ Ongoing situations affecting The Primordial Vaults:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

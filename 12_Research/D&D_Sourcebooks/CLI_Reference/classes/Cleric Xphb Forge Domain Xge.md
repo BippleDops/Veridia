@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Forge Domain Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Forge Domain Xge
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Forge Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 > [!tldr] Class and Feature Progression
@@ -59,7 +68,7 @@ world: Both
 
 ### Forge Domain (Level 3)
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[dragonlance-reorx-phb|Reorx]], [[eberron-onatar|Onatar]], [[nonhuman-moradin|Moradin]], [[greek-hephaestus|Hephaestus]], and [[celtic-goibhniu|Goibhniu]].
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[dragonlance reorx phb|Reorx]], [[eberron onatar|Onatar]], [[nonhuman moradin|Moradin]], [[greek hephaestus|Hephaestus]], and [[celtic goibhniu|Goibhniu]].
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -67,16 +76,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[identify-xphb|identify]], [[searing-smite-xphb|searing smite]] |
-| 3rd | [[heat-metal-xphb|heat metal]], [[magic-weapon-xphb|magic weapon]] |
-| 5th | [[elemental-weapon-xphb|elemental weapon]], [[protection-from-energy-xphb|protection from energy]] |
-| 7th | [[fabricate-xphb|fabricate]], [[wall-of-fire-xphb|wall of fire]] |
-| 9th | [[animate-objects-xphb|animate objects]], [[creation-xphb|creation]] |
+| 1st | [[identify xphb|identify]], [[searing smite xphb|searing smite]] |
+| 3rd | [[heat metal xphb|heat metal]], [[magic weapon xphb|magic weapon]] |
+| 5th | [[elemental weapon xphb|elemental weapon]], [[protection from energy xphb|protection from energy]] |
+| 7th | [[fabricate xphb|fabricate]], [[wall of fire xphb|wall of fire]] |
+| 9th | [[animate objects xphb|animate objects]], [[creation xphb|creation]] |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [[smiths-tools-xphb|smith's tools]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[smiths tools xphb|smith's tools]].
 
 ### Blessing of the Forge (Level 1)
 
@@ -106,7 +115,6 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 - You gain immunity to fire damage  
 - While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -140,16 +143,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

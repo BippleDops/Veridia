@@ -1,3 +1,12 @@
+---
+title: Alkilith Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alkilith Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-alkilith-mpmm-alkilith-mpmm.svg)
 
-# [[alkilith-mpmm|Alkilith]]
+# [[alkilith mpmm|Alkilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -91,7 +100,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [[confusion-xphb|confusion]]\
+      \ fails by 5 or more, the creature is instead subjected to the [[confusion xphb|confusion]]\
       \ spell for 1 minute (no [[conditions#Concentration|concentration]]\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
@@ -117,7 +126,6 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -129,11 +137,6 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -155,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -168,16 +169,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

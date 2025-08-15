@@ -1,3 +1,12 @@
+---
+title: 50 Gp Gemstones Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 50 Gp Gemstones Xdmg
 
 ---
@@ -31,20 +40,19 @@ world: Both
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [[bloodstone-xdmg|Bloodstone]] (dark gray with red flecks) |
-| 2 | [[carnelian-xdmg|Carnelian]] (orange to red brown) |
-| 3 | [[chalcedony-xdmg|Chalcedony]] (white) |
-| 4 | [[chrysoprase-xdmg|Chrysoprase]] (green) |
-| 5 | [[citrine-xdmg|Citrine]] (pale yellow brown) |
-| 6 | [[jasper-xdmg|Jasper]] (blue, black, or brown) |
-| 7 | [[moonstone-xdmg|Moonstone]] (white with pale-blue glow) |
-| 8 | [[onyx-xdmg|Onyx]] (bands of black and white, or pure black or white) |
-| 9 | [[quartz-xdmg|Quartz]] (white, smoky gray, or yellow) |
-| 10 | [[sardonyx-xdmg|Sardonyx]] (bands of red and white) |
-| 11 | [[star-rose-quartz-xdmg|Star rose quartz]] (rosy stone with white star-shaped center) |
-| 12 | [[zircon-xdmg|Zircon]] (pale blue green) |
+| 1 | [[bloodstone xdmg|Bloodstone]] (dark gray with red flecks) |
+| 2 | [[carnelian xdmg|Carnelian]] (orange to red brown) |
+| 3 | [[chalcedony xdmg|Chalcedony]] (white) |
+| 4 | [[chrysoprase xdmg|Chrysoprase]] (green) |
+| 5 | [[citrine xdmg|Citrine]] (pale yellow brown) |
+| 6 | [[jasper xdmg|Jasper]] (blue, black, or brown) |
+| 7 | [[moonstone xdmg|Moonstone]] (white with pale-blue glow) |
+| 8 | [[onyx xdmg|Onyx]] (bands of black and white, or pure black or white) |
+| 9 | [[quartz xdmg|Quartz]] (white, smoky gray, or yellow) |
+| 10 | [[sardonyx xdmg|Sardonyx]] (bands of red and white) |
+| 11 | [[star rose quartz xdmg|Star rose quartz]] (rosy stone with white star-shaped center) |
+| 12 | [[zircon xdmg|Zircon]] (pale blue green) |
 ^50-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

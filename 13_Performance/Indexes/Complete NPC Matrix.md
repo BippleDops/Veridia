@@ -19,9 +19,6 @@ updated: '2025-08-13T12:34:03.174301+00:00'
 world: Universal
 ---
 
-
-
-
 # Complete NPC Matrix
 
 ## Relationship Scores (-3..+3)
@@ -77,7 +74,6 @@ SORT file.name ASC
 - See also: [[Campaign Guide]]
 - Related: [[Regional Politics]]
 - Connected to: [[Character Backstories]]
-
 
 ## DM Notes
 

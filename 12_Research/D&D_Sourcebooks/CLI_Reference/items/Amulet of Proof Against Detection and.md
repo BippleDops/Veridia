@@ -1,3 +1,12 @@
+---
+title: Amulet of Proof Against Detection and
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Amulet of Proof Against Detection and
 
 ---
@@ -33,7 +42,6 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 *Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

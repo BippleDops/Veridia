@@ -42,14 +42,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg]]
 
 # The Embassy Quarter
 *Where Nations Meet in Peace*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,10 +74,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
@@ -90,17 +82,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
@@ -110,7 +98,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -395,7 +382,6 @@ The Embassy Quarter is a notable location characterized by its unique features a
 
 ### Founding
 The Embassy Quarter was established in the distant past, growing from humble beginnings to its current state.
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Sorrow Pearls
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sorrow Pearls
 
 ---
@@ -28,7 +37,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Each pearl holds a lifetime of tears, crystallized into beauty that breaks the heart to witness." - Keeper Elara Moonwhisper*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Sorrow Pearls represent one of the most emotionally powerful and magically significant artifacts found in Aquabyssos, formed through the crystallization of intense grief and loss within specialized oyster-like creatures that dwell in the deepest emotional currents of the underwater realm. These pearls possess the unique ability to store, amplify, and transmit emotional experiences, particularly those related to sorrow, loss, and profound sadness. Unlike ordinary pearls, Sorrow Pearls continue to grow throughout their existence, fed by the ambient emotional energy that permeates their environment.
@@ -130,8 +133,6 @@ Legends speak of Sorrow Pearls as a nexus where past and present converge. Local
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -140,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

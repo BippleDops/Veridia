@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-viewing-chambers-temporal-viewing-chambers.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,8 +53,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
@@ -67,12 +61,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -82,14 +73,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -137,8 +124,6 @@ Ongoing situations affecting Temporal Viewing Chambers:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the government
@@ -156,7 +141,6 @@ Ongoing situations affecting Temporal Viewing Chambers:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

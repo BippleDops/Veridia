@@ -1,3 +1,12 @@
+---
+title: Banshee Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Banshee Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-banshee-xmm-banshee-xmm.svg)
 
-# [[banshee-xmm|Banshee]]
+# [[banshee xmm|Banshee]]
 *Source: Monster Manual (2024) p. 29*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Banshee
 
@@ -111,7 +114,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
       \ away that aren't Constructs or Undead."
     "name": "Detect Life"
   - "desc": "The banshee can move through other creatures and objects as if they were\
-      \ [[difficult-terrain-xphb|Difficult Terrain]].\
+      \ [[difficult terrain xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -126,8 +129,8 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
     "name": "Horrify"
   - "desc": "The banshee releases a mournful wail if it isn't in sunlight. Constitution\
       \ Saving Throw: DC 13, each creature within 30 feet that can hear the wail\
-      \ and isn't a Construct or an Undead. Failure: If the target has 25 [[hit-points-xphb|Hit Points]]\
-      \ or fewer, it drops to 0 [[hit-points-xphb|Hit Points]].\
+      \ and isn't a Construct or an Undead. Failure: If the target has 25 [[hit points xphb|Hit Points]]\
+      \ or fewer, it drops to 0 [[hit points xphb|Hit Points]].\
       \ Otherwise, the target takes 10 (3d6) Psychic damage."
     "name": "Deathly Wail (1/Day)"
 "source":
@@ -156,11 +159,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

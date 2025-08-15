@@ -1,3 +1,12 @@
+---
+title: Pipe of Smoke Monsters Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pipe of Smoke Monsters Xdmg
 
 ---
@@ -31,7 +40,6 @@ While smoking this pipe, you can take a [[actions#Magic|Magic]] action to exhale
 
 *Source: Dungeon Master's Guide (2024) p. 285*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ While smoking this pipe, you can take a [[actions#Magic|Magic]] action to exhale
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

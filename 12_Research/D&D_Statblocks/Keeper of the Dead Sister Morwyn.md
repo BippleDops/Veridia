@@ -1,3 +1,12 @@
+---
+title: Keeper of the Dead Sister Morwyn
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Keeper of the Dead Sister Morwyn
 
 ---
@@ -30,12 +39,10 @@ world: Aquabyssos
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-keeper-of-the-dead-sister-morwyn-keeper-of-the-dead-sister-morwyn.svg]]
 
 # Keeper of the Dead, Sister Morwyn
 
 *"Death is not the enemy - it is the final current that carries us home. I merely ensure that passage is peaceful and honored."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +55,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -141,11 +143,9 @@ nriched: true -->
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -154,11 +154,9 @@ nriched: true -->
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

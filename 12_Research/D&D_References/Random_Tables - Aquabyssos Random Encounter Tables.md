@@ -1,3 +1,12 @@
+---
+title: Random_Tables - Aquabyssos Random Encounter Tables
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random_Tables - Aquabyssos Random Encounter Tables
 
 ---
@@ -20,7 +29,6 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:37.213178+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Depth-Based Encounters for the Drowned Realm
 
@@ -391,7 +394,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -402,7 +404,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

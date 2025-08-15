@@ -1,3 +1,12 @@
+---
+title: Wand of Fireballs Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Fireballs Xdmg
 
 ---
@@ -30,8 +39,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [[fireball-xphb|Fireball]] (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
-
+This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [[fireball xphb|Fireball]] (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This wand has 7 charges. While holding it, you can expend no more than 3 charges
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -85,11 +86,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

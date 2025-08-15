@@ -1,3 +1,12 @@
+---
+title: Medusa Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Medusa Xmm
 
 ---
@@ -28,9 +37,8 @@ updated: '2025-08-13T12:34:05.348939+00:00'
 world: Both
 ---
 
-# [[medusa-xmm|Medusa]]
+# [[medusa xmm|Medusa]]
 *Source: Monster Manual (2024) p. 205. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Medusa
 
@@ -115,8 +118,8 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
   - "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage."
     "name": "Poison Ray"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ If the medusa sees its reflection in the [[cone-area-of-effect-xphb|Cone]],\
+  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+      \ If the medusa sees its reflection in the [[cone area of effect xphb|Cone]],\
       \ the medusa must make this save. 1st Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
       \ [[conditions#Restrained|Restrained]], ending the effect\
@@ -150,11 +153,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 

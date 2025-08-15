@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Relaxation Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Relaxation Xge
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don't want to make use of the downtime system.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Sometimes the best thing to do between adventures is relax. Whether a character 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Resources
 
@@ -73,16 +76,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Plot Hooks
 
 - A merchant needs help finding before winter
-- An heirloom has gone missing and chaos spreads
 - An heirloom has gone missing and chaos spreads
 - A merchant needs help stealing before winter
 

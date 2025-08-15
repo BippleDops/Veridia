@@ -1,3 +1,12 @@
+---
+title: Costume Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Costume Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 
-While wearing a Costume, you have [[advantage-xphb|Advantage]] on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have [[advantage xphb|Advantage]] on any ability check you make to impersonate the person or type of person it represents.
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While wearing a Costume, you have [[advantage-xphb|Advantage]] on any ability ch
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting information for money
@@ -85,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

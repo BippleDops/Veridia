@@ -1,3 +1,12 @@
+---
+title: Awaken Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Awaken Xphb
 
 ---
@@ -34,14 +43,13 @@ world: Both
 - **Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the [[awakened-shrub-xmm|Awakened Shrub]] or [[awakened-tree-xmm|Awakened Tree]] in the "Monster Manual".
+You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the [[awakened shrub xmm|Awakened Shrub]] or [[awakened tree xmm|Awakened Tree]] in the "Monster Manual".
 
 The awakened target has the [[conditions#Charmed|Charmed]] condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ The awakened target has the [[conditions#Charmed|Charmed]] condition for 30 days
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

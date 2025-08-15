@@ -1,3 +1,12 @@
+---
+title: Adult Kruthik Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adult Kruthik Mpmm
 
 ---
@@ -33,13 +42,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-kruthik-mpmm-adult-kruthik-mpmm.svg)
 
-# [[adult-kruthik-mpmm|Adult Kruthik]]
+# [[adult kruthik mpmm|Adult Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [[young-kruthik-mpmm|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [[young kruthik mpmm|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-s
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Kruthiks
 
@@ -143,16 +146,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
 
 # The Deepwater Trading Consortium
 *Masters of Ocean Commerce*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,13 +54,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -74,7 +66,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
@@ -83,17 +74,14 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 The Deepwater Trading Consortium dominates maritime trade across the known world, controlling shipping routes, deep-sea mining operations, and cultural exchange between surface and underwater civilizations. Led by **Guildmaster Admiral Tidal Goldwave**, they maintain the largest merchant marine fleet and negotiate treaties with aquatic kingdoms.
@@ -123,7 +111,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - Someone is hunting a artifact for revenge
@@ -146,7 +133,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: X-103_Leviathan_Mirror_Chase
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # X-103_Leviathan_Mirror_Chase
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T01:18:31.127144+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Read-Aloud
 > Through the portal window, a sky leviathan wheels as a trench titan turns below—two shadows pacing you from two worlds.
@@ -57,11 +60,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

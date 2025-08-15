@@ -1,3 +1,12 @@
+---
+title: Cloak of Displacement Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloak of Displacement Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-displacement.webp#right)
 
-While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[speed-xphb|Speed]] is 0.
+While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[disadvantage xphb|Disadvantage]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[speed xphb|Speed]] is 0.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While you wear this cloak, it magically projects an illusion that makes you appe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

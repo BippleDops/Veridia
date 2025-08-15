@@ -1,3 +1,12 @@
+---
+title: Periapt of Wound Closure Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Periapt of Wound Closure Xdmg
 
 ---
@@ -32,7 +41,6 @@ world: Both
 
 While wearing this pendant, you gain the following benefits.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,19 +52,14 @@ While wearing this pendant, you gain the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Life Preservation
 
-Whenever you make a [[death-saving-throw-xphb|Death Saving Throw]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
+Whenever you make a [[death saving throw xphb|Death Saving Throw]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
 
 ## Natural Healing Boost
 
-Whenever you roll a [[hit-points-xphb|Hit Point]] Die to regain [[hit-points-xphb|Hit Points]], double the number of [[hit-points-xphb|Hit Points]] it restores.
+Whenever you roll a [[hit points xphb|Hit Point]] Die to regain [[hit points xphb|Hit Points]], double the number of [[hit points xphb|Hit Points]] it restores.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing an heir for power
@@ -90,7 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

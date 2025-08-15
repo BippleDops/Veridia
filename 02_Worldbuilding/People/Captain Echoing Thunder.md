@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-echoing-thunder-captain-echoing-thunder.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,14 +52,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -77,8 +68,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
@@ -91,7 +80,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -169,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns acceptance
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -186,7 +173,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

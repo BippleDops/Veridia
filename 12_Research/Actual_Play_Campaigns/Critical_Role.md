@@ -1,3 +1,12 @@
+---
+title: Critical_Role
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Critical_Role
 
 ---
@@ -13,7 +22,6 @@ created: 2025-08-14
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -25,11 +33,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Exandria Unlimited
 - **Playlist**: https://www.youtube.com/playlist?list=PL1tiwbzkOjQw7YO0M0d8vRCITuqAmUt7S
@@ -50,7 +53,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

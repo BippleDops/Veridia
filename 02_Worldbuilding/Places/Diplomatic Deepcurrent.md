@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-diplomatic-deepcurrent-diplomatic-deepcurrent.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,20 +54,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -93,7 +82,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -141,8 +129,6 @@ Ongoing situations affecting Diplomatic Deepcurrent:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A prisoner has gone missing and chaos spreads
@@ -164,7 +150,6 @@ Ongoing situations affecting Diplomatic Deepcurrent:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

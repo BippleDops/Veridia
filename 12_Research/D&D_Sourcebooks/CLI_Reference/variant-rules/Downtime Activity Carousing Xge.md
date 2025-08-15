@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Carousing Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Carousing Xge
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Carousing is a default downtime activity for many characters. Between adventures, who doesn't want to relax with a few drinks and a group of friends at a tavern?
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,23 +47,16 @@ Carousing is a default downtime activity for many characters. Between adventures
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Resources
 
 Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
 
-A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [[disguise-kit-xphb|disguise kit]] and the [[skills#Deception|Deception]] skill to pass as a noble visiting from a distant city.
+A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [[disguise kit xphb|disguise kit]] and the [[skills#Deception|Deception]] skill to pass as a noble visiting from a distant city.
 
 ## Resolution
 
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([[skills#Persuasion|Persuasion]]) check using the Carousing table.
-
-![[carousing-xge|Carousing]]
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -81,12 +82,6 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
 
-![[lower-class-carousing-complications-xge|Lower-Class Carousing Complications]]
-
-![[middle-class-carousing-complications-xge|Middle-Class Carousing Complications]]
-
-![[upper-class-carousing-complications-xge|Upper-Class Carousing Complications]]
-
 ## Player-Facing Summary
 
 Downtime activity carousing xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -103,16 +98,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

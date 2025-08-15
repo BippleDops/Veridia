@@ -1,3 +1,12 @@
+---
+title: Gnome Callarduran Smoothhands Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Callarduran Smoothhands Mtf
 
 ---
@@ -37,7 +46,6 @@ Callarduran became the patron of the deep gnomes when he led them into the Under
 
 Callarduran earned his moniker when, after stealing the heart of Ogrémoch, he rubbed his hands smooth as he polished the heart and turned it into a magical stone. The theft caused Ogrémoch to turn to evil, but it gave Callarduran the power to control earth elementals-which, it is said, he can confer to deep gnomes by rubbing the stone and saying their names.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ Callarduran earned his moniker when, after stealing the heart of Ogrémoch, he r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Treasure Orc Trophies Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Treasure Orc Trophies Vgm
 
 ---
@@ -40,11 +49,10 @@ world: Both
 | 7 | `d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [[trinket-xphb|Random trinket]]* |
+| 10 | [[trinket xphb|Random trinket]]* |
 ^orc-trophies
 
 * Roll on the Trinkets table in chapter 5 of the Player's Handbook.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

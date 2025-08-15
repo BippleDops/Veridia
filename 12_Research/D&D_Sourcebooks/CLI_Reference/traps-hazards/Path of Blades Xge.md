@@ -1,3 +1,12 @@
+---
+title: Path of Blades Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Path of Blades Xge
 
 ---
@@ -30,7 +39,6 @@ Hidden within a buried pyramid that marks the location of the Lost City of Cynid
 
 *Source: Xanathar's Guide to Everything p. 118*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ Hidden within a buried pyramid that marks the location of the Lost City of Cynid
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

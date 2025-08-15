@@ -1,3 +1,12 @@
+---
+title: Academic Lineages
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Academic Lineages
 
 ---
@@ -23,7 +32,6 @@ updated: '2025-08-13T01:18:35.140214+00:00'
 # Academic Lineages
 *"Knowledge flows like water, deepening as it passes from mind to mind"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ updated: '2025-08-13T01:18:35.140214+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The academic institutions of Aquabyssos operate through complex webs of mentorship, rivalry, and intellectual collaboration. Understanding these relationships reveals how knowledge is created, preserved, and sometimes suppressed throughout the realm's scholarly community.
@@ -627,7 +630,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for money
@@ -639,11 +641,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Tankard of Sobriety Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tankard of Sobriety Xdmg
 
 ---
@@ -34,7 +43,6 @@ This tankard has a stern face sculpted into one side. You can drink ale, wine, o
 
 *Source: Dungeon Master's Guide (2024) p. 315*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This tankard has a stern face sculpted into one side. You can drink ale, wine, o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

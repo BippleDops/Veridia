@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,7 +47,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -59,19 +55,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Basic Information
 
@@ -196,7 +185,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[#NPCs]] (friend)
-- [[Current-Lord Triton of House Pelagios]] (friend)
+- [[Current Lord Triton of House Pelagios]] (friend)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -204,7 +193,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: prophecy
-
 
 ## Historical Timeline
 
@@ -222,7 +210,6 @@ Member of House Lionblood - Trait: prophecy
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

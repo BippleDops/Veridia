@@ -1,3 +1,12 @@
+---
+title: Combat_Encounter_Analysis
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Combat_Encounter_Analysis
 
 ---
@@ -142,7 +151,6 @@ Would you want to face similar encounters again?
 
 *Good combat keeps everyone engaged and challenged*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -154,11 +162,6 @@ Would you want to face similar encounters again?
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Related
 
@@ -172,11 +175,9 @@ Would you want to face similar encounters again?
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -186,7 +187,6 @@ Would you want to face similar encounters again?
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

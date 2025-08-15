@@ -30,12 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Monster Manual Reference
-
-![[04_Resources/Assets/Art/Lore/Monster_Manual_Reference.png|Monster Manual Reference Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,35 +63,26 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Summary
 
@@ -122,12 +108,9 @@ Monster Manual Reference represents an important aspect of the world's history, 
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

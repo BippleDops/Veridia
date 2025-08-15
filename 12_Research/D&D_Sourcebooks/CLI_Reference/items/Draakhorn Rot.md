@@ -1,3 +1,12 @@
+---
+title: Draakhorn Rot
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Draakhorn Rot
 
 ---
@@ -28,7 +37,7 @@ world: Both
 *Wondrous item, artifact*  
 ![](/03_Mechanics/CLI/items/img/draakhorn.webp#right)
 
-The Draakhorn was a gift from [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] in the war between dragons and giants. It was once the horn of her [[ancient-red-dragon-xmm|ancient red dragon]] consort, Ephelomon, that she gave to dragonkind to help them in their war against the giants. The Draakhorn is a signaling device, and it is so large that it requires two Medium creatures (or one Large or larger) to hold it while a third creature sounds it, making the earth resonate to its call. The horn has been blasted with fire into a dark ebony hue and is wrapped in bands of bronze with draconic runes that glow with purple eldritch fire.
+The Draakhorn was a gift from [[/03 Mechanics/CLI/bestiary/npc/tiamat rot|Tiamat]] in the war between dragons and giants. It was once the horn of her [[ancient-red-dragon-xmm|ancient red dragon]] consort, Ephelomon, that she gave to dragonkind to help them in their war against the giants. The Draakhorn is a signaling device, and it is so large that it requires two Medium creatures (or one Large or larger) to hold it while a third creature sounds it, making the earth resonate to its call. The horn has been blasted with fire into a dark ebony hue and is wrapped in bands of bronze with draconic runes that glow with purple eldritch fire.
 
 The low, moaning drone of the Draakhorn discomfits normal animals within a few miles, and it alerts all dragons within two thousand miles to rise and be wary, for great danger is at hand. Coded blasts were once used to signal specific messages. Knowledge of those codes has been lost to the ages.
 
@@ -42,7 +51,6 @@ While the horn is sounding, a creature must make a DC 15 Constitution saving thr
 
 *Source: The Rise of Tiamat p. 93*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ While the horn is sounding, a creature must make a DC 15 Constitution saving thr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

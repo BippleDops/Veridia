@@ -1,3 +1,12 @@
+---
+title: level-and-lethality-damage-severity-by-level-xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # level-and-lethality-damage-severity-by-level-xge
 
 ---
@@ -34,7 +43,6 @@ world: Both
 | 17-20 | 55 (`10d10`) | 99 (`18d10`) | 132 (`24d10`) |
 ^damage-severity-by-level
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

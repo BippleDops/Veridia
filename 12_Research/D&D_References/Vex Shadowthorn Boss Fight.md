@@ -1,3 +1,12 @@
+---
+title: Vex Shadowthorn Boss Fight
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vex Shadowthorn Boss Fight
 
 ---
@@ -33,11 +42,9 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
 
 # Vex Shadowthorn Boss Fight
 *Elite Creature Hunters, Masters of Combat Excellence, The Ultimate Challenge*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +57,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -116,7 +118,7 @@ Offers protection services for valuable Consortium operations and facilities. Re
 **Relationship**: Equipment Supplier
 Collaborates on development of specialized combat equipment and crystal-enhanced gear. Values their innovation and craftsmanship.
 
-#### **[[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
 **Relationship**: Mutual Respect
 Occasionally contracts for operations in aquatic environments. Appreciates their combat traditions and honor-based culture.
 
@@ -193,7 +195,7 @@ Clients who trust the organization with their most serious problems deserve comp
 - [[The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 - [[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
 - [[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
+- [[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 
 **Key Locations**:
 - [[The Battle Forge Arena]]
@@ -209,7 +211,7 @@ Clients who trust the organization with their most serious problems deserve comp
 
 **Important Concepts**:
 - [[The Shadowthorn Combat System]]
-- [[Crystal-Enhanced Combat Techniques]]
+- [[Crystal Enhanced Combat Techniques]]
 - [[Professional Monster Hunting]]
 - [[Elite Mercenary Operations]]
 - [[Advanced Combat Training Methods]]
@@ -230,11 +232,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

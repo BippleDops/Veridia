@@ -1,3 +1,12 @@
+---
+title: 10 Combat
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 10 Combat
 
 ---
@@ -44,7 +53,6 @@ The Dungeon Master controls all the monsters and nonplayer characters involved i
 > - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.  
 ^combat-step-by-step
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ The Dungeon Master controls all the monsters and nonplayer characters involved i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## The Order of Combat
 
@@ -165,7 +168,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly-xphb|fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly xphb|fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ### Difficult Terrain
 
@@ -195,7 +198,7 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly-xphb|fly]] spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly xphb|fly]] spell.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c91.webp#center)
 
@@ -205,7 +208,7 @@ Each creature takes up a different amount of space.
 
 The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-![[creature-size-size-categories-phb|Creature Size; Size Categories]]
+![[creature size size categories phb|Creature Size; Size Categories]]
 
 #### Space
 
@@ -290,7 +293,7 @@ If the `d20` roll for an attack is a 1, the attack misses regardless of any modi
 
 ### Unseen Attackers and Targets
 
-Combatants often try to escape their foes' notice by hiding, casting the [[invisibility-xphb|invisibility]] spell, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the [[invisibility xphb|invisibility]] spell, or lurking in darkness.
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
@@ -596,11 +599,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -613,11 +614,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

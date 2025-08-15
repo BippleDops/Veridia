@@ -1,3 +1,12 @@
+---
+title: Bead of Force Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bead of Force Xdmg
 
 ---
@@ -34,12 +43,11 @@ world: Both
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, `1d4 + 4` Beads of Force are found together.
 
-You can take a [[actions#Magic|Magic]] action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] on impact and is destroyed. Each creature in the [[sphere-area-of-effect-xphb|Sphere]] must succeed on a DC 15 Dexterity saving throw or take `5d4` Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.
+You can take a [[actions#Magic|Magic]] action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius [[sphere area of effect xphb|Sphere]] on impact and is destroyed. Each creature in the [[sphere area of effect xphb|Sphere]] must succeed on a DC 15 Dexterity saving throw or take `5d4` Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.
 
-An enclosed creature can take a [[actions#Utilize|Utilize]] action to push against the sphere's wall, moving the sphere up to half the creature's [[speed-xphb|Speed]]. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
+An enclosed creature can take a [[actions#Utilize|Utilize]] action to push against the sphere's wall, moving the sphere up to half the creature's [[speed xphb|Speed]]. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ An enclosed creature can take a [[actions#Utilize|Utilize]] action to push again
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,16 +77,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

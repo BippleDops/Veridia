@@ -17,7 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The]]
+headquarters: '[[02 Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The]]
   Crystal Palace]]'
 membership: Unknown
 MyCategory: Unknown
@@ -36,14 +36,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-crown-authority-the-crown-authority.svg)
 
 # The Crown
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,19 +69,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -98,7 +89,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
@@ -107,7 +97,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Crown represents the royal government of [[Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival.
@@ -212,11 +201,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -242,7 +229,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

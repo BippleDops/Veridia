@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 10 The Deep Mother Rises
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 10 The Deep Mother Rises
 
 ---
@@ -45,7 +54,6 @@ world: Aethermoor
 
 > *The merged city shudders as massive tentacles of pure void rise from the depths.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 🎬 Strong Start
 
@@ -121,11 +124,9 @@ Future Hooks:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

@@ -39,12 +39,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Corroded Crown
-
-![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Corroded_Crown.png|The Corroded Crown Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,36 +68,26 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Role and Motive
 The Corroded Crown moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -223,12 +208,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Cultural Practices
 

@@ -32,13 +32,11 @@ Generated: 2025-08-14T17:52:37.386497
 ---
 *Final link repair complete. All major link issues have been resolved.*
 
-
 ## Connections
 
 - See also: [[World Overview]]
 - Related: [[Regional Politics]]
 - Connected to: [[Character Backstories]]
-
 
 ## DM Notes
 

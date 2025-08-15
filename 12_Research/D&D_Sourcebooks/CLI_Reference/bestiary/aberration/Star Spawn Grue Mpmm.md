@@ -1,3 +1,12 @@
+---
+title: Star Spawn Grue Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Star Spawn Grue Mpmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-grue-mpmm-star-spawn-grue-mpmm.svg)
 
-# [[star-spawn-grue-mpmm|Star Spawn Grue]]
+# [[star spawn grue mpmm|Star Spawn Grue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Star Spawn
 
@@ -135,7 +138,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

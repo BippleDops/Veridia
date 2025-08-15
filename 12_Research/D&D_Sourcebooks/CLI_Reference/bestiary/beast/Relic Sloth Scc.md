@@ -1,3 +1,12 @@
+---
+title: Relic Sloth Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Relic Sloth Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-relic-sloth-scc-relic-sloth-scc.svg)
 
-# [[relic-sloth-scc|Relic Sloth]]
+# [[relic sloth scc|Relic Sloth]]
 *Source: Strixhaven: A Curriculum of Chaos p. 210*  
 
 For long expeditions, Lorehold mages often employ relic sloths to haul adventuring equipment and excavated artifacts—so long as their study isn't in any particular hurry. Relic sloths travel at an excruciatingly slow pace, deliberating every step and moving only when necessary. But this caution makes these hulking creatures perfect for traversing treacherous and crumbling ruins, where other beasts of burden would falter. The distinctive sickle-shaped claws on a relic sloth's forelimbs are primarily used for climbing, though they can fend off a hungry predator in a pinch.
@@ -76,7 +85,6 @@ For long expeditions, Lorehold mages often employ relic sloths to haul adventuri
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -88,11 +96,6 @@ For long expeditions, Lorehold mages often employ relic sloths to haul adventuri
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -109,7 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

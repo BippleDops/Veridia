@@ -1,3 +1,12 @@
+---
+title: Adamantine Ammunition Xge
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adamantine Ammunition Xge
 
 ---
@@ -52,7 +61,6 @@ The adamantine version of ten pieces of ammunition costs 500 gp more than the no
 
 *Source: Xanathar's Guide to Everything p. 78*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -64,11 +72,6 @@ The adamantine version of ten pieces of ammunition costs 500 gp more than the no
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

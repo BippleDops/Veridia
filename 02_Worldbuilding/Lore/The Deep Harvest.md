@@ -32,15 +32,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Deep Harvest
 
 *Mechanized Abundance from the Ocean's Depths*
 
 > *"The Deep Harvest doesn't just feed Aquabyssos—it transforms the ocean floor into the most productive farmland in existence. We've turned the crushing depths into gardens of plenty, and the darkness into fields of light."*
 > — [[Master Harvest Engineer Kelp Deepso]], Director of Marine Agricultural Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,23 +70,17 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -99,12 +90,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -209,7 +198,7 @@ Integrated facility producing all components of The Deep Harvest system under th
 Production requires expertise across multiple technical disciplines:
 
 - **Marine Robotics**: Specialists in underwater autonomous systems ([[Robotics Engineer Wave Autowright]])
-- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio-Mechanical Specialist Tide Lifeforge]])
+- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio Mechanical Specialist Tide Lifeforge]])
 - **Environmental Systems**: Specialists in deep-sea equipment design ([[Environmental Engineer Current Depthwright]])
 - **Control Systems**: Experts in automation and process control ([[Control Systems Engineer Flow Processwright]])
 - **Quality Control**: Specialists ensuring equipment safety and reliability ([[Quality Inspector Reef Perfectwright]])
@@ -223,7 +212,7 @@ The Deep Harvest system requires specialized resources from various suppliers:
 - **Marine-Grade Metals**: Corrosion-resistant alloys for underwater equipment, sourced from [[Deep Metals Consortium]]
 - **Bio-Compatible Components**: Materials suitable for biological integration, from [[Living Systems Suppliers]]
 - **Control Crystals**: Magical crystals managing automated systems, supplied by [[Crystal Forest]]
-- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[02_Worldbuilding/Groups/Marine Protection Guil|02 Worldbuilding/Groups/Marine Protection Guil]]
+- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[02 Worldbuilding/Groups/Marine Protection Guil|02 Worldbuilding/Groups/Marine Protection Guil]]
 - **Energy Systems**: Power sources for autonomous operations, supplied by [[Deep Energy Consortium]]
 
 **Supply Chain Challenges:**
@@ -530,8 +519,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about the government
@@ -557,7 +544,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -569,7 +555,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

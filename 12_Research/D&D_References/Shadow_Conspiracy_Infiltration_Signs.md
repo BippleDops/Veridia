@@ -1,3 +1,12 @@
+---
+title: Shadow_Conspiracy_Infiltration_Signs
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow_Conspiracy_Infiltration_Signs
 
 ---
@@ -22,7 +31,6 @@ world: Aquabyssos
 
 *Classified Intelligence Report - Distribution Restricted*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## WARNING: SENSITIVE INFORMATION
 This document contains classified intelligence regarding the [[Shadow Conspiracy]]. Unauthorized disclosure is punishable by exile or execution. Report suspected infiltration to proper authorities immediately.
@@ -252,16 +255,13 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

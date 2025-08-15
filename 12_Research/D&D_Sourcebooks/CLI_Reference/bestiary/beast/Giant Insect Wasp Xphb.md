@@ -1,3 +1,12 @@
+---
+title: Giant Insect Wasp Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Insect Wasp Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-wasp-xphb-giant-insect-wasp-xphb.svg)
 
-# [[giant-insect-wasp-xphb|Giant Insect (Wasp)]]
+# [[giant insect wasp xphb|Giant Insect (Wasp)]]
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*  
 
 ```statblock
@@ -66,7 +75,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -78,11 +86,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

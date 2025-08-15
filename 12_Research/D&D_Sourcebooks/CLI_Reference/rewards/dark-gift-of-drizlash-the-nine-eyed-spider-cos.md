@@ -1,3 +1,12 @@
+---
+title: dark-gift-of-drizlash-the-nine-eyed-spider-cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # dark-gift-of-drizlash-the-nine-eyed-spider-cos
 
 ---
@@ -31,7 +40,6 @@ The beneficiary of this dark gift grows an extra eye somewhere on its body. The 
 
 *Source: Curse of Strahd p. 192*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ The beneficiary of this dark gift grows an extra eye somewhere on its body. The 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for power
@@ -75,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

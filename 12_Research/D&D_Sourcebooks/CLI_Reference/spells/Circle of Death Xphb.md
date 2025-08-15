@@ -1,3 +1,12 @@
+---
+title: Circle of Death Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Circle of Death Xphb
 
 ---
@@ -36,14 +45,13 @@ world: Both
 - **Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
 - **Duration:** Instantaneous
 
-Negative energy ripples out in a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]] from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking `8d8` Necrotic damage on a failed save or half as much damage on a successful one.
+Negative energy ripples out in a 60-foot-radius [[sphere area of effect xphb|Sphere]] from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking `8d8` Necrotic damage on a failed save or half as much damage on a successful one.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d8` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 250. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Negative energy ripples out in a 60-foot-radius [[sphere-area-of-effect-xphb|Sph
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,14 +81,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

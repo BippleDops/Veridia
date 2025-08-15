@@ -1,3 +1,12 @@
+---
+title: Shadow Independence Levels
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Independence Levels
 
 ---
@@ -59,7 +68,6 @@ The organization operates on a unique philosophical framework that recognizes di
 
 Founded in the aftermath of the [[The Great Drowning]] when many citizens found themselves permanently altered by shadow realm exposure, the SIL has evolved from a support group into a sophisticated political movement with international implications. They represent the largest organized voice for shadow-touched rights in Aquabyssos and have begun expanding influence to other realms facing similar shadow integration challenges.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -71,11 +79,6 @@ Founded in the aftermath of the [[The Great Drowning]] when many citizens found 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organizational Structure
 
@@ -284,11 +287,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

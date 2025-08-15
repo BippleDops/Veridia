@@ -1,3 +1,12 @@
+---
+title: Abominable Yeti Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Abominable Yeti Xmm
 
 ---
@@ -31,13 +40,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
-# [[abominable-yeti-xmm|Abominable Yeti]]
+# [[abominable yeti xmm|Abominable Yeti]]
 *Source: Monster Manual (2024) p. 340*  
 
 Giants even among their own intimidating kind, abominable yetis are stronger and bloodthirstier than their kin. They claim whole regions as their hunting grounds, and they might track trespassers for days. On sighting prey, abominable yetis fling boulders of ice and snow before closing to finish foes. In addition to their icy claws and gaze, they can exhale a blast of arctic cold.
 
 Abominable yetis dwell in frigid ruins or the deserted lairs of other monsters atop infamous peaks.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Abominable yetis dwell in frigid ruins or the deserted lairs of other monsters a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Yetis
 
@@ -97,7 +100,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 "languages": "Yeti"
 "cr": "9"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "If the yeti takes Fire damage, it has [[disadvantage xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -112,11 +115,11 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
     "name": "Ice Throw"
   - "desc": "Constitution Saving Throw: DC 18, one creature the yeti can see within\
       \ 30 feet. Failure: 21 (6d6) Cold damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
-      \ condition until the start of the yeti's next turn unless the target has [[immunity-xphb|Immunity]]\
+      \ condition until the start of the yeti's next turn unless the target has [[immunity xphb|Immunity]]\
       \ to Cold damage. Success: The target is immune to this yeti's Chilling Gaze\
       \ for 1 hour."
     "name": "Chilling Gaze"
-  - "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 45 (10d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 6)"
 "source":
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -153,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

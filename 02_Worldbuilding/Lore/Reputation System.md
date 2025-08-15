@@ -32,15 +32,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Reputation System
 
 *Social Standing in the Merged Realms*
 
 > *"In a world where surface and depth have collided, your reputation isn't just about what people think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
 > — [[Social Navigator Coral Diplomacy]], Master of Cross-Realm Relations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,8 +70,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
@@ -83,13 +78,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -103,8 +94,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -690,9 +679,9 @@ Faction relationships create complex political networks:
 
 - **[[Diplomatic Corps]]**: Professional reputation management services
 - **[[Social Intelligence Network]]**: Reputation monitoring and analysis
-- **[[Cross-Realm Cultural Exchange]]**: Reputation building between realms
+- **[[Cross Realm Cultural Exchange]]**: Reputation building between realms
 - **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
-- **[[02_Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
+- **[[02 Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
 
@@ -715,8 +704,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

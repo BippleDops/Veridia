@@ -1,3 +1,12 @@
+---
+title: Windvane Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Windvane Pota
 
 ---
@@ -26,20 +35,19 @@ world: Both
 ---
 
 # Windvane
-*Weapon ([[spear-xphb|spear]]), legendary (requires attunement)*  
+*Weapon ([[spear xphb|spear]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/windvane.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the weapon feels insubstantial, as if clutching a cool, gently flowing breeze. The spear contains a spark of [[yan-c-bin-pota|Yan-C-Bin]], the Prince of Evil Air.
+A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the weapon feels insubstantial, as if clutching a cool, gently flowing breeze. The spear contains a spark of [[yan c bin pota|Yan-C-Bin]], the Prince of Evil Air.
 
 You have a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse weapon property. When you hit with it, the target takes an extra `d6` lightning damage.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon, whic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Air Mastery
 
@@ -64,11 +67,11 @@ You gain the following benefits while you hold Windvane:
 
 - You can speak Auran fluently.  
 - You have resistance to lightning damage.  
-- You can cast [[dominate-monster-xphb|dominate monster]] (save DC 17) on an [[air-elemental-xmm|air elemental]]. Once you have done so, Windvane can't be used this way again until the next dawn.  
+- You can cast [[dominate monster xphb|dominate monster]] (save DC 17) on an [[air elemental xmm|air elemental]]. Once you have done so, Windvane can't be used this way again until the next dawn.  
 
 ## Song of the Four Winds
 
-While inside an air node, you can perform a ritual called the Song of the Four Winds, using Windvane to create a [[devastation-orb-of-air-pota|devastation orb of air]]. Once you perform the ritual, Windvane can't be used to perform the ritual again until the next dawn.
+While inside an air node, you can perform a ritual called the Song of the Four Winds, using Windvane to create a [[devastation orb of air pota|devastation orb of air]]. Once you perform the ritual, Windvane can't be used to perform the ritual again until the next dawn.
 
 ## Flaw
 
@@ -92,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

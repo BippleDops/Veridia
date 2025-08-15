@@ -23,17 +23,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-free-current-the-free-current.svg]]
 
 # The Free Current
 *Where the Waters Flow Unbound*
 
 > *"Here in the Current, no lord claims dominion over the tide. Every soul swims free, every trade finds its level, and every dream has space to grow. This is what freedom looks like when it moves with the water."*
 > — [[Captain Torrent Freewater]], Founder and First Speaker of the Free Current
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,13 +58,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -78,7 +70,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
@@ -86,7 +77,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -100,7 +90,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -712,8 +701,6 @@ Ongoing situations affecting The Free Current:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

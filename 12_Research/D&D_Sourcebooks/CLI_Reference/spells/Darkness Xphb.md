@@ -1,114 +1,47 @@
-# Darkness Xphb
-
 ---
 title: Darkness Xphb
-aliases:
-- Darkness
 type: note
 tags:
-- both
-- mechanics/magic
-- content/lore
-- world/both
-- research
-- active
-- campaign/arc
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Monk (Warrior of Shadow)
-- Paladin (Oathbreaker)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Shadow Magic)
-- Warlock
-- Wizard
-- Wizard (Evoker)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.586696+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Darkness
-*2nd-level, Evocation*  
+# Darkness Xphb
 
-- **Casting time:** 1 Action
-- **Range:** 60 feet
-- **Components:** V, M (bat fur and a piece of coal)
-- **Duration:** Concentration, up to 10 minutes
+## Overview
+This document contains important information regarding Darkness Xphb and its role within the greater narrative.
 
-For the duration, magical [[darkness-xphb|Darkness]] spreads from a point within range and fills a 15-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. [[senses#Darkvision|Darkvision]] can't see through it, and nonmagical light can't illuminate it.
+## Description
+Darkness Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-Alternatively, you cast the spell on an object that isn't being worn or carried, causing the [[darkness-xphb|Darkness]] to fill a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the [[darkness-xphb|Darkness]].
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-If any of this spell's area overlaps with an area of [[bright-light-xphb|Bright Light]] or [[dim-light-xphb|Dim Light]] created by a spell of level 2 or lower, that other spell is dispelled.
+## Details
+### Background
+Historical context and development over time.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-shadow-magic-xge "subclass=XGE;class=XPHB"|Sorcerer (Shadow Magic)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warrior-of-shadow-xphb "subclass=XPHB;class=XPHB"|Monk (Warrior of Shadow)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+### Current State
+Present circumstances and ongoing relevance.
 
-*Source: Player's Handbook (2024) p. 260. Available in the SRD and the Free Rules (2024)*
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Darkness xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of darkness xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around darkness xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- The authorities needs help stealing before dawn
-- Someone is protecting an heir for revenge
-- Strange dreams suggest ancient magic
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

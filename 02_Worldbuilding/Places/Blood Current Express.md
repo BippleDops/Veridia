@@ -26,10 +26,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-blood-current-express-blood-current-express.svg]]
 
 # Blood Current Express
 
@@ -37,7 +34,6 @@ improvements: 20
 
 > *"They call it the Blood Current because it runs red with iron-rich minerals, but we who ride it know the real reason for the name. It's painted red with the blood of those who couldn't handle the speed, the pressure, the sheer deadly beauty of the fastest current in all the deep waters."*
 > — [[Current Rider Captain Crimson Velocity]], Master of the Blood Run
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,12 +62,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -81,9 +74,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
@@ -91,7 +81,6 @@ improvements: 20
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -761,7 +749,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 - [[Express Racers]]
 - [[Current Navigation Techniques]]
 - [[Transportation Guild]]
-- [[High-Speed Transportation]]
+- [[High Speed Transportation]]
 
 ## Player-Facing Summary
 
@@ -804,8 +792,6 @@ Ongoing situations affecting Blood Current Express:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,7 +45,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -78,19 +74,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -200,7 +191,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Mirror-Breaking Crystals]] (colleague)
+- [[Mirror Breaking Crystals]] (colleague)
 - [[The Depth Wardens]] (enemy)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]] (colleague)
 ---
@@ -209,7 +200,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
-
 
 ## Relationships
 

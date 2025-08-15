@@ -1,3 +1,12 @@
+---
+title: Duergar Raiding Parties 1 Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Duergar Raiding Parties 1 Mtf
 
 ---
@@ -27,12 +36,11 @@ world: Both
 
 | Members | Number Present |
 |---------|----------------|
-| [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Duergar]] | `2d6 + 5` |
-| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar stone guards]] | `1d4 + 1` |
-| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | `d4` |
+| [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Duergar]] | `2d6 + 5` |
+| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar stone guards]] | `1d4 + 1` |
+| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | `d4` |
 | [[male-steeder-mpmm|Male steeders]] | `d4` |
 ^members-number-present
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

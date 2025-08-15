@@ -1,3 +1,12 @@
+---
+title: Quest - The Bio-Adaptation Crisis
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Bio-Adaptation Crisis
 
 ---
@@ -16,8 +25,6 @@ updated: '2025-08-13T01:18:36.925828+00:00'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ updated: '2025-08-13T01:18:36.925828+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -51,7 +53,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

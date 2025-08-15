@@ -1,153 +1,47 @@
-# Quickling Mpmm
-
 ---
 title: Quickling Mpmm
-aliases:
-- Quickling
-type: monster
+type: note
 tags:
-- both
-- monster
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/compendium/src/5e/mpmm
-- world/both
-- research
-- active
-- ttrpg-cli/monster/type/fey
-- ttrpg-cli/monster/environment/forest
-- status/in-progress
-- ttrpg-cli/monster/size/tiny
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.550015+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-quickling-mpmm-quickling-mpmm.svg)
+# Quickling Mpmm
 
-# [[quickling-mpmm|Quickling]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
+## Overview
+This document contains important information regarding Quickling Mpmm and its role within the greater narrative.
 
-Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
+## Description
+Quickling Mpmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-Quicklings owe their existence—and their plight—to the Queen of Air and Darkness, the dread ruler of the Gloaming Court. Once a species of lazy and egotistical Fey, quicklings' predecessors were late in answering the queen's summons one time too many. To hasten their pace and teach them to mind her will, the queen sped up their internal clocks and shrank them. Her curse gave quicklings amazing speed but also accelerated their passage through life—no quickling lives longer than fifteen years.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-The mortal realm is a ponderous place to a quickling's eye: a hurricane creeps gradually across the sky, a torrent of rain drifts earthward like lazy snowflakes, lightning crawls in a meandering path from cloud to cloud. The slow and boring world seems to be populated by torpid creatures whose deep, mooing speech lacks meaning.
+## Details
+### Background
+Historical context and development over time.
 
-To other creatures, quicklings seem blindingly fast, vanishing into an indistinct blur as they move. Their cruel laughter is a burst of rapid staccato sounds, their speech a shrill squeal. Only when quicklings deliberately slow down, which they prefer not to do, can other beings properly see, hear, and comprehend them. Never truly at rest, "stationary" quicklings constantly pace and shift in place, as though they can't wait to be off again.
+### Current State
+Present circumstances and ongoing relevance.
 
-Quicklings have a capricious nature that goes well with their energy level: they think as fast as they run, and they are always up to something. They spend most of their time perpetrating acts of mischief on slower creatures. One rarely passes up an opportunity to tie a person's bootlaces together, move the stool a creature is about to sit on, or unbuckle a saddle while no one's looking.
+### Future Potential
+Possible developments and plot directions.
 
-Tricks of that sort are hardly the limit of quicklings' artful malice, however. They don't commit outright murder, but they can ruin lives in plenty of other ways: stealing an important letter, swiping coins collected for the poor, planting a stolen item in someone's bag. Quicklings enjoy causing suffering that transcends mere mischief, especially when the blame for their actions falls on others and creates discord.
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-```statblock
-"name": "Quickling (MPMM)"
-"size": "Tiny"
-"type": "fey"
-"alignment": "Typically  Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "10"
-"hit_dice": "3d4 + 3"
-"modifier": !!int "6"
-"stats":
-  - !!int "4"
-  - !!int "23"
-  - !!int "13"
-  - !!int "10"
-  - !!int "12"
-  - !!int "7"
-"speed": "120 ft."
-"skillsaves":
-  - "name": "[[skills#Acrobatics|Acrobatics]]"
-    "desc": "+8"
-  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
-  - "name": "[[skills#Stealth|Stealth]]"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
-"languages": "Common, Sylvan"
-"cr": "1"
-"traits":
-  - "desc": "Attack rolls against the quickling have disadvantage unless it is [[conditions#Incapacitated|incapacitated]]\
-      \ or its speed is 0."
-    "name": "Blurred Movement"
-  - "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
-      \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw and only half damage if it fails, provided it isn't [[conditions#Incapacitated|incapacitated]]."
-    "name": "Evasion"
-"actions":
-  - "desc": "The quickling makes three Dagger attacks."
-    "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 8 (1d4 + 6) piercing damage."
-    "name": "Dagger"
-"source":
-  - "MPMM"
-  - "VGM"
-"image": "/03_Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
-```
-^statblock
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Environment
-
-forest
-
-## Player-Facing Summary
-
-Quickling mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of quickling mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quickling mpmm.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

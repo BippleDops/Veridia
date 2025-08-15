@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,24 +38,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -77,7 +67,6 @@ improvements: 20
 
 - Include cultural hypocrisies and double standards
 
-
 ## Overview
 
 Whisper-Touched Elena represents a crucial aspect of the world's history, cosmology, or fundamental nature.
@@ -93,7 +82,6 @@ Whisper-Touched Elena represents a crucial aspect of the world's history, cosmol
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -118,7 +106,6 @@ Whisper-Touched Elena represents a crucial aspect of the world's history, cosmol
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

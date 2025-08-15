@@ -1,3 +1,12 @@
+---
+title: Instrument of the Bards Doss Lute Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Instrument of the Bards Doss Lute Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `2d4` Psychic damage.
 
-You can play the Doss [[lute-xphb|Lute]] to cast one of the following spells: [[fly-xphb|Fly]], [[invisibility-xphb|Invisibility]], [[levitate-xphb|Levitate]], [[protection-from-evil-and-good-xphb|Protection from Evil and Good]], [[animal-friendship-xphb|Animal Friendship]], [[protection-from-energy-xphb|Protection from Energy]] (Fire damage only), and [[protection-from-poison-xphb|Protection from Poison]]. Once the Doss [[lute-xphb|Lute]] has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play the Doss [[lute xphb|Lute]] to cast one of the following spells: [[fly xphb|Fly]], [[invisibility xphb|Invisibility]], [[levitate xphb|Levitate]], [[protection from evil and good xphb|Protection from Evil and Good]], [[animal friendship xphb|Animal Friendship]], [[protection from energy xphb|Protection from Energy]] (Fire damage only), and [[protection from poison xphb|Protection from Poison]]. Once the Doss [[lute xphb|Lute]] has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
 *Source: Dungeon Master's Guide (2024) p. 272*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ You can play the Doss [[lute-xphb|Lute]] to cast one of the following spells: [[
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -76,11 +78,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

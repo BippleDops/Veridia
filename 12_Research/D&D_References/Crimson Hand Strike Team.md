@@ -1,3 +1,12 @@
+---
+title: Crimson Hand Strike Team
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crimson Hand Strike Team
 
 ---
@@ -27,7 +36,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"When diplomacy fails and the shadows prove insufficient, the Crimson Hand strikes with surgical precision." - Classified Aethermoor Military Document*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Crimson Hand Strike Team represents Aethermoor's most elite and secretive military unit, specializing in high-risk operations that require absolute discretion and exceptional skill. Officially, this unit does not exist in any public military records, operating under deep cover protocols that allow plausible deniability for the Aethermoor government. The team handles threats too sensitive for regular military forces and too dangerous for conventional intelligence operatives, from assassination missions to the retrieval of reality-altering artifacts.
@@ -129,15 +132,12 @@ Legends speak of Crimson Hand Strike Team as a nexus where past and present conv
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

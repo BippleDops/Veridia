@@ -1,3 +1,12 @@
+---
+title: Harmonic_Resonance_Evolution
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Harmonic_Resoce_Evolution
 
 ---
@@ -65,7 +74,6 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 
 *Harmonic evolution grants incredible musical power but threatens to transform the singer into a living instrument.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -94,7 +97,6 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

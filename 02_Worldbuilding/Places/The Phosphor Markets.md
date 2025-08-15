@@ -28,11 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-phosphor-markets-the-phosphor-markets.png]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,23 +57,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -95,8 +85,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -288,7 +276,7 @@ Central administrative building carved from a fossilized whale skull:
 **NPCs Present**:
 - [[Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
 - [[Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
-- [[Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
+- [[Chronicler Depth Song]] - Mer-folk historian documenting market evolution
 
 #### The Adaptation Clinic
 
@@ -301,7 +289,7 @@ Medical facility specializing in aquatic modifications:
 
 **Staff**:
 - [[Surgeon Coral Seamender]] - Expert in bio-magical modifications
-- [[Healer Tide-Touch]] - Specializes in pressure-related injuries
+- [[Healer Tide Touch]] - Specializes in pressure-related injuries
 - [[Apprentice Bubbles]] - Young water elemental learning medical arts
 
 #### The Bioluminescent Workshops
@@ -314,7 +302,7 @@ Crafting spaces utilizing living organisms:
 - **Shell Smiths**: Fashion armor and tools from giant mollusk shells
 
 **Master Craftspeople**:
-- [[Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
+- [[Artisan Glow Finger Nerida]] - Creates bioluminescent jewelry
 - [[Coral Shaper Polyp]] - Living coral being who grows architectural structures
 - [[Pearl Empress Lustrous]] - Makes pearls that store magical energy
 
@@ -354,7 +342,7 @@ Sophisticated ficial trading for future goods delivery:
 - **Weather Derivatives**: Betting on current patterns and seasonal changes
 
 **Key Traders**:
-- [[Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
+- [[Futures Master Economic Sense]] - Predicts market trends with supernatural accuracy
 - [[Risk Assessor Probability]] - Calculates odds for any venture
 - [[Commodity Queen Abundance]] - Controls significant portions of several markets
 
@@ -386,7 +374,7 @@ Secret level where illegal goods are processed and distributed:
 
 **Key Figures**:
 - [[The Facilitator]] - Mysterious figure who arranges impossible trades
-- [[Silence-Keeper Mute]] - Enforces secrecy through magical contracts
+- [[Silence Keeper Mute]] - Enforces secrecy through magical contracts
 - [[The Cleaner]] - Eliminates evidence and witnesses when necessary
 
 ### Standard Currency
@@ -494,7 +482,6 @@ The Phosphor Markets is a notable location characterized by its unique features 
 
 ### Founding
 The Phosphor Markets was established in the distant past, growing from humble beginnings to its current state.
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Storm of Vengeance Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm of Vengeance Xphb
 
 ---
@@ -38,7 +47,6 @@ A churning storm cloud forms for the duration, centered on a point within range 
 
 At the start of each of your later turns, the storm produces different effects, as detailed below.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ At the start of each of your later turns, the storm produces different effects, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Turn 2
 
@@ -70,11 +73,11 @@ Hailstones rain down. Each creature under the cloud takes `2d6` Bludgeoning dama
 
 ## Turns 5-10
 
-Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[difficult-terrain-xphb|Difficult Terrain]] and [[heavily-obscured-xphb|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
+Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[difficult terrain xphb|Difficult Terrain]] and [[heavily obscured xphb|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the SRD and the Free Rules (2024)*
 
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting an heir for revenge
@@ -108,16 +110,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

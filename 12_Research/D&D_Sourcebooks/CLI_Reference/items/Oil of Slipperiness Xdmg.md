@@ -1,3 +1,12 @@
+---
+title: Oil of Slipperiness Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Oil of Slipperiness Xdmg
 
 ---
@@ -32,14 +41,13 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [[freedom-of-movement-xphb|Freedom of Movement]] spell for 8 hours.
+One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [[freedom of movement xphb|Freedom of Movement]] spell for 8 hours.
 
-Alternatively, the oil can be poured on the ground as a [[actions#Magic|Magic]] action, where it covers a 10-foot square, duplicating the effect of the [[grease-xphb|Grease]] spell in that area for 8 hours.
+Alternatively, the oil can be poured on the ground as a [[actions#Magic|Magic]] action, where it covers a 10-foot square, duplicating the effect of the [[grease xphb|Grease]] spell in that area for 8 hours.
 
 This sticky, black unguent is thick and heavy, but it flows quickly when poured.
 
 *Source: Dungeon Master's Guide (2024) p. 283. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ This sticky, black unguent is thick and heavy, but it flows quickly when poured.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for love
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

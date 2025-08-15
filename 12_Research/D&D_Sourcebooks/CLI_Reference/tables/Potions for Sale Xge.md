@@ -1,3 +1,12 @@
+---
+title: Potions for Sale Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potions for Sale Xge
 
 ---
@@ -29,16 +38,15 @@ world: Both
 
 | Potion of... | Cost |
 |--------------|------|
-| [[potion-of-healing-xdmg|Healing]] | 50 gp |
-| [[potion-of-climbing-xdmg|Climbing]] | 75 gp |
-| [[potion-of-animal-friendship-xdmg|Animal friendship]] | 100 gp |
-| [[potion-of-greater-healing-xdmg|Greater healing]] | 100 gp |
-| [[potion-of-water-breathing-xdmg|Water breathing]] | 100 gp |
-| [[potion-of-superior-healing-xdmg|Superior healing]] | 500 gp |
-| [[potion-of-supreme-healing-xdmg|Supreme healing]] | 5,000 gp |
-| [[potion-of-invisibility-xdmg|Invisibility]] | 5,000 gp |
+| [[potion of healing xdmg|Healing]] | 50 gp |
+| [[potion of climbing xdmg|Climbing]] | 75 gp |
+| [[potion of animal friendship xdmg|Animal friendship]] | 100 gp |
+| [[potion of greater healing xdmg|Greater healing]] | 100 gp |
+| [[potion of water breathing xdmg|Water breathing]] | 100 gp |
+| [[potion of superior healing xdmg|Superior healing]] | 500 gp |
+| [[potion of supreme healing xdmg|Supreme healing]] | 5,000 gp |
+| [[potion of invisibility xdmg|Invisibility]] | 5,000 gp |
 ^potions-for-sale
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

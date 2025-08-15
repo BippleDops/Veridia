@@ -27,11 +27,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-gardens-crystal-gardens.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,8 +61,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
@@ -74,17 +69,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -99,7 +90,6 @@ improvements: 20
 
 - Detail funeral rites and afterlife beliefs
 
-
 ## The Prismatic Heart of Aethermoor's Wonder
 
 > *"Where light dances eternal and crystal dreams take root in soil made of wishes."*
@@ -107,7 +97,7 @@ improvements: 20
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02 Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -141,7 +131,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 
 **Current Status**: Premier magical research facility and public wonder  
 **Expansion**: Underground crystal caverns discovered beneath original gardens  
-**Integration**: Now connected to the [[Palace Courtyard - Crystal Garden]] via crystal bridges
+**Integration**: Now connected to the [[Palace Courtyard   Crystal Garden]] via crystal bridges
 
 #### The Prism Plaza
 
@@ -485,7 +475,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 **Consequence**: If successful, would destroy magical balance of entire region  
 **Finale**: Confrontation in the deepest chambers beneath the Gardens
 
-### [[Palace Courtyard - Crystal Garden]]
+### [[Palace Courtyard   Crystal Garden]]
 
 **Link**: Crystal bridges connect the two locations  
 **Function**: Royal family has private access to rarest specimens  
@@ -542,7 +532,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 ---
 
 **Related Locations**:
-- [[Palace Courtyard - Crystal Garden]]
+- [[Palace Courtyard   Crystal Garden]]
 - [[12_Research/D&D_Statblocks/The Crystalline Foundry]]  
 - [[Crystalhaven]]
 - [[Aethermoor]]
@@ -551,7 +541,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Sage Iris Crystalbloom]]
 - [[Queen Seraphina Lumengarde]]
 - [[12_Research/D&D_Statblocks/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
+- [[02 Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
 
 **Related Items and Concepts**:
 - [[Aether Crystals]]
@@ -604,8 +594,6 @@ Ongoing situations affecting Crystal Gardens:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Secret Connections
 

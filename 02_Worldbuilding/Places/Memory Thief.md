@@ -32,7 +32,7 @@ MyContainer: None
 category: Criminal Mind-Mage
 created_by: auto-stub
 danger_level: High
-faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory]]
+faction: '[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory]]
   Thieves Guil]]'
 influence: Moderate
 obsidianUIMode: preview
@@ -42,17 +42,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg]]
 
 # The Memory Thief
 *Dealer in Stolen Thoughts*
 
 > *"Memories are the most precious treasure anyone possesses, and like all treasures, they can be taken by those skilled enough to claim them. What price would you pay to forget your greatest pain, or to remember someone else's greatest joy?"*
 > — The Memory Thief, negotiating with a potential client
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,19 +77,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
@@ -119,7 +109,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -277,7 +266,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
+**[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 
@@ -404,8 +393,6 @@ Ongoing situations affecting Memory Thief:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Retired Captain Bron Saltbeard
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Retired_Captain_Bron_Saltbeard.png|Retired Captain Bron Saltbeard Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,14 +67,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -105,7 +95,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -160,12 +149,9 @@ Ongoing situations affecting Retired Captain Bron Saltbeard:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Religious Observances
 

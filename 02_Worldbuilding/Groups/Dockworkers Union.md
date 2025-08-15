@@ -27,11 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,39 +56,30 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## General Info
 **Location**: Shadowhaven Docks
@@ -134,11 +121,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -161,7 +146,6 @@ Mentioned in The Second Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Warhorse Skeleton Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Warhorse Skeleton Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-warhorse-skeleton-xmm-v1-warhorse-skeleton-xmm.svg)
 
-# [[warhorse-skeleton-xmm|Warhorse Skeleton]]
+# [[warhorse skeleton xmm|Warhorse Skeleton]]
 *Source: Monster Manual (2024) p. 282. Available in the SRD*  
 
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Skeletons
 
@@ -136,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

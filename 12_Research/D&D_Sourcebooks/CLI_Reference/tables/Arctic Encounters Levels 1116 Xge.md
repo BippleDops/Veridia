@@ -1,3 +1,12 @@
+---
+title: Arctic Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arctic Encounters Levels 1116 Xge
 
 ---
@@ -32,23 +41,22 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | 1 [[abominable-yeti-xmm|abominable yeti]] |
-| 02-04 | `d6` [[revet-xmm|revets]] |
-| 05-10 | `1d4 + 1` [[werebear-xmm|werebears]] |
+| 02-04 | `d6` [[revet xmm|revets]] |
+| 05-10 | `1d4 + 1` [[werebear xmm|werebears]] |
 | 11-20 | `d3` [[young-white-dragon-xmm|young white dragons]] |
 | 21-25 | A blizzard that reduces visibility to 5 feet for `d6` hours |
-| 26-35 | 1 [[roc-xmm|roc]] |
-| 36-40 | A herd of `3d20 + 60` caribou ([[deer-xmm|deer]]) moving through the snow |
-| 41-50 | `d4` [[mammoth-xmm|mammoths]] |
-| 51-60 | `1d8 + 1` [[troll-xmm|trolls]] |
+| 26-35 | 1 [[roc xmm|roc]] |
+| 36-40 | A herd of `3d20 + 60` caribou ([[deer xmm|deer]]) moving through the snow |
+| 41-50 | `d4` [[mammoth xmm|mammoths]] |
+| 51-60 | `1d8 + 1` [[troll xmm|trolls]] |
 | 61-65 | A mile-wide frozen lake in which preserved corpses of strange creatures can be seen |
-| 66-75 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 66-75 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
 | 76-80 | A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids |
 | 81-90 | 1 [[adult-white-dragon-xmm|adult white dragon]] |
 | 91-96 | `1d8 + 1` [[frost-giant-xmm|frost giants]] |
-| 97-99 | `d4` [[remorhaz-xmm|remorhazes]] |
+| 97-99 | `d4` [[remorhaz xmm|remorhazes]] |
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] |
 ^arctic-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,11 +69,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -83,11 +86,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before the festival
-- Someone is hunting an heir for love
 - Someone is hunting an heir for love
 - A stranger needs help delivering before dawn
 
@@ -95,11 +96,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

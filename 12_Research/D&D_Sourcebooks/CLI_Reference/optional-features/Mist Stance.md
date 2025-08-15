@@ -1,3 +1,12 @@
+---
+title: Mist Stance
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mist Stance
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [[gaseous-form-xphb|gaseous form]], targeting yourself.
-
+You can spend 4 ki points to cast [[gaseous form xphb|gaseous form]], targeting yourself.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can spend 4 ki points to cast [[gaseous-form-xphb|gaseous form]], targeting 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and war looms
@@ -73,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

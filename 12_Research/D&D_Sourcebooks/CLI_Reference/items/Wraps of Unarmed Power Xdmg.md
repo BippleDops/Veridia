@@ -1,3 +1,12 @@
+---
+title: Wraps of Unarmed Power Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wraps of Unarmed Power Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 **Items in this group:**
 
-- [[1-wraps-of-unarmed-power-xdmg|+1 Wraps of Unarmed Power]]
-- [[2-wraps-of-unarmed-power-xdmg|+2 Wraps of Unarmed Power]]
-- [[3-wraps-of-unarmed-power-xdmg|+3 Wraps of Unarmed Power]]
+- [[1 wraps of unarmed power xdmg|+1 Wraps of Unarmed Power]]
+- [[2 wraps of unarmed power xdmg|+2 Wraps of Unarmed Power]]
+- [[3 wraps of unarmed power xdmg|+3 Wraps of Unarmed Power]]
 
 *Source: Dungeon Master's Guide (2024) p. 325*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

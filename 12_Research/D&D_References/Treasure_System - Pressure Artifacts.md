@@ -1,3 +1,12 @@
+---
+title: Treasure_System - Pressure Artifacts
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Treasure_System - Pressure Artifacts
 
 ---
@@ -25,7 +34,6 @@ world: Aquabyssos
 # Pressure Artifacts
 *Magical Items Forged in the Depths of Aquabyssos*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land.
@@ -382,7 +385,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and evil awakens
@@ -392,7 +394,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

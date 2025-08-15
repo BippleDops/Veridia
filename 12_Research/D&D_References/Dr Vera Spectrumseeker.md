@@ -1,3 +1,12 @@
+---
+title: Dr Vera Spectrumseeker
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr Vera Spectrumseeker
 
 ---
@@ -21,8 +30,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -35,11 +42,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -57,16 +59,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -80,11 +79,9 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

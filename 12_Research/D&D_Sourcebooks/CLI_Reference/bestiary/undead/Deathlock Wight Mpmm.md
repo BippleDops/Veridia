@@ -1,3 +1,12 @@
+---
+title: Deathlock Wight Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deathlock Wight Mpmm
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-wight-mpmm-deathlock-wight-mpmm.svg)
 
-# [[deathlock-wight-mpmm|Deathlock Wight]]
+# [[deathlock wight mpmm|Deathlock Wight]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Deprived of much of its magic as a special punishment, a deathlock wight lingers
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Deathlocks
 
@@ -104,7 +107,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if its hit point maximum is reduced to 0.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [[zombie-xmm|zombie]]\
+      \ by this attack rises 24 hours later as a [[zombie xmm|zombie]]\
       \ under the deathlock's control, unless the Humanoid is restored to life or\
       \ its body is destroyed. The deathlock can have no more than twelve zombies\
       \ under its control at one time."
@@ -113,9 +116,9 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d8 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[detect-magic-xphb|detect magic]],\
-      \ [[disguise-self-xphb|disguise self]], [[mage-armor-xphb|mage armor]]\n\
-      \n1/day each: [[fear-xphb|fear]], [[hold-person-xphb|hold person]]"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[detect magic xphb|detect magic]],\
+      \ [[disguise self xphb|disguise self]], [[mage armor xphb|mage armor]]\n\
+      \n1/day each: [[fear xphb|fear]], [[hold person xphb|hold person]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -139,7 +142,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

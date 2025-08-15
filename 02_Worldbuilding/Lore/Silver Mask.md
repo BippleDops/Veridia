@@ -40,15 +40,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Silver Mask
 
 *The Phantom Agent of Aethermoor's Hidden Networks*
 
 > *"They say Silver Mask has been everyone and no one, a ghost that walks among us wearing the faces of our trusted friends, our respected leaders, our beloved family members. In thirty years of investigation, I have uncovered seventeen different identities that might be Silver Mask, only to discover that each was merely another layer in an infinite conspiracy of deception. The truth is not that Silver Mask is hard to find - it's that Silver Mask might be everyone we think we can trust."*
 > — [[Investigative Chronicler Darius Truthseeker]], "Phantom Investigations: The Silver Mask Files"
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,18 +78,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
@@ -102,8 +94,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
@@ -112,7 +102,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -542,9 +531,9 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 - [[Interrogation Techniques]] - Specialized approaches for witnesses affected by Silver Mask memory manipulation
 
 **Active Case Files:**
-- [[INV-001]] - Cross-references to early Silver Mask sighting reports
-- [[INV-004]] - Ficial irregularities potentially linked to Silver Mask resource networks
-- [[INV-005]] - Missing persons cases that may involve Silver Mask identity theft
+- [[INV 001]] - Cross-references to early Silver Mask sighting reports
+- [[INV 004]] - Ficial irregularities potentially linked to Silver Mask resource networks
+- [[INV 005]] - Missing persons cases that may involve Silver Mask identity theft
 - [[Timeline of Crimes]] - Chronological analysis of Silver Mask activities and their broader impact
 
 **Specialized Investigation Support:**
@@ -579,17 +568,13 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -615,7 +600,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -627,7 +611,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

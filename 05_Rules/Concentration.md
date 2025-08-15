@@ -15,9 +15,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,30 +38,21 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Monster_Use Improvements
@@ -74,7 +62,6 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-
 
 ## Active Concentrations
 
@@ -119,11 +106,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

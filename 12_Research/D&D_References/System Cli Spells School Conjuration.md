@@ -1,3 +1,12 @@
+---
+title: System Cli Spells School Conjuration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Spells School Conjuration
 
 ---
@@ -38,7 +47,6 @@ world: Both Worlds
 > *"In the boundless depths where distance means nothing and everything, conjuration becomes the art of bringing forth what is needed when it is needed. We do not merely move objects through space - we convince reality that they were always meant to be here."*
 > — [[Master Conductor Nereus Voidcaller]], Dean of Extraplanar Studies at the [[Deep Current Academy]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ world: Both Worlds
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -167,11 +170,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

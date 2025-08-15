@@ -1,3 +1,12 @@
+---
+title: Sword Wraith Commander Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sword Wraith Commander Mpmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-commander-mpmm-sword-wraith-commander-mpmm.svg)
 
-# [[sword-wraith-commander-mpmm|Sword Wraith Commander]]
+# [[sword wraith commander mpmm|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Sword wraith commanders haunt battlefields, attacking anyone who questions their
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sword Wraiths
 
@@ -65,7 +68,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[breastplate-xphb|breastplate]], [[shield-xphb|shield]]"
+"ac_class": "[[breastplate xphb|breastplate]], [[shield xphb|shield]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -102,7 +105,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
   - "desc": "If the commander has taken damage during this combat, it gives itself\
-      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[sword-wraith-warrior-mpmm|sword\]]
+      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[sword wraith warrior mpmm|sword\]]
       \ wraith warriors]]\
       \ appear in unoccupied spaces within 30 feet of it. The warriors last until\
       \ they drop to 0 hit points, and they take their turns immediately after the\
@@ -140,11 +143,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -156,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

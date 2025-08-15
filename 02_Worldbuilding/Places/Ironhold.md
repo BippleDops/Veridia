@@ -46,15 +46,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-ironhold-ironhold.svg]]
 
 # Ironhold
 
 *The Unbreakable Fortress of the Mountains*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -83,42 +79,34 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -461,16 +449,13 @@ Ironhold is a notable location characterized by its unique features and strategi
 ### Founding
 Ironhold was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and evil awakens
-- Someone is protecting information for love
 - Someone is protecting information for love
 - Strange sightings suggest a portal
 
@@ -491,7 +476,6 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

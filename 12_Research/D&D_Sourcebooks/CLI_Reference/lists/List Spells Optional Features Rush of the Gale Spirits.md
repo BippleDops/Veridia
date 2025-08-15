@@ -1,3 +1,12 @@
+---
+title: List Spells Optional Features Rush of the Gale Spirits
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # list-spells-optional-features-rush-of-the-gale-spirits
 
 ---
@@ -15,7 +24,6 @@ updated: '2025-08-12T23:37:34.335360'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -27,11 +35,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

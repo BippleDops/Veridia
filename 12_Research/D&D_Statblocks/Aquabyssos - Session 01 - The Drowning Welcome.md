@@ -1,3 +1,12 @@
+---
+title: Aquabyssos - Session 01 - The Drowning Welcome
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos - Session 01 - The Drowning Welcome
 
 ---
@@ -27,7 +36,7 @@ date:
 depth: 1500
 duration_hours: 4
 encounters:
-- '[[Shadow Ambush - Optional]]'
+- '[[Shadow Ambush   Optional]]'
 gold_gained: 200
 items_gained:
 - Senator's Emergency Beacon
@@ -35,14 +44,14 @@ items_gained:
 - Encrypted Shadow Market invitation
 - Palace safe zones map
 locations_visited:
-- '[[Abyssos Prime - Pressure Terminal]]'
+- '[[Abyssos Prime   Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
 - '[[Parliament of Echoes]]'
 - '[[Inverted Ballroom Wing]]'
 npcs_met:
 - '[[Senator Glaucus]]'
 - '[[The Scattered Emperor]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Marina Red Tide Coralheart   Aquabyssos]]'
 - '[[Pressure Tube Operator Krill]]'
 obsidianUIMode: preview
 players: []
@@ -51,7 +60,7 @@ plot_threads:
 - Senator dissolution incident
 - Shadow Duchess arriving
 - Parliament voting on Shadow Citizenship Act
-primary_location: '[[Abyssos Prime - Inverse Palace]]'
+primary_location: '[[Abyssos Prime   Inverse Palace]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
@@ -64,7 +73,6 @@ world: Aquabyssos
 xp_awarded: 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -76,17 +84,12 @@ xp_awarded:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquification and reconstitution. Upon arrival at the Inverse Palace, they witness Senator Hadrian dissolve into living shadow during a Parliament session. Their own shadows begin showing signs of independence as they settle into their inverted quarters.
 
 ### Opening Scene
-**Location:** [[Abyssos Prime - Pressure Terminal]]
+**Location:** [[Abyssos Prime   Pressure Terminal]]
 **Time:** Midday (though sunlight doesn't reach here)
 **Description:** 
 The party materializes from liquid form in the Pressure Terminal's reconstitution chambers. One member's shadow reforms a second late, moving independently for just a moment. Terminal guards check "molecular integrity" while making notes about shadow irregularities. Graffiti in Aquabyssos script on the walls reads: "The Harvest Comes."
@@ -95,7 +98,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 
 #### Event 1: The Emperor's Court
 **Location:** [[Throne of Bubbles]]
-**NPCs:** [[The Scattered Emperor]], [[Marina Red Tide Coralheart - Aquabyssos]]
+**NPCs:** [[The Scattered Emperor]], [[Marina Red Tide Coralheart   Aquabyssos]]
 **Pressure Check:** DC 12 CON save or gain 1 exhaustion
 **Outcome:** 
 - Emperor speaks through electric eel collective
@@ -113,7 +116,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 - Eel 6: "—shadows."
 
 #### Event 2: The Dissolution
-**Location:** [[Parliament of Echoes - Public Gallery]]
+**Location:** [[Parliament of Echoes   Public Gallery]]
 **NPCs:** [[Senator Glaucus]], dissolving Senator Hadrian
 **Witness Horror:** DC 13 WIS save or frightened for 1 minute
 **Outcome:**
@@ -141,7 +144,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 - Waterfalls flow upward into ceiling pools
 
 ### Closing Scene
-**Location:** [[Inverted Ballroom Wing - Party Quarters]]
+**Location:** [[Inverted Ballroom Wing   Party Quarters]]
 **Time:** Night cycle (artificial darkness)
 **Cliffhanger:** 
 Party members wake to find their shadows standing at the foot of their beds, perfectly still, watching them. One shadow holds a knife. Marina bursts in: "Don't move. Don't even breathe. If you acknowledge them, they become real." Through the window, dozens of shadows dance in the Inverted Ballroom without their owners.
@@ -226,7 +229,6 @@ Each character gains:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -237,7 +239,6 @@ Each character gains:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

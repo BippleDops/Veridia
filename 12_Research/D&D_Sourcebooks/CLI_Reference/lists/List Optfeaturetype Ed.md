@@ -1,3 +1,12 @@
+---
+title: List Optfeaturetype Ed
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Optfeaturetype Ed
 
 ---
@@ -25,24 +34,23 @@ world: Both
 # Elemental Discipline
 *Source: Player's Handbook* 
 
-- [[breath-of-winter|Breath of Winter]]
-- [[clench-of-the-north-wind|Clench of the North Wind]]
-- [[elemental-attunement|Elemental Attunement]]
-- [[eternal-mountain-defense|Eternal Mountain Defense]]
-- [[fangs-of-the-fire-snake|Fangs of the Fire Snake]]
-- [[fist-of-four-thunders|Fist of Four Thunders]]
-- [[flames-of-the-phoenix|Flames of the Phoenix]]
-- [[gong-of-the-summit|Gong of the Summit]]
-- [[mist-stance|Mist Stance]]
-- [[ride-the-wind|Ride the Wind]]
-- [[river-of-hungry-flame|River of Hungry Flame]]
-- [[rush-of-the-gale-spirits|Rush of the Gale Spirits]]
-- [[shape-the-flowing-river|Shape the Flowing River]]
-- [[sweeping-cinder-strike|Sweeping Cinder Strike]]
-- [[unbroken-air|Unbroken Air]]
-- [[water-whip|Water Whip]]
-- [[wave-of-rolling-earth|Wave of Rolling Earth]]
-
+- [[breath of winter|Breath of Winter]]
+- [[clench of the north wind|Clench of the North Wind]]
+- [[elemental attunement|Elemental Attunement]]
+- [[eternal mountain defense|Eternal Mountain Defense]]
+- [[fangs of the fire snake|Fangs of the Fire Snake]]
+- [[fist of four thunders|Fist of Four Thunders]]
+- [[flames of the phoenix|Flames of the Phoenix]]
+- [[gong of the summit|Gong of the Summit]]
+- [[mist stance|Mist Stance]]
+- [[ride the wind|Ride the Wind]]
+- [[river of hungry flame|River of Hungry Flame]]
+- [[rush of the gale spirits|Rush of the Gale Spirits]]
+- [[shape the flowing river|Shape the Flowing River]]
+- [[sweeping cinder strike|Sweeping Cinder Strike]]
+- [[unbroken air|Unbroken Air]]
+- [[water whip|Water Whip]]
+- [[wave of rolling earth|Wave of Rolling Earth]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

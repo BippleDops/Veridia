@@ -1,3 +1,12 @@
+---
+title: Ambush Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ambush Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Ambush
 *Source: Player's Handbook (2024) p. 94*  
 
-When you make a Dexterity ([[skills#Stealth|Stealth]]) check or an [[initiative-xphb|Initiative]] roll, you can expend one Superiority Die and add the die to the roll, unless you have the [[conditions#Incapacitated|Incapacitated]] condition.
-
+When you make a Dexterity ([[skills#Stealth|Stealth]]) check or an [[initiative xphb|Initiative]] roll, you can expend one Superiority Die and add the die to the roll, unless you have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you make a Dexterity ([[skills#Stealth|Stealth]]) check or an [[initiative-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

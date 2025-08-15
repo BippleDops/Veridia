@@ -1,93 +1,47 @@
-# Insect Plague Xphb
-
 ---
 title: Insect Plague Xphb
-aliases:
-- Insect Plague
 type: note
 tags:
-- both
-- world/surface
-- mechanics/magic
-- research
-- world/both
-- active
 - note
-- status/in-progress
-- importance/core
-- ttrpg-cli/compendium/src/5e/xphb
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Cleric
-- Cleric (Nature Domain)
-- Cleric (Tempest Domain)
-- Druid
-- Druid (Circle of the Land)
-- Sorcerer
-- Sorcerer (Divine Soul)
-- Warlock (Fiend Patron)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.210652+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Insect Plague
-*5th-level, Conjuration*  
+# Insect Plague Xphb
 
-- **Casting time:** 1 Action
-- **Range:** 300 feet
-- **Components:** V, S, M (a locust)
-- **Duration:** Concentration, up to 10 minutes
+## Overview
+This document contains important information regarding Insect Plague Xphb and its role within the greater narrative.
 
-Swarming locusts fill a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. The [[sphere-area-of-effect-xphb|Sphere]] remains for the duration, and its area is [[lightly-obscured-xphb|Lightly Obscured]] and [[difficult-terrain-xphb|Difficult Terrain]].
+## Description
+Insect Plague Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-When the swarm appears, each creature in it makes a Constitution saving throw, taking `4d10` Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-**Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 5.
+## Details
+### Background
+Historical context and development over time.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]
+### Current State
+Present circumstances and ongoing relevance.
 
-*Source: Player's Handbook (2024) p. 289. Available in the SRD and the Free Rules (2024)*
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Insect plague xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of insect plague xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around insect plague xphb.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

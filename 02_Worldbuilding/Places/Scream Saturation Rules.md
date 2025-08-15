@@ -26,15 +26,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg]]
 
 # Scream Saturation Rules
 
 *"Too much sound becomes no sound at all."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,24 +59,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -90,12 +79,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Special mechanical rules for environments where sonic magic has been overused, creating zones of "scream saturation" where sound-based magic behaves unpredictably or fails entirely.
@@ -280,22 +267,17 @@ Ongoing situations affecting Scream Saturation Rules:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
 
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Economic Structure
 

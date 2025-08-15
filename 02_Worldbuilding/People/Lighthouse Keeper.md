@@ -23,10 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lighthouse-keeper-lighthouse-keeper.svg]]
 
 # Alaric Stormwatch, the Keeper of the Light
 
@@ -46,7 +43,6 @@ improvements: 20
 **Languages** Common, Elvish, Aquabyssan, Primordial, telepathy with sea creatures  
 **Challenge Rating** 9 (5,000 XP)  
 **Proficiency Bonus** +4
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -79,23 +75,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
@@ -105,12 +95,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Special Abilities
 
@@ -309,7 +297,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -327,7 +314,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -339,7 +325,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

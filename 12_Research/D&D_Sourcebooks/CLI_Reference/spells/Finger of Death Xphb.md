@@ -1,3 +1,12 @@
+---
+title: Finger of Death Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Finger of Death Xphb
 
 ---
@@ -38,12 +47,11 @@ world: Both
 
 You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking `7d8 + 30` Necrotic damage on a failed save or half as much damage on a successful one.
 
-A Humanoid killed by this spell rises at the start of your next turn as a [[zombie-xmm|Zombie]] that follows your verbal orders.
+A Humanoid killed by this spell rises at the start of your next turn as a [[zombie xmm|Zombie]] that follows your verbal orders.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 273. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ A Humanoid killed by this spell rises at the start of your next turn as a [[zomb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,14 +81,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

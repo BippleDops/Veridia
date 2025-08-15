@@ -19,9 +19,6 @@ updated: '2025-08-13T12:34:03.170937+00:00'
 world: Universal
 ---
 
-
-
-
 # Monster Ecology Web
 
 ## Habitat Map
@@ -59,7 +56,6 @@ SORT habitat ASC, file.name ASC
 - See also: [[Campaign Guide]]
 - Related: [[Recent Events]]
 - Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

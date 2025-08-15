@@ -1,3 +1,12 @@
+---
+title: Shadow Broker Mirrors
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Broker Mirrors
 
 ---
@@ -35,7 +44,6 @@ updated: '2025-08-13T01:18:36.743175+00:00'
 # Shadow Broker Mirrors
 *The Reflection Syndicate, Masters of Information Mirrors, Those Who See All Faces*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ updated: '2025-08-13T01:18:36.743175+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Broker Mirrors is a specialized information syndicate that uses enchanted mirrors and reflection magic to gather, trade, and manipulate information throughout [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Operating from [[The Reflection Chamber]]—a hidden facility lined with thousands of scrying mirrors—they have built the most comprehensive intelligence network in the realm by exploiting the fact that every reflection can become a window into secrets. Unlike traditional spy networks, they use mirror magic to literally see and hear conversations reflected in any polished surface, making privacy nearly impossible for those who don't understand their capabilities.
@@ -138,11 +141,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 #### Reflection Scrying
 **Remote Viewing Magic**
-- **[[02_Worldbuilding/Spells/Mirror Window|02 Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
-- **[[02_Worldbuilding/Spells/Echo Reflection|02 Worldbuilding/Spells/Echo Reflection]]**: Capture and replay past conversations near mirrors
-- **[[02_Worldbuilding/Spells/Truth Reflection|02 Worldbuilding/Spells/Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
-- **[[02_Worldbuilding/Spells/Memory Mirror|02 Worldbuilding/Spells/Memory Mirror]]**: Show important memories of people who look into them
-- **[[02_Worldbuilding/Spells/Future Glimpse|02 Worldbuilding/Spells/Future Glimpse]]**: Brief visions of possible futures through scrying
+- **[[02 Worldbuilding/Spells/Mirror Window|02 Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
+- **[[02 Worldbuilding/Spells/Echo Reflection|02 Worldbuilding/Spells/Echo Reflection]]**: Capture and replay past conversations near mirrors
+- **[[02 Worldbuilding/Spells/Truth Reflection|02 Worldbuilding/Spells/Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
+- **[[02 Worldbuilding/Spells/Memory Mirror|02 Worldbuilding/Spells/Memory Mirror]]**: Show important memories of people who look into them
+- **[[02 Worldbuilding/Spells/Future Glimpse|02 Worldbuilding/Spells/Future Glimpse]]**: Brief visions of possible futures through scrying
 
 #### Mirror Network
 **Infrastructure-Based Intelligence**
@@ -210,8 +213,8 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 ### Government Counter-Intelligence
 **Official Response**
-- **[[Counter-Mirror Task Force]]**: Specialized unit targeting reflection surveillance
-- **[[Anti-Scrying Division]]**: Government department developing counter-surveillance
+- **[[Counter Mirror Task Force]]**: Specialized unit targeting reflection surveillance
+- **[[Anti Scrying Division]]**: Government department developing counter-surveillance
 - **[[Privacy Protection Agency]]**: Civilian organization opposing mirror surveillance
 - **[[Legal Reform Movemen|02 Worldbuilding/Lore/Legal Reform Movemen]]**: Politicians working to ban mirror spying
 - **[[Traditional Spy Networks]]**: Government intelligence angry about being outperformed
@@ -226,11 +229,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 ### Technical Countermeasures
 **Anti-Mirror Technology**
-- **[[Mirror-Breaking Crystals]]**: Magical devices that disrupt reflection scrying
-- **[[Anti-Reflection Wards]]**: Protective magic preventing mirror surveillance
+- **[[Mirror Breaking Crystals]]**: Magical devices that disrupt reflection scrying
+- **[[Anti Reflection Wards]]**: Protective magic preventing mirror surveillance
 - **[[Scrying Scramblers]]**: Devices that confuse and misdirect mirror magic
-- **[[Truth-Shielding Illusions]]**: False information planted for mirror networks
-- **[[Counter-Mirror Agents]]**: Specialists trained in defeating reflection surveillance
+- **[[Truth Shielding Illusions]]**: False information planted for mirror networks
+- **[[Counter Mirror Agents]]**: Specialists trained in defeating reflection surveillance
 
 ### Social Opposition
 **Public Relations Problems**
@@ -344,10 +347,10 @@ The organization has enough compromising information on government officials to 
 Advanced mirror magic research is developing ability to trap people's consciousness in mirrors while their bodies are controlled by reflections, creating perfect puppet network.
 
 ### Opposing Organizations
-- [[Counter-Mirror Task Force]] - Government unit targeting mirror surveillance
+- [[Counter Mirror Task Force]] - Government unit targeting mirror surveillance
 - [[Privacy Protection Agency]] - Civilian organization opposing surveillance
 - [[The Whisper Network]] - Traditional human intelligence competition
-- [[Anti-Scrying Division]] - Official counter-surveillance department
+- [[Anti Scrying Division]] - Official counter-surveillance department
 - [[Religious Privacy Advocates]] - Spiritual opposition to mirror spying
 
 ---
@@ -361,8 +364,6 @@ Shadow Broker Mirrors is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of Shadow Broker Mirrors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Mirrors.
-
-
 
 ## Plot Hooks
 

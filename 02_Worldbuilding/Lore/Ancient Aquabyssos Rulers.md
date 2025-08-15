@@ -36,12 +36,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Ancient Aquabyssos Rulers
 
 *Chronicles of the Drowned Dynasties*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,13 +67,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -85,7 +78,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -107,8 +99,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -210,7 +200,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Disappeared under suspicious circumstances, leading to succession crisis
 
 **Controversial Legacy:**
-- Founded research programs later associated with [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Founded research programs later associated with [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Created secret societies that may have evolved into [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 - Established protocols for deep-trench exploration (many classified to this day)
 - Left behind sealed chambers in the [[The Bathyal Palace]] (contents unknown)
@@ -350,8 +340,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -368,7 +356,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

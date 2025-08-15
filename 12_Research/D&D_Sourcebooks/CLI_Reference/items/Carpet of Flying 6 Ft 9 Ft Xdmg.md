@@ -1,3 +1,12 @@
+---
+title: Carpet of Flying 6 Ft 9 Ft Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Carpet of Flying 6 Ft 9 Ft Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 You can make this carpet hover and fly by taking a [[actions#Magic|Magic]] action and using the carpet's command word. It moves according to your directions if you are within 30 feet of it.
 
-A 6 ft. × 9 ft. carpet can carry up to 800 lb. at a fly speed of 30 feet. A carpet can carry up to twice the weight shown on the table, but its [[fly-speed-xphb|Fly Speed]] is halved if it carries more than its normal capacity.
+A 6 ft. × 9 ft. carpet can carry up to 800 lb. at a fly speed of 30 feet. A carpet can carry up to twice the weight shown on the table, but its [[fly speed xphb|Fly Speed]] is halved if it carries more than its normal capacity.
 
 *Source: Dungeon Master's Guide (2024) p. 242. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ A 6 ft. × 9 ft. carpet can carry up to 800 lb. at a fly speed of 30 feet. A car
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Ring of Free Action Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Free Action Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Ring, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-free-action.webp#right)
 
-While you wear this ring, [[difficult-terrain-xphb|Difficult Terrain]] doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
+While you wear this ring, [[difficult terrain xphb|Difficult Terrain]] doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While you wear this ring, [[difficult-terrain-xphb|Difficult Terrain]] doesn't c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting a artifact for revenge
@@ -77,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

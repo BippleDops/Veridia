@@ -1,3 +1,12 @@
+---
+title: NPC_Relationship_Tracker
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # NPC_Relationship_Tracker
 
 ---
@@ -140,7 +149,6 @@ RELATIONSHIP DAMAGE:
 *Remember: NPCs have their own agendas and relationships*
 *Small gestures often matter more than grand ones*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -152,11 +160,6 @@ RELATIONSHIP DAMAGE:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -170,11 +173,9 @@ RELATIONSHIP DAMAGE:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -184,7 +185,6 @@ Mentioned in The Hidden Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

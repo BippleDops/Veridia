@@ -1,3 +1,12 @@
+---
+title: Sorcerer Xphb Storm Sorcery Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sorcerer Xphb Storm Sorcery Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Storm Sorcery
-*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+*[[sorcerer xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 51*  
 
 > [!tldr] Class and Feature Progression
@@ -92,7 +101,6 @@ At 18th level, you gain immunity to lightning and thunder damage.
 
 You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a short or long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -104,11 +112,6 @@ You also gain a magical flying speed of 60 feet. As an action, you can reduce yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -125,7 +128,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

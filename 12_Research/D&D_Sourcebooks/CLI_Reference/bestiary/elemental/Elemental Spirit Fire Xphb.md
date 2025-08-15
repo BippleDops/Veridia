@@ -1,3 +1,12 @@
+---
+title: Elemental Spirit Fire Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elemental Spirit Fire Xphb
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:05.735047+00:00'
 world: Both
 ---
 
-# [[elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
+# [[elemental spirit fire xphb|Elemental Spirit (Fire)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -68,7 +77,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -80,11 +88,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -102,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -115,11 +117,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Flail Snail Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flail Snail Mpmm
 
 ---
@@ -33,13 +42,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flail-snail-mpmm-flail-snail-mpmm.svg)
 
-# [[flail-snail-mpmm|Flail Snail]]
+# [[flail snail mpmm|Flail Snail]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 
 Left undisturbed, a flail snail moves slowly along the ground. It consumes everything on the surface, including rocks, sand, and soil, and it stops periodically to relish crystal growths and other large mineral deposits. It leaves behind a shimmering trail that quickly solidifies into a thin and nearly transparent layer. This glassy residue can be harvested and cut to form window panes. It can also be heated and spun into other glass objects. Some folk make a living from trailing flail snails to collect this glass.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,19 +60,14 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Using the Shell of a Flail Snail
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[spellguard-shield-xdmg|spellguard shield]].
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[spellguard shield xdmg|spellguard shield]].
 
-A flail snail shell can also be used to make a [[robe-of-scintillating-colors-xdmg|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [[robe of scintillating colors xdmg|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"
@@ -143,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -161,16 +162,13 @@ Mentioned in The Second Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Star Spawn Hulk Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Star Spawn Hulk Mpmm
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-hulk-mpmm-star-spawn-hulk-mpmm.svg)
 
-# [[star-spawn-hulk-mpmm|Star Spawn Hulk]]
+# [[star spawn hulk mpmm|Star Spawn Hulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ The hulk is one of the largest of the known star spawn, with glistening, translu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Star Spawn
 
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

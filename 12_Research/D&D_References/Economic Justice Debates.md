@@ -1,3 +1,12 @@
+---
+title: Economic Justice Debates
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Economic Justice Debates
 
 ---
@@ -23,7 +32,6 @@ updated: '2025-08-13T01:18:34.528258+00:00'
 
 *"When resources dwindle and survival is at stake, every economic decision becomes a question of who deserves to live well - and who deserves to live at all."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ updated: '2025-08-13T01:18:34.528258+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -259,7 +262,6 @@ Legends speak of Economic Justice Debates as a nexus where past and present conv
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

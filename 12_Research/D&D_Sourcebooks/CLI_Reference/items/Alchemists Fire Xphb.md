@@ -1,3 +1,12 @@
+---
+title: Alchemists Fire Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Alchemists Fire Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 50 gp
 - **Weight**: 1.0 lbs.
 
-When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency-xphb|Proficiency Bonus]]) or take `d4` Fire damage and start [[burning-xphb|burning]].
+When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency xphb|Proficiency Bonus]]) or take `d4` Fire damage and start [[burning xphb|burning]].
 
 *Source: Player's Handbook (2024) p. 222. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When you take the [[actions#Attack|Attack]] action, you can replace one of your 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

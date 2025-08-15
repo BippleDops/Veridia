@@ -1,3 +1,12 @@
+---
+title: Elf Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elf Xphb
 
 ---
@@ -49,14 +58,14 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness-xphb|Darkness]] |
-| High Elf | You know the [[prestidigitation-xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft-xphb|Druidcraft]] cantrip. | [[longstrider-xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness xphb|Darkness]] |
+| High Elf | You know the [[prestidigitation xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft xphb|Druidcraft]] cantrip. | [[longstrider xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
+You have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
 
 ### Keen Senses
 
@@ -65,7 +74,6 @@ You have proficiency in the [[skills#Insight|Insight]], [[skills#Perception|Perc
 ### Trance
 
 You don't need to sleep, and magic can't put you to sleep. You can finish a [[long-rest-xphb|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,11 +86,6 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a [[lo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -106,7 +109,7 @@ High elves have been infused with the magic of crossings between the Feywild and
 
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
-![[/03_Mechanics/CLI/races/img/148-05-022-elf-city.webp#center|A ship departs from a city built by high elves]]
+![[/03 Mechanics/CLI/races/img/148-05-022-elf-city.webp#center|A ship departs from a city built by high elves]]
 
 ## Player-Facing Summary
 
@@ -124,7 +127,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a conspiracy about the cult
@@ -134,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Animated Drow Statue Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animated Drow Statue Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
 
-# [[animated-drow-statue-oota|Animated Drow Statue]]
+# [[animated drow statue oota|Animated Drow Statue]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -60,8 +69,8 @@ world: Both
 "cr": "1"
 "traits":
   - "desc": "The statue is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
+      \ while in the area of an [[antimagic field xphb|antimagic field]].\
+      \ If targeted by [[dispel magic xphb|dispel magic]],\
       \ the statue must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
@@ -81,7 +90,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -93,11 +101,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -115,16 +118,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

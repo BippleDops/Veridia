@@ -1,3 +1,12 @@
+---
+title: List Spells School Transmutation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Spells School Transmutation
 
 ---
@@ -22,7 +31,6 @@ updated: '2025-08-13T12:34:04.677564+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,18 +42,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 9th Level
 
-- [[/03_Mechanics/CLI/spells/mass-polymorph-xge "XGE"|Mass Polymorph]]
-- [[/03_Mechanics/CLI/spells/shapechange-xphb "XPHB"|Shapechange]]
-- [[/03_Mechanics/CLI/spells/time-stop-xphb "XPHB"|Time Stop]]
-- [[/03_Mechanics/CLI/spells/true-polymorph-xphb "XPHB"|True Polymorph]]
+- [[/03 Mechanics/CLI/spells/mass-polymorph-xge "XGE"|Mass Polymorph]]
+- [[/03 Mechanics/CLI/spells/shapechange xphb "XPHB"|Shapechange]]
+- [[/03 Mechanics/CLI/spells/time-stop-xphb "XPHB"|Time Stop]]
+- [[/03 Mechanics/CLI/spells/true-polymorph-xphb "XPHB"|True Polymorph]]
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## 12_Research Specific Content
 

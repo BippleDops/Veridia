@@ -24,15 +24,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg]]
 
 # Empress Tethys the Ever-Drowning
 
 *"I have died ten thousand times, and each death teaches me the same lesson: the surface world is a beautiful lie we tell ourselves while drowning."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,7 +57,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
@@ -70,8 +65,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
@@ -79,7 +72,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -97,9 +89,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Overview
 Empress Tethys rules [[Aquabyssos]] through a unique curse/blessing - she drowns to death every dawn and resurrects every dusk, losing and regaining memories in fragments. She is simultaneously the most and least powerful being in the underwater realm, experiencing existence from infinite perspectives.
@@ -225,7 +214,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
 
 ## Plot Hooks
 

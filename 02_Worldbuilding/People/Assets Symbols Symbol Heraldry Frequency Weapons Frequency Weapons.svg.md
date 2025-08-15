@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,14 +44,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Contradictions Improvements
@@ -76,13 +68,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -202,11 +191,9 @@ This NPC can serve multiple roles:
 
 Member of House Lionblood - Trait: divine blood
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Relationships
 
@@ -215,7 +202,6 @@ Mentioned in The First Prophecy of Stars
 - **Parent**: [[portrait-npc-syndicate-war-syndicate-war.svg]]
 - **Friend**: [[Brother Matthias the Amber Bearer]]
 - **Enemy**: [[Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
-
 
 ## Religious Observances
 

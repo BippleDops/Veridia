@@ -1,3 +1,12 @@
+---
+title: One With Shadows Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # One With Shadows Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-While you're in an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can cast [[invisibility-xphb|Invisibility]] on yourself without expending a spell slot.
-
+While you're in an area of [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]], you can cast [[invisibility xphb|Invisibility]] on yourself without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ While you're in an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkn
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,21 +67,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

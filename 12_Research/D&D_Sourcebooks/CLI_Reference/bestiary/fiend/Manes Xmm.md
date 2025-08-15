@@ -1,3 +1,12 @@
+---
+title: Manes Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Manes Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-manes-xmm-manes-xmm.svg)
 
-# [[manes-xmm|Manes]]
+# [[manes xmm|Manes]]
 *Source: Monster Manual (2024) p. 201*  
 
 Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Manes lash out at creatures that appear weaker than themselves—or that react t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Manes
 
@@ -117,7 +120,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

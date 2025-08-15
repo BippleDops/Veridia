@@ -1,3 +1,12 @@
+---
+title: Wilderness Chase Complications
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wilderness Chase Complications
 
 ---
@@ -33,7 +42,7 @@ world: Both
 |-----------|--------------|
 | 1 | Your path takes you through a rough patch of brush. Make a DC 10 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of difficult terrain. |
 | 2 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
-| 3 | You run through a [[swarm-of-insects-xmm|swarm of insects]] (see the Monster Manual for game statistics, with the DM choosing whichever kind of insects makes the most sense). The swarm makes an opportunity attack against you (+3 to hit; `4d4` piercing damage on a hit). |
+| 3 | You run through a [[swarm of insects xmm|swarm of insects]] (see the Monster Manual for game statistics, with the DM choosing whichever kind of insects makes the most sense). The swarm makes an opportunity attack against you (+3 to hit; `4d4` piercing damage on a hit). |
 | 4 | A stream, ravine, or rock bed blocks your path. Make a DC 10 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of difficult terrain. |
 | 5 | Make a DC 10 Constitution saving throw. On a failed save, you are blinded by blowing sand, dirt, ash, snow, or pollen until the end of your turn. While blinded in this way, your speed is halved. |
 | 6 | A sudden drop catches you by surprise. Make a DC 10 Dexterity saving throw to navigate the impediment. On a failed save, you fall `1d4 × 5` feet, taking `d6` bludgeoning damage per 10 feet fallen as normal, and land prone. |
@@ -43,7 +52,6 @@ world: Both
 | 10 | A creature indigenous to the area chases after you. The DM chooses a creature appropriate for the terrain. |
 | 11-20 | No complication. |
 ^wilderness-chase-complications
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

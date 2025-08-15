@@ -1,3 +1,12 @@
+---
+title: Amulet of the Planes Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Amulet of the Planes Xdmg
 
 ---
@@ -30,7 +39,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While wearing this amulet, you can take a [[actions#Magic|Magic]] action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast [[plane-shift-xphb|Plane Shift]]. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `d100` and consulting the following table.
+While wearing this amulet, you can take a [[actions#Magic|Magic]] action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast [[plane shift xphb|Plane Shift]]. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `d100` and consulting the following table.
 
 `dice: [](amulet-of-the-planes-xdmg.md#^1-destination)`
 
@@ -45,7 +54,6 @@ While wearing this amulet, you can take a [[actions#Magic|Magic]] action to name
 
 *Source: Dungeon Master's Guide (2024) p. 150. Available in the SRD*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ While wearing this amulet, you can take a [[actions#Magic|Magic]] action to name
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

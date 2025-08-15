@@ -1,3 +1,12 @@
+---
+title: Festival Calendar Complete
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Festival Calendar Complete
 
 ---
@@ -25,8 +34,7 @@ updated: '2025-08-12T00:00:00+00:00'
 # Festival Calendar Complete
 *"In the rhythm of seasons and tides, both realms find their heartbeat - celebrating what connects us to the eternal cycles of water and wind."*
 
-> *"Festivals are the soul of a civilization made visible. In our celebrations, we reveal not just what we value, but who we truly are when joy and tradition unite us beyond the boundaries of depth and sky."* - [[02_Worldbuilding/People/Festival Coordinator Luna Celebration|02 Worldbuilding/People/Festival Coordinator Luna Celebration]]
-
+> *"Festivals are the soul of a civilization made visible. In our celebrations, we reveal not just what we value, but who we truly are when joy and tradition unite us beyond the boundaries of depth and sky."* - [[02 Worldbuilding/People/Festival Coordinator Luna Celebration|02 Worldbuilding/People/Festival Coordinator Luna Celebration]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ updated: '2025-08-12T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -611,7 +614,6 @@ The extensive festival calendar also provides natural campaign pacing, with seas
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

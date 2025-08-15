@@ -12,12 +12,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Border Nexus Trading Post
 
 *Rising Order*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,7 +47,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
@@ -63,8 +59,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
@@ -73,11 +67,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -87,7 +79,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -104,7 +95,6 @@ Border Nexus Trading Post is a elite order that influences significant aspects o
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -124,7 +114,6 @@ Border Nexus Trading Post is a elite order that influences significant aspects o
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

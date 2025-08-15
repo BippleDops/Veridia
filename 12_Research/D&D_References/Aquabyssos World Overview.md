@@ -1,3 +1,12 @@
+---
+title: Aquabyssos World Overview
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos World Overview
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-13T01:18:34.805940+00:00'
 *"When the stars wept and the seas rose, the old world died screaming. We are what remains - neither fully alive nor mercifully dead."*
 — The Chronicle of Drowning, First Verse
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-13T01:18:34.805940+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Aquabyssos is a vast underwater realm created when a series of interconnected climatic catastrophes known as the "Century of Storms" (900-800 years ago) caused massive tsunamis, perpetual hurricanes, and reality-warping rainfall that literally pulled portions of the surface world beneath the waves. These weren't natural disasters but the result of a failed attempt to control weather magic on a continental scale.

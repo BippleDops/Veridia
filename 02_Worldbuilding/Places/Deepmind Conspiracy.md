@@ -38,15 +38,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deepmind-conspiracy-deepmind-conspiracy.svg)
 
 # Deepmind Conspiracy
 
 *"In the depths of consciousness, where thoughts flow like currents, we have built the ultimate intelligence network - one that exists in minds rather than matter."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,11 +72,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -89,12 +84,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
@@ -117,7 +109,6 @@ improvements: 20
 
 - Include cultural hypocrisies and double standards
 
-
 ## Overview
 
 The Deepmind Conspiracy represents the most sophisticated intelligence operation in either Aethermoor or Aquabyssos - a psychic network that exists primarily in the collective consciousness of its members rather than in physical space. This mental infrastructure allows for instantaneous communication, shared knowledge, and coordinated operations across vast distances without leaving any physical evidence.
@@ -126,7 +117,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ### The Core Mind
 
-**Controller**: [[Overmind Depth-Thought Eternal]]
+**Controller**: [[Overmind Depth Thought Eternal]]
 **Function**: Central processing unit for all intelligence operations
 **Capacity**: Can maintain mental links with up to 500 individuals simultaneously
 
@@ -139,27 +130,27 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ### The Five Specialized Minds
 
-**The Watcher Mind**: [[Psychic Observer All-Seeing Echo]]
+**The Watcher Mind**: [[Psychic Observer All Seeing Echo]]
 - Specialty: Surveillance and information gathering
 - Network: 80-100 enhanced perception specialists
 - Operations: Continuous monitoring of targets
 
-**The Memory Mind**: [[Extractor Void-Touch Recall]]
+**The Memory Mind**: [[Extractor Void Touch Recall]]
 - Specialty: Memory extraction and analysis
 - Network: 40-60 mental manipulation experts
 - Operations: Forced memory retrieval and consciousness exploration
 
-**The Prophet Mind**: [[Future-Seer Prescient]]
+**The Prophet Mind**: [[Future Seer Prescient]]
 - Specialty: Prediction and probability analysis
 - Network: 20-30 precognitive individuals
 - Operations: Strategic forecasting and timeline analysis
 
-**The Whisper Mind**: [[Thought-Speaker Silent]]
+**The Whisper Mind**: [[Thought Speaker Silent]]
 - Specialty: Long-distance telepathic communication
 - Network: 60-80 telepathic communicators
 - Operations: Instant messaging across realms
 
-**The Shadow Mind**: [[Identity Weaver False-Self]]
+**The Shadow Mind**: [[Identity Weaver False Self]]
 - Specialty: Identity manipulation and consciousness alteration
 - Network: 30-50 personality modification specialists
 - Operations: Creating false identities and mental camouflage
@@ -232,17 +223,13 @@ Ongoing situations affecting Deepmind Conspiracy:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Historical Timeline
 
@@ -260,7 +247,6 @@ Key stop on textiles trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

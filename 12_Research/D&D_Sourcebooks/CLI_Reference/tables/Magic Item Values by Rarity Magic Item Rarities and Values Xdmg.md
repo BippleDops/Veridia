@@ -1,3 +1,12 @@
+---
+title: Magic Item Values by Rarity Magic Item Rarities and Values Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg
 
 ---
@@ -36,8 +45,7 @@ world: Both
 | Artifact | Priceless |
 ^magic-item-rarities-and-values
 
-*Halve the value for a consumable item other than a [[spell-scroll-xdmg|Spell Scroll]]. The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the "Player's Handbook").
-
+*Halve the value for a consumable item other than a [[spell scroll xdmg|Spell Scroll]]. The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the "Player's Handbook").
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

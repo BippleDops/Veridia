@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Nature Domain
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Nature Domain
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Nature Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook p. 61*  
 
 > [!tldr] Class and Feature Progression
@@ -59,7 +68,7 @@ world: Both
 
 ### Nature Domain (Level 3)
 
-Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, [[dragonlance-chislev-phb|Chislev]], [[eberron-balinor|Balinor]], and [[greek-pan|Pan]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
+Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, [[dragonlance chislev phb|Chislev]], [[eberron balinor|Balinor]], and [[greek pan|Pan]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -67,11 +76,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[animal-friendship-xphb|animal friendship]], [[speak-with-animals-xphb|speak with animals]] |
-| 3rd | [[barkskin-xphb|barkskin]], [[spike-growth-xphb|spike growth]] |
-| 5th | [[plant-growth-xphb|plant growth]], [[wind-wall-xphb|wind wall]] |
-| 7th | [[dominate-beast-xphb|dominate beast]], [[grasping-vine-xphb|grasping vine]] |
-| 9th | [[insect-plague-xphb|insect plague]], [[tree-stride-xphb|tree stride]] |
+| 1st | [[animal friendship xphb|animal friendship]], [[speak with animals xphb|speak with animals]] |
+| 3rd | [[barkskin xphb|barkskin]], [[spike growth xphb|spike growth]] |
+| 5th | [[plant growth xphb|plant growth]], [[wind wall xphb|wind wall]] |
+| 7th | [[dominate beast xphb|dominate beast]], [[grasping vine xphb|grasping vine]] |
+| 9th | [[insect plague xphb|insect plague]], [[tree stride xphb|tree stride]] |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
@@ -96,7 +105,6 @@ Starting at 6th level, when you or a creature within 30 feet of you takes acid, 
 
 At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[conditions#Charmed|charmed]] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -108,11 +116,6 @@ At 17th level, you gain the ability to command animals and plant creatures. Whil
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -130,16 +133,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -153,11 +153,9 @@ Mentioned in The Second Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

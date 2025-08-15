@@ -1,3 +1,12 @@
+---
+title: Master Smith Vulcan Deepforge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Master Smith Vulcan Deepforge
 
 ---
@@ -39,14 +48,12 @@ world: Aquabyssos
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-master-smith-vulcan-deepforge-master-smith-vulcan-deepforge.svg]]
 
 # Master Smith Vulcan Deepforge
 *The Legendary Craftsman of the Depths*
 
 > *"Metal speaks to those who listen. The hammer is merely the voice through which we answer. Every piece I forge carries not just function, but the soul of the depths themselves."*
 > — Master Smith Vulcan Deepforge, while crafting a ceremonial trident
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +66,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -211,7 +213,7 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 ### Professional Network
 
-**[[02_Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
+**[[02 Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
 
 **[[Military Commander Steel]]** - Primary liaison for military equipment projects, ensuring that Vulcan's creations meet operational requirements and combat effectiveness standards.
 
@@ -309,11 +311,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

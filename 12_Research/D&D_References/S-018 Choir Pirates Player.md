@@ -1,3 +1,12 @@
+---
+title: S-018 Choir Pirates Player
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # S-018 Choir Pirates Player
 
 ---
@@ -42,7 +51,6 @@ Possible outcomes
 - The song stuns for a heartbeat
 - Grapnels bite the rails
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ Possible outcomes
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 

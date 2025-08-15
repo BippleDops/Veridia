@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg]]
 
 # Parliament High Council
 
 *"In the depths of democracy, even the darkest currents must be heard." - Speaker Thalassa Deepvoice*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,8 +63,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -77,13 +71,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
@@ -93,13 +83,10 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Parliament High Council serves as the supreme governing body of Aquabyssos, representing the various districts and factions within the underwater city. Composed of elected representatives from each major current and district, the Council deliberates on matters of city-wide importance, from trade regulations to defense against abyssal threats. The Council chamber, located within the Parliament of Echoes, features a circular amphitheater where voices carry with supernatural clarity through the water.
@@ -237,7 +224,6 @@ nriched: true -->
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns courage
 
-
 ## Relationships
 
 - **Friend**: [[Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
@@ -245,7 +231,6 @@ nriched: true -->
 - **Sibling**: [[Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg]]
 - **Enemy**: [[portrait-npc-shadow-embassy-shadow-embassy.svg]]
 - **Blackmailer**: [[Portrait NPC Captain Storm Ambushmaster V2 Captain Storm Ambushmaster.svg]]
-
 
 ## Cultural Practices
 
@@ -258,7 +243,6 @@ nriched: true -->
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -277,7 +261,6 @@ nriched: true -->
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

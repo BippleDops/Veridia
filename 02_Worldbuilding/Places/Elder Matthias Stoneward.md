@@ -35,15 +35,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg]]
 
 # Elder Matthias Stoneward
 
 *"The crystal gardens may shine with ethereal beauty, but it's stone and steel that keep this floating realm from tumbling into the void. Pretty magic fades - good engineering endures."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,13 +68,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -92,7 +84,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
@@ -105,9 +96,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -232,8 +220,6 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A letter reveals the truth about the cult
@@ -258,7 +244,6 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -270,7 +255,6 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

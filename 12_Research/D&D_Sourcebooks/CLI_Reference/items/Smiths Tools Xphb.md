@@ -1,3 +1,12 @@
+---
+title: Smiths Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Smiths Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], and [[whip-xphb|Whip]]), Medium armor (except [[hide-armor-xphb|Hide]]), Heavy armor, [[ball-bearings-xphb|Ball Bearings]], [[bucket-xphb|Bucket]], [[caltrops-xphb|Caltrops]], [[chain-xphb|Chain]], [[crowbar-xphb|Crowbar]], [[firearm-bullets-10-xphb|Firearm Bullets]], [[grappling-hook-xphb|Grappling Hook]], [[iron-pot-xphb|Iron Pot]], [[iron-spikes-xphb|Iron Spikes]], [[sling-bullets-20-xphb|Sling Bullets]]  
+- **Craft.** Any Melee weapon (except [[club xphb|Club]], [[greatclub xphb|Greatclub]], [[quarterstaff xphb|Quarterstaff]], and [[whip xphb|Whip]]), Medium armor (except [[hide armor xphb|Hide]]), Heavy armor, [[ball bearings xphb|Ball Bearings]], [[bucket xphb|Bucket]], [[caltrops xphb|Caltrops]], [[chain xphb|Chain]], [[crowbar xphb|Crowbar]], [[firearm bullets 10 xphb|Firearm Bullets]], [[grappling hook xphb|Grappling Hook]], [[iron pot xphb|Iron Pot]], [[iron spikes xphb|Iron Spikes]], [[sling bullets 20 xphb|Sling Bullets]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

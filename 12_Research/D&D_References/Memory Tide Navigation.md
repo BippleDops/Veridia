@@ -1,3 +1,12 @@
+---
+title: Memory Tide Navigation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Memory Tide Navigation
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:17.767572+00:00'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Practical, table-ready rules for Memory Tide Navigation across Aquabyssos and Aethermoor.

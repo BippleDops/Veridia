@@ -1,3 +1,12 @@
+---
+title: 06 Chapter 5 Feats
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 06 Chapter 5 Feats
 
 ---
@@ -35,7 +44,6 @@ Your background gives you a feat, and at certain levels, your class gives you th
 
 By whatever means you acquire a feat, you can take it only once unless its description says otherwise.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ By whatever means you acquire a feat, you can take it only once unless its descr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Feat Descriptions
 
@@ -77,102 +80,100 @@ The benefits of a feat are detailed after any prerequisites are listed. If you h
 
 A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
 
-![[repeatable-feat-list-xphb|Repeatable; Feat List]]
-
 ## Origin Feats
 
 These feats are in the Origin category.
 
-- [[alert-xphb|Alert]]  
-- [[crafter-xphb|Crafter]]  
-- [[healer-xphb|Healer]]  
-- [[lucky-xphb|Lucky]]  
-- [[magic-initiate-xphb|Magic Initiate]]  
-- [[musician-xphb|Musician]]  
-- [[savage-attacker-xphb|Savage Attacker]]  
-- [[skilled-xphb|Skilled]]  
-- [[tavern-brawler-xphb|Tavern Brawler]]  
-- [[tough-xphb|Tough]]  
+- [[alert xphb|Alert]]  
+- [[crafter xphb|Crafter]]  
+- [[healer xphb|Healer]]  
+- [[lucky xphb|Lucky]]  
+- [[magic initiate xphb|Magic Initiate]]  
+- [[musician xphb|Musician]]  
+- [[savage attacker xphb|Savage Attacker]]  
+- [[skilled xphb|Skilled]]  
+- [[tavern brawler xphb|Tavern Brawler]]  
+- [[tough xphb|Tough]]  
 
 ## General Feats
 
 These feats are in the General category.
 
-- [[ability-score-improvement-xphb|Ability Score Improvement]]  
-- [[actor-xphb|Actor]]  
-- [[athlete-xphb|Athlete]]  
-- [[charger-xphb|Charger]]  
-- [[chef-xphb|Chef]]  
-- [[crossbow-expert-xphb|Crossbow Expert]]  
-- [[crusher-xphb|Crusher]]  
-- [[defensive-duelist-xphb|Defensive Duelist]]  
-- [[dual-wielder-xphb|Dual Wielder]]  
-- [[durable-xphb|Durable]]  
-- [[elemental-adept-xphb|Elemental Adept]]  
-- [[fey-touched-xphb|Fey-Touched]]  
-- [[grappler-xphb|Grappler]]  
-- [[great-weapon-master-xphb|Great Weapon Master]]  
-- [[heavily-armored-xphb|Heavily Armored]]  
-- [[heavy-armor-master-xphb|Heavy Armor Master]]  
-- [[inspiring-leader-xphb|Inspiring Leader]]  
-- [[keen-mind-xphb|Keen Mind]]  
-- [[lightly-armored-xphb|Lightly Armored]]  
-- [[mage-slayer-xphb|Mage Slayer]]  
-- [[martial-weapon-training-xphb|Martial Weapon Training]]  
-- [[medium-armor-master-xphb|Medium Armor Master]]  
-- [[moderately-armored-xphb|Moderately Armored]]  
-- [[mounted-combatant-xphb|Mounted Combatant]]  
-- [[observant-xphb|Observant]]  
-- [[piercer-xphb|Piercer]]  
-- [[poisoner-xphb|Poisoner]]  
-- [[polearm-master-xphb|Polearm Master]]  
-- [[resilient-xphb|Resilient]]  
-- [[ritual-caster-xphb|Ritual Caster]]  
-- [[sentinel-xphb|Sentinel]]  
-- [[shadow-touched-xphb|Shadow-Touched]]  
-- [[sharpshooter-xphb|Sharpshooter]]  
-- [[shield-master-xphb|Shield Master]]  
-- [[skill-expert-xphb|Skill Expert]]  
-- [[skulker-xphb|Skulker]]  
-- [[slasher-xphb|Slasher]]  
-- [[speedy-xphb|Speedy]]  
-- [[spell-sniper-xphb|Spell Sniper]]  
-- [[telekinetic-xphb|Telekinetic]]  
-- [[telepathic-xphb|Telepathic]]  
-- [[war-caster-xphb|War Caster]]  
-- [[weapon-master-xphb|Weapon Master]]  
+- [[ability score improvement xphb|Ability Score Improvement]]  
+- [[actor xphb|Actor]]  
+- [[athlete xphb|Athlete]]  
+- [[charger xphb|Charger]]  
+- [[chef xphb|Chef]]  
+- [[crossbow expert xphb|Crossbow Expert]]  
+- [[crusher xphb|Crusher]]  
+- [[defensive duelist xphb|Defensive Duelist]]  
+- [[dual wielder xphb|Dual Wielder]]  
+- [[durable xphb|Durable]]  
+- [[elemental adept xphb|Elemental Adept]]  
+- [[fey touched xphb|Fey-Touched]]  
+- [[grappler xphb|Grappler]]  
+- [[great weapon master xphb|Great Weapon Master]]  
+- [[heavily armored xphb|Heavily Armored]]  
+- [[heavy armor master xphb|Heavy Armor Master]]  
+- [[inspiring leader xphb|Inspiring Leader]]  
+- [[keen mind xphb|Keen Mind]]  
+- [[lightly armored xphb|Lightly Armored]]  
+- [[mage slayer xphb|Mage Slayer]]  
+- [[martial weapon training xphb|Martial Weapon Training]]  
+- [[medium armor master xphb|Medium Armor Master]]  
+- [[moderately armored xphb|Moderately Armored]]  
+- [[mounted combatant xphb|Mounted Combatant]]  
+- [[observant xphb|Observant]]  
+- [[piercer xphb|Piercer]]  
+- [[poisoner xphb|Poisoner]]  
+- [[polearm master xphb|Polearm Master]]  
+- [[resilient xphb|Resilient]]  
+- [[ritual caster xphb|Ritual Caster]]  
+- [[sentinel xphb|Sentinel]]  
+- [[shadow touched xphb|Shadow-Touched]]  
+- [[sharpshooter xphb|Sharpshooter]]  
+- [[shield master xphb|Shield Master]]  
+- [[skill expert xphb|Skill Expert]]  
+- [[skulker xphb|Skulker]]  
+- [[slasher xphb|Slasher]]  
+- [[speedy xphb|Speedy]]  
+- [[spell sniper xphb|Spell Sniper]]  
+- [[telekinetic xphb|Telekinetic]]  
+- [[telepathic xphb|Telepathic]]  
+- [[war caster xphb|War Caster]]  
+- [[weapon master xphb|Weapon Master]]  
 
 ## Fighting Style Feats
 
 These feats are in the Fighting Style category.
 
-- [[archery-xphb|Archery]]  
-- [[blind-fighting-xphb|Blind Fighting]]  
-- [[defense-xphb|Defense]]  
-- [[dueling-xphb|Dueling]]  
-- [[great-weapon-fighting-xphb|Great Weapon Fighting]]  
-- [[interception-xphb|Interception]]  
-- [[protection-xphb|Protection]]  
-- [[thrown-weapon-fighting-xphb|Thrown Weapon Fighting]]  
-- [[two-weapon-fighting-xphb|Two-Weapon Fighting]]  
-- [[unarmed-fighting-xphb|Unarmed Fighting]]  
+- [[archery xphb|Archery]]  
+- [[blind fighting xphb|Blind Fighting]]  
+- [[defense xphb|Defense]]  
+- [[dueling xphb|Dueling]]  
+- [[great weapon fighting xphb|Great Weapon Fighting]]  
+- [[interception xphb|Interception]]  
+- [[protection xphb|Protection]]  
+- [[thrown weapon fighting xphb|Thrown Weapon Fighting]]  
+- [[two weapon fighting xphb|Two-Weapon Fighting]]  
+- [[unarmed fighting xphb|Unarmed Fighting]]  
 
 ## Epic Boon Feats
 
 These feats are in the Epic Boon category.
 
-- [[boon-of-combat-prowess-xphb|Boon of Combat Prowess]]  
-- [[boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]]  
-- [[boon-of-energy-resistance-xphb|Boon of Energy Resistance]]  
-- [[boon-of-fate-xphb|Boon of Fate]]  
-- [[boon-of-fortitude-xphb|Boon of Fortitude]]  
-- [[boon-of-irresistible-offense-xphb|Boon of Irresistible Offense]]  
-- [[boon-of-recovery-xphb|Boon of Recovery]]  
-- [[boon-of-skill-xphb|Boon of Skill]]  
-- [[boon-of-speed-xphb|Boon of Speed]]  
-- [[boon-of-spell-recall-xphb|Boon of Spell Recall]]  
-- [[boon-of-the-night-spirit-xphb|Boon of the Night Spirit]]  
-- [[boon-of-truesight-xphb|Boon of Truesight]]
+- [[boon of combat prowess xphb|Boon of Combat Prowess]]  
+- [[boon of dimensional travel xphb|Boon of Dimensional Travel]]  
+- [[boon of energy resistance xphb|Boon of Energy Resistance]]  
+- [[boon of fate xphb|Boon of Fate]]  
+- [[boon of fortitude xphb|Boon of Fortitude]]  
+- [[boon of irresistible offense xphb|Boon of Irresistible Offense]]  
+- [[boon of recovery xphb|Boon of Recovery]]  
+- [[boon of skill xphb|Boon of Skill]]  
+- [[boon of speed xphb|Boon of Speed]]  
+- [[boon of spell recall xphb|Boon of Spell Recall]]  
+- [[boon of the night spirit xphb|Boon of the Night Spirit]]  
+- [[boon of truesight xphb|Boon of Truesight]]
 
 ## Player-Facing Summary
 
@@ -192,16 +193,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

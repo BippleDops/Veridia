@@ -1,3 +1,12 @@
+---
+title: Banishing Arrow Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Banishing Arrow Xge
 
 ---
@@ -30,7 +39,6 @@ You use abjuration magic to try to temporarily banish your target to a harmless 
 
 After you reach 18th level in this class, a target also takes `2d6` force damage when the arrow hits it.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ After you reach 18th level in this class, a target also takes `2d6` force damage
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

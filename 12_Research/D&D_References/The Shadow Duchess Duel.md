@@ -1,3 +1,12 @@
+---
+title: The Shadow Duchess Duel
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Shadow Duchess Duel
 
 ---
@@ -38,7 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # The Shadow Duchess Duel
 *The Noble Art of Shadow Combat, Arbiters of Honor Amongst the Depths*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -108,7 +111,7 @@ The Shadow Duchess Duel offers professional mediation and arbitration services t
 **Relationship**: Mutual Respect and Cooperation
 Both organizations value tradition, honor, and scholarly excellence. The Order provides astronomical timing for important ceremonies while the Duel provides conflict resolution services for scholarly disputes.
 
-#### **[[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
 **Relationship**: Diplomatic Recognition
 The Empire recognizes the Duel as legitimate representatives of shadow nobility. Formal protocols exist for handling disputes between mer-folk and shadow-touched individuals.
 
@@ -248,7 +251,7 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 
 **Related Organizations**:
 - [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
-- [[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
+- [[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 - [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
@@ -269,7 +272,7 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 - [[Shadow Honor System]]
 - [[Formal Dueling Protocols]]
 - [[Shadow Society Hierarchy]]
-- [[Honor-Based Conflict Resolution]]
+- [[Honor Based Conflict Resolution]]
 
 ## Player-Facing Summary
 
@@ -287,11 +290,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -302,11 +303,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

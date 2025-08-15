@@ -1,3 +1,12 @@
+---
+title: St Meridian's Cathedral
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # St Meridian's Cathedral
 
 ---
@@ -21,8 +30,6 @@ world: Aethermoor
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -35,11 +42,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -56,7 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

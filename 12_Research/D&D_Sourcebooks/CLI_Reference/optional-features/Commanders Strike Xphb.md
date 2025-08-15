@@ -1,3 +1,12 @@
+---
+title: Commanders Strike Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Commanders Strike Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Commander's Strike
 *Source: Player's Handbook (2024) p. 94*  
 
-When you take the [[actions#Attack|Attack]] action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its [[reaction-xphb|Reaction]] to make one attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]], adding the Superiority Die to the attack's damage roll on a hit.
-
+When you take the [[actions#Attack|Attack]] action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its [[reaction xphb|Reaction]] to make one attack with a weapon or an [[unarmed strike xphb|Unarmed Strike]], adding the Superiority Die to the attack's damage roll on a hit.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you take the [[actions#Attack|Attack]] action on your turn, you can replace
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

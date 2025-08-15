@@ -1,3 +1,12 @@
+---
+title: Banishing Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Banishing Smite Xphb
 
 ---
@@ -36,10 +45,9 @@ world: Both
 
 The target hit by the attack roll takes an extra `5d10` Force damage from the attack. If the attack reduces the target to 50 [[hit-points-xphb|Hit Points]] or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [[conditions#Incapacitated|Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 245*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ The target hit by the attack roll takes an extra `5d10` Force damage from the at
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

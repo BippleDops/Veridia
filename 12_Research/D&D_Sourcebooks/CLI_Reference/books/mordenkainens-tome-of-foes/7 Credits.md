@@ -1,3 +1,12 @@
+---
+title: 7 Credits
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 7 Credits
 
 ---
@@ -44,7 +53,6 @@ world: Both
 - **Playtesters.** Adam Hennebeck, Adam Pearson, Alex D'Amico, Alex Kammer, Alexander Forsyth, Andrew Norman, Andrey Sarafanov, Arthur Wright, Ashleigh Bishop, Beau Coker, Ben Rabin, Brian Dahl, Brittany Schoen, Bryan Gillispie, Bryan Harris, Burt Beegle, C. McGovern, Cait Davis-Pauley, Caleb Zutavern, Cameron Scruggs, Charles Benscoter, Chloe Urbano, Chris Garner, Chris Presnall, Cody Helms, Daniel "KBlin" Oliveira, Dave Rosser Jr., Davena Oaks, David Callander, David Gidcumb, David Krolnik, David Merritt, David Morris, Derek DaSilva, Derek Gray, Emre Cihangir, Enrique Bertran, Eric Weberg, Evan Jackson, Garrett Colon, George Strayton, Gerald Wan, Grant Fisk, Gregory L. Harris, Grigory Parovichnikov, J. Connor Self, Jacob DelMauro, James Schweiss, Jared Fegan, Jawsh Murdock, Jay Anderson, Jay Elmore, Jay White, Jenna Schmitt, Jeremy Nagorny, Jerry Behrendt, Jia Jian Tin, Jim Berrier, Jimmer Moeller, Joe Alfano, Joe Reilly, Jonathan Longstaff, Joseph Schenck, Joshua Hart, Justin Donie, Karl Resch, Keith Williams, Kerry Kaszak, Kevin Engling, Kevin Grigsby, Kevin Moore, Kevin Murphy, Kevin Neff, Kirsten Thomas, Kyle Turner, Justin Hicks, Lawrence "Bear" Beals, Lou Michelli, Marcello De Velazquez, Marcus Wiles, Mark Merida, Matt Maranda, Matthew H Budde, Matthew Roderick, Matthew Shurboff, Matthew Warwick, Michael Long, Michael Obermeier, Mike Mihalas, Nel Pulanco, Nichola Sobota, Nicholas Giovannetti, Oleg Suetnov, Paige Miller, Paul Hughes, Phil Morlan, Pieter Sleijpen, Randall Harris, Randall Shepherd, Richard Chamberlain, Robert Alaniz, Russ Paulsen, Russell Engel, Sam Robertson, Sam Shircel, Samuel Sherry, Scott Beck, Scott Chipman, Shane Leahy, Stacy Bermes, Stephen Lindberg, Stephen Morman, Sterling Hershey, Tashfeen Bhimdi, Teos Abadía, Timothy Hunt, Travis Fuller, Travis Woodall, Troy Sandlin, Wayne Chang, Zachary Pickett  
 - This book is dedicated to artist William O'Connor, who passed away during its creation. Since 2001, his work has graced numerous D&D products, including this one. Like his art, his was a spirit of vibrancy and warmth.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

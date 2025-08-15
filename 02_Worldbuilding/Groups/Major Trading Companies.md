@@ -26,16 +26,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Corporate Emblems
 ![](04_Resources/Assets/Symbols/symbol-corporate-major-trading-companies.svg)
 
 # Major Trading Companies
 *The Corporate Powers Behind Two Realms*
 
-> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
-
+> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02 Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,23 +61,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -90,7 +81,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
@@ -99,7 +89,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The major trading companies of [[Aethermoor]] and [[Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
@@ -178,7 +167,7 @@ The major trading companies of [[Aethermoor]] and [[Aquabyssos]] represent the p
 ### Deep Current Trading Company
 **Supreme Navigator**: [[The Current Merchants]] (Nereon Swiftcurrent)
 **Founded**: 48 years ago through current-magic innovation
-**Primary Headquarters**: The Flowing Market, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Flowing Market, [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 2.8+ million pearl equivalents
 **Workforce**: 3,000+ current-riders, navigators, and support staff
 
@@ -191,7 +180,7 @@ The major trading companies of [[Aethermoor]] and [[Aquabyssos]] represent the p
 ### Goldcurrent Banking Consortium
 **Chief Executive**: [[Banker Titus Goldcurrent]]
 **Founded**: 15 years ago during the Crystal Currency Crisis
-**Primary Headquarters**: The Deep Vault, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Deep Vault, [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 5.1+ million pearl equivalents
 **Workforce**: 800+ ficial professionals
 
@@ -496,7 +485,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Quest - The Missing Fleet
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Missing Fleet
 
 ---
@@ -35,14 +44,12 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-quest-the-missing-fleet-quest-the-missing-fleet.svg]]
 
 # Quest - The Missing Fleet
 *A Diplomatic Crisis Beneath the Waves*
 
 > *"When ships vanish without a trace and nations point fingers, someone must dive beneath the surface of both water and politics to find the truth that could prevent a war."*
 > — [[Admiral Marina Stormcrest]], briefing the investigation team
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +62,6 @@ danger_level: Moderate
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 
@@ -356,7 +358,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

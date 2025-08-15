@@ -1,3 +1,12 @@
+---
+title: Nalfeshnee Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nalfeshnee Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nalfeshnee-xmm-nalfeshnee-xmm.svg)
 
-# [[nalfeshnee-xmm|Nalfeshnee]]
+# [[nalfeshnee xmm|Nalfeshnee]]
 *Source: Monster Manual (2024) p. 224. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Nalfeshnee
 
@@ -100,10 +103,10 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "cr": "13"
 "traits":
   - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The nalfeshnee has [[advantage-xphb|Advantage]]\
+  - "desc": "The nalfeshnee has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -116,7 +119,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
       \ see."
     "name": "Teleport"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
       \ target has the [[conditions#frightened|Frightened]] condition\
       \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
@@ -153,7 +156,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

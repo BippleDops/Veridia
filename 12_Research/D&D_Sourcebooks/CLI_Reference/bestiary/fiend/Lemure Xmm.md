@@ -1,3 +1,12 @@
+---
+title: Lemure Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lemure Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lemure-xmm-lemure-xmm.svg)
 
-# [[lemure-xmm|Lemure]]
+# [[lemure xmm|Lemure]]
 *Source: Monster Manual (2024) p. 194. Available in the SRD and the Free Rules (2024)*  
 
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lemures
 
@@ -85,13 +88,13 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness xphb|Darkness]]),\
   \ passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [[hit-points-xphb|Hit Points]]\
-      \ in d10 days unless it is killed by a creature under the effects of a [[bless-xphb|Bless]]\
+  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [[hit points xphb|Hit Points]]\
+      \ in d10 days unless it is killed by a creature under the effects of a [[bless xphb|Bless]]\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
 "actions":
@@ -123,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Related Notes
 
@@ -136,11 +137,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -32,14 +32,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lady-jade-clawgrip-lady-jade-clawgrip.svg]]
 
 # Lady Jade Clawgrip
 *The Corporate Predator, Mistress of Hostile Takeovers*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,19 +64,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -90,17 +80,14 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[Silverscale Consortium]]'s Board of Scales, specializing in hostile takeovers, corporate warfare, and the complete destruction of business competitors. Her silver dragon heritage gives her both supernatural abilities and an instinctive understanding of greed and acquisition, making her the Consortium's most feared negotiator and its most effective weapon against economic rivals.
@@ -437,7 +424,6 @@ Lady Jade Clawgrip is a undersea element of the setting, known for bioluminescen
 ## Lore Details
 
 Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lady Jade Clawgrip.
-
 
 ## Religious Observances
 

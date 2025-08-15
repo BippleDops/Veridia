@@ -1,3 +1,12 @@
+---
+title: Scufflecup Teacup Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scufflecup Teacup Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-scufflecup-teacup-scc-scufflecup-teacup-scc.svg)
 
-# [[scufflecup-teacup-scc|Scufflecup Teacup]]
+# [[scufflecup teacup scc|Scufflecup Teacup]]
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  
 
 Scufflecup is a game students created after finding a box of teacups in a nearby building's storage room. The students discovered that pouring hot tea into the cups animates them for 10 minutes and causes them to sprout little arms and legs.
@@ -67,7 +76,6 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -79,11 +87,6 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

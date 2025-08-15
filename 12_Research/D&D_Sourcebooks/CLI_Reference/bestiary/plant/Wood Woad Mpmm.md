@@ -1,3 +1,12 @@
+---
+title: Wood Woad Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wood Woad Mpmm
 
 ---
@@ -46,7 +55,7 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druids]] and [[treant-xmm|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druids]] and [[treant xmm|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad (MPMM)"
@@ -54,7 +63,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "natural armor, [[shield-xphb|shield]]"
+"ac_class": "natural armor, [[shield xphb|shield]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "1"
@@ -106,7 +115,6 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -144,11 +147,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Hydroloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hydroloth Mpmm
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydroloth-mpmm-hydroloth-mpmm.svg)
 
-# [[hydroloth-mpmm|Hydroloth]]
+# [[hydroloth mpmm|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -95,8 +104,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
       \ it can't cast spells; it can't understand language; and if its Intelligence\
       \ and Charisma scores are higher than 5, they become 5. Each time the target\
       \ finishes a long rest, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A [[greater-restoration-xphb|greater restoration]]\
-      \ or [[remove-curse-xphb|remove curse]] spell cast\
+      \ itself on a success. A [[greater restoration xphb|greater restoration]]\
+      \ or [[remove curse xphb|remove curse]] spell cast\
       \ on the target ends this effect early."
     "name": "Steal Memory (1/Day)"
   - "desc": "The hydroloth teleports, along with any equipment it is wearing or carrying,\
@@ -104,12 +113,12 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
     "name": "Teleport"
   - "desc": "The hydroloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[darkness-xphb|darkness]],\
-      \ [[detect-magic-xphb|detect magic]], [[dispel-magic-xphb|dispel magic]],\
-      \ [[invisibility-xphb|invisibility]] (self only)\n\
-      \n3/day each: [[control-water-xphb|control water]],\
-      \ [[crown-of-madness-xphb|crown of madness]], [[fear-xphb|fear]],\
-      \ [[suggestion-xphb|suggestion]]"
+      \ DC 16):\n\nAt will: [[darkness xphb|darkness]],\
+      \ [[detect magic xphb|detect magic]], [[dispel magic xphb|dispel magic]],\
+      \ [[invisibility xphb|invisibility]] (self only)\n\
+      \n3/day each: [[control water xphb|control water]],\
+      \ [[crown of madness xphb|crown of madness]], [[fear xphb|fear]],\
+      \ [[suggestion xphb|suggestion]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -117,7 +126,6 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/hydroloth-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -130,11 +138,6 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -152,7 +155,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals a conspiracy about the cult
@@ -163,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

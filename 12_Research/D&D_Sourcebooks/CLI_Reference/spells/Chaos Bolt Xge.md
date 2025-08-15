@@ -1,3 +1,12 @@
+---
+title: Chaos Bolt Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chaos Bolt Xge
 
 ---
@@ -57,10 +66,9 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `d6` extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [[list-spells-classes-sorcerer|Sorcerer]]
+**Classes**: [[list spells classes sorcerer|Sorcerer]]
 
 *Source: Xanathar's Guide to Everything p. 151*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,11 +81,6 @@ A creature can be targeted only once by each casting of this spell.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

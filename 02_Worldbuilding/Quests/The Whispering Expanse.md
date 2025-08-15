@@ -1,3 +1,12 @@
+---
+title: The Whispering Expanse
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Whispering Expanse
 
 ---
@@ -32,7 +41,6 @@ obsidianUIMode: preview
 
 *Where silence becomes a symphony of madness and the void speaks in forgotten tongues*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,9 @@ obsidianUIMode: preview
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -78,11 +84,9 @@ obsidianUIMode: preview
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -92,13 +96,10 @@ obsidianUIMode: preview
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Quest Overview
 
@@ -107,11 +108,11 @@ obsidianUIMode: preview
 **Themes:** Cosmic horror, investigation, sanity, forbidden knowledge  
 **Party Size:** 3-6 characters  
 
-The [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
+The [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
 
 ### The Growing Silence
 
-For centuries, the region now known as the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
+For centuries, the region now known as the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
 
 It started with isolated reports from the frontier town of [[Quiet Haven]]:
 - Residents hearing faint whispers in unknown languages during the night
@@ -132,10 +133,10 @@ What locals initially dismissed as imagination or stress has evolved into someth
 
 The regional government has tried multiple approaches to contain the situation:
 - **[[The Scholar's Guild]]** sent researchers who returned speaking in tongues
-- **[[02_Worldbuilding/Groups/The Order of the Silent Vigi|02 Worldbuilding/Groups/The Order Of The Silent Vigi]]** dispatched paladins who never returned at all
+- **[[02 Worldbuilding/Groups/The Order of the Silent Vigi|02 Worldbuilding/Groups/The Order Of The Silent Vigi]]** dispatched paladins who never returned at all
 - **[[Local Militia]]** established quarantine zones that were overrun from within
 
-Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] and discover the truth behind the phenomenon.
+Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] and discover the truth behind the phenomenon.
 
 ### Opening Hook
 
@@ -186,7 +187,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 - All creatures must make DC 16 Wisdom saves
 - Failure: Take 2d6 psychic damage and must use action next turn to listen
 - Success: Half damage, no compulsion
-- Characters with 0 hit points from psychic damage become [[Whisper-Touched]]
+- Characters with 0 hit points from psychic damage become [[Whisper Touched]]
 
 #### Reality Distortions
 
@@ -195,7 +196,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 - DC 18 Perception to notice architectural impossibilities
 - Navigation requires DC 20 Survival checks to avoid getting lost
 - Characters who fail by 5 or more are separated from the party
-- [[Whisper-Touched]] creatures navigate these areas perfectly
+- [[Whisper Touched]] creatures navigate these areas perfectly
 
 #### Silence Zones
 
@@ -208,7 +209,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 
 ### The Source Discovery
 
-As the party ventures deeper into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[The Resoce Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
+As the party ventures deeper into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[The Resoce Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
 
 #### The Crater's Features
 
@@ -420,8 +421,6 @@ Legends speak of The Whispering Expanse as a nexus where past and present conver
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

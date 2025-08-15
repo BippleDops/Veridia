@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,23 +39,17 @@ improvements: 20
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
 
 ### Level_Range Improvements
 
-- Provide scaling for different level ranges
-- Provide scaling for different level ranges
 - Provide scaling for different level ranges
 
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
 
 ### Soundtrack Improvements
 
-- Suggest music/ambiance for each scene
 - Suggest music/ambiance for each scene
 
 ### Props Improvements
@@ -68,7 +59,6 @@ improvements: 20
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Backup Improvements
 
@@ -77,7 +67,6 @@ improvements: 20
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-
 
 ## Adventure Overview
 
@@ -95,11 +84,9 @@ An exciting quest that challenges heroes to claim glory.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -119,7 +106,6 @@ An exciting quest that challenges heroes to claim glory.
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
-
 
 ## Moral Quandaries
 

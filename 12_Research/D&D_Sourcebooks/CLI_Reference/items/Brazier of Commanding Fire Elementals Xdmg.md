@@ -1,3 +1,12 @@
+---
+title: Brazier of Commanding Fire Elementals Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Brazier of Commanding Fire Elementals Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/brazier-of-commanding-fire-elementals.webp#right)
 
-While you are within 5 feet of this brazier, you can take a [[actions#Magic|Magic]] action to summon a [[fire-elemental-xmm|Fire Elemental]]. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb|Bonus Action]]. The brazier can't be used this way again until the next dawn.
+While you are within 5 feet of this brazier, you can take a [[actions#Magic|Magic]] action to summon a [[fire elemental xmm|Fire Elemental]]. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus action xphb|Bonus Action]]. The brazier can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While you are within 5 feet of this brazier, you can take a [[actions#Magic|Magi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

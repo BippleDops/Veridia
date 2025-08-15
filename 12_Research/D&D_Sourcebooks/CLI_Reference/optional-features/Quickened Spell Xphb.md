@@ -1,3 +1,12 @@
+---
+title: Quickened Spell Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quickened Spell Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Quickened Spell
 *Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[bonus-action-xphb|Bonus Action]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
-
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[bonus action xphb|Bonus Action]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you cast a spell that has a casting time of an action, you can spend 2 Sorc
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals ancient history about the cult
@@ -74,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

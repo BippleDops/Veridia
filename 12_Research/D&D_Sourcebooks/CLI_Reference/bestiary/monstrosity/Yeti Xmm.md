@@ -1,3 +1,12 @@
+---
+title: Yeti Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yeti Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
-# [[yeti-xmm|Yeti]]
+# [[yeti xmm|Yeti]]
 *Source: Monster Manual (2024) p. 339*  
 
 Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Yetis hunt alone or in small family groups. They avoid the settlements of other 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Yetis
 
@@ -95,7 +98,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 "languages": "Yeti"
 "cr": "3"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "If the yeti takes Fire damage, it has [[disadvantage xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -110,7 +113,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
     "name": "Ice Throw"
   - "desc": "Constitution Saving Throw: DC 13, one creature the yeti can see within\
       \ 30 feet. Failure: 5 (2d4) Cold damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
-      \ condition until the start of the yeti's next turn unless the target has [[immunity-xphb|Immunity]]\
+      \ condition until the start of the yeti's next turn unless the target has [[immunity xphb|Immunity]]\
       \ to Cold damage. Success: The target is immune to the Chilling Gaze of all\
       \ yetis (but not abominable yetis) for 1 hour."
     "name": "Chilling Gaze"
@@ -139,7 +142,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

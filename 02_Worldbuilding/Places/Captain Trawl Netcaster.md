@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Captain Trawl Netcaster
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Captain_Trawl_Netcaster.png|Captain Trawl Netcaster Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,31 +67,25 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
@@ -110,7 +99,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -165,12 +153,9 @@ Ongoing situations affecting Captain Trawl Netcaster:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Dungeoneers Pack Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dungeoneers Pack Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 12 gp
 - **Weight**: 55.0 lbs.
 
-A Dungeoneer's Pack contains the following items: [[backpack-xphb|Backpack]], [[caltrops-xphb|Caltrops]], [[crowbar-xphb|Crowbar]], 2 flasks of [[oil-xphb|Oil]], 10 days of [[rations-xphb|Rations]], [[rope-xphb|Rope]], [[tinderbox-xphb|Tinderbox]], 10 [[torch-xphb|Torches]], and [[waterskin-xphb|Waterskin]].
+A Dungeoneer's Pack contains the following items: [[backpack xphb|Backpack]], [[caltrops xphb|Caltrops]], [[crowbar xphb|Crowbar]], 2 flasks of [[oil xphb|Oil]], 10 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], 10 [[torch xphb|Torches]], and [[waterskin xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Dungeoneer's Pack contains the following items: [[backpack-xphb|Backpack]], [[
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

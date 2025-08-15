@@ -1,3 +1,12 @@
+---
+title: Destructive Wave Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Destructive Wave Xphb
 
 ---
@@ -37,10 +46,9 @@ world: Both
 
 Destructive energy ripples outward from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. Each creature you choose in the [[emanation-area-of-effect-xphb|Emanation]] makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [[conditions#prone|Prone]] condition. On a successful save, a target takes half as much damage only.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 261*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ Destructive energy ripples outward from you in a 30-foot [[emanation-area-of-eff
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,21 +78,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

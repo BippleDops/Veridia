@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Handouts/handout-handout-council-summons-notice-council-summons-notice.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_council_summons_notice_png.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,15 +50,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -75,13 +66,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Organization Overview
 
@@ -210,11 +198,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #council #faction #worldbuilding
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Historical Timeline
 

@@ -1,3 +1,12 @@
+---
+title: Copper Dragon Scale Mail Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Copper Dragon Scale Mail Xdmg
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Copper Dragon Scale Mail
-*Medium armor ([[scale-mail-xphb|scale mail]]), very rare (requires attunement)*  
+*Medium armor ([[scale mail xphb|scale mail]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -34,12 +43,11 @@ world: Both
 
 Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, Dragon Scale Mail is highly valued.
 
-While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]], you have [[advantage-xphb|Advantage]] on saving throws against the breath weapons of Dragons, and you have [[resistance-xphb|Resistance]] to acid damage.
+While wearing this armor, you gain a +1 bonus to [[armor class xphb|Armor Class]], you have [[advantage xphb|Advantage]] on saving throws against the breath weapons of Dragons, and you have [[resistance xphb|Resistance]] to acid damage.
 
 Additionally, you can focus your senses as a [[actions#Magic|Magic]] action to discern the distance and direction to the closest copper dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Additionally, you can focus your senses as a [[actions#Magic|Magic]] action to d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -89,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

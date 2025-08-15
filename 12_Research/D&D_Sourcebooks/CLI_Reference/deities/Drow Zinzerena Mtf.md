@@ -1,3 +1,12 @@
+---
+title: Drow Zinzerena Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Zinzerena Mtf
 
 ---
@@ -42,7 +51,6 @@ In some stories, Zinzerena is Lolth's daughter, who was spirited away and hidden
 
 Not many female drow devote their lives to the study of magic, because it's held to be a low-status avocation more suited to males. Most females who pursue it seriously do so in secret. Even rumors that a drow matron practices arcane magic, if they aren't quashed, can sabotage her standing in society. Yet there's no denying that knowledge of arcane magic could be a great boon to an ambitious female. Zinzerena's worshipers encourage this pursuit and offer tutelage and tools in exchange for a candidate's alliance with Zinzerena's secret cult.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ Not many female drow devote their lives to the study of magic, because it's held
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting a artifact for love
@@ -89,16 +91,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

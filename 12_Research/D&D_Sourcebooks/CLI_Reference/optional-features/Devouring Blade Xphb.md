@@ -1,3 +1,12 @@
+---
+title: Devouring Blade Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Devouring Blade Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 12 Warlock
 
-The Extra Attack of your [[thirsting-blade-xphb|Thirsting Blade]] invocation confers two extra attacks rather than one.
-
+The Extra Attack of your [[thirsting blade xphb|Thirsting Blade]] invocation confers two extra attacks rather than one.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ The Extra Attack of your [[thirsting-blade-xphb|Thirsting Blade]] invocation con
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,14 +67,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

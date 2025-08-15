@@ -1,3 +1,12 @@
+---
+title: Trade_Route_Map_Aquabyssos_to_Aethermoor
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Trade_Route_Map_Aquabyssos_to_Aethermoor
 
 ---
@@ -56,7 +65,6 @@ world: Both
 *Updated by the Cross-Realm Merchant's Covet*
 *Safe travels and fair profits*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -68,11 +76,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Related
 
@@ -86,21 +89,17 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
 
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
 
-
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
-
-## 07_Player_Resources Specific Content
-
-Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

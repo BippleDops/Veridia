@@ -1,3 +1,12 @@
+---
+title: Random Yuan Ti Servants Yuan Ti Agents Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Yuan Ti Servants Yuan Ti Agents Vgm
 
 ---
@@ -31,16 +40,15 @@ world: Both
 
 | dice: d100 | Agents |
 |------------|--------|
-| 1-20 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
-| 21-30 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] |
-| 31-34 | [[doppelganger-xmm|Doppelgangers]] |
-| 35-50 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
-| 51-60 | [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Nobles]] |
-| 61-72 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |
-| 73-86 | [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Scouts]] |
-| 87-100 | [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Spies]] |
+| 1-20 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultists]] |
+| 21-30 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] |
+| 31-34 | [[doppelganger xmm|Doppelgangers]] |
+| 35-50 | [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guards]] |
+| 51-60 | [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|Nobles]] |
+| 61-72 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priests]] |
+| 73-86 | [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Scouts]] |
+| 87-100 | [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Spies]] |
 ^yuan-ti-agents
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,16 +80,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

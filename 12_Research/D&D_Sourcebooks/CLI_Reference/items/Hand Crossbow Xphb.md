@@ -1,3 +1,12 @@
+---
+title: Hand Crossbow Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hand Crossbow Xphb
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
+- **Properties**: [[item properties#Ammunition|Ammunition]], [[item properties#Light|Light]], [[item properties#Loading|Loading]]
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

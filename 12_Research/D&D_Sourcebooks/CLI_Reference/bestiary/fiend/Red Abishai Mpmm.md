@@ -1,182 +1,47 @@
-# Red Abishai Mpmm
-
 ---
 title: Red Abishai Mpmm
-aliases:
-- Red Abishai
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/size/medium
-- both
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/environment/mountain
-- monster
-- ttrpg-cli/monster/type/fiend/devil
-- ttrpg-cli/compendium/src/5e/mpmm
-- world/both
-- research
-- active
-- ttrpg-cli/monster/cr/19
-- status/in-progress
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.809492+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-red-abishai-mpmm-red-abishai-mpmm.svg)
+# Red Abishai Mpmm
 
-# [[red-abishai-mpmm|Red Abishai]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  
+## Overview
+This document contains important information regarding Red Abishai Mpmm and its role within the greater narrative.
 
-Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
+## Description
+Red Abishai Mpmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Abishais
-
-Each abishai was once a mortal who somehow won Tiamat's favor before death and, as a reward, found its soul transformed into a draconic devil to serve at her pleasure in the Nine Hells. Each type of abishai is associated with one of Tiamat's five dragon heads: black, blue, green, red, and white.
-
-Tiamat deploys abishais as her agents, sending them forth to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyal to Tiamat, ready to lay down their lives if needed.
-
-Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
-
-```statblock
-"name": "Red Abishai (MPMM)"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Typically  Lawful Evil"
-"ac": !!int "22"
-"ac_class": "natural armor"
-"hp": !!int "289"
-"hit_dice": "34d8 + 136"
-"modifier": !!int "3"
-"stats":
-  - !!int "23"
-  - !!int "16"
-  - !!int "19"
-  - !!int "14"
-  - !!int "15"
-"speed": "30 ft., fly 50 ft."
-"saves":
-  - "strength": !!int "12"
-  - "constitution": !!int "10"
-  - "wisdom": !!int "8"
-"skillsaves":
-  - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+10"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#frightened|frightened]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 18"
-"languages": "Draconic, Infernal, telepathy 120 ft."
-"cr": "19"
-"traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [[senses#Darkvision|darkvision]]."
-    "name": "Devil's Sight"
-  - "desc": "The abishai has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The abishai makes one Bite attack and one Claw attack, and it can use\
-      \ Frightful Presence or Incite Fanaticism."
-    "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 22\
-      \ (3d10 + 6) piercing damage plus 38 (7d10) fire damage."
-    "name": "Bite"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17\
-      \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
-    "name": "Claw"
-  - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[conditions#frightened|frightened]]\
-      \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
-      \ of its turns, ending the effect on itself on a success. If a creature's saving\
-      \ throw is successful or the effect ends for it, the creature is immune to the\
-      \ abishai's Frightful Presence for the next 24 hours."
-    "name": "Frightful Presence"
-  - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
-      \ can see it. Until the start of the abishai's next turn, each of those creatures\
-      \ makes attack rolls with advantage and can't be [[conditions#frightened|frightened]]."
-    "name": "Incite Fanaticism"
-  - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The\
-      \ Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this\
-      \ save with disadvantage. On a successful save, the target is immune to the\
-      \ abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target\
-      \ is [[conditions#Charmed|charmed]] by the abishai for 1\
-      \ hour. While [[conditions#Charmed|charmed]] in this way,\
-      \ the target regards the abishai as a trusted friend to be heeded and protected.\
-      \ This effect ends if the abishai or its companions deal damage to the target."
-    "name": "Power of the Dragon Queen"
-"source":
-  - "MPMM"
-  - "MTF"
-"image": "/03_Mechanics/CLI/bestiary/fiend/token/red-abishai-mpmm.webp"
-```
-^statblock
-
-## Environment
-
-mountain, urban
-
-## Player-Facing Summary
-
-Red abishai mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of red abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around red abishai mpmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A noble needs help investigating before the new moon
-- Someone is searching for a witness for love
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

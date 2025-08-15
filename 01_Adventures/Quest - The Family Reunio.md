@@ -1,3 +1,12 @@
+---
+title: Quest - The Family Reunio
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Family Reunio
 
 ---
@@ -16,8 +25,6 @@ world: Both
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunio-quest-the-family-reunio.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,11 +54,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

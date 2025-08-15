@@ -1,3 +1,12 @@
+---
+title: Portable Hole Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Portable Hole Xdmg
 
 ---
@@ -38,10 +47,9 @@ You can take a [[actions#Magic|Magic]] action to close a Portable Hole by taking
 
 If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength ([[skills#Athletics|Athletics]]) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole. A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
 
-Placing a Portable Hole inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], [[hewards-handy-haversack-xdmg|Heward's Handy Haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-xphb|Total Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing a Portable Hole inside an extradimensional space created by a [[bag of holding xdmg|Bag of Holding]], [[hewards handy haversack xdmg|Heward's Handy Haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover xphb|Total Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 286. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Placing a Portable Hole inside an extradimensional space created by a [[bag-of-h
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## 12_Research Specific Content
 

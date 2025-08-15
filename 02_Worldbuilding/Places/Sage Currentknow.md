@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sage-currentknow-sage-currentknow.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,18 +52,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -77,18 +68,14 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -136,8 +123,6 @@ Ongoing situations affecting Sage Currentknow:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is searching for an heir for revenge
@@ -159,7 +144,6 @@ Ongoing situations affecting Sage Currentknow:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

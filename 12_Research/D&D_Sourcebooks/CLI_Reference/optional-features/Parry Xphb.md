@@ -1,3 +1,12 @@
+---
+title: Parry Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Parry Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Parry
 *Source: Player's Handbook (2024) p. 95*  
 
-When another creature damages you with a melee attack roll, you can take a [[reaction-xphb|Reaction]] and expend one Superiority Die to reduce the damage by the number you roll on your Superiority Die plus your Strength or Dexterity modifier (your choice).
-
+When another creature damages you with a melee attack roll, you can take a [[reaction xphb|Reaction]] and expend one Superiority Die to reduce the damage by the number you roll on your Superiority Die plus your Strength or Dexterity modifier (your choice).
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When another creature damages you with a melee attack roll, you can take a [[rea
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

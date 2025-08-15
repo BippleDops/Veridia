@@ -1,3 +1,12 @@
+---
+title: Berserker Axe Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Berserker Axe Xdmg
 
 ---
@@ -31,10 +40,9 @@ world: Both
 *Cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/berserker-axe.webp#right)
 
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [[item properties#Cursed%20Items|Cursed]]
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [[hit-points-xphb|Hit Point]] maximum increases by 1 for each level you have attained.
-
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [[hit points xphb|Hit Point]] maximum increases by 1 for each level you have attained.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,15 +55,10 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Curse
 
-This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [[disadvantage-xphb|Disadvantage]] on attack rolls with weapons other than this one.
+This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [[disadvantage xphb|Disadvantage]] on attack rolls with weapons other than this one.
 
 Whenever another creature damages you while the weapon is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. This berserk state ends when you start your turn and there are no creatures within 60 feet of you that you can see or hear.
 
@@ -69,7 +72,7 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 ### Berserker Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Cursed%20Items|Cursed]], [[item properties#Heavy|Heavy]], [[item properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
@@ -90,11 +93,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

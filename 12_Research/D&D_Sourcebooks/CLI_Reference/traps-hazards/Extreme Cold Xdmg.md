@@ -1,3 +1,12 @@
+---
+title: Extreme Cold Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Extreme Cold Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Extreme Cold
 *Environmental Hazard*  
 
-When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 [[conditions#Exhaustion|Exhaustion]] level. Creatures that have [[resistance-xphb|Resistance]] or [[immunity-xphb|Immunity]] to Cold damage automatically succeed on the save.
+When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 [[conditions#Exhaustion|Exhaustion]] level. Creatures that have [[resistance xphb|Resistance]] or [[immunity xphb|Immunity]] to Cold damage automatically succeed on the save.
 
 *Source: Dungeon Master's Guide (2024) p. 68*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

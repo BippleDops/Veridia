@@ -1,3 +1,12 @@
+---
+title: Houses_and_Nobility - House Deepcurrent
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Houses_and_Nobility - House Deepcurrent
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-13T01:18:36.788652+00:00'
 > [!figure] Heraldry
 > ![](04_Resources/Assets/Symbols/symbol-heraldry-house-deepcurrent.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-13T01:18:36.788652+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 House Deepcurrent represents the ancient noble families who claim descent from the original Deep Kings. They are master manipulators of both water currents and political currents, known for their long-term planning and mysterious connections to entities from the deepest trenches.
@@ -192,7 +195,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for power
@@ -203,11 +205,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

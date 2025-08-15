@@ -1,3 +1,12 @@
+---
+title: Session 12 Character Focused Example
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_12_Character_Focused_Example
 
 ---
@@ -114,7 +123,6 @@ While focusing on character development, the session advanced several campaign p
 
 *Character-focused sessions create emotional investment and make the larger campaign more personally meaningful for players.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -126,11 +134,6 @@ While focusing on character development, the session advanced several campaign p
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -144,11 +147,9 @@ While focusing on character development, the session advanced several campaign p
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -163,11 +164,9 @@ While focusing on character development, the session advanced several campaign p
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

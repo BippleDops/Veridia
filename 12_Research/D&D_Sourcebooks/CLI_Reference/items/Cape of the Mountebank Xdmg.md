@@ -1,3 +1,12 @@
+---
+title: Cape of the Mountebank Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cape of the Mountebank Xdmg
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast [[dimension-door-xphb|Dimension Door]] as a [[actions#Magic|Magic]] action. This property can't be used again until the next dawn.
+This cape smells faintly of brimstone. While wearing it, you can use it to cast [[dimension door xphb|Dimension Door]] as a [[actions#Magic|Magic]] action. This property can't be used again until the next dawn.
 
-When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[lightly-obscured-xphb|Lightly Obscured]] by that smoke until the end of your next turn.
+When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[lightly obscured xphb|Lightly Obscured]] by that smoke until the end of your next turn.
 
 *Source: Dungeon Master's Guide (2024) p. 242. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ When you teleport with that spell, you leave behind a cloud of smoke. The space 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about the government
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

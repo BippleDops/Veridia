@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,27 +34,17 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Automated Improvements
@@ -67,7 +54,6 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-
 
 ## Mechanic Overview
 
@@ -232,7 +218,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Examples of Play
 
 ### Basic Example
@@ -243,7 +228,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Quick Reference
 

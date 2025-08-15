@@ -43,8 +43,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-cavern-crystal-caverns-crystal-caverns.svg)
 
@@ -53,7 +51,6 @@ improvements: 20
 *The Singing Heart of the Mountain*
 
 > *"Where crystal dreams are born in darkness, and whispered songs carry the weight of eternity."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,28 +79,21 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -117,7 +107,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -375,7 +364,6 @@ Crystal Caverns is a notable location characterized by its unique features and s
 ### Founding
 Crystal Caverns was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Plot Hooks
 
 - Someone is hunting a artifact for power
@@ -398,7 +386,6 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

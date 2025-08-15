@@ -1,3 +1,12 @@
+---
+title: Basilisk Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Basilisk Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-basilisk-xmm-basilisk-xmm.svg)
 
-# [[basilisk-xmm|Basilisk]]
+# [[basilisk xmm|Basilisk]]
 *Source: Monster Manual (2024) p. 32. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Basilisk
 
@@ -108,8 +111,8 @@ The remains of [[conditions#Petrified|Petrified]] creatures litter the area wher
       \ plus 7 (2d6) Poison damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ If the basilisk sees its reflection within the [[cone-area-of-effect-xphb|Cone]],\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+      \ If the basilisk sees its reflection within the [[cone area of effect xphb|Cone]],\
       \ the basilisk must make this save. 1st Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
       \ [[conditions#Restrained|Restrained]], ending the effect\
@@ -143,16 +146,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
-- Strange sightings suggest a portal
 - Strange sightings suggest a portal
 
 ## Related Notes
@@ -161,7 +161,6 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

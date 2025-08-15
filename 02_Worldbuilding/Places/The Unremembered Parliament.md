@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg]]
 
 # The Unremembered Parliament
 
 *"Where the voices of the forgotten still cast their eternal votes."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,8 +60,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
@@ -74,19 +68,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -96,7 +84,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 A haunted legislative chamber beneath the current Parliament building where the spirits of Aquabyssos's first democratic representatives continue their debates. This forgotten room was sealed after a catastrophic political scandal, but the supernatural echoes of ancient political arguments still resonate.
@@ -195,8 +182,6 @@ Ongoing situations affecting The Unremembered Parliament:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -214,7 +199,6 @@ Ongoing situations affecting The Unremembered Parliament:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -227,7 +211,6 @@ Ongoing situations affecting The Unremembered Parliament:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -239,7 +222,6 @@ Ongoing situations affecting The Unremembered Parliament:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Rogue Xphb Mastermind Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rogue Xphb Mastermind Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Mastermind
-*[[rogue-xphb|Rogue]]: Rogue Subclass*  
+*[[rogue xphb|Rogue]]: Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 46*  
 
 > [!tldr] Class and Feature Progression
@@ -62,7 +71,7 @@ Your focus is on people and on the influence and secrets they have. Many spies, 
 
 ### Master of Intrigue (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [[disguise-kit-xphb|disguise kit]], the [[forgery-kit-xphb|forgery kit]], and one [[gaming-set-xphb|gaming set]] of your choice. You also learn two languages of your choice.
+When you choose this archetype at 3rd level, you gain proficiency with the [[disguise kit xphb|disguise kit]], the [[forgery kit xphb|forgery kit]], and one [[gaming set xphb|gaming set]] of your choice. You also learn two languages of your choice.
 
 Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
 
@@ -91,7 +100,6 @@ Starting at 17th level, your thoughts can't be read by telepathy or other means,
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -103,11 +111,6 @@ Additionally, no matter what you say, magic that would determine if you are tell
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -125,11 +128,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -144,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

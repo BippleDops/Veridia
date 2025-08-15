@@ -1,3 +1,12 @@
+---
+title: Wand of the War Mage Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of the War Mage Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 **Items in this group:**
 
-- [[1-wand-of-the-war-mage-xdmg|+1 Wand of the War Mage]]
-- [[2-wand-of-the-war-mage-xdmg|+2 Wand of the War Mage]]
-- [[3-wand-of-the-war-mage-xdmg|+3 Wand of the War Mage]]
+- [[1 wand of the war mage xdmg|+1 Wand of the War Mage]]
+- [[2 wand of the war mage xdmg|+2 Wand of the War Mage]]
+- [[3 wand of the war mage xdmg|+3 Wand of the War Mage]]
 
 *Source: Dungeon Master's Guide (2024) p. 322. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before dawn
@@ -83,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -40,12 +40,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Conductor
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Conductor.png|The Conductor Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,23 +69,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -112,7 +101,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -167,12 +155,9 @@ Ongoing situations affecting The Conductor:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

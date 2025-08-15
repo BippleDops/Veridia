@@ -1,3 +1,12 @@
+---
+title: Gar Shatterkeel Pota
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gar Shatterkeel Pota
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gar-shatterkeel-pota-gar-shatterkeel-pota.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,18 +46,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Princes of the Apocalypse_
 
-If Gar is in the water node while [[olhydra-pota|Olhydra]] isn't, he can take lair actions. On initiative count 20 (losing initiative ties), Gar uses a lair action to use his Multiattack or cast one of his spells, up to 3rd level, without using components or a spell slot. He can't cast the same spell two rounds in a row, but he can continue to concentrate on a spell he previously cast using a lair action. He can take no other lair actions while [[conditions#Concentration|concentrating]] on a spell cast as a lair action. His favorite use of this capability is casting [[inflict-wounds-xphb|inflict wounds]] or [[call-lightning-xphb|call lightning]].
+If Gar is in the water node while [[olhydra pota|Olhydra]] isn't, he can take lair actions. On initiative count 20 (losing initiative ties), Gar uses a lair action to use his Multiattack or cast one of his spells, up to 3rd level, without using components or a spell slot. He can't cast the same spell two rounds in a row, but he can continue to concentrate on a spell he previously cast using a lair action. He can take no other lair actions while [[conditions#Concentration|concentrating]] on a spell cast as a lair action. His favorite use of this capability is casting [[inflict wounds xphb|inflict wounds]] or [[call lightning xphb|call lightning]].
 
-If Gar casts [[cure-wounds-xphb|cure wounds]] using this lair action, he regains the maximum number of hit points from the spell (28).
+If Gar casts [[cure wounds xphb|cure wounds]] using this lair action, he regains the maximum number of hit points from the spell (28).
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## 12_Research Specific Content
 

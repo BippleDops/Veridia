@@ -1,3 +1,12 @@
+---
+title: Living Economy System
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Living Economy System
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T12:34:17.773645+00:00'
 world: Universal
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Universal
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Core Concept
 Prices, availability, and demand shift session-to-session based on events, faction control, and Convergence weather. Use lightweight clocks and modifiers to keep it fast at the table.
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

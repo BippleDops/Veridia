@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb War Domain Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb War Domain Xphb
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # War Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression
@@ -70,28 +79,27 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[guiding-bolt-xphb|Guiding Bolt]], [[magic-weapon-xphb|Magic Weapon]], [[shield-of-faith-xphb|Shield of Faith]], [[spiritual-weapon-xphb|Spiritual Weapon]] |
-| 5th | [[crusaders-mantle-xphb|Crusader's Mantle]], [[spirit-guardians-xphb|Spirit Guardians]] |
-| 7th | [[fire-shield-xphb|Fire Shield]], [[freedom-of-movement-xphb|Freedom of Movement]] |
-| 9th | [[hold-monster-xphb|Hold Monster]], [[steel-wind-strike-xphb|Steel Wind Strike]] |
+| 3rd | [[guiding bolt xphb|Guiding Bolt]], [[magic weapon xphb|Magic Weapon]], [[shield of faith xphb|Shield of Faith]], [[spiritual weapon xphb|Spiritual Weapon]] |
+| 5th | [[crusaders mantle xphb|Crusader's Mantle]], [[spirit guardians xphb|Spirit Guardians]] |
+| 7th | [[fire shield xphb|Fire Shield]], [[freedom of movement xphb|Freedom of Movement]] |
+| 9th | [[hold monster xphb|Hold Monster]], [[steel wind strike xphb|Steel Wind Strike]] |
 ^war-domain-spells
 
 ### War Priest (Level 3)
 
-As a [[bonus-action-xphb|Bonus Action]], you can make one attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]]. You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
+As a [[bonus action xphb|Bonus Action]], you can make one attack with a weapon or an [[unarmed strike xphb|Unarmed Strike]]. You can use this [[bonus action xphb|Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]].
 
 ### Guided Strike (Level 3)
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[reaction-xphb|Reaction]] to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[reaction xphb|Reaction]] to do so.
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb|Shield of Faith]] or [[spiritual-weapon-xphb|Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[conditions#Concentration|Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[conditions#Incapacitated|Incapacitated]] condition, or die.
+You can expend a use of your Channel Divinity to cast [[shield of faith xphb|Shield of Faith]] or [[spiritual weapon xphb|Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[conditions#Concentration|Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[conditions#Incapacitated|Incapacitated]] condition, or die.
 
 ### Avatar of Battle (Level 17)
 
-You gain [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
-
+You gain [[resistance xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -104,11 +112,6 @@ You gain [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -126,11 +129,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -142,7 +143,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

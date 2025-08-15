@@ -1,3 +1,12 @@
+---
+title: Graveyard Revenant Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Graveyard Revet Xmm
 
 ---
@@ -38,7 +47,6 @@ world: Both
 
 Graveyard revets possess dozens of bodies that combine to form grotesque masses. They take revenge on those responsible for mass deaths or institutions that callously ruin lives.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Graveyard revets possess dozens of bodies that combine to form grotesque masses.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Revets
 
@@ -96,11 +99,11 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
 "languages": "Common plus two other languages"
 "cr": "7"
 "traits":
-  - "desc": "If the revet dies, it revives 24 hours later unless [[dispel-evil-and-good-xphb|Dispel Evil and\]]
+  - "desc": "If the revet dies, it revives 24 hours later unless [[dispel evil and good xphb|Dispel Evil and\]]
       \ Good]] is cast on its\
       \ remains. If it revives, it animates another group of corpses elsewhere on\
       \ the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [[hit-points-xphb|Hit Points]]."
+      \ block and returns with all its [[hit points xphb|Hit Points]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revet makes two Suffocate attacks."
@@ -112,7 +115,7 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
       \ can have up to two targets [[conditions#Grappled|Grappled]]\
       \ in this way at a time."
     "name": "Suffocate"
-  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the revet. Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
@@ -143,10 +146,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- A prisoner has gone missing and evil awakens
 - A prisoner has gone missing and evil awakens
 
 ## Related Notes

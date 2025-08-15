@@ -1,3 +1,12 @@
+---
+title: Block and Tackle Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Block and Tackle Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
-A [[block-and-tackle-xphb|Block and Tackle]] allows you to hoist up to four times the weight you can normally lift.
+A [[block and tackle xphb|Block and Tackle]] allows you to hoist up to four times the weight you can normally lift.
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A [[block-and-tackle-xphb|Block and Tackle]] allows you to hoist up to four time
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

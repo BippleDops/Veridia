@@ -1,3 +1,12 @@
+---
+title: Gloves of Missile Snaring Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gloves of Missile Snaring Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/gloves-of-missile-snaring.webp#right)
 
-If you're hit by an attack roll made with a Ranged or Thrown weapon while wearing these gloves, you can take a [[reaction-xphb|Reaction]] to reduce the damage by `d10` plus your Dexterity modifier if you have a free hand. If you reduce the damage to 0, you can catch the ammunition or weapon if it is small enough for you to hold in that hand.
+If you're hit by an attack roll made with a Ranged or Thrown weapon while wearing these gloves, you can take a [[reaction xphb|Reaction]] to reduce the damage by `d10` plus your Dexterity modifier if you have a free hand. If you reduce the damage to 0, you can catch the ammunition or weapon if it is small enough for you to hold in that hand.
 
 *Source: Dungeon Master's Guide (2024) p. 265. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ If you're hit by an attack roll made with a Ranged or Thrown weapon while wearin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -41,15 +41,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-living-weapon-the-living-weapon.svg]]
 
 # The Living Weapon
 
 *"In the deepest vaults where secrets sleep, there lies a blade that dreams of war, whispers of blood, and remembers every soul it has claimed."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,23 +74,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -104,7 +94,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
@@ -113,7 +102,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -627,8 +615,6 @@ Ongoing situations affecting The Living Weapon:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Spells Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spells Scc
 
 ---
@@ -29,15 +38,14 @@ world: Both
 
 | Level | Spell | School | Class |
 |-------|-------|--------|-------|
-| 1st | [[silvery-barbs-scc|Silvery Barbs]] | Enchantment | [[bard-xphb|Bard]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
-| 2nd | [[borrowed-knowledge-scc|Borrowed Knowledge]] | Divination | [[bard-xphb|Bard]], [[cleric-xphb|Cleric]], [[warlock-xphb|Warlock]], [[wizard-xphb|Wizard]] |
-| 2nd | [[kinetic-jaunt-scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[bard-xphb|Bard]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
-| 2nd | [[vortex-warp-scc|Vortex Warp]] | Conjuration | Artificer,* [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
-| 2nd | [[wither-and-bloom-scc|Wither and Bloom]] | Necromancy | [[druid-xphb|Druid]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
+| 1st | [[silvery barbs scc|Silvery Barbs]] | Enchantment | [[bard xphb|Bard]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
+| 2nd | [[borrowed knowledge scc|Borrowed Knowledge]] | Divination | [[bard xphb|Bard]], [[cleric xphb|Cleric]], [[warlock xphb|Warlock]], [[wizard xphb|Wizard]] |
+| 2nd | [[kinetic jaunt scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[bard xphb|Bard]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
+| 2nd | [[vortex warp scc|Vortex Warp]] | Conjuration | Artificer,* [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
+| 2nd | [[wither and bloom scc|Wither and Bloom]] | Necromancy | [[druid xphb|Druid]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
 ^spells
 
 *The artificer class appears in "Tasha's Cauldron of Everything" and "Eberron: Rising from the Last War".
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

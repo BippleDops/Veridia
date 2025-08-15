@@ -1,3 +1,12 @@
+---
+title: Halfling Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Xphb
 
 ---
@@ -34,7 +43,7 @@ world: Both
 
 ### Brave
 
-You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#frightened|Frightened]] condition.
+You have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#frightened|Frightened]] condition.
 
 ### Halfling Nimbleness
 
@@ -42,12 +51,11 @@ You can move through the space of any creature that is a size larger than you, b
 
 ### Luck
 
-When you roll a 1 on the `d20` of a [[d20-test-xphb|D20 Test]], you can reroll the die, and you must use the new roll.
+When you roll a 1 on the `d20` of a [[d20 test xphb|D20 Test]], you can reroll the die, and you must use the new roll.
 
 ### Naturally Stealthy
 
 You can take the [[actions#Hide|Hide]] action even when you are obscured only by a creature that is at least one size larger than you.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ You can take the [[actions#Hide|Hide]] action even when you are obscured only by
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -92,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Related Notes
 
@@ -105,11 +106,9 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-current-survivors-v1-void-current-survivors.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,10 +54,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
@@ -69,7 +61,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -91,12 +82,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -144,12 +133,9 @@ Ongoing situations affecting Void Current Survivors:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Historical Timeline
 
@@ -167,7 +153,6 @@ Ongoing situations affecting Void Current Survivors:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

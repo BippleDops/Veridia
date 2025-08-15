@@ -1,3 +1,12 @@
+---
+title: Observatory Charm Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Observatory Charm Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Observatory Charm
 *Charm*  
 
-You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[contact-other-plane-xphb|Contact Other Plane]] without expending a spell slot. You can't gain this Charm again while you still have it.
+You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[contact other plane xphb|Contact Other Plane]] without expending a spell slot. You can't gain this Charm again while you still have it.
 
 *Source: Dungeon Master's Guide (2024) p. 343*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can use your Observatory to peer into the far corners of "Wildspace" and the
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help finding before the festival
@@ -73,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Korred Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Korred Mpmm
 
 ---
@@ -31,15 +40,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-korred-mpmm-korred-mpmm.svg)
 
-# [[korred-mpmm|Korred]]
+# [[korred mpmm|Korred]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 
-Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [[galeb-duhr-xmm|galeb duhr]]. They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
+Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [[galeb duhr xmm|galeb duhr]]. They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
 
 Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Korreds can hurl boulders far larger than it seems they should be able to, shape
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Magical Hair
 
@@ -107,9 +110,9 @@ Korreds have hair all over their bodies, but the hair that grows from their head
     "name": "Rock"
   - "desc": "The korred casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[commune-with-nature-xphb|commune with nature]]\
-      \ (as an action), [[meld-into-stone-xphb|meld into stone]],\
-      \ [[stone-shape-xphb|stone shape]]\n\n1/day: [[ottos-irresistible-dance-xphb|Otto's\]]
+      \ [[commune with nature xphb|commune with nature]]\
+      \ (as an action), [[meld into stone xphb|meld into stone]],\
+      \ [[stone shape xphb|stone shape]]\n\n1/day: [[ottos irresistible dance xphb|Otto's\]]
       \ irresistible dance]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -151,14 +154,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

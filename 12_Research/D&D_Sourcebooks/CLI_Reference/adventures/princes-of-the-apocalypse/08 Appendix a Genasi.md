@@ -1,3 +1,12 @@
+---
+title: 08 Appendix a Genasi
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 08 Appendix a Genasi
 
 ---
@@ -35,7 +44,6 @@ Occasionally, genasi result from exposure to a surge of elemental power, through
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/135-poaappa-01.webp#center)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ Occasionally, genasi result from exposure to a surge of elemental power, through
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Heirs to Elemental Power
 
@@ -122,7 +125,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

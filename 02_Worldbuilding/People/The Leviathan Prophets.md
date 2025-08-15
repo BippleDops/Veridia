@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg]]
 
 # The Leviathan Prophets
 
 *"When the Great Deep stirs, only those who listen to its whispers shall survive." - First Prophet Thalassa*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,26 +68,21 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
@@ -101,12 +92,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Leviathan Prophets are a mysterious cult devoted to ancient sea creatures of immense power, believing these beings hold the keys to Aquabyssos's ultimate destiny. They interpret the movements of deep-sea leviathans as divine messages, predicting everything from political upheavals to natural disasters. Operating from hidden shrines throughout the city's deepest districts, they maintain that only through communion with these ancient entities can the city achieve true greatness.
@@ -256,7 +245,6 @@ The Leviathan Prophets is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of The Leviathan Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Leviathan Prophets.
-
 
 ## Bloodline
 

@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,24 +45,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -83,7 +73,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Basic Information
 
@@ -195,7 +184,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Refugee Camps]] (colleague)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]] (friend)
-- [[10-combat#Dropping_to_0_Hit_Points#Death_Saving_Throws]] (rival)
+- [[10 combat#Dropping_to_0_Hit_Points#Death_Saving_Throws]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -203,11 +192,9 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: prophecy
-
 
 ## Economic Structure
 
@@ -226,7 +213,6 @@ Member of House Lionblood - Trait: prophecy
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

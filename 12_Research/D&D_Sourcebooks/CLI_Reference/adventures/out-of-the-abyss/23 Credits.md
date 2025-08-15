@@ -1,3 +1,12 @@
+---
+title: 23 Credits
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 23 Credits
 
 ---
@@ -46,7 +55,6 @@ world: Both
 - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, John Feil, Laura Tommervik, Greg Tito, Kim Lundstrom, Trevor Kidd  
 - **Playtesters.** Robert Alaniz, Jay Anderson, Bill Benham, Stacy Bermes, Anthony Caroselli, Krupal Desai, Frank Foulis, Jason Fuller, Gregory L. Harris, Justin Hicks, Yan Lacharité, Jonathan Longstaff, Matt Maranda, Shawn Merwin, Lou Michelli, Mike Mihalas, Karl Resch, Kyle Turner, Arthur Wright, Keoki Young
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

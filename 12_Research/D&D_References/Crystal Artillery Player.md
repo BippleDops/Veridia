@@ -1,3 +1,12 @@
+---
+title: Crystal Artillery Player
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Artillery Player
 
 ---
@@ -38,7 +47,6 @@ Crew tips
 Risks
 -  pockets will make you blind and quiet
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Risks
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -68,7 +71,6 @@ Risks
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the new moon
@@ -79,7 +81,6 @@ Risks
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

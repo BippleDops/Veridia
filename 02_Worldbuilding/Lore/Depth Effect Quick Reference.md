@@ -33,15 +33,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Depth Effect Quick Reference
 
 *Essential Guide to Underwater Environmental Pressure and Biological Adaptation*
 
 > *"Every hundred feet deeper changes the rules of survival. What heals you at one depth might kill you at another. The deep doesn't forgive ignorance, and it rewards preparation with life itself."*
 > — [[Marine Environmental Specialist Dr. Pressure Deepcurrent]], Author of "Surviving the Abyss"
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,18 +67,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
@@ -91,7 +83,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -100,12 +91,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -691,8 +680,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

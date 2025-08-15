@@ -1,3 +1,12 @@
+---
+title: Crawling Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crawling Xphb
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Crawling
 *Source: Player's Handbook (2024) p. 364. Available in the SRD and the Free Rules (2024)* 
 
-While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [[difficult-terrain-xphb|difficult terrain]]).
+While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [[difficult terrain xphb|difficult terrain]]).
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

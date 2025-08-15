@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg]]
 
 # Investigate the Crystal Plague
 
 **Level:** 8-11 | **Type:** Investigation/Horror | **Duration:** 4-6 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,14 +65,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -85,8 +76,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -104,7 +93,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 A mysterious crystalline disease is spreading through Aethermoor, transforming victims into living crystal statues while maintaining their consciousness. The government has quarantined affected areas, but the plague continues spreading. Investigators must uncover its source and find a cure before the entire city succumbs.
@@ -244,15 +232,13 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 
 nriched: true -->
 
-
 ## Relationships
 
 - **Enemy**: [[Quest the Pretender.png]]
 - **Enemy**: [[Session 4]]
-- **Friend**: [[High Techno-Priest Lumina Skyweaver]]
+- **Friend**: [[High Techno Priest Lumina Skyweaver]]
 - **Sibling**: [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg]]
 - **Student**: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
-
 
 ## Religious Observances
 

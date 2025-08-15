@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,9 +47,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
@@ -73,12 +67,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -88,7 +79,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Basic Information
 
@@ -199,7 +189,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-anonymous-protocol-the-anonymous-protocol.svg]] (rival)
-- [[Quest - The Failing Magic]] (friend)
+- [[Quest   The Failing Magic]] (friend)
 - [[The Barnacle]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -207,7 +197,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
-
 
 ## Economic Structure
 
@@ -226,7 +215,6 @@ Member of House Dragonblood - Trait: prophecy
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

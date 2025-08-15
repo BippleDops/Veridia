@@ -27,12 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Princess Celestia
-
-![[04_Resources/Assets/Art/Lore/Princess_Celestia.png|Princess Celestia Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,8 +56,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
@@ -75,17 +68,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
@@ -99,7 +88,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Summary
 
@@ -125,8 +113,6 @@ Princess Celestia represents an important aspect of the world's history, culture
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - A corpse reveals the truth about the government
@@ -143,7 +129,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

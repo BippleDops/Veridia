@@ -1,3 +1,12 @@
+---
+title: Ring of Animal Influence Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Animal Influence Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 This ring has 3 charges, and it regains `d3` expended charges daily at dawn. While wearing the ring, you can expend 1 charge to cast one of the following spells (save DC 13) from it:
 
-- [[animal-friendship-xphb|Animal Friendship]]  
-- [[fear-xphb|Fear]] (affects Beasts only)  
-- [[speak-with-animals-xphb|Speak with Animals]]  
+- [[animal friendship xphb|Animal Friendship]]  
+- [[fear xphb|Fear]] (affects Beasts only)  
+- [[speak with animals xphb|Speak with Animals]]  
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ This ring has 3 charges, and it regains `d3` expended charges daily at dawn. Whi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

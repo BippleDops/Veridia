@@ -1,3 +1,12 @@
+---
+title: Tying Knots Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tying Knots Xge
 
 ---
@@ -29,8 +38,7 @@ The rules are purposely open-ended concerning mundane tasks like tying knots, bu
 
 The creature who ties the knot makes an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check or to slip out of it with a Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
-This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[skills-with-different-abilities-phb|"Variant: Skills with Different Abilities"]] section in chapter 7 of the player's handbook.
-
+This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[skills with different abilities phb|"Variant: Skills with Different Abilities"]] section in chapter 7 of the player's handbook.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] wit
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,16 +68,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Random Yuan Ti Servants Yuan Ti Protectors
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Yuan Ti Servants Yuan Ti Protectors
 
 ---
@@ -31,30 +40,29 @@ world: Both
 
 | dice: d100 | Protector(s) |
 |------------|--------------|
-| 1-10 | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captains]] and [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandits]] |
-| 11-12 | [[basilisk-xmm|Basilisks]] |
+| 1-10 | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captains]] and [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|Bandits]] |
+| 11-12 | [[basilisk xmm|Basilisks]] |
 | 13-18 | [[constrictor-snake-xmm|Constrictor Snakes]] |
-| 19-26 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] and [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
+| 19-26 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] and [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultists]] |
 | 27-28 | [[flying-snake-xmm|Flying Snakes]] |
 | 29-35 | [[giant-constrictor-snake-xmm|Giant Constrictor Snakes]] |
 | 36-45 | [[giant-venomous-snake-xmm|Giant Poisonous Snakes]] |
-| 46-50 | [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiators]] |
-| 51-55 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
-| 56-58 | [[hydra-xmm|Hydras]] |
-| 59-60 | [[medusa-xmm|Medusas]] |
-| 61 | [[mummy-xmm|Mummies]]* |
+| 46-50 | [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|Gladiators]] |
+| 51-55 | [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guards]] |
+| 56-58 | [[hydra xmm|Hydras]] |
+| 59-60 | [[medusa xmm|Medusas]] |
+| 61 | [[mummy xmm|Mummies]]* |
 | 62-63 | [[venomous-snake-xmm|Poisonous Snakes]] |
-| 64-68 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |
-| 69-70 | [[skeleton-xmm|Skeletons]] |
+| 64-68 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priests]] |
+| 69-70 | [[skeleton xmm|Skeletons]] |
 | 71 | [[stone-golem-xmm|Stone Golems]] |
 | 72-81 | [[swarm-of-venomous-snakes-xmm|Swarms of Poisonous Snakes]] |
-| 82-91 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warriors]] |
-| 92-97 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veterans]] |
-| 98-100 | [[zombie-xmm|Zombies]] |
+| 82-91 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warriors]] |
+| 92-97 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veterans]] |
+| 98-100 | [[zombie xmm|Zombies]] |
 ^yuan-ti-protectors
 
 * The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,11 +75,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -88,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

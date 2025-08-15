@@ -1,3 +1,12 @@
+---
+title: Chitine Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chitine Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chitine-mpmm-chitine-mpmm.svg)
 
-# [[chitine-mpmm|Chitine]]
+# [[chitine mpmm|Chitine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
 
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -50,7 +59,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[hide-armor-xphb|hide armor]]"
+"ac_class": "[[hide armor xphb|hide armor]]"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "modifier": !!int "2"
@@ -93,7 +102,6 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -105,11 +113,6 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

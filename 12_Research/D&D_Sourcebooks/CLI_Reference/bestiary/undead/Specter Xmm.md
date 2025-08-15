@@ -1,3 +1,12 @@
+---
+title: Specter Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Specter Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-specter-xmm-specter-xmm.svg)
 
-# [[specter-xmm|Specter]]
+# [[specter xmm|Specter]]
 *Source: Monster Manual (2024) p. 290. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Specter
 
@@ -108,15 +111,15 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "cr": "1"
 "traits":
   - "desc": "The specter can move through other creatures and objects as if they were\
-      \ [[difficult-terrain-xphb|Difficult Terrain]].\
+      \ [[difficult terrain xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, the specter has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the specter has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage.\
-      \ If the target is a creature, its [[hit-points-xphb|Hit Point]]\
+      \ If the target is a creature, its [[hit points xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Life Drain"
 "source":
@@ -145,11 +148,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -159,7 +160,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

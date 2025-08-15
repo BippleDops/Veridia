@@ -1,3 +1,12 @@
+---
+title: Barbarian Xphb Path of the Storm Herald Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Barbarian Xphb Path of the Storm Herald Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Path of the Storm Herald
-*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression
@@ -118,7 +127,6 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 
     Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -130,11 +138,6 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -151,7 +154,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

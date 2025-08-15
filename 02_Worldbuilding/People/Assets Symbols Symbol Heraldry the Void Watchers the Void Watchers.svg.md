@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,19 +44,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -73,7 +64,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
@@ -82,7 +72,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Basic Information
 
@@ -194,7 +183,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Archbishop Mordecai Stormwright]] (ally)
 - [[Reflection Captain Vantage]] (colleague)
-- [[10-combat#Dropping_to_0_Hit_Points#Monsters_and_Death]] (enemy)
+- [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -202,16 +191,13 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Cultural Practices
 
@@ -225,7 +211,6 @@ Mentioned in The Second Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -237,7 +222,6 @@ Mentioned in The Second Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

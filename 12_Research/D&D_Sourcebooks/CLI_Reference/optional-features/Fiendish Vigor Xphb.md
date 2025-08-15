@@ -1,3 +1,12 @@
+---
+title: Fiendish Vigor Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fiendish Vigor Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[false-life-xphb|False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[temporary-hit-points-xphb|Temporary Hit Points]]; you automatically get the highest number on the die.
-
+You can cast [[false life xphb|False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[temporary hit points xphb|Temporary Hit Points]]; you automatically get the highest number on the die.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can cast [[false-life-xphb|False Life]] on yourself without expending a spel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Related Notes
 
@@ -76,7 +77,6 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

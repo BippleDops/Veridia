@@ -1,3 +1,12 @@
+---
+title: Forgotten Realms Myrkul
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forgotten Realms Myrkul
 
 ---
@@ -32,7 +41,6 @@ world: Both
 - **Pantheon**: Forgotten Realms
 - **Symbol**: White human skull
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

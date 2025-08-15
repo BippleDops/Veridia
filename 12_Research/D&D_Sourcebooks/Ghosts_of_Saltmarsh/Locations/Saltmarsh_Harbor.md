@@ -1,3 +1,12 @@
+---
+title: Saltmarsh_Harbor
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Saltmarsh_Harbor
 
 ---
@@ -21,7 +30,6 @@ depth_altitude: 0
 threat_level: Moderate
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ threat_level: Moderate
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cordelia Integration
 Saltmarsh exists as a unique surface port city built directly above an Aquabyssos trading district. The harbor serves both surface vessels and submarines, making it a crucial hub for cross-realm commerce and smuggling.
@@ -63,21 +66,17 @@ Saltmarsh exists as a unique surface port city built directly above an Aquabysso
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

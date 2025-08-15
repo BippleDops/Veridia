@@ -24,10 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg]]
 
 # Envoy Cassius Blackwater Jr.
 
@@ -47,7 +44,6 @@ improvements: 20
 **Languages** Common, Aquabyssan, Elvish, Deep Speech, Primordial, Celestial  
 **Challenge Rating** 9 (5,000 XP)  
 **Proficiency Bonus** +4
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,14 +72,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -93,22 +84,18 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 Envoy Cassius Blackwater Jr. represents the third generation of the infamous Blackwater diplomatic dynasty. Born into privilege but marked by shadow from birth, Cassius walks the knife's edge between legitimate diplomacy and occult conspiracy. He serves as Aquabyssos's primary envoy to the Shadow Parliament while maintaining the facade of a respectable diplomatic heir. His charm and political acumen mask a deep corruption that threatens to consume both him and the realm he serves.
@@ -314,11 +301,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Historical Timeline
 
@@ -337,7 +322,6 @@ Member of House Lionblood - Trait: divine blood
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -349,7 +333,6 @@ Member of House Lionblood - Trait: divine blood
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -368,7 +351,6 @@ Member of House Lionblood - Trait: divine blood
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

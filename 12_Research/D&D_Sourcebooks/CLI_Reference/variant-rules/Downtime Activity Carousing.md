@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Carousing
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Carousing
 
 ---
@@ -42,7 +51,6 @@ A carousing character spends money as though maintaining a wealthy lifestyle (se
 | 91-100 | You make a small fortune gambling. You recuperate your lifestyle expenses for the time spent carousing and gain `4d6 × 10` gp. Your carousing becomes the stuff of local legend. |
 ^carousing
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ A carousing character spends money as though maintaining a wealthy lifestyle (se
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

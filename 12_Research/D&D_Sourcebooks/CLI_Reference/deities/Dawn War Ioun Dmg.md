@@ -1,3 +1,12 @@
+---
+title: Dawn War Ioun Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dawn War Ioun Dmg
 
 ---
@@ -32,7 +41,6 @@ world: Both
 - **Pantheon**: Dawn War
 - **Symbol**: Crook shaped like a stylized eye
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

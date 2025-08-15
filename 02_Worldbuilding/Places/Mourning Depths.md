@@ -27,10 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-mourning-depths-mourning-depths.svg]]
 
 # Mourning Depths
 
@@ -38,7 +35,6 @@ improvements: 20
 
 > *"In the deepest waters, where pressure crushes all but the strongest truths, we lay our beloved to rest in the eternal embrace of the sea. Here, sorrow becomes sacred, memory becomes monument, and the departed find peace in the endless current that carries all souls home."*
 > — [[Keeper of Sorrows Tidal Memento]], High Mourner of the Depths
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,24 +63,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
@@ -98,8 +87,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -847,8 +834,6 @@ Ongoing situations affecting Mourning Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A stranger needs help finding before the new moon
@@ -873,7 +858,6 @@ Ongoing situations affecting Mourning Depths:
 - Natural disasters
 - Current power structures established
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -885,7 +869,6 @@ Ongoing situations affecting Mourning Depths:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

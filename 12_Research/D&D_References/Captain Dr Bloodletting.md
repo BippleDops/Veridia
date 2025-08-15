@@ -1,3 +1,12 @@
+---
+title: Captain Dr Bloodletting
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Captain Dr Bloodletting
 
 ---
@@ -20,8 +29,6 @@ world: Aquabyssos
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,11 +41,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

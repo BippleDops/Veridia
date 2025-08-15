@@ -1,3 +1,12 @@
+---
+title: Animations - Motion_Specs
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animations - Motion_Specs
 
 ---
@@ -20,7 +29,6 @@ updated: '2024-01-01T00:00:00+00:00'
 
 Specs: 24–30 fps, WebM (alpha), short seamless loops.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ Specs: 24–30 fps, WebM (alpha), short seamless loops.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -50,14 +53,12 @@ Specs: 24–30 fps, WebM (alpha), short seamless loops.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

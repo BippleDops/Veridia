@@ -1,3 +1,12 @@
+---
+title: Talking Doll Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Talking Doll Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, common (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/talking-doll.webp#right)
 
-While this doll is within 5 feet of you, you can spend a [[short-rest-xphb|Short Rest]] telling it to say up to six phrases, none of which can be more than six words long, and set a condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, "I want a piece of candy." The doll's phrases are lost when your [[attunement-xphb|Attunement]] to the doll ends.
+While this doll is within 5 feet of you, you can spend a [[short rest xphb|Short Rest]] telling it to say up to six phrases, none of which can be more than six words long, and set a condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, "I want a piece of candy." The doll's phrases are lost when your [[attunement xphb|Attunement]] to the doll ends.
 
 *Source: Dungeon Master's Guide (2024) p. 315*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While this doll is within 5 feet of you, you can spend a [[short-rest-xphb|Short
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

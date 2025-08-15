@@ -1,3 +1,12 @@
+---
+title: Retriever Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Retriever Mpmm
 
 ---
@@ -30,7 +39,7 @@ updated: '2025-08-13T12:34:06.104640+00:00'
 world: Both
 ---
 
-# [[retriever-mpmm|Retriever]]
+# [[retriever mpmm|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -100,9 +109,9 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n3/day each: [[plane-shift-xphb|plane shift]]\
+      \n3/day each: [[plane shift xphb|plane shift]]\
       \ (only self and up to one incapacitated creature, which is considered willing\
-      \ for the spell), [[web-xphb|web]]"
+      \ for the spell), [[web xphb|web]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -110,7 +119,6 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "image": "/03_Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -123,11 +131,6 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -149,7 +152,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a portal
@@ -158,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

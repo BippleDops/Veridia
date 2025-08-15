@@ -1,3 +1,12 @@
+---
+title: Sword Wraith Warrior Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sword Wraith Warrior Mpmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-warrior-mpmm-sword-wraith-warrior-mpmm.svg)
 
-# [[sword-wraith-warrior-mpmm|Sword Wraith Warrior]]
+# [[sword wraith warrior mpmm|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Sword wraith warriors are most often found on ancient battlefields where soldier
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sword Wraiths
 
@@ -65,7 +68,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[chain-shirt-xphb|chain shirt]], [[shield-xphb|shield]]"
+"ac_class": "[[chain shirt xphb|chain shirt]], [[shield xphb|shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -126,7 +129,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for power
@@ -139,16 +141,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

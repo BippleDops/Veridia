@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg]]
 
 # Merchant
 
 *"Fair prices, honest dealing, and goods for every need."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,8 +62,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
@@ -76,22 +70,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 Captain Marina Tradecurrent is a versatile merchant operating "Current's Bounty" trading post in the Harbor District. She specializes in practical goods, imported items, and services for both residents and travelers.
@@ -247,8 +235,6 @@ Ongoing situations affecting Merchant:
 - External threats
 - Opportunities arising
 
-
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -260,7 +246,6 @@ Ongoing situations affecting Merchant:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

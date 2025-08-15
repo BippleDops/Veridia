@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-spirits-ice-kingdom-spirits.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,18 +53,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
@@ -78,7 +69,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
@@ -87,12 +77,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -170,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns acceptance
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Relationships
 
@@ -183,7 +169,6 @@ Mentioned in The Second Prophecy of Depths
 - **Creditor**: [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
 - **Blackmailer**: [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg]]
 - **Friend**: [[Senator]]
-
 
 ## Historical Timeline
 
@@ -201,7 +186,6 @@ Mentioned in The Second Prophecy of Depths
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

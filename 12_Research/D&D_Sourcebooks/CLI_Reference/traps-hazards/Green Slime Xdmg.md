@@ -1,3 +1,12 @@
+---
+title: Green Slime Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Green Slime Xdmg
 
 ---
@@ -35,7 +44,6 @@ Direct sunlight or any amount of Cold, Fire, or Radiant damage destroys a patch 
 
 *Source: Dungeon Master's Guide (2024) p. 76*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ Direct sunlight or any amount of Cold, Fire, or Radiant damage destroys a patch 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

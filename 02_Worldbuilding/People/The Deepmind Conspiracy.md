@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg]]
 
 # The Deepmind Conspiracy
 
 *"The deepest thoughts swim in the darkest currents." - Anonymous Whistleblower*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,12 +64,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -87,8 +80,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
@@ -97,13 +88,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Overview
 The Deepmind Conspiracy alleges that powerful psionics are secretly manipulating Aquabyssos politics through mental influence and thought control. Believers claim a cabal of mind-readers and telepaths has infiltrated government, commerce, and religious institutions to create a hidden psychic oligarchy.
@@ -239,11 +227,9 @@ The Deepmind Conspiracy is a undersea element of the setting, known for biolumin
 
 Legends speak of The Deepmind Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepmind Conspiracy.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Historical Timeline
 
@@ -262,7 +248,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -274,7 +259,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

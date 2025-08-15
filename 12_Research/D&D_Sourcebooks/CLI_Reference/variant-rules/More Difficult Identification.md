@@ -1,3 +1,12 @@
+---
+title: More Difficult Identification
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # More Difficult Identification
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # More Difficult Identification
 *Source: Dungeon Master's Guide p. 136* 
 
-If you prefer magic items to have a greater mystique, consider removing the ability to identify the properties of a magic item during a short rest, and require the [[identify-xphb|identify]] spell, experimentation, or both to reveal what a magic item does.
-
+If you prefer magic items to have a greater mystique, consider removing the ability to identify the properties of a magic item during a short rest, and require the [[identify xphb|identify]] spell, experimentation, or both to reveal what a magic item does.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ If you prefer magic items to have a greater mystique, consider removing the abil
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

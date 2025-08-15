@@ -13,9 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,8 +36,6 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Narrative_Triggers Improvements
 
@@ -48,9 +43,6 @@ improvements: 20
 
 ### Monster_Use Improvements
 
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 - Explain if/how monsters use this rule
 
 ### Magic_Items Improvements
@@ -68,7 +60,6 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Simplified Improvements
 
@@ -81,7 +72,6 @@ improvements: 20
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-
 
 ## Mechanic Overview
 
@@ -254,11 +244,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Edge Cases & Rulings
 
@@ -270,7 +258,6 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
-
 
 ## Quick Reference
 

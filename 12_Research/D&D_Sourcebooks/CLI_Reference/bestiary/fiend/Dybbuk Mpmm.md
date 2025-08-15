@@ -1,3 +1,12 @@
+---
+title: Dybbuk Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dybbuk Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dybbuk-mpmm-dybbuk-mpmm.svg)
 
-# [[dybbuk-mpmm|Dybbuk]]
+# [[dybbuk mpmm|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -98,8 +107,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     "name": "Possess Corpse (Recharge 6)"
   - "desc": "The dybbuk casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[dimension-door-xphb|dimension door]]\n\
-      \n3/day: [[phantasmal-force-xphb|phantasmal force]]"
+      \ will: [[dimension door xphb|dimension door]]\n\
+      \n3/day: [[phantasmal force xphb|phantasmal force]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
@@ -118,7 +127,6 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -130,11 +138,6 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -156,11 +159,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

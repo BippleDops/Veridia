@@ -1,3 +1,12 @@
+---
+title: Goblin Minion Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Goblin Minion Xmm
 
 ---
@@ -37,11 +46,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-minion-xmm-goblin-minion-xmm.svg)
 
-# [[goblin-minion-xmm|Goblin Minion]]
+# [[goblin minion xmm|Goblin Minion]]
 *Source: Monster Manual (2024) p. 142. Available in the SRD and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Goblin minions enjoy participating in the disruptive schemes of clever leaders b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Goblins
 
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Character_Development_Survey
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Character_Development_Survey
 
 ---
@@ -225,7 +234,6 @@ Any concerns about your character's development?
 *Your character's growth is important to the campaign's success*
 *Don't hesitate to discuss these topics with your GM*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -237,11 +245,6 @@ Any concerns about your character's development?
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -255,11 +258,9 @@ Any concerns about your character's development?
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

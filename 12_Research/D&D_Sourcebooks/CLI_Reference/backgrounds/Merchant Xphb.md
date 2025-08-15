@@ -1,3 +1,12 @@
+---
+title: Merchant Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merchant Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/merchant.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
-- **Feat.** [[lucky-xphb|Lucky]]  
+- **Feat.** [[lucky xphb|Lucky]]  
 - **Skill Proficiencies.** [[skills#Animal%20Handling|Animal Handling]], [[skills#Persuasion|Persuasion]]  
-- **Tool Proficiency.** [[navigators-tools-xphb|Navigator's Tools]]  
-- **Equipment.** Choose A or B: (A) [[navigators-tools-xphb|Navigator's Tools]], [[pouch-xphb|2 Pouches]], [[travelers-clothes-xphb|Traveler's Clothes]], 22 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[navigators tools xphb|Navigator's Tools]]  
+- **Equipment.** Choose A or B: (A) [[navigators tools xphb|Navigator's Tools]], [[pouch xphb|2 Pouches]], [[travelers clothes xphb|Traveler's Clothes]], 22 GP; or (B) 50 GP  
 
 You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their craft or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help finding before the festival
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Seahorse Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Seahorse Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-seahorse-xmm-giant-seahorse-xmm.svg)
 
-# [[seahorse-xmm|Seahorse]]
+# [[seahorse xmm|Seahorse]]
 *Source: Monster Manual (2024) p. 369. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Seahorse (XMM)"
@@ -84,7 +87,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The seahorse can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "While underwater, the seahorse moves up to its [[swim-speed-xphb|Swim Speed]]\
+  - "desc": "While underwater, the seahorse moves up to its [[swim speed xphb|Swim Speed]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Bubble Dash"
 "source":
@@ -113,7 +116,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a conspiracy about the cult
@@ -127,16 +129,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

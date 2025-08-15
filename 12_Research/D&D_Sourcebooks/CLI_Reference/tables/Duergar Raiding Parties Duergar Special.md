@@ -1,3 +1,12 @@
+---
+title: Duergar Raiding Parties Duergar Special
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Duergar Raiding Parties Duergar Special
 
 ---
@@ -33,21 +42,20 @@ world: Both
 |-----------|--------|
 | 1-3 | `d4` [[female-steeder-mpmm|steeders, female]] |
 | 4-6 | `d3` [[duergar-hammerer-mpmm|duergar hammerers]] |
-| 7 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm|duergar mind master]] |
+| 7 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm|duergar mind master]] |
 | 8 | `d3` [[duergar-screamer-mpmm|duergar screamers]] |
-| 9-10 | `d3` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] |
-| 11 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|duergar xarrorn]] |
+| 9-10 | `d3` [[/03 Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] |
+| 11 | `d6` [[/03 Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|duergar xarrorn]] |
 | 12 | `d6` [[bearded-devil-xmm|bearded devils]] bound to service |
 | 13 | `2d4` allied evil [[azer-sentinel-xmm|azers]] |
 | 14 | `3d20` enslaved [[goblin-warrior-xmm|goblins]] |
 | 15 | `d4` summoned [[earth-elemental-xmm|earth elementals]] |
-| 16 | `1d6 + 2` [[gargoyle-xmm|gargoyles]] |
+| 16 | `1d6 + 2` [[gargoyle xmm|gargoyles]] |
 | 17 | `d8` [[hell-hound-xmm|hell hounds]] |
 | 18 | 1 trained [[rust-monster-xmm|rust monster]] |
 | 19 | 1 [[shield-guardian-xmm|shield guardian]] bound to group leader |
-| 20 | `d4` enslaved [[troll-xmm|trolls]] |
+| 20 | `d4` enslaved [[troll xmm|trolls]] |
 ^duergar-special-allies
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,26 +85,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

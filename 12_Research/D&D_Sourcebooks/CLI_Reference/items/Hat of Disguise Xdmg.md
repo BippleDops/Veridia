@@ -1,3 +1,12 @@
+---
+title: Hat of Disguise Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hat of Disguise Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/hat-of-disguise.webp#right)
 
-While wearing this hat, you can cast the [[disguise-self-xphb|Disguise Self]] spell. The spell ends if the hat is removed.
+While wearing this hat, you can cast the [[disguise self xphb|Disguise Self]] spell. The spell ends if the hat is removed.
 
 *Source: Dungeon Master's Guide (2024) p. 266. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this hat, you can cast the [[disguise-self-xphb|Disguise Self]] sp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for power
@@ -81,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Pressure Tube Operator Krill
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure Tube Operator Krill
 
 ---
@@ -28,7 +37,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Every tube tells a story, every passenger carries a secret, and every journey changes both the rider and the current." - Operator Krill*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Operator Krill represents one of Aquabyssos's most experienced and reliable pressure tube operators, responsible for managing the complex transportation network that connects the city's various depth levels and districts. With over two decades of experience navigating the intricate tube system, Krill has developed an almost mystical understanding of the pressure currents and mechanical rhythms that keep Aquabyssos connected. Their expertise extends beyond mere technical operation to encompass passenger psychology, emergency protocols, and the subtle art of reading the tube system's moods and maintece needs.
@@ -130,17 +133,13 @@ Legends speak of Pressure Tube Operator Krill as a nexus where past and present 
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

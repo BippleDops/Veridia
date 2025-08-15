@@ -1,3 +1,12 @@
+---
+title: Elf Tables Drow Adventurer Story Hooks Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elf Tables Drow Adventurer Story Hooks Mtf
 
 ---
@@ -41,7 +50,6 @@ world: Both
 | 8 | You were part of a delegation carrying diplomatic messages to another drow city when duergar attacked the caravan for slaves and treasure. Only you and one other guard escaped. If you'd returned home, you'd have been poisoned or worse for failure. Becoming a mercenary was your best option. |
 ^drow-adventurer-story-hooks
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

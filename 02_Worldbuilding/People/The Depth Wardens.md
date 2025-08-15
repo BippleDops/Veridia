@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg]]
 
 # The Depth Wardens
 *Elite Guardians of the Deepest Places*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,8 +67,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
@@ -85,18 +79,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -106,7 +95,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Organization Overview
 The Depth Wardens are Aquabyssos's most specialized and secretive military unit, tasked with protecting the deepest ocean territories where conventional forces cannot operate. Unlike the Pearl Guard who protect the city proper, the Depth Wardens venture into the crushing depths, abyssal trenches, and otherworldly caverns that extend far beneath the known ocean floor.
@@ -338,7 +326,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 1. **Catalyst Event**: Betrayal
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns courage
-
 
 ## Secret Connections
 

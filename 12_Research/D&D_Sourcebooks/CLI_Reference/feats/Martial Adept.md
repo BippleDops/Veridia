@@ -1,3 +1,12 @@
+---
+title: Martial Adept
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Martial Adept
 
 ---
@@ -28,9 +37,8 @@ world: Both
 
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
 
-- You learn two [[list-optfeaturetype-mv-b|maneuvers]] of your choice from among those available to the [[fighter-xphb-battle-master-xphb|Battle Master]] archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).  
+- You learn two [[list optfeaturetype mv b|maneuvers]] of your choice from among those available to the [[fighter xphb battle master xphb|Battle Master]] archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).  
 - You gain one superiority die, which is a `d6` (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ You have martial training that allows you to perform special combat maneuvers. Y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals ancient history about a local noble
@@ -76,11 +78,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Level Advancement Without Xp
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Level Advancement Without Xp
 
 ---
@@ -29,7 +38,6 @@ You can do away with experience points entirely and control the rate of characte
 
 This method of level advancement can be particularly helpful if your campaign doesn't include much combat, or includes so much combat that tracking XP becomes tiresome.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ This method of level advancement can be particularly helpful if your campaign do
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session-Based Advancement
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

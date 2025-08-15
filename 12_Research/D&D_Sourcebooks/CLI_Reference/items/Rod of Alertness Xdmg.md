@@ -1,3 +1,12 @@
+---
+title: Rod of Alertness Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rod of Alertness Xdmg
 
 ---
@@ -34,7 +43,6 @@ world: Both
 
 This rod has the following properties.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,24 +54,19 @@ This rod has the following properties.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Alertness
 
-While holding the rod, you have [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks and on [[initiative-xphb|Initiative]] rolls. Spells. While holding the rod, you can cast the following spells from it:
+While holding the rod, you have [[advantage xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks and on [[initiative xphb|Initiative]] rolls. Spells. While holding the rod, you can cast the following spells from it:
 
-- [[detect-evil-and-good-xphb|Detect Evil and Good]]  
-- [[detect-magic-xphb|Detect Magic]]  
-- [[detect-poison-and-disease-xphb|Detect Poison and Disease]]  
-- [[see-invisibility-xphb|See Invisibility]]  
+- [[detect evil and good xphb|Detect Evil and Good]]  
+- [[detect magic xphb|Detect Magic]]  
+- [[detect poison and disease xphb|Detect Poison and Disease]]  
+- [[see invisibility xphb|See Invisibility]]  
 
 ## Protective Aura
 
-As a [[actions#Magic|Magic]] action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [[bright-light-xphb|Bright Light]] in a 60-foot radius and [[dim-light-xphb|Dim Light]] for an additional 60 feet. While in that [[bright-light-xphb|Bright Light]], you and your allies gain a +1 bonus to [[armor-class-xphb|Armor Class]] and saving throws and can sense the location of any [[conditions#Invisible|Invisible]] creature that is also in the [[bright-light-xphb|Bright Light]].
+As a [[actions#Magic|Magic]] action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [[bright light xphb|Bright Light]] in a 60-foot radius and [[dim light xphb|Dim Light]] for an additional 60 feet. While in that [[bright light xphb|Bright Light]], you and your allies gain a +1 bonus to [[armor class xphb|Armor Class]] and saving throws and can sense the location of any [[conditions#Invisible|Invisible]] creature that is also in the [[bright light xphb|Bright Light]].
 
 The rod's head stops glowing and the effect ends after 10 minutes or when a creature takes a [[actions#Magic|Magic]] action to pull the rod from the ground. Once used, this property can't be used again until the next dawn.
 
@@ -85,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -101,11 +102,9 @@ Mentioned in The Hidden Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

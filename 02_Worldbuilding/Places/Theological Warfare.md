@@ -41,7 +41,7 @@ government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
 notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
+- '[[02 Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
   Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
@@ -71,10 +71,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-theological-warfare-theological-warfare.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -103,20 +100,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -126,7 +116,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
@@ -135,7 +124,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Where Faith Battles Faith in Holy Combat
 
@@ -322,7 +310,7 @@ Disputes about the religious significance of memory and whether [[Memory Farmers
 
 ### High Theologian Commander Aurelius
 
-**[[02_Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
+**[[02 Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
 The current rotating leader of the Religious Council of War, representing the [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]. Aurelius is both a brilliant theologian and skilled warrior who believes that combat is a form of prayer.
 
 **Key Traits:**
@@ -542,12 +530,9 @@ Ongoing situations affecting Theological Warfare:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -572,7 +557,6 @@ Ongoing situations affecting Theological Warfare:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

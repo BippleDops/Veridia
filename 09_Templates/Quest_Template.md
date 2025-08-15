@@ -1,3 +1,12 @@
+---
+title: Quest_Template
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest_Template
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,16 +30,11 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Quest Summary
 **Type**: Main/Side/Personal
 **Giver**: [[NPC Name]]
-**Location**: [[Location]]
+**Location**: [[location]]
 **Level**: {{X-Y}}
 **Reward**: 
 **Time Limit**: None/X days
@@ -44,22 +47,22 @@ modified: '2025-08-14'
 *What's really going on*
 
 ### Quest Giver
-**Name**: [[NPC]]
+**Name**: [[npc]]
 **Location**: 
 **Motivation**: 
 **Information**: 
 
 ### Starting Point
-**Location**: [[Location]]
+**Location**: [[location]]
 **Description**: 
 **Encounters**: 
 
 ### Key Locations
-1. [[Location]] - Purpose
-2. [[Location]] - Purpose
+1. [[location]] - Purpose
+2. [[location]] - Purpose
 
 ### Final Location
-**Location**: [[Location]]
+**Location**: [[location]]
 **Description**: 
 **Challenges**: 
 
@@ -88,17 +91,16 @@ modified: '2025-08-14'
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves-on-the-move-group-leader-mtf]]
+- [[dwarves on the move group leader mtf]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild-artisan]]
-- [[githzerai-groups-githzerai-group-leader-mtf]]
-- [[guild-artisan-guild-merchant-variant]]
-- [[fiendish-cults-cult-organization-mtf]]
-- [[new-organizations]]
+- [[guild artisan]]
+- [[githzerai groups githzerai group leader mtf]]
+- [[guild artisan guild merchant variant]]
+- [[fiendish cults cult organization mtf]]
+- [[new organizations]]
 - [[Border Fortresses]]
-
 
 ## Plot Hooks
 

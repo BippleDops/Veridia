@@ -1,3 +1,12 @@
+---
+title: Deep_Mother_Mutation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deep_Mother_Mutation
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:45:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Deep Mother Mutation represents the most dangerous form of transformation in both [[Aquabyssos]] and [[Aethermoor]]. Exposure to the [[Deep Mother]]'s influence causes rapid and profound changes to both mind and body, transforming victims into servants of an incomprehensible cosmic entity. Unlike other transformations, Deep Mother mutations actively seek to spread and corrupt others.
@@ -181,11 +184,9 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## 12_Research Specific Content
 

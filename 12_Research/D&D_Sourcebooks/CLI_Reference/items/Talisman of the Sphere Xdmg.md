@@ -1,3 +1,12 @@
+---
+title: Talisman of the Sphere Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Talisman of the Sphere Xdmg
 
 ---
@@ -31,10 +40,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While holding or wearing this talisman, you have [[advantage-xphb|Advantage]] on any Intelligence ([[skills#Arcana|Arcana]]) check you make to control a [[sphere-of-annihilation-xdmg|Sphere of Annihilation]]. In addition, when you start your turn in control of a [[sphere-of-annihilation-xdmg|Sphere of Annihilation]], you can take a [[actions#Magic|Magic]] action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
+While holding or wearing this talisman, you have [[advantage xphb|Advantage]] on any Intelligence ([[skills#Arcana|Arcana]]) check you make to control a [[sphere of annihilation xdmg|Sphere of Annihilation]]. In addition, when you start your turn in control of a [[sphere of annihilation xdmg|Sphere of Annihilation]], you can take a [[actions#Magic|Magic]] action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
 
 *Source: Dungeon Master's Guide (2024) p. 315. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ While holding or wearing this talisman, you have [[advantage-xphb|Advantage]] on
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

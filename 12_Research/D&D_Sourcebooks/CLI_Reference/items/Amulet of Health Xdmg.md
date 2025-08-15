@@ -1,3 +1,12 @@
+---
+title: Amulet of Health Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Amulet of Health Xdmg
 
 ---
@@ -34,7 +43,6 @@ Your Constitution score is 19 while you wear this amulet. It has no effect on yo
 
 *Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ Your Constitution score is 19 while you wear this amulet. It has no effect on yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

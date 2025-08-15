@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +46,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -67,12 +62,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -90,7 +82,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Basic Information
 
@@ -202,7 +193,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-dr-reef-brightwater.svg]] (rival)
 - [[The Golden Fishook Tavern]] (colleague)
-- [[Mirror-Breaking Crystals]] (rival)
+- [[Mirror Breaking Crystals]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

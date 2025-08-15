@@ -1,3 +1,12 @@
+---
+title: Creating Quick Monster Stats Monster
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Creating Quick Monster Stats Monster
 
 ---
@@ -65,7 +74,6 @@ world: Both
 | 30 | +9 | 19 | 806-850 | +14 | 303-320 | 23 |
 ^monster-statistics-by-challenge-rating
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,7 +103,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

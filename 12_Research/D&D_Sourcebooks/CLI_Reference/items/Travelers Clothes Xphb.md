@@ -1,3 +1,12 @@
+---
+title: Travelers Clothes Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Travelers Clothes Xphb
 
 ---
@@ -25,7 +34,6 @@ world: Both
 ---
 
 > [!figure] Item
-![[04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png]]
 
 # Traveler's Clothes
 *Adventuring gear*  
@@ -36,7 +44,6 @@ world: Both
 Traveler's Clothes are resilient garments designed for travel in various environments.
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ Traveler's Clothes are resilient garments designed for travel in various environ
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

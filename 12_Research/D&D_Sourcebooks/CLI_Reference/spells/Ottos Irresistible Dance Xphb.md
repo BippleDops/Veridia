@@ -1,3 +1,12 @@
+---
+title: Ottos Irresistible Dance Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ottos Irresistible Dance Xphb
 
 ---
@@ -36,12 +45,11 @@ world: Both
 
 One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
 
-On a failed save, the target has the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the target dances comically, must use all its movement to dance in place, and has [[disadvantage-xphb|Disadvantage]] on Dexterity saving throws and attack rolls, and other creatures have [[advantage-xphb|Advantage]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
+On a failed save, the target has the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the target dances comically, must use all its movement to dance in place, and has [[disadvantage xphb|Disadvantage]] on Dexterity saving throws and attack rolls, and other creatures have [[advantage xphb|Advantage]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the SRD (as "Irresistible Dance") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ On a failed save, the target has the [[conditions#Charmed|Charmed]] condition fo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

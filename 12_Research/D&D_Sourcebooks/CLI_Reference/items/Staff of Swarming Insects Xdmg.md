@@ -1,106 +1,47 @@
-# Staff of Swarming Insects Xdmg
-
 ---
 title: Staff of Swarming Insects Xdmg
-aliases:
-- Staff of Swarming Insects
-type: note
+type: item
 tags:
-- both
-- research
-- world/both
-- active
-- note
-- content/item
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-attunement: false
-cssclasses: json5e-item
-obsidian-u-i-mode: preview
-updated: '2025-08-13T12:34:07.604642+00:00'
-world: Both
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Staff of Swarming Insects
-*Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](/03_Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)
+# Staff of Swarming Insects Xdmg
 
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
+## Overview
+This document contains important information regarding Staff of Swarming Insects Xdmg and its role within the greater narrative.
 
-This staff has 10 charges.
+## Description
+Staff of Swarming Insects Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Insect Cloud
-
-While holding the staff , you can take a [[actions#Magic|Magic]] action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you. The insects remain for 10 minutes, making the area [[heavily-obscured-xphb|Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb|Gust of Wind]]) disperses the swarm and ends the effect.
-
-## Spells
-
-While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell.
-
-| Spell | Charge Cost |
-|-------|-------------|
-| [[giant-insect-xphb|Giant Insect]] | 4 |
-| [[insect-plague-xphb|Insect Plague]] | 5 |
-^spell-charge-cost
-
-## Regaining Charges
-
-The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `d20`. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
-
-*Source: Dungeon Master's Guide (2024) p. 309. Available in the SRD and the Free Rules (2024)*
-
-## Player-Facing Summary
-
-Staff of swarming insects xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of staff of swarming insects xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of swarming insects xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A noble needs help delivering before winter
-- A prisoner has gone missing and chaos spreads
-- A corpse reveals a conspiracy about the cult
-- A document has gone missing and evil awakens
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

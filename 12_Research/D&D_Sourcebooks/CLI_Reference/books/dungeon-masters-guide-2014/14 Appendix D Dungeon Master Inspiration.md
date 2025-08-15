@@ -1,3 +1,12 @@
+---
+title: 14 Appendix D Dungeon Master Inspiration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 14 Appendix D Dungeon Master Inspiration
 
 ---
@@ -72,7 +81,6 @@ Here are several inspiring works that can help you become a better storyteller, 
 > **Writers Digest.**, *The Writer's Complete Fantasy Reference.*
 ^3b1
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -84,11 +92,6 @@ Here are several inspiring works that can help you become a better storyteller, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -106,7 +109,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for money
@@ -120,7 +122,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: TECHNICAL_DOCUMENTATION
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # TECHNICAL_DOCUMENTATION
 
 ---
@@ -274,7 +283,6 @@ CREATE TABLE notification_rules (
     "include_statistics": true,
     "export_json": true
   }
-}
 
 ---
 
@@ -490,14 +498,14 @@ echo "Validating Cordelia Vault System Requirements..."
 
 # Check Python version
 python_version=$(python3 --version 2>/dev/ | cut -d ' ' -f 2)
-if [[ "$python_version" < "3.9" ]]; then
+if [[ "$python version" < "3.9" ]]; then
     echo "ERROR: Python 3.9+ required, found $python_version"
     exit 1
 fi
 
 # Check disk space
 available_space=$(df -BG . | tail -1 | awk '{print $4}' | sed 's/G/')
-if [[ $available_space -lt 2 ]]; then
+if [[ $available space  lt 2 ]]; then
     echo "ERROR: At least 2GB free space required"
 
 # Check required Python packages
@@ -849,7 +857,6 @@ class PerformanceMetrics:
                     'min_duration': min(durations)
                 })
         
-
 **Health Monitoring Dashboard**:
 
 class VaultHealthDashboard:
@@ -929,7 +936,6 @@ This technical documentation provides the foundation for understanding, maintain
 **Next Review**: Post-deployment assessment  
 **Total Length**: ~8,000 words
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -941,11 +947,6 @@ This technical documentation provides the foundation for understanding, maintain
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -959,11 +960,9 @@ This technical documentation provides the foundation for understanding, maintain
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 

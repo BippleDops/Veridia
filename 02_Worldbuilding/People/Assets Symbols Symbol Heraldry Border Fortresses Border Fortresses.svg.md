@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,7 +44,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
@@ -60,11 +56,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -78,7 +72,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
@@ -87,8 +80,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Basic Information
 
@@ -198,7 +189,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[10-combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]] (colleague)
+- [[10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]] (colleague)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg]] (ally)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]] (friend)
 ---
@@ -207,7 +198,6 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Historical Timeline
 
@@ -226,7 +216,6 @@ This NPC can serve multiple roles:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -244,7 +233,6 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

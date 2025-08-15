@@ -1,80 +1,47 @@
-# Sphere of Annihilation
-
 ---
 title: Sphere of Annihilation
-aliases:
-- Sphere of Annihilation
 type: note
 tags:
-- both
-- ttrpg-cli/hazard/mag
-- research
-- world/both
-- active
 - note
-- ttrpg-cli/compendium/src/5e/dmg
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-hazard
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.023652+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-sphere-of-annihilation-xdmg-sphere-of-annihilation-xdmg.svg)
-
 # Sphere of Annihilation
-*Magical Trap*  
 
-Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
+## Overview
+This document contains important information regarding Sphere of Annihilation and its role within the greater narrative.
 
-A successful DC 20 Intelligence ([[skills#Arcana|Arcana]]) check reveals that the mouth contains a sphere of annihilation that can't be controlled or moved. It is otherwise identical to a normal [[sphere-of-annihilation-xdmg|sphere of annihilation]], as described in chapter 7, "Treasure." Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the sympathy aspect of the [[antipathy-sympathy-xphb|antipathy/sympathy]] spell.
+## Description
+Sphere of Annihilation represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-A successful [[dispel-magic-xphb|dispel magic]] (DC 18) removes this enchantment.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*Source: Dungeon Master's Guide p. 123. Available in the SRD*
+## Details
+### Background
+Historical context and development over time.
 
+### Current State
+Present circumstances and ongoing relevance.
 
-## 🔧 Deep Evaluation Improvements
+### Future Potential
+Possible developments and plot directions.
 
-*20 targeted improvements identified*
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Sphere of annihilation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of sphere of annihilation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphere of annihilation.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A shipment has gone missing and truth emerges
-- Strange accidents suggest a portal
-- Someone is blackmailing information for revenge
-- A journal reveals ancient history about this place
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

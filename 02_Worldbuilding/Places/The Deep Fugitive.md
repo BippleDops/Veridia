@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deep-fugitive-the-deep-fugitive.svg]]
 
 # The Deep Fugitive
 
 *"In the crushing depths, even memories can be buried."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,26 +63,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -96,13 +87,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 The Deep Fugitive is a mysterious individual who operates in the deepest trenches around Aquabyssos, evading capture by the city watch for crimes unknown. Their true identity remains a mystery, but their reputation as someone who can disappear into the crushing depths has made them a legend.
@@ -201,8 +189,6 @@ Ongoing situations affecting The Deep Fugitive:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -219,7 +205,6 @@ Ongoing situations affecting The Deep Fugitive:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -238,7 +223,6 @@ Ongoing situations affecting The Deep Fugitive:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

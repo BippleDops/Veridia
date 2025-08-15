@@ -1,3 +1,12 @@
+---
+title: Empyrean Iota Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Empyrean Iota Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-empyrean-iota-xmm.svg)
 
-# [[empyrean-iota-xmm|Empyrean Iota]]
+# [[empyrean iota xmm|Empyrean Iota]]
 *Source: Monster Manual (2024) p. 112*  
 
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Empyrean iotas are the thoughts, memories, or indirect attentions of deities per
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Empyreans
 
@@ -110,10 +113,10 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "cr": "1"
 "traits":
   - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [[difficult-terrain-xphb|Difficult Terrain]].\
+      \ were [[difficult terrain xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [[advantage-xphb|Advantage]]\
+  - "desc": "The empyrean has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -122,11 +125,11 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Otherworldly Strike"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability:\n\n1/day each:\
-      \ [[bless-xphb|Bless]], [[lesser-restoration-xphb|Lesser Restoration]]\
+      \ [[bless xphb|Bless]], [[lesser restoration xphb|Lesser Restoration]]\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The empyrean casts [[healing-word-xphb|Healing Word]],\
+  - "desc": "The empyrean casts [[healing word xphb|Healing Word]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Healing Word (1/Day)"
 "source":
@@ -155,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -173,16 +174,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

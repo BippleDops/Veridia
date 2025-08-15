@@ -1,3 +1,12 @@
+---
+title: Skulk Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Skulk Mpmm
 
 ---
@@ -35,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-skulk-mpmm-skulk-mpmm.svg)
 
-# [[skulk-mpmm|Skulk]]
+# [[skulk mpmm|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
 
 > [!quote] A quote from Mordenkainen  
@@ -96,7 +105,6 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -108,11 +116,6 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Juvenile Hook Horror Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Juvenile Hook Horror Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juvenile-hook-horror-oota-juvenile-hook-horror-oota.svg)
 
-# [[juvenile-hook-horror-oota|Juvenile Hook Horror]]
+# [[juvenile hook horror oota|Juvenile Hook Horror]]
 *Source: Out of the Abyss p. 34*  
 
 ```statblock
@@ -74,7 +83,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -86,11 +94,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -108,11 +111,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

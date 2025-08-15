@@ -26,8 +26,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 -08-11
 status: draft
 - both
@@ -36,7 +34,6 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-currents-v1-void-currents.svg]]
 
 # Void Currents
 
@@ -44,7 +41,6 @@ danger_level: Moderate
 
 > *"I have sailed every current in Aquabyssos, faced leviathans and survived the deepest trenches, but the Void Currents... they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
 > — [[Navigator Abyssal Truthseeker]], sole survivor of the Meridian Deep Expedition
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,19 +69,13 @@ danger_level: Moderate
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -95,17 +85,14 @@ danger_level: Moderate
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -752,8 +739,6 @@ Ongoing situations affecting Void Currents:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## A Day in the Life
 

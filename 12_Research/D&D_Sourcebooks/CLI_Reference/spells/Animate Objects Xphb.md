@@ -1,3 +1,12 @@
+---
+title: Animate Objects Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Animate Objects Xphb
 
 ---
@@ -40,16 +49,15 @@ world: Both
 
 Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
 
-Each target animates, sprouts legs, and becomes a Construct that uses the [[animated-object-xphb|Animated Object]] stat block; this creature is under your control until the spell ends or until it is reduced to 0 [[hit-points-xphb|Hit Points]]. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your [[initiative-xphb|Initiative]] count and takes its turn immediately after yours.
+Each target animates, sprouts legs, and becomes a Construct that uses the [[animated-object-xphb|Animated Object]] stat block; this creature is under your control until the spell ends or until it is reduced to 0 [[hit-points-xphb|Hit Points]]. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your [[initiative xphb|Initiative]] count and takes its turn immediately after yours.
 
 Until the spell ends, you can take a [[bonus-action-xphb|Bonus Action]] to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the [[actions#Dodge|Dodge]] action and moves only to avoid harm. When the creature drops to 0 [[hit-points-xphb|Hit Points]], it reverts to its object form, and any remaining damage carries over to that form.
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `d4` (Medium or smaller), `d6` (Large), or `d12` (Huge) for each spell slot level above 5.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 240. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,11 +70,6 @@ Until the spell ends, you can take a [[bonus-action-xphb|Bonus Action]] to menta
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -92,11 +94,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

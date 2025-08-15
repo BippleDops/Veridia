@@ -1,3 +1,12 @@
+---
+title: NPCs_and_Statblocks
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # NPCs_and_Statblocks
 
 ---
@@ -426,7 +435,6 @@ cr: 6
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -438,11 +446,6 @@ cr: 6
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -456,11 +459,9 @@ cr: 6
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -470,7 +471,6 @@ cr: 6
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

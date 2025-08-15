@@ -31,14 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg]]
 
 # Commander Typhoon Blackheart
 *Iron Fist of the Depths, Guardian of Order*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,19 +71,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -97,12 +87,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite military force responsible for maintaining order in the deepest and most dangerous regions of the realm. A career soldier who's spent three decades defending civilization against deep-sea horrors, shadow creatures, and territorial disputes, she represents military professionalism in a world where political authority is fragmenting. Her primary concern is protecting citizens, regardless of the political chaos swirling around her.
@@ -212,7 +200,6 @@ Commander Typhoon Blackheart is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Commander Typhoon Blackheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Typhoon Blackheart.
-
 
 ## A Day in the Life
 

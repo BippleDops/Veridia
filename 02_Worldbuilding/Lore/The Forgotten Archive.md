@@ -30,8 +30,6 @@ world: Aquabyssos
 
 # The Forgotten Archive
 
-![[04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png|The Forgotten Archive Portrait]]
-
 *The repository of all knowledge deliberately erased from history*
 
 ## Overview
@@ -389,11 +387,11 @@ Remember: Some knowledge is forgotten for good reason.
 
 ## See Also
 
-- [[02_Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
-- [[02_Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
-- [[02_Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
+- [[02 Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
+- [[02 Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
+- [[02 Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
 - [[03_Mechanics/Memory_Mechanics|03 Mechanics/Memory Mechanics]]
-- [[02_Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic]]
+- [[02 Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic]]
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
 

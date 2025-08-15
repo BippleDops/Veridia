@@ -1,3 +1,12 @@
+---
+title: Seven_Shards_Legend_Summary
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Seven_Shards_Legend_Summary
 
 ---
@@ -93,7 +102,6 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 *Knowledge shared for the protection of all realms*
 *May wisdom guide your steps*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -105,11 +113,6 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -122,7 +125,6 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

@@ -37,14 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg]]
 
 # The Current Merchants
 *Nereon Swiftcurrent, Master of the Deep Trades, Navigator of Infinite Possibilities*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,16 +69,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
@@ -96,19 +89,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Nereon Swiftcurrent, known throughout Aquabyssos simply as "The Current Merchants" due to his mastery over oceanic trade routes, is the most successful merchant in the underwater realm's history. His Deep Current Trading Company has revolutionized commerce by utilizing magical manipulation of ocean currents to create impossibly fast and efficient shipping networks that connect the farthest reaches of the aquatic world.
@@ -325,16 +313,13 @@ The Current Merchants is a undersea element of the setting, known for biolumines
 
 Legends speak of The Current Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Current Merchants.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Historical Timeline
 
@@ -352,7 +337,6 @@ Mentioned in The First Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

@@ -1,3 +1,12 @@
+---
+title: Pact of the Blade Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pact of the Blade Xphb
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Pact of the Blade
 *Source: Player's Handbook (2024) p. 156. Available in the SRD*  
 
-As a [[bonus-action-xphb|Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[spellcasting-focus-xphb|Spellcasting Focus]].
+As a [[bonus action xphb|Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[spellcasting focus xphb|Spellcasting Focus]].
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature's [[bonus-action-xphb|Bonus Action]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
-
+Your bond with the weapon ends if you use this feature's [[bonus action xphb|Bonus Action]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ Your bond with the weapon ends if you use this feature's [[bonus-action-xphb|Bon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals a betrayal about this place
@@ -75,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

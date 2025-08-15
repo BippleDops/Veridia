@@ -1,3 +1,12 @@
+---
+title: Behir Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Behir Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-behir-xmm-behir-xmm.svg)
 
-# [[behir-xmm|Behir]]
+# [[behir xmm|Behir]]
 *Source: Monster Manual (2024) p. 34. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Behir
 
@@ -108,7 +111,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ condition until the grapple ends."
     "name": "Constrict"
   - "desc": "Dexterity Saving Throw: DC 16, each creature in a 90-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 66 (12d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "bonus_actions":
@@ -117,7 +120,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ The behir swallows the target, which is no longer [[conditions#Grappled|Grappled]].\
       \ While swallowed, a creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, has\
-      \ [[cover-xphb|Total Cover]] against attacks\
+      \ [[cover xphb|Total Cover]] against attacks\
       \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\
@@ -152,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

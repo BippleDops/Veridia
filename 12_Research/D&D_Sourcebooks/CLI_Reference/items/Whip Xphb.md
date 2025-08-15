@@ -1,3 +1,12 @@
+---
+title: Whip Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Whip Xphb
 
 ---
@@ -29,12 +38,11 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/whip.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Reach|Reach]]
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 
 *Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
-- A shipment has gone missing and war looms
 - A shipment has gone missing and war looms
 - A prisoner has gone missing and truth emerges
 

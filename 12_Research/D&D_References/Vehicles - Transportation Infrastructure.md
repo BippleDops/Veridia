@@ -1,3 +1,12 @@
+---
+title: Vehicles - Transportation Infrastructure
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Transportation Infrastructure
 
 ---
@@ -26,7 +35,6 @@ world: Both
 
 Macro-systems that make journeys strategic. Connects to economies, factions, and reality stability. Cross-links with [[Memory Trading Economy System|Memory Trading Economy]] and [[Complete Reality Merger System]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ Macro-systems that make journeys strategic. Connects to economies, factions, and
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,11 +63,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## 12_Research Specific Content
 

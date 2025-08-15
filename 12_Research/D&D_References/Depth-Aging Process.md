@@ -1,3 +1,12 @@
+---
+title: Depth-Aging Process
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Depth-Aging Process
 
 ---
@@ -15,7 +24,6 @@ world: Both
 updated: '2025-08-13T01:18:34.518583+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -27,11 +35,6 @@ updated: '2025-08-13T01:18:34.518583+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -47,17 +50,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves-on-the-move-group-leader-mtf]]
+- [[dwarves on the move group leader mtf]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild-artisan]]
-- [[githzerai-groups-githzerai-group-leader-mtf]]
-- [[guild-artisan-guild-merchant-variant]]
-- [[fiendish-cults-cult-organization-mtf]]
-- [[new-organizations]]
+- [[guild artisan]]
+- [[githzerai groups githzerai group leader mtf]]
+- [[guild artisan guild merchant variant]]
+- [[fiendish cults cult organization mtf]]
+- [[new organizations]]
 - [[Border Fortresses]]
-
 
 ## Plot Hooks
 
@@ -67,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

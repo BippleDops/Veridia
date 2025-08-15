@@ -1,3 +1,12 @@
+---
+title: Vicious Mockery Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vicious Mockery Xphb
 
 ---
@@ -34,14 +43,13 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [[disadvantage-xphb|Disadvantage]] on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [[disadvantage xphb|Disadvantage]] on the next attack roll it makes before the end of its next turn.
 
 **Cantrip Upgrade.** The damage increases by `d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 337. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

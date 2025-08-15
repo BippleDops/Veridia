@@ -1,3 +1,12 @@
+---
+title: Druidic Focus Varies Druidic Focuses Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Druidic Focus Varies Druidic Focuses Xphb
 
 ---
@@ -29,11 +38,10 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[sprig-of-mistletoe-xphb|Sprig of mistletoe]] | — | 1 GP |
-| [[wooden-staff-xphb|Wooden staff]] (also a [[quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[yew-wand-xphb|Yew wand]] | 1 lb. | 10 GP |
+| [[sprig of mistletoe xphb|Sprig of mistletoe]] | — | 1 GP |
+| [[wooden staff xphb|Wooden staff]] (also a [[quarterstaff xphb|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[yew wand xphb|Yew wand]] | 1 lb. | 10 GP |
 ^druidic-focuses
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and war looms
@@ -79,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

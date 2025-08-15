@@ -1,3 +1,12 @@
+---
+title: Deities of Dragonlance Neutral Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deities of Dragonlance Neutral Phb
 
 ---
@@ -29,15 +38,14 @@ world: Both
 
 | The Gods of Neutrality | Alignment | Suggested Domains | Symbol |
 |------------------------|-----------|-------------------|--------|
-| [[dragonlance-gilean-phb|Gilean]], god of knowledge | N | Knowledge | Open book |
-| [[dragonlance-chislev-phb|Chislev]], goddess of nature | N | Nature | Feather |
-| [[dragonlance-reorx-phb|Reorx]], god of craft | N | Knowledge | Forging hammer |
-| [[dragonlance-shinare-phb|Shinare]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
-| [[dragonlance-sirrion-phb|Sirrion]], god of fire and change | N | Nature | Multi-colored fire |
-| [[dragonlance-zivilyn-phb|Zivilyn]], god of wisdom | N | Knowledge | Great green or gold tree |
-| [[dragonlance-lunitari-phb|Lunitari]], goddess of neutral magic | N | no clerics | Red circle or sphere |
+| [[dragonlance gilean phb|Gilean]], god of knowledge | N | Knowledge | Open book |
+| [[dragonlance chislev phb|Chislev]], goddess of nature | N | Nature | Feather |
+| [[dragonlance reorx phb|Reorx]], god of craft | N | Knowledge | Forging hammer |
+| [[dragonlance shinare phb|Shinare]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
+| [[dragonlance sirrion phb|Sirrion]], god of fire and change | N | Nature | Multi-colored fire |
+| [[dragonlance zivilyn phb|Zivilyn]], god of wisdom | N | Knowledge | Great green or gold tree |
+| [[dragonlance lunitari phb|Lunitari]], goddess of neutral magic | N | no clerics | Red circle or sphere |
 ^deities-of-dragonlance-neutral
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -88,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

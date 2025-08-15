@@ -1,3 +1,12 @@
+---
+title: Ioun Stone Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ioun Stone Xdmg
 
 ---
@@ -34,29 +43,28 @@ When you take a [[actions#Magic|Magic]] action to toss an *Ioun Stone* into the 
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
 The type of stone determines its rarity and effects.
 
 **Items in this group:**
 
-- [[ioun-stone-absorption-xdmg|Ioun Stone, Absorption]]
-- [[ioun-stone-agility-xdmg|Ioun Stone, Agility]]
-- [[ioun-stone-awareness-xdmg|Ioun Stone, Awareness]]
-- [[ioun-stone-fortitude-xdmg|Ioun Stone, Fortitude]]
-- [[ioun-stone-greater-absorption-xdmg|Ioun Stone, Greater Absorption]]
-- [[ioun-stone-insight-xdmg|Ioun Stone, Insight]]
-- [[ioun-stone-intellect-xdmg|Ioun Stone, Intellect]]
-- [[ioun-stone-leadership-xdmg|Ioun Stone, Leadership]]
-- [[ioun-stone-mastery-xdmg|Ioun Stone, Mastery]]
-- [[ioun-stone-protection-xdmg|Ioun Stone, Protection]]
-- [[ioun-stone-regeneration-xdmg|Ioun Stone, Regeneration]]
-- [[ioun-stone-reserve-xdmg|Ioun Stone, Reserve]]
-- [[ioun-stone-strength-xdmg|Ioun Stone, Strength]]
+- [[ioun stone absorption xdmg|Ioun Stone, Absorption]]
+- [[ioun stone agility xdmg|Ioun Stone, Agility]]
+- [[ioun stone awareness xdmg|Ioun Stone, Awareness]]
+- [[ioun stone fortitude xdmg|Ioun Stone, Fortitude]]
+- [[ioun stone greater absorption xdmg|Ioun Stone, Greater Absorption]]
+- [[ioun stone insight xdmg|Ioun Stone, Insight]]
+- [[ioun stone intellect xdmg|Ioun Stone, Intellect]]
+- [[ioun stone leadership xdmg|Ioun Stone, Leadership]]
+- [[ioun stone mastery xdmg|Ioun Stone, Mastery]]
+- [[ioun stone protection xdmg|Ioun Stone, Protection]]
+- [[ioun stone regeneration xdmg|Ioun Stone, Regeneration]]
+- [[ioun stone reserve xdmg|Ioun Stone, Reserve]]
+- [[ioun stone strength xdmg|Ioun Stone, Strength]]
 - [[ioun-stone-sustece-xdmg|Ioun Stone, Sustece]]
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,11 +77,6 @@ The type of stone determines its rarity and effects.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

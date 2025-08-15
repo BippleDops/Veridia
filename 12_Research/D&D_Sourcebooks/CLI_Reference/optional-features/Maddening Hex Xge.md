@@ -1,3 +1,12 @@
+---
+title: Maddening Hex Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Maddening Hex Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Maddening Hex
 *Source: Xanathar's Guide to Everything p. 57*  
 
-**Prerequisite**: Level 5; [[hex-xphb|hex]] spell or a warlock feature that curses
+**Prerequisite**: Level 5; [[hex xphb|hex]] spell or a warlock feature that curses
 
-As a bonus action, you cause a psychic disturbance around the target cursed by your [[hex-xphb|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
-
+As a bonus action, you cause a psychic disturbance around the target cursed by your [[hex xphb|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ As a bonus action, you cause a psychic disturbance around the target cursed by y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

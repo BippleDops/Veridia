@@ -1,3 +1,12 @@
+---
+title: Dragon Sensing Longsword Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragon Sensing Longsword Pota
 
 ---
@@ -28,18 +37,17 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-dragon-sensing-longsword-pota-dragon-sensing-longsword-pota.svg)
 
 # Dragon Sensing Longsword
-*Weapon ([[longsword-xphb|longsword]])*  
+*Weapon ([[longsword xphb|longsword]])*  
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 This +1 longsword is made of dragon bone and with a dragon-leather grip. It has rubies in its pommel and hilt. The sword grows warm and the rubies glow slightly when the sword is within 120 feet of a dragon.
 
 *Source: Princes of the Apocalypse p. 90*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ This +1 longsword is made of dragon bone and with a dragon-leather grip. It has 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Yuan Ti Merrshaulk Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yuan Ti Merrshaulk Vgm
 
 ---
@@ -33,7 +42,6 @@ Though the Master of the Pit is not conscious, neither is he entirely dormant. M
 
 The leaders of Merrshaulk's worshipers, called pit masters, are malison warlocks that uphold and advance the age-old yuan-ti traditions. They sense that it has become easier to wake him in recent decades, and believe this to be a sign that he will soon fully awaken, shed his skin, and-renewed by transformation-restore the yuan-ti to their rightful place as masters of the mortal world.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ The leaders of Merrshaulk's worshipers, called pit masters, are malison warlocks
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

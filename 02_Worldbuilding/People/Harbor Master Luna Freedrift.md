@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg]]
 
 # Harbor Master Luna Freedrift
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,19 +55,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
@@ -95,9 +84,8 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-
 ## Overview
-Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|02 Worldbuilding/Places/Freedom Harbor]], the largest free port in [[Aquabyssos World Overview]]. Officially appointed by the [[Parliament of Echoes]], she secretly serves as a key leader in [[Free Current|02 Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
+Harbor Master Luna Freedrift controls [[02 Worldbuilding/Places/Freedom Harbor|02 Worldbuilding/Places/Freedom Harbor]], the largest free port in [[Aquabyssos World Overview]]. Officially appointed by the [[Parliament of Echoes]], she secretly serves as a key leader in [[Free Current|02 Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
 
 ## Voice & Mannerisms
 
@@ -113,7 +101,7 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|0
 3. **The Smuggling War**: Rival organization threatens to expose her network
 4. **The Deep Trade**: Mysterious cargo arrives from the deepest trenches
 5. **The Surface Alliance**: Opportunity to formalize trade relationships with surface world
-6. **The Marina Mystery**: Investigation into [[Duchess Marina Ever-Drowning]]'s shipping activities
+6. **The Marina Mystery**: Investigation into [[Duchess Marina Ever Drowning]]'s shipping activities
 7. **The Harbor Siege**: Parliament forces attempt to seize control of Freedom Harbor
 
 ## D&D 5E Stats
@@ -161,7 +149,7 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|0
 > [!warning] DM Only
 > - Maintains detailed records of all Parliament corruption and illegal activities
 > - Has agents within Parliament intelligence services providing inside information
-> - Knows about [[Duchess Marina Ever-Drowning]]'s mysterious nature and shipping activities
+> - Knows about [[Duchess Marina Ever Drowning]]'s mysterious nature and shipping activities
 > - Has evidence of connections between Parliament leaders and shadow corruption
 > - Coordinates with surface world resistance movements opposing Aquabyssos expansion
 > - Maintains secret communication with [[Emperor Thalassius the Wise]]'s loyalists
@@ -233,11 +221,9 @@ Harbor Master Luna Freedrift is a undersea element of the setting, known for bio
 
 Legends speak of Harbor Master Luna Freedrift as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master Luna Freedrift.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Historical Timeline
 
@@ -256,7 +242,6 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -274,7 +259,6 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

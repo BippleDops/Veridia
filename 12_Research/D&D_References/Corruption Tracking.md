@@ -1,3 +1,12 @@
+---
+title: Corruption Tracking
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Corruption Tracking
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Mark well the taint's advance, for what corrupts unseen destroys all."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Corruption Tracking is the systematic monitoring and documentation of supernatural contamination affecting individuals, locations, and objects across both Aquabyssos and Aethermoor. This system tracks the accumulation, progression, and mitigation of various forms of corruption including dimensional taint, eldritch influence, and magical contamination that threaten the stability of both realms.
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for love
@@ -83,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

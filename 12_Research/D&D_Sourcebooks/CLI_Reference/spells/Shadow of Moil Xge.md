@@ -1,3 +1,12 @@
+---
+title: Shadow of Moil Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow of Moil Xge
 
 ---
@@ -37,10 +46,9 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `2d8` necrotic damage.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]
+**Classes**: [[list spells classes warlock|Warlock]]
 
 *Source: Xanathar's Guide to Everything p. 164*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ Until the spell ends, you have resistance to radiant damage. In addition, whenev
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

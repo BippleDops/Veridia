@@ -25,15 +25,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-depth-plague-the-depth-plague.svg]]
 
 # The Depth Plague
 
 *A supernatural affliction spreading through the deepest trenches of Aquabyssos, transforming the infected into aberrant horrors.*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,19 +62,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -88,7 +78,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
@@ -97,7 +86,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Physical Description & Atmosphere
 
@@ -251,8 +239,6 @@ Ongoing situations affecting The Depth Plague:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -264,7 +250,6 @@ Ongoing situations affecting The Depth Plague:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: ttrpg_methodology_research
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # ttrpg_methodology_research
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Campaign Structure Analysis
 
@@ -83,11 +86,9 @@ Using our vault metrics, successful campaigns show:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

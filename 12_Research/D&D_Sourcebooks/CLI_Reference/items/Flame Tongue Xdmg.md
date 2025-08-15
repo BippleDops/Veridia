@@ -1,3 +1,12 @@
+---
+title: Flame Tongue Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flame Tongue Xdmg
 
 ---
@@ -56,7 +65,7 @@ world: Both
 *Rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/flame-tongue.webp#right)
 
-While holding this magic weapon, you can take a [[bonus-action-xphb|Bonus Action]] and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [[bright-light-xphb|Bright Light]] in a 40-foot radius and [[dim-light-xphb|Dim Light]] for an additional 40 feet. While the weapon is ablaze, it deals an extra `2d6` Fire damage on a hit. The flames last until you take a [[bonus-action-xphb|Bonus Action]] to issue the command again or until you drop, stow, or sheathe the weapon.
+While holding this magic weapon, you can take a [[bonus action xphb|Bonus Action]] and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [[bright light xphb|Bright Light]] in a 40-foot radius and [[dim light xphb|Dim Light]] for an additional 40 feet. While the weapon is ablaze, it deals an extra `2d6` Fire damage on a hit. The flames last until you take a [[bonus action xphb|Bonus Action]] to issue the command again or until you drop, stow, or sheathe the weapon.
 
 **Variants**:
 - [Flame Tongue Battleaxe](#Flame%20Tongue%20Battleaxe)
@@ -91,11 +100,10 @@ While holding this magic weapon, you can take a [[bonus-action-xphb|Bonus Action
 ### Flame Tongue Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 263. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -108,11 +116,6 @@ While holding this magic weapon, you can take a [[bonus-action-xphb|Bonus Action
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -129,7 +132,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

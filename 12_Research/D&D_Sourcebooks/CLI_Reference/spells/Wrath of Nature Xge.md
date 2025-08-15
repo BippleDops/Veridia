@@ -1,3 +1,12 @@
+---
+title: Wrath of Nature Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wrath of Nature Xge
 
 ---
@@ -37,7 +46,6 @@ world: Both
 
 You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Grasses and Undergrowth
 
@@ -73,7 +76,7 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes ranger|Ranger]]; [[list spells classes bard|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 171*
 
@@ -92,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Aboleth Prime Yoth
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aboleth Prime Yoth
 
 ---
@@ -35,11 +44,9 @@ world: Aquabyssos
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg]]
 
 # Aboleth Prime Yoth
 *The Eternal Memory, First Among Shadows, The Depth's Ancient Will*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +59,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Aboleth Prime Yoth is the most ancient and powerful aboleth in [[Aquabyssos]], having ruled from [[The Deepmind]] for over twelve millennia. As the true power behind the [[The Parliament of Echoes|02 Worldbuilding/Groups/The Parliament Of Echoes]], Yoth orchestrates the shadow corruption spreading through the underwater realm. They possess perfect racial memory stretching back to before the gods walked the realms, making them one of the few beings who remembers the time before [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s awakening.
@@ -116,7 +118,6 @@ Legends speak of Aboleth Prime Yoth as a nexus where past and present converge. 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

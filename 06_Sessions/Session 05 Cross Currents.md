@@ -1,3 +1,12 @@
+---
+title: Session 05 Cross Currents
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_05_Cross_Currents
 
 ---
@@ -22,7 +31,6 @@ world: Both
 
 *Level 5-6 Characters | 4-5 Hours | Exploration/Diplomacy/Mystery*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -218,7 +221,6 @@ Rather than a fight to the death, this is a test of the party's worthiness and u
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

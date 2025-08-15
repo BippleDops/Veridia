@@ -1,3 +1,12 @@
+---
+title: 250 Gp Art Objects
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 250 Gp Art Objects
 
 ---
@@ -31,18 +40,17 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[gold-ring-set-with-bloodstones-xdmg|Gold ring set with bloodstones]] |
-| 2 | [[carved-ivory-statuette-xdmg|Carved ivory statuette]] |
-| 3 | [[bejeweled-gold-bracelet-xdmg|Large gold bracelet]] |
-| 4 | [[silver-necklace-with-a-gemstone-pendant-xdmg|Silver necklace with a gemstone pendant]] |
-| 5 | [[bronze-crown-xdmg|Bronze crown]] |
-| 6 | [[silk-vestments-with-gold-embroidery-xdmg|Silk robe with gold embroidery]] |
+| 1 | [[gold ring set with bloodstones xdmg|Gold ring set with bloodstones]] |
+| 2 | [[carved ivory statuette xdmg|Carved ivory statuette]] |
+| 3 | [[bejeweled gold bracelet xdmg|Large gold bracelet]] |
+| 4 | [[silver necklace with a gemstone pendant xdmg|Silver necklace with a gemstone pendant]] |
+| 5 | [[bronze crown xdmg|Bronze crown]] |
+| 6 | [[silk vestments with gold embroidery xdmg|Silk robe with gold embroidery]] |
 | 7 | [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg|Large well-made tapestry]] |
-| 8 | [[brass-mug-with-jade-inlay-xdmg|Brass mug with jade inlay]] |
-| 9 | [[box-of-turquoise-animal-figurines-xdmg|Box of turquoise animal figurines]] |
-| 10 | [[gold-birdcage-with-electrum-filigree-xdmg|Gold bird cage with electrum filigree]] |
+| 8 | [[brass mug with jade inlay xdmg|Brass mug with jade inlay]] |
+| 9 | [[box of turquoise animal figurines xdmg|Box of turquoise animal figurines]] |
+| 10 | [[gold birdcage with electrum filigree xdmg|Gold bird cage with electrum filigree]] |
 ^250-gp-art-objects
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

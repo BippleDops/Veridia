@@ -20,9 +20,6 @@ updated: '2025-08-13T12:34:03.172398+00:00'
 world: Both
 ---
 
-
-
-
 # Topic Matrix Index
 *A Comprehensive Navigation Guide to Vault Content*
 
@@ -31,7 +28,7 @@ world: Both
 ### 🌊 Aquabyssos Content
 | Topic | Key Files | Related Systems | Session Ready |
 |-------|-----------|-----------------|---------------|
-| **Pressure Mechanics** | [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]], [[Pressure_Artifacts|Pressure Artifacts]] | Adaptation Points, Depth Limits | ✅ |
+| **Pressure Mechanics** | [[Complete Pressure Adaptation System|Complete Pressure Adaptation System]], [[Pressure Artifacts|Pressure Artifacts]] | Adaptation Points, Depth Limits | ✅ |
 | **Deep Mother Lore** | [[The Deep Mother]], [[Memory Tide Events]] | Sanity, Memory Trading | ✅ |
 | **Parliament Politics** | [[Parliament of Shadows]], [[The Tidal Council]] | Faction System | ⚠️ |
 | **Submarine Travel** | [[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog]], [[Pressure Tubes]] | Vehicle Combat | ✅ |
@@ -40,11 +37,11 @@ world: Both
 ### ☁️ Aethermoor Content
 | Topic | Key Files | Related Systems | Session Ready |
 |-------|-----------|-----------------|---------------|
-| **Crystal Corruption** | [[The Seven Shards]], [[Crystal_Plague|Crystal Plague]] | Corruption Points | ✅ |
-| **Airship Navigation** | [[Aethermoor_Airships|Aethermoor Airships]], [[Wind Currents]] | Vehicle Rules | ✅ |
+| **Crystal Corruption** | [[The Seven Shards]], [[Crystal Plague|Crystal Plague]] | Corruption Points | ✅ |
+| **Airship Navigation** | [[Aethermoor Airships|Aethermoor Airships]], [[Wind Currents]] | Vehicle Rules | ✅ |
 | **Royal Politics** | [[Queen Seraphina Lumengarde]], [[The Crystal Throne]] | Court Intrigue | ✅ |
 | **Shadow Phenomena** | [[Shadow Corruption]], [[The Shadowmere]] | Horror Framework | ⚠️ |
-| **Trade Routes** | [[Port Meridian]], [[Trade_Goods|Trade Goods]] | Economics | ✅ |
+| **Trade Routes** | [[Port Meridian]], [[Trade Goods|Trade Goods]] | Economics | ✅ |
 
 ### ⚔️ Adventure Modules
 | Adventure | Level Range | Sessions | Status | Key Themes |
@@ -63,7 +60,7 @@ world: Both
 | **Parliament of Shadows** | [[Senator Glaucus]], [[Tribune Maelstrom]] | Control | High |
 | **Temple of Tides** | [[High Tidecaller Nerissa]] | Faith | Medium |
 | **Pearl Guard** | [[Captain Nerion Pearlshield]] | Order | Low |
-| **Deep Speakers** | [[Whisper-Touched Elena]] | Knowledge | Variable |
+| **Deep Speakers** | [[Whisper Touched Elena]] | Knowledge | Variable |
 
 #### Aethermoor Factions
 | Faction | Key NPCs | Motivation | Threat Level |
@@ -92,7 +89,7 @@ world: Both
 | Category | Core Documents | Integration Level |
 |----------|---------------|-------------------|
 | **Creation Myths** | [[The Great Submersion]], [[The Great Crystallization]] | High |
-| **Ancient History** | [[Ancient Mer-Folk Empire]], [[Crown of Stars]] | Medium |
+| **Ancient History** | [[Ancient Mer Folk Empire]], [[Crown of Stars]] | Medium |
 | **Recent Events** | [[Crystal Festival]], [[Memory Tide Disaster]] | High |
 | **Prophecies** | [[The Seven Shards Prophecy]], [[Surface Rising]] | Medium |
 | **Lost Knowledge** | [[Void Texts]], [[Aboleth Memories]] | Low |
@@ -152,8 +149,8 @@ world: Both
 ## Navigation Shortcuts
 
 ### Most Used Files
-1. [[Campaign_Dashboard|Campaign Dashboard]]
-2. [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
+1. [[Campaign Dashboard|Campaign Dashboard]]
+2. [[Complete Pressure Adaptation System|Complete Pressure Adaptation System]]
 3. [[The Seven Shards]]
 4. [[Queen Seraphina Lumengarde]]
 5. [[Parliament of Shadows]]
@@ -163,7 +160,7 @@ world: Both
 - See [[PROGRESS_REPORT_2025-08-10_SESSION3|PROGRESS REPORT 2025 08 10 SESSION3]]
 
 ### Orphan Candidates
-- Files with no incoming links: See [[Orphan_Notes|Orphan Notes]]
+- Files with no incoming links: See [[Orphan Notes|Orphan Notes]]
 - Files with only auto-generated links: Review needed
 
 ### Integration Priorities
@@ -183,7 +180,6 @@ world: Both
 - See also: [[Master Timeline]]
 - Related: [[Regional Politics]]
 - Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

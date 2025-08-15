@@ -1,3 +1,12 @@
+---
+title: Moon Touched Sword Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Moon Touched Sword Xdmg
 
 ---
@@ -34,7 +43,7 @@ world: Both
 *Common*  
 ![](/03_Mechanics/CLI/items/img/moon-touched-sword.webp#right)
 
-In [[darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[bright-light-xphb|Bright Light]] in a 15-foot radius and [[dim-light-xphb|Dim Light]] for an additional 15 feet.
+In [[darkness xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[bright light xphb|Bright Light]] in a 15-foot radius and [[dim light xphb|Dim Light]] for an additional 15 feet.
 
 **Variants**:
 - [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)
@@ -47,11 +56,10 @@ In [[darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlig
 ### Moon-Touched Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 280*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ In [[darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlig
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -101,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

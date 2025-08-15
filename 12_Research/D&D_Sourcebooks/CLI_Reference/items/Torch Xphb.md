@@ -1,3 +1,12 @@
+---
+title: Torch Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Torch Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 1 cp
 - **Weight**: 1.0 lbs.
 
-A Torch burns for 1 hour, casting [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet. When you take the [[actions#Attack|Attack]] action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+A Torch burns for 1 hour, casting [[bright light xphb|Bright Light]] in a 20-foot radius and [[dim light xphb|Dim Light]] for an additional 20 feet. When you take the [[actions#Attack|Attack]] action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 
 *Source: Player's Handbook (2024) p. 229. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Torch burns for 1 hour, casting [[bright-light-xphb|Bright Light]] in a 20-foo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

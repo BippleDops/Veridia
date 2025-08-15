@@ -21,11 +21,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-castellan-ironledger-iii-castellan-ironledger-iii.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,38 +54,30 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 Third-generation head of the Ironledger Trading House, Castellan has transformed his family's modest shipping business into an information empire. While publicly known as a dealer in exotic goods, his real commodity is secrets, making him indispensable to every major faction.
@@ -193,7 +181,6 @@ Castellan Ironledger III is a undersea element of the setting, known for biolumi
 
 Legends speak of Castellan Ironledger III as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Castellan Ironledger III.
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -205,7 +192,6 @@ Legends speak of Castellan Ironledger III as a nexus where past and present conv
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

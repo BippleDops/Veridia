@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Truth and Madness
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Truth_and_Madness.png|Truth and Madness Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,25 +67,17 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -104,7 +91,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -159,8 +145,6 @@ Ongoing situations affecting Truth and Madness:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange dreams suggest a portal
@@ -177,7 +161,6 @@ Ongoing situations affecting Truth and Madness:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

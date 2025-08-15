@@ -1,3 +1,12 @@
+---
+title: Second Chance Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Second Chance Xge
 
 ---
@@ -26,13 +35,12 @@ world: Both
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[halfling-xphb|Halfling]]
+**Prerequisite**: [[halfling xphb|Halfling]]
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 
 - Increase your Dexterity, Constitution, or Charisma by 1, to a maximum of 20.  
 - When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Fortune favors you when someone tries to strike you. You gain the following bene
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Hound of Ill Omen Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hound of Ill Omen Xge
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
 
-# [[hound-of-ill-omen-xge|Hound of Ill Omen]]
+# [[hound of ill omen xge|Hound of Ill Omen]]
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock
@@ -94,7 +103,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -106,11 +114,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

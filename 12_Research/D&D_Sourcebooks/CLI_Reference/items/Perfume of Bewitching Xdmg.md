@@ -1,3 +1,12 @@
+---
+title: Perfume of Bewitching Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Perfume of Bewitching Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Perfume of Bewitching
 *Wondrous item, common*  
 
-This tiny vial contains magic perfume, enough for one use. You can take a [[actions#Magic|Magic]] action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [[advantage-xphb|Advantage]] on all Charisma ([[skills#Deception|Deception]] and [[skills#Persuasion|Persuasion]]) checks made to influence a creature within 5 feet of yourself.
+This tiny vial contains magic perfume, enough for one use. You can take a [[actions#Magic|Magic]] action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [[advantage xphb|Advantage]] on all Charisma ([[skills#Deception|Deception]] and [[skills#Persuasion|Persuasion]]) checks made to influence a creature within 5 feet of yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 284*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ This tiny vial contains magic perfume, enough for one use. You can take a [[acti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

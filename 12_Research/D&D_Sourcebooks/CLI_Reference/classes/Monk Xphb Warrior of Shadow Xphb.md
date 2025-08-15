@@ -1,3 +1,12 @@
+---
+title: Monk Xphb Warrior of Shadow Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Monk Xphb Warrior of Shadow Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Warrior of Shadow
-*[[monk-xphb|Monk]]: Monk Subclass*  
+*[[monk xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 105*  
 
 > [!tldr] Class and Feature Progression
@@ -65,7 +74,7 @@ You have learned to draw on the power of the Shadowfell, gaining the following b
 
 ### Darkness (Level 3)
 
-You can expend 1 Focus Point to cast the [[darkness-xphb|Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [[darkness-xphb|Darkness]] to a space within 60 feet of yourself at the start of each of your turns.
+You can expend 1 Focus Point to cast the [[darkness xphb|Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [[darkness xphb|Darkness]] to a space within 60 feet of yourself at the start of each of your turns.
 
 ### Darkvision (Level 3)
 
@@ -73,19 +82,19 @@ You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you alread
 
 ### Shadowy Figments (Level 3)
 
-You know the [[minor-illusion-xphb|Minor Illusion]] spell. Wisdom is your spellcasting ability for it.
+You know the [[minor illusion xphb|Minor Illusion]] spell. Wisdom is your spellcasting ability for it.
 
 ### Shadow Step (Level 6)
 
-While entirely within [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can use a [[bonus-action-xphb|Bonus Action]] to teleport up to 60 feet to an unoccupied space you can see that is also in [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]]. You then have [[advantage-xphb|Advantage]] on the next melee attack you make before the end of the current turn.
+While entirely within [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]], you can use a [[bonus action xphb|Bonus Action]] to teleport up to 60 feet to an unoccupied space you can see that is also in [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]]. You then have [[advantage xphb|Advantage]] on the next melee attack you make before the end of the current turn.
 
 ### Improved Shadow Step (Level 11)
 
-You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]] for that use of the feature. As part of this [[bonus-action-xphb|Bonus Action]], you can make an [[unarmed-strike-xphb|Unarmed Strike]] immediately after you teleport.
+You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]] for that use of the feature. As part of this [[bonus action xphb|Bonus Action]], you can make an [[unarmed strike xphb|Unarmed Strike]] immediately after you teleport.
 
 ### Cloak of Shadows (Level 17)
 
-As a [[actions#Magic|Magic]] action while entirely within [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [[conditions#Incapacitated|Incapacitated]] condition, or until you end your turn in [[bright-light-xphb|Bright Light]]. While shrouded by these shadows, you gain the following benefits.
+As a [[actions#Magic|Magic]] action while entirely within [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [[conditions#Incapacitated|Incapacitated]] condition, or until you end your turn in [[bright light xphb|Bright Light]]. While shrouded by these shadows, you gain the following benefits.
 
 #### Invisibility
 
@@ -93,12 +102,11 @@ You have the [[conditions#Invisible|Invisible]] condition.
 
 #### Partially Incorporeal
 
-You can move through occupied spaces as if they were [[difficult-terrain-xphb|Difficult Terrain]]. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+You can move through occupied spaces as if they were [[difficult terrain xphb|Difficult Terrain]]. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
 
 #### Shadow Flurry
 
 You can use your Flurry of Blows without expending any Focus Points.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -111,11 +119,6 @@ You can use your Flurry of Blows without expending any Focus Points.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -144,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

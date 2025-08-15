@@ -1,3 +1,12 @@
+---
+title: Fire Elemental Myrmidon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fire Elemental Myrmidon Mpmm
 
 ---
@@ -30,9 +39,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-elemental-myrmidon-mpmm-fire-elemental-myrmidon-mpmm.svg)
 
-# [[fire-elemental-myrmidon-mpmm|Fire Elemental Myrmidon]]
+# [[fire elemental myrmidon mpmm|Fire Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Elemental Myrmidons
 
@@ -61,7 +64,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[plate-armor-xphb|plate]]"
+"ac_class": "[[plate armor xphb|plate]]"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "modifier": !!int "4"
@@ -118,11 +121,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Multiclassing Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Multiclassing Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Multiclassing allows you to gain levels in multiple classes. With this rule, you
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Prerequisites
 
@@ -75,7 +78,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 ### Armor Class
 
-If you have multiple ways to calculate your [[armor-class-xphb|Armor Class]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [[armor class xphb|Armor Class]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 ### Extra Attack
 
@@ -86,8 +89,6 @@ Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra 
 ### Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
-
-![[spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-xphb|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
 
 #### Spells Prepared
 
@@ -109,7 +110,7 @@ You determine your available spell slots by adding together the following:
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[burning-hands-xphb|Burning Hands]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[burning hands xphb|Burning Hands]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 
@@ -133,21 +134,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

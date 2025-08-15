@@ -1,3 +1,12 @@
+---
+title: Magic Item Crafting Time and Cost Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Item Crafting Time and Cost Xdmg
 
 ---
@@ -36,8 +45,7 @@ world: Both
 | Legendary | 250 days | 100,000 GP |
 ^magic-item-crafting-time-and-cost
 
-*The time and cost are halved for a consumable item other than a [[spell-scroll-xdmg|Spell Scroll]], whose [[scribing-spell-scrolls-spell-scroll-costs-xphb|crafting time and cost]] are given in the "Player's Handbook".
-
+*The time and cost are halved for a consumable item other than a [[spell scroll xdmg|Spell Scroll]], whose [[scribing-spell-scrolls-spell-scroll-costs-xphb|crafting time and cost]] are given in the "Player's Handbook".
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Related Notes
 
@@ -84,7 +85,6 @@ Mentioned in The First Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

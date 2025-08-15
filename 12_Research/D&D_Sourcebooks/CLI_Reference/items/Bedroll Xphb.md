@@ -1,3 +1,12 @@
+---
+title: Bedroll Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bedroll Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 7.0 lbs.
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against [[extreme-cold-xdmg|extreme cold]] (see the "Dungeon Master's Guide").
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against [[extreme cold xdmg|extreme cold]] (see the "Dungeon Master's Guide").
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a portal
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

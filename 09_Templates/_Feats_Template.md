@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Name
 *Feat name*
 
@@ -28,7 +26,6 @@ improvements: 20
 
 ---
 *Add homebrew feats here*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,9 +50,6 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Magic_Items Improvements
 
@@ -68,16 +62,13 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Abuse_Prevention Improvements
 
-- Add guidelines to prevent exploitation
 - Add guidelines to prevent exploitation
 
 ### Interaction Improvements
@@ -87,9 +78,6 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-
 
 ## Rule Summary
 
@@ -127,7 +115,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

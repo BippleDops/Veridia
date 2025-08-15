@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg]]
 
 # The Void Watchers
 *Guardians of Reality's Edge, Sentinels Against the Unmaking*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,9 +67,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
@@ -82,12 +75,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
@@ -97,7 +87,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
@@ -106,7 +95,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Void Watchers are an ancient order dedicated to preventing the collapse of reality itself. Founded eons ago when the first rifts appeared between dimensions, they monitor the boundaries between [[Aethermoor]], [[Aquabyssos]], and the spaces beyond existence. They understand that both worlds' current crises—crystal corruption and shadow spreading—are symptoms of fundamental reality instability that could unmake everything if left unchecked.
@@ -170,7 +158,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Economic Structure
 
 ### Currency
@@ -188,7 +175,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

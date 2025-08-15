@@ -1,3 +1,12 @@
+---
+title: Shield of the Silver Dragon Cos
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shield of the Silver Dragon Cos
 
 ---
@@ -28,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-shield-of-the-silver-dragon-cos-shield-of-the-silver-dragon-cos.svg)
 
 # Shield of the Silver Dragon
-*Armor ([[shield-xphb|shield]]), major, rare*  
+*Armor ([[shield xphb|shield]]), major, rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
@@ -41,7 +50,6 @@ A shield is made from wood or metal and is carried in one hand. Wielding a shiel
 
 *Source: Curse of Strahd p. 68*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ A shield is made from wood or metal and is carried in one hand. Wielding a shiel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,10 +78,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- Strange disappearances suggest ancient magic
 - Strange disappearances suggest ancient magic
 - A document has gone missing and truth emerges
 - A letter reveals a betrayal about a local noble
@@ -86,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

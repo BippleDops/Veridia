@@ -1,3 +1,12 @@
+---
+title: facing
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # facing
 
 ---
@@ -35,7 +44,6 @@ On hexes, determining the front, rear, and side arcs requires more judgment. Pic
 
 A square or hex might be in more than one arc, depending on how you draw the lines from a creature's space. If more than half of a square or hex lies in one arc, it is in that arc. If it is split exactly down the middle, use this rule: if half of it lies in the front arc, it's in that arc. If half of it is in a side arc and the rear arc, it's in the side arc.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ A square or hex might be in more than one arc, depending on how you draw the lin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -85,11 +86,9 @@ Mentioned in The First Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

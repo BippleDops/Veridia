@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,16 +35,13 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Simplified Improvements
@@ -61,10 +55,6 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Variant Improvements
 
@@ -77,7 +67,6 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-
 
 ## Mechanic Overview
 
@@ -249,7 +238,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

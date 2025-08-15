@@ -1,3 +1,12 @@
+---
+title: Jumping Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Jumping Xphb
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Jumping
 *Source: Player's Handbook (2024) p. 370. Available in the SRD and the Free Rules (2024)* 
 
-When you jump, you make either a [[long-jump-xphb|Long Jump]] (horizontal) or a [[high-jump-xphb|High Jump]] (vertical).
+When you jump, you make either a [[long jump xphb|Long Jump]] (horizontal) or a [[high jump xphb|High Jump]] (vertical).
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ When you jump, you make either a [[long-jump-xphb|Long Jump]] (horizontal) or a 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

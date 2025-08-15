@@ -1,3 +1,12 @@
+---
+title: 13 Appendix D Monsters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 13 Appendix D Monsters
 
 ---
@@ -26,28 +35,27 @@ world: Both
 *Source: Hoard of the Dragon Queen, p. 180* 
 
 - [[ambush-drake-hotdq|Ambush Drake]]  
-- [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]]  
-- [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]  
-- [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|Dragonclaw]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot|Dragonfang]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot|Dragonsoul]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq|Dragonwing]]  
-- [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]]  
-- [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]]  
+- [[/03 Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]]  
+- [[/03 Mechanics/CLI/bestiary/npc/blagothkus hotdq|Blagothkus]]  
+- [[/03 Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/dragonclaw hotdq|Dragonclaw]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/dragonfang rot|Dragonfang]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/dragonsoul rot|Dragonsoul]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/dragonwing hotdq|Dragonwing]]  
+- [[/03 Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]]  
+- [[/03 Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]]  
 - [[guard-drake-mpmm|Guard Drake]]  
 - [[ice-toad-rot|Ice Toad]]  
-- [[/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq|Jamna Gleamsilver]]  
-- [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]]  
-- [[/03_Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot|Naergoth Bladelord]]  
-- [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]  
-- [[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]]  
-- [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]]  
-- [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]  
-- [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]  
-- [[/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq|Talis the White]]  
-- [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]
-
+- [[/03 Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq|Jamna Gleamsilver]]  
+- [[/03 Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]]  
+- [[/03 Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot|Naergoth Bladelord]]  
+- [[/03 Mechanics/CLI/bestiary/npc/neronvain rot|Neronvain]]  
+- [[/03 Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]]  
+- [[/03 Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]]  
+- [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]]  
+- [[/03 Mechanics/CLI/bestiary/npc/severin rot|Severin]]  
+- [[/03 Mechanics/CLI/bestiary/npc/talis-the-white-hotdq|Talis the White]]  
+- [[/03 Mechanics/CLI/bestiary/npc/tiamat rot|Tiamat]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

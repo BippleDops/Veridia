@@ -1,3 +1,12 @@
+---
+title: 03 Races
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 03 Races
 
 ---
@@ -33,7 +42,6 @@ Scattered among the members of these more common races are the true exotics: a h
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch2.webp#center)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ Scattered among the members of these more common races are the true exotics: a h
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Uncommon Races
 
@@ -119,15 +122,15 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
 
-- [[dragonborn-xphb|Dragonborn]]  
-- [[dwarf-xphb|Dwarf]]  
-- [[elf-xphb|Elf]]  
-- [[gnome-xphb|Gnome]]  
-- [[half-elf|Half-Elf]]  
-- [[half-orc|Half-Orc]]  
-- [[halfling-xphb|Halfling]]  
-- [[human-xphb|Human]]  
-- [[tiefling-xphb|Tiefling]]
+- [[dragonborn xphb|Dragonborn]]  
+- [[dwarf xphb|Dwarf]]  
+- [[elf xphb|Elf]]  
+- [[gnome xphb|Gnome]]  
+- [[half elf|Half-Elf]]  
+- [[half orc|Half-Orc]]  
+- [[halfling xphb|Halfling]]  
+- [[human xphb|Human]]  
+- [[tiefling xphb|Tiefling]]
 
 ## Player-Facing Summary
 
@@ -145,16 +148,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

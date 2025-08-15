@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,20 +49,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -83,7 +73,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Basic Information
 
@@ -195,7 +184,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg]] (ally)
-- [[Quest - The Prophecy Fulfilled]] (enemy)
+- [[Quest   The Prophecy Fulfilled]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
 

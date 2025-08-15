@@ -1,3 +1,12 @@
+---
+title: Iron Golem Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Iron Golem Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-iron-golem-xmm-iron-golem-xmm.svg)
 
-# [[iron-golem-xmm|Iron Golem]]
+# [[iron golem xmm|Iron Golem]]
 *Source: Monster Manual (2024) p. 181. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Iron Golem
 
@@ -101,12 +104,12 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 "cr": "16"
 "traits":
   - "desc": "Whenever the golem is subjected to Fire damage, it regains a number of\
-      \ [[hit-points-xphb|Hit Points]] equal to the\
+      \ [[hit points xphb|Hit Points]] equal to the\
       \ Fire damage dealt."
     "name": "Fire Absorption"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [[advantage-xphb|Advantage]]\
+  - "desc": "The golem has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -117,7 +120,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
     "name": "Bladed Arm"
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 36 (8d8) Fire damage."
     "name": "Fiery Bolt"
-  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 55 (10d10) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 6)"
 "source":
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

@@ -1,3 +1,12 @@
+---
+title: Hew Lmop
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hew Lmop
 
 ---
@@ -28,18 +37,17 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-hew-lmop-hew-lmop.svg)
 
 # Hew
-*Weapon ([[battleaxe-xphb|battleaxe]])*  
+*Weapon ([[battleaxe xphb|battleaxe]])*  
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This +1 battleaxe deals maximum damage when the wielder hits a plant creature or an object made of wood. The axe's creator was a dwarf smith who feuded with the dryads of a forest where he cut firewood. Whoever carries the axe feels uneasy whenever he or she travels through a forest.
 
 *Source: Lost Mine of Phandelver p. 33*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ This +1 battleaxe deals maximum damage when the wielder hits a plant creature or
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Forest Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forest Encounters Levels 1116 Xge
 
 ---
@@ -31,41 +40,40 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-03 | 1 [[werebear-xmm|werebear]] |
-| 04-05 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druids]] performing a ritual for the dead (day only) or `d4` [[banshee-xmm|banshees]] (night only) |
-| 06-07 | `d3` [[couatl-xmm|couatls]] |
+| 01-03 | 1 [[werebear xmm|werebear]] |
+| 04-05 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druids]] performing a ritual for the dead (day only) or `d4` [[banshee xmm|banshees]] (night only) |
+| 06-07 | `d3` [[couatl xmm|couatls]] |
 | 08-10 | `d3` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] with `2d6 + 3` [[gnoll-warrior-xmm|gnolls]] |
 | 11-15 | `2d4` [[displacer-beast-xmm|displacer beasts]] |
-| 16-20 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 16-20 | `1d6 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
 | 21-25 | A pool of clear, still water. Gold coins litter the bottom, but they disappear if removed from the pool. |
-| 26-30 | `1d4 + 1` [[green-hag-xmm|green hags]] with `d3` [[owlbear-xmm|owlbears]] |
-| 31-35 | `1d6 + 2` [[werewolf-xmm|werewolves]] |
+| 26-30 | `1d4 + 1` [[green-hag-xmm|green hags]] with `d3` [[owlbear xmm|owlbears]] |
+| 31-35 | `1d6 + 2` [[werewolf xmm|werewolves]] |
 | 36-40 | A small woodland shrine dedicated to a mysterious cult named the Siswa |
 | 41-45 | `1d6 + 2` [[phase-spider-xmm|phase spiders]] |
-| 46-50 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
-| 51-52 | `d3` [[werebear-xmm|werebears]] |
-| 53-54 | `d4` [[revet-xmm|revets]] |
+| 46-50 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
+| 51-52 | `d3` [[werebear xmm|werebears]] |
+| 53-54 | `d4` [[revet xmm|revets]] |
 | 55-56 | 1 [[young-green-dragon-xmm|young green dragon]] |
-| 57-58 | `d4` [[troll-xmm|trolls]] |
-| 59-60 | `1d6 + 2` [[wereboar-xmm|wereboars]] |
-| 61-65 | A group of seven people ([[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) wearing animal masks and ambling through the woods |
-| 66-67 | `d4` [[gorgon-xmm|gorgons]] |
+| 57-58 | `d4` [[troll xmm|trolls]] |
+| 59-60 | `1d6 + 2` [[wereboar xmm|wereboars]] |
+| 61-65 | A group of seven people ([[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoners]]) wearing animal masks and ambling through the woods |
+| 66-67 | `d4` [[gorgon xmm|gorgons]] |
 | 68-69 | `d3` [[shambling-mound-xmm|shambling mounds]] |
-| 70-71 | 1 [[treant-xmm|treant]] |
-| 72-73 | `d4` [[unicorn-xmm|unicorns]] |
-| 74-75 | `1d6 + 2` [[weretiger-xmm|weretigers]] |
+| 70-71 | 1 [[treant xmm|treant]] |
+| 72-73 | `d4` [[unicorn xmm|unicorns]] |
+| 74-75 | `1d6 + 2` [[weretiger xmm|weretigers]] |
 | 76-80 | Peals of silvery laughter that echo from a distance |
 | 81-82 | 1 [[guardian-naga-xmm|guardian naga]] |
 | 83-84 | 1 [[young-gold-dragon-xmm|young gold dragon]] |
-| 85-86 | 1 [[grick-ancient-xmm|grick alpha]] with `2d4` [[grick-xmm|gricks]] |
-| 87-88 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
+| 85-86 | 1 [[grick-ancient-xmm|grick alpha]] with `2d4` [[grick xmm|gricks]] |
+| 87-88 | `d3` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
 | 89-90 | 1 [[adult-green-dragon-xmm|adult green dragon]] |
 | 91-93 | `1d8 + 1` [[giant-ape-xmm|giant apes]] |
-| 94-96 | `2d4` [[oni-xmm|oni]] |
-| 97-99 | `d3` [[treant-xmm|treants]] |
+| 94-96 | `2d4` [[oni xmm|oni]] |
+| 97-99 | `d3` [[treant xmm|treants]] |
 | 00 | 1 [[ancient-green-dragon-xmm|ancient green dragon]] |
 ^forest-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,11 +86,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

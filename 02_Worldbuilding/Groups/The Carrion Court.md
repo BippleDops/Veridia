@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
 
 # The Carrion Court
 *In Death We Find True Nobility*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,17 +66,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -94,12 +86,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Carrion Court is an aristocratic hierarchy of undead beings that maintains the twisted traditions of an ancient noble court from beyond the grave. Led by **Lich-Queen Morwyn the Deathless**, this organization of vampires, liches, wraiths, and other powerful undead seeks to establish a kingdom where death is merely a transition to higher nobility rather than an ending. They operate with the pomp, ceremony, and political intrigue of a living court, but with the power and immortal patience of the undead.
@@ -163,11 +153,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## A Day in the Life
 

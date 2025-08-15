@@ -1,3 +1,12 @@
+---
+title: Scholars Pack Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scholars Pack Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 22.0 lbs.
 
-A Scholar's Pack contains the following items: [[backpack-xphb|Backpack]], [[book-xphb|Book]], [[ink-xphb|Ink]], [[ink-pen-xphb|Ink Pen]], [[lamp-xphb|Lamp]], 10 flasks of [[oil-xphb|Oil]], 10 sheets of [[parchment-xphb|Parchment]], and [[tinderbox-xphb|Tinderbox]].
+A Scholar's Pack contains the following items: [[backpack xphb|Backpack]], [[book xphb|Book]], [[ink xphb|Ink]], [[ink pen xphb|Ink Pen]], [[lamp xphb|Lamp]], 10 flasks of [[oil xphb|Oil]], 10 sheets of [[parchment xphb|Parchment]], and [[tinderbox xphb|Tinderbox]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Scholar's Pack contains the following items: [[backpack-xphb|Backpack]], [[boo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -91,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

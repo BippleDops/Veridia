@@ -1,3 +1,12 @@
+---
+title: Explosives Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Explosives Xdmg
 
 ---
@@ -29,15 +38,14 @@ world: Both
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[bomb-xdmg|Bomb]] | 100 GP | 1 lb. |
-| [[dynamite-stick-xdmg|Dynamite Stick]] | — | 1 lb. |
-| [[fragmentation-grenade-xdmg|Grenade, Fragmentation]] | — | 1 lb. |
-| [[grenade-launcher-xdmg|Grenade Launcher]] | — | 7 lb. |
-| [[smoke-grenade-xdmg|Grenade, Smoke]] | 50 GP | 2 lb. |
-| [[gunpowder-keg-xdmg|Gunpowder (keg)]] | 250 GP | 20 lb. |
-| [[gunpowder-powder-horn-xdmg|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
+| [[bomb xdmg|Bomb]] | 100 GP | 1 lb. |
+| [[dynamite stick xdmg|Dynamite Stick]] | — | 1 lb. |
+| [[fragmentation grenade xdmg|Grenade, Fragmentation]] | — | 1 lb. |
+| [[grenade launcher xdmg|Grenade Launcher]] | — | 7 lb. |
+| [[smoke grenade xdmg|Grenade, Smoke]] | 50 GP | 2 lb. |
+| [[gunpowder keg xdmg|Gunpowder (keg)]] | 250 GP | 20 lb. |
+| [[gunpowder powder horn xdmg|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
 ^explosives
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

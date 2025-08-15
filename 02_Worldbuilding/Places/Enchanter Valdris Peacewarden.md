@@ -35,15 +35,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg]]
 
 # Enchanter Valdris Peacewarden
 
 *"Magic should bind communities together, not tear them apart. Every spell I craft carries the weight of that responsibility."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -80,18 +76,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -101,13 +92,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -227,8 +215,6 @@ Ongoing situations affecting Enchanter Valdris Peacewarden:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

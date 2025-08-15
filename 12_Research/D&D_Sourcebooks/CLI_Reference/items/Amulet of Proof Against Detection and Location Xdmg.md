@@ -1,3 +1,12 @@
+---
+title: Amulet of Proof Against Detection and Location Xdmg
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # amulet-of-proof-against-detection-and-location-xdmg
 
 ---
@@ -32,7 +41,6 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 *Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -80,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

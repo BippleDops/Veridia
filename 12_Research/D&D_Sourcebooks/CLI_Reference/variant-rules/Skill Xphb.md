@@ -1,3 +1,12 @@
+---
+title: Skill Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Skill Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Skill
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [[proficiency-xphb|Proficiency Bonus]] when you make an ability check associated with that skill.
-
+A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [[proficiency xphb|Proficiency Bonus]] when you make an ability check associated with that skill.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A skill is an "area of specialization" associated with an ability check. If you 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting a witness for power
@@ -75,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

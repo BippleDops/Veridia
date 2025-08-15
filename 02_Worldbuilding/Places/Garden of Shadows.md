@@ -33,15 +33,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg]]
 
 # Garden of Shadows
 
 *"In the depths where no sunlight has ever touched, we have learned to cultivate darkness itself, and from it grows wisdom that the surface world cannot comprehend."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,7 +66,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
@@ -78,9 +73,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -90,11 +82,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -104,8 +94,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -210,12 +198,9 @@ Garden of Shadows is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -240,7 +225,6 @@ Mentioned in The First Prophecy of Shadows
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -252,7 +236,6 @@ Mentioned in The First Prophecy of Shadows
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

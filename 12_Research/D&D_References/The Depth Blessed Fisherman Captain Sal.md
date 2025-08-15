@@ -1,3 +1,12 @@
+---
+title: The Depth Blessed Fisherman Captain Sal
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Depth Blessed Fisherman Captain Sal
 
 ---
@@ -20,8 +29,6 @@ world: Both
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-the-depth-blessed-fisherman-captain-sal-deepcurrent-the-depth-blessed-fisherman-captain-sal-deepcurrent.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -56,16 +58,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -75,7 +74,6 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

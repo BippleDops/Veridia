@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Zantras the Kingmaker Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Zantras the Kingmaker Cos
 
 ---
@@ -32,7 +41,6 @@ The beneficiary of this dark gift gains the following flaw: "I won't take no for
 
 *Source: Curse of Strahd p. 192*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ The beneficiary of this dark gift gains the following flaw: "I won't take no for
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

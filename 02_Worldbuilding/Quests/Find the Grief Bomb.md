@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,9 +39,6 @@ improvements: 20
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
 
 ### Soundtrack Improvements
 
@@ -52,9 +46,6 @@ improvements: 20
 
 ### Accessibility Improvements
 
-- Include content warnings and safety tools
-- Include content warnings and safety tools
-- Include content warnings and safety tools
 - Include content warnings and safety tools
 
 ### Backup Improvements
@@ -72,12 +63,10 @@ improvements: 20
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-
 
 ## Adventure Overview
 
@@ -95,11 +84,9 @@ An exciting quest that challenges heroes to claim glory.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -120,7 +107,6 @@ An exciting quest that challenges heroes to claim glory.
 - Ancient map fragment
 - 1d4 gems (50 gp each)
 
-
 ## Adventure Pacing
 
 ### Act 1: Setup (Sessions 1-2)
@@ -137,7 +123,6 @@ An exciting quest that challenges heroes to claim glory.
 - Final confrontation
 - Consequences
 - Epilogue hooks
-
 
 ## Moral Quandaries
 

@@ -1,3 +1,12 @@
+---
+title: Hooded Lantern Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hooded Lantern Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 
-A Hooded Lantern burns Oil as fuel to cast [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. As a [[bonus-action-xphb|Bonus Action]], you can lower the hood, reducing the light to [[dim-light-xphb|Dim Light]] in a 5-foot radius, or raise it again.
+A Hooded Lantern burns Oil as fuel to cast [[bright light xphb|Bright Light]] in a 30-foot radius and [[dim light xphb|Dim Light]] for an additional 30 feet. As a [[bonus action xphb|Bonus Action]], you can lower the hood, reducing the light to [[dim light xphb|Dim Light]] in a 5-foot radius, or raise it again.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Hooded Lantern burns Oil as fuel to cast [[bright-light-xphb|Bright Light]] in
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for revenge
@@ -81,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

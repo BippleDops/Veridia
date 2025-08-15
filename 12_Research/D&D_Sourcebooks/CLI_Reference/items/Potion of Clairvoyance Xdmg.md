@@ -1,3 +1,12 @@
+---
+title: Potion of Clairvoyance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Clairvoyance Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[clairvoyance-xphb|Clairvoyance]] spell (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the effect of the [[clairvoyance xphb|Clairvoyance]] spell (no [[conditions#Concentration|Concentration]] required).
 
 An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.
 
 *Source: Dungeon Master's Guide (2024) p. 287. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ An eyeball bobs in this potion's yellowish liquid but vanishes when the potion i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

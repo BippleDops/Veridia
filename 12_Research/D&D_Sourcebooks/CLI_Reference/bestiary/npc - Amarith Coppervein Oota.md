@@ -1,3 +1,12 @@
+---
+title: npc - Amarith Coppervein Oota
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # npc - Amarith Coppervein Oota
 
 ---
@@ -41,7 +50,7 @@ world: Both
 "subtype": "any race"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[[splint-armor-xphb|splint armor]]"
+"ac_class": "[[splint armor xphb|splint armor]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -84,7 +93,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -118,7 +121,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for money
@@ -131,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

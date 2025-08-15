@@ -21,9 +21,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,36 +48,26 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Basic Information
 
@@ -192,7 +179,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Ice Kingdom Magic]] (enemy)
 - [[The Lady's Garden Society]] (ally)
-- [[Quest - The Throne Succession]] (ally)
+- [[Quest   The Throne Succession]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -200,11 +187,9 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Cultural Practices
 
@@ -217,7 +202,6 @@ Mentioned in The Second Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -236,7 +220,6 @@ Mentioned in The Second Prophecy of Depths
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

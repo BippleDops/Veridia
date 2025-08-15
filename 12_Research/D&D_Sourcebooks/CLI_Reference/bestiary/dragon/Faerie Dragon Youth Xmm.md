@@ -1,3 +1,12 @@
+---
+title: Faerie Dragon Youth Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faerie Dragon Youth Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-faerie-dragon-youth-xmm-faerie-dragon-youth-xmm.svg)
 
-# [[faerie-dragon-youth-xmm|Faerie Dragon Youth]]
+# [[faerie dragon youth xmm|Faerie Dragon Youth]]
 *Source: Monster Manual (2024) p. 117*  
 
 Faerie dragon youths are quick to use their euphoria-inducing breath on rude or uptight folk.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Faerie dragon youths are quick to use their euphoria-inducing breath on rude or 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Faerie Dragons
 
@@ -88,25 +91,25 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "1"
 "traits":
-  - "desc": "The dragon has [[advantage-xphb|Advantage]]\
+  - "desc": "The dragon has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage\
       \ plus 2 (d4) Psychic damage."
     "name": "Bite"
-  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn and uses all its movement on its\
       \ turn to move in a random direction."
     "name": "Euphoria Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[dancing-lights-xphb|Dancing Lights]],\
-      \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]]"
+      \ will: [[dancing lights xphb|Dancing Lights]],\
+      \ [[mage hand xphb|Mage Hand]], [[minor illusion xphb|Minor Illusion]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The dragon casts [[greater-invisibility-xphb|Greater Invisibility]]\
+  - "desc": "The dragon casts [[greater invisibility xphb|Greater Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Superior Invisibility"
@@ -136,7 +139,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -144,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

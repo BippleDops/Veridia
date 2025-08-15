@@ -1,3 +1,12 @@
+---
+title: 3 Rod of the Pact Keeper Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 3 Rod of the Pact Keeper Xdmg
 
 ---
@@ -34,10 +43,9 @@ world: Both
 
 While holding this rod, you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your Warlock spells.
 
-In addition, you can regain one spell slot as a [[actions#Magic|Magic]] action while holding the rod. You can't use this property again until you finish a [[long-rest-xphb|Long Rest]].
+In addition, you can regain one spell slot as a [[actions#Magic|Magic]] action while holding the rod. You can't use this property again until you finish a [[long rest xphb|Long Rest]].
 
 *Source: Dungeon Master's Guide (2024) p. 301*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ In addition, you can regain one spell slot as a [[actions#Magic|Magic]] action w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

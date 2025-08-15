@@ -1,3 +1,12 @@
+---
+title: Merrenoloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merrenoloth Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
 
-# [[merrenoloth-mpmm|Merrenoloth]]
+# [[merrenoloth mpmm|Merrenoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -88,10 +97,10 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\nAt will: [[charm-person-xphb|charm person]],\
-      \ [[darkness-xphb|darkness]], [[detect-magic-xphb|detect magic]],\
-      \ [[dispel-magic-xphb|dispel magic]], [[gust-of-wind-xphb|gust of wind]]\n\
-      \n3/day: [[control-water-xphb|control water]]"
+      \ DC 13):\n\nAt will: [[charm person xphb|charm person]],\
+      \ [[darkness xphb|darkness]], [[detect magic xphb|detect magic]],\
+      \ [[dispel magic xphb|dispel magic]], [[gust of wind xphb|gust of wind]]\n\
+      \n3/day: [[control water xphb|control water]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\
@@ -104,7 +113,6 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -116,11 +124,6 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -142,11 +145,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -156,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

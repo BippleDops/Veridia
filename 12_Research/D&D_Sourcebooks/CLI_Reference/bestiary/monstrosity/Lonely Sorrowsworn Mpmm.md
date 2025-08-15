@@ -1,3 +1,12 @@
+---
+title: Lonely Sorrowsworn Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lonely Sorrowsworn Mpmm
 
 ---
@@ -35,11 +44,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lonely-sorrowsworn-mpmm-lonely-sorrowsworn-mpmm.svg)
 
-# [[lonely-sorrowsworn-mpmm|Lonely Sorrowsworn]]
+# [[lonely sorrowsworn mpmm|Lonely Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sorrowsworn
 
@@ -131,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Encounter_Scaling_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Encounter_Scaling_Guide
 
 ---
@@ -84,7 +93,6 @@ world: Both
 | High (5000-15000 ft) | 18 | Severe weather, thin air |
 | Extreme (15000+ ft) | 21 | Violent storms, equipment failure |
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -114,7 +117,6 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -124,7 +126,6 @@ world: Both
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

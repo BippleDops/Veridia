@@ -1,3 +1,12 @@
+---
+title: Scroll of Protection Fiends Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scroll of Protection Fiends Xdmg
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Scroll, rare*  
 ![](/03_Mechanics/CLI/items/img/scroll-of-protection.webp#right)
 
-Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Fiend would be inside the area, the effect ends.
+Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[emanation area of effect xphb|Emanation]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Fiend would be inside the area, the effect ends.
 
-As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[emanation-area-of-effect-xphb|Emanation]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[emanation-area-of-effect-xphb|Emanation]].
+As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[emanation area of effect xphb|Emanation]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[emanation area of effect xphb|Emanation]].
 
 *Source: Dungeon Master's Guide (2024) p. 302*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[emanation
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

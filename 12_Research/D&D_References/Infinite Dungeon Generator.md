@@ -1,3 +1,12 @@
+---
+title: Infinite Dungeon Generator
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Infinite Dungeon Generator
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 Procedurally generates themed, scalable dungeons with treasure, bosses, storytelling, and emergent puzzles.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ Procedurally generates themed, scalable dungeons with treasure, bosses, storytel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Emergent Puzzles
 - Systems that combine: pressure valves + gravity fields + memory switches
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -83,7 +84,6 @@ Mentioned in The First Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

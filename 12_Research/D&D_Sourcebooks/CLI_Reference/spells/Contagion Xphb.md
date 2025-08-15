@@ -1,3 +1,12 @@
+---
+title: Contagion Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Contagion Xphb
 
 ---
@@ -37,16 +46,15 @@ world: Both
 - **Components:** V, S
 - **Duration:** 7 days
 
-Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take `11d8` Necrotic damage and have the [[conditions#Poisoned|Poisoned]] condition. Also, choose one ability when you cast the spell. While [[conditions#Poisoned|Poisoned]], the target has [[disadvantage-xphb|Disadvantage]] on saving throws made with the chosen ability.
+Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take `11d8` Necrotic damage and have the [[conditions#Poisoned|Poisoned]] condition. Also, choose one ability when you cast the spell. While [[conditions#Poisoned|Poisoned]], the target has [[disadvantage xphb|Disadvantage]] on saving throws made with the chosen ability.
 
 The target must repeat the saving throw at the end of each of its turns until it gets three successes or failures. If the target succeeds on three of these saves, the spell ends on the target. If the target fails three of the saves, the spell lasts for 7 days on it.
 
 Whenever the [[conditions#Poisoned|Poisoned]] target receives an effect that would end the [[conditions#Poisoned|Poisoned]] condition, the target must succeed on a Constitution saving throw, or the [[conditions#Poisoned|Poisoned]] condition doesn't end on it.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 256. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ Whenever the [[conditions#Poisoned|Poisoned]] target receives an effect that wou
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Related Notes
 
@@ -93,7 +94,6 @@ Mentioned in The Second Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

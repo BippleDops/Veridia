@@ -24,17 +24,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-engineer-prisma-depthwright-engineer-prisma-depthwright.svg]]
 
 # The Depthwright Laboratory
 *Where Innovation Meets the Depths*
 
 > *"In these halls, the impossible becomes inevitable. We don't just solve problems - we forge solutions from the very essence of the deep, creating tomorrow's miracles with today's determination. Every blueprint is a dream, every prototype a step toward transforming our underwater world."*
 > — [[Engineer Prisma Depthwright]], Master Engineer and Laboratory Director
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,12 +59,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -78,11 +71,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -96,12 +87,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -605,12 +594,9 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -630,7 +616,6 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

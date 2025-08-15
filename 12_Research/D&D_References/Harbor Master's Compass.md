@@ -1,3 +1,12 @@
+---
+title: Harbor Master's Compass
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Harbor Master's Compass
 
 ---
@@ -35,7 +44,7 @@ updated: '2025-08-13T01:18:37.139811+00:00'
 
 > [!infobox]
 > # Harbor Master's Compass
-> ![[Harbor Master's Compass|cover]]
+> 
 > ###### Item Information
 > | | |
 > |---|---|
@@ -43,7 +52,6 @@ updated: '2025-08-13T01:18:37.139811+00:00'
 > | **Rarity** | Rare |
 > | **Attunement** | Required |
 > | **Price** | 2,500 gp |
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ updated: '2025-08-13T01:18:37.139811+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -161,16 +164,13 @@ Legends speak of Harbor Master's Compass as a nexus where past and present conve
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

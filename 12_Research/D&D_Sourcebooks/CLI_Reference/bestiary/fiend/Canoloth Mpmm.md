@@ -1,3 +1,12 @@
+---
+title: Canoloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Canoloth Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-canoloth-mpmm-canoloth-mpmm.svg)
 
-# [[canoloth-mpmm|Canoloth]]
+# [[canoloth mpmm|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  
 
 > [!quote] A quote from Mordenkainen  
@@ -106,7 +115,6 @@ With senses sharp enough to pinpoint the locations of nearby [[conditions#Invisi
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ With senses sharp enough to pinpoint the locations of nearby [[conditions#Invisi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -144,7 +147,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a curse
@@ -156,7 +158,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

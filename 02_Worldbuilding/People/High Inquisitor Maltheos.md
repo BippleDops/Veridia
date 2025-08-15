@@ -26,14 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg]]
 
 # High Inquisitor Maltheos
 *The Zealous Purifier, Scourge of Corruption, Voice of Divine Wrath*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,14 +58,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -83,7 +74,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
@@ -96,8 +86,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 High Inquisitor Maltheos leads the [[Purist Coalition]], a growing religious and political movement dedicated to eradicating crystal corruption from Aethermoor. A brilliant theologian and charismatic orator, he genuinely believes that crystal technology represents a fundamental corruption of divine order. His uncompromising crusade against crystal use puts him on a collision course with [[Queen Seraphina Lumengarde]] and the entire royal establishment, though he remains unaware that his ultimate enemy—the Queen herself—suffers from the very corruption he seeks to destroy.
@@ -312,7 +300,6 @@ senses: Passive Perception 11
 languages: Common
 cr: 1/4
 ```
-
 
 ## A Day in the Life
 

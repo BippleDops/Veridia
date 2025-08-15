@@ -24,10 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-senator-marius-senator-marius.svg]]
 
 # Senator Marcus Marius Tidespeaker
 
@@ -45,7 +42,6 @@ improvements: 20
 **Languages** Common, Elvish, Aquabyssan, Primordial, Celestial  
 **Challenge Rating** 6 (2,300 XP)  
 **Proficiency Bonus** +3
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,12 +70,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Contradictions Improvements
@@ -89,11 +82,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -103,13 +94,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 Senator Marcus Marius represents the progressive wing of Aquabyssos's Parliament, a charismatic sea elf whose impassioned speeches and reform agenda have made him both a beloved champion of the common people and a target for conservative factions. Born into minor nobility but raised with commoners after his family's disgrace, Marcus combines aristocratic education with genuine understanding of ordinary citizens' struggles.
@@ -233,16 +221,13 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Historical Timeline
 
@@ -261,7 +246,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -273,7 +257,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -292,7 +275,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

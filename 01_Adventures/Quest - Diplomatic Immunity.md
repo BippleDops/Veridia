@@ -1,3 +1,12 @@
+---
+title: Quest - Diplomatic Immunity
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Diplomatic Immunity
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T01:18:34.475253+00:00'
 # Quest - Diplomatic Immunity
 *Preventing the War Nobody Wins*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ updated: '2025-08-13T01:18:34.475253+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Tensions between [[The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]], [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
@@ -166,11 +169,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

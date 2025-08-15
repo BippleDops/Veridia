@@ -1,3 +1,12 @@
+---
+title: morale
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # morale
 
 ---
@@ -43,7 +52,6 @@ On a failed save, the affected creature or group flees by the most expeditious r
 
 A failed saving throw isn't always to the adventurers' benefit. For example, an ogre that flees from combat might put the rest of the dungeon on alert or run off with treasure that the characters had hoped to plunder.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ A failed saving throw isn't always to the adventurers' benefit. For example, an 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

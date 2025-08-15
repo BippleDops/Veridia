@@ -1,3 +1,12 @@
+---
+title: Dr. Elena Compassion
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr. Elena Compassion
 
 ---
@@ -19,7 +28,6 @@ world: Aquabyssos
 updated: '2025-08-13T12:34:11.732434+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -31,11 +39,6 @@ updated: '2025-08-13T12:34:11.732434+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -51,21 +54,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[maddening-darkness-xge]]
-- [[dwarves-on-the-move-group-leader-mtf]]
+- [[maddening darkness xge]]
+- [[dwarves on the move group leader mtf]]
 - [[Nurse Nightshade]]
 - [[Heritage Keeper Memoryshade]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[githzerai-groups-githzerai-group-leader-mtf]]
-- [[guild-artisan]]
-- [[guild-artisan-guild-merchant-variant]]
+- [[githzerai groups githzerai group leader mtf]]
+- [[guild artisan]]
+- [[guild artisan guild merchant variant]]
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,13 +34,9 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Automated Improvements
 
-- Add macro/code for VTT implementation
 - Add macro/code for VTT implementation
 
 ### Magic_Items Improvements
@@ -53,24 +46,18 @@ improvements: 20
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Simplified Improvements
 
 - Create simplified version for new players
-
 
 ## Mechanic Overview
 
@@ -242,7 +229,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Quick Reference
 

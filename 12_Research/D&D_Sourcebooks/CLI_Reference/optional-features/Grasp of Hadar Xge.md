@@ -1,3 +1,12 @@
+---
+title: Grasp of Hadar Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Grasp of Hadar Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Grasp of Hadar
 *Source: Xanathar's Guide to Everything p. 57*  
 
-**Prerequisite**: [[eldritch-blast-xphb|eldritch blast]] cantrip
+**Prerequisite**: [[eldritch blast xphb|eldritch blast]] cantrip
 
-Once on each of your turns when you hit a creature with your [[eldritch-blast-xphb|eldritch blast]], you can move that creature in a straight line 10 feet closer to you.
-
+Once on each of your turns when you hit a creature with your [[eldritch blast xphb|eldritch blast]], you can move that creature in a straight line 10 feet closer to you.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Once on each of your turns when you hit a creature with your [[eldritch-blast-xp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

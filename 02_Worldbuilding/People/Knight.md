@@ -25,10 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-knight-knight.svg]]
 
 # Sir Theron Crystalward
 
@@ -48,7 +45,6 @@ improvements: 20
 **Languages** Common, Celestial, Aquabyssan  
 **Challenge Rating** 10 (5,900 XP)  
 **Proficiency Bonus** +4
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,13 +77,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -96,8 +88,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
@@ -115,7 +105,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Special Abilities
 
@@ -300,16 +289,13 @@ Theron works best as a recurring ally who grows and changes alongside the party.
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns humility
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Historical Timeline
 
@@ -327,7 +313,6 @@ Mentioned in The Second Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

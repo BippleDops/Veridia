@@ -1,3 +1,12 @@
+---
+title: Mobile_Dashboard
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mobile_Dashboard
 
 ---

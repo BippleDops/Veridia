@@ -1,3 +1,12 @@
+---
+title: Sword of Life Stealing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sword of Life Stealing Xdmg
 
 ---
@@ -34,7 +43,7 @@ world: Both
 *Rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
 
-When you attack a creature with this magic weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the amount of Necrotic damage taken.
+When you attack a creature with this magic weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [[temporary hit points xphb|Temporary Hit Points]] equal to the amount of Necrotic damage taken.
 
 **Variants**:
 - [Glaive of Life Stealing](#Glaive%20of%20Life%20Stealing)
@@ -47,11 +56,10 @@ When you attack a creature with this magic weapon and roll a 20 on the `d20` for
 ### Shortsword of Life Stealing
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 314. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ When you attack a creature with this magic weapon and roll a 20 on the `d20` for
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for power
@@ -96,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

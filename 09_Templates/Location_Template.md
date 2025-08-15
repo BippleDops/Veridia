@@ -1,3 +1,12 @@
+---
+title: Location_Template
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Location_Template
 
 ---
@@ -21,7 +30,6 @@ modified: '2025-08-14'
 
 ### Rumors
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Adventure Hooks
 
@@ -52,19 +55,17 @@ modified: '2025-08-14'
 | 11-12 | |
 
 ## Maps & Images
-![[map_placeholder]]
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[Nightmarket Plaza]]
-- [[trade-goods-phb]]
-- [[Shadow Broker Maximian Darkmarket]]
-- [[Archmerchant Codex Goldstrea]]
-- [[Deputy Archmerchant Scroll Deepmin]]
-- [[Deputy Archmerchant Scroll Deepmind]]
-- [[Finn Deepmarket]]
-- [[trade-goods-xdmg]]
-
+- [[Nightmarket Plaza (D&D References)]]
+- [[trade-goods-phb (tables)]]
+- [[Shadow Broker Maximian Darkmarket (D&D References)]]
+- [[Archmerchant Codex Goldstrea (D&D References)]]
+- [[Deputy Archmerchant Scroll Deepmin (D&D References)]]
+- [[Deputy Archmerchant Scroll Deepmind (D&D References)]]
+- [[Finn Deepmarket (D&D References)]]
+- [[trade-goods-xdmg (tables)]]
 
 ## Plot Hooks
 
@@ -76,7 +77,6 @@ modified: '2025-08-14'
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
-
 
 ## 09_Templates Specific Content
 

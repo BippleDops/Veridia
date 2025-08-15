@@ -1,3 +1,12 @@
+---
+title: Random Hag Minions Servants Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Hag Minions Servants Vgm
 
 ---
@@ -31,16 +40,15 @@ world: Both
 
 | dice: d8 | Servant(s) |
 |----------|------------|
-| 1 | [[flameskull-xmm|Flameskulls]] |
-| 2 | [[flesh-golem-xmm|Flesh Golems]] |
-| 3 | [[helmed-horror-xmm|Helmed Horrors]] |
-| 4 | [[animated-rug-of-smothering-xmm|Rug of Smothering]] |
-| 5 | [[scarecrow-xmm|Scarecrows]] |
-| 6 | [[shadow-mastiff-alpha-mpmm|Shadow Mastiffs]] |
-| 7 | `2d4` [[swarm-of-insects-xmm|swarms of insects]] or [[swarm-of-rats-xmm|swarms of rats]] |
-| 8 | [[yeth-hound-mpmm|Yeth Hounds]] |
+| 1 | [[flameskull xmm|Flameskulls]] |
+| 2 | [[flesh golem xmm|Flesh Golems]] |
+| 3 | [[helmed horror xmm|Helmed Horrors]] |
+| 4 | [[animated rug of smothering xmm|Rug of Smothering]] |
+| 5 | [[scarecrow xmm|Scarecrows]] |
+| 6 | [[shadow mastiff alpha mpmm|Shadow Mastiffs]] |
+| 7 | `2d4` [[swarm of insects xmm|swarms of insects]] or [[swarm of rats xmm|swarms of rats]] |
+| 8 | [[yeth hound mpmm|Yeth Hounds]] |
 ^servants
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,11 +78,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Challenge Rating Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Challenge Rating Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Challenge Rating
 *Source: Player's Handbook (2024) p. 363. Available in the SRD and the Free Rules (2024)* 
 
-Challenge Rating (CR) summarizes the threat a [[monster-xphb|monster]] poses to a group of four [[player-character-xphb|player characters]]. Compare a [[monster-xphb|monster's]] CR to the characters' level. If the CR is higher, the [[monster-xphb|monster]] is likely a danger. If the CR is lower, the [[monster-xphb|monster]] likely poses little threat. But circumstances and the number of [[player-character-xphb|player characters]] can significantly alter how threatening a [[monster-xphb|monster]] is in actual play. The "Dungeon Master's Guide" provides guidance to the DM on using CR while planning potential combat [[encounter-xphb|encounters]].
-
+Challenge Rating (CR) summarizes the threat a [[monster xphb|monster]] poses to a group of four [[player character xphb|player characters]]. Compare a [[monster xphb|monster's]] CR to the characters' level. If the CR is higher, the [[monster xphb|monster]] is likely a danger. If the CR is lower, the [[monster xphb|monster]] likely poses little threat. But circumstances and the number of [[player character xphb|player characters]] can significantly alter how threatening a [[monster xphb|monster]] is in actual play. The "Dungeon Master's Guide" provides guidance to the DM on using CR while planning potential combat [[encounter xphb|encounters]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Challenge Rating (CR) summarizes the threat a [[monster-xphb|monster]] poses to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals the truth about this place
@@ -75,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

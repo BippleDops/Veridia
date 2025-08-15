@@ -1,3 +1,12 @@
+---
+title: Modify Total Xp for Multiple Monsters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Modify Total Xp for Multiple Monsters
 
 ---
@@ -37,7 +46,6 @@ world: Both
 | 15 or more | ×4 |
 ^encounter-multipliers
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,17 +74,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
 - A noble needs help investigating before winter
 - A map reveals the truth about the cult
-- A map reveals a conspiracy about the government
 - A map reveals a conspiracy about the government
 
 ## 12_Research Specific Content

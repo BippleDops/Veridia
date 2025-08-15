@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,24 +51,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Basic Information
 
@@ -196,7 +185,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[High Priestess Nerida Soulcurrent]] (enemy)
-- [[Quest - The Seventh Song]] (ally)
+- [[Quest   The Seventh Song]] (ally)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -204,7 +193,6 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Cultural Practices
 

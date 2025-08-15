@@ -1,3 +1,12 @@
+---
+title: Violet Fungus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Violet Fungus Xmm
 
 ---
@@ -29,13 +38,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png]]
 
 # [[violet-fungus-xmm|Violet Fungus]]
 *Source: Monster Manual (2024) p. 126. Available in the SRD and the Free Rules (2024)*  
 
 Slow but mobile, violet fungi rot any flesh they touch with their lashing tendrils.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +55,6 @@ Slow but mobile, violet fungi rot any flesh they touch with their lashing tendri
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Fungi
 
@@ -113,7 +115,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and war looms
@@ -127,21 +128,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

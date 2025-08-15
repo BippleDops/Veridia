@@ -1,3 +1,12 @@
+---
+title: Boon of Planar Travel
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boon of Planar Travel
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Boon of Planar Travel
 
-When you gain this boon, choose a plane of existence other than the Material Plane. You can now use an action to cast the [[plane-shift-xphb|plane shift]] spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane. Once you use this boon, you can't use it again until you finish a short rest.
+When you gain this boon, choose a plane of existence other than the Material Plane. You can now use an action to cast the [[plane shift xphb|plane shift]] spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane. Once you use this boon, you can't use it again until you finish a short rest.
 
 *Source: Dungeon Master's Guide p. 232*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ When you gain this boon, choose a plane of existence other than the Material Pla
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

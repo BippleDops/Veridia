@@ -1,3 +1,12 @@
+---
+title: Identify Important Npcs Adventure Villains
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Identify Important Npcs Adventure Villains
 
 ---
@@ -48,7 +57,6 @@ world: Both
 | 20 | Misguided humanoid zealot |
 ^adventure-villains
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

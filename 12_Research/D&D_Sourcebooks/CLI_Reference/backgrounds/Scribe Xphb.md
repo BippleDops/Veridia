@@ -1,3 +1,12 @@
+---
+title: Scribe Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scribe Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/scribe.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Wisdom  
-- **Feat.** [[skilled-xphb|Skilled]]  
+- **Feat.** [[skilled xphb|Skilled]]  
 - **Skill Proficiencies.** [[skills#Investigation|Investigation]], [[skills#Perception|Perception]]  
-- **Tool Proficiency.** [[calligraphers-supplies-xphb|Calligrapher's Supplies]]  
-- **Equipment.** Choose A or B: (A) [[calligraphers-supplies-xphb|Calligrapher's Supplies]], [[fine-clothes-xphb|Fine Clothes]], [[lamp-xphb|Lamp]], [[oil-xphb|Oil]] (3 flasks), [[parchment-xphb|Parchment]] (12 sheets), 23 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[calligraphers supplies xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[calligraphers supplies xphb|Calligrapher's Supplies]], [[fine clothes xphb|Fine Clothes]], [[lamp xphb|Lamp]], [[oil xphb|Oil]] (3 flasks), [[parchment xphb|Parchment]] (12 sheets), 23 GP; or (B) 50 GP  
 
 You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge, or a government agency, where you learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature. You might have some skill as a writer of poetry, narrative, or scholarly research. Above all, you have a careful attention to detail, helping you avoid introducing mistakes to the documents you copy and create.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You spent formative years in a scriptorium, a monastery dedicated to the preserv
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

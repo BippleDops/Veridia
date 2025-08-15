@@ -13,9 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,27 +44,21 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Session_Zero Improvements
@@ -81,7 +72,6 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-
 
 ## Mechanic Overview
 
@@ -254,11 +244,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

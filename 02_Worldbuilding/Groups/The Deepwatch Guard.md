@@ -34,14 +34,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg]]
 
 # The Deepwatch Guard
 *Elite Sentinels Against the Darkness Below*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,11 +66,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -84,11 +78,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
@@ -98,8 +90,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
@@ -108,7 +98,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Deepwatch Guard serves as Aquabyssos's most specialized military unit, trained specifically to combat shadow corruption, deep-sea aberrations, and threats that emerge from the darkest depths of the realm. Unlike the regular [[The Depth Wardens]], who focus on general military defense, the Deepwatch Guard specializes in enemies that conventional forces cannot effectively engage—creatures of living shadow, manifestations of [[The Deep Mother]]'s influence, and horrors that defy normal military tactics. They represent the last line of defense against threats that could corrupt or destroy civilization from within.
@@ -174,7 +163,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - A document has gone missing and chaos spreads
@@ -198,7 +186,6 @@ Things widely suspected
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -210,7 +197,6 @@ Things widely suspected
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Iron Bands of Bilarro Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Iron Bands of Bilarro Xdmg
 
 ---
@@ -32,14 +41,13 @@ world: Both
 
 This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can take a [[actions#Magic|Magic]] action to throw the sphere at a Huge or smaller creature you can see within 60 feet of yourself. As the sphere moves through the air, it opens into a tangle of metal bands.
 
-Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your [[proficiency-xphb|Proficiency Bonus]]. On a hit, the target has the [[conditions#Restrained|Restrained]] condition until you take a [[bonus-action-xphb|Bonus Action]] to issue a command that releases it. Doing so or missing with the attack causes the bands to contract and become a sphere once more.
+Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your [[proficiency xphb|Proficiency Bonus]]. On a hit, the target has the [[conditions#Restrained|Restrained]] condition until you take a [[bonus action xphb|Bonus Action]] to issue a command that releases it. Doing so or missing with the attack causes the bands to contract and become a sphere once more.
 
 A creature that can touch the bands, including the one [[conditions#Restrained|Restrained]], can take an action to make a DC 20 Strength ([[skills#Athletics|Athletics]]) check to break the iron bands. On a successful check, the item is destroyed, and the [[conditions#Restrained|Restrained]] creature is freed. On a failed check, any further attempts made by that creature automatically fail until 24 hours have elapsed.
 
 Once the bands are used, they can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 274. Available in the SRD (as "Iron Bands of Binding") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Once the bands are used, they can't be used again until the next dawn.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about this place
@@ -86,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Duergar Laduguer Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Duergar Laduguer Mtf
 
 ---
@@ -39,7 +48,6 @@ Laduguer's teachings stand in direct opposition to everything Moradin represents
 
 Duergar don't worship Laduguer in any traditional way; their communities include no temples or formal services. They honor their deity by acquiring more power and wealth through any means possible. Priests of Laduguer maintain the internal functions of duergar society but have no role that is expressly religious.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ Duergar don't worship Laduguer in any traditional way; their communities include
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

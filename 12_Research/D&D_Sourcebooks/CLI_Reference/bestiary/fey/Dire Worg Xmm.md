@@ -1,3 +1,12 @@
+---
+title: Dire Worg Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dire Worg Xmm
 
 ---
@@ -35,11 +44,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dire-worg-xmm-dire-worg-xmm.svg)
 
-# [[dire-worg-xmm|Dire Worg]]
+# [[dire worg xmm|Dire Worg]]
 *Source: Monster Manual (2024) p. 335*  
 
 Dire worgs are larger than common worgs and possess a supernaturally terrifying howl. They frequently hunt alongside ettins, ogres, and trolls.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Dire worgs are larger than common worgs and possess a supernaturally terrifying 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Worgs
 
@@ -94,7 +97,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "languages": "Goblin, Sylvan, Worg"
 "cr": "10"
 "traits":
-  - "desc": "The worg has [[advantage-xphb|Advantage]]\
+  - "desc": "The worg has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -103,7 +106,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage\
       \ plus 7 (2d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the worg's next turn. While [[conditions#Poisoned|Poisoned]],\
-      \ the target can't regain [[hit-points-xphb|Hit Points]]."
+      \ the target can't regain [[hit points xphb|Hit Points]]."
     "name": "Bite"
   - "desc": "Wisdom Saving Throw: DC 16, each creature within 30 feet that isn't\
       \ a worg. Failure: 36 (8d8) Psychic damage, and the target has the [[conditions#frightened|Frightened]]\
@@ -140,11 +143,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for revenge
-- A document has gone missing and truth emerges
 - A document has gone missing and truth emerges
 
 ## Related Notes
@@ -154,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

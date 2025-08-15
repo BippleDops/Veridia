@@ -1,3 +1,12 @@
+---
+title: Parliament of Shadows
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Parliament of Shadows
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T01:18:36.759793+00:00'
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ updated: '2025-08-13T01:18:36.759793+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,11 +55,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

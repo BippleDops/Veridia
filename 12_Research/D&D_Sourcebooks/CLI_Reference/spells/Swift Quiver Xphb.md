@@ -1,3 +1,12 @@
+---
+title: Swift Quiver Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swift Quiver Xphb
 
 ---
@@ -33,12 +42,11 @@ world: Both
 - **Components:** V, S, M (a Quiver worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-When you cast the spell and as a [[bonus-action-xphb|Bonus Action]] until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
+When you cast the spell and as a [[bonus action xphb|Bonus Action]] until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]
+**Classes**: [[list spells classes ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 329*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ When you cast the spell and as a [[bonus-action-xphb|Bonus Action]] until it end
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a conspiracy about the government
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

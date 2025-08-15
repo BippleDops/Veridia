@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Sage Lyralei Starweaver
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Sage_Lyralei_Starweaver.png|Sage Lyralei Starweaver Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,13 +67,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -92,22 +83,18 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -162,12 +149,9 @@ Ongoing situations affecting Sage Lyralei Starweaver:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 

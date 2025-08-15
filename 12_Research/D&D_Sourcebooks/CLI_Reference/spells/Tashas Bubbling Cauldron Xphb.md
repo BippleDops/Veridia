@@ -1,91 +1,47 @@
-# Tashas Bubbling Cauldron Xphb
-
 ---
 title: Tashas Bubbling Cauldron Xphb
-aliases:
-- Tasha's Bubbling Cauldron
 type: note
 tags:
-- both
-- mechanics/magic
-- research
-- world/both
-- active
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Warlock
-- Wizard
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.319552+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Tasha's Bubbling Cauldron
-*6th-level, Conjuration*  
-![](/03_Mechanics/CLI/spells/img/tashas-bubbling-cauldron.webp#right)
+# Tashas Bubbling Cauldron Xphb
 
-- **Casting time:** 1 Action
-- **Range:** 5 feet
-- **Components:** V, S, M (a gilded ladle worth 500 + GP)
-- **Duration:** 10 minutes
+## Overview
+This document contains important information regarding Tashas Bubbling Cauldron Xphb and its role within the greater narrative.
 
-You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can't be moved and disappears when the spell ends, along with the bubbling liquid inside it.
+## Description
+Tashas Bubbling Cauldron Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a [[potion-of-healing-xdmg|Potion of Healing]]). As a [[bonus-action-xphb|Bonus Action]], you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
+## Details
+### Background
+Historical context and development over time.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+### Current State
+Present circumstances and ongoing relevance.
 
-*Source: Player's Handbook (2024) p. 330*
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Tashas bubbling cauldron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of tashas bubbling cauldron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tashas bubbling cauldron xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A document has gone missing and truth emerges
-- A stranger needs help delivering before winter
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

@@ -1,3 +1,12 @@
+---
+title: Gnome Segojan Earthcaller Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Segojan Earthcaller Mtf
 
 ---
@@ -37,7 +46,6 @@ The gnomes know Segojan Earthcaller as a kind, modest hero. He is said to be the
 
 Forest gnomes believe that their ability to speak with burrowing animals comes from Segojan. All gnomes see Segojan as a healer of the sick and a protector of the hearth. He is also revered in his role as a guide for gnomish souls after death, as long as the body is buried before worms claim it. If a gnome's body isn't entrusted to Segojan by interring it, the soul is forced to find its own way to the afterlife.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ Forest gnomes believe that their ability to speak with burrowing animals comes f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,16 +74,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

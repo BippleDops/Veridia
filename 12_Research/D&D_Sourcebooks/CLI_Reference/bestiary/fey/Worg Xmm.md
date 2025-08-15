@@ -1,3 +1,12 @@
+---
+title: Worg Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Worg Xmm
 
 ---
@@ -35,11 +44,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dire-worg-xmm-dire-worg-xmm.svg)
 
-# [[worg-xmm|Worg]]
+# [[worg xmm|Worg]]
 *Source: Monster Manual (2024) p. 335. Available in the SRD and the Free Rules (2024)*  
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire wi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Worgs
 
@@ -92,7 +95,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
       \ and the next attack roll made against the target before the start of the worg's\
-      \ next turn has [[advantage-xphb|Advantage]]."
+      \ next turn has [[advantage xphb|Advantage]]."
     "name": "Bite"
 "source":
   - "XMM"
@@ -120,16 +123,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Weird Tank Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Weird Tank Pota
 
 ---
@@ -28,16 +37,15 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/weird-tank.webp#right)
 
-A weird tank is a ten-gallon tank of blown glass and sculpted bronze with a backpack-like carrying harness fashioned from tough leather. A [[water-weird-xmm|water weird]] is contained within the tank. While wearing the tank, you can use an action to open it, allowing the [[water-weird-xmm|water weird]] to emerge. The [[water-weird-xmm|water weird]] acts immediately after you in the initiative order, and it is bound to the tank.
+A weird tank is a ten-gallon tank of blown glass and sculpted bronze with a backpack-like carrying harness fashioned from tough leather. A [[water weird xmm|water weird]] is contained within the tank. While wearing the tank, you can use an action to open it, allowing the [[water weird xmm|water weird]] to emerge. The [[water weird xmm|water weird]] acts immediately after you in the initiative order, and it is bound to the tank.
 
-You can command the [[water-weird-xmm|water weird]] telepathically (no action required) while you wear the tank. You can close the tank as an action only if you have first commanded the [[water-weird-xmm|water weird]] to retract into it or if the [[water-weird-xmm|water weird]] is dead.
+You can command the [[water weird xmm|water weird]] telepathically (no action required) while you wear the tank. You can close the tank as an action only if you have first commanded the [[water weird xmm|water weird]] to retract into it or if the [[water weird xmm|water weird]] is dead.
 
-If the [[water-weird-xmm|water weird]] is killed, the tank loses its magical containment property until it spends at least 24 hours inside an elemental water node. When the tank is recharged, a new [[water-weird-xmm|water weird]] forms inside it.
+If the [[water weird xmm|water weird]] is killed, the tank loses its magical containment property until it spends at least 24 hours inside an elemental water node. When the tank is recharged, a new [[water weird xmm|water weird]] forms inside it.
 
-The tank has AC 15, 50 hit points, vulnerability to bludgeoning damage, and immunity to poison and psychic damage. Reducing the tank to 0 hit points destroys it and the [[water-weird-xmm|water weird]] contained within it.
+The tank has AC 15, 50 hit points, vulnerability to bludgeoning damage, and immunity to poison and psychic damage. Reducing the tank to 0 hit points destroys it and the [[water weird xmm|water weird]] contained within it.
 
 *Source: Princes of the Apocalypse p. 223*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The tank has AC 15, 50 hit points, vulnerability to bludgeoning damage, and immu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

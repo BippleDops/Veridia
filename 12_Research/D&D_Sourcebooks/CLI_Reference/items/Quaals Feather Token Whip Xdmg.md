@@ -1,3 +1,12 @@
+---
+title: Quaals Feather Token Whip Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaals Feather Token Whip Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 This object looks like a feather.
 
-You can take a [[actions#Magic|Magic]] action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a [[bonus-action-xphb|Bonus Action]] to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes `1d6 + 5` Force damage.
+You can take a [[actions#Magic|Magic]] action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a [[bonus action xphb|Bonus Action]] to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes `1d6 + 5` Force damage.
 
-As a [[bonus-action-xphb|Bonus Action]], you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a [[actions#Magic|Magic]] action to dismiss it, or when you die or have the [[conditions#Incapacitated|Incapacitated]] condition.
+As a [[bonus action xphb|Bonus Action]], you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a [[actions#Magic|Magic]] action to dismiss it, or when you die or have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD (as "Feather Token, Whip") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ As a [[bonus-action-xphb|Bonus Action]], you can direct the whip to fly up to 20
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -84,7 +85,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

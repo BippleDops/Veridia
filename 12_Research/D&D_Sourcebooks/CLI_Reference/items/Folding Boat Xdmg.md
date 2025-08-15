@@ -1,3 +1,12 @@
+---
+title: Folding Boat Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Folding Boat Xdmg
 
 ---
@@ -38,10 +47,9 @@ This object appears as a wooden box that measures 12 inches long, 6 inches wide,
 
 When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
 
-Statistics for the [[rowboat-xphb|Rowboat]] and [[keelboat-xphb|Keelboat]] appear in the "Player's Handbook". If either vessel is reduced to 0 [[hit-points-xphb|Hit Points]], the Folding Boat is destroyed.
+Statistics for the [[rowboat xphb|Rowboat]] and [[keelboat xphb|Keelboat]] appear in the "Player's Handbook". If either vessel is reduced to 0 [[hit points xphb|Hit Points]], the Folding Boat is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 263. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Statistics for the [[rowboat-xphb|Rowboat]] and [[keelboat-xphb|Keelboat]] appea
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

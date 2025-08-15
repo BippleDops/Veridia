@@ -1,3 +1,12 @@
+---
+title: Shadow Crystal
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Crystal
 
 ---
@@ -17,8 +26,6 @@ updated: '2025-08-13T01:18:34.871693+00:00'
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -31,11 +38,6 @@ updated: '2025-08-13T01:18:34.871693+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,7 +54,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

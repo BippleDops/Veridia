@@ -1,3 +1,12 @@
+---
+title: Session 1 Shadows in the Senate
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_1_Shadows_in_the_Senate
 
 ---
@@ -232,7 +241,6 @@ traits:
 - Try to capture Marina alive
 - Retreat if reduced to half health
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -244,11 +252,6 @@ traits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hooks for Session 2
 
@@ -313,7 +316,7 @@ traits:
 - [[Parliament Building Map]]
 - [[Marina Currentswift Full Stats]]
 - [[Investigation Mechanics]]
-- [[Session 2 The Shadow Surgery]]
+- [[session 2 the shadow surgery]]
 
 ---
 
@@ -322,7 +325,6 @@ traits:
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 
@@ -333,7 +335,6 @@ traits:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Armor of Cold Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor of Cold Resistance Xdmg
 
 ---
@@ -42,7 +51,7 @@ world: Both
 # Armor of Cold Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance-xphb|Resistance]] to cold damage while you wear this armor.
+You have [[resistance xphb|Resistance]] to cold damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Cold Resistance](#Breastplate%20of%20Cold%20Resistance)
@@ -65,7 +74,6 @@ You have [[resistance-xphb|Resistance]] to cold damage while you wear this armor
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ You have [[resistance-xphb|Resistance]] to cold damage while you wear this armor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -107,11 +109,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

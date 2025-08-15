@@ -1,3 +1,12 @@
+---
+title: Greyhawk Rao Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Greyhawk Rao Xdmg
 
 ---
@@ -30,7 +39,6 @@ world: Both
 - **Pantheon**: Greyhawk
 - **Symbol**: White heart
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

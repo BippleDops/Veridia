@@ -1,3 +1,12 @@
+---
+title: CLAUDE
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # CLAUDE
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Project Overview
 This is a comprehensive TTRPG vault for the world of Cordelia, encompassing the dual realms of Aquabyssos (underwater kingdom) and Aethermoor (sky kingdom). The vault contains **110,000+ documents** including worldbuilding lore, NPCs, locations, mechanics, and campaign materials.
@@ -137,7 +140,6 @@ python scripts/automation_master.py --vault-path . status
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

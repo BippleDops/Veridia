@@ -1,3 +1,12 @@
+---
+title: Crystal_Plague_Encounter_Progressions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal_Plague_Encounter_Progressions
 
 ---
@@ -322,7 +331,6 @@ Environmental Effects = Standard + Corruption Hazards
 **Integration Points**: 47 cross-campaign encounter modifications identified
 **Next Priority**: Seven Shards Sessions 12-24 epic conclusion framework.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -334,11 +342,6 @@ Environmental Effects = Standard + Corruption Hazards
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -351,7 +354,6 @@ Environmental Effects = Standard + Corruption Hazards
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Related Notes
 

@@ -1,3 +1,12 @@
+---
+title: Gareth Ironforge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gareth Ironforge
 
 ---
@@ -20,8 +29,6 @@ world: Both
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-gareth-ironforge-gareth-ironforge.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 A stocky dwarf standing 4'2" with a magnificent braided beard adorned with small iron rings. His arms are thick with muscle from years at the forge, and his leather apron bears the burns and stains of countless hours of work.
@@ -62,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before the new moon
@@ -74,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

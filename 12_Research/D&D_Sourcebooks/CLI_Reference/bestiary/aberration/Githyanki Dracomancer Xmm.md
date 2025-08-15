@@ -1,3 +1,12 @@
+---
+title: Githyanki Dracomancer Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githyanki Dracomancer Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-dracomancer-xmm-githyanki-dracomancer-xmm.svg)
 
-# [[githyanki-dracomancer-xmm|Githyanki Dracomancer]]
+# [[githyanki dracomancer xmm|Githyanki Dracomancer]]
 *Source: Monster Manual (2024) p. 135*  
 
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ One of Gith's last deeds was to forge an alliance between the githyanki and the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Githyanki
 
@@ -109,18 +112,18 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
       \ the [[conditions#frightened|Frightened]] condition until\
       \ the start of the githyanki's next turn."
     "name": "Draconic Strike"
-  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 27 (6d8) Fire damage plus 27 (6d8) Force damage. Success: Half\
       \ damage."
     "name": "Conjured Dragon's Breath (Recharge 5-6)"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18, +10\
-      \ to hit with spell attacks):\n\nAt will: [[mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n2/day each: [[nondetection-xphb|Nondetection]]\
-      \ (self only), [[plane-shift-xphb|Plane Shift]], [[tongues-xphb|Tongues]]"
+      \ to hit with spell attacks):\n\nAt will: [[mage hand xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n2/day each: [[nondetection xphb|Nondetection]]\
+      \ (self only), [[plane shift xphb|Plane Shift]], [[tongues xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
+  - "desc": "The githyanki casts [[misty step xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "source":
@@ -149,16 +152,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

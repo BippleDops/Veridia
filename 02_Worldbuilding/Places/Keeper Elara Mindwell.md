@@ -45,10 +45,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-elara-mindwell-keeper-elara-mindwell.svg]]
 
 # Keeper Elara Mindwell
 
@@ -56,7 +53,6 @@ improvements: 20
 
 > *"Knowledge without wisdom is merely accumulation, but wisdom without knowledge is merely opinion. True understanding comes from weaving both together into patterns that illuminate the path forward."*
 > — Keeper Elara Mindwell, during the Cultural Preservation Conference
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -85,24 +81,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
@@ -120,7 +109,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -254,9 +242,9 @@ This project represents her most ambitious intellectual undertaking but also her
 
 **[[Aquabyssos Academy]] Leadership** - Maintains strong relationships with academic leadership, providing cultural expertise for institutional policies while advocating for academic freedom and research independence.
 
-**[[02_Worldbuilding/Groups/Cultural Preservation Societ|02 Worldbuilding/Groups/Cultural Preservation Societ]]** - Active member and occasional leader of organization dedicated to protecting and preserving cultural knowledge, working to ensure traditional practices are documented and respected.
+**[[02 Worldbuilding/Groups/Cultural Preservation Societ|02 Worldbuilding/Groups/Cultural Preservation Societ]]** - Active member and occasional leader of organization dedicated to protecting and preserving cultural knowledge, working to ensure traditional practices are documented and respected.
 
-**[[02_Worldbuilding/Lore/Diplomatic Training Institute]]** - Regular instructor and curriculum consultant, helping train future diplomats in cultural sensitivity and cross-cultural communication techniques.
+**[[02 Worldbuilding/Lore/Diplomatic Training Institute]]** - Regular instructor and curriculum consultant, helping train future diplomats in cultural sensitivity and cross-cultural communication techniques.
 
 ### Personal Connections
 
@@ -405,8 +393,6 @@ Ongoing situations affecting Keeper Elara Mindwell:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -419,17 +405,14 @@ Ongoing situations affecting Keeper Elara Mindwell:
 - DC 11 to detect
 - 6d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Fireball**
   - School: Evocation
   - Manifestation: Intermittent
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Cultural Practices
 
@@ -442,7 +425,6 @@ Ongoing situations affecting Keeper Elara Mindwell:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

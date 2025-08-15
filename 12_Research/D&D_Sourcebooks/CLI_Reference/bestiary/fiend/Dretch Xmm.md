@@ -1,3 +1,12 @@
+---
+title: Dretch Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dretch Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dretch-xmm-dretch-xmm.svg)
 
-# [[dretch-xmm|Dretch]]
+# [[dretch xmm|Dretch]]
 *Source: Monster Manual (2024) p. 103. Available in the SRD and the Free Rules (2024)*  
 
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Lone dretches serve other demons or evil magic-users. They are erratic, filthy, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Dretches
 
@@ -95,10 +98,10 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the dretch. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn. While [[conditions#Poisoned|Poisoned]],\
-      \ the creature can take either an action or a [[bonus-action-xphb|Bonus Action]]\
+      \ the creature can take either an action or a [[bonus action xphb|Bonus Action]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Cloud (1/Day)"
 "source":
@@ -127,11 +130,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -141,7 +142,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Quest - The Lost Expedition
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Lost Expedition
 
 ---
@@ -23,7 +32,6 @@ updated: '2025-08-13T01:18:34.467445+00:00'
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ updated: '2025-08-13T01:18:34.467445+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Summary
 
@@ -137,7 +140,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 #### Key Areas:
 
-**The Corruption Chambers:** Where expedition members are being slowly transformed into [[Void-Touched]] beings
+**The Corruption Chambers:** Where expedition members are being slowly transformed into [[Void Touched]] beings
 
 **The Central Forge:** A massive machine drawing power from [[Aethermoor]]'s ley lines and spreading corruption
 
@@ -225,7 +228,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 ---
 
-### [[Void-touched Crew Member|02 Worldbuilding/Groups/Void Touched Crew Member]] (6-8 remaining)
+### [[Void touched Crew Member|02 Worldbuilding/Groups/Void Touched Crew Member]] (6-8 remaining)
 *Medium humanoid (various), chaotic neutral*
 **AC** 14, **HP** 52 each, **Speed** 30 ft.
 **Challenge Rating:** 4 each
@@ -281,11 +284,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -295,7 +296,6 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

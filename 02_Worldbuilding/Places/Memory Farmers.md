@@ -31,7 +31,7 @@ founded: Second Age of Aquabyssos
 leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
 related_entities:
 - '[[Memory Alterations]]'
-- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 specialties:
 - Memory Extraction
@@ -44,14 +44,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-farmers-memory-farmers.svg]]
 
 # Memory Farmers
 *Harvesters of Experience and Consciousness*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -84,14 +80,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -100,7 +91,6 @@ improvements: 20
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -114,8 +104,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -162,7 +150,7 @@ Today's Memory Farmers operate a complex network spanning multiple depth levels,
 - Can continue for years before subjects realize extent of memory loss
 
 **Forced Extraction**: Kidnapped victims subjected to invasive procedures
-- Utilizes techniques derived from [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Utilizes techniques derived from [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Subjects often left as empty shells or with fabricated replacement memories
 - Most profitable method but highest risk of [[Parliament of Echoes]] intervention
 
@@ -319,12 +307,9 @@ Ongoing situations affecting Memory Farmers:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 
@@ -348,7 +333,6 @@ Key stop on textiles trade route
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -360,7 +344,6 @@ Key stop on textiles trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

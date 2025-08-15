@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-into-the-blue-into-the-blue.svg]]
 
 # Into the Blue
 
 *"Beyond the mapped waters lies infinity - and perhaps answers."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,22 +60,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
@@ -93,13 +84,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 An exploration quest that takes players into the unmapped depths of the ocean beyond Aquabyssos's charted territories. This dangerous expedition seeks to uncover the truth behind mysterious phenomena detected at the edge of known waters.
@@ -212,12 +200,9 @@ Ongoing situations affecting Into the Blue:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## A Day in the Life
 

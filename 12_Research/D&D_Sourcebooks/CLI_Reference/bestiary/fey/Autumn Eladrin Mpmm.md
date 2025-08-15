@@ -1,3 +1,12 @@
+---
+title: Autumn Eladrin Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Autumn Eladrin Mpmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-autumn-eladrin-mpmm-autumn-eladrin-mpmm.svg)
 
-# [[autumn-eladrin-mpmm|Autumn Eladrin]]
+# [[autumn eladrin mpmm|Autumn Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Eladrin
 
@@ -122,11 +125,11 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[hold-person-xphb|hold person]]\n\n\
-      2/day each: [[cure-wounds-xphb|cure wounds]] (as\
-      \ a 5th-level spell), [[lesser-restoration-xphb|lesser restoration]]\n\
-      \n1/day each: [[greater-restoration-xphb|greater restoration]],\
-      \ [[revivify-xphb|revivify]]"
+      \nAt will: [[hold person xphb|hold person]]\n\n\
+      2/day each: [[cure wounds xphb|cure wounds]] (as\
+      \ a 5th-level spell), [[lesser restoration xphb|lesser restoration]]\n\
+      \n1/day each: [[greater restoration xphb|greater restoration]],\
+      \ [[revivify xphb|revivify]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -164,7 +167,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

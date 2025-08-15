@@ -1,3 +1,12 @@
+---
+title: Leomunds Tiny Hut Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Leomunds Tiny Hut Xphb
 
 ---
@@ -44,14 +53,13 @@ A 10-foot [[emanation-area-of-effect-xphb|Emanation]] springs into existence aro
 
 Creatures and objects within the [[emanation-area-of-effect-xphb|Emanation]] when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
 
-The atmosphere inside the [[emanation-area-of-effect-xphb|Emanation]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]] (no action required). The [[emanation-area-of-effect-xphb|Emanation]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
+The atmosphere inside the [[emanation-area-of-effect-xphb|Emanation]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[dim-light-xphb|Dim Light]] or [[darkness xphb|Darkness]] (no action required). The [[emanation-area-of-effect-xphb|Emanation]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
 
 The spell ends early if you leave the [[emanation-area-of-effect-xphb|Emanation]] or if you cast it again.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 291. Available in the SRD (as "Tiny Hut") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ The spell ends early if you leave the [[emanation-area-of-effect-xphb|Emanation]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,21 +89,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

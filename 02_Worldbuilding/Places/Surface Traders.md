@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg]]
 
 # Surface Traders
 
 *"Profit flows wherever currents carry willing merchants."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,12 +61,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -80,13 +73,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -100,7 +89,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 The Surface Traders are a consortium of merchants who specialize in the dangerous but lucrative business of trading between Aquabyssos and the surface world. Despite official restrictions and political tensions, they maintain secret trade routes and relationships.
@@ -228,12 +216,9 @@ Ongoing situations affecting Surface Traders:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

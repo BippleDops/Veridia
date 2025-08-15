@@ -30,10 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg]]
 
 # Harbor District Customs House
 
@@ -41,7 +38,6 @@ improvements: 20
 
 > *"Every crate tells a story, every manifest holds secrets, and every trader carries hopes across the waters. Here, we ensure that what enters our realm serves the crown and the people alike."*
 > — [[Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,17 +66,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -90,11 +82,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -104,8 +94,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -697,7 +685,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Related Items and Concepts**:
 - [[Trade Regulations]]
 - [[Customs Authority]]
-- [[Anti-Smuggling Operations]]
+- [[Anti Smuggling Operations]]
 - [[International Trade Agreements]]
 
 ## Player-Facing Summary
@@ -746,12 +734,9 @@ Ongoing situations affecting Harbor District Customs House:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

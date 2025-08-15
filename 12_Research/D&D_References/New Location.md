@@ -1,3 +1,12 @@
+---
+title: New Location
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # New Location
 
 ---
@@ -43,15 +52,10 @@ location_type:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## General Info
 **Type**: 
-**Parent Location**: [[Location]]
+**Parent Location**: [[location]]
 
 ## Player-Facing Summary
 
@@ -68,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

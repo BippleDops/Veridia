@@ -1,3 +1,12 @@
+---
+title: Cross-Realm Conspiracy Networks
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cross-Realm Conspiracy Networks
 
 ---
@@ -20,7 +29,6 @@ world: Both Worlds
 updated: '2025-08-13T01:18:34.535710+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ updated: '2025-08-13T01:18:34.535710+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -361,11 +364,9 @@ Legends speak of Cross Realm Conspiracy Networks as a nexus where past and prese
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

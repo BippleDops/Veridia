@@ -1,3 +1,12 @@
+---
+title: Advantage Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Advantage Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Advantage
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-If you have Advantage on a [[d20-test-xphb|D20 Test]], roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and [[disadvantage-xphb|Disadvantage]] on the same roll cancel each other.
-
+If you have Advantage on a [[d20 test xphb|D20 Test]], roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and [[disadvantage xphb|Disadvantage]] on the same roll cancel each other.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ If you have Advantage on a [[d20-test-xphb|D20 Test]], roll two d20s, and use th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,14 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

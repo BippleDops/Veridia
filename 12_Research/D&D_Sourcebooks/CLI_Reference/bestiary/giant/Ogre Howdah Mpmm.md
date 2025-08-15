@@ -1,3 +1,12 @@
+---
+title: Ogre Howdah Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ogre Howdah Mpmm
 
 ---
@@ -36,8 +45,7 @@ world: Both
 # [[ogre-howdah-mpmm|Ogre Howdah]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[goblin-warrior-xmm|goblins]] into battle, or perhaps [[kobold-warrior-xmm|kobolds]] or [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]], but they might also transport other Small folk.
-
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[goblin-warrior-xmm|goblins]] into battle, or perhaps [[kobold-warrior-xmm|kobolds]] or [[/03 Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]], but they might also transport other Small folk.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The most unusual of the specialized ogres, the howdah carries a palisaded wooden
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ogres of War
 
@@ -66,7 +69,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[[breastplate-xphb|breastplate]], [[shield-xphb|shield]]"
+"ac_class": "[[breastplate xphb|breastplate]], [[shield xphb|shield]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -119,11 +122,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

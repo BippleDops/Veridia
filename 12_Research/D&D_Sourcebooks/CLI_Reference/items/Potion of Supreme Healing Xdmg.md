@@ -1,3 +1,12 @@
+---
+title: Potion of Supreme Healing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Supreme Healing Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-You regain `10d4 + 20` [[hit-points-xphb|Hit Points]] when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `10d4 + 20` [[hit points xphb|Hit Points]] when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You regain `10d4 + 20` [[hit-points-xphb|Hit Points]] when you drink this potion
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

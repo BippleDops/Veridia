@@ -1,3 +1,12 @@
+---
+title: Special Features Who Created It Or Was Intended to Use It
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # special-features-who-created-it-or-was-intended-to-use-it
 
 ---
@@ -48,7 +57,6 @@ world: Both
 | 20 | Undead. The item incorporates imagery of death such as bones and skulls, and it might be crafted from parts of corpses. It feels cold to the touch |
 ^who-created-it-or-was-intended-to-use-it
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

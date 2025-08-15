@@ -1,3 +1,12 @@
+---
+title: Githzerai Monk Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githzerai Monk Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-monk-xmm-githzerai-monk-xmm.svg)
 
-# [[githzerai-monk-xmm|Githzerai Monk]]
+# [[githzerai monk xmm|Githzerai Monk]]
 *Source: Monster Manual (2024) p. 136*  
 
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Githzerai monks pursue control of their minds by honing their physical and psion
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Githzerai
 
@@ -126,16 +129,16 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
       \ plus 9 (2d8) Psychic damage."
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day: [[see-invisibility-xphb|See Invisibility]]"
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[mage hand xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n1/day: [[see invisibility xphb|See Invisibility]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [[jump-xphb|Jump]], requiring\
+  - "desc": "The githzerai casts [[jump xphb|Jump]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's\
+  - "desc": "The githzerai casts [[feather fall xphb|Feather Fall]]\
+      \ or [[shield xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"
@@ -165,11 +168,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -184,11 +185,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

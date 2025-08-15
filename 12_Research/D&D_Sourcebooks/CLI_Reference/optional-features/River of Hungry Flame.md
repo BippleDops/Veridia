@@ -1,3 +1,12 @@
+---
+title: River of Hungry Flame
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # River of Hungry Flame
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [[wall-of-fire-xphb|wall of fire]].
-
+You can spend 5 ki points to cast [[wall of fire xphb|wall of fire]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can spend 5 ki points to cast [[wall-of-fire-xphb|wall of fire]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

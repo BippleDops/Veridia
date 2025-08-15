@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Market Master Cornelius Driftwood
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Market_Master_Cornelius_Driftwood.png|Market Master Cornelius Driftwood Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,23 +67,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -98,13 +87,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -159,8 +145,6 @@ Ongoing situations affecting Market Master Cornelius Driftwood:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for power
@@ -184,7 +168,6 @@ Ongoing situations affecting Market Master Cornelius Driftwood:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

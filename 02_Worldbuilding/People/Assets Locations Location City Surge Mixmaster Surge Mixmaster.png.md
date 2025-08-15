@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +49,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
@@ -66,8 +61,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
@@ -76,14 +69,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Basic Information
 
@@ -194,7 +183,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Queen Seraphina Lumengarde]] (enemy)
-- [[10-combat#Dropping_to_0_Hit_Points#Monsters_and_Death]] (friend)
+- [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]] (friend)
 - [[Watch Captain Roderick Shieldbreaker]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -210,7 +199,6 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

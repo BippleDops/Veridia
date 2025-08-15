@@ -1,3 +1,12 @@
+---
+title: The Parliament of Nobody
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Parliament of Nobody
 
 ---
@@ -37,7 +46,6 @@ obsidianUIMode: preview
 # The Parliament of Nobody
 *The Silent Democracy, The Forgotten Assembly, Voices of the Unheard*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s shadow-touched nature - a governing body where identity itself becomes fluid and representatives speak for those who have been erased, forgotten, or never existed. This phantom legislature meets in the spaces between spaces, making decisions that affect the living world while remaining completely removed from conventional power structures. They are the voice of the voiceless, the representation of the unrepresented, and the democracy of the discarded.
@@ -88,7 +91,7 @@ The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 W
 - **Deputy of the Diminished**: [[Echo-Who-Was-Elena]] - represents the partially erased
 - **Minister of the Missing**: [[Nobody-Named-Marcus]] - advocates for the completely forgotten
 - **Archivist of Absence**: [[The Unnamed Chronicler]] - records non-events
-- **Treasurer of Nothing**: [[Void-Keeper ]] - manages resources that don't exist
+- **Treasurer of Nothing**: [[Void Keeper ]] - manages resources that don't exist
 - **General of the Gone**: [[Commander Transparent]] - leads non-corporeal forces
 
 #### The Chamber of Whispers
@@ -121,7 +124,7 @@ The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 W
 - Composed of the most thoroughly non-existent members
 - Has power to temporarily manifest for intervention
 - Can override physical world decisions through paradox creation
-- Serves as final check on [[Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]'s power
+- Serves as final check on [[Empress Tethys the Ever Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]'s power
 
 ### The  Treasury
 **Resources That Don't Exist**
@@ -202,8 +205,6 @@ The Parliament of Nobody is a undersea element of the setting, known for biolumi
 
 Legends speak of The Parliament of Nobody as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Parliament of Nobody.
 
-
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -214,7 +215,6 @@ Legends speak of The Parliament of Nobody as a nexus where past and present conv
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

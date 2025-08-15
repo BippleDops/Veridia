@@ -1,3 +1,12 @@
+---
+title: System Cli Items Weapons
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Items Weapons
 
 ---
@@ -28,35 +37,35 @@ world: Aquabyssos
 The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[Aethermoor]] and [[Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
 
 ### Aethermoor: Resoce Weapons
-In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[Seven Shards]]. The [[02_Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
+In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[Seven Shards]]. The [[02 Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
 
 **Resoce Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
 
-The [[02_Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resoce capable of leveling entire buildings.
+The [[02 Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resoce capable of leveling entire buildings.
 
 ### Aquabyssos: Pressure and Corruption
-In the depths, weapons must withstand crushing pressure while channeling the dark energies that seep through the water. The [[02_Worldbuilding/Factions/The Void Sculptors|02 Worldbuilding/Factions/The Void Sculptors]] craft "Depth Weapons" from materials that have been exposed to the Deep Mother's influence, resulting in arms that grow stronger the deeper they go.
+In the depths, weapons must withstand crushing pressure while channeling the dark energies that seep through the water. The [[02 Worldbuilding/Factions/The Void Sculptors|02 Worldbuilding/Factions/The Void Sculptors]] craft "Depth Weapons" from materials that have been exposed to the Deep Mother's influence, resulting in arms that grow stronger the deeper they go.
 
 **Pressure Hammers** use hydraulic force to deliver impacts equivalent to the crushing weight of the entire ocean. **Corruption Blades** slowly poison their targets with the same madness that affects the Deep Mother's servants, their wounds festering with otherworldly taint.
 
-The [[02_Worldbuilding/Locations/Abyssal Forges|02 Worldbuilding/Locations/Abyssal Forges]] produce weapons that blur the line between crafted tool and living organism, their metal surfaces writhing with a life of their own.
+The [[02 Worldbuilding/Locations/Abyssal Forges|02 Worldbuilding/Locations/Abyssal Forges]] produce weapons that blur the line between crafted tool and living organism, their metal surfaces writhing with a life of their own.
 
 ### The Shard-Touched Arsenal
 Seven legendary weapons were forged in the moments immediately following the Sundering, each infused with fragments of the [[Seven Shards]]:
 
-1. **Lightrender** - A crystalline spear that fires beams of pure illumination, wielded by the first [[02_Worldbuilding/Factions/The Resoce Keepers|02 Worldbuilding/Factions/The Resoce Keepers]]
-2. **Deepbane** - A pressure-forged trident that can control ocean currents, lost somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]]
-3. **Truthcutter** - A sword that cannot be deceived by illusion or lie, sought by the [[02_Worldbuilding/Organizations/The Truth Seekers|02 Worldbuilding/Organizations/The Truth Seekers]]
-4. **Dreambringer** - A staff that can manifest nightmares as physical entities, sealed away by the [[02_Worldbuilding/Organizations/The Ethical Council of Mages|02 Worldbuilding/Organizations/The Ethical Council Of Mages]]
-5. **Windwalker** - A bow whose arrows never miss and can travel between realms, property of the [[02_Worldbuilding/Factions/The Skyborne Merchants|02 Worldbuilding/Factions/The Skyborne Merchants]]
+1. **Lightrender** - A crystalline spear that fires beams of pure illumination, wielded by the first [[02 Worldbuilding/Factions/The Resoce Keepers|02 Worldbuilding/Factions/The Resoce Keepers]]
+2. **Deepbane** - A pressure-forged trident that can control ocean currents, lost somewhere in the [[02 Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]]
+3. **Truthcutter** - A sword that cannot be deceived by illusion or lie, sought by the [[02 Worldbuilding/Organizations/The Truth Seekers|02 Worldbuilding/Organizations/The Truth Seekers]]
+4. **Dreambringer** - A staff that can manifest nightmares as physical entities, sealed away by the [[02 Worldbuilding/Organizations/The Ethical Council of Mages|02 Worldbuilding/Organizations/The Ethical Council Of Mages]]
+5. **Windwalker** - A bow whose arrows never miss and can travel between realms, property of the [[02 Worldbuilding/Factions/The Skyborne Merchants|02 Worldbuilding/Factions/The Skyborne Merchants]]
 6. **Voidheart** - A dagger that devours light and hope, rumored to be in the possession of the Deep Mother herself
-7. **Unitybind** - A chain weapon that strengthens when multiple wielders work in harmony, currently held by the [[02_Worldbuilding/Organizations/The Unity Coalition|02 Worldbuilding/Organizations/The Unity Coalition]]
+7. **Unitybind** - A chain weapon that strengthens when multiple wielders work in harmony, currently held by the [[02 Worldbuilding/Organizations/The Unity Coalition|02 Worldbuilding/Organizations/The Unity Coalition]]
 
 ### The Mourning Blade
-Crafted by the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]] to commemorate the fallen of the first war against the Deep Mother, this sword carries the spirits of those who died fighting the corruption. It grows sharper with each life it takes in righteous battle, but also heavier with the weight of necessary violence.
+Crafted by the [[02 Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]] to commemorate the fallen of the first war against the Deep Mother, this sword carries the spirits of those who died fighting the corruption. It grows sharper with each life it takes in righteous battle, but also heavier with the weight of necessary violence.
 
 ### The Laughing Death
-A weapon of pure chaos created in the [[02_Worldbuilding/Locations/Phantom Reef|02 Worldbuilding/Locations/Phantom Reef]], this shape-shifting implement appears as whatever its wielder finds most amusing at the moment—often a rubber chicken or oversized lollipop—while delivering absolutely lethal attacks. The [[02_Worldbuilding/Factions/The Order of the Veil|02 Worldbuilding/Factions/The Order Of The Veil]] considers it too dangerous for anyone's mental health to use.
+A weapon of pure chaos created in the [[02 Worldbuilding/Locations/Phantom Reef|02 Worldbuilding/Locations/Phantom Reef]], this shape-shifting implement appears as whatever its wielder finds most amusing at the moment—often a rubber chicken or oversized lollipop—while delivering absolutely lethal attacks. The [[02 Worldbuilding/Factions/The Order of the Veil|02 Worldbuilding/Factions/The Order Of The Veil]] considers it too dangerous for anyone's mental health to use.
 
 ### Forge-Master Crystalstrike (Aethermoor)
 The finest smith in the floating realm, known for creating weapons that sing with their own unique voice. Her masterwork, the **Symphony Blade**, changes its combat abilities based on the musical mode it's currently resonating in.
@@ -71,11 +80,10 @@ A mysterious figure who appears in both realms, crafting weapons that seem to ex
 Every weapon forged in either realm must undergo the Ritual of First Strike, where it draws its first blood from its own creator. This binding ceremony ensures the weapon will serve its intended purpose and warns smiths against creating instruments of pure malice.
 
 ### Shard Resoce Testing
-Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[Seven Shards]]. Those that show natural resoce are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
+Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[Seven Shards]]. Those that show natural resoce are marked with the [[02 Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
 
 ### Corruption Resistance Protocols
 All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -88,11 +96,6 @@ All weapons made in Aquabyssos undergo testing to ensure they won't be turned ag
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Magical Enhancement
 
@@ -104,15 +107,15 @@ Weapons can be enhanced through various magical processes:
 - **Dimensional Phasing**: Allowing weapons to partially exist in multiple planes
 - **Time Dilation**: Creating weapons that strike before they're swung
 
-The [[02_Worldbuilding/Organizations/The Academy of Fundamental Truths|02 Worldbuilding/Organizations/The Academy Of Fundamental Truths]] maintains research into the theoretical limits of weapon enhancement, while the [[02_Worldbuilding/Factions/The Prismatic Order|02 Worldbuilding/Factions/The Prismatic Order]] specializes in practical applications.
+The [[02 Worldbuilding/Organizations/The Academy of Fundamental Truths|02 Worldbuilding/Organizations/The Academy Of Fundamental Truths]] maintains research into the theoretical limits of weapon enhancement, while the [[02 Worldbuilding/Factions/The Prismatic Order|02 Worldbuilding/Factions/The Prismatic Order]] specializes in practical applications.
 
 ## Economic and Political Impact
 
-Weapon trade forms a crucial part of the economy in both realms. The [[02_Worldbuilding/Factions/The Skyborne Merchants|02 Worldbuilding/Factions/The Skyborne Merchants]] control most inter-realm weapons trafficking, while the [[02_Worldbuilding/Factions/Abyssal Courts|02 Worldbuilding/Factions/Abyssal Courts]] regulate weapon distribution in the depths.
+Weapon trade forms a crucial part of the economy in both realms. The [[02 Worldbuilding/Factions/The Skyborne Merchants|02 Worldbuilding/Factions/The Skyborne Merchants]] control most inter-realm weapons trafficking, while the [[02 Worldbuilding/Factions/Abyssal Courts|02 Worldbuilding/Factions/Abyssal Courts]] regulate weapon distribution in the depths.
 
-The [[02_Worldbuilding/Organizations/The Unity Coalition|02 Worldbuilding/Organizations/The Unity Coalition]] has proposed shared weapon development programs to strengthen both realms against the Deep Mother, but progress remains slow due to traditional mistrust and competing interests.
+The [[02 Worldbuilding/Organizations/The Unity Coalition|02 Worldbuilding/Organizations/The Unity Coalition]] has proposed shared weapon development programs to strengthen both realms against the Deep Mother, but progress remains slow due to traditional mistrust and competing interests.
 
-Recent discoveries of pre-Sundering weapons in various [[02_Worldbuilding/Locations/Archive of Echoes|02 Worldbuilding/Locations/Archive Of Echoes]] sites have sparked new debates about the relationship between ancient and modern crafting techniques, with some arguing that the art of weaponsmithing peaked before the realms were split.
+Recent discoveries of pre-Sundering weapons in various [[02 Worldbuilding/Locations/Archive of Echoes|02 Worldbuilding/Locations/Archive Of Echoes]] sites have sparked new debates about the relationship between ancient and modern crafting techniques, with some arguing that the art of weaponsmithing peaked before the realms were split.
 
 ## Player-Facing Summary
 
@@ -130,11 +133,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

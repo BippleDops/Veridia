@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,22 +34,17 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Session_Zero Improvements
 
-- Include session zero discussion points
-- Include session zero discussion points
 - Include session zero discussion points
 
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Abuse_Prevention Improvements
 
-- Add guidelines to prevent exploitation
 - Add guidelines to prevent exploitation
 
 ### Variant Improvements
@@ -62,18 +54,14 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Simplified Improvements
 
-- Create simplified version for new players
 - Create simplified version for new players
 
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-
 
 ## Mechanic Overview
 
@@ -246,16 +234,13 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

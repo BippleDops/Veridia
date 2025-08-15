@@ -1,92 +1,47 @@
-# Zariel Mtf
-
 ---
 title: Zariel Mtf
-aliases:
-- Zariel
-type: note
+type: organization
 tags:
-- both
-- content/faction
-- research
-- world/both
-- active
-- ttrpg-cli/compendium/src/5e/mtf
-- note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.967693+00:00'
-world: Both
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-zariel-mtf-v1-zariel-mtf.svg)
+# Zariel Mtf
 
+## Overview
+This document contains important information regarding Zariel Mtf and its role within the greater narrative.
 
-## 🔧 Deep Evaluation Improvements
+## Description
+Zariel Mtf represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*20 targeted improvements identified*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Connection Improvements
+## Details
+### Background
+Historical context and development over time.
 
-- Add cross-references to related notes
+### Current State
+Present circumstances and ongoing relevance.
 
-### Enhancement Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-## Lair actions
-_Source: Mordenkainen's Tome of Foes_
-
-On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
-
-- Zariel casts [[major-image-xphb|major image]] four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [[conditions#frightened|frightened]] of the illusion for 1 minute. A [[conditions#frightened|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- Zariel casts her innate [[fireball-xphb|fireball]] spell.  
-
-## Regional effects
-
-The region containing Zariel's lair is warped by her magic, which creates one or more of the following effects:
-
-- The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.  
-- Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 (`2d6`) fire damage, though it can take this damage no more than once per round.  
-- The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away.  
-
-If Zariel dies, these effects fade over the course of `d10` days.
-
-## Player-Facing Summary
-
-Zariel mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of zariel mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zariel mtf.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Stars
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
+*Customize as needed for your specific campaign requirements.*

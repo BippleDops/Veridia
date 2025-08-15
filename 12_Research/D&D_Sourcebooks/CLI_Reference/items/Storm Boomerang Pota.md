@@ -1,3 +1,12 @@
+---
+title: Storm Boomerang Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm Boomerang Pota
 
 ---
@@ -33,12 +42,11 @@ world: Both
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/120
 
-This boomerang is a ranged weapon carved from [[griffon-xmm|griffon]] bone and etched with the symbol of elemental air. When thrown, it has a range of 60/120 feet, and any creature that is proficient with the javelin is also proficient with this weapon. On a hit, the boomerang deals `d4` bludgeoning damage and `3d4` thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be [[conditions#Stunned|stunned]] until the end of its next turn. On a miss, the boomerang returns to the thrower's hand.
+This boomerang is a ranged weapon carved from [[griffon xmm|griffon]] bone and etched with the symbol of elemental air. When thrown, it has a range of 60/120 feet, and any creature that is proficient with the javelin is also proficient with this weapon. On a hit, the boomerang deals `d4` bludgeoning damage and `3d4` thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be [[conditions#Stunned|stunned]] until the end of its next turn. On a miss, the boomerang returns to the thrower's hand.
 
 Once the boomerang deals thunder damage to a target, the weapon loses its ability to deal thunder damage and its ability to stun a target. These properties return after the boomerang spends at least 1 hour inside an elemental air node.
 
 *Source: Princes of the Apocalypse p. 223*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Once the boomerang deals thunder damage to a target, the weapon loses its abilit
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a portal
@@ -84,11 +86,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

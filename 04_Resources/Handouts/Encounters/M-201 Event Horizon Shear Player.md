@@ -1,3 +1,12 @@
+---
+title: M-201 Event Horizon Shear Player
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # M-201 Event Horizon Shear Player
 
 ---

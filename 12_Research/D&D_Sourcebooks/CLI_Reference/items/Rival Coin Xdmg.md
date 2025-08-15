@@ -1,3 +1,12 @@
+---
+title: Rival Coin Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rival Coin Xdmg
 
 ---
@@ -32,11 +41,10 @@ This gold coin has a creature embossed on each side. The two depicted creatures 
 
 The coin has 1 charge and regains its expended charge daily at dawn. You can take a [[actions#Magic|Magic]] action to toss the coin, expending its charge. Roll any die to determine whether the coin comes up heads (on an even number) or tails (on an odd number). The roll also determines the effect:
 
-- **Heads.** Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes `2d4` Psychic damage and has [[disadvantage-xphb|Disadvantage]] on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.  
+- **Heads.** Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes `2d4` Psychic damage and has [[disadvantage xphb|Disadvantage]] on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.  
 - **Tails.** You take `d4` Psychic damage.  
 
 *Source: Dungeon Master's Guide (2024) p. 296*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The coin has 1 charge and regains its expended charge daily at dawn. You can tak
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

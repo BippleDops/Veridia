@@ -1,3 +1,12 @@
+---
+title: Depth_Events_Pack_D
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Depth_Events_Pack_D
 
 ---
@@ -30,7 +39,6 @@ Each event is tuned to a doctrine. Use with [[Vehicle_Core_Rules|Vehicle Core Ru
 ### Doctrine Appendix
 Apply doctrine variant modifiers from Packs A–C to adjust DCs, severity, frequencies, and rewards. Track faction reputation shifts per event and anchor/Integrity impacts.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ Apply doctrine variant modifiers from Packs A–C to adjust DCs, severity, frequ
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before the festival
@@ -76,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

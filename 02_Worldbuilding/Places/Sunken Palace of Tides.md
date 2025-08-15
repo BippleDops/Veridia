@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sunken-palace-of-tides-sunken-palace-of-tides.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,8 +57,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
@@ -75,9 +69,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
@@ -85,7 +76,6 @@ improvements: 20
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -95,7 +85,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -142,8 +131,6 @@ Ongoing situations affecting Sunken Palace of Tides:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

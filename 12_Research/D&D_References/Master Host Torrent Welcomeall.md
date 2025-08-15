@@ -1,3 +1,12 @@
+---
+title: Master Host Torrent Welcomeall
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Master Host Torrent Welcomeall
 
 ---
@@ -21,8 +30,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-master-host-torrent-welcomeall-master-host-torrent-welcomeall.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -35,11 +42,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -57,11 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Related Notes
 
@@ -69,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

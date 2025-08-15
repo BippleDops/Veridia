@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,14 +47,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -67,19 +59,14 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Basic Information
 
@@ -190,8 +177,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[02-chapter-1-playing-the-game#Stabilizing a Character]] (friend)
-- [[04_Resources_Assets_Art_Places_Master_Smith_Coral-Hammer.png]] (friend)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L-03_Deep_Mother_Dream_Tide]] (enemy)
+- [[04_Resources_Assets_Art_Places_Master_Smith_Coral Hammer.png]] (friend)
+- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -211,7 +198,6 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

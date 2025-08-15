@@ -28,10 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg]]
 
 # Abyssos Prime Docks
 
@@ -39,7 +36,6 @@ improvements: 20
 
 > *"All the wealth of the depths flows through these waters. Every current, every tide, every dream of fortune finds its way to these docks. Here, the pulse of Aquabyssos beats strongest."*
 > — [[Harbormaster Tidal Stormcrest]], Chief of Harbor Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,23 +64,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -106,7 +96,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -794,12 +783,9 @@ Ongoing situations affecting Abyssos Prime Docks:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Economic Structure
 
@@ -818,7 +804,6 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

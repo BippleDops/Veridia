@@ -16,10 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-crown-council-flagship.svg](../../04_Resources/Assets/Generated/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,28 +45,21 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -83,7 +73,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Organization Overview
 
@@ -211,7 +200,6 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
-
 
 ## A Day in the Life
 

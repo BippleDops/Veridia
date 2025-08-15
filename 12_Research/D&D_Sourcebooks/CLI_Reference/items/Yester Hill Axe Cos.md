@@ -1,3 +1,12 @@
+---
+title: Yester Hill Axe Cos
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yester Hill Axe Cos
 
 ---
@@ -28,18 +37,17 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)
 
 # Yester Hill Axe
-*Weapon ([[battleaxe-xphb|battleaxe]])*  
+*Weapon ([[battleaxe xphb|battleaxe]])*  
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 The axe's handle is carved with leaves and vines, and it weighs half as much as a normal battleaxe. When the axe hits a plant, whether an ordinary plant or a plant creature, the target takes an extra `d8` slashing damage. When a creature of non-good alignment wields the axe, it sprouts thorns whenever its wielder makes an attack with it. These thorns prick the wielder for 1 piercing damage after the attack is made, and this damage is considered magical.
 
 *Source: Curse of Strahd p. 198*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ The axe's handle is carved with leaves and vines, and it weighs half as much as 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

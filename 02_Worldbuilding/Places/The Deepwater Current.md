@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deepwater-current-the-deepwater-current.svg]]
 
 # The Deepwater Current
 *Where Ocean Commerce Flows Beneath the Waves*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,18 +55,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -80,11 +71,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
@@ -94,7 +83,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Deepwater Current represents the primary underwater trade route connecting surface ports with [[Abyssos Prime]] and other aquatic civilizations, enabling cultural and economic exchange while facing threats from sea monsters, pirates, and the expanding influence of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]].
@@ -145,12 +133,9 @@ Ongoing situations affecting The Deepwater Current:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 
@@ -173,7 +158,6 @@ Key stop on textiles trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Cockatrice Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cockatrice Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cockatrice-xmm-cockatrice-xmm.svg)
 
-# [[cockatrice-xmm|Cockatrice]]
+# [[cockatrice xmm|Cockatrice]]
 *Source: Monster Manual (2024) p. 75. Available in the SRD and the Free Rules (2024)*  
 
 Cockatrices often try to claim eye-catching structures—such as ruins and secluded farms—as roosts.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Cockatrices often try to claim eye-catching structures—such as ruins and seclu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cockatrices
 
@@ -119,16 +122,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

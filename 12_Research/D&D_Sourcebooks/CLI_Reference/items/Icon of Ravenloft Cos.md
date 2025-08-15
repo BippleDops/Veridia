@@ -1,3 +1,12 @@
+---
+title: Icon of Ravenloft Cos
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Icon of Ravenloft Cos
 
 ---
@@ -35,8 +44,7 @@ The Icon of Ravenloft is a 12-inch tall statuette made of the purest silver, wei
 
 The icon was given to Strahd by the archpriest Ciril Romulich, an old family friend, to consecrate the castle and its chapel.
 
-While within 30 feet of the icon, a creature is under the effect of a [[protection-from-evil-and-good-xphb|protection from evil and good]] spell against fiends and undead. Only a creature attuned to the icon can use its other properties.
-
+While within 30 feet of the icon, a creature is under the effect of a [[protection from evil and good xphb|protection from evil and good]] spell against fiends and undead. Only a creature attuned to the icon can use its other properties.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,15 +57,10 @@ While within 30 feet of the icon, a creature is under the effect of a [[protecti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Augury
 
-You can use an action to cast an [[augury-xphb|augury]] spell from the icon, with no material components required. Once used, this property can't be used again until the next dawn.
+You can use an action to cast an [[augury xphb|augury]] spell from the icon, with no material components required. Once used, this property can't be used again until the next dawn.
 
 ## Bane of the Undead
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

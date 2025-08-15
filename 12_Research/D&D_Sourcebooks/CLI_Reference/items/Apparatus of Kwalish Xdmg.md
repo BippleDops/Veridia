@@ -1,3 +1,12 @@
+---
+title: Apparatus of Kwalish Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Apparatus of Kwalish Xdmg
 
 ---
@@ -44,20 +53,19 @@ A creature in the compartment can take a [[actions#Utilize|Utilize]] action to m
 
 | Lever | Up | Down |
 |-------|----|------|
-| 1 | Legs extend, allowing the apparatus to walk and swim. | Legs retract, reducing the apparatus's [[speed-xphb|Speed]] and [[swim-speed-xphb|Swim Speed]] to 0 and making it unable to benefit from bonuses to speed. |
+| 1 | Legs extend, allowing the apparatus to walk and swim. | Legs retract, reducing the apparatus's [[speed xphb|Speed]] and [[swim speed xphb|Swim Speed]] to 0 and making it unable to benefit from bonuses to speed. |
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front side of the apparatus. | The claws retract. |
 | 5 | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* 7 (`2d6`) Bludgeoning damage. | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* The target has the [[conditions#Grappled|Grappled]] condition (escape DC 15). |
 | 6 | The apparatus walks or swims forward provided its legs are extended. | The apparatus walks or swims backward provided its legs are extended. |
 | 7 | The apparatus turns 90 degrees counterclockwise provided its legs are extended. | The apparatus turns 90 degrees clockwise provided its legs are extended. |
-| 8 | Eyelike fixtures emit [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. | The light turns off. |
+| 8 | Eyelike fixtures emit [[bright light xphb|Bright Light]] in a 30-foot radius and [[dim light xphb|Dim Light]] for an additional 30 feet. | The light turns off. |
 | 9 | The apparatus sinks up to 20 feet if it's in liquid. | The apparatus rises up to 20 feet if it's in liquid. |
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
 *Source: Dungeon Master's Guide (2024) p. 229. Available in the SRD (as "Apparatus of the Crab") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,11 +78,6 @@ A creature in the compartment can take a [[actions#Utilize|Utilize]] action to m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -92,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before the new moon
@@ -107,11 +109,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

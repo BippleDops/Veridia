@@ -1,3 +1,12 @@
+---
+title: Quest - The Seventh Seal
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Seventh Seal
 
 ---
@@ -38,7 +47,6 @@ world: Both
 updated: '2025-08-13T01:18:34.484578+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-13T01:18:34.484578+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Order of the Shattered Crown has discovered that each party member bears an invisible "Seal"—a magical mark that connects them to one of the Seven Shards. These Seals are awakening, granting power but also making them targets for those who would use them to reunite the Crown of Stars. The party must decide whether to embrace, remove, or master these marks before they consume them.
@@ -228,7 +231,6 @@ Legends speak of Quest   The Seventh Seal as a nexus where past and present conv
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

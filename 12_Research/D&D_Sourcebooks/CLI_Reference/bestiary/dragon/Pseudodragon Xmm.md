@@ -1,173 +1,47 @@
-# Pseudodragon Xmm
-
 ---
 title: Pseudodragon Xmm
-aliases:
-- Pseudodragon
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/type/dragon
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/environment/mountain
-- monster
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/tiny
-- world/both
-- research
-- active
-- ttrpg-cli/monster/environment/forest
-- status/in-progress
-- ttrpg-cli/monster/environment/desert
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:06.023236+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-pseudodragon-xmm-pseudodragon-xmm.svg)
+# Pseudodragon Xmm
 
-# [[pseudodragon-xmm|Pseudodragon]]
-*Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Pseudodragon Xmm and its role within the greater narrative.
 
+## Description
+Pseudodragon Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-
-## Pseudodragon
-
-*Fickle, Pint-Sized Dragon*
-
-- **Habitat.** Coastal, Desert, Forest, Hill, Mountain, Urban  
-- **Treasure.** Arcana  
-
-Pseudodragons dwell in scenic wildernesses, preferably where life is easy and prey is small and slow. There they behave like contented wyrms, creating tiny lairs amid ancient trees and rugged cliffs. They fill these lairs with shiny rocks, colorful shells, and unattended treasures that catch their attention, and they guard these hoards fiercely.
-
-Pseudodragons grow to the size of large house cats, and most have red-brown scales. Some have scales with other hues or patterns—markings distinct from those of their larger draconic cousins.
-
-Many magic-users attempt to befriend pseudodragons, hoping to enlist them as familiars. The creatures' intellect and resistance to magic make them excellent companions, and they're considered status symbols in some spellcasting circles.
-
-Many pseudodragons prefer the finer things in life. These diminutive dragons might be inclined to aid those who ply them with treats. Contrariwise, mages who don't properly pamper their pseudo dragon familiars might be abandoned without warning. Roll on or choose an option from the Pseudo dragon Treats table to inspire a pseudodragon's taste in gifts.
-
-**Pseudodragon Treats**
-
-`dice: [](pseudodragon-xmm.md#^pseudodragon-treats)`
-
-| dice: 1d10 | The Pseudodragon Wants... |
-|------------|---------------------------|
-| 1 | Flamboyant accessories it can wear. |
-| 2 | Mementos from a lost friend or master. |
-| 3 | Outlandish delicacies—like axe beak-egg omelets or mammoth-milk cheese. |
-| 4 | The possessions of a sibling, rival, or master. |
-| 5 | Shiny gifts, from gems to abalone shells. |
-| 6 | Soft bedding and stuffed toys. |
-| 7 | A specific cook's signature dessert. |
-| 8 | Time-consuming beauty treatments. |
-| 9 | To hear a bedtime story or favorite song. |
-| 10 | Trophies and important-sounding titles. |
-^pseudodragon-treats
-
-> [!quote] A quote from Jallarzi, Pseudodragon's Companion  
-> 
-> If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
-
-```statblock
-"name": "Pseudodragon (XMM)"
-"size": "Tiny"
-"type": "dragon"
-"alignment": "Neutral Good"
-"ac": !!int "14"
-"hp": !!int "10"
-"hit_dice": "3d4 + 3"
-"modifier": !!int "2"
-"stats":
-  - !!int "6"
-  - !!int "15"
-  - !!int "13"
-  - !!int "10"
-  - !!int "12"
-"speed": "15 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 15"
-"languages": "understands Common and Draconic but can't speak"
-"cr": "1/4"
-"traits":
-  - "desc": "The pseudodragon has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The pseudodragon makes two Bite attacks."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage."
-    "name": "Bite"
-  - "desc": "Constitution Saving Throw: DC 12, one creature the pseudodragon can\
-      \ see within 5 feet. Failure: 5 (2d4) Poison damage, and the target has the\
-      \ [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
-      \ While [[conditions#Poisoned|Poisoned]], the target also\
-      \ has the [[conditions#Unconscious|Unconscious]] condition,\
-      \ which ends early if the target takes damage or a creature within 5 feet of\
-      \ it takes an action to wake it."
-    "name": "Sting"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "/03_Mechanics/CLI/bestiary/dragon/token/pseudodragon-xmm.webp"
-```
-^statblock
-
-## Environment
-
-coastal, desert, forest, hill, mountain, urban
-
-## Player-Facing Summary
-
-Pseudodragon xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of pseudodragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pseudodragon xmm.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

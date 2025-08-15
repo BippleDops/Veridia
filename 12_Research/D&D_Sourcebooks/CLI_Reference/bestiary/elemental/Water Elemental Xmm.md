@@ -1,3 +1,12 @@
+---
+title: Water Elemental Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Water Elemental Xmm
 
 ---
@@ -35,9 +44,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-elemental-xmm-v1-water-elemental-xmm.svg)
 
-# [[water-elemental-xmm|Water Elemental]]
+# [[water elemental xmm|Water Elemental]]
 *Source: Monster Manual (2024) p. 322. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Water Elemental
 
@@ -110,7 +113,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-  - "desc": "If the elemental takes Cold damage, its [[speed-xphb|Speed]]\
+  - "desc": "If the elemental takes Cold damage, its [[speed xphb|Speed]]\
       \ decreases by 20 feet until the end of its next turn."
     "name": "Freeze"
   - "desc": "The elemental can enter an enemy's space and stop there. It can move\
@@ -161,16 +164,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

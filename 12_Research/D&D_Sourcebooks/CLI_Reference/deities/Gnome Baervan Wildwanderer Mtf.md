@@ -1,3 +1,12 @@
+---
+title: Gnome Baervan Wildwanderer Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Baervan Wildwanderer Mtf
 
 ---
@@ -37,7 +46,6 @@ Baervan Wildwanderer is the god of the forests and of those who travel, a peacef
 
 Baervan can sing every bird's song, knows every type of plant that has ever grown, never gets lost, and can befriend anyone under the sun (as long as Chiktikka chooses to act pleasant rather than annoying). Forest gnomes believe that they can speak to the animals of the woods and on the wing because Baervan teaches their souls how to do so before they are born.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ Baervan can sing every bird's song, knows every type of plant that has ever grow
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

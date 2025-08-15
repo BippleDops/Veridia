@@ -1,374 +1,47 @@
+---
+title: Handouts - Document Designs
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Handouts - Document Designs
 
----
-title: Handouts   Document Designs
-type: Lore
-tags:
-- active
-- research
-created: '2024-01-01'
-modified: '2025-08-14'
-status: draft
-updated: '2024-01-01T00:00:00+00:00'
----
+## Overview
+This document contains important information regarding Handouts - Document Designs and its role within the greater narrative.
 
-# In-World Document Design Prompts
+## Description
+Handouts - Document Designs represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-```json
-[
-  {
-    "id": "handout-aged-treasure-map",
-    "type": "handout",
-    "name": "Aged Treasure Map",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Aged Treasure Map\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    "seed": 2001,
-    "alt_text": "Aged Treasure Map as an in-world paper prop.",
-    "realm": "aquabyssos"
-  },
-    "id": "handout-aged-treasure-map-v1",
-    "mood": "mysterious",
-    "seed": 7002,
-    "id": "handout-aged-treasure-map-v2",
-    "lighting": "rim-lit",
-    "mood": "solemn",
-    "seed": 7003,
-    "id": "handout-aged-treasure-map-v3",
-    "lighting": "soft dusk",
-    "mood": "triumphant",
-    "seed": 7004,
-    "id": "handout-noble-writ-with-wax-seal",
-    "name": "Noble Writ with Wax Seal",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Noble Writ with Wax Seal\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2002,
-    "alt_text": "Noble Writ with Wax Seal as an in-world paper prop.",
-    "id": "handout-noble-writ-with-wax-seal-v1",
-    "seed": 7006,
-    "id": "handout-noble-writ-with-wax-seal-v2",
-    "seed": 7007,
-    "id": "handout-noble-writ-with-wax-seal-v3",
-    "seed": 7008,
-    "id": "handout-cult-text-with-marginalia",
-    "name": "Cult Text with Marginalia",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Cult Text with Marginalia\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2003,
-    "alt_text": "Cult Text with Marginalia as an in-world paper prop.",
-    "id": "handout-cult-text-with-marginalia-v1",
-    "seed": 7010,
-    "id": "handout-cult-text-with-marginalia-v2",
-    "seed": 7011,
-    "id": "handout-cult-text-with-marginalia-v3",
-    "seed": 7012,
-    "id": "handout-merchant-contract-with-fine-print",
-    "name": "Merchant Contract with Fine Print",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Merchant Contract with Fine Print\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2004,
-    "alt_text": "Merchant Contract with Fine Print as an in-world paper prop.",
-    "id": "handout-merchant-contract-with-fine-print-v1",
-    "seed": 7014,
-    "id": "handout-merchant-contract-with-fine-print-v2",
-    "seed": 7015,
-    "id": "handout-merchant-contract-with-fine-print-v3",
-    "seed": 7016,
-    "id": "handout-love-letter-with-hidden-message",
-    "name": "Love Letter with Hidden Message",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Love Letter with Hidden Message\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2005,
-    "alt_text": "Love Letter with Hidden Message as an in-world paper prop.",
-    "id": "handout-love-letter-with-hidden-message-v1",
-    "seed": 7018,
-    "id": "handout-love-letter-with-hidden-message-v2",
-    "seed": 7019,
-    "id": "handout-love-letter-with-hidden-message-v3",
-    "seed": 7020,
-    "id": "handout-wanted-poster-with-reward",
-    "name": "Wanted Poster with Reward",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Wanted Poster with Reward\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2006,
-    "alt_text": "Wanted Poster with Reward as an in-world paper prop.",
-    "id": "handout-wanted-poster-with-reward-v1",
-    "seed": 7022,
-    "id": "handout-wanted-poster-with-reward-v2",
-    "seed": 7023,
-    "id": "handout-wanted-poster-with-reward-v3",
-    "seed": 7024,
-    "id": "handout-ship-manifests-with-stamps",
-    "name": "Ship Manifests with Stamps",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Ship Manifests with Stamps\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2007,
-    "alt_text": "Ship Manifests with Stamps as an in-world paper prop.",
-    "id": "handout-ship-manifests-with-stamps-v1",
-    "seed": 7026,
-    "id": "handout-ship-manifests-with-stamps-v2",
-    "seed": 7027,
-    "id": "handout-ship-manifests-with-stamps-v3",
-    "seed": 7028,
-    "id": "handout-guild-license-certificate",
-    "name": "Guild License Certificate",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Guild License Certificate\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2008,
-    "alt_text": "Guild License Certificate as an in-world paper prop.",
-    "id": "handout-guild-license-certificate-v1",
-    "seed": 7030,
-    "id": "handout-guild-license-certificate-v2",
-    "seed": 7031,
-    "id": "handout-guild-license-certificate-v3",
-    "seed": 7032,
-    "id": "handout-temple-prayer-sheet",
-    "name": "Temple Prayer Sheet",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Temple Prayer Sheet\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2009,
-    "alt_text": "Temple Prayer Sheet as an in-world paper prop.",
-    "id": "handout-temple-prayer-sheet-v1",
-    "seed": 7034,
-    "id": "handout-temple-prayer-sheet-v2",
-    "seed": 7035,
-    "id": "handout-temple-prayer-sheet-v3",
-    "seed": 7036,
-    "id": "handout-smuggler-ledger-page",
-    "name": "Smuggler Ledger Page",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Smuggler Ledger Page\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2010,
-    "alt_text": "Smuggler Ledger Page as an in-world paper prop.",
-    "id": "handout-smuggler-ledger-page-v1",
-    "seed": 7038,
-    "id": "handout-smuggler-ledger-page-v2",
-    "seed": 7039,
-    "id": "handout-smuggler-ledger-page-v3",
-    "seed": 7040,
-    "id": "handout-council-summons-notice",
-    "name": "Council Summons Notice",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Council Summons Notice\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2011,
-    "alt_text": "Council Summons Notice as an in-world paper prop.",
-    "id": "handout-council-summons-notice-v1",
-    "seed": 7042,
-    "id": "handout-council-summons-notice-v2",
-    "seed": 7043,
-    "id": "handout-council-summons-notice-v3",
-    "seed": 7044,
-    "id": "handout-tavern-bill-of-fare",
-    "name": "Tavern Bill of Fare",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Tavern Bill of Fare\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2012,
-    "alt_text": "Tavern Bill of Fare as an in-world paper prop.",
-    "id": "handout-tavern-bill-of-fare-v1",
-    "seed": 7046,
-    "id": "handout-tavern-bill-of-fare-v2",
-    "seed": 7047,
-    "id": "handout-tavern-bill-of-fare-v3",
-    "seed": 7048,
-    "id": "handout-docking-permit",
-    "name": "Docking Permit",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Docking Permit\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2013,
-    "alt_text": "Docking Permit as an in-world paper prop.",
-    "id": "handout-docking-permit-v1",
-    "seed": 7050,
-    "id": "handout-docking-permit-v2",
-    "seed": 7051,
-    "id": "handout-docking-permit-v3",
-    "seed": 7052,
-    "id": "handout-privateer-letter-of-marque",
-    "name": "Privateer Letter of Marque",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Privateer Letter of Marque\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2014,
-    "alt_text": "Privateer Letter of Marque as an in-world paper prop.",
-    "id": "handout-privateer-letter-of-marque-v1",
-    "seed": 7054,
-    "id": "handout-privateer-letter-of-marque-v2",
-    "seed": 7055,
-    "id": "handout-privateer-letter-of-marque-v3",
-    "seed": 7056,
-    "id": "handout-ancient-prophecy-fragment",
-    "name": "Ancient Prophecy Fragment",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Ancient Prophecy Fragment\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2015,
-    "alt_text": "Ancient Prophecy Fragment as an in-world paper prop.",
-    "id": "handout-ancient-prophecy-fragment-v1",
-    "seed": 7058,
-    "id": "handout-ancient-prophecy-fragment-v2",
-    "seed": 7059,
-    "id": "handout-ancient-prophecy-fragment-v3",
-    "seed": 7060,
-    "id": "handout-embassy-invitation",
-    "name": "Embassy Invitation",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Embassy Invitation\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2016,
-    "alt_text": "Embassy Invitation as an in-world paper prop.",
-    "id": "handout-embassy-invitation-v1",
-    "seed": 7062,
-    "id": "handout-embassy-invitation-v2",
-    "seed": 7063,
-    "id": "handout-embassy-invitation-v3",
-    "seed": 7064,
-    "id": "handout-encoded-shipping-route",
-    "name": "Encoded Shipping Route",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Encoded Shipping Route\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2017,
-    "alt_text": "Encoded Shipping Route as an in-world paper prop.",
-    "id": "handout-encoded-shipping-route-v1",
-    "seed": 7066,
-    "id": "handout-encoded-shipping-route-v2",
-    "seed": 7067,
-    "id": "handout-encoded-shipping-route-v3",
-    "seed": 7068,
-    "id": "handout-bounty-claim-form",
-    "name": "Bounty Claim Form",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Bounty Claim Form\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2018,
-    "alt_text": "Bounty Claim Form as an in-world paper prop.",
-    "id": "handout-bounty-claim-form-v1",
-    "seed": 7070,
-    "id": "handout-bounty-claim-form-v2",
-    "seed": 7071,
-    "id": "handout-bounty-claim-form-v3",
-    "seed": 7072,
-    "id": "handout-alchemical-recipe-sheet",
-    "name": "Alchemical Recipe Sheet",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Alchemical Recipe Sheet\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2019,
-    "alt_text": "Alchemical Recipe Sheet as an in-world paper prop.",
-    "id": "handout-alchemical-recipe-sheet-v1",
-    "seed": 7074,
-    "id": "handout-alchemical-recipe-sheet-v2",
-    "seed": 7075,
-    "id": "handout-alchemical-recipe-sheet-v3",
-    "seed": 7076,
-    "id": "handout-arena-ticket",
-    "name": "Arena Ticket",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Arena Ticket\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2020,
-    "alt_text": "Arena Ticket as an in-world paper prop.",
-    "id": "handout-arena-ticket-v1",
-    "seed": 7078,
-    "id": "handout-arena-ticket-v2",
-    "seed": 7079,
-    "id": "handout-arena-ticket-v3",
-    "seed": 7080,
-  }
-]
-```
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-    "id": "handout-sailor-tattoo-sketches",
-    "name": "Sailor Tattoo Sketches",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Sailor Tattoo Sketches\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2021,
-    "alt_text": "Sailor Tattoo Sketches as an in-world paper prop.",
-    "id": "handout-sailor-tattoo-sketches-v1",
-    "seed": 7082,
-    "id": "handout-sailor-tattoo-sketches-v2",
-    "seed": 7083,
-    "id": "handout-sailor-tattoo-sketches-v3",
-    "seed": 7084,
-    "id": "handout-border-crossing-pass",
-    "name": "Border Crossing Pass",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Border Crossing Pass\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2022,
-    "alt_text": "Border Crossing Pass as an in-world paper prop.",
-    "id": "handout-border-crossing-pass-v1",
-    "seed": 7086,
-    "id": "handout-border-crossing-pass-v2",
-    "seed": 7087,
-    "id": "handout-border-crossing-pass-v3",
-    "seed": 7088,
-    "id": "handout-relic-provece-card",
-    "name": "Relic Provece Card",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Relic Provece Card\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2023,
-    "alt_text": "Relic Provece Card as an in-world paper prop.",
-    "id": "handout-relic-provece-card-v1",
-    "seed": 7090,
-    "id": "handout-relic-provece-card-v2",
-    "seed": 7091,
-    "id": "handout-relic-provece-card-v3",
-    "seed": 7092,
-    "id": "handout-court-summons",
-    "name": "Court Summons",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Court Summons\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2024,
-    "alt_text": "Court Summons as an in-world paper prop.",
-    "id": "handout-court-summons-v1",
-    "seed": 7094,
-    "id": "handout-court-summons-v2",
-    "seed": 7095,
-    "id": "handout-court-summons-v3",
-    "seed": 7096,
-    "id": "handout-explorer-field-notes",
-    "name": "Explorer Field Notes",
-    "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Explorer Field Notes\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
-    "seed": 2025,
-    "alt_text": "Explorer Field Notes as an in-world paper prop.",
-    "id": "handout-explorer-field-notes-v1",
-    "seed": 7098,
-    "id": "handout-explorer-field-notes-v2",
-    "seed": 7099,
-    "id": "handout-explorer-field-notes-v3",
-    "seed": 7100,
+## Details
+### Background
+Historical context and development over time.
 
-### Network Position
-**Direct Connections**: 0 faction relationships
-**Network Influence**: 0 degrees of separation reach
-**Relationship Complexity**: Low
+### Current State
+Present circumstances and ongoing relevance.
 
-### Network Strategy
-**Expansion Opportunities**: Potential new alliances and partnerships
-**Risk Management**: Monitoring threats and hostile relationships
-**Influence Maximization**: Leveraging relationships for faction goals
-**Diplomatic Priorities**: Key relationships requiring attention
+### Future Potential
+Possible developments and plot directions.
 
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Related
-
-*Links to related content will be added here.*
-
-## DM Notes
-
-*Private notes for campaign integration:*
-- Can be adapted to fit current story needs
-- Scalable threat/reward based on party level
-- Multiple entry points for different play styles
-- Connections to overarching campaign themes
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Someone is hunting an heir for revenge
-- A merchant needs help delivering before the festival
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

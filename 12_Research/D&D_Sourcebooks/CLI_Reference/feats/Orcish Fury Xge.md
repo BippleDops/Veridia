@@ -1,3 +1,12 @@
+---
+title: Orcish Fury Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orcish Fury Xge
 
 ---
@@ -26,14 +35,13 @@ world: Both
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[half-orc|Half-Orc]]
+**Prerequisite**: [[half orc|Half-Orc]]
 
 Your fury burns tirelessly. You gain the following benefits:
 
 - Increase your Strength or Constitution by 1, to a maximum of 20.  
 - When you hit with an attack using a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.  
 - Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Your fury burns tirelessly. You gain the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,16 +71,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

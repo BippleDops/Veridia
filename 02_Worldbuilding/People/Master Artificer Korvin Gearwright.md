@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg]]
 
 # Master Artificer Korvin Gearwright
 *The Crystal Innovator, Father of Modern Aethertech*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,27 +56,21 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
@@ -90,12 +80,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
@@ -253,7 +241,6 @@ Master Artificer Korvin Gearwright is a undersea element of the setting, known f
 ## Lore Details
 
 Legends speak of Master Artificer Korvin Gearwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Artificer Korvin Gearwright.
-
 
 ## Religious Observances
 

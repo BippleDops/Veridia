@@ -1,3 +1,12 @@
+---
+title: Yuan Ti Sseth Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yuan Ti Sseth Vgm
 
 ---
@@ -33,7 +42,6 @@ In the last years before the yuan-ti empire collapsed, Sseth appeared to the ser
 
 His most devout followers, known as mind whisperers, use their god-given magic to emulate Sseth's tactics and principles. They strive to succeed by offering an alternative choice to contesting viewpoints or plans, and in so doing they exude an air of self-importance that gives them a less than savory reputation among yuan-ti that follow other gods.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ His most devout followers, known as mind whisperers, use their god-given magic t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

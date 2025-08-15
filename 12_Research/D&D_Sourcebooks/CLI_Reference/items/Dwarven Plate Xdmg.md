@@ -1,3 +1,12 @@
+---
+title: Dwarven Plate Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Plate Xdmg
 
 ---
@@ -30,7 +39,7 @@ world: Both
 *Very rare*  
 ![](/03_Mechanics/CLI/items/img/dwarven-plate.webp#right)
 
-While wearing this armor, you gain a +2 bonus to [[armor-class-xphb|Armor Class]]. In addition, if an effect moves you against your will along the ground, you can take a [[reaction-xphb|Reaction]] to reduce the distance you are moved by up to 10 feet.
+While wearing this armor, you gain a +2 bonus to [[armor class xphb|Armor Class]]. In addition, if an effect moves you against your will along the ground, you can take a [[reaction xphb|Reaction]] to reduce the distance you are moved by up to 10 feet.
 
 **Variants**:
 - [Dwarven Half Plate Armor](#Dwarven%20Half%20Plate%20Armor)
@@ -45,7 +54,6 @@ While wearing this armor, you gain a +2 bonus to [[armor-class-xphb|Armor Class]
 
 *Source: Dungeon Master's Guide (2024) p. 255. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ While wearing this armor, you gain a +2 bonus to [[armor-class-xphb|Armor Class]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals the truth about the cult
@@ -88,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

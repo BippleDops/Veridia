@@ -1,0 +1,99 @@
+---
+
+title: 02_Worldbuilding/Lore/Aurelius Goldwave
+type: lore
+tags:
+- lore
+- worldbuilding
+created: '2025-08-14'
+modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
+---
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+## Overview
+
+02_Worldbuilding/Lore/Aurelius Goldwave represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+
+---
+
+*Last Updated: 2025-08-14 19:03*
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+## Relationships
+
+- **Mentor**: [[02 Chapter 1 Playing the Game#stabilizing a Character]]
+- **Blackmailer**: [[Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
+- **Friend**: [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg]]
+- **Child**: [[The Deepmind Conspiracy]]

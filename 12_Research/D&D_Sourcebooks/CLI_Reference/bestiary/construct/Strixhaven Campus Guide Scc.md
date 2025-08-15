@@ -1,3 +1,12 @@
+---
+title: Strixhaven Campus Guide Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Strixhaven Campus Guide Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strixhaven-campus-guide-scc-strixhaven-campus-guide-scc.svg)
 
-# [[strixhaven-campus-guide-scc|Strixhaven Campus Guide]]
+# [[strixhaven campus guide scc|Strixhaven Campus Guide]]
 *Source: Strixhaven: A Curriculum of Chaos p. 217*  
 
 With cheerful dispositions and a knack for walking backward, Strixhaven campus guides lead gaggles of prospective students on tours. The guides' gold and silver chassis are built in shapes reminiscent of the star arches surrounding Strixhaven. Embedded in their chests are holographic maps of the university's campuses, which the guides use to provide directions. However, it's rare for a campus guide to need its own maps, as these gregarious automatons have a gift for finding things on campus, often popping up at the most inopportune times.
@@ -100,7 +109,6 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -112,11 +120,6 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -134,11 +137,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -146,7 +147,6 @@ Mentioned in The Second Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

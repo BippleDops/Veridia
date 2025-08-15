@@ -1,3 +1,12 @@
+---
+title: Siege Tower Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Siege Tower Xdmg
 
 ---
@@ -28,7 +37,7 @@ world: Both
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 97*  
 
-A Siege Tower is a mobile wooden structure with a beam frame and slats in its walls. Large wooden wheels or rollers allow the tower to be pushed or pulled by soldiers or beasts of burden. Medium or smaller creatures can use the Siege Tower to reach the top of walls up to 40 feet high. A creature in the tower has [[cover-xphb|Total Cover]] against attacks and other effects that originate outside it.
+A Siege Tower is a mobile wooden structure with a beam frame and slats in its walls. Large wooden wheels or rollers allow the tower to be pushed or pulled by soldiers or beasts of burden. Medium or smaller creatures can use the Siege Tower to reach the top of walls up to 40 feet high. A creature in the tower has [[cover xphb|Total Cover]] against attacks and other effects that originate outside it.
 
 ```ad-statblock
 title: Siege Tower
@@ -46,7 +55,6 @@ title: Siege Tower
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ title: Siege Tower
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -97,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

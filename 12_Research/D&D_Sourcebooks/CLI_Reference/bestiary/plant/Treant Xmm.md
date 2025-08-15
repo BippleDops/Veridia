@@ -1,3 +1,12 @@
+---
+title: Treant Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Treant Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-treant-xmm-treant-xmm.svg)
 
-# [[treant-xmm|Treant]]
+# [[treant xmm|Treant]]
 *Source: Monster Manual (2024) p. 308. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Treant
 
@@ -112,7 +115,7 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
   - "desc": "The treant magically animates up to two trees it can see within 60 feet\
       \ of itself. Each tree uses the Treant stat block, except it has Intelligence\
       \ and Charisma scores of 1, it can't speak, and it lacks this action. The tree\
-      \ takes its turn immediately after the treant on the same [[initiative-xphb|Initiative]]\
+      \ takes its turn immediately after the treant on the same [[initiative xphb|Initiative]]\
       \ count, and it obeys the treant. A tree remains animate for 1 day or until\
       \ it dies, the treant dies, or it is more than 120 feet from the treant. The\
       \ tree then takes root if possible."
@@ -143,21 +146,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

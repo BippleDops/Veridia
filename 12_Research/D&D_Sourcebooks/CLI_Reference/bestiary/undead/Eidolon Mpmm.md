@@ -1,3 +1,12 @@
+---
+title: Eidolon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eidolon Mpmm
 
 ---
@@ -36,10 +45,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-eidolon-mpmm-eidolon-mpmm.svg)
 
-# [[eidolon-mpmm|Eidolon]]
+# [[eidolon mpmm|Eidolon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[eidolon-mpmm|eidolon]] plunges into a [[sacred-statue-mpmm|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[eidolon mpmm|eidolon]] plunges into a [[sacred statue mpmm|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
 "name": "Eidolon (MPMM)"
@@ -77,11 +86,11 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "traits":
   - "desc": "The eidolon can move through other creatures and objects as if they were\
       \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
-      \ an object other than a [[sacred-statue-mpmm|sacred statue]]."
+      \ an object other than a [[sacred statue mpmm|sacred statue]]."
     "name": "Incorporeal Movement"
-  - "desc": "When the eidolon moves into a space occupied by a [[sacred-statue-mpmm|sacred statue]],\
+  - "desc": "When the eidolon moves into a space occupied by a [[sacred statue mpmm|sacred statue]],\
       \ the eidolon can disappear, causing the statue to become a creature under the\
-      \ eidolon's control. The eidolon uses the [[sacred-statue-mpmm|sacred statue's stat block]]\
+      \ eidolon's control. The eidolon uses the [[sacred statue mpmm|sacred statue's stat block]]\
       \ in place of its own."
     "name": "Sacred Animation (Recharge 5-6)"
   - "desc": "The eidolon has advantage on saving throws against any effect that turns\
@@ -110,7 +119,6 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -122,11 +130,6 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -148,11 +151,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -165,11 +166,9 @@ Mentioned in The Hidden Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

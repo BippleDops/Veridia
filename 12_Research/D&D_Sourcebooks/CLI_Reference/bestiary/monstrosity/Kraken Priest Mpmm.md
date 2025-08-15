@@ -1,3 +1,12 @@
+---
+title: Kraken Priest Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Kraken Priest Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-priest-mpmm-kraken-priest-mpmm.svg)
 
-# [[kraken-priest-mpmm|Kraken Priest]]
+# [[kraken priest mpmm|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -85,10 +94,10 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
     "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
   - "desc": "The priest casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[command-xphb|command]], [[create-or-destroy-water-xphb|create or destroy water]]\n\
-      \n3/day each: [[control-water-xphb|control water]],\
-      \ [[darkness-xphb|darkness]], [[water-breathing-xphb|water breathing]],\
-      \ [[water-walk-xphb|water walk]]\n\n1/day: [[evards-black-tentacles-xphb|Evard's\]]
+      \ [[command xphb|command]], [[create or destroy water xphb|create or destroy water]]\n\
+      \n3/day each: [[control water xphb|control water]],\
+      \ [[darkness xphb|darkness]], [[water breathing xphb|water breathing]],\
+      \ [[water walk xphb|water walk]]\n\n1/day: [[evards black tentacles xphb|Evard's\]]
       \ black tentacles]]"
     "name": "Spellcasting"
 "source":
@@ -97,7 +106,6 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/kraken-priest-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -110,11 +118,6 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -136,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -156,16 +157,13 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

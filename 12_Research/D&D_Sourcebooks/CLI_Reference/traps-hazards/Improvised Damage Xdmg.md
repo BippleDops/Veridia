@@ -1,3 +1,12 @@
+---
+title: Improvised Damage Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Improvised Damage Xdmg
 
 ---
@@ -28,20 +37,15 @@ world: Both
 
 The Improvising Damage table gives guidelines for determining damage on the fly.
 
-![[improvising-damage-xdmg|Improvising Damage]]
-
 The Damage Severity and Level table is a guide to how deadly these damage amounts are for characters of different levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
-
-![[improvising-damage-damage-severity-and-level-xdmg|Improvising Damage; Damage Severity and Level]]
 
 Nuisance damage rarely poses a risk of death to characters of the levels shown, but a severely weakened character might be laid low by this damage.
 
-Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [[hit-points-xphb|Hit Points]].
+Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [[hit points xphb|Hit Points]].
 
 *Source: Dungeon Master's Guide (2024) p. 30*
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +58,6 @@ Deadly damage poses a significant threat to characters of the levels shown and c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest ancient magic
@@ -91,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

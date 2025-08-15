@@ -1,3 +1,12 @@
+---
+title: Crystal Plague Origins
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Plague Origins
 
 ---
@@ -22,7 +31,6 @@ updated: '2025-08-13T01:18:35.079497+00:00'
 # Crystal Plague Origins
 *The Complete History of the Crystal Corruption Crisis (634-456 PD)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ updated: '2025-08-13T01:18:35.079497+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -298,11 +301,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

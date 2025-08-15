@@ -1,3 +1,12 @@
+---
+title: Crystal - Crystal_Bloom
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal - Crystal_Bloom
 
 ---
@@ -22,7 +31,6 @@ world: Both
 # Crystal Bloom
 *Living Crystal Growth Transformation*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Crystal Bloom begins when magical crystals take root in living flesh, slowly converting organic matter into living gemstone. The transformation grants increasing durability and magical resoce at the cost of flexibility and humanity.
@@ -85,14 +88,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

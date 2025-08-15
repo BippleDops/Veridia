@@ -26,14 +26,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg]]
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 *The Suspended Emperor, He Who Breathes Water, The Eternal Sovereign of Depths*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,18 +58,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -83,7 +74,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
@@ -92,12 +82,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 The Throne of Bubbles is both a person and an institution—the ancient ruler who has literally become one with their seat of power. For over four centuries, this sovereign has ruled [[Abyssos Prime]] from within a massive throne made of living coral and perpetual bubble streams. The current occupant, whose original name has been forgotten by all but themselves, exists in a state of suspended animation, breathing both air and water simultaneously while making pronouncements that ripple through the currents of political power.
@@ -207,11 +195,9 @@ Throne of Bubbles is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Throne of Bubbles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Throne of Bubbles.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
-
 
 ## Cultural Practices
 

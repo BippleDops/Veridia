@@ -1,3 +1,12 @@
+---
+title: Purple Worm Poison Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Purple Worm Poison Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 2,000 gp
 
 A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (`10d6`) Poison damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving thr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -87,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

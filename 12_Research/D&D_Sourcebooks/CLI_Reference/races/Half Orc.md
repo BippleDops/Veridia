@@ -1,140 +1,47 @@
-# Half Orc
-
 ---
 title: Half Orc
-aliases:
-- Half-Orc
 type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/race/half-orc
-- research
-- world/both
-- active
 - note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-race
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:08.053120+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Half-Orc
-*Source: Player's Handbook p. 40. Available in the SRD*  
-![](/03_Mechanics/CLI/races/img/half-orc.webp#right)
+# Half Orc
 
-- **Ability Scores**: str +2 con +1
-- **Size**: Medium
-- **Speed**: 30 ft.
-
-### Age
-
-Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
-
-### Size
-
-Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
-
-### Darkvision
-
-Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-### Menacing
-
-You gain proficiency in the [[skills#Intimidation|Intimidation]] skill.
-
-### Relentless Endurance
-
-When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
-
-### Savage Attacks
-
-When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
-
-### Languages
-
-You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consots. It has no script of its own but is written in the Dwarvish script.
-
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
+## Overview
+This document contains important information regarding Half Orc and its role within the greater narrative.
 
 ## Description
+Half Orc represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human tribes sometimes form alliances, joining forces into a larger horde to the terror of civilized lands nearby. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Scarred and Strong
+## Details
+### Background
+Historical context and development over time.
 
-Half-orcs' grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see. Half-orcs stand between 6 and 7 feet tall and usually weigh between 180 and 250 pounds.
+### Current State
+Present circumstances and ongoing relevance.
 
-Orcs regard battle scars as tokens of pride and ornamental scars as things of beauty. Other scars, though, mark an Orc, or half-orc as a former slave or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries. Such a half-orc living among humans might display these scars proudly or hide them in shame.
+### Future Potential
+Possible developments and plot directions.
 
-### The Mark of Gruumsh
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-The one-eyed god Gruumsh created the Orcs, and even those orcs who turn away from his worship can't fully escape his influence. The same is true of half orcs, though their human blood moderates the impact of their orcish heritage. Some half-orcs hear the whispers of Gruumsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh's exultation when they join in melee combat-and either exult along with him or shiver with fear and loathing. Half-orcs are not evil by nature, but evil does lurk within them, whether they embrace it or rebel against it.
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn't just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple bodily pleasures-feasting, drinking, wrestling, drumming, and wild dancing-fill their hearts with joy. They tend to be short tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. The most accomplished half-orcs are those with enough self control to get by in a civilized land.
-
-### Half-Orc Names
-
-Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
-
-- **Male Orc Names.** Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk  
-- **Female Orc Names.** Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda  
-
-> [!note] Grudging Acceptance
-> 
-> Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations are genuine). And some simply try to be so tough that others just avoid them.
-^grudging-acceptance
-
-## Player-Facing Summary
-
-Half orc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of half orc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around half orc.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

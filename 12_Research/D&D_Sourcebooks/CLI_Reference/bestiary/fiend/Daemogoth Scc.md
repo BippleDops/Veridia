@@ -1,3 +1,12 @@
+---
+title: Daemogoth Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Daemogoth Scc
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:05.778208+00:00'
 world: Both
 ---
 
-# [[daemogoth-scc|Daemogoth]]
+# [[daemogoth scc|Daemogoth]]
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  
 
 Slipping through the darkest corners of the world, daemogoths are powerful fiendish creatures that feed on misery and other negative emotions. Some sages refer to daemogoths as tear lickers, owing to the fiends' tendency to lurk near battlefields and other sites of great tragedy to consume the anguish saturating the area.
@@ -106,7 +115,6 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -140,11 +143,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -154,7 +155,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

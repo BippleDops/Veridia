@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-crimson-sage-the-crimson-sage.svg]]
 
 # The Crimson Sage
 *The Wandering Scholar, Keeper of Forgotten Truths*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,20 +59,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
@@ -94,7 +83,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The Crimson Sage appears as a mysterious scholar researching crystal corruption and ancient history. In truth, they are Aetheron, the shattered God-King whose crown became the Aether Crystals. Stripped of most divine power and trapped in mortal form, they seek to understand what they have become and perhaps find redemption—or revenge.
@@ -309,11 +297,9 @@ The Crimson Sage is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Crimson Sage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Sage.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Cultural Practices
 

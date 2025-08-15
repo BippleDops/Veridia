@@ -1,3 +1,12 @@
+---
+title: Enspelled Staff Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Enspelled Staff Xdmg
 
 ---
@@ -33,23 +42,22 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 **Items in this group:**
 
-- [[enspelled-staff-cantrip-xdmg|Enspelled Staff (Cantrip)]]
-- [[enspelled-staff-level-1-xdmg|Enspelled Staff (Level 1)]]
-- [[enspelled-staff-level-2-xdmg|Enspelled Staff (Level 2)]]
-- [[enspelled-staff-level-3-xdmg|Enspelled Staff (Level 3)]]
-- [[enspelled-staff-level-4-xdmg|Enspelled Staff (Level 4)]]
-- [[enspelled-staff-level-5-xdmg|Enspelled Staff (Level 5)]]
-- [[enspelled-staff-level-6-xdmg|Enspelled Staff (Level 6)]]
-- [[enspelled-staff-level-7-xdmg|Enspelled Staff (Level 7)]]
-- [[enspelled-staff-level-8-xdmg|Enspelled Staff (Level 8)]]
+- [[enspelled staff cantrip xdmg|Enspelled Staff (Cantrip)]]
+- [[enspelled staff level 1 xdmg|Enspelled Staff (Level 1)]]
+- [[enspelled staff level 2 xdmg|Enspelled Staff (Level 2)]]
+- [[enspelled staff level 3 xdmg|Enspelled Staff (Level 3)]]
+- [[enspelled staff level 4 xdmg|Enspelled Staff (Level 4)]]
+- [[enspelled staff level 5 xdmg|Enspelled Staff (Level 5)]]
+- [[enspelled staff level 6 xdmg|Enspelled Staff (Level 6)]]
+- [[enspelled staff level 7 xdmg|Enspelled Staff (Level 7)]]
+- [[enspelled staff level 8 xdmg|Enspelled Staff (Level 8)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,11 +70,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -92,16 +94,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

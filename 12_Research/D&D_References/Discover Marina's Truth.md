@@ -1,3 +1,12 @@
+---
+title: Discover Marina's Truth
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Discover Marina's Truth
 
 ---
@@ -37,7 +46,6 @@ world: Both
 
 *The Fractured Soul at the Heart of Two Realms*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## The Core Mystery
 
@@ -69,7 +72,7 @@ The truth is not singular but layered—each revelation opens new questions, and
 The original Marina was a brilliant senator who discovered the approaching convergence between realms would result in mutual annihilation. Her research into memory magic and dimensional theory led her to attempt a radical solution: fragmenting her consciousness across multiple timelines and realities to gather enough knowledge and power to prevent the catastrophe.
 
 **Key Truths**:
-- Discovered the [[Shadow-Crystal Synthesis]] was accelerating realm collapse
+- Discovered the [[Shadow Crystal Synthesis]] was accelerating realm collapse
 - Learned that [[Emperor Thalassius the Wise]] knew but was powerless to stop it
 - Found evidence that the [[Deep Mother]]'s awakening would shatter both realms
 - Attempted to create multiple versions of herself as fail-safes
@@ -284,11 +287,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

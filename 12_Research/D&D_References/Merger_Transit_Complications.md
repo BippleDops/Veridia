@@ -1,3 +1,12 @@
+---
+title: Merger_Transit_Complications
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merger_Transit_Complications
 
 ---
@@ -23,7 +32,6 @@ world: Both
 
 Use with [[Complete Reality Merger System]]. Anchors reduce severity; living ships risk madness (see [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]]).
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ Use with [[Complete Reality Merger System]]. Anchors reduce severity; living shi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## d20 Complications
 1 Physics denial • 2 Time echo • 3 Duplicate crew • 4 Gravity freefall • 5 Color subtraction • 6 Language inversion • 7 Memory flood • 8 Identity bleed • 9 Anchor dissoce • 10 Predator breach • 11 Two places at once • 12 Soundless storm • 13 Inside-out corridor • 14 Paper-thin deck • 15 Endless hatch • 16 Up is south • 17 Shadow eats light • 18 Door opens to elsewhere • 19 Dream replaces map • 20 Deep Mother glance
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about a local noble
@@ -73,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

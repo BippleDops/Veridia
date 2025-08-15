@@ -1,3 +1,12 @@
+---
+title: Frost Giant Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Frost Giant Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-xmm-frost-giant-xmm.svg)
 
-# [[frost-giant-xmm|Frost Giant]]
+# [[frost giant xmm|Frost Giant]]
 *Source: Monster Manual (2024) p. 124. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Frost Giant
 
@@ -104,13 +107,13 @@ Frost giants often travel far to find food and goods. This leads many to become 
       \ plus 9 (2d8) Cold damage."
     "name": "Frost Axe"
   - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
-      \ damage plus 7 (2d6) Cold damage, and the target's [[speed-xphb|Speed]]\
+      \ damage plus 7 (2d6) Cold damage, and the target's [[speed xphb|Speed]]\
       \ decreases by 10 feet until the end of its next turn."
     "name": "Great Bow"
 "bonus_actions":
   - "desc": "The giant or one creature of its choice that can see or hear it gains\
-      \ 16 (2d10 + 5) [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ and has [[advantage-xphb|Advantage]] on attack\
+      \ 16 (2d10 + 5) [[temporary hit points xphb|Temporary Hit Points]]\
+      \ and has [[advantage xphb|Advantage]] on attack\
       \ rolls until the start of the giant's next turn."
     "name": "War Cry (Recharge 5-6)"
 "source":
@@ -139,14 +142,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

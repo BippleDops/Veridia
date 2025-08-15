@@ -1,3 +1,12 @@
+---
+title: Undead Spirit Putrid Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Undead Spirit Putrid Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-putrid-xphb-undead-spirit-putrid-xphb.svg)
 
-# [[undead-spirit-putrid-xphb|Undead Spirit (Putrid)]]
+# [[undead spirit putrid xphb|Undead Spirit (Putrid)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -75,7 +84,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -87,11 +95,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -109,11 +112,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 

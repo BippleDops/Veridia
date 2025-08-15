@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,12 +46,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -64,12 +58,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -79,12 +70,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Basic Information
 
@@ -194,7 +183,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest - Storm Lord's Challenge]] (ally)
+- [[Quest   Storm Lord's Challenge]] (ally)
 - [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]] (friend)
 - [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg]] (colleague)
 ---
@@ -203,7 +192,6 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Bloodline
 

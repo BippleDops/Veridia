@@ -1,3 +1,12 @@
+---
+title: Juiblex Mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Juiblex Mtf
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juiblex-mtf-juiblex-mtf.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -51,7 +54,7 @@ On Initiative count 20 (losing initiative ties), Juiblex can take a lair action 
 
 - Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become [[conditions#Restrained|restrained]]. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save. A [[conditions#Restrained|restrained]] creature is stuck as long as it remains in the slimy area or until it breaks free. The [[conditions#Restrained|restrained]] creature, or another creature who can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  
 - Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall [[conditions#prone|prone]] and slide 10 feet in a random direction determined by a `d8` roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  
-- A [[green-slime-xdmg|green slime]] (see the "Dungeon Master's Guide") appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.  
+- A [[green slime xdmg|green slime]] (see the "Dungeon Master's Guide") appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.  
 
 ## Regional effects
 
@@ -95,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and chaos spreads
@@ -107,11 +109,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,29 +46,21 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -81,7 +70,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -191,8 +179,8 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest - Crystal Innovation]] (ally)
-- [[Quest - The Ancient Compact]] (ally)
+- [[Quest   Crystal Innovation]] (ally)
+- [[Quest   The Ancient Compact]] (ally)
 - [[Queen Lyralei Stormheart]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -200,7 +188,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Economic Structure
 
@@ -219,7 +206,6 @@ Member of House Dragonblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Encounter and Loot Generators
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Encounter and Loot Generators
 
 ---
@@ -25,7 +34,6 @@ timeline: current_era
 chronology: active
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ chronology: active
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Encounters (d100)
 Roll: `dice: 1d100|Encounter Roll`
@@ -143,7 +146,6 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a conspiracy
@@ -158,11 +160,9 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

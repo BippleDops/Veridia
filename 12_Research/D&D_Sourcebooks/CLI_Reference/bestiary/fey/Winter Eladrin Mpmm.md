@@ -1,3 +1,12 @@
+---
+title: Winter Eladrin Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Winter Eladrin Mpmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-eladrin-mpmm-v1-winter-eladrin-mpmm.svg)
 
-# [[winter-eladrin-mpmm|Winter Eladrin]]
+# [[winter eladrin mpmm|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When sorrow distresses eladrin, they enter the winter season, becoming figures o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Eladrin
 
@@ -123,8 +126,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[fog-cloud-xphb|fog cloud]],\
-      \ [[gust-of-wind-xphb|gust of wind]], [[sleet-storm-xphb|sleet storm]]"
+      \ DC 16):\n\nAt will: [[fog cloud xphb|fog cloud]],\
+      \ [[gust of wind xphb|gust of wind]], [[sleet storm xphb|sleet storm]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -162,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for power
@@ -176,7 +178,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

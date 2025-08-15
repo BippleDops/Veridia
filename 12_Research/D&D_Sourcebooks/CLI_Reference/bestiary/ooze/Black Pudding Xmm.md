@@ -1,3 +1,12 @@
+---
+title: Black Pudding Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Black Pudding Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-pudding-xmm-black-pudding-xmm.svg)
 
-# [[black-pudding-xmm|Black Pudding]]
+# [[black pudding xmm|Black Pudding]]
 *Source: Monster Manual (2024) p. 42. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Black Pudding
 
@@ -109,7 +112,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
       \ the pudding and dealing any damage. Any nonmagical weapon takes a cumulative\
       \ -1 penalty to attack rolls immediately after dealing damage to the pudding\
       \ and coming into contact with it. The weapon is destroyed if the penalty reaches\
-      \ -5. The penalty can be removed by casting the [[mending-xphb|Mending]]\
+      \ -5. The penalty can be removed by casting the [[mending xphb|Mending]]\
       \ spell on the weapon.\n\nIn 1 minute, the pudding can eat through 2 feet of\
       \ nonmagical wood or metal."
     "name": "Corrosive Form"
@@ -120,16 +123,16 @@ Various supernatural conditions might bring black puddings into being. Roll on o
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 17 (4d6 + 3) Acid damage.\
       \ Nonmagical armor worn by the target takes a -1 penalty to the AC it offers.\
       \ The armor is destroyed if the penalty reduces its AC to 10. The penalty can\
-      \ be removed by casting the [[mending-xphb|Mending]]\
+      \ be removed by casting the [[mending xphb|Mending]]\
       \ spell on the armor."
     "name": "Dissolving Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the pudding is Large or Medium and has 10+ [[hit-points-xphb|Hit Points]],\
-      \ it becomes [[bloodied-xphb|Bloodied]] or\
+  - "desc": "Trigger: While the pudding is Large or Medium and has 10+ [[hit points xphb|Hit Points]],\
+      \ it becomes [[bloodied xphb|Bloodied]] or\
       \ is subjected to Lightning or Slashing damage. _Response:_ The pudding splits\
       \ into two new Black Puddings. Each new pudding is one size smaller than the\
-      \ original pudding and acts on its [[initiative-xphb|Initiative]].\
-      \ The original pudding's [[hit-points-xphb|Hit Points]]\
+      \ original pudding and acts on its [[initiative xphb|Initiative]].\
+      \ The original pudding's [[hit points xphb|Hit Points]]\
       \ are divided evenly between the new puddings (round down)."
     "name": "Split"
 "source":
@@ -158,11 +161,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -177,11 +178,9 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

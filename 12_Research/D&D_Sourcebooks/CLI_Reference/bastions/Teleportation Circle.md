@@ -1,3 +1,12 @@
+---
+title: Teleportation Circle
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Teleportation Circle
 
 ---
@@ -31,8 +40,7 @@ world: Both
 - **Hirelings**: 1
 - **Order**: recruit
 
-Inscribed on the floor of this room is a permanent teleportation circle created by the [[teleportation-circle-xphb|Teleportation Circle]] spell.
-
+Inscribed on the floor of this room is a permanent teleportation circle created by the [[teleportation circle xphb|Teleportation Circle]] spell.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Inscribed on the floor of this room is a permanent teleportation circle created 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Recruit: Spellcaster
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

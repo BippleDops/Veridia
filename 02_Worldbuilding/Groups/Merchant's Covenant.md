@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covet-merchant-s-covet.svg]]
 
 # Merchant's Covet
 *"Knowledge Flows Like Current, Value Rises Like Pressure"*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,16 +54,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -89,7 +78,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Organization Overview
 
@@ -285,15 +273,15 @@ The Covet has negotiated quasi-governmental status with major depth authorities:
 - [[Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
 - [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
 - [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
-- [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
+- [[Scholar Merchant Remembrance Tidekeep]] - Historical preservation advocate
 - [[Information Broker Whisper Goldtongu]] - Intelligence operations chief
 - [[Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
-- [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
+- [[Metamorphosis Consultant Deep Change]] - Transformation guidance expert
 
 **Knowledge Categories**:
 - [[Navigation & Geography]] - Physical world information
 - [[Transformation Techniques]] - Biological and psychological adaptation
-- [[Pre-Drowning History]] - Ancient world records and cultural preservation
+- [[Pre Drowning History]] - Ancient world records and cultural preservation
 - [[Faction Intelligence]] - Contemporary political and military information
 - [[Cultural Practices]] - Social customs and behavioral analysis
 - [[Economic Intelligence]] - Market analysis and ficial forecasting
@@ -331,16 +319,13 @@ Merchant's Covet operates as an influential organization with specific goals and
 ### Open Secrets
 Things widely suspected
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Religious Observances
 

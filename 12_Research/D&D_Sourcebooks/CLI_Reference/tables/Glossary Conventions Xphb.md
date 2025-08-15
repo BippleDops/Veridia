@@ -1,3 +1,12 @@
+---
+title: Glossary Conventions Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Glossary Conventions Xphb
 
 ---
@@ -35,13 +44,13 @@ world: Both
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [[challenge-rating-xphb|Challenge Rating]] |
-| DC | [[difficulty-class-xphb|Difficulty Class]] |
+| CR | [[challenge rating xphb|Challenge Rating]] |
+| DC | [[difficulty class xphb|Difficulty Class]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [[hit-points-xphb|Hit Point]](s) |
+| HP | [[hit points xphb|Hit Point]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -51,16 +60,15 @@ world: Both
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [[proficiency-xphb|Proficiency Bonus]] |
+| PB | [[proficiency xphb|Proficiency Bonus]] |
 | PP | Platinum Piece(s) |
-| R | [[ritual-xphb|Ritual]] |
+| R | [[ritual xphb|Ritual]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [[experience-points-xphb|Experience Point]](s) |
-
+| XP | [[experience points xphb|Experience Point]](s) |
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,11 +81,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -95,11 +98,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

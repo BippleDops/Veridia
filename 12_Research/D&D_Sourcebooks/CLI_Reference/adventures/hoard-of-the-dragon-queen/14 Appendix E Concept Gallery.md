@@ -1,3 +1,12 @@
+---
+title: 14 Appendix E Concept Gallery
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 14 Appendix E Concept Gallery
 
 ---
@@ -37,7 +46,6 @@ Several other locations and characters also feature prominently in this collecti
 
 How you choose to use this concept gallery is up to you. Perhaps these details will inspire you, just as they did the original *Tyranny of Dragons* designers. Maybe a particular image will resound with you, leading you to make your own addition to the wider campaign. Added insights on the tools and techniques of the adventure's villains can help you make them feel like more vital inhabitants of a wider world, while nuances of dragons and other can creatures aid in bringing these terrors to life. These pages might also be shared with players as you see fit, driving home the impact of the campaign's most climatic moments. Whether this gallery serves as a game aide or inspires your own designs, use it as you please, further detailing the existing adventures or exploring *Tyranny of Dragons* stories yet to be told!
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ How you choose to use this concept gallery is up to you. Perhaps these details w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Invasion of Icewind Dale
 
@@ -82,9 +85,9 @@ How you choose to use this concept gallery is up to you. Perhaps these details w
 ### Red Wizards of Thay
 
 > [!gallery]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/089-tod-e-08a.webp#gallery|Red Wizards of Thay Stronghold]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/090-tod-e-08b.webp#gallery|Red Wizards]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/091-tod-e-08c.webp#gallery|Rath Modar (Formal)]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/089-tod-e-08a.webp#gallery|Red Wizards of Thay Stronghold]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/090-tod-e-08b.webp#gallery|Red Wizards]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/091-tod-e-08c.webp#gallery|Rath Modar (Formal)]]
 
 #### Red Wizards
 
@@ -99,7 +102,7 @@ As magical artificers of great skill, they command high prices, and are not afra
 Agents of the Black Network have winged snake companions that serve as messengers. Members of the Zhentarim use these creatures to deliver messages on scrolls and stay in contact with one another. A winged snake is trained to serve a particular master. If its master dies, the snake has been known to remain nearby and starve to death.
 
 > !]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/094-tod-e-09c.webp#gallery|Dread Warrior]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/094-tod-e-09c.webp#gallery|Dread Warrior]]
 
 ### Dread Warriors
 
@@ -112,7 +115,7 @@ No race is immune from being transformed into a dread warrior. Once set upon a t
 
 ### Dragon Masks
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/097-tod-e-11a.webp#center|Mask of Tiamat]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/097-tod-e-11a.webp#center|Mask of Tiamat]]
 
 A dragon mask enhances a person's ability to communicate with dragons of a particular color.
 
@@ -124,7 +127,7 @@ The five dragon masks can be combined in a ritual to form the supreme Mask of th
 
 The wearer of this mask can channel its power to beckon Tiamat from her infernal realm, although she does so willingly—not because the mask compels her.
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/098-tod-e-11c.webp#center|The Five Dragon Masks (with Wyrmspeaker Regalia)]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/098-tod-e-11c.webp#center|The Five Dragon Masks (with Wyrmspeaker Regalia)]]
 
 ### Cult of the Dragon - Cultist Stronghold
 
@@ -132,20 +135,20 @@ The wearer of this mask can channel its power to beckon Tiamat from her infernal
 
 ### Dragon Cultists
 
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/100-tod-e-12b.webp#gallery|Dragon Cultist Assassin/Thief Elite Tier]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/101-tod-e-12c.webp#gallery|Dragon Cultist: Rogue Ideations]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/102-tod-e-12d.webp#gallery|Cult of the Dragon Masks/Headgear]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/103-tod-e-12e.webp#gallery|Cult of the Dragon Decorative Regalia]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/104-tod-e-12i.webp#gallery|Dragon Fang (Dagger)]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/105-tod-e-12j.webp#gallery|Glove and Hand Tattooing Details Dragon Loyalty]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/106-tod-e-12k.webp#gallery|2nd Rank & 4th Rank]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/107-tod-e-12f1.webp#gallery|Cult Initiate]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/108-tod-e-12f2.webp#gallery|1st Rank: Dragonclaw]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/109-tod-e-12f3.webp#gallery|2nd Rank: Dragonwing]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/110-tod-e-12f4.webp#gallery|3rd Rank: Dragonfang]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/111-tod-e-12f5.webp#gallery|4th Rank: Dragonsoul]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/112-tod-e-12g.webp#gallery|Dragon Cult Recruiter Formal Wear]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/113-tod-e-12h.webp#gallery|Dragon Cult Recruiter Street Clothes]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/100-tod-e-12b.webp#gallery|Dragon Cultist Assassin/Thief Elite Tier]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/101-tod-e-12c.webp#gallery|Dragon Cultist: Rogue Ideations]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/102-tod-e-12d.webp#gallery|Cult of the Dragon Masks/Headgear]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/103-tod-e-12e.webp#gallery|Cult of the Dragon Decorative Regalia]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/104-tod-e-12i.webp#gallery|Dragon Fang (Dagger)]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/105-tod-e-12j.webp#gallery|Glove and Hand Tattooing Details Dragon Loyalty]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/106-tod-e-12k.webp#gallery|2nd Rank & 4th Rank]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/107-tod-e-12f1.webp#gallery|Cult Initiate]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/108-tod-e-12f2.webp#gallery|1st Rank: Dragonclaw]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/109-tod-e-12f3.webp#gallery|2nd Rank: Dragonwing]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/110-tod-e-12f4.webp#gallery|3rd Rank: Dragonfang]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/111-tod-e-12f5.webp#gallery|4th Rank: Dragonsoul]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/112-tod-e-12g.webp#gallery|Dragon Cult Recruiter Formal Wear]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/113-tod-e-12h.webp#gallery|Dragon Cult Recruiter Street Clothes]]
 
 ### Temple of Tiamat
 
@@ -155,13 +158,13 @@ The Cult of the Dragon seeks to raise Tiamat's temple from the Nine Hells, bring
 
 ### Icewind Dale
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/115-tod-e-13d.webp#center|Drizzt Do'Urden]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/115-tod-e-13d.webp#center|Drizzt Do'Urden]]
 
 The farthest north region along the Sword Coast, Icewind Dale is an unforgiving land where the rugged inhabitants of ten small towns dedicate themselves to carving a living from the ice and snow.
 
 The drow elf Drizzt Do'Urden numbers among the land's most legendary heroes.
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/116-tod-e-13c.webp#center|The Savage North]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/116-tod-e-13c.webp#center|The Savage North]]
 
 ### Waterdeep
 
@@ -171,12 +174,12 @@ The City of Splendors is the greatest of the Sword Coast cities. Home to as many
 
 ### People of the Sword Coast
 
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/118-tod-e-14a.webp#gallery|Remi Haventree, Military Commander Uniform]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/119-tod-e-14b.webp#gallery|Remi Haventree, Waterdhavian Formal Wear]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/120-tod-e-14c.webp#gallery|Mei, Female Human Rogue]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/121-tod-e-14d.webp#gallery|Calia, Female Human Ranger]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/122-tod-e-14e.webp#gallery|Tilo, Male Human Wizard]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/123-tod-e-14f.webp#gallery|Fi, Male Human Cleric]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/118-tod-e-14a.webp#gallery|Remi Haventree, Military Commander Uniform]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/119-tod-e-14b.webp#gallery|Remi Haventree, Waterdhavian Formal Wear]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/120-tod-e-14c.webp#gallery|Mei, Female Human Rogue]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/121-tod-e-14d.webp#gallery|Calia, Female Human Ranger]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/122-tod-e-14e.webp#gallery|Tilo, Male Human Wizard]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/123-tod-e-14f.webp#gallery|Fi, Male Human Cleric]]
 
 Numerous people make their homes along the Sword Coast.
 
@@ -184,7 +187,7 @@ Whether commoners or nobles, trades folk or adventurers, all have much to lose a
 
 ### Red Dragons
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/124-tod-e-15b.webp#center|Red Dragon Identifiers]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/124-tod-e-15b.webp#center|Red Dragon Identifiers]]
 
 Red dragons are vain, reflected in their proud, upright bearing and disdainful expression.
 
@@ -200,7 +203,7 @@ Reds smell like smoke and sulphur.
 
 ### Blue Dragons
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/126-tod-e-15d.webp#center|Blue Dragon Identifiers]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/126-tod-e-15d.webp#center|Blue Dragon Identifiers]]
 
 Blues are vain and territorial.
 
@@ -214,22 +217,22 @@ They smell of ozone + sand.
 
 ### Green Dragons
 
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/128-tod-e-16a.webp#gallery|Green Dragons at various ages]]
+> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/128-tod-e-16a.webp#gallery|Green Dragons at various ages]]
 > ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/129-tod-e-16b.webp#gallery)
 
 ### Black Dragons
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/130-tod-e-16c.webp#center|Black Dragons at various ages]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/130-tod-e-16c.webp#center|Black Dragons at various ages]]
 
 Black dragons are evil-tempered, cunning, and, malevolent. Their crafty, sinister faces reflect this.
 
 They are sometimes known as "skull dragons" for their deeply socketed eyes and distinctive nasal opening. Adding to this impression is the gradual deterioration of the hide around the horn base/cheekbone. This does no harm to the dragon but increases with age.
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/131-tod-e-16d.webp#center|Black Dragon Identifiers]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/131-tod-e-16d.webp#center|Black Dragon Identifiers]]
 
 ### White Dragons
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/132-tod-e-17b.webp#center|White Dragon (old)]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/132-tod-e-17b.webp#center|White Dragon (old)]]
 
 Among the smallest and least intelligent of dragonkind, most white dragons are simply animalistic predators.
 
@@ -239,7 +242,7 @@ Their beaked, crested heads are distinctive.
 
 (A crisp, faintly chemical odor).
 
-![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/133-tod-e-17a.webp#center|White Dragon Identifiers]]
+![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/133-tod-e-17a.webp#center|White Dragon Identifiers]]
 
 ## Player-Facing Summary
 
@@ -257,11 +260,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -271,7 +272,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

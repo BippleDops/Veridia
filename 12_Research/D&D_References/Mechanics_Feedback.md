@@ -1,3 +1,12 @@
+---
+title: Mechanics_Feedback
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mechanics_Feedback
 
 ---
@@ -86,7 +95,6 @@ Any mechanics from other games you'd like to see?
 
 *Good mechanics enhance story without getting in the way*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -98,11 +106,6 @@ Any mechanics from other games you'd like to see?
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -115,7 +118,6 @@ Any mechanics from other games you'd like to see?
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Prophecy Connection
 

@@ -1,3 +1,12 @@
+---
+title: Nilbog Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nilbog Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nilbog-mpmm-nilbog-mpmm.svg)
 
-# [[nilbog-mpmm|Nilbog]]
+# [[nilbog mpmm|Nilbog]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -41,7 +50,6 @@ When Maglubiyet conquered the goblin gods, a trickster deity was determined to g
 Whenever goblinoids form a host, there is a chance that a goblin will become possessed by a nilbog, particularly if the goblins have been mistreated by their betters. The possessed goblin turns into a wisecracking, impish creature fearless of reprisal. This nilbog also gains strange powers that drive others to do the opposite of what they desire. Attacking the possessed goblin is foolhardy, and killing them just prompts the spirit to possess another goblin. The only way to keep a nilbog from wreaking havoc is to treat it well and give it respect and praise.
 
 Among fey courts, the risk of attracting a nilbog has given rise to the practice of always including at least one goblin jester. This jester is allowed to go anywhere and do whatever they please, hopefully preventing a nilbog from manifesting. The position of jester is much sought-after among the courts' goblins, because even if the jester is obviously not a nilbog, the court must indulge their chaotic behavior.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Among fey courts, the risk of attracting a nilbog has given rise to the practice
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Nilbogism
 
@@ -75,7 +78,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[[leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather armor xphb|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -109,8 +112,8 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
       \ next turn."
     "name": "Mocking Word"
   - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[mage-hand-xphb|mage hand]],\
-      \ [[tashas-hideous-laughter-xphb|Tasha's hideous laughter]]"
+      \ ability (spell save DC 12):\n\nAt will: [[mage hand xphb|mage hand]],\
+      \ [[tashas hideous laughter xphb|Tasha's hideous laughter]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nilbog takes the [[actions#Disengage|Disengage]]\
@@ -147,11 +150,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -166,11 +167,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

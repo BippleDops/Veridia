@@ -1,3 +1,12 @@
+---
+title: Tide_Monk_Way_of_Flowing_Current
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tide_Monk_Way_of_Flowing_Current
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Tide Monk represents an ancient martial tradition that teaches practitioners to move like water itself—fluid, adaptable, and inexorable. These monks have learned to channel the power of ocean currents through their bodies, becoming living embodiments of the sea's eternal flow. They serve as guardians of underwater monasteries, masters of aquatic combat, and keepers of ancient tidal wisdom.
@@ -82,7 +85,6 @@ This build emphasizes the unique aspects of underwater martial arts while mainta
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

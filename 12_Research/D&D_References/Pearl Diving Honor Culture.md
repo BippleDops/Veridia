@@ -1,3 +1,12 @@
+---
+title: Pearl Diving Honor Culture
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pearl Diving Honor Culture
 
 ---
@@ -24,7 +33,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # Pearl Diving Honor Culture
 *"The pearl does not choose who finds it - but the finder's honor determines whether they deserve its gift."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dangerous professional traditions, where skilled divers risk their lives in the deepest waters to harvest precious pearls while adhering to an ancient code of honor that governs every aspect of their dangerous work. This culture balances fierce individual competition with profound mutual respect, creating a brotherhood of elite professionals bound by shared risk and common values.
@@ -169,7 +172,7 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 8. **Sacred Pearl Quest:** Legendary pearl needed for important ceremony must be recovered from dangerous depths
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Pearl Divers Guil|02 Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
+- [[02 Worldbuilding/Groups/The Pearl Divers Guil|02 Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
 - [[Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 
@@ -191,11 +194,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -205,7 +206,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

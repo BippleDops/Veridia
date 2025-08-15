@@ -1,3 +1,12 @@
+---
+title: Random Hag Minions Brutes Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Hag Minions Brutes Vgm
 
 ---
@@ -31,20 +40,19 @@ world: Both
 
 | dice: d12 | Brute(s) |
 |-----------|----------|
-| 1 | [[bugbear-warrior-xmm|Bugbears]] |
-| 2 | [[doppelganger-xmm|Doppelgangers]] |
-| 3 | [[ettercap-xmm|Ettercaps]] |
-| 4 | [[gargoyle-xmm|Gargoyles]] |
-| 5 | [[jackalwere-xmm|Jackalweres]] |
-| 6 | [[kenku-xmm|Kenku]] |
-| 7 | [[meenlock-mpmm|Meenlocks]] |
-| 8 | [[oni-xmm|Oni]] |
-| 9 | [[quickling-mpmm|Quicklings]] |
-| 10 | [[redcap-mpmm|Redcaps]] |
-| 11 | [[wererat-xmm|Wererats]] |
-| 12 | [[werewolf-xmm|Werewolves]] |
+| 1 | [[bugbear warrior xmm|Bugbears]] |
+| 2 | [[doppelganger xmm|Doppelgangers]] |
+| 3 | [[ettercap xmm|Ettercaps]] |
+| 4 | [[gargoyle xmm|Gargoyles]] |
+| 5 | [[jackalwere xmm|Jackalweres]] |
+| 6 | [[kenku xmm|Kenku]] |
+| 7 | [[meenlock mpmm|Meenlocks]] |
+| 8 | [[oni xmm|Oni]] |
+| 9 | [[quickling mpmm|Quicklings]] |
+| 10 | [[redcap mpmm|Redcaps]] |
+| 11 | [[wererat xmm|Wererats]] |
+| 12 | [[werewolf xmm|Werewolves]] |
 ^brutes
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

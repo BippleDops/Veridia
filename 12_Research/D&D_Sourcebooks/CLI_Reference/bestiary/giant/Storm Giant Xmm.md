@@ -1,3 +1,12 @@
+---
+title: Storm Giant Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Storm Giant Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg)
 
-# [[storm-giant-xmm|Storm Giant]]
+# [[storm giant xmm|Storm Giant]]
 *Source: Monster Manual (2024) p. 302. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Storm Giant
 
@@ -112,14 +115,14 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
       \ start of the giant's next turn."
     "name": "Thunderbolt"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [[cylinder-area-of-effect-xphb|Cylinder]]\
+      \ [[cylinder area of effect xphb|Cylinder]]\
       \ originating from a point the giant can see within 500 feet. Failure: 55\
       \ (10d10) Lightning damage. Success: Half damage."
     "name": "Lightning Storm (Recharge 5-6)"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\nAt will:\
-      \ [[detect-magic-xphb|Detect Magic]], [[light-xphb|Light]]\n\
-      \n1/day: [[control-weather-xphb|Control Weather]]"
+      \ [[detect magic xphb|Detect Magic]], [[light xphb|Light]]\n\
+      \n1/day: [[control weather xphb|Control Weather]]"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -147,11 +150,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -164,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

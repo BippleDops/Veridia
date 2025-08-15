@@ -31,15 +31,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
 
 # The Purification Gardens
 
 *"In cleansed soil, pure intentions take root." - Gardener Serenity*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,13 +69,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -92,11 +85,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -106,7 +97,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where magical plants and purified water sources work together to cleanse corruption from body, mind, and spirit. Maintained by an order of dedicated gardener-priests, these grounds offer hope to those afflicted by magical diseases, curses, and spiritual ailments.
@@ -272,16 +262,13 @@ The Purification Gardens is a undersea element of the setting, known for biolumi
 
 Legends speak of The Purification Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Purification Gardens.
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Historical Timeline
 

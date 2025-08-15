@@ -1,3 +1,12 @@
+---
+title: Thorny Vegepygmy Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Thorny Vegepygmy Mpmm
 
 ---
@@ -30,13 +39,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.png]]
 
 # [[thorny-vegepygmy-mpmm|Thorny Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
 
 If a Beast such as a dog or a bear dies from [[russet-mold-vgm|russet mold]], the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ If a Beast such as a dog or a bear dies from [[russet-mold-vgm|russet mold]], th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Vegepygmies
 
@@ -129,7 +131,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

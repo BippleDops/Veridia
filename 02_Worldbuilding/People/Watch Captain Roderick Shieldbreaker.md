@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,18 +52,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -85,13 +76,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -210,25 +198,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns truth
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
 
-
 ## Relationships
 
 - **Parent**: [[Portrait NPC Captain Scarlet Torrent V2 Captain Scarlet Torrent.svg]]
 - **Ally**: [[Session 4]]
-- **Blackmailer**: [[Quest - Breaking the Scales]]
+- **Blackmailer**: [[Quest   Breaking the Scales]]
 - **Blackmailer**: [[High King Aurelius Skyborn]]
-- **Creditor**: [[Quest - The Prophecy Fulfilled]]
-
+- **Creditor**: [[Quest   The Prophecy Fulfilled]]
 
 ## Economic Structure
 
@@ -247,7 +231,6 @@ Member of House Dragonblood - Trait: prophecy
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

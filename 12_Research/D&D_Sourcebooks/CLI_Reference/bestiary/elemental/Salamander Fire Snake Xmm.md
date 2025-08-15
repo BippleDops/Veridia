@@ -1,3 +1,12 @@
+---
+title: Salamander Fire Snake Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Salamander Fire Snake Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-fire-snake-xmm-salamander-fire-snake-xmm.svg)
 
-# [[salamander-fire-snake-xmm|Salamander Fire Snake]]
+# [[salamander fire snake xmm|Salamander Fire Snake]]
 *Source: Monster Manual (2024) p. 266*  
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fir
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Salamanders
 
@@ -95,7 +98,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "1"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ choice in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the salamander takes 3 (d6) Fire damage."
     "name": "Fire Aura"
 "actions":
@@ -128,7 +131,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a portal
@@ -141,16 +143,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Seeker Dart Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Seeker Dart Pota
 
 ---
@@ -28,11 +37,11 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-seeker-dart-pota-seeker-dart-pota.svg)
 
 # Seeker Dart
-*Weapon ([[dart-xphb|dart]]), uncommon*  
+*Weapon ([[dart xphb|dart]]), uncommon*  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 This small dart is decorated with designs like windy spirals that span the length of its shaft.
@@ -42,7 +51,6 @@ When you whisper the word "seek" and hurl this dart, it seeks out a target of yo
 When the dart reaches its target, the target must succeed on a DC 16 Dexterity saving throw or take `d4` piercing damage and `3d4` lightning damage. The dart's magic is then spent, and it becomes an ordinary dart.
 
 *Source: Princes of the Apocalypse p. 223*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ When the dart reaches its target, the target must succeed on a DC 16 Dexterity s
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

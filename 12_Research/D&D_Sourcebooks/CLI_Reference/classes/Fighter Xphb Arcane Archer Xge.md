@@ -1,3 +1,12 @@
+---
+title: Fighter Xphb Arcane Archer Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fighter Xphb Arcane Archer Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Arcane Archer
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[[fighter xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 > [!tldr] Class and Feature Progression
@@ -62,7 +71,7 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[skills#Arcana|Arcana]] or the [[skills#Nature|Nature]] skill, and you choose to learn either the [[prestidigitation-xphb|prestidigitation]] or the [[druidcraft-xphb|druidcraft]] cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[skills#Arcana|Arcana]] or the [[skills#Nature|Nature]] skill, and you choose to learn either the [[prestidigitation xphb|prestidigitation]] or the [[druidcraft xphb|druidcraft]] cantrip.
 
 ### Arcane Shot (Level 3)
 
@@ -108,7 +117,6 @@ You gain an additional Arcane Shot option of your choice when you reach 15th lev
 
 You gain an additional Arcane Shot option of your choice when you reach 18th level. Each option also improves when you become an 18th-level fighter.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -120,16 +128,11 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
-> ![[list-optfeaturetype-as#Arcane%20Shot|Arcane Shot]]
+> 
 ^list-optfeature-as
 
 ## Player-Facing Summary
@@ -147,7 +150,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

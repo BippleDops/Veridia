@@ -1,3 +1,12 @@
+---
+title: Shadow Surgeon Strike Team
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Surgeon Strike Team
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # Shadow Surgeon Strike Team
 *The Scalpel Squadron, Surgical Assassins, Doctors of Death*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Surgeon Strike Team represents the elite military arm of the [[Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]], combining advanced medical knowledge with lethal combat expertise. These highly trained operatives specialize in precision surgical strikes, battlefield medicine, and elimination targets through medical means. They are simultaneously healers and killers, capable of saving lives or ending them with clinical efficiency. Operating in the shadows between worlds, they serve as both protection for shadow medical operations and instruments of surgical warfare.
@@ -266,8 +269,6 @@ Shadow Surgeon Strike Team is a undersea element of the setting, known for biolu
 ## Lore Details
 
 Legends speak of Shadow Surgeon Strike Team as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Surgeon Strike Team.
-
-
 
 ## 12_Research Specific Content
 

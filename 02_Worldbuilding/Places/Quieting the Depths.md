@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg]]
 
 # Quieting the Depths
 
 *"Some sounds should never echo in the deep."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +61,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
@@ -79,14 +73,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -100,7 +89,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 A supernatural crisis quest where an ancient evil stirs in the deepest ocean trenches, sending disturbing sounds and psychic disturbances throughout Aquabyssos. Citizens report hearing whispers in their dreams, and some have begun sleepwalking toward the depths.
@@ -217,8 +205,6 @@ Ongoing situations affecting Quieting the Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -241,7 +227,6 @@ Ongoing situations affecting Quieting the Depths:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

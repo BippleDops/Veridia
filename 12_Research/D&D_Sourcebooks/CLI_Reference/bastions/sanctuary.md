@@ -1,3 +1,12 @@
+---
+title: sanctuary
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # sanctuary
 
 ---
@@ -22,7 +31,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg]]
 
 # Sanctuary
 *Level 5 Bastion facility*  
@@ -33,7 +41,6 @@ world: Both
 - **Order**: craft
 
 Icons of your religion are displayed in this facility, which includes a quiet place for worship.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sanctuary Charm
 
@@ -77,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

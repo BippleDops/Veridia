@@ -1,3 +1,12 @@
+---
+title: List Optfeaturetype Ei
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Optfeaturetype Ei
 
 ---
@@ -25,84 +34,60 @@ world: Both
 # Eldritch Invocation
 *Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the SRD* 
 
-- [[agonizing-blast-xphb|Agonizing Blast]]
-- [[agonizing-blast-xphb|Agonizing Blast]]
-- [[armor-of-shadows-xphb|Armor of Shadows]]
-- [[armor-of-shadows-xphb|Armor of Shadows]]
-- [[ascendant-step-xphb|Ascendant Step]]
-- [[ascendant-step-xphb|Ascendant Step]]
-- [[aspect-of-the-moon-xge|Aspect of the Moon]]
-- [[beast-speech|Beast Speech]]
-- [[beguiling-influence|Beguiling Influence]]
-- [[bewitching-whispers|Bewitching Whispers]]
-- [[book-of-ancient-secrets|Book of Ancient Secrets]]
-- [[chains-of-carceri|Chains of Carceri]]
-- [[cloak-of-flies-xge|Cloak of Flies]]
-- [[devils-sight-xphb|Devil's Sight]]
-- [[devils-sight-xphb|Devil's Sight]]
-- [[devouring-blade-xphb|Devouring Blade]]
-- [[dreadful-word|Dreadful Word]]
-- [[eldritch-mind-xphb|Eldritch Mind]]
-- [[eldritch-mind-xphb|Eldritch Mind]]
-- [[eldritch-sight|Eldritch Sight]]
-- [[eldritch-smite-xphb|Eldritch Smite]]
-- [[eldritch-smite-xphb|Eldritch Smite]]
-- [[eldritch-spear-xphb|Eldritch Spear]]
-- [[eldritch-spear-xphb|Eldritch Spear]]
-- [[eyes-of-the-rune-keeper|Eyes of the Rune Keeper]]
-- [[fiendish-vigor-xphb|Fiendish Vigor]]
-- [[fiendish-vigor-xphb|Fiendish Vigor]]
-- [[gaze-of-two-minds-xphb|Gaze of Two Minds]]
-- [[gaze-of-two-minds-xphb|Gaze of Two Minds]]
-- [[ghostly-gaze-xge|Ghostly Gaze]]
-- [[gift-of-the-depths-xphb|Gift of the Depths]]
-- [[gift-of-the-depths-xphb|Gift of the Depths]]
-- [[gift-of-the-ever-living-ones-xge|Gift of the Ever-Living Ones]]
-- [[gift-of-the-protectors-xphb|Gift of the Protectors]]
-- [[gift-of-the-protectors-xphb|Gift of the Protectors]]
-- [[grasp-of-hadar-xge|Grasp of Hadar]]
-- [[improved-pact-weapon-xge|Improved Pact Weapon]]
-- [[investment-of-the-chain-master-xphb|Investment of the Chain Master]]
-- [[investment-of-the-chain-master-xphb|Investment of the Chain Master]]
-- [[lance-of-lethargy-xge|Lance of Lethargy]]
-- [[lessons-of-the-first-ones-xphb|Lessons of the First Ones]]
-- [[lifedrinker-xphb|Lifedrinker]]
-- [[lifedrinker-xphb|Lifedrinker]]
-- [[maddening-hex-xge|Maddening Hex]]
-- [[mask-of-many-faces-xphb|Mask of Many Faces]]
-- [[mask-of-many-faces-xphb|Mask of Many Faces]]
-- [[master-of-myriad-forms-xphb|Master of Myriad Forms]]
-- [[master-of-myriad-forms-xphb|Master of Myriad Forms]]
-- [[minions-of-chaos|Minions of Chaos]]
-- [[mire-the-mind|Mire the Mind]]
-- [[misty-visions-xphb|Misty Visions]]
-- [[misty-visions-xphb|Misty Visions]]
-- [[one-with-shadows-xphb|One with Shadows]]
-- [[one-with-shadows-xphb|One with Shadows]]
-- [[otherworldly-leap-xphb|Otherworldly Leap]]
-- [[otherworldly-leap-xphb|Otherworldly Leap]]
-- [[pact-of-the-blade-xphb|Pact of the Blade]]
-- [[pact-of-the-chain-xphb|Pact of the Chain]]
-- [[pact-of-the-tome-xphb|Pact of the Tome]]
-- [[relentless-hex-xge|Relentless Hex]]
-- [[repelling-blast-xphb|Repelling Blast]]
-- [[repelling-blast-xphb|Repelling Blast]]
-- [[sculptor-of-flesh|Sculptor of Flesh]]
-- [[shroud-of-shadow-xge|Shroud of Shadow]]
-- [[sign-of-ill-omen|Sign of Ill Omen]]
-- [[thief-of-five-fates|Thief of Five Fates]]
-- [[thirsting-blade-xphb|Thirsting Blade]]
-- [[thirsting-blade-xphb|Thirsting Blade]]
-- [[tomb-of-levistus-xge|Tomb of Levistus]]
-- [[tricksters-escape-xge|Trickster's Escape]]
-- [[visions-of-distant-realms-xphb|Visions of Distant Realms]]
-- [[visions-of-distant-realms-xphb|Visions of Distant Realms]]
-- [[voice-of-the-chain-master|Voice of the Chain Master]]
-- [[whispers-of-the-grave-xphb|Whispers of the Grave]]
-- [[whispers-of-the-grave-xphb|Whispers of the Grave]]
-- [[witch-sight-xphb|Witch Sight]]
-- [[witch-sight-xphb|Witch Sight]]
-
+- [[agonizing blast xphb|Agonizing Blast]]
+- [[armor of shadows xphb|Armor of Shadows]]
+- [[ascendant step xphb|Ascendant Step]]
+- [[aspect of the moon xge|Aspect of the Moon]]
+- [[beast speech|Beast Speech]]
+- [[beguiling influence|Beguiling Influence]]
+- [[bewitching whispers|Bewitching Whispers]]
+- [[book of ancient secrets|Book of Ancient Secrets]]
+- [[chains of carceri|Chains of Carceri]]
+- [[cloak of flies xge|Cloak of Flies]]
+- [[devils sight xphb|Devil's Sight]]
+- [[devouring blade xphb|Devouring Blade]]
+- [[dreadful word|Dreadful Word]]
+- [[eldritch mind xphb|Eldritch Mind]]
+- [[eldritch sight|Eldritch Sight]]
+- [[eldritch smite xphb|Eldritch Smite]]
+- [[eldritch spear xphb|Eldritch Spear]]
+- [[eyes of the rune keeper|Eyes of the Rune Keeper]]
+- [[fiendish vigor xphb|Fiendish Vigor]]
+- [[gaze of two minds xphb|Gaze of Two Minds]]
+- [[ghostly gaze xge|Ghostly Gaze]]
+- [[gift of the depths xphb|Gift of the Depths]]
+- [[gift of the ever living ones xge|Gift of the Ever-Living Ones]]
+- [[gift of the protectors xphb|Gift of the Protectors]]
+- [[grasp of hadar xge|Grasp of Hadar]]
+- [[improved pact weapon xge|Improved Pact Weapon]]
+- [[investment of the chain master xphb|Investment of the Chain Master]]
+- [[lance of lethargy xge|Lance of Lethargy]]
+- [[lessons of the first ones xphb|Lessons of the First Ones]]
+- [[lifedrinker xphb|Lifedrinker]]
+- [[maddening hex xge|Maddening Hex]]
+- [[mask of many faces xphb|Mask of Many Faces]]
+- [[master of myriad forms xphb|Master of Myriad Forms]]
+- [[minions of chaos|Minions of Chaos]]
+- [[mire the mind|Mire the Mind]]
+- [[misty visions xphb|Misty Visions]]
+- [[one with shadows xphb|One with Shadows]]
+- [[otherworldly leap xphb|Otherworldly Leap]]
+- [[pact of the blade xphb|Pact of the Blade]]
+- [[pact of the chain xphb|Pact of the Chain]]
+- [[pact of the tome xphb|Pact of the Tome]]
+- [[relentless hex xge|Relentless Hex]]
+- [[repelling blast xphb|Repelling Blast]]
+- [[sculptor of flesh|Sculptor of Flesh]]
+- [[shroud of shadow xge|Shroud of Shadow]]
+- [[sign of ill omen|Sign of Ill Omen]]
+- [[thief of five fates|Thief of Five Fates]]
+- [[thirsting blade xphb|Thirsting Blade]]
+- [[tomb of levistus xge|Tomb of Levistus]]
+- [[tricksters escape xge|Trickster's Escape]]
+- [[visions of distant realms xphb|Visions of Distant Realms]]
+- [[voice of the chain master|Voice of the Chain Master]]
+- [[whispers of the grave xphb|Whispers of the Grave]]
+- [[witch sight xphb|Witch Sight]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -115,11 +100,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -136,7 +116,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

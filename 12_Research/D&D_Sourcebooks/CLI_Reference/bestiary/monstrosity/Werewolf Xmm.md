@@ -1,3 +1,12 @@
+---
+title: Werewolf Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Werewolf Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werewolf-xmm-v1-werewolf-xmm.svg)
 
-# [[werewolf-xmm|Werewolf]]
+# [[werewolf xmm|Werewolf]]
 *Source: Monster Manual (2024) p. 327. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Werewolf
 
@@ -86,7 +89,7 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
 "traits":
-  - "desc": "The werewolf has [[advantage-xphb|Advantage]]\
+  - "desc": "The werewolf has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the werewolf's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -98,8 +101,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit-points-xphb|Hit Points]],\
-      \ it instead becomes a Werewolf under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
+      \ drops to 0 [[hit points xphb|Hit Points]],\
+      \ it instead becomes a Werewolf under the DM's control and has 10 [[hit points xphb|Hit Points]].\
       \ Success: The target is immune to this werewolf's curse for 24 hours."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
@@ -139,7 +142,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a conspiracy about a local noble
@@ -150,7 +152,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

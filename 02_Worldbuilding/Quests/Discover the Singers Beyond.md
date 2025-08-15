@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,10 +39,6 @@ improvements: 20
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
 
 ### Backup Improvements
 
@@ -54,11 +47,9 @@ improvements: 20
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 
 ### Art Improvements
 
-- Add AI art prompts for key scenes
 - Add AI art prompts for key scenes
 
 ### Props Improvements
@@ -77,7 +68,6 @@ improvements: 20
 
 - Include content warnings and safety tools
 
-
 ## Adventure Overview
 
 An exciting quest that challenges heroes to claim glory.
@@ -94,11 +84,9 @@ An exciting quest that challenges heroes to claim glory.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -111,7 +99,6 @@ Mentioned in The Hidden Prophecy of Winds
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
-
 
 ## Moral Quandaries
 

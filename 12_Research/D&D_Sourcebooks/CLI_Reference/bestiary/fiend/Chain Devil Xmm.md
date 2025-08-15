@@ -1,3 +1,12 @@
+---
+title: Chain Devil Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chain Devil Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chain-devil-xmm-chain-devil-xmm.svg)
 
-# [[chain-devil-xmm|Chain Devil]]
+# [[chain devil xmm|Chain Devil]]
 *Source: Monster Manual (2024) p. 68. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Chain Devil
 
@@ -99,16 +102,16 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness xphb|Darkness]]),\
   \ passive Perception 11"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [[advantage-xphb|Advantage]]\
+  - "desc": "The devil has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -159,7 +162,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before the new moon
@@ -168,7 +170,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Wings of Flying Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wings of Flying Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wings-of-flying.webp#right)
 
-While wearing this cloak, you can take a [[actions#Magic|Magic]] action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a [[actions#Magic|Magic]] action. The wings give you a [[fly-speed-xphb|Fly Speed]] of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can't use them again for `d12` hours.
+While wearing this cloak, you can take a [[actions#Magic|Magic]] action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a [[actions#Magic|Magic]] action. The wings give you a [[fly speed xphb|Fly Speed]] of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can't use them again for `d12` hours.
 
 *Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this cloak, you can take a [[actions#Magic|Magic]] action to turn 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

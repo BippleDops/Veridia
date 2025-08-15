@@ -1,3 +1,12 @@
+---
+title: Deva Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deva Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deva-xmm-deva-xmm.svg)
 
-# [[deva-xmm|Deva]]
+# [[deva xmm|Deva]]
 *Source: Monster Manual (2024) p. 97. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Deva
 
@@ -108,10 +111,10 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 "cr": "10"
 "traits":
   - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The deva has [[advantage-xphb|Advantage]]\
+  - "desc": "The deva has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -122,17 +125,17 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
     "name": "Holy Mace"
   - "desc": "The deva casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[commune-xphb|Commune]],\
-      \ [[raise-dead-xphb|Raise Dead]]"
+      \ will: [[detect evil and good xphb|Detect Evil and Good]],\
+      \ [[shapechange xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[temporary hit points xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary hit points xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n1/day each: [[commune xphb|Commune]],\
+      \ [[raise dead xphb|Raise Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The deva casts [[cure-wounds-xphb|Cure Wounds]],\
-      \ [[lesser-restoration-xphb|Lesser Restoration]],\
-      \ or [[remove-curse-xphb|Remove Curse]], using the\
+  - "desc": "The deva casts [[cure wounds xphb|Cure Wounds]],\
+      \ [[lesser restoration xphb|Lesser Restoration]],\
+      \ or [[remove curse xphb|Remove Curse]], using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":
@@ -161,11 +164,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -175,7 +176,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

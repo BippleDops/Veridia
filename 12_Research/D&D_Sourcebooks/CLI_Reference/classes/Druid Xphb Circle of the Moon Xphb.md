@@ -1,3 +1,12 @@
+---
+title: Druid Xphb Circle of the Moon Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Druid Xphb Circle of the Moon Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Circle of the Moon
-*[[druid-xphb|Druid]]: Druid Subclass*  
+*[[druid xphb|Druid]]: Druid Subclass*  
 *Source: Player's Handbook (2024) p. 86*  
 
 > [!tldr] Class and Feature Progression
@@ -71,10 +80,10 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3 | [[cure-wounds-xphb|Cure Wounds]], [[moonbeam-xphb|Moonbeam]], [[starry-wisp-xphb|Starry Wisp]] |
-| 5 | [[conjure-animals-xphb|Conjure Animals]] |
-| 7 | [[fount-of-moonlight-xphb|Fount of Moonlight]] |
-| 9 | [[mass-cure-wounds-xphb|Mass Cure Wounds]] |
+| 3 | [[cure wounds xphb|Cure Wounds]], [[moonbeam xphb|Moonbeam]], [[starry wisp xphb|Starry Wisp]] |
+| 5 | [[conjure animals xphb|Conjure Animals]] |
+| 7 | [[fount of moonlight xphb|Fount of Moonlight]] |
+| 9 | [[mass cure wounds xphb|Mass Cure Wounds]] |
 ^circle-of-the-moon-spells
 
 ### Circle Forms (Level 3)
@@ -83,7 +92,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 #### Challenge Rating
 
-The maximum [[challenge-rating-xphb|Challenge Rating]] for the form equals your Druid level divided by 3 (round down).
+The maximum [[challenge rating xphb|Challenge Rating]] for the form equals your Druid level divided by 3 (round down).
 
 #### Armor Class
 
@@ -91,7 +100,7 @@ Until you leave the form, your AC equals 13 plus your Wisdom modifier if that to
 
 #### Temporary Hit Points
 
-You gain a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to three times your Druid level.
+You gain a number of [[temporary hit points xphb|Temporary Hit Points]] equal to three times your Druid level.
 
 ### Improved Circle Forms (Level 6)
 
@@ -107,9 +116,9 @@ You can add your Wisdom modifier to your Constitution saving throws.
 
 ### Moonlight Step (Level 10)
 
-You magically transport yourself, reappearing amid a burst of moonlight. As a [[bonus-action-xphb|Bonus Action]], you teleport up to 30 feet to an unoccupied space you can see, and you have [[advantage-xphb|Advantage]] on the next attack roll you make before the end of this turn.
+You magically transport yourself, reappearing amid a burst of moonlight. As a [[bonus action xphb|Bonus Action]], you teleport up to 30 feet to an unoccupied space you can see, and you have [[advantage xphb|Advantage]] on the next attack roll you make before the end of this turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]]. You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long rest xphb|Long Rest]]. You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
 
 ### Lunar Form (Level 14)
 
@@ -123,7 +132,6 @@ Once per turn, you can deal an extra `2d10` Radiant damage to a target you hit w
 
 Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -135,11 +143,6 @@ Whenever you use Moonlight Step, you can also teleport one willing creature. Tha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -159,11 +162,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

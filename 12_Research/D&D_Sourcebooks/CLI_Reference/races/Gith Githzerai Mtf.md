@@ -1,3 +1,12 @@
+---
+title: Gith Githzerai Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gith Githzerai Mtf
 
 ---
@@ -53,12 +62,11 @@ You have advantage on saving throws against the [[conditions#Charmed|charmed]] a
 
 ### Githzerai Psionics
 
-You know the [[mage-hand-xphb|mage hand]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
+You know the [[mage hand xphb|mage hand]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
 
-When you reach 3rd level, you can cast [[shield-xphb|shield]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect-thoughts-xphb|detect thoughts]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast [[shield xphb|shield]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect thoughts xphb|detect thoughts]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,11 +79,6 @@ Wisdom is your spellcasting ability for these spells. When you cast them with th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -104,7 +107,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

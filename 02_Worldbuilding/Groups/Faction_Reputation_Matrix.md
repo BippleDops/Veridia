@@ -13,8 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![Faction Reputation Matrix](../../04_Resources/Assets/Generated/Misc/faction_reputation_matrix.png)
 
 ### Merchant's Guild ↔ Shadow Syndicate
@@ -130,7 +128,6 @@ improvements: 20
 **Current State**: Skirmishes
 **Player Impact**: Can profit from conflict
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -162,13 +159,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Diaspora Improvements
@@ -178,8 +171,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
@@ -188,12 +179,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## DM Notes
 

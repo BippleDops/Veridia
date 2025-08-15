@@ -1,3 +1,12 @@
+---
+title: Unite the Recursions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Unite the Recursions
 
 ---
@@ -28,10 +37,7 @@ accessibility:
 
 # Unite the Recursions
 
-![[04_Resources/Assets/Art/Lore/Unite_the_Recursions.png|Unite the Recursions Portrait]]
-
 *The ultimate quest to merge all recursive realities into one stable existence*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +50,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -492,11 +493,11 @@ The real question isn't whether to unite the recursions, but whether the party w
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/The Reality Engine|02 Worldbuilding/Lore/The Reality Engine]]
+- [[02 Worldbuilding/Lore/The Reality Engine|02 Worldbuilding/Lore/The Reality Engine]]
 - [[The Convergence Cult|02 Worldbuilding/Groups/The Convergence Cult]]
 - [[03_Mechanics/Recursion_Travel_System|03 Mechanics/Recursion Travel System]]
-- [[02_Worldbuilding/Lore/The Seventeen Attempts|02 Worldbuilding/Lore/The Seventeen Attempts]]
-- [[02_Worldbuilding/Places/The Recursion Nexus|02 Worldbuilding/Places/The Recursion Nexus]]
+- [[02 Worldbuilding/Lore/The Seventeen Attempts|02 Worldbuilding/Lore/The Seventeen Attempts]]
+- [[02 Worldbuilding/Places/The Recursion Nexus|02 Worldbuilding/Places/The Recursion Nexus]]
 
 *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"*
 
@@ -511,8 +512,6 @@ Legends speak of Unite the Recursions as a nexus where past and present converge
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

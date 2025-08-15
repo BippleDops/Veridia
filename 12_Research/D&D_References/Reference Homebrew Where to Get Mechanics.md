@@ -1,3 +1,12 @@
+---
+title: Reference Homebrew Where to Get Mechanics
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rules_Reference - Homebrew - Where To Get Mechanics
 
 ---
@@ -46,7 +55,6 @@ https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Community+Supported+
 We do what we can to support other systems. Check this link to see if there is community content available. 
 https://github.com/orgs/Obsidian-TTRPG-Community/repositories
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ https://github.com/orgs/Obsidian-TTRPG-Community/repositories
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a curse
@@ -91,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -39,11 +39,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-markets-the-sunken-markets.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,23 +72,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
@@ -110,7 +100,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
@@ -181,11 +170,9 @@ The Sunken Markets is a notable location characterized by its unique features an
 ### Founding
 The Sunken Markets was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## A Day in the Life
 

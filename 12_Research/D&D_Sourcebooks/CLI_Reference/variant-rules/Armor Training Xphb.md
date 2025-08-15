@@ -1,3 +1,12 @@
+---
+title: Armor Training Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor Training Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Armor Training
 *Source: Player's Handbook (2024) p. 361. Available in the SRD and the Free Rules (2024)* 
 
-Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have [[disadvantage-xphb|Disadvantage]] on any [[d20-test-xphb|D20 Test]] that involves Strength or Dexterity, and you can't cast spells. If you use a [[shield-xphb|Shield]] and lack training with it, you don't gain its AC bonus.
-
+Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have [[disadvantage xphb|Disadvantage]] on any [[d20 test xphb|D20 Test]] that involves Strength or Dexterity, and you can't cast spells. If you use a [[shield xphb|Shield]] and lack training with it, you don't gain its AC bonus.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Armor training allows you to use armor of a certain category without the followi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

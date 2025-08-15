@@ -40,14 +40,14 @@ government: Oracular Authority
 location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 notable_npcs:
-- '[[Whisper-Touched William|02 Worldbuilding/People/Whisper Touched William]]'
-- '[[Echo-Translator Vera]]'
+- '[[Whisper Touched William|02 Worldbuilding/People/Whisper Touched William]]'
+- '[[Echo Translator Vera]]'
 - '[[Silent Guardian Marcus]]'
-- '[[Truth-Seeker Cornelius]]'
+- '[[Truth Seeker Cornelius]]'
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 pressure_effects: Moderate
-ruler: '[[Whisper-Touched William|02 Worldbuilding/People/Whisper Touched William]]'
+ruler: '[[Whisper Touched William|02 Worldbuilding/People/Whisper Touched William]]'
 services:
 - Prophetic Consultation
 - Whisper Translation
@@ -56,7 +56,7 @@ services:
 - Madness Counseling
 shadow_density: Low
 sub_locations:
-- '[[02_Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]]'
+- '[[02 Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]]'
 - '[[Gallery of Echoing Truths]]'
 - '[[The Silence Garden]]'
 - '[[Prophecy Translation Center]]'
@@ -69,11 +69,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-touched-william-v1-whisper-touched-william.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -102,11 +98,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
@@ -115,7 +109,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -129,18 +122,14 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Where Madness Speaks Truth
 
@@ -232,13 +221,13 @@ William's truth-detection abilities make him valuable for resolving disputes, ve
 
 ### William's Inner Circle
 
-**[[Whisper-Touched William|Full Details]]** - The Oracle
+**[[Whisper Touched William|Full Details]]** - The Oracle
 - Transformed records clerk with prophetic abilities
 - Constantly hears whispers from unknown sources
 - Struggles with the burden of cosmic knowledge
 - Deeply compassionate despite his otherworldly nature
 
-**[[Echo-Translator Vera]]** - Chief Interpreter
+**[[Echo Translator Vera]]** - Chief Interpreter
 - William's primary assistant and translator
 - Specializes in decoding cryptic prophecies
 - Has developed limited whisper sensitivity
@@ -250,7 +239,7 @@ William's truth-detection abilities make him valuable for resolving disputes, ve
 - Has taken vows of minimal speech to provide William with some quiet
 - Extremely skilled in non-violent restraint techniques
 
-**[[Truth-Seeker Cornelius]]** - Documentation Specialist
+**[[Truth Seeker Cornelius]]** - Documentation Specialist
 - Records and catalogs all prophecies and their fulfillment
 - Maintains the Gallery of Echoing Truths
 - Research specialist who helps verify William's revelations
@@ -434,7 +423,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Whisper-Touched William]]
+- [[Whisper Touched William]]
 
 riched: true -->
 - [[Abyssos Prime]]
@@ -469,12 +458,9 @@ Ongoing situations affecting Whisper-Touched William:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

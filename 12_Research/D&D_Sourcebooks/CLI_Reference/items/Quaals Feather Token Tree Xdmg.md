@@ -1,3 +1,12 @@
+---
+title: Quaals Feather Token Tree Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaals Feather Token Tree Xdmg
 
 ---
@@ -34,7 +43,6 @@ You must be outdoors to use this token. You can take a [[actions#Magic|Magic]] a
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD (as "Feather Token, Tree") and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ You must be outdoors to use this token. You can take a [[actions#Magic|Magic]] a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

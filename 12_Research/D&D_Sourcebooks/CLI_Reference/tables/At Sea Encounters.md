@@ -1,3 +1,12 @@
+---
+title: At Sea Encounters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # At Sea Encounters
 
 ---
@@ -38,14 +47,13 @@ world: Both
 | 9-10 | Passing merchant ship (galley or sailing ship) |
 | 11-12 | [[killer-whale-xmm|Killer whale]] sighting |
 | 13-14 | Floating debris |
-| 15 | Longship crewed by hostile [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] |
-| 16 | Hostile [[griffon-xmm|griffons]] or [[harpy-xmm|harpies]] |
+| 15 | Longship crewed by hostile [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
+| 16 | Hostile [[griffon xmm|griffons]] or [[harpy xmm|harpies]] |
 | 17 | Iceberg (easily avoided if seen from a distance) |
 | 18 | [[sahuagin-warrior-xmm|Sahuagin]] boarding party |
 | 19 | NPC in the water (clinging to floating debris) |
-| 20 | Sea monster (such as a [[dragon-turtle-xmm|dragon turtle]] or [[kraken-xmm|kraken]]) |
+| 20 | Sea monster (such as a [[dragon-turtle-xmm|dragon turtle]] or [[kraken xmm|kraken]]) |
 ^at-sea-encounters
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +66,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

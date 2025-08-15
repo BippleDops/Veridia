@@ -1,3 +1,12 @@
+---
+title: Save the Citizens
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Save the Citizens
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"When disaster strikes, heroes answer the call of the innocent."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Save the Citizens represents emergency rescue operations where characters must protect and evacuate civilian populations during various catastrophes affecting both Aethermoor and Aquabyssos. These missions require coordination, resource management, and difficult decisions about who can be saved when time and resources are limited.
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Cow Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cow Vgm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cow-vgm-cow-vgm.svg)
 
-# [[cow-vgm|Cow]]
+# [[cow vgm|Cow]]
 *Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
@@ -70,7 +79,6 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -82,11 +90,6 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -107,7 +110,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

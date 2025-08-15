@@ -1,3 +1,12 @@
+---
+title: The Inter-Realm Council Chambers
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Inter-Realm Council Chambers
 
 ---
@@ -17,7 +26,6 @@ world: Both Aethermoor & Aquabyssos
 updated: '2025-08-13T01:18:34.683104+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ updated: '2025-08-13T01:18:34.683104+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

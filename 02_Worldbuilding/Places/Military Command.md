@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-military-command-military-command.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,24 +51,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -86,8 +75,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -138,8 +125,6 @@ Ongoing situations affecting Military Command:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -152,12 +137,10 @@ Ongoing situations affecting Military Command:
 - DC 20 to detect
 - 4d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Detect Magic**
   - School: Divination
   - Manifestation: Permanent
-
 
 ## Temporal Layers
 
@@ -171,11 +154,9 @@ Ongoing situations affecting Military Command:
 - **Brewing Conflict**: Succession
 - **Prophecy Connection**: Links to The Second Prophecy of Shadows
 
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 

@@ -11,8 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Name
 *Monster name*
 
@@ -27,7 +25,6 @@ improvements: 20
 
 ---
 *Add homebrew monsters here*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,7 +49,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Variant Improvements
 
@@ -61,21 +57,13 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Monster_Use Improvements
 
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 - Explain if/how monsters use this rule
 
 ### Narrative_Triggers Improvements
@@ -85,7 +73,6 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-
 
 ## Rule Summary
 
@@ -124,11 +111,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Quick Reference
 

@@ -1,3 +1,12 @@
+---
+title: Carrion Crawler Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Carrion Crawler Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-carrion-crawler-xmm-carrion-crawler-xmm.svg)
 
-# [[carrion-crawler-xmm|Carrion Crawler]]
+# [[carrion crawler xmm|Carrion Crawler]]
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Carrion Crawler
 
@@ -134,11 +137,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

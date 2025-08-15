@@ -30,10 +30,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg]]
 
 # The Gilded Shard
 
@@ -42,7 +39,6 @@ improvements: 20
 **Government:** Independent Institution under [[The Crystal Throne]] charter  
 **Population:** ~800 (students, faculty, researchers, staff)  
 **Notable Features:** Floating crystal spires, reality-bending workshops, temporal laboratories
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,13 +67,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -90,8 +82,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
@@ -109,7 +99,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic research and education. Built around a massive fragment of one of [[The Seven Shards]], the academy floats above the Crystal Heights, its golden-veined spires rotating slowly as they channel and study arcane energies. Here, the brightest minds work to understand the fundamental forces that shape reality.
@@ -592,8 +581,6 @@ Ongoing situations affecting The Gilded Shard:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is protecting information for love
@@ -618,7 +605,6 @@ Ongoing situations affecting The Gilded Shard:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -636,7 +622,6 @@ Ongoing situations affecting The Gilded Shard:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

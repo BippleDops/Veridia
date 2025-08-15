@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chef-amara-tastecurrent-chef-amara-tastecurrent.svg]]
 
 # Chef Amara Tastecurrent
 
 *"Every dish tells a story, every flavor carries memory."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,14 +66,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -91,7 +82,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
@@ -100,8 +90,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Overview
 Chef Amara Tastecurrent is Aquabyssos's most renowned culinary artist, operating the prestigious "Depths of Flavor" restaurant in the Noble Quarter. Her innovative approach to underwater cuisine has earned her patronage from royalty and nobility throughout the kingdom.
@@ -197,12 +185,9 @@ Ongoing situations affecting Chef Amara Tastecurrent:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Historical Timeline
 

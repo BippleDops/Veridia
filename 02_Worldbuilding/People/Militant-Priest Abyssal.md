@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-militant-priest-abyssal-militant-priest-abyssal.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,9 +53,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
@@ -68,11 +61,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
@@ -82,8 +73,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
@@ -92,7 +81,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -170,7 +158,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns acceptance
 
-
 ## Relationships
 
 - **Debtor**: [[Captain Blackwater]]
@@ -178,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Child**: [[The Shadow Warren]]
 - **Blackmailer**: [[portrait-npc-deep-lords-deep-lords.svg]]
 - **Creditor**: [[Portrait NPC Quest Seeds of the Deep Quest Seeds of the Deep.svg]]
-
 
 ## Historical Timeline
 
@@ -197,7 +183,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -209,7 +194,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -229,7 +213,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -241,7 +224,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

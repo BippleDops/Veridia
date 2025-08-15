@@ -1,3 +1,12 @@
+---
+title: Vehicle_Customization_Progression
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicle_Customization_Progression
 
 ---
@@ -23,7 +32,6 @@ world: Both
 
 Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Modular Upgrade Systems
 - Biological Grafting: Parasite symbionts, coral armor, regenerative sacs
@@ -74,21 +77,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

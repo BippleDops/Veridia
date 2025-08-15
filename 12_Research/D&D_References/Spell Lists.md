@@ -1,3 +1,12 @@
+---
+title: Spell Lists
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Lists
 
 ---
@@ -37,7 +46,6 @@ practitioners: All Magical Traditions
 > *"In the depths where pressure shapes possibility and on the surface where winds carry wonder, magic takes countless forms. These spells represent the accumulated knowledge of both worlds - techniques honed in crushing darkness and perfected in brilliant light, each adapted to serve those who would master the impossible."*
 > — [[Archmage Tidal Currentweave]], Master of Both Traditions at the [[Institute of Unified Magic]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ practitioners: All Magical Traditions
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -146,14 +149,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

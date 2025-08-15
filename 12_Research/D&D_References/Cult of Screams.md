@@ -1,3 +1,12 @@
+---
+title: Cult of Screams
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cult of Screams
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T01:18:36.751007+00:00'
 # Cult of Screams
 *"In Silence We Suffer, In Screaming We Transcend"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ updated: '2025-08-13T01:18:36.751007+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -206,13 +209,13 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
 
 **Notable NPCs**:
-- [[Echo-Prime Cacophony Voidlungs]]
+- [[Echo Prime Cacophony Voidlungs]]
 - [[Doctor Harmony Whisperfall]]
-- [[Bass-Echo Rumble Deepshake]]
-- [[Mid-Echo Shriek Nerveshatter]]
-- [[Treble-Echo Whistle Brainsplitter]]
-- [[Void-Echo Silence Deafmake|02 Worldbuilding/Groups/Void Echo Silence Deafmake]]
-- [[Chaos-Echo Discord Mindmelter]]
+- [[Bass Echo Rumble Deepshake]]
+- [[Mid Echo Shriek Nerveshatter]]
+- [[Treble Echo Whistle Brainsplitter]]
+- [[Void Echo Silence Deafmake|02 Worldbuilding/Groups/Void Echo Silence Deafmake]]
+- [[Chaos Echo Discord Mindmelter]]
 
 **Specialized Equipment**:
 - [[Scream Crystals]]
@@ -244,14 +247,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

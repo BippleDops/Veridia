@@ -1,3 +1,12 @@
+---
+title: Azer Sentinel Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Azer Sentinel Xmm
 
 ---
@@ -30,11 +39,10 @@ updated: '2025-08-13T12:34:05.761707+00:00'
 world: Both
 ---
 
-# [[azer-sentinel-xmm|Azer Sentinel]]
+# [[azer sentinel xmm|Azer Sentinel]]
 *Source: Monster Manual (2024) p. 25. Available in the SRD and the Free Rules (2024)*  
 
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Azer sentinels defend their communities' smiths and channel their flames through
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Azers
 
@@ -87,12 +90,12 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the azer takes 5 (d10) Fire damage unless the azer has the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [[bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
+  - "desc": "The azer sheds [[bright light xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim light xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -125,16 +128,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

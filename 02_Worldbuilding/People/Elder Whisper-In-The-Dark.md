@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg]]
 
 # Elder Whisper-In-The-Dark
 *The First Voice, She Who Speaks the Deep Truths, The Maddened Oracle*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,8 +56,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
@@ -70,22 +64,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Diaspora Improvements
@@ -95,7 +84,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to hear [[The Deep Mother]]'s whispers from the oceanic abyss. Once a respected prophet and spiritual guide, three centuries of exposure to the Deep Mother's influence has transformed her into something between divine oracle and maddened cultist. She speaks truths that shouldn't be known and prophecies that always come to pass, but her words come wrapped in riddles, shadow imagery, and half-mad ravings.
@@ -176,7 +164,7 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 ## Secrets & Hidden Knowledge
 > [!warning] DM Only
 > - Knows the true location of three of [[The Seven Shards]]
-> - Has seen visions of [[Duchess Marina Ever-Drowning]]'s true nature
+> - Has seen visions of [[Duchess Marina Ever Drowning]]'s true nature
 > - Prophesied the return of [[Emperor Thalassius the Wise]] centuries ago
 > - Knows that [[Admiral Thorne Blackwater]] is dying from pressure poisoning
 > - Has foreseen a catastrophic war between surface and depths within 5 years
@@ -260,13 +248,11 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns acceptance
 
-
 ## Relationships
 
 - **Debtor**: [[Surface Syndicate]]
 - **Parent**: [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
 - **Creditor**: [[Coral Duchess Amphitrite]]
-
 
 ## Cultural Practices
 
@@ -279,7 +265,6 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

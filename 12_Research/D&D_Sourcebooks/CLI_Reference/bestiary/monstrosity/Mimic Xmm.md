@@ -1,3 +1,12 @@
+---
+title: Mimic Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mimic Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mimic-xmm-mimic-xmm.svg)
 
-# [[mimic-xmm|Mimic]]
+# [[mimic xmm|Mimic]]
 *Source: Monster Manual (2024) p. 212. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mimic
 
@@ -165,10 +168,10 @@ Weapon rack
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
       \ adhered to the mimic has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [[disadvantage-xphb|Disadvantage]]."
+      \ [[disadvantage xphb|Disadvantage]]."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [[advantage-xphb|Advantage]]\
+  - "desc": "Melee Attack Roll: +5 (with [[advantage xphb|Advantage]]\
       \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing\
       \ damage if the target is [[conditions#Grappled|Grappled]]\
@@ -177,7 +180,7 @@ Weapon rack
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 4 (d8) Acid damage. If the target is a Large or smaller creature, it\
       \ has the [[conditions#Grappled|Grappled]] condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [[disadvantage-xphb|Disadvantage]]."
+      \ DC 13). Ability checks made to escape this grapple have [[disadvantage xphb|Disadvantage]]."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\
@@ -210,14 +213,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

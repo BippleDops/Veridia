@@ -1,3 +1,12 @@
+---
+title: Blessing of Valhalla Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blessing of Valhalla Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Blessing of Valhalla
 
-This Blessing grants you the power to summon spirit warriors, as if you are blowing a [[horn-of-valhalla-silver-xdmg|silver Horn of Valhalla]]. Once you use this Blessing, you can't use it again until 7 days have passed.
+This Blessing grants you the power to summon spirit warriors, as if you are blowing a [[horn of valhalla silver xdmg|silver Horn of Valhalla]]. Once you use this Blessing, you can't use it again until 7 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ This Blessing grants you the power to summon spirit warriors, as if you are blow
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

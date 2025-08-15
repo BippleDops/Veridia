@@ -1,3 +1,12 @@
+---
+title: Implements Very Rare Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Implements Very Rare Xdmg
 
 ---
@@ -31,22 +40,21 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–07 | [[3-ammunition-xdmg|Ammunition, +3]] |
-| 08–14 | [[bag-of-devouring-xdmg|Bag of Devouring]] |
-| 15–21 | [[carpet-of-flying-xdmg|Carpet of Flying]] |
-| 22–28 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
-| 29–35 | [[horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]] |
-| 36–42 | [[instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the Bards (Anstruth harp)]] |
-| 43–49 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-agility-xdmg|agility]]) |
-| 50–56 | [[lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]] |
-| 57–63 | [[manual-of-quickness-of-action-xdmg|Manual of Quickness of Action]] |
-| 64–70 | [[nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]] |
-| 71–77 | [[potion-of-flying-xdmg|Potion of Flying]] |
-| 78–86 | [[potion-of-supreme-healing-xdmg|Potion of Healing (supreme)]] |
-| 87–93 | [[potion-of-speed-xdmg|Potion of Speed]] |
-| 94–00 | [[tome-of-leadership-and-influence-xdmg|Tome of Leadership and Influence]] |
+| 01–07 | [[3 ammunition xdmg|Ammunition, +3]] |
+| 08–14 | [[bag of devouring xdmg|Bag of Devouring]] |
+| 15–21 | [[carpet of flying xdmg|Carpet of Flying]] |
+| 22–28 | [[enspelled weapon xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
+| 29–35 | [[horseshoes of a zephyr xdmg|Horseshoes of a Zephyr]] |
+| 36–42 | [[instrument of the bards anstruth harp xdmg|Instrument of the Bards (Anstruth harp)]] |
+| 43–49 | [[ioun stone xdmg|Ioun Stone]] ([[ioun stone agility xdmg|agility]]) |
+| 50–56 | [[lute of thunderous thumping xdmg|Lute of Thunderous Thumping]] |
+| 57–63 | [[manual of quickness of action xdmg|Manual of Quickness of Action]] |
+| 64–70 | [[nolzurs marvelous pigments xdmg|Nolzur's Marvelous Pigments]] |
+| 71–77 | [[potion of flying xdmg|Potion of Flying]] |
+| 78–86 | [[potion of supreme healing xdmg|Potion of Healing (supreme)]] |
+| 87–93 | [[potion of speed xdmg|Potion of Speed]] |
+| 94–00 | [[tome of leadership and influence xdmg|Tome of Leadership and Influence]] |
 ^implements-very-rare
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

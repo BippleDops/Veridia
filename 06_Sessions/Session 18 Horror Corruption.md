@@ -1,3 +1,12 @@
+---
+title: Session 18 Horror Corruption
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_18_Horror_Corruption
 
 ---
@@ -121,7 +130,6 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 
 *Horror sessions require careful balance between tension and comfort, using atmosphere and implications rather than graphic descriptions to create memorable experiences.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -133,11 +141,6 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -151,11 +154,9 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

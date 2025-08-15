@@ -1,3 +1,12 @@
+---
+title: Lifedrinker Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lifedrinker Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 9 Warlock
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra `d6` Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[hit-point-dice-xphb|Hit Point Dice]] to roll it and regain a number of [[hit-points-xphb|Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[hit-points-xphb|Hit Point]]).
-
+Once per turn when you hit a creature with your pact weapon, you can deal an extra `d6` Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[hit point dice xphb|Hit Point Dice]] to roll it and regain a number of [[hit points xphb|Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[hit points xphb|Hit Point]]).
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Once per turn when you hit a creature with your pact weapon, you can deal an ext
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 

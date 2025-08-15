@@ -1,3 +1,12 @@
+---
+title: Searing Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Searing Smite Xphb
 
 ---
@@ -39,10 +48,9 @@ As you hit the target, it takes an extra `d6` Fire damage from the attack. At th
 
 **Using a Higher-Level Spell Slot.** All the damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ As you hit the target, it takes an extra `d6` Fire damage from the attack. At th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

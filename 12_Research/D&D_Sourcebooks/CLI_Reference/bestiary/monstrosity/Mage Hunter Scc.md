@@ -1,3 +1,12 @@
+---
+title: Mage Hunter Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mage Hunter Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mage-hunter-scc-mage-hunter-scc.svg)
 
-# [[mage-hunter-scc|Mage Hunter]]
+# [[mage hunter scc|Mage Hunter]]
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  
 
 Mage hunters are hideous spider-legged creatures employed by the Oriq to pursue magic-wielders. These creatures can naturally sense magic via the glowing purple spines on their backs.
@@ -113,7 +122,6 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -125,11 +133,6 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -146,7 +149,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

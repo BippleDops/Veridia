@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-the-pressure-conspiracy.svg]]
 
 # The Pressure Conspiracy
 
 *Where silence deepens under the weight of secrets*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,17 +63,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -91,15 +83,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -508,12 +495,9 @@ Ongoing situations affecting The Pressure Conspiracy:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Historical Timeline
 
@@ -531,7 +515,6 @@ Mentioned in The Hidden Prophecy of Depths
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

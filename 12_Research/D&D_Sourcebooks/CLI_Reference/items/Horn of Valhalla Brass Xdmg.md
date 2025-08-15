@@ -1,3 +1,12 @@
+---
+title: Horn of Valhalla Brass Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Horn of Valhalla Brass Xdmg
 
 ---
@@ -28,14 +37,13 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/horn-of-valhalla.webp#right)
 
-You can take a [[actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[hit-points-xphb|Hit Points]]. The spirits look like living, breathing warriors, and they have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
+You can take a [[actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[hit-points-xphb|Hit Points]]. The spirits look like living, breathing warriors, and they have [[immunity xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
 
-A brass horn summons 3 [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserkers]]. To use the brass horn, you must have [[proficiency-xphb|Proficiency]] with all Simple weapons.
+A brass horn summons 3 [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserkers]]. To use the brass horn, you must have [[proficiency xphb|Proficiency]] with all Simple weapons.
 
-If you blow the horn without meeting its requirement, the summoned [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserkers]] attack you. If you meet the requirement, they are [[friendly-attitude-xphb|Friendly]] to you and your allies and follow your commands.
+If you blow the horn without meeting its requirement, the summoned [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserkers]] attack you. If you meet the requirement, they are [[friendly-attitude-xphb|Friendly]] to you and your allies and follow your commands.
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ If you blow the horn without meeting its requirement, the summoned [[/03_Mechani
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 

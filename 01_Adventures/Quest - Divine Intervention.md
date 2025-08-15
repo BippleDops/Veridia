@@ -1,3 +1,12 @@
+---
+title: Quest - Divine Intervention
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Divine Intervention
 
 ---
@@ -33,7 +42,6 @@ obsidianUIMode: preview
 # Quest - Divine Intervention
 *When the Gods Fall Silent and the Deep Mother Stirs, Mortals Must Choose Their Path to Divinity*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -417,11 +420,9 @@ Legends speak of Quest   Divine Intervention as a nexus where past and present c
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

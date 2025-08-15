@@ -24,11 +24,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pseudodragon-xmm-pseudodragon-xmm.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,13 +58,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
@@ -76,8 +69,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
@@ -95,7 +86,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -143,17 +133,13 @@ Ongoing situations affecting Pseudodragon:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Cultural Practices
 

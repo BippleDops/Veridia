@@ -1,3 +1,12 @@
+---
+title: storehouse
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # storehouse
 
 ---
@@ -31,7 +40,6 @@ world: Both
 
 A Storehouse is a cool, dark space meant to contain trade goods objects from the "Trade Goods" table in "chapter 7" and from "chapter 6" of the "Player's Handbook".
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ A Storehouse is a cool, dark space meant to contain trade goods objects from the
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Trade: Goods
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 

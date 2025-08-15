@@ -1,3 +1,12 @@
+---
+title: Forge Master Thorne
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forge Master Thorne
 
 ---
@@ -16,7 +25,6 @@ world: Both
 updated: '2025-08-13T12:34:12.233636+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ updated: '2025-08-13T12:34:12.233636+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -45,8 +48,6 @@ Legends speak of Forge Master Thorne as a nexus where past and present converge.
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

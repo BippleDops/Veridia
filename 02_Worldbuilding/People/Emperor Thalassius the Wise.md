@@ -23,10 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg]]
 
 # Emperor Thalassius the Wise
 
@@ -47,7 +44,6 @@ improvements: 20
 **Languages** All (gift of ancient sovereignty), Telepathy 120 ft.  
 **Challenge Rating** 23 (50,000 XP)  
 **Proficiency Bonus** +7
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -80,13 +76,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -100,9 +92,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
@@ -111,7 +100,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Legendary Resistance (3/Day)
 If Thalassius fails a saving throw, he can choose to succeed instead.
@@ -172,7 +160,7 @@ Emperor Thalassius the Wise has ruled Aquabyssos for over three thousand years, 
 
 Standing seven feet tall even in his hunched, eternal posture, Thalassius wears the corroded crown of the first emperor, now fused to his skull through millennia of pressure and magic. His eyes are twin abyssal pearls that glow with an eerie blue-green light, seeing through time itself. Barnacles and coral growths decorate his form like jewelry, and schools of bioluminescent fish swim through his partially translucent body, living symbols of his unity with the ocean depths.
 
-The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime - Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.
+The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime   Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.
 
 ## History
 
@@ -249,7 +237,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Economic Coordination**: Unofficial economic policies to prevent trade wars
 - **Succession Planning**: Both rulers secretly worry about what happens when leadership changes
 
-#### **[[The Shadow-Crystal Synthesis]] - The Existential Threat**
+#### **[[The Shadow Crystal Synthesis]] - The Existential Threat**
 
 **The Corruption Challenge**:
 - **Ideological Opposition**: Their reality manipulation directly threatens the natural order Thalassius seeks to preserve
@@ -279,7 +267,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Knowledge Exchange**: Share research on reality manipulation while competing for same resources
 - **Trust Issues**: Both groups maintain secrets that prevent full cooperation
 
-#### **[[Sister Thalassa the Depth-Touched]] - The Transformed Subject**
+#### **[[Sister Thalassa the Depth Touched]] - The Transformed Subject**
 
 **Complex Imperial Relationship**:
 - **Imperial Responsibility**: Thalassius feels partially responsible for her transformation
@@ -438,11 +426,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Economic Structure
 

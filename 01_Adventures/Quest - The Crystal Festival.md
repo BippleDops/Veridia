@@ -1,3 +1,12 @@
+---
+title: Quest - The Crystal Festival
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Crystal Festival
 
 ---
@@ -35,7 +44,6 @@ obsidianUIMode: preview
 # Quest - The Crystal Festival
 *The Convergence of Shards, The Queen's Gambit, The Transformation Celebration*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 The annual Crystal Festival celebrates the discovery of Aether Crystals and their integration into [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] society. This year's 500th anniversary festival promises to be spectacular—but shadows gather beneath the celebration. [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] secretly plans to use the festival to gather all Seven Shards, while multiple factions plot to seize power during the festivities. The party must navigate political intrigue, prevent catastrophe, and decide the fate of the Crystal Crown.
@@ -96,7 +99,7 @@ The Crystal Festival commemorates:
 - Crystal corruption on some citizens
 
 #### The Queen's Secret
-**Location**: [[The Crystal Palace - Throne Room]]
+**Location**: [[The Crystal Palace   Throne Room]]
 **Discovery**: Queen plans to reform the Crown
 - She has located five Shards
 - Believes reformation will cure her corruption
@@ -112,7 +115,7 @@ The Crystal Festival commemorates:
 - [[Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] leads operation
 
 #### The Shadow Infiltration
-**Location**: [[Festival Grounds - Underground]]
+**Location**: [[Festival Grounds   Underground]]
 **Discovery**: Aquabyssos agents present
 - [[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] arrived secretly
 - Shadow parasites in festival food supplies
@@ -120,7 +123,7 @@ The Crystal Festival commemorates:
 - Plan to corrupt Shards during convergence
 
 #### The Noble Conspiracy
-**Location**: [[House of Lords - Secret Chamber]]
+**Location**: [[House of Lords   Secret Chamber]]
 **Discovery**: Succession crisis plot
 - Several houses plan coup during ceremony
 - [[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] provides legitimacy
@@ -220,7 +223,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for revenge
@@ -231,11 +233,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

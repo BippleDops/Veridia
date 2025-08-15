@@ -40,12 +40,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Shadow Parliament
-
-![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/Shadow_Parliament.png|Shadow Parliament Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,24 +69,17 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -105,8 +93,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Role and Motive
 Shadow Parliament moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -226,8 +212,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Historical Timeline
 

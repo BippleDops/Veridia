@@ -1,3 +1,12 @@
+---
+title: Explorers Pack Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Explorers Pack Xphb
 
 ---
@@ -25,7 +34,6 @@ world: Both
 ---
 
 > [!figure] Item
-![[04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png]]
 
 # Explorer's Pack
 *Adventuring gear*  
@@ -33,10 +41,9 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 55.0 lbs.
 
-An Explorer's Pack contains the following items: [[backpack-xphb|Backpack]], [[bedroll-xphb|Bedroll]], 2 flasks of [[oil-xphb|Oil]], 10 days of [[rations-xphb|Rations]], [[rope-xphb|Rope]], [[tinderbox-xphb|Tinderbox]], 10 [[torch-xphb|Torches]], and [[waterskin-xphb|Waterskin]].
+An Explorer's Pack contains the following items: [[backpack xphb|Backpack]], [[bedroll xphb|Bedroll]], 2 flasks of [[oil xphb|Oil]], 10 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], 10 [[torch xphb|Torches]], and [[waterskin xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ An Explorer's Pack contains the following items: [[backpack-xphb|Backpack]], [[b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

@@ -1,3 +1,12 @@
+---
+title: Brackish Trudge Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Brackish Trudge Scc
 
 ---
@@ -27,7 +36,7 @@ updated: '2025-08-13T12:34:05.654871+00:00'
 world: Both
 ---
 
-# [[brackish-trudge-scc|Brackish Trudge]]
+# [[brackish trudge scc|Brackish Trudge]]
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  
 
 Brackish trudges are lumbering masses of sentient fungus and vegetation that thrive in the bayou. They are living examples of the conflicting forces of life and decay existing in a harmonious cycle. Flowers and other plant life grow on their backs, necks, and heads. When these plants die, they decay and become the ideal habitat for fungi. The older a trudge is, the wilder and more varied are the plants and fungi that thrive in the tiny ecosystem on its back.
@@ -74,7 +83,6 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -86,11 +94,6 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -108,7 +111,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help delivering before winter
@@ -118,7 +120,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,40 +35,30 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 
 ### Automated Improvements
 
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 - Add macro/code for VTT implementation
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Monster_Use Improvements
 
-- Explain if/how monsters use this rule
 - Explain if/how monsters use this rule
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-
 
 ## Mechanic Overview
 
@@ -244,7 +231,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before dawn
@@ -263,7 +249,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
 
-
 ## Edge Cases & Rulings
 
 ### Q: What if a player has multiple inspiration sources?
@@ -274,7 +259,6 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
-
 
 ## Balance Analysis
 

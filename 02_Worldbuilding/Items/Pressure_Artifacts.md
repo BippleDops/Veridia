@@ -14,12 +14,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Pressure_Artifacts
 
 *Legendary Armor*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,25 +45,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -80,7 +69,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Description
 
@@ -97,7 +85,6 @@ Pressure_Artifacts is a blessed armor that radiates unknown energy.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -124,7 +111,6 @@ Pressure_Artifacts is a blessed armor that radiates unknown energy.
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -136,7 +122,6 @@ Pressure_Artifacts is a blessed armor that radiates unknown energy.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

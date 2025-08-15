@@ -1,3 +1,12 @@
+---
+title: Pest Mascot Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pest Mascot Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pest-mascot-scc-pest-mascot-scc.svg)
 
-# [[pest-mascot-scc|Pest Mascot]]
+# [[pest mascot scc|Pest Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 203*  
 
 Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of Sedgemoor. However, these ferret-sized swamp creatures hold deep wells of life essence, making them convenient fuel sources for the magic of Witherbloom mages. As such, many Witherbloom students have adopted pests from the bayou as pets, and pests, in all their spiny glory, have become the mascots of the college.
@@ -77,7 +86,6 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -89,11 +97,6 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -111,11 +114,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Related Notes
 
@@ -123,7 +124,6 @@ Mentioned in The First Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

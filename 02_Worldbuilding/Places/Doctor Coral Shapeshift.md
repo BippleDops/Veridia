@@ -24,17 +24,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg]]
 
 # The Metamorphosis Clinic
 *Revolutionary Center of Biological Transformation*
 
 > *"Within these coral walls, the very essence of being becomes fluid, where flesh is clay in the hands of masters who understand the deepest secrets of life itself. Here, Doctor Coral Shapeshift performs miracles that blur the line between healing and creation, between medicine and magic."*
 > — [[Medical Historian Nautilus Deepscribe]], *Advances in Aquabyssos Medicine*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,19 +59,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
@@ -94,8 +83,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -371,8 +358,6 @@ Ongoing situations affecting Doctor Coral Shapeshift:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -389,7 +374,6 @@ Ongoing situations affecting Doctor Coral Shapeshift:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

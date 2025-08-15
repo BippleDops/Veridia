@@ -1,3 +1,12 @@
+---
+title: Choldrith Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Choldrith Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-choldrith-mpmm.svg)
 
-# [[choldrith-mpmm|Choldrith]]
+# [[choldrith mpmm|Choldrith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -97,9 +106,9 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance-xphb|guidance]],\
-      \ [[thaumaturgy-xphb|thaumaturgy]]\n\n1/day each:\
-      \ [[bane-xphb|bane]], [[hold-person-xphb|hold person]]"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance xphb|guidance]],\
+      \ [[thaumaturgy xphb|thaumaturgy]]\n\n1/day each:\
+      \ [[bane xphb|bane]], [[hold person xphb|hold person]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\
@@ -116,7 +125,6 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -128,11 +136,6 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -154,16 +157,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-grief-counseling-grief-counseling.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,35 +56,26 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Player-Facing Summary
 
@@ -136,8 +123,6 @@ Ongoing situations affecting Grief Counseling:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A document has gone missing and chaos spreads
@@ -160,7 +145,6 @@ Ongoing situations affecting Grief Counseling:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

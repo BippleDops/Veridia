@@ -1,3 +1,12 @@
+---
+title: World_Building_Input
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # World_Building_Input
 
 ---
@@ -131,7 +140,6 @@ Specific contribution idea:
 
 *Player input makes the world richer and more engaging*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -143,11 +151,6 @@ Specific contribution idea:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -161,7 +164,6 @@ Specific contribution idea:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A merchant needs help investigating before dawn
@@ -170,7 +172,6 @@ Specific contribution idea:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

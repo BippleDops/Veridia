@@ -14,9 +14,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,25 +37,17 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Automated Improvements
@@ -76,7 +65,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-
 
 ## Auto-Linking Active
 Spell mentions are automatically linked to descriptions.
@@ -118,11 +106,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Edge Cases & Rulings
 

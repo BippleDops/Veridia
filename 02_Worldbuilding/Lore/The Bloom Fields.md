@@ -37,15 +37,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Bloom Fields
 
 *Where Light Grows in the Darkness of the Deep*
 
 > *"In the deepest trenches where sunlight has never touched, life creates its own stars. The Bloom Fields stretch like constellations across the ocean floor, each organism a tiny galaxy of living light. Here, we have learned that cultivation is not about imposing our will upon nature, but about understanding the harmony of light and darkness, of growth and depth, of individual brilliance and collective luminescence."*
 > — [[Master Cultivator Luminos Deepglow]], Director of Bioluminescent Agriculture
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,18 +75,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -99,17 +91,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -653,12 +642,9 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

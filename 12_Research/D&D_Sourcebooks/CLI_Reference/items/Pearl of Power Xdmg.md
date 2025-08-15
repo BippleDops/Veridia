@@ -1,3 +1,12 @@
+---
+title: Pearl of Power Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pearl of Power Xdmg
 
 ---
@@ -34,7 +43,6 @@ While this pearl is on your person, you can take a [[actions#Magic|Magic]] actio
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ While this pearl is on your person, you can take a [[actions#Magic|Magic]] actio
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

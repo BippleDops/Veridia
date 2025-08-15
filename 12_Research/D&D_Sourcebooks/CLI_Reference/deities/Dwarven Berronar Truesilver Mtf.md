@@ -1,3 +1,12 @@
+---
+title: Dwarven Berronar Truesilver Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Berronar Truesilver Mtf
 
 ---
@@ -40,7 +49,6 @@ Berronar's code establishes the laws of the dwarves, including contracts, trade 
 
 Berronar's priests arrange marriages, using a process that finds the best matches and is designed to ensure that each generation of a clan is stronger and more talented than the last. Their dictates in this respect are sacrosanct, and a dwarf designated for an arranged marriage must obey the priests or risk exile.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ Berronar's priests arrange marriages, using a process that finds the best matche
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

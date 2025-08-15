@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg]]
 
 # Blood in the Water
 
 *"The scent of violence draws predators both natural and supernatural." - Archive Warning*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,12 +68,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
@@ -86,8 +79,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -109,7 +100,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 Blood in the Water refers to both a literal phenomenon and a metaphorical concept in Aquabyssos. When violence spills blood into the city's waters, it triggers cascading effects throughout the underwater ecosystem and supernatural community. The phrase has become synonymous with escalating conflicts that threaten to spiral out of control.
@@ -247,11 +237,9 @@ Blood in the Water is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Blood in the Water as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Blood in the Water.
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Relationships
 
@@ -260,7 +248,6 @@ Member of House Serpentblood - Trait: magical affinity
 - **Child**: [[Portrait NPC Lord Aldric Thornwhisper V1 Lord Aldric Thornwhisper.svg]]
 - **Child**: [[Portrait NPC High Priest Absence V2 High Priest Absence.svg]]
 - **Ally**: [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]
-
 
 ## Cultural Practices
 

@@ -1,3 +1,12 @@
+---
+title: Shadow Corruption Timeline
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Corruption Timeline
 
 ---
@@ -16,7 +25,6 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.631206+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ updated: '2025-08-13T01:18:34.631206+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -205,7 +208,6 @@ The Shadow Corruption timeline provides rich material for exploring themes of fe
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

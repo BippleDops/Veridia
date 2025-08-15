@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg]]
 
 # The Last Priest
 
 *"When faith dies, what remains but the faithful?"*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,8 +62,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
@@ -80,18 +74,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Father Aquilus Deepprayer is the sole remaining priest of the Old Faith, a religious tradition that once dominated Aquabyssos before political changes led to its suppression. He maintains a hidden shrine in the deepest parts of the city, serving any who still remember the old ways.
@@ -207,15 +195,11 @@ Ongoing situations affecting The Last Priest:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about a local noble
-- Strange disappearances suggest a portal
 - Strange disappearances suggest a portal

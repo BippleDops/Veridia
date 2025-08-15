@@ -13,9 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,19 +40,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -65,7 +56,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
@@ -74,8 +64,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Item Information
 
@@ -153,7 +141,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be: - [[02_Worldbuilding/Lore/Engineering Corps|02 Wor...
+Last known to be: - [[02 Worldbuilding/Lore/Engineering Corps|02 Wor...
 
 ## Quest Hooks
 
@@ -176,7 +164,6 @@ Last known to be: - [[02_Worldbuilding/Lore/Engineering Corps|02 Wor...
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -193,7 +180,6 @@ Last known to be: - [[02_Worldbuilding/Lore/Engineering Corps|02 Wor...
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

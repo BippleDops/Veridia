@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg]]
 
 # High Priest Dagon Deepcaller
 *Prophet of the Depths, Voice of the Leviathans*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,28 +56,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -95,7 +84,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 High Priest Dagon Deepcaller is the supreme leader of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a horrifying hybrid of human and aboleth created through dark rituals and generations of selective breeding. He serves as the primary conduit between the sleeping Leviathan Lords and their mortal worshippers, using his telepathic abilities and divine magic to coordinate cult operations across the oceans. His ultimate goal is to awaken the primordial sea gods and return the world to an aquatic paradise.
@@ -227,11 +215,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Bloodline
 

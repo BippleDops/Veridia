@@ -1,3 +1,12 @@
+---
+title: Desert Encounters Levels 1720 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Desert Encounters Levels 1720 Xge
 
 ---
@@ -32,8 +41,8 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-05 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
-| 06-10 | `d2` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] with `2d10 + 5` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] and `4d6 + 6` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 11-14 | `1d6 + 2` [[medusa-xmm|medusas]] |
+| 06-10 | `d2` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] with `2d10 + 5` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] and `4d6 + 6` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
+| 11-14 | `1d6 + 2` [[medusa xmm|medusas]] |
 | 15-18 | `d2` [[purple-worm-xmm|purple worms]] |
 | 19-22 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
 | 23-25 | An abandoned city made from white marble, empty during the day. At night, harmless apparitions roam the streets, replaying the final moments of their lives. |
@@ -41,17 +50,16 @@ world: Both
 | 31-35 | 1 [[mummy-lord-xmm|mummy lord]] |
 | 36-40 | `d4` hours of extreme heat (see chapter 5 of the *Dungeon Master's Guide*) |
 | 41-50 | `d3` [[guardian-naga-xmm|guardian nagas]] |
-| 51-60 | `d4` [[efreeti-xmm|efreet]] |
+| 51-60 | `d4` [[efreeti xmm|efreet]] |
 | 61-63 | An old signpost identifying a single destination, called Pazar |
-| 64-72 | `d4` [[roc-xmm|rocs]] |
+| 64-72 | `d4` [[roc xmm|rocs]] |
 | 73-80 | `d3` [[sphinx-of-lore-xmm|gynosphinxes]] |
-| 81-85 | 1 [[dracolich-xmm|adult blue dracolich]] |
+| 81-85 | 1 [[dracolich xmm|adult blue dracolich]] |
 | 86-90 | 1 [[sphinx-of-valor-xmm|androsphinx]] |
 | 91-96 | 1 [[ancient-brass-dragon-xmm|ancient brass dragon]] |
 | 97-99 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
 | 00 | `d4` [[adult-brass-dragon-xmm|adult brass dragons]] |
 ^desert-encounters-levels-1720
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

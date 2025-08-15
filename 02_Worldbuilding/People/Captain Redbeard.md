@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-redbeard-captain-redbeard.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,13 +53,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
@@ -77,19 +69,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -167,11 +154,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns truth
 
-
 ## Bloodline
 
 Member of House Eagleblood - Trait: curse
-
 
 ## Relationships
 
@@ -179,7 +164,6 @@ Member of House Eagleblood - Trait: curse
 - **Creditor**: [[Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
 - **Debtor**: [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
 - **Mentor**: [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg]]
-
 
 ## Historical Timeline
 

@@ -1,3 +1,12 @@
+---
+title: Construct Spirit Metal Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Construct Spirit Metal Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-metal-xphb-construct-spirit-metal-xphb.svg)
 
-# [[construct-spirit-metal-xphb|Construct Spirit (Metal)]]
+# [[construct spirit metal xphb|Construct Spirit (Metal)]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -69,7 +78,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -81,11 +89,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -103,11 +106,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

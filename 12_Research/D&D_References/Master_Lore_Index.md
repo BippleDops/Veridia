@@ -1,3 +1,12 @@
+---
+title: Master_Lore_Index
+type: lore
+tags:
+- lore
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Master_Lore_Index
 
 ---
@@ -27,7 +36,6 @@ chronology: active
 # Master Lore Index
 *Comprehensive Directory of All Lore, History, and World Knowledge*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ chronology: active
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Index Overview
 
@@ -154,7 +157,6 @@ All lore connects to:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Prophecy Connection
 

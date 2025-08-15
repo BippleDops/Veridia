@@ -1,3 +1,12 @@
+---
+title: Fount of Moonlight Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fount of Moonlight Xphb
 
 ---
@@ -37,14 +46,13 @@ world: Both
 
 A cool light wreathes your body for the duration, emitting [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet.
 
-Until the spell ends, you have [[resistance-xphb|Resistance]] to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
+Until the spell ends, you have [[resistance xphb|Resistance]] to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
 
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [[reaction-xphb|Reaction]] to force the creature to make a Constitution saving throw. On a failed save, the creature has the [[conditions#Blinded|Blinded]] condition until the end of your next turn.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [[reaction xphb|Reaction]] to force the creature to make a Constitution saving throw. On a failed save, the creature has the [[conditions#Blinded|Blinded]] condition until the end of your next turn.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 277*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ In addition, immediately after you take damage from a creature you can see withi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -87,16 +89,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

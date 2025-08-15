@@ -1,3 +1,12 @@
+---
+title: Adamantine Weapons Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adamantine Weapons Xge
 
 ---
@@ -25,12 +34,11 @@ world: Both
 # Adamantine Weapons
 *Source: Xanathar's Guide to Everything p. 78* 
 
-Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft [[adamantine-armor-xdmg|adamantine armor]], the metal is also used for weapons.
+Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft [[adamantine armor xdmg|adamantine armor]], the metal is also used for weapons.
 
-Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an [[adamantine-weapon-xdmg|adamantine weapon]] or piece of [[adamantine-ammunition-xge|ammunition]] hits an object, the hit is a critical hit.
+Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an [[adamantine weapon xdmg|adamantine weapon]] or piece of [[adamantine ammunition xge|ammunition]] hits an object, the hit is a critical hit.
 
 The adamantine version of a melee weapon or of ten pieces of ammunition costs 500 gp more than the normal version, whether the weapon or ammunition is made of the metal or coated with it.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ The adamantine version of a melee weapon or of ten pieces of ammunition costs 50
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -81,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

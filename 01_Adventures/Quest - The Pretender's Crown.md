@@ -1,3 +1,12 @@
+---
+title: Quest - The Pretender's Crown
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Pretender's Crown
 
 ---
@@ -35,7 +44,6 @@ obsidianUIMode: preview
 
 *The Throne of Aethermoor Stands on a Foundation of Lies*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,15 +55,10 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 
-A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow-Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
+A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
 
 The investigation will lead through the highest echelons of nobility, into forgotten royal vaults, and ultimately to a conspiracy that threatens not just the crown but the very nature of reality in Aethermoor. Every ally could be an enemy, every proof could be fabricated, and the truth itself might be more dangerous than the lie.
 
@@ -81,7 +84,7 @@ The investigation will lead through the highest echelons of nobility, into forgo
 ### The Truth (DM Only)
 
 The Pretender is actually:
-1. **A Perfect Simulacrum** created by the [[Shadow-Crystal Synthesis]] using stolen royal blood and memories
+1. **A Perfect Simulacrum** created by the [[Shadow Crystal Synthesis]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
 3. **The Real Heir** but corrupted by shadow during their exile
 4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
@@ -169,7 +172,7 @@ The party must break into the most secure archive in Aethermoor, protected by:
 **Discovery**: The Pretender is controlled by multiple factions
 
 **Faction Involvement**:
-1. **[[Shadow-Crystal Synthesis]]**: Want puppet ruler for their plans
+1. **[[Shadow Crystal Synthesis]]**: Want puppet ruler for their plans
 2. **[[The Convergence Seekers]]**: Believe false king will trigger convergence
 3. **Foreign Power**: [[Aquabyssos]] agents destabilizing Aethermoor
 4. **Noble Houses**: Gambling on regime change for power
@@ -356,13 +359,10 @@ Legends speak of Quest   The Pretender's Crown as a nexus where past and present
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
 - Someone is blackmailing information for revenge
-- A document has gone missing and chaos spreads
 - A document has gone missing and chaos spreads
 
 ## 12_Research Specific Content

@@ -25,7 +25,7 @@ status: complete
 world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Ficial Complex
-parent_location: '[[Port Meridian - Market Square]]'
+parent_location: '[[Port Meridian   Market Square]]'
 connected_locations:
 - '[[Port Meridian Harbor]]'
 - '[[The Royal Palace]]'
@@ -65,9 +65,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,12 +92,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
@@ -110,21 +104,14 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## The Crown Jewel of Merchant Nobility
 
@@ -133,7 +120,7 @@ improvements: 20
 
 ## Overview
 
-Goldwave Manor stands as the most magnificent private residence in [[Port Meridian - Market Square]], serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
+Goldwave Manor stands as the most magnificent private residence in [[Port Meridian   Market Square]], serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
 
 Unlike traditional noble houses that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and ficial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
 
@@ -218,8 +205,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -232,12 +217,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - DC 14 to detect
 - 3d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Fireball**
   - School: Evocation
   - Manifestation: Intermittent
-
 
 ## Temporal Layers
 
@@ -250,7 +233,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - **Near Future**: Trial in 28 days
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -273,7 +255,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

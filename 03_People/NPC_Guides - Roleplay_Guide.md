@@ -1,3 +1,12 @@
+---
+title: NPC_Guides - Roleplay_Guide
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # NPC_Guides - Roleplay_Guide
 
 ---
@@ -260,7 +269,6 @@ Take the expected and reverse it:
 4. **Complication**: "The rocks are haunted at night"
 5. **Reward Hint**: "I'm not wealthy, but I have my grandfather's compass"
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -272,11 +280,6 @@ Take the expected and reverse it:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quick Personality Switches
 
@@ -340,7 +343,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

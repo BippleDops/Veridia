@@ -1,3 +1,12 @@
+---
+title: Player_Notes
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Player_Notes
 
 ---
@@ -13,7 +22,6 @@ modified: '2025-08-14'
 # Player Notes
 
 *Player-visible information*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,9 +50,6 @@ modified: '2025-08-14'
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
-- Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Session_Zero Improvements
 
@@ -53,11 +58,9 @@ modified: '2025-08-14'
 ### Soundtrack Improvements
 
 - Suggest music/ambiance for each scene
-- Suggest music/ambiance for each scene
 
 ### Spotlight Improvements
 
-- Include spotlight moment for each character class
 - Include spotlight moment for each character class
 
 ### Art Improvements
@@ -75,12 +78,10 @@ modified: '2025-08-14'
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
 
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-
 
 ## Related
 
@@ -93,7 +94,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

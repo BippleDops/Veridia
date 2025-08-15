@@ -1,3 +1,12 @@
+---
+title: Extreme Heat Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Extreme Heat Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Extreme Heat
 *Environmental Hazard*  
 
-When the temperature is 100 degrees Fahrenheit or higher, a creature exposed to the extreme heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain 1 [[conditions#Exhaustion|Exhaustion]] level. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing Medium or Heavy armor have [[disadvantage-xphb|Disadvantage]] on the save. Creatures that have [[resistance-xphb|Resistance]] or [[immunity-xphb|Immunity]] to Fire damage automatically succeed on the save.
+When the temperature is 100 degrees Fahrenheit or higher, a creature exposed to the extreme heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain 1 [[conditions#Exhaustion|Exhaustion]] level. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing Medium or Heavy armor have [[disadvantage xphb|Disadvantage]] on the save. Creatures that have [[resistance xphb|Resistance]] or [[immunity xphb|Immunity]] to Fire damage automatically succeed on the save.
 
 *Source: Dungeon Master's Guide (2024) p. 68*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ When the temperature is 100 degrees Fahrenheit or higher, a creature exposed to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -31,15 +31,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-gardens-crystal-gardens.svg)
 
 # Crystal Garden
 
 *Where Stone Dreams and Water Sings*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,17 +69,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
@@ -91,7 +84,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
@@ -105,8 +97,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -254,10 +244,10 @@ Representatives from various factions who use the garden as neutral ground:
 **The Garden Keepers:**
 A small community of individuals from both worlds who have chosen to live permanently in the garden, serving as its caretakers and guides:
 
-**[[Master Gardener Prism-Tide Lyra]]:**
+**[[Master Gardener Prism Tide Lyra]]:**
 A former crystal mage from [[Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
 
-**[[Deep-Root Caretaker Nereon]]:**
+**[[Deep Root Caretaker Nereon]]:**
 An Aquabyssos pressure engineer who developed aquatic adaptations that allow him to tend to the garden's underwater elements. He has formed a symbiotic relationship with the memory coral and can access historical information about the garden's development.
 
 **[[The Echo Children]]:**
@@ -492,8 +482,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: 50_PERCENT_MILESTONE_COMPLETE
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 50_PERCENT_MILESTONE_COMPLETE
 
 ---
@@ -300,7 +309,6 @@ You have achieved **57.1% completion** of the most ambitious Obsidian TTRPG vaul
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

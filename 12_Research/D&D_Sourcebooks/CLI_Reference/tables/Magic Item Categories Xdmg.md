@@ -1,3 +1,12 @@
+---
+title: Magic Item Categories Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Item Categories Xdmg
 
 ---
@@ -29,17 +38,16 @@ world: Both
 
 | Category | Examples |
 |----------|----------|
-| "Armor" | [[1-armor-xdmg|+1 Leather Armor]], [[1-shield-xdmg|+1 Shield]] |
-| "Potions" | [[potion-of-healing-xdmg|Potion of Healing]] |
-| "Rings" | [[ring-of-invisibility-xdmg|Ring of Invisibility]] |
-| "Rods" | [[immovable-rod-xdmg|Immovable Rod]] |
-| "Scrolls" | [[spell-scroll-xdmg|Spell Scroll]] |
-| "Staffs" | [[staff-of-striking-xdmg|Staff of Striking]] |
-| "Wands" | [[wand-of-fireballs-xdmg|Wand of Fireballs]] |
-| "Weapons" | [[1-ammunition-xdmg|+1 Ammunition]], [[1-weapon-xdmg|+1 Longsword]] |
-| "Wondrous Items" | [[bag-of-holding-xdmg|Bag of Holding]], [[boots-of-elvenkind-xdmg|Boots of Elvenkind]] |
+| "Armor" | [[1 armor xdmg|+1 Leather Armor]], [[1 shield xdmg|+1 Shield]] |
+| "Potions" | [[potion of healing xdmg|Potion of Healing]] |
+| "Rings" | [[ring of invisibility xdmg|Ring of Invisibility]] |
+| "Rods" | [[immovable rod xdmg|Immovable Rod]] |
+| "Scrolls" | [[spell scroll xdmg|Spell Scroll]] |
+| "Staffs" | [[staff of striking xdmg|Staff of Striking]] |
+| "Wands" | [[wand of fireballs xdmg|Wand of Fireballs]] |
+| "Weapons" | [[1 ammunition xdmg|+1 Ammunition]], [[1 weapon xdmg|+1 Longsword]] |
+| "Wondrous Items" | [[bag of holding xdmg|Bag of Holding]], [[boots of elvenkind xdmg|Boots of Elvenkind]] |
 ^magic-item-categories
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -94,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Frog Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Frog Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frog-xmm-frog-xmm.svg)
 
-# [[frog-xmm|Frog]]
+# [[frog xmm|Frog]]
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,15 +55,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Frog (XMM)"
@@ -83,8 +86,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [[long-jump-xphb|Long Jump]]\
-      \ is up to 10 feet and its [[high-jump-xphb|High Jump]]\
+  - "desc": "The frog's [[long jump xphb|Long Jump]]\
+      \ is up to 10 feet and its [[high jump xphb|High Jump]]\
       \ is up to 5 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
@@ -116,7 +119,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

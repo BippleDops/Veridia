@@ -1,3 +1,12 @@
+---
+title: Level 1 Hit Points by Class Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Level 1 Hit Points by Class Xphb
 
 ---
@@ -29,12 +38,11 @@ world: Both
 
 | Class | Hit Point Maximum |
 |-------|-------------------|
-| [[barbarian-xphb|Barbarian]] | 12 + Con. modifier |
-| [[fighter-xphb|Fighter]], [[paladin-xphb|Paladin]], or [[ranger-xphb|Ranger]] | 10 + Con. modifier |
-| [[bard-xphb|Bard]], [[cleric-xphb|Cleric]], [[druid-xphb|Druid]], [[monk-xphb|Monk]], [[rogue-xphb|Rogue]], or [[warlock-xphb|Warlock]] | 8 + Con. modifier |
-| [[sorcerer-xphb|Sorcerer]] or [[wizard-xphb|Wizard]] | 6 + Con. modifier |
+| [[barbarian xphb|Barbarian]] | 12 + Con. modifier |
+| [[fighter xphb|Fighter]], [[paladin xphb|Paladin]], or [[ranger xphb|Ranger]] | 10 + Con. modifier |
+| [[bard xphb|Bard]], [[cleric xphb|Cleric]], [[druid xphb|Druid]], [[monk xphb|Monk]], [[rogue xphb|Rogue]], or [[warlock xphb|Warlock]] | 8 + Con. modifier |
+| [[sorcerer xphb|Sorcerer]] or [[wizard xphb|Wizard]] | 6 + Con. modifier |
 ^level-1-hit-points-by-class
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

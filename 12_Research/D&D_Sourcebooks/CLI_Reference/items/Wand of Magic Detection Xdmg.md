@@ -1,3 +1,12 @@
+---
+title: Wand of Magic Detection Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Magic Detection Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 3 charges. While holding it, you can expend 1 charge to cast [[detect-magic-xphb|Detect Magic]] from it. The wand regains `d3` expended charges daily at dawn.
+This wand has 3 charges. While holding it, you can expend 1 charge to cast [[detect magic xphb|Detect Magic]] from it. The wand regains `d3` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 320. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ This wand has 3 charges. While holding it, you can expend 1 charge to cast [[det
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -81,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

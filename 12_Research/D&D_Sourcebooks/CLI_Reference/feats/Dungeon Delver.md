@@ -1,3 +1,12 @@
+---
+title: Dungeon Delver
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dungeon Delver
 
 ---
@@ -33,7 +42,6 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 - You have resistance to the damage dealt by traps.  
 - Traveling at a fast pace doesn't impose the normal -5 penalty on your passive Wisdom ([[skills#Perception|Perception]]) score.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

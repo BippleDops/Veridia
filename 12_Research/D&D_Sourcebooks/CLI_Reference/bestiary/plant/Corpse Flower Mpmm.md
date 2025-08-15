@@ -1,3 +1,12 @@
+---
+title: Corpse Flower Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Corpse Flower Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)
 
-# [[corpse-flower-mpmm|Corpse Flower]]
+# [[corpse flower mpmm|Corpse Flower]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
@@ -93,7 +102,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [[zombie-xmm|zombie]]. The zombie appears\
+      \ [[zombie xmm|zombie]]. The zombie appears\
       \ in an unoccupied space within 5 feet of the corpse flower and acts immediately\
       \ after it in the initiative order. The zombie acts as an ally of the corpse\
       \ flower but isn't under its control, and the flower's stench clings to it (see\
@@ -106,7 +115,6 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -144,7 +147,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -152,11 +154,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

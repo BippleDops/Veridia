@@ -1,3 +1,12 @@
+---
+title: Emanation Area of Effect Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Emanation Area of Effect Xphb
 
 ---
@@ -31,7 +40,6 @@ An Emanation moves with the creature or object that is its origin unless it is a
 
 An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ An Emanation's origin (creature or object) isn't included in the area of effect 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

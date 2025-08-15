@@ -1,3 +1,12 @@
+---
+title: Pathfinders Greataxe Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pathfinders Greataxe Pota
 
 ---
@@ -28,16 +37,15 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-pathfinders-greataxe-pota-pathfinders-greataxe-pota.svg)
 
 # Pathfinder's Greataxe
-*Weapon ([[greataxe-xphb|greataxe]])*  
+*Weapon ([[greataxe xphb|greataxe]])*  
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 When you wield this +1 greataxe, you always know the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground.
 
 *Source: Princes of the Apocalypse p. 175*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ When you wield this +1 greataxe, you always know the way to the nearest passage 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

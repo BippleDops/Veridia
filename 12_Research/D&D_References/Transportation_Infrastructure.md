@@ -1,3 +1,12 @@
+---
+title: Transportation_Infrastructure
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Transportation_Infrastructure
 
 ---
@@ -23,7 +32,6 @@ world: Both
 
 Macro-systems that make journeys strategic. Connects to economies, factions, and reality stability. Cross-links with [[Memory Trading Economy System|Memory Trading Economy]] and [[Complete Reality Merger System]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ Macro-systems that make journeys strategic. Connects to economies, factions, and
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -57,7 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a portal
@@ -69,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

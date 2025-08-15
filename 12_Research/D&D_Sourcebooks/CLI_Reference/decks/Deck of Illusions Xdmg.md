@@ -1,3 +1,12 @@
+---
+title: Deck of Illusions Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deck of Illusions Xdmg
 
 ---
@@ -41,16 +50,16 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | dice: 1d100 | Illusion |
 |-------------|----------|
 | 01-03 | [[adult-red-dragon-xmm|Adult Red Dragon]] |
-| 04-06 | [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]] |
-| 07-09 | [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]] |
-| 10-12 | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]] |
-| 13-15 | [[beholder-xmm|Beholder]] |
-| 16-18 | [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] |
+| 04-06 | [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|Archmage]] |
+| 07-09 | [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|Assassin]] |
+| 10-12 | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]] |
+| 13-15 | [[beholder xmm|Beholder]] |
+| 16-18 | [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] |
 | 19-21 | [[bugbear-warrior-xmm|Bugbear Warrior]] |
 | 22-24 | [[cloud-giant-xmm|Cloud Giant]] |
-| 25-27 | [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]] |
-| 28-30 | [[erinyes-xmm|Erinyes]] |
-| 31-33 | [[ettin-xmm|Ettin]] |
+| 25-27 | [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|Druid]] |
+| 28-30 | [[erinyes xmm|Erinyes]] |
+| 31-33 | [[ettin xmm|Ettin]] |
 | 34-36 | [[fire-giant-xmm|Fire Giant]] |
 | 37-39 | [[frost-giant-xmm|Frost Giant]] |
 | 40-42 | [[gnoll-warrior-xmm|Gnoll Warrior]] |
@@ -58,20 +67,20 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 46-48 | [[guardian-naga-xmm|Guardian Naga]] |
 | 49-51 | [[hill-giant-xmm|Hill Giant]] |
 | 52-54 | [[hobgoblin-warrior-xmm|Hobgoblin Warrior]] |
-| 55-57 | [[incubus-xmm|Incubus]] |
+| 55-57 | [[incubus xmm|Incubus]] |
 | 58-60 | [[iron-golem-xmm|Iron Golem]] |
-| 61-63 | [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]] |
+| 61-63 | [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]] |
 | 64-66 | [[kobold-warrior-xmm|Kobold Warrior]] |
-| 67-69 | [[lich-xmm|Lich]] |
-| 70-72 | [[medusa-xmm|Medusa]] |
+| 67-69 | [[lich xmm|Lich]] |
+| 70-72 | [[medusa xmm|Medusa]] |
 | 73-75 | [[night-hag-xmm|Night Hag]] |
-| 76-78 | [[ogre-xmm|Ogre]] |
-| 79-81 | [[oni-xmm|Oni]] |
-| 82-84 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]] |
-| 85-87 | [[succubus-xmm|Succubus]] |
-| 88-90 | [[troll-xmm|Troll]] |
-| 91-93 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]] |
-| 94-96 | [[wyvern-xmm|Wyvern]] |
+| 76-78 | [[ogre xmm|Ogre]] |
+| 79-81 | [[oni xmm|Oni]] |
+| 82-84 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priest]] |
+| 85-87 | [[succubus xmm|Succubus]] |
+| 88-90 | [[troll xmm|Troll]] |
+| 91-93 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]] |
+| 94-96 | [[wyvern xmm|Wyvern]] |
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
@@ -79,19 +88,19 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 This card creates an illusion of an [[adult-red-dragon-xmm|Adult Red Dragon]].
 
 ### Archmage
-This card creates an illusion of an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]].
+This card creates an illusion of an [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|Archmage]].
 
 ### Assassin
-This card creates an illusion of an [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]].
+This card creates an illusion of an [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|Assassin]].
 
 ### Bandit Captain
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]].
 
 ### Beholder
-This card creates an illusion of a [[beholder-xmm|Beholder]].
+This card creates an illusion of a [[beholder xmm|Beholder]].
 
 ### Berserker
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]].
 
 ### Bugbear Warrior
 This card creates an illusion of a [[bugbear-warrior-xmm|Bugbear Warrior]].
@@ -100,13 +109,13 @@ This card creates an illusion of a [[bugbear-warrior-xmm|Bugbear Warrior]].
 This card creates an illusion of a [[cloud-giant-xmm|Cloud Giant]].
 
 ### Druid
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|Druid]].
 
 ### Erinyes
-This card creates an illusion of an [[erinyes-xmm|Erinyes]].
+This card creates an illusion of an [[erinyes xmm|Erinyes]].
 
 ### Ettin
-This card creates an illusion of an [[ettin-xmm|Ettin]].
+This card creates an illusion of an [[ettin xmm|Ettin]].
 
 ### Fire Giant
 This card creates an illusion of a [[fire-giant-xmm|Fire Giant]].
@@ -130,50 +139,49 @@ This card creates an illusion of a [[hill-giant-xmm|Hill Giant]].
 This card creates an illusion of a [[hobgoblin-warrior-xmm|Hobgoblin Warrior]].
 
 ### Incubus
-This card creates an illusion of an [[incubus-xmm|Incubus]].
+This card creates an illusion of an [[incubus xmm|Incubus]].
 
 ### Iron Golem
 This card creates an illusion of an [[iron-golem-xmm|Iron Golem]].
 
 ### Knight
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]].
 
 ### Kobold Warrior
 This card creates an illusion of a [[kobold-warrior-xmm|Kobold Warrior]].
 
 ### Lich
-This card creates an illusion of a [[lich-xmm|Lich]].
+This card creates an illusion of a [[lich xmm|Lich]].
 
 ### Medusa
-This card creates an illusion of a [[medusa-xmm|Medusa]].
+This card creates an illusion of a [[medusa xmm|Medusa]].
 
 ### Night Hag
 This card creates an illusion of a [[night-hag-xmm|Night Hag]].
 
 ### Ogre
-This card creates an illusion of an [[ogre-xmm|Ogre]].
+This card creates an illusion of an [[ogre xmm|Ogre]].
 
 ### Oni
-This card creates an illusion of an [[oni-xmm|Oni]].
+This card creates an illusion of an [[oni xmm|Oni]].
 
 ### Priest
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priest]].
 
 ### Succubus
-This card creates an illusion of a [[succubus-xmm|Succubus]].
+This card creates an illusion of a [[succubus xmm|Succubus]].
 
 ### Troll
-This card creates an illusion of a [[troll-xmm|Troll]].
+This card creates an illusion of a [[troll xmm|Troll]].
 
 ### Warrior Veteran
-This card creates an illusion of a [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]].
+This card creates an illusion of a [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]].
 
 ### Wyvern
-This card creates an illusion of a [[wyvern-xmm|Wyvern]].
+This card creates an illusion of a [[wyvern xmm|Wyvern]].
 
 ### The Card Drawer
 This card creates an illusion of a the card drawer.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -186,11 +194,6 @@ This card creates an illusion of a the card drawer.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -208,11 +211,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Related Notes
 
@@ -221,11 +222,9 @@ Mentioned in The Second Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Grave Domain Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Grave Domain Xge
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Grave Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 19*  
 
 > [!tldr] Class and Feature Progression
@@ -59,24 +68,24 @@ world: Both
 
 ### Grave Domain (Level 3)
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [[eberron-the-undying-court|the Undying Court]], [[greek-hades|Hades]], [[egyptian-anubis|Anubis]], and [[egyptian-osiris|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [[eberron the undying court|the Undying Court]], [[greek hades|Hades]], [[egyptian anubis|Anubis]], and [[egyptian osiris|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
 **Grave Domain Spells**
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[bane-xphb|bane]], [[false-life-xphb|false life]] |
-| 3rd | [[gentle-repose-xphb|gentle repose]], [[ray-of-enfeeblement-xphb|ray of enfeeblement]] |
-| 5th | [[revivify-xphb|revivify]], [[vampiric-touch-xphb|vampiric touch]] |
-| 7th | [[blight-xphb|blight]], [[death-ward-xphb|death ward]] |
-| 9th | [[antilife-shell-xphb|antilife shell]], [[raise-dead-xphb|raise dead]] |
+| 1st | [[bane xphb|bane]], [[false life xphb|false life]] |
+| 3rd | [[gentle repose xphb|gentle repose]], [[ray of enfeeblement xphb|ray of enfeeblement]] |
+| 5th | [[revivify xphb|revivify]], [[vampiric touch xphb|vampiric touch]] |
+| 7th | [[blight xphb|blight]], [[death ward xphb|death ward]] |
+| 9th | [[antilife shell xphb|antilife shell]], [[raise dead xphb|raise dead]] |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [[spare-the-dying-xphb|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [[spare the dying xphb|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -98,7 +107,6 @@ At 6th level, you gain the ability to impede death's progress. As a reaction whe
 
 Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[conditions#Incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -110,11 +118,6 @@ Starting at 17th level, you can seize a trace of vitality from a parting soul an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -132,16 +135,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

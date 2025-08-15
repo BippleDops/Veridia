@@ -1,3 +1,12 @@
+---
+title: Black Market Price Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Black Market Price Guide
 
 ---
@@ -29,7 +38,6 @@ updated: '2025-08-13T01:18:35.009903+00:00'
 
 > *"The black market isn't a place - it's a state of mind. It's the economy that exists in the shadows between legal and illegal, moral and necessary, survival and damnation."* - [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operative
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ updated: '2025-08-13T01:18:35.009903+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The underground economies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] operate parallel to legitimate commerce, offering goods and services that are illegal, restricted, or morally questionable. These markets thrive in the gaps left by legal regulation, providing everything from simple contraband to horrifying services that no civilized society would permit.
@@ -456,7 +459,6 @@ The interconnected nature of legal and illegal economies means that disrupting b
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

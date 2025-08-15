@@ -1,3 +1,12 @@
+---
+title: Potion of Growth Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Growth Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the "enlarge" effect of the [[enlarge-reduce-xphb|Enlarge/Reduce]] spell for 10 minutes (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the "enlarge" effect of the [[enlarge reduce xphb|Enlarge/Reduce]] spell for 10 minutes (no [[conditions#Concentration|Concentration]] required).
 
 The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The red in the potion's liquid continuously expands from a tiny bead to color th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

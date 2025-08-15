@@ -1,3 +1,12 @@
+---
+title: Boon of Dimensional Travel Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boon of Dimensional Travel Xphb
 
 ---
@@ -34,7 +43,6 @@ You gain the following benefits.
 
 **Blink Steps.** Immediately after you take the [[actions#Attack|Attack]] action or the [[actions#Magic|Magic]] action, you can teleport up to 30 feet to an unoccupied space you can see.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ You gain the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

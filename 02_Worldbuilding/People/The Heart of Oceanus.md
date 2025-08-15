@@ -38,14 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg]]
 
 # The Heart of Oceanus
 *The Living Soul of All Waters, The Deep Current's Voice*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,27 +74,21 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -112,7 +102,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Heart of Oceanus is not merely an entity—it is the living embodiment of all ocean waters throughout existence. Ancient beyond mortal comprehension, it represents the primordial force that first brought water to the worlds. Unlike gods who rule over domains, the Heart of Oceanus IS the ocean in its purest, most conscious form. It speaks through currents, dreams through tides, and feels every drop of water as part of its infinite being.
@@ -377,15 +366,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns truth
 
-
 ## Relationships
 
 - **Sibling**: [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg]]
 - **Ally**: [[Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg]]
-- **Enemy**: [[Militant-Priest Abyssal]]
+- **Enemy**: [[Militant Priest Abyssal]]
 - **Blackmailer**: [[Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
 - **Parent**: [[Assets Symbols Symbol Heraldry Border Territories Border Territories.svg]]
-
 
 ## Historical Timeline
 
@@ -404,7 +391,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -416,7 +402,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

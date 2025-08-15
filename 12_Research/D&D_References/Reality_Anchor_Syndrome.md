@@ -1,3 +1,12 @@
+---
+title: Reality_Anchor_Syndrome
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reality_Anchor_Syndrome
 
 ---
@@ -29,7 +38,6 @@ Characters who repeatedly use reality-anchoring abilities develop permanent conn
 
 *Reality anchoring provides stability but at the cost of adaptability and magical flexibility.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ Characters who repeatedly use reality-anchoring abilities develop permanent conn
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -59,7 +62,6 @@ Characters who repeatedly use reality-anchoring abilities develop permanent conn
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a conspiracy
@@ -69,11 +71,9 @@ Characters who repeatedly use reality-anchoring abilities develop permanent conn
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

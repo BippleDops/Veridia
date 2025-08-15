@@ -1,3 +1,12 @@
+---
+title: Lamia Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lamia Xmm
 
 ---
@@ -28,9 +37,8 @@ updated: '2025-08-13T12:34:05.807239+00:00'
 world: Both
 ---
 
-# [[lamia-xmm|Lamia]]
+# [[lamia xmm|Lamia]]
 *Source: Monster Manual (2024) p. 192. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lamia
 
@@ -113,10 +116,10 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Corrupting Touch"
   - "desc": "The lamia casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [[disguise-self-xphb|Disguise Self]] (can\
-      \ appear as a Large or Medium biped), [[minor-illusion-xphb|Minor Illusion]]\n\
-      \n1/day each: [[geas-xphb|Geas]], [[major-image-xphb|Major Image]],\
-      \ [[scrying-xphb|Scrying]]"
+      \ will: [[disguise self xphb|Disguise Self]] (can\
+      \ appear as a Large or Medium biped), [[minor illusion xphb|Minor Illusion]]\n\
+      \n1/day each: [[geas xphb|Geas]], [[major image xphb|Major Image]],\
+      \ [[scrying xphb|Scrying]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."
@@ -147,11 +150,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

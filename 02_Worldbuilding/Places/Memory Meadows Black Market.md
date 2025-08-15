@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg]]
 
 # Memory Meadows Black Market
 
 *"Memories for sale: precious, painful, or perfectly forgotten."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,7 +65,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
@@ -78,29 +73,22 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 A hidden black market specializing in the illegal trade of memories, operating from concealed chambers beneath the Memory Meadows district. Here, desperate individuals sell their most treasured or traumatic memories, while collectors and researchers purchase specific experiences.
@@ -228,8 +216,6 @@ Ongoing situations affecting Memory Meadows Black Market:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange disappearances suggest a curse
@@ -247,7 +233,6 @@ Ongoing situations affecting Memory Meadows Black Market:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

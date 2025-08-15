@@ -1,3 +1,12 @@
+---
+title: Blinding Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blinding Smite Xphb
 
 ---
@@ -37,10 +46,9 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `d8` for each spell slot level above 3.
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[list spells classes paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 247*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

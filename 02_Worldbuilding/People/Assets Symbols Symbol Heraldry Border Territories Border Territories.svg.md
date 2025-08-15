@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,23 +45,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -74,7 +65,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
@@ -83,7 +73,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -195,7 +184,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[The Deepmind Conspiracy]] (ally)
 - [[NPC Reaction Matrix]] (rival)
-- [[Captain Tempest-Eye Marelda]] (rival)
+- [[Captain Tempest Eye Marelda]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -206,7 +195,6 @@ This NPC can serve multiple roles:
 - **Blackmailer**: [[Portrait NPC Captain Torrent Freewater V1 Captain Torrent Freewater.svg]]
 - **Sibling**: [[Portrait NPC Admiral Lady Cassandra Stormwind V1 Admiral Lady Cassandra Stormwind.svg]]
 - **Child**: [[Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg]]
-
 
 ## Historical Timeline
 
@@ -224,7 +212,6 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Multiclassing Proficiencies Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Multiclassing Proficiencies Phb
 
 ---
@@ -29,20 +38,19 @@ world: Both
 
 | Class | Proficiencies Gained |
 |-------|----------------------|
-| [[barbarian-xphb|Barbarian]] | Shields, simple weapons, martial weapons |
-| [[bard-xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
-| [[cleric-xphb|Cleric]] | Light armor, medium armor, shields |
-| [[druid-xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [[fighter-xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[monk-xphb|Monk]] | Simple weapons, shortswords |
-| [[paladin-xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[ranger-xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [[rogue-xphb|Rogue]] | Light armor, one skill from the class's skill list, [[thieves-tools-xphb|thieves' tools]] |
-| [[sorcerer-xphb|Sorcerer]] | — |
-| [[warlock-xphb|Warlock]] | Light armor, simple weapons |
-| [[wizard-xphb|Wizard]] | — |
+| [[barbarian xphb|Barbarian]] | Shields, simple weapons, martial weapons |
+| [[bard xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
+| [[cleric xphb|Cleric]] | Light armor, medium armor, shields |
+| [[druid xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| [[fighter xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[monk xphb|Monk]] | Simple weapons, shortswords |
+| [[paladin xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[ranger xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| [[rogue xphb|Rogue]] | Light armor, one skill from the class's skill list, [[thieves tools xphb|thieves' tools]] |
+| [[sorcerer xphb|Sorcerer]] | — |
+| [[warlock xphb|Warlock]] | Light armor, simple weapons |
+| [[wizard xphb|Wizard]] | — |
 ^multiclassing-proficiencies
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -88,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

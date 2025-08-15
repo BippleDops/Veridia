@@ -1,3 +1,12 @@
+---
+title: Poverty Survival Strategies
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Poverty Survival Strategies
 
 ---
@@ -29,7 +38,6 @@ updated: '2025-08-13T01:18:34.934194+00:00'
 
 > *"The poor don't lack wealth - they lack access to the systems that create wealth. But poverty teaches resourcefulness that no amount of gold can buy. In the margins, survival becomes an art form."* - Sister Morwyn, Depth Community Organizer
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ updated: '2025-08-13T01:18:34.934194+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], millions survive below the poverty line using sophisticated systems of mutual aid, resource sharing, and alternative economies. These survival strategies represent not just desperate measures, but complex social structures that often prove more resilient than formal economic systems.
@@ -575,7 +578,6 @@ The sophisticated nature of community survival strategies demonstrates that pove
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

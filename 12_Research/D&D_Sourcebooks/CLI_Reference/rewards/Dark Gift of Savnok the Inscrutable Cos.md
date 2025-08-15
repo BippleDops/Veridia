@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Savnok the Inscrutable Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Savnok the Inscrutable Cos
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Savnok the Inscrutable
 *Charm*  
 
-Savnok's gift is the power to shield the mind. This dark gift takes the form of a [[mind-blank-xphb|mind blank]] spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
+Savnok's gift is the power to shield the mind. This dark gift takes the form of a [[mind blank xphb|mind blank]] spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
 
 The beneficiary's eyes melt away upon receiving this dark gift, leaving empty sockets that can still see.
 
 *Source: Curse of Strahd p. 192*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary's eyes melt away upon receiving this dark gift, leaving empty so
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

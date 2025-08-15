@@ -1,3 +1,12 @@
+---
+title: Drow Malyk Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Malyk Mtf
 
 ---
@@ -38,7 +47,6 @@ Malyk embodies rebellion and chaos. Drow know of his influence from the appearan
 
 Malyk is associated with rebellion because when a wild mage's true nature is revealed, the individual often has no recourse but to openly attack others and create chaos. Most other drow vie to receive Lolth's blessing by being the one to bring such a blasphemer to justice. In order to survive, a wild mage must defeat or elude all attackers and forge an alliance with those who can be threatened or bribed to provide a safe haven. Most wild mages who are discovered are put to death, some survive as outcasts, and a rare few rise to positions of status, declaring their allegiance to Lolth-or at least pretending to.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Malyk is associated with rebellion because when a wild mage's true nature is rev
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest ancient magic
@@ -84,11 +86,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

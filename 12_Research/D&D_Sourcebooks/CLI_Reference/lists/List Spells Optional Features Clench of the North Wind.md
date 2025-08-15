@@ -1,3 +1,12 @@
+---
+title: List Spells Optional Features Clench of the North Wind
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # list-spells-optional-features-clench-of-the-north-wind
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-12T23:37:34.364228'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

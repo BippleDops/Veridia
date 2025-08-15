@@ -1,3 +1,12 @@
+---
+title: Potion of Climbing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Climbing Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]] for 1 hour. During this time, you have [[advantage-xphb|Advantage]] on Strength ([[skills#Athletics|Athletics]]) checks to climb.
+When you drink this potion, you gain a [[climb speed xphb|Climb Speed]] equal to your [[speed xphb|Speed]] for 1 hour. During this time, you have [[advantage xphb|Advantage]] on Strength ([[skills#Athletics|Athletics]]) checks to climb.
 
 This potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 
 *Source: Dungeon Master's Guide (2024) p. 287. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ This potion is separated into brown, silver, and gray layers resembling bands of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,146 +1,47 @@
-# Wand of Orcus Xdmg
-
 ---
 title: Wand of Orcus Xdmg
-aliases:
-- Wand of Orcus
-type: note
+type: item
 tags:
-- both
-- research
-- world/both
-- active
-- note
-- content/item
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-attunement: false
-cssclasses: json5e-item
-obsidian-u-i-mode: preview
-updated: '2025-08-13T12:34:07.533173+00:00'
-world: Both
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Wand of Orcus
-*Weapon ([[mace-xphb|mace]]), wand, artifact (requires attunement)*  
-![](/03_Mechanics/CLI/items/img/wand-of-orcus.webp#right)
+# Wand of Orcus Xdmg
 
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
+## Overview
+This document contains important information regarding Wand of Orcus Xdmg and its role within the greater narrative.
 
-Crafted and wielded by [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]], this ghastly wand slips from the demon lord's grasp from time to time. When it does, it magically appears wherever the demon lord senses an opportunity to achieve some fell goal.
+## Description
+Wand of Orcus Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All Holy Water within 10 feet of the wand is destroyed.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-Any creature besides Orcus that tries to attune to the wand makes a DC 17 Constitution saving throw. On a successful save, the creature takes `10d6` Necrotic damage. On a failed save, the creature dies and, if it is a Humanoid, turns into a [[zombie-xmm|Zombie]].
+## Details
+### Background
+Historical context and development over time.
 
+### Current State
+Present circumstances and ongoing relevance.
 
-## 🔧 Deep Evaluation Improvements
+### Future Potential
+Possible developments and plot directions.
 
-*20 targeted improvements identified*
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Connection Improvements
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Magic Weapon
-
-You can wield the wand as a magic [[mace-xphb|Mace]] that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra `2d12` Necrotic damage on a hit.
-
-## Random Properties
-
-The Wand of Orcus has the following random properties:
-
-- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
-- 1 [[artifact-properties-major-beneficial-properties-xdmg|major beneficial]] property  
-- 2 [[artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] properties  
-- 1 [[artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
-
-The detrimental properties of the Wand of Orcus are suppressed while the wand is attuned to Orcus.
-
-## Protection
-
-You gain a +3 bonus to [[armor-class-xphb|Armor Class]] while holding the wand.
-
-## Spells
-
-The wand has 7 charges and regains `1d4 + 3` expended charges daily at dawn. While holding the wand, you can cast one of the spells on the following table from it (save DC 18). The table indicates how many charges you must expend to cast the spell.
-
-| Spell | Charge Cost |
-|-------|-------------|
-| [[animate-dead-xphb|Animate Dead]] | 1 |
-| [[blight-xphb|Blight]] | 2 |
-| [[circle-of-death-xphb|Circle of Death]] | 3 |
-| [[finger-of-death-xphb|Finger of Death]] | 3 |
-| [[power-word-kill-xphb|Power Word Kill]] | 4 |
-| [[speak-with-dead-xphb|Speak with Dead]] | 1 |
-^spell-charge-cost
-
-While attuned to the wand, Orcus or a follower blessed by him can cast each of the wand's spells using 2 fewer charges (minimum of 0).
-
-## Call Undead
-
-While holding the wand, you can take a [[actions#Magic|Magic]] action to conjure 15 [[skeleton-xmm|Skeletons]] and 15 [[zombie-xmm|Zombies]]. These Undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of you and obey your commands until they are destroyed or until the next dawn, when they collapse into iimate piles of bones and rotting corpses. Once you use this property, you can't use it again until the next dawn.
-
-While holding the wand, Orcus can summon any kind of Undead, not just skeletons and zombies. These Undead don't perish at dawn the following day, remaining until Orcus dismisses them.
-
-## Sentience
-
-The Wand of Orcus is a sentient Chaotic Evil item with an Intelligence of 16, a Wisdom of 12, and a Charisma of 16. It has hearing and [[senses#Darkvision|Darkvision]] out to 120 feet.
-
-The wand communicates telepathically with its wielder and speaks Abyssal and Common.
-
-## Personality
-
-The wand's purpose is to help satisfy Orcus's desire to slay everything in the multiverse. The wand is cruel, nihilistic, and bereft of humor.
-
-To further Orcus's goals, the wand feigns devotion to its current user and makes grandiose promises that it has no intention of fulfilling, such as vowing to help its user overthrow Orcus.
-
-## Destroying the Wand
-
-Destroying the Wand of Orcus requires that it be taken to the Positive Energy Plane by the ancient hero whose skull surmounts it. For this to happen, the long-lost hero must first be restored to life—no easy task, given the fact that Orcus has imprisoned the hero's soul and keeps it hidden and well guarded.
-
-Bathing the wand in positive energy (such as that which permeates the Positive Plane) causes it to crack and explode, but unless the above conditions are met, the wand instantly re-forms on Orcus's layer of the Abyss.
-
-*Source: Dungeon Master's Guide (2024) p. 320*
-
-## Player-Facing Summary
-
-Wand of orcus xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of wand of orcus xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of orcus xdmg.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

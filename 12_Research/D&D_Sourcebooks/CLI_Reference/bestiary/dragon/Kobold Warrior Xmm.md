@@ -1,3 +1,12 @@
+---
+title: Kobold Warrior Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Kobold Warrior Xmm
 
 ---
@@ -39,11 +48,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kobold-warrior-xmm-kobold-warrior-xmm.svg)
 
-# [[kobold-warrior-xmm|Kobold Warrior]]
+# [[kobold warrior xmm|Kobold Warrior]]
 *Source: Monster Manual (2024) p. 185. Available in the SRD and the Free Rules (2024)*  
 
 Kobold warriors use hit-and-run tactics to raid their enemies and defend their homes. To avoid danger, they frequently employ haphazard traps.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Kobold warriors use hit-and-run tactics to raid their enemies and defend their h
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Kobolds
 
@@ -92,12 +95,12 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
-  - "desc": "The kobold has [[advantage-xphb|Advantage]]\
+  - "desc": "The kobold has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the kobold's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the kobold has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -138,11 +140,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Spirit Guardians Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spirit Guardians Xphb
 
 ---
@@ -41,14 +50,13 @@ world: Both
 
 Protective spirits flit around you in a 15-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 
-When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's [[speed-xphb|Speed]] is halved in the [[emanation-area-of-effect-xphb|Emanation]], and whenever the [[emanation-area-of-effect-xphb|Emanation]] enters a creature's space and whenever a creature enters the [[emanation-area-of-effect-xphb|Emanation]] or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes `3d8` Radiant damage (if you are good or neutral) or `3d8` Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
+When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's [[speed xphb|Speed]] is halved in the [[emanation-area-of-effect-xphb|Emanation]], and whenever the [[emanation-area-of-effect-xphb|Emanation]] enters a creature's space and whenever a creature enters the [[emanation-area-of-effect-xphb|Emanation]] or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes `3d8` Radiant damage (if you are good or neutral) or `3d8` Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 3.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,11 +69,6 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a conspiracy
@@ -93,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: scriptorium
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # scriptorium
 
 ---
@@ -31,7 +40,6 @@ world: Both
 
 A Scriptorium contains desks and writing supplies.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,18 +51,13 @@ A Scriptorium contains desks and writing supplies.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Craft Options
 
 When you issue the "Craft" order to this facility, choose one of the following options:
 
 - **Craft.** Book Replica. You commission the facility's hireling to make a copy of a nonmagical Book. Doing so requires a blank book. The work takes 7 days.  
-- **Craft.** Spell Scroll. You commission the facility's hireling to scribe a [[spell-scroll-xdmg|Spell Scroll]] containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary [[calligraphers-supplies-xphb|Calligrapher's Supplies]], and the hireling meets all the prerequisites needed to scribe the scroll. The ""Crafting Equipment"" section in the "Player's Handbook" specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay.  
+- **Craft.** Spell Scroll. You commission the facility's hireling to scribe a [[spell scroll xdmg|Spell Scroll]] containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary [[calligraphers supplies xphb|Calligrapher's Supplies]], and the hireling meets all the prerequisites needed to scribe the scroll. The ""Crafting Equipment"" section in the "Player's Handbook" specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay.  
 - **Craft.** Paperwork. You commission the facility's hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility's hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion.  
 
 *Source: Dungeon Master's Guide (2024) p. 346*
@@ -75,16 +78,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -97,11 +97,9 @@ Mentioned in The Second Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

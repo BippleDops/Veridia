@@ -1,3 +1,12 @@
+---
+title: Passive Perception Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Passive Perception Xphb
 
 ---
@@ -27,8 +36,7 @@ world: Both
 
 Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom ([[skills#Perception|Perception]]) check.
 
-A creature's Passive Perception equals 10 plus the creature's Wisdom ([[skills#Perception|Perception]]) check bonus. If the creature has [[advantage-xphb|Advantage]] on such checks, increase the score by 5. If the creature has [[disadvantage-xphb|Disadvantage]] on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (`10 + 2 + 2`). If that character has [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks, the score becomes 19 (`10 + 2 + 2 + 5`).
-
+A creature's Passive Perception equals 10 plus the creature's Wisdom ([[skills#Perception|Perception]]) check bonus. If the creature has [[advantage xphb|Advantage]] on such checks, increase the score by 5. If the creature has [[disadvantage xphb|Disadvantage]] on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (`10 + 2 + 2`). If that character has [[advantage xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks, the score becomes 19 (`10 + 2 + 2 + 5`).
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ A creature's Passive Perception equals 10 plus the creature's Wisdom ([[skills#P
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -79,7 +80,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

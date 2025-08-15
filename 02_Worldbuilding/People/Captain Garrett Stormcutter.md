@@ -45,18 +45,14 @@ relationships:
   target: '[[Prince Caspian Duskwater]]'
   type: neutral
 - strength: 3
-  target: '[[Template-Person]]'
+  target: '[[Template Person]]'
 updated: '2025-08-13T12:34:17.693356+00:00'
 world: Both
 evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-garrett-stormcutter-captain-garrett-stormcutter.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -85,8 +81,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
@@ -99,28 +93,22 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Captain Garrett Stormcutter is [[Aquabyssos World Overview]]'s most successful "legitimate" merchant, operating from [[New Tethys]] and [[The Wandering Atoll]]. He maintains the facade of a profit-driven trader while secretly funding and supplying the [[Free Current]] rebellion. Still fully human after 40 years underwater through expensive magical preservation, he refuses adaptation on principle. His weathered face and grey-streaked beard mark him as one of the few who remember the surface world as an adult.
@@ -220,11 +208,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Plot Hooks
 
@@ -249,7 +235,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -267,7 +252,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

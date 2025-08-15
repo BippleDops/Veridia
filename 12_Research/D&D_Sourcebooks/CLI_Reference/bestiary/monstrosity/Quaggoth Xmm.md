@@ -1,3 +1,12 @@
+---
+title: Quaggoth Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaggoth Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-xmm-quaggoth-xmm.svg)
 
-# [[quaggoth-xmm|Quaggoth]]
+# [[quaggoth xmm|Quaggoth]]
 *Source: Monster Manual (2024) p. 251*  
 
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ For quaggoths, every fight means life or death. They battle with wild fury and d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quaggoths
 
@@ -90,15 +93,15 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "While [[bloodied-xphb|Bloodied]], the\
-      \ quaggoth has [[advantage-xphb|Advantage]]\
+  - "desc": "While [[bloodied xphb|Bloodied]], the\
+      \ quaggoth has [[advantage xphb|Advantage]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "The quaggoth makes two Claw attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage,\
-      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[bloodied-xphb|Bloodied]]."
+      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[bloodied xphb|Bloodied]]."
     "name": "Claw"
 "source":
   - "XMM"
@@ -126,7 +129,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -137,21 +139,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

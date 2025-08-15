@@ -1,3 +1,12 @@
+---
+title: Wand of Fear Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Fear Xdmg
 
 ---
@@ -32,7 +41,6 @@ world: Both
 
 This wand has 7 charges.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ This wand has 7 charges.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spells
 
@@ -56,8 +59,8 @@ While holding the wand, you can cast one of the spells (save DC 15) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[command-xphb|Command]] ("flee" or "grovel" only) | 1 |
-| [[fear-xphb|Fear]] (60-foot [[cone-area-of-effect-xphb|Cone]]) | 3 |
+| [[command xphb|Command]] ("flee" or "grovel" only) | 1 |
+| [[fear xphb|Fear]] (60-foot [[cone area of effect xphb|Cone]]) | 3 |
 ^spell-charge-cost
 
 ## Regaining Charges
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

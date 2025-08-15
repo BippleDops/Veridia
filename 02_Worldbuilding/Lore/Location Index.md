@@ -29,12 +29,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Location Index
 
 Comprehensive guide to all locations across both the Aquabyssos and Aethermoor campaigns. Organized by world, region, and location type for easy navigation and cross-referencing.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,27 +60,21 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
@@ -93,12 +84,10 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Navigation Links
 
@@ -137,17 +126,13 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Cultural Practices
 
@@ -160,7 +145,6 @@ Mentioned in The Hidden Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

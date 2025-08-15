@@ -1,3 +1,12 @@
+---
+title: Character_Advancement
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Character_Advancement
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Experience Points
 | Level | XP Required |
@@ -52,7 +55,6 @@ Level up at story milestones
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about this place
@@ -61,7 +63,6 @@ Level up at story milestones
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

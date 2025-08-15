@@ -32,12 +32,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Lighthouse of Storms
-
-![[04_Resources/Assets/Art/Lore/Lighthouse_of_Storms.png|Lighthouse of Storms Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,25 +65,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -98,7 +85,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Summary
 
@@ -123,8 +109,6 @@ Lighthouse of Storms represents an important aspect of the world's history, cult
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Cultural Practices
 

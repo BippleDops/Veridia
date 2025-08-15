@@ -1,3 +1,12 @@
+---
+title: Halfling Urogalan Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Urogalan Mtf
 
 ---
@@ -41,7 +50,6 @@ As a divine being, Urogalan can move freely through the earth and across the pla
 
 Unlike other halfling deities, Urogalan is surrounded by a cloud of melancholy. He is gaunt, with his dusky skin covered by white robes. Priests who venerate Urogalan emulate this practice of dress and demeanor.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ Unlike other halfling deities, Urogalan is surrounded by a cloud of melancholy. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting a witness for revenge
@@ -90,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

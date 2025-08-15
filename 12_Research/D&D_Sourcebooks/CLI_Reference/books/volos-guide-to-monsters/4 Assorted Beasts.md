@@ -1,3 +1,12 @@
+---
+title: 4 Assorted Beasts
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 4 Assorted Beasts
 
 ---
@@ -27,15 +36,14 @@ world: Both
 
 This appendix contains statistics for various beasts, expanding on "appendix A" of the Monster Manual.
 
-- [[aurochs-mpmm|Aurochs]]  
-- [[cow-vgm|Cow]]  
-- [[deep-rothe-mpmm|Deep Rothé]]  
-- [[dolphin-mpmm|Dolphin]]  
-- [[ox-mpmm|Ox]]  
-- [[rothe-vgm|Rothé]]  
-- [[stench-kow-mpmm|Stench Kow]]  
-- [[swarm-of-rot-grubs-mpmm|Swarm of Rot Grubs]]
-
+- [[aurochs mpmm|Aurochs]]  
+- [[cow vgm|Cow]]  
+- [[deep rothe mpmm|Deep Rothé]]  
+- [[dolphin mpmm|Dolphin]]  
+- [[ox mpmm|Ox]]  
+- [[rothe vgm|Rothé]]  
+- [[stench kow mpmm|Stench Kow]]  
+- [[swarm of rot grubs mpmm|Swarm of Rot Grubs]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ This appendix contains statistics for various beasts, expanding on "appendix A" 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and evil awakens
@@ -83,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

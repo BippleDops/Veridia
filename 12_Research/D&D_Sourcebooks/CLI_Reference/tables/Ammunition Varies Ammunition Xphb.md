@@ -1,3 +1,12 @@
+---
+title: Ammunition Varies Ammunition Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ammunition Varies Ammunition Xphb
 
 ---
@@ -29,13 +38,12 @@ world: Both
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [[arrows-20-xphb|Arrows]] | 20 | [[quiver-xphb|Quiver]] | 1 lb. | 1 GP |
-| [[bolts-20-xphb|Bolts]] | 20 | [[crossbow-bolt-case-xphb|Case]] | 1½ lb. | 1 GP |
-| [[firearm-bullets-10-xphb|Bullets, Firearm]] | 10 | [[pouch-xphb|Pouch]] | 2 lb. | 3 GP |
-| [[sling-bullet-xphb|Bullets, Sling]] | 20 | [[pouch-xphb|Pouch]] | 1½ lb. | 4 CP |
-| [[needles-50-xphb|Needles]] | 50 | [[pouch-xphb|Pouch]] | 1 lb. | 1 GP |
+| [[arrows 20 xphb|Arrows]] | 20 | [[quiver xphb|Quiver]] | 1 lb. | 1 GP |
+| [[bolts 20 xphb|Bolts]] | 20 | [[crossbow bolt case xphb|Case]] | 1½ lb. | 1 GP |
+| [[firearm bullets 10 xphb|Bullets, Firearm]] | 10 | [[pouch xphb|Pouch]] | 2 lb. | 3 GP |
+| [[sling bullet xphb|Bullets, Sling]] | 20 | [[pouch xphb|Pouch]] | 1½ lb. | 4 CP |
+| [[needles 50 xphb|Needles]] | 50 | [[pouch xphb|Pouch]] | 1 lb. | 1 GP |
 ^ammunition
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Related Notes
 
@@ -83,16 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

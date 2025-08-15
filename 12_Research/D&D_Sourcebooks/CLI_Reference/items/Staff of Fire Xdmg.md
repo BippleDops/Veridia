@@ -1,3 +1,12 @@
+---
+title: Staff of Fire Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Fire Xdmg
 
 ---
@@ -31,11 +40,10 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [[resistance-xphb|Resistance]] to Fire damage while you hold this staff.
-
+You have [[resistance xphb|Resistance]] to Fire damage while you hold this staff.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You have [[resistance-xphb|Resistance]] to Fire damage while you hold this staff
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spells
 
@@ -60,9 +63,9 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[burning-hands-xphb|Burning Hands]] | 1 |
-| [[fireball-xphb|Fireball]] | 3 |
-| [[wall-of-fire-xphb|Wall of Fire]] | 4 |
+| [[burning hands xphb|Burning Hands]] | 1 |
+| [[fireball xphb|Fireball]] | 3 |
+| [[wall of fire xphb|Wall of Fire]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

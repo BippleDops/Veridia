@@ -1,3 +1,12 @@
+---
+title: Merchants Scale
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merchants Scale
 
 ---
@@ -37,7 +46,6 @@ A scale includes a small balance, pans, and a suitable assortment of weights up 
 
 *Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules (2014)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ A scale includes a small balance, pans, and a suitable assortment of weights up 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

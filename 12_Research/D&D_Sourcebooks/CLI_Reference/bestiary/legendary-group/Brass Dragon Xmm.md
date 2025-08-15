@@ -1,3 +1,12 @@
+---
+title: Brass Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Brass Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-brass-dragon-xmm-adult-brass-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,19 +46,14 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The area containing an adult or ancient brass dragon's lair is altered by its presence, creating the following effects:
 
-- **Mirages.** While in its lair, the dragon can cast [[major-image-xphb|Major Image]], requiring no Material components and using the same spellcasting ability as its Spellcasting action. When casting the spell this way, the spell's range is 1 mile, and the dragon doesn't need to see the spot where the illusion appears.  
-- **Refreshing Water.** Water within 1 mile of the lair is magically refreshing. A creature that drinks such water gains `2d4` [[temporary-hit-points-xphb|Temporary Hit Points]], and the dragon is immediately aware of the creature's presence.  
+- **Mirages.** While in its lair, the dragon can cast [[major image xphb|Major Image]], requiring no Material components and using the same spellcasting ability as its Spellcasting action. When casting the spell this way, the spell's range is 1 mile, and the dragon doesn't need to see the spot where the illusion appears.  
+- **Refreshing Water.** Water within 1 mile of the lair is magically refreshing. A creature that drinks such water gains `2d4` [[temporary hit points xphb|Temporary Hit Points]], and the dragon is immediately aware of the creature's presence.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

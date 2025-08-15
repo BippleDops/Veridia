@@ -1,3 +1,12 @@
+---
+title: Find Greater Steed Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Find Greater Steed Xge
 
 ---
@@ -34,13 +43,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a [[griffon-xmm|griffon]], a [[pegasus-xmm|pegasus]], a [[peryton-xmm|peryton]], a [[dire-wolf-xmm|dire wolf]], a [[rhinoceros-xmm|rhinoceros]], or a [[saber-toothed-tiger-xmm|saber-toothed tiger]]. The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a [[griffon xmm|griffon]], a [[pegasus xmm|pegasus]], a [[peryton xmm|peryton]], a [[dire wolf xmm|dire wolf]], a [[rhinoceros xmm|rhinoceros]], or a [[saber toothed tiger xmm|saber-toothed tiger]]. The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
 You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.
 
 The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
 
-You can't have more than one mount bonded by this spell or [[find-steed-xphb|find steed]] at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.
+You can't have more than one mount bonded by this spell or [[find steed xphb|find steed]] at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.
 
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
 
@@ -49,10 +58,9 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 > With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 ^dragonnel-steeds
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[list spells classes paladin|Paladin]]
 
 *Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +73,6 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -102,7 +103,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

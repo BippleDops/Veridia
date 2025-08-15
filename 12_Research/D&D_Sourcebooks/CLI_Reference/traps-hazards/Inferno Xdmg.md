@@ -1,3 +1,12 @@
+---
+title: Inferno Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Inferno Xdmg
 
 ---
@@ -27,12 +36,11 @@ world: Both
 
 Whenever an uncontrolled fire spreads, it can create an inferno that quickly engulfs creatures, objects, and vegetation.
 
-An inferno consists of at least four contiguous 10-foot [[cube-area-of-effect-xphb|Cubes]] of fire. Each of the inferno's 10-foot Cubes can be doused with 10 gallons of water. Exposure to a strong wind for 1 minute causes the inferno to grow, adding `d4` new 10-foot Cubes to its volume. An inferno deprived of fuel burns itself out after `d10` minutes.
+An inferno consists of at least four contiguous 10-foot [[cube area of effect xphb|Cubes]] of fire. Each of the inferno's 10-foot Cubes can be doused with 10 gallons of water. Exposure to a strong wind for 1 minute causes the inferno to grow, adding `d4` new 10-foot Cubes to its volume. An inferno deprived of fuel burns itself out after `d10` minutes.
 
 An inferno damages any vegetation or object that isn't being worn or carried that it touches, dealing 22 (`4d10`) Fire damage immediately and again at the end of each minute. Any creature that enters the inferno for the first time on a turn or starts its turn there takes 22 (`4d10`) Fire damage and is burning.
 
 *Source: Dungeon Master's Guide (2024) p. 76*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ An inferno damages any vegetation or object that isn't being worn or carried tha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

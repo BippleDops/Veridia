@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg]]
 
 # The Cerulean Breath
 *Maraleth the Eternal Current, Keeper of Deep Memories, Living Library of the Abyss*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,8 +72,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
@@ -90,21 +84,14 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 The Cerulean Breath, whose true name is Maraleth, is an ancient dragon turtle who has served as advisor, protector, and living repository of knowledge for Aquabyssos for nearly three millennia. Unlike the more territorial and aggressive members of her species, Maraleth chose the path of wisdom and guardianship, becoming a beloved figure whose counsel is sought by everyone from humble fishermen to the Emperor himself.
@@ -329,7 +316,6 @@ The Cerulean Breath is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Cerulean Breath as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cerulean Breath.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -346,7 +332,6 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

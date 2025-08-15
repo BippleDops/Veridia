@@ -1,3 +1,12 @@
+---
+title: Morkoth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Morkoth Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-morkoth-mpmm-morkoth-mpmm.svg)
 
-# [[morkoth-mpmm|Morkoth]]
+# [[morkoth mpmm|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -47,7 +56,6 @@ Each island glides on planar currents and is safe from most harmful external eff
 
 Some islands travel a specific route, arriving at the same destinations regularly over a cycle of years. Others are tied to a particular place or group of locales, and still others move erratically through the cosmos. Occasionally, a morkoth learns to direct its island's movement.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -59,11 +67,6 @@ Some islands travel a specific route, arriving at the same destinations regularl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## A Morkoth's Lair
 
@@ -133,11 +136,11 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[detect-magic-xphb|detect magic]],\
-      \ [[mage-hand-xphb|mage hand]]\n\n3/day each:\
-      \ [[darkness-xphb|darkness]], [[dimension-door-xphb|dimension door]],\
-      \ [[dispel-magic-xphb|dispel magic]], [[lightning-bolt-xphb|lightning bolt]],\
-      \ [[sending-xphb|sending]]"
+      \ DC 17):\n\nAt will: [[detect magic xphb|detect magic]],\
+      \ [[mage hand xphb|mage hand]]\n\n3/day each:\
+      \ [[darkness xphb|darkness]], [[dimension door xphb|dimension door]],\
+      \ [[dispel magic xphb|dispel magic]], [[lightning bolt xphb|lightning bolt]],\
+      \ [[sending xphb|sending]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
@@ -174,11 +177,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -187,11 +188,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

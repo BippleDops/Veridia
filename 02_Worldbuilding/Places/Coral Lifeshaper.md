@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-lifeshaper-coral-lifeshaper.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,8 +62,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
@@ -76,12 +70,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -99,7 +90,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -147,8 +137,6 @@ Ongoing situations affecting Coral Lifeshaper:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A journal reveals ancient history about a local noble
@@ -173,7 +161,6 @@ Ongoing situations affecting Coral Lifeshaper:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -185,7 +172,6 @@ Ongoing situations affecting Coral Lifeshaper:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

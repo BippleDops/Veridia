@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-lyralei-stormheart-queen-lyralei-stormheart.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,13 +53,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -81,15 +73,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -167,15 +154,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Relationships
 
 - **Blackmailer**: [[King Torrhen Lumengarde]]
 - **Lover**: [[Captain Thalia Stormguard]]
 - **Parent**: [[Portrait NPC Madame Crystal Eye V1 Madame Crystal Eye.svg]]
 - **Child**: [[Portrait NPC Captain Sarah Oathbound V2 Captain Sarah Oathbound.svg]]
-- **Victim**: [[Shadow-touched Communities]]
-
+- **Victim**: [[Shadow touched Communities]]
 
 ## Cultural Practices
 
@@ -188,7 +173,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -207,7 +191,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Armanite Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armanite Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armanite-mpmm-armanite-mpmm.svg)
 
-# [[armanite-mpmm|Armanite]]
+# [[armanite mpmm|Armanite]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -94,7 +103,6 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -106,11 +114,6 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -132,16 +135,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

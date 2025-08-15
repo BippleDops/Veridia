@@ -1,3 +1,12 @@
+---
+title: Pixie Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pixie Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pixie-xmm-pixie-xmm.svg)
 
-# [[pixie-xmm|Pixie]]
+# [[pixie xmm|Pixie]]
 *Source: Monster Manual (2024) p. 244*  
 
 Pixies spend their days frolicking and exploring and avoid direct conflict when they can.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Pixies spend their days frolicking and exploring and avoid direct conflict when 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Pixies
 
@@ -91,7 +94,7 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 "languages": "Sylvan"
 "cr": "1/4"
 "traits":
-  - "desc": "The pixie has [[advantage-xphb|Advantage]]\
+  - "desc": "The pixie has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -102,10 +105,10 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
     "name": "Faerie Dust"
   - "desc": "The pixie casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[dancing-lights-xphb|Dancing Lights]],\
-      \ [[druidcraft-xphb|Druidcraft]], [[invisibility-xphb|Invisibility]]\
-      \ (self only)\n\n1/day each: [[detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[fly-xphb|Fly]], [[sleep-xphb|Sleep]]"
+      \ will: [[dancing lights xphb|Dancing Lights]],\
+      \ [[druidcraft xphb|Druidcraft]], [[invisibility xphb|Invisibility]]\
+      \ (self only)\n\n1/day each: [[detect thoughts xphb|Detect Thoughts]],\
+      \ [[fly xphb|Fly]], [[sleep xphb|Sleep]]"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -133,11 +136,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -148,11 +149,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

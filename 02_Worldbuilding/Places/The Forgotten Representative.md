@@ -35,15 +35,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg]]
 
 # The Forgotten Representative
 
 *"I speak for those whose voices have been silenced, whose names have been erased, whose sacrifices have been forgotten by history's convenient revision."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,7 +72,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
@@ -85,12 +80,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -104,13 +96,10 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -211,8 +200,6 @@ Ongoing situations affecting The Forgotten Representative:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A stranger needs help delivering before the new moon
@@ -234,7 +221,6 @@ Ongoing situations affecting The Forgotten Representative:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

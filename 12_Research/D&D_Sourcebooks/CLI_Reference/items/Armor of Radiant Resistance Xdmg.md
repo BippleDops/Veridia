@@ -1,3 +1,12 @@
+---
+title: Armor of Radiant Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor of Radiant Resistance Xdmg
 
 ---
@@ -42,7 +51,7 @@ world: Both
 # Armor of Radiant Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance-xphb|Resistance]] to radiant damage while you wear this armor.
+You have [[resistance xphb|Resistance]] to radiant damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Radiant Resistance](#Breastplate%20of%20Radiant%20Resistance)
@@ -65,7 +74,6 @@ You have [[resistance-xphb|Resistance]] to radiant damage while you wear this ar
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ You have [[resistance-xphb|Resistance]] to radiant damage while you wear this ar
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -98,7 +101,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

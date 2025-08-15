@@ -1,3 +1,12 @@
+---
+title: Divine Word Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Divine Word Xphb
 
 ---
@@ -35,7 +44,7 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[hit-points-xphb|Hit Points]] or fewer suffers an effect based on its current [[hit-points-xphb|Hit Points]], as shown in the Divine Word Effects table. Regardless of its [[hit-points-xphb|Hit Points]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish-xphb|Wish]] spell.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[hit-points-xphb|Hit Points]] or fewer suffers an effect based on its current [[hit-points-xphb|Hit Points]], as shown in the Divine Word Effects table. Regardless of its [[hit-points-xphb|Hit Points]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish xphb|Wish]] spell.
 
 **Divine Word Effects**
 
@@ -47,10 +56,9 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [[conditions#Deafened|Deafened]] condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -85,11 +88,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -105,11 +106,9 @@ Mentioned in The Second Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

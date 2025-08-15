@@ -1,3 +1,12 @@
+---
+title: 11 Appendix B Council Scorecard
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 11 Appendix B Council Scorecard
 
 ---
@@ -31,7 +40,6 @@ This scorecard helps track various factions' support for the struggle against th
 
 A printable scorecard is available at DungeonsandDragons.com (http://media.wizards.com/2014/downloads/dnd/risetiamat_councilscorecard.pdf).
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## First Council (Hoard of the Dragon Queen)
 
@@ -55,14 +58,14 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | +/+ | +/+ | + | + | +/+ | + | + | +/+ | + | + | Kept possession of Skyreach Castle |
 | + | + | + | + | + | -/- | + | + | + | + | Skyreach Castle returned to giants |
-|  | + |  |  |  | + |  | + |  | + | [[/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]] supports characters* |
-| + |  |  | + |  |  |  |  | + | + | [[/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]] supports characters* |
+|  | + |  |  |  | + |  | + |  | + | [[/03 Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]] supports characters* |
+| + |  |  | + |  |  |  |  | + | + | [[/03 Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]] supports characters* |
 | — | + | — |  | — | + | + | + |  | + | Smashed dragon hatchery* |
 | + | — | + | + | + | — | — | — |  | — | Left dragon hatchery intact |
-| + | + | + | + | + | + | + | + | + | + | Killed [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]* |
-| + | + | + | + | + | + | + | + | + | + | Captured [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] |
-| — | + | + | + | + | + | + | + | + | + | Killed [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
-| + | + | + | + | + | + | + | + | + | + | Captured [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
+| + | + | + | + | + | + | + | + | + | + | Killed [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]]* |
+| + | + | + | + | + | + | + | + | + | + | Captured [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]] |
+| — | + | + | + | + | + | + | + | + | + | Killed [[/03 Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
+| + | + | + | + | + | + | + | + | + | + | Captured [[/03 Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
 ^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Second Council

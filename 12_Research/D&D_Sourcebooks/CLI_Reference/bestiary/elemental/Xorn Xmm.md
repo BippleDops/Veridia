@@ -1,3 +1,12 @@
+---
+title: Xorn Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Xorn Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xorn-xmm-v1-xorn-xmm.svg)
 
-# [[xorn-xmm|Xorn]]
+# [[xorn xmm|Xorn]]
 *Source: Monster Manual (2024) p. 338. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Xorn
 
@@ -125,8 +128,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The xorn moves up to its [[speed-xphb|Speed]]\
-      \ or [[burrow-speed-xphb|Burrow Speed]] straight\
+  - "desc": "The xorn moves up to its [[speed xphb|Speed]]\
+      \ or [[burrow speed xphb|Burrow Speed]] straight\
       \ toward an enemy it can sense."
     "name": "Charge"
 "source":
@@ -155,7 +158,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -163,11 +165,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

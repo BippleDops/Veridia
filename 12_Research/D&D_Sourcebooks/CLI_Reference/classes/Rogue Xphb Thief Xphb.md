@@ -1,3 +1,12 @@
+---
+title: Rogue Xphb Thief Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rogue Xphb Thief Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Thief
-*[[rogue-xphb|Rogue]]: Rogue Subclass*  
+*[[rogue xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 137. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -61,11 +70,11 @@ A mix of burglar, treasure hunter, and explorer, you are the epitome of an adven
 
 ### Fast Hands (Level 3)
 
-As a [[bonus-action-xphb|Bonus Action]], you can do one of the following.
+As a [[bonus action xphb|Bonus Action]], you can do one of the following.
 
 #### Sleight of Hand
 
-Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves-tools-xphb|Thieves' Tools]] or to pick a pocket.
+Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves tools xphb|Thieves' Tools]] or to pick a pocket.
 
 #### Use an Object
 
@@ -77,7 +86,7 @@ You've trained to get into especially hard-to-reach places, granting you these b
 
 #### Climber
 
-You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
+You gain a [[climb speed xphb|Climb Speed]] equal to your [[speed xphb|Speed]].
 
 #### Jumper
 
@@ -89,7 +98,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb|Three-Quarters Cover]] or [[cover-xphb|Total Cover]].
+If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover xphb|Three-Quarters Cover]] or [[cover xphb|Total Cover]].
 
 ### Use Magic Device (Level 13)
 
@@ -105,12 +114,11 @@ Whenever you use a magic item property that expends charges, roll `d6`. On a rol
 
 #### Scrolls
 
-You can use any [[spell-scroll-xdmg|Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+You can use any [[spell scroll xdmg|Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ### Thief's Reflexes (Level 17)
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[initiative-xphb|Initiative]] and your second turn at your [[initiative-xphb|Initiative]] minus 10.
-
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[initiative xphb|Initiative]] and your second turn at your [[initiative xphb|Initiative]] minus 10.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -123,11 +131,6 @@ You are adept at laying ambushes and quickly escaping danger. You can take two t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -153,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

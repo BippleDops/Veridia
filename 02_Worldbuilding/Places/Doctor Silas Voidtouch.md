@@ -37,12 +37,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Doctor Silas Voidtouch
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Doctor_Silas_Voidtouch.png|Doctor Silas Voidtouch Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,12 +66,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -85,7 +77,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
@@ -99,14 +90,10 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -160,8 +147,6 @@ Ongoing situations affecting Doctor Silas Voidtouch:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

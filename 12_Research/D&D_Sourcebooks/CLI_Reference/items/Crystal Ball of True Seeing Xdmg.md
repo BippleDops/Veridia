@@ -1,3 +1,12 @@
+---
+title: Crystal Ball of True Seeing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Ball of True Seeing Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 17) with it. In addition, you have [[senses#Truesight|Truesight]] with a range of 120 feet centered on the spell's sensor.
+While touching this crystal orb, you can cast [[scrying xphb|Scrying]] (save DC 17) with it. In addition, you have [[senses#Truesight|Truesight]] with a range of 120 feet centered on the spell's sensor.
 
 *Source: Dungeon Master's Guide (2024) p. 159. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -79,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

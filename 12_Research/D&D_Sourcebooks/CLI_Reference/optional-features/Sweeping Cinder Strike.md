@@ -1,3 +1,12 @@
+---
+title: Sweeping Cinder Strike
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sweeping Cinder Strike
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Sweeping Cinder Strike
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[burning-hands-xphb|burning hands]].
-
+You can spend 2 ki points to cast [[burning hands xphb|burning hands]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can spend 2 ki points to cast [[burning-hands-xphb|burning hands]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Related Notes
 

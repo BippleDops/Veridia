@@ -1,3 +1,12 @@
+---
+title: Director Hadrian Silverscale
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Director Hadrian Silverscale
 
 ---
@@ -30,9 +39,6 @@ world: Aethermoor
 
 # Director Hadrian Silverscale
 
-![[04_Resources/Assets/Art/Lore/Director_Hadrian_Silverscale.png|Director Hadrian Silverscale Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +50,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Director Hadrian Silverscale describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -69,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -89,11 +88,9 @@ Mentioned in The Second Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

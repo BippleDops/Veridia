@@ -1,3 +1,12 @@
+---
+title: List Optfeaturetype As
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Optfeaturetype As
 
 ---
@@ -25,15 +34,14 @@ world: Both
 # Arcane Shot
 *Source: Xanathar's Guide to Everything* 
 
-- [[banishing-arrow-xge|Banishing Arrow]]
-- [[beguiling-arrow-xge|Beguiling Arrow]]
-- [[bursting-arrow-xge|Bursting Arrow]]
-- [[enfeebling-arrow-xge|Enfeebling Arrow]]
-- [[grasping-arrow-xge|Grasping Arrow]]
-- [[piercing-arrow-xge|Piercing Arrow]]
-- [[seeking-arrow-xge|Seeking Arrow]]
-- [[shadow-arrow-xge|Shadow Arrow]]
-
+- [[banishing arrow xge|Banishing Arrow]]
+- [[beguiling arrow xge|Beguiling Arrow]]
+- [[bursting arrow xge|Bursting Arrow]]
+- [[enfeebling arrow xge|Enfeebling Arrow]]
+- [[grasping arrow xge|Grasping Arrow]]
+- [[piercing arrow xge|Piercing Arrow]]
+- [[seeking arrow xge|Seeking Arrow]]
+- [[shadow arrow xge|Shadow Arrow]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

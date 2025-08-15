@@ -1,3 +1,12 @@
+---
+title: Reszur Pota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reszur Pota
 
 ---
@@ -28,11 +37,11 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-reszur-pota-reszur-pota.svg)
 
 # Reszur
-*Weapon ([[dagger-xphb|dagger]]), uncommon*  
+*Weapon ([[dagger xphb|dagger]]), uncommon*  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Light|Light]], [[item properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this weapon, which doesn't make noise when it hits or cuts something.
@@ -40,7 +49,6 @@ You have a +1 bonus to attack and damage rolls made with this weapon, which does
 The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the name, the blade gives off a faint, cold glow, shedding dim light in a 10-foot radius until the wielder speaks the name again.
 
 *Source: Princes of the Apocalypse p. 157*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the na
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a portal
@@ -88,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

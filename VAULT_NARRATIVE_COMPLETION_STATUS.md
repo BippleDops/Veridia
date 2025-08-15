@@ -239,9 +239,9 @@ Your vault has achieved narrative critical mass. Every element now generates sto
 
 ## Navigation
 - [[VAULT_MASTER_INDEX]] - Central hub
-- [[VAULT_UPDATES]] - Complete changelog
+- [[VAULT UPDATES]] - Complete changelog
 - [[NARRATIVE_DEEPENING_MASTER_PROMPT]] - Enhancement blueprint
-- [[00_Indexes]] - All documentation
+- [[00 Indexes]] - All documentation
 
 ---
 

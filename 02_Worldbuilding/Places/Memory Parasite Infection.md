@@ -29,15 +29,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-parasite-infection-memory-parasite-infection.svg]]
 
 # Memory Parasite Infection
 
 *"They steal not just memories, but the very essence of who you are."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,24 +62,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -97,8 +86,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 A dangerous outbreak of memory parasites threatens Aquabyssos as microscopic creatures feed on stored memories, leaving victims with gaps in their recollections and altered personalities. The infection spreads through contact with contaminated water sources.
@@ -237,12 +224,9 @@ Ongoing situations affecting Memory Parasite Infection:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Trade Importance
 

@@ -1,3 +1,12 @@
+---
+title: Psychic Blade Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Psychic Blade Xphb
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Damage**: 1d6 psychic
 - **Range**: 60/120
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Thrown|Thrown]]
 
 *Source: Player's Handbook (2024) p. 136*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about the cult
@@ -84,16 +86,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Fighter Xphb Samurai Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fighter Xphb Samurai Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Samurai
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[[fighter xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 31*  
 
 > [!tldr] Class and Feature Progression
@@ -90,7 +99,6 @@ Starting at 18th level, your fighting spirit can delay the grasp of death. If yo
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -102,11 +110,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -123,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

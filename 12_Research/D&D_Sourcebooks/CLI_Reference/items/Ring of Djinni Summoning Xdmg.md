@@ -1,3 +1,12 @@
+---
+title: Ring of Djinni Summoning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Djinni Summoning Xdmg
 
 ---
@@ -29,16 +38,15 @@ world: Both
 *Ring, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
-While wearing this ring, you can take a [[actions#Magic|Magic]] action to summon a particular [[djinni-xmm|Djinni]] from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [[conditions#Concentration|Concentration]], to a maximum of 1 hour, or until it drops to 0 [[hit-points-xphb|Hit Points]].
+While wearing this ring, you can take a [[actions#Magic|Magic]] action to summon a particular [[djinni xmm|Djinni]] from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [[conditions#Concentration|Concentration]], to a maximum of 1 hour, or until it drops to 0 [[hit points xphb|Hit Points]].
 
-While summoned, the djinni is [[friendly-attitude-xphb|Friendly]] to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+While summoned, the djinni is [[friendly attitude xphb|Friendly]] to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 
 Rings of Djinni Summoning are often created by the djinn they summon and given to mortals as gifts of friendship or tokens of esteem.
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Rings of Djinni Summoning are often created by the djinn they summon and given t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help delivering before winter
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

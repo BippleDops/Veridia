@@ -1,3 +1,12 @@
+---
+title: Orc Bahgtru Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orc Bahgtru Vgm
 
 ---
@@ -34,7 +43,6 @@ world: Both
 
 Despite the influence of Ilneval, orcs are and will forever be brutal and feral in how they wage war. Bahgtru is the deity who epitomizes the physical might and ruthlessness that orcs use to overwhelm their foes. He is the one who drives every thrust of an orc's weapon, so that it does as much harm as possible.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ Despite the influence of Ilneval, orcs are and will forever be brutal and feral 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Fearless and Mighty
 
@@ -62,7 +65,7 @@ Most young orcs that an explorer or an adventurer might encounters are followers
 
 ## The Sacred Bull
 
-Orcs of Bahgtru sometimes enter battle astride [[aurochs-mpmm|aurochs]], large creatures that resemble oxen or cattle but are much more ferocious. By doing so they honor the creatures as well as their deity, because legends tell that Bahgtru also rode a great bull into battle. No orc will eat or harm one of these sacred beasts, which are believed to be imbued with Bahgtru's spirit.
+Orcs of Bahgtru sometimes enter battle astride [[aurochs mpmm|aurochs]], large creatures that resemble oxen or cattle but are much more ferocious. By doing so they honor the creatures as well as their deity, because legends tell that Bahgtru also rode a great bull into battle. No orc will eat or harm one of these sacred beasts, which are believed to be imbued with Bahgtru's spirit.
 
 ## Player-Facing Summary
 
@@ -80,21 +83,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

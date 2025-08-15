@@ -1,3 +1,12 @@
+---
+title: Treasure by Depth
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Treasure by Depth
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"The deeper you dare descend, the greater the rewards that await."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Treasure by Depth is a systematic approach to distributing rewards based on the dangerous depths explored in Aquabyssos. This system recognizes that deeper areas require greater risk, preparation, and skill, and should provide proportionally valuable rewards including rare materials, powerful magical items, and unique artifacts unavailable at shallower depths.
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Related Notes
 

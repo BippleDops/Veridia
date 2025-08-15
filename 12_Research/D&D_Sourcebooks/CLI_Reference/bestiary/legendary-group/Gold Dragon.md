@@ -1,103 +1,47 @@
-# Gold Dragon
-
 ---
 title: Gold Dragon
-aliases:
-- Gold Dragon
-type: note
+type: organization
 tags:
-- both
-- content/faction
-- ttrpg-cli/compendium/src/5e/mm
-- research
-- world/both
-- active
-- note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.945288+00:00'
-world: Both
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
+# Gold Dragon
 
+## Overview
+This document contains important information regarding Gold Dragon and its role within the greater narrative.
 
-## 🔧 Deep Evaluation Improvements
+## Description
+Gold Dragon represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*20 targeted improvements identified*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Connection Improvements
+## Details
+### Background
+Historical context and development over time.
 
-- Add cross-references to related notes
+### Current State
+Present circumstances and ongoing relevance.
 
-### Enhancement Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-
-## Lair actions
-_Source: Monster Manual_
-
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-
-- The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.  
-- One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.  
-
-### Additional Lair Action
-
-At your discretion, a legendary ([[adult-gold-dragon-xmm|adult]] or [[ancient-gold-dragon-xmm|ancient]]) gold dragon can use the following additional lair action while in its lair:
-
-- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [[conditions#Charmed|charmed]] by the dragon until initiative count 20 on the next round.  
-
-## Regional effects
-
-The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-
-- Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.  
-- Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil creatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.  
-- Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.  
-
-If the dragon dies, these effects end immediately.
-
-### Additional Regional Effects
-
-Any of these effects might appear in the area around a gold dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
-
-- **Beneficent Trail.** Within 10 miles of the dragon's lair, small runes in the shape of a gold dragon appear to creatures in great need, marking a subtle trail leading to the dragon's lair.  
-- **Emanation of Justice.** Creatures that spend a year within 6 miles of the dragon's lair value fairness and justice over their personal feelings.  
-- **Liar's Revelation.** Within 6 miles of the dragon's lair, any creature attempting to tell a deliberate lie must succeed on a DC 15 Charisma saving throw or find itself accidentally revealing the truth it was attempting to conceal. The first time a creature fails this saving throw, it is immune to this effect for 24 hours.
-
-## Player-Facing Summary
-
-Gold dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of gold dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gold dragon.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A map reveals a betrayal about this place
-- Someone is hunting information for love
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

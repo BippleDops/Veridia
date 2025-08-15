@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 06 The Bloodline Awakens
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 06 The Bloodline Awakens
 
 ---
@@ -29,7 +38,7 @@ npcs_featured:
 - '[[The Crimson Sage]]'
 - '[[Marina-Red-Tide-Coralheart]]'
 - '[[High Inquisitor Maltheos]]'
-- '[[Jasper Three-Eyes Flint]]'
+- '[[Jasper Three Eyes Flint]]'
 obsidianUIMode: preview
 quests_advanced:
 - '[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'
@@ -43,7 +52,6 @@ world: Aethermoor
 
 > *One party member begins to crystallize, but unlike plague victims, the crystals form protective patterns.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 🎬 Strong Start
 

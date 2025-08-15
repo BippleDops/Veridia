@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,17 +34,13 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Simplified Improvements
@@ -57,12 +50,9 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Interaction Improvements
 
-- Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 - Clarify interaction with multiclassing
 
 ### Variant Improvements
@@ -76,7 +66,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-
 
 ## Rule Summary
 
@@ -115,7 +104,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -132,7 +120,6 @@ Apply this rule when:
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Quick Reference
 

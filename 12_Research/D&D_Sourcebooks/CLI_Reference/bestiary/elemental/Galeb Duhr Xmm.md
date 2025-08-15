@@ -1,3 +1,12 @@
+---
+title: Galeb Duhr Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Galeb Duhr Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-galeb-duhr-xmm-galeb-duhr-xmm.svg)
 
-# [[galeb-duhr-xmm|Galeb Duhr]]
+# [[galeb duhr xmm|Galeb Duhr]]
 *Source: Monster Manual (2024) p. 127*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Galeb Duhr
 
@@ -98,7 +101,7 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - "desc": "The galeb duhr magically animates one or two boulders it can see within\
       \ 60 feet of itself. Each boulder uses the Galeb Duhr stat block, except it\
       \ has Intelligence and Charisma scores of 1 and lacks this action. The boulder\
-      \ takes its turn immediately after the galeb duhr on the same [[initiative-xphb|Initiative]]\
+      \ takes its turn immediately after the galeb duhr on the same [[initiative xphb|Initiative]]\
       \ count, and it obeys the galeb duhr. A boulder remains animate for 1 minute\
       \ or until it or the galeb duhr dies."
     "name": "Animate Boulders (1/Day)"
@@ -128,11 +131,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

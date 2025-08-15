@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]
 
 # The Crystal Cathedral of Pure Light
 *Where Divine Will Flows Through Sacred Crystal*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,10 +60,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
@@ -88,17 +80,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 The Crystal Cathedral serves as the spiritual headquarters of the [[Crystal Wardens]], combining religious devotion with crystal purification rituals. This magnificent structure channels divine energy through purified crystals to heal corruption and maintain the sacred balance between magical power and spiritual purity.
@@ -149,8 +138,6 @@ Ongoing situations affecting The Crystal Cathedral of Pure Light:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange sightings suggest a conspiracy
@@ -168,7 +155,6 @@ Ongoing situations affecting The Crystal Cathedral of Pure Light:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

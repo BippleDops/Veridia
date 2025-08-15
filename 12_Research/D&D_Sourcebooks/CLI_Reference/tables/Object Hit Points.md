@@ -1,3 +1,12 @@
+---
+title: Object Hit Points
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Object Hit Points
 
 ---
@@ -35,7 +44,6 @@ world: Both
 | Large (cart, 10-ft.-by-10-ft. window) | 5 (`d10`) | 27 (`5d10`) |
 ^object-hit-points
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

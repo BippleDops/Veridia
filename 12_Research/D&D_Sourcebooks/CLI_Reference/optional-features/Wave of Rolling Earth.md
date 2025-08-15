@@ -1,3 +1,12 @@
+---
+title: Wave of Rolling Earth
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wave of Rolling Earth
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [[wall-of-stone-xphb|wall of stone]].
-
+You can spend 6 ki points to cast [[wall of stone xphb|wall of stone]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can spend 6 ki points to cast [[wall-of-stone-xphb|wall of stone]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help investigating before the festival
@@ -74,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

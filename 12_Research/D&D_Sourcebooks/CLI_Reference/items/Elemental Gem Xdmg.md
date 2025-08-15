@@ -1,3 +1,12 @@
+---
+title: Elemental Gem Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elemental Gem Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 
 **Items in this group:**
 
-- [[elemental-gem-blue-sapphire-xdmg|Elemental Gem, Blue Sapphire]]
-- [[elemental-gem-emerald-xdmg|Elemental Gem, Emerald]]
-- [[elemental-gem-red-corundum-xdmg|Elemental Gem, Red Corundum]]
-- [[elemental-gem-yellow-diamond-xdmg|Elemental Gem, Yellow Diamond]]
+- [[elemental gem blue sapphire xdmg|Elemental Gem, Blue Sapphire]]
+- [[elemental gem emerald xdmg|Elemental Gem, Emerald]]
+- [[elemental gem red corundum xdmg|Elemental Gem, Red Corundum]]
+- [[elemental gem yellow diamond xdmg|Elemental Gem, Yellow Diamond]]
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

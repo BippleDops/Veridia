@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pilgrim-guide-nautilus-pathfinder-pilgrim-guide-nautilus-pathfinder.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,7 +52,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -69,8 +64,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
@@ -78,8 +71,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -89,9 +80,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Player-Facing Summary
 
@@ -139,17 +127,13 @@ Ongoing situations affecting Pilgrim Guide Nautilus Pathfinder:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
 
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 
@@ -175,7 +159,6 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

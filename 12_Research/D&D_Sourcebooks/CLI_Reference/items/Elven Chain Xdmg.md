@@ -1,3 +1,12 @@
+---
+title: Elven Chain Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Chain Xdmg
 
 ---
@@ -30,7 +39,7 @@ world: Both
 *Rare*  
 ![](/03_Mechanics/CLI/items/img/elven-chain.webp#right)
 
-You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
+You gain a +1 bonus to [[armor class xphb|Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
 **Variants**:
 - [Elven Chain Mail](#Elven%20Chain%20Mail)
@@ -43,7 +52,6 @@ You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armo
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -92,7 +93,6 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

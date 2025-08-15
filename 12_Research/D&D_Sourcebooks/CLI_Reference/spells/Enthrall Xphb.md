@@ -1,3 +1,12 @@
+---
+title: Enthrall Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Enthrall Xphb
 
 ---
@@ -36,10 +45,9 @@ world: Both
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom ([[skills#Perception|Perception]]) checks and Passive [[skills#Perception|Perception]] until the spell ends.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 269. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ You weave a distracting string of words, causing creatures of your choice that y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest ancient magic
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

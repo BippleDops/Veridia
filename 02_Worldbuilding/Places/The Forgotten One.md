@@ -39,15 +39,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png]]
 
 # The Forgotten One
 
 *"In the deepest trenches where light has never touched, something waits that memory itself refuses to acknowledge."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,23 +72,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -102,7 +92,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
@@ -111,7 +100,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -274,7 +262,7 @@ Specialized gear has been developed for exploration, with limited success:
 - The site represents ruins of a pre-cataclysmic civilization
 - Their technology or magic involved memory manipulation
 - The Great Drowning may have been caused by their experiments with forgetting
-- Cross-references with [[12_Research/D&D_Statblocks/Memoriam - The Forgotten Continent]]
+- Cross-references with [[12_Research/D&D_Statblocks/Memoriam   The Forgotten Continent]]
 
 **The Conceptual Weapon Theory**
 - Created as a weapon that attacks memory and identity
@@ -506,17 +494,13 @@ Ongoing situations affecting The Forgotten One:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

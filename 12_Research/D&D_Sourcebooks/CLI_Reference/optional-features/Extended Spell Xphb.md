@@ -1,3 +1,12 @@
+---
+title: Extended Spell Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Extended Spell Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
-If the affected spell requires [[conditions#Concentration|Concentration]], you have [[advantage-xphb|Advantage]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
-
+If the affected spell requires [[conditions#Concentration|Concentration]], you have [[advantage xphb|Advantage]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ If the affected spell requires [[conditions#Concentration|Concentration]], you h
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,18 +67,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for revenge
 - Someone is searching for a artifact for money
 - Strange accidents suggest ancient magic
-- Strange accidents suggest ancient magic
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

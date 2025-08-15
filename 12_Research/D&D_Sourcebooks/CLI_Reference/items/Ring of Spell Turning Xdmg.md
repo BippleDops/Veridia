@@ -1,3 +1,12 @@
+---
+title: Ring of Spell Turning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Spell Turning Xdmg
 
 ---
@@ -29,10 +38,9 @@ world: Both
 *Ring, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-spell-turning.webp#right)
 
-While wearing this ring, you have [[advantage-xphb|Advantage]] on saving throws against spells. If you succeed on the save for a spell of level 7 or lower, the spell has no effect on you. If that spell targeted only you and didn't create an area of effect, you can take a [[reaction-xphb|Reaction]] to deflect the spell back at the spell's caster; the caster must make a saving throw against the spell using their own spell save DC.
+While wearing this ring, you have [[advantage xphb|Advantage]] on saving throws against spells. If you succeed on the save for a spell of level 7 or lower, the spell has no effect on you. If that spell targeted only you and didn't create an area of effect, you can take a [[reaction xphb|Reaction]] to deflect the spell back at the spell's caster; the caster must make a saving throw against the spell using their own spell save DC.
 
 *Source: Dungeon Master's Guide (2024) p. 295. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ While wearing this ring, you have [[advantage-xphb|Advantage]] on saving throws 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

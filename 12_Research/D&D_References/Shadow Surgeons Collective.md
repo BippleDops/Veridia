@@ -1,3 +1,12 @@
+---
+title: Shadow Surgeons Collective
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Surgeons Collective
 
 ---
@@ -35,7 +44,6 @@ obsidianUIMode: preview
 **Leadership:** The Silhouette Surgeon Prime (identity unknown)  
 **Goals:** Perfect memory manipulation, elimination of trauma and suffering
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Surgeons Collective operates in the gray areas between medicine and crime, using shadow magic to perform impossible medical procedures. What began as legitimate trauma treatment using shadow-enhanced surgery has evolved into a sophisticated organization trafficking in stolen memories, shadow-transplanted organs, and psychological warfare conducted through umbral manipulation. They believe that shadows hold the essence of suffering and that by surgically removing these "shadow wounds," they can heal both body and mind - though their methods often create more darkness than they dispel.
@@ -230,7 +233,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 **[[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater]]
 **[[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
 **[[Memory Farmers]]**: Direct competition in memory-related criminal services  
-**[[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
+**[[02 Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
 **[[Reformed Surgeons Alliance]]**: Former members exposing operations and helping victims
 **[[Citizens Protection Bureau]]**: Government agency investigating medical crimes
 
@@ -280,7 +283,6 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Nightwalker Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nightwalker Mpmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png]]
 
-# [[nightwalker-mpmm|Nightwalker]]
+# [[nightwalker mpmm|Nightwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -79,7 +87,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [[wish-xphb|wish]] spell."
+      \ be revived except by a [[wish xphb|wish]] spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -108,7 +116,6 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -120,11 +127,6 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -145,7 +147,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

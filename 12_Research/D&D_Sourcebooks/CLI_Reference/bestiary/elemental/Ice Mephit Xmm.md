@@ -1,3 +1,12 @@
+---
+title: Ice Mephit Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ice Mephit Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-mephit-xmm-ice-mephit-xmm.svg)
 
-# [[ice-mephit-xmm|Ice Mephit]]
+# [[ice mephit xmm|Ice Mephit]]
 *Source: Monster Manual (2024) p. 206. Available in the SRD and the Free Rules (2024)*  
 
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Ice mephits have bodies made of frigid air and frozen water. They delight in fre
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mephits
 
@@ -101,7 +104,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -109,10 +112,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Claw"
-  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 7 (3d4) Cold damage. Success: Half damage."
     "name": "Frost Breath (Recharge 6)"
-  - "desc": "The mephit casts [[fog-cloud-xphb|Fog Cloud]],\
+  - "desc": "The mephit casts [[fog cloud xphb|Fog Cloud]],\
       \ requiring no spell components and using Charisma as the spellcasting ability.\n"
     "name": "Fog Cloud (1/Day)"
 "source":
@@ -141,11 +144,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a portal
-- A shipment has gone missing and chaos spreads
 - A shipment has gone missing and chaos spreads
 
 ## Related Notes
@@ -154,7 +155,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,8 +39,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Add session zero integration questions
-- Add session zero integration questions
-- Add session zero integration questions
 
 ### Level_Range Improvements
 
@@ -51,8 +46,6 @@ improvements: 20
 
 ### Art Improvements
 
-- Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 - Add AI art prompts for key scenes
 
 ### Soundtrack Improvements
@@ -62,22 +55,18 @@ improvements: 20
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Spotlight Improvements
 
-- Include spotlight moment for each character class
 - Include spotlight moment for each character class
 
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-
 
 ## Adventure Overview
 

@@ -23,14 +23,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-cassandra-stormwind-admiral-cassandra-stormwind.png)
 
 # Admiral Cassandra Stormwind
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,16 +56,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
@@ -82,9 +76,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
@@ -93,8 +84,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors.
@@ -346,11 +335,9 @@ Admiral Cassandra Stormwind is a undersea element of the setting, known for biol
 
 Legends speak of Admiral Cassandra Stormwind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Admiral Cassandra Stormwind.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Historical Timeline
 
@@ -368,7 +355,6 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

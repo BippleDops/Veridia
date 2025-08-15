@@ -1,3 +1,12 @@
+---
+title: Efreeti Chain Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Efreeti Chain Xdmg
 
 ---
@@ -31,7 +40,7 @@ world: Both
 *Legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/efreeti-chain.webp#right)
 
-While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]], you have [[immunity-xphb|Immunity]] to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
+While wearing this armor, you gain a +3 bonus to [[armor class xphb|Armor Class]], you have [[immunity xphb|Immunity]] to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
 **Variants**:
 - [Efreeti Chain Mail](#Efreeti%20Chain%20Mail)
@@ -44,7 +53,6 @@ While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for money
@@ -93,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

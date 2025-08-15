@@ -1,3 +1,12 @@
+---
+title: Devils Sight Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Devils Sight Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can see normally in [[dim-light-xphb|Dim Light]] and [[darkness-xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
-
+You can see normally in [[dim light xphb|Dim Light]] and [[darkness xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can see normally in [[dim-light-xphb|Dim Light]] and [[darkness-xphb|Darknes
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -82,16 +83,13 @@ Mentioned in The First Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

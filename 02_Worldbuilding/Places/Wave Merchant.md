@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wave-merchant-v1-wave-merchant.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,21 +53,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
@@ -81,12 +69,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -134,8 +120,6 @@ Ongoing situations affecting Wave Merchant:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A merchant needs help stealing before winter
@@ -157,7 +141,6 @@ Ongoing situations affecting Wave Merchant:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

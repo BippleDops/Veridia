@@ -1,3 +1,12 @@
+---
+title: Gravenhollow Compass Ring Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gravenhollow Compass Ring Oota
 
 ---
@@ -29,10 +38,9 @@ world: Both
 
 # Gravenhollow Compass Ring
 
-This gold ring is fitted with a star ruby worth 1,000 gp. A [[detect-magic-xphb|detect magic]] spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow.
+This gold ring is fitted with a star ruby worth 1,000 gp. A [[detect magic xphb|detect magic]] spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow.
 
 *Source: Out of the Abyss p. 141*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ This gold ring is fitted with a star ruby worth 1,000 gp. A [[detect-magic-xphb|
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

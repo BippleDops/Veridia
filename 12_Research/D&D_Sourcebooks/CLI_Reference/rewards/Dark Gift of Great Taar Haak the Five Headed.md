@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Great Taar Haak the Five Headed
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Great Taar Haak the Five Headed
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Great Taar Haak, the Five-Headed Destroyer
 *Charm*  
 
-Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[belt-of-fire-giant-strength-xdmg|belt of fire giant strength]]. This benefit lasts for 10 days, after which the dark gift vanishes.
+Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[belt of fire giant strength xdmg|belt of fire giant strength]]. This benefit lasts for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift the following flaw: "I like to bully others and make them feel weak and inferior."
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary of this dark gift the following flaw: "I like to bully others an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

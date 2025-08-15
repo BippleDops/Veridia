@@ -1,3 +1,12 @@
+---
+title: Half Elf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Half Elf
 
 ---
@@ -55,7 +64,6 @@ You gain proficiency in two skills of your choice.
 
 You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ You can speak, read, and write Common, Elvish, and one extra language of your ch
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -111,7 +114,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

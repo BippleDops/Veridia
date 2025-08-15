@@ -1,3 +1,12 @@
+---
+title: Minotaur Skeleton Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Minotaur Skeleton Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-skeleton-xmm-minotaur-skeleton-xmm.svg)
 
-# [[minotaur-skeleton-xmm|Minotaur Skeleton]]
+# [[minotaur skeleton xmm|Minotaur Skeleton]]
 *Source: Monster Manual (2024) p. 283. Available in the SRD and the Free Rules (2024)*  
 
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Skeletons
 
@@ -140,11 +143,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

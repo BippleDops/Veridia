@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Syndicate Enforcers
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Syndicate_Enforcers.png|Syndicate Enforcers Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,27 +67,21 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -110,7 +99,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -165,22 +153,17 @@ Ongoing situations affecting Syndicate Enforcers:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
 
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Poltergeist Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Poltergeist Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-poltergeist-xmm-poltergeist-xmm.svg)
 
-# [[poltergeist-xmm|Poltergeist]]
+# [[poltergeist xmm|Poltergeist]]
 *Source: Monster Manual (2024) p. 246*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Poltergeist
 
@@ -108,7 +111,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "cr": "2"
 "traits":
   - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were [[difficult-terrain-xphb|Difficult Terrain]].\
+      \ were [[difficult terrain xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -151,11 +154,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -165,7 +166,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Nycaloth Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nycaloth Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nycaloth-xmm-nycaloth-xmm.svg)
 
-# [[nycaloth-xmm|Nycaloth]]
+# [[nycaloth xmm|Nycaloth]]
 *Source: Monster Manual (2024) p. 229*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Nycaloth
 
@@ -108,10 +111,10 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 "cr": "9"
 "traits":
   - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The nycaloth has [[advantage-xphb|Advantage]]\
+  - "desc": "The nycaloth has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -152,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Squat Nimbleness Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Squat Nimbleness Xge
 
 ---
@@ -26,7 +35,7 @@ world: Both
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[dwarf-xphb|Dwarf]] or a Small race
+**Prerequisite**: [[dwarf xphb|Dwarf]] or a Small race
 
 You are uncommonly nimble for your race. You gain the following benefits:
 
@@ -34,7 +43,6 @@ You are uncommonly nimble for your race. You gain the following benefits:
 - Increase your walking speed by 5 feet.  
 - You gain proficiency in the [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] skill (your choice).  
 - You have advantage on any Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check you make to escape from being [[conditions#Grappled|grappled]].
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You are uncommonly nimble for your race. You gain the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

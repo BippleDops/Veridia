@@ -1,3 +1,12 @@
+---
+title: Convergence Crisis Scenarios Index
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Convergence Crisis Scenarios Index
 
 ---
@@ -25,7 +34,6 @@ world: Universal
 
 10 tournament-legal one-shots, 4–6 hours each, at varying Convergence levels.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ world: Universal
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Scenarios by Convergence Level
 - 5%: Whispering Smugglers
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

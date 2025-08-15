@@ -32,12 +32,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Unite or Divide
-
-![[04_Resources/Assets/Art/Lore/Unite_or_Divide.png|Unite or Divide Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,15 +65,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -104,7 +93,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Summary
 

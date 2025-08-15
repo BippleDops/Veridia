@@ -1,3 +1,12 @@
+---
+title: political_intrigue_mechanics
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # political_intrigue_mechanics
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Systematic Framework for Complex Political Maneuvering
 
@@ -212,7 +215,6 @@ Effective political intrigue shows:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -220,11 +222,9 @@ Effective political intrigue shows:
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

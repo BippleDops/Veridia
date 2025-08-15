@@ -1,3 +1,12 @@
+---
+title: The Nightmare Surgeons
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Nightmare Surgeons
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"They cut away pain by removing the ability to feel anything at all."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Nightmare Surgeons are a rogue medical organization that uses extreme and often horrific surgical procedures to "cure" patients of various ailments. Their methods involve removing not just diseased tissue but memories, emotions, and personality traits they consider pathological. They justify their brutal techniques as necessary for true healing, creating a following among the desperate.
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a witness for love
@@ -83,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

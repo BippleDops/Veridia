@@ -33,15 +33,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg]]
 
 # Port Meridian Harbor
 
 *"Where the deep currents meet the surface world, fortunes are made and secrets are traded in equal measure."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,18 +66,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -103,16 +94,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
 
-
 ## Overview
 
-Port Meridian Harbor serves as [[Aquabyssos]]'s primary connection to the surface world and other underwater realms, functioning as both a massive commercial hub and a critical strategic chokepoint. The harbor works closely with [[Port Meridian - Market Square]] on the surface and coordinates with [[The Royal Palace]] for diplomatic trade relations. Built into a natural underwater valley where multiple deep-sea currents converge, the harbor takes advantage of these natural forces to create one of the most efficient maritime facilities in any realm.
+Port Meridian Harbor serves as [[Aquabyssos]]'s primary connection to the surface world and other underwater realms, functioning as both a massive commercial hub and a critical strategic chokepoint. The harbor works closely with [[Port Meridian   Market Square]] on the surface and coordinates with [[The Royal Palace]] for diplomatic trade relations. Built into a natural underwater valley where multiple deep-sea currents converge, the harbor takes advantage of these natural forces to create one of the most efficient maritime facilities in any realm.
 
 The harbor operates on multiple levels, with surface vessels anchoring above while specialized underwater craft navigate the deeper channels. Massive crystal formations provide illumination and magical infrastructure, while pressure-controlled docking bays allow for seamless transitions between different aquatic environments.
 
@@ -130,7 +119,7 @@ The topmost level where surface traders conduct business through specialized pre
 
 ### Main Commercial Docks
 
-The largest docking facilities handling the majority of trade vessels. Contains warehouses, loading facilities, and the harbor master's headquarters, coordinating with [[Port Meridian - Market Square]] for goods distribution.
+The largest docking facilities handling the majority of trade vessels. Contains warehouses, loading facilities, and the harbor master's headquarters, coordinating with [[Port Meridian   Market Square]] for goods distribution.
 
 ### Deep Current Terminal
 
@@ -174,11 +163,11 @@ The harbor has survived several major crises, including attacks by deep-sea mons
 2. Strange creatures from the deep currents begin attacking vessels, possibly connected to [[12_Research/D&D_Statblocks/The Void Touched Depths]] or other supernatural threats.
 3. The party needs to intercept a secret meeting between faction representatives that's supposedly taking place in the harbor's neutral territory, with implications for [[Parliament of Echoes]] politics.
 4. Diplomatic tensions arise when a surface vessel from [[Aethermoor]] is denied docking rights, requiring delicate negotiation.
-5. Evidence emerges of smuggling operations moving contraband between the harbor and [[Port Meridian - Market Square]].
+5. Evidence emerges of smuggling operations moving contraband between the harbor and [[Port Meridian   Market Square]].
 
 ## Connections
 
-Port Meridian connects directly to [[Aquabyssos]]'s main transportation network via the pressure tube system, linking to [[Parliament of Echoes]], [[Coral Courts]], and [[The Shadow Markets]]. It also serves as the terminus for several major deep-sea current routes, including connections to other underwater cities, [[Aethermoor]] surface ports via [[Port Meridian - Market Square]], and exotic realms in the deepest oceans. The harbor's communication network links it to diplomatic outposts and trading partners across multiple planes of existence.
+Port Meridian connects directly to [[Aquabyssos]]'s main transportation network via the pressure tube system, linking to [[Parliament of Echoes]], [[Coral Courts]], and [[The Shadow Markets]]. It also serves as the terminus for several major deep-sea current routes, including connections to other underwater cities, [[Aethermoor]] surface ports via [[Port Meridian   Market Square]], and exotic realms in the deepest oceans. The harbor's communication network links it to diplomatic outposts and trading partners across multiple planes of existence.
 
 ## Player-Facing Summary
 
@@ -215,8 +204,6 @@ Port Meridian Harbor is a notable location characterized by its unique features 
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
-
-
 
 ## Plot Hooks
 

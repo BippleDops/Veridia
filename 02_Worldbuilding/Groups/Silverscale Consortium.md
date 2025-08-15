@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]
 
 # The Silverscale Consortium
 *Masters of the Crystal Market, The Invisible Crown, Merchants of Tomorrow*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,17 +71,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -103,13 +95,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 The Silverscale Consortium is the most powerful economic entity in [[Aethermoor]], controlling the majority of crystal trade, banking, and increasingly, political power through debt manipulation. Founded 200 years ago by dragon-blooded merchants, the Consortium has evolved from a trading guild into a shadow government that rivals [[The Crown]]'s authority. Their motto, "Silver flows where crowns fall," reflects their belief that economic power supersedes political authority.
@@ -260,7 +249,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Economic Structure
 
 ### Currency
@@ -278,7 +266,6 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

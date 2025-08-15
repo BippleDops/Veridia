@@ -19,9 +19,6 @@ updated: '2025-08-13T12:34:03.170416+00:00'
 world: Universal
 ---
 
-
-
-
 # Item Catalog Complete
 
 ## Items Overview
@@ -59,7 +56,6 @@ SORT file.name ASC
 - See also: [[Campaign Guide]]
 - Related: [[Recent Events]]
 - Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

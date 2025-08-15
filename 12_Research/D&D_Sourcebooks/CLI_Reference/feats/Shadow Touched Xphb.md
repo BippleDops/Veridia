@@ -1,3 +1,12 @@
+---
+title: Shadow Touched Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Touched Xphb
 
 ---
@@ -32,8 +41,7 @@ Your exposure to the Shadowfell's magic grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Shadow Magic.** Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the [[invisibility-xphb|Invisibility]] spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
-
+**Shadow Magic.** Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the [[invisibility xphb|Invisibility]] spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Your exposure to the Shadowfell's magic grants you the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,31 +71,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

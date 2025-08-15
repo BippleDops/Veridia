@@ -1,3 +1,12 @@
+---
+title: Doppelganger Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Doppelganger Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-doppelganger-xmm-doppelganger-xmm.svg)
 
-# [[doppelganger-xmm|Doppelganger]]
+# [[doppelganger xmm|Doppelganger]]
 *Source: Monster Manual (2024) p. 100. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Doppelganger
 
@@ -110,17 +113,17 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
       \ available."
     "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +6 (with [[advantage-xphb|Advantage]]\
+  - "desc": "Melee Attack Roll: +6 (with [[advantage xphb|Advantage]]\
       \ during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
       \ damage."
     "name": "Slam"
-  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the doppelganger that can see the doppelganger. Failure:\
       \ The target has the [[conditions#frightened|Frightened]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Unsettling Visage (Recharge 6)"
-  - "desc": "The doppelganger casts [[detect-thoughts-xphb|Detect Thoughts]],\
+  - "desc": "The doppelganger casts [[detect thoughts xphb|Detect Thoughts]],\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 12).\n"
     "name": "Read Thoughts"
@@ -155,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -174,7 +175,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

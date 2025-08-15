@@ -31,14 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg]]
 
 # The Crimson Shard Guardian
 *Bound Elemental, Herald of the Blood Plague*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,13 +63,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -87,12 +79,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -102,7 +91,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Once a pure water elemental summoned to cleanse the harbor, this entity has been corrupted by proximity to the [[The Seven Shards]] for over a century. Now a twisted guardian of blood and disease, it dwells in the sunken merchant vessel *Fortune's Folly* at the bottom of [[Port Meridian]] harbor, spreading crystal plague through the water.
@@ -524,11 +512,9 @@ The Crimson Shard Guardian is a undersea element of the setting, known for biolu
 
 Legends speak of The Crimson Shard Guardian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Shard Guardian.
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Religious Observances
 

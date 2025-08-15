@@ -1,3 +1,12 @@
+---
+title: Food Drink and Lodging Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Food Drink and Lodging Phb
 
 ---
@@ -30,11 +39,11 @@ world: Both
 | Item | Cost |
 |------|------|
 | *Ale* |  |
-| &emsp;[[ale-gallon|Gallon]] | 2 sp |
-| &emsp;[[ale-mug-xphb|Mug]] | 4 cp |
+| &emsp;[[ale gallon|Gallon]] | 2 sp |
+| &emsp;[[ale mug xphb|Mug]] | 4 cp |
 | Banquet (per person) | 10 gp |
-| [[bread-loaf-xphb|Bread, loaf]] | 2 cp |
-| [[cheese-wedge-xphb|Cheese, hunk]] | 1 sp |
+| [[bread loaf xphb|Bread, loaf]] | 2 cp |
+| [[cheese wedge xphb|Cheese, hunk]] | 1 sp |
 | *Inn stay (per day)* |  |
 | &emsp;Squalid | 7 cp |
 | &emsp;Poor | 1 sp |
@@ -49,12 +58,11 @@ world: Both
 | &emsp;Comfortable | 5 sp |
 | &emsp;Wealthy | 8 sp |
 | &emsp;Aristocratic | 2 gp |
-| [[chunk-of-meat|Meat, chunk]] | 3 sp |
+| [[chunk of meat|Meat, chunk]] | 3 sp |
 | *Wine* |  |
-| &emsp;[[common-wine-bottle-xphb|Common (pitcher)]] | 2 sp |
-| &emsp;[[fine-wine-bottle-xphb|Fine (bottle)]] | 10 gp |
+| &emsp;[[common wine bottle xphb|Common (pitcher)]] | 2 sp |
+| &emsp;[[fine wine bottle xphb|Fine (bottle)]] | 10 gp |
 ^food-drink-and-lodging
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,11 +75,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -89,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

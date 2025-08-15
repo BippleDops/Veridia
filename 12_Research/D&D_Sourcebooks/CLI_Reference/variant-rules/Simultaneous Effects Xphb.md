@@ -1,3 +1,12 @@
+---
+title: Simultaneous Effects Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Simultaneous Effects Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Simultaneous Effects
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-If two or more things happen at the same time on a turn, the person at the game table—player or DM whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a [[player-character-xphb|player character's]] turn, the player decides which of the effects happens first.
-
+If two or more things happen at the same time on a turn, the person at the game table—player or DM whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a [[player character xphb|player character's]] turn, the player decides which of the effects happens first.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ If two or more things happen at the same time on a turn, the person at the game 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before the new moon
@@ -75,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

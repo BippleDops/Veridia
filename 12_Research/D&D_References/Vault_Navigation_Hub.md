@@ -1,3 +1,12 @@
+---
+title: Vault_Navigation_Hub
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vault_Navigation_Hub
 
 ---
@@ -45,7 +54,6 @@ chronology: active
 
 **Vault Version**: 2.0 | **Last Updated**: 2025-08-11 | **Campaign Ready**: ✅
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ chronology: active
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -74,7 +77,6 @@ chronology: active
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

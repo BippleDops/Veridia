@@ -22,11 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-kelp-silk-kelp-silk.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,12 +51,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
@@ -78,19 +71,14 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -141,8 +129,6 @@ Ongoing situations affecting Kelp-Silk:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -166,7 +152,6 @@ Ongoing situations affecting Kelp-Silk:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

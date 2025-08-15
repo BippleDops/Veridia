@@ -1,3 +1,12 @@
+---
+title: Lacedon Ghoul Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lacedon Ghoul Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lacedon-ghoul-xmm-lacedon-ghoul-xmm.svg)
 
-# [[lacedon-ghoul-xmm|Lacedon Ghoul]]
+# [[lacedon ghoul xmm|Lacedon Ghoul]]
 *Source: Monster Manual (2024) p. 132*  
 
 Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of greedy pirates, those who starved on deserted islands, or scoundrels who met their end by drowning.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ghouls
 
@@ -96,7 +99,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - "desc": "The ghoul makes two Icy Bite attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Cold damage,\
-      \ and the target's [[speed-xphb|Speed]] decreases\
+      \ and the target's [[speed xphb|Speed]] decreases\
       \ by 5 feet until the start of the ghoul's next turn."
     "name": "Icy Bite"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
@@ -106,7 +109,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
       \ the end of its next turn."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "While underwater, the ghoul moves up to half its [[swim-speed-xphb|Swim Speed]]\
+  - "desc": "While underwater, the ghoul moves up to half its [[swim speed xphb|Swim Speed]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Watery Rush"
 "source":
@@ -135,11 +138,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## 12_Research Specific Content
 

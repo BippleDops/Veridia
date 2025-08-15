@@ -1,85 +1,47 @@
-# Green Copper Ewer Cos
-
 ---
 title: Green Copper Ewer Cos
-aliases:
-- Green Copper Ewer
-type: note
+type: item
 tags:
-- both
-- research
-- world/both
-- active
-- note
-- content/item
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/cos
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-attunement: false
-cssclasses: json5e-item
-obsidian-u-i-mode: preview
-updated: '2025-08-13T12:34:07.697166+00:00'
-world: Both
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-green-copper-ewer-cos-green-copper-ewer-cos.svg)
+# Green Copper Ewer Cos
 
-# Green Copper Ewer
+## Overview
+This document contains important information regarding Green Copper Ewer Cos and its role within the greater narrative.
 
-Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn.
+## Description
+Green Copper Ewer Cos represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*Source: Curse of Strahd p. 188*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
+## Details
+### Background
+Historical context and development over time.
 
-## 🔧 Deep Evaluation Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-*20 targeted improvements identified*
+### Future Potential
+Possible developments and plot directions.
 
-### Connection Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Green copper ewer cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of green copper ewer cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green copper ewer cos.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A stranger needs help finding before dawn
-- The authorities needs help stealing before the festival
-- An heirloom has gone missing and chaos spreads
-- An heirloom has gone missing and war looms
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

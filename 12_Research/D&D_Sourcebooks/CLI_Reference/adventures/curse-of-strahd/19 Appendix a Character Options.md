@@ -1,3 +1,12 @@
+---
+title: 19 Appendix a Character Options
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 19 Appendix a Character Options
 
 ---
@@ -25,7 +34,6 @@ world: Both
 # Appendix A: Character Options
 *Source: Curse of Strahd, p. 209* 
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Character Background
 
@@ -49,7 +52,7 @@ During character creation, players can select the following background for their
 
 ## Gothic Trinkets
 
-When rolling for a trinket, consider using the [[trinket-cos|Gothic Trinkets table]], which is designed for a gothic game.
+When rolling for a trinket, consider using the [[trinket cos|Gothic Trinkets table]], which is designed for a gothic game.
 
 ## Player-Facing Summary
 
@@ -67,14 +70,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

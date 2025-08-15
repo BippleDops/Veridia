@@ -1,3 +1,12 @@
+---
+title: Soldier Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Soldier Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/soldier.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
-- **Feat.** [[savage-attacker-xphb|Savage Attacker]]  
+- **Feat.** [[savage attacker xphb|Savage Attacker]]  
 - **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Intimidation|Intimidation]]  
-- **Tool Proficiency.** Choose one kind of [[gaming-set-xphb|Gaming Set]]  
-- **Equipment.** Choose A or B: (A) [[spear-xphb|Spear]], [[shortbow-xphb|Shortbow]], [[arrow-xphb|20 Arrows]], [[gaming-set-xphb|Gaming Set]] (same as above), [[healers-kit-xphb|Healer's Kit]], [[quiver-xphb|Quiver]], [[travelers-clothes-xphb|Traveler's Clothes]], 14 GP; or (B) 50 GP  
+- **Tool Proficiency.** Choose one kind of [[gaming set xphb|Gaming Set]]  
+- **Equipment.** Choose A or B: (A) [[spear xphb|Spear]], [[shortbow xphb|Shortbow]], [[arrow xphb|20 Arrows]], [[gaming set xphb|Gaming Set]] (same as above), [[healers kit xphb|Healer's Kit]], [[quiver xphb|Quiver]], [[travelers clothes xphb|Traveler's Clothes]], 14 GP; or (B) 50 GP  
 
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You began training for war as soon as you reached adulthood and carry precious f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -82,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

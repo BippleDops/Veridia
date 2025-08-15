@@ -1,3 +1,12 @@
+---
+title: Where To Get Mechanics
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Where To Get Mechanics
 
 ---
@@ -42,7 +51,6 @@ https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Community+Supported+
 We do what we can to support other systems. Check this link to see if there is community content available. 
 https://github.com/orgs/Obsidian-TTRPG-Community/repositories
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ https://github.com/orgs/Obsidian-TTRPG-Community/repositories
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]
 
 # Purist Coalition
 *Return to the Time Before Corruption*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,9 +55,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -70,17 +63,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -90,8 +79,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 The Purist Coalition opposes all use of Aether Crystals, viewing them as divine punishment for mortal hubris. They seek to destroy all crystals and return [[Aethermoor]] to its pre-Shattering state. What began as peaceful protest has evolved into an organized resistance with extremist cells conducting terrorist attacks.
@@ -150,11 +137,11 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 #### The Purifier Corps
 Trained soldiers dedicated to anti-crystal warfare:
-- **[[02_Worldbuilding/Military/Corruption Hunters|02 Worldbuilding/Military/Corruption Hunters]]**: Specialists tracking and eliminating crystal entities
-- **[[02_Worldbuilding/Military/Siege Engineers|02 Worldbuilding/Military/Siege Engineers]]**: Experts at attacking crystal-fortified positions
-- **[[02_Worldbuilding/Military/Guerrilla Fighters|02 Worldbuilding/Military/Guerrilla Fighters]]**: Mobile forces conducting hit-and-run operations
-- **[[02_Worldbuilding/Military/Sabotage Specialists|02 Worldbuilding/Military/Sabotage Specialists]]**: Technical experts in disabling crystal technology
-- **[[02_Worldbuilding/Military/Combat Healers|02 Worldbuilding/Military/Combat Healers]]**: Medics using natural magic and traditional medicine
+- **[[02 Worldbuilding/Military/Corruption Hunters|02 Worldbuilding/Military/Corruption Hunters]]**: Specialists tracking and eliminating crystal entities
+- **[[02 Worldbuilding/Military/Siege Engineers|02 Worldbuilding/Military/Siege Engineers]]**: Experts at attacking crystal-fortified positions
+- **[[02 Worldbuilding/Military/Guerrilla Fighters|02 Worldbuilding/Military/Guerrilla Fighters]]**: Mobile forces conducting hit-and-run operations
+- **[[02 Worldbuilding/Military/Sabotage Specialists|02 Worldbuilding/Military/Sabotage Specialists]]**: Technical experts in disabling crystal technology
+- **[[02 Worldbuilding/Military/Combat Healers|02 Worldbuilding/Military/Combat Healers]]**: Medics using natural magic and traditional medicine
 
 #### **High Inquisitor Maltheos** - Supreme Leader
 *True Neutral becoming Lawful Evil*
@@ -216,7 +203,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## A Day in the Life
 

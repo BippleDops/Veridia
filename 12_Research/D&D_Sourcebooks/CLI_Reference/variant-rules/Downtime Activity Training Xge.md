@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Training Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Training Xge
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Given enough free time and the services of an instructor, a character can learn a language or pick up proficiency with a tool.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Given enough free time and the services of an instructor, a character can learn 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Resources
 
@@ -52,8 +55,6 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 ## Complications
 
 Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10 percent chance of a complication, examples of which are on the Training Complications table.
-
-![[training-complications-xge|Training Complications]]
 
 ## Player-Facing Summary
 
@@ -70,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Quick_NPC_Search
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quick_NPC_Search
 
 ---

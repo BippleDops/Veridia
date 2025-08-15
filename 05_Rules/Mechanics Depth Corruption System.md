@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,12 +34,9 @@ improvements: 20
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 
 ### Session_Zero Improvements
 
-- Include session zero discussion points
-- Include session zero discussion points
 - Include session zero discussion points
 
 ### Variant Improvements
@@ -52,22 +46,14 @@ improvements: 20
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Automated Improvements
 
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 - Add macro/code for VTT implementation
 
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-
 
 ## Mechanic Overview
 
@@ -240,11 +226,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

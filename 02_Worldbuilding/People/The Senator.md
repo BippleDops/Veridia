@@ -23,8 +23,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 mysterious
 - npc
 - parliamentary
@@ -49,11 +47,9 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-senator-the-senator.svg]]
 
 # The Senator
 *The People's Voice, The Progressive Champion, The Unwitting Pawn*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,10 +78,6 @@ obsidianUIMode: preview
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
@@ -98,12 +90,9 @@ obsidianUIMode: preview
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
@@ -117,7 +106,6 @@ obsidianUIMode: preview
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parliamentary leaders, known for her passionate advocacy for citizen rights, progressive social policies, and unwavering moral stance against corruption. What neither she nor her constituents realize is that she has been partially shadow-replaced over the past two years, with key aspects of her personality and decision-making subtly altered to serve shadow interests. She genuinely believes she's fighting for justice while unknowingly advancing the shadow agenda through seemingly beneficial legislation.
@@ -532,11 +520,9 @@ Legends speak of The Senator as a nexus where past and present converge. Locals 
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns acceptance
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Relationships
 
@@ -545,7 +531,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - **Mentor**: [[portrait-npc-captain-rescue-captain-rescue.svg]]
 - **Sibling**: [[Siren]]
 - **Student**: [[Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
-
 
 ## Historical Timeline
 
@@ -564,7 +549,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -576,7 +560,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

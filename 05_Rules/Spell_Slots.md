@@ -14,9 +14,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,28 +37,21 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Abuse_Prevention Improvements
 
-- Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 - Add guidelines to prevent exploitation
 
 ### Session_Zero Improvements
@@ -75,8 +65,6 @@ improvements: 20
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
-
 
 ## Rule Summary
 
@@ -114,7 +102,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

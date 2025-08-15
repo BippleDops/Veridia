@@ -1,3 +1,12 @@
+---
+title: Troll Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Troll Xmm
 
 ---
@@ -34,11 +43,9 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-troll-xmm-troll-xmm.png]]
 
-# [[troll-xmm|Troll]]
+# [[troll xmm|Troll]]
 *Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Troll
 
@@ -91,7 +93,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "If the troll ends any turn [[bloodied-xphb|Bloodied]]\
+  - "desc": "If the troll ends any turn [[bloodied xphb|Bloodied]]\
       \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\
       \ severed, falls into the troll's space, and becomes a [[troll-limb-xmm|Troll Limb]].\
       \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion]]\
@@ -110,7 +112,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "The troll moves up to half its [[speed-xphb|Speed]]\
+  - "desc": "The troll moves up to half its [[speed xphb|Speed]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":
@@ -138,7 +140,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

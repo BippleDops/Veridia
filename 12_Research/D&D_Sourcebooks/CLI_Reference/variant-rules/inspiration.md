@@ -1,3 +1,12 @@
+---
+title: inspiration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # inspiration
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 Awarding inspiration is an effective way to encourage roleplaying and risk-taking. As explained in the "Player's Handbook", having inspiration gives a character an obvious benefit: being able to gain advantage on one ability check, attack roll, or saving throw. Remember that a character can have no more than one inspiration at a time.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ Awarding inspiration is an effective way to encourage roleplaying and risk-takin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Awarding Inspiration
 
@@ -127,7 +130,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for love
@@ -141,7 +143,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

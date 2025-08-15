@@ -36,12 +36,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Sunken Crown Cipher
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Sunken_Crown_Cipher.png|The Sunken Crown Cipher Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,8 +65,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
@@ -84,17 +77,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -108,7 +97,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Sunken Crown Cipher is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -162,12 +150,9 @@ Ongoing situations affecting The Sunken Crown Cipher:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -185,7 +170,6 @@ Ongoing situations affecting The Sunken Crown Cipher:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

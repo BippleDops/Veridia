@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,35 +48,26 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -190,7 +178,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[The Harmony Collective]] (colleague)
-- [[Quest - The Corruption Cure]] (ally)
+- [[Quest   The Corruption Cure]] (ally)
 - [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -198,7 +186,6 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Economic Structure
 

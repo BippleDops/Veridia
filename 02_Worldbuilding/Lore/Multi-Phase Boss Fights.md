@@ -33,15 +33,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Multi-Phase Boss Fights
 
 *Epic Encounters Across the Merged Realms*
 
 > *"A true master of combat adapts to every situation. When you think you've won, that's when the real fight begins. I've seen creatures transform three times in a single battle, each form more dangerous than the last. Never assume victory until the threat breathes no more."*
 > — [[Combat Master Surge Battlewright]], Veteran of the Convergence Wars
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,18 +67,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
@@ -91,11 +83,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
@@ -105,7 +95,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -872,8 +861,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

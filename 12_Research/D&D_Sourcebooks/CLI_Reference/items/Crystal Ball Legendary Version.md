@@ -1,3 +1,12 @@
+---
+title: Crystal Ball Legendary Version
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Ball Legendary Version
 
 ---
@@ -35,12 +44,11 @@ world: Both
 
 **Items in this group:**
 
-- [[crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]]
-- [[crystal-ball-of-telepathy-xdmg|Crystal Ball of Telepathy]]
-- [[crystal-ball-of-true-seeing-xdmg|Crystal Ball of True Seeing]]
+- [[crystal ball of mind reading xdmg|Crystal Ball of Mind Reading]]
+- [[crystal ball of telepathy xdmg|Crystal Ball of Telepathy]]
+- [[crystal ball of true seeing xdmg|Crystal Ball of True Seeing]]
 
 *Source: Dungeon Master's Guide p. 159*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,15 +78,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Plot Hooks
 
-- Strange sightings suggest ancient magic
 - Strange sightings suggest ancient magic
 - A letter reveals the truth about the government
 - Someone is blackmailing a witness for power
@@ -92,11 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

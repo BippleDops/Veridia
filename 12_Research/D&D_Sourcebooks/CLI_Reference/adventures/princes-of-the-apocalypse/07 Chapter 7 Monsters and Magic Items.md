@@ -1,3 +1,12 @@
+---
+title: 07 Chapter 7 Monsters and Magic Items
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 07 Chapter 7 Monsters and Magic Items
 
 ---
@@ -31,7 +40,6 @@ This chapter presents new monsters, villains, and magic items. The monster secti
 
 After the monster and villain descriptions are magic items the characters find during the adventure. Some of these are much like the magic items described in the *Dungeon Master's Guide*. Others are elemental items, made using the power of the elemental nodes. Cultists of Elemental Evil make extensive use of these quasi-magical devices. The item descriptions conclude with descriptions of the four elemental weapons carried by the prophets of Elemental Evil. These weapons are unique magic items offering great power to those who wield them.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ After the monster and villain descriptions are magic items the characters find d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Monsters
 
@@ -57,46 +60,46 @@ Power-hungry humanoids see Elemental Evil as a principle deserving of worship an
 
 | Monster | Challenge |
 |---------|-----------|
-| [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiate]] | 1/8 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reaver]] | 1/2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monk]] | 1/2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] | 1 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guard]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardian]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|Fathomer]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|Hurricane]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/npc/oreioth-pota|Oreioth]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota|Wiggan Nettlebee]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|One-eyed shiver]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|Skyweaver]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|Burrowshark]] | 4 |
-| [[/03_Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota|Grumink the Renegade]] | 4 |
-| [[/03_Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota|Shoalar Quanderil]] | 4 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|Stonemelder]] | 4 |
-| [[/03_Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota|Elizar Dryflagon]] | 5 |
-| [[/03_Mechanics/CLI/bestiary/npc/hellenrae-pota|Hellenrae]] | 5 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/razerblast-pota|Razerblast]] | 5 |
-| [[/03_Mechanics/CLI/bestiary/humanoid/flamewrath-pota|Flamewrath]] | 6 |
-| [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] | 6 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiate]] | 1/8 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reaver]] | 1/2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monk]] | 1/2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] | 1 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guard]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardian]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/fathomer pota|Fathomer]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/hurricane pota|Hurricane]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/npc/oreioth pota|Oreioth]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota|Wiggan Nettlebee]] | 2 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|One-eyed shiver]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/skyweaver pota|Skyweaver]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/npc/windharrow pota|Windharrow]] | 3 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/burrowshark pota|Burrowshark]] | 4 |
+| [[/03 Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota|Grumink the Renegade]] | 4 |
+| [[/03 Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota|Shoalar Quanderil]] | 4 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/stonemelder pota|Stonemelder]] | 4 |
+| [[/03 Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota|Elizar Dryflagon]] | 5 |
+| [[/03 Mechanics/CLI/bestiary/npc/hellenrae pota|Hellenrae]] | 5 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/razerblast pota|Razerblast]] | 5 |
+| [[/03 Mechanics/CLI/bestiary/humanoid/flamewrath pota|Flamewrath]] | 6 |
+| [[/03 Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] | 6 |
 | [[aerisi-kalinoth-pota|Aerisi Kalinoth]] | 7 (9 with lair actions) |
-| [[/03_Mechanics/CLI/bestiary/npc/drannin-splithelm-pota|Drannin Splithelm]] | 7 |
+| [[/03 Mechanics/CLI/bestiary/npc/drannin-splithelm-pota|Drannin Splithelm]] | 7 |
 | Elemental myrmidon ([[air-elemental-myrmidon-mpmm|Air]], [[earth-elemental-myrmidon-mpmm|Earth]], [[fire-elemental-myrmidon-mpmm|Fire]], [[water-elemental-myrmidon-mpmm|Water]]) | 7 |
-| [[/03_Mechanics/CLI/bestiary/npc/ghald-pota|Ghald]] | 7 |
-| [[/03_Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]] | 8 |
+| [[/03 Mechanics/CLI/bestiary/npc/ghald pota|Ghald]] | 7 |
+| [[/03 Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]] | 8 |
 | [[marlos-urnrayle-pota|Marlos Urnrayle]] | 8 (12 with lair actions) |
 | [[gar-shatterkeel-pota|Gar Shatterkeel]] | 9 (13 with lair actions) |
-| [[vanifer-pota|Vanifer]] | 9 (12 with lair actions) |
-| [[olhydra-pota|Olhydra]] | 18 |
+| [[vanifer pota|Vanifer]] | 9 (12 with lair actions) |
+| [[olhydra pota|Olhydra]] | 18 |
 | [[yan-c-bin-pota|Yan-C-Bin]] | 18 |
-| [[imix-pota|Imix]] | 19 |
-| [[ogremoch-pota|Ogrémoch]] | 20 |
+| [[imix pota|Imix]] | 19 |
+| [[ogremoch pota|Ogrémoch]] | 20 |
 ^monster-challenge
 
 ## Princes of Elemental Evil
@@ -105,9 +108,9 @@ For the most part, the elements that make up the world are indifferent to good o
 
 Each prince of Elemental Evil is a unique being unlike any other elemental, or any of the other princes. Some embody the combination of elements—for example, Bwimb, the Lord of Ooze, or Cryonax, the Prince of Evil Cold. However, the four princes most strongly associated with the cult of Elemental Evil are malicious embodiments of the four base elements. They are:
 
-- [[imix-pota|Imix]], Prince of Evil Fire (the All-Consuming Fire, the Eternal Flame)  
-- [[ogremoch-pota|Ogrémoch]], Prince of Evil Earth (Tyrant of Black Earth, the Mountain of Doom)  
-- [[olhydra-pota|Olhydra]], Princess of Evil Water (the Crushing Wave, Well of Endless Anguish)  
+- [[imix pota|Imix]], Prince of Evil Fire (the All-Consuming Fire, the Eternal Flame)  
+- [[ogremoch pota|Ogrémoch]], Prince of Evil Earth (Tyrant of Black Earth, the Mountain of Doom)  
+- [[olhydra pota|Olhydra]], Princess of Evil Water (the Crushing Wave, Well of Endless Anguish)  
 - [[yan-c-bin-pota|Yan-C-Bin]], Prince of Evil Air (the Shadow of the Four Winds, the Howling Hatred)  
 
 ### Forces of Destruction
@@ -147,23 +150,23 @@ The cults have some special items that harness the power of the elemental nodes 
 - [[seeker-dart-pota|Seeker Dart]]  
 - [[storm-boomerang-pota|Storm Boomerang]]  
 - [[weird-tank-pota|Weird Tank]]  
-- [[wingwear-pota|Wingwear]]  
+- [[wingwear pota|Wingwear]]  
 
 ### Relics of Besilmer
 
 The following items were crafted by the dwarves of Besilmer for their king, Torhild Flametongue.
 
 - [[lost-crown-of-besilmer-pota|Lost Crown of Besilmer]]  
-- [[orcsplitter-pota|Orcsplitter]]  
+- [[orcsplitter pota|Orcsplitter]]  
 
 ### Elemental Weapons
 
 Each of the four prophets who leads a cult of Elemental Evil is armed with a mighty elemental weapon. These potent objects are infused with the essences of the Princes of Elemental Evil. In addition to the weapon's obvious usefulness in battle, they serve as keys that allow the prophets to channel the power of the elemental nodes and rip open the boundary between the planes. The weapons also bring out the worst in their wielders, twisting their minds toward evil ends.
 
-- [[drown-pota|Drown]]  
-- [[ironfang-pota|Ironfang]]  
-- [[tinderstrike-pota|Tinderstrike]]  
-- [[windvane-pota|Windvane]]
+- [[drown pota|Drown]]  
+- [[ironfang pota|Ironfang]]  
+- [[tinderstrike pota|Tinderstrike]]  
+- [[windvane pota|Windvane]]
 
 ## Player-Facing Summary
 
@@ -181,11 +184,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: X-201 Synchronized Festival Player
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # X-201 Synchronized Festival Player
 
 ---

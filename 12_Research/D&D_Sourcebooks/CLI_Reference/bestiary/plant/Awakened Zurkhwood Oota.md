@@ -1,3 +1,12 @@
+---
+title: Awakened Zurkhwood Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Awakened Zurkhwood Oota
 
 ---
@@ -30,10 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
 
-# [[awakened-zurkhwood-oota|Awakened Zurkhwood]]
+# [[awakened zurkhwood oota|Awakened Zurkhwood]]
 *Source: Out of the Abyss p. 230*  
 
-This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[awaken-xphb|awaken]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
+This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[awaken xphb|awaken]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
 
 An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications:
 
@@ -80,7 +89,6 @@ An awakened zurkhwood has the same statistics as an awakened tree (see appendix 
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -92,11 +100,6 @@ An awakened zurkhwood has the same statistics as an awakened tree (see appendix 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -114,11 +117,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

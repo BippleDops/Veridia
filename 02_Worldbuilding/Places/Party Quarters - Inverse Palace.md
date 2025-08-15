@@ -28,15 +28,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
 
 # Party Quarters - Inverse Palace
 
 *"Where up becomes down and revelry defies gravity itself."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,13 +62,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -80,8 +73,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Material_Culture Improvements
@@ -95,9 +86,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The Party Quarters of the Inverse Palace are an architectural marvel where entertainment spaces are built upside-down from the main structure. Guests experience the surreal sensation of walking on ceilings while party activities occur in gravity-defying chambers.
@@ -169,12 +157,9 @@ Ongoing situations affecting Party Quarters - Inverse Palace:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -199,7 +184,6 @@ Mentioned in The Second Prophecy of Depths
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -212,7 +196,6 @@ Mentioned in The Second Prophecy of Depths
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -224,7 +207,6 @@ Mentioned in The Second Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

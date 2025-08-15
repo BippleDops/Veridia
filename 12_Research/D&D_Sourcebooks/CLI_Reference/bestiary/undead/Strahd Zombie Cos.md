@@ -1,3 +1,12 @@
+---
+title: Strahd Zombie Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Strahd Zombie Cos
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
 
-# [[strahd-zombie-cos|Strahd Zombie]]
+# [[strahd zombie cos|Strahd Zombie]]
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created fr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Loathsome Limbs
 
@@ -134,7 +137,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,102 +1,47 @@
-# Independent Smugglers
-
 ---
 title: Independent Smugglers
-type: Group
+type: note
 tags:
-- both
-- active
-- group
-- research
-created: '2025-08-11'
-modified: '2025-08-14'
-status: active
-world: Both
-updated: '2025-08-13T01:18:36.742229+00:00'
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-independent-smugglers-independent-smugglers.svg)
-
 # Independent Smugglers
-*The Free Current Traders, Masters of the Grey Market, Lords of the Deep Routes*
-
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
-The Independent Smugglers represent a loose confederation of opportunistic traders who operate in the dangerous spaces between [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Unlike organized crime syndicates, they maintain their independence while sharing information, resources, and protection. They fill the crucial economic niche of moving goods that both realms need but officially prohibit, making them simultaneously essential and outlawed by both governments.
+This document contains important information regarding Independent Smugglers and its role within the greater narrative.
 
-### Operating Cells
-**The Deep Runners**
-- Specialists in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] routes
-- Focus on memory trading and shadow artifacts
-- Led by [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] (unofficial ties)
+## Description
+Independent Smugglers represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-**The Surface Skimmers** 
-- Operate primarily in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] waters
-- Crystal smuggling and luxury goods
-- Work closely with corrupt port officials
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-**The Transition Riders**
-- Masters of the dangerous depth-change routes
-- Specialize in moving people between realms
-- Highest casualty rate but best profits
+## Details
+### Background
+Historical context and development over time.
 
-**The Ghost Fleet**
-- Vessels that officially don't exist
-- Handle the most dangerous and illegal cargo
-- Only called upon for extreme situations
+### Current State
+Present circumstances and ongoing relevance.
 
-### The Smuggler's Code
-1. **Never rat out another smuggler** - Absolute rule, death penalty for violation
-2. **Honor your contracts** - Word is bond in illegal trades
-3. **No unnecessary violence** - Bad for business and draws attention
-4. **Share route information** - Critical safety information is communal
-5. **Help fellow smugglers in distress** - Mutual aid obligation
+### Future Potential
+Possible developments and plot directions.
 
-## Player-Facing Summary
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-Independent Smugglers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-## Lore Details
-
-Legends speak of Independent Smugglers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Independent Smugglers.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

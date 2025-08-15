@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,13 +45,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -64,13 +57,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -80,7 +69,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -191,7 +179,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Warrior-Priest Abyss-Sworn]] (friend)
-- [[Foreign Trader Captain Hassan al-Rimal]] (rival)
+- [[Foreign Trader Captain Hassan al Rimal]] (rival)
 - [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -207,7 +195,6 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Robe of Useful Items Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Robe of Useful Items Xdmg
 
 ---
@@ -32,12 +41,12 @@ This robe has cloth patches of various shapes and colors covering it. While wear
 
 The robe has two of each of the following patches:
 
-- [[bullseye-lantern-xphb|Bullseye Lantern]] (filled and lit)  
-- [[dagger-xphb|Dagger]]  
-- [[mirror-xphb|Mirror]]  
-- [[pole-xphb|Pole]]  
-- [[rope-xphb|Rope]] (coiled)  
-- [[sack-xphb|Sack]]  
+- [[bullseye lantern xphb|Bullseye Lantern]] (filled and lit)  
+- [[dagger xphb|Dagger]]  
+- [[mirror xphb|Mirror]]  
+- [[pole xphb|Pole]]  
+- [[rope xphb|Rope]] (coiled)  
+- [[sack xphb|Sack]]  
 
 In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
 
@@ -50,18 +59,17 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | [[riding-horse-xmm|Riding Horse]] with a [[riding-saddle-xphb|Riding Saddle]] |
-| 52-59 | Open pit (a 10-foot [[cube-area-of-effect-xphb|Cube]]), which you can place on the ground within 10 feet of yourself |
-| 60-68 | 4 [[potion-of-healing-xdmg|Potions of Healing]] |
-| 69-75 | [[rowboat-xphb|Rowboat]] (12 feet long) |
-| 76-83 | [[spell-scroll-xdmg|Spell Scroll]] containing one spell of level 1, 2, or 3 (your choice) |
-| 84-90 | 2 [[mastiff-xmm|Mastiffs]] |
+| 45-51 | [[riding horse xmm|Riding Horse]] with a [[riding saddle xphb|Riding Saddle]] |
+| 52-59 | Open pit (a 10-foot [[cube area of effect xphb|Cube]]), which you can place on the ground within 10 feet of yourself |
+| 60-68 | 4 [[potion of healing xdmg|Potions of Healing]] |
+| 69-75 | [[rowboat xphb|Rowboat]] (12 feet long) |
+| 76-83 | [[spell scroll xdmg|Spell Scroll]] containing one spell of level 1, 2, or 3 (your choice) |
+| 84-90 | 2 [[mastiff xmm|Mastiffs]] |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [[portable-ram-xphb|Portable Ram]] |
+| 97-00 | [[portable ram xphb|Portable Ram]] |
 ^1-patch
 
 *Source: Dungeon Master's Guide (2024) p. 298. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,11 +82,6 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -96,7 +99,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -104,16 +106,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

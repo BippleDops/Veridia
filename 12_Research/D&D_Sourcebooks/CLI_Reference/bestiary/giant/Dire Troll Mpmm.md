@@ -1,3 +1,12 @@
+---
+title: Dire Troll Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dire Troll Mpmm
 
 ---
@@ -33,7 +42,6 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.png]]
 
 # [[dire-troll-mpmm|Dire Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
@@ -41,7 +49,6 @@ world: Both
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
 
 Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll's regenerative capacity incorporates the new mass into the troll's own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +61,6 @@ Dire trolls also increase their size by grafting flesh onto themselves. When a s
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Trolls
 

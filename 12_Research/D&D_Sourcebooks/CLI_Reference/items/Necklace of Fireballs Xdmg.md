@@ -1,3 +1,12 @@
+---
+title: Necklace of Fireballs Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Necklace of Fireballs Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This necklace has `1d6 + 3` beads hanging from it. You can take a [[actions#Magic|Magic]] action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a level 3 [[fireball-xphb|Fireball]] (save DC 15).
+This necklace has `1d6 + 3` beads hanging from it. You can take a [[actions#Magic|Magic]] action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a level 3 [[fireball xphb|Fireball]] (save DC 15).
 
 You can hurl multiple beads, or even the whole necklace, at one time. When you do so, increase the damage of the Fireball by `d6` for each bead after the first (maximum `12d6`).
 
 *Source: Dungeon Master's Guide (2024) p. 280. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You can hurl multiple beads, or even the whole necklace, at one time. When you d
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the festival
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

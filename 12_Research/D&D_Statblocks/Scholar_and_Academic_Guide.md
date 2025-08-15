@@ -1,3 +1,12 @@
+---
+title: Scholar_and_Academic_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scholar_and_Academic_Guide
 
 ---
@@ -215,7 +224,6 @@ world: Both
 4. **Research Funding**: Accept money from questionable sources?
 5. **Publication Responsibility**: Should dangerous knowledge be shared?
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -227,11 +235,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -245,7 +248,6 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A merchant needs help stealing before the new moon
@@ -257,7 +259,6 @@ world: Both
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -25,11 +25,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,9 +55,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
@@ -73,13 +67,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
@@ -93,7 +83,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -212,11 +201,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns courage
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Relationships
 
@@ -224,7 +211,6 @@ Mentioned in The First Prophecy of Depths
 - **Friend**: [[Reflection Captain Vantage]]
 - **Blackmailer**: [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
 - **Lover**: [[Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg]]
-
 
 ## Cultural Practices
 

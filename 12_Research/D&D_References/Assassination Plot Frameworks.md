@@ -1,3 +1,12 @@
+---
+title: Assassination Plot Frameworks
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Assassination Plot Frameworks
 
 ---
@@ -27,7 +36,6 @@ updated: '2025-08-13T01:18:35.216966+00:00'
 > *"In Aquabyssos, political murder is an art form where the weapon matters less than the water it displaces, and the killer matters less than the current that carries their escape."*
 > — Anonymous Assassin's Guild Manual
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ updated: '2025-08-13T01:18:35.216966+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Political assassination in Aquabyssos has evolved unique methods adapted to underwater existence, shadow manipulation, memory theft, and temporal anomalies. These frameworks provide systematic approaches to political elimination that account for the realm's supernatural and technological complexities.
@@ -257,7 +260,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

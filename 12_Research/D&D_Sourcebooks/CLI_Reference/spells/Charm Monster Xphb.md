@@ -1,3 +1,12 @@
+---
+title: Charm Monster Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charm Monster Xphb
 
 ---
@@ -41,14 +50,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with [[advantage-xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with [[advantage xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,11 +69,6 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -83,14 +86,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

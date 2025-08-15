@@ -1,3 +1,12 @@
+---
+title: Poisoned Darts Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Poisoned Darts Xdmg
 
 ---
@@ -30,7 +39,6 @@ When a creature moves onto this trap's pressure plate for the first time on a tu
 
 Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by `d3` darts, taking 3 (`d6`) Poison damage per dart.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,17 +50,12 @@ Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Detect and Disarm
 
 As a [[actions#Search|Search]] action, a creature can examine the walls and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the holes on a successful check. Plugging all the holes with wax, cloth, or detritus prevents the darts from firing.
 
-As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[iron-spikes-xphb|Iron Spike]] or a similar object under the pressure plate prevents the trap from triggering.
+As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[iron spikes xphb|Iron Spike]] or a similar object under the pressure plate prevents the trap from triggering.
 
 ## At Higher Levels
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Dynamic NPC Personality Matrix
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dynamic NPC Personality Matrix
 
 ---
@@ -24,7 +33,6 @@ world: Both
 
 Generates 10,000+ NPC personalities, evolving relationships, dynamic dialogue, quests, betrayal/loyalty, faction switching.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ Generates 10,000+ NPC personalities, evolving relationships, dynamic dialogue, q
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Emergent Faction Switching
 - Thresholds flipped by ideology shocks and economic pressure
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

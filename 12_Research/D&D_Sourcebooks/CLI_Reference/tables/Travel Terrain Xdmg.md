@@ -1,3 +1,12 @@
+---
+title: Travel Terrain Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Travel Terrain Xdmg
 
 ---
@@ -46,7 +55,6 @@ world: Both
 
 †Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,11 +66,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

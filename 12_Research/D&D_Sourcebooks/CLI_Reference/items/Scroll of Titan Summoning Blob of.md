@@ -1,3 +1,12 @@
+---
+title: Scroll of Titan Summoning Blob of
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scroll of Titan Summoning Blob of
 
 ---
@@ -31,12 +40,11 @@ world: Both
 # Scroll of Titan Summoning (Blob of Annihilation)
 *Scroll, legendary*  
 
-When you take a [[actions#Magic|Magic]] action to read this scroll, a [[blob-of-annihilation-xmm|Blob of Annihilation]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[actions#Magic|Magic]] action to read this scroll, a [[blob of annihilation xmm|Blob of Annihilation]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [[blob-of-annihilation-xmm|Blob of Annihilation]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[blob-of-annihilation-xmm|Blob of Annihilation]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[blob of annihilation xmm|Blob of Annihilation]] is [[hostile attitude xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit points xphb|Hit Points]]. If the [[blob of annihilation xmm|Blob of Annihilation]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The [[blob-of-annihilation-xmm|Blob of Annihilation]] is [[hostile-attitude-xphb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

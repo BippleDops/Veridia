@@ -1,3 +1,12 @@
+---
+title: Sorcerous Burst Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sorcerous Burst Xphb
 
 ---
@@ -39,10 +48,9 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[list-spells-classes-sorcerer|Sorcerer]]
+**Classes**: [[list spells classes sorcerer|Sorcerer]]
 
 *Source: Player's Handbook (2024) p. 318. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

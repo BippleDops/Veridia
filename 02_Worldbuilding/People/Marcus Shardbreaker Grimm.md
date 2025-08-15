@@ -19,11 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,25 +48,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -84,7 +72,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker after developing the ability to shatter crystal formations—including those growing from infected people. His methods are brutal but effective, making him simultaneously sought after and reviled.
@@ -179,7 +166,6 @@ Marcus Shardbreaker Grimm is a undersea element of the setting, known for biolum
 
 Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Shardbreaker Grimm.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -197,7 +183,6 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -209,7 +194,6 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -228,7 +212,6 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

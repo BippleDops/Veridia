@@ -1,3 +1,12 @@
+---
+title: Campaign_Dashboard
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Dashboard
 
 ---
@@ -37,7 +46,6 @@ FROM "Campaign_Dashboard"
 WHERE file.name = this.file.name
 ```
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ WHERE file.name = this.file.name
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 📊 Faction Power Tracker
 
@@ -184,7 +187,7 @@ if (daysSinceUpdate > 7) {
 - [[World Bible]] - Comprehensive lore reference  
 - [[Campaign Index]] - Session archive
 - [[Quick Start Guide]] - New player onboarding
-- [[02_Worldbuilding/Lore/GM Resources]] - Gamemaster tools
+- [[02 Worldbuilding/Lore/GM Resources]] - Gamemaster tools
 
 ---
 
@@ -203,7 +206,6 @@ if (daysSinceUpdate > 7) {
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

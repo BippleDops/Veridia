@@ -1,3 +1,12 @@
+---
+title: Hooked Shortspear Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hooked Shortspear Oota
 
 ---
@@ -31,13 +40,12 @@ world: Both
 *Weapon*  
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall [[conditions#prone|prone]]. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
 
 *Source: Out of the Abyss p. 224*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ On a hit with this weapon, the wielder can forgo dealing damage and attempt to t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

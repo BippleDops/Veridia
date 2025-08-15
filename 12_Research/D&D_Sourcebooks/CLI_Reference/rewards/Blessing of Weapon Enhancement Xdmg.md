@@ -1,3 +1,12 @@
+---
+title: Blessing of Weapon Enhancement Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blessing of Weapon Enhancement Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Blessing of Weapon Enhancement
 
-One nonmagical weapon in your possession becomes a [[1-weapon-xdmg|+1 Weapon]] while you wield it.
+One nonmagical weapon in your possession becomes a [[1 weapon xdmg|+1 Weapon]] while you wield it.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ One nonmagical weapon in your possession becomes a [[1-weapon-xdmg|+1 Weapon]] w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

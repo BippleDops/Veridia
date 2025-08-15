@@ -1,3 +1,12 @@
+---
+title: Owlin Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Owlin Scc
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  
-![[/03_Mechanics/CLI/races/img/owlin.webp#right|Owlin unleash magic in the sky above Strixhaven]]
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -47,7 +55,6 @@ Thanks to your wings, you have a flying speed equal to your walking speed. You c
 
 You have proficiency in the [[skills#Stealth|Stealth]] skill.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -59,11 +66,6 @@ You have proficiency in the [[skills#Stealth|Stealth]] skill.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -89,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about the cult
@@ -104,11 +105,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

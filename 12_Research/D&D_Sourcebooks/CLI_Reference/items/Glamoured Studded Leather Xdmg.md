@@ -1,3 +1,12 @@
+---
+title: Glamoured Studded Leather Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Glamoured Studded Leather Xdmg
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-glamoured-studded-leather-xdmg-glamoured-studded-leather-xdmg.svg)
 
 # Glamoured Studded Leather
-*Light armor ([[studded-leather-armor-xphb|studded leather armor]]), rare*  
+*Light armor ([[studded leather armor xphb|studded leather armor]]), rare*  
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]]. You can also take a [[bonus-action-xphb|Bonus Action]] to cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like—including color, style, and accessories—but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or doff the armor.
+While wearing this armor, you gain a +1 bonus to [[armor class xphb|Armor Class]]. You can also take a [[bonus action xphb|Bonus Action]] to cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like—including color, style, and accessories—but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or doff the armor.
 
 *Source: Dungeon Master's Guide (2024) p. 264. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

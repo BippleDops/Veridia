@@ -15,10 +15,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Groups/Cultural Exchange Cente](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_exchange_cente.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,12 +44,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
@@ -66,10 +60,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
@@ -82,7 +72,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Organization Overview
 
@@ -211,11 +200,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #cult #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -239,7 +226,6 @@ What they claim to pursue
 - Natural disasters
 - Current power structures established
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -251,7 +237,6 @@ What they claim to pursue
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

@@ -39,14 +39,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Reflection Pools
 
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
-
 *Where every choice not taken shimmers in the water*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,12 +70,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
@@ -90,14 +82,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
@@ -107,7 +94,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -512,9 +498,9 @@ Each prophecy made drains possibility from the future, making reality more rigid
 
 ## See Also
 
-- [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
-- [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
-- [[02_Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
+- [[02 Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
+- [[02 Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
+- [[02 Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
 - [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded]]
 - [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
@@ -558,17 +544,13 @@ Ongoing situations affecting The Reflection Pools:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## A Day in the Life
 

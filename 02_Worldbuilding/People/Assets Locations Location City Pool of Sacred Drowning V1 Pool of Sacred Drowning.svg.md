@@ -18,9 +18,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,8 +45,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
@@ -62,12 +57,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -77,13 +69,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Basic Information
 
@@ -195,14 +184,13 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg]] (friend)
 - [[Shadow Conspiracy]] (friend)
-- [[Quest - Crystal Innovation]] (colleague)
+- [[Quest   Crystal Innovation]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Economic Structure
 

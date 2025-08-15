@@ -1,3 +1,12 @@
+---
+title: Tiefling Asmodeus Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tiefling Asmodeus Mtf
 
 ---
@@ -50,12 +59,11 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[thaumaturgy-xphb|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[hellish-rebuke-xphb|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[darkness-xphb|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[thaumaturgy xphb|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[hellish rebuke xphb|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[darkness xphb|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
 You can speak, read, and write Common and Infernal.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ You can speak, read, and write Common and Infernal.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -118,7 +121,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

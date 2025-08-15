@@ -1,3 +1,12 @@
+---
+title: Sky_Events_Pack_D
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sky_Events_Pack_D
 
 ---
@@ -31,7 +40,6 @@ Use with [[Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanit
 ### Appendix: Doctrine Effects
 Apply doctrine modifiers from Packs A–C; track faction standing changes and Integrity adjustments.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +51,6 @@ Apply doctrine modifiers from Packs A–C; track faction standing changes and In
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Pact of the Chain Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pact of the Chain Xphb
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Pact of the Chain
 *Source: Player's Handbook (2024) p. 157. Available in the SRD*  
 
-You learn the [[find-familiar-xphb|Find Familiar]] spell and can cast it as a [[actions#Magic|Magic]] action without expending a spell slot.
+You learn the [[find familiar xphb|Find Familiar]] spell and can cast it as a [[actions#Magic|Magic]] action without expending a spell slot.
 
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [[imp-xmm|Imp]], [[pseudodragon-xmm|Pseudodragon]], [[quasit-xmm|Quasit]], [[skeleton-xmm|Skeleton]], [[slaad-tadpole-xmm|Slaad Tadpole]], [[sphinx-of-wonder-xmm|Sphinx of Wonder]], [[sprite-xmm|Sprite]], or [[venomous-snake-xmm|Venomous Snake]] (see appendix B for the familiar's stat block).
+When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [[imp xmm|Imp]], [[pseudodragon xmm|Pseudodragon]], [[quasit xmm|Quasit]], [[skeleton xmm|Skeleton]], [[slaad tadpole xmm|Slaad Tadpole]], [[sphinx of wonder xmm|Sphinx of Wonder]], [[sprite xmm|Sprite]], or [[venomous snake xmm|Venomous Snake]] (see appendix B for the familiar's stat block).
 
-Additionally, when you take the [[actions#Attack|Attack]] action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[reaction-xphb|Reaction]].
-
+Additionally, when you take the [[actions#Attack|Attack]] action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[reaction xphb|Reaction]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ Additionally, when you take the [[actions#Attack|Attack]] action, you can forgo 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

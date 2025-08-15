@@ -1,3 +1,12 @@
+---
+title: Shield of Expression Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shield of Expression Xdmg
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-shield-of-expression-xdmg-shield-of-expression-xdmg.svg)
 
 # Shield of Expression
-*Armor ([[shield-xphb|shield]]), common*  
+*Armor ([[shield xphb|shield]]), common*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [[bonus-action-xphb|Bonus Action]] to alter the face's expression.
+The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [[bonus action xphb|Bonus Action]] to alter the face's expression.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The front of this Shield is shaped in the likeness of a face. While bearing the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

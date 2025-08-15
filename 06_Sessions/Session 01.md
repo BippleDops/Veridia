@@ -20,12 +20,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Session 01: [Sky Realm Crisis]
 
 *Winds of Rebellion - Aethermoor Politics*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,13 +51,9 @@ improvements: 20
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Props Improvements
 
-- List physical props and handouts needed
-- List physical props and handouts needed
-- List physical props and handouts needed
 - List physical props and handouts needed
 
 ### Level_Range Improvements
@@ -70,11 +63,9 @@ improvements: 20
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Soundtrack Improvements
@@ -88,8 +79,6 @@ improvements: 20
 ### Variants Improvements
 
 - Add horror, intrigue, and comedy tone variants
-- Add horror, intrigue, and comedy tone variants
-
 
 ## Session Overview
 
@@ -135,7 +124,6 @@ The main reason parties get involved
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

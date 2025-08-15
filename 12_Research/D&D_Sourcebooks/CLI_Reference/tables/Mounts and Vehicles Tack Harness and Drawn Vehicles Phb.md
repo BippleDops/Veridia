@@ -1,3 +1,12 @@
+---
+title: Mounts and Vehicles Tack Harness and Drawn Vehicles Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # mounts-and-vehicles-tack-harness-and-drawn-vehicles-phb
 
 ---
@@ -28,22 +37,21 @@ world: Both
 | Item | Cost | Weight |
 |------|------|--------|
 | [[barding|Barding]] | ×4 | ×2 |
-| [[bit-and-bridle|Bit and bridle]] | 2 gp | 1 lb. |
-| [[carriage-xphb|Carriage]] | 100 gp | 600 lb. |
-| [[cart-xphb|Cart]] | 15 gp | 200 lb. |
-| [[chariot-xphb|Chariot]] | 250 gp | 100 lb. |
+| [[bit and bridle|Bit and bridle]] | 2 gp | 1 lb. |
+| [[carriage xphb|Carriage]] | 100 gp | 600 lb. |
+| [[cart xphb|Cart]] | 15 gp | 200 lb. |
+| [[chariot xphb|Chariot]] | 250 gp | 100 lb. |
 | Animal Feed (per day) | 5 cp | 10 lb. |
 | *Saddle* |  |  |
-| &emsp;[[exotic-saddle-xphb|Exotic]] | 60 gp | 40 lb. |
-| &emsp;[[military-saddle-xphb|Military]] | 20 gp | 30 lb. |
-| &emsp;[[pack-saddle|Pack]] | 5 gp | 15 lb. |
-| &emsp;[[riding-saddle-xphb|Riding]] | 10 gp | 25 lb. |
+| &emsp;[[exotic saddle xphb|Exotic]] | 60 gp | 40 lb. |
+| &emsp;[[military saddle xphb|Military]] | 20 gp | 30 lb. |
+| &emsp;[[pack saddle|Pack]] | 5 gp | 15 lb. |
+| &emsp;[[riding saddle xphb|Riding]] | 10 gp | 25 lb. |
 | [[saddlebags|Saddlebags]] | 4 gp | 8 lb. |
-| [[sled-xphb|Sled]] | 20 gp | 300 lb. |
+| [[sled xphb|Sled]] | 20 gp | 300 lb. |
 | Stabling (per day) | 5 sp | — |
-| [[wagon-xphb|Wagon]] | 35 gp | 400 lb. |
+| [[wagon xphb|Wagon]] | 35 gp | 400 lb. |
 ^tack-harness-and-drawn-vehicles
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
@@ -87,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

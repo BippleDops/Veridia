@@ -1,3 +1,12 @@
+---
+title: Determine Numbers and Challenge Ratings Multiple Monsters 11th 15th Level Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # determine-numbers-and-challenge-ratings-multiple-monsters-11th-15th-level-xge
 
 ---
@@ -34,7 +43,6 @@ world: Both
 | 15th | 1/12 | 1/5 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 5/1 | 5/1 | 6/1 |
 ^multiple-monsters-11th-15th-level
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 

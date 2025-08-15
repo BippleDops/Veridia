@@ -1,3 +1,12 @@
+---
+title: Elven Rillifane Rallathil Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Rillifane Rallathil Mtf
 
 ---
@@ -44,7 +53,6 @@ In either guise, his main concerns are the welfare of forests and prairies, the 
 
 Energetic debates have been held over whether Rillifane's oak tree exists only on Arvandor; has roots that extend to all worlds; is duplicated fully on every world that has plant life; or is only a metaphor for Rillifane's deep connection to nature. A growing sentiment among Rillifane's druids holds that the correct answer is "All of the above or none of the above, depending on Rillifane's mood."
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ Energetic debates have been held over whether Rillifane's oak tree exists only o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Roots Run Deep
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

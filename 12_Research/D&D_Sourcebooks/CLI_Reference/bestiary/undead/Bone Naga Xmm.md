@@ -1,3 +1,12 @@
+---
+title: Bone Naga Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bone Naga Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bone-naga-xmm-bone-naga-xmm.svg)
 
-# [[bone-naga-xmm|Bone Naga]]
+# [[bone naga xmm|Bone Naga]]
 *Source: Monster Manual (2024) p. 53*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Bone Naga
 
@@ -98,9 +101,9 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
     "name": "Serpentine Gaze"
   - "desc": "The naga casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      At will: [[mage-hand-xphb|Mage Hand]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
-      \n1/day each: [[command-xphb|Command]], [[detect-thoughts-xphb|Detect\]]
-      \ Thoughts]], [[lightning-bolt-xphb|Lightning Bolt]]"
+      At will: [[mage hand xphb|Mage Hand]], [[thaumaturgy xphb|Thaumaturgy]]\n\
+      \n1/day each: [[command xphb|Command]], [[detect thoughts xphb|Detect\]]
+      \ Thoughts]], [[lightning bolt xphb|Lightning Bolt]]"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -128,7 +131,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals a betrayal about the cult
@@ -139,11 +141,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

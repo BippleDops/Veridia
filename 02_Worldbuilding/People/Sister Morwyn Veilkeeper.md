@@ -20,11 +20,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sister-morwyn-veilkeeper-sister-morwyn-veilkeeper.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,20 +49,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -76,7 +65,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
@@ -85,7 +73,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin.
@@ -177,7 +164,6 @@ Sister Morwyn Veilkeeper is a undersea element of the setting, known for biolumi
 ## Lore Details
 
 Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sister Morwyn Veilkeeper.
-
 
 ## Economic Structure
 

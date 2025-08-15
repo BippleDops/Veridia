@@ -1,3 +1,12 @@
+---
+title: Tiefling Names Female Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tiefling Names Female Xge
 
 ---
@@ -83,7 +92,6 @@ world: Both
 | 99-00 | Verin |
 ^tiefling-names-female
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,11 +103,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -117,10 +120,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- A shipment has gone missing and chaos spreads
 - A shipment has gone missing and chaos spreads
 - The authorities needs help stealing before the festival
 - Strange disappearances suggest a conspiracy
@@ -128,7 +129,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

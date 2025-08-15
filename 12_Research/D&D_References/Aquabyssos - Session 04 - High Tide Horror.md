@@ -1,3 +1,12 @@
+---
+title: Aquabyssos - Session 04 - High Tide Horror
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos - Session 04 - High Tide Horror
 
 ---
@@ -36,7 +45,7 @@ items_gained:
 - Emperor's Final Gift
 - Nyx's Shadow Blade
 locations_visited:
-- '[[Reflection Pools - Surgical Theater]]'
+- '[[Reflection Pools   Surgical Theater]]'
 - '[[Shadow Market Canals]]'
 - '[[The Convergence Point]]'
 - '[[Tidal Chambers]]'
@@ -68,7 +77,6 @@ world: Aquabyssos
 xp_awarded: 2000
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -80,11 +88,6 @@ xp_awarded: 2000
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 High tide triggers the Shadow Harvest as hundreds of shadows converge on the Reflection Pools. The party discovers Shadow Duchess Nyx fighting her own shadow for control while the Scattered Emperor contemplates reuniting his consciousness for one final act. The truth of the shadow conspiracy is revealed - not evil, but a desperate bid for independence that will cost original lives.
@@ -111,7 +114,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 - Mass confusion - nobody knows who's who
 
 #### Event 2: The Surgical Theater Horror
-**Location:** [[Reflection Pools - Surgical Theater]]
+**Location:** [[Reflection Pools   Surgical Theater]]
 **Scene:** Witness mass shadow transplant operations
 **Horror Elements:**
 - Citizens paralyzed on operating tables
@@ -247,7 +250,7 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 | Captain Lyanna | Unknown | Unknown | Missing |
 
 ## Campaign Continuity
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05 - The Shadow War]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05   The Shadow War]]
 
 ---
 
@@ -260,7 +263,6 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Related Notes
 

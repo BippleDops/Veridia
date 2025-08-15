@@ -34,15 +34,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
 
 # Thornwhisper Manor - The Unfrozen Estate
 
 *A pocket of preserved time in the depths of corruption*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,11 +71,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -89,24 +83,18 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -290,8 +278,6 @@ Ongoing situations affecting Lady Vivienne the Unfrozen:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

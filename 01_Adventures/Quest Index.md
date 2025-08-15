@@ -1,3 +1,12 @@
+---
+title: Quest Index
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest Index
 
 ---
@@ -28,9 +37,6 @@ accessibility:
 
 # Quest Index
 
-![[04_Resources/Assets/Art/Lore/Quest_Index.png|Quest Index Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +48,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Quest Index describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -67,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

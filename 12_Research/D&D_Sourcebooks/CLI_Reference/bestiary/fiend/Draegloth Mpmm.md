@@ -1,3 +1,12 @@
+---
+title: Draegloth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Draegloth Mpmm
 
 ---
@@ -31,10 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draegloth-mpmm-draegloth-mpmm.svg)
 
-# [[draegloth-mpmm|Draegloth]]
+# [[draegloth mpmm|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[glabrezu-xmm|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[glabrezu xmm|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -86,9 +95,9 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
     "name": "Claw"
   - "desc": "The draegloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-      \nAt will: [[dancing-lights-xphb|dancing lights]],\
-      \ [[darkness-xphb|darkness]]\n\n1/day each: [[confusion-xphb|confusion]],\
-      \ [[faerie-fire-xphb|faerie fire]]"
+      \nAt will: [[dancing lights xphb|dancing lights]],\
+      \ [[darkness xphb|darkness]]\n\n1/day each: [[confusion xphb|confusion]],\
+      \ [[faerie fire xphb|faerie fire]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -96,7 +105,6 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/draegloth-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -109,11 +117,6 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -135,7 +138,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -149,7 +151,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

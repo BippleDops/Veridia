@@ -1,3 +1,12 @@
+---
+title: Gnome Deep Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Deep Mtf
 
 ---
@@ -58,7 +67,6 @@ Svirfneblin believe that survival depends on avoiding entanglements with other c
 
 You have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks to hide in rocky terrain.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -70,11 +78,6 @@ You have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks to hide in r
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -91,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

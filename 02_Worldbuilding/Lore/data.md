@@ -8,7 +8,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## Overview
 
 data represents a crucial aspect of the world's history, cosmology, or fundamental nature.
@@ -24,7 +23,6 @@ data represents a crucial aspect of the world's history, cosmology, or fundament
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Prophecy Connection
 

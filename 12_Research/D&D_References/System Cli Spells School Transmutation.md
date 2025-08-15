@@ -1,3 +1,12 @@
+---
+title: System Cli Spells School Transmutation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # System Cli Spells School Transmutation
 
 ---
@@ -38,7 +47,6 @@ world: Both Worlds
 > *"In the endless depths where survival demands constant adaptation to impossible conditions, transmutation becomes the fundamental expression of life's refusal to accept limitation. We do not merely change what is - we enable what must be to become what it never imagined possible."*
 > — [[Master Adapter Fluid Depthshifter]], Dean of Environmental Studies at the [[Institute of Adaptive Sciences]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ world: Both Worlds
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -181,11 +184,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Chimera Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chimera Xmm
 
 ---
@@ -30,9 +39,8 @@ updated: '2025-08-13T12:34:05.315511+00:00'
 world: Both
 ---
 
-# [[chimera-xmm|Chimera]]
+# [[chimera xmm|Chimera]]
 *Source: Monster Manual (2024) p. 70. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Chimera
 
@@ -89,7 +92,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ It can replace the Claw attack with a use of Fire Breath if available."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage,\
-      \ or 18 (4d6 + 4) Piercing damage if the chimera had [[advantage-xphb|Advantage]]\
+      \ or 18 (4d6 + 4) Piercing damage if the chimera had [[advantage xphb|Advantage]]\
       \ on the attack roll."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage."
@@ -98,7 +101,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ damage. If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Ram"
-  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 31 (7d8) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
@@ -126,7 +129,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

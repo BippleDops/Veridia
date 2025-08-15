@@ -1,3 +1,12 @@
+---
+title: Template-Region
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Template-Region
 
 ---
@@ -74,7 +83,7 @@ setTimeout(() => {
 >> [!info|no-title] Map
 >> ```leaflet  
 >> id: ZalkorsFerry ### Must be unique with no spaces  
->> image: [[The Island of Screams.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
+>> image: [[The Island of Screams.jpg (Lore)]] ### Link to the map image file. Do not add a ! in front of the image  
 >> bounds: [[0,0], [5888, 5882]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 >> height: 500px ### Size of the leaflet embed in px on your screen  
 >> width: 95% ### Size of the leaflet embed in your note  
@@ -101,11 +110,11 @@ setTimeout(() => {
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
->>> > ![[#General Info|no-h clean]]
+>>> > 
 >>>
->>> > ![[#Region Details|no-h clean]]
+>>> > 
 >>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
+>>> > 
 >>> 
 
 > [!NOTE|no-title]
@@ -120,19 +129,17 @@ setTimeout(() => {
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
-> > > ![[#Hubs|no-h clean]]
+> > > 
 > >
 > > > [!div-m|no-title]
-> > > ![[#Points of Interest|no-h clean]]
+> > > 
 > > 
-> > > ![[#Groups|no-h clean]]
-> > > ![[#Quests|no-h clean]]
+> > > 
 
 ---
 # General Info
 
 This is the region description. 
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -145,11 +152,6 @@ This is the region description.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Region Details
 
@@ -211,7 +213,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

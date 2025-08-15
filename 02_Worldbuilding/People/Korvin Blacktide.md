@@ -24,11 +24,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,19 +58,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -83,7 +74,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
@@ -92,7 +82,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -206,26 +195,21 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
 
-
 ## Relationships
 
 - **Rival**: [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
 - **Rival**: [[Sunken Kingdom of Nereon]]
-- **Lover**: [[Master_Artificer_Coral_Gemwright]]
+- **Lover**: [[Master Artificer Coral Gemwright]]
 - **Ally**: [[The Republican Coalition]]
 - **Blackmailer**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
-
 
 ## Economic Structure
 
@@ -244,7 +228,6 @@ Member of House Dragonblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

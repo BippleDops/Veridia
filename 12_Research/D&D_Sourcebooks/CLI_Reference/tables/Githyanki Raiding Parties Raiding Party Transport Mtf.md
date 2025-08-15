@@ -1,3 +1,12 @@
+---
+title: Githyanki Raiding Parties Raiding Party Transport Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # githyanki-raiding-parties-raiding-party-transport-mtf
 
 ---
@@ -32,10 +41,9 @@ world: Both
 |----------|-----------------------|
 | 1-2 | One astral skiff carrying entire group |
 | 3-4 | Two astral skiffs, each carrying half of group |
-| 5 | Astral brig carrying entire group plus an additional 30 [[githyanki-warrior-xmm|githyanki warriors]] |
-| 6 | Planar raider carrying entire group plus an additional 60 [[githyanki-warrior-xmm|githyanki warriors]] |
+| 5 | Astral brig carrying entire group plus an additional 30 [[githyanki warrior xmm|githyanki warriors]] |
+| 6 | Planar raider carrying entire group plus an additional 60 [[githyanki warrior xmm|githyanki warriors]] |
 ^raiding-party-transport
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

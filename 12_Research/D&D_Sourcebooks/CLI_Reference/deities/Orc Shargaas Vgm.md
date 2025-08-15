@@ -1,3 +1,12 @@
+---
+title: Orc Shargaas Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orc Shargaas Vgm
 
 ---
@@ -36,7 +45,6 @@ Shargaas is a god of darkness and the unknown. He is a secretive and murderous d
 
 To other orcs, the followers of Shargaas are depraved and twisted creatures that have no honor and skulk in the shadows. Rejected by Yurtrus as too unsuitable to serve as custodians of the dead, these orcs live even deeper inside the lair, close to where the entrance to Shargaas's realm is located. There in the darkness, orcs exiled to meet their fate are either brought into the fold as members of the tribe's Shargaas cult, or are torn to pieces and devoured as sacrificial tributes by the worshipers  of the Night Lord.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ To other orcs, the followers of Shargaas are depraved and twisted creatures that
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Culling the Weak
 

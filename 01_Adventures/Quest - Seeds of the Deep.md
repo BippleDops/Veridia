@@ -1,3 +1,12 @@
+---
+title: Quest - Seeds of the Deep
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Seeds of the Deep
 
 ---
@@ -16,8 +25,6 @@ updated: '2025-08-13T01:18:37.018384+00:00'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-seeds-of-the-deep-quest-seeds-of-the-deep.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,11 +37,6 @@ updated: '2025-08-13T01:18:37.018384+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,10 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- Strange disappearances suggest ancient magic
 - Strange disappearances suggest ancient magic
 - Strange sightings suggest a curse
 - Someone is protecting an heir for love

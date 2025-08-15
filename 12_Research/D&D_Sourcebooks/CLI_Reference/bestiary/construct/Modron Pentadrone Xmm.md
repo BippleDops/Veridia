@@ -1,3 +1,12 @@
+---
+title: Modron Pentadrone Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Modron Pentadrone Xmm
 
 ---
@@ -29,11 +38,10 @@ updated: '2025-08-13T12:34:06.064183+00:00'
 world: Both
 ---
 
-# [[modron-pentadrone-xmm|Modron Pentadrone]]
+# [[modron pentadrone xmm|Modron Pentadrone]]
 *Source: Monster Manual (2024) p. 218*  
 
 Pentadrones oversee and protect contingents of lesser modrons. They're quick to call lengthy meetings with other modrons when making decisions.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Pentadrones oversee and protect contingents of lesser modrons. They're quick to 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Modrons
 
@@ -126,7 +129,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning\
       \ damage."
     "name": "Electrical Discharge"
-  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
@@ -157,11 +160,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

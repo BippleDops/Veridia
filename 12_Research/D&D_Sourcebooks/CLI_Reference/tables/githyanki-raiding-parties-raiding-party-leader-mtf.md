@@ -1,3 +1,12 @@
+---
+title: githyanki-raiding-parties-raiding-party-leader-mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # githyanki-raiding-parties-raiding-party-leader-mtf
 
 ---
@@ -29,12 +38,11 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm|Githyanki Supreme Commander]] |
+| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm|Githyanki Supreme Commander]] |
 | 2-3 | [[githyanki-knight-xmm|Githyanki Knight]] |
-| 4-5 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Githyanki Kith'rak]] |
-| 6 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Githyanki Gish]] |
+| 4-5 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Githyanki Kith'rak]] |
+| 6 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Githyanki Gish]] |
 ^raiding-party-leader
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting a artifact for power
@@ -82,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

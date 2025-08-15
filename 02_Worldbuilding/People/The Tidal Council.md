@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg]]
 
 # The Tidal Council
 
 *"As the tides turn, so must goverce adapt to changing currents." - Tidemaster Elena*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,7 +71,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
@@ -88,8 +83,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
@@ -98,14 +91,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 The Tidal Council serves as Aquabyssos's environmental and maritime regulatory body, managing the complex interactions between the city's needs and the ocean's natural cycles. They coordinate tidal predictions, water current management, and environmental protection while balancing competing interests.
@@ -254,7 +243,6 @@ The Tidal Council is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Tidal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidal Council.
 
-
 ## Economic Structure
 
 ### Currency
@@ -273,7 +261,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -285,7 +272,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

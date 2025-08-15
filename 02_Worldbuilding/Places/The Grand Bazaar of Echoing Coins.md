@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-grand-bazaar-of-echoing-coins-the-grand-bazaar-of-echoing-coins.svg]]
 
 # The Grand Bazaar of Echoing Coins
 
 *Where Every Currency Sings and All Fortunes Are Made*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,8 +72,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
@@ -86,12 +80,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -105,7 +96,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -181,12 +171,9 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -210,7 +197,6 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -13,9 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,11 +40,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -57,16 +52,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -85,7 +77,6 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-
 ## Overview
 
 Consequence Chain Name 1 represents a crucial aspect of the world's history, cosmology, or fundamental nature.
@@ -101,7 +92,6 @@ Consequence Chain Name 1 represents a crucial aspect of the world's history, cos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -126,7 +116,6 @@ Consequence Chain Name 1 represents a crucial aspect of the world's history, cos
 - Natural disasters
 - Current power structures established
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -138,7 +127,6 @@ Consequence Chain Name 1 represents a crucial aspect of the world's history, cos
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

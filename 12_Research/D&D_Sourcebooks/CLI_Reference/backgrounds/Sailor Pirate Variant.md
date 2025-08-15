@@ -1,3 +1,12 @@
+---
+title: Sailor Pirate Variant
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sailor Pirate Variant
 
 ---
@@ -27,13 +36,12 @@ world: Both
 *Source: Player's Handbook p. 139*  
 
 - **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]  
-- **Tool Proficiencies.** [[navigators-tools-xphb|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[club-xphb|club]]), [[silk-rope-50-feet|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[trinket-xphb|trinket]] on the Trinkets table in chapter 5), a set of [[common-clothes|common clothes]], and a belt [[pouch-xphb|pouch]] containing 10 gp  
+- **Tool Proficiencies.** [[navigators tools xphb|Navigator's tools]], vehicles (water)  
+- **Equipment.** A belaying pin ([[club xphb|club]]), [[silk rope 50 feet|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[trinket xphb|trinket]] on the Trinkets table in chapter 5), a set of [[common clothes|common clothes]], and a belt [[pouch xphb|pouch]] containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 
 If you decide that your sailing career involved piracy, you can choose the Bad Reputation feature instead of the Ship's Passage feature.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ If you decide that your sailing career involved piracy, you can choose the Bad R
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Feature: Bad Reputation
 
@@ -125,11 +128,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

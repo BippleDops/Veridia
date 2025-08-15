@@ -1,3 +1,12 @@
+---
+title: Crystal Ball of Mind Reading Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal Ball of Mind Reading Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 17) with it. In addition, you can cast [[detect-thoughts-xphb|Detect Thoughts]] (save DC 17) targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this [[detect-thoughts-xphb|Detect Thoughts]] spell to maintain it during its duration, but it ends if the [[scrying-xphb|Scrying]] spell ends.
+While touching this crystal orb, you can cast [[scrying xphb|Scrying]] (save DC 17) with it. In addition, you can cast [[detect thoughts xphb|Detect Thoughts]] (save DC 17) targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this [[detect thoughts xphb|Detect Thoughts]] spell to maintain it during its duration, but it ends if the [[scrying xphb|Scrying]] spell ends.
 
 *Source: Dungeon Master's Guide (2024) p. 159. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

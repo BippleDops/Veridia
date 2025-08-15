@@ -1,3 +1,12 @@
+---
+title: Reverse Gravity Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reverse Gravity Xphb
 
 ---
@@ -36,14 +45,13 @@ world: Both
 - **Components:** V, S, M (a lodestone and iron filings)
 - **Duration:** Concentration, up to 1 minute
 
-This spell reverses gravity in a 50-foot-radius, 100-foot high [[cylinder-area-of-effect-xphb|Cylinder]] centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the [[cylinder-area-of-effect-xphb|Cylinder]]. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
+This spell reverses gravity in a 50-foot-radius, 100-foot high [[cylinder area of effect xphb|Cylinder]] centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the [[cylinder area of effect xphb|Cylinder]]. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
 
-If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the [[cylinder-area-of-effect-xphb|Cylinder]]'s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
+If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the [[cylinder area of effect xphb|Cylinder]]'s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 312. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

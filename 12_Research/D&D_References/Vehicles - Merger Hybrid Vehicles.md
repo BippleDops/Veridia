@@ -1,3 +1,12 @@
+---
+title: Vehicles - Merger Hybrid Vehicles
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Merger Hybrid Vehicles
 
 ---
@@ -26,7 +35,6 @@ world: Both
 
 Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ Impossible vessels for zones where physics fails and timelines knot. Requires cl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Procedures
 1) Identify zone type from [[Complete Reality Merger System]]
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Knowledge Domain
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Knowledge Domain
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Knowledge Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -59,7 +68,7 @@ world: Both
 
 ### Knowledge Domain (Level 3)
 
-The gods of knowledge—including Oghma, Boccob, [[dragonlance-gilean-phb|Gilean]], [[eberron-aureon|Aureon]], and [[egyptian-thoth|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[dragonlance-reorx-phb|Reorx]], [[eberron-onatar|Onatar]], [[nonhuman-moradin|Moradin]], [[greek-hephaestus|Hephaestus]], and [[celtic-goibhniu|Goibhniu]].
+The gods of knowledge—including Oghma, Boccob, [[dragonlance gilean phb|Gilean]], [[eberron aureon|Aureon]], and [[egyptian thoth|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[dragonlance reorx phb|Reorx]], [[eberron onatar|Onatar]], [[nonhuman moradin|Moradin]], [[greek hephaestus|Hephaestus]], and [[celtic goibhniu|Goibhniu]].
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -67,11 +76,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[command-xphb|command]], [[identify-xphb|identify]] |
-| 3rd | [[augury-xphb|augury]], [[suggestion-xphb|suggestion]] |
-| 5th | [[nondetection-xphb|nondetection]], [[speak-with-dead-xphb|speak with dead]] |
-| 7th | [[arcane-eye-xphb|arcane eye]], [[confusion-xphb|confusion]] |
-| 9th | [[legend-lore-xphb|legend lore]], [[scrying-xphb|scrying]] |
+| 1st | [[command xphb|command]], [[identify xphb|identify]] |
+| 3rd | [[augury xphb|augury]], [[suggestion xphb|suggestion]] |
+| 5th | [[nondetection xphb|nondetection]], [[speak with dead xphb|speak with dead]] |
+| 7th | [[arcane eye xphb|arcane eye]], [[confusion xphb|confusion]] |
+| 9th | [[legend lore xphb|legend lore]], [[scrying xphb|scrying]] |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
@@ -92,7 +101,7 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [[suggestion-xphb|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [[suggestion xphb|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Visions of the Past (Level 17)
 
@@ -109,7 +118,6 @@ Holding an object as you meditate, you can see visions of the object's previous 
 
 As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -121,11 +129,6 @@ As you meditate, you see visions of recent events in your immediate vicinity (a 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -143,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## 12_Research Specific Content
 

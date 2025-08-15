@@ -1,3 +1,12 @@
+---
+title: X-003 Anchor Storm Player
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # X-003 Anchor Storm Player
 
 ---

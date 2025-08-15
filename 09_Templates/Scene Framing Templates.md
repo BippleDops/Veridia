@@ -1,3 +1,12 @@
+---
+title: Scene Framing Templates
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scene Framing Templates
 
 ---
@@ -22,7 +31,6 @@ world: Both
 updated: '2025-08-13T01:18:31.118853+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ updated: '2025-08-13T01:18:31.118853+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Strong Opens for Every Session Type
 
@@ -295,7 +298,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a witness for love
@@ -308,7 +310,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

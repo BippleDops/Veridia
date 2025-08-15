@@ -1,3 +1,12 @@
+---
+title: Elf Sea Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elf Sea Mtf
 
 ---
@@ -63,7 +72,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sea Elf Training
 
-You have proficiency with the [[spear-xphb|spear]], [[trident-xphb|trident]], [[light-crossbow-xphb|light crossbow]], and [[net-xphb|net]].
+You have proficiency with the [[spear xphb|spear]], [[trident xphb|trident]], [[light crossbow xphb|light crossbow]], and [[net xphb|net]].
 
 ### Child of the Sea
 
@@ -77,7 +86,6 @@ Using gestures and sounds, you can communicate simple ideas with any beast that 
 
 You can speak, read, and write Aquan.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -89,11 +97,6 @@ You can speak, read, and write Aquan.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -163,16 +166,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

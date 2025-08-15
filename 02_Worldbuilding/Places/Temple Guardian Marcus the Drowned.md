@@ -23,17 +23,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg]]
 
 # The Drowned Temple
 *Ancient Sacred Site of Submerged Faith*
 
 > *"In the deepest currents where light fears to tread, where the weight of water becomes the weight of eternity, there stands the Drowned Temple - a monument to faith that death itself cannot diminish, tended by those who found holiness in their own drowning."*
 > — [[Sacred Historian Coral Deepscribe]], *Lost Sanctuaries of Aquabyssos*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,24 +58,17 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
@@ -89,12 +78,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -290,12 +277,9 @@ Ongoing situations affecting Temple Guardian Marcus the Drowned:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## A Day in the Life
 

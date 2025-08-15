@@ -1,3 +1,12 @@
+---
+title: Prismari Trinket Scc
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Prismari Trinket Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 # Prismari Trinket
 *Adventuring gear*  
 
-When you make your character, you may roll once on the Prismari Trinkets table, instead of on the [[trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Prismari Trinkets table, instead of on the [[trinket xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
 
 **Prismari Trinkets**
 
@@ -48,7 +57,6 @@ When you make your character, you may roll once on the Prismari Trinkets table, 
 
 *Source: Strixhaven: A Curriculum of Chaos p. 32*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -60,11 +68,6 @@ When you make your character, you may roll once on the Prismari Trinkets table, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,11 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Related Notes
 
@@ -94,7 +95,6 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Political_Ripple_Effects_Template
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Political_Ripple_Effects_Template
 
 ---
@@ -23,7 +32,6 @@ world: Both
 # Political Ripple Effects Template
 *Tracking How Player Actions Reshape Power, Authority, and Goverce*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Basic Information
 
@@ -293,7 +296,7 @@ world: Both
 **Cultural adaptation requirements**: [How politics changed traditions]
 
 ### Relevant Mechanics
-- [[Political System Rules]] - [How mechanics track political changes]
+- [[Political System Rules (02 Worldbuilding)]] - [How mechanics track political changes]
 - [[Faction Standing System]] - [How relationships are measured]
 
 ---
@@ -307,7 +310,6 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

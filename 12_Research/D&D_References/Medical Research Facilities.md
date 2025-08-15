@@ -1,3 +1,12 @@
+---
+title: Medical Research Facilities
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Medical Research Facilities
 
 ---
@@ -24,8 +33,6 @@ world: Aquabyssos
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -38,11 +45,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -461,7 +463,6 @@ A young researcher has made a revolutionary discovery but refuses to share it wi
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -472,11 +473,9 @@ A young researcher has made a revolutionary discovery but refuses to share it wi
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

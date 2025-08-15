@@ -31,11 +31,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-lumengarde-lumengarde.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,7 +60,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
@@ -73,12 +68,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -88,9 +80,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
@@ -99,7 +88,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 Lumengarde is a breathtaking city grown rather than built, formed from cultivated bioluminescent coral, kelp, and engineered organisms. Located in the Gloom Gardens at 1,200 feet depth, the city pulses with natural light in patterns that serve as both illumination and communication. The [[Coral Courts]] maintain their primary seat of power here, and the city is renowned for its biological magic and living architecture.
@@ -111,7 +99,7 @@ The heart of Lumengarde, where the massive Mothercoral provides the template for
 Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. [[Master Cultivator Thalia Greenglow]] oversees production and experimentation.
 
 ### The Symbiont Quarter
-Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper-Witch Naia Softcurrent]] helps newcomers bond with living structures.
+Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper Witch Naia Softcurrent]] helps newcomers bond with living structures.
 
 ### The Enzyme Markets
 Commercial district where biological products are traded. [[The Phosphor Markets]] maintain a permanent outpost here, managed by [[Merchant Delilah Currentrunner]]'s cousin.
@@ -209,12 +197,9 @@ Lumengarde is a notable location characterized by its unique features and strate
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

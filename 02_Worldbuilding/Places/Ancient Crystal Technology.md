@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-ancient-crystal-technology-ancient-crystal-technology.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,18 +56,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -81,17 +72,14 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -139,8 +127,6 @@ Ongoing situations affecting Ancient Crystal Technology:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A document has gone missing and war looms
@@ -162,7 +148,6 @@ Ongoing situations affecting Ancient Crystal Technology:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

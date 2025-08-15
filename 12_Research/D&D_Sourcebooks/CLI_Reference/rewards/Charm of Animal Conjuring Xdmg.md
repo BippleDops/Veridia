@@ -1,3 +1,12 @@
+---
+title: Charm of Animal Conjuring Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charm of Animal Conjuring Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Charm of Animal Conjuring
 
-This Charm allows you to cast [[conjure-animals-xphb|Conjure Animals]]. Once used three times, the Charm vanishes from you.
+This Charm allows you to cast [[conjure animals xphb|Conjure Animals]]. Once used three times, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ This Charm allows you to cast [[conjure-animals-xphb|Conjure Animals]]. Once use
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,21 +66,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

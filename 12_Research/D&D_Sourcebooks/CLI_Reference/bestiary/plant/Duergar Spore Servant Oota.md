@@ -1,3 +1,12 @@
+---
+title: Duergar Spore Servant Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Duergar Spore Servant Oota
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
 
-# [[duergar-spore-servant-oota|Duergar Spore Servant]]
+# [[duergar spore servant oota|Duergar Spore Servant]]
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -39,7 +48,7 @@ world: Both
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[[scale-mail-xphb|scale mail]], [[shield-xphb|shield]]"
+"ac_class": "[[scale mail xphb|scale mail]], [[shield xphb|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -66,7 +75,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -78,11 +86,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -118,7 +119,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

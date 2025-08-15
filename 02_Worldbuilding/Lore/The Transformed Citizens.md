@@ -35,12 +35,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Transformed Citizens
 
 *When Reality Changes, People Change With It*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,21 +66,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -151,7 +139,7 @@ Citizens experiencing memories from their alternate-reality selves:
 - **Identity Confusion**: Uncertainty about which memories are "real"
 - **Consciousness Merger**: Gradual integration of both sets of memories
 
-*Case Study: [[Blacksmith Cross-Hammer Grendel]]*
+*Case Study: [[Blacksmith Cross Hammer Grendel]]*
 A weapons maker from [[Aethermoor]] began experiencing memories of being a deep-sea pressure engineer. His metalworking improved dramatically, but he now speaks to his tools as if they were living creatures and has nightmares about drowning.
 
 **Reality Sensitivity:**
@@ -230,10 +218,10 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 
 ### The Hopeful Transformations
 
-**[[The Crystal-Touched Teacher, Miss Luminara]]:**
+**[[The Crystal Touched Teacher, Miss Luminara]]:**
 A schoolteacher in [[Crystalhaven]] developed small crystal formations around her eyes that allow her to see the inner light in every student. She uses this ability to identify children who need extra help and has revolutionized her teaching methods. While her appearance has changed, her gift has made her more beloved in her community.
 
-**[[The Depth-Blessed Fisherman, Captain Sal Deepcurrent]]:**
+**[[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]:**
 An Aquabyssos fisherman whose family was killed in a pressure accident developed the ability to breathe underwater and communicate with deep-sea creatures. He now leads rescue operations in areas too dangerous for normal divers and has saved dozens of lives. His transformation gave his life new meaning after devastating loss.
 
 **[[The Memory-Gifted Historian, Scholar Echo-Thought]]:**
@@ -247,7 +235,7 @@ A mother of three in [[Aquabyssos]] developed advanced aquatic adaptations and c
 **[[The Crystal-Consumed Merchant, Trader Glass-Eye Gorvin]]:**
 A successful merchant whose crystal integration progressed too rapidly. Most of his body has crystallized, leaving him with enhanced magical abilities but unable to move freely or maintain normal human relationships. He serves as an oracle for his community but has lost his individual identity.
 
-**[[The Memory-Fragmented Child, Little Luna Patchwork]]:**
+**[[The Memory Fragmented Child, Little Luna Patchwork]]:**
 A seven-year-old girl experiencing severe memory bleed from multiple alternate selves. She frequently becomes confused about which world she's in, calls family members by wrong names, and has nightmares about lives she's never lived. Her parents struggle to help her maintain a coherent sense of identity.
 
 ### The Dangerous Transformations
@@ -258,7 +246,7 @@ A crop farmer whose transformation was corrupted by [[Shadow Corruption]]. His c
 **[[The Depth-Mad Priest, Curator Deep-Voice Thren]]:**
 A religious leader whose direct contact with [[The Deep Mother]] left him with powerful prophetic abilities but also complete disconnection from surface reality. He speaks in riddles, breathes water more easily than air, and has visions so intense they cause physical pain to witness. His prophecies are accurate but delivered in ways that terrify his congregation.
 
-**[[The Reality-Sick Mayor, Lord Quantum Aldrich]]:**
+**[[The Reality Sick Mayor, Lord Quantum Aldrich]]:**
 A town leader whose exposure to [[Merged Reality Zones]] left him existing partially in both worlds simultaneously. He sometimes phases in and out of visibility, makes decisions based on information from alternate realities, and has difficulty distinguishing between what's real and what's possible. His condition makes goverce nearly impossible.
 
 ### Acceptance and Integration Communities
@@ -476,8 +464,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

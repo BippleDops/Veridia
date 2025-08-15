@@ -1,3 +1,12 @@
+---
+title: Holy Symbol of Ravenkind Cos
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Holy Symbol of Ravenkind Cos
 
 ---
@@ -35,7 +44,6 @@ The holy symbol is a platinum amulet shaped like the sun, with a large crystal e
 
 The holy symbol has 10 charges for the following properties. It regains `1d6 + 4` charges daily at dawn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,15 +55,10 @@ The holy symbol has 10 charges for the following properties. It regains `1d6 + 4
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hold Vampires
 
-As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[vampire-spawn-xmm|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[conditions#Paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
+As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[vampire spawn xmm|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[conditions#Paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
 
 ## Turn Undead
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest ancient magic
@@ -95,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

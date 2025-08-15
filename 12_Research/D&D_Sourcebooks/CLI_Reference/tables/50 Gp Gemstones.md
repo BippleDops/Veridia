@@ -1,3 +1,12 @@
+---
+title: 50 Gp Gemstones
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 50 Gp Gemstones
 
 ---
@@ -31,20 +40,19 @@ world: Both
 
 | dice: d12 | Stone Description |
 |-----------|-------------------|
-| 1 | [[bloodstone-xdmg|Bloodstone]] (opaque dark gray with red flecks) |
-| 2 | [[carnelian-xdmg|Carnelian]] (opaque orange to red-brown) |
-| 3 | [[chalcedony-xdmg|Chalcedony]] (opaque white) |
-| 4 | [[chrysoprase-xdmg|Chrysoprase]] (translucent green) |
-| 5 | [[citrine-xdmg|Citrine]] (transparent pale yellow-brown) |
-| 6 | [[jasper-xdmg|Jasper]] (opaque blue, black, or brown) |
-| 7 | [[moonstone-xdmg|Moonstone]] (translucent white with pale blue glow) |
-| 8 | [[onyx-xdmg|Onyx]] (opaque bands of black and white, or pure black or white) |
-| 9 | [[quartz-xdmg|Quartz]] (transparent white, smoky gray, or yellow) |
-| 10 | [[sardonyx-xdmg|Sardonyx]] (opaque bands of red and white) |
-| 11 | [[star-rose-quartz-xdmg|Star rose quartz]] (translucent rosy stone with white star-shaped center) |
-| 12 | [[zircon-xdmg|Zircon]] (transparent pale blue-green) |
+| 1 | [[bloodstone xdmg|Bloodstone]] (opaque dark gray with red flecks) |
+| 2 | [[carnelian xdmg|Carnelian]] (opaque orange to red-brown) |
+| 3 | [[chalcedony xdmg|Chalcedony]] (opaque white) |
+| 4 | [[chrysoprase xdmg|Chrysoprase]] (translucent green) |
+| 5 | [[citrine xdmg|Citrine]] (transparent pale yellow-brown) |
+| 6 | [[jasper xdmg|Jasper]] (opaque blue, black, or brown) |
+| 7 | [[moonstone xdmg|Moonstone]] (translucent white with pale blue glow) |
+| 8 | [[onyx xdmg|Onyx]] (opaque bands of black and white, or pure black or white) |
+| 9 | [[quartz xdmg|Quartz]] (transparent white, smoky gray, or yellow) |
+| 10 | [[sardonyx xdmg|Sardonyx]] (opaque bands of red and white) |
+| 11 | [[star rose quartz xdmg|Star rose quartz]] (translucent rosy stone with white star-shaped center) |
+| 12 | [[zircon xdmg|Zircon]] (transparent pale blue-green) |
 ^50-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Encounters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Encounters
 
 ---

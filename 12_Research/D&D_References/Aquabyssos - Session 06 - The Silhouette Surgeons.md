@@ -1,3 +1,12 @@
+---
+title: Aquabyssos - Session 06 - The Silhouette Surgeons
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos - Session 06 - The Silhouette Surgeons
 
 ---
@@ -45,7 +54,6 @@ updated: '2025-08-13T12:34:17.839818+00:00'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## The Nightmare Hospital
 
@@ -93,7 +96,7 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 **Discoveries**:
 - [[The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
-- [[Jasper "Three-Eyes" Flint]] is here—as a willing surgeon
+- [[Jasper "Three Eyes" Flint]] is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours
 
 **Skill Challenge - Stop the Surgery**:
@@ -143,7 +146,7 @@ Special mechanics for Marina confrontation:
 
 ## 🔍 Secrets & Clues
 1. The Surgeon Prime is composed of 12 different shadows
-2. [[Jasper "Three-Eyes" Flint]] volunteered to help harvest
+2. [[Jasper "Three Eyes" Flint]] volunteered to help harvest
 3. Every major NPC has a prototype prepared
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable
@@ -174,7 +177,6 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A letter reveals a conspiracy about the government
@@ -188,7 +190,6 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

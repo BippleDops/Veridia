@@ -1,3 +1,12 @@
+---
+title: Belt of Dwarvenkind Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Belt of Dwarvenkind Xdmg
 
 ---
@@ -31,17 +40,16 @@ world: Both
 While wearing this belt, you gain the following benefits:
 
 - **Dwarvish.** You know Dwarvish.  
-- **Friend of Dwarvenkind.** You have [[advantage-xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to interact with dwarves and duergar.  
+- **Friend of Dwarvenkind.** You have [[advantage xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to interact with dwarves and duergar.  
 - **Toughness.** Your Constitution increases by 2, to a maximum of 20.  
 
     In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you can grow one, or a thicker beard if you already have one.  
 
     If you aren't a dwarf or duergar, you gain the following additional benefits while wearing the belt:  
 - **Darkvision.** You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.  
-- **Resilience.** You have [[resistance-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.  
+- **Resilience.** You have [[resistance xphb|Resistance]] to Poison damage. You also have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.  
 
 *Source: Dungeon Master's Guide (2024) p. 235. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ While wearing this belt, you gain the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,14 +79,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

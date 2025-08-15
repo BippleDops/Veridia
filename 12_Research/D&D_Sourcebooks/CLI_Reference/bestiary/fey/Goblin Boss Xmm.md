@@ -1,3 +1,12 @@
+---
+title: Goblin Boss Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Goblin Boss Xmm
 
 ---
@@ -37,11 +46,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-boss-xmm-goblin-boss-xmm.svg)
 
-# [[goblin-boss-xmm|Goblin Boss]]
+# [[goblin boss xmm|Goblin Boss]]
 *Source: Monster Manual (2024) p. 143. Available in the SRD and the Free Rules (2024)*  
 
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Goblin bosses are often the most imaginative, disruptive, or forceful goblins. T
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Goblins
 
@@ -102,10 +105,10 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-      \ plus 2 (d4) Slashing damage if the attack roll had [[advantage-xphb|Advantage]]."
+      \ plus 2 (d4) Slashing damage if the attack roll had [[advantage xphb|Advantage]]."
     "name": "Scimitar"
   - "desc": "Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (d4) Piercing damage if the attack roll had [[advantage-xphb|Advantage]]."
+      \ damage, plus 2 (d4) Piercing damage if the attack roll had [[advantage xphb|Advantage]]."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The goblin takes the Disengage or Hide action."
@@ -142,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -150,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

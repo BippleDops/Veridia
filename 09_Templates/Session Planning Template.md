@@ -1,3 +1,12 @@
+---
+title: Session Planning Template
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Planning_Template
 
 ---
@@ -55,7 +64,6 @@ world: Both
 
 ### Threads to Resolve
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -79,26 +87,17 @@ world: Both
 ### Callbacks Improvements
 
 - Reference previous session moments
-- Reference previous session moments
-- Reference previous session moments
-- Reference previous session moments
 
 ### Environment Improvements
 
-- Use environment as active element
-- Use environment as active element
 - Use environment as active element
 
 ### Meta Improvements
 
 - Address any table/player issues
-- Address any table/player issues
-- Address any table/player issues
 
 ### Rulings Improvements
 
-- Pre-decide on likely rule questions
-- Pre-decide on likely rule questions
 - Pre-decide on likely rule questions
 
 ### Props Improvements
@@ -113,7 +112,6 @@ world: Both
 
 - Plant seeds for future sessions
 
-
 ## Related
 
 *Links to related content will be added here.*
@@ -126,11 +124,9 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

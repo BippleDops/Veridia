@@ -1,3 +1,12 @@
+---
+title: Periapt of Health Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Periapt of Health Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While wearing this pendant, you can take a [[actions#Magic|Magic]] action to regain `2d4 + 2` [[hit-points-xphb|Hit Points]]. Once used, this property can't be used again until the next dawn.
+While wearing this pendant, you can take a [[actions#Magic|Magic]] action to regain `2d4 + 2` [[hit points xphb|Hit Points]]. Once used, this property can't be used again until the next dawn.
 
-In addition, you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition while you wear this pendant.
+In addition, you have [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition while you wear this pendant.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ In addition, you have [[advantage-xphb|Advantage]] on saving throws to avoid or 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

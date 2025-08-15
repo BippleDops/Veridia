@@ -1,3 +1,12 @@
+---
+title: Economic_Ripple_Effects_Template
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Economic_Ripple_Effects_Template
 
 ---
@@ -23,7 +32,6 @@ world: Both
 # Economic Ripple Effects Template
 *Tracking How Player Actions Reshape Markets, Trade, and Wealth*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Basic Information
 
@@ -395,21 +398,17 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

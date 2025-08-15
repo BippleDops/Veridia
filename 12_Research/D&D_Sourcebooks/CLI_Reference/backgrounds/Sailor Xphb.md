@@ -1,3 +1,12 @@
+---
+title: Sailor Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sailor Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
-- **Feat.** [[tavern-brawler-xphb|Tavern Brawler]]  
+- **Feat.** [[tavern brawler xphb|Tavern Brawler]]  
 - **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Perception|Perception]]  
-- **Tool Proficiency.** [[navigators-tools-xphb|Navigator's Tools]]  
-- **Equipment.** Choose A or B: (A) [[dagger-xphb|Dagger]], [[navigators-tools-xphb|Navigator's Tools]], [[rope-xphb|Rope]], [[travelers-clothes-xphb|Traveler's Clothes]], 20 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[navigators tools xphb|Navigator's Tools]]  
+- **Equipment.** Choose A or B: (A) [[dagger xphb|Dagger]], [[navigators tools xphb|Navigator's Tools]], [[rope xphb|Rope]], [[travelers clothes xphb|Traveler's Clothes]], 20 GP; or (B) 50 GP  
 
 You lived as a seafarer, wind at your back and decks swaying beneath your feet. You've perched on barstools in more ports of call than you can remember, faced mighty storms, and swapped stories with folk who live beneath the waves.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You lived as a seafarer, wind at your back and decks swaying beneath your feet. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Phantom Warrior Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Phantom Warrior Cos
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-cos-phantom-warrior-cos.svg)
 
-# [[phantom-warrior-cos|Phantom Warrior]]
+# [[phantom warrior cos|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*  
 
 A phantom warrior is the spectral remt of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ A phantom warrior is the spectral remt of a willful soldier or knight who perish
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Task Driven
 
@@ -142,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

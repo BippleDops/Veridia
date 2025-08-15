@@ -1,3 +1,12 @@
+---
+title: Blessing of Wound Closure Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blessing of Wound Closure Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Blessing of Wound Closure
 
-This Blessing grants you the benefits of a [[periapt-of-wound-closure-xdmg|Periapt of Wound Closure]].
+This Blessing grants you the benefits of a [[periapt of wound closure xdmg|Periapt of Wound Closure]].
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ This Blessing grants you the benefits of a [[periapt-of-wound-closure-xdmg|Peria
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Mass Combat Evolution
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mass Combat Evolution
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 Expands mass combat with underwater armies, aerial fleets, parasite swarms, crystal resoce warfare, depth charges, and reality siege weapons.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ Expands mass combat with underwater armies, aerial fleets, parasite swarms, crys
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Modules
 - Undersea Formations: Current lines, pressure wedges
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

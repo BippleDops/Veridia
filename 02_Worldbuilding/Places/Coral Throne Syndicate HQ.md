@@ -28,7 +28,7 @@ difficulty: Levels 8-15
 related_entities:
 - '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson]]
+- '[[02 Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson]]
   Reef]]'
 ruler: '[[Coral Empress Scarletina]]'
 updated: '2025-08-13T12:34:17.255195+00:00'
@@ -37,14 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg]]
 
 # Coral Throne Syndicate HQ
 *The Crimson Fortress - Where Blood Coral Reigns Supreme*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,17 +69,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
@@ -97,24 +89,20 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
 The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[Coral Empress Scarletina]].
 
-Located in the depths of [[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
+Located in the depths of [[02 Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
 
 The headquarters represents the perfect synthesis of natural beauty and criminal pragmatism. The syndicate has learned to work with the living coral rather than against it, creating a fortress that grows and adapts over time, healing from damage and expanding to meet operational needs. This symbiotic relationship between criminal organization and living reef has created something unprecedented in the criminal underworld - a truly living stronghold.
 
@@ -147,7 +135,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Conference Rooms**: Where real scientific meetings provide perfect cover
 - **Security Screening**: Hidden scanners that identify threats while appearing decorative
 
-**Staff**: [[02_Worldbuilding/Lore/Director Marina Coralstudent]] - Actual marine biologist who believes she runs a legitimate research facility
+**Staff**: [[02 Worldbuilding/Lore/Director Marina Coralstudent]] - Actual marine biologist who believes she runs a legitimate research facility
 
 ##### Research Laboratories
 **Functional Scientific Facilities**: These labs conduct real research that serves dual purposes:
@@ -285,8 +273,8 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Memory Extraction**: Advanced facilities for directly accessing prisoners' memories
 
 **Interrogation Specialists**:
-- [[Truth-Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
-- [[Pain-Artist Cruelty Refined]] - Expert in physical persuasion techniques
+- [[Truth Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
+- [[Pain Artist Cruelty Refined]] - Expert in physical persuasion techniques
 - [[Memory Thief Recall Stealer]] - Specialized in magical memory extraction and manipulation
 
 #### Living Coral Guardians
@@ -688,8 +676,6 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -707,7 +693,6 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -719,7 +704,6 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

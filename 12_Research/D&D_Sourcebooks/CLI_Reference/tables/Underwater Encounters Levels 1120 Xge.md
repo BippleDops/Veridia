@@ -1,3 +1,12 @@
+---
+title: Underwater Encounters Levels 1120 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Underwater Encounters Levels 1120 Xge
 
 ---
@@ -31,19 +40,18 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | 1 [[sahuagin-baron-xmm|sahuagin baron]] with `d4` [[sahuagin-priest-xmm|sahuagin priestesses]] and `2d10` [[sahuagin-warrior-xmm|sahuagin]] |
-| 11-35 | `d10` [[killer-whale-xmm|killer whales]] |
-| 36-40 | A ghost ship passing overhead, containing `2d6 + 10` [[ghost-xmm|ghosts]] |
-| 41-60 | `d6` [[giant-shark-xmm|giant sharks]] |
+| 01-10 | 1 [[sahuagin baron xmm|sahuagin baron]] with `d4` [[sahuagin priest xmm|sahuagin priestesses]] and `2d10` [[sahuagin warrior xmm|sahuagin]] |
+| 11-35 | `d10` [[killer whale xmm|killer whales]] |
+| 36-40 | A ghost ship passing overhead, containing `2d6 + 10` [[ghost xmm|ghosts]] |
+| 41-60 | `d6` [[giant shark xmm|giant sharks]] |
 | 61-65 | A 1-mile-radius sphere of effervescent water that allows air-breathing creatures to breathe water while in the sphere |
-| 66-75 | `d10` [[water-elemental-xmm|water elementals]] |
+| 66-75 | `d10` [[water elemental xmm|water elementals]] |
 | 76-80 | A shimmering, blue-green portal to the Elemental Plane of Water |
-| 81-90 | `d4` [[marid-xmm|marids]] |
-| 91-96 | `d3` [[storm-giant-xmm|storm giants]] |
-| 97-99 | 1 [[dragon-turtle-xmm|dragon turtle]] |
-| 00 | 1 [[kraken-xmm|kraken]] |
+| 81-90 | `d4` [[marid xmm|marids]] |
+| 91-96 | `d3` [[storm giant xmm|storm giants]] |
+| 97-99 | 1 [[dragon turtle xmm|dragon turtle]] |
+| 00 | 1 [[kraken xmm|kraken]] |
 ^underwater-encounters-levels-1120
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

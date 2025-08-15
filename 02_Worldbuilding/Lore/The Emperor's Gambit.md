@@ -23,7 +23,7 @@ connections:
 - '[[Parliament of Echoes]]'
 - '[[Tidal Council]]'
 - '[[Deep Mother]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Marina Red Tide Coralheart   Aquabyssos]]'
 themes:
 - political_manipulation
 - long_term_strategy
@@ -34,9 +34,6 @@ world: dual
 evaluated: '2025-08-14'
 improvements: 20
 ---
-
-
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +62,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
@@ -79,7 +74,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
@@ -87,8 +81,6 @@ improvements: 20
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -102,8 +94,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## The Grand Strategy
 
@@ -179,7 +169,7 @@ Recent events suggest the Emperor's Gambit is entering its final phase:
 
 **The Scholar** manifests through research breakthroughs that occur simultaneously in both worlds, always related to protecting against cosmic intrusion.
 
-**The Crown-Heart** shows signs of activation within individuals connected to [[Marina Red Tide Coralheart - Aquabyssos]], suggesting the bloodline connection runs deeper than previously understood.
+**The Crown-Heart** shows signs of activation within individuals connected to [[Marina Red Tide Coralheart   Aquabyssos]], suggesting the bloodline connection runs deeper than previously understood.
 
 ## Mechanical Effects
 
@@ -258,8 +248,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Secret Connections
 

@@ -1,3 +1,12 @@
+---
+title: Sphinx of Secrets Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sphinx of Secrets Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-secrets-xmm-sphinx-of-secrets-xmm.svg)
 
-# [[sphinx-of-secrets-xmm|Sphinx of Secrets]]
+# [[sphinx of secrets xmm|Sphinx of Secrets]]
 *Source: Monster Manual (2024) p. 292*  
 
 Sphinxes of secrets are commonly associated with a site of great magic or learning. These immortal beings often outlive such locations, though, and might protect a site's ruins as they continue their own studies. Sphinxes of secrets fiercely guard their dwellings and research.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Sphinxes of secrets are commonly associated with a site of great magic or learni
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sphinxes
 
@@ -107,21 +110,21 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "traits":
   - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
       \ its permission. Wisdom ([[skills#Insight|Insight]]) checks\
-      \ made to ascertain its intentions or sincerity are made with [[disadvantage-xphb|Disadvantage]]."
+      \ made to ascertain its intentions or sincerity are made with [[disadvantage xphb|Disadvantage]]."
     "name": "Inscrutable"
-  - "desc": "The sphinx has [[advantage-xphb|Advantage]]\
+  - "desc": "The sphinx has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The sphinx makes three Claw attacks. It can replace one attack with a\
-      \ use of [[curses-xphb|Curse]] of the Riddle."
+      \ use of [[curses xphb|Curse]] of the Riddle."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage\
       \ plus 7 (2d6) Radiant damage."
     "name": "Claw"
   - "desc": "Intelligence Saving Throw: DC 15, one creature the sphinx can see within\
       \ 60 feet. Failure: 21 (6d6) Psychic damage, and the target is cursed with\
-      \ a riddle. The cursed target has [[disadvantage-xphb|Disadvantage]]\
+      \ a riddle. The cursed target has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls. In addition, if it takes the Magic action,\
       \ it must succeed on a DC 15 Intelligence saving throw or that action is wasted.\
       \ The cursed target can take a Study action to make a DC 15 Intelligence check,\
@@ -130,9 +133,9 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "name": "Curse of the Riddle"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      At will: [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]],\
-      \ [[prestidigitation-xphb|Prestidigitation]]\n\n1/day\
-      \ each: [[locate-object-xphb|Locate Object]], [[remove-curse-xphb|Remove\]]
+      At will: [[detect magic xphb|Detect Magic]], [[identify xphb|Identify]],\
+      \ [[prestidigitation xphb|Prestidigitation]]\n\n1/day\
+      \ each: [[locate object xphb|Locate Object]], [[remove curse xphb|Remove\]]
       \ Curse]]"
     "name": "Spellcasting"
 "source":
@@ -161,7 +164,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -173,7 +175,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

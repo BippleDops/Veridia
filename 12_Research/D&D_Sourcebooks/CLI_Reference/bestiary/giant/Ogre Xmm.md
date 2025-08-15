@@ -1,3 +1,12 @@
+---
+title: Ogre Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ogre Xmm
 
 ---
@@ -38,11 +47,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogrillon-ogre-xmm-ogrillon-ogre-xmm.svg)
 
-# [[ogre-xmm|Ogre]]
+# [[ogre xmm|Ogre]]
 *Source: Monster Manual (2024) p. 231. Available in the SRD and the Free Rules (2024)*  
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils the
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ogres
 
@@ -124,11 +127,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

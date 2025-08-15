@@ -1,3 +1,12 @@
+---
+title: Hobgoblin Devastator Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hobgoblin Devastator Mpmm
 
 ---
@@ -31,7 +40,6 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.png]]
 
 # [[hobgoblin-devastator-mpmm|Hobgoblin Devastator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
@@ -89,8 +97,8 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
       \ the spellcasting ability (spell save DC 13):\n\nAt will: [[mage-hand-xphb|mage hand]],\
-      \ [[prestidigitation-xphb|prestidigitation]]\n\n2/day\
-      \ each: [[fireball-xphb|fireball]], [[fly-xphb|fly]],\
+      \ [[prestidigitation xphb|prestidigitation]]\n\n2/day\
+      \ each: [[fireball xphb|fireball]], [[fly xphb|fly]],\
       \ [[fog-cloud-xphb|fog cloud]], [[gust-of-wind-xphb|gust of wind]],\
       \ [[lightning-bolt-xphb|lightning bolt]]"
     "name": "Spellcasting"
@@ -100,7 +108,6 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -113,11 +120,6 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -139,7 +141,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before the new moon
@@ -152,11 +153,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

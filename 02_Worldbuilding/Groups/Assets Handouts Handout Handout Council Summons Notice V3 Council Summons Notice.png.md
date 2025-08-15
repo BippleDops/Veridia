@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v3-council-summons-notice.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v3_council_summons_notice_png.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,14 +46,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -86,8 +78,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Organization Overview
 
@@ -215,7 +205,6 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Silver Sword Mtf
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Silver Sword Mtf
 
 ---
@@ -31,13 +40,12 @@ world: Both
 *Weapon, major (requires attunement by a creature that has psionic ability)*  
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
-You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[astral-projection-xphb|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[astral projection xphb|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 *Source: Mordenkainen's Tome of Foes p. 89*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ You have a +3 bonus to attack and damage rolls made with this magic weapon. On a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

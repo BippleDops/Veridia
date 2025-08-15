@@ -1,3 +1,12 @@
+---
+title: Layers of Arcadia Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Layers of Arcadia Xdmg
 
 ---
@@ -33,7 +42,6 @@ world: Both
 | Buxenus | Military forces gather their strength, amid pleasant valleys and orchards, to reclaim the lost layer of Menausus—now part of Mechanus. |
 ^layers-of-arcadia
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

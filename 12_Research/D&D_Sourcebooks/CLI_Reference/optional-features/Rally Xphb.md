@@ -1,3 +1,12 @@
+---
+title: Rally Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rally Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Rally
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [[bonus-action-xphb|Bonus Action]], you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the Superiority Die roll plus half your Fighter level (round down).
-
+As a [[bonus action xphb|Bonus Action]], you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [[temporary hit points xphb|Temporary Hit Points]] equal to the Superiority Die roll plus half your Fighter level (round down).
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ As a [[bonus-action-xphb|Bonus Action]], you can expend one Superiority Die to b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing information for power
@@ -72,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

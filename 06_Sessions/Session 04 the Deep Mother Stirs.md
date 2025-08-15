@@ -1,3 +1,12 @@
+---
+title: Session 04 the Deep Mother Stirs
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_04_The_Deep_Mother_Stirs
 
 ---
@@ -22,7 +31,6 @@ world: Aquabyssos
 
 *Level 4-5 Characters | 3-4 Hours | Investigation/Horror*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -46,7 +49,7 @@ The party's investigation into the strange memory loss epidemic leads them deepe
 
 ## Opening Scene: The Memory Harvest
 
-The session begins in the **Depth Archive**, where [[Archivist Coral-Mind Preserver]] has been working tirelessly to understand the memory extraction patterns the party discovered.
+The session begins in the **Depth Archive**, where [[Archivist Coral Mind Preserver]] has been working tirelessly to understand the memory extraction patterns the party discovered.
 
 ### Read Aloud
 *The Archive's bioluminescent reading chambers cast an eerie blue-green glow over countless memory pearls floating in preservation tanks. Archivist Coral-Mind looks up from her work, her usually steady hands trembling slightly.*
@@ -163,7 +166,6 @@ If the party chooses to proceed, they must navigate the treacherous **Leviathan 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Conjure Woodland Beings Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Conjure Woodland Beings Xphb
 
 ---
@@ -35,16 +44,15 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure nature spirits that flit around you in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. Whenever the [[emanation-area-of-effect-xphb|Emanation]] enters the space of a creature you can see and whenever a creature you can see enters the [[emanation-area-of-effect-xphb|Emanation]] or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes `5d8` Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
+You conjure nature spirits that flit around you in a 10-foot [[emanation area of effect xphb|Emanation]] for the duration. Whenever the [[emanation area of effect xphb|Emanation]] enters the space of a creature you can see and whenever a creature you can see enters the [[emanation area of effect xphb|Emanation]] or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes `5d8` Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 
-In addition, you can take the [[actions#Disengage|Disengage]] action as a [[bonus-action-xphb|Bonus Action]] for the spell's duration.
+In addition, you can take the [[actions#Disengage|Disengage]] action as a [[bonus action xphb|Bonus Action]] for the spell's duration.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes ranger|Ranger]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,11 +65,6 @@ In addition, you can take the [[actions#Disengage|Disengage]] action as a [[bonu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Related Notes
 
@@ -91,7 +92,6 @@ Mentioned in The Second Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

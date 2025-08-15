@@ -1,3 +1,12 @@
+---
+title: Guardian Portrait Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Guardian Portrait Cos
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guardian-portrait-cos-guardian-portrait-cos.svg)
 
-# [[guardian-portrait-cos|Guardian Portrait]]
+# [[guardian portrait cos|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ A guardian portrait looks like a finely rendered and beautifully framed work of 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Living Image
 
@@ -88,9 +91,9 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 "traits":
   - "desc": "The portrait's innate spellcasting ability is Intelligence (spell save\
       \ DC 12). The portrait can innately cast the following spells, requiring no\
-      \ material components:\n\n3/day each: [[counterspell-xphb|counterspell]],\
-      \ [[crown-of-madness-xphb|crown of madness]], [[hypnotic-pattern-xphb|hypnotic\]]
-      \ pattern]], [[telekinesis-xphb|telekinesis]]"
+      \ material components:\n\n3/day each: [[counterspell xphb|counterspell]],\
+      \ [[crown of madness xphb|crown of madness]], [[hypnotic pattern xphb|hypnotic\]]
+      \ pattern]], [[telekinesis xphb|telekinesis]]"
     "name": "Innate Spellcasting"
   - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
       \ magic that animates an object is dispelled when the construct drops to 0 hit\
@@ -98,8 +101,8 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The portrait is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
+      \ while in the area of an [[antimagic field xphb|antimagic field]].\
+      \ If targeted by [[dispel magic xphb|dispel magic]],\
       \ the portrait must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or become [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
@@ -129,10 +132,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- A prisoner has gone missing and evil awakens
 - A prisoner has gone missing and evil awakens
 - An heirloom has gone missing and truth emerges
 - A noble needs help stealing before the festival

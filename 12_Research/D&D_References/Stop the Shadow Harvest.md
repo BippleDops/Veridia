@@ -1,3 +1,12 @@
+---
+title: Stop the Shadow Harvest
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stop the Shadow Harvest
 
 ---
@@ -59,7 +68,6 @@ Unlike broad anti-shadow movements that oppose shadow integration generally, the
 
 The movement emerged following a series of incidents where prominent citizens were discovered to have been replaced by shadow-touched duplicates with modified memories. As investigations revealed the scope of memory manipulation throughout Aquabyssos society, survivors began organizing to protect themselves and expose the networks responsible for what they call "The Silent Genocide."
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -71,11 +79,6 @@ The movement emerged following a series of incidents where prominent citizens we
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organizational Structure
 
@@ -350,7 +353,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and chaos spreads
@@ -365,11 +367,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

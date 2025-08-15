@@ -1,3 +1,12 @@
+---
+title: Necklace of Adaptation Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Necklace of Adaptation Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While wearing this necklace, you can breathe normally in any environment, and you have [[advantage-xphb|Advantage]] on saving throws made to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
+While wearing this necklace, you can breathe normally in any environment, and you have [[advantage xphb|Advantage]] on saving throws made to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
 
 *Source: Dungeon Master's Guide (2024) p. 280. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ While wearing this necklace, you can breathe normally in any environment, and yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

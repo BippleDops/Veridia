@@ -1,3 +1,12 @@
+---
+title: Shadow Marina
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Marina
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # Shadow Marina
 *The Phantom Fleet, Harbormasters of the Void, The Twilight Tide*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Marina operates as [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s premier shadow-touched maritime organization, controlling interdimensional shipping routes and managing harbor facilities that exist partially outside normal reality. They provide essential maritime services for shadow commerce while maintaining a network of vessels capable of sailing between dimensions. More than just a port authority, they represent a fusion of traditional seafaring culture with supernatural logistics, bridging the gap between conventional maritime trade and shadow realm commerce.
@@ -257,8 +260,6 @@ Shadow Marina is a undersea element of the setting, known for bioluminescent glo
 ## Lore Details
 
 Legends speak of Shadow Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Marina.
-
-
 
 ## Plot Hooks
 

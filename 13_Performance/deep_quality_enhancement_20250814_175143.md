@@ -48,13 +48,11 @@ Generated: 2025-08-14T17:51:43.994416
 ---
 *Deep quality enhancement complete. Content is now richly interconnected.*
 
-
 ## Connections
 
 - See also: [[Master Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[Side Adventures]]
-
 
 ## DM Notes
 

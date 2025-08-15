@@ -1,3 +1,12 @@
+---
+title: Aethermoor_Airships
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor_Airships
 
 ---
@@ -22,7 +31,6 @@ world: Aethermoor
 
 Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,11 +42,6 @@ Crystal-powered vessels that ride currents, gravity folds, and starlight. Integr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Crystal-Powered Airships (Examples)
 - Harmonium Skiff (Resot levitation; silent running)
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -96,11 +98,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

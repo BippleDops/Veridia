@@ -24,17 +24,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-tethyan-hegemony-tethyan-hegemony.svg]]
 
 # Tethyan Hegemony - The First Democracy of the Deep
 *Where Ancient Wisdom Meets Democratic Ideals*
 
 > *"In the depths where pressure crushes dreams, the Tethyan Hegemony proves that even the deepest currents can carry the voice of the people. Here, beneath leagues of crushing water, democracy does not drown—it evolves."*
 > — [[Constitutional Scholar Valdris Deepthought]], *Principles of Aquatic Goverce*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,20 +59,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -86,7 +75,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -95,7 +83,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -535,7 +522,7 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 - [[Moderate Depth Coalition]] - Centrist coalition
 
 **Related Concepts**:
-- [[Pressure-Weighted Representation]] - Unique democratic system
+- [[Pressure Weighted Representation]] - Unique democratic system
 - [[The Great Democratic Renewal]] - Current reform movement
 - [[Democratic Technology Development]] - Technological innovation
 - [[Kelp Forest Constituencies]] - Environmental democratic movement
@@ -585,8 +572,6 @@ Ongoing situations affecting Tethyan Hegemony:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

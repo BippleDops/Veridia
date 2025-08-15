@@ -1,3 +1,12 @@
+---
+title: The Leviathan Cult
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Leviathan Cult
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T01:18:36.754932+00:00'
 # The Leviathan Cult
 *In the Deep We Trust, From the Deep We Rise*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ updated: '2025-08-13T01:18:36.754932+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Leviathan Cult is a fanatical religious organization dedicated to awakening and serving the ancient sea monsters that slumber in the deepest ocean trenches. Led by **High Priest Dagon Deepcaller**, a half-human half-aboleth hybrid, they believe that the surface world must be cleansed and returned to the sea to appease their primordial masters. They operate from [[The Sunken Cathedral of Stars|02 Worldbuilding/Places/The Sunken Cathedral Of Stars]], conducting dark rituals and breeding monstrous servants.
@@ -92,21 +95,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

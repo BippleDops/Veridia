@@ -1,3 +1,12 @@
+---
+title: Hewards Handy Haversack Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hewards Handy Haversack Xdmg
 
 ---
@@ -32,16 +41,15 @@ world: Both
 
 This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 200 pounds of material, not exceeding a volume of 25 cubic feet. The central pouch can hold up to 500 pounds of material, not exceeding a volume of 64 cubic feet. The haversack always weighs 5 pounds, regardless of its contents.
 
-Retrieving an item from the haversack requires a [[actions#Utilize|Utilize]] action or a [[bonus-action-xphb|Bonus Action]] (your choice). When you reach into the haversack for a specific item, the item is always magically on top.
+Retrieving an item from the haversack requires a [[actions#Utilize|Utilize]] action or a [[bonus action xphb|Bonus Action]] (your choice). When you reach into the haversack for a specific item, the item is always magically on top.
 
 If any of its pouches is overloaded, pierced, or torn, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an Artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth unharmed, and the haversack must be put right before it can be used again.
 
 Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing the haversack inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], [[portable-hole-xdmg|Portable Hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-xphb|Total Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the haversack inside an extradimensional space created by a [[bag of holding xdmg|Bag of Holding]], [[portable hole xdmg|Portable Hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover xphb|Total Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 269. Available in the SRD (as "Handy Haversack") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ Placing the haversack inside an extradimensional space created by a [[bag-of-hol
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,14 +79,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

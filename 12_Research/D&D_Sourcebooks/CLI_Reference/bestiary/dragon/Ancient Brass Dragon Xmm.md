@@ -1,3 +1,12 @@
+---
+title: Ancient Brass Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ancient Brass Dragon Xmm
 
 ---
@@ -29,13 +38,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png]]
 
 # [[ancient-brass-dragon-xmm|Ancient Brass Dragon]]
 *Source: Monster Manual (2024) p. 56. Available in the SRD and the Free Rules (2024)*  
 
 Ancient brass dragons create worlds-spanning networks. They combat forces of repression and misinformation, helping people learn from the mistakes of the past. Either personally or through webs of messengers, ancient brass dragons keep allies informed about challenges they can face together.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +55,6 @@ Ancient brass dragons create worlds-spanning networks. They combat forces of rep
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Brass Dragons
 
@@ -131,7 +133,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\nAt\
       \ will: [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor\]]
       \ Illusion]], [[scorching-ray-xphb|Scorching Ray]]\
-      \ (level 3 version), [[shapechange-xphb|Shapechange]]\
+      \ (level 3 version), [[shapechange xphb|Shapechange]]\
       \ (Beast or Humanoid form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ required to maintain the spell), [[speak-with-animals-xphb|Speak with Animals]]\n\
@@ -141,11 +143,11 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]\
     "name": "Blazing Light"
-  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "Dexterity Saving Throw: DC 20, one creature the dragon can see within\
-      \ 120 feet. Failure: 36 (8d8) Fire damage, and the target's [[speed-xphb|Speed]]\
+      \ 120 feet. Failure: 36 (8d8) Fire damage, and the target's [[speed xphb|Speed]]\
       \ is halved until the end of its next turn. Failure or Success: The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Scorching Sands"
@@ -187,14 +189,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

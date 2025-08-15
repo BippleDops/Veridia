@@ -1,3 +1,12 @@
+---
+title: Desert Encounters Levels 510 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Desert Encounters Levels 510 Xge
 
 ---
@@ -31,54 +40,53 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
-| 02 | `2d4` [[jackalwere-xmm|jackalweres]] |
+| 01 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
+| 02 | `2d4` [[jackalwere xmm|jackalweres]] |
 | 03 | `2d6` [[hobgoblin-warrior-xmm|hobgoblins]] |
 | 04 | `1d4 + 3` [[dust-mephit-xmm|dust mephits]] |
 | 05 | `d6` [[swarm-of-insects-xmm|swarm of insects]] |
 | 06 | 1 [[giant-constrictor-snake-xmm|giant constrictor snake]] |
-| 07-08 | 1 [[lion-xmm|lion]] |
+| 07-08 | 1 [[lion xmm|lion]] |
 | 09-10 | `2d4` [[gnoll-warrior-xmm|gnolls]] |
 | 11-12 | `2d6` [[giant-toad-xmm|giant toads]] |
-| 13-17 | 1 [[mummy-xmm|mummy]] |
+| 13-17 | 1 [[mummy xmm|mummy]] |
 | 18-20 | `1d8 + 1` [[giant-vulture-xmm|giant vultures]] |
 | 21-25 | A stone obelisk partly buried in the sand |
-| 26-28 | 1 [[ogre-xmm|ogre]] with `d3` [[ogrillon-ogre-xmm|half-ogres]] |
+| 26-28 | 1 [[ogre xmm|ogre]] with `d3` [[ogrillon-ogre-xmm|half-ogres]] |
 | 29-35 | `d10` [[giant-hyena-xmm|giant hyenas]] |
 | 36-40 | `1d6 + 1` empty tents |
 | 41-43 | `1d6 + 2` [[thri-kreen-marauder-xmm|thri-kreen]] |
-| 44-46 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
+| 44-46 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
 | 47-50 | `1d6 + 3` [[death-dog-xmm|death dogs]] |
 | 51-52 | `d4` [[giant-scorpion-xmm|giant scorpions]] |
 | 53 | 1 [[fire-elemental-xmm|fire elemental]] |
 | 54-55 | 1 [[hobgoblin-captain-xmm|hobgoblin captain]] with `3d4` [[hobgoblin-warrior-xmm|hobgoblins]] |
-| 56 | `1d6 + 2` [[ogre-xmm|ogres]] |
-| 57-58 | `d4` [[lamia-xmm|lamias]] |
+| 56 | `1d6 + 2` [[ogre xmm|ogres]] |
+| 57-58 | `d4` [[lamia xmm|lamias]] |
 | 59-60 | 1 [[air-elemental-xmm|air elemental]] |
 | 61-65 | A meteorite resting at the bottom of a glassy crater |
-| 66 | `1d4 + 1` [[wight-xmm|wights]] |
+| 66 | `1d4 + 1` [[wight xmm|wights]] |
 | 67-68 | 1 [[young-brass-dragon-xmm|young brass dragon]] |
-| 69-70 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with `d3` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] and `3d6` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 69-70 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with `d3` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] and `3d6` [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
 | 71-72 | 1 [[cyclops-sentry-xmm|cyclops]] |
-| 73 | `d4` [[couatl-xmm|couatls]] |
-| 74-75 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
+| 73 | `d4` [[couatl xmm|couatls]] |
+| 74-75 | `d4` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
 | 76-80 | Strong winds that kick up dust and reduce visibility to `d6` feet for `d4` hours |
-| 81-83 | 1 [[revet-xmm|revet]] with `d3` [[wight-xmm|wights]] |
+| 81-83 | 1 [[revet xmm|revet]] with `d3` [[wight xmm|wights]] |
 | 84-85 | `1d8 + 1` [[phase-spider-xmm|phase spiders]] |
-| 86-87 | `1d6 + 2` [[weretiger-xmm|weretigers]] |
+| 86-87 | `1d6 + 2` [[weretiger xmm|weretigers]] |
 | 88-90 | `2d4` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
 | 91 | 1 [[young-blue-dragon-xmm|young blue dragon]] |
 | 92 | `d4` [[cyclops-sentry-xmm|cyclopes]] |
-| 93 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
-| 94 | `d4` [[medusa-xmm|medusas]] |
+| 93 | `d3` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
+| 94 | `d4` [[medusa xmm|medusas]] |
 | 95 | 1 [[guardian-naga-xmm|guardian naga]] |
 | 96 | `d3` [[young-brass-dragon-xmm|young brass dragons]] |
-| 97 | 1 [[efreeti-xmm|efreeti]] |
-| 98 | 1 [[roc-xmm|roc]] |
+| 97 | 1 [[efreeti xmm|efreeti]] |
+| 98 | 1 [[roc xmm|roc]] |
 | 99 | 1 [[sphinx-of-lore-xmm|gynosphinx]] |
 | 00 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
 ^desert-encounters-levels-510
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -91,11 +99,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -113,7 +116,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -124,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

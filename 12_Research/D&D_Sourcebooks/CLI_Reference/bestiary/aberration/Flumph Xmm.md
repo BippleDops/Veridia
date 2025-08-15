@@ -1,3 +1,12 @@
+---
+title: Flumph Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flumph Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
 
-# [[flumph-xmm|Flumph]]
+# [[flumph xmm|Flumph]]
 *Source: Monster Manual (2024) p. 122*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Flumph
 
@@ -146,10 +149,10 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
       \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes\
       \ a stench for d4 hours, and has the [[conditions#Poisoned|Poisoned]]\
       \ condition while the stench lasts. Other creatures have the [[conditions#Poisoned|Poisoned]]\
-      \ condition while in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ condition while in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the coated target. The target can remove the stench on itself\
-      \ if it bathes during a [[short-rest-xphb|Short]]\
-      \ or [[long-rest-xphb|Long Rest]]."
+      \ if it bathes during a [[short rest xphb|Short]]\
+      \ or [[long rest xphb|Long Rest]]."
     "name": "Stench Spray (1/Day)"
 "source":
   - "XMM"
@@ -177,16 +180,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -199,7 +199,6 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

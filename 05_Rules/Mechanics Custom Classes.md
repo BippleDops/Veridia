@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,7 +34,6 @@ improvements: 20
 ### Interaction Improvements
 
 - Clarify interaction with multiclassing
-- Clarify interaction with multiclassing
 
 ### Simplified Improvements
 
@@ -46,34 +42,26 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Automated Improvements
 
-- Add macro/code for VTT implementation
 - Add macro/code for VTT implementation
 
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-
 
 ## Mechanic Overview
 

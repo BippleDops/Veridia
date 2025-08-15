@@ -1,3 +1,12 @@
+---
+title: Russet Mold Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Russet Mold Vgm
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Russet Mold
 *Generic Hazard*  
 
-Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [[vegepygmy-mpmm|vegepygmies]] infesting the forest nearby.
+Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [[vegepygmy mpmm|vegepygmies]] infesting the forest nearby.
 
 The mold is found only in places that are dark, warm, and wet. Russet mold that spreads out across a metal object can be mistaken for rust, and a successful DC 15 Intelligence ([[skills#Nature|Nature]]) or Wisdom ([[skills#Survival|Survival]]) check is required to identify it.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ The mold is found only in places that are dark, warm, and wet. Russet mold that 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Effects of the Mold
 
@@ -73,16 +76,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Ring of Three Wishes Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Three Wishes Xdmg
 
 ---
@@ -29,10 +38,9 @@ world: Both
 *Ring, legendary*  
 ![](/03_Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
 
-While wearing this ring, you can expend 1 of its 3 charges to cast [[wish-xphb|Wish]] from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can expend 1 of its 3 charges to cast [[wish xphb|Wish]] from it. The ring becomes nonmagical when you use the last charge.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ While wearing this ring, you can expend 1 of its 3 charges to cast [[wish-xphb|W
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -84,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

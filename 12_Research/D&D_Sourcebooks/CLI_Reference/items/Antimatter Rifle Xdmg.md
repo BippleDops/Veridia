@@ -1,3 +1,12 @@
+---
+title: Antimatter Rifle Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Antimatter Rifle Xdmg
 
 ---
@@ -32,11 +41,10 @@ world: Both
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Ammunition|Ammunition]], [[item properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,16 +74,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

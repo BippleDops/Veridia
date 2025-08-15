@@ -1,3 +1,12 @@
+---
+title: Flind Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flind Mpmm
 
 ---
@@ -34,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
 
-# [[flind-mpmm|Flind]]
+# [[flind mpmm|Flind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -50,7 +59,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[[breastplate-xphb|breastplate]]"
+"ac_class": "[[breastplate xphb|breastplate]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -104,7 +113,6 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -116,11 +124,6 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -141,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

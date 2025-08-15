@@ -1,3 +1,12 @@
+---
+title: Deinonychus Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deinonychus Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deinonychus-mpmm-deinonychus-mpmm.svg)
 
-# [[deinonychus-mpmm|Deinonychus]]
+# [[deinonychus mpmm|Deinonychus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.
@@ -84,7 +93,6 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -122,11 +125,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

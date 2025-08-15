@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v2-council-summons-notice.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v2_council_summons_notice_png.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,21 +46,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
@@ -73,7 +66,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
@@ -82,9 +74,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Organization Overview
 
@@ -213,11 +202,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #council #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Historical Timeline
 
@@ -235,7 +222,6 @@ What they claim to pursue
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

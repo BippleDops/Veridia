@@ -1,3 +1,12 @@
+---
+title: Reality Anchor Overrides
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reality Anchor Overrides
 
 ---
@@ -16,7 +25,6 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.520648+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ updated: '2025-08-13T01:18:34.520648+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -48,26 +51,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves-on-the-move-group-leader-mtf]]
+- [[dwarves on the move group leader mtf]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
-- [[government-sample-hierarchy-of-noble-titles]]
-- [[githzerai-groups-githzerai-group-leader-mtf]]
-- [[forms-of-government]]
+- [[government sample hierarchy of noble titles]]
+- [[githzerai groups githzerai group leader mtf]]
+- [[forms of government]]
 - [[guildhall]]
-- [[guild-artisan]]
-- [[guild-artisan-guild-merchant-variant]]
-- [[fiendish-cults-cult-organization-mtf]]
+- [[guild artisan]]
+- [[guild artisan guild merchant variant]]
+- [[fiendish cults cult organization mtf]]
 
 ## Related
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Related Notes
 
@@ -75,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: 7 Appendix B Monsters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 7 Appendix B Monsters
 
 ---
@@ -29,35 +38,34 @@ The monsters appearing in the adventure are presented in this section in alphabe
 
 - [[ash-zombie-lmop|Ash Zombie]]  
 - [[bugbear-warrior-xmm|Bugbear]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|Commoner]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultist]]  
-- [[doppelganger-xmm|Doppelganger]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|Evil Mage]]  
-- [[flameskull-xmm|Flameskull]]  
-- [[ghoul-xmm|Ghoul]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|Commoner]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultist]]  
+- [[doppelganger xmm|Doppelganger]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|Evil Mage]]  
+- [[flameskull xmm|Flameskull]]  
+- [[ghoul xmm|Ghoul]]  
 - [[giant-spider-xmm|Giant Spider]]  
 - [[goblin-warrior-xmm|Goblin]]  
-- [[grick-xmm|Grick]]  
-- [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]  
+- [[grick xmm|Grick]]  
+- [[/03 Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]  
 - [[hobgoblin-warrior-xmm|Hobgoblin]]  
-- [[/03_Mechanics/CLI/bestiary/npc/mormesk-the-wraith-lmop|Mormesk the Wraith]]  
-- [[/03_Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop|Nezznar the Black Spider]]  
-- [[nothic-xmm|Nothic]]  
-- [[/03_Mechanics/CLI/bestiary/npc/nundro-rockseeker-lmop|Nundro Rockseeker]]  
+- [[/03 Mechanics/CLI/bestiary/npc/mormesk-the-wraith-lmop|Mormesk the Wraith]]  
+- [[/03 Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop|Nezznar the Black Spider]]  
+- [[nothic xmm|Nothic]]  
+- [[/03 Mechanics/CLI/bestiary/npc/nundro-rockseeker-lmop|Nundro Rockseeker]]  
 - [[ochre-jelly-xmm|Ochre Jelly]]  
-- [[ogre-xmm|Ogre]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]]  
-- [[owlbear-xmm|Owlbear]]  
-- [[/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand Ruffian]]  
-- [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]]  
-- [[skeleton-xmm|Skeleton]]  
-- [[spectator-xmm|Spectator]]  
-- [[stirge-xmm|Stirge]]  
+- [[ogre xmm|Ogre]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Orc]]  
+- [[owlbear xmm|Owlbear]]  
+- [[/03 Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand Ruffian]]  
+- [[/03 Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]]  
+- [[skeleton xmm|Skeleton]]  
+- [[spectator xmm|Spectator]]  
+- [[stirge xmm|Stirge]]  
 - [[twig-blight-xmm|Twig Blight]]  
-- [[wolf-xmm|Wolf]]  
-- [[young-green-dragon-xmm|Young Green Dragon]] ([[/03_Mechanics/CLI/bestiary/npc/venomfang-lmop|Venomfang]])  
-- [[zombie-xmm|Zombie]]
-
+- [[wolf xmm|Wolf]]  
+- [[young-green-dragon-xmm|Young Green Dragon]] ([[/03 Mechanics/CLI/bestiary/npc/venomfang lmop|Venomfang]])  
+- [[zombie xmm|Zombie]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,11 +78,6 @@ The monsters appearing in the adventure are presented in this section in alphabe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -91,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

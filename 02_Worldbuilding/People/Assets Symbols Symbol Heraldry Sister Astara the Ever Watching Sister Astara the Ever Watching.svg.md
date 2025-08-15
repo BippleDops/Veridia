@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,8 +46,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
@@ -58,9 +53,6 @@ improvements: 20
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -74,17 +66,14 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Basic Information
 
@@ -194,7 +183,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[NPC Directory.base]] (rival)
+- [[npc directory.base]] (rival)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]] (enemy)
 - [[Captain Navigator]] (enemy)
 ---
@@ -203,7 +192,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Eagleblood - Trait: curse
-
 
 ## Economic Structure
 

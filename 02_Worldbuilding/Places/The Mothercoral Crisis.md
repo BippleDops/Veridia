@@ -42,17 +42,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-the-mothercoral-crisis.svg]]
 
 # The Mothercoral Crisis
 *When the Foundation of Life Begins to Die*
 
 > *"The Mothercoral has been the heart of our reef ecosystem for over a thousand years. If it dies, everything we've built, everything we are, dies with it. We have perhaps days, not weeks, to find a solution."*
 > — Marine Biologist Dr. Reef Tender, briefing the crisis response team
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -85,24 +81,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -116,7 +105,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Quest Overview
 
@@ -354,8 +342,6 @@ Ongoing situations affecting The Mothercoral Crisis:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -373,7 +359,6 @@ Ongoing situations affecting The Mothercoral Crisis:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

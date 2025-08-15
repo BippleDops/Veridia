@@ -1,3 +1,12 @@
+---
+title: Revenant Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Revet Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-graveyard-revet-xmm-graveyard-revet-xmm.svg)
 
-# [[revet-xmm|Revet]]
+# [[revet xmm|Revet]]
 *Source: Monster Manual (2024) p. 259*  
 
 Revets possess the bodies they had in life, using them to hunt down their killers. If their bodies are destroyed, they take control of new bodies that gradually change to resemble the revets' original forms.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Revets possess the bodies they had in life, using them to hunt down their killer
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Revets
 
@@ -94,17 +97,17 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
-  - "desc": "The revet regains 10 [[hit-points-xphb|Hit Points]]\
+  - "desc": "The revet regains 10 [[hit points xphb|Hit Points]]\
       \ at the start of each of its turns. If the revet takes Fire or Radiant damage,\
       \ this trait doesn't function at the start of its next turn. Its body is destroyed\
-      \ only if it starts its turn with 0 [[hit-points-xphb|Hit Points]]\
+      \ only if it starts its turn with 0 [[hit points xphb|Hit Points]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "If the revet dies, it revives 24 hours later in a different body unless\
-      \ [[dispel-evil-and-good-xphb|Dispel Evil and Good]]\
+      \ [[dispel evil and good xphb|Dispel Evil and Good]]\
       \ is cast on its corpse. If it revives, it animates a Humanoid corpse elsewhere\
       \ on the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [[hit-points-xphb|Hit Points]]."
+      \ block and returns with all its [[hit points xphb|Hit Points]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revet uses Vengeful Glare and makes two Slam attacks."
@@ -123,7 +126,7 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
   - "desc": "The revet curses one creature it can see within 30 feet of itself.\
       \ The revet knows the distance to and direction of the cursed target, even\
       \ if it is on a different plane of existence. The curse ends on the target if\
-      \ the revet uses this [[bonus-action-xphb|Bonus Action]]\
+      \ the revet uses this [[bonus action xphb|Bonus Action]]\
       \ on a different creature."
     "name": "Vow of Revenge (1/Day)"
 "source":
@@ -152,11 +155,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -166,7 +167,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

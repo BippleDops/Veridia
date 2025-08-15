@@ -1,3 +1,12 @@
+---
+title: Criminal_and_Underground_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Criminal_and_Underground_Guide
 
 ---
@@ -297,7 +306,6 @@ world: Both
 4. **Debt Collection**: Owe money to criminal organization
 5. **Whistleblower Protection**: Help criminal expose corruption
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -309,11 +317,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -327,7 +330,6 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -338,7 +340,6 @@ world: Both
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

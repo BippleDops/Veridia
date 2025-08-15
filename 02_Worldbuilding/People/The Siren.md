@@ -38,14 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg]]
 
 # The Siren
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -78,25 +74,17 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -106,7 +94,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 The Siren is [[Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[Aquabyssos]].
@@ -311,7 +298,6 @@ The Siren is a undersea element of the setting, known for bioluminescent glow an
 ## Lore Details
 
 Legends speak of The Siren as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Siren.
-
 
 ## Cultural Practices
 

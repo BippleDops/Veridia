@@ -31,10 +31,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-azure-citadel-azure-citadel.svg]]
 
 # Azure Citadel
 
@@ -43,7 +40,6 @@ improvements: 20
 **Government:** [[Parliament of Echoes]] Military Authority  
 **Population:** ~2,500 (military personnel, government officials, support staff)  
 **Notable Features:** Underwater fortress, crystal-powered defenses, temporal communication arrays
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,25 +68,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -104,7 +92,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and governmental stronghold. Built into a natural underwater mountain formation, its blue-crystal walls glow with protective enchantments while its strategic position allows oversight of all major shipping lanes and deep-sea approaches. From here, [[Admiral Thorne Blackwater]] coordinates the realm's defenses against threats from [[The Hadal Depths]].
@@ -523,8 +510,6 @@ Ongoing situations affecting Azure Citadel:
 - External threats
 - Opportunities arising
 
-
-
 ## Economic Structure
 
 ### Currency
@@ -542,7 +527,6 @@ Ongoing situations affecting Azure Citadel:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

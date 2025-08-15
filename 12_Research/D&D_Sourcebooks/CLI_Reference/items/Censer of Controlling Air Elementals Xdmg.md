@@ -1,3 +1,12 @@
+---
+title: Censer of Controlling Air Elementals Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Censer of Controlling Air Elementals Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/censer-of-controlling-air-elementals.webp#right)
 
-While gently swinging this censer, you can take a [[actions#Magic|Magic]] action to summon an [[air-elemental-xmm|Air Elemental]]. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb|Bonus Action]]. The censer can't be used this way again until the next dawn.
+While gently swinging this censer, you can take a [[actions#Magic|Magic]] action to summon an [[air elemental xmm|Air Elemental]]. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus action xphb|Bonus Action]]. The censer can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 243. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While gently swinging this censer, you can take a [[actions#Magic|Magic]] action
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

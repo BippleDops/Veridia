@@ -1,3 +1,12 @@
+---
+title: Rope of Mending Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rope of Mending Xdmg
 
 ---
@@ -34,7 +43,6 @@ This 50-foot coil of rope can repair itself when cut into any number of smaller 
 
 *Source: Dungeon Master's Guide (2024) p. 302*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ This 50-foot coil of rope can repair itself when cut into any number of smaller 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

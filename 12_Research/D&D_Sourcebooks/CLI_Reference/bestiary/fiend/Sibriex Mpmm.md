@@ -1,3 +1,12 @@
+---
+title: Sibriex Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sibriex Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-sibriex-mpmm.svg)
 
-# [[sibriex-mpmm|Sibriex]]
+# [[sibriex mpmm|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -107,15 +116,15 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
       \ any levels of [[conditions#Exhaustion|exhaustion]] caused\
       \ by it. Each failed save causes the target to gain another level of [[conditions#Exhaustion|exhaustion]].\
       \ Once the target reaches 6 levels of [[conditions#Exhaustion|exhaustion]],\
-      \ it dies and instantly transforms into a living [[manes-xmm|manes]]\
+      \ it dies and instantly transforms into a living [[manes xmm|manes]]\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [[wish-xphb|wish]] spell."
+      \ only by a [[wish xphb|wish]] spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \nAt will: [[command-xphb|command]], [[dispel-magic-xphb|dispel magic]],\
-      \ [[hold-monster-xphb|hold monster]]\n\n1/day:\
-      \ [[befuddlement-xphb|feeblemind]]"
+      \nAt will: [[command xphb|command]], [[dispel magic xphb|dispel magic]],\
+      \ [[hold monster xphb|hold monster]]\n\n1/day:\
+      \ [[befuddlement xphb|feeblemind]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sibriex uses Spellcasting."
@@ -131,7 +140,6 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -143,11 +151,6 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -169,11 +172,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -187,11 +188,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

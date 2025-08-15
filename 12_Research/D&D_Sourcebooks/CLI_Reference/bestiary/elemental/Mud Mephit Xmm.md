@@ -1,3 +1,12 @@
+---
+title: Mud Mephit Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mud Mephit Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mud-mephit-xmm-mud-mephit-xmm.svg)
 
-# [[mud-mephit-xmm|Mud Mephit]]
+# [[mud mephit xmm|Mud Mephit]]
 *Source: Monster Manual (2024) p. 207*  
 
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A combination of earth and water, mud mephits are crude, disgusting creatures. T
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mephits
 
@@ -97,7 +100,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mephit. Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"
@@ -134,21 +137,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

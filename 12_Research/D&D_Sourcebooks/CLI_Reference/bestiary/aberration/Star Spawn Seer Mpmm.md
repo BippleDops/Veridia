@@ -1,3 +1,12 @@
+---
+title: Star Spawn Seer Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Star Spawn Seer Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-seer-mpmm-star-spawn-seer-mpmm.svg)
 
-# [[star-spawn-seer-mpmm|Star Spawn Seer]]
+# [[star spawn seer mpmm|Star Spawn Seer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
@@ -41,7 +50,6 @@ A star spawn seer is most often encountered as the leader of a cult dedicated to
 An entity that appears as a star spawn seer in the Material Plane usually arrives disembodied. When a warlock or other spellcaster establishes communication with it, the seer-entity takes control of the mortal, transforming it into a star spawn seer. Whoever the mortal once was largely vanishes beneath the mass of tumorous skin than builds up in strange whorls all over the seer's body. The mortal's hands become bulky, flipper-like appendages able to grasp the seer's strange staff formed of a blend of flesh, bone, and star stuff.
 
 A star spawn seer is almost always accompanied by one or more star spawn hulks (also in this book). Not only is a hulk a powerful combatant, but when a seer deals psychic damage to a hulk, the hulk isn't hurt, and the effect ricochets off and expands to assault other creatures.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ A star spawn seer is almost always accompanied by one or more star spawn hulks (
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Star Spawn
 
@@ -175,11 +178,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

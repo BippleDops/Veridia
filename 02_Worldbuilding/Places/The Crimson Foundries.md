@@ -29,15 +29,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-crimson-foundries-the-crimson-foundries.svg)
 
 # The Crimson Foundries
 
 *Where War is Forged and Blood Flows Like Metal*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,8 +67,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
@@ -84,8 +79,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
@@ -94,17 +87,14 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -192,8 +182,6 @@ Ongoing situations affecting The Crimson Foundries:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Reality_Anchor_Paladin
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Reality_Anchor_Paladin
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Reality Anchor Paladin represents a sacred order dedicated to maintaining stability between [[Aquabyssos]] and [[Aethermoor]], preventing reality breaches, and protecting both worlds from dimensional threats. These paladins have sworn divine oaths to preserve the integrity of existence itself, serving as living anchors that stabilize reality through divine will and unwavering determination.
@@ -103,7 +106,6 @@ This build emphasizes the intersection of divine magic and cosmic responsibility
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

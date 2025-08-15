@@ -1,3 +1,12 @@
+---
+title: Save Queen Seraphina
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Save Queen Seraphina
 
 ---
@@ -28,9 +37,6 @@ accessibility:
 
 # Save Queen Seraphina
 
-![[04_Resources/Assets/Art/Lore/Save_Queen_Seraphina.png|Save Queen Seraphina Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +48,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary
 Save Queen Seraphina describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -66,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

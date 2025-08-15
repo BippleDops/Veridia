@@ -1,3 +1,12 @@
+---
+title: Acolyte Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Acolyte Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/acolyte.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
-- **Feat.** [[magic-initiate-xphb|Magic Initiate]] (Cleric)  
+- **Feat.** [[magic initiate xphb|Magic Initiate]] (Cleric)  
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Religion|Religion]]  
-- **Tool Proficiency.** [[calligraphers-supplies-xphb|Calligrapher's Supplies]]  
-- **Equipment.** Choose A or B: (A) [[calligraphers-supplies-xphb|Calligrapher's Supplies]], [[book-xphb|Book (prayers)]], [[holy-symbol-xphb|Holy Symbol]], [[parchment-xphb|Parchment]] (10 sheets), [[robe-xphb|Robe]], 8 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[calligraphers supplies xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[calligraphers supplies xphb|Calligrapher's Supplies]], [[book xphb|Book (prayers)]], [[holy symbol xphb|Holy Symbol]], [[parchment xphb|Parchment]] (10 sheets), [[robe xphb|Robe]], 8 GP; or (B) 50 GP  
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

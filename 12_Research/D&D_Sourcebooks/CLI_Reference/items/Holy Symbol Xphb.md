@@ -1,3 +1,12 @@
+---
+title: Holy Symbol Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Holy Symbol Xphb
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 **Items in this group:**
 
-- [[amulet-xphb|Amulet]]
-- [[emblem-xphb|Emblem]]
-- [[reliquary-xphb|Reliquary]]
+- [[amulet xphb|Amulet]]
+- [[emblem xphb|Emblem]]
+- [[reliquary xphb|Reliquary]]
 
 *Source: Player's Handbook (2024) p. 226*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

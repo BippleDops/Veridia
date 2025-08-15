@@ -1,3 +1,12 @@
+---
+title: Drow Kiaransalee Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Kiaransalee Mtf
 
 ---
@@ -45,7 +54,6 @@ Some of her most fervent followers seek out the secret of attaining undeath for 
 
 Drow believe that Kiaransalee was driven mad by returning from death as a god so many times, but her followers aren't discouraged by this assessment. Despite her madness, her actions are guided by a deep and devious cunning-a trait that drow attach more importance to than they do to sanity.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ Drow believe that Kiaransalee was driven mad by returning from death as a god so
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

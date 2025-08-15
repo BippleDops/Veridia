@@ -1,3 +1,12 @@
+---
+title: Condition Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Condition Xphb
 
 ---
@@ -45,7 +54,6 @@ A condition is a temporary game state. The definition of a condition says how it
 
 A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [[conditions#Exhaustion|Exhaustion]] condition is an exception to that rule.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ A condition doesn't stack with itself; a recipient either has a condition or doe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

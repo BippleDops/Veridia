@@ -1,3 +1,12 @@
+---
+title: Skilled Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Skilled Xphb
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Skilled
 *Source: Player's Handbook (2024) p. 201. Available in the SRD and the Free Rules (2024)*  
 
-You gain proficiency in any combination of three [[skill-list-skills-xphb|skills]] or tools of your choice.
+You gain proficiency in any combination of three [[skill list skills xphb|skills]] or tools of your choice.
 
 **Repeatable.** You can take this feat more than once.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You gain proficiency in any combination of three [[skill-list-skills-xphb|skills
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about this place
@@ -79,16 +81,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

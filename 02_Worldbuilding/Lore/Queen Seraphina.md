@@ -25,7 +25,7 @@ created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
 race: Human (Deep-Adapted)
-location: '[[The Royal Palace - Aquabyssos]]'
+location: '[[The Royal Palace   Aquabyssos]]'
 world: Aquabyssos
 role: Reigning Monarch
 affiliation: '[[The Coral Crown]]'
@@ -57,11 +57,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -94,23 +90,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -128,7 +118,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## The Deep Crown's Steady Hand in Turbulent Times
 
@@ -440,14 +429,14 @@ Queen Seraphina's location and movement patterns reflect their role as a leader,
 
 ### Primary Location
 
-**[[The Royal Palace - Aquabyssos]]** - Main base of operations
+**[[The Royal Palace   Aquabyssos]]** - Main base of operations
 - Typically found here during scheduled/formal occasions
 - Movement style: accompanied by retinue, formal protocols
 
 ### Secondary Locations
 
 **[[Academy of Deep Learning]]** - Regular destination 1
-**[[The Royal Palace - Aquabyssos]]** - Regular destination 2
+**[[The Royal Palace   Aquabyssos]]** - Regular destination 2
 
 ### Daily Schedule
 
@@ -666,14 +655,14 @@ Legends speak of Queen Seraphina as a nexus where past and present converge. Loc
 
 ### Primary Location
 
-**[[The Royal Palace - Aquabyssos]]** - Main base of operations
+**[[The Royal Palace   Aquabyssos]]** - Main base of operations
 - Typically found here during scheduled/formal occasions
 - Movement style: accompanied by retinue, formal protocols
 
 ### Secondary Locations
 
 **[[Academy of Deep Learning]]** - Regular destination 1
-**[[The Royal Palace - Aquabyssos]]** - Regular destination 2
+**[[The Royal Palace   Aquabyssos]]** - Regular destination 2
 
 ### Daily Schedule
 
@@ -717,15 +706,12 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Relationships
 
 - **Mentor**: [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
 - **Victim**: [[Captain Torren Stormwright]]
 - **Parent**: [[The Barnacle]]
 - **Debtor**: [[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]
-
 
 ## Economic Structure
 

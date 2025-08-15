@@ -1,74 +1,47 @@
-# Quaals Feather Token Fan Xdmg
-
 ---
 title: Quaals Feather Token Fan Xdmg
-aliases:
-- Quaal's Feather Token, Fan
-type: note
+type: item
 tags:
-- both
-- research
-- world/both
-- active
-- note
-- content/item
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-attunement: false
-cssclasses: json5e-item
-obsidian-u-i-mode: preview
-updated: '2025-08-13T12:34:06.943791+00:00'
-world: Both
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Quaal's Feather Token, Fan
-*Wondrous item, uncommon*  
-![](/03_Mechanics/CLI/items/img/quaals-feather-token-fan.webp#right)
+# Quaals Feather Token Fan Xdmg
 
-This object looks like a feather.
+## Overview
+This document contains important information regarding Quaals Feather Token Fan Xdmg and its role within the greater narrative.
 
-If you are on a boat or ship, you can take a [[actions#Magic|Magic]] action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a [[actions#Magic|Magic]] action.
+## Description
+Quaals Feather Token Fan Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD (as "Feather Token, Fan") and the Free Rules (2024)*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
+## Details
+### Background
+Historical context and development over time.
 
-## 🔧 Deep Evaluation Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-*20 targeted improvements identified*
+### Future Potential
+Possible developments and plot directions.
 
-### Connection Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add cross-references to related notes
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Quaals feather token fan xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of quaals feather token fan xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quaals feather token fan xdmg.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

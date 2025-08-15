@@ -15,12 +15,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Crystal-Enhanced Armor
 
 *Rare Ring*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,7 +50,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
@@ -62,14 +58,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -83,8 +74,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Description
 
@@ -101,7 +90,6 @@ Crystal-Enhanced Armor is a mysterious ring that radiates divine energy.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -120,7 +108,6 @@ Crystal-Enhanced Armor is a mysterious ring that radiates divine energy.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

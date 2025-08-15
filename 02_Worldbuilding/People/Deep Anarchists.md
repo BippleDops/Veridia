@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-anarchists-deep-anarchists.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,18 +53,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -78,11 +69,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
@@ -92,7 +81,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Player-Facing Summary
 
@@ -170,19 +158,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns humility
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: divine blood
 
-
 ## Relationships
 
 - **Parent**: [[Portrait NPC Quest the Runaway Golem Quest the Runaway Golem.svg]]
-- **Child**: [[Master Smith-Priest Vulcan Depthforge]]
+- **Child**: [[Master Smith Priest Vulcan Depthforge]]
 - **Creditor**: [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg]]
 - **Friend**: [[The Verdant Accord]]
-
 
 ## Historical Timeline
 
@@ -201,7 +186,6 @@ Member of House Dragonblood - Trait: divine blood
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -214,7 +198,6 @@ Member of House Dragonblood - Trait: divine blood
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -226,7 +209,6 @@ Member of House Dragonblood - Trait: divine blood
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

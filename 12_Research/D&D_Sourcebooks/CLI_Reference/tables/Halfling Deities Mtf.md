@@ -1,3 +1,12 @@
+---
+title: Halfling Deities Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Deities Mtf
 
 ---
@@ -27,17 +36,16 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[halfling-arvoreen-mtf|Arvoreen]] | LG | Vigilance, war | War | Crossed short swords |
-| [[halfling-brandobaris-mtf|Brandobaris]] | N | Adventure, thievery | Trickery | Halfling footprint |
-| [[halfling-charmalaine-mtf|Charmalaine]] | N | Keen senses, luck | Trickery | Burning boot print |
-| [[halfling-cyrrollalee-mtf|Cyrrollalee]] | LG | Hearth, home | Life | An open door |
-| [[halfling-sheela-peryroyl-mtf|Sheela Peryroyl]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
-| [[halfling-urogalan-mtf|Urogalan]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
-| [[halfling-yondalla-mtf|Yondalla]] | LG | Primary goddess of halflings | Life | Cornucopia |
+| [[halfling arvoreen mtf|Arvoreen]] | LG | Vigilance, war | War | Crossed short swords |
+| [[halfling brandobaris mtf|Brandobaris]] | N | Adventure, thievery | Trickery | Halfling footprint |
+| [[halfling charmalaine mtf|Charmalaine]] | N | Keen senses, luck | Trickery | Burning boot print |
+| [[halfling cyrrollalee mtf|Cyrrollalee]] | LG | Hearth, home | Life | An open door |
+| [[halfling sheela peryroyl mtf|Sheela Peryroyl]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
+| [[halfling urogalan mtf|Urogalan]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
+| [[halfling yondalla mtf|Yondalla]] | LG | Primary goddess of halflings | Life | Cornucopia |
 ^deity-alignment-province-suggested-domains-common-symbol
 
 *Appears in "Xanathar's Guide to Everything"
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for revenge
@@ -81,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

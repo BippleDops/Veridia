@@ -1,3 +1,12 @@
+---
+title: Optional Rule Abyssal Corruption Abyssal
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Optional Rule Abyssal Corruption Abyssal
 
 ---
@@ -34,9 +43,8 @@ world: Both
 | 1-4 | **Treachery.** The character gains the following flaw: "I can only achieve my goals by making sure that my companions don't achieve theirs." |
 | 5-7 | **Bloodlust.** The character gains the following flaw: "I enjoy killing for its own sake, and once I start, it's hard to stop." |
 | 8-9 | **Overwhelming Ambition.** The character gains the following flaw: "I am destined to rule the Abyss, and my companions are tools to that end." |
-| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [[dispel-evil-and-good-xphb|dispel evil and good]] or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
+| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [[dispel evil and good xphb|dispel evil and good]] or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
 ^abyssal-corruption
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a curse
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

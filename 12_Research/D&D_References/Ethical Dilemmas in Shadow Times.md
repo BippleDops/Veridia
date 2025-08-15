@@ -1,3 +1,12 @@
+---
+title: Ethical Dilemmas in Shadow Times
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ethical Dilemmas in Shadow Times
 
 ---
@@ -23,7 +32,6 @@ updated: '2025-08-13T01:18:34.568520+00:00'
 
 *"In times of shadow and corruption, even our most fundamental moral certainties become questions without clear answers."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ updated: '2025-08-13T01:18:34.568520+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -202,11 +205,9 @@ Legends speak of Ethical Dilemmas in Shadow Times as a nexus where past and pres
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

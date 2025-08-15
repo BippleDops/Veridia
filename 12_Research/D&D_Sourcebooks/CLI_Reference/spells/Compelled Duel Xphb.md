@@ -1,3 +1,12 @@
+---
+title: Compelled Duel Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Compelled Duel Xphb
 
 ---
@@ -33,14 +42,13 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has [[disadvantage-xphb|Disadvantage]] on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has [[disadvantage xphb|Disadvantage]] on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[list spells classes paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 252*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ The spell ends if you make an attack roll against a creature other than the targ
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for money
@@ -87,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

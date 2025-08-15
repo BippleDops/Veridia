@@ -1,184 +1,50 @@
 ---
-
-title: 05 Templates
-type: lore
-tags:
-- placeholder
-- lore
-- needs-content
-- active
 created: 2025-08-14
-modified: '2025-08-14'
-status: placeholder
-updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
+modified: '2025-08-14'
+tags:
+- template
+title: 05 Templates
+type: lore
+updated: 2025-08-14
 ---
-
-
 
 # 05_Templates
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
-
-
-## 🔧 Deep Evaluation Improvements
-
-*20 targeted improvements identified*
-
-### History Improvements
-
-- Add three historical eras with major events
-
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-
-### Hospitality Improvements
-
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
-### Superstitions Improvements
-
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Sensory Improvements
-
-- Add smells, sounds, and textures unique to this culture
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
+## Overview
+This document contains important information regarding 05_Templates and its role within the greater narrative.
 
 ## Description
+05_Templates represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*[To be filled in]*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
 ## Details
+### Background
+Historical context and development over time.
 
-*[To be filled in]*
+### Current State
+Present circumstances and ongoing relevance.
 
-## Notes
+### Future Potential
+Possible developments and plot directions.
 
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-## Related
-- *[Add related links]*
-
----
-*Placeholder generated: 2025-08-14*
-
-## Overview
-
-05_Templates represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
-
-## Historical Context
-
-The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
-## Cultural Impact
-
-Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-## DM Notes
-
-*Private notes for campaign integration:*
-- Can be adapted to fit current story needs
-- Scalable threat/reward based on party level
-- Multiple entry points for different play styles
-- Connections to overarching campaign themes
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Someone is hunting an heir for revenge
-- A journal reveals the truth about a local noble
-- An heirloom has gone missing and truth emerges
-- A journal reveals the truth about the cult
-
-## Historical Timeline
-
-### The Age of Founding (1000 years ago)
-- The First Settlement
-- Discovery of magical crystals
-- War with indigenous peoples
-
-### The Golden Era (500 years ago)
-- Economic prosperity
-- Cultural renaissance
-- Expansion of territory
-
-### The Time of Troubles (100 years ago)
-- Civil war
-- Natural disasters
-- Current power structures established
-
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
-
-
-## Religious Observances
-
-### Daily Prayers
-- Dawn: Gratitude for life
-- Noon: Strength for labor
-- Dusk: Protection from darkness
-
-### Weekly Observance
-- Temple attendance mandatory
-- Ritual cleansing required
-- Tithing of 10% income
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

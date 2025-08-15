@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,17 +47,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -70,12 +63,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Basic Information
 
@@ -203,7 +192,7 @@ This NPC can serve multiple roles:
 
 ## Relationships
 
-- **Parent**: [[Gareth_Ironforge]]
+- **Parent**: [[Gareth Ironforge]]
 - **Student**: [[Portrait NPC Quest the Betrayers Truth Quest the Betrayers Truth.svg]]
 - **Sibling**: [[Lady Jade Clawgrip]]
 - **Ally**: [[Portrait NPC Merchant Lord Cornelius Generous V1 Merchant Lord Cornelius Generous.svg]]

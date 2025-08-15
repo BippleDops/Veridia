@@ -34,15 +34,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-madame-whisper-madame-whisper.svg]]
 
 # Madame Whisper
 
 *"Information, my dear, is like the deep currents - it flows where it will, but those who know how to read the patterns can profit from its movement."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,25 +67,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -103,7 +91,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -216,8 +203,6 @@ Ongoing situations affecting Madame Whisper:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Secret Connections
 

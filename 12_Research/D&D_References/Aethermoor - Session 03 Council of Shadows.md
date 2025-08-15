@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 03 Council of Shadows
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 03 Council of Shadows
 
 ---
@@ -45,7 +54,6 @@ world: Aethermoor
 
 > *"In politics, the deadliest shadows are cast by those claiming to bring light."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 🎭 Strong Start
 The party is summoned to an emergency council, but arrives to find [[Lord Aurelius Goldwave]] murdered in his study, his body partially crystallized. A Purist Coalition pin is clutched in his dead hand, but the crystal pattern suggests magical assassination. City guards are already trying to arrest a Crimson Hand suspect.
@@ -178,11 +181,9 @@ During the midnight market raid, [[Brother Marcus Steelbane]] arrives franticall
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 

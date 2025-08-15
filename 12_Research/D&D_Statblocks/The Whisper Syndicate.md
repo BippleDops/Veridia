@@ -1,3 +1,12 @@
+---
+title: The Whisper Syndicate
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Whisper Syndicate
 
 ---
@@ -16,11 +25,9 @@ updated: '2025-08-13T01:18:36.718938+00:00'
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.png]]
 
 # The Whisper Syndicate
 *In Shadows We Trust, In Secrets We Trade*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -33,11 +40,6 @@ updated: '2025-08-13T01:18:36.718938+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Whisper Syndicate is [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s most powerful criminal organization, dealing in corrupted crystals, blackmail, and forbidden knowledge. Under [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s leadership, they've evolved from common criminals into a shadow government that knows everyone's secrets and profits from the kingdom's corruption.
@@ -92,7 +94,6 @@ Legends speak of The Whisper Syndicate as a nexus where past and present converg
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -259,7 +259,6 @@ modified: '2025-08-14'
 - Related: [[Historical Context]]
 - Connected to: [[Main Quest Line]]
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*

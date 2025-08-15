@@ -37,14 +37,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Seven Seals
 
-![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Seven_Seals.png|The Seven Seals Portrait]]
-
 *Ancient guardians of reality's foundations*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,7 +68,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
@@ -86,14 +80,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
@@ -103,9 +92,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -548,7 +534,7 @@ cr: 1/4
 ## See Also
 - [[Deep Mother]]
 - [[The Great Drowning]]
-- [[02_Worldbuilding/Groups/The Unsealed|02 Worldbuilding/Groups/The Unsealed]]
+- [[02 Worldbuilding/Groups/The Unsealed|02 Worldbuilding/Groups/The Unsealed]]
 - [[Reality Anchors]]
 - [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 
@@ -561,7 +547,6 @@ The Seven Seals is a undersea element of the setting, known for bioluminescent g
 ## Lore Details
 
 Legends speak of The Seven Seals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Seals.
-
 
 ## Economic Structure
 
@@ -580,7 +565,6 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

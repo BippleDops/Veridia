@@ -38,15 +38,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Umbral Exchange
 
 *The Shadow Market of Dimensional Commerce*
 
 > *"The Exchange exists in the spaces between spaces, where shadow meets substance and possibility becomes commodity. Here, traders don't simply exchange goods—they exchange fragments of reality itself, pieces of worlds that exist in the twilight between dimensions. But remember: in the realm of shadows, every transaction leaves its mark, and some debts can only be paid in darkness."*
 > — [[Prime Shadow Trader Whisper Voidwright]], Director of Umbral Commerce Operations
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,29 +72,21 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
@@ -107,7 +96,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -542,10 +530,10 @@ Involvement with Exchange operations provides numerous opportunities for charact
 - [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
 - [[The Liminal Trading Company]] - Major Exchange trading partner
 - [[Prime Shadow Trader Whisper Voidwright|02 Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
-- [[02_Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper|02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
-- [[02_Worldbuilding/People/Portal Engineer Shade Linkwright|02 Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
-- [[02_Worldbuilding/People/Cultural Liaison Twilight Bridgewalker|02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
-- [[02_Worldbuilding/People/Market Analyst Dream Trendwatcher|02 Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
+- [[02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper|02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
+- [[02 Worldbuilding/People/Portal Engineer Shade Linkwright|02 Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
+- [[02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker|02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
+- [[02 Worldbuilding/People/Market Analyst Dream Trendwatcher|02 Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
 
 The Umbral Exchange represents more than a technological achievement or economic infrastructure—it embodies Aquabyssos' bold vision of a future where the boundaries between dimensions become pathways for cooperation, understanding, and mutual prosperity. Through this remarkable system, the very concept of reality becomes fluid, commerce transcends physical limitations, and the impossible becomes merely another commodity in the marketplace of infinite possibility.
 
@@ -568,8 +556,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

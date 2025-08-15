@@ -1,3 +1,12 @@
+---
+title: Executioners Axe Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Executioners Axe Xdmg
 
 ---
@@ -36,7 +45,7 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the extra damage dealt.
+Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[temporary hit points xphb|Temporary Hit Points]] equal to the extra damage dealt.
 
 **Variants**:
 - [Executioner's Battleaxe](#Executioner's%20Battleaxe)
@@ -48,11 +57,10 @@ Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and y
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Light|Light]], [[item properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 259*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +73,6 @@ Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 

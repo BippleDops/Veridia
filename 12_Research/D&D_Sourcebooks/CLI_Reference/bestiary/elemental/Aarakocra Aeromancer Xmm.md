@@ -1,3 +1,12 @@
+---
+title: Aarakocra Aeromancer Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aarakocra Aeromancer Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-aeromancer-xmm-aarakocra-aeromancer-xmm.svg)
 
-# [[aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]
+# [[aarakocra aeromancer xmm|Aarakocra Aeromancer]]
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra aeromancers control magical winds from the endless storms of the Elemental Plane of Air.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Aarakocra aeromancers control magical winds from the endless storms of the Eleme
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Aarakocra
 
@@ -96,20 +99,20 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 "cr": "4"
 "actions":
   - "desc": "The aarakocra makes two Wind Staff attacks, and it can use Spellcasting\
-      \ to cast [[gust-of-wind-xphb|Gust of Wind]]."
+      \ to cast [[gust of wind xphb|Gust of Wind]]."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
       \ 7 (1d8 + 3) Bludgeoning damage plus 11 (2d10) Lightning damage."
     "name": "Wind Staff"
   - "desc": "The aarakocra casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \nAt will: [[elementalism-xphb|Elementalism]],\
-      \ [[gust-of-wind-xphb|Gust of Wind]], [[mage-hand-xphb|Mage Hand]],\
-      \ [[message-xphb|Message]]\n\n1/day: [[lightning-bolt-xphb|Lightning\]]
+      \nAt will: [[elementalism xphb|Elementalism]],\
+      \ [[gust of wind xphb|Gust of Wind]], [[mage hand xphb|Mage Hand]],\
+      \ [[message xphb|Message]]\n\n1/day: [[lightning bolt xphb|Lightning\]]
       \ Bolt]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The aarakocra casts [[feather-fall-xphb|Feather Fall]]\
+  - "desc": "The aarakocra casts [[feather fall xphb|Feather Fall]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Feather Fall (1/Day)"
@@ -139,11 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Enspelled Staff Level 7 Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Enspelled Staff Level 7 Xdmg
 
 ---
@@ -34,15 +43,14 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-Bound into this staff is a level 7 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll `d20`. On a 1, the staff loses its properties and becomes a nonmagical [[quarterstaff-xphb|Quarterstaff]].
+Bound into this staff is a level 7 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll `d20`. On a 1, the staff loses its properties and becomes a nonmagical [[quarterstaff xphb|Quarterstaff]].
 
 The spell's saving throw DC is 18, and its attack bonus is `+10`.
 
 *Source: Dungeon Master's Guide (2024) p. 258*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ The spell's saving throw DC is 18, and its attack bonus is `+10`.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals a conspiracy about the government
@@ -87,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

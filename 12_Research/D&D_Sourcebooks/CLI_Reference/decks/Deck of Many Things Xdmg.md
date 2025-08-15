@@ -1,3 +1,12 @@
+---
+title: Deck of Many Things Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deck of Many Things Xdmg
 
 ---
@@ -67,11 +76,11 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ### Comet
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-12-comet.webp#card)
-The next time you enter combat against one or more [[hostile-attitude-xphb|Hostile]] creatures, you can select one of them as your foe when you roll [[initiative-xphb|Initiative]]. If you reduce your foe to 0 [[hit-points-xphb|Hit Points]] during that combat, you have [[advantage-xphb|Advantage]] on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb|Hit Points]] or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [[hostile-attitude-xphb|Hostile]] creatures, you can select one of them as your foe when you roll [[initiative xphb|Initiative]]. If you reduce your foe to 0 [[hit-points-xphb|Hit Points]] during that combat, you have [[advantage xphb|Advantage]] on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb|Hit Points]] or you don't choose a foe, this card has no effect.
 
 ### Donjon
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-17-donjon.webp#card)
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish-xphb|Wish]] spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish xphb|Wish]] spell can reveal the location of your prison. You draw no more cards.
 
 ### Euryale
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-22-euryale.webp#card)
@@ -87,7 +96,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ### Fool
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-01-fool.webp#card)
-You have [[disadvantage-xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [[disadvantage xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ### Gem
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-05-gem.webp#card)
@@ -95,7 +104,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ### Jester
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-14-jester.webp#card)
-You have [[advantage-xphb|Advantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [[advantage xphb|Advantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-02-key.webp#card)
@@ -103,11 +112,11 @@ A Rare or rarer magic weapon with which you are proficient appears on your perso
 
 ### Knight
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-09-knight.webp#card)
-You gain the service of a [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
+You gain the service of a [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
 
 ### Moon
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-11-moon.webp#card)
-You gain the ability to cast [[wish-xphb|Wish]] `d3` times.
+You gain the ability to cast [[wish xphb|Wish]] `d3` times.
 
 ### Puzzle
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-04-puzzle.webp#card)
@@ -115,7 +124,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ### Rogue
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[hostile-attitude-xphb|Hostile]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb|Wish]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[hostile-attitude-xphb|Hostile]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish xphb|Wish]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-16-ruin.webp#card)
@@ -141,7 +150,6 @@ A magic item (chosen by the DM) appears on your person. In addition, you gain 10
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-21-talons.webp#card)
 Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -153,11 +161,6 @@ Every magic item you wear or carry disintegrates. Artifacts in your possession v
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -175,11 +178,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 

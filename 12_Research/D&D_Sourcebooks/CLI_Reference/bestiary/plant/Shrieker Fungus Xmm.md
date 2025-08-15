@@ -1,3 +1,12 @@
+---
+title: Shrieker Fungus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shrieker Fungus Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
 
-# [[shrieker-fungus-xmm|Shrieker Fungus]]
+# [[shrieker fungus xmm|Shrieker Fungus]]
 *Source: Monster Manual (2024) p. 125. Available in the SRD and the Free Rules (2024)*  
 
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Fungi
 
@@ -83,7 +86,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [[bright-light-xphb|Bright Light]]\
+  - "desc": "Trigger: A creature or a source of [[bright light xphb|Bright Light]]\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"
@@ -113,11 +116,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

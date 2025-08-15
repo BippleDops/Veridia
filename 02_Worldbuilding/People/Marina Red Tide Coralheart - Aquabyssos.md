@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg]]
 
 # Marina Red Tide Coralheart
 *The Adapted Guide, Shadow Switcher, Depth Walker*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,7 +71,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
@@ -83,8 +78,6 @@ improvements: 20
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -94,19 +87,14 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Overview
 Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[Aquabyssos]], having undergone extreme depth adaptation that allows her to survive at any pressure. What makes her unique—and dangerous—is her conscious partnership with her shadow, regularly switching control of their shared body. She's one of the few beings who maintains independence from both the [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] and the original authorities, walking a careful line between both worlds.
@@ -286,7 +274,6 @@ Marina Red Tide Coralheart   Aquabyssos is a undersea element of the setting, kn
 
 Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina Red Tide Coralheart   Aquabyssos.
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -298,7 +285,6 @@ Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past a
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

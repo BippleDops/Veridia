@@ -1,3 +1,12 @@
+---
+title: Javelin of Lightning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Javelin of Lightning Xdmg
 
 ---
@@ -25,16 +34,15 @@ world: Both
 ---
 
 # Javelin of Lightning
-*Weapon ([[javelin-xphb|javelin]]), uncommon*  
+*Weapon ([[javelin xphb|javelin]]), uncommon*  
 ![](/03_Mechanics/CLI/items/img/javelin-of-lightning.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,15 +55,10 @@ Each time you make an attack roll with this magic weapon and hit, you can have i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lightning Bolt
 
-When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide [[line-area-of-effect-xphb|Line]] between you and the target. The target and each other creature in the [[line-area-of-effect-xphb|Line]] (excluding you) makes a DC 13 Dexterity saving throw, taking `4d6` Lightning damage on a failed save or half as much damage on a successful one. Immediately after dealing this damage, the weapon reappears in your hand. This property can't be used again until the next dawn.
+When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide [[line area of effect xphb|Line]] between you and the target. The target and each other creature in the [[line area of effect xphb|Line]] (excluding you) makes a DC 13 Dexterity saving throw, taking `4d6` Lightning damage on a failed save or half as much damage on a successful one. Immediately after dealing this damage, the weapon reappears in your hand. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 275. Available in the SRD and the Free Rules (2024)*
 
@@ -75,11 +78,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

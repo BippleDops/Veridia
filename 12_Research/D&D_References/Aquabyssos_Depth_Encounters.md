@@ -1,3 +1,12 @@
+---
+title: Aquabyssos_Depth_Encounters
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos_Depth_Encounters
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:50:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Shallow Depths (200-1,000 feet)
 *Roll 1d20 for encounter type*
@@ -143,7 +146,6 @@ world: Aquabyssos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Secret Connections
 

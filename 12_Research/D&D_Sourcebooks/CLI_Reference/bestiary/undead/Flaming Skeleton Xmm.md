@@ -1,3 +1,12 @@
+---
+title: Flaming Skeleton Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flaming Skeleton Xmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
 
-# [[flaming-skeleton-xmm|Flaming Skeleton]]
+# [[flaming skeleton xmm|Flaming Skeleton]]
 *Source: Monster Manual (2024) p. 283*  
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Flaming skeletons burn with unbridled necromantic energy. This magic grants them
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Skeletons
 
@@ -104,12 +107,12 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "cr": "3"
 "traits":
   - "desc": "The skeleton explodes when it dies. Dexterity Saving Throw: DC 12,\
-      \ each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 10-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the skeleton. Failure: 14 (4d6) Fire damage. Success:\
       \ Half damage."
     "name": "Death Burst"
-  - "desc": "The skeleton sheds [[bright-light-xphb|Bright Light]]\
-      \ in a 15-foot radius and [[dim-light-xphb|Dim Light]]\
+  - "desc": "The skeleton sheds [[bright light xphb|Bright Light]]\
+      \ in a 15-foot radius and [[dim light xphb|Dim Light]]\
       \ for an additional 15 feet."
     "name": "Illumination"
 "actions":
@@ -147,7 +150,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest ancient magic
@@ -158,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

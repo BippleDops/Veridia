@@ -1,3 +1,12 @@
+---
+title: Quest - The Dying Forest
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Dying Forest
 
 ---
@@ -26,12 +35,10 @@ cr: '6'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg]]
 
 # Quest - The Dying Forest
 
 **Level:** 5-8 | **Type:** Investigation/Environmental | **Duration:** 2-4 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +51,6 @@ cr: '6'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 The ancient Silverleaf Forest outside Aethermoor is withering at an alarming rate, with trees blackening and wildlife fleeing. Druid Elara Moonwhisper believes a corruption spreads from the forest's heart, threatening not only the woodland but the entire region's magical balance.
@@ -111,11 +113,9 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -129,16 +129,13 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

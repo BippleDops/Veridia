@@ -1,3 +1,12 @@
+---
+title: Ice Toad Rot
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ice Toad Rot
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-toad-rot-ice-toad-rot.svg)
 
-# [[ice-toad-rot|Ice Toad]]
+# [[ice toad rot|Ice Toad]]
 *Source: The Rise of Tiamat p. 90*  
 
 Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
@@ -83,7 +92,6 @@ When the characters encounter ice toads, their intelligence won't be apparent un
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,11 +103,6 @@ When the characters encounter ice toads, their intelligence won't be apparent un
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -116,7 +119,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

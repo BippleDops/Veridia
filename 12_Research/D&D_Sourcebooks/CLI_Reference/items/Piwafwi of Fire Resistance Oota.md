@@ -1,3 +1,12 @@
+---
+title: Piwafwi of Fire Resistance Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Piwafwi of Fire Resistance Oota
 
 ---
@@ -30,12 +39,11 @@ world: Both
 # Piwafwi of Fire Resistance
 *Wondrous item, rare (requires attunement)*  
 
-This dark spider silk cloak is made by [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.
+This dark spider silk cloak is made by [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.
 
 While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Perception]]) checks made to see you have disadvantage. and you have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 *Source: Out of the Abyss p. 222*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Percepti
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Mystery Key Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mystery Key Xdmg
 
 ---
@@ -34,7 +43,6 @@ A question mark is worked into the head of this key. The key has a 5 percent cha
 
 *Source: Dungeon Master's Guide (2024) p. 280*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,11 +54,6 @@ A question mark is worked into the head of this key. The key has a 5 percent cha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

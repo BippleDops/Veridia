@@ -1,3 +1,12 @@
+---
+title: Cadaver Collector Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cadaver Collector Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cadaver-collector-mpmm-cadaver-collector-mpmm.svg)
 
-# [[cadaver-collector-mpmm|Cadaver Collector]]
+# [[cadaver collector mpmm|Cadaver Collector]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
@@ -86,7 +95,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The collector calls up the enslaved spirits of those it has slain; d4\
-      \ [[specter-xmm|specters]] (without Sunlight\
+      \ [[specter xmm|specters]] (without Sunlight\
       \ Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
       \ act right after the collector on the same initiative count and fight until\
       \ they're destroyed. They disappear when the collector is destroyed."
@@ -97,7 +106,6 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "image": "/03_Mechanics/CLI/bestiary/construct/token/cadaver-collector-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -110,11 +118,6 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -136,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 

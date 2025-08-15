@@ -1,3 +1,12 @@
+---
+title: Horseshoes of Speed Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Horseshoes of Speed Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 These horseshoes come in a set of four. As a [[actions#Magic|Magic]] action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a [[actions#Magic|Magic]] action.
 
-While all four horseshoes are attached to the same creature, its [[speed-xphb|Speed]] is increased by 30 feet.
+While all four horseshoes are attached to the same creature, its [[speed xphb|Speed]] is increased by 30 feet.
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ While all four horseshoes are attached to the same creature, its [[speed-xphb|Sp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Gaming Set Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gaming Set Xphb
 
 ---
@@ -32,13 +41,12 @@ world: Both
 
 **Items in this group:**
 
-- [[dice-set-xphb|Dice Set]]
-- [[dragonchess-set-xphb|Dragonchess Set]]
-- [[playing-cards-xphb|Playing Cards]]
-- [[three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
+- [[dice set xphb|Dice Set]]
+- [[dragonchess set xphb|Dragonchess Set]]
+- [[playing cards xphb|Playing Cards]]
+- [[three dragon ante set xphb|Three-Dragon Ante Set]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

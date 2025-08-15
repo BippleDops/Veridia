@@ -1,3 +1,12 @@
+---
+title: Dungeon Location Exotic Location
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dungeon Location Exotic Location
 
 ---
@@ -50,9 +59,8 @@ world: Both
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] |
+| 20 | Inside a [[mordenkainens magnificent mansion xphb|Mordenkainen's magnificent mansion]] |
 ^exotic-location
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,11 +73,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,21 +90,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

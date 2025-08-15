@@ -1,3 +1,12 @@
+---
+title: Helm of Comprehending Languages Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Helm of Comprehending Languages Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
-While wearing this helm, you can cast [[comprehend-languages-xphb|Comprehend Languages]] from it.
+While wearing this helm, you can cast [[comprehend languages xphb|Comprehend Languages]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this helm, you can cast [[comprehend-languages-xphb|Comprehend Lan
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals the truth about the government
@@ -75,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

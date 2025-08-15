@@ -37,14 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystallium-crystallium.svg]]
 
 # Crystallium
 *The Underwater Crystal Laboratory*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,24 +69,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -104,8 +93,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -247,7 +234,7 @@ While at Crystallium, characters experience:
 - **Medical Treatment** - Advanced healing for pressure and crystal-related ailments
 
 ### Trade Relationships
-- **[[Port Meridian - Merchant Quarter]]** - Export of pressure pearls and deep-sea materials
+- **[[Port Meridian   Merchant Quarter]]** - Export of pressure pearls and deep-sea materials
 - **[[Sylvanheart]]** - Exchange of natural and crystal-based magical research
 - **[[Nereidios]]** - Academic cooperation and knowledge sharing
 
@@ -304,12 +291,9 @@ Ongoing situations affecting Crystallium:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -329,7 +313,6 @@ Key stop on spices trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

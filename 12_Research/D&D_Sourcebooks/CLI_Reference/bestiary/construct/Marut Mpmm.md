@@ -1,3 +1,12 @@
+---
+title: Marut Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Marut Mpmm
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marut-mpmm-marut-mpmm.svg)
 
-# [[marut-mpmm|Marut]]
+# [[marut mpmm|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -98,7 +107,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
       \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[conditions#Stunned|stunned]]\
       \ until the end of the marut's next turn."
     "name": "Blazing Edict (Recharge 5-6)"
-  - "desc": "The marut casts [[plane-shift-xphb|plane shift]],\
+  - "desc": "The marut casts [[plane shift xphb|plane shift]],\
       \ requiring no material components and using Intelligence as the spellcasting\
       \ ability. The marut can cast the spell normally, or it can cast the spell on\
       \ an unwilling creature it can see within 60 feet of it. If it uses the latter\
@@ -112,7 +121,6 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -124,11 +132,6 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -145,7 +148,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

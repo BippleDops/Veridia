@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,27 +34,21 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Magic_Items Improvements
 
-- Note how magic items affect this rule
 - Note how magic items affect this rule
 
 ### Monster_Use Improvements
@@ -79,7 +70,6 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-
 
 ## Mechanic Overview
 
@@ -252,7 +242,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Edge Cases & Rulings
 
 ### Q: What if a player has multiple inspiration sources?
@@ -263,7 +252,6 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
-
 
 ## Quick Reference
 

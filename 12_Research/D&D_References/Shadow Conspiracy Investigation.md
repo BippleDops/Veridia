@@ -1,3 +1,12 @@
+---
+title: Shadow Conspiracy Investigation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Conspiracy Investigation
 
 ---
@@ -30,11 +39,9 @@ updated: '2025-08-13T01:18:36.745871+00:00'
 ---
 
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-shadow-conspiracy-investigation-shadow-conspiracy-investigation.png]]
 
 # Shadow Conspiracy Investigation
 *The Light Brigade, Truth Seekers, Those Who Remember*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +54,6 @@ updated: '2025-08-13T01:18:36.745871+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization dedicated to uncovering, documenting, and ultimately dismantling [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]. Born from the growing suspicions of several high-ranking officials who noticed inconsistencies in their colleagues' behavior, the SCI operates in complete secrecy, knowing that discovery would mean certain death or replacement. They are the thin line of light standing against the encroaching darkness that threatens to consume all of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]].
@@ -146,11 +148,11 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 #### Advanced Detection
 **Technical Methods**
-- **[[02_Worldbuilding/Items/Lightstone Scanners|02 Worldbuilding/Items/Lightstone Scanners]]**: Devices that reveal shadow nature
-- **[[02_Worldbuilding/Items/Memory Resonators|02 Worldbuilding/Items/Memory Resonators]]**: Tools that detect false memories
-- **[[02_Worldbuilding/Items/Truth Crystals|02 Worldbuilding/Items/Truth Crystals]]**: Artifacts that compel honesty
-- **[[02_Worldbuilding/Items/Original Trackers|02 Worldbuilding/Items/Original Trackers]]**: Locate imprisoned real versions
-- **[[02_Worldbuilding/Items/Shadow Dampeners|02 Worldbuilding/Items/Shadow Dampeners]]**: Suppress shadow abilities temporarily
+- **[[02 Worldbuilding/Items/Lightstone Scanners|02 Worldbuilding/Items/Lightstone Scanners]]**: Devices that reveal shadow nature
+- **[[02 Worldbuilding/Items/Memory Resonators|02 Worldbuilding/Items/Memory Resonators]]**: Tools that detect false memories
+- **[[02 Worldbuilding/Items/Truth Crystals|02 Worldbuilding/Items/Truth Crystals]]**: Artifacts that compel honesty
+- **[[02 Worldbuilding/Items/Original Trackers|02 Worldbuilding/Items/Original Trackers]]**: Locate imprisoned real versions
+- **[[02 Worldbuilding/Items/Shadow Dampeners|02 Worldbuilding/Items/Shadow Dampeners]]**: Suppress shadow abilities temporarily
 
 #### Deep Cover Operations
 **Long-term Placement**
@@ -338,12 +340,9 @@ Shadow Conspiracy Investigation is a undersea element of the setting, known for 
 
 Legends speak of Shadow Conspiracy Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Conspiracy Investigation.
 
-
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

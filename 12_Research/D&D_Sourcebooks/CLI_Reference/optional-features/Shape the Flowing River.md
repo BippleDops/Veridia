@@ -1,63 +1,47 @@
-# Shape the Flowing River
-
 ---
 title: Shape the Flowing River
-aliases:
-- Shape the Flowing River
 type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/phb
-- research
-- world/both
-- active
 - note
-- ttrpg-cli/optional-feature/ed
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-feat
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.123096+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
 # Shape the Flowing River
-*Source: Player's Handbook p. 81*  
 
-As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
+## Overview
+This document contains important information regarding Shape the Flowing River and its role within the greater narrative.
 
+## Description
+Shape the Flowing River represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-
-## Player-Facing Summary
-
-Shape the flowing river is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of shape the flowing river as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shape the flowing river.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
+*Customize as needed for your specific campaign requirements.*

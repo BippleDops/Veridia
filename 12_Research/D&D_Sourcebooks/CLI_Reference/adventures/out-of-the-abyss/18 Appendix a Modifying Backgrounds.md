@@ -1,3 +1,12 @@
+---
+title: 18 Appendix a Modifying Backgrounds
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 18 Appendix a Modifying Backgrounds
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 This appendix provides alternative background features and bonds for player characters, with options that are strongly connected to the NPCs, themes, and events of this adventure.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ This appendix provides alternative background features and bonds for player char
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Substitute Features
 
@@ -74,7 +77,7 @@ This table provides alternative bonds that characters can have instead of the bo
 | 5 | You have long had a curious recurring dream about visiting a vaulted stone library in the depths of the Underdark, and becoming lost in the endless lore it holds. |
 | 6 | You studied with a deep gnome alchemist and miner named Kazook Pickshine, who saved your life once when a magical experiment went awry. Last you heard, his family controlled some of the largest mines in the deep gnome settlement of Blingdenstone. |
 | 7 | What little you know about the Underdark, you learned from living and fighting alongside the Feldrun clan of dwarves. You swore an honor debt to the clan before they joined the forces retaking Gauntlgrym and established themselves there. |
-| 8 | Years ago, a vicious noble named [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] was implicated in the death of someone you cared about. The crime was covered up, though, and DuLoc disappeared. Rumor has it the Zhentarim aided his escape, but you've sworn to find him one day. |
+| 8 | Years ago, a vicious noble named [[/03 Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] was implicated in the death of someone you cared about. The crime was covered up, though, and DuLoc disappeared. Rumor has it the Zhentarim aided his escape, but you've sworn to find him one day. |
 | 9 | Years ago, you lost people you loved in a raid by creatures from the Underdark. They disappeared without a trace, either slain or taken into the depths, and you've always wondered whether they might still be alive and held as prisoners. |
 | 10 | You know the dwarf hold of Gauntlgrym well, having fought alongside the dwarves to help reclaim it. King Bruenor Battlehammer congratulated you on your valor, and you know the price the dwarves paid in blood to regain their home. |
 ^bond
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

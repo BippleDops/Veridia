@@ -1,3 +1,12 @@
+---
+title: Hover Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hover Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Hover
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while [[flying-xphb|flying]] prevents you from falling in certain circumstances.
-
+Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while [[flying xphb|flying]] prevents you from falling in certain circumstances.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Some creatures can hover, as noted in their stat blocks, and some spells and oth
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,9 +64,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
-- A stranger needs help investigating before winter
 - A stranger needs help investigating before winter
 - A merchant needs help finding before dawn

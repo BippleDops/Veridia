@@ -1,3 +1,12 @@
+---
+title: Helm of Teleportation Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Helm of Teleportation Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/helm-of-teleportation.webp#right)
 
-This helm has 3 charges. While wearing it, you can expend 1 charge to cast [[teleport-xphb|Teleport]] from it. The helm regains `d3` expended charges daily at dawn.
+This helm has 3 charges. While wearing it, you can expend 1 charge to cast [[teleport xphb|Teleport]] from it. The helm regains `d3` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This helm has 3 charges. While wearing it, you can expend 1 charge to cast [[tel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

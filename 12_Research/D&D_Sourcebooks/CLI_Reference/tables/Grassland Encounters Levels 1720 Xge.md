@@ -1,3 +1,12 @@
+---
+title: Grassland Encounters Levels 1720 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Grassland Encounters Levels 1720 Xge
 
 ---
@@ -31,22 +40,21 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | `2d6` [[triceratops-xmm|triceratopses]] |
-| 11-20 | `d10` [[gorgon-xmm|gorgons]] |
-| 21-25 | `2d6` [[hyena-xmm|hyenas]] feeding on the carcass of a dead dinosaur |
-| 26-35 | `3d6` [[bulette-xmm|bulettes]] |
+| 01-10 | `2d6` [[triceratops xmm|triceratopses]] |
+| 11-20 | `d10` [[gorgon xmm|gorgons]] |
+| 21-25 | `2d6` [[hyena xmm|hyenas]] feeding on the carcass of a dead dinosaur |
+| 26-35 | `3d6` [[bulette xmm|bulettes]] |
 | 36-40 | A fiery chariot that races across the sky |
-| 41-50 | `d3` [[young-gold-dragon-xmm|young gold dragons]] |
-| 51-60 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
+| 41-50 | `d3` [[young gold dragon xmm|young gold dragons]] |
+| 51-60 | `2d4` [[cyclops sentry xmm|cyclopes]] |
 | 61-65 | A valley where all the grass has died and the ground is littered with stumps and fallen tree trunks, all petrified |
-| 66-75 | `2d10` [[wolf-xmm|wolves]] |
+| 66-75 | `2d10` [[wolf xmm|wolves]] |
 | 76-80 | A friendly adventuring party of `1d6 + 1` characters of varying races, classes, and levels (average level `1d6 + 2`). They share information about their recent travels. |
-| 81-90 | `d12` [[chimera-xmm|chimeras]] |
-| 91-96 | `1d6 + 2` [[tyrannosaurus-rex-xmm|tyrannosaurus rexes]] |
-| 97-99 | 1 [[adult-gold-dragon-xmm|adult gold dragon]] |
-| 00 | 1 [[ancient-gold-dragon-xmm|ancient gold dragon]] |
+| 81-90 | `d12` [[chimera xmm|chimeras]] |
+| 91-96 | `1d6 + 2` [[tyrannosaurus rex xmm|tyrannosaurus rexes]] |
+| 97-99 | 1 [[adult gold dragon xmm|adult gold dragon]] |
+| 00 | 1 [[ancient gold dragon xmm|ancient gold dragon]] |
 ^grassland-encounters-levels-1720
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -100,16 +101,13 @@ Mentioned in The First Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg]]
 
 # High Priestess Celeste Dawnbringer
 *The Healing Light, She Who Brings Dawn to Darkness, Keeper of Sacred Flames*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,17 +56,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
@@ -84,11 +76,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -98,7 +88,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[Crystalhaven]], serving as the kingdom's highest religious authority and primary divine healer. Publicly revered for her compassion and healing miracles, she carries a devastating secret: she knows of [[Queen Seraphina Lumengarde]]'s crystal corruption and has been secretly providing treatments to slow its progress. This burden weighs heavily on her soul, as she struggles between her loyalty to the crown, her duty to her people, and her fear of what the queen might become.
@@ -377,16 +366,13 @@ High Priestess Celeste Dawnbringer is a undersea element of the setting, known f
 
 Legends speak of High Priestess Celeste Dawnbringer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Celeste Dawnbringer.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Economic Structure
 
@@ -405,7 +391,6 @@ Member of House Lionblood - Trait: divine blood
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

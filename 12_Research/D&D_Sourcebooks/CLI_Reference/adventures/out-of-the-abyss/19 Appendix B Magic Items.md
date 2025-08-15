@@ -1,3 +1,12 @@
+---
+title: 19 Appendix B Magic Items
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 19 Appendix B Magic Items
 
 ---
@@ -27,13 +36,12 @@ world: Both
 
 Player characters can find a number of unusual magic items over the course of this adventure, including creations of the drow, the deep gnomes, and other inhabitants of the Underdark.
 
-- [[dawnbringer-oota|Dawnbringer]]  
-- [[piwafwi-cloak-of-elvenkind-oota|Piwafwi (Cloak of Elvenkind)]]  
-- [[piwafwi-of-fire-resistance-oota|Piwafwi of Fire Resistance]]  
-- [[spell-gem-oota|Spell Gem]]  
-- [[stonespeaker-crystal-oota|Stonespeaker Crystal]]  
-- [[wand-of-viscid-globs-oota|Wand of Viscid Globs]]
-
+- [[dawnbringer oota|Dawnbringer]]  
+- [[piwafwi cloak of elvenkind oota|Piwafwi (Cloak of Elvenkind)]]  
+- [[piwafwi of fire resistance oota|Piwafwi of Fire Resistance]]  
+- [[spell gem oota|Spell Gem]]  
+- [[stonespeaker crystal oota|Stonespeaker Crystal]]  
+- [[wand of viscid globs oota|Wand of Viscid Globs]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Player characters can find a number of unusual magic items over the course of th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -81,11 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

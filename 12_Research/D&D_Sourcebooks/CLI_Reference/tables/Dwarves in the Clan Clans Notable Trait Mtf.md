@@ -1,3 +1,12 @@
+---
+title: Dwarves in the Clan Clans Notable Trait Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarves in the Clan Clans Notable Trait Mtf
 
 ---
@@ -32,7 +41,7 @@ world: Both
 | dice: d10 | Trait |
 |-----------|-------|
 | 1 | Founder was one of the greatest artisans in history |
-| 2 | Clan owns a powerful artifact, such as an [[axe-of-the-dwarvish-lords-xdmg|Axe of the Dwarvish Lords]] |
+| 2 | Clan owns a powerful artifact, such as an [[axe of the dwarvish lords xdmg|Axe of the Dwarvish Lords]] |
 | 3 | Clan noted for expertise in a specific craft, such as brewing or armorsmithing |
 | 4 | Clan has a sinister reputation, history plagued by scandal and mark of Abbathor |
 | 5 | Militaristic clan, known for excellent fighting skills |
@@ -42,7 +51,6 @@ world: Both
 | 9 | Unique marker or curse, such as all clan members are hairless |
 | 10 | Clan is known for its evil ways or a particularly sinister, notable member |
 ^clans-notable-trait
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## 12_Research Specific Content
 

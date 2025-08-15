@@ -48,13 +48,11 @@ modified: '2025-08-14'
 
 *Your vault is now the most comprehensive TTRPG resource ever created.*
 
-
 ## Connections
 
 - See also: [[World Overview]]
 - Related: [[Power Structures]]
 - Connected to: [[World Events]]
-
 
 ## DM Notes
 

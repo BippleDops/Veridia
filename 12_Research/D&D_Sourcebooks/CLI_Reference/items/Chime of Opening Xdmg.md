@@ -1,3 +1,12 @@
+---
+title: Chime of Opening Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Chime of Opening Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. As a [[actions#Magic|Magic]] action, you can strike the chime to cast [[knock-xphb|Knock]]. The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet. The chime can be used 10 times. After the tenth time, it cracks and becomes useless.
+This hollow metal tube measures about 1 foot long and weighs 1 pound. As a [[actions#Magic|Magic]] action, you can strike the chime to cast [[knock xphb|Knock]]. The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet. The chime can be used 10 times. After the tenth time, it cracks and becomes useless.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ This hollow metal tube measures about 1 foot long and weighs 1 pound. As a [[act
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,16 +71,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

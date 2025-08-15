@@ -15,9 +15,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,20 +42,13 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
 
 ### Heroic Improvements
 
 - Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
-- Add 'heroic fantasy' variant of rule
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Monster_Use Improvements
@@ -72,12 +62,10 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Variant Improvements
 
 - Add 'gritty realism' variant of rule
-
 
 ## Mechanic Overview
 
@@ -250,7 +238,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Examples of Play
 
 ### Basic Example
@@ -261,7 +248,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Edge Cases & Rulings
 

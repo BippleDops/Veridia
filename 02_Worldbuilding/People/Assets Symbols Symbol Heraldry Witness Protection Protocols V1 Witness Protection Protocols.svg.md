@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,31 +55,22 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -193,7 +181,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]] (friend)
-- [[Quest - The Siren's Price]] (enemy)
+- [[Quest   The Siren's Price]] (enemy)
 - [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -202,11 +190,9 @@ This NPC can serve multiple roles:
 
 Member of House Lionblood - Trait: prophecy
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Economic Structure
 
@@ -226,7 +212,6 @@ Mentioned in The Hidden Prophecy of Winds
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -238,7 +223,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

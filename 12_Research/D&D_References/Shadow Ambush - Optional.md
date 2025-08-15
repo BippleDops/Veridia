@@ -1,3 +1,12 @@
+---
+title: Shadow Ambush - Optional
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Ambush - Optional
 
 ---
@@ -35,7 +44,6 @@ updated: '2025-08-13T01:18:36.741599+00:00'
 # Shadow Ambush - Optional
 *The Tidal Strikers, Masters of Battlefield Surprise, Those Who Strike from Darkness*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ updated: '2025-08-13T01:18:36.741599+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Shadow Ambush - Optional (SAO) is an elite military unit within the [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] armed forces, specializing in ambush tactics, guerrilla warfare, and surgical strikes against high-value targets. Unlike traditional military formations that rely on direct confrontation, SAO operates using stealth, misdirection, and precisely timed assaults to achieve maximum impact with minimal casualties. Their name reflects their philosophy: every engagement should offer the enemy a way out ("optional" escape), but those who choose to fight face devastating tactical superiority. They serve as the realm's premier special operations force for situations requiring finesse over brute force.
@@ -170,11 +173,11 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[Aquabyssos
 
 #### Environmental Advantage
 **Terrain Utilization**
-- **[[02_Worldbuilding/Tactics/Underwater Concealment|02 Worldbuilding/Tactics/Underwater Concealment]]**: Using water depth and pressure for stealth
-- **[[02_Worldbuilding/Tactics/Current Manipulation|02 Worldbuilding/Tactics/Current Manipulation]]**: Controlling water flow for tactical advantage
-- **[[02_Worldbuilding/Tactics/Pressure Differential|02 Worldbuilding/Tactics/Pressure Differential]]**: Exploiting depth changes for surprise attacks
-- **[[02_Worldbuilding/Tactics/Thermal Layer Usage|02 Worldbuilding/Tactics/Thermal Layer Usage]]**: Using temperature variations for concealment
-- **[[02_Worldbuilding/Tactics/Acoustic Masking|02 Worldbuilding/Tactics/Acoustic Masking]]**: Sound manipulation for stealth movement
+- **[[02 Worldbuilding/Tactics/Underwater Concealment|02 Worldbuilding/Tactics/Underwater Concealment]]**: Using water depth and pressure for stealth
+- **[[02 Worldbuilding/Tactics/Current Manipulation|02 Worldbuilding/Tactics/Current Manipulation]]**: Controlling water flow for tactical advantage
+- **[[02 Worldbuilding/Tactics/Pressure Differential|02 Worldbuilding/Tactics/Pressure Differential]]**: Exploiting depth changes for surprise attacks
+- **[[02 Worldbuilding/Tactics/Thermal Layer Usage|02 Worldbuilding/Tactics/Thermal Layer Usage]]**: Using temperature variations for concealment
+- **[[02 Worldbuilding/Tactics/Acoustic Masking|02 Worldbuilding/Tactics/Acoustic Masking]]**: Sound manipulation for stealth movement
 
 #### The Tidal Ambush
 **Signature Maneuver**
@@ -374,8 +377,6 @@ Shadow Ambush   Optional is a undersea element of the setting, known for biolumi
 
 Legends speak of Shadow Ambush   Optional as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Ambush   Optional.
 
-
-
 ## Plot Hooks
 
 - A corpse reveals the truth about the government
@@ -384,7 +385,6 @@ Legends speak of Shadow Ambush   Optional as a nexus where past and present conv
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

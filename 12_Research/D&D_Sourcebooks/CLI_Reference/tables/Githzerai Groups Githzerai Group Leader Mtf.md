@@ -1,3 +1,12 @@
+---
+title: Githzerai Groups Githzerai Group Leader Mtf
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githzerai Groups Githzerai Group Leader Mtf
 
 ---
@@ -31,11 +40,10 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|Githzerai Anarch]] |
-| 2-3 | [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|Githzerai Enlightened]] |
+| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|Githzerai Anarch]] |
+| 2-3 | [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|Githzerai Enlightened]] |
 | 4-6 | [[githzerai-zerth-xmm|Githzerai Zerth]] |
 ^githzerai-group-leader
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

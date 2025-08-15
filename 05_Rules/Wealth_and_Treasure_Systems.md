@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,9 +34,6 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Session_Zero Improvements
 
@@ -47,9 +41,6 @@ improvements: 20
 
 ### Narrative_Triggers Improvements
 
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 - Suggest story moments to introduce rule
 
 ### Interaction Improvements
@@ -59,7 +50,6 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
 
 ### Variant Improvements
 
@@ -68,12 +58,10 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-
 
 ## Mechanic Overview
 
@@ -245,7 +233,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Secret Connections
 

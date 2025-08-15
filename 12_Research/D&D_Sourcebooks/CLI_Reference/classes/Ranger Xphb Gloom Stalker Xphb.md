@@ -1,3 +1,12 @@
+---
+title: Ranger Xphb Gloom Stalker Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ranger Xphb Gloom Stalker Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Gloom Stalker
-*[[ranger-xphb|Ranger]]: Ranger Subclass*  
+*[[ranger xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 125*  
 
 > [!tldr] Class and Feature Progression
@@ -65,15 +74,15 @@ You have mastered the art of creating fearsome ambushes, granting you the follow
 
 #### Ambusher's Leap
 
-At the start of your first turn of each combat, your [[speed-xphb|Speed]] increases by 10 feet until the end of that turn.
+At the start of your first turn of each combat, your [[speed xphb|Speed]] increases by 10 feet until the end of that turn.
 
 #### Dreadful Strike
 
-When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
+When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long rest xphb|Long Rest]].
 
 #### Initiative Bonus
 
-When you roll [[initiative-xphb|Initiative]], you can add your Wisdom modifier to the roll.
+When you roll [[initiative xphb|Initiative]], you can add your Wisdom modifier to the roll.
 
 ### Gloom Stalker Spells (Level 3)
 
@@ -83,18 +92,18 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[disguise-self-xphb|Disguise Self]] |
-| 5th | [[rope-trick-xphb|Rope Trick]] |
-| 9th | [[fear-xphb|Fear]] |
-| 13th | [[greater-invisibility-xphb|Greater Invisibility]] |
-| 17th | [[seeming-xphb|Seeming]] |
+| 3rd | [[disguise self xphb|Disguise Self]] |
+| 5th | [[rope trick xphb|Rope Trick]] |
+| 9th | [[fear xphb|Fear]] |
+| 13th | [[greater invisibility xphb|Greater Invisibility]] |
+| 17th | [[seeming xphb|Seeming]] |
 ^gloom-stalker-spells
 
 ### Umbral Sight (Level 3)
 
 You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]] when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [[senses#Darkvision|Darkvision]]. While entirely in [[darkness-xphb|Darkness]], you have the [[conditions#Invisible|Invisible]] condition to any creature that relies on [[senses#Darkvision|Darkvision]] to see you in that [[darkness-xphb|Darkness]].
+You are also adept at evading creatures that rely on [[senses#Darkvision|Darkvision]]. While entirely in [[darkness xphb|Darkness]], you have the [[conditions#Invisible|Invisible]] condition to any creature that relies on [[senses#Darkvision|Darkvision]] to see you in that [[darkness xphb|Darkness]].
 
 ### Iron Mind (Level 7)
 
@@ -114,8 +123,7 @@ The target and each creature within 10 feet of it must make a Wisdom saving thro
 
 ### Shadowy Dodge (Level 15)
 
-When a creature makes an attack roll against you, you can take a [[reaction-xphb|Reaction]] to impose [[disadvantage-xphb|Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
-
+When a creature makes an attack roll against you, you can take a [[reaction xphb|Reaction]] to impose [[disadvantage xphb|Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -128,11 +136,6 @@ When a creature makes an attack roll against you, you can take a [[reaction-xphb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -150,7 +153,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help delivering before winter
@@ -162,7 +164,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

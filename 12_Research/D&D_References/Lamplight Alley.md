@@ -1,3 +1,12 @@
+---
+title: Lamplight Alley
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lamplight Alley
 
 ---
@@ -27,7 +36,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"In the gentle glow of eternal flames, secrets whisper and shadows dance with purpose." - Night Walker's Saying*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Lamplight Alley represents one of Aethermoor's most atmospheric and mysterious districts, a narrow network of winding passages illuminated by hundreds of magical lanterns that never dim. The alley serves as a hub for nocturnal commerce, discrete meetings, and cultural activities that require privacy and ambiance. Unlike the grand thoroughfares of central Aethermoor, Lamplight Alley embraces intimacy and subtlety, creating an environment where whispered conversations carry more weight than public proclamations.
@@ -128,8 +131,6 @@ Legends speak of Lamplight Alley as a nexus where past and present converge. Loc
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## 12_Research Specific Content
 

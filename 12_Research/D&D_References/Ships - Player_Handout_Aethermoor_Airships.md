@@ -1,3 +1,12 @@
+---
+title: Ships - Player_Handout_Aethermoor_Airships
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ships - Player_Handout_Aethermoor_Airships
 
 ---
@@ -30,7 +39,6 @@ world: Aethermoor
 
 Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicle_Customization_Progression|Vehicle Customization Progression]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots di
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -59,7 +62,6 @@ Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots di
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

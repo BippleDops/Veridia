@@ -1,3 +1,12 @@
+---
+title: Shield Guardian Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shield Guardian Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shield-guardian-xmm-shield-guardian-xmm.svg)
 
-# [[shield-guardian-xmm|Shield Guardian]]
+# [[shield guardian xmm|Shield Guardian]]
 *Source: Monster Manual (2024) p. 277. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Shield Guardian
 
@@ -94,8 +97,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
       \ wearer, half of any damage the wearer takes (round up) is transferred to the\
       \ guardian."
     "name": "Bound"
-  - "desc": "The guardian regains 10 [[hit-points-xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
+  - "desc": "The guardian regains 10 [[hit points xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit points xphb|Hit Point]]."
     "name": "Regeneration"
   - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
       \ to store one spell of level 4 or lower. To do so, the wearer must cast the\
@@ -143,14 +146,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

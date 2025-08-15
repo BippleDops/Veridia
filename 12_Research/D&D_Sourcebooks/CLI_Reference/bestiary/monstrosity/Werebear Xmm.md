@@ -1,3 +1,12 @@
+---
+title: Werebear Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Werebear Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werebear-xmm-v1-werebear-xmm.svg)
 
-# [[werebear-xmm|Werebear]]
+# [[werebear xmm|Werebear]]
 *Source: Monster Manual (2024) p. 324. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Werebear
 
@@ -93,8 +96,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit-points-xphb|Hit Points]],\
-      \ it instead becomes a Werebear under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
+      \ drops to 0 [[hit points xphb|Hit Points]],\
+      \ it instead becomes a Werebear under the DM's control and has 10 [[hit points xphb|Hit Points]].\
       \ Success: The target is immune to this werebear's curse for 24 hours."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\
@@ -134,7 +137,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help stealing before winter
@@ -148,7 +150,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

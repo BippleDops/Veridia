@@ -1,3 +1,12 @@
+---
+title: Will O Wisp Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Will O Wisp Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)
 
-# [[will-o-wisp-xmm|Will-o'-Wisp]]
+# [[will o wisp xmm|Will-o'-Wisp]]
 *Source: Monster Manual (2024) p. 333. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Will-o'-Wisp
 
@@ -109,12 +112,12 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "traits":
   - "desc": "The wisp can't wear or carry anything."
     "name": "Ephemeral"
-  - "desc": "The wisp sheds [[bright-light-xphb|Bright Light]]\
-      \ in a 20-foot radius and [[dim-light-xphb|Dim Light]]\
+  - "desc": "The wisp sheds [[bright light xphb|Bright Light]]\
+      \ in a 20-foot radius and [[dim light xphb|Dim Light]]\
       \ for an additional 20 feet."
     "name": "Illumination"
   - "desc": "The wisp can move through other creatures and objects as if they were\
-      \ [[difficult-terrain-xphb|Difficult Terrain]].\
+      \ [[difficult terrain xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -122,8 +125,8 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
     "name": "Shock"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: DC 10, one living creature the wisp can\
-      \ see within 5 feet that has 0 [[hit-points-xphb|Hit Points]].\
-      \ Failure: The target dies, and the wisp regains 10 (3d6) [[hit-points-xphb|Hit Points]]."
+      \ see within 5 feet that has 0 [[hit points xphb|Hit Points]].\
+      \ Failure: The target dies, and the wisp regains 10 (3d6) [[hit points xphb|Hit Points]]."
     "name": "Consume Life"
   - "desc": "The wisp and its light have the [[conditions#Invisible|Invisible]]\
       \ condition until the wisp's [[conditions#Concentration|Concentration]]\
@@ -155,7 +158,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Vehicles - Fleet Dynamics Generator
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Fleet Dynamics Generator
 
 ---
@@ -26,7 +35,6 @@ world: Both
 
 Procedures to build faction fleets and AI opponent behavior. Interfaces with [[Complete Faction Warfare System]] and vehicle subsystems.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[C
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Faction Naval Doctrines (d12)
 1 Stealth & Ambush • 2 Anchor Fortress • 3 Parasite Swarm • 4 Crystal Artillery • 5 Carrier Strike • 6 Trade Escort • 7 Guerrilla Currents • 8 Zealot Crusade • 9 Memory Warfare • 10 Reality Control • 11 Humanitarian Relief • 12 Pirate Confederacy
@@ -54,7 +57,7 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[C
 ## Quick Build Procedure
 1 Pick Doctrine → 2 Assign Fleet Points → 3 Choose Admirals → 4 Place Bases → 5 Define Objectives
 
-Use with: [[Transportation_Infrastructure|Transportation Infrastructure]], [[Journey_Event_Compiler|Journey Event Compiler]].
+Use with: [[Transportation Infrastructure|Transportation Infrastructure]], [[Journey_Event_Compiler|Journey Event Compiler]].
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Musician Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Musician Xphb
 
 ---
@@ -30,8 +39,7 @@ You gain the following benefits.
 
 **Instrument Training.** You gain proficiency with three Musical Instruments of your choice.
 
-**Encouraging Song.** As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give [[heroic-inspiration-xphb|Heroic Inspiration]] to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
-
+**Encouraging Song.** As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give [[heroic inspiration xphb|Heroic Inspiration]] to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ You gain the following benefits.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -84,16 +85,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

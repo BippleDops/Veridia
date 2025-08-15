@@ -1,3 +1,12 @@
+---
+title: Economic Warfare and Trade Sanctions
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Economic Warfare and Trade Sanctions
 
 ---
@@ -29,7 +38,6 @@ updated: '2025-08-13T01:18:35.273525+00:00'
 
 > *"Armies conquer territory, but merchants conquer souls. A man will fight you if you threaten his life, but he will serve you if you control his livelihood."* - [[Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ updated: '2025-08-13T01:18:35.273525+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Economic warfare in the realms of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] represents the evolution of conflict beyond traditional military engagement. Through sophisticated manipulation of trade routes, currency systems, and resource distribution, the major powers wage wars that can topple governments, starve populations, or enrich allies without firing a single shot. This invisible battlefield determines the fate of nations through ledgers rather than swords.
@@ -470,7 +473,6 @@ The invisible nature of economic warfare allows for subtle, long-term campaign d
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -480,11 +482,9 @@ The invisible nature of economic warfare allows for subtle, long-term campaign d
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

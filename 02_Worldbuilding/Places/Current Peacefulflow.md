@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-current-peacefulflow-current-peacefulflow.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,36 +53,26 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -134,8 +120,6 @@ Ongoing situations affecting Current Peacefulflow:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -148,12 +132,10 @@ Ongoing situations affecting Current Peacefulflow:
 - DC 16 to detect
 - 2d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Wish**
   - School: Conjuration
   - Manifestation: Intermittent
-
 
 ## Temporal Layers
 
@@ -167,11 +149,9 @@ Ongoing situations affecting Current Peacefulflow:
 - **Brewing Conflict**: Resource shortage
 - **Prophecy Connection**: Links to The Second Prophecy of Stars
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 

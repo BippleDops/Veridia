@@ -1,3 +1,12 @@
+---
+title: Potion of Gaseous Form Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Gaseous Form Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[gaseous-form-xphb|Gaseous Form]] spell for 1 hour (no [[conditions#Concentration|Concentration]] required) or until you end the effect as a [[bonus-action-xphb|Bonus Action]].
+When you drink this potion, you gain the effect of the [[gaseous form xphb|Gaseous Form]] spell for 1 hour (no [[conditions#Concentration|Concentration]] required) or until you end the effect as a [[bonus action xphb|Bonus Action]].
 
 This potion's container seems to hold fog that moves and pours like water.
 
 *Source: Dungeon Master's Guide (2024) p. 287. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ This potion's container seems to hold fog that moves and pours like water.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals the truth about this place
-- A document has gone missing and evil awakens
 - A document has gone missing and evil awakens
 
 ## Related Notes
@@ -86,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: explosives
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # explosives
 
 ---
@@ -27,19 +36,18 @@ world: Both
 
 | Renaissance Item | Cost | Weight |
 |------------------|------|--------|
-| [[bomb-xdmg|Bomb]] | 150 gp | 1 lb. |
-| [[gunpowder-keg-xdmg|Gunpowder, keg]] | 250 gp | 20 lb. |
-| [[gunpowder-powder-horn-xdmg|Gunpowder, powder horn]] | 35 gp | 2 lb. |
+| [[bomb xdmg|Bomb]] | 150 gp | 1 lb. |
+| [[gunpowder keg xdmg|Gunpowder, keg]] | 250 gp | 20 lb. |
+| [[gunpowder powder horn xdmg|Gunpowder, powder horn]] | 35 gp | 2 lb. |
 ^explosives
 
 | Modern Item | Cost | Weight |
 |-------------|------|--------|
-| [[dynamite-stick-xdmg|Dynamite (stick)]] | — | 1 lb. |
-| [[fragmentation-grenade-xdmg|Grenade, fragmentation]] | — | 1 lb. |
-| [[smoke-grenade-xdmg|Grenade, smoke]] | — | 2 lb. |
-| [[grenade-launcher-xdmg|Grenade launcher]] | — | 7 lb. |
+| [[dynamite stick xdmg|Dynamite (stick)]] | — | 1 lb. |
+| [[fragmentation grenade xdmg|Grenade, fragmentation]] | — | 1 lb. |
+| [[smoke grenade xdmg|Grenade, smoke]] | — | 2 lb. |
+| [[grenade launcher xdmg|Grenade launcher]] | — | 7 lb. |
 ^modern-item-cost-weight
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

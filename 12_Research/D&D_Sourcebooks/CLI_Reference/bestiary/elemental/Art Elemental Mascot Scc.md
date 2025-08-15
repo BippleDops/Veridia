@@ -1,3 +1,12 @@
+---
+title: Art Elemental Mascot Scc
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Art Elemental Mascot Scc
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-art-elemental-mascot-scc-art-elemental-mascot-scc.svg)
 
-# [[art-elemental-mascot-scc|Art Elemental Mascot]]
+# [[art elemental mascot scc|Art Elemental Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 185*  
 
 Often referred to as a "living expression," an art elemental is an aspect of creativity and emotion given physical form—making it the perfect mascot for Prismari College.
@@ -90,7 +99,6 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -102,11 +110,6 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -124,26 +127,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Cleric Xphb Tempest Domain
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cleric Xphb Tempest Domain
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Tempest Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression
@@ -59,7 +68,7 @@ world: Both
 
 ### Tempest Domain (Level 3)
 
-Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Kord, [[dragonlance-zeboim-phb|Zeboim]], [[eberron-the-devourer|the Devourer]], [[greek-zeus|Zeus]], and [[norse-thor|Thor]]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
+Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Kord, [[dragonlance zeboim phb|Zeboim]], [[eberron the devourer|the Devourer]], [[greek zeus|Zeus]], and [[norse thor|Thor]]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -67,11 +76,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[fog-cloud-xphb|fog cloud]], [[thunderwave-xphb|thunderwave]] |
-| 3rd | [[gust-of-wind-xphb|gust of wind]], [[shatter-xphb|shatter]] |
-| 5th | [[call-lightning-xphb|call lightning]], [[sleet-storm-xphb|sleet storm]] |
-| 7th | [[control-water-xphb|control water]], [[ice-storm-xphb|ice storm]] |
-| 9th | [[destructive-wave-xphb|destructive wave]], [[insect-plague-xphb|insect plague]] |
+| 1st | [[fog cloud xphb|fog cloud]], [[thunderwave xphb|thunderwave]] |
+| 3rd | [[gust of wind xphb|gust of wind]], [[shatter xphb|shatter]] |
+| 5th | [[call lightning xphb|call lightning]], [[sleet storm xphb|sleet storm]] |
+| 7th | [[control water xphb|control water]], [[ice storm xphb|ice storm]] |
+| 9th | [[destructive wave xphb|destructive wave]], [[insect plague xphb|insect plague]] |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -98,7 +107,6 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 
 At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -110,11 +118,6 @@ At 17th level, you have a flying speed equal to your current walking speed whene
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -131,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

@@ -1,3 +1,12 @@
+---
+title: Vehicles - Vehicle Core Rules
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Vehicle Core Rules
 
 ---
@@ -26,7 +35,6 @@ world: Both
 
 These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 11) Combat Phases (Recommended)
 1. Initiative: 1d20 + Sensor Suite
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -85,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

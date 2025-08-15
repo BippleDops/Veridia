@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Name
 *Classe name*
 
@@ -28,7 +26,6 @@ improvements: 20
 
 ---
 *Add homebrew classes here*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,25 +50,17 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Magic_Items Improvements
 
-- Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 - Note how magic items affect this rule
 
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Monster_Use Improvements
@@ -89,7 +78,6 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-
 
 ## Rule Summary
 
@@ -128,11 +116,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Balance Analysis
 
@@ -145,7 +131,6 @@ Mentioned in The First Prophecy of Winds
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Quick Reference
 

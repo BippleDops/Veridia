@@ -1,3 +1,12 @@
+---
+title: Elven Labelas Enoreth Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Labelas Enoreth Mtf
 
 ---
@@ -43,7 +52,6 @@ Elves tend to give Labelas little regard until they experience Remembrance. Like
 
 Most settlements have only one or two priests of Labelas. These individuals are elves well past their prime but who have not yet begun to withdraw into themselves. Their duties involve guiding elves who have recently experienced Remembrance, and are thus beginning the journey into introversion in the waning days of one's mortal life. The priests also preside over funeral celebrations, since Labelas is also honored for his role in seeing that elves experience beneficial reincarnations.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,11 +63,6 @@ Most settlements have only one or two priests of Labelas. These individuals are 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Eternal Witness
 
@@ -87,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

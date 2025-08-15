@@ -1,3 +1,12 @@
+---
+title: Befuddlement Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Befuddlement Xphb
 
 ---
@@ -38,14 +47,13 @@ world: Both
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [[actions#Magic|Magic]] action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [[greater-restoration-xphb|Greater Restoration]], [[heal-xphb|Heal]], or [[wish-xphb|Wish]] spell.
+On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [[actions#Magic|Magic]] action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [[greater restoration xphb|Greater Restoration]], [[heal xphb|Heal]], or [[wish xphb|Wish]] spell.
 
 On a successful save, the target takes half as much damage only.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,11 +66,6 @@ On a successful save, the target takes half as much damage only.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -80,16 +83,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

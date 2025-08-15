@@ -1,3 +1,12 @@
+---
+title: Poisoned Needle Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Poisoned Needle Xdmg
 
 ---
@@ -28,7 +37,6 @@ world: Both
 
 A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (`d10`) Poison damage and has the [[conditions#Poisoned|Poisoned]] condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,15 +48,10 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Avoid
 
-The trap doesn't trigger if the lock is opened using a [[knock-xphb|Knock]] spell or similar magic.
+The trap doesn't trigger if the lock is opened using a [[knock xphb|Knock]] spell or similar magic.
 
 ## Detect and Disarm
 
@@ -83,21 +86,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -19,11 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,7 +48,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
@@ -61,18 +56,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -86,8 +76,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 The last surviving member of the Selenthian Dynasty, Marina has died by drowning 777 times, each death making her more powerful and less human. She controls the memory trade in Aquabyssos, literally buying and selling experiences, identities, and histories. Her merchant empire spans both underwater and surface operations through countless agents who don't know they work for her.
@@ -207,7 +195,6 @@ Duchess Marina Ever Drowning is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Duchess Marina Ever Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Duchess Marina Ever Drowning.
-
 
 ## Religious Observances
 

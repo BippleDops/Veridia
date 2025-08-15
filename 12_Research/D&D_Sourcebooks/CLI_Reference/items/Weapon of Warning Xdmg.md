@@ -1,3 +1,12 @@
+---
+title: Weapon of Warning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Weapon of Warning Xdmg
 
 ---
@@ -83,7 +92,6 @@ world: Both
 
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,11 +103,6 @@ As long as this weapon is within your reach and you are attuned to it, you and a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Alarm
 
@@ -107,7 +110,7 @@ The weapon magically awakens each subject who is sleeping naturally when combat 
 
 ## Supernatural Readiness
 
-Each subject has [[advantage-xphb|Advantage]] on its [[initiative-xphb|Initiative]] rolls.
+Each subject has [[advantage xphb|Advantage]] on its [[initiative xphb|Initiative]] rolls.
 
 **Variants**:
 - [Antimatter Rifle of Warning](#Antimatter%20Rifle%20of%20Warning)
@@ -168,7 +171,7 @@ Each subject has [[advantage-xphb|Advantage]] on its [[initiative-xphb|Initiativ
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 324*
@@ -189,11 +192,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -203,7 +204,6 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

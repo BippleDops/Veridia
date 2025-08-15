@@ -1,3 +1,12 @@
+---
+title: Journey_Event_Permutation_Engine
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Journey_Event_Permutation_Engine
 
 ---
@@ -27,7 +36,6 @@ Roll: 1d20 Environment + 1d20 Faction + 1d20 Horror + 1d20 Discovery + 1d20 Syst
 
 Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]; sanity from [[Sanity System]]; anchors/RSB from [[Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[Complete Faction Warfare System]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment (d20)
 1 Pressure surge wall
@@ -176,7 +179,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

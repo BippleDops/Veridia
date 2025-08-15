@@ -1,3 +1,12 @@
+---
+title: Decanter of Endless Water Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Decanter of Endless Water Xdmg
 
 ---
@@ -36,10 +45,9 @@ You can take a [[actions#Magic|Magic]] action to remove the stopper and issue on
 
 - **Splash.** The decanter produces 1 gallon of water.  
 - **Fountain.** The decanter produces 5 gallons of water.  
-- **Geyser.** The decanter produces 30 gallons of water that gushes forth in a [[line-area-of-effect-xphb|Line]] 30 feet long and 1 foot wide. If you're holding the decanter, you can aim the geyser in one direction (no action required). One creature of your choice in the [[line-area-of-effect-xphb|Line]] must succeed on a DC 13 Strength saving throw or take `d4` Bludgeoning damage and have the [[conditions#prone|Prone]] condition. Instead of a creature, you can target one object in the [[line-area-of-effect-xphb|Line]] that isn't being worn or carried and that weighs no more than 200 pounds. The object is knocked over by the geyser.  
+- **Geyser.** The decanter produces 30 gallons of water that gushes forth in a [[line area of effect xphb|Line]] 30 feet long and 1 foot wide. If you're holding the decanter, you can aim the geyser in one direction (no action required). One creature of your choice in the [[line area of effect xphb|Line]] must succeed on a DC 13 Strength saving throw or take `d4` Bludgeoning damage and have the [[conditions#prone|Prone]] condition. Instead of a creature, you can target one object in the [[line area of effect xphb|Line]] that isn't being worn or carried and that weighs no more than 200 pounds. The object is knocked over by the geyser.  
 
 *Source: Dungeon Master's Guide (2024) p. 249. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ You can take a [[actions#Magic|Magic]] action to remove the stopper and issue on
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

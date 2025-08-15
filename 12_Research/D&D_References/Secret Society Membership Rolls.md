@@ -1,3 +1,12 @@
+---
+title: Secret Society Membership Rolls
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Secret Society Membership Rolls
 
 ---
@@ -24,7 +33,6 @@ updated: '2025-08-13T01:18:34.997774+00:00'
 # Secret Society Membership Rolls
 *"The deepest currents flow in silence"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ updated: '2025-08-13T01:18:34.997774+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Aquabyssos harbors dozens of secret societies, mystery cults, and clandestine organizations. Many influential figures hold multiple memberships, creating complex webs of loyalty, competition, and intrigue. Understanding these hidden affiliations reveals the true power structures beneath public politics.
@@ -626,11 +629,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Session Log
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Log
 
 ---
@@ -9,7 +18,6 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -38,39 +46,30 @@ modified: '2025-08-14'
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Session_Zero Improvements
 
-- Add session zero integration questions
 - Add session zero integration questions
 
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Level_Range Improvements
 
-- Provide scaling for different level ranges
 - Provide scaling for different level ranges
 
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-- Add AI art prompts for key scenes
 
 ### Backup Improvements
 
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 - Add 'What if players skip this?' contingency
 
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-
 
 ## Related
 
@@ -84,11 +83,9 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -112,7 +109,6 @@ modified: '2025-08-14'
 - Final confrontation
 - Consequences
 - Epilogue hooks
-
 
 ## Critical Decisions
 

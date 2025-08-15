@@ -1,3 +1,12 @@
+---
+title: Amnizu Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Amnizu Mpmm
 
 ---
@@ -27,12 +36,12 @@ updated: '2025-08-13T12:34:05.795879+00:00'
 world: Both
 ---
 
-# [[amnizu-mpmm|Amnizu]]
+# [[amnizu mpmm|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
 
-Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [[lemure-xmm|lemures]]. Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
+Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [[lemure xmm|lemures]]. Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 ```statblock
 "name": "Amnizu (MPMM)"
@@ -97,9 +106,9 @@ Some amnizus perform the critical task of watching over the River Styx from fort
     "name": "Forgetfulness (Recharge 6)"
   - "desc": "The amnizu casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\n\
-      At will: [[command-xphb|command]]\n\n3/day:\
-      \ [[dominate-monster-xphb|dominate monster]]\n\n1/day:\
-      \ [[befuddlement-xphb|feeblemind]]"
+      At will: [[command xphb|command]]\n\n3/day:\
+      \ [[dominate monster xphb|dominate monster]]\n\n1/day:\
+      \ [[befuddlement xphb|feeblemind]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 60 feet of the amnizu makes an attack roll against\
@@ -117,7 +126,6 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -129,11 +137,6 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -151,14 +154,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

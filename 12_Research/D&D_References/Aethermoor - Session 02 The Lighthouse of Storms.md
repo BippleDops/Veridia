@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 02 The Lighthouse of Storms
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 02 The Lighthouse of Storms
 
 ---
@@ -19,7 +28,6 @@ updated: '2025-08-13T12:34:17.831062+00:00'
 world: Aethermoor
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -31,11 +39,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 The party investigates Whisper Island, discovering Captain Blackwater's crystallized ship and a lighthouse conducting horrific resoce experiments. They uncover references to "Seven Shards of the Deep God" and disrupt a ritual attempting to "call something from below," experiencing a shared vision of a vast underwater city.
@@ -65,7 +68,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 
 #### Event 2: The Keeper's House
 **Location:** [[Lighthouse Keeper]]
-**NPCs:** [[Jasper Three-Eyes Flint]]
+**NPCs:** [[Jasper Three Eyes Flint]]
 **Outcome:**
 - Find Jasper hiding, partially crystallized (30% transformed)
 - He's paranoid but has vital information
@@ -90,7 +93,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Environmental Challenge:** Each floor closer to peak increases corruption (CON save DC 12 + floor number or gain 1 exposure)
 
 #### Event 4: The Resoce Chamber
-**Location:** [[Lighthouse Peak - Resoce Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resoce Chamber]]
+**Location:** [[Lighthouse Peak   Resoce Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resoce Chamber]]
 **NPCs:** [[Vex Shadowthorn's Apprentices]] (2)
 **Outcome:**
 - Massive 20-foot crystal formation pulsing with energy
@@ -118,7 +121,7 @@ The party awakens from the vision to find three days have passed. Jasper is gone
 ### Social
 | NPC | Location | Purpose | Outcome |
 |-----|----------|---------|---------|
-| [[Jasper Three-Eyes Flint]] | Keeper's House | Information | Paranoid revelations |
+| [[Jasper Three Eyes Flint]] | Keeper's House | Information | Paranoid revelations |
 | Vex's Apprentices | Lighthouse Peak | Possible negotiation | Fanatic devotion |
 
 ### Completed
@@ -176,21 +179,17 @@ Per Player: 200-250 (depending on party size)
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

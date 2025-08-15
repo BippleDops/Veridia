@@ -1,3 +1,12 @@
+---
+title: Magic_Items_Quick_Reference
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic_Items_Quick_Reference
 
 ---
@@ -149,7 +158,6 @@ BLACK MARKET MULTIPLIERS:
 *Emergency items should always be carried*
 *Check with GM for availability and local pricing variations*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -161,11 +169,6 @@ BLACK MARKET MULTIPLIERS:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -179,7 +182,6 @@ BLACK MARKET MULTIPLIERS:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Someone is hunting an heir for money
@@ -190,7 +192,6 @@ BLACK MARKET MULTIPLIERS:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

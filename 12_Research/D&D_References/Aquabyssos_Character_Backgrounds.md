@@ -1,3 +1,12 @@
+---
+title: Aquabyssos_Character_Backgrounds
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos_Character_Backgrounds
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Depth Explorer
 You spent your life pushing the boundaries of how deep humanity can go, mapping the unknown reaches of the ocean and discovering what lies in the crushing darkness.
@@ -177,7 +180,6 @@ Background features can be customized to better fit your character's story while
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

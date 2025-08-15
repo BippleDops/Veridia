@@ -1,3 +1,12 @@
+---
+title: Session Prep
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_Prep
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Related
 
@@ -39,7 +42,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 
@@ -55,21 +57,17 @@ modified: '2025-08-14'
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates
 
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
 
-
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
-
-
-## 09_Templates Specific Content
-
-Contextual improvement based on 09_Templates
-
 
 ## 09_Templates Specific Content
 

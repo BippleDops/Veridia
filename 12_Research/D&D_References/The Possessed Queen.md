@@ -1,3 +1,12 @@
+---
+title: The Possessed Queen
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Possessed Queen
 
 ---
@@ -37,7 +46,6 @@ political_impact: Constitutional Crisis
 > *"She who once embodied our kingdom's strength and wisdom now serves as herald for forces that would unmake everything she once protected. Yet in her crystal-clouded eyes, some say they still glimpse the woman she was, fighting desperately against the influence that wears her crown like a trophy."*
 > — [[Royal Advisor Cornelius Stormwind]], Former Chief Counselor to the Crown
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ political_impact: Constitutional Crisis
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -368,7 +371,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Bestial Spirit Land Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bestial Spirit Land Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-land-xphb-bestial-spirit-land-xphb.svg)
 
-# [[bestial-spirit-land-xphb|Bestial Spirit (Land)]]
+# [[bestial spirit land xphb|Bestial Spirit (Land)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -67,7 +76,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -79,11 +87,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,7 +103,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Broom of Animated Attack Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Broom of Animated Attack Cos
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-broom-of-animated-attack-cos-broom-of-animated-attack-cos.svg)
 
-# [[broom-of-animated-attack-cos|Broom of Animated Attack]]
+# [[broom of animated attack cos|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ A broom of animated attack is easily mistaken for a broom of flying. It attacks 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Flying Broom
 
@@ -89,8 +92,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The broom is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
+      \ while in the area of an [[antimagic field xphb|antimagic field]].\
+      \ If targeted by [[dispel magic xphb|dispel magic]],\
       \ the broom must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
@@ -132,16 +135,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

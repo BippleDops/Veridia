@@ -1,3 +1,12 @@
+---
+title: Collapsing Roof Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Collapsing Roof Xdmg
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
 
-The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (`2d10`) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into [[difficult-terrain-xphb|Difficult Terrain]].
-
+The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (`2d10`) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into [[difficult terrain xphb|Difficult Terrain]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ The first creature that crosses the trip wire causes the supports to topple and 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Detect and Disarm
 
@@ -81,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for information for money
@@ -94,7 +96,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

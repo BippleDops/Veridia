@@ -1,3 +1,12 @@
+---
+title: Spell Gem Topaz Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Gem Topaz Oota
 
 ---
@@ -44,7 +53,6 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 
 *Source: Out of the Abyss p. 223*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,11 +64,6 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

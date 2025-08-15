@@ -1,3 +1,12 @@
+---
+title: Dr. Siphon Gillwater
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dr. Siphon Gillwater
 
 ---
@@ -34,9 +43,6 @@ accessibility:
 
 # Dr. Siphon Gillwater
 
-![[04_Resources/Assets/Art/Places/Dr._Siphon_Gillwater.png|Dr. Siphon Gillwater Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +54,6 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Dr. Siphon Gillwater is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.

@@ -1,3 +1,12 @@
+---
+title: Potion of Poison Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Poison Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-This concoction looks, smells, and tastes like a [[potion-of-healing-xdmg|Potion of Healing]] or another beneficial potion. However, it is actually poison masked by illusion magic. [[identify-xphb|Identify]] reveals its true nature.
+This concoction looks, smells, and tastes like a [[potion of healing xdmg|Potion of Healing]] or another beneficial potion. However, it is actually poison masked by illusion magic. [[identify xphb|Identify]] reveals its true nature.
 
 If you drink this potion, you take `4d6` Poison damage and must succeed on a DC 13 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ If you drink this potion, you take `4d6` Poison damage and must succeed on a DC 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

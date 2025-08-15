@@ -1,3 +1,12 @@
+---
+title: Expertise Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Expertise Xphb
 
 ---
@@ -25,10 +34,9 @@ world: Both
 # Expertise
 *Source: Player's Handbook (2024) p. 367. Available in the SRD and the Free Rules (2024)* 
 
-Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your [[proficiency-xphb|Proficiency Bonus]] is doubled for that check unless the bonus is doubled by another feature.
+Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your [[proficiency xphb|Proficiency Bonus]] is doubled for that check unless the bonus is doubled by another feature.
 
-If you gain Expertise, you gain it in one [[skill-xphb|skill]] in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
-
+If you gain Expertise, you gain it in one [[skill xphb|skill]] in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ If you gain Expertise, you gain it in one [[skill-xphb|skill]] in which you have
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -77,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

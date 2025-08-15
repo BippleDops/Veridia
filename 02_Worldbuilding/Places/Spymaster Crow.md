@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg]]
 
 # The Crow's Perch - Spymaster's Sanctum
 
 *A hidden network of safe houses, information brokers, and covert meeting places controlled by the enigmatic Spymaster known only as "Crow"*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,7 +65,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
@@ -78,26 +73,21 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -107,7 +97,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -397,8 +386,6 @@ Ongoing situations affecting Spymaster Crow:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
@@ -418,7 +405,6 @@ Ongoing situations affecting Spymaster Crow:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Economic Structure
 
 ### Currency
@@ -436,7 +422,6 @@ Ongoing situations affecting Spymaster Crow:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Troglodyte Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Troglodyte Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troglodyte-xmm-troglodyte-xmm.svg)
 
-# [[troglodyte-xmm|Troglodyte]]
+# [[troglodyte xmm|Troglodyte]]
 *Source: Monster Manual (2024) p. 309*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Troglodyte
 
@@ -89,12 +92,12 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "cr": "1/4"
 "traits":
   - "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
-      \ that starts its turn in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ that starts its turn in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the troglodyte. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to the Stench of all troglodytes for 1 hour."
     "name": "Stench"
-  - "desc": "While in sunlight, the troglodyte has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the troglodyte has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -125,7 +128,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

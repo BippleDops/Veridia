@@ -1,3 +1,12 @@
+---
+title: Githyanki Warrior Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Githyanki Warrior Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-warrior-xmm-githyanki-warrior-xmm.svg)
 
-# [[githyanki-warrior-xmm|Githyanki Warrior]]
+# [[githyanki warrior xmm|Githyanki Warrior]]
 *Source: Monster Manual (2024) p. 134*  
 
 Githyanki warriors use psionic abilities to augment their battle prowess.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Githyanki warriors use psionic abilities to augment their battle prowess.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Githyanki
 
@@ -103,13 +106,13 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
       \ plus 7 (2d6) Psychic damage."
     "name": "Psi Blade"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage-hand-xphb|Mage\]]
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage hand xphb|Mage\]]
       \ Hand]] (the hand is Invisible)\n\
-      \n2/day: [[nondetection-xphb|Nondetection]] (self\
+      \n2/day: [[nondetection xphb|Nondetection]] (self\
       \ only)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
+  - "desc": "The githyanki casts [[misty step xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":
@@ -138,11 +141,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

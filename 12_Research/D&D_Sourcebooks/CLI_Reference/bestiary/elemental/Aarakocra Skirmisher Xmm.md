@@ -1,3 +1,12 @@
+---
+title: Aarakocra Skirmisher Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aarakocra Skirmisher Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-skirmisher-xmm-aarakocra-skirmisher-xmm.svg)
 
-# [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]]
+# [[aarakocra skirmisher xmm|Aarakocra Skirmisher]]
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Aarakocra
 
@@ -121,7 +124,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

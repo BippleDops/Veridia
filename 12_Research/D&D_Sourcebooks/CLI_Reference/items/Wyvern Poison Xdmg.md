@@ -1,3 +1,12 @@
+---
+title: Wyvern Poison Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wyvern Poison Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 1,200 gp
 
 A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (`7d6`) Poison damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -91,21 +92,17 @@ Mentioned in The First Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

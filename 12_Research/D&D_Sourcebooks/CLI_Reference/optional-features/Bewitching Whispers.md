@@ -1,3 +1,12 @@
+---
+title: Bewitching Whispers
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bewitching Whispers
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 7
 
-You can cast [[compulsion-xphb|compulsion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
+You can cast [[compulsion xphb|compulsion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can cast [[compulsion-xphb|compulsion]] once using a warlock spell slot. You
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

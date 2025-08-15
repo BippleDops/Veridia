@@ -1,3 +1,12 @@
+---
+title: Magic Items
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Items
 
 ---
@@ -38,7 +47,6 @@ magical_schools: All Schools
 > *"In the depths where pressure shapes possibility and on the surface where winds carry wonder, magic takes countless forms in countless vessels. Each enchanted item tells a story of its creator's vision, its bearer's need, and the world's endless capacity for marvel and mystery."*
 > — [[Master Artificer Coral Gemwright]], Cross-Realm Magical Item Specialist
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ magical_schools: All Schools
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -369,7 +372,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

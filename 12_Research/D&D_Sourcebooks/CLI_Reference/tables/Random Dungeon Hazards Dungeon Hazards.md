@@ -1,3 +1,12 @@
+---
+title: Random Dungeon Hazards Dungeon Hazards
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random Dungeon Hazards Dungeon Hazards
 
 ---
@@ -31,14 +40,13 @@ world: Both
 
 | dice: d20 | Hazard |
 |-----------|--------|
-| 1-3 | [[brown-mold-xdmg|Brown mold]] |
-| 4-8 | [[green-slime-xdmg|Green slime]] |
-| 9-10 | [[shrieker-fungus-xmm|Shrieker]] |
-| 11-15 | [[webs-xdmg|Spiderwebs]] |
-| 16-17 | [[violet-fungus-xmm|Violet fungus]] |
-| 18-20 | [[yellow-mold-xdmg|Yellow mold]] |
+| 1-3 | [[brown mold xdmg|Brown mold]] |
+| 4-8 | [[green slime xdmg|Green slime]] |
+| 9-10 | [[shrieker fungus xmm|Shrieker]] |
+| 11-15 | [[webs xdmg|Spiderwebs]] |
+| 16-17 | [[violet fungus xmm|Violet fungus]] |
+| 18-20 | [[yellow mold xdmg|Yellow mold]] |
 ^dungeon-hazards
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

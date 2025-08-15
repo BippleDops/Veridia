@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg]]
 
 # Beast Master Krell Chainbreaker
 
 *"Every creature has a price, and I know how to make them pay it."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,11 +63,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -81,25 +75,18 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Overview
 Krell Chainbreaker is a notorious beast master who operates in the outer districts of Aquabyssos, capturing and training dangerous sea creatures for various illegal purposes. His brutal methods and lack of regard for creature welfare have made him feared throughout the criminal underworld.
@@ -183,12 +170,9 @@ Ongoing situations affecting Beast Master Krell Chainbreaker:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 

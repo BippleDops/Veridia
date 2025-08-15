@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg]]
 
 # The Silk Trade Guild
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,7 +67,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
 
@@ -79,10 +74,6 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -92,18 +83,14 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Organization Overview and Purpose
 The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[Aquabyssos]].
@@ -338,11 +325,9 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

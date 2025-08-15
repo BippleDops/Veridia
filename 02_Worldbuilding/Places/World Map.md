@@ -26,10 +26,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg]]
 
 # World Map
 ```leaflet
@@ -47,7 +44,6 @@ scale: 1
 marker: default, 35, 55, Port Verran
 marker: default, 65, 45, The Sunken City of Aeridor
 ```
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,11 +72,9 @@ marker: default, 65, 45, The Sunken City of Aeridor
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -90,13 +84,9 @@ marker: default, 65, 45, The Sunken City of Aeridor
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -114,7 +104,6 @@ marker: default, 65, 45, The Sunken City of Aeridor
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Player-Facing Summary
 
@@ -161,8 +150,6 @@ Ongoing situations affecting World Map:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Historical Timeline
 

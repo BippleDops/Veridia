@@ -1,3 +1,12 @@
+---
+title: Quest - The Convergence Crisis
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Convergence Crisis
 
 ---
@@ -39,7 +48,6 @@ content_warning: Contains themes of reality alteration and existential choice
 # Quest - The Convergence Crisis
 *When Two Worlds Collide*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ content_warning: Contains themes of reality alteration and existential choice
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merging sections of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], creating unstable hybrid zones where the laws of both realms clash violently. The party must navigate between dimensions, work with factions from both worlds, and ultimately decide whether to complete the convergence, reverse it, or find a third option that preserves both realms' integrity.
@@ -214,7 +217,7 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 15. [[The Liminal Trading Company]] - Neutral merchants caught in crisis
 16. [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Aquabyssos government response
 17. [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Crystal Throne's role in crisis
-18. [[Sister Thalassa the Depth-Touched]] - Religious prophet interpreting events
+18. [[Sister Thalassa the Depth Touched]] - Religious prophet interpreting events
 19. [[Memory Harvester Kythara]] - Expert on consciousness effects of convergence
 20. [[Keeper of the Shattered Crown, Marcus Crystalvein]] - Shard lore keeper
 21. [[Scholar Vivienne the Chronicler]] - Academic studying dimensional theory
@@ -299,7 +302,6 @@ Legends speak of Quest   The Convergence Crisis as a nexus where past and presen
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

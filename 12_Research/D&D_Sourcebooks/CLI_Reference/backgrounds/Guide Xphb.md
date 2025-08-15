@@ -1,3 +1,12 @@
+---
+title: Guide Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Guide Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/guide.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
-- **Feat.** [[magic-initiate-xphb|Magic Initiate]] (Druid)  
+- **Feat.** [[magic initiate xphb|Magic Initiate]] (Druid)  
 - **Skill Proficiencies.** [[skills#Stealth|Stealth]], [[skills#Survival|Survival]]  
-- **Tool Proficiency.** [[cartographers-tools-xphb|Cartographer's Tools]]  
-- **Equipment.** Choose A or B: (A) [[shortbow-xphb|Shortbow]], [[arrow-xphb|20 Arrows]], [[cartographers-tools-xphb|Cartographer's Tools]], [[bedroll-xphb|Bedroll]], [[quiver-xphb|Quiver]], [[tent-xphb|Tent]], [[travelers-clothes-xphb|Traveler's Clothes]], 3 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[cartographers tools xphb|Cartographer's Tools]]  
+- **Equipment.** Choose A or B: (A) [[shortbow xphb|Shortbow]], [[arrow xphb|20 Arrows]], [[cartographers tools xphb|Cartographer's Tools]], [[bedroll xphb|Bedroll]], [[quiver xphb|Quiver]], [[tent xphb|Tent]], [[travelers clothes xphb|Traveler's Clothes]], 3 GP; or (B) 50 GP  
 
 You came of age outdoors, far from settled lands. Your home was anywhere you chose to spread your bedroll. There are wonders in the wilderness—strange monsters, pristine forests and streams, overgrown ruins of great halls once trod by giants—and you learned to fend for yourself as you explored them. From time to time, you guided friendly nature priests who instructed you in the fundamentals of channeling the magic of the wild.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is hunting an heir for revenge
@@ -80,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

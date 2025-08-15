@@ -1,3 +1,12 @@
+---
+title: Lords of the Nine Layers and Rulers of the Nine Hells Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # lords-of-the-nine-layers-and-rulers-of-the-nine-hells-mtf
 
 ---
@@ -28,7 +37,7 @@ world: Both
 
 | Layer | Layer Name | Ruler |
 |-------|------------|-------|
-| 1 | Avernus | [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] |
+| 1 | Avernus | [[/03 Mechanics/CLI/bestiary/npc/zariel mpmm|Zariel]] |
 | 2 | Dis | Dispater |
 | 3 | Minauros | Mammon |
 | 4 | Phlegethos | Belial and Fierna |
@@ -38,7 +47,6 @@ world: Both
 | 8 | Cania | Mephistopheles |
 | 9 | Nessus | Asmodeus |
 ^layers-and-rulers-of-the-nine-hells
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,21 +76,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

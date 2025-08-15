@@ -1,3 +1,12 @@
+---
+title: 05 Chapter 4 Character Origins
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 05 Chapter 4 Character Origins
 
 ---
@@ -29,7 +38,6 @@ world: Both
 
 This chapter describes the two components of an adventurer's origin: "background" and "species". Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in "chapter 3").
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ This chapter describes the two components of an adventurer's origin: "background
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Origin Components
 
@@ -117,26 +120,26 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [[acolyte-xphb|Acolyte]]  
-- [[artisan-xphb|Artisan]]  
-- [[charlatan-xphb|Charlatan]]  
-- [[criminal-xphb|Criminal]]  
-- [[entertainer-xphb|Entertainer]]  
-- [[farmer-xphb|Farmer]]  
-- [[guard-xphb|Guard]]  
-- [[guide-xphb|Guide]]  
-- [[hermit-xphb|Hermit]]  
-- [[merchant-xphb|Merchant]]  
-- [[noble-xphb|Noble]]  
-- [[sage-xphb|Sage]]  
-- [[sailor-xphb|Sailor]]  
-- [[scribe-xphb|Scribe]]  
-- [[soldier-xphb|Soldier]]  
-- [[wayfarer-xphb|Wayfarer]]  
+- [[acolyte xphb|Acolyte]]  
+- [[artisan xphb|Artisan]]  
+- [[charlatan xphb|Charlatan]]  
+- [[criminal xphb|Criminal]]  
+- [[entertainer xphb|Entertainer]]  
+- [[farmer xphb|Farmer]]  
+- [[guard xphb|Guard]]  
+- [[guide xphb|Guide]]  
+- [[hermit xphb|Hermit]]  
+- [[merchant xphb|Merchant]]  
+- [[noble xphb|Noble]]  
+- [[sage xphb|Sage]]  
+- [[sailor xphb|Sailor]]  
+- [[scribe xphb|Scribe]]  
+- [[soldier xphb|Soldier]]  
+- [[wayfarer xphb|Wayfarer]]  
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [[aasimar-xphb|Aasimar]], [[dragonborn-xphb|Dragonborn]], [[dwarf-xphb|Dwarf]], [[elf-xphb|Elf]], [[gnome-xphb|Gnome]], [[goliath-xphb|Goliath]], [[halfling-xphb|Halfling]], [[human-xphb|Human]], [[orc-xphb|Orc]], and [[tiefling-xphb|Tiefling]].
+Ten species are presented in this section in alphabetical order: [[aasimar xphb|Aasimar]], [[dragonborn xphb|Dragonborn]], [[dwarf xphb|Dwarf]], [[elf xphb|Elf]], [[gnome xphb|Gnome]], [[goliath xphb|Goliath]], [[halfling xphb|Halfling]], [[human xphb|Human]], [[orc xphb|Orc]], and [[tiefling xphb|Tiefling]].
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)
 
@@ -156,16 +159,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

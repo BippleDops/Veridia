@@ -1,3 +1,12 @@
+---
+title: Mithral Armor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mithral Armor Xdmg
 
 ---
@@ -61,7 +70,6 @@ If the armor normally imposes disadvantage on Dexterity ([[skills#Stealth|Stealt
 
 *Source: Dungeon Master's Guide (2024) p. 279. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -73,11 +81,6 @@ If the armor normally imposes disadvantage on Dexterity ([[skills#Stealth|Stealt
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -94,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

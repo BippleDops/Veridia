@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Dahlver Nar He of the Many
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Dahlver Nar He of the Many
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Dahlver-Nar, He of the Many Teeth
 *Charm*  
 
-Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [[reincarnate-xphb|reincarnate]] spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
+Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [[reincarnate xphb|reincarnate]] spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time.
 
 *Source: Curse of Strahd p. 192*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary of this dark gift loses all of its teeth until it reincarnates f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

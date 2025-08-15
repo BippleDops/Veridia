@@ -1,3 +1,12 @@
+---
+title: Paladin Xphb Oathbreaker Dmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Paladin Xphb Oathbreaker Dmg
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Oathbreaker
-*[[paladin-xphb|Paladin]]: Paladin Subclass*  
+*[[paladin xphb|Paladin]]: Paladin Subclass*  
 *Source: Dungeon Master's Guide p. 97*  
 
 > [!tldr] Class and Feature Progression
@@ -70,11 +79,11 @@ You gain oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[hellish-rebuke-xphb|hellish rebuke]], [[inflict-wounds-xphb|inflict wounds]] |
-| 5th | [[crown-of-madness-xphb|crown of madness]], [[darkness-xphb|darkness]] |
-| 9th | [[animate-dead-xphb|animate dead]], [[bestow-curse-xphb|bestow curse]] |
-| 13th | [[blight-xphb|blight]], [[confusion-xphb|confusion]] |
-| 17th | [[contagion-xphb|contagion]], [[dominate-person-xphb|dominate person]] |
+| 3rd | [[hellish rebuke xphb|hellish rebuke]], [[inflict wounds xphb|inflict wounds]] |
+| 5th | [[crown of madness xphb|crown of madness]], [[darkness xphb|darkness]] |
+| 9th | [[animate dead xphb|animate dead]], [[bestow curse xphb|bestow curse]] |
+| 13th | [[blight xphb|blight]], [[confusion xphb|confusion]] |
+| 17th | [[contagion xphb|contagion]], [[dominate person xphb|dominate person]] |
 ^oathbreaker-spells
 
 ### Channel Divinity (Level 3)
@@ -107,7 +116,6 @@ While the aura lasts, the paladin can use a bonus action on his or her turn to c
 
 After activating the aura, the paladin can't do so again until he or she finishes a long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -119,11 +127,6 @@ After activating the aura, the paladin can't do so again until he or she finishe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -142,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

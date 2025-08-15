@@ -1,3 +1,12 @@
+---
+title: Rush of the Gale Spirits
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rush of the Gale Spirits
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Rush of the Gale Spirits
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[gust-of-wind-xphb|gust of wind]].
-
+You can spend 2 ki points to cast [[gust of wind xphb|gust of wind]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can spend 2 ki points to cast [[gust-of-wind-xphb|gust of wind]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -70,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

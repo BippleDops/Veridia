@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,9 +50,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
@@ -64,11 +58,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
@@ -82,12 +74,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -198,7 +188,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]] (colleague)
-- [[Quest - The Shadow Fleet]] (colleague)
+- [[Quest   The Shadow Fleet]] (colleague)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-frequency-weapon-frequency-weapon.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -206,7 +196,6 @@ This NPC can serve multiple roles:
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Cultural Practices
 
@@ -219,7 +208,6 @@ Mentioned in The First Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

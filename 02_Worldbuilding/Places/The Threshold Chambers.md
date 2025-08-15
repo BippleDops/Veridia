@@ -36,15 +36,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg]]
 
 # The Threshold Chambers
 
 *Where Two Worlds Become One*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,18 +69,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -98,17 +89,14 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -167,8 +155,6 @@ Ongoing situations affecting The Threshold Chambers:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -186,7 +172,6 @@ Ongoing situations affecting The Threshold Chambers:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

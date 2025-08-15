@@ -12,9 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,8 +43,6 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Accessibility Improvements
 
@@ -56,11 +51,9 @@ improvements: 20
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 
 ### Props Improvements
 
-- List physical props and handouts needed
 - List physical props and handouts needed
 
 ### Variants Improvements
@@ -78,9 +71,6 @@ improvements: 20
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
-
 
 ## Adventure Overview
 
@@ -98,7 +88,6 @@ An exciting quest that challenges heroes to prevent disaster.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A noble needs help stealing before winter
@@ -113,7 +102,6 @@ An exciting quest that challenges heroes to prevent disaster.
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
 
-
 ## Treasure Parcels
 
 ### Parcel A (Combat Victory)
@@ -125,7 +113,6 @@ An exciting quest that challenges heroes to prevent disaster.
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
-
 
 ## Adventure Pacing
 

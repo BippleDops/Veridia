@@ -1,3 +1,12 @@
+---
+title: Aethermoor_Airships_Catalog
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor_Airships_Catalog
 
 ---
@@ -84,7 +93,6 @@ world: Aethermoor
 
 Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity hooks, memory charts, faction doctrines.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -96,11 +104,6 @@ Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity ho
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -118,7 +121,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals the truth about a local noble
@@ -128,7 +130,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

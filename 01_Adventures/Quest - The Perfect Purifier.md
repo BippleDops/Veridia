@@ -1,3 +1,12 @@
+---
+title: Quest - The Perfect Purifier
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Perfect Purifier
 
 ---
@@ -26,12 +35,10 @@ cr: '8'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg]]
 
 # Quest - The Perfect Purifier
 
 **Level:** 7-10 | **Type:** Heist/Investigation | **Duration:** 3-5 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +51,6 @@ cr: '8'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 Alchemist Master Theron Crystalline claims to have developed the Perfect Purifier - a device capable of cleansing any corruption, including the Crystal Plague. However, his laboratory was ransacked and the device stolen by unknown agents. The race is on to recover this potentially world-saving invention before it falls into the wrong hands.
@@ -137,14 +139,12 @@ Legends speak of Quest   The Perfect Purifier as a nexus where past and present 
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

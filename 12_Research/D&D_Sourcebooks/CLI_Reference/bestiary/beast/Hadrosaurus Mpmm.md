@@ -1,3 +1,12 @@
+---
+title: Hadrosaurus Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hadrosaurus Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hadrosaurus-mpmm-hadrosaurus-mpmm.svg)
 
-# [[hadrosaurus-mpmm|Hadrosaurus]]
+# [[hadrosaurus mpmm|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -72,7 +81,6 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -84,11 +92,6 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -109,7 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

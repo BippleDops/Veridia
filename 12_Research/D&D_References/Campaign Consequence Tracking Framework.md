@@ -1,3 +1,12 @@
+---
+title: Campaign Consequence Tracking Framework
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign Consequence Tracking Framework
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-13T04:22:13.765686+00:00'
 # Campaign Consequence Tracking Framework
 *Mapping the Ripple Effects of Player Actions Across Two Worlds*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-13T04:22:13.765686+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -208,7 +211,6 @@ Each consequence chain should link to:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A corpse reveals the truth about the government
@@ -221,7 +223,6 @@ Each consequence chain should link to:
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

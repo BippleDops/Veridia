@@ -1,3 +1,12 @@
+---
+title: Quest - The Crystal Black Market
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Crystal Black Market
 
 ---
@@ -39,7 +48,6 @@ world: Both
 updated: '2025-08-13T01:18:34.468309+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ updated: '2025-08-13T01:18:34.468309+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 A new drug called "Shard Dust" is flooding the streets—powdered crystal that grants temporary magical abilities but accelerates corruption. Someone has established an industrial-scale operation to harvest and process crystal corruption from living victims. The operation threatens to destabilize the entire economy while creating an army of crystal-addicted servants.
@@ -198,16 +201,13 @@ Legends speak of Quest   The Crystal Black Market as a nexus where past and pres
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

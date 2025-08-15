@@ -1,3 +1,12 @@
+---
+title: Grassland Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Grassland Encounters Levels 1116 Xge
 
 ---
@@ -31,26 +40,25 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-05 | `3d6` [[wereboar-xmm|wereboars]] |
+| 01-05 | `3d6` [[wereboar xmm|wereboars]] |
 | 06-10 | `2d10` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
-| 11-15 | `d4` [[bulette-xmm|bulettes]] |
+| 11-15 | `d4` [[bulette xmm|bulettes]] |
 | 16-17 | An old road of paved stones, partly reclaimed by wilderness, that travels for `d8` miles in either direction before ending |
-| 18-27 | `d12` [[couatl-xmm|couatls]] |
-| 28-30 | A witch ([[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]]) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
-| 31-40 | `2d10` [[elephant-xmm|elephants]] |
-| 41-46 | `2d4` [[weretiger-xmm|weretigers]] |
+| 18-27 | `d12` [[couatl xmm|couatls]] |
+| 28-30 | A witch ([[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mage]]) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
+| 31-40 | `2d10` [[elephant xmm|elephants]] |
+| 41-46 | `2d4` [[weretiger xmm|weretigers]] |
 | 47-56 | `1d8 + 1` [[cyclops-sentry-xmm|cyclopes]] |
-| 57-61 | `d3` [[chimera-xmm|chimeras]] |
-| 62-66 | 5 [[triceratops-xmm|triceratopses]] |
+| 57-61 | `d3` [[chimera xmm|chimeras]] |
+| 62-66 | 5 [[triceratops xmm|triceratopses]] |
 | 67-69 | A giant hole 50 feet across that descends nearly 500 feet before opening into an empty cave |
-| 70-79 | `1d4 + 3` [[gorgon-xmm|gorgons]] |
+| 70-79 | `1d4 + 3` [[gorgon xmm|gorgons]] |
 | 80-88 | `d3` [[young-gold-dragon-xmm|young gold dragons]] |
 | 89-90 | A circular section of grass nearly a quarter-mile across that appears to have been pressed down; `d4` more such circles connected by lines can be seen from overhead. |
 | 91-96 | `2d4` [[tyrannosaurus-rex-xmm|tyrannosaurus rexes]] |
 | 97-99 | 1 [[adult-gold-dragon-xmm|adult gold dragon]] |
 | 00 | 1 [[ancient-gold-dragon-xmm|ancient gold dragon]] |
 ^grassland-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -85,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a artifact for power
@@ -99,7 +101,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Robe of Eyes Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Robe of Eyes Xdmg
 
 ---
@@ -30,9 +39,8 @@ world: Both
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
-- **All-Around Vision.** The robe gives you [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.  
+- **All-Around Vision.** The robe gives you [[advantage xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.  
 - **Special Senses.** You have [[senses#Darkvision|Darkvision]] and [[senses#Truesight|Truesight]], both with a range of 120 feet.  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,15 +53,10 @@ This robe is adorned with eyelike patterns. While you wear the robe, you gain th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Drawbacks
 
-A [[light-xphb|Light]] spell cast on the robe or a [[daylight-xphb|Daylight]] spell cast within 5 feet of the robe gives you the [[conditions#Blinded|Blinded]] condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
+A [[light xphb|Light]] spell cast on the robe or a [[daylight xphb|Daylight]] spell cast within 5 feet of the robe gives you the [[conditions#Blinded|Blinded]] condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 297. Available in the SRD and the Free Rules (2024)*
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

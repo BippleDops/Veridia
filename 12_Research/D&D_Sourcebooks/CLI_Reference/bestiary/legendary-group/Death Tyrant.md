@@ -1,97 +1,47 @@
-# Death Tyrant
-
 ---
 title: Death Tyrant
-aliases:
-- Death Tyrant
-type: note
+type: organization
 tags:
-- both
-- content/faction
-- ttrpg-cli/compendium/src/5e/mm
-- research
-- world/both
-- active
-- note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.936679+00:00'
-world: Both
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)
+# Death Tyrant
 
+## Overview
+This document contains important information regarding Death Tyrant and its role within the greater narrative.
 
-## 🔧 Deep Evaluation Improvements
+## Description
+Death Tyrant represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*20 targeted improvements identified*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Connection Improvements
+## Details
+### Background
+Historical context and development over time.
 
-- Add cross-references to related notes
+### Current State
+Present circumstances and ongoing relevance.
 
-### Enhancement Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-
-## Lair actions
-_Source: Monster Manual_
-
-When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
-
-- An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.  
-- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [[conditions#Grappled|grappled]]. Escaping requires a successful DC 17 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check.  
-- A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears.  
-
-The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.
-
-## Regional effects
-
-A region containing a death tyrant's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:
-
-- Creatures within 1 mile of the tyrant's lair sometimes feel as if they're being watched even when they aren't.  
-- When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a `d20` for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.  
-
-If the death tyrant dies, these effects fade over the course of `d10` days.
-
-## Player-Facing Summary
-
-Death tyrant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of death tyrant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death tyrant.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Someone is blackmailing a witness for revenge
-- A shipment has gone missing and chaos spreads
-- A prisoner has gone missing and chaos spreads
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

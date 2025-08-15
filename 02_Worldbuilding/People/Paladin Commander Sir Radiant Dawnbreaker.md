@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,22 +52,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -80,7 +71,6 @@ improvements: 20
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -94,7 +84,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Player-Facing Summary
 
@@ -172,10 +161,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns courage
 
-
 ## Relationships
 
-- **Debtor**: [[Quest - The Deep Incursion]]
+- **Debtor**: [[Quest   The Deep Incursion]]
 - **Enemy**: [[Captain Marina Saltborn]]
 - **Mentor**: [[Nerissa Deepcurrent]]
 - **Enemy**: [[The Northern Kingdoms]]

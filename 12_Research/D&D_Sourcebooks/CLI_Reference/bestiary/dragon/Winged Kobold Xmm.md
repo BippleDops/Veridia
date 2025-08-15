@@ -1,3 +1,12 @@
+---
+title: Winged Kobold Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Winged Kobold Xmm
 
 ---
@@ -39,11 +48,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winged-kobold-xmm-v1-winged-kobold-xmm.svg)
 
-# [[winged-kobold-xmm|Winged Kobold]]
+# [[winged kobold xmm|Winged Kobold]]
 *Source: Monster Manual (2024) p. 185*  
 
 Some kobolds are born with wings. Called urds by others of their kind, these kobolds are thought to be blessed by a dragon or Tiamat, the Dragon Queen. Despite their favored status, winged kobolds are as cowardly as their brethren and use their flight mostly to keep out of reach of their foes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Some kobolds are born with wings. Called urds by others of their kind, these kob
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Kobolds
 
@@ -92,12 +95,12 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-  - "desc": "The kobold has [[advantage-xphb|Advantage]]\
+  - "desc": "The kobold has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the kobold's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [[disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the kobold has [[disadvantage xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -132,11 +135,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

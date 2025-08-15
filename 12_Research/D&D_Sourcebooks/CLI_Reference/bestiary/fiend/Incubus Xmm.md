@@ -1,3 +1,12 @@
+---
+title: Incubus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Incubus Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-incubus-xmm-incubus-xmm.svg)
 
-# [[incubus-xmm|Incubus]]
+# [[incubus xmm|Incubus]]
 *Source: Monster Manual (2024) p. 178. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Incubus
 
@@ -76,7 +79,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [[falling-xphb|Falling]], drowning, or suffocating. |
+| 4 | [[falling xphb|Falling]], drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
@@ -114,8 +117,8 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "When the incubus finishes a [[long-rest-xphb|Long Rest]],\
-      \ it can shape-shift into a [[succubus-xmm|Succubus]],\
+  - "desc": "When the incubus finishes a [[long rest xphb|Long Rest]],\
+      \ it can shape-shift into a [[succubus xmm|Succubus]],\
       \ using that stat block instead of this one. Any equipment it's wearing or carrying\
       \ isn't transformed."
     "name": "Succubus Form"
@@ -128,13 +131,13 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
     "name": "Restless Touch"
   - "desc": "The incubus casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [[disguise-self-xphb|Disguise Self]],\
-      \ [[etherealness-xphb|Etherealness]]\n\n1/day each:\
-      \ [[dream-xphb|Dream]], [[hypnotic-pattern-xphb|Hypnotic Pattern]]"
+      \nAt will: [[disguise self xphb|Disguise Self]],\
+      \ [[etherealness xphb|Etherealness]]\n\n1/day each:\
+      \ [[dream xphb|Dream]], [[hypnotic pattern xphb|Hypnotic Pattern]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC 15, one creature the incubus can see within\
-      \ 60 feet. Failure: If the target has 20 [[hit-points-xphb|Hit Points]]\
+      \ 60 feet. Failure: If the target has 20 [[hit points xphb|Hit Points]]\
       \ or fewer, it has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 1 hour, until it takes damage, or until a creature within 5\
       \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
@@ -165,7 +168,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

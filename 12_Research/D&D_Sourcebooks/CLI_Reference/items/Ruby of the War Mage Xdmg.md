@@ -1,3 +1,12 @@
+---
+title: Ruby of the War Mage Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ruby of the War Mage Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Ruby of the War Mage
 *Wondrous item, common (requires attunement by a spellcaster)*  
 
-Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a Simple or Martial weapon as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your spells. For this property to work, you must attach the ruby to the weapon by pressing the ruby against it for at least 10 minutes. Thereafter, the ruby can't be removed unless you detach it as a [[actions#Magic|Magic]] action, the weapon is destroyed, or your [[attunement-xphb|Attunement]] to the ruby ends.
+Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a Simple or Martial weapon as a [[spellcasting focus xphb|Spellcasting Focus]] for your spells. For this property to work, you must attach the ruby to the weapon by pressing the ruby against it for at least 10 minutes. Thereafter, the ruby can't be removed unless you detach it as a [[actions#Magic|Magic]] action, the weapon is destroyed, or your [[attunement xphb|Attunement]] to the ruby ends.
 
 *Source: Dungeon Master's Guide (2024) p. 302*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a Simple
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -41,10 +41,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-compass-quest-compass-quest.svg]]
 
 # Compass Quest
 
@@ -52,7 +49,6 @@ improvements: 20
 
 > *"Every navigator in Aquabyssos knows their compass lies at depth. But there exists one compass that tells only truth—the Depth-Walker's True Compass, forged from the heart of a fallen star and blessed by the first depths. Find it, and you'll never be lost again... if you survive the finding."*
 > — [[Navigator Sage Driftwood]], Master of the Deep Currents
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -81,28 +77,21 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
@@ -116,7 +105,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -489,17 +477,13 @@ Ongoing situations affecting Compass Quest:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Plot Hooks
 

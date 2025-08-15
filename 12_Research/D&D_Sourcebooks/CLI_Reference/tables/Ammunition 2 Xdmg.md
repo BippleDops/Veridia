@@ -1,3 +1,12 @@
+---
+title: Ammunition 2 Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ammunition 2 Xdmg
 
 ---
@@ -28,11 +37,10 @@ world: Both
 | Futuristic Item | Damage | Properties | Mastery | Weight |
 |-----------------|--------|------------|---------|--------|
 | *Martial Ranged Weapons* |
-| &emsp;[[antimatter-rifle-xdmg|Antimatter Rifle]] | `6d8` Necrotic | [[item-properties#Ammunition|Ammunition]] (Range 120/360; Energy Cell), [[item-properties#Reload|Reload]] (2 shots), [[item-properties#Two-Handed|Two-Handed]] | [[item-mastery#Sap|Sap]] | 10 lb. |
-| &emsp;[[laser-pistol-xdmg|Laser Pistol]] | `3d6` Radiant | [[item-properties#Ammunition|Ammunition]] (Range 40/120; Energy Cell), [[item-properties#Reload|Reload]] (50 shots) | [[item-mastery#Vex|Vex]] | 2 lb. |
-| &emsp;[[laser-rifle-xdmg|Laser Rifle]] | `3d8` Radiant | [[item-properties#Ammunition|Ammunition]] (Range 100/300; Energy Cell), [[item-properties#Reload|Reload]] (30 shots), [[item-properties#Two-Handed|Two-Handed]] | [[item-mastery#Slow|Slow]] | 7 lb. |
+| &emsp;[[antimatter rifle xdmg|Antimatter Rifle]] | `6d8` Necrotic | [[item properties#Ammunition|Ammunition]] (Range 120/360; Energy Cell), [[item properties#Reload|Reload]] (2 shots), [[item-properties#Two-Handed|Two-Handed]] | [[item mastery#Sap|Sap]] | 10 lb. |
+| &emsp;[[laser pistol xdmg|Laser Pistol]] | `3d6` Radiant | [[item properties#Ammunition|Ammunition]] (Range 40/120; Energy Cell), [[item properties#Reload|Reload]] (50 shots) | [[item mastery#Vex|Vex]] | 2 lb. |
+| &emsp;[[laser rifle xdmg|Laser Rifle]] | `3d8` Radiant | [[item properties#Ammunition|Ammunition]] (Range 100/300; Energy Cell), [[item properties#Reload|Reload]] (30 shots), [[item-properties#Two-Handed|Two-Handed]] | [[item mastery#Slow|Slow]] | 7 lb. |
 ^futuristic-item-damage-properties-mastery-weight
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

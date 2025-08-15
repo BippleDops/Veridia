@@ -1,3 +1,12 @@
+---
+title: 2 Ammunition Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 2 Ammunition Xdmg
 
 ---
@@ -39,7 +48,7 @@ world: Both
 You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([[magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg|2,000 GP]]).
+> ([[magic item values by rarity magic item rarities and values xdmg|2,000 GP]]).
 
 **Variants**:
 - [+2 Arrow](#+2%20Arrow)
@@ -55,7 +64,6 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 
 *Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -67,11 +75,6 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -88,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

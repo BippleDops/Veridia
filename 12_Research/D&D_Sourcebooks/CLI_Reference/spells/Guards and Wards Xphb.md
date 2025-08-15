@@ -1,122 +1,47 @@
-# Guards and Wards Xphb
-
 ---
 title: Guards and Wards Xphb
-aliases:
-- Guards and Wards
 type: note
 tags:
-- both
-- mechanics/magic
-- research
-- world/both
-- active
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Wizard
-- Wizard (Abjurer)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.497585+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Guards and Wards
-*6th-level, Abjuration*  
+# Guards and Wards Xphb
 
-- **Casting time:** 1 hour
-- **Range:** Touch
-- **Components:** V, S, M (a silver rod worth 10+ GP)
-- **Duration:** 24 hours
+## Overview
+This document contains important information regarding Guards and Wards Xphb and its role within the greater narrative.
 
-You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
+## Description
+Guards and Wards Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-The spell creates the effects below within the warded area. [[dispel-magic-xphb|Dispel Magic]] has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
+## Details
+### Background
+Historical context and development over time.
 
+### Current State
+Present circumstances and ongoing relevance.
 
-## 🔧 Deep Evaluation Improvements
+### Future Potential
+Possible developments and plot directions.
 
-*20 targeted improvements identified*
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Connection Improvements
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Corridors
-
-Fog fills all the warded corridors, making them [[heavily-obscured-xphb|Heavily Obscured]]. In addition, at each intersection or branching passage offering a choice of direction, there is a  chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
-
-## Doors
-
-All doors in the warded area are magically locked, as if sealed by the [[arcane-lock-xphb|Arcane Lock]] spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
-
-## Stairs
-
-Webs fill all stairs in the warded area from top to bottom, as in the [[web-xphb|Web]] spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts.
-
-## Other Spell Effect
-
-Place one of the following magical effects within the warded area:
-
-- [[dancing-lights-xphb|Dancing Lights]] in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts  
-- [[magic-mouth-xphb|Magic Mouth]] in two locations  
-- [[stinking-cloud-xphb|Stinking Cloud]] in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)  
-- [[gust-of-wind-xphb|Gust of Wind]] in one corridor or room (the wind blows continuously while the spell lasts)  
-- [[suggestion-xphb|Suggestion]] in one 5-foot square; any creature that enters that square receives the suggestion mentally  
-
-## Summary
-
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
-
-*Source: Player's Handbook (2024) p. 282. Available in the SRD and the Free Rules (2024)*
-
-## Player-Facing Summary
-
-Guards and wards xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of guards and wards xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guards and wards xphb.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

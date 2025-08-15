@@ -1,3 +1,12 @@
+---
+title: Circlet of Blasting Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Circlet of Blasting Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
 
-While wearing this circlet, you can cast [[scorching-ray-xphb|Scorching Ray]] with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
+While wearing this circlet, you can cast [[scorching ray xphb|Scorching Ray]] with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this circlet, you can cast [[scorching-ray-xphb|Scorching Ray]] wi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

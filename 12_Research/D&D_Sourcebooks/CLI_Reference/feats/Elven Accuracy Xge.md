@@ -1,3 +1,12 @@
+---
+title: Elven Accuracy Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elven Accuracy Xge
 
 ---
@@ -26,13 +35,12 @@ world: Both
 # Elven Accuracy
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[elf-xphb|Elf]] or [[half-elf|Half-Elf]]
+**Prerequisite**: [[elf xphb|Elf]] or [[half elf|Half-Elf]]
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 
 - Increase your Dexterity, Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.  
 - Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -80,16 +81,13 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -27,17 +27,11 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
 
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
 
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
-
 # Patriarch Valdris Lightbringer
 *Guardian of Sacred Waters*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,11 +60,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -80,17 +72,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -104,7 +92,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 Patriarch Valdris Lightbringer serves as the senior religious authority for ocean-based faiths, coordinating theological responses to maritime threats while maintaining delicate diplomatic relationships with underwater kingdoms and surface political powers.

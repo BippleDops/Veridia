@@ -1,3 +1,12 @@
+---
+title: Quest - Into the Wastes
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Into the Wastes
 
 ---
@@ -35,9 +44,6 @@ accessibility:
 
 # Quest - Into the Wastes
 
-![[04_Resources/Assets/Art/NPCs/Quest_-_Into_the_Wastes.png|Quest - Into the Wastes Portrait]]
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,17 +55,12 @@ accessibility:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Role and Motive
 Quest - Into the Wastes moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
+- Bond: A family archive tied to [[02 Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary
@@ -78,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help delivering before the new moon
@@ -92,21 +92,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

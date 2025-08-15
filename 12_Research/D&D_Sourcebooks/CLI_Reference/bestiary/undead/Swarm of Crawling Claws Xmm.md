@@ -1,3 +1,12 @@
+---
+title: Swarm of Crawling Claws Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Crawling Claws Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-crawling-claws-xmm-swarm-of-crawling-claws-xmm.svg)
 
-# [[swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]
+# [[swarm of crawling claws xmm|Swarm of Crawling Claws]]
 *Source: Monster Manual (2024) p. 83. Available in the SRD and the Free Rules (2024)*  
 
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Swarms of crawling claws are typically animated by depraved necromancers. Occasi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Crawling Claws
 
@@ -97,12 +100,12 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ can't regain [[hit points xphb|Hit Points]]\
+      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage,\
-      \ or 11 (2d8 + 2) Necrotic damage if the swarm is [[bloodied-xphb|Bloodied]].\
+      \ or 11 (2d8 + 2) Necrotic damage if the swarm is [[bloodied xphb|Bloodied]].\
       \ If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Swarm of Grasping Hands"
@@ -131,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

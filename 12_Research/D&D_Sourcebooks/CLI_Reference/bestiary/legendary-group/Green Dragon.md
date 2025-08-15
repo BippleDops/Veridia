@@ -1,3 +1,12 @@
+---
+title: Green Dragon
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Green Dragon
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Monster Manual_
@@ -55,9 +58,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[adult-green-dragon-xmm|adult]] or [[ancient-green-dragon-xmm|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[adult green dragon xmm|adult]] or [[ancient green dragon xmm|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[zombie-xmm|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an iimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[zombie xmm|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an iimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
 - **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#prone|prone]].  
 
 ## Regional effects
@@ -95,11 +98,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

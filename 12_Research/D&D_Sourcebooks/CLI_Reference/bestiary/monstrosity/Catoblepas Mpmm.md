@@ -1,3 +1,12 @@
+---
+title: Catoblepas Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Catoblepas Mpmm
 
 ---
@@ -31,13 +40,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-catoblepas-mpmm-catoblepas-mpmm.svg)
 
-# [[catoblepas-mpmm|Catoblepas]]
+# [[catoblepas mpmm|Catoblepas]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
 
 A catoblepas's stink, like the stench of death mixed with swamp gas and skunk musk, gives it away as being much more ghastly than its appearance suggests. When it is on the attack, a catoblepas reveals the extent of its horrific nature. The creature's serpentine neck has trouble lifting its head, but one glare from its bloodshot eyes can rot flesh. At the end of its tail is a club that can rattle body and soul if it strikes true, leaving a victim unable to act while the catoblepas feasts on its body.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ A catoblepas's stink, like the stench of death mixed with swamp gas and skunk mu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Blighted Territory
 
@@ -136,7 +139,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -144,16 +146,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

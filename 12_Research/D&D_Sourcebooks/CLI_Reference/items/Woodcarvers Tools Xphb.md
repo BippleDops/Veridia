@@ -1,3 +1,12 @@
+---
+title: Woodcarvers Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Woodcarvers Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], Ranged weapons (except [[pistol-xphb|Pistol]], [[musket-xphb|Musket]], and  [[sling-xphb|Sling]]), [[arcane-focus-xphb|Arcane Focus]], [[arrows-20-xphb|Arrows]], [[bolts-20-xphb|Bolts]], [[druidic-focus-xphb|Druidic Focus]], [[ink-pen-xphb|Ink Pen]], [[needles-50-xphb|Needles]]  
+- **Craft.** [[club xphb|Club]], [[greatclub xphb|Greatclub]], [[quarterstaff xphb|Quarterstaff]], Ranged weapons (except [[pistol xphb|Pistol]], [[musket xphb|Musket]], and  [[sling xphb|Sling]]), [[arcane focus xphb|Arcane Focus]], [[arrows 20 xphb|Arrows]], [[bolts 20 xphb|Bolts]], [[druidic focus xphb|Druidic Focus]], [[ink pen xphb|Ink Pen]], [[needles 50 xphb|Needles]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

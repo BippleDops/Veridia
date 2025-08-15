@@ -30,14 +30,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-memory-merchant-valeria-siltweave-memory-merchant-valeria-siltweave.svg]]
 
 # Memory Merchant Valeria Siltweave
 *The Conscientious Trader, Champion of Ethical Memory Commerce*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +62,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
@@ -87,9 +78,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
@@ -98,7 +86,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movement, working to transform memory commerce from exploitative harvesting into ethical trading based on consent, fair compensation, and mutual benefit. Operating her business "The Ethical Exchange" in the [[Memory Meadows]], she's built a reputation for honest dealing and genuine care for both memory donors and recipients, proving that the memory trade can be conducted with dignity and respect.
@@ -382,7 +369,6 @@ Memory Merchant Valeria Siltweave is a undersea element of the setting, known fo
 
 Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Merchant Valeria Siltweave.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -399,7 +385,6 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

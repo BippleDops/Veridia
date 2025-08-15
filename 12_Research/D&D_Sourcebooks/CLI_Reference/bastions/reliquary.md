@@ -1,3 +1,12 @@
+---
+title: reliquary
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # reliquary
 
 ---
@@ -27,13 +36,12 @@ world: Both
 # Reliquary
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]]
+- **Prerequisites**: Ability to use a [[holy symbol xphb|Holy Symbol]] or [[druidic focus xphb|Druidic Focus]] as a [[spellcasting focus xphb|Spellcasting Focus]]
 - **Space**: Cramped (4 sq)
 - **Hirelings**: 1
 - **Order**: harvest
 
 This vault holds sacred objects.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ This vault holds sacred objects.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Reliquary Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[reliquary-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater-restoration-xphb|Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[reliquary charm xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater restoration xphb|Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 ## Harvest: Talisman
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

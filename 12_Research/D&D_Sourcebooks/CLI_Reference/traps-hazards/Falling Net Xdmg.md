@@ -1,3 +1,12 @@
+---
+title: Falling Net Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Falling Net Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Falling Net
 *Generic Hazard*  
 
-A falling net trap uses a trip wire to release a weighted, 10-foot-square [[net-xphb|Net]] suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
+A falling net trap uses a trip wire to release a weighted, 10-foot-square [[net xphb|Net]] suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
 
 The first creature that crosses the trip wire causes the Net to fall on it. The target must succeed on a DC 10 Dexterity saving throw or have the [[conditions#Restrained|Restrained]] condition until it escapes. The target succeeds automatically if it's Huge or larger. A creature can take an action to make a DC 10 Strength ([[skills#Athletics|Athletics]]) check, freeing itself or another creature within its reach from the Net on a successful check.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ The first creature that crosses the trip wire causes the Net to fall on it. The 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Detect and Disarm
 
@@ -54,11 +57,11 @@ As a [[actions#Search|Search]] action, a creature can examine the trapped area a
 
 ## Destroy the Net
 
-Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Player's Handbook" for the [[net-xphb|Net's]] statistics).
+Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Player's Handbook" for the [[net xphb|Net's]] statistics).
 
 ## Set the Trap
 
-A creature that has [[thieves-tools-xphb|Thieves' Tools]] and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check. Each attempt to set this trap takes 10 minutes.
+A creature that has [[thieves tools xphb|Thieves' Tools]] and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check. Each attempt to set this trap takes 10 minutes.
 
 ## At Higher Levels
 
@@ -82,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals ancient history about the government
@@ -97,16 +99,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

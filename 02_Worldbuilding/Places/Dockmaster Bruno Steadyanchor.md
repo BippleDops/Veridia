@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg]]
 
 # Steadyanchor Docks - Commercial Maritime Hub
 
 *A bustling commercial harbor where the commerce of Aquabyssos flows through efficient cargo handling and unwavering dedication to maritime trade*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,10 +65,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
@@ -80,8 +72,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
@@ -95,12 +85,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 
@@ -425,12 +413,9 @@ Ongoing situations affecting Dockmaster Bruno Steadyanchor:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Economic Structure
 
@@ -450,7 +435,6 @@ Key stop on metals trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -462,7 +446,6 @@ Key stop on metals trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

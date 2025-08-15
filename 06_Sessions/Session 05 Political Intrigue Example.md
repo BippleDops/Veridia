@@ -1,3 +1,12 @@
+---
+title: Session 05 Political Intrigue Example
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_05_Political_Intrigue_Example
 
 ---
@@ -89,7 +98,6 @@ The party attended a formal parliamentary session as "cultural observers" while 
 
 *This session demonstrates how political intrigue can be just as engaging as combat, with careful relationship management and information gathering creating tension and excitement.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -101,11 +109,6 @@ The party attended a formal parliamentary session as "cultural observers" while 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -119,11 +122,9 @@ The party attended a formal parliamentary session as "cultural observers" while 
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Thin Ice Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Thin Ice Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Thin Ice
 *Environmental Hazard*  
 
-Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is [[frigid-water-xdmg|frigid water]].
+Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is [[frigid water xdmg|frigid water]].
 
 *Source: Dungeon Master's Guide (2024) p. 69*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

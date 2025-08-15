@@ -1,3 +1,12 @@
+---
+title: Starting Equipment at Higher Levels Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Starting Equipment at Higher Levels Xphb
 
 ---
@@ -35,7 +44,6 @@ world: Both
 | 17–20 | 20,000 GP plus `1d10 × 250` GP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
 ^starting-equipment-at-higher-levels
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

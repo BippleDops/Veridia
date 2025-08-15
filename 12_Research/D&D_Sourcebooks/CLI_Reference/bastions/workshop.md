@@ -1,3 +1,12 @@
+---
+title: workshop
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # workshop
 
 ---
@@ -31,7 +40,6 @@ world: Both
 
 This Workshop is a creative space where useful items can be crafted.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -43,27 +51,22 @@ This Workshop is a creative space where useful items can be crafted.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Artisan's Tools
 
 The Workshop comes equipped with six different kinds of Artisan's Tools, chosen from the following list:
 
-- [[carpenters-tools-xphb|Carpenter's Tools]]  
-- [[cobblers-tools-xphb|Cobbler's Tools]]  
-- [[glassblowers-tools-xphb|Glassblower's Tools]]  
-- [[jewelers-tools-xphb|Jeweler's Tools]]  
-- [[leatherworkers-tools-xphb|Leatherworker's Tools]]  
-- [[masons-tools-xphb|Mason's Tools]]  
-- [[painters-supplies-xphb|Painter's Tools]]  
-- [[potters-tools-xphb|Potter's Tools]]  
-- [[tinkers-tools-xphb|Tinker's Tools]]  
-- [[weavers-tools-xphb|Weaver's Tools]]  
-- [[woodcarvers-tools-xphb|Woodcarver's Tools]]  
+- [[carpenters tools xphb|Carpenter's Tools]]  
+- [[cobblers tools xphb|Cobbler's Tools]]  
+- [[glassblowers tools xphb|Glassblower's Tools]]  
+- [[jewelers tools xphb|Jeweler's Tools]]  
+- [[leatherworkers tools xphb|Leatherworker's Tools]]  
+- [[masons tools xphb|Mason's Tools]]  
+- [[painters supplies xphb|Painter's Tools]]  
+- [[potters tools xphb|Potter's Tools]]  
+- [[tinkers tools xphb|Tinker's Tools]]  
+- [[weavers tools xphb|Weaver's Tools]]  
+- [[woodcarvers tools xphb|Woodcarver's Tools]]  
 
 ## Craft Options
 
@@ -74,7 +77,7 @@ When you issue the "Craft" order to this facility, choose one of the following o
 
 ## Source of Inspiration
 
-After spending an entire Short Rest in your Workshop, you gain [[heroic-inspiration-xphb|Heroic Inspiration]]. You can't gain this benefit again until you finish a Long Rest.
+After spending an entire Short Rest in your Workshop, you gain [[heroic inspiration xphb|Heroic Inspiration]]. You can't gain this benefit again until you finish a Long Rest.
 
 ## Enlarging the Facility
 
@@ -98,11 +101,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -115,16 +116,13 @@ Mentioned in The Second Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

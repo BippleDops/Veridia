@@ -51,10 +51,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sinking-atoll-the-sinking-atoll.svg]]
 
 # The Sinking Atoll
 
@@ -62,7 +59,6 @@ improvements: 20
 
 > *"Every sunrise brings us six inches closer to the deep. Every sunset reminds us that tomorrow we may wake beneath the waves. Yet still the coral sings, still the fish dance, and still we hope for salvation that may never come."*
 > — [[Elder Coral Doomteller]], leader of the Atoll's emergency council
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -95,24 +91,17 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
@@ -126,7 +115,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -541,13 +529,13 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 **Related NPCs**:
 - [[Elder Coral Doomteller]]
 - [[Atoll Research Team]]
-- [[02_Worldbuilding/Lore/Displaced Atoll Residents]]
-- [[Deep-Sea Rescue Operations]]
+- [[02 Worldbuilding/Lore/Displaced Atoll Residents]]
+- [[Deep Sea Rescue Operations]]
 
 **Related Items and Concepts**:
 - [[Coral Consciousness Network]]
 - [[Ancient Ocean Anchors]]
-- [[Deep-Sea Cultural Protocol|02 Worldbuilding/Groups/Deep Sea Cultural Protocol]]
+- [[Deep Sea Cultural Protocol|02 Worldbuilding/Groups/Deep Sea Cultural Protocol]]
 - [[Sinking Phenomenon Research]]
 
 ## Player-Facing Summary
@@ -592,8 +580,6 @@ Ongoing situations affecting The Sinking Atoll:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -610,7 +596,6 @@ Ongoing situations affecting The Sinking Atoll:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

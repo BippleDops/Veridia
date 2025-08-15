@@ -1,3 +1,12 @@
+---
+title: The Lock Saboteur
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Lock Saboteur
 
 ---
@@ -41,7 +50,6 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 **Related Groups:** [[The Depth Wardens]], [[Memory Farmers]], [[The Purist Coalition]]  
 **Key Themes:** Environmental horror, institutional failure, [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], moral complexity
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -69,12 +77,9 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
@@ -100,14 +105,10 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -152,7 +153,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 - **Technical Analysis**: Examine sabotage techniques for signature patterns
 - **Personnel Records**: Background checks reveal hidden connections
 - **Memory Examination**: Magical investigation of staff amnesia
-- **Temporal Analysis**: [[Time-Lost Delegate Chronus]] can detect timeline manipulations
+- **Temporal Analysis**: [[Time Lost Delegate Chronus]] can detect timeline manipulations
 - **Deep Sensing**: Psychic detection of abyssal corruption in personnel
 
 ### The Real Saboteur: Engineer Brass Gearspin
@@ -312,11 +313,9 @@ The Lock Saboteur is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Lock Saboteur as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lock Saboteur.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Economic Structure
 

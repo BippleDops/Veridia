@@ -1,3 +1,12 @@
+---
+title: Human Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Human Xphb
 
 ---
@@ -34,7 +43,7 @@ world: Both
 
 ### Resourceful
 
-You gain [[heroic-inspiration-xphb|Heroic Inspiration]] whenever you finish a [[long-rest-xphb|Long Rest]].
+You gain [[heroic inspiration xphb|Heroic Inspiration]] whenever you finish a [[long rest xphb|Long Rest]].
 
 ### Skillful
 
@@ -43,7 +52,6 @@ You gain proficiency in one skill of your choice.
 ### Versatile
 
 You gain an Origin feat of your choice.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ You gain an Origin feat of your choice.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

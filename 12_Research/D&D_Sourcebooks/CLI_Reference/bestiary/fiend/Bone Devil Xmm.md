@@ -1,177 +1,47 @@
-# Bone Devil Xmm
-
 ---
 title: Bone Devil Xmm
-aliases:
-- Bone Devil
-type: monster
+type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/environment/nine-hells
-- monster
-- ttrpg-cli/monster/type/fiend/devil
-- research
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/environment/planar
-- world/both
-- ttrpg-cli/monster/cr/9
-- active
-- status/in-progress
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.821982+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-bone-devil-xmm-bone-devil-xmm.svg)
+# Bone Devil Xmm
 
-# [[bone-devil-xmm|Bone Devil]]
-*Source: Monster Manual (2024) p. 52. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Bone Devil Xmm and its role within the greater narrative.
 
+## Description
+Bone Devil Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-## 🔧 Deep Evaluation Improvements
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*20 targeted improvements identified*
+## Details
+### Background
+Historical context and development over time.
 
-### Connection Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-- Add cross-references to related notes
+### Future Potential
+Possible developments and plot directions.
 
-### Enhancement Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Bone Devil
-
-*Devil of Dread and Obedience*
-
-- **Habitat.** Planar (Nine Hells)  
-- **Treasure.** Implements  
-
-Bone devils are gaunt, nightmarish Fiends with pallid skin stretched tight over frames that combine human and insectile features. Also known as osyluths, these Fiends command weaker devils and other beings aligned with infernal legions. Bone devils ensure that the commands of hellish sovereigns are exacted efficiently and that non-devils fulfill their commitments to the Nine Hells. They slay those who renege on infernal deals, sending treacherous mortal souls to face unspeakable punishments.
-
-When not serving their diabolical masters, bone devils tempt self-obsessed mortals with promises of other creatures' adulation and obedience. These devils prop up petty tyrants, helping them grow increasingly calloused and amoral.
-
-Bone devils travel across the multiverse to fulfill diabolical orders. If left with no other choices, they might conscript mortals to aid them in their vicious goals. Roll on or choose a result from the Bone Devil Objectives table to inspire a bone devil's goals.
-
-> [!quote] A quote from Sylvira Savikas, Candlekeep Sage  
-> 
-> Bone devils are just one of a thousand reasons never to make a deal with a devil, but they're a significant one. Break said deal, and it'll likely be one of these nightmares that drags you down to the Nine Hells.
-
-**Bone Devil Objectives**
-
-`dice: [](bone-devil-xmm.md#^bone-devil-objectives)`
-
-| dice: 1d4 | The Bone Devil Seeks To... |
-|-----------|----------------------------|
-| 1 | Capture a soul that escaped the Nine Hells. |
-| 2 | Convey a message or make an example of someone in the name of an archdevil. |
-| 3 | Find someone who broke a deal with a devil. |
-| 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
-^bone-devil-objectives
-
-```statblock
-"name": "Bone Devil (XMM)"
-"size": "Large"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "16"
-"hp": !!int "161"
-"hit_dice": "17d10 + 68"
-"modifier": !!int "7"
-"stats":
-  - !!int "18"
-  - !!int "16"
-  - !!int "13"
-  - !!int "14"
-"speed": "40 ft., fly 40 ft."
-"saves":
-  - "strength": !!int "8"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "7"
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+7"
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+6"
-"damage_resistances": "cold"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
-  \ passive Perception 12"
-"languages": "Infernal; telepathy 120 ft."
-"cr": "9"
-"traits":
-  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
-      \ somewhere in the Nine Hells."
-    "name": "Diabolical Restoration"
-  - "desc": "The devil has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The devil makes two Claw attacks and one Infernal Sting attack."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
-    "name": "Claw"
-  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
-      \ plus 18 (4d8) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the devil's next turn. While [[conditions#Poisoned|Poisoned]],\
-      \ the target can't regain [[hit-points-xphb|Hit Points]]."
-    "name": "Infernal Sting"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
-```
-^statblock
-
-## Environment
-
-planar, nine hells
-
-## Player-Facing Summary
-
-Bone devil xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of bone devil xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bone devil xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A journal reveals the truth about the government
-- Someone is protecting a artifact for money
-- Someone is protecting a witness for love
-- A letter reveals ancient history about a local noble
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

@@ -1,3 +1,12 @@
+---
+title: Lolths Sting Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lolths Sting Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Lolth's Sting
 *Adventuring gear, poison (injury)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 200 gp
 
 A creature subjected to Lolth's Sting must succeed on a DC 13 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the [[conditions#Unconscious|Unconscious]] condition while [[conditions#Poisoned|Poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Lolth's Sting must succeed on a DC 13 Constitution savin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,21 +74,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

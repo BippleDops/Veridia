@@ -1,3 +1,12 @@
+---
+title: Red Dragon Wyrmling Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Red Dragon Wyrmling Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-red-dragon-wyrmling-xmm-red-dragon-wyrmling-xmm.svg)
 
-# [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]
+# [[red dragon wyrmling xmm|Red Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 254. Available in the SRD and the Free Rules (2024)*  
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Red dragon wyrmlings are born destroyers. From a young age, they delight in igni
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Red Dragons
 
@@ -108,7 +111,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 24 (7d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
@@ -137,16 +140,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

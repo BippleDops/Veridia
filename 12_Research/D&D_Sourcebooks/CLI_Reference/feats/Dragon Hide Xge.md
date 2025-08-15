@@ -1,3 +1,12 @@
+---
+title: Dragon Hide Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragon Hide Xge
 
 ---
@@ -26,14 +35,13 @@ world: Both
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[dragonborn-xphb|Dragonborn]]
+**Prerequisite**: [[dragonborn xphb|Dragonborn]]
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 
 - Increase your Strength, Constitution, or Charisma by 1, to a maximum of 20.  
 - Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.  
 - You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `d4` + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Related Notes
 
@@ -80,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

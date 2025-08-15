@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-unite-the-emperor-unite-the-emperor.svg]]
 
 # Unite the Emperor
 *Lord Commander Octavius Thalassion VII, The Scattered Crown, The Last Emperor's Voice*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,8 +55,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
@@ -69,13 +63,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
@@ -85,7 +75,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
@@ -94,7 +83,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 Lord Commander Octavius Thalassion VII represents the most legitimate claim to reuniting the fractured imperial throne of Aquabyssos. As the great-nephew of [[Emperor Thalassius the Wise]], he carries both the bloodline and the burden of imperial restoration. Unlike pretenders seeking personal power, Octavius genuinely believes in reuniting the scattered fragments of the empire not for conquest, but to restore the golden age of prosperity and stability that existed before [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]].
@@ -214,7 +202,6 @@ Unite the Emperor is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Unite the Emperor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Emperor.
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -226,7 +213,6 @@ Legends speak of Unite the Emperor as a nexus where past and present converge. L
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

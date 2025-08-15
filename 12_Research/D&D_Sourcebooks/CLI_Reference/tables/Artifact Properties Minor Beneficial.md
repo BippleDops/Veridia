@@ -1,3 +1,12 @@
+---
+title: Artifact Properties Minor Beneficial
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Artifact Properties Minor Beneficial
 
 ---
@@ -42,7 +51,6 @@ world: Both
 | 91–00 | While attuned to the Artifact, you gain a +1 bonus to Armor Class. |
 ^minor-beneficial-properties
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

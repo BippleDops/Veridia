@@ -1,3 +1,12 @@
+---
+title: Warlock Xphb the Hexblade Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Warlock Xphb the Hexblade Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # The Hexblade
-*[[warlock-xphb|Warlock]]: Warlock Subclass*  
+*[[warlock xphb|Warlock]]: Warlock Subclass*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
 > [!tldr] Class and Feature Progression
@@ -71,11 +80,11 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[shield-xphb|shield]], [[wrathful-smite-xphb|wrathful smite]] |
-| 2nd | [[blur-xphb|blur]], [[shining-smite-xphb|branding smite]] |
-| 3rd | [[blink-xphb|blink]], [[elemental-weapon-xphb|elemental weapon]] |
-| 4th | [[phantasmal-killer-xphb|phantasmal killer]], [[staggering-smite-xphb|staggering smite]] |
-| 5th | [[banishing-smite-xphb|banishing smite]], [[cone-of-cold-xphb|cone of cold]] |
+| 1st | [[shield xphb|shield]], [[wrathful smite xphb|wrathful smite]] |
+| 2nd | [[blur xphb|blur]], [[shining smite xphb|branding smite]] |
+| 3rd | [[blink xphb|blink]], [[elemental weapon xphb|elemental weapon]] |
+| 4th | [[phantasmal killer xphb|phantasmal killer]], [[staggering smite xphb|staggering smite]] |
+| 5th | [[banishing smite xphb|banishing smite]], [[cone of cold xphb|cone of cold]] |
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)
@@ -96,7 +105,7 @@ The influence of your patron also allows you to mystically channel your will thr
 
 ### Accursed Specter (Level 6)
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[specter-xmm|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[specter xmm|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
@@ -110,7 +119,6 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 
 Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [[conditions#Incapacitated|incapacitated]]. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -122,11 +130,6 @@ Starting at 14th level, you can spread your Hexblade's Curse from a slain creatu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -143,7 +146,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

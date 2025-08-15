@@ -1,3 +1,12 @@
+---
+title: The Order of the Azure Flame
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Order of the Azure Flame
 
 ---
@@ -27,7 +36,6 @@ updated: '2025-08-13T01:18:36.790917+00:00'
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-order-of-the-azure-flame-the-order-of-the-azure-flame.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ updated: '2025-08-13T01:18:36.790917+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## General Info
 **Leader**: High Inquisitor Valerius
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help delivering before dawn
@@ -85,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

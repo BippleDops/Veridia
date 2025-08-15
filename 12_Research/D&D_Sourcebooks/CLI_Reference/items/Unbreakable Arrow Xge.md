@@ -1,3 +1,12 @@
+---
+title: Unbreakable Arrow Xge
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Unbreakable Arrow Xge
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Ammunition, minor, common*  
 ![](/03_Mechanics/CLI/items/img/unbreakable-arrow.webp#right)
 
-This arrow can't be broken, except when it is within an [[antimagic-field-xphb|antimagic field]].
+This arrow can't be broken, except when it is within an [[antimagic field xphb|antimagic field]].
 
 *Source: Xanathar's Guide to Everything p. 139*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ This arrow can't be broken, except when it is within an [[antimagic-field-xphb|a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -80,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

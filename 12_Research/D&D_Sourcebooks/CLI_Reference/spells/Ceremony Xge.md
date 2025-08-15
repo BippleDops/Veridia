@@ -1,3 +1,12 @@
+---
+title: Ceremony Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ceremony Xge
 
 ---
@@ -41,7 +50,6 @@ world: Both
 
 You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ You perform a special religious ceremony that is infused with magic. When you ca
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Atonement
 
@@ -65,7 +68,7 @@ You touch one willing creature whose alignment has changed, and you make a DC 20
 
 ## Bless Water
 
-You touch one [[vial-xphb|vial]] of water and cause it to become [[holy-water-xphb|holy water]].
+You touch one [[vial xphb|vial]] of water and cause it to become [[holy-water-xphb|holy water]].
 
 ## Coming of Age
 
@@ -77,7 +80,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[wish-xphb|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[wish xphb|wish]] spell.
 
 ## Wedding
 
@@ -85,7 +88,7 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Xanathar's Guide to Everything p. 151*
 
@@ -105,11 +108,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 

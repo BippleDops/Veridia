@@ -1,3 +1,12 @@
+---
+title: Pressure Damage
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure Damage
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"The deep demands respect - ignore pressure at your mortal peril."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Pressure Damage represents the various physical and magical injuries that result from exposure to the crushing depths of Aquabyssos or rapid pressure changes during inter-realm travel. This environmental hazard affects not just surface dwellers venturing underwater, but can also impact underwater inhabitants when magical protection fails or when they travel to areas of extreme depth variation.
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

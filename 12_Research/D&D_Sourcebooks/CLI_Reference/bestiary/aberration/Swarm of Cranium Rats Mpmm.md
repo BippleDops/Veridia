@@ -1,3 +1,12 @@
+---
+title: Swarm of Cranium Rats Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Cranium Rats Mpmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-cranium-rats-mpmm-swarm-of-cranium-rats-mpmm.svg)
 
-# [[swarm-of-cranium-rats-mpmm|Swarm of Cranium Rats]]
+# [[swarm of cranium rats mpmm|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cranium Rat
 
@@ -99,9 +102,9 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - "desc": "As long as it has more than half of its hit points remaining, the swarm\
       \ casts one of the following spells, requiring no spell components and using\
       \ Intelligence as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[command-xphb|command]], [[comprehend-languages-xphb|comprehend languages]],\
-      \ [[detect-thoughts-xphb|detect thoughts]]\n\n1/day\
-      \ each: [[confusion-xphb|confusion]], [[dominate-monster-xphb|dominate\]]
+      \ [[command xphb|command]], [[comprehend languages xphb|comprehend languages]],\
+      \ [[detect thoughts xphb|detect thoughts]]\n\n1/day\
+      \ each: [[confusion xphb|confusion]], [[dominate monster xphb|dominate\]]
       \ monster]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":

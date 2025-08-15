@@ -1,3 +1,12 @@
+---
+title: New Ability Scores Honor and Sanity
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # New Ability Scores Honor and Sanity
 
 ---
@@ -37,7 +46,6 @@ Here's how to incorporate these optional abilities at character creation:
 
 If you ever need to make a check or saving throw for Honor or Sanity for a monster that lacks the score, you can use Charisma for Honor and Wisdom for Sanity.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ If you ever need to make a check or saving throw for Honor or Sanity for a monst
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Honor Score
 
@@ -101,11 +104,11 @@ You might call for a Sanity saving throw when a character runs the risk of succu
 
 - Seeing a creature from the Far Realm or other alien realms for the first time  
 - Making direct contact with the mind of an alien creature  
-- Being subjected to spells that affect mental stability, such as the insanity option of the [[symbol-xphb|symbol]] spell  
+- Being subjected to spells that affect mental stability, such as the insanity option of the [[symbol xphb|symbol]] spell  
 - Passing through a demiplane built on alien physics  
 - Resisting an effect conferred by an attack or spell that deals psychic damage  
 
-A failed Sanity save might result in [[short-term-madness|short-term]], [[long-term-madness|long-term]], or [[indefinite-madness|indefinite madness]], as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [[greater-restoration-xphb|greater restoration]] spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
+A failed Sanity save might result in [[short term madness|short-term]], [[long term madness|long-term]], or [[indefinite madness|indefinite madness]], as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [[greater restoration xphb|greater restoration]] spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
 
 ## Player-Facing Summary
 
@@ -123,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help finding before the festival
@@ -137,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Smoke Mephit Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Smoke Mephit Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-smoke-mephit-xmm-smoke-mephit-xmm.svg)
 
-# [[smoke-mephit-xmm|Smoke Mephit]]
+# [[smoke mephit xmm|Smoke Mephit]]
 *Source: Monster Manual (2024) p. 208*  
 
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Smoke mephits are elusive beings formed of fiery cinders and hot air. They love 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mephits
 
@@ -99,7 +102,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 11,\
-      \ each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the mephit. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"
@@ -136,11 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -152,7 +153,6 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

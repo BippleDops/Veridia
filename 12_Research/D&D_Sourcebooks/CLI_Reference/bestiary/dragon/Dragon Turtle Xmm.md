@@ -1,3 +1,12 @@
+---
+title: Dragon Turtle Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragon Turtle Xmm
 
 ---
@@ -29,9 +38,8 @@ updated: '2025-08-13T12:34:06.019792+00:00'
 world: Both
 ---
 
-# [[dragon-turtle-xmm|Dragon Turtle]]
+# [[dragon turtle xmm|Dragon Turtle]]
 *Source: Monster Manual (2024) p. 103. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Dragon Turtle
 
@@ -91,16 +94,16 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
       \ Tail attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 15 ft. Hit: 23 (3d10 + 7) Piercing\
-      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [[resistance-xphb|Resistance]]\
+      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [[resistance xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning\
       \ damage. If the target is a Huge or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Tail"
-  - "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 56 (16d6) Fire damage. Success: Half damage. Failure or Success:\
-      \ Being underwater doesn't grant [[resistance-xphb|Resistance]]\
+      \ Being underwater doesn't grant [[resistance xphb|Resistance]]\
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "XMM"
@@ -127,7 +130,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

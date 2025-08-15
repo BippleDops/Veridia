@@ -1,3 +1,12 @@
+---
+title: Blood Spear Cos
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Blood Spear Cos
 
 ---
@@ -25,24 +34,23 @@ world: Both
 ---
 
 # Blood Spear
-*Weapon ([[spear-xphb|spear]]), uncommon (requires attunement)*  
+*Weapon ([[spear xphb|spear]]), uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blood-spear.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[strahd-von-zarovich-cos|Strahd von Zarovich]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
+Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[strahd von zarovich cos|Strahd von Zarovich]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
 
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain `2d6` temporary hit points.
 
 Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: Curse of Strahd p. 221*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Any creature can wield the spear, but only the character chosen by Kavan to wiel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -94,11 +95,9 @@ Mentioned in The First Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Rope of Climbing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rope of Climbing Xdmg
 
 ---
@@ -32,12 +41,11 @@ world: Both
 
 This 60-foot length of rope can hold up to 3,000 pounds. While holding one end of the rope, you can take a [[actions#Magic|Magic]] action to command the other end of the rope to animate and move toward a destination you choose, up to the rope's length away from you. That end moves 10 feet on your turn when you first command it and 10 feet at the start of each of your subsequent turns until reaching its destination or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
 
-If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [[advantage-xphb|Advantage]] on ability checks made to climb using the rope.
+If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [[advantage xphb|Advantage]] on ability checks made to climb using the rope.
 
-The rope has AC 20, HP 20, and [[immunity-xphb|Immunity]] to Poison and Psychic damage. It regains 1 [[hit-points-xphb|Hit Point]] every 5 minutes as long as it has at least 1 [[hit-points-xphb|Hit Point]]. If the rope drops to 0 [[hit-points-xphb|Hit Points]], it is destroyed.
+The rope has AC 20, HP 20, and [[immunity xphb|Immunity]] to Poison and Psychic damage. It regains 1 [[hit points xphb|Hit Point]] every 5 minutes as long as it has at least 1 [[hit points xphb|Hit Point]]. If the rope drops to 0 [[hit points xphb|Hit Points]], it is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 301. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The rope has AC 20, HP 20, and [[immunity-xphb|Immunity]] to Poison and Psychic 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

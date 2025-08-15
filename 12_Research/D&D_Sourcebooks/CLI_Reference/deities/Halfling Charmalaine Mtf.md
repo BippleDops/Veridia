@@ -1,3 +1,12 @@
+---
+title: Halfling Charmalaine Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Halfling Charmalaine Mtf
 
 ---
@@ -37,7 +46,6 @@ Charmalaine is an energetic and spontaneous deity, unafraid of danger, for she e
 
 Halflings sometimes call Charmalaine the Lucky Ghost because she can send her spirit out of her body to scout ahead, and thus she is able to warn halfling adventurers of danger while in her incorporeal form. Halflings who favor Charmalaine are usually adventurers or those who pursue other risky professions such as hunting, beast training, scouting, and guarding public officials.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ Halflings sometimes call Charmalaine the Lucky Ghost because she can send her sp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A letter reveals a betrayal about this place
@@ -86,21 +88,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

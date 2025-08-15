@@ -1,3 +1,12 @@
+---
+title: Swarm of Lemures Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Swarm of Lemures Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-lemures-xmm-swarm-of-lemures-xmm.svg)
 
-# [[swarm-of-lemures-xmm|Swarm of Lemures]]
+# [[swarm of lemures xmm|Swarm of Lemures]]
 *Source: Monster Manual (2024) p. 194*  
 
 When devils drive hosts of lemures into close proximity or when lemures compress into a single mass, a swarm forms and adopts a unified mind.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ When devils drive hosts of lemures into close proximity or when lemures compress
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lemures
 
@@ -88,25 +91,25 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness xphb|Darkness]]),\
   \ passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [[hit-points-xphb|Hit Points]]\
-      \ in d10 days unless it is killed by a creature under the effects of a [[bless-xphb|Bless]]\
+  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [[hit points xphb|Hit Points]]\
+      \ in d10 days unless it is killed by a creature under the effects of a [[bless xphb|Bless]]\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through an opening large enough for a Medium creature. The\
-      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ swarm can't regain [[hit points xphb|Hit Points]]\
+      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Vile Slime attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Poison damage,\
-      \ or 9 (2d6 + 2) Poison damage if the swarm is [[bloodied-xphb|Bloodied]]."
+      \ or 9 (2d6 + 2) Poison damage if the swarm is [[bloodied xphb|Bloodied]]."
     "name": "Vile Slime"
 "source":
   - "XMM"
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

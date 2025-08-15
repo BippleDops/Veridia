@@ -14,10 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![02_Worldbuilding/Groups/Natural Order Movemen](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_natural_order_movemen.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,24 +43,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
@@ -73,12 +63,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Organization Overview
 
@@ -207,11 +195,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #order #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Historical Timeline
 
@@ -229,7 +215,6 @@ What they claim to pursue
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

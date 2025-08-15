@@ -1,3 +1,12 @@
+---
+title: Potion of Pugilism Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Pugilism Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-After you drink this potion, each [[unarmed-strike-xphb|Unarmed Strike]] you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
+After you drink this potion, each [[unarmed strike xphb|Unarmed Strike]] you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
 
 This potion is a thick green fluid that tastes like spinach.
 
 *Source: Dungeon Master's Guide (2024) p. 289*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ This potion is a thick green fluid that tastes like spinach.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and evil awakens
@@ -81,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

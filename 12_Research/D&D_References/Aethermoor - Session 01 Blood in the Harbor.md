@@ -1,3 +1,12 @@
+---
+title: Aethermoor - Session 01 Blood in the Harbor
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor - Session 01 Blood in the Harbor
 
 ---
@@ -33,7 +42,7 @@ items_gained:
 - Map fragment - harbor shipping routes
 - Letter of introduction from Marina
 locations_visited:
-- '[[Port Meridian - Harbor District]]'
+- '[[Port Meridian   Harbor District]]'
 - '[[Pier 7]]'
 - '[[The Siren''s Rest Tavern]]'
 - '[[Harbor District Customs House]]'
@@ -41,7 +50,7 @@ locations_visited:
 npcs_met:
 - '[[Captain Lyanna Brightshield]]'
 - '[[Marina-Red-Tide-Coralheart]]'
-- "[[02_Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
+- "[[02 Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
 - '[[Brother Marcus Steelbane]]'
 obsidianUIMode: preview
 players: []
@@ -50,7 +59,7 @@ plot_threads:
 - Captain Blackwater missing 2 months
 - Singing crystals near Forgotten Isles
 - Nightmares of drowning in crystal caves
-primary_location: '[[Port Meridian - Harbor District]]'
+primary_location: '[[Port Meridian   Harbor District]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
@@ -61,7 +70,6 @@ updated: '2025-08-13T12:34:17.829962+00:00'
 world: Aethermoor
 xp_awarded: 750
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,11 +82,6 @@ xp_awarded: 750
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 The party witnesses a crystallized corpse being pulled from Port Meridian's harbor, releasing a pulse of violet energy that threatens everyone nearby. As they investigate the crystal plague's origins, they uncover disturbing connections between missing naval personnel, smuggling operations, and mysterious nightmares shared by all victims.
@@ -93,7 +96,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
-**NPCs:** [[Captain Lyanna Brightshield]], [[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]
+**NPCs:** [[Captain Lyanna Brightshield]], [[02 Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]
 **Outcome:** 
 - Party learns corpse wore Meridian Navy uniform
 - Sailor identified as missing for 3 weeks
@@ -199,11 +202,9 @@ Track each character's exposure level (0-6 scale)
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -218,7 +219,6 @@ Track each character's exposure level (0-6 scale)
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

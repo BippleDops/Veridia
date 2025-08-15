@@ -1,3 +1,12 @@
+---
+title: Mummy Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mummy Xmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-xmm-mummy-xmm.svg)
 
-# [[mummy-xmm|Mummy]]
+# [[mummy xmm|Mummy]]
 *Source: Monster Manual (2024) p. 219. Available in the SRD and the Free Rules (2024)*  
 
 Common mummies are the remains of priests, nobles, or champions of faith that underwent magical burial rites. Some are preserved through processes using linen wrappings or clay, but others are preserved by peat bogs, ice, magic, or other means.
@@ -59,7 +68,6 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 > 
 > Rule 7: Before opening a sarcophagus, light a torch.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -71,11 +79,6 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Mummies
 
@@ -88,7 +91,7 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove-curse-xphb|Remove Curse]] spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove curse xphb|Remove Curse]] spell or similar magic.
 
 ```statblock
 "name": "Mummy (XMM)"
@@ -121,12 +124,12 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
-      \ While cursed, the target can't regain [[hit-points-xphb|Hit Points]],\
-      \ its [[hit-points-xphb|Hit Point]] maximum\
-      \ doesn't return to normal when finishing a [[long-rest-xphb|Long Rest]],\
-      \ and its [[hit-points-xphb|Hit Point]] maximum\
+      \ While cursed, the target can't regain [[hit points xphb|Hit Points]],\
+      \ its [[hit points xphb|Hit Point]] maximum\
+      \ doesn't return to normal when finishing a [[long rest xphb|Long Rest]],\
+      \ and its [[hit points xphb|Hit Point]] maximum\
       \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
-      \ to dust if reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ to dust if reduced to 0 [[hit points xphb|Hit Points]]\
       \ by this attack."
     "name": "Rotting Fist"
   - "desc": "Wisdom Saving Throw: DC 11, one creature the mummy can see within 60\
@@ -160,11 +163,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

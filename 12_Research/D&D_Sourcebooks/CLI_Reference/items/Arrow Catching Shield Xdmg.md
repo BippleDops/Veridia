@@ -1,3 +1,12 @@
+---
+title: Arrow Catching Shield Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arrow Catching Shield Xdmg
 
 ---
@@ -28,17 +37,16 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-arrow-catching-shield-xdmg-arrow-catching-shield-xdmg.svg)
 
 # Arrow-Catching Shield
-*Armor ([[shield-xphb|shield]]), rare (requires attunement)*  
+*Armor ([[shield xphb|shield]]), rare (requires attunement)*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-You gain a +2 bonus to [[armor-class-xphb|Armor Class]] against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.
+You gain a +2 bonus to [[armor class xphb|Armor Class]] against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.
 
-Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a [[reaction-xphb|Reaction]] to become the target of the attack instead.
+Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a [[reaction xphb|Reaction]] to become the target of the attack instead.
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ Whenever an attacker makes a ranged attack roll against a target within 5 feet o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Random_Tables - Encounter_and_Loot_Generators
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Random_Tables - Encounter_and_Loot_Generators
 
 ---
@@ -19,7 +28,6 @@ world: Both
 updated: '2025-08-13T01:18:37.212531+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -31,11 +39,6 @@ updated: '2025-08-13T01:18:37.212531+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Encounters (d100)
 Roll: `dice: 1d100|Encounter Roll`
@@ -126,11 +129,9 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

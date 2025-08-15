@@ -1,3 +1,12 @@
+---
+title: Session 2 the Shadow Surgery
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_2_The_Shadow_Surgery
 
 ---
@@ -13,7 +22,6 @@ modified: '2025-08-14'
 # Session 2: The Shadow Surgery
 *The Shadow Conspiracy Campaign - Investigation Deepens*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -25,11 +33,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -317,7 +320,7 @@ LABEL[Evidence Collected: 12/20]
 | 7-8 | Shadow surgeon recognizes a hero |
 
 ## Connected Content
-- **Previous**: [[Session_1_Shadows_in_the_Senate]]
+- **Previous**: [[Session 1 Shadows in the Senate]]
 - **Next**: [[Session_3_The_Duplicate_Crisis]]
 - **Related**: [[Shadow Surgery Mechanics]]
 - **NPCs**: [[Dr. Umbral Voidheart]], [[Senator Marius]]
@@ -330,11 +333,9 @@ LABEL[Evidence Collected: 12/20]
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

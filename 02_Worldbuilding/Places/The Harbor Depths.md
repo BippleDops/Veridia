@@ -23,14 +23,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-harbor-depths-the-harbor-depths.svg)
 
 # The Harbor Depths
 *Where Surface Meets Abyss, The Drowned Foundation of Port Meridian*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,7 +56,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
@@ -68,22 +64,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
@@ -97,7 +88,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Harbor Depths represent the submerged underbelly of [[Port Meridian]], where the bustling surface port gives way to a treacherous underwater realm. This transition zone between [[Aethermoor]] and [[Aquabyssos]] contains sunken ships, ancient ruins from before the great submersion, and the dangerous meeting point between two very different worlds. Crystal corruption seeps up from below while surface pollutants sink down, creating a unique and hazardous environment.
@@ -178,8 +168,6 @@ Ongoing situations affecting The Harbor Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A shipment has gone missing and war looms
@@ -204,7 +192,6 @@ Ongoing situations affecting The Harbor Depths:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -223,7 +210,6 @@ Ongoing situations affecting The Harbor Depths:
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -235,7 +221,6 @@ Ongoing situations affecting The Harbor Depths:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

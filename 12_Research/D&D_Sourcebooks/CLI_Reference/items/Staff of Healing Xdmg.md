@@ -1,3 +1,12 @@
+---
+title: Staff of Healing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Healing Xdmg
 
 ---
@@ -31,18 +40,17 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell.
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cure-wounds-xphb|Cure Wounds]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
-| [[lesser-restoration-xphb|Lesser Restoration]] | 2 |
-| [[mass-cure-wounds-xphb|Mass Cure Wounds]] | 5 |
+| [[cure wounds xphb|Cure Wounds]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
+| [[lesser restoration xphb|Lesser Restoration]] | 2 |
+| [[mass cure wounds xphb|Mass Cure Wounds]] | 5 |
 ^spell-charge-cost
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ This staff has 10 charges. While holding the staff, you can cast one of the spel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -83,11 +86,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -101,11 +102,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

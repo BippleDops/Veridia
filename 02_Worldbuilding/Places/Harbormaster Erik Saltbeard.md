@@ -24,8 +24,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-harbormaster-erik-saltbeard-harbormaster-erik-saltbeard.svg)
 
@@ -34,7 +32,6 @@ improvements: 20
 
 > *"Every vessel that sails between sky and sea must pass through these docks. Here, where the crystal winds meet ocean currents, fortunes are made and empires rise or fall."*
 > — [[Harbormaster Erik Saltbeard]], Master of the Docks
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,14 +60,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
@@ -84,11 +76,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -98,7 +88,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -733,7 +722,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[Aethermoor]], a spr
 - [[Deputy Harbor Master Marina Stormwright]]
 
 **Related Items and Concepts**:
-- [[Crystal-Powered Vessels]]
+- [[Crystal Powered Vessels]]
 - [[Crystal Storm Barriers]]
 - [[Harbor Defense Grid]]
 - [[Skyship Technology]]
@@ -783,8 +772,6 @@ Ongoing situations affecting Harbormaster Erik Saltbeard:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Ixitxachitl Cleric Oota
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ixitxachitl Cleric Oota
 
 ---
@@ -30,11 +39,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-cleric-oota-ixitxachitl-cleric-oota.svg)
 
-# [[ixitxachitl-cleric-oota|Ixitxachitl Cleric]]
+# [[ixitxachitl cleric oota|Ixitxachitl Cleric]]
 *Source: Out of the Abyss p. 225*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling ma
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Struggle for Survival
 
@@ -87,13 +90,13 @@ The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [[guidance-xphb|guidance]],\
-      \ [[thaumaturgy-xphb|thaumaturgy]]\n\n1st level\
-      \ (4 slots): [[charm-person-xphb|charm person]],\
-      \ [[create-or-destroy-water-xphb|create or destroy water]]\n\
-      \n2nd level (3 slots): [[hold-person-xphb|hold person]],\
-      \ [[silence-xphb|silence]]\n\n3rd level (2 slots):\
-      \ [[dispel-magic-xphb|dispel magic]], [[tongues-xphb|tongues]]"
+      \ has the following cleric spells prepared:\n\nCantrips (at will): [[guidance xphb|guidance]],\
+      \ [[thaumaturgy xphb|thaumaturgy]]\n\n1st level\
+      \ (4 slots): [[charm person xphb|charm person]],\
+      \ [[create or destroy water xphb|create or destroy water]]\n\
+      \n2nd level (3 slots): [[hold person xphb|hold person]],\
+      \ [[silence xphb|silence]]\n\n3rd level (2 slots):\
+      \ [[dispel magic xphb|dispel magic]], [[tongues xphb|tongues]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
@@ -127,7 +130,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the government
@@ -139,11 +141,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Scroll of Titan Summoning Colossus Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scroll of Titan Summoning Colossus Xdmg
 
 ---
@@ -31,12 +40,11 @@ world: Both
 # Scroll of Titan Summoning (Colossus)
 *Scroll, legendary*  
 
-When you take a [[actions#Magic|Magic]] action to read this scroll, a [[colossus-xmm|Colossus]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[actions#Magic|Magic]] action to read this scroll, a [[colossus xmm|Colossus]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [[colossus-xmm|Colossus]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[colossus-xmm|Colossus]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[colossus xmm|Colossus]] is [[hostile attitude xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit points xphb|Hit Points]]. If the [[colossus xmm|Colossus]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The [[colossus-xmm|Colossus]] is [[hostile-attitude-xphb|Hostile]] toward all ot
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Gnome Garl Glittergold Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Garl Glittergold Mtf
 
 ---
@@ -37,7 +46,6 @@ When gnome children hear their first stories about the gods, they are introduced
 
 A joker and a prankster, Garl Glittergold reminds gnomes that life is to be taken lightly, and that a good laugh will serve them better than a grim attitude. When Garl cavorts with mischief on his mind, Moradin's beard might end up woven with giggling flowers, and Gruumsh's axe could sprout braying donkey heads at the most inopportune time.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ A joker and a prankster, Garl Glittergold reminds gnomes that life is to be take
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cooperation Is Key
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

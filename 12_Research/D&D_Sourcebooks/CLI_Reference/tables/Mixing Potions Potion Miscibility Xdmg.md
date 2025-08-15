@@ -1,3 +1,12 @@
+---
+title: Mixing Potions Potion Miscibility Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mixing Potions Potion Miscibility Xdmg
 
 ---
@@ -31,16 +40,15 @@ world: Both
 
 | dice: 1d100 | Result |
 |-------------|--------|
-| 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on itself. Each creature in that area takes `4d10` Force damage. |
+| 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [[sphere area of effect xphb|Sphere]] centered on itself. Each creature in that area takes `4d10` Force damage. |
 | 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see ""Poison"" in "chapter 3"). |
 | 09–15 | Both potions lose their effects. |
 | 16–25 | One potion loses its effect. |
 | 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
 | 36–90 | Both potions work normally. |
 | 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[potion-of-healing-xdmg|Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[potion-of-invisibility-xdmg|Potion of Invisibility]] might give the drinker the [[conditions#Invisible|Invisible]] condition indefinitely. At your discretion, a [[dispel-magic-xphb|Dispel Magic]] spell or similar magic might end this lasting effect. |
+| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[potion of healing xdmg|Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[potion of invisibility xdmg|Potion of Invisibility]] might give the drinker the [[conditions#Invisible|Invisible]] condition indefinitely. At your discretion, a [[dispel magic xphb|Dispel Magic]] spell or similar magic might end this lasting effect. |
 ^potion-miscibility
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A noble needs help finding before winter
@@ -89,26 +91,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

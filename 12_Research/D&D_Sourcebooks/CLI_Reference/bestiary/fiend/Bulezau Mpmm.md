@@ -1,3 +1,12 @@
+---
+title: Bulezau Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bulezau Mpmm
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulezau-mpmm-bulezau-mpmm.svg)
 
-# [[bulezau-mpmm|Bulezau]]
+# [[bulezau mpmm|Bulezau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
 
 > [!quote] A quote from Tasha  
@@ -100,7 +109,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -112,11 +120,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -133,7 +136,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

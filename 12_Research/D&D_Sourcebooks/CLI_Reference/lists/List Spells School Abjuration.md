@@ -1,3 +1,12 @@
+---
+title: List Spells School Abjuration
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Spells School Abjuration
 
 ---
@@ -22,7 +31,6 @@ updated: '2025-08-13T12:34:04.662138+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,18 +42,13 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 9th Level
 
-- [[/03_Mechanics/CLI/spells/imprisonment-xphb "XPHB"|Imprisonment]]
-- [[/03_Mechanics/CLI/spells/invulnerability-xge "XGE"|Invulnerability]]
-- [[/03_Mechanics/CLI/spells/mass-heal-xphb "XPHB"|Mass Heal]]
-- [[/03_Mechanics/CLI/spells/prismatic-wall-xphb "XPHB"|Prismatic Wall]]
+- [[/03 Mechanics/CLI/spells/imprisonment xphb "XPHB"|Imprisonment]]
+- [[/03 Mechanics/CLI/spells/invulnerability xge "XGE"|Invulnerability]]
+- [[/03 Mechanics/CLI/spells/mass-heal-xphb "XPHB"|Mass Heal]]
+- [[/03 Mechanics/CLI/spells/prismatic-wall-xphb "XPHB"|Prismatic Wall]]
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
@@ -65,11 +68,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -80,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

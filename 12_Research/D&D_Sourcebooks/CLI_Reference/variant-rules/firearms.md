@@ -1,3 +1,12 @@
+---
+title: firearms
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # firearms
 
 ---
@@ -25,7 +34,6 @@ world: Both
 
 If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,15 +45,10 @@ If you want to model the swashbuckling style of The Three Musketeers and similar
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Proficiency
 
-It's up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn't have such proficiency. During their downtime, characters can use the [[downtime-activity-training-phb|training]] rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
+It's up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn't have such proficiency. During their downtime, characters can use the [[downtime activity training phb|training]] rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
 
 ## Properties
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

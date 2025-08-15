@@ -1,3 +1,12 @@
+---
+title: Generic Object
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Generic Object
 
 ---
@@ -32,7 +41,6 @@ When characters need to saw through ropes, shatter a window, or smash a vampire'
 
 For the purpose of these rules, an object is a discrete, iimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ For the purpose of these rules, an object is a discrete, iimate item like a wind
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Statistics for Objects
 
@@ -58,13 +61,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![[object-armor-class|Object Armor Class]]
+![[object armor class|Object Armor Class]]
 
 ### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![[object-hit-points|Object Hit Points]]
+![[object hit points|Object Hit Points]]
 
 ### Huge and Gargantuan Objects
 
@@ -110,11 +113,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

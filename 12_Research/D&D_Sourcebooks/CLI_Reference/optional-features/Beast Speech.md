@@ -1,3 +1,12 @@
+---
+title: Beast Speech
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Beast Speech
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Beast Speech
 *Source: Player's Handbook p. 110. Available in the SRD*  
 
-You can cast [[speak-with-animals-xphb|speak with animals]] at will, without expending a spell slot.
-
+You can cast [[speak with animals xphb|speak with animals]] at will, without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can cast [[speak-with-animals-xphb|speak with animals]] at will, without exp
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a curse
@@ -76,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

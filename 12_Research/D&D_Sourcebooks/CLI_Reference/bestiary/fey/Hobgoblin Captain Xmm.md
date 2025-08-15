@@ -1,3 +1,12 @@
+---
+title: Hobgoblin Captain Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hobgoblin Captain Xmm
 
 ---
@@ -38,11 +47,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-captain-xmm-hobgoblin-captain-xmm.svg)
 
-# [[hobgoblin-captain-xmm|Hobgoblin Captain]]
+# [[hobgoblin captain xmm|Hobgoblin Captain]]
 *Source: Monster Manual (2024) p. 171. Available in the SRD and the Free Rules (2024)*  
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Hobgoblin captains are battlefield tacticians. They lead their allies to victory
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hobgoblins
 
@@ -113,8 +116,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-  - "desc": "While in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage-xphb|Advantage]]\
+  - "desc": "While in a 10-foot [[emanation area of effect xphb|Emanation]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage xphb|Advantage]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"
@@ -153,11 +156,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

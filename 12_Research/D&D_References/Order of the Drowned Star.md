@@ -1,3 +1,12 @@
+---
+title: Order of the Drowned Star
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Order of the Drowned Star
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T01:18:36.789912+00:00'
 # Order of the Drowned Star
 *"In Depths We Seek the Light Above"*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ updated: '2025-08-13T01:18:36.789912+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -181,7 +184,7 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 
 **Notable NPCs**:
 - [[Stellar Commander Nereus Voidcaller]]
-- [[Sister Astara the Ever-Watching]]
+- [[Sister Astara the Ever Watching]]
 - [[Thalassa the Pathfinder]]
 - [[Brother Pelagios Irondeep]]
 
@@ -201,11 +204,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -216,7 +217,6 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

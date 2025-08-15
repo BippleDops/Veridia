@@ -1,3 +1,12 @@
+---
+title: Boon of the Fire Soul
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boon of the Fire Soul
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Boon of the Fire Soul
 
-You have immunity to fire damage. You can also cast [[burning-hands-xphb|burning hands]] (save DC 15) at will, without using a spell slot or any components. 
+You have immunity to fire damage. You can also cast [[burning hands xphb|burning hands]] (save DC 15) at will, without using a spell slot or any components. 
 
 *Source: Dungeon Master's Guide p. 232*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ You have immunity to fire damage. You can also cast [[burning-hands-xphb|burning
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,17 +66,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help investigating before dawn
-- A prisoner has gone missing and chaos spreads
 - A prisoner has gone missing and chaos spreads
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

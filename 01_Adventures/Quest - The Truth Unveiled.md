@@ -1,3 +1,12 @@
+---
+title: Quest - The Truth Unveiled
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Truth Unveiled
 
 ---
@@ -31,14 +40,12 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg]]
 
 # Quest - The Truth Unveiled
 *A Web of Lies Threatening Aethermoor's Foundation*
 
 > *"The conspiracy runs deeper than anyone imagined. What we thought was isolated corruption has roots that extend into the very heart of our government, our guilds, and our most trusted institutions."*
 > — [[Investigator Cassandra Reynolds]], final report
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +58,6 @@ danger_level: Moderate
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quest Overview
 
@@ -143,7 +145,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Secondary Locations
 
-**[[Port Meridian - Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
+**[[Port Meridian   Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
 
 **[[Parliament of Echoes]]** - The seat of government, where corrupted officials work to advance the conspiracy's agenda through legitimate political processes. Gathering evidence here requires extreme caution to avoid alerting conspiracy members to the investigation.
 
@@ -334,7 +336,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Mariners Armor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mariners Armor Xdmg
 
 ---
@@ -40,7 +49,7 @@ world: Both
 *Uncommon*  
 ![](/03_Mechanics/CLI/items/img/mariners-armor.webp#right)
 
-While wearing this armor, you have a [[swim-speed-xphb|Swim Speed]] equal to your [[speed-xphb|Speed]]. In addition, if you start your turn underwater with 0 [[hit-points-xphb|Hit Points]], you immediately regain `d4` [[hit-points-xphb|Hit Points]]. The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [[swim speed xphb|Swim Speed]] equal to your [[speed xphb|Speed]]. In addition, if you start your turn underwater with 0 [[hit points xphb|Hit Points]], you immediately regain `d4` [[hit points xphb|Hit Points]]. The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 
@@ -65,7 +74,6 @@ The armor is decorated with fish and shell motifs.
 
 *Source: Dungeon Master's Guide (2024) p. 278*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ The armor is decorated with fish and shell motifs.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,14 +102,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

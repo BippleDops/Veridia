@@ -1,3 +1,12 @@
+---
+title: Bheur Hag Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bheur Hag Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
 
-# [[bheur-hag-mpmm|Bheur Hag]]
+# [[bheur hag mpmm|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -72,7 +81,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The hag can cast the [[control-weather-xphb|control weather]]\
+  - "desc": "The hag can cast the [[control weather xphb|control weather]]\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (1/Day)"
@@ -109,9 +118,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Horrific Feast"
   - "desc": "While holding or riding the graystaff, the hag casts one of the following\
       \ spells, requiring no material components and using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [[hold-person-xphb|hold person]]\n\
-      \n1/day each: [[cone-of-cold-xphb|cone of cold]],\
-      \ [[ice-storm-xphb|ice storm]], [[wall-of-ice-xphb|wall of ice]]"
+      \ ability (spell save DC 14):\n\nAt will: [[hold person xphb|hold person]]\n\
+      \n1/day each: [[cone of cold xphb|cone of cold]],\
+      \ [[ice storm xphb|ice storm]], [[wall of ice xphb|wall of ice]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -119,7 +128,6 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "image": "/03_Mechanics/CLI/bestiary/fey/token/bheur-hag-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -132,11 +140,6 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -157,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

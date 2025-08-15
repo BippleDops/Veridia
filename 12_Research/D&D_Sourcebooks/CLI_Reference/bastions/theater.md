@@ -1,3 +1,12 @@
+---
+title: theater
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # theater
 
 ---
@@ -22,7 +31,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg]]
 
 # Theater
 *Level 9 Bastion facility*  
@@ -33,7 +41,6 @@ world: Both
 - **Order**: empower
 
 The Theater contains a stage, a backstage area where props and sets are kept, and a seating area for a small audience.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ The Theater contains a stage, a backstage area where props and sets are kept, an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Empower: Theatrical Event
 
@@ -82,16 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

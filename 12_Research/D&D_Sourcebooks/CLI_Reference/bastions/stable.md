@@ -1,3 +1,12 @@
+---
+title: stable
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # stable
 
 ---
@@ -29,10 +38,9 @@ world: Both
 - **Hirelings**: 1
 - **Order**: trade
 
-A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one [[riding-horse-xmm|Riding Horse]] or [[camel-xmm|Camel]] and two [[pony-xmm|Ponies]] or [[mule-xmm|Mules]]; see the "Player's Handbook" or the "Monster Manual" for these creatures' stat blocks. The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility's hireling looks after these creatures.
+A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one [[riding horse xmm|Riding Horse]] or [[camel xmm|Camel]] and two [[pony xmm|Ponies]] or [[mule xmm|Mules]]; see the "Player's Handbook" or the "Monster Manual" for these creatures' stat blocks. The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility's hireling looks after these creatures.
 
 After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([[skills#Animal%20Handling|Animal Handling]]) checks made with respect to it have Advantage.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Trade: Animals
 
@@ -79,11 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -94,7 +95,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

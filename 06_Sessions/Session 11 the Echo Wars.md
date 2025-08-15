@@ -1,3 +1,12 @@
+---
+title: Session 11 the Echo Wars
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_11_The_Echo_Wars
 
 ---
@@ -13,7 +22,6 @@ modified: '2025-08-14'
 # Session 11: The Echo Wars
 *The Seven Shards Campaign - Beyond the Convergence*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -25,11 +33,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -49,7 +52,7 @@ WHERE contains(tags, "echo-dimension")
 ### The Dimensional Observatory
 Built six months ago to monitor the new cosmic order, the Observatory now detects catastrophic instabilities. Reality itself seems to be fracturing along the lines of decisions the heroes made.
 
-**Scene Setup**: The heroes are summoned by [[02_Worldbuilding/People/Brother Marcus the Willing]], now serving as the Cosmic Observatory Director.
+**Scene Setup**: The heroes are summoned by [[02 Worldbuilding/People/Brother Marcus the Willing]], now serving as the Cosmic Observatory Director.
 
 > [!quote] Brother Marcus
 > "Your victory created... complications. Every choice you made, every path not taken, has manifested as a separate reality. And now these 'echo dimensions' are at war with each other - and with us."
@@ -473,7 +476,6 @@ description: Heroes integrate all aspects of possibility, healing dimensional ri
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -481,11 +483,9 @@ description: Heroes integrate all aspects of possibility, healing dimensional ri
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

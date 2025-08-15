@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg]]
 
 # Royal Palace of Meridian
 
 *"Where power flows like tide, and politics shape the very air."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,7 +60,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
@@ -73,12 +68,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -87,8 +79,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
@@ -102,7 +92,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 The Royal Palace of Meridian is the seat of government for the surface kingdom of Aethermoor, a magnificent structure combining classical architecture with magical enhancements. This center of political power houses the royal family, government offices, and diplomatic facilities.
@@ -234,8 +223,6 @@ Ongoing situations affecting Royal Palace of Meridian:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Religious Observances
 

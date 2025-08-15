@@ -1,3 +1,12 @@
+---
+title: Charlatan Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charlatan Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/charlatan.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Charisma  
-- **Feat.** [[skilled-xphb|Skilled]]  
+- **Feat.** [[skilled xphb|Skilled]]  
 - **Skill Proficiencies.** [[skills#Deception|Deception]], [[skills#Sleight%20of%20Hand|Sleight of Hand]]  
-- **Tool Proficiency.** [[forgery-kit-xphb|Forgery Kit]]  
-- **Equipment.** Choose A or B: (A) [[forgery-kit-xphb|Forgery Kit]], [[costume-xphb|Costume]], [[fine-clothes-xphb|Fine Clothes]], 15 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[forgery kit xphb|Forgery Kit]]  
+- **Equipment.** Choose A or B: (A) [[forgery kit xphb|Forgery Kit]], [[costume xphb|Costume]], [[fine clothes xphb|Fine Clothes]], 15 GP; or (B) 50 GP  
 
 Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born. As you traveled the circuit from public house to watering hole, you learned to prey on unfortunates who were in the market for a comforting lie or two—perhaps a sham potion or forged ancestry records.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,11 +72,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -84,7 +85,6 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

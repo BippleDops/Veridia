@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,23 +46,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
@@ -75,7 +66,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
@@ -84,7 +74,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Basic Information
 
@@ -204,11 +193,10 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Relationships
 
-- **Lover**: [[Quest - The Democratic Balance]]
+- **Lover**: [[Quest   The Democratic Balance]]
 - **Blackmailer**: [[Captain Swift Cloudracer]]
-- **Parent**: [[aerisi-kalinoth-pota]]
+- **Parent**: [[aerisi kalinoth pota]]
 - **Enemy**: [[Portrait NPC Mist Walker Captain Luna Pathfinder V2 Mist Walker Captain Luna Pathfinder.svg]]
 - **Victim**: [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]

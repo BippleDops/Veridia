@@ -1,3 +1,12 @@
+---
+title: Potion of Healing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Healing Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 50 gp
 - **Weight**: 0.5 lbs.
 
-This potion is a magic item. As a [[bonus-action-xphb|Bonus Action]], you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains `2d4 + 2` [[hit-points-xphb|Hit Points]]. The potion's red liquid glimmers when agitated.
+This potion is a magic item. As a [[bonus action xphb|Bonus Action]], you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains `2d4 + 2` [[hit points xphb|Hit Points]]. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288, Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ This potion is a magic item. As a [[bonus-action-xphb|Bonus Action]], you can dr
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,14 +74,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

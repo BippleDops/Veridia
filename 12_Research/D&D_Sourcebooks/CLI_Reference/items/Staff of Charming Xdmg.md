@@ -1,3 +1,12 @@
+---
+title: Staff of Charming Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of Charming Xdmg
 
 ---
@@ -31,15 +40,14 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges. While holding the staff, you can use any of its properties:
 
-- **Cast Spell.** You can expend 1 of the staff's charges to cast [[charm-person-xphb|Charm Person]], [[command-xphb|Command]], or [[comprehend-languages-xphb|Comprehend Languages]] from it using your spell save DC.  
-- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a [[reaction-xphb|Reaction]] to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.  
+- **Cast Spell.** You can expend 1 of the staff's charges to cast [[charm person xphb|Charm Person]], [[command xphb|Command]], or [[comprehend languages xphb|Comprehend Languages]] from it using your spell save DC.  
+- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a [[reaction xphb|Reaction]] to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.  
 - **Resist Enchantment.** If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ This staff has 10 charges. While holding the staff, you can use any of its prope
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regaining Charges
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

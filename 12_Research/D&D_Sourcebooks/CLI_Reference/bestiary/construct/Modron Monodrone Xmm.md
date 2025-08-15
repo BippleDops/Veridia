@@ -1,3 +1,12 @@
+---
+title: Modron Monodrone Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Modron Monodrone Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-monodrone-xmm-modron-monodrone-xmm.svg)
 
-# [[modron-monodrone-xmm|Modron Monodrone]]
+# [[modron monodrone xmm|Modron Monodrone]]
 *Source: Monster Manual (2024) p. 216*  
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The most numerous modrons, monodrones can perform one simple task at a time. The
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Modrons
 
@@ -149,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -168,11 +169,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

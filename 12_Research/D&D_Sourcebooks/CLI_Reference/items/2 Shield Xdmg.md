@@ -1,3 +1,12 @@
+---
+title: 2 Shield Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 2 Shield Xdmg
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-2-shield-xdmg-2-shield-xdmg.svg)
 
 # +2 Shield
-*Armor ([[shield-xphb|shield]]), rare*  
+*Armor ([[shield xphb|shield]]), rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have a +2 bonus to [[armor-class-xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
+While holding this Shield, you have a +2 bonus to [[armor class xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ While holding this Shield, you have a +2 bonus to [[armor-class-xphb|Armor Class
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,14 +74,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

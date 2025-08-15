@@ -19,15 +19,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sorrow-root-nightbloom-sorrow-root-nightbloom.svg]]
 
 # Sorrow-Root Nightbloom
 
 *"Nature doesn't need saving - it needs revenge. The crystals are a cancer, and I am the cure, no matter how much cutting is required."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,9 +52,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
@@ -67,28 +60,22 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Once a member of [[The Verdant Accord]], Sorrow-Root Nightbloom now leads the Withered Court, a radical splinter faction that believes the only way to save nature is to weaponize it against civilization. They've begun experimenting with controlled corruption to create "crystal-eating" plants.
@@ -199,11 +186,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Cultural Practices
 

@@ -22,14 +22,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]
 
 # The Artisans' Collective of Master Crafters
 *Where Skill Meets Magic and Perfection is Born*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,25 +54,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Superstitions Improvements
@@ -90,7 +78,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 The Artisans' Collective represents the finest craftspeople across all trades, from magical item creation to architectural marvels. They maintain quality standards, protect trade secrets, and coordinate large-scale construction projects requiring multiple specialized skills.
@@ -119,7 +106,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Historical Timeline
 

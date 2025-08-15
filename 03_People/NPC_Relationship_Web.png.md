@@ -1,5 +1,4 @@
 ---
-
 title: 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png
 type: npc
 tags:
@@ -17,139 +16,43 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+# NPC_Relationship_Web.png
 
+## Overview
+NPC_Relationship_Web.png is a notable figure in the realm, known for their unique skills and complex motivations.
 
+## Appearance
+- **Age**: Middle-aged
+- **Build**: Average height, lean build
+- **Distinguishing Features**: Keen eyes that miss nothing
+- **Typical Attire**: Practical clothing suited for their profession
 
-## 🔧 Deep Evaluation Improvements
+## Personality
+- **Traits**: Observant, calculating, pragmatic
+- **Ideals**: Knowledge is power, loyalty must be earned
+- **Bonds**: Connected to several influential organizations
+- **Flaws**: Tendency to overthink situations
 
-*20 targeted improvements identified*
+## Background
+Born into modest circumstances, NPC_Relationship_Web.png rose through dedication and cunning to their current position.
 
-### History Improvements
+## Abilities
+- **Skills**: Investigation, Persuasion, Insight
+- **Special Abilities**: Keen tactical mind
+- **Equipment**: Various tools of their trade
 
-- Add three historical eras with major events
+## Relationships
+- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **Rivals**: [[Shadow Conspiracy]]
+- **Contacts**: Network of informants throughout the city
 
-### Culture Improvements
-
-- Define unique cultural practices and taboos
-
-### Economy Improvements
-
-- Detail currency, trade goods, and wealth distribution
-
-### Religion Improvements
-
-- Create detailed religious observances
-
-### Lifestyle Improvements
-
-- Describe typical day for different social classes
-
-### Oral_Tradition Improvements
-
-- Add folk tales and children's stories
-
-### Death_Customs Improvements
-
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
-### Contradictions Improvements
-
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
-### Coming_Of_Age Improvements
-
-- Describe rites of passage and adulthood markers
-
-### Material_Culture Improvements
-
-- Detail common objects and their cultural significance
-
-### Evolution Improvements
-
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
-### Diaspora Improvements
-
-- Describe how this culture exists in other regions
-
-
-## Physical Description
-04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png is a tall gnome with mysterious blue eyes and long brown hair. Their scarred features speak to a life of adventure.
-
-### Early Life
-Born in a nomadic tribe, 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png showed early signs of combat prowess. Their childhood was marked by privilege, which shaped their worldview significantly.
-
-### Formative Years
-During their youth, 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png served in the military. A defining moment came when they made a terrible mistake.
-
-### Recent History
-In recent years, 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png has been involved in archaeological expeditions. Their actions during the Great Plague earned them wealth.
-
-### Present Location
-Currently operating out of [[The Northern Fortress]], where they maintain a safe house.
-
-### Ongoing Projects
-1. Building a power base
-2. Protecting a valuable secret
-3. Hiding from powerful enemies
-
-### Deep Secrets
-*For DM Only:* 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png is actually from another plane of existence.
-
-### Personal Quests
-1. **The Past Returns**: Someone from 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png's past arrives with news that changes everything
-2. **The Debt**: An old obligation must be fulfilled, requiring the party's assistance
-3. **The Discovery**: 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png has uncovered something that could shift the balance of power
-4. **The Betrayal**: Evidence suggests 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png has been betrayed by someone close
-5. **The Choice**: 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png must decide between two equally important obligations
-
-### Legendary Actions
-Not applicable at this level
-
-### Quotes
-> "Power without purpose is mere destruction"
-
-> "The gods play games with mortal lives"
-
-### Theme Song
-*Driving percussion that captures their essence*
-
----
-
-*Last Updated: 2025-08-14 19:03*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
-
-## Prophecy Connection
-
-Mentioned in The First Prophecy of Stars
-
+## Current Activities
+Actively involved in current events, pursuing their own agenda while maintaining public appearances.
 
 ## Plot Hooks
+1. Seeks adventurers for a delicate mission
+2. Has information about a mystery the party is investigating
+3. May become an ally or adversary based on party actions
 
-- Strange accidents suggest a portal
-- Strange dreams suggest a conspiracy
-
-## Cultural Practices
-
-### Greetings
-- Touch foreheads for equals
-- Bow deeply to superiors
-- Never shake with left hand
-
-### Taboos
-- Speaking during sunset prayer
-- Wearing red on holy days
-- Pointing at the moon
+## DM Notes
+*This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*

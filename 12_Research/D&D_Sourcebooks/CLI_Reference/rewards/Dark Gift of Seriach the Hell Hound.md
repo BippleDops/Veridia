@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Seriach the Hell Hound
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Seriach the Hell Hound
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Seriach, the Hell Hound Whisperer
 *Charm*  
 
-Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two [[hell-hound-xmm|hell hounds]]. Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.
+Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two [[hell hound xmm|hell hounds]]. Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.
 
 The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.) Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal.
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary gains the ability to speak and understand Infernal, if he or she
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a witness for money
@@ -76,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

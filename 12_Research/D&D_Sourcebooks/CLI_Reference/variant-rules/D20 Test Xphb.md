@@ -1,3 +1,12 @@
+---
+title: D20 Test Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # D20 Test Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # D20 Test
 *Source: Player's Handbook (2024) p. 364. Available in the SRD and the Free Rules (2024)* 
 
-D20 Tests encompass the three main d20 rolls of the game: [[ability-check-xphb|ability checks]], [[attack-roll-xphb|attack rolls]], and [[saving-throw-xphb|saving throws]]. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
-
+D20 Tests encompass the three main d20 rolls of the game: [[ability check xphb|ability checks]], [[attack roll xphb|attack rolls]], and [[saving throw xphb|saving throws]]. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ D20 Tests encompass the three main d20 rolls of the game: [[ability-check-xphb|a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,11 +64,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

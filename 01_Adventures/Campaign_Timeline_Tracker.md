@@ -1,3 +1,12 @@
+---
+title: Campaign_Timeline_Tracker
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Timeline_Tracker
 
 ---
@@ -9,7 +18,6 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -34,29 +42,21 @@ modified: '2025-08-14'
 ### Meta Improvements
 
 - Address any table/player issues
-- Address any table/player issues
 
 ### X_Factor Improvements
 
-- Add one surprising element
 - Add one surprising element
 
 ### Props Improvements
 
 - List physical props and handouts to prepare
-- List physical props and handouts to prepare
 
 ### Environment Improvements
 
 - Use environment as active element
-- Use environment as active element
-- Use environment as active element
-- Use environment as active element
-- Use environment as active element
 
 ### Callbacks Improvements
 
-- Reference previous session moments
 - Reference previous session moments
 
 ### Timer Improvements
@@ -66,8 +66,6 @@ modified: '2025-08-14'
 ### Mood Improvements
 
 - Define intended emotional arc
-- Define intended emotional arc
-
 
 ## Current Date
 **Campaign Year**: 2024 CE (Current Era)
@@ -97,11 +95,9 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Resurrection Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Resurrection Xphb
 
 ---
@@ -41,12 +50,11 @@ The creature returns to life with all its [[hit-points-xphb|Hit Points]]. This s
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to [[d20-test-xphb|D20 Tests]]. Every time the target finishes a [[long-rest-xphb|Long Rest]], the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [[long-rest-xphb|Long Rest]], you can't cast spells again, and you have [[disadvantage-xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]].
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [[long-rest-xphb|Long Rest]], you can't cast spells again, and you have [[disadvantage xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 312. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Kobold Dragonshield Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Kobold Dragonshield Mpmm
 
 ---
@@ -31,7 +40,7 @@ updated: '2025-08-13T12:34:06.029317+00:00'
 world: Both
 ---
 
-# [[kobold-dragonshield-mpmm|Kobold Dragonshield]]
+# [[kobold dragonshield mpmm|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -48,7 +57,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[leather-armor-xphb|leather]], [[shield-xphb|shield]]"
+"ac_class": "[[leather armor xphb|leather]], [[shield xphb|shield]]"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -102,7 +111,6 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -114,11 +122,6 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -140,7 +143,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest a curse
@@ -150,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

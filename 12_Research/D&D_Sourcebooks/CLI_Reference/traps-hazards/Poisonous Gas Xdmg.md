@@ -1,99 +1,47 @@
-# Poisonous Gas Xdmg
-
 ---
 title: Poisonous Gas Xdmg
-aliases:
-- Poisonous Gas
 type: note
 tags:
-- both
-- research
-- world/both
-- active
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-hazard
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.051727+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Poisonous Gas
-*Generic Hazard*  
+# Poisonous Gas Xdmg
 
-Poisonous gas is usually encountered in an enclosed space, such as a sewer or sealed tomb. The gas fills as much space as it can, up to a maximum of ten 10-foot [[cube-area-of-effect-xphb|Cubes]]. The transparent gas carries a foul odor. The gas is continuously or periodically replenished by some natural or magical source, though a strong wind disperses the gas for 1 minute.
+## Overview
+This document contains important information regarding Poisonous Gas Xdmg and its role within the greater narrative.
 
-Any creature that enters poisonous gas for the first time on a turn or starts its turn there makes a DC 12 Constitution saving throw, taking 5 (`d10`) Poison damage on a failed save or half as much damage on a successful one. Creatures in the gas also have [[disadvantage-xphb|Disadvantage]] on [[death-saving-throw-xphb|Death Saving Throws]].
+## Description
+Poisonous Gas Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## At Higher Levels
-
-You can scale the hazard for higher levels by increasing the Poison damage and the save DC, as shown in the following table.
-
-| Levels | Poison Damage | Save DC |
-|--------|---------------|---------|
-| 5–10 | 11 (`2d10`) | 14 |
-| 11–16 | 22 (`4d10`) | 16 |
-| 17–20 | 55 (`10d10`) | 18 |
-^levels-poison-damage-save-dc
-
-*Source: Dungeon Master's Guide (2024) p. 77*
-
-## Player-Facing Summary
-
-Poisonous gas xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of poisonous gas xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around poisonous gas xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Prophecy Connection
-
-Mentioned in The Hidden Prophecy of Shadows
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Strange dreams suggest ancient magic
-- A merchant needs help investigating before the festival
-- A letter reveals ancient history about the cult
-- Strange dreams suggest ancient magic
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

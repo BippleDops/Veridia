@@ -21,11 +21,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-nerissa-deepcurrent-nerissa-deepcurrent.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,24 +54,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -89,7 +78,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Description
 
@@ -300,7 +288,6 @@ Nerissa Deepcurrent is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Nerissa Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nerissa Deepcurrent.
 
-
 ## Economic Structure
 
 ### Currency
@@ -318,7 +305,6 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

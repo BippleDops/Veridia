@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-missing-diplomat-the-missing-diplomat.svg]]
 
 # The Missing Diplomat
 
 *"When diplomats vanish, wars often follow."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,26 +61,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
@@ -94,7 +85,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
@@ -103,7 +93,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 A critical political investigation where Ambassador Nereon Peacekeeper, Aquabyssos's chief diplomat to the surface kingdoms, has disappeared during sensitive treaty negotiations. His vanishing threatens to destabilize fragile peace talks and potentially trigger international conflict.
@@ -218,17 +207,13 @@ Ongoing situations affecting The Missing Diplomat:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -253,7 +238,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Wands That Dont Recharge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wands That Dont Recharge
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 A typical wand has expendable charges. If you'd like wands to be a limited resource, you can make some of them incapable of regaining charges. Consider increasing the base number of charges in such a wand, to a maximum of 25 charges. These charges are never regained once they're expended.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ A typical wand has expendable charges. If you'd like wands to be a limited resou
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

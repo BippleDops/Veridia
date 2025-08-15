@@ -1,3 +1,12 @@
+---
+title: Ioun Stone Awareness Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ioun Stone Awareness Xdmg
 
 ---
@@ -34,12 +43,11 @@ When you take a [[actions#Magic|Magic]] action to toss an *Ioun Stone* into the 
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-While this dark-blue rhomboid orbits your head, you have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls and Wisdom ([[skills#Perception|Perception]]) checks.
+While this dark-blue rhomboid orbits your head, you have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls and Wisdom ([[skills#Perception|Perception]]) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ While this dark-blue rhomboid orbits your head, you have [[advantage-xphb|Advant
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

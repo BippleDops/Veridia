@@ -1,3 +1,12 @@
+---
+title: Molydeus Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Molydeus Mpmm
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-molydeus-mpmm-molydeus-mpmm.svg)
 
-# [[molydeus-mpmm|Molydeus]]
+# [[molydeus mpmm|Molydeus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -93,18 +102,18 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [[manes-xmm|manes]]\
+      \ The target transforms into a [[manes xmm|manes]]\
       \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [[wish-xphb|wish]] spell."
+      \ only by a [[wish xphb|wish]] spell."
     "name": "Snakebite"
   - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 25\
       \ (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \nAt will: [[dispel-magic-xphb|dispel magic]],\
-      \ [[polymorph-xphb|polymorph]], [[telekinesis-xphb|telekinesis]],\
-      \ [[teleport-xphb|teleport]]\n\n3/day: [[lightning-bolt-xphb|lightning\]]
+      \nAt will: [[dispel magic xphb|dispel magic]],\
+      \ [[polymorph xphb|polymorph]], [[telekinesis xphb|telekinesis]],\
+      \ [[teleport xphb|teleport]]\n\n3/day: [[lightning bolt xphb|lightning\]]
       \ bolt]]"
     "name": "Spellcasting"
 "legendary_actions":
@@ -121,7 +130,6 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -133,11 +141,6 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -155,11 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

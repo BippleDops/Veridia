@@ -32,14 +32,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-scholar-vivienne-the-chronicler-scholar-vivienne-the-chronicler.svg]]
 
 # Scholar Vivienne the Chronicler
 *Keeper of Shard Lore, Master of Ancient Texts*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,38 +68,30 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 Scholar Vivienne is the kingdom's foremost expert on the history of [[The Seven Shards]], having spent four decades collecting, translating, and analyzing every scrap of information about the [[The Crown of Stars]] and its shattering. Unlike the obsessed seekers, she approaches the Shards with academic detachment, believing knowledge should be preserved regardless of its danger.
@@ -337,11 +325,9 @@ Scholar Vivienne the Chronicler is a undersea element of the setting, known for 
 
 Legends speak of Scholar Vivienne the Chronicler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scholar Vivienne the Chronicler.
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Cultural Practices
 
@@ -354,7 +340,6 @@ Mentioned in The Second Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

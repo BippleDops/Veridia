@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Delban the Star of Ice and Hate
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Delban the Star of Ice and Hate
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Delban, the Star of Ice and Hate
 *Charm*  
 
-Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the [[cone-of-cold-xphb|cone of cold]] spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a [[ring-of-warmth-xdmg|ring of warmth]].
+Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the [[cone of cold xphb|cone of cold]] spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a [[ring of warmth xdmg|ring of warmth]].
 
 The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,16 +69,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -88,7 +88,6 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Dispel Evil and Good Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dispel Evil and Good Xphb
 
 ---
@@ -37,8 +46,7 @@ world: Both
 - **Components:** V, S, M (powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
-
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadvantage xphb|Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadva
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Break Enchantment
 
@@ -67,7 +70,7 @@ As a [[actions#Magic|Magic]] action, you target one creature you can see within 
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the SRD and the Free Rules (2024)*
 
@@ -87,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: demiplane
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # demiplane
 
 ---
@@ -24,7 +33,7 @@ world: Both
 # Demiplane
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use an [[arcane-focus-xphb|Arcane Focus]] or tool as a [[spellcasting-focus-xphb|Spellcasting Focus]]
+- **Prerequisites**: Ability to use an [[arcane focus xphb|Arcane Focus]] or tool as a [[spellcasting focus xphb|Spellcasting Focus]]
 - **Space**: Vast (36 sq)
 - **Hirelings**: 1
 - **Order**: empower
@@ -32,7 +41,6 @@ world: Both
 A door up to 5 feet wide and 10 feet tall appears on a flat, solid surface in one of the other facilities in your Bastion. You choose the location. If you are in your Bastion during a Bastion turn, you can relocate this door to another facility in your Bastion.
 
 Only you and your Bastion's hirelings can open the door, which leads to a Demiplane that takes the form of a stone room. The Demiplane exists in an extradimensional space and therefore isn't attached physically to other locations in your Bastion. Neither the Demiplane nor its door can be dispelled.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,15 +53,10 @@ Only you and your Bastion's hirelings can open the door, which leads to a Demipl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Empower: Arcane Resilience
 
-When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to five times your level after spending an entire Long Rest in the Demiplane.
+When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [[temporary hit points xphb|Temporary Hit Points]] equal to five times your level after spending an entire Long Rest in the Demiplane.
 
 ## Fabrication
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting an heir for power
@@ -88,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

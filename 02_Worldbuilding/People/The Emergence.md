@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg]]
 
 # The Emergence
 
 *"From the depths of darkness, new forms of life break the surface." - Scholar Deepthought*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,18 +64,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
@@ -89,7 +80,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
@@ -98,12 +88,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Emergence refers to a prophesied event when hidden or dormant aspects of underwater civilization will "emerge" into prominence. Different groups interpret this prophecy various ways, from literal creatures rising from deep trenches to metaphorical social transformations.
@@ -237,7 +225,6 @@ The Emergence is a undersea element of the setting, known for bioluminescent glo
 ## Lore Details
 
 Legends speak of The Emergence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emergence.
-
 
 ## Bloodline
 

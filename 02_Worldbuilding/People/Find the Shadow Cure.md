@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg]]
 
 # Find the Shadow Cure
 
 **Level:** 6-9 | **Type:** Quest/Research | **Duration:** 3-4 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,7 +65,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
@@ -82,13 +77,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -98,13 +89,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Overview
 A virulent shadow corruption is spreading through Aquabyssos, causing victims to slowly fade into incorporeal darkness. Traditional healing fails against this supernatural affliction. The quest involves researching ancient texts, gathering rare components, and confronting the corruption's source to develop a cure.
@@ -223,16 +211,13 @@ Find the Shadow Cure is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Find the Shadow Cure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Find the Shadow Cure.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Cultural Practices
 
@@ -245,7 +230,6 @@ Member of House Lionblood - Trait: divine blood
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Green Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Green Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -50,7 +53,7 @@ _Source: Monster Manual (2024)_
 The region containing an adult or ancient green dragon's lair is warped by its presence, creating the following effects:
 
 - **Beast Spies.** Tiny Beasts magically gain the ability to understand Draconic and can communicate telepathically with the dragon while within 1 mile of the lair.  
-- **Poisonous Thicket.** Ordinary plants growing within 1 mile of the lair poison the air around them. Whenever a creature other than the dragon or its allies finishes a [[long-rest-xphb|Long Rest]] in that area, it must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour.  
+- **Poisonous Thicket.** Ordinary plants growing within 1 mile of the lair poison the air around them. Whenever a creature other than the dragon or its allies finishes a [[long rest xphb|Long Rest]] in that area, it must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 
@@ -70,26 +73,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

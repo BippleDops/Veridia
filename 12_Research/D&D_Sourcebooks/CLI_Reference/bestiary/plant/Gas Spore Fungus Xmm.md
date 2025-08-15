@@ -1,3 +1,12 @@
+---
+title: Gas Spore Fungus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gas Spore Fungus Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gas-spore-fungus-xmm-gas-spore-fungus-xmm.svg)
 
-# [[gas-spore-fungus-xmm|Gas Spore Fungus]]
+# [[gas spore fungus xmm|Gas Spore Fungus]]
 *Source: Monster Manual (2024) p. 125*  
 
 Gas spores are floating, orbicular fungi with rhizome growths and protuberances that resemble the stalks and eyes of beholders. If destroyed, a gas spore explodes in a poisonous burst that can infect creatures and slay them in hours. Infected corpses spawn more gas spores that grow to full size in a matter of days.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Gas spores are floating, orbicular fungi with rhizome growths and protuberances 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Fungi
 
@@ -87,13 +90,13 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "cr": "1/2"
 "traits":
   - "desc": "The gas spore bursts when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 20-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the gas spore. Failure: The target takes 10 (3d6) Poison\
       \ damage and has the [[conditions#Poisoned|Poisoned]] condition\
       \ for d12 hours. Unless the [[conditions#Poisoned|Poisoned]]\
       \ condition is removed, the target dies at the end of that time and sprouts\
-      \ 2d4 Tiny Gas Spore Fungi (each with 1 [[hit-points-xphb|Hit Point]]).\
-      \ After 2d6 days, they become Large and have 13 [[hit-points-xphb|Hit Points]]."
+      \ 2d4 Tiny Gas Spore Fungi (each with 1 [[hit points xphb|Hit Point]]).\
+      \ After 2d6 days, they become Large and have 13 [[hit points xphb|Hit Points]]."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +0, reach 5 ft. Hit: 3 (d6) Poison damage, and\
@@ -126,11 +129,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

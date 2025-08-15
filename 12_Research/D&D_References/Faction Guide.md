@@ -1,3 +1,12 @@
+---
+title: Faction Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faction Guide
 
 ---
@@ -254,7 +263,6 @@ Various cults worshipping the ancient entity in the deepest trenches. Each inter
 
 *In the depths and heights, loyalty is currency, betrayal is common, and today's ally is tomorrow's enemy. Choose your factions wisely—but not too wisely. The only constant is change, and the tide turns for no one.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -266,11 +274,6 @@ Various cults worshipping the ancient entity in the deepest trenches. Each inter
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

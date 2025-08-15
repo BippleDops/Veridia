@@ -1,3 +1,12 @@
+---
+title: Drow Deities the Dark Seldarine Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Deities the Dark Seldarine Mtf
 
 ---
@@ -29,19 +38,18 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[drow-eilistraee-mtf|Eilistraee]] | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
-| [[drow-ghaunadaur-mtf|Ghaunadaur]] | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
-| [[drow-keptolo-mtf|Keptolo]] | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
-| [[drow-kiaransalee-mtf|Kiaransalee]] | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
-| [[drow-malyk-mtf|Malyk]] | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
-| [[drow-lolth-mtf|Lolth]] | CE | Primary god of drow, spiders | Trickery, War | Spider |
-| [[drow-selvetarm-mtf|Selvetarm]] | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
-| [[drow-vhaeraun-mtf|Vhaeraun]] | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
-| [[drow-zinzerena-mtf|Zinzerena]] | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
+| [[drow eilistraee mtf|Eilistraee]] | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
+| [[drow ghaunadaur mtf|Ghaunadaur]] | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
+| [[drow keptolo mtf|Keptolo]] | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
+| [[drow kiaransalee mtf|Kiaransalee]] | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
+| [[drow malyk mtf|Malyk]] | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
+| [[drow lolth mtf|Lolth]] | CE | Primary god of drow, spiders | Trickery, War | Spider |
+| [[drow selvetarm mtf|Selvetarm]] | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
+| [[drow vhaeraun mtf|Vhaeraun]] | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
+| [[drow zinzerena mtf|Zinzerena]] | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
 ^drow-deities-the-dark-seldarine
 
 *Appears in *Sword Coast Adventurer's Guide*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Drow Keptolo Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Keptolo Mtf
 
 ---
@@ -42,7 +51,6 @@ The ideal of what a male drow can become, Keptolo is handsome, stylish, witty, h
 
 In most myths, Keptolo resides in the Demonweb Pits alongside Lolth, whom he serves as consort, more than a plaything but much less than an equal. Keptolo is a bitter enemy of Zinzerena, who deceives and uses him as a tool in many of the stories about the Dark Seldarine.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ In most myths, Keptolo resides in the Demonweb Pits alongside Lolth, whom he ser
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,16 +79,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

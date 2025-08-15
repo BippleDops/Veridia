@@ -1,3 +1,12 @@
+---
+title: Coastal Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Coastal Encounters Levels 1116 Xge
 
 ---
@@ -31,19 +40,19 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `d4` [[banshee-xmm|banshees]] (night only) |
+| 01 | `d4` [[banshee xmm|banshees]] (night only) |
 | 02-04 | 1 [[cyclops-sentry-xmm|cyclops]] |
-| 05-08 | `1d6 + 2` [[manticore-xmm|manticores]] |
-| 09-10 | `1d8 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 05-08 | `1d6 + 2` [[manticore xmm|manticores]] |
+| 09-10 | `1d8 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
 | 11-20 | 1 [[young-blue-dragon-xmm|young blue dragon]] |
 | 21-25 | A nest of `d6` dragon turtle eggs |
 | 26-35 | `d4` [[sahuagin-baron-xmm|sahuagin barons]] |
 | 36-40 | A trident partially buried in the sand |
 | 41-50 | 1 [[young-bronze-dragon-xmm|young bronze dragon]] |
-| 51-55 | 1 [[marid-xmm|marid]] |
+| 51-55 | 1 [[marid xmm|marid]] |
 | 56-60 | `d6` [[water-elemental-xmm|water elementals]] |
-| 61-65 | `2d6` [[ghast-xmm|ghasts]] crawling over `d6` wrecked ships and feeding on the dead |
-| 66-70 | 1 [[djinni-xmm|djinni]] |
+| 61-65 | `2d6` [[ghast xmm|ghasts]] crawling over `d6` wrecked ships and feeding on the dead |
+| 66-70 | 1 [[djinni xmm|djinni]] |
 | 71-75 | `d3` [[young-bronze-dragon-xmm|young bronze dragons]] |
 | 76-80 | A beached whale, dead and bloated. If it takes any damage, it explodes, and each creature within 30 feet of it must make a DC 15 Dexterity saving throw, taking `5d6` bludgeoning damage on a failed save, or half as much damage on a successful one. |
 | 81-82 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
@@ -51,12 +60,11 @@ world: Both
 | 85-86 | `d3` [[young-blue-dragon-xmm|young blue dragons]] |
 | 87-88 | 1 [[adult-bronze-dragon-xmm|adult bronze dragon]] |
 | 89-90 | 1 [[adult-blue-dragon-xmm|adult blue dragon]] |
-| 91-93 | `d3` [[roc-xmm|rocs]] |
+| 91-93 | `d3` [[roc xmm|rocs]] |
 | 94-97 | 1 [[dragon-turtle-xmm|dragon turtle]] |
 | 98-99 | 1 [[ancient-bronze-dragon-xmm|ancient bronze dragon]] |
 | 00 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
 ^coastal-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,11 +77,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -91,7 +94,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for money
@@ -102,7 +104,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

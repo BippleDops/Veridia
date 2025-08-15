@@ -1,3 +1,12 @@
+---
+title: parlor
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # parlor
 
 ---
@@ -30,7 +39,6 @@ A basic facility comes with nonmagical furnishings and decor appropriate for tha
 
 *Source: Dungeon Master's Guide (2024) p. 335*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ A basic facility comes with nonmagical furnishings and decor appropriate for tha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

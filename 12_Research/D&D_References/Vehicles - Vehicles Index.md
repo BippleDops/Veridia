@@ -1,3 +1,12 @@
+---
+title: Vehicles - Vehicles Index
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Vehicles Index
 
 ---
@@ -52,7 +61,6 @@ SORT file.name ASC
 
 LIST FROM "04_Resources/Handouts/Encounters"
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -64,11 +72,6 @@ LIST FROM "04_Resources/Handouts/Encounters"
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Obsidian Queries
 LIST FROM "03_Mechanics/Vehicles"
@@ -90,14 +93,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

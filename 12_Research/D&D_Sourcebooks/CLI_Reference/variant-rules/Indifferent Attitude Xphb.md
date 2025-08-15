@@ -1,3 +1,12 @@
+---
+title: Indifferent Attitude Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Indifferent Attitude Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Indifferent [Attitude]
 *Source: Player's Handbook (2024) p. 369. Available in the SRD and the Free Rules (2024)* 
 
-An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a [[monster-xphb|monster]].
-
+An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a [[monster xphb|monster]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ An Indifferent creature has no desire to help or hinder you. Indifferent is the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,16 +66,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

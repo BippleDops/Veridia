@@ -27,8 +27,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg)
 
@@ -38,7 +36,6 @@ improvements: 20
 
 > *"The depths don't just crush your body—they devour the very concept of your existence. Down there, even nothingness has teeth."*
 > —Last Testament of Explorer Hadrian Deepseeker
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,23 +64,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
@@ -105,7 +96,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -428,11 +418,9 @@ The Void Touched Depths is a notable location characterized by its unique featur
 ### Founding
 The Void Touched Depths was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

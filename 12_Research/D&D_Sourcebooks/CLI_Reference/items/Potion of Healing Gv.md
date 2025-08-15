@@ -1,3 +1,12 @@
+---
+title: Potion of Healing Gv
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Healing Gv
 
 ---
@@ -31,17 +40,16 @@ world: Both
 *Potion*  
 
 > [!note]
-> * This item group has the same name and source as the item [[potion-of-healing-xdmg|potion of healing]].
+> * This item group has the same name and source as the item [[potion of healing xdmg|potion of healing]].
 
 **Items in this group:**
 
-- [[potion-of-healing-xdmg|Potion of Healing]]
-- [[potion-of-greater-healing-xdmg|Potion of Greater Healing]]
-- [[potion-of-superior-healing-xdmg|Potion of Superior Healing]]
-- [[potion-of-supreme-healing-xdmg|Potion of Supreme Healing]]
+- [[potion of healing xdmg|Potion of Healing]]
+- [[potion of greater healing xdmg|Potion of Greater Healing]]
+- [[potion of superior healing xdmg|Potion of Superior Healing]]
+- [[potion of supreme healing xdmg|Potion of Supreme Healing]]
 
 *Source: Dungeon Master's Guide p. 187. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

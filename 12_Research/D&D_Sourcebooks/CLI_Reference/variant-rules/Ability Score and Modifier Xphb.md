@@ -1,3 +1,12 @@
+---
+title: Ability Score and Modifier Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ability Score and Modifier Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Ability Score and Modifier
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a [[d20-test-xphb|D20 Test]] Test with the corresponding ability or when a rule asks you to do so.
-
+A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a [[d20 test xphb|D20 Test]] Test with the corresponding ability or when a rule asks you to do so.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ A creature has six ability scores—Strength, Dexterity, Constitution, Intellige
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -60,7 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

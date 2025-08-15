@@ -25,14 +25,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystalhaven-crystalhaven.svg]]
 
 # Crystalhaven
 *The Crystal Throne, Heart of Aethermoor*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,36 +57,26 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[Queen Seraphina Lumengarde]] and the center of crystal innovation.
@@ -152,7 +138,7 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 - **Crystal Exchange** - Controlled by [[Merchant Lord Silas Copperfield]]
   *Ficial Environment*: Crystal formations here evaluate and authenticate magical goods automatically, creating an environment of trust and precision. The air tastes of prosperity and careful calculation, while crystal displays show current market values and economic trends in real-time.
 
-- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three-Eyes" Flint]]
+- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three Eyes" Flint]]
   *Information Environment*: Crystal formations enhance acoustic properties to carry whispered conversations while maintaining privacy for sensitive discussions. The air buzzes with potential secrets and valuable information, while the lighting adjusts to create intimate conversation areas within the larger social space.
 
 ### The Shadow Warren
@@ -248,7 +234,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **Evening Markets**: Specialized markets open after regular business hours, featuring magical services, custom enchantments, and crystal-enhanced entertainment. Street performers use crystal instruments to create spectacular light and sound shows, while food vendors offer magically-enhanced cuisine that provides temporary magical abilities or corruption resistance.
 
-**Information Exchange**: [[Jasper "Three-Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
+**Information Exchange**: [[Jasper "Three Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
 
 ### Night Life (11 PM to 5 AM)
 
@@ -280,7 +266,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **Corruption Response Cycles**: Weekly corruption assessment and containment activities involve city-wide coordination between [[Crystal Wardens]], medical personnel, and specialized cleanup teams. These essential activities follow strict protocols to prevent corruption spread while maintaining essential city functions.
 
-**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross-Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
+**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
 
 ## Player-Facing Summary
 
@@ -321,11 +307,9 @@ Crystalhaven is a notable location characterized by its unique features and stra
 ### Founding
 Crystalhaven was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Religious Observances
 

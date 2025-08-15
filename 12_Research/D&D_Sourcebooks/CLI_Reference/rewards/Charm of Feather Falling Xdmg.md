@@ -1,3 +1,12 @@
+---
+title: Charm of Feather Falling Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charm of Feather Falling Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Charm of Feather Falling
 
-This Charm grants you the benefits of a [[ring-of-feather-falling-xdmg|Ring of Feather Falling]]. These benefits last for 10 days, after which the Charm vanishes from you.
+This Charm grants you the benefits of a [[ring of feather falling xdmg|Ring of Feather Falling]]. These benefits last for 10 days, after which the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ This Charm grants you the benefits of a [[ring-of-feather-falling-xdmg|Ring of F
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -73,11 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

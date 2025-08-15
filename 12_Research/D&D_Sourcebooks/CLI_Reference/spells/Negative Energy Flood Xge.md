@@ -1,3 +1,12 @@
+---
+title: Negative Energy Flood Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Negative Energy Flood Xge
 
 ---
@@ -35,14 +44,13 @@ world: Both
 - **Components:** V, M (a broken bone and a square of black silk)
 - **Duration:** Instantaneous
 
-You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution saving throw, taking `5d12` necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a [[zombie-xmm|zombie]] at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the [[zombie-xmm|zombie]] are in the Monster Manual.
+You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution saving throw, taking `5d12` necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a [[zombie xmm|zombie]] at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the [[zombie xmm|zombie]] are in the Monster Manual.
 
 If you target an undead with this spell, the target doesn't make a saving throw. Instead, roll `5d12`. The target gains half the total as temporary hit points.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 163*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ If you target an undead with this spell, the target doesn't make a saving throw.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

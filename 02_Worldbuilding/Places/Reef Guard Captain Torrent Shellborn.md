@@ -24,17 +24,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg]]
 
 # Shellborn Reef Station
 *Guardian of Living Waters*
 
 > *"These reefs are not merely geography - they are the lungs of our ocean, the nurseries of our future, the living foundation upon which all underwater civilization depends. We don't just guard coral and kelp; we protect the very essence of life itself."*
 > — [[Reef Guard Captain Torrent Shellborn]], Station Commander and Chief Marine Protector
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,23 +59,17 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
@@ -89,13 +79,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -472,8 +459,6 @@ Ongoing situations affecting Reef Guard Captain Torrent Shellborn:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Trade Importance
 

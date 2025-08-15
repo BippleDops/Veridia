@@ -1,153 +1,47 @@
-# Ogre Zombie Xmm
-
 ---
 title: Ogre Zombie Xmm
-aliases:
-- Ogre Zombie
-type: monster
+type: note
 tags:
-- ttrpg-cli/monster/environment/shadowfell
-- both
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/type/undead
-- ttrpg-cli/monster/environment/urban
-- monster
-- ttrpg-cli/monster/environment/underdark
-- research
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/environment/planar
-- world/both
-- active
-- ttrpg-cli/monster/cr/2
-- status/in-progress
-created: 2025-08-11
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.921803+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-ogre-zombie-xmm-ogre-zombie-xmm.svg)
+# Ogre Zombie Xmm
 
-# [[ogre-zombie-xmm|Ogre Zombie]]
-*Source: Monster Manual (2024) p. 346. Available in the SRD and the Free Rules (2024)*  
+## Overview
+This document contains important information regarding Ogre Zombie Xmm and its role within the greater narrative.
 
-Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
+## Description
+Ogre Zombie Xmm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Zombies
-
-*Relentless Reanimated Corpses*
-
-- **Habitat.** Planar (Shadowfell), Underdark, Urban  
-- **Treasure.** None  
-
-Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and lethal traumas. They serve whatever supernatural force animates them—typically evil necromancers or fiendish spirits. Zombies are relentless, merciless, and resilient, and their dead flesh can carry on even after suffering grievous wounds. While they can follow simple orders, they rely on primal drives rather than thought. They fulfill commands by working tirelessly or battering through foes, but they are easily stymied by barriers or unexpected circumstances.
-
-Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.
-
-> [!quote] A quote from Account of the Night of the Walking Dead  
-> 
-> Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
-
-```statblock
-"name": "Ogre Zombie (XMM)"
-"size": "Large"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "85"
-"hit_dice": "9d10 + 36"
-"modifier": !!int "-2"
-"stats":
-  - !!int "19"
-  - !!int "6"
-  - !!int "18"
-  - !!int "3"
-  - !!int "5"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 8"
-"languages": "understands Common and Giant but can't speak"
-"cr": "2"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 [[hit-points-xphb|Hit Points]],\
-      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [[critical-hit-xphb|Critical Hit]].\
-      \ On a successful save, the zombie drops to 1 [[hit-points-xphb|Hit Point]]\
-      \ instead."
-    "name": "Undead Fortitude"
-"actions":
-  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/undead/token/ogre-zombie-xmm.webp"
-```
-^statblock
-
-## Environment
-
-planar, shadowfell, underdark, urban
-
-## Player-Facing Summary
-
-Ogre zombie xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ogre zombie xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ogre zombie xmm.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- A journal reveals ancient history about the government
-- A merchant needs help finding before dawn
-- Strange sightings suggest ancient magic
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

@@ -1,3 +1,12 @@
+---
+title: Shining Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shining Smite Xphb
 
 ---
@@ -34,14 +43,13 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [[bright-light-xphb|Bright Light]] in a 5-foot radius, attack rolls against it have [[advantage-xphb|Advantage]], and it can't benefit from the [[conditions#Invisible|Invisible]] condition.
+The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [[bright-light-xphb|Bright Light]] in a 5-foot radius, attack rolls against it have [[advantage xphb|Advantage]], and it can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 2.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ The target hit by the strike takes an extra `2d6` Radiant damage from the attack
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Related Notes
 
@@ -89,11 +90,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

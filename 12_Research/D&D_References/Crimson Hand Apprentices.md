@@ -1,3 +1,12 @@
+---
+title: Crimson Hand Apprentices
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crimson Hand Apprentices
 
 ---
@@ -37,7 +46,6 @@ primary_activities: Recruitment and Training
 > *"They start as hungry children seeking coin and shelter, but the Hand shapes them into something far more dangerous—criminals who believe their cause is just, their methods necessary, and their loyalty absolute. The greatest tragedy is not what they become, but what they might have been."*
 > — [[Inspector Helena Truthseeker]], [[Aethermoor City Watch]] Criminal Investigation Division
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ primary_activities: Recruitment and Training
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -381,11 +384,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

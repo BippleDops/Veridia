@@ -1,3 +1,12 @@
+---
+title: Monk Xphb Way of the Drunken Master Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Monk Xphb Way of the Drunken Master Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Way of the Drunken Master
-*[[monk-xphb|Monk]]: Monk Subclass*  
+*[[monk xphb|Monk]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
 > [!tldr] Class and Feature Progression
@@ -64,7 +73,7 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this tradition at 3rd level, you gain proficiency in the [[skills#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[brewers-supplies-xphb|brewer's supplies]] if you don't already have it.
+When you choose this tradition at 3rd level, you gain proficiency in the [[skills#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[brewers supplies xphb|brewer's supplies]] if you don't already have it.
 
 ### Drunken Technique (Level 3)
 
@@ -90,7 +99,6 @@ Starting at 11th level, you always seem to get a lucky bounce at the right momen
 
 At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -102,11 +110,6 @@ At 17th level, you gain the ability to make an overwhelming number of attacks ag
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -124,7 +127,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -135,7 +137,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

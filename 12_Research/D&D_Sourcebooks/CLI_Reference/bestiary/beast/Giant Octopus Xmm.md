@@ -1,3 +1,12 @@
+---
+title: Giant Octopus Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Giant Octopus Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-octopus-xmm-giant-octopus-xmm.svg)
 
-# [[giant-octopus-xmm|Giant Octopus]]
+# [[giant octopus xmm|Giant Octopus]]
 *Source: Monster Manual (2024) p. 358. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Octopus (XMM)"
@@ -93,10 +96,10 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Tentacles"
 "reactions":
   - "desc": "Trigger: The octopus takes damage while underwater. _Response:_ The octopus\
-      \ releases ink that fills a 10-foot [[cube-area-of-effect-xphb|Cube]]\
-      \ centered on itself, and the octopus moves up to its [[swim-speed-xphb|Swim Speed]].\
-      \ The [[cube-area-of-effect-xphb|Cube]] is\
-      \ [[heavily-obscured-xphb|Heavily Obscured]]\
+      \ releases ink that fills a 10-foot [[cube area of effect xphb|Cube]]\
+      \ centered on itself, and the octopus moves up to its [[swim speed xphb|Swim Speed]].\
+      \ The [[cube area of effect xphb|Cube]] is\
+      \ [[heavily obscured xphb|Heavily Obscured]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":
@@ -125,7 +128,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a portal
@@ -136,16 +138,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

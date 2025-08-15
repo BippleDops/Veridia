@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-silence-keeper-mute-silence-keeper-mute.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,22 +52,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
@@ -81,17 +72,14 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Player-Facing Summary
 
@@ -139,8 +127,6 @@ Ongoing situations affecting Silence-Keeper Mute:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -153,12 +139,10 @@ Ongoing situations affecting Silence-Keeper Mute:
 - DC 14 to detect
 - 2d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Detect Magic**
   - School: Divination
   - Manifestation: Permanent
-
 
 ## Temporal Layers
 
@@ -172,11 +156,9 @@ Ongoing situations affecting Silence-Keeper Mute:
 - **Brewing Conflict**: Religious schism
 - **Prophecy Connection**: Links to The Hidden Prophecy of Winds
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Religious Observances
 

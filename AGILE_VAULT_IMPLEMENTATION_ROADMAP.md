@@ -181,7 +181,7 @@ aliases: []
 
 ### Sprint 2.2: Obsidian Syntax (Steps 121-140)
 121. **Standardize wiki links** - [[Link]] formatting
-122. **Normalize embeds** - ![[Embed]] syntax
+122. **Normalize embeds** -  syntax
 123. **Standardize aliases** - [[Link|Alias]] format
 124. **Normalize block references** - ^block-id syntax
 125. **Standardize heading links** - [[Note#Heading]] format
@@ -543,7 +543,6 @@ class PluginTester {
     };
     return results;
   }
-}
 ```
 
 401. **Test File Explorer** - Core navigation
@@ -911,7 +910,6 @@ describe('Vault Functions', () => {
     expect(note).toBeDefined();
     expect(note.title).toBe('Test Note');
   });
-});
 ```
 
 701. **Test note CRUD** - Note operations

@@ -1,3 +1,12 @@
+---
+title: Myconid Sprout Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Myconid Sprout Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-sprout-xmm-myconid-sprout-xmm.svg)
 
-# [[myconid-sprout-xmm|Myconid Sprout]]
+# [[myconid sprout xmm|Myconid Sprout]]
 *Source: Monster Manual (2024) p. 222*  
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Myconid sprouts tend to their fungal homes and watch for trespassers.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Myconids
 
@@ -82,15 +85,15 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "languages": "telepathy 240 ft."
 "cr": "0"
 "traits":
-  - "desc": "While in sunlight, the myconid has [[disadvantage-xphb|Disadvantage]]\
-      \ on [[d20-test-xphb|D20 Tests]]. The myconid\
+  - "desc": "While in sunlight, the myconid has [[disadvantage xphb|Disadvantage]]\
+      \ on [[d20 test xphb|D20 Tests]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
   - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Bludgeoning damage\
       \ plus 2 (d4) Poison damage."
     "name": "Slam"
-  - "desc": "The myconid expels spores in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "The myconid expels spores in a 30-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."
@@ -121,21 +124,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

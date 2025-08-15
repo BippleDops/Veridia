@@ -1,3 +1,12 @@
+---
+title: Awakened Shrub Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Awakened Shrub Xmm
 
 ---
@@ -28,11 +37,10 @@ updated: '2025-08-13T12:34:05.655768+00:00'
 world: Both
 ---
 
-# [[awakened-shrub-xmm|Awakened Shrub]]
+# [[awakened shrub xmm|Awakened Shrub]]
 *Source: Monster Manual (2024) p. 23. Available in the SRD and the Free Rules (2024)*  
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Awakened Plants
 
@@ -58,7 +61,7 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
@@ -114,7 +117,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting an heir for revenge
@@ -129,21 +131,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

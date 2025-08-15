@@ -1,3 +1,12 @@
+---
+title: Star Spawn Larva Mage Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Star Spawn Larva Mage Mpmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-larva-mage-mpmm-star-spawn-larva-mage-mpmm.svg)
 
-# [[star-spawn-larva-mage-mpmm|Star Spawn Larva Mage]]
+# [[star spawn larva mage mpmm|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ A larva mage is a nightmarish combination of a mortal body and otherworldly subs
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Star Spawn
 
@@ -110,7 +113,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
-  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[swarm-of-insects-xmm|swarm\]]
+  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[swarm of insects xmm|swarm\]]
       \ of insects]] in the\
       \ same space. Unless the swarm is destroyed, the mage reforms from it 24 hours\
       \ later."
@@ -136,9 +139,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Plague of Worms (Recharge 6)"
   - "desc": "The mage casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
-      \ will: [[mage-hand-xphb|mage hand]], [[message-xphb|message]],\
-      \ [[minor-illusion-xphb|minor illusion]]\n\n1/day:\
-      \ [[dominate-monster-xphb|dominate monster]]"
+      \ will: [[mage hand xphb|mage hand]], [[message xphb|message]],\
+      \ [[minor illusion xphb|minor illusion]]\n\n1/day:\
+      \ [[dominate monster xphb|dominate monster]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 20 feet of the mage fails a saving throw, the\
@@ -179,11 +182,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -197,7 +198,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

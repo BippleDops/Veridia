@@ -1,3 +1,12 @@
+---
+title: Sweeping Attack Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sweeping Attack Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Sweeping Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with a melee attack roll using a weapon or an [[unarmed-strike-xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to damage another creature. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your Superiority Die. The damage is of the same type dealt by the original attack.
-
+When you hit a creature with a melee attack roll using a weapon or an [[unarmed strike xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to damage another creature. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your Superiority Die. The damage is of the same type dealt by the original attack.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you hit a creature with a melee attack roll using a weapon or an [[unarmed-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,16 +65,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

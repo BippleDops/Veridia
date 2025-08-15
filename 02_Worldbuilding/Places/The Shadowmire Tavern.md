@@ -38,14 +38,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg]]
 
 # The Shadowmire Tavern
 *Where Secrets Flow Deeper Than the Ale*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -74,7 +70,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
@@ -83,26 +78,18 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grounds, where representatives from every faction, social class, and profession gather to drink, dine, and conduct business away from prying eyes. Built into a partially collapsed [[The Seven Shards]] crystalline formation, the tavern's unique architecture combines natural shadow-touched crystal with comfortable furnishings, creating an atmosphere where both legitimate business and questionable dealings can flourish under an unspoken code of mutual respect.
@@ -169,8 +156,6 @@ Ongoing situations affecting The Shadowmire Tavern:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

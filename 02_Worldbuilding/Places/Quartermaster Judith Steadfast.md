@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
 
 # The Steadfast Supply Depot - Aquabyssos Logistics Hub
 
 *A vast and meticulously organized facility where the lifeblood of the city flows through careful inventory, strategic stockpiling, and unwavering dedication to supply chain mastery*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,12 +65,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -87,9 +80,6 @@ improvements: 20
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
@@ -107,7 +97,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -423,8 +412,6 @@ Ongoing situations affecting Quartermaster Judith Steadfast:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Cultural Practices
 

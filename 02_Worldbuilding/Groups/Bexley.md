@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-bexley-bexley.svg]]
 
 # Bexley
 *The Port City Administration, Gateway to the Depths, The Merchant's Harbor*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,15 +68,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
@@ -110,7 +100,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Bexley serves as [[Aquabyssos]]'s most important port city and represents a model of municipal government that balances traditional civic administration with the unique challenges of shadow-touched goverce. As both a major commercial hub and entry point for interdimensional trade, Bexley's government manages complex relationships between conventional citizens, shadow-touched residents, and various factions while maintaining the delicate infrastructure that keeps the city prosperous and stable.
@@ -342,7 +331,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

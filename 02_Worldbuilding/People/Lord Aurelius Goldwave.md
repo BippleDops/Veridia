@@ -34,16 +34,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg]]
 
 # Lord Aurelius Goldwave
 *The Golden Tongue of Port Meridian*
 
 > *"My ancestors made a choice that damned us all. I intend to make a choice that redeems us. The price of redemption, you ask? Everything I have built, everything I am, everything I could become. But some debts can only be paid in full."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,13 +72,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
@@ -92,12 +84,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -107,7 +96,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## Overview
 Lord Aurelius Goldwave is the wealthiest and most influential merchant-noble in [[Port Meridian]], descended from Aurelius the Goldweaver - one of the Seven Betrayers who shattered [[The Crown of Stars]] 500 years ago. Though he presents himself as a successful trader and benevolent patron of the arts, he secretly leads [[The Order of the Shattered Crown]], dedicated to gathering the [[The Seven Shards]] to undo his ancestor's great sin. His vast fortune, built through crystal trade and careful political manipulation, serves a single purpose: atonement for the betrayal that doomed Aethermoor to centuries of crystal corruption.
@@ -396,16 +384,13 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Economic Structure
 
@@ -424,7 +409,6 @@ Mentioned in The Hidden Prophecy of Winds
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

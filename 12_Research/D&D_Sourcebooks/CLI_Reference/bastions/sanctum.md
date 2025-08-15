@@ -1,3 +1,12 @@
+---
+title: sanctum
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # sanctum
 
 ---
@@ -22,7 +31,6 @@ world: Both
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]
 
 # Sanctum
 *Level 17 Bastion facility*  
@@ -33,7 +41,6 @@ world: Both
 - **Order**: empower
 
 A Sanctum is a place of solace and healing.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +53,10 @@ A Sanctum is a place of solace and healing.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sanctum Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[sanctum-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[heal-xphb|Heal]] once without expending a spell slot. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[sanctum-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[heal xphb|Heal]] once without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Empower: Fortifying Rites
 
@@ -62,7 +64,7 @@ When you issue the "Empower" order to this facility, you inspire its hirelings t
 
 ## Sanctum Recall
 
-While the Sanctum exists, you always have the [[word-of-recall-xphb|Word of Recall]] spell prepared. When you cast [[word-of-recall-xphb|Word of Recall]], you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [[heal-xphb|Heal]] spell.
+While the Sanctum exists, you always have the [[word-of-recall-xphb|Word of Recall]] spell prepared. When you cast [[word-of-recall-xphb|Word of Recall]], you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [[heal xphb|Heal]] spell.
 
 *Source: Dungeon Master's Guide (2024) p. 346*
 
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals the truth about the cult
@@ -94,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

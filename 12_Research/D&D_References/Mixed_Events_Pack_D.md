@@ -1,3 +1,12 @@
+---
+title: Mixed_Events_Pack_D
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mixed_Events_Pack_D
 
 ---
@@ -30,7 +39,6 @@ Use with all core systems; cross-world routes may require mid-journey vehicle pr
 ### Appendix: Doctrine Effects
 Use doctrine baselines from Packs A–C; record faction standings and cross-world legality outcomes.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ Use doctrine baselines from Packs A–C; record faction standings and cross-worl
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

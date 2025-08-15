@@ -1,3 +1,12 @@
+---
+title: Barbarian Xphb Path of the Ancestral
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Barbarian Xphb Path of the Ancestral
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Path of the Ancestral Guardian
-*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 > [!tldr] Class and Feature Progression
@@ -74,14 +83,13 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[augury-xphb|augury]] or [[clairvoyance-xphb|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[clairvoyance-xphb|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[augury xphb|augury]] or [[clairvoyance xphb|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[clairvoyance xphb|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 
 ### Vengeful Ancestors (Level 14)
 
 At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -94,11 +102,6 @@ At 14th level, your ancestral spirits grow powerful enough to retaliate. When yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -115,7 +118,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

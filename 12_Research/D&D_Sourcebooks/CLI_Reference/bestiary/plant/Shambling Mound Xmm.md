@@ -1,3 +1,12 @@
+---
+title: Shambling Mound Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shambling Mound Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shambling-mound-xmm-shambling-mound-xmm.svg)
 
-# [[shambling-mound-xmm|Shambling Mound]]
+# [[shambling mound xmm|Shambling Mound]]
 *Source: Monster Manual (2024) p. 276. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Shambling Mound
 
@@ -105,7 +108,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [[hit-points-xphb|Hit Points]]\
+      \ a number of [[hit points xphb|Hit Points]]\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":
@@ -152,7 +155,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Lightbringer Lmop
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lightbringer Lmop
 
 ---
@@ -28,15 +37,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-lightbringer-lmop-lightbringer-lmop.svg)
 
 # Lightbringer
-*Weapon ([[mace-xphb|mace]]), uncommon*  
+*Weapon ([[mace xphb|mace]]), uncommon*  
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
-This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a [[torch-xphb|torch]] when its wielder commands. While glowing, the mace deals an extra `d6` radiant damage to undead creatures.
+This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a [[torch xphb|torch]] when its wielder commands. While glowing, the mace deals an extra `d6` radiant damage to undead creatures.
 
 *Source: Lost Mine of Phandelver p. 48*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ This +1 mace was made for a cleric of Lathander, the god of dawn. The head of th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

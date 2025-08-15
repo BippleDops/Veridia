@@ -31,14 +31,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-surface-ambassador-lord-seaworthy-surface-ambassador-lord-seaworthy.svg]]
 
 # Surface Ambassador Lord Seaworthy
 *Bridge Between Worlds, Voice of the Surface Kingdoms*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,24 +67,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
@@ -102,7 +91,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative of the Surface Kingdoms to [[Aquabyssos]], maintaining the delicate political and trade relationships between the air-breathing world above and the underwater realm below. A former naval commander who earned his position through a combination of maritime expertise, political acumen, and genuine respect for aquatic cultures, he navigates the complex currents of inter-dimensional diplomacy while adapting to life in an environment that wasn't designed for his species.
@@ -489,16 +477,13 @@ Surface Ambassador Lord Seaworthy is a undersea element of the setting, known fo
 
 Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Ambassador Lord Seaworthy.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Cultural Practices
 
@@ -512,7 +497,6 @@ Mentioned in The First Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -524,7 +508,6 @@ Mentioned in The First Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

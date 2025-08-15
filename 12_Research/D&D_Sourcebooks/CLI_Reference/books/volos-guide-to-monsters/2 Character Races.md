@@ -1,3 +1,12 @@
+---
+title: 2 Character Races
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 2 Character Races
 
 ---
@@ -37,22 +46,21 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [[aasimar-xphb|Aasimar (Fallen)]]  
-- [[aasimar-xphb|Aasimar (Protector)]]  
-- [[aasimar-xphb|Aasimar (Scourge)]]  
-- [[bugbear-vgm|Bugbear]]  
-- [[firbolg-vgm|Firbolg]]  
-- [[goblin-vgm|Goblin]]  
-- [[goliath-xphb|Goliath]]  
-- [[hobgoblin-vgm|Hobgoblin]]  
-- [[kenku-vgm|Kenku]]  
-- [[kobold-vgm|Kobold]]  
-- [[lizardfolk-vgm|Lizardfolk]]  
-- [[orc-xphb|Orc]]  
-- [[tabaxi-vgm|Tabaxi]]  
-- [[triton-vgm|Triton]]  
-- [[yuan-ti-pureblood-vgm|Yuan-ti Pureblood]]  
-
+- [[aasimar xphb|Aasimar (Fallen)]]  
+- [[aasimar xphb|Aasimar (Protector)]]  
+- [[aasimar xphb|Aasimar (Scourge)]]  
+- [[bugbear vgm|Bugbear]]  
+- [[firbolg vgm|Firbolg]]  
+- [[goblin vgm|Goblin]]  
+- [[goliath xphb|Goliath]]  
+- [[hobgoblin vgm|Hobgoblin]]  
+- [[kenku vgm|Kenku]]  
+- [[kobold vgm|Kobold]]  
+- [[lizardfolk vgm|Lizardfolk]]  
+- [[orc xphb|Orc]]  
+- [[tabaxi vgm|Tabaxi]]  
+- [[triton vgm|Triton]]  
+- [[yuan ti pureblood vgm|Yuan-ti Pureblood]]  
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,17 +73,10 @@ If you're the DM, including any of these races in your campaign is a storytellin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
-
-![[height-and-weight-vgm|Height and Weight]]
 
 ## Player-Facing Summary
 
@@ -92,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

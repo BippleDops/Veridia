@@ -1,3 +1,12 @@
+---
+title: Bard Xphb College of Whispers Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bard Xphb College of Whispers Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # College of Whispers
-*[[bard-xphb|Bard]]: Bard Subclass*  
+*[[bard xphb|Bard]]: Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 > [!tldr] Class and Feature Progression
@@ -106,7 +115,6 @@ When the effect ends, the creature has no understanding of why it held you in su
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -118,11 +126,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -140,16 +143,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Defender Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Defender Xdmg
 
 ---
@@ -59,7 +68,7 @@ world: Both
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
 
-The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [[armor-class-xphb|Armor Class]]. For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [[armor-class-xphb|Armor Class]]. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
+The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [[armor class xphb|Armor Class]]. For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [[armor class xphb|Armor Class]]. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
 
 **Variants**:
 - [Defender Battleaxe](#Defender%20Battleaxe)
@@ -94,11 +103,10 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [[item properties#Finesse|Finesse]], [[item properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 252. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -111,11 +119,6 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -133,16 +136,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Houses_and_Nobility - House Shadowmere
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Houses_and_Nobility - House Shadowmere
 
 ---
@@ -26,7 +35,6 @@ updated: '2025-08-13T01:18:36.787970+00:00'
 > [!figure] Heraldry
 > ![](04_Resources/Assets/Symbols/symbol-heraldry-house-shadowmere.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ updated: '2025-08-13T01:18:36.787970+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 House Shadowmere operates as the realm's premier intelligence and espionage organization, maintaining neutrality in surface politics while controlling information flow throughout Aquabyssos. They are the ultimate political pragmatists, backing winners and selling secrets to maintain their position as indispensable power brokers.
@@ -227,16 +230,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Copper Dragon Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Copper Dragon Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-copper-dragon-xmm-adult-copper-dragon-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -50,7 +53,7 @@ _Source: Monster Manual (2024)_
 The region containing an adult or ancient copper dragon's lair is changed by its presence, creating the following effects:
 
 - **Chatty Critters.** Tiny Beasts magically gain the ability to speak and understand Draconic while within 6 miles of the lair.  
-- **Giggle Fits.** Whenever a creature other than the dragon and its allies is within 1 mile of the lair and rolls a 1 on a [[d20-test-xphb|D20 Test]], it must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]] condition until the end of its next turn, as it is wracked with laughter.  
+- **Giggle Fits.** Whenever a creature other than the dragon and its allies is within 1 mile of the lair and rolls a 1 on a [[d20 test xphb|D20 Test]], it must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]] condition until the end of its next turn, as it is wracked with laughter.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

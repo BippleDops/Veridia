@@ -1,3 +1,12 @@
+---
+title: Basic_Rules
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Basic_Rules
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Related
 
@@ -40,7 +43,6 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A journal reveals the truth about this place
@@ -49,7 +51,6 @@ modified: '2025-08-14'
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
-
 
 ## 07_Player_Resources Specific Content
 

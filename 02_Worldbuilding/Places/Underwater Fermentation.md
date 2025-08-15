@@ -25,11 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-underwater-fermentation-underwater-fermentation.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,17 +58,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -82,18 +74,14 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-
 
 ## Player-Facing Summary
 
@@ -141,8 +129,6 @@ Ongoing situations affecting Underwater Fermentation:
 - External threats
 - Opportunities arising
 
-
-
 ## D&D Integration - Encounters
 
 ### Potential Monsters
@@ -155,12 +141,10 @@ Ongoing situations affecting Underwater Fermentation:
 - DC 20 to detect
 - 6d6 damage on failure
 
-            
 ### Magical Influences
 - Active Spell Effect: **Wish**
   - School: Conjuration
   - Manifestation: Triggered
-
 
 ## Temporal Layers
 
@@ -174,16 +158,13 @@ Ongoing situations affecting Underwater Fermentation:
 - **Brewing Conflict**: Trade war
 - **Prophecy Connection**: Links to The Hidden Prophecy of Depths
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Cultural Practices
 

@@ -29,15 +29,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg)
 
 # Discover Shadow Market Location
 
 *"The market that exists only in whispers and shadows."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,13 +63,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
@@ -82,13 +75,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -98,7 +87,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 A covert investigation quest where players must locate the hidden Shadow Market - a black market operating in the depths of Aquabyssos. This underground network deals in forbidden artifacts, illegal memory trades, and contraband from the surface world.
@@ -161,12 +149,9 @@ Ongoing situations affecting Discover Shadow Market Location:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Historical Timeline
 
@@ -184,7 +169,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

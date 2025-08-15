@@ -1,3 +1,12 @@
+---
+title: Clench of the North Wind
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Clench of the North Wind
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [[hold-person-xphb|hold person]].
-
+You can spend 3 ki points to cast [[hold person xphb|hold person]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You can spend 3 ki points to cast [[hold-person-xphb|hold person]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

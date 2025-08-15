@@ -33,12 +33,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Forgetting Bomb
 
 *The Ultimate Memory Weapon*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,13 +64,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Hospitality Improvements
@@ -95,17 +88,14 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -159,7 +149,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 ### Military Weaponization
 
 **Years 585-590 AS:**
-The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -193,7 +183,7 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 Despite international condemnation and treaty obligations, multiple organizations continue developing Forgetting Bomb technology:
 
 **Known Developers:**
-- **[[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
+- **[[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
 - **[[The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
 - **[[Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally
@@ -450,8 +440,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for revenge
@@ -474,7 +462,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

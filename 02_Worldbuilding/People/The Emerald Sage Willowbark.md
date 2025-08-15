@@ -32,14 +32,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg]]
 
 # The Emerald Sage Willowbark
 *Guardian of the Heart Tree, Keeper of Natural Balance*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,28 +68,21 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -103,7 +92,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 Willowbark has been the guardian of the Heart Tree in [[The Verdant Reach]] for over three centuries, though few realize the tree itself contains the [[The Seven Shards]]. Born from the union of a human druid and a dryad, she has slowly merged with both the tree and the Shard over the centuries, becoming something between mortal, nature spirit, and divine artifact. She speaks for the natural world and maintains the delicate balance that keeps the Emerald Shard from overwhelming the region with unchecked growth.
@@ -377,7 +365,6 @@ The Emerald Sage Willowbark is a undersea element of the setting, known for biol
 ## Lore Details
 
 Legends speak of The Emerald Sage Willowbark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emerald Sage Willowbark.
-
 
 ## A Day in the Life
 

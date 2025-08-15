@@ -1,3 +1,12 @@
+---
+title: Shadow Surgeon Apprentice
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Surgeon Apprentice
 
 ---
@@ -38,7 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # Shadow Surgeon Apprentice
 *The Future of Shadow Medicine, Healers of the Depths, Tomorrow's Medical Masters*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -161,7 +164,7 @@ Provides medical services to shadow community members and collaborates on commun
 **Relationship**: Research Collaboration
 Collaborates on research projects investigating shadow transformation and its medical implications.
 
-#### **[[The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**
+#### **[[The Shadow Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**
 **Relationship**: Research Interest
 Studies medical implications of shadow-crystal synthesis research while maintaining ethical boundaries.
 
@@ -271,16 +274,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

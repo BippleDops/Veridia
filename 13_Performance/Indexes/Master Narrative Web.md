@@ -19,9 +19,6 @@ updated: '2025-08-13T12:34:03.166456+00:00'
 world: Universal
 ---
 
-
-
-
 # Master Narrative Web
 
 ## Overview
@@ -86,7 +83,6 @@ LIST FROM "01_Adventures/The_Seven_Shards_Campaign" OR "01_Adventures/Convergenc
 - See also: [[Master Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[World Events]]
-
 
 ## DM Notes
 

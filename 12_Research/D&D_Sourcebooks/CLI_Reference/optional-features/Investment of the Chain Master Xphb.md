@@ -1,3 +1,12 @@
+---
+title: Investment of the Chain Master Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Investment of the Chain Master Xphb
 
 ---
@@ -28,8 +37,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-When you cast [[find-familiar-xphb|Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
-
+When you cast [[find familiar xphb|Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,19 +50,14 @@ When you cast [[find-familiar-xphb|Find Familiar]], you infuse the summoned fami
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Aerial or Aquatic
 
-The familiar gains either a [[fly-speed-xphb|Fly Speed]] or a [[swim-speed-xphb|Swim Speed]] (your choice) of 40 feet.
+The familiar gains either a [[fly speed xphb|Fly Speed]] or a [[swim speed xphb|Swim Speed]] (your choice) of 40 feet.
 
 ## Quick Attack
 
-As a [[bonus-action-xphb|Bonus Action]], you can command the familiar to take the [[actions#Attack|Attack]] action.
+As a [[bonus action xphb|Bonus Action]], you can command the familiar to take the [[actions#Attack|Attack]] action.
 
 ## Necrotic or Radiant Damage
 
@@ -66,7 +69,7 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [[reaction-xphb|Reaction]] to grant it [[resistance-xphb|Resistance]] against that damage.
+When the familiar takes damage, you can take a [[reaction xphb|Reaction]] to grant it [[resistance xphb|Resistance]] against that damage.
 
 ## Player-Facing Summary
 
@@ -84,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about a local noble
@@ -96,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

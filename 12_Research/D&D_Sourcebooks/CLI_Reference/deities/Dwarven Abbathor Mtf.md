@@ -1,3 +1,12 @@
+---
+title: Dwarven Abbathor Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Abbathor Mtf
 
 ---
@@ -40,7 +49,6 @@ Abbathor has no skill in crafting. Instead, he relies on his ability as a thief 
 
 Abbathor is the only advocate for change within the dwarven pantheon. He can inspire dwarves to seek shortcuts, normally frowned upon, but sometimes those methods turn out to be efficient techniques that improve a clan's capabilities.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ Abbathor is the only advocate for change within the dwarven pantheon. He can ins
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,21 +79,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

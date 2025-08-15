@@ -20,7 +20,7 @@ modified: '2025-08-14'
 status: complete
 race: Human (Shadow)
 class: Noble
-location: '[[Abyssos Prime - Parliament of Echoes]]'
+location: '[[Abyssos Prime   Parliament of Echoes]]'
 level: 7
 ac: 15
 alignment: Lawful Evil
@@ -48,7 +48,7 @@ relationship_type: political
 relationships:
 - '[[The Scattered Emperor]]'
 - '[[Shadow Duchess Nyx]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Marina Red Tide Coralheart   Aquabyssos]]'
 - '[[Original Glaucus]] (imprisoned)'
 secondary_faction: '[[Shadow Conspiracy]]'
 secrets:
@@ -71,11 +71,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -108,38 +104,30 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Shadow Replacement
 
@@ -255,7 +243,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
 
 ## Economic Structure
 

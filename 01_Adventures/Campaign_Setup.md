@@ -1,3 +1,12 @@
+---
+title: Campaign_Setup
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Setup
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Initial Setup
 1. Define campaign theme
@@ -46,11 +49,9 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
-
 
 ## 09_Templates Specific Content
 

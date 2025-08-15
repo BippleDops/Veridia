@@ -1,3 +1,12 @@
+---
+title: Physical Characteristics Beholder Mouth
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Physical Characteristics Beholder Mouth
 
 ---
@@ -36,7 +45,6 @@ world: Both
 | 6 | Large/wide |
 ^beholder-mouth-shape-and-size
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

@@ -1,3 +1,12 @@
+---
+title: Magic Jar Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Jar Xphb
 
 ---
@@ -36,9 +45,9 @@ world: Both
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
 
-You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a [[protection-from-evil-and-good-xphb|Protection from Evil and Good]] or [[magic-circle-xphb|Magic Circle]] spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a [[protection from evil and good xphb|Protection from Evil and Good]] or [[magic circle xphb|Magic Circle]] spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
-Once you possess a creature's body, you control it. Your [[hit-points-xphb|Hit Points]], [[hit-point-dice-xphb|Hit Point Dice]], Strength, Dexterity, Constitution, [[speed-xphb|Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics.
+Once you possess a creature's body, you control it. Your [[hit points xphb|Hit Points]], [[hit point dice xphb|Hit Point Dice]], Strength, Dexterity, Constitution, [[speed xphb|Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics.
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [[conditions#Incapacitated|Incapacitated]].
 
@@ -48,10 +57,9 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 294. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +72,6 @@ When the spell ends, the container is destroyed.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
@@ -96,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

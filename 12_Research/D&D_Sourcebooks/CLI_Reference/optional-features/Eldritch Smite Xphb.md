@@ -1,3 +1,12 @@
+---
+title: Eldritch Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eldritch Smite Xphb
 
 ---
@@ -30,7 +39,6 @@ world: Both
 
 Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `d8` Force damage to the target, plus another `d8` per level of the spell slot, and you can give the target the [[conditions#prone|Prone]] condition if it is Huge or smaller.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,11 +50,6 @@ Once per turn when you hit a creature with your pact weapon, you can expend a Pa
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -78,7 +79,6 @@ Mentioned in The Hidden Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

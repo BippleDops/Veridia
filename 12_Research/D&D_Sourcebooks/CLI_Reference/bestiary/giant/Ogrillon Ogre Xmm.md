@@ -1,3 +1,12 @@
+---
+title: Ogrillon Ogre Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ogrillon Ogre Xmm
 
 ---
@@ -38,11 +47,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogrillon-ogre-xmm-ogrillon-ogre-xmm.svg)
 
-# [[ogrillon-ogre-xmm|Ogrillon Ogre]]
+# [[ogrillon ogre xmm|Ogrillon Ogre]]
 *Source: Monster Manual (2024) p. 231*  
 
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deit
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ogres
 
@@ -122,7 +125,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

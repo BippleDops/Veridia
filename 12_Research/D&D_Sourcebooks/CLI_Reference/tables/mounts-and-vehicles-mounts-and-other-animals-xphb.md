@@ -1,3 +1,12 @@
+---
+title: mounts-and-vehicles-mounts-and-other-animals-xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # mounts-and-vehicles-mounts-and-other-animals-xphb
 
 ---
@@ -27,18 +36,17 @@ world: Both
 
 | Item | Carrying Capacity | Cost |
 |------|-------------------|------|
-| [[camel-xphb|Camel]] | 450 lb. | 50 GP |
-| [[elephant-xphb|Elephant]] | 1,320 lb. | 200 GP |
-| [[draft-horse-xphb|Horse, Draft]] | 540 lb. | 50 GP |
-| [[riding-horse-xphb|Horse, Riding]] | 480 lb. | 75 GP |
-| [[mastiff-xphb|Mastiff]] | 195 lb. | 25 GP |
-| [[mule-xphb|Mule]] | 420 lb. | 8 GP |
-| [[pony-xphb|Pony]] | 225 lb. | 30 GP |
-| [[warhorse-xphb|Warhorse]] | 540 lb. | 400 GP |
+| [[camel xphb|Camel]] | 450 lb. | 50 GP |
+| [[elephant xphb|Elephant]] | 1,320 lb. | 200 GP |
+| [[draft horse xphb|Horse, Draft]] | 540 lb. | 50 GP |
+| [[riding horse xphb|Horse, Riding]] | 480 lb. | 75 GP |
+| [[mastiff xphb|Mastiff]] | 195 lb. | 25 GP |
+| [[mule xphb|Mule]] | 420 lb. | 8 GP |
+| [[pony xphb|Pony]] | 225 lb. | 30 GP |
+| [[warhorse xphb|Warhorse]] | 540 lb. | 400 GP |
 ^mounts-and-other-animals
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Hitting Cover
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hitting Cover
 
 ---
@@ -29,7 +38,6 @@ When a ranged attack misses a target that has cover, you can use this optional r
 
 First, determine whether the attack roll would have hit the protected target without the cover. If the attack roll falls within a range low enough to miss the target but high enough to strike the target if there had been no cover, the object used for cover is struck. If a creature is providing cover for the missed creature and the attack roll exceeds the AC of the covering creature, the covering creature is hit.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ First, determine whether the attack roll would have hit the protected target wit
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,14 +66,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Satyr Revelmaster Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Satyr Revelmaster Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
 
-# [[satyr-revelmaster-xmm|Satyr Revelmaster]]
+# [[satyr revelmaster xmm|Satyr Revelmaster]]
 *Source: Monster Manual (2024) p. 268*  
 
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Satyr revelmasters use magical music to change the moods of other creatures. The
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Satyrs
 
@@ -94,7 +97,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"
 "traits":
-  - "desc": "The satyr has [[advantage-xphb|Advantage]]\
+  - "desc": "The satyr has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -105,7 +108,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
       \ condition until the start of the satyr's next turn."
     "name": "Prance"
   - "desc": "The satyr conjures a charming or frightening song. Wisdom Saving Throw:\
-      \ DC 14, each enemy in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ DC 14, each enemy in a 60-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the satyr. Failure: The target is subjected to the song's\
       \ effect:\n\n- Charming. The target has the [[conditions#Charmed|Charmed]]\
       \ condition for 1 minute. While [[conditions#Charmed|Charmed]],\
@@ -142,11 +145,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Crystal - Crystal_Resonance
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Crystal - Crystal_Resoce
 
 ---
@@ -26,7 +35,6 @@ world: Both
 
 *Harmonizing with the crystalline frequencies of the deep*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -127,7 +130,7 @@ At 100 TP, the character faces the ultimate decision:
 - Destruction would require unmaking concepts
 
 ## See Also
-- [[Transformation_Compendium|03 Mechanics/Transformation Compendium]]
+- [[Transformation Compendium|03 Mechanics/Transformation Compendium]]
 - [[02_Worldbuilding/Hazards/Crystal_Plague|02 Worldbuilding/Hazards/Crystal Plague]]
 - [[02_Worldbuilding/Items/Resot_Crystals|02 Worldbuilding/Items/Resot Crystals]]
 - [[02_Worldbuilding/Places/The_Crystal_Gardens|02 Worldbuilding/Places/The Crystal Gardens]]
@@ -146,12 +149,9 @@ Legends speak of Crystal Resoce as a nexus where past and present converge. Loca
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

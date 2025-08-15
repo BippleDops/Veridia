@@ -1,3 +1,12 @@
+---
+title: Potion of Giant Strength Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Giant Strength Xdmg
 
 ---
@@ -34,15 +43,14 @@ world: Both
 
 **Items in this group:**
 
-- [[potion-of-hill-giant-strength-xdmg|Potion of Hill Giant Strength]]
-- [[potion-of-frost-giant-strength-xdmg|Potion of Frost Giant Strength]]
-- [[potion-of-stone-giant-strength-xdmg|Potion of Stone Giant Strength]]
-- [[potion-of-fire-giant-strength-xdmg|Potion of Fire Giant Strength]]
-- [[potion-of-cloud-giant-strength-xdmg|Potion of Cloud Giant Strength]]
-- [[potion-of-storm-giant-strength-xdmg|Potion of Storm Giant Strength]]
+- [[potion of hill giant strength xdmg|Potion of Hill Giant Strength]]
+- [[potion of frost giant strength xdmg|Potion of Frost Giant Strength]]
+- [[potion of stone giant strength xdmg|Potion of Stone Giant Strength]]
+- [[potion of fire giant strength xdmg|Potion of Fire Giant Strength]]
+- [[potion of cloud giant strength xdmg|Potion of Cloud Giant Strength]]
+- [[potion of storm giant strength xdmg|Potion of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Prophecy Connection
 

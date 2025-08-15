@@ -1,3 +1,12 @@
+---
+title: Underwater Encounters Levels 14 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Underwater Encounters Levels 14 Xge
 
 ---
@@ -31,31 +40,30 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | `3d6` [[piranha-xmm|quippers]] |
-| 11-14 | `2d4` [[steam-mephit-xmm|steam mephits]] |
-| 15-18 | `d4` [[sahuagin-warrior-xmm|sahuagin]] |
-| 19-22 | `2d6` [[merfolk-skirmisher-xmm|merfolk]] |
+| 01-10 | `3d6` [[piranha xmm|quippers]] |
+| 11-14 | `2d4` [[steam mephit xmm|steam mephits]] |
+| 15-18 | `d4` [[sahuagin warrior xmm|sahuagin]] |
+| 19-22 | `2d6` [[merfolk skirmisher xmm|merfolk]] |
 | 23-25 | `2d4` corpses of drowned sailors tangled in kelp |
-| 26-29 | `2d4` [[constrictor-snake-xmm|constrictor snakes]] |
-| 30-33 | `d4` [[reef-shark-xmm|reef sharks]] |
-| 34-37 | 1 [[swarm-of-piranhas-xmm|swarm of quippers]] |
+| 26-29 | `2d4` [[constrictor snake xmm|constrictor snakes]] |
+| 30-33 | `d4` [[reef shark xmm|reef sharks]] |
+| 34-37 | 1 [[swarm of piranhas xmm|swarm of quippers]] |
 | 38-40 | A bed of enormous clams |
-| 41-45 | `d10` [[merfolk-skirmisher-xmm|merfolk]] with `d3` [[giant-seahorse-xmm|giant sea horses]] |
-| 46-50 | 1 [[giant-octopus-xmm|giant octopus]] |
-| 51-55 | 1 [[merrow-xmm|merrow]] |
-| 56-60 | 1 [[plesiosaurus-xmm|plesiosaurus]] |
+| 41-45 | `d10` [[merfolk skirmisher xmm|merfolk]] with `d3` [[giant seahorse xmm|giant sea horses]] |
+| 46-50 | 1 [[giant octopus xmm|giant octopus]] |
+| 51-55 | 1 [[merrow xmm|merrow]] |
+| 56-60 | 1 [[plesiosaurus xmm|plesiosaurus]] |
 | 61-65 | `2d10` pieces of corroded brass dinnerware littering the bottom |
-| 66-70 | 1 [[giant-constrictor-snake-xmm|giant constrictor snake]] |
-| 71-75 | 1 [[sea-hag-xmm|sea hag]] |
+| 66-70 | 1 [[giant constrictor snake xmm|giant constrictor snake]] |
+| 71-75 | 1 [[sea hag xmm|sea hag]] |
 | 76-80 | A school of silvery fish darting through the water |
-| 81-85 | `d4` [[hunter-shark-xmm|hunter sharks]] |
-| 86-90 | 1 [[sahuagin-priest-xmm|sahuagin priestess]] with `2d4` [[sahuagin-warrior-xmm|sahuagin]] |
-| 91-96 | `d4` [[killer-whale-xmm|killer whales]] |
-| 97-98 | 1 [[giant-shark-xmm|giant shark]] |
-| 99 | 1 [[water-elemental-xmm|water elemental]] |
-| 00 | 1 [[sahuagin-baron-xmm|sahuagin baron]] |
+| 81-85 | `d4` [[hunter shark xmm|hunter sharks]] |
+| 86-90 | 1 [[sahuagin priest xmm|sahuagin priestess]] with `2d4` [[sahuagin warrior xmm|sahuagin]] |
+| 91-96 | `d4` [[killer whale xmm|killer whales]] |
+| 97-98 | 1 [[giant shark xmm|giant shark]] |
+| 99 | 1 [[water elemental xmm|water elemental]] |
+| 00 | 1 [[sahuagin baron xmm|sahuagin baron]] |
 ^underwater-encounters-levels-14
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -90,11 +93,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -106,11 +107,9 @@ Mentioned in The Second Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

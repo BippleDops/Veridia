@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 #### Major_Branch_6
 **Condition**: Alliance formed or broken
 **Path A**: Direct confrontation with antagonist
@@ -165,7 +163,6 @@ While the party pursues the main quest:
 **Epilogue**: Bittersweet victory
 **Seeds for Next Campaign**: Ancient evil stirs
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -193,11 +190,9 @@ While the party pursues the main quest:
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Spotlight Improvements
 
-- Include spotlight moment for each character class
 - Include spotlight moment for each character class
 
 ### Accessibility Improvements
@@ -207,13 +202,9 @@ While the party pursues the main quest:
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Variants Improvements
 
-- Add horror, intrigue, and comedy tone variants
 - Add horror, intrigue, and comedy tone variants
 
 ### Level_Range Improvements
@@ -232,7 +223,6 @@ While the party pursues the main quest:
 
 - Add AI art prompts for key scenes
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -240,7 +230,6 @@ While the party pursues the main quest:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Star Spawn Mangler Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Star Spawn Mangler Mpmm
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
 
-# [[star-spawn-mangler-mpmm|Star Spawn Mangler]]
+# [[star spawn mangler mpmm|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  
@@ -39,7 +48,6 @@ world: Both
 > In truth, there is no one place or space from which they come. There is the multiverse of things that are, and there is the multiverse of things that shouldn't be.
 
 A mangler is a low-slung, creeping horror with multiple gangly arms—it most often has six arms but can have any number from four to eight. Manglers creep along the ground or the walls, sticking to shadows and hiding in spots that seem too shallow or well-lit to conceal anything. They appear smaller than their true size, thanks to their hunched posture and emaciated frames. Cultists summon these creatures to serve as guards and assassins, two roles at which they excel.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ A mangler is a low-slung, creeping horror with multiple gangly arms—it most of
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Star Spawn
 
@@ -147,7 +150,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-shadow-markets-new-the-shadow-markets-new.svg]]
 
 # The Shadow Markets
 *Where Forbidden Goods Find Willing Buyers*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,10 +55,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
@@ -75,13 +67,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
@@ -91,7 +79,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 The Shadow Markets operate as a vast underground network of illegal trade beneath [[Port Meridian]], controlled by [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] and serving as the primary distribution hub for all manner of forbidden goods, from corrupted crystals to stolen artifacts to living beings.
@@ -144,8 +131,6 @@ Ongoing situations affecting The Shadow Markets New:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Trade Importance
 

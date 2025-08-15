@@ -1,3 +1,12 @@
+---
+title: Drow High Magic Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow High Magic Xge
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Drow High Magic
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[elf-xphb|Elf]]
+**Prerequisite**: [[elf xphb|Elf]]
 
-You learn more of the magic typical of dark elves. You learn the [[detect-magic-xphb|detect magic]] spell and can cast it at will, without expending a spell slot. You also learn [[levitate-xphb|levitate]] and [[dispel-magic-xphb|dispel magic]], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
-
+You learn more of the magic typical of dark elves. You learn the [[detect magic xphb|detect magic]] spell and can cast it at will, without expending a spell slot. You also learn [[levitate xphb|levitate]] and [[dispel magic xphb|dispel magic]], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ You learn more of the magic typical of dark elves. You learn the [[detect-magic-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -84,11 +85,9 @@ Mentioned in The First Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

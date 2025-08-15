@@ -1,3 +1,12 @@
+---
+title: DIRECTORY_STRUCTURE
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # DIRECTORY_STRUCTURE
 
 ---
@@ -13,7 +22,6 @@ modified: '2025-08-14'
 # Vault Directory Structure
 *Official directory organization and purpose*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -25,11 +33,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Directory Overview
 
@@ -113,7 +116,6 @@ Vault metrics, logs, and performance data.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A map reveals the truth about the government
@@ -127,7 +129,6 @@ Vault metrics, logs, and performance data.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

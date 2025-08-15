@@ -1,3 +1,12 @@
+---
+title: The Pressure Maelstroms
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Pressure Maelstroms
 
 ---
@@ -32,7 +41,6 @@ world: Aquabyssos
 # The Pressure Maelstroms
 *Where the Ocean's Weight Becomes Weapon*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -44,11 +52,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenomena: massive whirlpools of hyper-compressed water that create crushing pressure fields capable of flattening buildings and pulverizing the strongest materials. These spiral formations of intensely concentrated oceanic force appear seemingly at random but follow subtle patterns that skilled navigators and pressure-readers can sometimes predict. Unlike normal whirlpools, Pressure Maelstroms don't just pull objects downward—they compress reality itself, creating zones where the fundamental nature of water becomes a devastatingly powerful force.
@@ -89,11 +92,9 @@ Legends speak of The Pressure Maelstroms as a nexus where past and present conve
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Related Notes
 
@@ -102,16 +103,13 @@ Legends speak of The Pressure Maelstroms as a nexus where past and present conve
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

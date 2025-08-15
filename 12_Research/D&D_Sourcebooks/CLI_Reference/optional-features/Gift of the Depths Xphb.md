@@ -1,3 +1,12 @@
+---
+title: Gift of the Depths Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gift of the Depths Xphb
 
 ---
@@ -28,10 +37,9 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-You can breathe underwater, and you gain a [[swim-speed-xphb|Swim Speed]] equal to your [[speed-xphb|Speed]].
+You can breathe underwater, and you gain a [[swim speed xphb|Swim Speed]] equal to your [[speed xphb|Speed]].
 
-You can also cast [[water-breathing-xphb|Water Breathing]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[long-rest-xphb|Long Rest]].
-
+You can also cast [[water breathing xphb|Water Breathing]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[long rest xphb|Long Rest]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ You can also cast [[water-breathing-xphb|Water Breathing]] once without expendin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Related Notes
 
@@ -78,7 +79,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

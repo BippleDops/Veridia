@@ -1,3 +1,12 @@
+---
+title: Prismatic Falls
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Prismatic Falls
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Where light descends through water, reality bends into infinite possibilities."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Prismatic Falls represents a unique underwater phenomenon where concentrated beams of surface sunlight, filtered and concentrated through a series of natural crystal formations, create cascading waterfalls of pure magical light that flow downward through the ocean depths. These luminous cascades appear as streams of liquid rainbow that maintain their coherent form despite the surrounding water, creating one of the most spectacular and magically significant locations in Aquabyssos.
@@ -84,22 +87,17 @@ Legends speak of Prismatic Falls as a nexus where past and present converge. Loc
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
+## 12_Research Specific Content
 
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

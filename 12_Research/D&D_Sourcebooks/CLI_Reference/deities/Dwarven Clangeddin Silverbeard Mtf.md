@@ -1,3 +1,12 @@
+---
+title: Dwarven Clangeddin Silverbeard Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dwarven Clangeddin Silverbeard Mtf
 
 ---
@@ -42,7 +51,6 @@ Clangeddin's faithful are mainly full-time warriors assigned to weapon training 
 
 Clangeddin's priests are warriors who lead from the front. When defending a stronghold, they guard the walls and lead sorties against enemy positions. When an external threat is near, the priests plan guerrilla raids to disrupt invaders before they can besiege the stronghold.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ Clangeddin's priests are warriors who lead from the front. When defending a stro
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

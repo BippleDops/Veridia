@@ -1,3 +1,12 @@
+---
+title: Downtime Revisited Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Revisited Xge
 
 ---
@@ -33,7 +42,6 @@ Downtime rules also provide ways for characters to spend—or be relieved of—t
 
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ The system presented here consists of two elements. First, it introduces the con
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Rivals
 
@@ -139,19 +142,19 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [[downtime-activity-buying-a-magic-item-xge|Buying a Magic Item]]  
-- [[downtime-activity-carousing-xge|Carousing]]  
-- [[downtime-activity-crafting-an-item-xge|Crafting an Item]]  
-- [[downtime-activity-crime-xge|Crime]]  
-- [[downtime-activity-gambling-xge|Gambling]]  
-- [[downtime-activity-pit-fighting-xge|Pit Fighting]]  
-- [[downtime-activity-relaxation-xge|Relaxation]]  
-- [[downtime-activity-religious-service-xge|Religious Service]]  
-- [[downtime-activity-research-xge|Research]]  
-- [[downtime-activity-scribing-a-spell-scroll-xge|Scribing a Spell Scroll]]  
-- [[downtime-activity-selling-a-magic-item-xge|Selling a Magic Item]]  
-- [[downtime-activity-training-xge|Training]]  
-- [[downtime-activity-work-xge|Work]]
+- [[downtime activity buying a magic item xge|Buying a Magic Item]]  
+- [[downtime activity carousing xge|Carousing]]  
+- [[downtime activity crafting an item xge|Crafting an Item]]  
+- [[downtime activity crime xge|Crime]]  
+- [[downtime activity gambling xge|Gambling]]  
+- [[downtime activity pit fighting xge|Pit Fighting]]  
+- [[downtime activity relaxation xge|Relaxation]]  
+- [[downtime activity religious service xge|Religious Service]]  
+- [[downtime activity research xge|Research]]  
+- [[downtime activity scribing a spell scroll xge|Scribing a Spell Scroll]]  
+- [[downtime activity selling a magic item xge|Selling a Magic Item]]  
+- [[downtime activity training xge|Training]]  
+- [[downtime activity work xge|Work]]
 
 ## Player-Facing Summary
 
@@ -169,11 +172,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## 12_Research Specific Content
 

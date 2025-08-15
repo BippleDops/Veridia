@@ -1,3 +1,12 @@
+---
+title: Empyrean Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Empyrean Xmm
 
 ---
@@ -31,13 +40,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-empyrean-xmm-empyrean-xmm.svg)
 
-# [[empyrean-xmm|Empyrean]]
+# [[empyrean xmm|Empyrean]]
 *Source: Monster Manual (2024) p. 113*  
 
 Inheritors of divine might, empyreans are idealized, human-shaped beings of godly power. These beings might have relationships with their creators akin to those of parents and their children, royalty and their servants, inventors and their creations, or other bonds. Empyreans' existences are fundamentally influenced by their patrons and their connection to the heavenly deities of the Upper Planes or the fiendish deities of the Lower Planes. Nevertheless, empyreans have free will.
 
 Celestial empyreans are typically noble beings who quest to prove themselves worthy of their divine pedigree. Many work in the service of their parents or support those gods' causes and champions. Fiendish empyreans are usually dreadful, self-serving villains who seek to claim their parents' power. Some forge unholy armies or rule over hidden realms in mockery of true gods, while others might seek to escape their accursed families.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Celestial empyreans are typically noble beings who quest to prove themselves wor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Empyreans
 
@@ -113,7 +116,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "traits":
   - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The empyrean has [[advantage-xphb|Advantage]]\
+  - "desc": "The empyrean has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -124,29 +127,29 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
       \ and the target has the [[conditions#Stunned|Stunned]] condition\
       \ until the start of the empyrean's next turn. The target can choose not to\
       \ be [[conditions#Stunned|Stunned]], in which case it takes\
-      \ an extra 21 Force damage that bypasses [[resistance-xphb|Resistance]]\
-      \ or [[immunity-xphb|Immunity]]."
+      \ an extra 21 Force damage that bypasses [[resistance xphb|Resistance]]\
+      \ or [[immunity xphb|Immunity]]."
     "name": "Sacred Weapon"
   - "desc": "Ranged Attack Roll: +15, range 600 ft. Hit: 35 (6d8 + 8) Necrotic\
       \ or Radiant damage (empyrean's choice)."
     "name": "Divine Ray"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 23):\n\
-      \nAt will: [[calm-emotions-xphb|Calm Emotions]],\
-      \ [[greater-restoration-xphb|Greater Restoration]],\
-      \ [[pass-without-trace-xphb|Pass without Trace]],\
-      \ [[water-breathing-xphb|Water Breathing]]\n\n1/day\
-      \ each: [[commune-xphb|Commune]], [[dispel-evil-and-good-xphb|Dispel Evil and\]]
-      \ Good]], [[plane-shift-xphb|Plane Shift]]"
+      \nAt will: [[calm emotions xphb|Calm Emotions]],\
+      \ [[greater restoration xphb|Greater Restoration]],\
+      \ [[pass without trace xphb|Pass without Trace]],\
+      \ [[water breathing xphb|Water Breathing]]\n\n1/day\
+      \ each: [[commune xphb|Commune]], [[dispel evil and good xphb|Dispel Evil and\]]
+      \ Good]], [[plane shift xphb|Plane Shift]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The empyrean gains 10 [[temporary-hit-points-xphb|Temporary Hit Points]],\
-      \ and the empyrean and each ally within 30 feet of it gain [[advantage-xphb|Advantage]]\
-      \ on [[d20-test-xphb|D20 Tests]] until the\
+  - "desc": "The empyrean gains 10 [[temporary hit points xphb|Temporary Hit Points]],\
+      \ and the empyrean and each ally within 30 feet of it gain [[advantage xphb|Advantage]]\
+      \ on [[d20 test xphb|D20 Tests]] until the\
       \ end of the empyrean's next turn. The empyrean can't take this action again\
       \ until the start of its next turn."
     "name": "Bolster"
-  - "desc": "Constitution Saving Throw: DC 23, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 23, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the empyrean. Failure: 27 (6d8) Force damage, and the target\
       \ has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only. Failure or Success: The empyrean can't take this action\
@@ -180,11 +183,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

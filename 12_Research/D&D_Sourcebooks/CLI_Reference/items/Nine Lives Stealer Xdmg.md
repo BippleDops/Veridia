@@ -1,3 +1,12 @@
+---
+title: Nine Lives Stealer Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nine Lives Stealer Xdmg
 
 ---
@@ -83,7 +92,6 @@ world: Both
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,15 +103,10 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Life Stealing
 
-The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than 100 [[hit-points-xphb|Hit Points]] with this weapon and roll a 20 on the `d20` for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property.
+The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than 100 [[hit points xphb|Hit Points]] with this weapon and roll a 20 on the `d20` for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property.
 
 **Variants**:
 - [Nine Lives Stealer Antimatter Rifle](#Nine%20Lives%20Stealer%20Antimatter%20Rifle)
@@ -164,7 +167,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 281. Available in the SRD and the Free Rules (2024)*
@@ -185,7 +188,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -197,7 +199,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

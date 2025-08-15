@@ -1,3 +1,12 @@
+---
+title: Air Elemental Myrmidon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Air Elemental Myrmidon Mpmm
 
 ---
@@ -30,9 +39,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)
 
-# [[air-elemental-myrmidon-mpmm|Air Elemental Myrmidon]]
+# [[air elemental myrmidon mpmm|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Elemental Myrmidons
 
@@ -61,7 +64,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[plate-armor-xphb|plate]]"
+"ac_class": "[[plate armor xphb|plate]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"
@@ -112,7 +115,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

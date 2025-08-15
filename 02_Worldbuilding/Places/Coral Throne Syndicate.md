@@ -25,15 +25,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg]]
 
 # Coral Throne Syndicate
 
 *A powerful criminal organization that controls smuggling, black market trade, and illegal coral harvesting throughout the underwater realms of Aquabyssos.*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,17 +58,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
@@ -98,12 +90,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Physical Description & Atmosphere
 
@@ -293,8 +283,6 @@ Ongoing situations affecting Coral Throne Syndicate:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

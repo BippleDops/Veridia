@@ -1,3 +1,12 @@
+---
+title: Orc Yurtrus Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orc Yurtrus Vgm
 
 ---
@@ -36,7 +45,6 @@ Yurtrus is often depicted as consumed by rot and covered in oozing pustules, utt
 
 The followers of Yurtrus are allowed to dwell on the fringes of the tribe, but are looked upon with distaste and unease. They interact with the tribe mostly on occasions of death, claiming the bones of fallen warriors to add to the ossuary shrines of Yurtrus, and sometimes during shamanic rites when contact with spirits occurs.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,11 +56,6 @@ The followers of Yurtrus are allowed to dwell on the fringes of the tribe, but a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## The White Hands
 
@@ -83,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

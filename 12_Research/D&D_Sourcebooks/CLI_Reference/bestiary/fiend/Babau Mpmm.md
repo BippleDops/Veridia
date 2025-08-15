@@ -1,3 +1,12 @@
+---
+title: Babau Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Babau Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-babau-mpmm-babau-mpmm.svg)
 
-# [[babau-mpmm|Babau]]
+# [[babau mpmm|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -87,9 +96,9 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-      \ [[darkness-xphb|darkness]], [[dispel-magic-xphb|dispel magic]],\
-      \ [[fear-xphb|fear]], [[heat-metal-xphb|heat metal]],\
-      \ [[levitate-xphb|levitate]]"
+      \ [[darkness xphb|darkness]], [[dispel magic xphb|dispel magic]],\
+      \ [[fear xphb|fear]], [[heat metal xphb|heat metal]],\
+      \ [[levitate xphb|levitate]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -97,7 +106,6 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -110,11 +118,6 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -136,7 +139,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals a betrayal about the government
@@ -147,7 +149,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

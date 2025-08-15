@@ -1,3 +1,12 @@
+---
+title: Count_Strahd_von_Zarovich
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Count_Strahd_von_Zarovich
 
 ---
@@ -23,7 +32,6 @@ full_name: Count Strahd von Zarovich
 corruption_level: Critical
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -35,11 +43,6 @@ corruption_level: Critical
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cordelia Integration
 Originally from Barovia, Count Strahd has become entangled with the [[Shadow Conspiracy]] through his pursuit of immortality and power. His domain now exists as a convergence zone between realms, where shadow magic and crystal corruption merge.
@@ -68,11 +71,9 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

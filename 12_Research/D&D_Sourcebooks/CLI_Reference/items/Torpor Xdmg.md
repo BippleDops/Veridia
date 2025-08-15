@@ -1,3 +1,12 @@
+---
+title: Torpor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Torpor Xdmg
 
 ---
@@ -30,13 +39,12 @@ world: Both
 # Torpor
 *Adventuring gear, poison (ingested)*  
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 600 gp
 
-A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[speed-xphb|Speed]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
+A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[speed xphb|Speed]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A creature subjected to Torpor poison must succeed on a DC 15 Constitution savin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

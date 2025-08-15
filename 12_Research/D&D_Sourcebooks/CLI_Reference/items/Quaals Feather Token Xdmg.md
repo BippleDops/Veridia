@@ -1,3 +1,12 @@
+---
+title: Quaals Feather Token Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaals Feather Token Xdmg
 
 ---
@@ -36,25 +45,24 @@ This object looks like a feather. Different types of feather tokens exist, each 
 
 | dice: 1d100 | Token | Rarity |
 |-------------|-------|--------|
-| 01-20 | [[quaals-feather-token-anchor-xdmg|Anchor]] | Uncommon |
-| 21-35 | [[quaals-feather-token-bird-xdmg|Bird]] | Rare |
-| 36-50 | [[quaals-feather-token-fan-xdmg|Fan]] | Uncommon |
-| 51-65 | [[quaals-feather-token-swan-boat-xdmg|Swan Boat]] | Rare |
-| 66-90 | [[quaals-feather-token-tree-xdmg|Tree]] | Uncommon |
-| 91-00 | [[quaals-feather-token-whip-xdmg|Whip]] | Rare |
+| 01-20 | [[quaals feather token anchor xdmg|Anchor]] | Uncommon |
+| 21-35 | [[quaals feather token bird xdmg|Bird]] | Rare |
+| 36-50 | [[quaals feather token fan xdmg|Fan]] | Uncommon |
+| 51-65 | [[quaals feather token swan boat xdmg|Swan Boat]] | Rare |
+| 66-90 | [[quaals feather token tree xdmg|Tree]] | Uncommon |
+| 91-00 | [[quaals feather token whip xdmg|Whip]] | Rare |
 ^quaals-feather-tokens
 
 **Items in this group:**
 
-- [[quaals-feather-token-anchor-xdmg|Quaal's Feather Token, Anchor]]
-- [[quaals-feather-token-bird-xdmg|Quaal's Feather Token, Bird]]
-- [[quaals-feather-token-fan-xdmg|Quaal's Feather Token, Fan]]
-- [[quaals-feather-token-swan-boat-xdmg|Quaal's Feather Token, Swan Boat]]
-- [[quaals-feather-token-tree-xdmg|Quaal's Feather Token, Tree]]
-- [[quaals-feather-token-whip-xdmg|Quaal's Feather Token, Whip]]
+- [[quaals feather token anchor xdmg|Quaal's Feather Token, Anchor]]
+- [[quaals feather token bird xdmg|Quaal's Feather Token, Bird]]
+- [[quaals feather token fan xdmg|Quaal's Feather Token, Fan]]
+- [[quaals feather token swan boat xdmg|Quaal's Feather Token, Swan Boat]]
+- [[quaals feather token tree xdmg|Quaal's Feather Token, Tree]]
+- [[quaals feather token whip xdmg|Quaal's Feather Token, Whip]]
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,11 +75,6 @@ This object looks like a feather. Different types of feather tokens exist, each 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -88,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Speed Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Speed Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,19 +47,14 @@ A creature has a Speed, which is the distance in feet the creature can cover whe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Special Speeds
 
-Some creatures have special speeds, such as a Burrow Speed, [[climb-speed-xphb|Climb Speed]], [[fly-speed-xphb|Fly Speed]], or [[swim-speed-xphb|Swim Speed]], each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a [[fly-speed-xphb|Fly Speed]] of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+Some creatures have special speeds, such as a Burrow Speed, [[climb speed xphb|Climb Speed]], [[fly speed xphb|Fly Speed]], or [[swim speed xphb|Swim Speed]], each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a [[fly speed xphb|Fly Speed]] of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
 ## Changes to Your Speeds
 
-If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a [[climb-speed-xphb|Climb Speed]], your [[climb-speed-xphb|Climb Speed]] is also reduced to 0. Similarly, if your Speed is halved and you have a [[fly-speed-xphb|Fly Speed]], your [[fly-speed-xphb|Fly Speed]] is also halved.
+If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a [[climb speed xphb|Climb Speed]], your [[climb speed xphb|Climb Speed]] is also reduced to 0. Similarly, if your Speed is halved and you have a [[fly speed xphb|Fly Speed]], your [[fly speed xphb|Fly Speed]] is also halved.
 
 ## Player-Facing Summary
 

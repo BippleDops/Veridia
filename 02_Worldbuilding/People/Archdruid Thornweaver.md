@@ -24,14 +24,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-archdruid-thornweaver-archdruid-thornweaver.svg]]
 
 # Archdruid Thornweaver
 *Voice of the Ancient Forest, Guardian of the Green*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,22 +56,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -93,12 +84,10 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[The Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
@@ -229,16 +218,13 @@ Legends speak of Archdruid Thornweaver as a nexus where past and present converg
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Relationships
 

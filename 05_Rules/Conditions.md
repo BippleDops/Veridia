@@ -14,9 +14,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,9 +37,6 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Interaction Improvements
 
@@ -55,7 +49,6 @@ improvements: 20
 ### Abuse_Prevention Improvements
 
 - Add guidelines to prevent exploitation
-- Add guidelines to prevent exploitation
 
 ### Simplified Improvements
 
@@ -64,12 +57,9 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-- Add macro/code for VTT implementation
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Narrative_Triggers Improvements
@@ -79,7 +69,6 @@ improvements: 20
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-
 
 ## Active Conditions
 
@@ -131,7 +120,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

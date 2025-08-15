@@ -1,3 +1,12 @@
+---
+title: Couatl Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Couatl Xmm
 
 ---
@@ -34,9 +43,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-couatl-xmm-couatl-xmm.svg)
 
-# [[couatl-xmm|Couatl]]
+# [[couatl xmm|Couatl]]
 *Source: Monster Manual (2024) p. 82. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Couatl
 
@@ -108,18 +111,18 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
     "name": "Constrict"
   - "desc": "The couatl casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-      \ [[detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[detect-magic-xphb|Detect Magic]], [[detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[create-food-and-water-xphb|Create Food and Water]],\
-      \ [[dream-xphb|Dream]], [[greater-restoration-xphb|Greater Restoration]],\
-      \ [[scrying-xphb|Scrying]], [[sleep-xphb|Sleep]]"
+      \ [[detect evil and good xphb|Detect Evil and Good]],\
+      \ [[detect magic xphb|Detect Magic]], [[detect thoughts xphb|Detect Thoughts]],\
+      \ [[shapechange xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[temporary hit points xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary hit points xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n1/day each: [[create food and water xphb|Create Food and Water]],\
+      \ [[dream xphb|Dream]], [[greater restoration xphb|Greater Restoration]],\
+      \ [[scrying xphb|Scrying]], [[sleep xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The couatl casts [[bless-xphb|Bless]], [[lesser-restoration-xphb|Lesser\]]
-      \ Restoration]], or [[sanctuary-xphb|Sanctuary]],\
+  - "desc": "The couatl casts [[bless xphb|Bless]], [[lesser restoration xphb|Lesser\]]
+      \ Restoration]], or [[sanctuary xphb|Sanctuary]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":
@@ -148,7 +151,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -160,11 +162,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

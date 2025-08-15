@@ -1,3 +1,12 @@
+---
+title: Luck Blade Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Luck Blade Xdmg
 
 ---
@@ -38,7 +47,6 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. While the weapon is on your person, you also gain a +1 bonus to saving throws.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,19 +58,14 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[d20-test-xphb|D20 Test]] if you don't have the [[conditions#Incapacitated|Incapacitated]] condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[d20 test xphb|D20 Test]] if you don't have the [[conditions#Incapacitated|Incapacitated]] condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
-The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [[wish-xphb|Wish]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [[wish xphb|Wish]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
 - [Luck Glaive](#Luck%20Glaive)
@@ -76,7 +79,7 @@ The weapon has `d3` charges. While holding it, you can expend 1 charge and cast 
 ### Luck Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [[item properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 275. Available in the SRD and the Free Rules (2024)*
@@ -97,11 +100,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -30,15 +30,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Crystallium Embassy
 
 *The Glass House of Transparent Secrets*
 
 > [!figure] View
 > ![](04_Resources/Assets/Locations/location-embassy-crystallium.svg)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,23 +64,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -93,7 +84,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
@@ -102,7 +92,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -283,8 +272,6 @@ Ongoing situations affecting Crystallium Embassy:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -296,7 +283,6 @@ Ongoing situations affecting Crystallium Embassy:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

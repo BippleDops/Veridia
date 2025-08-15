@@ -1,3 +1,12 @@
+---
+title: Drow Eilistraee Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Eilistraee Mtf
 
 ---
@@ -42,7 +51,6 @@ Eilistraee is a god of moonlight, song, dance, and, most important, the rejectio
 
 The scrolls that the matron mothers guard so closely attest that Eilistraee turned against Lolth but knew better than to seek solace among the Seldarine. Her position among the other drow gods remains uncertain, as is the fate of the souls of those who turn to her worship. Drow who are beloved by Eilistraee sometimes appear to vanish when they die, as the body dissolves into pale light and leaves no clue to where the soul has gone.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ The scrolls that the matron mothers guard so closely attest that Eilistraee turn
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,21 +79,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

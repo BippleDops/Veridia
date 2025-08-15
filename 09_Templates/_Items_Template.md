@@ -13,8 +13,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Name
 *Item name*
 
@@ -29,7 +27,6 @@ improvements: 20
 
 ---
 *Add homebrew items here*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +51,9 @@ improvements: 20
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Session_Zero Improvements
@@ -68,29 +63,22 @@ improvements: 20
 ### Simplified Improvements
 
 - Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
-- Create simplified version for new players
 
 ### Interaction Improvements
 
-- Clarify interaction with multiclassing
 - Clarify interaction with multiclassing
 
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-
 
 ## Rule Summary
 
@@ -129,7 +117,6 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Someone is blackmailing a witness for power
@@ -147,7 +134,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Quick Reference
 

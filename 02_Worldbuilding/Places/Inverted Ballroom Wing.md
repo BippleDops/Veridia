@@ -27,8 +27,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)
 
@@ -38,7 +36,6 @@ improvements: 20
 
 > *"In the depths of the sea, we have learned to dance not just with partners, but with the very nature of existence itself. Here, in this wing where up and down lose all meaning, we celebrate the impossible made elegant."*
 > — [[Lady Vivienne the Unfrozen]], Grand Hostess of the Inverted Ballroom
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,7 +64,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
@@ -76,11 +72,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Diaspora Improvements
@@ -90,19 +84,14 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -477,12 +466,9 @@ Ongoing situations affecting Inverted Ballroom Wing:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

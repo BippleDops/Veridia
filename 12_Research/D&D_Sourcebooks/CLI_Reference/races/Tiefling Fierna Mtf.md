@@ -1,3 +1,12 @@
+---
+title: Tiefling Fierna Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tiefling Fierna Mtf
 
 ---
@@ -50,12 +59,11 @@ You have resistance to fire damage.
 
 ### Legacy of Phlegethos
 
-You know the [[friends-xphb|friends]] cantrip. When you reach 3rd level, you can cast the [[charm-person-xphb|charm person]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[suggestion-xphb|suggestion]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[friends xphb|friends]] cantrip. When you reach 3rd level, you can cast the [[charm person xphb|charm person]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[suggestion xphb|suggestion]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
 You can speak, read, and write Common and Infernal.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ You can speak, read, and write Common and Infernal.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -119,7 +122,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting information for power
@@ -134,11 +136,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

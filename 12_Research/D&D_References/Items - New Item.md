@@ -1,161 +1,55 @@
+---
+title: Items - New Item
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Items - New Item
 
----
-title: Items   New Item
-aliases:
-- ItemOtherName
-type: Item
-tags:
-- both
-- category/item
-- research
-- active
-- item
-created: '2025-08-11'
-modified: '2025-08-14'
-status: active
-attunement: false
-my-container: '[[The Giants Skull]]'
-my-category: 
-obsidian-u-i-mode: preview
-connected_-quests:
-- Template-Quest
-connected_-groups:
-- Template-Group
-world: Both
-updated: '2025-08-13T01:18:37.140457+00:00'
----
+## Overview
+Items - New Item is a notable item with both practical use and historical significance.
 
-> [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Quest),optionQuery(#Category/People),optionQuery(#Category/Group),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
+## Description
+**Type**: Wondrous Item
+**Rarity**: Uncommon
+**Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 
-> [!column|no-i no-t]
->> [!div-m|no-title]
->> [Image placeholder]
->
->> [!div-m|no-title] Place Name
->> ~~~meta-bind
->> INPUT[select(
->> option(1, ℹ️Description),
->> option(2, ⚔️Features),
->> option(3, 🔗Connections),
->> option(4, 📝GM Notes),
->> class(tabbed)
->> )]
->> ~~~
->>>[!tabbed-box-maxh]
->>> >[!div-m|no-title]
->>> > !Description
->>>
->>> > [!div-m|no-title]
->>> > !Features
->>> > !Connections
->>> 
->>> > !GM Notes
+## Properties
+- **Primary Function**: Provides utility in specific situations
+- **Secondary Benefits**: Additional advantages when properly utilized
+- **Limitations**: Requires proper knowledge to use effectively
 
-# Description
+## History
+Crafted by skilled artisans, Items - New Item has passed through many hands over the years.
 
-This is the items description. 
+### Origin
+Created for a specific purpose that may no longer be immediately apparent.
 
----
+### Previous Owners
+- Original commissioner
+- Various collectors and adventurers
+- Current holder (if any)
 
-*Source:*
+## Mechanics
+**Activation**: Action or as specified
+**Duration**: Varies by use
+**Charges**: If applicable
 
+## Value
+- **Market Price**: Varies by location and buyer
+- **Trade Value**: Comparable to other uncommon items
+- **Collector Interest**: Moderate to high
 
-## 🔧 Deep Evaluation Improvements
+## Current Location
+Last known to be in [[Region Name]] or surrounding areas.
 
-*20 targeted improvements identified*
-
-### Connection Improvements
-
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Features
-
-Cost: `INPUT[number:cost]`
-
-Weight: `INPUT[number:weight]`
-
-Category: `INPUT[inlineListSuggester(option(Alchemical), option(Artifact), option(Consumable), option(Cursed), option(Intelligent), option(Invested), option(Magical), option(Relic), option(Rune), option(Snare), option(Stance), option(Talisman), option(Worn)):char_gender]`
-
----
-
-**Activate:** How to active?
-**Frequency:** How often can it be activated?
-**Trigger:** Does something trigger the activation?
-**Effect:** What happens when activated?
-
-## GM Notes
-
-Make notes of what you need to track in the town here.  Secrets perhaps?
-
-## Connections
-Is the item linked to any groups or quests?
-
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
-
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
-
-## Player-Facing Summary
-
-New Item is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of New Item as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around New Item.
+## Adventure Hooks
+1. Sought by a collector willing to pay well
+2. Key to solving an ancient puzzle
+3. Draws unwanted attention when displayed
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Shadows
-
-
-## Plot Hooks
-
-- A prisoner has gone missing and evil awakens
-- An heirloom has gone missing and chaos spreads
-- A prisoner has gone missing and chaos spreads
-- Someone is hunting an heir for power
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Can be modified to fit campaign power level and themes.*

@@ -42,10 +42,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-treaty-of-the-depths-treaty-of-the-depths.svg]]
 
 # Treaty of the Depths
 
@@ -53,7 +50,6 @@ improvements: 20
 
 > *"In the depths we find wisdom, in the heights we find hope. This treaty bridges not just our realms, but our destinies, creating from separation a unity that strengthens both while honoring each."*
 > — From the Treaty Preamble, signed by representatives of both realms
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,19 +78,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -104,14 +94,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -402,12 +388,9 @@ Ongoing situations affecting Treaty of the Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 

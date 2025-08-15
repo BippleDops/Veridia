@@ -32,15 +32,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Random Encounters
 
 *Procedural Adventure Generation for the Merged Realms*
 
 > *"The depths and heights hold infinite mysteries. Every journey becomes an adventure when you never know if the next current will bring allies, enemies, or something that defies all categories. The realms themselves generate stories faster than any chronicler can record them."*
 > — [[Master Navigator Tide Storywright]], Explorer and Encounter Documentation Specialist
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,7 +66,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
@@ -94,20 +90,14 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-
 
 ## Overview
 
@@ -117,7 +107,7 @@ The system recognizes that encounters in the merged realms are rarely simple or 
 
 Each encounter is designed to feel organic to the world while advancing ongoing storylines or introducing new plot elements. The system accounts for party level, current location, political climate, seasonal effects, and ongoing campaign themes to ensure encounters feel meaningful rather than arbitrary.
 
-The framework integrates with [[Environmental Hazards]], [[Reputation System]], [[Temporal Distortion Zones]], [[Multi-Phase Boss Fights]], and [[Initiative Tracker]] to create cohesive experiences that build on established mechanics and relationships.
+The framework integrates with [[Environmental Hazards]], [[Reputation System]], [[Temporal Distortion Zones]], [[Multi Phase Boss Fights]], and [[Initiative Tracker]] to create cohesive experiences that build on established mechanics and relationships.
 
 ### Basic Encounter Structure
 
@@ -559,8 +549,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

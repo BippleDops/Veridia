@@ -1,3 +1,12 @@
+---
+title: Session 09 the Shard Convergence
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_09_The_Shard_Convergence
 
 ---
@@ -21,7 +30,6 @@ world: Both
 # Session 9: The Shard Convergence
 *The Seven Shards Campaign - Act II Climax*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Overview
 
@@ -295,7 +298,7 @@ Based on the heroes' choices and the ritual's success, the session concludes wit
 
 **Treasure**:
 - **[[Unity Crown Fragment]]**: Allows cross-dimensional communication
-- **[[Shard-Touched Artifacts]]**: Items enhanced by proximity to all seven shards
+- **[[Shard Touched Artifacts]]**: Items enhanced by proximity to all seven shards
 - **[[Convergence Map]]**: Shows stable pathways between realities
 - **[[Wisdom of the Avatars]]**: Skill bonuses related to shard knowledge
 
@@ -420,7 +423,6 @@ legendary_actions:
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -430,7 +432,6 @@ legendary_actions:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

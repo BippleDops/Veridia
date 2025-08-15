@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,28 +52,21 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 A region of [[Aquabyssos World Overview]] where sound behaves unnaturally, The Whispering Depths is avoided by all but the desperate or insane. Sounds from the past, future, and other dimensions echo through the water, driving visitors mad with constant whispered secrets, lies, and half-truths. The [[Depth Wardens]] have declared it a quarantine zone after losing three full patrols to "whisper madness."
@@ -202,12 +190,9 @@ The Whispering Depths is a notable location characterized by its unique features
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Cultural Practices
 
@@ -220,7 +205,6 @@ Key stop on metals trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -239,7 +223,6 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

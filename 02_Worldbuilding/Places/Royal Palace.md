@@ -27,10 +27,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg]]
 
 # Royal Palace
 
@@ -38,7 +35,6 @@ improvements: 20
 
 > *"Here, where the weight of water mirrors the weight of crown, where ancient stones remember every royal decree and future possibilities flow like tides through marble halls, the heart of Aquabyssos beats with the rhythm of absolute power tempered by oceanic wisdom."*
 > — [[Court Chronicler Pearl Deepscribe]], Royal Historian
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,16 +67,13 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Sensory Improvements
@@ -90,22 +83,18 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 
@@ -829,8 +818,6 @@ Ongoing situations affecting Royal Palace:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Someone is hunting information for money
@@ -854,7 +841,6 @@ Ongoing situations affecting Royal Palace:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

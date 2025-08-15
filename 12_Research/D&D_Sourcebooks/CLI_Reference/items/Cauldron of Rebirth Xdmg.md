@@ -1,3 +1,12 @@
+---
+title: Cauldron of Rebirth Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cauldron of Rebirth Xdmg
 
 ---
@@ -30,8 +39,7 @@ world: Both
 
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.
 
-You can use the cauldron as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your spells, and it functions as a suitable component for the [[scrying-xphb|Scrying]] spell.
-
+You can use the cauldron as a [[spellcasting focus xphb|Spellcasting Focus]] for your spells, and it functions as a suitable component for the [[scrying xphb|Scrying]] spell.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,21 +52,16 @@ You can use the cauldron as a [[spellcasting-focus-xphb|Spellcasting Focus]] for
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Brew Potion
 
-When you finish a [[long-rest-xphb|Long Rest]], you can use the cauldron to create a [[potion-of-greater-healing-xdmg|Potion of Healing (greater)]], which takes 1 minute. The potion lasts for 24 hours, then loses its magic if not consumed.
+When you finish a [[long rest xphb|Long Rest]], you can use the cauldron to create a [[potion of greater healing xdmg|Potion of Healing (greater)]], which takes 1 minute. The potion lasts for 24 hours, then loses its magic if not consumed.
 
 ## Raise Dead
 
 As a [[actions#Magic|Magic]] action, you can cause the cauldron to grow large enough for a Medium creature to crouch within. You can revert the cauldron to its normal size as a [[actions#Magic|Magic]] action, harmlessly shunting anything that can't fit inside to the nearest unoccupied space.
 
-If you place the corpse of a Humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 GP) for at least 8 hours, the salt is consumed and the creature returns to life as if by [[raise-dead-xphb|Raise Dead]] at the next dawn. Once used, this property can't be used again for 7 days.
+If you place the corpse of a Humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 GP) for at least 8 hours, the salt is consumed and the creature returns to life as if by [[raise dead xphb|Raise Dead]] at the next dawn. Once used, this property can't be used again for 7 days.
 
 *Source: Dungeon Master's Guide (2024) p. 243*
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help stealing before winter
@@ -93,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

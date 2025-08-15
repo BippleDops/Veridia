@@ -1,3 +1,12 @@
+---
+title: Salamander Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Salamander Xmm
 
 ---
@@ -31,13 +40,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png]]
 
-# [[salamander-xmm|Salamander]]
+# [[salamander xmm|Salamander]]
 *Source: Monster Manual (2024) p. 267. Available in the SRD and the Free Rules (2024)*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +57,6 @@ Most salamanders are arrogant yet curious, seeking to create artful blazes or bu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Salamanders
 
@@ -139,11 +141,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -156,7 +156,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

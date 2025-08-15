@@ -1,3 +1,12 @@
+---
+title: Derro Savant Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Derro Savant Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-savant-mpmm-derro-savant-mpmm.svg)
 
-# [[derro-savant-mpmm|Derro Savant]]
+# [[derro savant mpmm|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 
 > [!quote] A quote from Mordenkainen  
@@ -54,7 +63,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather armor xphb|leather armor]]"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -89,10 +98,10 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[mage-hand-xphb|mage hand]],\
-      \ [[message-xphb|message]], [[prestidigitation-xphb|prestidigitation]]\n\
-      \n1/day each: [[invisibility-xphb|invisibility]],\
-      \ [[sleep-xphb|sleep]], [[spider-climb-xphb|spider climb]]"
+      \ ability (spell save DC 12):\n\nAt will: [[mage hand xphb|mage hand]],\
+      \ [[message xphb|message]], [[prestidigitation xphb|prestidigitation]]\n\
+      \n1/day each: [[invisibility xphb|invisibility]],\
+      \ [[sleep xphb|sleep]], [[spider climb xphb|spider climb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
@@ -100,7 +109,6 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "image": "/03_Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -113,11 +121,6 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -139,11 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Ensnaring Strike Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ensnaring Strike Xphb
 
 ---
@@ -34,16 +43,15 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has [[advantage-xphb|Advantage]] on this save. On a failed save, the target has the [[conditions#Restrained|Restrained]] condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
+As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has [[advantage xphb|Advantage]] on this save. On a failed save, the target has the [[conditions#Restrained|Restrained]] condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
 
 While [[conditions#Restrained|Restrained]], the target takes `d6` Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC. On a success, the spell ends.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+**Classes**: [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ While [[conditions#Restrained|Restrained]], the target takes `d6` Piercing damag
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -86,21 +88,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

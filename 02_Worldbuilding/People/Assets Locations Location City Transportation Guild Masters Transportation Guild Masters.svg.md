@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,27 +46,21 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -198,7 +188,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[The_Crimson_Pearl]] (colleague)
-- [[10-combat#Dropping_to_0_Hit_Points#Death_Saving_Throws]] (enemy)
+- [[10 combat#Dropping_to_0_Hit_Points#Death_Saving_Throws]] (enemy)
 - [[High Priest Oceanus Deepflow]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -206,7 +196,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## A Day in the Life
 

@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,20 +53,13 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
@@ -80,7 +69,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
@@ -89,7 +77,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Player-Facing Summary
 
@@ -167,7 +154,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns truth
 
-
 ## Relationships
 
 - **Creditor**: [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg]]
@@ -175,7 +161,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Mentor**: [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
 - **Victim**: [[Merchant Lord Cornelius Generous]]
 - **Sibling**: [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg]]
-
 
 ## Cultural Practices
 

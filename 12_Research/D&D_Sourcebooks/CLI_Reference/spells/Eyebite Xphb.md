@@ -1,3 +1,12 @@
+---
+title: Eyebite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eyebite Xphb
 
 ---
@@ -40,7 +49,6 @@ For the duration, your eyes become an inky void. One creature of your choice wit
 
 On each of your turns until the spell ends, you can take a [[actions#Magic|Magic]] action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ On each of your turns until the spell ends, you can take a [[actions#Magic|Magic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Asleep
 
@@ -72,7 +75,7 @@ The target has the [[conditions#Poisoned|Poisoned]] condition.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 270. Available in the SRD and the Free Rules (2024)*
 
@@ -92,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

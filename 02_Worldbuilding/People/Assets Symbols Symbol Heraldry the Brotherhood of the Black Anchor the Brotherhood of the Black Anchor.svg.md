@@ -20,9 +20,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,8 +47,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
 
@@ -60,21 +55,17 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -88,7 +79,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -198,8 +188,8 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L-03_Deep_Mother_Dream_Tide]] (friend)
-- [[Shadow-touched Communities]] (colleague)
+- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (friend)
+- [[Shadow touched Communities]] (colleague)
 - [[Original Glaucus]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -207,7 +197,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## A Day in the Life
 

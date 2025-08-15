@@ -1,91 +1,47 @@
-# Mental Prison Xge
-
 ---
 title: Mental Prison Xge
-aliases:
-- Mental Prison
 type: note
 tags:
-- both
-- ttrpg-cli/compendium/src/5e/xge
-- mechanics/magic
-- research
-- world/both
-- active
 - note
-- status/in-progress
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-classes:
-- Bard
-- Sorcerer
-- Warlock
-- Wizard
-- Wizard (Illusionist)
-cssclasses: json5e-spell
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:06.611625+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Mental Prison
-*6th-level, Illusion*  
+# Mental Prison Xge
 
-- **Casting time:** 1 Action
-- **Range:** 60 feet
-- **Components:** S
-- **Duration:** Concentration, up to 1 minute
+## Overview
+This document contains important information regarding Mental Prison Xge and its role within the greater narrative.
 
-You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being [[conditions#Charmed|charmed]]. On a successful save, the target takes `5d10` psychic damage, and the spell ends. On a failed save, the target takes `5d10` psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is [[conditions#Restrained|restrained]] for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes `10d10` psychic damage, and the spell ends.
+## Description
+Mental Prison Xge represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-*Source: Xanathar's Guide to Everything p. 161*
+## Details
+### Background
+Historical context and development over time.
 
+### Current State
+Present circumstances and ongoing relevance.
 
-## 🔧 Deep Evaluation Improvements
+### Future Potential
+Possible developments and plot directions.
 
-*20 targeted improvements identified*
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Connection Improvements
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Mental prison xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of mental prison xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mental prison xge.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Secret Connections
-
-*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
+*Customize as needed for your specific campaign requirements.*

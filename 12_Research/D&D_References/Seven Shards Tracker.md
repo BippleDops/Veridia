@@ -1,3 +1,12 @@
+---
+title: Seven Shards Tracker
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Seven Shards Tracker
 
 ---
@@ -21,7 +30,6 @@ updated: '2025-08-13T12:34:03.163749+00:00'
 world: Universal
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ world: Universal
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Summary Table
 ```dataview
@@ -63,7 +66,6 @@ SORT file.name ASC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

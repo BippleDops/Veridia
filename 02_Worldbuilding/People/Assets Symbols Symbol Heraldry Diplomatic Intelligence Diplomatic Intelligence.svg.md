@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -47,13 +44,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
@@ -67,12 +60,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
@@ -82,7 +72,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Basic Information
 
@@ -193,8 +182,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]] (enemy)
-- [[Quest - The Tide War]] (rival)
-- [[Quest - The Ancient Compact]] (rival)
+- [[Quest   The Tide War]] (rival)
+- [[Quest   The Ancient Compact]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -202,11 +191,9 @@ This NPC can serve multiple roles:
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Bloodline
 
 Member of House Wolfblood - Trait: magical affinity
-
 
 ## Economic Structure
 
@@ -226,7 +213,6 @@ Member of House Wolfblood - Trait: magical affinity
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -238,7 +224,6 @@ Member of House Wolfblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

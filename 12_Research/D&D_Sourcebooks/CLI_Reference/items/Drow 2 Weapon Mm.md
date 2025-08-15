@@ -1,3 +1,12 @@
+---
+title: Drow 2 Weapon Mm
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow 2 Weapon Mm
 
 ---
@@ -139,11 +148,10 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [[item properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 *Source: Monster Manual p. 126*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -156,11 +164,6 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -178,11 +181,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -196,7 +197,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

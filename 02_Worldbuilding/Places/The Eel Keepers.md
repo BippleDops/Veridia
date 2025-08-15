@@ -27,15 +27,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg]]
 
 # The Eel Keepers
 
 *"In the dance of current and coil, we find our calling."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,11 +60,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
@@ -77,9 +71,6 @@ improvements: 20
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Oral_Tradition Improvements
@@ -93,7 +84,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Material_Culture Improvements
 
@@ -102,7 +92,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Eel Keepers are a specialized guild of animal handlers who manage, train, and breed the various eel species used throughout Aquabyssos for communication, transportation, and defense. Their expertise with these creatures makes them indispensable to the city's infrastructure.
@@ -214,8 +203,6 @@ Ongoing situations affecting The Eel Keepers:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## A Day in the Life
 

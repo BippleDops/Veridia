@@ -22,9 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png]]
 
 # Pub
 *Level 13 Bastion facility*  
@@ -35,7 +33,6 @@ improvements: 20
 - **Order**: research
 
 Folks come here to consume tasty beverages and socialize. Your Pub might be a bar, coffee shop, or tea room, and it might have a colorful name, such as the Rusty Flagon or the Dragon's Loft. The facility's hireling, who serves as the bartender, maintains a network of spies scattered throughout nearby communities. These spies are useful sources of information and frequent the Pub, often incognito.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +45,6 @@ Folks come here to consume tasty beverages and socialize. Your Pub might be a ba
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Research: Information Gathering
 
@@ -92,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

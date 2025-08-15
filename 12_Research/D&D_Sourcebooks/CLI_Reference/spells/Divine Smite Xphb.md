@@ -1,3 +1,12 @@
+---
+title: Divine Smite Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Divine Smite Xphb
 
 ---
@@ -38,10 +47,9 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[list spells classes paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,11 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

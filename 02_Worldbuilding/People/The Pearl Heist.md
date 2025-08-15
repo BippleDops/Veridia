@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-pearl-heist-the-pearl-heist.svg]]
 
 # The Pearl Heist
 
 *"They took more than treasure - they stole the city's confidence." - Banking Commissioner*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,19 +65,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -90,7 +80,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -104,7 +93,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Pearl Heist refers to the most audacious theft in Aquabyssos history, when criminals infiltrated the Royal Vault and stole the legendary Pearl of Tides during the city's most important festival. The heist shocked the community and exposed security weaknesses throughout the ficial district.
@@ -256,7 +244,6 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 iched: true -->
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -268,7 +255,6 @@ iched: true -->
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## A Day in the Life
 

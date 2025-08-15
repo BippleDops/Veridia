@@ -1,3 +1,12 @@
+---
+title: Portrait_Prompts - NPCs
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Portrait_Prompts - NPCs
 
 ---
@@ -227,6 +236,90 @@ modified: '2025-08-14'
 []
 ```
 \n\n## Aethermoor portrait prompts (2025-08-15T01:08:29Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:11:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:13:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:15:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:18:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:19:06Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:23:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:23:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:27:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:28:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:31:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:33:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:35:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:38:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:39:06Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:43:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:43:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:47:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:48:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:51:06Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-15T01:53:30Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-15T01:55:06Z)\n
 ```json
 []
 ```

@@ -1,3 +1,12 @@
+---
+title: Mindwitness Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mindwitness Mpmm
 
 ---
@@ -31,14 +40,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
 
-# [[mindwitness-mpmm|Mindwitness]]
+# [[mindwitness mpmm|Mindwitness]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
 
 If a beholder is [[conditions#Stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 
 A mindwitness's primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
-If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[flumph-xmm|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
+If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[flumph xmm|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 ```statblock
 "name": "Mindwitness (MPMM)"
@@ -119,7 +128,6 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -131,11 +139,6 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -157,7 +160,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
@@ -168,7 +170,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

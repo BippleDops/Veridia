@@ -1,3 +1,12 @@
+---
+title: Trip Attack Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Trip Attack Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Trip Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll using a weapon or an [[unarmed-strike-xphb|Unarmed Strike]], you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [[conditions#prone|Prone]] condition.
-
+When you hit a creature with an attack roll using a weapon or an [[unarmed strike xphb|Unarmed Strike]], you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [[conditions#prone|Prone]] condition.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you hit a creature with an attack roll using a weapon or an [[unarmed-strik
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

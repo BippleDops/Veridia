@@ -1,3 +1,12 @@
+---
+title: Phase Spider Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Phase Spider Xmm
 
 ---
@@ -38,9 +47,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phase-spider-xmm-phase-spider-xmm.svg)
 
-# [[phase-spider-xmm|Phase Spider]]
+# [[phase spider xmm|Phase Spider]]
 *Source: Monster Manual (2024) p. 239. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,11 +61,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Phase Spider
 
@@ -110,8 +113,8 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - "desc": "The spider makes two Bite attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage\
-      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[hit-points-xphb|Hit Points]],\
-      \ the target becomes [[stable-xphb|Stable]],\
+      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[hit points xphb|Hit Points]],\
+      \ the target becomes [[stable xphb|Stable]],\
       \ and it has the [[conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour. While [[conditions#Poisoned|Poisoned]], the\
       \ target also has the [[conditions#Paralyzed|Paralyzed]]\
@@ -147,11 +150,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## 12_Research Specific Content
 

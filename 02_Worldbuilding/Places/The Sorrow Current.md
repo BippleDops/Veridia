@@ -23,14 +23,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sorrow-current-the-sorrow-current.svg)
 
 # The Sorrow Current
 *Where Ocean Carries the Weight of All Tears*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,23 +56,17 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Evolution Improvements
@@ -85,13 +76,10 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 The Sorrow Current is a mystical ocean phenomenon that carries the collective emotional weight of all maritime tragedies, creating areas where the water itself induces profound emotional experiences in those who encounter it, serving both as a source of healing and potential psychological danger.
@@ -142,8 +130,6 @@ Ongoing situations affecting The Sorrow Current:
 - External threats
 - Opportunities arising
 
-
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -155,7 +141,6 @@ Ongoing situations affecting The Sorrow Current:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

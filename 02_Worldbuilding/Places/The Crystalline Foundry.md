@@ -28,11 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystalline-foundry-the-crystalline-foundry.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,13 +61,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
@@ -81,22 +73,18 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Where Crystal Dreams Become Reality
 
@@ -372,7 +360,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Trade**: Gardens provides materials, Foundry creates specialized cultivation tools  
 **Personnel**: Cross-training programs and shared expertise between institutions
 
-### [[Palace Courtyard - Crystal Garden]]
+### [[Palace Courtyard   Crystal Garden]]
 
 **Service**: Exclusive supplier for all royal magical needs and ceremonial items  
 **Priority**: Special queue for royal commissions and urgent requests  
@@ -401,7 +389,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 
 **Related Locations**:
 - [[12_Research/D&D_Statblocks/Crystal Gardens]]
-- [[Palace Courtyard - Crystal Garden]]
+- [[Palace Courtyard   Crystal Garden]]
 - [[Port Meridian]]
 - [[Aethermoor]]
 
@@ -462,8 +450,6 @@ Ongoing situations affecting The Crystalline Foundry:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Historical Timeline
 

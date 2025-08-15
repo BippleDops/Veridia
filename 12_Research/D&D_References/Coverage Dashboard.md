@@ -1,3 +1,12 @@
+---
+title: Coverage Dashboard
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Coverage Dashboard
 
 ---
@@ -28,7 +37,6 @@ world: Both
 # 📊 Content Coverage Dashboard
 *Tracking Vault Completion and Content Depth*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overall Vault Statistics
 
@@ -157,7 +160,6 @@ At current rate (40-60 files/session):
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Related Notes
 

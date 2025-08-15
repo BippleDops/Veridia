@@ -1,3 +1,12 @@
+---
+title: Razorvine Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Razorvine Xdmg
 
 ---
@@ -25,12 +34,11 @@ world: Both
 # Razorvine
 *Generic Hazard*  
 
-Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11; HP 25; and [[immunity-xphb|Immunity]] to Bludgeoning, Piercing, and Psychic damage.
+Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11; HP 25; and [[immunity xphb|Immunity]] to Bludgeoning, Piercing, and Psychic damage.
 
 When a creature comes into contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take 5 (`d10`) Slashing damage from the bladelike thorns.
 
 *Source: Dungeon Master's Guide (2024) p. 78*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ When a creature comes into contact with razorvine for the first time on a turn, 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

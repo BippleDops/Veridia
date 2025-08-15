@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-floating-markets-of-nereidios-the-floating-markets-of-nereidios.svg]]
 
 # The Floating Markets of Nereidios
 *Where Ocean and Commerce Flow as One*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,14 +55,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -80,15 +71,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 The Floating Markets of Nereidios are a massive collection of interconnected ships, platforms, and artificial islands that form a mobile trading city on [[The Azure Coast]]. This unique maritime marketplace serves as the primary hub for aquatic goods, deep-sea treasures, and cultural exchange between surface dwellers and underwater civilizations.
@@ -142,8 +128,6 @@ Ongoing situations affecting The Floating Markets of Nereidios:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -155,7 +139,6 @@ Ongoing situations affecting The Floating Markets of Nereidios:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

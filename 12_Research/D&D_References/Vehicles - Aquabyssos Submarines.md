@@ -1,3 +1,12 @@
+---
+title: Vehicles - Aquabyssos Submarines
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vehicles - Aquabyssos Submarines
 
 ---
@@ -24,7 +33,6 @@ world: Aquabyssos
 
 Pressure-adaptive vessels built for the abyss. These ships integrate [[Complete Pressure Adaptation System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ Pressure-adaptive vessels built for the abyss. These ships integrate [[Complete 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Pressure-Adaptive Vessels (Examples)
 - Coral Leviathan (Living coral hull; grows new bulkheads at Crush+)
@@ -69,7 +72,7 @@ GM Note: Use [[New_Ship_Template|New Ship Template]] to add more. Aim for 50+ de
 ### Random Aquatic Complication (d10)
 1 Pressure surge • 2 Kelp snare • 3 Cavitation bloom • 4 Shadow bloom • 5 Merger flicker • 6 Leviathan passing • 7 Parasite cloud • 8 Memory storm • 9 Thermal vent • 10 Hull hymn (ship hums prophecy)
 
-See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]], [[Transportation_Infrastructure|Transportation Infrastructure]].
+See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]], [[Transportation Infrastructure|Transportation Infrastructure]].
 
 ## Player-Facing Summary
 
@@ -86,7 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

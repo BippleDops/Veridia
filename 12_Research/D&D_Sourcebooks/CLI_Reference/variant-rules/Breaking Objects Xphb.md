@@ -1,3 +1,12 @@
+---
+title: Breaking Objects Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Breaking Objects Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [[actions#Attack|Attack]] or [[actions#Utilize|Utilize]] action.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,15 +47,10 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Armor Class
 
-The Object [[armor-class-xphb|Armor Class]] table suggests ACs for various substances.
+The Object [[armor class xphb|Armor Class]] table suggests ACs for various substances.
 
 **Object Armor Class**
 
@@ -64,7 +67,7 @@ The Object [[armor-class-xphb|Armor Class]] table suggests ACs for various subst
 
 ## Hit Points
 
-An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit-points-xphb|Hit Points]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit-points-xphb|Hit Points]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit points xphb|Hit Points]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit points xphb|Hit Points]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 **Object Hit Points**
 
@@ -78,7 +81,7 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 ## Damage Types and Objects
 
-Objects have [[immunity-xphb|Immunity]] to Poison and Psychic damage. The DM might decide that some [[damage-types-xphb|damage types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[vulnerability-xphb|Vulnerability]] to Fire damage.
+Objects have [[immunity xphb|Immunity]] to Poison and Psychic damage. The DM might decide that some [[damage types xphb|damage types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[vulnerability xphb|Vulnerability]] to Fire damage.
 
 ## Damage Threshold
 
@@ -104,11 +107,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -124,16 +125,13 @@ Mentioned in The Second Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

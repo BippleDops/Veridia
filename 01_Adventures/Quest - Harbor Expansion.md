@@ -1,3 +1,12 @@
+---
+title: Quest - Harbor Expansion
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - Harbor Expansion
 
 ---
@@ -17,8 +26,6 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-quest-harbor-expansion-quest-harbor-expansion.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -31,11 +38,6 @@ danger_level: Moderate
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -53,7 +55,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange dreams suggest ancient magic
@@ -66,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

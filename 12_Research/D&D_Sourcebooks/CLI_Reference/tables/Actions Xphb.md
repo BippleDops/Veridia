@@ -1,3 +1,12 @@
+---
+title: Actions Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Actions Xphb
 
 ---
@@ -29,10 +38,10 @@ world: Both
 
 | Action | Summary |
 |--------|---------|
-| [[actions#Attack|Attack]] | Attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]]. |
-| [[actions#Dash|Dash]] | For the rest of the turn, give yourself extra movement equal to your [[speed-xphb|Speed]]. |
+| [[actions#Attack|Attack]] | Attack with a weapon or an [[unarmed strike xphb|Unarmed Strike]]. |
+| [[actions#Dash|Dash]] | For the rest of the turn, give yourself extra movement equal to your [[speed xphb|Speed]]. |
 | [[actions#Disengage|Disengage]] | Your movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attack]] for the rest of the turn. |
-| [[actions#Dodge|Dodge]] | Until the start of your next turn, attack rolls against you have [[disadvantage-xphb|Disadvantage]], and you make Dexterity saving throws with [[advantage-xphb|Advantage]]. You lose this benefit if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your Speed is 0. |
+| [[actions#Dodge|Dodge]] | Until the start of your next turn, attack rolls against you have [[disadvantage xphb|Disadvantage]], and you make Dexterity saving throws with [[advantage xphb|Advantage]]. You lose this benefit if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your Speed is 0. |
 | [[actions#Help|Help]] | Help another creature's ability check or attack roll, or administer first aid. |
 | [[actions#Hide|Hide]] | Make a Dexterity ([[skills#Stealth|Stealth]]) check. |
 | [[actions#Influence|Influence]] | Make a Charisma ([[skills#Deception|Deception]], [[skills#Intimidation|Intimidation]], [[skills#Performance|Performance]], or [[skills#Persuasion|Persuasion]]) or Wisdom ([[skills#Animal%20Handling|Animal Handling]]) check to alter a creature's attitude. |
@@ -45,7 +54,6 @@ world: Both
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -57,11 +65,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -79,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help delivering before the new moon
@@ -93,11 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Jackalwere Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Jackalwere Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jackalwere-xmm-jackalwere-xmm.svg)
 
-# [[jackalwere-xmm|Jackalwere]]
+# [[jackalwere xmm|Jackalwere]]
 *Source: Monster Manual (2024) p. 182*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Jackalwere
 
@@ -101,7 +104,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The jackalwere has [[advantage-xphb|Advantage]]\
+  - "desc": "The jackalwere has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the jackalwere's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -152,7 +155,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest ancient magic
@@ -165,7 +167,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

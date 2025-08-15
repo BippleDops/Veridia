@@ -1,3 +1,12 @@
+---
+title: Potion of Poison Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Potion of Poison Resistance Xdmg
 
 ---
@@ -32,10 +41,9 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance-xphb|Resistance]] to poison damage for 1 hour.
+When you drink this potion, you have [[resistance xphb|Resistance]] to poison damage for 1 hour.
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ When you drink this potion, you have [[resistance-xphb|Resistance]] to poison da
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -87,7 +88,6 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

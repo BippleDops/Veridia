@@ -1,3 +1,12 @@
+---
+title: Teleport Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Teleport Xphb
 
 ---
@@ -37,7 +46,7 @@ world: Both
 
 This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
 
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `d100` and consults the [[teleportation-xphb|Teleportation]] Outcome table and the explanations after it.
+The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `d100` and consults the [[teleportation xphb|Teleportation]] Outcome table and the explanations after it.
 
 **Teleportation Outcome**
 
@@ -51,7 +60,6 @@ The destination you choose must be known to you, and it must be on the same plan
 | False destination | 01-50 | 51-00 | — | — |
 ^teleportation-outcome
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -63,11 +71,6 @@ The destination you choose must be known to you, and it must be on the same plan
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Familiarity
 
@@ -98,7 +101,7 @@ You and your group (or the target object) appear where you intended.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the SRD and the Free Rules (2024)*
 
@@ -118,7 +121,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the new moon
@@ -132,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Staff of the Adder Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of the Adder Xdmg
 
 ---
@@ -31,17 +40,16 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-As a [[bonus-action-xphb|Bonus Action]], you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its iimate form.
+As a [[bonus action xphb|Bonus Action]], you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its iimate form.
 
-When you take the [[actions#Attack|Attack]] action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your [[proficiency-xphb|Proficiency Bonus]] and Wisdom modifier to the attack roll. On a hit, the target takes `d6` Piercing damage and `3d6` Poison damage.
+When you take the [[actions#Attack|Attack]] action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your [[proficiency xphb|Proficiency Bonus]] and Wisdom modifier to the attack roll. On a hit, the target takes `d6` Piercing damage and `3d6` Poison damage.
 
-The snake head can be attacked while it is animate. It has AC 15, HP 20, and [[immunity-xphb|Immunity]] to Poison and Psychic damage. If the head drops to 0 [[hit-points-xphb|Hit Points]], the staff is destroyed. As long as it's not destroyed, the staff regains all lost [[hit-points-xphb|Hit Points]] when it reverts to its iimate form.
+The snake head can be attacked while it is animate. It has AC 15, HP 20, and [[immunity xphb|Immunity]] to Poison and Psychic damage. If the head drops to 0 [[hit points xphb|Hit Points]], the staff is destroyed. As long as it's not destroyed, the staff regains all lost [[hit points xphb|Hit Points]] when it reverts to its iimate form.
 
 *Source: Dungeon Master's Guide (2024) p. 310*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ The snake head can be attacked while it is animate. It has AC 15, HP 20, and [[i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a conspiracy about the government
@@ -87,11 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Wave Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wave Xdmg
 
 ---
@@ -28,13 +37,13 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-wave-xdmg-v1-wave-xdmg.svg)
 
 # Wave
-*Weapon ([[trident-xphb|trident]]), artifact (requires attunement)*  
+*Weapon ([[trident xphb|trident]]), artifact (requires attunement)*  
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, Wave is engraved with images of waves, shells, and sea creatures.
@@ -43,9 +52,8 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 While holding Wave, you gain the following benefits:
 
-- **Combat Ready.** You have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.  
+- **Combat Ready.** You have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls.  
 - **Underwater Adaptation.** A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,19 +66,14 @@ While holding Wave, you gain the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb|Dominate Beast]] (save DC 20) from it on a Beast that has a [[swim-speed-xphb|Swim Speed]].
+Wave has 3 charges and regains `d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate beast xphb|Dominate Beast]] (save DC 20) from it on a Beast that has a [[swim speed xphb|Swim Speed]].
 
 ## Globe of Invulnerability
 
-While holding Wave, you can cast the level 9 version of [[globe-of-invulnerability-xphb|Globe of Invulnerability]] from it. Once used, this property can't be used again until the next dawn.
+While holding Wave, you can cast the level 9 version of [[globe of invulnerability xphb|Globe of Invulnerability]] from it. Once used, this property can't be used again until the next dawn.
 
 ## Sentience
 
@@ -84,7 +87,7 @@ Wave zealously encourages mortals to worship sea gods and has a habit of humming
 
 ## Destroying Wave
 
-Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[storm-giant-xmm|storm giant]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
+Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[storm giant xmm|storm giant]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
 
 *Source: Dungeon Master's Guide (2024) p. 323*
 
@@ -104,21 +107,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

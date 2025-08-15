@@ -1,3 +1,12 @@
+---
+title: NPC_Reaction_Generator
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # NPC_Reaction_Generator
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Quick Reaction Table
 Roll 2d6 + Charisma modifier + situational modifiers
@@ -154,7 +157,6 @@ When NPCs are affected by memory magic or Memory Pearls:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for money
@@ -163,7 +165,6 @@ When NPCs are affected by memory magic or Memory Pearls:
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

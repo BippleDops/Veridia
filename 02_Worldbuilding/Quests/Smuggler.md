@@ -11,11 +11,8 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Handout
 ![](04_Resources/Assets/Handouts/handout-handout-smuggler-ledger-page-smuggler-ledger-page.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,7 +41,6 @@ improvements: 20
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Soundtrack Improvements
 
@@ -61,8 +57,6 @@ improvements: 20
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-- Provide scaling for different level ranges
-- Provide scaling for different level ranges
 
 ### Art Improvements
 
@@ -71,18 +65,14 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Worldbuilding Improvements
 
-- Connect to three other adventures in the vault
 - Connect to three other adventures in the vault
 
 ### Spotlight Improvements
 
 - Include spotlight moment for each character class
-
 
 ## Adventure Overview
 
@@ -99,7 +89,6 @@ An exciting quest that challenges heroes to prevent disaster.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

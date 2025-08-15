@@ -1,3 +1,12 @@
+---
+title: Natures Mantle Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Natures Mantle Xdmg
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  
 ![](/03_Mechanics/CLI/items/img/natures-mantle.webp#right)
 
-This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Druid and Ranger spells.
+This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [[spellcasting focus xphb|Spellcasting Focus]] for your Druid and Ranger spells.
 
-While you are in an area that is [[lightly-obscured-xphb|Lightly Obscured]], you can [[actions#Hide|Hide]] as a [[bonus-action-xphb|Bonus Action]] even if you are being directly observed.
+While you are in an area that is [[lightly obscured xphb|Lightly Obscured]], you can [[actions#Hide|Hide]] as a [[bonus action xphb|Bonus Action]] even if you are being directly observed.
 
 *Source: Dungeon Master's Guide (2024) p. 280*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ While you are in an area that is [[lightly-obscured-xphb|Lightly Obscured]], you
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,11 +71,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -82,7 +83,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

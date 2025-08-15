@@ -1,3 +1,12 @@
+---
+title: Map or Scroll Case Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Map or Scroll Case Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
 
-A [[map-or-scroll-case-xphb|Map or Scroll Case]] holds up to 10 sheets of paper or 5 sheets of parchment.
+A [[map or scroll case xphb|Map or Scroll Case]] holds up to 10 sheets of paper or 5 sheets of parchment.
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A [[map-or-scroll-case-xphb|Map or Scroll Case]] holds up to 10 sheets of paper 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,14 +74,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

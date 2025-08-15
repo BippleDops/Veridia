@@ -1,3 +1,12 @@
+---
+title: Rest Variants
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rest Variants
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 The rules for short and long rests presented in chapter 8 of the "Player's Handbook" work well for a heroic-style campaign. Characters can go toe-to-toe with deadly foes, take damage to within an inch of their lives, yet still be ready to fight again the next day. If this approach doesn't fit your campaign, consider the following variants.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ The rules for short and long rests presented in chapter 8 of the "Player's Handb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Epic Heroism
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and truth emerges
@@ -84,7 +86,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

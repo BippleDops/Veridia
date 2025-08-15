@@ -1,3 +1,12 @@
+---
+title: Sylvan Talon Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sylvan Talon Xdmg
 
 ---
@@ -36,7 +45,6 @@ world: Both
 
 While this weapon is on your person, you understand the non-written communication of all Fey, and they understand yours.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -48,15 +56,10 @@ While this weapon is on your person, you understand the non-written communicatio
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Secret Message
 
-As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message-xphb|Message]]. Once this property is used, it can't be used again until the next dawn.
+As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message xphb|Message]]. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
 - [Sylvan Talon Dagger](#Sylvan%20Talon%20Dagger)
@@ -72,7 +75,7 @@ As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message-xp
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 314*
@@ -93,16 +96,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## 12_Research Specific Content
 

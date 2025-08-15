@@ -1,3 +1,12 @@
+---
+title: Weapon Mastery Properties Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Weapon Mastery Properties Xphb
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ Each weapon has a mastery property, which is usable only by a character who has 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cleave
 
@@ -55,7 +58,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the [[item-properties#Light|Light]] property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the [[item properties#Light|Light]] property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ## Push
 
@@ -63,7 +66,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ## Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage-xphb|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[disadvantage xphb|Disadvantage]] on its next attack roll before the start of your next turn.
 
 ## Slow
 
@@ -75,7 +78,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 ## Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage-xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[advantage xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ## Player-Facing Summary
 
@@ -92,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

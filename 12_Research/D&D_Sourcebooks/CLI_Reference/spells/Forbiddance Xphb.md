@@ -1,3 +1,12 @@
+---
+title: Forbiddance Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Forbiddance Xphb
 
 ---
@@ -35,18 +44,17 @@ world: Both
 - **Components:** V, S, M (ruby dust worth 1,000+ GP)
 - **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [[gate-xphb|Gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [[plane-shift-xphb|Plane Shift]] spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [[gate xphb|Gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [[plane-shift-xphb|Plane Shift]] spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes `5d10` Radiant or Necrotic damage (your choice when you cast this spell).
 
 You can designate a password when you cast the spell. A creature that speaks the password as it enters the area takes no damage from the spell.
 
-The spell's area can't overlap with the area of another Forbiddance spell. If you cast [[forbiddance-xphb|Forbiddance]] every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
+The spell's area can't overlap with the area of another Forbiddance spell. If you cast [[forbiddance xphb|Forbiddance]] every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +67,6 @@ The spell's area can't overlap with the area of another Forbiddance spell. If yo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -81,11 +84,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

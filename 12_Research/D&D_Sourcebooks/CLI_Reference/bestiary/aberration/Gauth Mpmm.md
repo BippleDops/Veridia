@@ -1,3 +1,12 @@
+---
+title: Gauth Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gauth Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gauth-mpmm-gauth-mpmm.svg)
 
-# [[gauth-mpmm|Gauth]]
+# [[gauth mpmm|Gauth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -40,7 +49,7 @@ A gauth can survive on meat but prefers to sustain itself with power drained fro
 
 When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
 
-A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutets. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+A [[beholder xmm|beholder]] usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutets. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 ```statblock
 "name": "Gauth (MPMM)"
@@ -119,7 +128,6 @@ A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter i
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -131,11 +139,6 @@ A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter i
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -157,14 +160,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

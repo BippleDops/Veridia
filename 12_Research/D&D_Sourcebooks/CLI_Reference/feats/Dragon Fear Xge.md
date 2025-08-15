@@ -1,3 +1,12 @@
+---
+title: Dragon Fear Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dragon Fear Xge
 
 ---
@@ -26,13 +35,12 @@ world: Both
 # Dragon Fear
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[dragonborn-xphb|Dragonborn]]
+**Prerequisite**: [[dragonborn xphb|Dragonborn]]
 
 When angered, you radiate menace. You gain the following benefits:
 
 - Increase your Strength, Constitution, or Charisma by 1, to a maximum of 20.  
 - Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes [[conditions#frightened|frightened]] of you for 1 minute. If the [[conditions#frightened|frightened]] target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ When angered, you radiate menace. You gain the following benefits:
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - An heirloom has gone missing and chaos spreads
@@ -76,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

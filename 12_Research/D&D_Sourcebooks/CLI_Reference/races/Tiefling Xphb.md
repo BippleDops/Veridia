@@ -1,3 +1,12 @@
+---
+title: Tiefling Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tiefling Xphb
 
 ---
@@ -49,13 +58,12 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 |--------|---------|---------|---------|
 | Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb|Poison Spray]] cantrip. | [[ray-of-sickness-xphb|Ray of Sickness]] | [[hold-person-xphb|Hold Person]] |
 | Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb|Chill Touch]] cantrip. | [[false-life-xphb|False Life]] | [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
-| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness-xphb|Darkness]] |
+| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness xphb|Darkness]] |
 ^fiendish-legacies
 
 ### Otherworldly Presence
 
-You know the [[thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
-
+You know the [[thaumaturgy xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ You know the [[thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with thi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -112,7 +115,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange sightings suggest ancient magic
@@ -122,7 +124,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

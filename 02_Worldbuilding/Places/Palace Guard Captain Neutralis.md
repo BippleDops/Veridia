@@ -37,12 +37,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Palace Guard Captain Neutralis
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Palace_Guard_Captain_Neutralis.png|Palace Guard Captain Neutralis Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,7 +66,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
@@ -80,18 +74,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Material_Culture Improvements
@@ -109,7 +98,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -163,8 +151,6 @@ Ongoing situations affecting Palace Guard Captain Neutralis:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

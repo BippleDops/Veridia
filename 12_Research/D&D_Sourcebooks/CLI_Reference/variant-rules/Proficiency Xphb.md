@@ -1,3 +1,12 @@
+---
+title: Proficiency Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Proficiency Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Proficiency
 *Source: Player's Handbook (2024) p. 372. Available in the SRD and the Free Rules (2024)* 
 
-If you have proficiency with something, you can add your Proficiency Bonus to any [[d20-test-xphb|D20 Test]] you make using that thing. A creature might have proficiency in a skill or [[saving-throw-xphb|saving throw]] or with a weapon or tool.
-
+If you have proficiency with something, you can add your Proficiency Bonus to any [[d20 test xphb|D20 Test]] you make using that thing. A creature might have proficiency in a skill or [[saving throw xphb|saving throw]] or with a weapon or tool.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,11 +64,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -75,7 +76,6 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

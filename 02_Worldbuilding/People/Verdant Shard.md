@@ -39,14 +39,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-verdant-shard-verdant-shard.svg]]
 
 # Verdant Shard
 *The Green Heart, Guardian of Life's Song, The Growing Eternal*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,14 +71,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -92,11 +83,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
@@ -110,7 +99,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the Verdant Shard of Growth and Nature, one of the Seven Shards that once formed the Crown of Stars. Three centuries ago, during the Great Shattering, Thornwyn made the ultimate sacrifice to prevent the Verdant Shard's power from spiraling into uncontrolled growth that would have consumed both realms in endless forest. Now existing as a living embodiment of natural cycles, they serve as guardian of the balance between growth and death, cultivation and wilderness, ensuring that life flourishes without overwhelming everything in its path.
@@ -524,11 +512,9 @@ Verdant Shard is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Verdant Shard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Verdant Shard.
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Historical Timeline
 
@@ -547,7 +533,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -559,7 +544,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

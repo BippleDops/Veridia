@@ -1,3 +1,12 @@
+---
+title: Shield Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shield Xphb
 
 ---
@@ -25,7 +34,7 @@ world: Both
 ---
 
 # Shield
-*Armor ([[shield-xphb|shield]])*  
+*Armor ([[shield xphb|shield]])*  
 ![](/03_Mechanics/CLI/items/img/shield.webp#right)
 
 - **Armor Class**: 2
@@ -33,7 +42,6 @@ world: Both
 - **Weight**: 6.0 lbs.
 
 *Source: Player's Handbook (2024) p. 219. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

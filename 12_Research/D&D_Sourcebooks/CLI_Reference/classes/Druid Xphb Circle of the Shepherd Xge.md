@@ -1,3 +1,12 @@
+---
+title: Druid Xphb Circle of the Shepherd Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Druid Xphb Circle of the Shepherd Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Circle of the Shepherd
-*[[druid-xphb|Druid]]: Druid Subclass*  
+*[[druid xphb|Druid]]: Druid Subclass*  
 *Source: Xanathar's Guide to Everything p. 23*  
 
 > [!tldr] Class and Feature Progression
@@ -104,10 +113,9 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 
 ### Faithful Summons (Level 14)
 
-Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [[conditions#Incapacitated|incapacitated]] against your will, you can immediately gain the benefits of [[conjure-animals-xphb|conjure animals]] as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [[conditions#Concentration|concentration]], or until you dismiss it (no action required).
+Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [[conditions#Incapacitated|incapacitated]] against your will, you can immediately gain the benefits of [[conjure animals xphb|conjure animals]] as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [[conditions#Concentration|concentration]], or until you dismiss it (no action required).
 
 Once you use this feature, you can't use it again until you finish a long rest.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -120,11 +128,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -141,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

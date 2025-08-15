@@ -34,14 +34,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-tribune-cassia-deepcurrent-tribune-cassia-deepcurrent.svg]]
 
 # Tribune Cassia Deepcurrent
 *Voice of Pragmatic Goverce, The Compromise Builder*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,7 +66,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
@@ -79,12 +74,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
@@ -94,11 +86,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -108,7 +98,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 Tribune Cassia Deepcurrent leads the Centrist Faction within the [[Parliament of Echoes]], serving as one of Aquabyssos's most influential political figures. In a government torn between loyalists to [[The Scattered Emperor]] and various extremist factions, she represents the practical middle ground—focusing on keeping society functional while navigating the increasingly dangerous political currents of a realm facing shadow corruption and potential cosmic upheaval.
@@ -241,11 +230,9 @@ Tribune Cassia Deepcurrent is a undersea element of the setting, known for biolu
 
 Legends speak of Tribune Cassia Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tribune Cassia Deepcurrent.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Historical Timeline
 
@@ -263,7 +250,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Cultural Practices
 

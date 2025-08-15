@@ -1,3 +1,12 @@
+---
+title: Priests Pack Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Priests Pack Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 33 gp
 - **Weight**: 29.0 lbs.
 
-A Priest's Pack contains the following items: [[backpack-xphb|Backpack]], [[blanket-xphb|Blanket]], [[holy-water-xphb|Holy Water]], [[lamp-xphb|Lamp]], 7 days of [[rations-xphb|Rations]], [[robe-xphb|Robe]], and [[tinderbox-xphb|Tinderbox]].
+A Priest's Pack contains the following items: [[backpack xphb|Backpack]], [[blanket xphb|Blanket]], [[holy water xphb|Holy Water]], [[lamp xphb|Lamp]], 7 days of [[rations xphb|Rations]], [[robe xphb|Robe]], and [[tinderbox xphb|Tinderbox]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Priest's Pack contains the following items: [[backpack-xphb|Backpack]], [[blan
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 

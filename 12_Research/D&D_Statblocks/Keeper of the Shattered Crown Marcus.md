@@ -1,3 +1,12 @@
+---
+title: Keeper of the Shattered Crown Marcus
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Keeper of the Shattered Crown Marcus
 
 ---
@@ -29,11 +38,9 @@ world: Aethermoor
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein.svg]]
 
 # Keeper of the Shattered Crown, Marcus Crystalvein
 *Former Knight, Shard-Corrupted Seeker*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Once a noble knight of [[The Crown]], Marcus Crystalvein has spent the last fifteen years searching for [[The Seven Shards]] after discovering ancient texts about the [[The Crown of Stars]]. His obsession has physically transformed him - crystal growths now replace much of his left arm and shoulder, and his eyes glow with inner light when he speaks of the Shards.
@@ -258,7 +260,7 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 
 ---
 
-### Links to [[Quest - The Convergence Crisis]]
+### Links to [[Quest   The Convergence Crisis]]
 **Crown-Convergence Connection**: Understanding how Shard reunification affects dimensional stability
 - Marcus's research reveals Crown of Stars was originally dimensional stabilization device
 - Current Shard separation weakening barriers between realities
@@ -285,7 +287,6 @@ Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus wh
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

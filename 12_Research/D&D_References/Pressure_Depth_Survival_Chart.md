@@ -1,3 +1,12 @@
+---
+title: Pressure_Depth_Survival_Chart
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pressure_Depth_Survival_Chart
 
 ---
@@ -16,7 +25,6 @@ updated: '2025-08-13'
 world: Aquabyssos
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -28,11 +36,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Essential Guide for Surface Dwellers
 
@@ -199,7 +202,6 @@ From 50-200 fathoms:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Secret Connections
 

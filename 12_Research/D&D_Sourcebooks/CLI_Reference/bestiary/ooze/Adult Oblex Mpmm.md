@@ -1,3 +1,12 @@
+---
+title: Adult Oblex Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Adult Oblex Mpmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-oblex-mpmm-adult-oblex-mpmm.svg)
 
-# [[adult-oblex-mpmm|Adult Oblex]]
+# [[adult oblex mpmm|Adult Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Older oblexes, called adults and elders, have eaten so many memories that they c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Oblexes
 
@@ -118,8 +121,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [[greater-restoration-xphb|greater restoration]]\
-      \ or [[heal-xphb|heal]] spell. Constructs, Oozes,\
+      \ it benefits from the [[greater restoration xphb|greater restoration]]\
+      \ or [[heal xphb|heal]] spell. Constructs, Oozes,\
       \ Plants, and Undead succeed on the save automatically.\n\nWhile memory drained,\
       \ the target must roll a d4 and subtract the number rolled from its ability\
       \ checks and attack rolls. Each time the target is memory drained beyond the\
@@ -131,9 +134,9 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      3/day each: [[charm-person-xphb|charm person]]\
-      \ (as 5th-level spell), [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[hypnotic-pattern-xphb|hypnotic pattern]]"
+      3/day each: [[charm person xphb|charm person]]\
+      \ (as 5th-level spell), [[detect thoughts xphb|detect thoughts]],\
+      \ [[hypnotic pattern xphb|hypnotic pattern]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
@@ -174,11 +177,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Plot Hooks
 
@@ -188,7 +189,6 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

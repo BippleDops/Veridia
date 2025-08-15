@@ -1,3 +1,12 @@
+---
+title: Merger_Events_Pack_D
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merger_Events_Pack_D
 
 ---
@@ -23,13 +32,12 @@ world: Both
 
 # Merger Events Pack D — Faction Spotlight (24)
 
-Use with [[Complete Reality Merger System]], [[Sanity System]], [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
+Use with [[Complete Reality Merger System]], [[Sanity System]], [[Merger Hybrid Vehicles|Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
 
 ---
 
 ### Appendix: Doctrine Effects
 Apply doctrine baselines; track Integrity/Sanity/memory costs and faction standings.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Apply doctrine baselines; track Integrity/Sanity/memory costs and faction standi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

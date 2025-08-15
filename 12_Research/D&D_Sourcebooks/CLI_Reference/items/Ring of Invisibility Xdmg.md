@@ -1,3 +1,12 @@
+---
+title: Ring of Invisibility Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Invisibility Xdmg
 
 ---
@@ -29,10 +38,9 @@ world: Both
 *Ring, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
-While wearing this ring, you can take a [[actions#Magic|Magic]] action to give yourself the [[conditions#Invisible|Invisible]] condition. You remain [[conditions#Invisible|Invisible]] until the ring is removed or until you take a [[bonus-action-xphb|Bonus Action]] to become visible again.
+While wearing this ring, you can take a [[actions#Magic|Magic]] action to give yourself the [[conditions#Invisible|Invisible]] condition. You remain [[conditions#Invisible|Invisible]] until the ring is removed or until you take a [[bonus action xphb|Bonus Action]] to become visible again.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ While wearing this ring, you can take a [[actions#Magic|Magic]] action to give y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,11 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

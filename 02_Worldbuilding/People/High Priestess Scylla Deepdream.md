@@ -19,11 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,7 +48,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Oral_Tradition Improvements
 
@@ -65,13 +60,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
@@ -81,13 +72,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drown herself ritually to gain the power to shape it. Now barely recognizable as having been human, she leads the Wake faction in their mission to awaken Thal'mexis and drown the surface world completely. She speaks only in prophecies and views linear time as a quaint limitation.
@@ -192,16 +180,13 @@ High Priestess Scylla Deepdream is a undersea element of the setting, known for 
 
 Legends speak of High Priestess Scylla Deepdream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Scylla Deepdream.
 
-
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
-
 
 ## Historical Timeline
 
@@ -219,7 +204,6 @@ Mentioned in The First Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Religious Observances
 

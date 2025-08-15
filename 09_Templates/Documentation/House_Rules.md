@@ -1,3 +1,12 @@
+---
+title: House_Rules
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # House_Rules
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Character Creation
 *Custom rules for character creation*
@@ -52,7 +55,6 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A stranger needs help stealing before the new moon
@@ -62,7 +64,6 @@ modified: '2025-08-14'
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
-
 
 ## 09_Templates Specific Content
 

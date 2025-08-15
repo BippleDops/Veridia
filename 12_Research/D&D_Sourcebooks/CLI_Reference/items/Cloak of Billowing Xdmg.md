@@ -1,3 +1,12 @@
+---
+title: Cloak of Billowing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloak of Billowing Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-billowing.webp#right)
 
-While wearing this cloak, you can take a [[bonus-action-xphb|Bonus Action]] to make it billow dramatically for 1 minute.
+While wearing this cloak, you can take a [[bonus action xphb|Bonus Action]] to make it billow dramatically for 1 minute.
 
 *Source: Dungeon Master's Guide (2024) p. 244*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ While wearing this cloak, you can take a [[bonus-action-xphb|Bonus Action]] to m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

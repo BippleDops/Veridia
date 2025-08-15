@@ -1,3 +1,12 @@
+---
+title: Kenku Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Kenku Xmm
 
 ---
@@ -34,9 +43,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kenku-xmm-kenku-xmm.svg)
 
-# [[kenku-xmm|Kenku]]
+# [[kenku xmm|Kenku]]
 *Source: Monster Manual (2024) p. 183*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Kenku
 
@@ -101,7 +104,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
       \ the kenku's hand immediately after a ranged attack."
     "name": "Shadow Blade"
 "bonus_actions":
-  - "desc": "The kenku casts [[faerie-fire-xphb|Faerie Fire]],\
+  - "desc": "The kenku casts [[faerie fire xphb|Faerie Fire]],\
       \ using Intelligence as the spellcasting ability (spell save DC 10).\n"
     "name": "Eldritch Lantern (Recharge 4-6)"
 "source":
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before the festival
@@ -142,7 +144,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

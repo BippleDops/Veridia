@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,17 +34,13 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
 
 ### Variant Improvements
 
-- Add 'gritty realism' variant of rule
 - Add 'gritty realism' variant of rule
 
 ### Automated Improvements
@@ -57,20 +50,14 @@ improvements: 20
 ### Magic_Items Improvements
 
 - Note how magic items affect this rule
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 
 ### Interaction Improvements
 
-- Clarify interaction with multiclassing
 - Clarify interaction with multiclassing
 
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
-
 
 ## Mechanic Overview
 
@@ -242,7 +229,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Prophecy Connection
 

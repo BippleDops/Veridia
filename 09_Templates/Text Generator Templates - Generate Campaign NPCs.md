@@ -1,3 +1,12 @@
+---
+title: Text Generator Templates - Generate Campaign NPCs
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Text Generator Templates - Generate Campaign NPCs
 
 ---
@@ -21,7 +30,6 @@ world: Both
 updated: '2025-08-13T01:18:31.186044+00:00'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -33,11 +41,6 @@ updated: '2025-08-13T01:18:31.186044+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Prompt 1: Standard NPC Generator
 
@@ -57,7 +60,7 @@ Create a detailed D&D NPC for the trade city of Shadowhaven. Include:
 
 **Plot Integration:**
 - Connection to Shadowhaven's guild system
-- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater]], [[Whisper Jack]], [[Master Thorne Blackforge]], [[Lady Seraphina Goldleaf]]
+- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater]], [[Whisper Jack (Lore)]], [[Master Thorne Blackforge (D&D References)]], [[Lady Seraphina Goldleaf (D&D References)]]
 - A quest hook they could provide
 - Something valuable they know or possess
 
@@ -283,7 +286,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

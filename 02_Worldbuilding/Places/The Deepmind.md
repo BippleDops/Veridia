@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deepmind-the-deepmind.svg]]
 
 # The Deepmind
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,23 +68,17 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Evolution Improvements
@@ -98,10 +88,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-
 
 ## Overview
 The Deepmind is a massive organic structure that serves as both the lair and extended body of [[Aboleth Prime Yoth]]. Located in the crushing depths beneath [[Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
@@ -253,12 +239,9 @@ Ongoing situations affecting The Deepmind:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Plot Hooks
 
@@ -283,7 +266,6 @@ Key stop on spices trade route
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Young Black Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young Black Dragon Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-black-dragon-xmm-v1-young-black-dragon-xmm.svg)
 
-# [[young-black-dragon-xmm|Young Black Dragon]]
+# [[young black dragon xmm|Young Black Dragon]]
 *Source: Monster Manual (2024) p. 38. Available in the SRD and the Free Rules (2024)*  
 
 Most young black dragons claim a hidden lair—typically a dismal place accessible through deadly ruins or a treacherous bog. They delight in exploiting fearful servants and might terrorize small communities or impress groups of kobolds or troglodytes into their service. Some ally themselves with powerful undead such as death knights and vampires or aberrations such as aboleths and kuo-toa.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Most young black dragons claim a hidden lair—typically a dismal place accessib
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Black Dragons
 
@@ -111,7 +114,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ plus 3 (d6) Acid damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line area of effect xphb|Line]]. Failure:\
       \ 49 (14d6) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":
@@ -140,7 +143,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and truth emerges
@@ -154,7 +156,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

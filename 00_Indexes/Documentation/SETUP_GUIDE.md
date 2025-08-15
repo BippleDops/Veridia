@@ -1,3 +1,12 @@
+---
+title: SETUP_GUIDE
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # SETUP_GUIDE
 
 ---

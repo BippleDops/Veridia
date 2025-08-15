@@ -32,15 +32,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-angel-of-the-depths-angel-of-the-depths.svg)
 
 # Angel of the Depths
 
 *A massive, corrupted monument standing as both beacon and warning in the deepest waters of Aquabyssos*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,14 +66,9 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -85,9 +77,6 @@ improvements: 20
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Material_Culture Improvements
@@ -101,7 +90,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -332,8 +320,6 @@ Ongoing situations affecting Angel of the Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A map reveals ancient history about this place
@@ -357,7 +343,6 @@ Ongoing situations affecting Angel of the Depths:
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -369,7 +354,6 @@ Ongoing situations affecting Angel of the Depths:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

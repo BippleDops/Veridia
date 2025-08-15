@@ -28,14 +28,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg]]
 
 # Character Relationship Web - Core NPCs
 *How the Major Characters' Backstories Interconnect and Create Plot Opportunities*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,10 +64,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Hospitality Improvements
 
@@ -80,13 +72,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Death_Customs Improvements
@@ -96,7 +84,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 This document explores the deep character connections between our five major NPCs, showing how their enriched backstories create natural plot hooks, relationship tensions, and roleplay opportunities. Each character's personal history intersects with others in meaningful ways that drive story development.
@@ -367,11 +354,9 @@ languages: Common
 cr: 1/4
 ```
 
-
 ## Bloodline
 
 Member of House Eagleblood - Trait: curse
-
 
 ## Religious Observances
 
@@ -384,7 +369,6 @@ Member of House Eagleblood - Trait: curse
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

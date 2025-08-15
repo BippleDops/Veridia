@@ -1,3 +1,12 @@
+---
+title: Quaals Feather Token Bird Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quaals Feather Token Bird Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 
 This object looks like a feather.
 
-You can take a [[actions#Magic|Magic]] action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a [[roc-xmm|Roc]], but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 [[hit-points-xphb|Hit Points]]. You can dismiss the bird as a [[actions#Magic|Magic]] action.
+You can take a [[actions#Magic|Magic]] action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a [[roc xmm|Roc]], but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 [[hit points xphb|Hit Points]]. You can dismiss the bird as a [[actions#Magic|Magic]] action.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD (as "Feather Token, Bird") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ You can take a [[actions#Magic|Magic]] action to toss the token 5 feet into the 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,14 +71,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

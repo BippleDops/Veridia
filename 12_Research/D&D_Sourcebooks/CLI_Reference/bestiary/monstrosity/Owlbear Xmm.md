@@ -1,3 +1,12 @@
+---
+title: Owlbear Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Owlbear Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-owlbear-xmm-owlbear-xmm.svg)
 
-# [[owlbear-xmm|Owlbear]]
+# [[owlbear xmm|Owlbear]]
 *Source: Monster Manual (2024) p. 234. Available in the SRD and the Free Rules (2024)*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Owlbears are tenacious hunters that might track prey over miles and rarely give 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Owlbears
 
@@ -130,11 +133,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Related Notes
 
@@ -143,11 +144,9 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -26,15 +26,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg)
 
 # The Sunken Cathedral of Stars
 
 *Where Deep Gods Dream and Mortals Transform*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,8 +64,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Hospitality Improvements
 
@@ -77,11 +72,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
@@ -91,7 +84,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
@@ -100,8 +92,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -153,8 +143,6 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about the government
@@ -171,7 +159,6 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -191,7 +178,6 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -203,7 +189,6 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

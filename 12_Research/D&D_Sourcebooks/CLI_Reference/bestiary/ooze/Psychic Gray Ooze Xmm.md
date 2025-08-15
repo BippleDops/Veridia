@@ -1,3 +1,12 @@
+---
+title: Psychic Gray Ooze Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Psychic Gray Ooze Xmm
 
 ---
@@ -31,11 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-psychic-gray-ooze-xmm.svg)
 
-# [[psychic-gray-ooze-xmm|Psychic Gray Ooze]]
+# [[psychic gray ooze xmm|Psychic Gray Ooze]]
 *Source: Monster Manual (2024) p. 151. Available in the SRD*  
 
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes resu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Gray Oozes
 
@@ -97,7 +100,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Amorphous"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 11 (3d6 + 1) Acid damage,\
-      \ and the target has [[disadvantage-xphb|Disadvantage]]\
+      \ and the target has [[disadvantage xphb|Disadvantage]]\
       \ on Intelligence saving throws until the end of the ooze's next turn."
     "name": "Pseudopod"
   - "desc": "Intelligence Saving Throw: DC 10, one creature the ooze can see within\
@@ -134,11 +137,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -151,11 +152,9 @@ Mentioned in The First Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

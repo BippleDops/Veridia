@@ -1,3 +1,12 @@
+---
+title: Improvising Damage Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Improvising Damage Xdmg
 
 ---
@@ -37,7 +46,6 @@ world: Both
 | `24d10` | Tumbling into a vortex of fire on the "Elemental Plane of Fire", crushed in the jaws of a godlike creature or a moon-size monster |
 ^improvising-damage
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## 12_Research Specific Content
 

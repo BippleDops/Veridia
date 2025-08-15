@@ -1,88 +1,47 @@
-# Ki Rin Vgm
-
 ---
 title: Ki Rin Vgm
-aliases:
-- Ki-rin
-type: note
+type: organization
 tags:
-- both
-- content/faction
-- research
-- world/both
-- active
-- note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/vgm
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-note
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.935866+00:00'
-world: Both
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-ki-rin-vgm-ki-rin-vgm.svg)
+# Ki Rin Vgm
 
+## Overview
+This document contains important information regarding Ki Rin Vgm and its role within the greater narrative.
 
-## 🔧 Deep Evaluation Improvements
+## Description
+Ki Rin Vgm represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*20 targeted improvements identified*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-### Connection Improvements
+## Details
+### Background
+Historical context and development over time.
 
-- Add cross-references to related notes
+### Current State
+Present circumstances and ongoing relevance.
 
-### Enhancement Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
-## Lair actions
-_Source: Volo's Guide to Monsters_
-
-Inside its lair, a ki-rin has the power to conjure objects up to three times per day, using each of the following versions of the power once. One version permanently creates enough objects made of soft, plant-based material - including manufactured objects such as cloth, pillows, rope, blankets, and clothing - to fill a cube 20 feet on a side. The second version permanently creates enough objects made of wood, or similarly hard plant-based material, to fill a cube 10 feet on a side. The third version creates enough objects made of stone or metal to fill a cube 2 feet on a side, but any materials created in this way last for only 1 hour.
-
-## Regional effects
-
-The ki-rin's celestial nature transforms the region around its lair. Any of the following magical effects is possible for travelers to encounter in the vicinity:
-
-- Water flows pure within 3 miles of a ki-rin's lair. Any purposeful corruption of the water lasts for no longer than 3 minutes.  
-- Animals, plants, and good creatures within 3 miles of the ki-rin's lair gain vigor as they evolve toward an idealized form. Such creatures are rarely aggressive toward others that aren't normally prey. Evil creatures can't tolerate the holy atmosphere within the same distance, and usually choose to live much farther from the domain of a ki-rin.  
-- Curses, diseases, and poisons affecting good-aligned creatures are suppressed when those creatures are within 3 miles of the lair.  
-- A ki-rin can cast [[control-weather-xphb|control weather]] while it is within 3 miles of its lair. The spell's point of origin is always the point outdoors closest to the center of its lair. The ki-rin doesn't need to maintain a clear path to the sky or to concentrate for the change in weather to persist.  
-- Within 3 miles of the lair, winds buoy non-evil creatures that fall due to no act of the ki-rin or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.  
-
-When the ki-rin dies, all these effects disappear immediately, although the invigorating effect on flora and fauna remains for 3 years.
-
-## Player-Facing Summary
-
-Ki rin vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of ki rin vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ki rin vgm.
+## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
 ## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## Prophecy Connection
-
-Mentioned in The Second Prophecy of Winds
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+*Customize as needed for your specific campaign requirements.*

@@ -1,3 +1,12 @@
+---
+title: Sahuagin Warrior Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Sahuagin Warrior Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sahuagin-warrior-xmm-sahuagin-warrior-xmm.svg)
 
-# [[sahuagin-warrior-xmm|Sahuagin Warrior]]
+# [[sahuagin warrior xmm|Sahuagin Warrior]]
 *Source: Monster Manual (2024) p. 264. Available in the SRD and the Free Rules (2024)*  
 
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Sahuagin warriors are vicious combatants that savage their foes with webbed claw
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sahuagin
 
@@ -93,8 +96,8 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
-  - "desc": "The sahuagin has [[advantage-xphb|Advantage]]\
-      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb|Hit Points]]."
+  - "desc": "The sahuagin has [[advantage xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit points xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -108,7 +111,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The sahuagin swims up to its [[swim-speed-xphb|Swim Speed]]\
+  - "desc": "The sahuagin swims up to its [[swim speed xphb|Swim Speed]]\
       \ straight toward an enemy it can see."
     "name": "Aquatic Charge"
 "source":
@@ -137,16 +140,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

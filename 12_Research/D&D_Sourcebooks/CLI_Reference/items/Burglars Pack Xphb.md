@@ -1,3 +1,12 @@
+---
+title: Burglars Pack Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Burglars Pack Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 16 gp
 - **Weight**: 47.5 lbs.
 
-A Burglar's Pack contains the following items: [[backpack-xphb|Backpack]], [[ball-bearings-xphb|Ball Bearings]], [[bell-xphb|Bell]], 10 [[candle-xphb|Candles]], [[crowbar-xphb|Crowbar]], [[hooded-lantern-xphb|Hooded Lantern]], 7 flasks of [[oil-xphb|Oil]], 5 days of [[rations-xphb|Rations]], [[rope-xphb|Rope]], [[tinderbox-xphb|Tinderbox]], and [[waterskin-xphb|Waterskin]].
+A Burglar's Pack contains the following items: [[backpack xphb|Backpack]], [[ball bearings xphb|Ball Bearings]], [[bell xphb|Bell]], 10 [[candle xphb|Candles]], [[crowbar xphb|Crowbar]], [[hooded lantern xphb|Hooded Lantern]], 7 flasks of [[oil xphb|Oil]], 5 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], and [[waterskin xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Burglar's Pack contains the following items: [[backpack-xphb|Backpack]], [[bal
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Barbarian Xphb Path of the Berserker Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Barbarian Xphb Path of the Berserker Xphb
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Path of the Berserker
-*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 54. Available in the SRD*  
 
 > [!tldr] Class and Feature Progression
@@ -61,22 +70,21 @@ Barbarians who walk the Path of the Berserker direct their Rage primarily toward
 
 ### Frenzy (Level 3)
 
-If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or [[unarmed-strike-xphb|Unarmed Strike]] used for the attack.
+If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or [[unarmed strike xphb|Unarmed Strike]] used for the attack.
 
 ### Mindless Rage (Level 6)
 
-You have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions while your Rage is active. If you're [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] when you enter your Rage, the condition ends on you.
+You have [[immunity xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions while your Rage is active. If you're [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] when you enter your Rage, the condition ends on you.
 
 ### Retaliation (Level 10)
 
-When you take damage from a creature that is within 5 feet of you, you can take a [[reaction-xphb|Reaction]] to make one melee attack against that creature, using a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
+When you take damage from a creature that is within 5 feet of you, you can take a [[reaction xphb|Reaction]] to make one melee attack against that creature, using a weapon or an [[unarmed strike xphb|Unarmed Strike]].
 
 ### Intimidating Presence (Level 14)
 
-As a [[bonus-action-xphb|Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[proficiency-xphb|Proficiency Bonus]]). On a failed save, a creature has the [[conditions#frightened|Frightened]] condition for 1 minute. At the end of each of the [[conditions#frightened|Frightened]] creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [[bonus action xphb|Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[emanation area of effect xphb|Emanation]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[proficiency xphb|Proficiency Bonus]]). On a failed save, a creature has the [[conditions#frightened|Frightened]] condition for 1 minute. At the end of each of the [[conditions#frightened|Frightened]] creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
-
+Once you use this feature, you can't use it again until you finish a [[long rest xphb|Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -89,11 +97,6 @@ Once you use this feature, you can't use it again until you finish a [[long-rest
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -111,11 +114,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 

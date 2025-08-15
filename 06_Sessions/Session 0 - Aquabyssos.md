@@ -1,3 +1,12 @@
+---
+title: Session 0 - Aquabyssos
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session 0 - Aquabyssos
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Before diving deep, one must understand the currents above." - Traditional Aquabyssos Proverb*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Session 0 for an Aquabyssos campaign establishes the unique parameters of underwater adventuring, the complex political landscape of the dual-world setting, and the specific character considerations required for thriving in this aquatic realm. This foundational session covers everything from basic survival mechanics to the intricate social hierarchies that define daily life in the great underwater city. Players must understand both the opportunities and dangers of their chosen setting before their characters take their first breath of enchanted water.
@@ -119,8 +122,6 @@ Legends speak of Session 0   Aquabyssos as a nexus where past and present conver
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Plot Hooks
 

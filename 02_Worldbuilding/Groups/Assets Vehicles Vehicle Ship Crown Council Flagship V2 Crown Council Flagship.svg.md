@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-v2-crown-council-flagship.svg](../../04_Resources/Assets/Generated/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_v2_crown_council_flagship_svg.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,23 +46,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Evolution Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Organization Overview
 
@@ -216,11 +206,9 @@ What they claim to pursue
 ---
 *Tags*: #organization #council #faction #worldbuilding
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -244,7 +232,6 @@ What they claim to pursue
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

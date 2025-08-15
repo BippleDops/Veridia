@@ -1,3 +1,12 @@
+---
+title: Rewriting the Ritual
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rewriting the Ritual
 
 ---
@@ -37,7 +46,6 @@ origin: Emergency Response
 > *"When the ancient ways fail and the very foundations of magic turn against us, we must dare to rewrite the sacred formulas themselves. It is heretical, it is dangerous, but it may be our only hope for survival in a world where corruption has learned to speak our own magical language."*
 > — [[Archmage Lyralei Voidward]], Chief Magical Theorist of the [[Council of Mages]]
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ origin: Emergency Response
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -333,7 +336,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help delivering before dawn
@@ -345,16 +347,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

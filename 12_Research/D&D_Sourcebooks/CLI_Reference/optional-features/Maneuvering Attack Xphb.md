@@ -1,3 +1,12 @@
+---
+title: Maneuvering Attack Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Maneuvering Attack Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Maneuvering Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its [[reaction-xphb|Reaction]] to move up to half its [[speed-xphb|Speed]] without provoking an [[actions#Opportunity%20Attack|Opportunity Attack]] from the target of your attack.
-
+When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its [[reaction xphb|Reaction]] to move up to half its [[speed xphb|Speed]] without provoking an [[actions#Opportunity%20Attack|Opportunity Attack]] from the target of your attack.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ When you hit a creature with an attack roll, you can expend one Superiority Die 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
-
 
 ## Plot Hooks
 

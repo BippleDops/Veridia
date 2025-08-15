@@ -1,3 +1,12 @@
+---
+title: Travel_and_Navigation_Reference
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Travel_and_Navigation_Reference
 
 ---
@@ -182,7 +191,6 @@ world: Both
 | **Cargo Portal** | 50 gp/ton | Bulk shipping |
 | **Emergency Portal** | 500 gp | Crisis situations |
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -194,11 +202,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 

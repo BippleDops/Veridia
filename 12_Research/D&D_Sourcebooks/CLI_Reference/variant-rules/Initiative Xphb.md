@@ -1,3 +1,12 @@
+---
+title: Initiative Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Initiative Xphb
 
 ---
@@ -27,10 +36,9 @@ world: Both
 
 Initiative determines the order of turns during combat. The combat rules in "chapter 1" explain how to roll Initiative.
 
-Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[advantage-xphb|Advantage]] on Initiative rolls, increase your Initiative score by 5. If you have [[disadvantage-xphb|Disadvantage]] on those rolls, decrease that score by 5.
+Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[advantage xphb|Advantage]] on Initiative rolls, increase your Initiative score by 5. If you have [[disadvantage xphb|Disadvantage]] on those rolls, decrease that score by 5.
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -43,11 +51,6 @@ Sometimes a DM might have combatants use their Initiative scores instead of roll
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,7 +67,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

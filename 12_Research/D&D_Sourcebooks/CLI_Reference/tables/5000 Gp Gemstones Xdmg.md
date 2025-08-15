@@ -1,3 +1,12 @@
+---
+title: 5000 Gp Gemstones Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 5000 Gp Gemstones Xdmg
 
 ---
@@ -31,12 +40,11 @@ world: Both
 
 | dice: 1d4 | Stone |
 |-----------|-------|
-| 1 | [[black-sapphire-xdmg|Black sapphire]] (lustrous black with glowing highlights) |
-| 2 | [[diamond-xdmg|Diamond]] (blue white, canary, pink, brown, or blue) |
-| 3 | [[jacinth-xdmg|Jacinth]] (fiery orange) |
-| 4 | [[ruby-xdmg|Ruby]] (clear red to deep crimson) |
+| 1 | [[black sapphire xdmg|Black sapphire]] (lustrous black with glowing highlights) |
+| 2 | [[diamond xdmg|Diamond]] (blue white, canary, pink, brown, or blue) |
+| 3 | [[jacinth xdmg|Jacinth]] (fiery orange) |
+| 4 | [[ruby xdmg|Ruby]] (clear red to deep crimson) |
 ^5000-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

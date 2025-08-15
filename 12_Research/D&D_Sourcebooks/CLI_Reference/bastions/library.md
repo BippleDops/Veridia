@@ -1,3 +1,12 @@
+---
+title: library
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # library
 
 ---
@@ -22,7 +31,6 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]]
 
 # Library
 *Level 5 Bastion facility*  
@@ -33,7 +41,6 @@ world: Both
 - **Order**: research
 
 This Library contains a collection of books plus one or more desks and reading chairs.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +53,6 @@ This Library contains a collection of books plus one or more desks and reading c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Research: Topical Lore
 
@@ -74,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

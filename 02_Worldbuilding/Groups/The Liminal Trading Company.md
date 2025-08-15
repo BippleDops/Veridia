@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-liminal-trading-company-the-liminal-trading-company.svg]]
 
 # The Liminal Trading Company
 *Masters of Between-World Commerce, The Dimensional Merchants*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -75,18 +71,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
@@ -104,12 +95,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[pat]]—a dimensional nexus that exists partially in both [[Aethermoor]] and [[Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
@@ -177,7 +166,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Cultural Practices
 

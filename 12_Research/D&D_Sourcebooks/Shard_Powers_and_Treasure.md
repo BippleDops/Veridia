@@ -1,3 +1,12 @@
+---
+title: Shard_Powers_and_Treasure
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shard_Powers_and_Treasure
 
 ---
@@ -409,7 +418,6 @@ Rewards escalate from uncommon items in early sessions to legendary artifacts by
 ### Player Agency
 The corruption system and shard powers give players meaningful choices about character development, with no "correct" path through the campaign's challenges.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -421,11 +429,6 @@ The corruption system and shard powers give players meaningful choices about cha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -438,7 +441,6 @@ The corruption system and shard powers give players meaningful choices about cha
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

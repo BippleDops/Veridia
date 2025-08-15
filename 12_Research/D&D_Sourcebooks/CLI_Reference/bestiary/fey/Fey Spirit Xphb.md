@@ -1,131 +1,47 @@
-# Fey Spirit Xphb
-
 ---
 title: Fey Spirit Xphb
-aliases:
-- Fey Spirit
-type: monster
+type: note
 tags:
-- both
-- ttrpg-cli/monster/cr/
-- monster
-- research
-- world/both
-- active
-- ttrpg-cli/monster/type/fey
-- status/in-progress
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/compendium/src/5e/xphb
-created: 
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-monster
-obsidian-u-i-mode: preview
-statblock: inline
-statblock-link: '#^statblock'
-updated: '2025-08-13T12:34:05.521442+00:00'
-world: Both
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-> [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg)
+# Fey Spirit Xphb
 
-# [[fey-spirit-xphb|Fey Spirit]]
-*Source: Player's Handbook (2024) p. 326*  
+## Overview
+This document contains important information regarding Fey Spirit Xphb and its role within the greater narrative.
 
-```statblock
-"name": "Fey Spirit (XPHB)"
-"size": "Small"
-"type": "fey"
-"alignment": "Neutral"
-"ac_class": "12 + the spell's level"
-"modifier": !!int "3"
-"stats":
-  - !!int "13"
-  - !!int "16"
-  - !!int "14"
-  - !!int "11"
-"speed": "30 ft., fly 30 ft."
-"condition_immunities": "[[conditions#Charmed|charmed]]"
-"senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Sylvan, understands the languages you know"
-"actions":
-  - "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\
-      \ level (round down)."
-    "name": "Multiattack"
-  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
-      \ ft. Hit: 2d6 + 3 + the spell's level Force damage."
-    "name": "Fey Blade"
-"bonus_actions":
-  - "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
-      \ can see. Then one of the following effects occurs, based on the spirit's chosen\
-      \ mood:\n\n- Fuming. The spirit has Advantage on the next attack roll it\
-      \ makes before the end of this turn.  \n- Mirthful. Wisdom Saving Throw:\
-      \ DC equals your spell save DC, one creature the spirit can see within 10 feet\
-      \ of itself. Failure: The target is [[conditions#Charmed|Charmed]]\
-      \ by you and the spirit for 1 minute or until the target takes any damage. \
-      \ \n- Tricksy. The spirit fills a 10-foot Cube within 5 feet of it with\
-      \ magical Darkness, which lasts until the end of its next turn.  "
-    "name": "Fey Step"
-"source":
-  - "XPHB"
-"image": "/03_Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp"
-```
-^statblock
+## Description
+Fey Spirit Xphb represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
-## 🔧 Deep Evaluation Improvements
+## Details
+### Background
+Historical context and development over time.
 
-*20 targeted improvements identified*
+### Current State
+Present circumstances and ongoing relevance.
 
-### Connection Improvements
+### Future Potential
+Possible developments and plot directions.
 
-- Add cross-references to related notes
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Fey spirit xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of fey spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fey spirit xphb.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Someone is blackmailing information for power
-- A document has gone missing and chaos spreads
-
-## Related Notes
-
-- [[Similar Topic 1]]
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

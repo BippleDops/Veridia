@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-lock-the-lock.svg]]
 
 # The Lock
 *The Last Barrier Between Worlds*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,29 +68,21 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
@@ -104,7 +92,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -193,7 +180,7 @@ Living quarters designed for extreme psychological pressure:
 
 **The Workshop Levels**
 - Maintece facilities for the seven matrices
-- Forges for creating [[Hadal-Resistant Equipment]]
+- Forges for creating [[Hadal Resistant Equipment]]
 - Laboratories for studying phenomena from beyond the barrier
 - Storage for replacement parts and emergency materials
 
@@ -429,7 +416,6 @@ The Lock is a notable location characterized by its unique features and strategi
 ### Founding
 The Lock was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -446,7 +432,6 @@ The Lock was established in the distant past, growing from humble beginnings to 
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

@@ -1,3 +1,12 @@
+---
+title: Boots of Striding and Springing Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boots of Striding and Springing Xdmg
 
 ---
@@ -28,12 +37,11 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/boots-of-striding-and-springing.webp#right)
 
-While you wear these boots, your [[speed-xphb|Speed]] becomes 30 feet unless your [[speed-xphb|Speed]] is higher, and your [[speed-xphb|Speed]] isn't reduced by you carrying weight in excess of your carrying capacity or wearing Heavy Armor.
+While you wear these boots, your [[speed xphb|Speed]] becomes 30 feet unless your [[speed xphb|Speed]] is higher, and your [[speed xphb|Speed]] isn't reduced by you carrying weight in excess of your carrying capacity or wearing Heavy Armor.
 
 Once on each of your turns, you can jump up to 30 feet by spending only 10 feet of movement.
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ Once on each of your turns, you can jump up to 30 feet by spending only 10 feet 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A document has gone missing and war looms
@@ -80,7 +82,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

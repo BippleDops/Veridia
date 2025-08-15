@@ -23,17 +23,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-foundation-depths-the-foundation-depths.svg]]
 
 # The Foundation Depths
 *Where Aquabyssos Stands Upon Ancient Dreams*
 
 > *"Every great structure needs roots that go deeper than its highest tower. Here, in the crushing deep, we have built the bones upon which our civilization rests."*
 > — Chief Engineer [[Basalt Depthwright]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,7 +58,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
@@ -75,29 +70,22 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -687,12 +675,9 @@ Ongoing situations affecting The Foundation Depths:
 - External threats
 - Opportunities arising
 
-
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Cultural Practices
 

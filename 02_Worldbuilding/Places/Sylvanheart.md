@@ -45,15 +45,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sylvanheart-sylvanheart.svg]]
 
 # Sylvanheart
 
 *Where Civilization and Nature Become One*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,16 +78,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Contradictions Improvements
@@ -100,9 +93,6 @@ improvements: 20
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Coming_Of_Age Improvements
@@ -120,7 +110,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -426,7 +415,7 @@ Characters spending time in Sylvanheart gain:
 
 **Forest Assembly Days**: Weekly community gatherings bring together all districts for collective decision-making and celebration of community achievements. These assemblies include representation from forest spirits, animal communities, and visiting diplomats. Decisions reached during these gatherings coordinate community-wide activities while maintaining ecological balance.
 
-**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[Cross-Realm Etiquette Guide]] adapted for forest diplomacy.
+**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[Cross Realm Etiquette Guide]] adapted for forest diplomacy.
 
 **Guild Coordination Meetings**: Professional organizations coordinate their activities through weekly assemblies that follow traditions from the [[Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
 
@@ -501,12 +490,9 @@ Ongoing situations affecting Sylvanheart:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Plot Hooks
 

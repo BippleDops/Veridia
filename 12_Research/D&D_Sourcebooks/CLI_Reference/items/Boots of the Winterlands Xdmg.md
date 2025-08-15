@@ -1,3 +1,12 @@
+---
+title: Boots of the Winterlands Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Boots of the Winterlands Xdmg
 
 ---
@@ -30,7 +39,6 @@ world: Both
 
 These furred boots are snug and feel warm. While wearing them, you gain the following benefits.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -42,19 +50,14 @@ These furred boots are snug and feel warm. While wearing them, you gain the foll
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Cold Resistance
 
-You have [[resistance-xphb|Resistance]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
+You have [[resistance xphb|Resistance]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
 
 ## Winter Strider
 
-You ignore [[difficult-terrain-xphb|Difficult Terrain]] created by ice or snow.
+You ignore [[difficult terrain xphb|Difficult Terrain]] created by ice or snow.
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the SRD and the Free Rules (2024)*
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A prisoner has gone missing and war looms
@@ -88,16 +90,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

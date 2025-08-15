@@ -1,58 +1,65 @@
+---
+title: Quest - The Prophecy Fulfilled
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Prophecy Fulfilled
 
----
-title: Quest   The Prophecy Fulfilled
-type: NPC
-tags:
-- both
-- active
-- npc
-- research
-created: '2025-08-11'
-modified: '2025-08-14'
-status: active
-world: Both
-updated: '2025-08-13T01:18:36.889513+00:00'
----
+## Adventure Overview
+**Level Range**: 3-5
+**Duration**: 2-3 sessions
+**Theme**: Mystery and exploration
 
-> [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-prophecy-fulfilled-quest-the-prophecy-fulfilled.svg]]
+## Background
+Recent events have created a situation requiring brave adventurers to investigate and resolve.
 
+## Adventure Hooks
+1. **The Direct Approach**: NPCs hire the party directly
+2. **The Discovery**: Party stumbles upon clues
+3. **The Personal Stakes**: Connects to character backstories
 
-## 🔧 Deep Evaluation Improvements
+## Key Locations
+- **Starting Point**: [[Initial Location]]
+- **Investigation Sites**: Multiple areas to explore
+- **Climax Location**: Where final confrontation occurs
 
-*20 targeted improvements identified*
+## Important NPCs
+- **Quest Giver**: Provides initial information
+- **Allies**: Those who may help
+- **Antagonists**: Opposition forces
+- **Neutral Parties**: Could go either way
 
-### Connection Improvements
+## Story Arc
 
-- Add cross-references to related notes
+### Act 1: Introduction
+The party learns of the situation and begins investigation.
 
-### Enhancement Improvements
+### Act 2: Investigation
+Gathering clues and uncovering the truth behind events.
 
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
+### Act 3: Resolution
+Confronting the source of the problem and determining outcomes.
 
+## Encounters
+- **Combat**: 2-3 balanced encounters
+- **Social**: Multiple roleplay opportunities
+- **Exploration**: Environmental challenges
 
-## Player-Facing Summary
+## Rewards
+- Experience appropriate to level
+- Treasure parcels
+- Story advancement
+- Potential allies or resources
 
-Quest   The Prophecy Fulfilled is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+## Scaling Options
+- **Lower Level**: Reduce enemy numbers and DCs
+- **Higher Level**: Add complications and stronger foes
 
-## Lore Details
-
-Legends speak of Quest   The Prophecy Fulfilled as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Prophecy Fulfilled.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Tips
+- Allow multiple solution paths
+- Reward creative problem-solving
+- Connect to ongoing campaign themes

@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-navigation-temporal-navigation.svg]]
 
 # Temporal Navigation
 
 *Where time flows like an ocean current, carrying travelers through the streams of past and future*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,12 +64,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -83,16 +76,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Oral_Tradition Improvements
@@ -102,8 +92,6 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-
 
 ## Overview
 
@@ -291,7 +279,7 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - Failure: Take 3d6 force damage and gain one level of madness
 - Success: Half damage, no madness
 - Paradox Sickness: DC 16 Constitution save each hour or gain exhaustion
-- Only [[02_Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] items provide immunity
+- Only [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] items provide immunity
 
 ### Chronological Whirlpools
 
@@ -341,7 +329,7 @@ A repository of knowledge that exists across all time periods simultaneously. Sc
 
 ### The Probability Gardens
 
-Locations where potential futures grow like plants, tended by [[02_Worldbuilding/Lore/Future Gardeners]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
+Locations where potential futures grow like plants, tended by [[02 Worldbuilding/Lore/Future Gardeners]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
 - Observe potential outcomes of current events
 - Plant "seeds" that encourage favorable futures
 - Harvest probability fruits that provide glimpses of what might come
@@ -431,7 +419,7 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 - **[[The Abyssal Court]]**: Regulates temporal navigation through official channels
 - **[[The Sunken Cities]]**: Historical destinations for temporal researchers
 - **[[The Temporal War Battlefields]]**: Sites of ancient conflicts preserved in time
-- **[[02_Worldbuilding/Lore/Future Aquabyssos]]**: Potential destinations in various timeline branches
+- **[[02 Worldbuilding/Lore/Future Aquabyssos]]**: Potential destinations in various timeline branches
 - **[[The Paradox Gardens]]**: Where timeline anomalies are contained
 - **[[Temporal Anchor Points]]**: Navigation waypoints throughout the timestream
 - **[[The Chronicle Depths]]**: Where temporal records are maintained
@@ -516,8 +504,6 @@ Ongoing situations affecting Temporal Navigation:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Prophecy Connection
 

@@ -23,17 +23,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-court-herald-titus-court-herald-titus.svg]]
 
 # The Herald's Chambers
 *Voice of Authority in the Depths*
 
 > *"Every word that flows through these halls carries the weight of government, every message the power of law, every announcement the authority of democracy itself. Here, information becomes power, and power becomes destiny."*
 > — [[Court Herald Titus]], Master Herald and Chief of Communications
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,18 +62,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
@@ -87,7 +78,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -96,8 +86,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Overview
 
@@ -489,12 +477,9 @@ Ongoing situations affecting Court Herald Titus:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Historical Timeline
 
@@ -513,7 +498,6 @@ Key stop on magic items trade route
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -525,7 +509,6 @@ Key stop on magic items trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -544,7 +527,6 @@ Key stop on magic items trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Manes Vaporspawn Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Manes Vaporspawn Xmm
 
 ---
@@ -32,11 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-manes-vaporspawn-xmm-manes-vaporspawn-xmm.svg)
 
-# [[manes-vaporspawn-xmm|Manes Vaporspawn]]
+# [[manes vaporspawn xmm|Manes Vaporspawn]]
 *Source: Monster Manual (2024) p. 201*  
 
 Vaporspawn arise from evil souls shattered by unspeakable torments or the depredations of more powerful demons. These distorted manes undergo endless, painful contortions, and they share their torment with whatever creatures they encounter.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Vaporspawn arise from evil souls shattered by unspeakable torments or the depred
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Manes
 
@@ -94,7 +97,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
   - "desc": "The manes can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Contortionist"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
       \ originating from the manes at the end of the manes's turn. Failure: The\
       \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. Success: The target is immune\
@@ -105,8 +108,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
       \ plus 5 (2d4) Necrotic damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the manes\
+  - "desc": "While in [[dim light xphb|Dim Light]]\
+      \ or [[darkness xphb|Darkness]], the manes\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":
@@ -134,7 +137,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

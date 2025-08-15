@@ -1,3 +1,12 @@
+---
+title: Aquabyssos - Session 03 - The Gallery Conspiracy
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aquabyssos - Session 03 - The Gallery Conspiracy
 
 ---
@@ -71,7 +80,6 @@ world: Aquabyssos
 xp_awarded: 1100
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -83,11 +91,6 @@ xp_awarded: 1100
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Session Summary
 The party awakens to find one member replaced by their reflection from an alternate timeline. As they investigate the Gallery of Frozen Waves, they uncover a massive shadow surgery operation preparing for a harvest at high tide. The Conductor's screaming symphony reveals warnings from drowning victims while memory farmers profit from stolen identities.
@@ -103,7 +106,7 @@ The party awakens to find one member replaced by their reflection from an altern
 - Marina can "taste" the difference if present
 - Memory from yesterday's temporal overlap
 
-### Location: [[Party Quarters - Inverse Palace]]
+### Location: [[Party Quarters   Inverse Palace]]
 **Atmosphere**: Morning light through water creates caustic patterns. Both versions of party member perfect except for subtle differences.
 
 ### Reflection Broker's Mark
@@ -126,7 +129,7 @@ Both versions' shadows:
 3. **Keep Both**: Complications but double resources
 4. **Switch Places**: Send original to other timeline
 
-### Location: [[Screaming Gardens - Songwood Grove]]
+### Location: [[Screaming Gardens   Songwood Grove]]
 **Atmosphere**: Crystallized trees made from screams, each one a drowning victim's last moment preserved forever.
 
 ### The Conductor
@@ -277,11 +280,9 @@ This session's revelations connect to:
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

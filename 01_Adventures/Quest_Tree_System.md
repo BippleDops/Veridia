@@ -12,8 +12,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ### Quest_26
 **Prerequisites**: Complete [Quest C], Reputation: 55
 **Unlocks**: Access to unique ability
@@ -58,7 +56,6 @@ improvements: 20
 2. **Investigation**: Gather 4 clues
 5. **Epilogue**: New quests unlocked
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -86,13 +83,9 @@ improvements: 20
 ### Backup Improvements
 
 - Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
-- Add 'What if players skip this?' contingency
 
 ### Spotlight Improvements
 
-- Include spotlight moment for each character class
-- Include spotlight moment for each character class
 - Include spotlight moment for each character class
 
 ### Soundtrack Improvements
@@ -102,16 +95,13 @@ improvements: 20
 ### Level_Range Improvements
 
 - Provide scaling for different level ranges
-- Provide scaling for different level ranges
 
 ### Props Improvements
 
 - List physical props and handouts needed
-- List physical props and handouts needed
 
 ### Accessibility Improvements
 
-- Include content warnings and safety tools
 - Include content warnings and safety tools
 
 ### Art Improvements
@@ -122,7 +112,6 @@ improvements: 20
 
 - Add session zero integration questions
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -131,16 +120,13 @@ improvements: 20
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Plot Hooks
 
 - Someone is searching for a witness for money
-- Someone is searching for a artifact for power
 - Someone is searching for a artifact for power
 - A journal reveals ancient history about this place
 
@@ -153,13 +139,11 @@ improvements: 20
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
 
-
 ## Critical Decisions
 
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
-
 
 ## Moral Quandaries
 

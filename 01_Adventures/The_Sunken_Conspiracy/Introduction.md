@@ -32,12 +32,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Sunken Conspiracy
 
 *An Aquabyssos Adventure for Characters of Levels 1-3*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,13 +63,9 @@ improvements: 20
 ### Soundtrack Improvements
 
 - Suggest music/ambiance for each scene
-- Suggest music/ambiance for each scene
 
 ### Props Improvements
 
-- List physical props and handouts needed
-- List physical props and handouts needed
-- List physical props and handouts needed
 - List physical props and handouts needed
 
 ### Level_Range Improvements
@@ -82,11 +75,9 @@ improvements: 20
 ### Accessibility Improvements
 
 - Include content warnings and safety tools
-- Include content warnings and safety tools
 
 ### Backup Improvements
 
-- Add 'What if players skip this?' contingency
 - Add 'What if players skip this?' contingency
 
 ### Variants Improvements
@@ -96,12 +87,10 @@ improvements: 20
 ### Worldbuilding Improvements
 
 - Connect to three other adventures in the vault
-- Connect to three other adventures in the vault
 
 ### Art Improvements
 
 - Add AI art prompts for key scenes
-
 
 ## Adventure Overview
 
@@ -455,11 +444,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### Primary Hook
 The main reason parties get involved
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -476,7 +463,6 @@ Mentioned in The Second Prophecy of Shadows
 | 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
-
 
 ## Moral Quandaries
 

@@ -1,3 +1,12 @@
+---
+title: The Sunken Library
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Sunken Library
 
 ---
@@ -17,8 +26,6 @@ updated: '2025-08-13T01:18:34.672053+00:00'
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -31,11 +38,6 @@ updated: '2025-08-13T01:18:34.672053+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -52,7 +54,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

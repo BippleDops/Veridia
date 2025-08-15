@@ -1,3 +1,12 @@
+---
+title: Tiefling Dispater Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Tiefling Dispater Mtf
 
 ---
@@ -50,12 +59,11 @@ You have resistance to fire damage.
 
 ### Legacy of Dis
 
-You know the [[thaumaturgy-xphb|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[disguise-self-xphb|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect-thoughts-xphb|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[thaumaturgy xphb|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[disguise self xphb|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect thoughts xphb|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
 You can speak, read, and write Common and Infernal.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,11 +76,6 @@ You can speak, read, and write Common and Infernal.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -119,26 +122,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

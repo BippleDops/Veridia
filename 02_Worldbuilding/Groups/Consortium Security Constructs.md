@@ -37,14 +37,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg]]
 
 # Consortium Security Constructs
 *The Crystal Guard, The Ironprice Legion, Corporate Justice*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,20 +69,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Diaspora Improvements
@@ -100,12 +89,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Overview
 The Consortium Security Constructs represent [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]'s private military force, a fusion of advanced crystal technology and ruthless corporate enforcement. This organization combines magically-animated construct soldiers with highly trained human operators to form an elite security force that protects Consortium interests across [[Aethermoor]]. They are judge, jury, and executioner for corporate law, operating with near-governmental authority in Consortium-controlled territories.
@@ -145,7 +132,7 @@ The Consortium Security Constructs represent [[The Silverscale Consortium|02 Wor
 ### High Command
 **Executive Leadership**
 - **Supreme Commander**: [[Commander Ironprice]] - Former royal guard, corporate loyalist
-- **Deputy of Operations**: [[Colonel Crystal-Core]] - Half-construct tactical genius
+- **Deputy of Operations**: [[Colonel Crystal Core]] - Half-construct tactical genius
 - **Intelligence Director**: [[Spymaster Goldwatch]] - Information warfare specialist
 - **Chief Engineer**: [[Master Artificer Cogsworth]] - Construct design and maintece
 - **Enforcement Coordinator**: [[Captain Repossession]] - Debt collection and property seizure
@@ -291,7 +278,6 @@ What they claim to pursue
 ### Open Secrets
 Things widely suspected
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a portal
@@ -313,7 +299,6 @@ Things widely suspected
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

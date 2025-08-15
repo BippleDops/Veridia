@@ -1,3 +1,12 @@
+---
+title: Veterans Cane Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Veterans Cane Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Veteran's Cane
 *Wondrous item, common*  
 
-As a [[bonus-action-xphb|Bonus Action]], you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
+As a [[bonus action xphb|Bonus Action]], you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
 
 *Source: Dungeon Master's Guide (2024) p. 318*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ As a [[bonus-action-xphb|Bonus Action]], you can transform this walking cane int
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

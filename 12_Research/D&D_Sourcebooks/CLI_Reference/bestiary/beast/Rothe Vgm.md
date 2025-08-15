@@ -1,3 +1,12 @@
+---
+title: Rothe Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rothe Vgm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rothe-vgm-rothe-vgm.svg)
 
-# [[rothe-vgm|Rothé]]
+# [[rothe vgm|Rothé]]
 *Source: Volo's Guide to Monsters p. 208*  
 
 Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out to a range of 30 feet.
@@ -70,7 +79,6 @@ Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -82,11 +90,6 @@ Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -108,11 +111,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Plot Hooks
 

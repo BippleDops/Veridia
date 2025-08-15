@@ -1,3 +1,12 @@
+---
+title: Glassblowers Tools Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Glassblowers Tools Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [[glass-bottle-xphb|Glass Bottle]], [[magnifying-glass-xphb|Magnifying Glass]], [[spyglass-xphb|Spyglass]], [[vial-xphb|Vial]]  
+- **Craft.** [[glass bottle xphb|Glass Bottle]], [[magnifying glass xphb|Magnifying Glass]], [[spyglass xphb|Spyglass]], [[vial xphb|Vial]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,7 +76,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help investigating before winter
@@ -82,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

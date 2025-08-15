@@ -1,3 +1,12 @@
+---
+title: Deep Mother Lore
+type: lore
+tags:
+- lore
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Deep Mother Lore
 
 ---
@@ -25,7 +34,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"She is the first current, the deepest darkness, the womb of all seas."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,11 +45,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Deep Mother Lore encompasses the collected knowledge, myths, prophecies, and religious teachings about the primordial oceanic entity known as the Deep Mother. This body of knowledge includes ancient texts, oral traditions, scientific observations, and theological interpretations from scholars across both realms attempting to understand her nature and influence.
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

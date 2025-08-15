@@ -1,3 +1,12 @@
+---
+title: Quest - The Traitor Within
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quest - The Traitor Within
 
 ---
@@ -26,12 +35,10 @@ cr: '6'
 ---
 
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg]]
 
 # Quest - The Traitor Within
 
 **Level:** 6-9 | **Type:** Investigation/Political Intrigue | **Duration:** 4-6 sessions
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +51,6 @@ cr: '6'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Sensitive military intelligence has been leaked to enemy forces, resulting in failed operations and lost lives. High Command suspects a traitor within their ranks and needs discrete investigators to uncover the spy's identity without alerting them or causing panic among the troops.
@@ -121,7 +123,6 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

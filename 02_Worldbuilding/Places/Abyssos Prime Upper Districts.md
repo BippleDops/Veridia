@@ -25,14 +25,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.png]]
 
 # Abyssos Prime Upper Districts
 *The Crown of the Deep Capital, Where Light Still Remembers the Surface*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,19 +61,13 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -87,7 +77,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
@@ -96,7 +85,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 The Upper Districts of [[Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction.
@@ -185,12 +173,9 @@ Ongoing situations affecting Abyssos Prime Upper Districts:
 - External threats
 - Opportunities arising
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 

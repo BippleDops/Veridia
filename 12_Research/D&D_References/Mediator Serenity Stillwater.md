@@ -1,3 +1,12 @@
+---
+title: Mediator Serenity Stillwater
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mediator Serenity Stillwater
 
 ---
@@ -21,14 +30,12 @@ world: Both
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-mediator-serenity-stillwater-mediator-serenity-stillwater.svg]]
 
 # The Stillwater Mediation Hall
 *Where Troubled Waters Find Peace*
 
 > *"In the depths of conflict, only in stillness can truth be found. Here, enemies become neighbors, and neighbors become friends. The water remembers every dispute resolved, every peace achieved."*
 > — [[Mediator Serenity Stillwater]], Master of the Peaceful Current
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +48,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 
@@ -709,7 +711,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals ancient history about the cult
@@ -724,11 +725,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

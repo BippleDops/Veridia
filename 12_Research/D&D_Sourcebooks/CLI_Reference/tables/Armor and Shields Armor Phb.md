@@ -1,3 +1,12 @@
+---
+title: Armor and Shields Armor Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor and Shields Armor Phb
 
 ---
@@ -30,24 +39,23 @@ world: Both
 | Armor | Cost | Armor Class (AC) | Strength | Stealth | Weight |
 |-------|------|------------------|----------|---------|--------|
 | *Light Armor* |  |  |  |  |  |
-| &emsp;[[padded-armor-xphb|Padded]] | 5 gp | 11 + Dex modifier | — | Disadvantage | 8 lb. |
-| &emsp;[[leather-armor-xphb|Leather]] | 10 gp | 11 + Dex modifier | — | — | 10 lb. |
-| &emsp;[[studded-leather-armor-xphb|Studded leather]] | 45 gp | 12 + Dex modifier | — | — | 13 lb. |
+| &emsp;[[padded armor xphb|Padded]] | 5 gp | 11 + Dex modifier | — | Disadvantage | 8 lb. |
+| &emsp;[[leather armor xphb|Leather]] | 10 gp | 11 + Dex modifier | — | — | 10 lb. |
+| &emsp;[[studded leather armor xphb|Studded leather]] | 45 gp | 12 + Dex modifier | — | — | 13 lb. |
 | *Medium Armor* |  |  |  |  |  |
-| &emsp;[[hide-armor-xphb|Hide]] | 10 gp | 12 + Dex modifier (max 2) | — | — | 12 lb. |
-| &emsp;[[chain-shirt-xphb|Chain shirt]] | 50 gp | 13 + Dex modifier (max 2) | — | — | 20 lb. |
-| &emsp;[[scale-mail-xphb|Scale mail]] | 50 gp | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. |
-| &emsp;[[breastplate-xphb|Breastplate]] | 400 gp | 14 + Dex modifier (max 2) | — | — | 20 lb. |
-| &emsp;[[half-plate-armor-xphb|Half plate]] | 750 gp | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. |
+| &emsp;[[hide armor xphb|Hide]] | 10 gp | 12 + Dex modifier (max 2) | — | — | 12 lb. |
+| &emsp;[[chain shirt xphb|Chain shirt]] | 50 gp | 13 + Dex modifier (max 2) | — | — | 20 lb. |
+| &emsp;[[scale mail xphb|Scale mail]] | 50 gp | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. |
+| &emsp;[[breastplate xphb|Breastplate]] | 400 gp | 14 + Dex modifier (max 2) | — | — | 20 lb. |
+| &emsp;[[half plate armor xphb|Half plate]] | 750 gp | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. |
 | *Heavy Armor* |  |  |  |  |  |
-| &emsp;[[ring-mail-xphb|Ring mail]] | 30 gp | 14 | — | Disadvantage | 40 lb. |
-| &emsp;[[chain-mail-xphb|Chain mail]] | 75 gp | 16 | Str 13 | Disadvantage | 55 lb. |
-| &emsp;[[splint-armor-xphb|Splint]] | 200 gp | 17 | Str 15 | Disadvantage | 60 lb. |
-| &emsp;[[plate-armor-xphb|Plate]] | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb. |
+| &emsp;[[ring mail xphb|Ring mail]] | 30 gp | 14 | — | Disadvantage | 40 lb. |
+| &emsp;[[chain mail xphb|Chain mail]] | 75 gp | 16 | Str 13 | Disadvantage | 55 lb. |
+| &emsp;[[splint armor xphb|Splint]] | 200 gp | 17 | Str 15 | Disadvantage | 60 lb. |
+| &emsp;[[plate armor xphb|Plate]] | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb. |
 | *Shield* |  |  |  |  |  |
-| &emsp;[[shield-xphb|Shield]] | 10 gp | +2 | — | — | 6 lb. |
+| &emsp;[[shield xphb|Shield]] | 10 gp | +2 | — | — | 6 lb. |
 ^armor
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,11 +68,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -82,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is searching for a artifact for power
@@ -93,16 +95,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

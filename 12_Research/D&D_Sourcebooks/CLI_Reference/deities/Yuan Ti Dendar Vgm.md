@@ -1,3 +1,12 @@
+---
+title: Yuan Ti Dendar Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yuan Ti Dendar Vgm
 
 ---
@@ -33,7 +42,6 @@ The Night Serpent came into being before recorded history, spawned from the feve
 
 Yuan-ti worshipers of Dendar are led by nightmare speakers, malison warlocks that honor their deity through acts of terror and receive magical power in return. Rather than killing enemies, these followers of the Night Serpent prefer to threaten and torture them, the better to feed and strengthen the goddess.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,11 +53,6 @@ Yuan-ti worshipers of Dendar are led by nightmare speakers, malison warlocks tha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help delivering before dawn
@@ -79,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

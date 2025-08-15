@@ -1,3 +1,12 @@
+---
+title: Ancient Green Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ancient Green Dragon Xmm
 
 ---
@@ -28,11 +37,10 @@ updated: '2025-08-13T12:34:06.017383+00:00'
 world: Both
 ---
 
-# [[ancient-green-dragon-xmm|Ancient Green Dragon]]
+# [[ancient green dragon xmm|Ancient Green Dragon]]
 *Source: Monster Manual (2024) p. 154. Available in the SRD and the Free Rules (2024)*  
 
 Ancient green dragons are creatures of legend, rarely seen by their servants or foes. Via magic and well-hidden agents, these dragons stoke suspicion between allies and undermine noble works. As bonds fray, the dragons reap rewards of greater wealth and control. Eventually the ambitions of ancient green dragons stretch beyond their territories as they seek control over empires, planar realms, or death itself.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Ancient green dragons are creatures of legend, rarely seen by their servants or 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Green Dragons
 
@@ -107,32 +110,32 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
+      \ use of Spellcasting to cast [[mind spike xphb|Mind Spike]]\
       \ (level 5 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +15, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 77 (22d6) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\]]
+      \ will: [[detect magic xphb|Detect Magic]], [[mind spike xphb|Mind\]]
       \ Spike]] (level 5 version)\n\n1/day\
-      \ each: [[geas-xphb|Geas]], [[modify-memory-xphb|Modify Memory]]"
+      \ each: [[geas xphb|Geas]], [[modify memory xphb|Modify Memory]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
+  - "desc": "The dragon uses Spellcasting to cast [[mind spike xphb|Mind Spike]]\
     "name": "Mind Invasion"
   - "desc": "Constitution Saving Throw: DC 21, each creature in a 30-foot-radius\
-      \ [[sphere-area-of-effect-xphb|Sphere]] centered\
+      \ [[sphere area of effect xphb|Sphere]] centered\
       \ on a point the dragon can see within 90 feet. Failure: 17 (5d6) Poison damage,\
       \ and the target takes a -2 penalty to AC until the end of its next turn. Failure\
       \ or Success: The dragon can't take this action again until the start of its\
       \ next turn."
     "name": "Noxious Miasma"
-  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -143,7 +146,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
       \ Draconic and can communicate telepathically with the dragon while within 1\
       \ mile of the lair.  \n- Poisonous Thicket. Ordinary plants growing within\
       \ 1 mile of the lair poison the air around them. Whenever a creature other than\
-      \ the dragon or its allies finishes a [[long-rest-xphb|Long Rest]]\
+      \ the dragon or its allies finishes a [[long rest xphb|Long Rest]]\
       \ in that area, it must succeed on a DC 15 Constitution saving throw or have\
       \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
       \  "
@@ -174,7 +177,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals a conspiracy about the cult
@@ -184,7 +186,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

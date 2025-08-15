@@ -1,3 +1,12 @@
+---
+title: Yolandes Regal Presence Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yolandes Regal Presence Xphb
 
 ---
@@ -38,10 +47,9 @@ world: Both
 
 You surround yourself with unearthly majesty in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]. Whenever the [[emanation-area-of-effect-xphb|Emanation]] enters the space of a creature you can see and whenever a creature you can see enters the [[emanation-area-of-effect-xphb|Emanation]] or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes `4d6` Psychic damage and has the [[conditions#prone|Prone]] condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 343*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ You surround yourself with unearthly majesty in a 10-foot [[emanation-area-of-ef
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Related Notes
 

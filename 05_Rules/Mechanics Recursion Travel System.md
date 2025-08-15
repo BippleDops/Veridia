@@ -11,9 +11,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -37,30 +34,21 @@ improvements: 20
 ### Monster_Use Improvements
 
 - Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
-- Explain if/how monsters use this rule
 
 ### Magic_Items Improvements
 
-- Note how magic items affect this rule
-- Note how magic items affect this rule
 - Note how magic items affect this rule
 
 ### Session_Zero Improvements
 
 - Include session zero discussion points
-- Include session zero discussion points
-- Include session zero discussion points
 
 ### Narrative_Triggers Improvements
 
 - Suggest story moments to introduce rule
-- Suggest story moments to introduce rule
 
 ### Heroic Improvements
 
-- Add 'heroic fantasy' variant of rule
 - Add 'heroic fantasy' variant of rule
 
 ### Simplified Improvements
@@ -70,7 +58,6 @@ improvements: 20
 ### Automated Improvements
 
 - Add macro/code for VTT implementation
-
 
 ## Mechanic Overview
 
@@ -243,11 +230,9 @@ Apply this rule when:
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -267,7 +252,6 @@ A: No, use the higher bonus only
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
 
-
 ## Balance Analysis
 
 ### Damage Output Comparison
@@ -279,7 +263,6 @@ A: Supernatural abilities suppressed, mundane portions still function
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Quick Reference
 

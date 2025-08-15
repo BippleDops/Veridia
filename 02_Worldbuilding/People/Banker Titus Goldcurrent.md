@@ -23,14 +23,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg]]
 
 # Banker Titus Goldcurrent
 *The Pearl Counter, Master of Depths Fice, The Pressure Baron*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,18 +55,13 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
@@ -92,9 +83,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 Titus Goldcurrent controls the largest ficial institution in [[Aquabyssos]], the **Deep Vault Banking Consortium**. From his coral-carved office in the ficial district, he orchestrates loans, investments, and currency exchanges that shape the economic fate of both realms. Behind his respectable facade lies a cunning manipulator who uses debt as a weapon and ficial leverage as chains, ensuring that anyone who needs capital eventually finds themselves dancing to his tune.
@@ -224,11 +212,9 @@ Banker Titus Goldcurrent is a undersea element of the setting, known for biolumi
 
 Legends speak of Banker Titus Goldcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Banker Titus Goldcurrent.
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Economic Structure
 

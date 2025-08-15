@@ -1,3 +1,12 @@
+---
+title: Cover Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cover Xphb
 
 ---
@@ -29,11 +38,10 @@ world: Both
 
 | Degree | Benefit to Target | Offered By... |
 |--------|-------------------|---------------|
-| [[cover-xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
-| [[cover-xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
-| [[cover-xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
+| [[cover xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [[cover xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [[cover xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
 ^cover
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

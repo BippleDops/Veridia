@@ -1,3 +1,12 @@
+---
+title: Cloud Giant Smiling One Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Cloud Giant Smiling One Mpmm
 
 ---
@@ -31,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloud-giant-smiling-one-mpmm-cloud-giant-smiling-one-mpmm.svg)
 
-# [[cloud-giant-smiling-one-mpmm|Cloud Giant Smiling One]]
+# [[cloud giant smiling one mpmm|Cloud Giant Smiling One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -72,7 +81,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "The giant can cast the [[control-weather-xphb|control weather]]\
+  - "desc": "The giant can cast the [[control weather xphb|control weather]]\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (8th-level Spell)"
@@ -92,13 +101,13 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt\
-      \ will: [[detect-magic-xphb|detect magic]], [[fog-cloud-xphb|fog\]]
-      \ cloud]], [[light-xphb|light]],\
-      \ [[minor-illusion-xphb|minor illusion]]\n\n3/day\
-      \ each: [[invisibility-xphb|invisibility]], [[silent-image-xphb|silent\]]
-      \ image]], [[suggestion-xphb|suggestion]],\
-      \ [[tongues-xphb|tongues]]\n\n1/day each: [[gaseous-form-xphb|gaseous\]]
-      \ form]], [[major-image-xphb|major image]]"
+      \ will: [[detect magic xphb|detect magic]], [[fog cloud xphb|fog\]]
+      \ cloud]], [[light xphb|light]],\
+      \ [[minor illusion xphb|minor illusion]]\n\n3/day\
+      \ each: [[invisibility xphb|invisibility]], [[silent image xphb|silent\]]
+      \ image]], [[suggestion xphb|suggestion]],\
+      \ [[tongues xphb|tongues]]\n\n1/day each: [[gaseous form xphb|gaseous\]]
+      \ form]], [[major image xphb|major image]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant teleports, along with any equipment it is wearing or carrying,\
@@ -111,7 +120,6 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -123,11 +131,6 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -149,16 +152,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

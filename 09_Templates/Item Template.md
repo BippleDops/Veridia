@@ -1,3 +1,12 @@
+---
+title: Item Template
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Item_Template
 
 ---
@@ -20,7 +29,6 @@ modified: '2025-08-14'
 **Charges**: X
 **Save DC**: X
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,25 +40,19 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-- Add 09_Templates-specific enhancement
-
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[armor-and-shields-armor-phb]]
-- [[bard-xphb-college-of-swords-xge]]
-- [[object-armor-class]]
+- [[armor and shields armor phb]]
+- [[bard xphb college of swords xge]]
+- [[object armor class]]
 - [[Lysara Brightshield]]
-- [[starting-at-higher-level-starting-equipment]]
+- [[starting at higher level starting equipment]]
 - [[bard-xphb-college-of-swords-xge 2]]
-- [[armor-xphb]]
-- [[Houses_and_Nobility - House Brightshield]]
+- [[armor xphb]]
+- [[Houses_and_Nobility   House Brightshield]]
 - [[Captain Lyanna Brightshield]]
 - [[Surgery Master Dr Marcus Deptblade]]
-
 
 ## Plot Hooks
 
@@ -63,11 +65,9 @@ modified: '2025-08-14'
 
 Contextual improvement based on 09_Templates
 
-
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
-
 
 ## 09_Templates Specific Content
 

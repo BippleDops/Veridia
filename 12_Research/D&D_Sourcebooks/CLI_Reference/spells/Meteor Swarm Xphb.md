@@ -1,3 +1,12 @@
+---
+title: Meteor Swarm Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Meteor Swarm Xphb
 
 ---
@@ -38,12 +47,11 @@ world: Both
 
 Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on each of those points makes a Dexterity saving throw. A creature takes `20d6` Fire damage and `20d6` Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery [[sphere-area-of-effect-xphb|Sphere]] is affected only once.
 
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [[burning-xphb|burning]] if it's flammable.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [[burning xphb|burning]] if it's flammable.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 298. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -94,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

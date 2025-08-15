@@ -1,3 +1,12 @@
+---
+title: Downtime Activity Gaining Renown
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Downtime Activity Gaining Renown
 
 ---
@@ -27,7 +36,6 @@ world: Both
 
 A character can spend downtime improving his or her renown within a particular organization (see "Renown" in chapter 1). Between adventures, a character undertakes minor tasks for the organization and socializes with its members. After pursuing these activities for a combined number of days equal to his or her current renown multiplied by 10, the character's renown increases by 1.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ A character can spend downtime improving his or her renown within a particular o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,11 +64,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
-
 
 ## Related Notes
 

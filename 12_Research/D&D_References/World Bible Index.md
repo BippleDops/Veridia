@@ -1,3 +1,12 @@
+---
+title: World Bible Index
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # World Bible Index
 
 ---
@@ -36,14 +45,13 @@ world: Both
 1. [[Crown of Tidal Sovereignty|02 Worldbuilding/Items/Crown Of Tidal Sovereignty]] — Water/Authority
 2. [[The Tidal Shard of Memory|02 Worldbuilding/Items/The Tidal Shard Of Memory]] — Memory/Time
 3. [[The Resoce Forge Hammer|02 Worldbuilding/Items/The Resoce Forge Hammer]] — Creation/Transformation
-4. [[02_Worldbuilding/Lore/The Crystal Heart Shard|02 Worldbuilding/Lore/The Crystal Heart Shard]] — Life/Energy
-5. [[02_Worldbuilding/Lore/The Shadow Shard|02 Worldbuilding/Lore/The Shadow Shard]] — Darkness/Independence
-6. [[02_Worldbuilding/Lore/The Dream Shard|02 Worldbuilding/Lore/The Dream Shard]] — Consciousness/Reality
-7. [[02_Worldbuilding/Lore/The Void Shard|02 Worldbuilding/Lore/The Void Shard]] — Entropy/Endings
+4. [[02 Worldbuilding/Lore/The Crystal Heart Shard|02 Worldbuilding/Lore/The Crystal Heart Shard]] — Life/Energy
+5. [[02 Worldbuilding/Lore/The Shadow Shard|02 Worldbuilding/Lore/The Shadow Shard]] — Darkness/Independence
+6. [[02 Worldbuilding/Lore/The Dream Shard|02 Worldbuilding/Lore/The Dream Shard]] — Consciousness/Reality
+7. [[02 Worldbuilding/Lore/The Void Shard|02 Worldbuilding/Lore/The Void Shard]] — Entropy/Endings
 
 ### The Convergence Crisis
 **The Impending Merger of Realities**
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Marina's Fractured Identity
 **The Mystery Character Spanning Both Worlds**

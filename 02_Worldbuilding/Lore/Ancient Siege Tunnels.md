@@ -39,12 +39,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Ancient Siege Tunnels
 
 *The Underground Arteries of Ancient Warfare*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,35 +74,26 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -130,7 +118,7 @@ The ancient engineers employed three distinct tunnel types:
 ### Major Active Sections
 
 **The Port Meridian Approach**
-- 15-mile tunnel connecting to [[Port Meridian - Harbor District]]
+- 15-mile tunnel connecting to [[Port Meridian   Harbor District]]
 - Originally designed to bypass coastal defenses
 - Now used by [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] and smuggling operations
 - Multiple branching passages lead to strategic points throughout the city
@@ -171,7 +159,7 @@ The ancient engineers employed three distinct tunnel types:
 *Central command center where the tunnel campaigns were coordinated*
 - Contains detailed maps of the entire network
 - Magical communication devices still functional
-- Guarded by ancient [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
+- Guarded by ancient [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 - Repository of military intelligence from the Continental Wars
 
 ### The Bone Gardens
@@ -269,8 +257,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -287,7 +273,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## A Day in the Life
 

@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Vaund the Evasive Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Vaund the Evasive Cos
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Vaund the Evasive
 *Charm*  
 
-Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[amulet-of-proof-against-detection-and-location-xdmg|amulet of proof against detection and location]] and a [[ring-of-evasion-xdmg|ring of evasion]]. These benefits last for 10 days, after which the dark gift vanishes.
+Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[amulet of proof against detection and location xdmg|amulet of proof against detection and location]] and a [[ring of evasion xdmg|ring of evasion]]. These benefits last for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me."
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary of this dark gift becomes twitchy and nervous, and also gains th
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Related Notes
 
@@ -78,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

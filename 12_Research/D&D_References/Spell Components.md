@@ -1,3 +1,12 @@
+---
+title: Spell Components
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Spell Components
 
 ---
@@ -28,7 +37,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"In the depths, magic flows like current itself - find the right catalyst, and even the deepest mysteries yield to your will." - Thalassius the Wise*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 Spell components in Aquabyssos have evolved far beyond their surface-world counterparts, adapted to function effectively in underwater environments while harnessing the unique magical properties inherent in deep-ocean materials. The aquatic environment has necessitated innovative approaches to component preservation, magical focusing, and energy channeling that take advantage of water's conductive properties and the pressure dynamics of deep-sea environments. These adaptations have produced spellcasting traditions that are both more stable and more powerful than their surface equivalents in many applications.
@@ -130,8 +133,6 @@ Legends speak of Spell Components as a nexus where past and present converge. Lo
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Plot Hooks
 
 - A corpse reveals the truth about this place
@@ -141,11 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

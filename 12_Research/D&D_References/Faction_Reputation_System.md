@@ -1,3 +1,12 @@
+---
+title: Faction_Reputation_System
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faction_Reputation_System
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13T12:55:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Faction Reputation System tracks character standing with the major political, military, religious, and criminal organizations throughout [[Aquabyssos]] and [[Aethermoor]]. Unlike simple alignment-based reactions, this system models the complex web of alliances, rivalries, and competing interests that define the dual-world setting.
@@ -232,11 +235,9 @@ The Faction Reputation System tracks character standing with the major political
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## Related Notes
 
@@ -245,11 +246,9 @@ The Faction Reputation System tracks character standing with the major political
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

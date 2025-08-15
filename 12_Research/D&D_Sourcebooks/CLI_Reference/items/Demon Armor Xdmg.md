@@ -1,3 +1,12 @@
+---
+title: Demon Armor Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Demon Armor Xdmg
 
 ---
@@ -40,10 +49,9 @@ world: Both
 *Cursed item, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/demon-armor.webp#right)
 
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [[item properties#Cursed%20Items|Cursed]]
 
-While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
-
+While wearing this armor, you gain a +1 bonus to [[armor class xphb|Armor Class]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,15 +64,10 @@ While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Curse
 
-Once you don this cursed armor, you can't doff it unless you are targeted by a [[remove-curse-xphb|Remove Curse]] spell or similar magic. While wearing the armor, you have [[disadvantage-xphb|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
+Once you don this cursed armor, you can't doff it unless you are targeted by a [[remove curse xphb|Remove Curse]] spell or similar magic. While wearing the armor, you have [[disadvantage xphb|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
 
 **Variants**:
 - [Demon Breastplate](#Demon%20Breastplate)
@@ -83,7 +86,7 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [[item properties#Cursed%20Items|Cursed]]
 - **Weight**: 13.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 252. Available in the SRD and the Free Rules (2024)*

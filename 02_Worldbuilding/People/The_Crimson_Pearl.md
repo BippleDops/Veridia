@@ -21,11 +21,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-crimson-pearl-the-crimson-pearl.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,17 +50,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -74,11 +66,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Hospitality Improvements
@@ -88,8 +78,6 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-
 
 ## Description
 
@@ -286,7 +274,6 @@ The Crimson Pearl is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Crimson Pearl as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Pearl.
 
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -304,7 +291,6 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -317,7 +303,6 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -329,7 +314,6 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

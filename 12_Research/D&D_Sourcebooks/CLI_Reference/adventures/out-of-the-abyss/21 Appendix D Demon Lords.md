@@ -1,3 +1,12 @@
+---
+title: 21 Appendix D Demon Lords
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 21 Appendix D Demon Lords
 
 ---
@@ -27,15 +36,14 @@ world: Both
 
 Here are game statistics for the demon lords who have roles to play in this story. Beware! They are formidable opponents.
 
-- [[/03_Mechanics/CLI/bestiary/npc/baphomet-mpmm|Baphomet]]  
-- [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]]  
-- [[/03_Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm|Fraz-Urb'luu]]  
-- [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]]  
-- [[/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm|Juiblex]]  
-- [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]]  
-- [[/03_Mechanics/CLI/bestiary/npc/yeenoghu-mpmm|Yeenoghu]]  
-- [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]]
-
+- [[/03 Mechanics/CLI/bestiary/npc/baphomet mpmm|Baphomet]]  
+- [[/03 Mechanics/CLI/bestiary/npc/demogorgon mpmm|Demogorgon]]  
+- [[/03 Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm|Fraz-Urb'luu]]  
+- [[/03 Mechanics/CLI/bestiary/npc/grazzt mpmm|Graz'zt]]  
+- [[/03 Mechanics/CLI/bestiary/npc/juiblex mpmm|Juiblex]]  
+- [[/03 Mechanics/CLI/bestiary/npc/orcus mpmm|Orcus]]  
+- [[/03 Mechanics/CLI/bestiary/npc/yeenoghu mpmm|Yeenoghu]]  
+- [[/03 Mechanics/CLI/bestiary/npc/zuggtmoy mpmm|Zuggtmoy]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ Here are game statistics for the demon lords who have roles to play in this stor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help delivering before dawn
@@ -85,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

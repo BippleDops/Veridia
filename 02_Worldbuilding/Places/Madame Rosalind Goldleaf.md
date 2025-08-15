@@ -44,10 +44,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg]]
 
 # Madame Rosalind Goldleaf
 
@@ -55,7 +52,6 @@ improvements: 20
 
 > *"Money may speak, but influence whispers. I've built an empire not through force, but through understanding that every person has a price—and it's not always coin. Sometimes it's respect, sometimes security, sometimes simply being heard."*
 > — Madame Rosalind Goldleaf, during the Annual Merchants' Gala
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -84,8 +80,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
@@ -98,14 +92,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Sensory Improvements
@@ -119,7 +108,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -412,8 +400,6 @@ Ongoing situations affecting Madame Rosalind Goldleaf:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -430,7 +416,6 @@ Ongoing situations affecting Madame Rosalind Goldleaf:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

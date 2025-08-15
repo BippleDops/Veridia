@@ -1,3 +1,12 @@
+---
+title: Location_Prompts
+type: location
+tags:
+- location
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Location_Prompts
 
 ---
@@ -5401,7 +5410,6 @@ updated: '2024-01-01T00:00:00+00:00'
     "id": "city-social-clubs-v1",
     "seed": 8526,
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -5413,11 +5421,6 @@ updated: '2024-01-01T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -5431,11 +5434,9 @@ updated: '2024-01-01T00:00:00+00:00'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Related Notes
 
@@ -5444,11 +5445,9 @@ updated: '2024-01-01T00:00:00+00:00'
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

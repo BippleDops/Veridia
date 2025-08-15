@@ -35,12 +35,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Garden Keeper Zen Currentdancer
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Garden_Keeper_Zen_Currentdancer.png|Garden Keeper Zen Currentdancer Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,21 +64,17 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -93,8 +84,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
@@ -103,8 +92,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Overview
 Garden Keeper Zen Currentdancer is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -157,8 +144,6 @@ Ongoing situations affecting Garden Keeper Zen Currentdancer:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Trade Importance
 

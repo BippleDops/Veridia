@@ -1,3 +1,12 @@
+---
+title: Eldritch Mind Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eldritch Mind Xphb
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Eldritch Mind
 *Source: Player's Handbook (2024) p. 155*  
 
-You have [[advantage-xphb|Advantage]] on Constitution saving throws that you make to maintain [[conditions#Concentration|Concentration]].
-
+You have [[advantage xphb|Advantage]] on Constitution saving throws that you make to maintain [[conditions#Concentration|Concentration]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You have [[advantage-xphb|Advantage]] on Constitution saving throws that you mak
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

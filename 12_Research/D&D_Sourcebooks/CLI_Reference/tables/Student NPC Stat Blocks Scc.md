@@ -1,3 +1,12 @@
+---
+title: Student NPC Stat Blocks Scc
+type: npc
+tags:
+- npc
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Student NPC Stat Blocks Scc
 
 ---
@@ -29,11 +38,10 @@ world: Both
 
 | Year | Stat Block |
 |------|------------|
-| First | [[/03_Mechanics/CLI/bestiary/humanoid/first-year-student-scc|First-Year Student]] |
+| First | [[/03 Mechanics/CLI/bestiary/humanoid/first-year-student-scc|First-Year Student]] |
 | Second | [College] Apprentice |
 | Third or Later | [College] Pledgemage |
 ^student-npc-stat-blocks
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,14 +71,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

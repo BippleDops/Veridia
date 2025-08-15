@@ -1,3 +1,12 @@
+---
+title: Axe Beak Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Axe Beak Xmm
 
 ---
@@ -33,11 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-axe-beak-xmm-axe-beak-xmm.svg)
 
-# [[axe-beak-xmm|Axe Beak]]
+# [[axe beak xmm|Axe Beak]]
 *Source: Monster Manual (2024) p. 24. Available in the SRD and the Free Rules (2024)*  
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ Alone or in small groups, axe beaks stalk prey to feed their flocks. When workin
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Axe Beaks
 
@@ -119,16 +122,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

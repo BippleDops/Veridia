@@ -1,3 +1,12 @@
+---
+title: Aethermoor_Wind_Current_Map
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aethermoor_Wind_Current_Map
 
 ---
@@ -17,7 +26,6 @@ updated: '2025-08-13'
 world: Aethermoor
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -29,11 +37,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Sky Navigation Reference
 
@@ -229,7 +232,6 @@ WIND EMERGENCY PROTOCOLS:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Plot Hooks
 

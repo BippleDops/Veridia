@@ -1,3 +1,12 @@
+---
+title: Firbolg Vgm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Firbolg Vgm
 
 ---
@@ -42,7 +51,7 @@ Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your
 
 ### Firbolg Magic
 
-You can cast [[detect-magic-xphb|detect magic]] and [[disguise-self-xphb|disguise self]] with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [[disguise-self-xphb|disguise self]], you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+You can cast [[detect magic xphb|detect magic]] and [[disguise self xphb|disguise self]] with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [[disguise self xphb|disguise self]], you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
 
 ### Hidden Step
 
@@ -60,7 +69,6 @@ You have the ability to communicate in a limited manner with beasts and plants. 
 
 You can speak, read, and write Common, Elvish, and Giant.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -72,11 +80,6 @@ You can speak, read, and write Common, Elvish, and Giant.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Description
 
@@ -165,7 +168,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

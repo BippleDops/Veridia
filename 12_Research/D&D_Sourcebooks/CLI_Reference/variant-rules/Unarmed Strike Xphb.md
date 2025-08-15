@@ -1,3 +1,12 @@
+---
+title: Unarmed Strike Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Unarmed Strike Xphb
 
 ---
@@ -29,7 +38,6 @@ Instead of using a weapon to make a melee attack, you can use a punch, kick, hea
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,23 +49,18 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Damage
 
-You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your [[proficiency-xphb|Proficiency Bonus]]. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your [[proficiency xphb|Proficiency Bonus]]. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
 
 ## Grapple
 
-The target must succeed on a Strength or Dexterity [[saving-throw-xphb|saving throw]] (it chooses which), or it has the [[conditions#Grappled|Grappled]] condition. The DC for the [[saving-throw-xphb|saving throw]] and any escape attempts equals 8 plus your Strength modifier and [[proficiency-xphb|Proficiency Bonus]]. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+The target must succeed on a Strength or Dexterity [[saving throw xphb|saving throw]] (it chooses which), or it has the [[conditions#Grappled|Grappled]] condition. The DC for the [[saving throw xphb|saving throw]] and any escape attempts equals 8 plus your Strength modifier and [[proficiency xphb|Proficiency Bonus]]. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
 ## Shove
 
-The target must succeed on a Strength or Dexterity [[saving-throw-xphb|saving throw]] (it chooses which), or you either push it 5 feet away or cause it to have the [[conditions#prone|Prone]] condition. The DC for the [[saving-throw-xphb|saving throw]] equals 8 plus your Strength modifier and [[proficiency-xphb|Proficiency Bonus]]. This shove is possible only if the target is no more than one size larger than you.
+The target must succeed on a Strength or Dexterity [[saving throw xphb|saving throw]] (it chooses which), or you either push it 5 feet away or cause it to have the [[conditions#prone|Prone]] condition. The DC for the [[saving throw xphb|saving throw]] equals 8 plus your Strength modifier and [[proficiency xphb|Proficiency Bonus]]. This shove is possible only if the target is no more than one size larger than you.
 
 ## Player-Facing Summary
 
@@ -75,14 +78,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

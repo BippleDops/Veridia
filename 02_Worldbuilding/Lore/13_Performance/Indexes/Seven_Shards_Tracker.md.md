@@ -26,7 +26,6 @@ modified: '2025-08-14'
 - Related: [[Regional Politics]]
 - Connected to: [[World Events]]
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*

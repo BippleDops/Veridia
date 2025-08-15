@@ -1,3 +1,12 @@
+---
+title: Burning Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Burning Xphb
 
 ---
@@ -29,7 +38,6 @@ A burning creature or object takes `d4` Fire damage at the start of each of its 
 
 *Source: Player's Handbook (2024) p. 362*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -41,11 +49,6 @@ A burning creature or object takes `d4` Fire damage at the start of each of its 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

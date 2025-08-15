@@ -1,3 +1,12 @@
+---
+title: Hobgoblin Warlord Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hobgoblin Warlord Xmm
 
 ---
@@ -38,11 +47,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warlord-xmm-hobgoblin-warlord-xmm.svg)
 
-# [[hobgoblin-warlord-xmm|Hobgoblin Warlord]]
+# [[hobgoblin warlord xmm|Hobgoblin Warlord]]
 *Source: Monster Manual (2024) p. 171*  
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Hobgoblin warlords lead armies of hobgoblins and their allies, using their exper
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hobgoblins
 
@@ -118,8 +121,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
-  - "desc": "While in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage-xphb|Advantage]]\
+  - "desc": "While in a 30-foot [[emanation area of effect xphb|Emanation]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage xphb|Advantage]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"
@@ -128,7 +131,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
       \ combination."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
-      \ 11 (2d6 + 4) Piercing damage, and the target's [[speed-xphb|Speed]]\
+      \ 11 (2d6 + 4) Piercing damage, and the target's [[speed xphb|Speed]]\
       \ decreases by 10 feet until the start of the hobgoblin's next turn."
     "name": "Javelin"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Slashing damage."
@@ -164,7 +167,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about this place
@@ -178,7 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

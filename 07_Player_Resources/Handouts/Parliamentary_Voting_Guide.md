@@ -1,3 +1,12 @@
+---
+title: Parliamentary_Voting_Guide
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Parliamentary_Voting_Guide
 
 ---
@@ -83,7 +92,6 @@ world: Aquabyssos
 *Remember: Your vote shapes the future of our realm*
 *Exercise your democratic duty with wisdom*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -95,11 +103,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-- Add 07_Player_Resources-specific enhancement
-
 
 ## Related
 
@@ -113,11 +116,9 @@ world: Aquabyssos
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

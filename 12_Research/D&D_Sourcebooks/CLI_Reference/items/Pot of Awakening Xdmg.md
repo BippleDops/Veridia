@@ -1,3 +1,12 @@
+---
+title: Pot of Awakening Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Pot of Awakening Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 # Pot of Awakening
 *Wondrous item, common*  
 
-If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, the shrub magically transforms into an [[awakened-shrub-xmm|Awakened Shrub]] at the end of that time. When the shrub awakens, its roots break the pot, destroying it.
+If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, the shrub magically transforms into an [[awakened shrub xmm|Awakened Shrub]] at the end of that time. When the shrub awakens, its roots break the pot, destroying it.
 
-The awakened shrub is [[friendly-attitude-xphb|Friendly]] toward you and obeys your commands. Absent commands from you, it does nothing.
+The awakened shrub is [[friendly attitude xphb|Friendly]] toward you and obeys your commands. Absent commands from you, it does nothing.
 
 *Source: Dungeon Master's Guide (2024) p. 289*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ The awakened shrub is [[friendly-attitude-xphb|Friendly]] toward you and obeys y
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -70,7 +73,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - The authorities needs help finding before dawn
@@ -85,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

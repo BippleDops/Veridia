@@ -1,3 +1,12 @@
+---
+title: Magic Item Tools Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Item Tools Xdmg
 
 ---
@@ -29,17 +38,16 @@ world: Both
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[weavers-tools-xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [[alchemists-supplies-xphb|Alchemist's Supplies]] or [[herbalism-kit-xphb|Herbalism Kit]] |
-| Ring | [[jewelers-tools-xphb|Jeweler's Tools]] |
-| Rod | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Scroll | [[calligraphers-supplies-xphb|Calligrapher's Supplies]] |
-| Staff | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Wand | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Weapon | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[woodcarvers-tools-xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [[tinkers-tools-xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[leatherworkers tools xphb|Leatherworker's Tools]], [[smiths tools xphb|Smith's Tools]], or [[weavers tools xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[alchemists supplies xphb|Alchemist's Supplies]] or [[herbalism kit xphb|Herbalism Kit]] |
+| Ring | [[jewelers tools xphb|Jeweler's Tools]] |
+| Rod | [[woodcarvers tools xphb|Woodcarver's Tools]] |
+| Scroll | [[calligraphers supplies xphb|Calligrapher's Supplies]] |
+| Staff | [[woodcarvers tools xphb|Woodcarver's Tools]] |
+| Wand | [[woodcarvers tools xphb|Woodcarver's Tools]] |
+| Weapon | [[leatherworkers tools xphb|Leatherworker's Tools]], [[smiths tools xphb|Smith's Tools]], or [[woodcarvers tools xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[tinkers tools xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,21 +77,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

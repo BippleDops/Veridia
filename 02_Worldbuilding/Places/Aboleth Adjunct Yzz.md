@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg]]
 
 # Aboleth Adjunct Yzz
 *Where Mind and Flesh Are Molded Into New Realities*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,18 +72,13 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -96,7 +87,6 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -110,7 +100,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-
 
 ## Overview
 
@@ -327,7 +316,7 @@ Kept in the deepest Genesis Chamber, the Specimen appears to be a successful fus
 #### The Memory Markets
 **Completed**: 50 years ago
 **Result**: Methods for extracting and trading memories as commodities
-**Current Impact**: Forms basis for [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]] operations
+**Current Impact**: Forms basis for [[02 Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]] operations
 **Lessons Learned**: Memory extraction requires careful preservation of neural pathways
 
 #### The Flesh Forge Protocols
@@ -578,8 +567,6 @@ Ongoing situations affecting Aboleth Adjunct Yzz:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about a local noble
@@ -601,7 +588,6 @@ Ongoing situations affecting Aboleth Adjunct Yzz:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

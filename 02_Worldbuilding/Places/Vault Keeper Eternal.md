@@ -24,10 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg]]
 
 # Vault Keeper Eternal
 
@@ -50,7 +47,6 @@ improvements: 20
 **Languages** Common, Draconic, Celestial, Primordial
 **Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -79,36 +75,26 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-
 
 ## Features
 
@@ -240,8 +226,6 @@ Ongoing situations affecting Vault Keeper Eternal:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Religious Observances
 

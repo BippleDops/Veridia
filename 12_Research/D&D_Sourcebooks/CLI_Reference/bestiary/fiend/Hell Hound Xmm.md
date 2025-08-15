@@ -1,3 +1,12 @@
+---
+title: Hell Hound Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hell Hound Xmm
 
 ---
@@ -34,9 +43,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hell-hound-xmm-hell-hound-xmm.svg)
 
-# [[hell-hound-xmm|Hell Hound]]
+# [[hell hound xmm|Hell Hound]]
 *Source: Monster Manual (2024) p. 165. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Hell Hound
 
@@ -90,7 +93,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The hound has [[advantage-xphb|Advantage]]\
+  - "desc": "The hound has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the hound's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -101,7 +104,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Bite"
-  - "desc": "Dexterity Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 12, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 17 (5d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
@@ -130,7 +133,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -138,11 +140,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

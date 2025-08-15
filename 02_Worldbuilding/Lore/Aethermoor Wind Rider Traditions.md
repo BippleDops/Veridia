@@ -27,12 +27,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Aethermoor Wind Rider Traditions
 
 *"The wind remembers every story told in its embrace - we are merely the voices that give it song."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,7 +58,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Coming_Of_Age Improvements
 
@@ -74,11 +70,9 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Evolution Improvements
@@ -92,14 +86,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-
 
 ## Overview
 
@@ -447,7 +437,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 
 ## Connected Organizations
 
-- [[02_Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
+- [[02 Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
 - [[The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
 - [[The Weather Wardens Council]] - Governmental organization managing atmospheric safety
 
@@ -473,8 +463,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -486,7 +474,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -505,7 +492,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

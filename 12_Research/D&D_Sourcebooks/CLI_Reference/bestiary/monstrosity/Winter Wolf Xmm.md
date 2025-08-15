@@ -1,3 +1,12 @@
+---
+title: Winter Wolf Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Winter Wolf Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-wolf-xmm-v1-winter-wolf-xmm.svg)
 
-# [[winter-wolf-xmm|Winter Wolf]]
+# [[winter wolf xmm|Winter Wolf]]
 *Source: Monster Manual (2024) p. 334. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Winter Wolf
 
@@ -94,7 +97,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 "languages": "Common, Giant"
 "cr": "3"
 "traits":
-  - "desc": "The wolf has [[advantage-xphb|Advantage]]\
+  - "desc": "The wolf has [[advantage xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the wolf's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -103,7 +106,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
     "name": "Bite"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 18 (4d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":
@@ -132,7 +135,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a betrayal about this place
@@ -142,16 +144,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

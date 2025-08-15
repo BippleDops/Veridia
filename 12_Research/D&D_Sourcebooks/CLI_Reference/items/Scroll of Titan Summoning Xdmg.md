@@ -1,3 +1,12 @@
+---
+title: Scroll of Titan Summoning Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scroll of Titan Summoning Xdmg
 
 ---
@@ -33,33 +42,32 @@ world: Both
 
 When you take a [[actions#Magic|Magic]] action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below.
 
-The titan is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The titan is [[hostile attitude xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit points xphb|Hit Points]]. If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 `dice: [](scroll-of-titan-summoning-xdmg.md#^1-titan)`
 
 | dice: 1d100 | Titan |
 |-------------|-------|
-| 01-15 | [[scroll-of-titan-summoning-animal-lord-xdmg|Animal Lord]] |
-| 16-30 | [[scroll-of-titan-summoning-blob-of-annihilation-xdmg|Blob of Annihilation]] |
-| 31-45 | [[scroll-of-titan-summoning-colossus-xdmg|Colossus]] |
+| 01-15 | [[scroll of titan summoning animal lord xdmg|Animal Lord]] |
+| 16-30 | [[scroll of titan summoning blob of annihilation xdmg|Blob of Annihilation]] |
+| 31-45 | [[scroll of titan summoning colossus xdmg|Colossus]] |
 | 46-60 | [[scroll-of-titan-summoning-elemental-cataclysm-xdmg|Elemental Cataclysm]] |
-| 61-75 | [[scroll-of-titan-summoning-empyrean-xdmg|Empyrean]] |
-| 76-90 | [[scroll-of-titan-summoning-kraken-xdmg|Kraken]] (a kraken requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted) |
-| 91-100 | [[scroll-of-titan-summoning-tarrasque-xdmg|Tarrasque]] |
+| 61-75 | [[scroll of titan summoning empyrean xdmg|Empyrean]] |
+| 76-90 | [[scroll of titan summoning kraken xdmg|Kraken]] (a kraken requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted) |
+| 91-100 | [[scroll of titan summoning tarrasque xdmg|Tarrasque]] |
 ^1-titan
 
 **Items in this group:**
 
-- [[scroll-of-titan-summoning-animal-lord-xdmg|Scroll of Titan Summoning (Animal Lord)]]
-- [[scroll-of-titan-summoning-blob-of-annihilation-xdmg|Scroll of Titan Summoning (Blob of Annihilation)]]
-- [[scroll-of-titan-summoning-colossus-xdmg|Scroll of Titan Summoning (Colossus)]]
+- [[scroll of titan summoning animal lord xdmg|Scroll of Titan Summoning (Animal Lord)]]
+- [[scroll of titan summoning blob of annihilation xdmg|Scroll of Titan Summoning (Blob of Annihilation)]]
+- [[scroll of titan summoning colossus xdmg|Scroll of Titan Summoning (Colossus)]]
 - [[scroll-of-titan-summoning-elemental-cataclysm-xdmg|Scroll of Titan Summoning (Elemental Cataclysm)]]
-- [[scroll-of-titan-summoning-empyrean-xdmg|Scroll of Titan Summoning (Empyrean)]]
-- [[scroll-of-titan-summoning-kraken-xdmg|Scroll of Titan Summoning (Kraken)]]
-- [[scroll-of-titan-summoning-tarrasque-xdmg|Scroll of Titan Summoning (Tarrasque)]]
+- [[scroll of titan summoning empyrean xdmg|Scroll of Titan Summoning (Empyrean)]]
+- [[scroll of titan summoning kraken xdmg|Scroll of Titan Summoning (Kraken)]]
+- [[scroll of titan summoning tarrasque xdmg|Scroll of Titan Summoning (Tarrasque)]]
 
 *Source: Dungeon Master's Guide (2024) p. 303*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,11 +80,6 @@ The titan is [[hostile-attitude-xphb|Hostile]] toward all other creatures and di
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -94,11 +97,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -109,7 +110,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

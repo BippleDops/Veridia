@@ -1,3 +1,12 @@
+---
+title: Template-Place
+type: template
+tags:
+- template
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Template-Place
 
 ---
@@ -12,7 +21,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-MyContainer: '[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
+MyContainer: '[[05 Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
 MyCategory: Commerce
 obsidianUIMode: preview
 world: Both
@@ -67,7 +76,7 @@ setTimeout(() => {
 
 > [!column|no-title]
 >> [!note|no-title]
->> ![[#Image|no-h clean]]
+>> 
 >
 >> [!note|no-title] Place Name
 >> ~~~meta-bind
@@ -80,11 +89,11 @@ setTimeout(() => {
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
->>> > ![[#General|no-h clean]]
+>>> > 
 >>>
->>> > ![[#NPCs|no-h clean]]
+>>> > 
 >>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
+>>> > 
 >>> 
 
 > [!NOTE|no-title]
@@ -99,13 +108,12 @@ setTimeout(() => {
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
-> > > ![[#Selling|no-h clean]]
+> > > 
 > >
 > > > [!div-m|no-title]
-> > > ![[#Buying|no-h clean]]
+> > > 
 > > 
-> > > ![[#Services|no-h clean]]
-> > > ![[#Rumours|no-h clean]]
+> > > 
 
 ---
 
@@ -119,7 +127,6 @@ Select Category: `INPUT[template-place-category][:MyCategory]`
 
 This is the places description. 
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -131,11 +138,6 @@ This is the places description.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## NPCs
 
@@ -201,7 +203,6 @@ Services offered.
 Anything the party might over hear?
 
 ## Image
-![[Template_Place_Placeholder.png|500]]
 
 ## Auto-Indexes
 LIST FROM outgoing(file) WHERE status = "complete"
@@ -222,7 +223,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A stranger needs help finding before winter
@@ -234,11 +234,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -17,9 +17,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -55,13 +52,9 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Diaspora Improvements
@@ -79,7 +72,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
 
@@ -88,7 +80,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -200,7 +191,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-captain-marcus-v1-captain-marcus.svg]] (colleague)
 - [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg]] (enemy)
-- [[Quest - Breaking the Scales]] (rival)
+- [[Quest   Breaking the Scales]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -209,16 +200,13 @@ This NPC can serve multiple roles:
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns truth
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Economic Structure
 

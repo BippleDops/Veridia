@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,20 +52,13 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Material_Culture Improvements
@@ -79,7 +68,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Superstitions Improvements
 
@@ -88,7 +76,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sunken Cathedral of Stars]], preaching that [[The Great Drowning]] was divine judgment and that worse is coming. Her eyes are pools of black water that reflect no light, supposedly allowing her to see across all depths simultaneously. She speaks in multiple voices - sometimes her own, sometimes echoing things from [[The Whispering Depths]], sometimes in tongues that predate human language.
@@ -193,11 +180,9 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Peryton Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Peryton Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-peryton-xmm-peryton-xmm.svg)
 
-# [[peryton-xmm|Peryton]]
+# [[peryton xmm|Peryton]]
 *Source: Monster Manual (2024) p. 238*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Peryton
 
@@ -112,7 +115,7 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
       \ the hit, the target takes an extra 9 (2d8) Piercing damage."
     "name": "Gore"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
-      \ If the attack reduces a Humanoid target to 0 [[hit-points-xphb|Hit Points]],\
+      \ If the attack reduces a Humanoid target to 0 [[hit points xphb|Hit Points]],\
       \ the peryton kills the target by removing its heart."
     "name": "Talons"
 "source":
@@ -140,7 +143,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Bodak Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bodak Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bodak-mpmm-bodak-mpmm.svg)
 
-# [[bodak-mpmm|Bodak]]
+# [[bodak mpmm|Bodak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -111,7 +120,6 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -123,11 +131,6 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -149,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 

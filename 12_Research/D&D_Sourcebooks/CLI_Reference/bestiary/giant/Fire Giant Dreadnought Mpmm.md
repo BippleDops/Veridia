@@ -1,3 +1,12 @@
+---
+title: Fire Giant Dreadnought Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fire Giant Dreadnought Mpmm
 
 ---
@@ -32,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-giant-dreadnought-mpmm-fire-giant-dreadnought-mpmm.svg)
 
-# [[fire-giant-dreadnought-mpmm|Fire Giant Dreadnought]]
+# [[fire giant dreadnought mpmm|Fire Giant Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
 
 > [!quote] A quote from Mordenkainen  
@@ -53,7 +62,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
-"ac_class": "[[plate-armor-xphb|plate]], [[shield-xphb|Dual Shields]]"
+"ac_class": "[[plate armor xphb|plate]], [[shield xphb|Dual Shields]]"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "modifier": !!int "-1"
@@ -105,7 +114,6 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -117,11 +125,6 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -143,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Plot Hooks
 
@@ -161,11 +162,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

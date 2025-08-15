@@ -31,15 +31,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg]]
 
 # The Tidecaller Antiquarium - Repository of Deep-Sea Wonders
 
 *A treasure trove of oceanic artifacts where the mysteries of the depths are catalogued, preserved, and offered to those with the courage to seek ancient power*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,36 +64,26 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 
@@ -489,8 +475,6 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - External threats
 - Opportunities arising
 
-
-
 ## Cultural Practices
 
 ### Greetings
@@ -502,7 +486,6 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 
@@ -522,7 +505,6 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - 20% middle class
 - 79% working poor
 
-
 ## Religious Observances
 
 ### Daily Prayers
@@ -534,7 +516,6 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## A Day in the Life
 

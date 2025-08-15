@@ -38,12 +38,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Astrologer Prime Cassandra Starweaver
-
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/Astrologer_Prime_Cassandra_Starweaver.png|Astrologer Prime Cassandra Starweaver Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,11 +67,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Superstitions Improvements
@@ -86,12 +79,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -101,13 +91,10 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-
 
 ## Overview
 
@@ -162,8 +149,6 @@ Ongoing situations affecting Astrologer Prime Cassandra Starweaver:
 - External threats
 - Opportunities arising
 
-
-
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -180,7 +165,6 @@ Ongoing situations affecting Astrologer Prime Cassandra Starweaver:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

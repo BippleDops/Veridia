@@ -1,3 +1,12 @@
+---
+title: Drow Vhaeraun Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Drow Vhaeraun Mtf
 
 ---
@@ -42,7 +51,6 @@ Due to his high status in the Dark Seldarine (for a male) and because of his arr
 
 To quash any challenge to the matriarchy that Vhaeraun might inspire in his followers, some drow communities preach that he wears a mask to hide the terrible scars from the wounds inflicted on him by Lolth as punishment for his arrogance. His silence, too, is part of his punishment, for his tongue was removed for questioning Lolth's orders. Worshipers of Vhaeraun who believe this dogma sometimes ritually scar and silence themselves as signs of their devotion, and then serve as voiceless, masked bodyguards for the matrons of their house.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -54,11 +62,6 @@ To quash any challenge to the matriarchy that Vhaeraun might inspire in his foll
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,7 +81,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange accidents suggest a curse
@@ -88,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Wizard Xphb School of Enchantment
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wizard Xphb School of Enchantment
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # School of Enchantment
-*[[wizard-xphb|Wizard]]: Wizard Subclass*  
+*[[wizard xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook p. 117*  
 
 > [!tldr] Class and Feature Progression
@@ -88,7 +97,6 @@ At 14th level, you gain the ability to make a creature unaware of your magical i
 
 Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent [[conditions#Charmed|charmed]]. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -100,11 +108,6 @@ Additionally, once before the spell expires, you can use your action to try to m
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -121,7 +124,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Secret Connections
 

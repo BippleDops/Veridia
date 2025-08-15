@@ -1,3 +1,12 @@
+---
+title: Wind Walk Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wind Walk Xphb
 
 ---
@@ -34,14 +43,13 @@ world: Both
 - **Components:** V, S, M (a candle)
 - **Duration:** 8 hours
 
-You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [[fly-speed-xphb|Fly Speed]] of 300 feet and can hover; it has [[immunity-xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [[actions#Dash|Dash]] action or a [[actions#Magic|Magic]] action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [[conditions#Stunned|Stunned]] condition. Until the spell ends, the target can revert to cloud form, which also requires a [[actions#Magic|Magic]] action followed by a 1-minute transformation.
+You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [[fly speed xphb|Fly Speed]] of 300 feet and can hover; it has [[immunity xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[resistance xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [[actions#Dash|Dash]] action or a [[actions#Magic|Magic]] action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [[conditions#Stunned|Stunned]] condition. Until the spell ends, the target can revert to cloud form, which also requires a [[actions#Magic|Magic]] action followed by a 1-minute transformation.
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 341. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,11 +62,6 @@ If a target is in cloud form and flying when the effect ends, the target descend
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals a conspiracy about the cult
@@ -86,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

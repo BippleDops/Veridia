@@ -1,3 +1,12 @@
+---
+title: Arms of Hadar Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Arms of Hadar Xphb
 
 ---
@@ -39,10 +48,9 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[list-spells-classes-warlock|Warlock]]
+**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[list-spells-classes-warlock|Warlock]]
 
 *Source: Player's Handbook (2024) p. 243*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

@@ -34,15 +34,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Campaign Epilogues
 
 *Concluding the Adventures of Both Worlds*
 
 > *"Every tale must find its ending, but in the depths where time flows differently and on surfaces where hope rebuilds what despair has broken, endings become new beginnings. The choices made in darkness echo into light, and what heroes achieve reverberates through generations yet unborn."*
 > — [[Chronicle Keeper Sage Deepmemory]], Historian of the [[United Councils of Both Worlds]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,7 +68,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Contradictions Improvements
 
@@ -80,13 +76,9 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
@@ -104,9 +96,6 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -297,8 +286,6 @@ The origins of this lore trace back through the ages, influenced by major events
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## A Day in the Life
 

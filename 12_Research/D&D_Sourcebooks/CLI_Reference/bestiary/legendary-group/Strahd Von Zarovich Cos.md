@@ -1,3 +1,12 @@
+---
+title: Strahd Von Zarovich Cos
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Strahd Von Zarovich Cos
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-von-zarovich-cos-strahd-von-zarovich-cos.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,11 +46,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Lair actions
 _Source: Curse of Strahd_
@@ -53,8 +56,8 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 
 - Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.  
 - Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.  
-- Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[specter-xmm|specter]].  
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[shadow-xmm|shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[greater-restoration-xphb|greater restoration]] spell or a [[remove-curse-xphb|remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.
+- Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[specter xmm|specter]].  
+- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[shadow xmm|shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[greater restoration xphb|greater restoration]] spell or a [[remove curse xphb|remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.
 
 ## Player-Facing Summary
 
@@ -72,16 +75,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Campaign_Timeline
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Timeline
 
 ---
@@ -411,7 +420,6 @@ Automatic event tracking and timeline visualization through dataview queries emb
 
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -423,11 +431,6 @@ Automatic event tracking and timeline visualization through dataview queries emb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -441,7 +444,6 @@ Automatic event tracking and timeline visualization through dataview queries emb
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Plot Hooks
 
 - A document has gone missing and truth emerges
@@ -453,7 +455,6 @@ Automatic event tracking and timeline visualization through dataview queries emb
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

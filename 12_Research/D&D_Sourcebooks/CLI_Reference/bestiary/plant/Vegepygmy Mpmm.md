@@ -1,3 +1,12 @@
+---
+title: Vegepygmy Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Vegepygmy Mpmm
 
 ---
@@ -30,13 +39,11 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.png]]
 
-# [[vegepygmy-mpmm|Vegepygmy]]
+# [[vegepygmy mpmm|Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [[russet-mold-vgm|russet mold]]. One or more vegepygmies emerge from the corpse a day later.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ Typical vegepygmies originate from the remains left behind when a Humanoid or a 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Vegepygmies
 
@@ -130,11 +132,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -145,7 +145,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

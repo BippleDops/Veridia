@@ -1,3 +1,12 @@
+---
+title: Brown Mold Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Brown Mold Xdmg
 
 ---
@@ -29,10 +38,9 @@ Brown mold resembles a furry, light-brown carpet. This fungus feeds on warmth, d
 
 When a creature enters a space within 5 feet of the mold for the first time on a turn or starts its turn there, the creature makes a DC 12 Constitution saving throw, taking 22 (`4d10`) Cold damage on a failed save or half as much damage on a successful one.
 
-Brown mold has [[immunity-xphb|Immunity]] to Fire damage, and any source of fire brought within 5 feet of it causes the mold to instantly expand across a surface and toward the fire, creating a new patch that covers a 10-foot square. A patch of brown mold exposed to an effect that deals any amount of Cold damage is destroyed instantly.
+Brown mold has [[immunity xphb|Immunity]] to Fire damage, and any source of fire brought within 5 feet of it causes the mold to instantly expand across a surface and toward the fire, creating a new patch that covers a 10-foot square. A patch of brown mold exposed to an effect that deals any amount of Cold damage is destroyed instantly.
 
 *Source: Dungeon Master's Guide (2024) p. 76*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Brown mold has [[immunity-xphb|Immunity]] to Fire damage, and any source of fire
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -75,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

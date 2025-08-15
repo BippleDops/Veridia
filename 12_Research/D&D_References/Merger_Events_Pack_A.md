@@ -1,3 +1,12 @@
+---
+title: Merger_Events_Pack_A
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Merger_Events_Pack_A
 
 ---
@@ -23,10 +32,9 @@ world: Both
 
 # Merger Events Pack A — 50 Ready-to-Run Encounters
 
-Use with [[Complete Reality Merger System]], [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Sanity System]], and [[Memory Trading Economy System|Memory Economy]].
+Use with [[Complete Reality Merger System]], [[Merger Hybrid Vehicles|Merger Hybrid Vehicles]], [[Sanity System]], and [[Memory Trading Economy System|Memory Economy]].
 
 ---
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Use with [[Complete Reality Merger System]], [[Merger_Hybrid_Vehicles|Merger Hyb
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is protecting a artifact for power
@@ -74,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

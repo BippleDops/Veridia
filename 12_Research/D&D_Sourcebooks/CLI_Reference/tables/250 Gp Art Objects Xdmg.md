@@ -1,3 +1,12 @@
+---
+title: 250 Gp Art Objects Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 250 Gp Art Objects Xdmg
 
 ---
@@ -31,18 +40,17 @@ world: Both
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [[gold-ring-set-with-bloodstones-xdmg|Gold ring set with bloodstones]] |
-| 2 | [[carved-ivory-statuette-xdmg|Carved ivory statuette]] |
-| 3 | [[bejeweled-gold-bracelet-xdmg|Bejeweled gold bracelet]] |
-| 4 | [[silver-necklace-with-a-gemstone-pendant-xdmg|Silver necklace with a gemstone pendant]] |
-| 5 | [[bronze-crown-xdmg|Bronze crown]] |
-| 6 | [[silk-vestments-with-gold-embroidery-xdmg|Silk vestments with gold embroidery]] |
+| 1 | [[gold ring set with bloodstones xdmg|Gold ring set with bloodstones]] |
+| 2 | [[carved ivory statuette xdmg|Carved ivory statuette]] |
+| 3 | [[bejeweled gold bracelet xdmg|Bejeweled gold bracelet]] |
+| 4 | [[silver necklace with a gemstone pendant xdmg|Silver necklace with a gemstone pendant]] |
+| 5 | [[bronze crown xdmg|Bronze crown]] |
+| 6 | [[silk vestments with gold embroidery xdmg|Silk vestments with gold embroidery]] |
 | 7 | [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg|Well-made tapestry that is 10 feet by 10 feet]] |
-| 8 | [[brass-mug-with-jade-inlay-xdmg|Brass mug with jade inlay]] |
-| 9 | [[box-of-turquoise-animal-figurines-xdmg|Box of turquoise animal figurines]] |
-| 10 | [[gold-birdcage-with-electrum-filigree-xdmg|Gold birdcage with electrum filigree]] |
+| 8 | [[brass mug with jade inlay xdmg|Brass mug with jade inlay]] |
+| 9 | [[box of turquoise animal figurines xdmg|Box of turquoise animal figurines]] |
+| 10 | [[gold birdcage with electrum filigree xdmg|Gold birdcage with electrum filigree]] |
 ^250-gp-art-objects
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,16 +80,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

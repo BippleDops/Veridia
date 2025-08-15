@@ -1,3 +1,12 @@
+---
+title: Light Repeating Crossbow Oota
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Light Repeating Crossbow Oota
 
 ---
@@ -32,13 +41,12 @@ world: Both
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action.
 
 *Source: Out of the Abyss p. 224*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ This crossbow is fitted with a cartridge that can hold up to six crossbow bolts.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 

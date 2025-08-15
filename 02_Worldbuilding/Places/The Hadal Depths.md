@@ -34,14 +34,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-hadal-depths-the-hadal-depths.svg]]
 
 # The Hadal Depths
 *Where Reality Drowns, The Mother's Cradle, The Final Deep*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,8 +66,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Superstitions Improvements
 
@@ -80,21 +74,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Hospitality Improvements
@@ -108,7 +98,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth]] fears to venture.
@@ -410,8 +399,6 @@ Ongoing situations affecting The Hadal Depths:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Plot Hooks
 

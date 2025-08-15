@@ -1,3 +1,12 @@
+---
+title: Campaign_Relationship_Matrix
+type: quest
+tags:
+- quest
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Campaign_Relationship_Matrix
 
 ---
@@ -10,7 +19,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -22,11 +30,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Culture & Daily Life
 
@@ -149,7 +152,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **The Umbral Exchange (Aquabyssos) - Shadow Market Center**
 **Criminal Leadership:**
-- [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
+- [[02 Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
 - [[Master Trader Darkmarke]] - Daily operations management
 - [[Commander Shadowguard]] - Security and enforcement
 
@@ -337,12 +340,12 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 **Historical Preservation Locations:**
 - [[Gallery of Frozen Waves]] - Memory and historical artifact preservation
 - [[Ancient Siege Tunnels]] - Military history and archaeological significance
-- [[Pre-Submersion Ruins]] - Original civilization remains and cultural artifacts
+- [[Pre Submersion Ruins]] - Original civilization remains and cultural artifacts
 - Various underwater archaeological sites
 
 **Historical Lore Connections:**
 - **[[Ancient Aquabyssos Rulers]]** → Imperial sites and governmental continuity
-- **[[Ancient Mer-Folk Empire]]** → Predecessor civilization evidence
+- **[[Ancient Mer Folk Empire]]** → Predecessor civilization evidence
 - **[[Timeline of Crimes]]** → Historical criminal activities and investigation records
 - **[[Continental Connections & Story Weave]]** → International historical relationships
 
@@ -772,7 +775,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Communication and Coordination** - Cross-world communication and operational planning
 
 #### **Shared Historical Legacy**
-**[[Ancient Mer-Folk Empire]] - Predecessor Civilization:**
+**[[Ancient Mer Folk Empire]] - Predecessor Civilization:**
 - **Cultural Foundation** - Shared cultural and governmental traditions
 - **Technological Heritage** - Ancient technology and magical applications
 - **Historical Legitimacy** - Governmental authority and cultural continuity
@@ -850,7 +853,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Criminal Investigation Scenarios**
 **Shadow Conspiracy Infiltration (Aquabyssos):**
-- **Key Locations**: [[The Umbral Exchange]], [[Reflection Pools - Surgical Theater]], government facilities
+- **Key Locations**: [[The Umbral Exchange]], [[Reflection Pools   Surgical Theater]], government facilities
 - **Primary NPCs**: [[Vex Shadowthorn]], [[Shadow Duchess Nyx]], investigating authorities
 - **Faction Involvement**: [[The Shadow Conspiracy]], [[Shadow Surgeons Collective]], law enforcement
 - **Lore Integration**: [[Shadow Magic Integration Practices]], consciousness manipulation, reality alteration
@@ -1007,7 +1010,6 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## 12_Research Specific Content
 

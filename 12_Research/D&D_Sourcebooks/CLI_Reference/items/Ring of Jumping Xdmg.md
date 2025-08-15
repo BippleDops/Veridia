@@ -1,3 +1,12 @@
+---
+title: Ring of Jumping Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ring of Jumping Xdmg
 
 ---
@@ -30,10 +39,9 @@ world: Both
 # Ring of Jumping
 *Ring, uncommon (requires attunement)*  
 
-While wearing this ring, you can cast [[jump-xphb|Jump]] from it, but can target only yourself when you do so.
+While wearing this ring, you can cast [[jump xphb|Jump]] from it, but can target only yourself when you do so.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ While wearing this ring, you can cast [[jump-xphb|Jump]] from it, but can target
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -67,7 +70,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

@@ -35,14 +35,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-original-glaucus-original-glaucus.svg]]
 
 # Original Glaucus Tidecaller
 *The True Senator, The Forgotten Voice, Prisoner of Kelp*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,12 +67,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Coming_Of_Age Improvements
@@ -98,18 +91,14 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-
 
 ## Overview
 The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Meadows]] for three weeks, trapped within living kelp that slowly drains his memories while his shadow replacement [[Senator Glaucus]] takes his place in the [[Parliament of Echoes]]. Once a respected advocate for surface-depth reconciliation, he now struggles to maintain his identity as the kelp forest feeds on his past.
@@ -290,11 +279,9 @@ Original Glaucus is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Original Glaucus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Original Glaucus.
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Historical Timeline
 
@@ -313,7 +300,6 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -331,7 +317,6 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Religious Observances
 

@@ -1,3 +1,12 @@
+---
+title: Flensing Claws Vgm
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Flensing Claws Vgm
 
 ---
@@ -31,19 +40,18 @@ world: Both
 
 - **Damage**:  slashing
 
-[[mind-flayer-xmm|Illithids]] don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+[[mind flayer xmm|Illithids]] don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 
 Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
 
 **Items in this group:**
 
-- [[flensing-claws-small-vgm|Flensing Claws (Small)]]
-- [[flensing-claws-medium-vgm|Flensing Claws (Medium)]]
-- [[flensing-claws-large-vgm|Flensing Claws (Large)]]
-- [[flensing-claws-huge-vgm|Flensing Claws (Huge)]]
+- [[flensing claws small vgm|Flensing Claws (Small)]]
+- [[flensing claws medium vgm|Flensing Claws (Medium)]]
+- [[flensing claws large vgm|Flensing Claws (Large)]]
+- [[flensing claws huge vgm|Flensing Claws (Huge)]]
 
 *Source: Volo's Guide to Monsters p. 81*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Each set of flensing claws is designed for a specific creature and can't be used
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

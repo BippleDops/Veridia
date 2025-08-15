@@ -1,3 +1,12 @@
+---
+title: Water Whip
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Water Whip
 
 ---
@@ -28,7 +37,6 @@ world: Both
 
 You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes `3d10` bludgeoning damage, plus an extra `d10` bludgeoning damage for each additional ki point you spend, and you can either knock it [[conditions#prone|prone]] or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it [[conditions#prone|prone]].
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -40,11 +48,6 @@ You can spend 2 ki points as an action to create a whip of water that shoves and
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,11 +65,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

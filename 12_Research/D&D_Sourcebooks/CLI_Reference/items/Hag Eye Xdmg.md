@@ -1,3 +1,12 @@
+---
+title: Hag Eye Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Hag Eye Xdmg
 
 ---
@@ -28,8 +37,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/hag-eye.webp#right)
 
-A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [[darkvision-xphb|Darkvision]] (targeting yourself only) or [[see-invisibility-xphb|See Invisibility]]. The Hag Eye regains all expended charges daily at dawn.
-
+A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [[darkvision xphb|Darkvision]] (targeting yourself only) or [[see invisibility xphb|See Invisibility]]. The Hag Eye regains all expended charges daily at dawn.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 ch
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Coven Sensor
 
@@ -74,16 +77,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## 12_Research Specific Content
 

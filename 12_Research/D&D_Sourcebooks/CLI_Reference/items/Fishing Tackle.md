@@ -1,3 +1,12 @@
+---
+title: Fishing Tackle
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fishing Tackle
 
 ---
@@ -37,7 +46,6 @@ This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead
 
 *Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules (2014)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,11 +57,6 @@ This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

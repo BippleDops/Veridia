@@ -34,15 +34,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-stolen-anvil-the-stolen-anvil.svg)
 
 # The Stolen Anvil
 
 *"Without the Master's Anvil, true crafting dies in these waters." - Guildmaster Ironheart*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -71,11 +68,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Sensory Improvements
@@ -84,7 +79,6 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Hospitality Improvements
@@ -98,11 +92,9 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Contradictions Improvements
@@ -112,7 +104,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Overview
 The Stolen Anvil incident involves the theft of the legendary Deepforge Anvil, a magical smithing tool capable of creating underwater weapons and artifacts of unprecedented quality. The anvil's disappearance has crippled the city's crafting industry and created a black market for inferior goods.
@@ -282,16 +273,13 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 
 iched: true -->
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Cultural Practices
 

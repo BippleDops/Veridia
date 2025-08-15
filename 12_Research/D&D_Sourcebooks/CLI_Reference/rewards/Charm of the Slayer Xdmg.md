@@ -1,3 +1,12 @@
+---
+title: Charm of the Slayer Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charm of the Slayer Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Charm of the Slayer
 
-One weapon in your possession becomes a [[dragon-slayer-xdmg|Dragon Slayer]] or [[giant-slayer-xdmg|Giant Slayer]] (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
+One weapon in your possession becomes a [[dragon slayer xdmg|Dragon Slayer]] or [[giant slayer xdmg|Giant Slayer]] (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ One weapon in your possession becomes a [[dragon-slayer-xdmg|Dragon Slayer]] or 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -62,7 +65,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

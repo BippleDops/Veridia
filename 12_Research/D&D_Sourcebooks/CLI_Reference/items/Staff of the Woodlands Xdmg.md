@@ -1,3 +1,12 @@
+---
+title: Staff of the Woodlands Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Staff of the Woodlands Xdmg
 
 ---
@@ -31,11 +40,10 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ This staff has 6 charges and can be wielded as a magic Quarterstaff that grants 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Spells
 
@@ -60,19 +63,19 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[animal-friendship-xphb|Animal Friendship]] | 1 |
-| [[awaken-xphb|Awaken]] | 5 |
-| [[barkskin-xphb|Barkskin]] | 2 |
-| [[locate-animals-or-plants-xphb|Locate Animals or Plants]] | 2 |
-| [[pass-without-trace-xphb|Pass without Trace]] | 2 |
-| [[speak-with-animals-xphb|Speak with Animals]] | 1 |
-| [[speak-with-plants-xphb|Speak with Plants]] | 3 |
-| [[wall-of-thorns-xphb|Wall of Thorns]] | 6 |
+| [[animal friendship xphb|Animal Friendship]] | 1 |
+| [[awaken xphb|Awaken]] | 5 |
+| [[barkskin xphb|Barkskin]] | 2 |
+| [[locate animals or plants xphb|Locate Animals or Plants]] | 2 |
+| [[pass without trace xphb|Pass without Trace]] | 2 |
+| [[speak with animals xphb|Speak with Animals]] | 1 |
+| [[speak with plants xphb|Speak with Plants]] | 3 |
+| [[wall of thorns xphb|Wall of Thorns]] | 6 |
 ^spell-charge-cost
 
 ## Tree Form
 
-You can take a [[actions#Magic|Magic]] action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect-magic-xphb|Detect Magic]] spell. While touching the tree and using a [[actions#Magic|Magic]] action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [[actions#Magic|Magic]] action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect magic xphb|Detect Magic]] spell. While touching the tree and using a [[actions#Magic|Magic]] action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 
@@ -96,11 +99,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
-
 
 ## Plot Hooks
 
@@ -111,11 +112,9 @@ Mentioned in The Second Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

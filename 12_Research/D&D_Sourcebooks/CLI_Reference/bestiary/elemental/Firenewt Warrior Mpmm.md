@@ -1,3 +1,12 @@
+---
+title: Firenewt Warrior Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Firenewt Warrior Mpmm
 
 ---
@@ -34,11 +43,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warrior-mpmm-firenewt-warrior-mpmm.svg)
 
-# [[firenewt-warrior-mpmm|Firenewt Warrior]]
+# [[firenewt warrior mpmm|Firenewt Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
 
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ A firenewt warrior can spew fire. Many of these warriors have a close relationsh
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Firenewts
 
@@ -67,7 +70,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "13"
-"ac_class": "[[shield-xphb|shield]]"
+"ac_class": "[[shield xphb|shield]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "1"
@@ -123,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

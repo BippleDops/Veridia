@@ -1,3 +1,12 @@
+---
+title: Rogue Xphb Swashbuckler Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rogue Xphb Swashbuckler Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Swashbuckler
-*[[rogue-xphb|Rogue]]: Rogue Subclass*  
+*[[rogue xphb|Rogue]]: Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 48*  
 
 > [!tldr] Class and Feature Progression
@@ -88,7 +97,6 @@ Starting at 13th level, you can use a bonus action on your turn to gain advantag
 
 Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -100,11 +108,6 @@ Beginning at 17th level, your mastery of the blade lets you turn failure into su
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -122,11 +125,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Related Notes
 
@@ -135,11 +136,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

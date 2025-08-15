@@ -1,3 +1,12 @@
+---
+title: Winged Boots Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Winged Boots Xdmg
 
 ---
@@ -28,10 +37,9 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/winged-boots.webp#right)
 
-These boots have 4 charges and regain `d4` expended charges daily at dawn. While wearing the boots, you can take a [[actions#Magic|Magic]] action to expend 1 charge, gaining a [[fly-speed-xphb|Fly Speed]] of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
+These boots have 4 charges and regain `d4` expended charges daily at dawn. While wearing the boots, you can take a [[actions#Magic|Magic]] action to expend 1 charge, gaining a [[fly speed xphb|Fly Speed]] of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
 
 *Source: Dungeon Master's Guide (2024) p. 325. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ These boots have 4 charges and regain `d4` expended charges daily at dawn. While
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,16 +69,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

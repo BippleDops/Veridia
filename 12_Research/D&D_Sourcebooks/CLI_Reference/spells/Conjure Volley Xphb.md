@@ -1,3 +1,12 @@
+---
+title: Conjure Volley Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Conjure Volley Xphb
 
 ---
@@ -33,12 +42,11 @@ world: Both
 - **Components:** V, S, M (a Melee or Ranged weapon worth at least 1 CP)
 - **Duration:** Instantaneous
 
-You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high [[cylinder-area-of-effect-xphb|Cylinder]] centered on that point makes a Dexterity saving throw. A creature takes `8d8` Force damage on a failed save or half as much damage on a successful one.
+You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high [[cylinder area of effect xphb|Cylinder]] centered on that point makes a Dexterity saving throw. A creature takes `8d8` Force damage on a failed save or half as much damage on a successful one.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]
+**Classes**: [[list spells classes ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 255*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
-
 
 ## Plot Hooks
 

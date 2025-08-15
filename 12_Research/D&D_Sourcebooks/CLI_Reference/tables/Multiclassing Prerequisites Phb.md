@@ -1,3 +1,12 @@
+---
+title: Multiclassing Prerequisites Phb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Multiclassing Prerequisites Phb
 
 ---
@@ -29,20 +38,19 @@ world: Both
 
 | Class | Ability Score Minimum |
 |-------|-----------------------|
-| [[barbarian-xphb|Barbarian]] | Strength 13 |
-| [[bard-xphb|Bard]] | Charisma 13 |
-| [[cleric-xphb|Cleric]] | Wisdom 13 |
-| [[druid-xphb|Druid]] | Wisdom 13 |
-| [[fighter-xphb|Fighter]] | Strength 13 or Dexterity 13 |
-| [[monk-xphb|Monk]] | Dexterity 13 and Wisdom 13 |
-| [[paladin-xphb|Paladin]] | Strength 13 and Charisma 13 |
-| [[ranger-xphb|Ranger]] | Dexterity 13 and Wisdom 13 |
-| [[rogue-xphb|Rogue]] | Dexterity 13 |
-| [[sorcerer-xphb|Sorcerer]] | Charisma 13 |
-| [[warlock-xphb|Warlock]] | Charisma 13 |
-| [[wizard-xphb|Wizard]] | Intelligence 13 |
+| [[barbarian xphb|Barbarian]] | Strength 13 |
+| [[bard xphb|Bard]] | Charisma 13 |
+| [[cleric xphb|Cleric]] | Wisdom 13 |
+| [[druid xphb|Druid]] | Wisdom 13 |
+| [[fighter xphb|Fighter]] | Strength 13 or Dexterity 13 |
+| [[monk xphb|Monk]] | Dexterity 13 and Wisdom 13 |
+| [[paladin xphb|Paladin]] | Strength 13 and Charisma 13 |
+| [[ranger xphb|Ranger]] | Dexterity 13 and Wisdom 13 |
+| [[rogue xphb|Rogue]] | Dexterity 13 |
+| [[sorcerer xphb|Sorcerer]] | Charisma 13 |
+| [[warlock xphb|Warlock]] | Charisma 13 |
+| [[wizard xphb|Wizard]] | Intelligence 13 |
 ^multiclassing-prerequisites
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -76,7 +79,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

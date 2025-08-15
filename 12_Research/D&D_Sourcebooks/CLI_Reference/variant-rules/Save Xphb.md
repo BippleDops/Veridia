@@ -1,3 +1,12 @@
+---
+title: Save Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Save Xphb
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Save
 *Source: Player's Handbook (2024) p. 373. Available in the SRD and the Free Rules (2024)* 
 
-Save is another name for a [[saving-throw-xphb|saving throw]].
-
+Save is another name for a [[saving throw xphb|saving throw]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ Save is another name for a [[saving-throw-xphb|saving throw]].
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,16 +64,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

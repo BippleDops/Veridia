@@ -1,3 +1,12 @@
+---
+title: Shadow Nyx
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shadow Nyx
 
 ---
@@ -38,7 +47,6 @@ obsidianUIMode: preview
 # The Shadow Network
 *Eyes in Every Corner, The Information Web, Whispers in the Dark*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ obsidianUIMode: preview
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview and Purpose
 The Shadow Network represents the most sophisticated intelligence gathering operation in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], specializing in the collection, analysis, and strategic deployment of information that influences political, economic, and social developments throughout the underwater realm. Under the enigmatic leadership of Shadow Nyx, the Network has evolved from a small group of shadow-touched informants into a comprehensive intelligence organization that maintains surveillance operations, conducts espionage missions, and provides information services to clients ranging from government officials to criminal organizations.
@@ -284,11 +287,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

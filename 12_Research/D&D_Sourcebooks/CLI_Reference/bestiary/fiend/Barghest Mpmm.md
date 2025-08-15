@@ -1,3 +1,12 @@
+---
+title: Barghest Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Barghest Mpmm
 
 ---
@@ -35,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barghest-mpmm-barghest-mpmm.svg)
 
-# [[barghest-mpmm|Barghest]]
+# [[barghest mpmm|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -101,10 +110,10 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[levitate-xphb|levitate]], [[minor-illusion-xphb|minor\]]
-      \ illusion]], [[pass-without-trace-xphb|pass without trace]]\n\
-      \n1/day each: [[charm-person-xphb|charm person]],\
-      \ [[dimension-door-xphb|dimension door]], [[suggestion-xphb|suggestion]]"
+      \nAt will: [[levitate xphb|levitate]], [[minor illusion xphb|minor\]]
+      \ illusion]], [[pass without trace xphb|pass without trace]]\n\
+      \n1/day each: [[charm person xphb|charm person]],\
+      \ [[dimension door xphb|dimension door]], [[suggestion xphb|suggestion]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\
@@ -119,7 +128,6 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -131,11 +139,6 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -157,11 +160,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

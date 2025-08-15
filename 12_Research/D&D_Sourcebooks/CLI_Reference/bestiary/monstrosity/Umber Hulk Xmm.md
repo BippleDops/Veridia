@@ -1,3 +1,12 @@
+---
+title: Umber Hulk Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Umber Hulk Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-umber-hulk-xmm-umber-hulk-xmm.svg)
 
-# [[umber-hulk-xmm|Umber Hulk]]
+# [[umber hulk xmm|Umber Hulk]]
 *Source: Monster Manual (2024) p. 312*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Umber Hulk
 
@@ -83,7 +86,7 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
-  - "desc": "The umber hulk can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
+  - "desc": "The umber hulk can burrow through solid rock at half its [[burrow speed xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
@@ -92,11 +95,11 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: The target can't take Reactions until the start of the umber hulk's\
       \ next turn, and the target rolls d8 to determine what it does on its next turn:\n\
       \n- 1-4. The target does nothing.  \n- 5-6. The target takes no action\
-      \ or [[bonus-action-xphb|Bonus Action]] and\
+      \ or [[bonus action xphb|Bonus Action]] and\
       \ uses all its movement to move in a random direction.  \n- 7-8. The target\
       \ makes a melee attack against a random creature within its reach or does nothing\
       \ if it can't make such an attack.  "
@@ -127,11 +130,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -143,7 +144,6 @@ Mentioned in The Hidden Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Armor of Force Resistance Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor of Force Resistance Xdmg
 
 ---
@@ -42,7 +51,7 @@ world: Both
 # Armor of Force Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance-xphb|Resistance]] to force damage while you wear this armor.
+You have [[resistance xphb|Resistance]] to force damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Force Resistance](#Breastplate%20of%20Force%20Resistance)
@@ -65,7 +74,6 @@ You have [[resistance-xphb|Resistance]] to force damage while you wear this armo
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -77,11 +85,6 @@ You have [[resistance-xphb|Resistance]] to force damage while you wear this armo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -99,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A shipment has gone missing and chaos spreads
@@ -113,7 +115,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

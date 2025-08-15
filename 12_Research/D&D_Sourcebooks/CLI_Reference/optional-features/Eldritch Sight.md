@@ -1,3 +1,12 @@
+---
+title: Eldritch Sight
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Eldritch Sight
 
 ---
@@ -26,8 +35,7 @@ world: Both
 # Eldritch Sight
 *Source: Player's Handbook p. 110. Available in the SRD*  
 
-You can cast [[detect-magic-xphb|detect magic]] at will, without expending a spell slot.
-
+You can cast [[detect magic xphb|detect magic]] at will, without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -40,11 +48,6 @@ You can cast [[detect-magic-xphb|detect magic]] at will, without expending a spe
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -61,7 +64,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

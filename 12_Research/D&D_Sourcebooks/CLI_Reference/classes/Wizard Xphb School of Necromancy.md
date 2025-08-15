@@ -1,3 +1,12 @@
+---
+title: Wizard Xphb School of Necromancy
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wizard Xphb School of Necromancy
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # School of Necromancy
-*[[wizard-xphb|Wizard]]: Wizard Subclass*  
+*[[wizard xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook p. 118*  
 
 > [!tldr] Class and Feature Progression
@@ -72,7 +81,7 @@ At 2nd level, you gain the ability to reap life energy from creatures you kill w
 
 ### Undead Thralls (Level 6)
 
-At 6th level, you add the [[animate-dead-xphb|animate dead]] spell to your spellbook if it is not there already. When you cast [[animate-dead-xphb|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [[animate dead xphb|animate dead]] spell to your spellbook if it is not there already. When you cast [[animate dead xphb|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 
@@ -89,7 +98,6 @@ Starting at 14th level, you can use magic to bring undead under your control, ev
 
 Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -101,11 +109,6 @@ Intelligent undead are harder to control in this way. If the target has an Intel
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -123,11 +126,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Stone Golem Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Stone Golem Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-golem-xmm-stone-golem-xmm.svg)
 
-# [[stone-golem-xmm|Stone Golem]]
+# [[stone golem xmm|Stone Golem]]
 *Source: Monster Manual (2024) p. 301. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Stone Golem
 
@@ -70,7 +73,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [[slow-xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [[slow xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -108,7 +111,7 @@ Stone golems are typically created to protect places of significance to a group,
 "traits":
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [[advantage-xphb|Advantage]]\
+  - "desc": "The golem has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -120,7 +123,7 @@ Stone golems are typically created to protect places of significance to a group,
   - "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage."
     "name": "Force Bolt"
 "bonus_actions":
-  - "desc": "The golem casts the [[slow-xphb|Slow]] spell,\
+  - "desc": "The golem casts the [[slow xphb|Slow]] spell,\
       \ requiring no spell components and using Constitution as the spellcasting ability\
       \ (spell save DC 17).\n"
     "name": "Slow (Recharge 5-6)"
@@ -150,7 +153,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Strange disappearances suggest a portal
@@ -159,7 +161,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

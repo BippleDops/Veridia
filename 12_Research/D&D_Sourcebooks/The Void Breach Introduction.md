@@ -1,3 +1,12 @@
+---
+title: The Void Breach Introduction
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # The Void Breach Introduction
 
 ---
@@ -24,7 +33,7 @@ status: complete
 connections:
 - '[[Deep Mother Lore]]'
 - '[[Deep Mother Cult Practices]]'
-- '[[Sanity_Horror_Framework|Sanity Horror Framework]]'
+- '[[Sanity Horror Framework|Sanity Horror Framework]]'
 level-range: 7-9
 themes:
 - psychological_horror
@@ -39,7 +48,6 @@ world: Aquabyssos
 
 *"The darkness between spaces has found a crack in our world, and through it seeps the hunger that devours meaning itself."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -51,11 +59,6 @@ world: Aquabyssos
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Adventure Overview
 
@@ -122,7 +125,7 @@ This adventure contains themes and imagery involving:
 
 ### Sanity System Implementation
 
-This adventure uses the [[Sanity_Horror_Framework|Sanity Horror Framework]] with the following modifications and additions:
+This adventure uses the [[Sanity Horror Framework|Sanity Horror Framework]] with the following modifications and additions:
 
 #### Void Corruption Rules
 
@@ -278,7 +281,7 @@ Remember that the greatest horror comes not from the unknown, but from the momen
 
 ---
 
-**Next:** Begin with [[Session_1_Strange_Tidings|Session 1 Strange Tidings]] to start the investigation.
+**Next:** Begin with [[Session 1 Strange Tidings|Session 1 Strange Tidings]] to start the investigation.
 
 ## Player-Facing Summary
 
@@ -296,7 +299,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -304,11 +306,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

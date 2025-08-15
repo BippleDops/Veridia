@@ -1,3 +1,12 @@
+---
+title: D-L-01_Leviathan_Waking
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # D-L-01_Leviathan_Waking
 
 ---
@@ -20,7 +29,6 @@ updated: '2025-08-13T01:18:31.131202+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Read-Aloud
 > The seafloor moves. A mountain exhales. Far above, the city-lights tremble like constellations shaken in a jar.
@@ -57,11 +60,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Related Notes
 

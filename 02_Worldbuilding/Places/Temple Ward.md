@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-ward-temple-ward.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,8 +52,6 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Hospitality Improvements
 
@@ -70,18 +64,13 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-
 
 ## The Sacred Heart of Aquabyssos Faith
 
@@ -217,7 +205,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Denomination**: God of smithing, engineering, pressure mastery, construction  
 **Architecture**: Workshop-temple with forges powered by thermal vents  
 **Services**: Tool blessing, construction consecration, craftsmanship prayers  
-**Clergy**: [[Master Smith-Priest Vulcan Depthforge]] leads artisan-clerics  
+**Clergy**: [[Master Smith Priest Vulcan Depthforge]] leads artisan-clerics  
 **Specialties**: Blessing of tools and structures, craft magic, pressure engineering
 
 ### Sanctuary of the Wandering Current
@@ -290,7 +278,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Network**: Works with marine biologists and environmental organizations  
 **Personality**: Passionate about nature, sometimes impatient with bureaucracy
 
-### [[Master Smith-Priest Vulcan Depthforge]]
+### [[Master Smith Priest Vulcan Depthforge]]
 **Faith**: Forge-Temple of Pressure's Heart  
 **Skills**: Combines religious authority with legendary craftsmanship  
 **Products**: Creates blessed tools and weapons for worthy causes  
@@ -535,12 +523,9 @@ Ongoing situations affecting Temple Ward:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Plot Hooks
 
@@ -566,7 +551,6 @@ Key stop on metals trade route
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -578,7 +562,6 @@ Key stop on metals trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

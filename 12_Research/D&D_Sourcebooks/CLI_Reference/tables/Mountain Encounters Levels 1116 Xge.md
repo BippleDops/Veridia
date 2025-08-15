@@ -1,3 +1,12 @@
+---
+title: Mountain Encounters Levels 1116 Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Mountain Encounters Levels 1116 Xge
 
 ---
@@ -31,33 +40,32 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `1d8 + 1` [[basilisk-xmm|basilisks]] |
+| 01-02 | `1d8 + 1` [[basilisk xmm|basilisks]] |
 | 03-04 | `2d4` [[hell-hound-xmm|hell hounds]] |
-| 05-06 | `d3` [[chimera-xmm|chimeras]] |
+| 05-06 | `d3` [[chimera xmm|chimeras]] |
 | 07-08 | 1 [[galeb-duhr-xmm|galeb duhr]] |
-| 09-10 | `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 09-10 | `2d6` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
 | 11-15 | 1 [[young-silver-dragon-xmm|young silver dragon]] |
-| 16-20 | `2d4` [[troll-xmm|trolls]] |
+| 16-20 | `2d4` [[troll xmm|trolls]] |
 | 21-25 | 1 red dragon gliding through the sky above the highest mountaintops |
-| 26-30 | `1d8 + 1` [[manticore-xmm|manticores]] |
+| 26-30 | `1d8 + 1` [[manticore xmm|manticores]] |
 | 31-35 | `d4` [[cyclops-sentry-xmm|cyclopes]] |
 | 36-40 | Heavy snowfall that lasts for `d6` hours |
 | 41-45 | `d10` [[air-elemental-xmm|air elementals]] |
-| 46-50 | `1d6 + 2` [[bulette-xmm|bulettes]] |
+| 46-50 | `1d6 + 2` [[bulette xmm|bulettes]] |
 | 51-55 | `d4` [[stone-giant-xmm|stone giants]] |
 | 56-60 | 1 [[fire-giant-xmm|fire giant]] |
 | 61-65 | 2 [[stone-giant-xmm|stone giants]] playing catch with a boulder a few hundred feet away |
-| 66-70 | `1d8 + 1` [[ettin-xmm|ettins]] |
+| 66-70 | `1d8 + 1` [[ettin xmm|ettins]] |
 | 71-75 | `d3` [[frost-giant-xmm|frost giants]] |
 | 76-80 | A wide crevasse, its depths shrouded in mist |
 | 81-85 | `d4` [[cloud-giant-xmm|cloud giants]] |
 | 86-90 | 1 [[adult-silver-dragon-xmm|adult silver dragon]] |
 | 91-96 | 1 [[adult-red-dragon-xmm|adult red dragon]] |
-| 97-98 | `d4` [[roc-xmm|rocs]] |
+| 97-98 | `d4` [[roc xmm|rocs]] |
 | 99 | 1 [[ancient-silver-dragon-xmm|ancient silver dragon]] |
 | 00 | 1 [[ancient-red-dragon-xmm|ancient red dragon]] |
 ^mountain-encounters-levels-1116
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,11 +78,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -92,14 +95,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

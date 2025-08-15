@@ -1,3 +1,12 @@
+---
+title: Nabassu Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Nabassu Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nabassu-mpmm-nabassu-mpmm.svg)
 
-# [[nabassu-mpmm|Nabassu]]
+# [[nabassu mpmm|Nabassu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -85,7 +94,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way,\
       \ its attacks deal an extra 3 (d6) damage on a hit. The nabassu retains these\
       \ benefits for 6 days. A creature devoured by a nabassu can be restored to life\
-      \ only by a [[wish-xphb|wish]] spell."
+      \ only by a [[wish xphb|wish]] spell."
     "name": "Devour Soul"
   - "desc": "The nabassu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -107,7 +116,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ regains hit points equal to half that amount. This reduction lasts until the\
       \ target finishes a short or long rest. The target dies if its hit point maximum\
       \ is reduced to 0, and if the target is a Humanoid, it immediately rises as\
-      \ a [[ghoul-xmm|ghoul]] under the nabassu's\
+      \ a [[ghoul xmm|ghoul]] under the nabassu's\
       \ control."
     "name": "Soul-Stealing Gaze"
 "source":
@@ -116,7 +125,6 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/nabassu-mpmm.webp"
 ```
 ^statblock
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -129,11 +137,6 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -155,26 +158,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

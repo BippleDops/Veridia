@@ -23,11 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,15 +52,9 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Sensory Improvements
@@ -73,7 +63,6 @@ improvements: 20
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Death_Customs Improvements
@@ -91,7 +80,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-
 
 ## Player-Facing Summary
 
@@ -210,13 +198,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns truth
 
-
 ## Relationships
 
 - **Child**: [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg]]
 - **Parent**: [[Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg]]
 - **Blackmailer**: [[Portrait NPC High Priest Nereon High Priest Nereon.svg]]
-
 
 ## Economic Structure
 

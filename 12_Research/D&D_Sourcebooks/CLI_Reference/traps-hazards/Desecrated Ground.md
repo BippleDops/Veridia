@@ -1,3 +1,12 @@
+---
+title: Desecrated Ground
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Desecrated Ground
 
 ---
@@ -26,14 +35,13 @@ world: Both
 # Desecrated Ground
 *Wilderness Hazard*  
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[detect-evil-and-good-xphb|detect evil and good]] spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[detect evil and good xphb|detect evil and good]] spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [[holy-water-xphb|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[hallow-xphb|hallow]] spell purifies desecrated ground within its area.
+A vial of [[holy water xphb|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[hallow xphb|hallow]] spell purifies desecrated ground within its area.
 
 *Source: Dungeon Master's Guide p. 110*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ A vial of [[holy-water-xphb|holy water]] purifies a 10-foot-square area of desec
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A corpse reveals ancient history about a local noble
@@ -78,7 +80,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

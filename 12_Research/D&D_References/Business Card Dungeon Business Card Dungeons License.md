@@ -1,3 +1,12 @@
+---
+title: Business Card Dungeon Business Card Dungeons License
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Business Card Dungeon - Business Card Dungeons License
 
 ---
@@ -20,7 +29,6 @@ Because of the incredible generosity of the patrons, Dyson Logo makes these maps
 Cartography by [Dyson Logos](https://rpgcharacters.wordpress.com/) is licensed  
 under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -32,11 +40,6 @@ under a [Creative Commons Attribution 4.0 International License](http://creativ
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -49,7 +52,6 @@ under a [Creative Commons Attribution 4.0 International License](http://creativ
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Secret Connections
 

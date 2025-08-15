@@ -1,3 +1,12 @@
+---
+title: Saber Toothed Tiger Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Saber Toothed Tiger Xmm
 
 ---
@@ -33,9 +42,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-saber-toothed-tiger-xmm-saber-toothed-tiger-xmm.svg)
 
-# [[saber-toothed-tiger-xmm|Saber-Toothed Tiger]]
+# [[saber toothed tiger xmm|Saber-Toothed Tiger]]
 *Source: Monster Manual (2024) p. 369. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,15 +56,10 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Saber-Toothed Tiger (XMM)"
@@ -87,7 +90,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "With a 10-foot running start, the tiger can [[long-jump-xphb|Long Jump]]\
+  - "desc": "With a 10-foot running start, the tiger can [[long jump xphb|Long Jump]]\
       \ up to 25 feet."
     "name": "Running Leap"
 "actions":
@@ -123,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -31,12 +31,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # Pre-Submersion Ruins
-
-![[04_Resources/Assets/Art/Lore/Pre-Submersion_Ruins.png|Pre-Submersion Ruins Portrait]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,23 +60,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -91,13 +80,10 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Summary
 
@@ -122,8 +108,6 @@ Pre-Submersion Ruins represents an important aspect of the world's history, cult
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
 
 ## Plot Hooks
 

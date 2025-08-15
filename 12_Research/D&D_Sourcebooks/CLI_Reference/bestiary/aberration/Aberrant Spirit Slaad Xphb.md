@@ -1,3 +1,12 @@
+---
+title: Aberrant Spirit Slaad Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Aberrant Spirit Slaad Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-slaad-xphb-aberrant-spirit-slaad-xphb.svg)
 
-# [[aberrant-spirit-slaad-xphb|Aberrant Spirit (Slaad)]]
+# [[aberrant spirit slaad xphb|Aberrant Spirit (Slaad)]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock
@@ -66,7 +75,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -78,11 +86,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -100,7 +103,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A merchant needs help finding before winter
@@ -113,11 +115,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

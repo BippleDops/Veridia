@@ -1,3 +1,12 @@
+---
+title: Rewrite the World Order
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Rewrite the World Order
 
 ---
@@ -38,7 +47,6 @@ updated: '2025-08-11T00:00:00+00:00'
 # Rewrite the World Order
 *Architects of Tomorrow, Visionaries of Crystal Perfection, The Inevitable Revolution*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ updated: '2025-08-11T00:00:00+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -283,8 +286,8 @@ Political changes might create opportunities for revolutionary ideas to be incor
 **Important Concepts**:
 - [[The Crystal Manifesto]]
 - [[Revolutionary Crystal Consciousness]]
-- [[Post-Revolutionary Society Vision]]
-- [[Cell-Based Revolutionary Organization]]
+- [[Post Revolutionary Society Vision]]
+- [[Cell Based Revolutionary Organization]]
 - [[Crystal Transformation Ideology]]
 
 ## Player-Facing Summary
@@ -303,11 +306,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

@@ -1,3 +1,12 @@
+---
+title: Player Characters as Vampires Mm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Player Characters as Vampires Mm
 
 ---
@@ -25,8 +34,7 @@ world: Both
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 
 
-The game statistics of a player character transformed into a [[vampire-spawn-xmm|vampire spawn]] and then a [[vampire-xmm|vampire]] don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[senses#Darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength. The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[wish-xphb|wish]] spell or the character is killed and brought back to life.
-
+The game statistics of a player character transformed into a [[vampire spawn xmm|vampire spawn]] and then a [[vampire xmm|vampire]] don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[senses#Darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength. The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[wish xphb|wish]] spell or the character is killed and brought back to life.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -39,11 +47,6 @@ The game statistics of a player character transformed into a [[vampire-spawn-xmm
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Jiangshi
 _Source: Van Richten's Guide to Ravenloft_
@@ -66,11 +69,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
-
 
 ## Plot Hooks
 

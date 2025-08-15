@@ -1,3 +1,12 @@
+---
+title: Other_Actual_Plays
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Other_Actual_Plays
 
 ---
@@ -13,7 +22,6 @@ created: 2025-08-14
 modified: '2025-08-14'
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -25,11 +33,6 @@ modified: '2025-08-14'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Oxventure
 - **YouTube**: Outside Xbox/Outside Xtra

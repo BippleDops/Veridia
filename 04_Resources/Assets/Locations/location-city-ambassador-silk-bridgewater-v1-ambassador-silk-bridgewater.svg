@@ -1,16 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="3072" viewBox="0 0 2048 3072">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#001219"/>
-      <stop offset="100%" stop-color="#005f73"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  <circle cx="1741" cy="614" r="246" fill="#0a9396" opacity="0.25"/>
-  <g fill="#94d2bd" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif">
-    <text x="5%" y="50%" font-size="123" font-weight="700">Ambassador Silk Bridgewater</text>
-    <text x="5%" y="50%" dy="111" font-size="55" opacity="0.9">LOCATION • mysterious • studio</text>
-    <text x="5%" y="95%" font-size="43" opacity="0.8">2:3 · 2048x3072 · concept art, high detail</text>
-  </g>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+        <linearGradient id="loc-ocean" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#001F3F"/><stop offset="50%" stop-color="#003D7A"/><stop offset="100%" stop-color="#0066CC"/>
+        </linearGradient>
+
+        <linearGradient id="loc-depth" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#000033"/><stop offset="50%" stop-color="#001F3F"/><stop offset="100%" stop-color="#003366"/>
+        </linearGradient>
+
+        <linearGradient id="loc-coral" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#FF6B6B"/><stop offset="50%" stop-color="#FF8E53"/><stop offset="100%" stop-color="#FE6B8B"/>
+        </linearGradient>
+
+        <filter id="loc-shadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+</defs>
+<rect width="400" height="400" fill="url(#loc-ocean)"/>
+<ellipse cx="9.379559431671503" cy="310.493973994893" rx="41.297590154541325" 
+                  ry="60.13261348524303" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="37.57469307751031" cy="330.49401150885325" rx="24.800063386869613" 
+                  ry="47.265269596096495" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="131.22940463222105" cy="349.41409542294764" rx="45.56491565854785" 
+                  ry="42.19610969236949" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="115.78702297098147" cy="342.0860878965153" rx="28.435851693759385" 
+                  ry="46.68614017694713" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="379.473108037375" cy="284.4265788895061" rx="38.9559183934983" 
+                  ry="57.64042718292099" fill="#004C99" 
+                  opacity="0.7"/>
+<ellipse cx="352.9291124957406" cy="100.68225181079994" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(9.884537887619796 352.9291124957406 100.68225181079994)"/>
+<ellipse cx="144.30325687604872" cy="344.3611544374154" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(8.71946606391296 144.30325687604872 344.3611544374154)"/>
+<ellipse cx="30.95050502537582" cy="348.46524546399706" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-13.665064935079997 30.95050502537582 348.46524546399706)"/>
+<ellipse cx="368.2231959866991" cy="244.85044272604267" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-10.732707695234168 368.2231959866991 244.85044272604267)"/>
+<ellipse cx="148.30040275590184" cy="127.16118926525783" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-1.6146132018934747 148.30040275590184 127.16118926525783)"/>
+<ellipse cx="346.3483300593924" cy="237.54495600199496" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(1.567468430173772 346.3483300593924 237.54495600199496)"/>
+<ellipse cx="141.0774452872247" cy="272.21906481396377" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-9.309061139675599 141.0774452872247 272.21906481396377)"/>
+<ellipse cx="76.30284985445593" cy="107.82725305067642" rx="15" ry="8" 
+                  fill="#00A3E0" transform="rotate(-3.3270679122829545 76.30284985445593 107.82725305067642)"/>
+<circle cx="44.606938643236305" cy="149.34964785553456" r="4.2604657352106425" fill="white" opacity="0.3"/>
+<circle cx="154.8451571149164" cy="170.75307330638424" r="6.774641977053968" fill="white" opacity="0.3"/>
+<circle cx="179.773803463054" cy="23.380066744609174" r="4.289876958288138" fill="white" opacity="0.3"/>
+<circle cx="33.091613445822475" cy="220.56102402920342" r="2.667244033365446" fill="white" opacity="0.3"/>
+<circle cx="172.795188723514" cy="90.04976546754718" r="5.829605921967024" fill="white" opacity="0.3"/>
+<circle cx="299.15858558739393" cy="170.6356085940227" r="5.459103156850538" fill="white" opacity="0.3"/>
+<circle cx="225.39245121877974" cy="325.0681849781354" r="4.735394715037776" fill="white" opacity="0.3"/>
+<circle cx="196.12808851813978" cy="33.99857958636056" r="3.463701805831189" fill="white" opacity="0.3"/>
+<circle cx="237.47743532238013" cy="180.41098983640654" r="4.35953128958896" fill="white" opacity="0.3"/>
+<circle cx="106.79270324817259" cy="212.51448180151607" r="2.6437050846577153" fill="white" opacity="0.3"/>
+<circle cx="133.73718212851378" cy="294.43377425371034" r="3.626384096765454" fill="white" opacity="0.3"/>
+<circle cx="154.35421727325559" cy="354.1516220459729" r="6.388877974897143" fill="white" opacity="0.3"/>
+<circle cx="330.3822907473714" cy="112.20123545146623" r="4.532659818121174" fill="white" opacity="0.3"/>
+<circle cx="263.2441725775352" cy="75.99058625610273" r="4.363582183244166" fill="white" opacity="0.3"/>
+<circle cx="231.65182431715868" cy="258.9601175847418" r="3.9570865244727758" fill="white" opacity="0.3"/>
+<circle cx="177.34979094200162" cy="350.24928853075863" r="4.776764108602675" fill="white" opacity="0.3"/>
+<circle cx="63.52998142518365" cy="194.93974936332364" r="3.8986893942613206" fill="white" opacity="0.3"/>
+<circle cx="237.02466679277495" cy="235.5246246273931" r="5.139367480053615" fill="white" opacity="0.3"/>
+<circle cx="161.78499786968254" cy="46.94036715399594" r="6.947960089973153" fill="white" opacity="0.3"/>
+<circle cx="355.1802635306534" cy="107.22133416743564" r="6.5048381421120975" fill="white" opacity="0.3"/>
+<rect x="100" y="20" width="200" height="40" 
+              fill="#0066CC" opacity="0.8"/>
+<text x="200" y="45" text-anchor="middle" font-size="20" 
+              fill="white">bridgewater</text>
 </svg>

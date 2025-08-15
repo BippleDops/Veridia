@@ -1,3 +1,12 @@
+---
+title: Wand of Scowls Xge
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Wand of Scowls Xge
 
 ---
@@ -34,10 +43,9 @@ world: Both
 
 This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to scowl for 1 minute.
 
-The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand transforms into a [[wand-of-smiles-xge|wand of smiles]].
+The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand transforms into a [[wand of smiles xge|wand of smiles]].
 
 *Source: Xanathar's Guide to Everything p. 140*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,11 +58,6 @@ The wand regains all expended charges daily at dawn. If you expend the wand's la
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -72,16 +75,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

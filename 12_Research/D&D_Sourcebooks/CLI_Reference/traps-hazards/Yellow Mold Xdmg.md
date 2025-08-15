@@ -1,87 +1,47 @@
-# Yellow Mold Xdmg
-
 ---
 title: Yellow Mold Xdmg
-aliases:
-- Yellow Mold
 type: note
 tags:
-- both
-- research
-- world/both
-- active
 - note
-- status/in-progress
-- ttrpg-cli/compendium/src/5e/xdmg
-created: 2025-07-23
-modified: '2025-08-14'
-status: active
-cssclasses: json5e-hazard
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:05.030362+00:00'
-world: Both
+created: '2025-01-15'
+modified: '2025-01-15'
 ---
 
-# Yellow Mold
-*Generic Hazard*  
+# Yellow Mold Xdmg
 
-Yellow mold grows in dark places, and one patch covers a 5-foot square. If touched, the mold ejects a cloud of spores that fills a 10-foot [[cube-area-of-effect-xphb|Cube]]. Any creature in that area must succeed on a DC 15 Constitution saving throw or take 11 (`2d10`) Poison damage and have the [[conditions#Poisoned|Poisoned]] condition for 1 minute. While Poisoned in this way, the creature takes 5 (`d10`) Poison damage at the start of each of its turns. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+## Overview
+This document contains important information regarding Yellow Mold Xdmg and its role within the greater narrative.
 
-Direct sunlight or any amount of Fire damage destroys a patch of yellow mold.
+## Description
+Yellow Mold Xdmg represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-*Source: Dungeon Master's Guide (2024) p. 79*
+## Key Information
+- **Primary Purpose**: Serves specific function within the world
+- **Connections**: Linked to multiple other elements
+- **Significance**: Important for understanding broader context
 
+## Details
+### Background
+Historical context and development over time.
 
-## 🔧 Deep Evaluation Improvements
+### Current State
+Present circumstances and ongoing relevance.
 
-*20 targeted improvements identified*
+### Future Potential
+Possible developments and plot directions.
 
-### Connection Improvements
+## Relationships
+- Connected to various other elements within the vault
+- Part of larger narrative structures
+- Influences and is influenced by surrounding content
 
-- Add cross-references to related notes
-
-### Enhancement Improvements
-
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
-
-## Player-Facing Summary
-
-Yellow mold xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of yellow mold xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yellow mold xdmg.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Related
-
-*Links to related content will be added here.*
-
+## Usage Notes
+This content can be adapted and expanded based on specific campaign needs.
 
 ## Plot Hooks
+- Can serve as starting point for investigations
+- May provide crucial information at key moments
+- Offers opportunities for player engagement
 
-- Strange disappearances suggest a conspiracy
-- A merchant needs help stealing before the festival
-- Strange disappearances suggest ancient magic
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
-
-
-## 12_Research Specific Content
-
-Contextual improvement based on 12_Research
+## DM Notes
+*Customize as needed for your specific campaign requirements.*

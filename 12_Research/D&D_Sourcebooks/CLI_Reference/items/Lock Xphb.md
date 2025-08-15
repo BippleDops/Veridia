@@ -1,3 +1,12 @@
+---
+title: Lock Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Lock Xphb
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 
-A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xphb|Thieves' Tools]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
+A Lock comes with a key. Without the key, a creature can use [[thieves tools xphb|Thieves' Tools]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xph
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Plot Hooks
 
@@ -90,11 +91,9 @@ Mentioned in The Second Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

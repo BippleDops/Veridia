@@ -1,3 +1,12 @@
+---
+title: Heavy Precipitation Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Heavy Precipitation Xdmg
 
 ---
@@ -26,10 +35,9 @@ world: Both
 # Heavy Precipitation
 *Environmental Hazard*  
 
-Everything within an area of heavy rain or heavy snowfall is [[lightly-obscured-xphb|Lightly Obscured]], and creatures in the area have [[disadvantage-xphb|Disadvantage]] on all Wisdom ([[skills#Perception|Perception]]) checks. Heavy rain also extinguishes open flames.
+Everything within an area of heavy rain or heavy snowfall is [[lightly obscured xphb|Lightly Obscured]], and creatures in the area have [[disadvantage xphb|Disadvantage]] on all Wisdom ([[skills#Perception|Perception]]) checks. Heavy rain also extinguishes open flames.
 
 *Source: Dungeon Master's Guide (2024) p. 69*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -42,11 +50,6 @@ Everything within an area of heavy rain or heavy snowfall is [[lightly-obscured-
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -79,16 +80,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

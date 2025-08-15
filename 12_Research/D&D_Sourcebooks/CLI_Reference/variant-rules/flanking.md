@@ -1,3 +1,12 @@
+---
+title: flanking
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # flanking
 
 ---
@@ -27,7 +36,6 @@ If you regularly use miniatures, flanking gives combatants a simple way to gain 
 
 A creature can't flank an enemy that it can't see. A creature also can't flank while it is [[conditions#Incapacitated|incapacitated]]. A Large or larger creature is flanking as long as at least one square or hex of its space qualifies for flanking.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -39,11 +47,6 @@ A creature can't flank an enemy that it can't see. A creature also can't flank w
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Flanking on Squares
 
@@ -71,16 +74,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 

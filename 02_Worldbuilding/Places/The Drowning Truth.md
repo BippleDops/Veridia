@@ -37,14 +37,9 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 # The Drowning Truth
 
-![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Drowning_Truth.png|The Drowning Truth Portrait]]
-
 *Where honesty becomes lethal and lies sustain life*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -73,33 +68,22 @@ improvements: 20
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Superstitions Improvements
 
-- List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 - List common superstitions and their origins
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Hospitality Improvements
 
-- Explain guest rights and host obligations
 - Explain guest rights and host obligations
 
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-
 
 ## Overview
 
@@ -484,11 +468,11 @@ The sphere raises questions:
 
 ## See Also
 
-- [[02_Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
-- [[02_Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
-- [[02_Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
+- [[02 Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
+- [[02 Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
+- [[02 Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
 - [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics]]
-- [[02_Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
+- [[02 Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
 
@@ -530,12 +514,9 @@ Ongoing situations affecting The Drowning Truth:
 - External threats
 - Opportunities arising
 
-
-
 ## Trade Importance
 
 Key stop on magic items trade route
-
 
 ## Plot Hooks
 
@@ -560,7 +541,6 @@ Key stop on magic items trade route
 - Natural disasters
 - Current power structures established
 
-
 ## Cultural Practices
 
 ### Greetings
@@ -572,7 +552,6 @@ Key stop on magic items trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Religious Observances
 

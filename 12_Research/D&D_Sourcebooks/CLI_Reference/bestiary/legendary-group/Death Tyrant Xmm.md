@@ -1,3 +1,12 @@
+---
+title: Death Tyrant Xmm
+type: organization
+tags:
+- organization
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Death Tyrant Xmm
 
 ---
@@ -26,7 +35,6 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -38,19 +46,14 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Regional effects
 _Source: Monster Manual (2024)_
 
 The region containing a death tyrant's lair is warped by its presence, creating the following effects:
 
-- **Negative Energy Suffusion.** Whenever a creature within 1 mile of the lair regains [[hit-points-xphb|Hit Points]] from a spell, it subtracts `d10` from the number of [[hit-points-xphb|Hit Points]] regained.  
-- **Scopophobia.** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the death tyrant and its allies) that finishes a [[short-rest-xphb|Short Rest]] while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
+- **Negative Energy Suffusion.** Whenever a creature within 1 mile of the lair regains [[hit points xphb|Hit Points]] from a spell, it subtracts `d10` from the number of [[hit points xphb|Hit Points]] regained.  
+- **Scopophobia.** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the death tyrant and its allies) that finishes a [[short rest xphb|Short Rest]] while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
 
 If the death tyrant dies or moves its lair elsewhere, these effects end immediately.
 
@@ -70,11 +73,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

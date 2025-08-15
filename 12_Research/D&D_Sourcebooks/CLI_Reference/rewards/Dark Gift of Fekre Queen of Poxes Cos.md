@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Fekre Queen of Poxes Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Fekre Queen of Poxes Cos
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Fekre, Queen of Poxes
 *Charm*  
 
-Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [[contagion-xphb|contagion]] spell as an action. After it has been used three times, the dark gift vanishes.
+Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [[contagion xphb|contagion]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift reeks of filth.
 
 *Source: Curse of Strahd p. 191*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary of this dark gift reeks of filth.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -66,16 +69,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

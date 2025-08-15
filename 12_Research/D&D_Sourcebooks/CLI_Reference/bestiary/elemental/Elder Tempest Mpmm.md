@@ -1,3 +1,12 @@
+---
+title: Elder Tempest Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Elder Tempest Mpmm
 
 ---
@@ -35,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-tempest-mpmm-elder-tempest-mpmm.svg)
 
-# [[elder-tempest-mpmm|Elder Tempest]]
+# [[elder tempest mpmm|Elder Tempest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
@@ -125,7 +134,6 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -137,11 +145,6 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -162,7 +165,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

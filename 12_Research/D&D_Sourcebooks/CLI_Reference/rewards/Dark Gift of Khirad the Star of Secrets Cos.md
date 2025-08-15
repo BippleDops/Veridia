@@ -1,3 +1,12 @@
+---
+title: Dark Gift of Khirad the Star of Secrets Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dark Gift of Khirad the Star of Secrets Cos
 
 ---
@@ -26,12 +35,11 @@ world: Both
 # Dark Gift of Khirad, the Star of Secrets
 *Charm*  
 
-Khirad's gift is the power of divination. This gift allows its beneficiary to cast the [[scrying-xphb|scrying]] spell as an action. After it has been used three times, the dark gift vanishes.
+Khirad's gift is the power of divination. This gift allows its beneficiary to cast the [[scrying xphb|scrying]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
 
 *Source: Curse of Strahd p. 193*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ The beneficiary's voice becomes a low whisper, and its smile becomes cruel and e
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -65,7 +68,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

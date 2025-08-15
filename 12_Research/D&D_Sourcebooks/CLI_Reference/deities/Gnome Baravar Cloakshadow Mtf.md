@@ -1,3 +1,12 @@
+---
+title: Gnome Baravar Cloakshadow Mtf
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gnome Baravar Cloakshadow Mtf
 
 ---
@@ -38,7 +47,6 @@ When gnomes arrived in the world, Baravar protected them by teaching them how to
 
 Forest gnomes and deep gnomes owe their innate magical abilities to Baravar, and all gnomes get their natural defense against magic from her shrewdness.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -50,11 +58,6 @@ Forest gnomes and deep gnomes owe their innate magical abilities to Baravar, and
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,7 +74,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

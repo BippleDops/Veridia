@@ -1,3 +1,12 @@
+---
+title: Magic Item Table E
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Magic Item Table E
 
 ---
@@ -31,15 +40,14 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-30 | [[spell-scroll-level-8-xdmg|Spell scroll (8th level)]] |
-| 31-55 | [[potion-of-storm-giant-strength-xdmg|Potion of storm giant strength]] |
-| 56-70 | [[potion-of-supreme-healing-xdmg|Potion of supreme healing]] |
-| 71-85 | [[spell-scroll-level-9-xdmg|Spell scroll (9th level)]] |
-| 86-93 | [[universal-solvent-xdmg|Universal solvent]] |
-| 94-98 | [[ammunition-of-slaying-xdmg|Arrow of slaying]] |
-| 99-100 | [[sovereign-glue-xdmg|Sovereign glue]] |
+| 01-30 | [[spell scroll level 8 xdmg|Spell scroll (8th level)]] |
+| 31-55 | [[potion of storm giant strength xdmg|Potion of storm giant strength]] |
+| 56-70 | [[potion of supreme healing xdmg|Potion of supreme healing]] |
+| 71-85 | [[spell scroll level 9 xdmg|Spell scroll (9th level)]] |
+| 86-93 | [[universal solvent xdmg|Universal solvent]] |
+| 94-98 | [[ammunition of slaying xdmg|Arrow of slaying]] |
+| 99-100 | [[sovereign glue xdmg|Sovereign glue]] |
 ^magic-item-table-e
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,11 +60,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -75,7 +78,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

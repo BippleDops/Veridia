@@ -1,3 +1,12 @@
+---
+title: Criminal Spy Variant
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Criminal Spy Variant
 
 ---
@@ -27,11 +36,10 @@ world: Both
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[skills#Deception|Deception]], [[skills#Stealth|Stealth]]  
-- **Tool Proficiencies.** One type of gaming set, [[thieves-tools-xphb|thieves' tools]]  
-- **Equipment.** A [[crowbar-xphb|crowbar]], a set of dark [[common-clothes|common clothes]] including a hood, and a belt [[pouch-xphb|pouch]] containing 15 gp  
+- **Tool Proficiencies.** One type of gaming set, [[thieves tools xphb|thieves' tools]]  
+- **Equipment.** A [[crowbar xphb|crowbar]], a set of dark [[common clothes|common clothes]] including a hood, and a belt [[pouch xphb|pouch]] containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -44,11 +52,6 @@ Although your capabilities are not much different from those of a burglar or smu
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Feature: Spy Contact
 
@@ -141,21 +144,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

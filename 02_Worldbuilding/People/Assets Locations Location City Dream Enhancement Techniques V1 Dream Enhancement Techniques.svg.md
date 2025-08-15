@@ -19,9 +19,6 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -49,9 +46,6 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Oral_Tradition Improvements
 
@@ -68,11 +62,9 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
 - Detail common objects and their cultural significance
 
 ### Hospitality Improvements
@@ -90,7 +82,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Basic Information
 
@@ -200,7 +191,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest - The Pretender]] (ally)
+- [[Quest   The Pretender]] (ally)
 - [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]] (friend)
 - [[Deep Lord Pelagios the Eternal]] (enemy)
 ---
@@ -209,7 +200,6 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## A Day in the Life
 

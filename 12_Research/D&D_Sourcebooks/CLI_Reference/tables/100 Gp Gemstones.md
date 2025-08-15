@@ -1,3 +1,12 @@
+---
+title: 100 Gp Gemstones
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # 100 Gp Gemstones
 
 ---
@@ -31,18 +40,17 @@ world: Both
 
 | dice: d10 | Stone Description |
 |-----------|-------------------|
-| 1 | [[amber-xdmg|Amber]] (transparent watery gold to rich gold) |
-| 2 | [[amethyst-xdmg|Amethyst]] (transparent deep purple) |
-| 3 | [[chrysoberyl-xdmg|Chrysoberyl]] (transparent yellow-green to pale green) |
-| 4 | [[coral-xdmg|Coral]] (opaque crimson) |
-| 5 | [[garnet-xdmg|Garnet]] (transparent red, brown-green, or violet) |
-| 6 | [[jade-xdmg|Jade]] (translucent light green, deep green, or white) |
-| 7 | [[jet-xdmg|Jet]] (opaque deep black) |
-| 8 | [[pearl-xdmg|Pearl]] (opaque lustrous white, yellow, or pink) |
-| 9 | [[spinel-xdmg|Spinel]] (transparent red, red-brown, or deep green) |
-| 10 | [[tourmaline-xdmg|Tourmaline]] (transparent pale green, blue, brown, or red) |
+| 1 | [[amber xdmg|Amber]] (transparent watery gold to rich gold) |
+| 2 | [[amethyst xdmg|Amethyst]] (transparent deep purple) |
+| 3 | [[chrysoberyl xdmg|Chrysoberyl]] (transparent yellow-green to pale green) |
+| 4 | [[coral xdmg|Coral]] (opaque crimson) |
+| 5 | [[garnet xdmg|Garnet]] (transparent red, brown-green, or violet) |
+| 6 | [[jade xdmg|Jade]] (translucent light green, deep green, or white) |
+| 7 | [[jet xdmg|Jet]] (opaque deep black) |
+| 8 | [[pearl xdmg|Pearl]] (opaque lustrous white, yellow, or pink) |
+| 9 | [[spinel xdmg|Spinel]] (transparent red, red-brown, or deep green) |
+| 10 | [[tourmaline xdmg|Tourmaline]] (transparent pale green, blue, brown, or red) |
 ^100-gp-gemstones
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,11 +63,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -77,11 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
-
 
 ## Plot Hooks
 
@@ -92,11 +93,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

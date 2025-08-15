@@ -1,3 +1,12 @@
+---
+title: Ochre Jelly Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Ochre Jelly Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
 
-# [[ochre-jelly-xmm|Ochre Jelly]]
+# [[ochre jelly xmm|Ochre Jelly]]
 *Source: Monster Manual (2024) p. 230. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ochre Jelly
 
@@ -115,12 +118,12 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit-points-xphb|Hit Points]],\
-      \ it becomes [[bloodied-xphb|Bloodied]] or\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit points xphb|Hit Points]],\
+      \ it becomes [[bloodied xphb|Bloodied]] or\
       \ is subjected to Lightning or Slashing damage. _Response:_ The jelly splits\
       \ into two new Ochre Jellies. Each new jelly is one size smaller than the original\
-      \ jelly and acts on its [[initiative-xphb|Initiative]].\
-      \ The original jelly's [[hit-points-xphb|Hit Points]]\
+      \ jelly and acts on its [[initiative xphb|Initiative]].\
+      \ The original jelly's [[hit points xphb|Hit Points]]\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":
@@ -149,11 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

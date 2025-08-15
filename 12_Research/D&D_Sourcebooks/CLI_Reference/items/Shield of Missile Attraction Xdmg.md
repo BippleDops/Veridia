@@ -1,3 +1,12 @@
+---
+title: Shield of Missile Attraction Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Shield of Missile Attraction Xdmg
 
 ---
@@ -25,15 +34,14 @@ world: Both
 ---
 
 # Shield of Missile Attraction
-*Armor ([[shield-xphb|shield]]), cursed item, rare (requires attunement)*  
+*Armor ([[shield xphb|shield]]), cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [[item properties#Cursed%20Items|Cursed]]
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[resistance-xphb|Resistance]] to damage from attacks made with Ranged weapons.
-
+While holding this Shield, you have [[resistance xphb|Resistance]] to damage from attacks made with Ranged weapons.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,15 +54,10 @@ While holding this Shield, you have [[resistance-xphb|Resistance]] to damage fro
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Curse
 
-This Shield is cursed. Attuning to it curses you until you are targeted by a [[remove-curse-xphb|Remove Curse]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
+This Shield is cursed. Attuning to it curses you until you are targeted by a [[remove curse xphb|Remove Curse]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
 
 *Source: Dungeon Master's Guide (2024) p. 304. Available in the SRD and the Free Rules (2024)*
 
@@ -74,11 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -90,7 +91,6 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

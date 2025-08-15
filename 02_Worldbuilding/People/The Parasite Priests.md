@@ -37,17 +37,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg]]
 
 # The Parasite Priests
 *The Communion of Perfect Unity*
 
 > *"We are not infected. We are evolved. The parasites do not control us - they complete us. Through symbiosis, we become more than the sum of our parts, closer to the divine unity that [[The Deep Mother]] intended."*
 > — High Symbiont Threnus Coralborn, moments before his transformation became irreversible
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -76,24 +72,17 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Sensory Improvements
 
-- Add smells, sounds, and textures unique to this culture
 - Add smells, sounds, and textures unique to this culture
 
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Death_Customs Improvements
@@ -103,12 +92,10 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 
@@ -137,7 +124,7 @@ Advanced cult doctrine teaches that successful symbiosis creates not just physic
 ### Sacred Texts and Prophecies
 
 **The Codex of Symbiosis:**
-The cult's primary religious text, written by their founder [[High Symbiont Malachar the First-Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
+The cult's primary religious text, written by their founder [[High Symbiont Malachar the First Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
 
 **The Prophecy of Perfect Unity:**
 Cult prophecy speaks of a coming age when the barriers between separate organisms will dissolve, creating a unified biological network spanning all of Aquabyssos. They believe this "Great Symbiosis" will occur when enough individuals have undergone successful parasitic bonding, creating a critical mass that will trigger spontaneous symbiosis throughout the population.
@@ -579,7 +566,6 @@ Legends speak of The Parasite Priests as a nexus where past and present converge
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
 
 ## Bloodline
 

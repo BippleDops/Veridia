@@ -1,3 +1,12 @@
+---
+title: Orthon Mpmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Orthon Mpmm
 
 ---
@@ -33,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-orthon-mpmm-orthon-mpmm.svg)
 
-# [[orthon-mpmm|Orthon]]
+# [[orthon mpmm|Orthon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -49,7 +58,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[[half-plate-armor-xphb|half plate]]"
+"ac_class": "[[half plate armor xphb|half plate]]"
 "hp": !!int "105"
 "hit_dice": "10d10 + 50"
 "modifier": !!int "3"
@@ -133,7 +142,6 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -145,11 +153,6 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Environment
 
@@ -170,7 +173,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

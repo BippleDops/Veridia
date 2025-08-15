@@ -1,3 +1,12 @@
+---
+title: Gunpowder Keg Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Gunpowder Keg Xdmg
 
 ---
@@ -33,10 +42,9 @@ world: Both
 - **Cost**: 250 gp
 - **Weight**: 20.0 lbs.
 
-Setting fire to a keg full of Gunpowder causes it to explode. When a keg explodes, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on the keg makes a DC 12 Dexterity saving throw, taking 24 (`7d6`) Fire damage on a failed save or half as much damage on a successful one.
+Setting fire to a keg full of Gunpowder causes it to explode. When a keg explodes, each creature in a 10-foot-radius [[sphere area of effect xphb|Sphere]] centered on the keg makes a DC 12 Dexterity saving throw, taking 24 (`7d6`) Fire damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 73*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ Setting fire to a keg full of Gunpowder causes it to explode. When a keg explode
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

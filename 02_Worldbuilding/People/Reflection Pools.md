@@ -32,15 +32,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg]]
 
 # Reflection Pools
 
 *"In still waters, the future ripples backward to the present." - Oracle Miraleth*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -77,18 +73,13 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Coming_Of_Age Improvements
@@ -110,7 +101,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 The Reflection Pools are a sacred site consisting of seven perfectly circular pools of unnaturally still water, each capable of showing visions of past, present, or future events. Located in the Temple District's quietest corner, these pools serve both religious and practical purposes for divination, meditation, and seeking guidance.

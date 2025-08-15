@@ -1,3 +1,12 @@
+---
+title: Racial Feats Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Racial Feats Xge
 
 ---
@@ -29,28 +38,27 @@ world: Both
 
 | Race | Feat |
 |------|------|
-| Dragonborn | [[dragon-fear-xge|Dragon Fear]] |
-| Dragonborn | [[dragon-hide-xge|Dragon Hide]] |
-| Dwarf | [[dwarven-fortitude-xge|Dwarven Fortitude]] |
-| Dwarf | [[squat-nimbleness-xge|Squat Nimbleness]] |
-| Elf | [[elven-accuracy-xge|Elven Accuracy]] |
-| Elf (drow) | [[drow-high-magic-xge|Drow High Magic]] |
-| Elf (high) | [[fey-teleportation-xge|Fey Teleportation]] |
-| Elf (wood) | [[wood-elf-magic-xge|Wood Elf Magic]] |
-| Gnome | [[fade-away-xge|Fade Away]] |
-| Gnome | [[squat-nimbleness-xge|Squat Nimbleness]] |
-| Half-elf | [[elven-accuracy-xge|Elven Accuracy]] |
-| Half-elf | [[prodigy-xge|Prodigy]] |
-| Half-orc | [[orcish-fury-xge|Orcish Fury]] |
-| Half-orc | [[prodigy-xge|Prodigy]] |
-| Halfling | [[bountiful-luck-xge|Bountiful Luck]] |
-| Halfling | [[second-chance-xge|Second Chance]] |
-| Halfling | [[squat-nimbleness-xge|Squat Nimbleness]] |
-| Human | [[prodigy-xge|Prodigy]] |
-| Tiefling | [[flames-of-phlegethos-xge|Flames of Phlegethos]] |
-| Tiefling | [[infernal-constitution-xge|Infernal Constitution]] |
+| Dragonborn | [[dragon fear xge|Dragon Fear]] |
+| Dragonborn | [[dragon hide xge|Dragon Hide]] |
+| Dwarf | [[dwarven fortitude xge|Dwarven Fortitude]] |
+| Dwarf | [[squat nimbleness xge|Squat Nimbleness]] |
+| Elf | [[elven accuracy xge|Elven Accuracy]] |
+| Elf (drow) | [[drow high magic xge|Drow High Magic]] |
+| Elf (high) | [[fey teleportation xge|Fey Teleportation]] |
+| Elf (wood) | [[wood elf magic xge|Wood Elf Magic]] |
+| Gnome | [[fade away xge|Fade Away]] |
+| Gnome | [[squat nimbleness xge|Squat Nimbleness]] |
+| Half-elf | [[elven accuracy xge|Elven Accuracy]] |
+| Half-elf | [[prodigy xge|Prodigy]] |
+| Half-orc | [[orcish fury xge|Orcish Fury]] |
+| Half-orc | [[prodigy xge|Prodigy]] |
+| Halfling | [[bountiful luck xge|Bountiful Luck]] |
+| Halfling | [[second chance xge|Second Chance]] |
+| Halfling | [[squat nimbleness xge|Squat Nimbleness]] |
+| Human | [[prodigy xge|Prodigy]] |
+| Tiefling | [[flames of phlegethos xge|Flames of Phlegethos]] |
+| Tiefling | [[infernal constitution xge|Infernal Constitution]] |
 ^racial-feats
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -63,11 +71,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -87,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the government
@@ -97,11 +99,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

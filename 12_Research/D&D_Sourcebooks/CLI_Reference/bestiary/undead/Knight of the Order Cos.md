@@ -1,3 +1,12 @@
+---
+title: Knight of the Order Cos
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Knight of the Order Cos
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
 
-# [[knight-of-the-order-cos|Knight of the Order]]
+# [[knight of the order cos|Knight of the Order]]
 *Source: Curse of Strahd p. 139*  
 
 ```statblock
@@ -70,7 +79,7 @@ world: Both
     "name": "Regeneration"
   - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [[wish-xphb|wish]]\
+      \ existence and regains all its hit points. While the soul is bodiless, a [[wish xphb|wish]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The knight is immune to effects that turn undead."
@@ -109,7 +118,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -121,11 +129,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -143,11 +146,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -163,16 +164,13 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

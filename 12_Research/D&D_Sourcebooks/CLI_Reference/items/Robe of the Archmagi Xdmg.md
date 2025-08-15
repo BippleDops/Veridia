@@ -1,3 +1,12 @@
+---
+title: Robe of the Archmagi Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Robe of the Archmagi Xdmg
 
 ---
@@ -33,7 +42,6 @@ This elegant garment is made from exquisite cloth and adorned with runes.
 
 You gain these benefits while wearing the robe.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -45,19 +53,14 @@ You gain these benefits while wearing the robe.
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Armor
 
-If you aren't wearing armor, your base [[armor-class-xphb|Armor Class]] is 15 plus your Dexterity modifier.
+If you aren't wearing armor, your base [[armor class xphb|Armor Class]] is 15 plus your Dexterity modifier.
 
 ## Magic Resistance
 
-You have [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects.
+You have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects.
 
 ## War Mage
 
@@ -81,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - Someone is blackmailing an heir for love
@@ -94,11 +96,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Memory_Merchant_Wizard
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Memory_Merchant_Wizard
 
 ---
@@ -18,7 +27,6 @@ updated: '2025-08-13T12:00:00.000000'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -30,11 +38,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 The Memory Merchant represents a unique magical tradition that treats memories as valuable commodities to be bought, sold, traded, and refined. These wizards have mastered the complex magic of consciousness, memory, and identity, operating in the gray areas between legitimate magical services and dangerous mental manipulation. They serve as information brokers, trauma healers, and occasionally as agents of more sinister memory-related conspiracies.
@@ -77,11 +80,9 @@ This build offers rich roleplay opportunities around memory, identity, and the e
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
-
 
 ## Related Notes
 
@@ -90,11 +91,9 @@ Mentioned in The Second Prophecy of Stars
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

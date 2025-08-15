@@ -1,3 +1,12 @@
+---
+title: Guardian Naga Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Guardian Naga Xmm
 
 ---
@@ -32,11 +41,9 @@ world: Both
 ---
 
 > [!figure] Creature
-![[04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png]]
 
 # [[guardian-naga-xmm|Guardian Naga]]
 *Source: Monster Manual (2024) p. 161. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +56,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Guardian Naga
 
@@ -133,11 +135,11 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[thaumaturgy-xphb|Thaumaturgy]]\n\n\
-      1/day each: [[clairvoyance-xphb|Clairvoyance]],\
+      \nAt will: [[thaumaturgy xphb|Thaumaturgy]]\n\n\
+      1/day each: [[clairvoyance xphb|Clairvoyance]],\
       \ [[cure-wounds-xphb|Cure Wounds]] (level 6 version),\
       \ [[flame-strike-xphb|Flame Strike]] (level 6 version),\
-      \ [[geas-xphb|Geas]], [[true-seeing-xphb|True Seeing]]"
+      \ [[geas xphb|Geas]], [[true-seeing-xphb|True Seeing]]"
     "name": "Spellcasting"
 "source":
   - "XMM"
@@ -165,11 +167,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -181,11 +181,9 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

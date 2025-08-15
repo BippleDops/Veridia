@@ -1,3 +1,12 @@
+---
+title: Parliament-of-Shadows-Campaign
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Parliament-of-Shadows-Campaign
 
 ---
@@ -19,7 +28,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Inter-Realm Council Chambers]]'
+headquarters: '[[The Inter Realm Council Chambers]]'
 world: Both Aethermoor & Aquabyssos
 faction_type: Cross-Realm Political Movement
 alignment: Lawful Good (Democratic Representation)
@@ -41,7 +50,6 @@ updated: '2025-08-13T01:18:36.761500+00:00'
 # Parliament-of-Shadows-Campaign
 *Voices for the Transformed, Bridges Between Worlds, Democracy for All Depths*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -53,11 +61,6 @@ updated: '2025-08-13T01:18:36.761500+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Organization Overview
 
@@ -180,10 +183,10 @@ The organization's headquarters spans both realms through magical transportation
 - [[The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 
 **Key Locations**:
-- [[The Inter-Realm Council Chambers]]
-- [[Cross-Realm Campaign Offices]]
+- [[The Inter Realm Council Chambers]]
+- [[Cross Realm Campaign Offices]]
 - [[Shadow Community Political Centers]]
-- [[Inter-Realm Communication Networks]]
+- [[Inter Realm Communication Networks]]
 
 **Notable NPCs**:
 - [[Campaign Director Umbra Bridgeworth]]
@@ -193,9 +196,9 @@ The organization's headquarters spans both realms through magical transportation
 
 **Important Concepts**:
 - [[Shadow Political Representation]]
-- [[Cross-Realm Democracy]]
+- [[Cross Realm Democracy]]
 - [[Shadow Civil Rights Movement]]
-- [[Inter-Realm Political Institutions]]
+- [[Inter Realm Political Institutions]]
 - [[Shadow Community Political Power]]
 
 ## Player-Facing Summary
@@ -213,7 +216,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Criminal Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Criminal Xphb
 
 ---
@@ -28,13 +37,12 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/criminal.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
-- **Feat.** [[alert-xphb|Alert]]  
+- **Feat.** [[alert xphb|Alert]]  
 - **Skill Proficiencies.** [[skills#Sleight%20of%20Hand|Sleight of Hand]], [[skills#Stealth|Stealth]]  
-- **Tool Proficiency.** [[thieves-tools-xphb|Thieves' Tools]]  
-- **Equipment.** Choose A or B: (A) [[dagger-xphb|2 Daggers]], [[thieves-tools-xphb|Thieves' Tools]], [[crowbar-xphb|Crowbar]], [[pouch-xphb|2 Pouches]], [[travelers-clothes-xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[thieves tools xphb|Thieves' Tools]]  
+- **Equipment.** Choose A or B: (A) [[dagger xphb|2 Daggers]], [[thieves tools xphb|Thieves' Tools]], [[crowbar xphb|Crowbar]], [[pouch xphb|2 Pouches]], [[travelers clothes xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
 
 You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and more fearsome lawbreakers.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -68,7 +71,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

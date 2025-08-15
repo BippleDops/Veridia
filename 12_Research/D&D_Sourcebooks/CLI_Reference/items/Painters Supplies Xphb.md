@@ -1,3 +1,12 @@
+---
+title: Painters Supplies Xphb
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Painters Supplies Xphb
 
 ---
@@ -35,10 +44,9 @@ world: Both
 
 - **Ability.** Wisdom  
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [[druidic-focus-xphb|Druidic Focus]], [[holy-symbol-xphb|Holy Symbol]]  
+- **Craft.** [[druidic focus xphb|Druidic Focus]], [[holy symbol xphb|Holy Symbol]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,11 +59,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -73,11 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

@@ -1,3 +1,12 @@
+---
+title: Antipathy Sympathy Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Antipathy Sympathy Xphb
 
 ---
@@ -40,7 +49,6 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 - **Antipathy.** The creature has the [[conditions#frightened|Frightened]] condition. The [[conditions#frightened|Frightened]] creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.  
 - **Sympathy.** The creature has the [[conditions#Charmed|Charmed]] condition. The [[conditions#Charmed|Charmed]] creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [[conditions#Charmed|Charmed]] creature, that creature can make a Wisdom saving throw to end the effect, as described below.  
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Ending the Effect
 
@@ -64,7 +67,7 @@ If the [[conditions#frightened|Frightened]] or [[conditions#Charmed|Charmed]] cr
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 242. Available in the SRD and the Free Rules (2024)*
 
@@ -84,11 +87,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
-
 
 ## Plot Hooks
 
@@ -102,11 +103,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

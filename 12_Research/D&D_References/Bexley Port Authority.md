@@ -1,3 +1,12 @@
+---
+title: Bexley Port Authority
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Bexley Port Authority
 
 ---
@@ -24,7 +33,6 @@ updated: '2025-08-13T01:18:36.768075+00:00'
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -36,11 +44,6 @@ updated: '2025-08-13T01:18:36.768075+00:00'
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## General Info
 **Location**: [[Bexley]]
@@ -63,7 +66,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

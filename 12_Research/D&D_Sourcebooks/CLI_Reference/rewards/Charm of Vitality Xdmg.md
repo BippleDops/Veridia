@@ -1,3 +1,12 @@
+---
+title: Charm of Vitality Xdmg
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Charm of Vitality Xdmg
 
 ---
@@ -25,10 +34,9 @@ world: Both
 
 # Charm of Vitality
 
-This Charm allows you to give yourself the benefit of a [[potion-of-vitality-xdmg|Potion of Vitality]] as a [[actions#Magic|Magic]] action. Once you do so, the Charm vanishes from you.
+This Charm allows you to give yourself the benefit of a [[potion of vitality xdmg|Potion of Vitality]] as a [[actions#Magic|Magic]] action. Once you do so, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,11 +49,6 @@ This Charm allows you to give yourself the benefit of a [[potion-of-vitality-xdm
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -63,11 +66,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
-
 
 ## Plot Hooks
 
@@ -82,16 +83,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

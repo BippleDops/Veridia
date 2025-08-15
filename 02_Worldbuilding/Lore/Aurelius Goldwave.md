@@ -39,7 +39,7 @@ related_entities:
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
 - '[[The Seven Shards]]'
 - '[[Memory Meadows Black Market]]'
-- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s]]
+- '[[02 Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s]]
   Identity Crisis]]'
 updated: '2025-08-13T12:34:15.912943+00:00'
 world: Aquabyssos
@@ -47,15 +47,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Portrait
-![[04_Resources/Assets/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg]]
 
 # Aurelius Goldwave
 
 *The Golden Current Beneath Still Waters*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -84,24 +80,17 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Death_Customs Improvements
 
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 - Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Coming_Of_Age Improvements
 
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 - Describe rites of passage and adulthood markers
 
 ### Contradictions Improvements
@@ -111,12 +100,10 @@ improvements: 20
 ### Diaspora Improvements
 
 - Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-
 
 ## Overview
 
@@ -267,7 +254,7 @@ His approach to the Shard quest differs from other antagonists:
 
 ### Marina's Identity Crisis
 
-Aurelius's memory manipulation abilities make him a significant threat in storylines involving [[02_Worldbuilding/Lore/Marina's Identity Crisis|02 Worldbuilding/Lore/Marina's Identity Crisis]]. He could:
+Aurelius's memory manipulation abilities make him a significant threat in storylines involving [[02 Worldbuilding/Lore/Marina's Identity Crisis|02 Worldbuilding/Lore/Marina's Identity Crisis]]. He could:
 
 - Extract memories that help determine Marina's true identity
 - Implant false memories that further confuse her identity crisis
@@ -403,12 +390,9 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
-
 
 ## Relationships
 
@@ -416,7 +400,6 @@ Mentioned in The Hidden Prophecy of Stars
 - **Blackmailer**: [[Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
 - **Friend**: [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg]]
 - **Child**: [[The Deepmind Conspiracy]]
-
 
 ## Plot Hooks
 
@@ -435,7 +418,6 @@ Mentioned in The Hidden Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Economic Structure
 

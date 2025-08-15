@@ -17,10 +17,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 ![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-v1-crown-council-flagship.svg](../../04_Resources/Assets/Generated/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_v1_crown_council_flagship_svg.png)
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,8 +46,6 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Contradictions Improvements
 
@@ -59,18 +54,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Material_Culture Improvements
@@ -80,8 +70,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
-
 
 ## Organization Overview
 
@@ -209,7 +197,6 @@ What they claim to pursue
 
 ---
 *Tags*: #organization #council #faction #worldbuilding
-
 
 ## Cultural Practices
 

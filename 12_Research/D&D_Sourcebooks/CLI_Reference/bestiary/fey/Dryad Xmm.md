@@ -1,3 +1,12 @@
+---
+title: Dryad Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Dryad Xmm
 
 ---
@@ -31,9 +40,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dryad-xmm-dryad-xmm.svg)
 
-# [[dryad-xmm|Dryad]]
+# [[dryad xmm|Dryad]]
 *Source: Monster Manual (2024) p. 107. Available in the SRD and the Free Rules (2024)*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,11 +54,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Dryad
 
@@ -101,7 +104,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The dryad has [[advantage-xphb|Advantage]]\
+  - "desc": "The dryad has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
@@ -109,7 +112,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Speak with Beasts and Plants"
 "actions":
   - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [[charm-monster-xphb|Charm Monster]]."
+      \ to cast [[charm monster xphb|Charm Monster]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage."
     "name": "Vine Lash"
@@ -117,10 +120,10 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Thorn Burst"
   - "desc": "The dryad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt\
-      \ will: [[animal-friendship-xphb|Animal Friendship]],\
-      \ [[charm-monster-xphb|Charm Monster]] (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [[druidcraft-xphb|Druidcraft]]\n\
-      \n1/day each: [[entangle-xphb|Entangle]], [[pass-without-trace-xphb|Pass\]]
+      \ will: [[animal friendship xphb|Animal Friendship]],\
+      \ [[charm monster xphb|Charm Monster]] (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [[druidcraft xphb|Druidcraft]]\n\
+      \n1/day each: [[entangle xphb|Entangle]], [[pass without trace xphb|Pass\]]
       \ without Trace]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -154,7 +157,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A journal reveals ancient history about the cult
@@ -167,7 +169,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
-
 
 ## 12_Research Specific Content
 

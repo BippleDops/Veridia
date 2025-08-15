@@ -36,14 +36,10 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-irochor-captain-rodrigo-irochor.svg]]
 
 # The Iron Fleet
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -72,15 +68,9 @@ improvements: 20
 ### Oral_Tradition Improvements
 
 - Add folk tales and children's stories
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 
 ### Contradictions Improvements
 
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 - Include cultural hypocrisies and double standards
 
 ### Sensory Improvements
@@ -94,7 +84,6 @@ improvements: 20
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-- Detail funeral rites and afterlife beliefs
 
 ### Material_Culture Improvements
 
@@ -103,7 +92,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Organization Overview and Purpose
 The Iron Fleet represents the premier naval mercenary force in [[Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Irochor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement.
@@ -344,7 +332,6 @@ What they claim to pursue
 
 ### Open Secrets
 Things widely suspected
-
 
 ## Plot Hooks
 

@@ -30,15 +30,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-merchant-the-crystal-merchant.svg]]
 
 # The Crystal Merchant
 
 *"Every crystal tells a story of pressure, time, and transformation."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -67,18 +63,13 @@ improvements: 20
 ### Superstitions Improvements
 
 - List common superstitions and their origins
-- List common superstitions and their origins
-- List common superstitions and their origins
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
-- Describe rites of passage and adulthood markers
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Material_Culture Improvements
@@ -92,7 +83,6 @@ improvements: 20
 ### Hospitality Improvements
 
 - Explain guest rights and host obligations
-- Explain guest rights and host obligations
 
 ### Contradictions Improvements
 
@@ -105,7 +95,6 @@ improvements: 20
 ### Evolution Improvements
 
 - Show how traditions are changing with new generation
-
 
 ## Overview
 Madam Prism Crystalweaver is Aquabyssos's most renowned crystal merchant, operating the exclusive "Depths of Brilliance" shop in the Noble Quarter. Her expertise in magical crystals and rare gems has made her the go-to supplier for wealthy collectors and magical practitioners.

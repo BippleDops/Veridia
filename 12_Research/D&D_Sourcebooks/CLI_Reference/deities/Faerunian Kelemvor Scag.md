@@ -1,3 +1,12 @@
+---
+title: Faerunian Kelemvor Scag
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Faerunian Kelemvor Scag
 
 ---
@@ -40,7 +49,6 @@ Kelemvor is seen as a just, fair, and comforting god of death. Death comes to al
 
 The faithful of Kelemvor provide people with peaceful transitions into the care of the Lord of the Dead. They help the dying put their affairs in order, and they officiate at funeral rites for those who can't afford the lavish ceremonies of their faith. The tenets of Kelemvor's faithful compel them to forestall or prevent untimely deaths whenever possible. Different sects and worshipers define "untimely" in different ways. One group might concentrate on stopping the spread of disease, another on the prevention of murder, and yet another on eliminating the scourge of the undead. In fact, all the faithful of Kelemvor despise the undead and work to some degree to eliminate them, for undead of any sort are seen as an abomination of the natural order. This belief obviously puts Kelemvor's faithful at odds with necromancers, priests of Myrkul, and others who promote the creation of the undead, and it also causes conflict from unexpected sources. For instance, priests of Kelemvor routinely destroy any writings about the creation of the undead that they find - an act that offends those who value knowledge for its own sake, such as the faithful of Oghma and Deneir. And there also exist undead that aren't evil, such as the baelnorn, which the elves consider holy. Kelemvor's devotees seek the end of such beings regardless of that fact.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -52,11 +60,6 @@ The faithful of Kelemvor provide people with peaceful transitions into the care 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -74,7 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals a conspiracy about the cult
@@ -85,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

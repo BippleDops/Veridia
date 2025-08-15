@@ -1,3 +1,12 @@
+---
+title: Fighter Xphb Cavalier Xge
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Fighter Xphb Cavalier Xge
 
 ---
@@ -24,7 +33,7 @@ world: Both
 ---
 
 # Cavalier
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[[fighter xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 30*  
 
 > [!tldr] Class and Feature Progression
@@ -98,7 +107,6 @@ Starting at 15th level, you can run down your foes, whether you're mounted or no
 
 Starting at 18th level, you respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -110,11 +118,6 @@ Starting at 18th level, you respond to danger with extraordinary vigilance. In c
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -131,7 +134,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

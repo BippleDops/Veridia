@@ -1,3 +1,12 @@
+---
+title: Armor of Agathys Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Armor of Agathys Xphb
 
 ---
@@ -40,10 +49,9 @@ Protective magical frost surrounds you. You gain 5 [[temporary-hit-points-xphb|T
 
 **Using a Higher-Level Spell Slot.** The [[temporary-hit-points-xphb|Temporary Hit Points]] and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]
+**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]
 
 *Source: Player's Handbook (2024) p. 243*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,11 +64,6 @@ Protective magical frost surrounds you. You gain 5 [[temporary-hit-points-xphb|T
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -78,11 +81,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
-
 
 ## 12_Research Specific Content
 

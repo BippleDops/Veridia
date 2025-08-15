@@ -24,11 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-bubble-yeastkeeper-bubble-yeastkeeper.svg]]
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,18 +65,13 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
-- Include cultural hypocrisies and double standards
 
 ### Evolution Improvements
 
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
-- Show how traditions are changing with new generation
 - Show how traditions are changing with new generation
 
 ### Superstitions Improvements
@@ -90,12 +81,10 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Death_Customs Improvements
 
 - Detail funeral rites and afterlife beliefs
-
 
 ## Player-Facing Summary
 
@@ -143,8 +132,6 @@ Ongoing situations affecting Bubble Yeastkeeper:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - A noble needs help delivering before winter
@@ -166,7 +153,6 @@ Ongoing situations affecting Bubble Yeastkeeper:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Economic Structure
 

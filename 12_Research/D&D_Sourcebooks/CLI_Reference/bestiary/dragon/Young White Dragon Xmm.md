@@ -1,3 +1,12 @@
+---
+title: Young White Dragon Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Young White Dragon Xmm
 
 ---
@@ -28,11 +37,10 @@ updated: '2025-08-13T12:34:06.032401+00:00'
 world: Both
 ---
 
-# [[young-white-dragon-xmm|Young White Dragon]]
+# [[young white dragon xmm|Young White Dragon]]
 *Source: Monster Manual (2024) p. 328. Available in the SRD and the Free Rules (2024)*  
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -45,11 +53,6 @@ Young white dragons defend their hunting grounds from rivals. In some cases, kob
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## White Dragons
 
@@ -97,7 +100,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "6"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [[difficult-terrain-xphb|Difficult Terrain]]\
+      \ make an ability check. Additionally, [[difficult terrain xphb|Difficult Terrain]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
 "actions":
@@ -106,7 +109,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
       \ Failure: 40 (9d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":
@@ -135,16 +138,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

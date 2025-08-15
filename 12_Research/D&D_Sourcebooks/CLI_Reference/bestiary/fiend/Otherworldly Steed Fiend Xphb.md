@@ -1,3 +1,12 @@
+---
+title: Otherworldly Steed Fiend Xphb
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Otherworldly Steed Fiend Xphb
 
 ---
@@ -30,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fiend-xphb-otherworldly-steed-fiend-xphb.svg)
 
-# [[otherworldly-steed-fiend-xphb|Otherworldly Steed (Fiend)]]
+# [[otherworldly steed fiend xphb|Otherworldly Steed (Fiend)]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock
@@ -67,7 +76,6 @@ world: Both
 ```
 ^statblock
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -79,11 +87,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -101,7 +104,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Plot Hooks
 
 - A map reveals the truth about the cult
@@ -110,7 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

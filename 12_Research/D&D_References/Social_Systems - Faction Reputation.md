@@ -1,3 +1,12 @@
+---
+title: Social_Systems - Faction Reputation
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Social_Systems - Faction Reputation
 
 ---
@@ -245,7 +254,6 @@ Track specific events, key NPCs met, promises made, and faction-specific story b
 
 *"Your reputation precedes you—make sure it's saying what you want it to say."*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -257,11 +265,6 @@ Track specific events, key NPCs met, promises made, and faction-specific story b
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 

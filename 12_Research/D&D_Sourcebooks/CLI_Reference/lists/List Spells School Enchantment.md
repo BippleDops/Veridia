@@ -1,3 +1,12 @@
+---
+title: List Spells School Enchantment
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # List Spells School Enchantment
 
 ---
@@ -22,7 +31,6 @@ updated: '2025-08-13T12:34:04.685269+00:00'
 world: Both
 ---
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -34,17 +42,12 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## 9th Level
 
-- [[/03_Mechanics/CLI/spells/power-word-heal-xphb "XPHB"|Power Word Heal]]
-- [[/03_Mechanics/CLI/spells/power-word-kill-xphb "XPHB"|Power Word Kill]]
-- [[/03_Mechanics/CLI/spells/psychic-scream-xge "XGE"|Psychic Scream]]
+- [[/03 Mechanics/CLI/spells/power-word-heal-xphb "XPHB"|Power Word Heal]]
+- [[/03 Mechanics/CLI/spells/power-word-kill-xphb "XPHB"|Power Word Kill]]
+- [[/03 Mechanics/CLI/spells/psychic-scream-xge "XGE"|Psychic Scream]]
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
@@ -64,11 +67,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Plot Hooks
 

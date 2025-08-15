@@ -28,15 +28,11 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-
-
 > [!figure] View
-![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg]]
 
 # Street Urchin Gang
 
 *"Small hands, quick minds, and nothing left to lose."*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -65,12 +61,9 @@ improvements: 20
 ### Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
-- Add smells, sounds, and textures unique to this culture
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
-- Describe how this culture exists in other regions
 - Describe how this culture exists in other regions
 
 ### Contradictions Improvements
@@ -80,12 +73,9 @@ improvements: 20
 ### Material_Culture Improvements
 
 - Detail common objects and their cultural significance
-- Detail common objects and their cultural significance
 
 ### Oral_Tradition Improvements
 
-- Add folk tales and children's stories
-- Add folk tales and children's stories
 - Add folk tales and children's stories
 
 ### Superstitions Improvements
@@ -103,7 +93,6 @@ improvements: 20
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
-
 
 ## Overview
 A resourceful band of homeless children and teenagers who survive on the streets of Aquabyssos through theft, information trading, and minor criminal activities. Led by streetwise youth, they operate in the city's forgotten corners and abandoned structures.
@@ -171,8 +160,6 @@ Ongoing situations affecting Street Urchin Gang:
 - External threats
 - Opportunities arising
 
-
-
 ## Plot Hooks
 
 - Strange dreams suggest a conspiracy
@@ -195,7 +182,6 @@ Ongoing situations affecting Street Urchin Gang:
 - Natural disasters
 - Current power structures established
 
-
 ## Economic Structure
 
 ### Currency
@@ -213,7 +199,6 @@ Ongoing situations affecting Street Urchin Gang:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## A Day in the Life
 

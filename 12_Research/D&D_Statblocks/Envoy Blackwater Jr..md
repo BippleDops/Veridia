@@ -1,3 +1,12 @@
+---
+title: Envoy Blackwater Jr.
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Envoy Blackwater Jr.
 
 ---
@@ -39,14 +48,12 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-envoy-blackwater-jr-envoy-blackwater-jr.svg]]
 
 # Envoy Blackwater Jr.
 *The Next Generation of Diplomatic Excellence*
 
 > *"Diplomacy is not about avoiding conflict—it's about finding the path through conflict that leaves everyone with their dignity intact. My father taught me to speak with authority, but experience has taught me to listen with wisdom."*
 > — Envoy Blackwater Jr., during negotiations with the Surface Delegation
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,11 +66,6 @@ danger_level: Moderate
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Overview
 

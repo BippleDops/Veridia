@@ -1,3 +1,12 @@
+---
+title: Quiver of Ehlonna Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Quiver of Ehlonna Xdmg
 
 ---
@@ -30,12 +39,11 @@ world: Both
 
 - **Weight**: 2.0 lbs.
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [[arrow-xphb|Arrows]], [[bolt-xphb|Bolts]], or similar objects. The midsize compartment holds up to 18 [[javelin-xphb|Javelins]] or similar objects. The longest compartment holds up to 6 long objects, such as bows, [[quarterstaff-xphb|Quarterstaff's]], or [[spear-xphb|Spears]].
+Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [[arrow xphb|Arrows]], [[bolt xphb|Bolts]], or similar objects. The midsize compartment holds up to 18 [[javelin xphb|Javelins]] or similar objects. The longest compartment holds up to 6 long objects, such as bows, [[quarterstaff xphb|Quarterstaff's]], or [[spear xphb|Spears]].
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
 *Source: Dungeon Master's Guide (2024) p. 189. Available in the SRD (as "Efficient Quiver") and the Free Rules (2024)*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,11 +56,6 @@ You can draw any item the quiver contains as if doing so from a regular quiver o
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -69,7 +72,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## Plot Hooks
 

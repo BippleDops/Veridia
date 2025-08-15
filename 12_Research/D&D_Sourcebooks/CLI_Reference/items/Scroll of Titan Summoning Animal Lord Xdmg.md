@@ -1,3 +1,12 @@
+---
+title: Scroll of Titan Summoning Animal Lord Xdmg
+type: item
+tags:
+- item
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Scroll of Titan Summoning Animal Lord Xdmg
 
 ---
@@ -31,12 +40,11 @@ world: Both
 # Scroll of Titan Summoning (Animal Lord)
 *Scroll, legendary*  
 
-When you take a [[actions#Magic|Magic]] action to read this scroll, an [[animal-lord-xmm|Animal Lord]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[actions#Magic|Magic]] action to read this scroll, an [[animal lord xmm|Animal Lord]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [[animal-lord-xmm|Animal Lord]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[animal-lord-xmm|Animal Lord]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[animal lord xmm|Animal Lord]] is [[hostile attitude xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit points xphb|Hit Points]]. If the [[animal lord xmm|Animal Lord]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,11 +57,6 @@ The [[animal-lord-xmm|Animal Lord]] is [[hostile-attitude-xphb|Hostile]] toward 
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Player-Facing Summary
 
@@ -71,11 +74,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
-
 
 ## Plot Hooks
 
@@ -90,11 +91,9 @@ Mentioned in The First Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

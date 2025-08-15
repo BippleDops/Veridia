@@ -1,3 +1,12 @@
+---
+title: Yochlol Xmm
+type: note
+tags:
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Yochlol Xmm
 
 ---
@@ -32,9 +41,8 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yochlol-xmm-v1-yochlol-xmm.svg)
 
-# [[yochlol-xmm|Yochlol]]
+# [[yochlol xmm|Yochlol]]
 *Source: Monster Manual (2024) p. 341*  
-
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,11 +55,6 @@ world: Both
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Yochlol
 
@@ -101,10 +104,10 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
 "cr": "10"
 "traits":
   - "desc": "If the yochlol dies outside the Abyss, its body dissolves, and it gains\
-      \ a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
+      \ a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
       \ in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The yochlol has [[advantage-xphb|Advantage]]\
+  - "desc": "The yochlol has [[advantage xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The yochlol can climb difficult surfaces, including along ceilings, without\
@@ -114,7 +117,7 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
     "name": "Web Walker"
 "actions":
   - "desc": "The yochlol makes two Caustic Lash attacks, and it can use Spellcasting\
-      \ to cast [[web-xphb|Web]] or [[dominate-person-xphb|Dominate Person]]\
+      \ to cast [[web xphb|Web]] or [[dominate person xphb|Dominate Person]]\
       \ if available."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +8, reach 10 ft. or range 120 ft. Hit:\
@@ -122,9 +125,9 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
     "name": "Caustic Lash"
   - "desc": "The yochlol casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [[detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[gaseous-form-xphb|Gaseous Form]] (self only),\
-      \ [[web-xphb|Web]]\n\n1/day: [[dominate-person-xphb|Dominate Person]]"
+      \nAt will: [[detect thoughts xphb|Detect Thoughts]],\
+      \ [[gaseous form xphb|Gaseous Form]] (self only),\
+      \ [[web xphb|Web]]\n\n1/day: [[dominate person xphb|Dominate Person]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The yochlol shape-shifts into a Medium Humanoid or a Medium spider or\
@@ -166,16 +169,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

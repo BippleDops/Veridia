@@ -1,3 +1,12 @@
+---
+title: Session 22 Heist Planning
+type: session
+tags:
+- session
+created: '2025-01-15'
+modified: '2025-01-15'
+---
+
 # Session_22_Heist_Planning
 
 ---
@@ -98,7 +107,6 @@ world: Aethermoor
 
 *Heist sessions reward planning and teamwork while testing adaptability and character skills in high-stakes situations.*
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -110,11 +118,6 @@ world: Aethermoor
 ### Enhancement Improvements
 
 - Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-- Add 12_Research-specific enhancement
-
 
 ## Related
 
@@ -128,7 +131,6 @@ world: Aethermoor
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Related Notes
 
 - [[Similar Topic 1]]
@@ -136,11 +138,9 @@ world: Aethermoor
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
-
 
 ## 12_Research Specific Content
 

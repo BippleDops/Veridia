@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Crystal Corruption"]
+---
+
 # Quest   Crystal Corruption
 
 

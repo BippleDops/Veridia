@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Cultural Exchang"]
+---
+
 # Quest   Cultural Exchang
 
 > *The fate of many hangs in the balance...*

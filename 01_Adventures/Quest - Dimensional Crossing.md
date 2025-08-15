@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Dimensional Crossing"]
+---
+
 # Quest   Dimensional Crossing
 
 > *Time is running out...*

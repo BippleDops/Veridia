@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Construct Liberation"]
+---
+
 # Quest   Construct Liberation
 
 > *Time is running out...*

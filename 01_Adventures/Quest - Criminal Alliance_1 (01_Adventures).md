@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Criminal Alliance 1 (01 Adventures)"]
+---
+
 # Quest   Criminal Alliance 1 (01 Adventures)
 
 

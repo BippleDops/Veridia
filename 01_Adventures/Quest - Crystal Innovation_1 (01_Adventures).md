@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Crystal Innovation 1 (01 Adventures)"]
+---
+
 # Quest   Crystal Innovation 1 (01 Adventures)
 
 > *What starts as simple becomes legendary...*

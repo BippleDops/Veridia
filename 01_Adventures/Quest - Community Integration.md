@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Community Integration"]
+---
+
 # Quest   Community Integration
 
 > *Time is running out...*

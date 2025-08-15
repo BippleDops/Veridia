@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Combat Medicine Crisis"]
+---
+
 # Quest   Combat Medicine Crisis
 
 > *What starts as simple becomes legendary...*

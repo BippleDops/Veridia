@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Crystal Core Sabotage"]
+---
+
 # Quest   Crystal Core Sabotage
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.

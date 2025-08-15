@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Cross-Dimensional Medical"]
+---
+
 # Quest   Cross Dimensional Medical
 
 > *The fate of many hangs in the balance...*

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Corruption in the Temple"]
+---
+
 # Quest   Corruption In The Temple
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.

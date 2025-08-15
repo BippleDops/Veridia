@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Combat Medicine Crisis 1 (01 Adventures)"]
+---
+
 # Quest   Combat Medicine Crisis 1 (01 Adventures)
 
 

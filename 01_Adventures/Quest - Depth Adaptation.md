@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Depth Adaptation"]
+---
+
 # Quest   Depth Adaptation
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.

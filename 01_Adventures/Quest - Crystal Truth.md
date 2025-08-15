@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Crystal Truth"]
+---
+
 # Quest   Crystal Truth
 
 > *Time is running out...*

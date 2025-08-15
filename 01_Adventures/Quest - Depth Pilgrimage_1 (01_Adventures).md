@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Depth Pilgrimage 1 (01 Adventures)"]
+---
+
 # Quest   Depth Pilgrimage 1 (01 Adventures)
 
 

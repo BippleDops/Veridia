@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Community Defense"]
+---
+
 # Quest   Community Defense
 
 > *The fate of many hangs in the balance...*

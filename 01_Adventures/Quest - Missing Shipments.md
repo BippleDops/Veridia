@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Missing Shipments"]
+---
+
 # Quest   Missing Shipments
 
 > *Time is running out...*

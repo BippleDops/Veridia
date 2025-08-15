@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Market Neutrality"]
+---
+
 # Quest   Market Neutrality
 
 > *Time is running out...*

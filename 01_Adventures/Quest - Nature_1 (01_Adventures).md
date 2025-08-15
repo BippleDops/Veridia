@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Nature 1 (01 Adventures)"]
+---
+
 # Quest   Nature 1 (01 Adventures)
 
 

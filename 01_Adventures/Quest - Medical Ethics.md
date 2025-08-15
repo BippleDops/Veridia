@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Medical Ethics"]
+---
+
 # Quest   Medical Ethics
 
 > *Time is running out...*

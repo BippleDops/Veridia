@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Moral Choices 1 (01 Adventures)"]
+---
+
 # Quest   Moral Choices 1 (01 Adventures)
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.

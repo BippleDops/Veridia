@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Memory War"]
+---
+
 # Quest   Memory War
 
 

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Nature's Balance"]
+---
+
 # Quest   Nature'S Balance
 
 

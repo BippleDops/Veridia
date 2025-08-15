@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Medical Conspiracy 1 (01 Adventures)"]
+---
+
 # Quest   Medical Conspiracy 1 (01 Adventures)
 
 

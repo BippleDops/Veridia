@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Mother's Mercy 1 (01 Adventures)"]
+---
+
 # Quest   Mother'S Mercy 1 (01 Adventures)
 
 

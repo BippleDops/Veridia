@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Medical Breakthrough"]
+---
+
 # Quest   Medical Breakthrough
 
 > *Time is running out...*

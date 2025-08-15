@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Nature"]
+---
+
 # Quest   Nature
 
 > *What starts as simple becomes legendary...*

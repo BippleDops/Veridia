@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Mirror Surveillance"]
+---
+
 # Quest   Mirror Surveillance
 
 > *The fate of many hangs in the balance...*

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Memory Restoration 1 (01 Adventures)"]
+---
+
 # Quest   Memory Restoration 1 (01 Adventures)
 
 > *Time is running out...*

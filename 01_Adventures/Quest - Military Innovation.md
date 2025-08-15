@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Military Innovation"]
+---
+
 # Quest   Military Innovation
 
 

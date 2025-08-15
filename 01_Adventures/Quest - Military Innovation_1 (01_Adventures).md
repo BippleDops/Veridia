@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Military Innovation 1 (01 Adventures)"]
+---
+
 # Quest   Military Innovation 1 (01 Adventures)
 
 

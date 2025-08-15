@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Medical Breakthrough 1 (01 Adventures)"]
+---
+
 # Quest   Medical Breakthrough 1 (01 Adventures)
 
 

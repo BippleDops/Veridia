@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Medical Infiltration"]
+---
+
 # Quest   Medical Infiltration
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.

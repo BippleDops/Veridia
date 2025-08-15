@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Moral Choices"]
+---
+
 # Quest   Moral Choices
 
 

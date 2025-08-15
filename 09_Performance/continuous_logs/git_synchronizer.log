@@ -42,3 +42,5 @@
 
 [2025-08-15T18:19:59.037Z] [2025-08-15T18:19:59.036Z] Git Sync: Starting synchronization...
 
+[2025-08-15T18:20:21.489Z] ERROR: [2025-08-15T18:19:59.036Z] Git Sync Error: stdout maxBuffer length exceeded
+

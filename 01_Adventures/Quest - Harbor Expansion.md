@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Harbor Expansion"]
+---
+
 # Quest   Harbor Expansion
 
 > *The fate of many hangs in the balance...*

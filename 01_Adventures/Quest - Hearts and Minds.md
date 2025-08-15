@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Hearts and Minds"]
+---
+
 # Quest   Hearts And Minds
 
 

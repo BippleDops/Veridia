@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Harbor Expansion 1 (01 Adventures)"]
+---
+
 # Quest   Harbor Expansion 1 (01 Adventures)
 
 

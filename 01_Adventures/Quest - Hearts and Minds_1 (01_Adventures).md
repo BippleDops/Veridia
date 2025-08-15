@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Hearts and Minds 1 (01 Adventures)"]
+---
+
 # Quest   Hearts And Minds 1 (01 Adventures)
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.

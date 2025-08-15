@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Information War"]
+---
+
 # Quest   Information War
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.

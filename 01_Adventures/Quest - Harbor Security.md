@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Harbor Security"]
+---
+
 # Quest   Harbor Security
 
 > *The fate of many hangs in the balance...*

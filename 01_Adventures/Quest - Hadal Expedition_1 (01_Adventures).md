@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Hadal Expedition 1 (01 Adventures)"]
+---
+
 # Quest   Hadal Expedition 1 (01 Adventures)
 
 

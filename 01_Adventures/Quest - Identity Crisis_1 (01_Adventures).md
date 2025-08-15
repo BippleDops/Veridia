@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Identity Crisis 1 (01 Adventures)"]
+---
+
 # Quest   Identity Crisis 1 (01 Adventures)
 
 

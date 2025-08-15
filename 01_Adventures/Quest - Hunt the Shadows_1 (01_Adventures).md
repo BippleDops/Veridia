@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Hunt the Shadows 1 (01 Adventures)"]
+---
+
 # Quest   Hunt The Shadows 1 (01 Adventures)
 
 

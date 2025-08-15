@@ -1,3 +1,9 @@
+---
+tags: [location, place]
+type: location
+aliases: ["Master Location Index"]
+---
+
 # Master Location Index
 
 > *Where shadows whisper forgotten secrets...* This remarkable element adds depth and intrigue to any campaign.

@@ -16,3 +16,7 @@ Content to be added.
 
 ---
 *Note: This content develops through gameplay and campaign events.*
+
+## Description
+
+*Content develops through gameplay*

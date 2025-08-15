@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["MASTER VAULT INDEX"]
+---
+
 # Master Vault Index
 
 

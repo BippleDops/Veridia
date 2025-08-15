@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Combat Lookup"]
+---
+
 # Combat Lookup
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Master Quest Index"]
+---
+
 # Master Quest Index
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.

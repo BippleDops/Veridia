@@ -1,3 +1,9 @@
+---
+tags: [item, equipment]
+type: item
+aliases: ["Item Finder"]
+---
+
 # Item Finder
 
 > *More than mere metal and magic...* This remarkable element adds depth and intrigue to any campaign.

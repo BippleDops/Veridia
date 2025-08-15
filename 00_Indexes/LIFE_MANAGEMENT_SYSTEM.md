@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["LIFE MANAGEMENT SYSTEM"]
+---
+
 # Life Management System
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.

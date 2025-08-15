@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Dashboard"]
+---
+
 # Campaign Dashboard
 
 > *What starts as simple becomes legendary...*

@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Direction Survey"]
+---
+
 # Campaign Direction Survey
 
 

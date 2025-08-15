@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["All Sessions"]
+---
+
 # All Sessions
 
 > *What starts as simple becomes legendary...*

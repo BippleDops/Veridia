@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Index"]
+---
+
 # Campaign Index
 
 > *The fate of many hangs in the balance...*

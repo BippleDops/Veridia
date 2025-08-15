@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Center"]
+---
+
 # Campaign Center
 
 

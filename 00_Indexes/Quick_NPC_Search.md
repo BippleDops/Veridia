@@ -1,3 +1,9 @@
+---
+tags: [npc, character]
+type: npc
+aliases: ["Quick NPC Search"]
+---
+
 # Quick Npc Search
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.

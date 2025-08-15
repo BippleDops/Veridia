@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Session Checklist"]
+---
+
 # Session Prep Checklist
 
 - [ ] Review previous session notes

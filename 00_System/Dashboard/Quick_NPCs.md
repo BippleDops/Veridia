@@ -1,3 +1,9 @@
+---
+tags: [npc, character]
+type: npc
+aliases: ["Quick NPCs"]
+---
+
 # Quick NPC Generator
 
 ## Name Tables

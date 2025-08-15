@@ -1684,23 +1684,23 @@ backup:
 ```python
 class MasterControl:
     def __init__(self):
-        self.systems = {
-            'dashboard': CampaignDashboard(),
-            'ai': AIGenerator(),
-            'portal': PlayerPortal(),
-            'automation': AutomationSystem(),
-            'world': WorldSimulation(),
-            'analytics': Analytics(),
-            'export': ExportSystem(),
-            'audio': AudioSystem()
-        }
+        self.systems = dict(
+            dashboard='CampaignDashboard',
+            ai='AIGenerator',
+            portal='PlayerPortal',
+            automation='AutomationSystem',
+            world='WorldSimulation',
+            analytics='Analytics',
+            export='ExportSystem',
+            audio='AudioSystem'
+        )
     
     def execute(self, command):
         # Parse and execute any command
         return self.systems[command.system].execute(command.action)
     
     def status(self):
-        return {system: s.status() for system, s in self.systems.items()}
+        return dict((system, s.status()) for system, s in self.systems.items())
     
     def emergency_shutdown(self):
         for system in self.systems.values():

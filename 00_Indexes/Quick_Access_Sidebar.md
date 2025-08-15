@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Quick Access Sidebar"]
+---
+
 # Quick Access Sidebar
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.

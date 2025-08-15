@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Active Quests"]
+---
+
 # Active Quests
 
 

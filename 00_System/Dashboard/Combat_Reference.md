@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Combat Reference"]
+---
+
 # Combat Quick Reference
 
 ## Action Economy

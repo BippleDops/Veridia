@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["All Quests"]
+---
+
 # All Quests
 
 > *The fate of many hangs in the balance...*

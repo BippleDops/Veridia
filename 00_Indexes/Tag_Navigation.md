@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Tag Navigation"]
+---
+
 # Tag Navigation
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.

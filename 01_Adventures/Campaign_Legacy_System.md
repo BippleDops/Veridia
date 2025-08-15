@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Legacy System"]
+---
+
 # Campaign Legacy System
 
 

@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Path.png 1 (01 Adventures)"]
+---
+
 # Campaign Path.Png 1 (01 Adventures)
 
 

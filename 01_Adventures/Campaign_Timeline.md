@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Timeline"]
+---
+
 # Campaign Timeline
 
 > *The fate of many hangs in the balance...*

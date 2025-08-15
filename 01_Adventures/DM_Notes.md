@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["DM Notes"]
+---
+
 # Dm Notes
 
 

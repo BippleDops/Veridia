@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Main Quest Line"]
+---
+
 # Main Quest Line
 
 > *What starts as simple becomes legendary...*

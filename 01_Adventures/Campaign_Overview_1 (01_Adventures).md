@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Overview 1 (01 Adventures)"]
+---
+
 # Campaign Overview 1 (01 Adventures)
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.

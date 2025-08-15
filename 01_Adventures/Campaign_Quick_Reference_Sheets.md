@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Campaign Quick Reference Sheets"]
+---
+
 # Campaign Quick Reference Sheets
 
 > *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.

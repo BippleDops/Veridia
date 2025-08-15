@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["Joint Council Emergency Session"]
+---
+
 # Joint Council Emergency Session
 
 > *Time is running out...*

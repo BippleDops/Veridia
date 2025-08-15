@@ -61,11 +61,11 @@ For the duration, you sense the presence of magical effects within 30 feet of yo
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 262. Available in the SRD and the Free Rules (2024)*
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

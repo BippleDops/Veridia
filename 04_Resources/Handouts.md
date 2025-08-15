@@ -1,5 +1,6 @@
 ---
 
+
 title: 04_Resources/Handouts
 type: lore
 tags:
@@ -9,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,3 +112,13 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

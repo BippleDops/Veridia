@@ -45,7 +45,7 @@ world: Both
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom ([[skills#Perception|Perception]]) checks and Passive [[skills#Perception|Perception]] until the spell ends.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 269. Available in the SRD and the Free Rules (2024)*
 

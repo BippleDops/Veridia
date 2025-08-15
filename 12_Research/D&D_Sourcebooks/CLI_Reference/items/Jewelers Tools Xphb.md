@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [[arcane focus xphb|Arcane Focus]], [[holy symbol xphb|Holy Symbol]]  
+- **Craft.** [[arcane-focus-xphb (items)]], [[Symbol Xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

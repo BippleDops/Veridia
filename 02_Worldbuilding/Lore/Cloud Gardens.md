@@ -1,7 +1,7 @@
 ---
 
 title: Cloud Gardens
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -75,7 +75,7 @@ Cloud Gardens is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Cloud Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cloud Gardens.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

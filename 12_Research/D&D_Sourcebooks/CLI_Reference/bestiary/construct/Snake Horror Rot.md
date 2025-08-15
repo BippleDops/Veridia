@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-snake-horror-rot-snake-horror-rot.svg)
 
-# [[snake horror rot|Snake Horror]]
+# [[Snake Horror Rot]]
 *Source: The Rise of Tiamat p. 46*  
 
 ```statblock
@@ -48,7 +48,7 @@ world: Both
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "[[plate armor xphb|plate armor]], [[shield xphb|shield]]"
+"ac_class": "[[plate-armor-xphb (items)]], [[Shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -76,8 +76,8 @@ world: Both
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The snake horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [[fireball xphb|fireball]], [[heat metal xphb|heat\]]
-      \ metal]], and [[lightning bolt xphb|lightning bolt]]."
+      \ immunities include [[fireball-xphb (spells)]], [[heat-metal-xphb (spells)]]
+      \ metal]], and [[Lightning Bolt Xphb]]."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The snake horror makes two longsword attacks."

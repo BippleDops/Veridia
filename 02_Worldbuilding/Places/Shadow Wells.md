@@ -1,7 +1,7 @@
 ---
 
 title: Shadow Wells
-type: Location
+type: [[location]]
 tags:
 - aquabyssos
 - status/complete
@@ -21,9 +21,9 @@ tags:
 created: '2025-08-09'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Variable (Pilgrims and Researchers)
-affiliation: '[[The Deep Mother]] (Natural Phenomenon)'
+affiliation: '[[The [[Deep Mother]]]] (Natural Phenomenon)'
 created_by: auto-stub
 danger_level: Moderate
 location_type: Shadow Manifestation Sites
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -110,7 +110,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 
 #### The Despair Depths
 
-**Location**: Deepest oceanic trenches near [[The Hadal Depths]]  
+**Location**: Deepest oceanic trenches near [[The [[Hadal Depths]]]]  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -142,7 +142,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 **Manifestations**: Primordial fears and cosmic-scale grief
 - **The First Fear**: Original terror from universe's creation
 - **Evolution's Regret**: Sorrow over necessary but painful development
-- **Time's Burden**: Exhaustion from eternal existence
+- **[[Time]]'s Burden**: [[Exhaustion]] from eternal existence
 
 ### Quest Hooks
 
@@ -152,14 +152,14 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 4. **The Therapy Mission**: Escort traumatized individual through shadow-based healing
 5. **The Well Defense**: Protect sacred site from commercial or military exploitation
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
  ### Campaign Integration
 
@@ -173,7 +173,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 
 Shadow Wells is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Shadow Wells as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Wells.
 
@@ -196,6 +196,34 @@ Shadow Wells is a notable location characterized by its unique features and stra
 
 ### Founding
 Shadow Wells was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -248,3 +276,40 @@ Ongoing situations affecting Shadow Wells:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

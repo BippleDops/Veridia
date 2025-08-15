@@ -51,7 +51,7 @@ world: Both
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds `d4` to any ability check using the chosen skill.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-stars-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Stars)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 282. Available in the SRD and the Free Rules (2024)*
 

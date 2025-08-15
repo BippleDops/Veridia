@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-master-mpmm-neogi-master-mpmm.svg)
 
-# [[neogi master mpmm|Neogi Master]]
+# [[neogi-master-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -128,11 +128,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
       \ of the neogi's next turn, as a spectral tentacle clings to the target."
     "name": "Tentacle of Hadar"
   - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [[guidance xphb|guidance]],\
-      \ [[mage hand xphb|mage hand]], [[minor illusion xphb|minor illusion]],\
-      \ [[prestidigitation xphb|prestidigitation]]\n\n1/day\
-      \ each: [[dimension door xphb|dimension door]],\
-      \ [[hold person xphb|hold person]], [[hunger of hadar xphb|hunger of Hadar]]"
+      \ ability (spell save DC 14):\n\nAt will: [[guidance-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Minor Illusion Xphb]],\
+      \ [[Prestidigitation Xphb]]\n\n1/day\
+      \ each: [[Dimension Door Xphb]],\
+      \ [[Hold Person Xphb]], [[hunger-of-hadar-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\

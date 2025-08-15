@@ -37,7 +37,7 @@ world: Both
 
 - **Skill Proficiencies.** [[skills#Intimidation|Intimidation]], [[skills#Persuasion|Persuasion]]  
 - **Languages.** Two of your choice  
-- **Equipment.** A [[ink xphb|bottle of black ink]], an [[ink pen xphb|ink pen]], a book of poetry, a school uniform, and a [[pouch xphb|pouch]] containing 15 gp  
+- **Equipment.** A [[Blink Xphb]], an [[ink-pen-xphb (items)]], a book of poetry, a school uniform, and a [[component-pouch-xphb (items)]] containing 15 gp  
 
 You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.
 
@@ -55,7 +55,7 @@ You have spent years practicing your writing and oration in the hope of becoming
 
 ## Feature: Silverquill Initiate
 
-You gain the [[strixhaven initiate scc|Strixhaven Initiate]] feat and must choose Silverquill within it.
+You gain the [[strixhaven-initiate-scc (feats)]] feat and must choose Silverquill within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Silverquill Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -63,18 +63,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[dissot-whispers-xphb|Dissot Whispers]], [[silvery barbs scc|Silvery Barbs]] |
-| 2nd | [[calm emotions xphb|Calm Emotions]], [[darkness xphb|Darkness]] |
-| 3rd | [[beacon of hope xphb|Beacon of Hope]], [[daylight xphb|Daylight]] |
-| 4th | [[compulsion xphb|Compulsion]], [[confusion xphb|Confusion]] |
-| 5th | [[dominate person xphb|Dominate Person]], [[rarys telepathic bond xphb|Rary's Telepathic Bond]] |
+| 1st | [[dissot-whispers-xphb|Dissot Whispers]], [[silvery-barbs-scc (spells)]] |
+| 2nd | [[Calm Emotions Xphb]], [[darkness-xphb (variant-rules)]] |
+| 3rd | [[beacon-of-hope-xphb (spells)]], [[Light Xphb]] |
+| 4th | [[compulsion-xphb (spells)]], [[Confusion Xphb]] |
+| 5th | [[Dominate Person Xphb]], [[Rarys Telepathic Bond Xphb]] |
 ^silverquill-spells
 
 Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells' verbal components—even amid the crash of lightning or a fiery eruption.
 
 ## Building a Silverquill Character
 
-Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [[wizard xphb illusionist xphb|Illusion]] and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [[cleric xphb light domain xphb|Light]] and [[cleric xphb trickery domain xphb|Trickery]] also fit in well among the mages of Silverquill.
+Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [[wizard-xphb-illusionist-xphb (classes)]] and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [[cleric-xphb-light-domain-xphb 2 (classes)]] and [[Cleric Xphb Trickery Domain Xphb]] also fit in well among the mages of Silverquill.
 
 A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.
 
@@ -98,7 +98,7 @@ With the college's intense standards looming over them, Silverquill students ran
 
 ### Silverquill Trinkets
 
-When you make your character, you may roll once on the [[silverquill trinket scc|Silverquill Trinkets]] table, instead of on the [[trinket xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [[Silverquill Trinket Scc]] table, instead of on the [[trinket-xphb (items)]] in the "Player's Handbook", for your starting trinket.
 
 ## Player-Facing Summary
 

@@ -54,7 +54,7 @@ services:
 notable_npcs:
 - '[[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 - '[[Brother Thaddeus the Rememberer]]'
-- '[[Echo Keeper Selin]]'
+- '[[Echo-Keeper Selin (D&D_References)]]'
 current_state: Active memorial site
 temporal_stability: 95
 shadow_density: Low
@@ -170,7 +170,7 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 - Has perfect memory of every person memorialized
 - Speaks in whispers to preserve sacred silence
 
-**[[Echo Keeper Selin]]** - Spiritual medium
+**[[Echo-Keeper Selin (D&D_References)]]** - Spiritual medium
 - Channels final messages from the dying
 - Maintains the Garden of Whispered Names
 - Shows signs of prophetic ability

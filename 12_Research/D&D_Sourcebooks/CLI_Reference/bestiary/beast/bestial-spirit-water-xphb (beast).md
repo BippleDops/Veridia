@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-bestial-spirit-water-xphb-bestial-spirit-water-xphb.svg)
 
-# [[bestial spirit water xphb|Bestial Spirit (Water)]]
+# [[Bestial Spirit Water Xphb]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock

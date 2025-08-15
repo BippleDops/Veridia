@@ -70,11 +70,11 @@ Until the spell ends, the target is also affected by one of the following effect
 
 When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
 
-A [[dispel-magic-xphb|Dispel Magic]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
+A [[dispel-magic-xphb (spells)]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[imprisonment-xphb (spells)-phb]]` in CLI_Reference/spells/

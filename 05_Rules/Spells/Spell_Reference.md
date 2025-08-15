@@ -120,3 +120,35 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+## Official Rules Reference
+
+### Core Rulebooks
+- **Spellcasting**: PHB Chapter 10 (p.201-205)
+- **Spell Slots**: PHB p.201
+- **Concentration**: PHB p.203
+- **Components**: PHB p.203
+- **Metamagic Options**: PHB p.101, TCE p.65-66
+- **Spell Versatility (UA)**: UA Class Feature Variants
+- **Expanded Spell Lists**: TCE, XGE, SCAG
+- **Strixhaven Spells**: SCC p.36-39
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions

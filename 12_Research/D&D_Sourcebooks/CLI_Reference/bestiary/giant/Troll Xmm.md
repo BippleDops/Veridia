@@ -47,7 +47,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[troll xmm|Troll]]
+# [[Troll Xmm]]
 *Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,17 +96,17 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "If the troll ends any turn [[bloodied xphb|Bloodied]]\
+  - "desc": "If the troll ends any turn [[bloodied-xphb (variant-rules)]]\
       \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\
-      \ severed, falls into the troll's space, and becomes a [[troll-limb-xmm|Troll Limb]].\
+      \ severed, falls into the troll's space, and becomes a [[Troll Limb Xmm]].\
       \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion]]\
       \ level for each missing limb, and it grows replacement limbs the next time\
-      \ it regains [[hit-points-xphb|Hit Points]]."
+      \ it regains [[hit-points-xphb (variant-rules)]]."
     "name": "Loathsome Limbs (4/Day)"
-  - "desc": "The troll regains 15 [[hit-points-xphb|Hit Points]]\
+  - "desc": "The troll regains 15 [[hit-points-xphb (variant-rules)]]\
       \ at the start of each of its turns. If the troll takes Acid or Fire damage,\
       \ this trait doesn't function on the troll's next turn. The troll dies only\
-      \ if it starts its turn with 0 [[hit-points-xphb|Hit Points]]\
+      \ if it starts its turn with 0 [[hit-points-xphb (variant-rules)]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
 "actions":
@@ -115,7 +115,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "The troll moves up to half its [[speed xphb|Speed]]\
+  - "desc": "The troll moves up to half its [[Fly Speed Xphb]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

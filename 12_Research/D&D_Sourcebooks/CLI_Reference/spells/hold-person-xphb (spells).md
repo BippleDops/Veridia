@@ -63,7 +63,7 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 **Using a Higher-Level Spell Slot.** You can target one additional Humanoid for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Redemption)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Vengeance)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 286. Available in the SRD and the Free Rules (2024)*
 
@@ -117,3 +117,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[hold-person-xphb (spells)-phb]]` in CLI_Reference/spells/

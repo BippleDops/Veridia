@@ -37,11 +37,11 @@ world: Both
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [[arrows 20 xphb|Arrows]] | 20 | [[quiver xphb|Quiver]] | 1 lb. | 1 GP |
-| [[bolts 20 xphb|Bolts]] | 20 | [[crossbow bolt case xphb|Case]] | 1½ lb. | 1 GP |
-| [[firearm bullets 10 xphb|Bullets, Firearm]] | 10 | [[pouch xphb|Pouch]] | 2 lb. | 3 GP |
-| [[sling bullet xphb|Bullets, Sling]] | 20 | [[pouch xphb|Pouch]] | 1½ lb. | 4 CP |
-| [[needles 50 xphb|Needles]] | 50 | [[pouch xphb|Pouch]] | 1 lb. | 1 GP |
+| [[arrows-20-xphb (items)]] | 20 | [[Swift Quiver Xphb]] | 1 lb. | 1 GP |
+| [[Bolts 20 Xphb]] | 20 | [[Crossbow Bolt Case Xphb]] | 1½ lb. | 1 GP |
+| [[Firearm Bullets 10 Xphb]] | 10 | [[component-pouch-xphb (items)]] | 2 lb. | 3 GP |
+| [[sling-bullet-xphb (items)]] | 20 | [[component-pouch-xphb (items)]] | 1½ lb. | 4 CP |
+| [[Needles 50 Xphb]] | 50 | [[component-pouch-xphb (items)]] | 1 lb. | 1 GP |
 ^ammunition
 
 ## 🔧 Deep Evaluation Improvements

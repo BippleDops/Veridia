@@ -3,14 +3,14 @@ title: The Resoce Prophet
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # The Resoce Prophet
 
 ## Overview
-This topic is referenced in [[Aquabyssos - Session 07 - The Resonance Revelation]] and other parts of the campaign.
+This topic is referenced in [[[[Aquabyssos]] - Session 07 - The Resonance Revelation]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

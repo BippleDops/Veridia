@@ -1,14 +1,14 @@
 ---
 
 title: Supplier Erikson Tidecaller
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - mechanics/magic
 - business
 - content/location
-- content/npc
+- content/[[Npc]]
 - supplier
 - place
 - active
@@ -17,21 +17,21 @@ tags:
 - reliable
 - world/aquabyssos
 - naval-supplies
-- merchant
+- [[Merchant]]
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-race: Triton
-class: Expert/Artificer
+race: [[Triton]]
+class: Expert/[[Artificer]]
 location: '[[Harbor District]] - Tidecaller''s Emporium'
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Merchant
 MyContainer: None
 category: Magical Supplier
 created_by: auto-stub
 danger_level: Low
-faction: Independent Merchant
+faction: [[Independent Merchan]]t
 influence: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.982925+00:00'
@@ -65,7 +65,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -120,9 +120,9 @@ With over four decades of experience in both practical seamanship and theoretica
 **Height**: 6'1" (1.85m)  
 **Build**: Sturdy and weathered from years of diving and salvage work  
 
-**Appearance**: Erikson has the classic blue-green skin of his people, marked with scars from deep-sea salvage work. His hair is silver-white and braided with small shells and magical trinkets. His hands are calloused but nimble, perfect for handling delicate magical components.
+**Appearance**: Erikson has the classic blue-green skin of his [[People]], marked with scars from deep-sea salvage work. His hair is silver-white and braided with small shells and magical trinkets. His hands are calloused but nimble, perfect for handling delicate magical components.
 
-**Personality**: Professional, knowledgeable, and genuinely helpful. Erikson takes pride in matching customers with exactly what they need, often suggesting alternatives or improvements to their original requests. He's patient with novices but expects repeat customers to learn from his advice.
+**Personality**: Professional, knowledgeable, and genuinely helpful. Erikson takes pride in matching customers with exactly what they need, often suggesting alternatives or improvements to their original re[[Quests]]. He's patient with novices but expects repeat customers to learn from his advice.
 
 ### Tidecaller's Emporium
 **Location**: Three-story building in [[Harbor District]] with underwater storage vaults  
@@ -131,15 +131,15 @@ With over four decades of experience in both practical seamanship and theoretica
 **Hours**: Dawn to dusk, emergency availability for established customers  
 
 ### Primary Inventory
-**Magical Components**: Preserved sea creatures, crystallized water essences, rare coral samples, deep-sea minerals  
-**Nautical Equipment**: Pressure suits, underwater breathing apparatus, navigation tools, diving weights  
+**Magical Components**: Preserved sea creatures, crystallized water essences, rare [[Coral]] samples, deep-sea minerals  
+**Nautical Equipment**: Pressure suits, [[Underwater Breathing]] apparatus, navigation tools, diving weights  
 **Weapons and Armor**: Waterproofed equipment, trident modifications, scale armor, enchanted nets  
 **Research Materials**: Preserved specimens, magical analysis tools, underwater writing materials  
 
 ### Special Services
 **Custom Modifications**: Adapting surface equipment for underwater use  
 **Rush Orders**: Emergency supply runs for urgent missions  
-**Bulk Purchasing**: Wholesale prices for large organizations  
+**Bulk Purchasing**: Wholesale prices for large [[Organization]]s  
 **Consultation**: Expert advice on equipment needs for specific missions  
 
 ## Combat Statistics
@@ -154,7 +154,7 @@ With over four decades of experience in both practical seamanship and theoretica
 **Special Abilities**: Tidal magic (minor water manipulation), Material expertise (identify magical properties), Salvage navigation (locate underwater resources), Emergency crafting (improvised equipment creation)
 
 ### The Rare Component (Levels 3-5)
-Erikson needs a specific rare material for an important customer, but the only known source is in dangerous territory. He hires the party to retrieve it, offering valuable equipment in exchange.
+Erikson needs a specific rare material for an important customer, but the only known source is in dangerous territory. He hires [[The Party]] to retrieve it, offering valuable equipment in exchange.
 
 ### The Sabotaged Shipment (Levels 4-6)
 Erikson's latest shipment of magical components has been contaminated or cursed, affecting his customers' spells and equipment. The party must investigate the source while helping affected clients.
@@ -167,7 +167,7 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 **Suppliers**: Deep-sea divers, magical creature hunters, reef farmers, crystal miners  
 **Customers**: Adventuring parties, naval officers, magical researchers, government agencies  
 **Competitors**: Other specialty merchants who respect his expertise and refer difficult customers  
-**Allies**: [[Harbor Master Luna Freedrift]], [[Guildmaster Harwick]], various crafting specialists  
+**[[Allies]]**: [[Harbor Master Luna Freedrift]], [[Guildmaster Harwick]], various crafting specialists  
 
 ---
 
@@ -178,20 +178,20 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 
 Supplier Erikson Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Supplier Erikson Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Supplier Erikson Tidecaller.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -209,6 +209,34 @@ Supplier Erikson Tidecaller is a notable location characterized by its unique fe
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -272,3 +300,40 @@ Ongoing situations affecting Supplier Erikson Tidecaller:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -1,7 +1,7 @@
 ---
 
 title: Archscholar Marina Voidseeker
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,7 +81,7 @@ Archscholar Marina Voidseeker is a void-touched element of the setting, known fo
 
 Legends speak of Archscholar Marina Voidseeker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archscholar Marina Voidseeker.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -89,7 +89,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Archscholar Marina Voidseeker represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

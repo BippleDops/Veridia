@@ -1,6 +1,6 @@
 ---
 title: scripts
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -17,7 +17,7 @@ scripts represents a crucial aspect of the world's history, cosmology, or fundam
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

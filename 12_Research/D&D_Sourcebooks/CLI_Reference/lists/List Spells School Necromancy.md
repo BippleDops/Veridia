@@ -45,10 +45,10 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/astral-projection-xphb "XPHB"|Astral Projection]]
-- [[/03 Mechanics/CLI/spells/true-resurrection-xphb "XPHB"|True Resurrection]]
+- [[spells]]
+- [[True Resurrection Xphb]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 

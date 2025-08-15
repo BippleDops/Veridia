@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aboleth-xmm-aboleth-xmm.svg)
 
-# [[aboleth xmm|Aboleth]]
+# [[Aboleth Xmm]]
 *Source: Monster Manual (2024) p. 12. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -123,16 +123,16 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
   - "desc": "The aboleth can breathe air and water."
     "name": "Amphibious"
   - "desc": "If destroyed, the aboleth gains a new body in 5d10 days, reviving with\
-      \ all its [[hit points xphb|Hit Points]] in\
+      \ all its [[hit-points-xphb (variant-rules)]] in\
       \ the Far Realm or another location chosen by the DM."
     "name": "Eldritch Restoration"
   - "desc": "If the aboleth fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
   - "desc": "While underwater, the aboleth is surrounded by mucus. Constitution Saving\
-      \ Throw: DC 14, each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ Throw: DC 14, each creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the aboleth at the end of the aboleth's turn. Failure:\
       \ The target is cursed. Until the curse ends, the target's skin becomes slimy,\
-      \ the target can breathe air and water, and it can't regain [[hit points xphb|Hit Points]]\
+      \ the target can breathe air and water, and it can't regain [[hit-points-xphb (variant-rules)]]\
       \ unless it is underwater.\n\nWhile the cursed creature is outside a body of\
       \ water, the creature takes 6 (d12) Acid damage at the end of every 10 minutes\
       \ unless moisture is applied to its skin before those minutes have passed."
@@ -152,7 +152,7 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
       \ is [[conditions#Charmed|Charmed]] or [[conditions#Grappled|Grappled]]\
       \ by the aboleth. Failure: 10 (3d6) Psychic damage. Success: Half damage.\
       \ Failure or Success: The aboleth gains the target's memories if the target\
-      \ is a Humanoid and is reduced to 0 [[hit points xphb|Hit Points]]\
+      \ is a Humanoid and is reduced to 0 [[hit-points-xphb (variant-rules)]]\
       \ by this action."
     "name": "Consume Memories"
   - "desc": "Wisdom Saving Throw: DC 16, one creature the aboleth can see within\
@@ -170,7 +170,7 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
     "name": "Lash"
   - "desc": "If the aboleth has at least one creature [[conditions#Charmed|Charmed]]\
       \ or [[conditions#Grappled|Grappled]], it uses Consume Memories\
-      \ and regains 5 (d10) [[hit points xphb|Hit Points]]."
+      \ and regains 5 (d10) [[hit-points-xphb (variant-rules)]]."
     "name": "Psychic Drain"
 "regional_effects":
   - "desc": "The region containing an aboleth's lair is warped by it, creating the\
@@ -180,7 +180,7 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
       \ fouled. Creatures other than the aboleth and its allies that drink such water\
       \ must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]]\
       \ condition for 1 hour.  \n- Psionic Projection. While in its lair, the\
-      \ aboleth can cast [[project image xphb|Project Image]],\
+      \ aboleth can cast [[Project Image Xphb]],\
       \ requiring no spell components and using Intelligence as the spellcasting ability\
       \ (spell save DC 16). When casting the spell this way, the spell's range is\
       \ 1 mile, and the aboleth can use its telepathy as if it were in the illusion's\

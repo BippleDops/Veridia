@@ -37,21 +37,21 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[crab xmm|Crab]], [[octopus xmm|Octopus]], [[piranha xmm|Piranha]], [[seahorse xmm|Seahorse]] |
-| 1/8 | [[giant crab xmm|Giant Crab]], [[merfolk skirmisher xmm|Merfolk Skirmisher]] |
-| 1/4 | [[constrictor snake xmm|Constrictor Snake]] |
-| 1/2 | [[giant seahorse xmm|Giant Seahorse]], [[reef shark xmm|Reef Shark]], [[sahuagin warrior xmm|Sahuagin Warrior]] |
-| 1 | [[giant octopus xmm|Giant Octopus]], [[swarm of piranhas xmm|Swarm of Piranhas]] |
-| 2 | [[giant constrictor snake xmm|Giant Constrictor Snake]], [[hunter shark xmm|Hunter Shark]], [[merrow xmm|Merrow]], [[plesiosaurus xmm|Plesiosaurus]], [[sahuagin priest xmm|Sahuagin Priest]], [[sea hag xmm|Sea Hag]] |
-| 3 | [[killer whale xmm|Killer Whale]] |
-| 4 | [[archelon xmm|Archelon]] |
-| 5 | [[giant shark xmm|Giant Shark]], [[sahuagin baron xmm|Sahuagin Baron]], [[water elemental xmm|Water Elemental]] |
-| 6 | [[giant squid xmm|Giant Squid]], [[merfolk wavebender xmm|Merfolk Wavebender]] |
-| 10 | [[aboleth xmm|Aboleth]] |
-| 11 | [[marid xmm|Marid]] |
-| 13 | [[storm giant xmm|Storm Giant]] |
-| 17 | [[dragon turtle xmm|Dragon Turtle]] |
-| 23 | [[kraken xmm|Kraken]] |
+| 0 | [[giant-crab-xmm (beast)]], [[Giant Octopus Xmm]], [[piranha-xmm (beast)]], [[Giant Seahorse Xmm]] |
+| 1/8 | [[giant]], [[Merfolk Skirmisher Xmm]] |
+| 1/4 | [[giant-constrictor-snake-xmm (beast)]] |
+| 1/2 | [[giant]], [[Reef Shark Xmm]], [[sahuagin-warrior-xmm]] |
+| 1 | [[giant]], [[swarm-of-piranhas-xmm (beast)]] |
+| 2 | [[giant-constrictor-snake-xmm (beast)]], [[hunter-shark-xmm (beast)]], [[merrow-xmm (monstrosity)]], [[plesiosaurus-xmm (beast)]], [[Sahuagin Priest Xmm]], [[sea-hag-xmm (fey)]] |
+| 3 | [[Killer Whale Xmm]] |
+| 4 | [[archelon-xmm (beast)]] |
+| 5 | [[giant]], [[sahuagin-baron-xmm]], [[water-elemental-xmm (elemental)]] |
+| 6 | [[Giant Squid Xmm]], [[Merfolk]] |
+| 10 | [[Aboleth Xmm]] |
+| 11 | [[marid-xmm (elemental)]] |
+| 13 | [[giant]] |
+| 17 | [[dragon-turtle-xmm (dragon)]] |
+| 23 | [[Kraken]] |
 ^underwater-monsters
 
 ## 🔧 Deep Evaluation Improvements

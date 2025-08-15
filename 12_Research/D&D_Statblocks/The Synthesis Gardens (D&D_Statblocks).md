@@ -43,7 +43,7 @@ world: Both
 - Add 12_Research-specific enhancement
 
 ## Overview
-Hidden deep within [[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[Sorrow Root Nightbloom|02 Worldbuilding/People/Sorrow Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
+Hidden deep within [[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[Sorrow-Root Nightbloom (D&D_References)]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
 
 ## Description
 The Gardens exist in a two-mile radius of corrupted forest where the boundaries between plant, crystal, and flesh blur. Trees with crystalline bark pulse with internal light, while crystal formations sprout leaves and bleed sap. The air itself shimmers with pollen that carries corruption, and the ground shifts between soil, crystal, and something disturbingly in-between.

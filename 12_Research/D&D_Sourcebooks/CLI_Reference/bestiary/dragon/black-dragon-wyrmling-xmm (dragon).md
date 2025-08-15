@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-dragon-wyrmling-xmm-black-dragon-wyrmling-xmm.svg)
 
-# [[black dragon wyrmling xmm|Black Dragon Wyrmling]]
+# [[Black Dragon Wyrmling Xmm]]
 *Source: Monster Manual (2024) p. 38. Available in the SRD and the Free Rules (2024)*  
 
 Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking domice over their clutch and slaying rivals they can't subjugate.
@@ -111,7 +111,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ plus 2 (d4) Acid damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot-long, 5-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 22 (5d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":

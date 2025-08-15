@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Lost Expedition
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 # Quest - The Lost Expedition
 
@@ -31,6 +39,21 @@ updated: '2025-08-13T01:18:34.467445+00:00'
 **Type:** Investigation/Exploration/Survival  
 
 ---
+
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -140,7 +163,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 #### Key Areas:
 
-**The Corruption Chambers:** Where expedition members are being slowly transformed into [[Void Touched]] beings
+**The Corruption Chambers:** Where expedition members are being slowly transformed into [[The Void Touched Depths]] beings
 
 **The Central Forge:** A massive machine drawing power from [[Aethermoor]]'s ley lines and spreading corruption
 
@@ -228,7 +251,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 ---
 
-### [[Void touched Crew Member|02 Worldbuilding/Groups/Void Touched Crew Member]] (6-8 remaining)
+### [[Void-touched Crew Member (D&D_References)]] (6-8 remaining)
 *Medium humanoid (various), chaotic neutral*
 **AC** 14, **HP** 52 each, **Speed** 30 ft.
 **Challenge Rating:** 4 each
@@ -360,3 +383,58 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

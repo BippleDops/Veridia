@@ -38,11 +38,11 @@ world: Both
 
 | Level | Spell | School | Class |
 |-------|-------|--------|-------|
-| 1st | [[silvery barbs scc|Silvery Barbs]] | Enchantment | [[bard xphb|Bard]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
-| 2nd | [[borrowed knowledge scc|Borrowed Knowledge]] | Divination | [[bard xphb|Bard]], [[cleric xphb|Cleric]], [[warlock xphb|Warlock]], [[wizard xphb|Wizard]] |
-| 2nd | [[kinetic jaunt scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[bard xphb|Bard]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
-| 2nd | [[vortex warp scc|Vortex Warp]] | Conjuration | Artificer,* [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
-| 2nd | [[wither and bloom scc|Wither and Bloom]] | Necromancy | [[druid xphb|Druid]], [[sorcerer xphb|Sorcerer]], [[wizard xphb|Wizard]] |
+| 1st | [[silvery-barbs-scc (spells)]] | Enchantment | [[bard-xphb-college-of-swords-xge 2 (classes)]], [[sorcerer-xphb-draconic-sorcery-xphb (classes)]], [[Wizard Xphb School of Necromancy]] |
+| 2nd | [[borrowed-knowledge-scc (spells)]] | Divination | [[bard-xphb-college-of-swords-xge 2 (classes)]], [[cleric-xphb-nature-domain (classes)]], [[warlock-xphb-fiend-patron-xphb (classes)]], [[Wizard Xphb School of Necromancy]] |
+| 2nd | [[kinetic-jaunt-scc (spells)]] | Transmutation | Artificer,* [[bard-xphb-college-of-swords-xge 2 (classes)]], [[sorcerer-xphb-draconic-sorcery-xphb (classes)]], [[Wizard Xphb School of Necromancy]] |
+| 2nd | [[Vortex Warp Scc]] | Conjuration | Artificer,* [[sorcerer-xphb-draconic-sorcery-xphb (classes)]], [[Wizard Xphb School of Necromancy]] |
+| 2nd | [[Wither and Bloom Scc]] | Necromancy | [[Druid Xphb Circle of the Shepherd Xge]], [[sorcerer-xphb-draconic-sorcery-xphb (classes)]], [[Wizard Xphb School of Necromancy]] |
 ^spells
 
 *The artificer class appears in "Tasha's Cauldron of Everything" and "Eberron: Rising from the Last War".

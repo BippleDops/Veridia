@@ -37,20 +37,20 @@ world: Both
 | Item | Cost | Weight |
 |------|------|--------|
 | [[barding|Barding]] | ×4 | ×2 |
-| [[bit and bridle|Bit and bridle]] | 2 gp | 1 lb. |
-| [[carriage xphb|Carriage]] | 100 gp | 600 lb. |
-| [[cart xphb|Cart]] | 15 gp | 200 lb. |
-| [[chariot xphb|Chariot]] | 250 gp | 100 lb. |
+| [[bit-and-bridle (items)]] | 2 gp | 1 lb. |
+| [[carriage-xphb (items)]] | 100 gp | 600 lb. |
+| [[cart-xphb (items)]] | 15 gp | 200 lb. |
+| [[Chariot Xphb]] | 250 gp | 100 lb. |
 | Animal Feed (per day) | 5 cp | 10 lb. |
 | *Saddle* |  |  |
-| &emsp;[[exotic saddle xphb|Exotic]] | 60 gp | 40 lb. |
-| &emsp;[[military saddle xphb|Military]] | 20 gp | 30 lb. |
-| &emsp;[[pack saddle|Pack]] | 5 gp | 15 lb. |
-| &emsp;[[riding saddle xphb|Riding]] | 10 gp | 25 lb. |
+| &emsp;[[Exotic Saddle Xphb]] | 60 gp | 40 lb. |
+| &emsp;[[military-saddle-xphb (items)]] | 20 gp | 30 lb. |
+| &emsp;[[Pack Saddle]] | 5 gp | 15 lb. |
+| &emsp;[[riding-saddle-xphb (items)]] | 10 gp | 25 lb. |
 | [[saddlebags|Saddlebags]] | 4 gp | 8 lb. |
-| [[sled xphb|Sled]] | 20 gp | 300 lb. |
+| [[sled-xphb (items)]] | 20 gp | 300 lb. |
 | Stabling (per day) | 5 sp | — |
-| [[wagon xphb|Wagon]] | 35 gp | 400 lb. |
+| [[wagon-xphb (items)]] | 35 gp | 400 lb. |
 ^tack-harness-and-drawn-vehicles
 
 ## 🔧 Deep Evaluation Improvements

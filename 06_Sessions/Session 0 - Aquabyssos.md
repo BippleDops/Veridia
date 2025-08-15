@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session 0 - Aquabyssos
 
----
+- --
 title: Session 0   Aquabyssos
 type: Lore
 tags:
@@ -28,15 +28,15 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 world: Aquabyssos
 updated: '2025-08-11T00:00:00+00:00'
----
+- --
 
 # Session 0 - Aquabyssos
 
-*"Before diving deep, one must understand the currents above." - Traditional Aquabyssos Proverb*
+* "Before diving deep, one must understand the currents above." - Traditional Aquabyssos Proverb*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -131,3 +131,33 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Aethermoor**: [AYTHERMOOR]
+- **Aethermoor**: [AYTHERMOOR]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

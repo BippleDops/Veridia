@@ -40,16 +40,16 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[silver chalice set with moonstones xdmg|Silver chalice set with moonstones]] |
-| 2 | [[bundle of sheet music representing the lost dirges of a famous composer xdmg|Silver plated steel longsword with jet set in hilt]] |
-| 3 | [[carved wooden harp with ivory inlay and zircon gems xdmg|Carved harp of exotic wood with ivory inlay and zircon gems]] |
-| 4 | [[gold idol xdmg|Small gold idol]] |
-| 5 | [[gold comb shaped like a dragon with red garnets as eyes xdmg|Gold dragon comb set with red garnets as eyes]] |
-| 6 | [[bottle stopper cork embossed with gold leaf and set with amethysts xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]] |
-| 7 | [[detailed life sized dragonborn skull cast in electrum xdmg|Ceremonial electrum dagger with a black pearl in the pommel]] |
-| 8 | [[silver and gold brooch xdmg|Silver and gold brooch]] |
-| 9 | [[obsidian statuette with gold fittings and inlay xdmg|Obsidian statuette with gold fittings and inlay]] |
-| 10 | [[painted gold war mask xdmg|Painted gold war mask]] |
+| 1 | [[silver-chalice-set-with-moonstones-xdmg (items)]] |
+| 2 | [[Bundle of Sheet Music Representing the Lost Dirges of a Famous Composer Xdmg]] |
+| 3 | [[Carved Wooden Harp with Ivory Inlay and Zircon Gems Xdmg]] |
+| 4 | [[Gold Idol Xdmg]] |
+| 5 | [[Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]] |
+| 6 | [[Bottle Stopper Cork Embossed with Gold Leaf and Set with Amethysts Xdmg]] |
+| 7 | [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]] |
+| 8 | [[Silver and Gold Brooch Xdmg]] |
+| 9 | [[Obsidian Statuette with Gold Fittings and Inlay Xdmg]] |
+| 10 | [[painted-gold-war-mask-xdmg (items)]] |
 ^750-gp-art-objects
 
 ## 🔧 Deep Evaluation Improvements

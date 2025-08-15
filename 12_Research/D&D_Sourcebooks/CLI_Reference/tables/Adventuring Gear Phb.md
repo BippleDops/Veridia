@@ -39,112 +39,112 @@ world: Both
 | Item | Cost | Weight |
 |------|------|--------|
 | [[abacus|Abacus]] | 2 gp | 2 lb. |
-| [[acid xphb|Acid (vial)]] | 25 gp | 1 lb. |
-| [[alchemists fire xphb|Alchemist's fire (flask)]] | 50 gp | 1 lb. |
+| [[Acid Xphb]] | 25 gp | 1 lb. |
+| [[alchemists-fire-xphb (items)]] | 50 gp | 1 lb. |
 | *Ammunition* |  |  |
-| &emsp;[[arrows 20 xphb|Arrows (20)]] | 1 gp | 1 lb. |
-| &emsp;[[needles 50 xphb|Blowgun needles (50)]] | 1 gp | 1 lb. |
-| &emsp;[[bolts 20 xphb|Crossbow bolts (20)]] | 1 gp | 1½ lb. |
-| &emsp;[[sling bullets 20 xphb|Sling bullets (20)]] | 4 cp | 1½ lb. |
-| [[antitoxin xphb|Antitoxin (vial)]] | 50 gp | — |
-| *[[arcane focus xphb|Arcane focus]]* |  |  |
-| &emsp;[[crystal xphb|Crystal]] | 10 gp | 1 lb. |
-| &emsp;[[orb xphb|Orb]] | 20 gp | 3 lb. |
-| &emsp;[[rod xphb|Rod]] | 10 gp | 2 lb. |
-| &emsp;[[staff xphb|Staff]] | 5 gp | 4 lb. |
-| &emsp;[[wand xphb|Wand]] | 10 gp | 1 lb. |
-| [[backpack xphb|Backpack]] | 2 gp | 5 lb. |
-| [[ball bearings xphb|Ball bearings (bag of 1,000)]] | 1 gp | 2 lb. |
-| [[barrel xphb|Barrel]] | 2 gp | 70 lb. |
-| [[basket xphb|Basket]] | 4 sp | 2 lb. |
-| [[bedroll xphb|Bedroll]] | 1 gp | 7 lb. |
-| [[bell xphb|Bell]] | 1 gp | — |
-| [[blanket xphb|Blanket]] | 5 sp | 3 lb. |
-| [[block and tackle xphb|Block and tackle]] | 1 gp | 5 lb. |
-| [[book xphb|Book]] | 25 gp | 5 lb. |
-| [[glass bottle xphb|Bottle, glass]] | 2 gp | 2 lb. |
-| [[bucket xphb|Bucket]] | 5 cp | 2 lb. |
-| [[caltrops xphb|Caltrops (bag of 20)]] | 1 gp | 2 lb. |
-| [[candle xphb|Candle]] | 1 cp | — |
-| [[crossbow bolt case xphb|Case, crossbow bolt]] | 1 gp | 1 lb. |
-| [[map or scroll case xphb|Case, map or scroll]] | 1 gp | 1 lb. |
-| [[chain xphb|Chain (10 feet)]] | 5 gp | 10 lb. |
-| [[chalk 1 piece|Chalk (1 piece)]] | 1 cp | — |
-| [[chest xphb|Chest]] | 5 gp | 25 lb. |
-| [[common clothes|Clothes, common]] | 5 sp | 3 lb. |
-| [[costume xphb|Clothes, costume]] | 5 gp | 4 lb. |
-| [[fine clothes xphb|Clothes, fine]] | 15 gp | 6 lb. |
-| [[travelers clothes xphb|Clothes, traveler's]] | 2 gp | 4 lb. |
-| [[component pouch xphb|Component pouch]] | 25 gp | 2 lb. |
-| [[crowbar xphb|Crowbar]] | 2 gp | 5 lb. |
-| *[[druidic focus xphb|Druidic focus]]* |  |  |
-| &emsp;[[sprig of mistletoe xphb|Sprig of mistletoe]] | 1 gp | — |
+| &emsp;[[arrows-20-xphb (items)]] | 1 gp | 1 lb. |
+| &emsp;[[Needles 50 Xphb]] | 1 gp | 1 lb. |
+| &emsp;[[Bolts 20 Xphb]] | 1 gp | 1½ lb. |
+| &emsp;[[Sling Bullets 20 Xphb]] | 4 cp | 1½ lb. |
+| [[antitoxin-xphb (items)]] | 50 gp | — |
+| *[[arcane-focus-xphb (items)]]* |  |  |
+| &emsp;[[crystal-xphb (items)]] | 10 gp | 1 lb. |
+| &emsp;[[Orb Xphb]] | 20 gp | 3 lb. |
+| &emsp;[[rod-xphb (items)]] | 10 gp | 2 lb. |
+| &emsp;[[Quarterstaff Xphb]] | 5 gp | 4 lb. |
+| &emsp;[[wand-xphb (items)]] | 10 gp | 1 lb. |
+| [[Backpack Xphb]] | 2 gp | 5 lb. |
+| [[ball-bearings-xphb (items)]] | 1 gp | 2 lb. |
+| [[Barrel Xphb]] | 2 gp | 70 lb. |
+| [[basket-xphb (items)]] | 4 sp | 2 lb. |
+| [[Bedroll Xphb]] | 1 gp | 7 lb. |
+| [[Bell Xphb]] | 1 gp | — |
+| [[Blanket Xphb]] | 5 sp | 3 lb. |
+| [[Block and Tackle Xphb]] | 1 gp | 5 lb. |
+| [[Book Xphb]] | 25 gp | 5 lb. |
+| [[Glass Bottle Xphb]] | 2 gp | 2 lb. |
+| [[Bucket Xphb]] | 5 cp | 2 lb. |
+| [[caltrops-xphb (items)]] | 1 gp | 2 lb. |
+| [[Candle Xphb]] | 1 cp | — |
+| [[Crossbow Bolt Case Xphb]] | 1 gp | 1 lb. |
+| [[map-or-scroll-case-xphb (items)]] | 1 gp | 1 lb. |
+| [[Pact of the Chain Xphb]] | 5 gp | 10 lb. |
+| [[chalk-1-piece (items)]] | 1 cp | — |
+| [[leomunds-secret-chest-xphb (spells)]] | 5 gp | 25 lb. |
+| [[common-clothes (items)]] | 5 sp | 3 lb. |
+| [[costume-xphb (items)]] | 5 gp | 4 lb. |
+| [[Fine Clothes Xphb]] | 15 gp | 6 lb. |
+| [[travelers-clothes-xphb (items)]] | 2 gp | 4 lb. |
+| [[component-pouch-xphb (items)]] | 25 gp | 2 lb. |
+| [[Crowbar Xphb]] | 2 gp | 5 lb. |
+| *[[druidic-focus-xphb (items)]]* |  |  |
+| &emsp;[[sprig-of-mistletoe-xphb (items)]] | 1 gp | — |
 | &emsp;[[totem|Totem]] | 1 gp | — |
-| &emsp;[[wooden staff xphb|Wooden staff]] | 5 gp | 4 lb. |
-| &emsp;[[yew wand xphb|Yew wand]] | 10 gp | 1 lb. |
-| [[fishing tackle|Fishing tackle]] | 1 gp | 4 lb. |
-| [[flask xphb|Flask]] or [[tankard|tankard]] | 2 cp | 1 lb. |
-| [[grappling hook xphb|Grappling hook]] | 2 gp | 4 lb. |
+| &emsp;[[Staff Xphb]] | 5 gp | 4 lb. |
+| &emsp;[[yew-wand-xphb (items)]] | 10 gp | 1 lb. |
+| [[fishing-tackle (items)]] | 1 gp | 4 lb. |
+| [[Flask Xphb]] or [[tankard|tankard]] | 2 cp | 1 lb. |
+| [[grappling-hook-xphb (items)]] | 2 gp | 4 lb. |
 | [[hammer|Hammer]] | 1 gp | 3 lb. |
 | [[sledgehammer|Hammer, sledge]] | 2 gp | 10 lb. |
-| [[healers kit xphb|Healer's Kit]] | 5 gp | 3 lb. |
-| *[[holy symbol xphb|Holy symbol]]* |  |  |
-| &emsp;[[amulet xphb|Amulet]] | 5 gp | 1 lb. |
-| &emsp;[[emblem xphb|Emblem]] | 5 gp | — |
-| &emsp;[[reliquary xphb|Reliquary]] | 5 gp | 2 lb. |
-| [[holy water xphb|Holy water (flask)]] | 25 gp | 1 lb. |
+| [[healers-kit-xphb (items)]] | 5 gp | 3 lb. |
+| *[[Symbol Xphb]]* |  |  |
+| &emsp;[[amulet-xphb (items)]] | 5 gp | 1 lb. |
+| &emsp;[[emblem-xphb (items)]] | 5 gp | — |
+| &emsp;[[Reliquary Xphb]] | 5 gp | 2 lb. |
+| [[Holy Water Xphb]] | 25 gp | 1 lb. |
 | [[hourglass|Hourglass]] | 25 gp | 1 lb. |
-| [[hunting trap xphb|Hunting trap]] | 5 gp | 25 lb. |
-| [[ink xphb|Ink (1 ounce bottle)]] | 10 gp | — |
-| [[ink pen xphb|Ink pen]] | 2 cp | — |
-| [[jug xphb|Jug]] or [[pitcher|pitcher]] | 2 cp | 4 lb. |
-| [[climbers kit xphb|Kit, climber's]] | 25 gp | 12 lb. |
-| [[disguise kit xphb|Kit, disguise]] | 25 gp | 3 lb. |
-| [[forgery kit xphb|Kit, forgery]] | 15 gp | 5 lb. |
-| [[herbalism kit xphb|Kit, herbalism]] | 5 gp | 3 lb. |
-| [[healers kit xphb|Kit, healer's]] | 5 gp | 3 lb. |
-| [[mess kit|Kit, mess]] | 2 sp | 1 lb. |
-| [[poisoners kit xphb|Kit, poisoner's]] | 50 gp | 2 lb. |
-| [[ladder xphb|Ladder (10 foot)]] | 1 sp | 25 lb. |
-| [[lamp xphb|Lamp]] | 5 sp | 1 lb. |
-| [[bullseye lantern xphb|Lantern, bullseye]] | 10 gp | 2 lb. |
-| [[hooded lantern xphb|Lantern, hooded]] | 5 gp | 2 lb. |
-| [[lock xphb|Lock]] | 10 gp | 1 lb. |
-| [[magnifying glass xphb|Magnifying glass]] | 100 gp | — |
-| [[manacles xphb|Manacles]] | 2 gp | 6 lb. |
-| [[mirror xphb|Mirror, steel]] | 5 gp | 1/2 lb. |
-| [[oil xphb|Oil (flask)]] | 1 sp | 1 lb. |
-| [[paper xphb|Paper (one sheet)]] | 2 sp | — |
-| [[parchment xphb|Parchment (one sheet)]] | 1 sp | — |
-| [[perfume xphb|Perfume (vial)]] | 5 gp | — |
-| [[miners pick|Pick, miner's]] | 2 gp | 10 lb. |
+| [[Hunting Trap Xphb]] | 5 gp | 25 lb. |
+| [[Blink Xphb]] | 10 gp | — |
+| [[ink-pen-xphb (items)]] | 2 cp | — |
+| [[Jug Xphb]] or [[pitcher|pitcher]] | 2 cp | 4 lb. |
+| [[Climbers Kit Xphb]] | 25 gp | 12 lb. |
+| [[disguise-kit-xphb (items)]] | 25 gp | 3 lb. |
+| [[Forgery Kit Xphb]] | 15 gp | 5 lb. |
+| [[Herbalism Kit Xphb]] | 5 gp | 3 lb. |
+| [[healers-kit-xphb (items)]] | 5 gp | 3 lb. |
+| [[mess-kit (items)]] | 2 sp | 1 lb. |
+| [[Poisoners Kit Xphb]] | 50 gp | 2 lb. |
+| [[Ladder Xphb]] | 1 sp | 25 lb. |
+| [[lamp-xphb (items)]] | 5 sp | 1 lb. |
+| [[bullseye-lantern-xphb (items)]] | 10 gp | 2 lb. |
+| [[Hooded Lantern Xphb]] | 5 gp | 2 lb. |
+| [[lock-xphb (items)]] | 10 gp | 1 lb. |
+| [[Magnifying Glass Xphb]] | 100 gp | — |
+| [[Manacles Xphb]] | 2 gp | 6 lb. |
+| [[mirror-xphb (items)]] | 5 gp | 1/2 lb. |
+| [[Oil Xphb]] | 1 sp | 1 lb. |
+| [[Paper Xphb]] | 2 sp | — |
+| [[Parchment Xphb]] | 1 sp | — |
+| [[perfume-xphb (items)]] | 5 gp | — |
+| [[miners-pick (items)]] | 2 gp | 10 lb. |
 | [[piton|Piton]] | 5 cp | 1/4 lb. |
-| [[basic poison xphb|Poison, basic (vial)]] | 100 gp | — |
-| [[pole xphb|Pole (10 foot)]] | 5 cp | 7 lb. |
-| [[iron pot xphb|Pot, iron]] | 2 gp | 10 lb. |
-| [[potion of healing xdmg|Potion of healing]] | 50 gp | 1/2 lb. |
-| [[pouch xphb|Pouch]] | 5 sp | 1 lb. |
-| [[quiver xphb|Quiver]] | 1 gp | 1 lb. |
-| [[portable ram xphb|Ram, portable]] | 4 gp | 35 lb. |
-| [[rations xphb|Rations (1 day)]] | 5 sp | 2 lb. |
-| [[robe xphb|Robes]] | 1 gp | 4 lb. |
-| [[rope xphb|Rope, hempen (50 feet)]] | 1 gp | 10 lb. |
-| [[silk rope 50 feet|Rope, silk (50 feet)]] | 10 gp | 5 lb. |
-| [[sack xphb|Sack]] | 1 cp | 1/2 lb. |
-| [[merchants scale|Scale, merchant's]] | 5 gp | 3 lb. |
-| [[sealing wax|Sealing wax]] | 5 sp | — |
-| [[shovel xphb|Shovel]] | 2 gp | 5 lb. |
-| [[signal whistle xphb|Signal whistle]] | 5 cp | — |
-| [[signet ring|Signet ring]] | 5 gp | — |
+| [[Basic Poison Xphb]] | 100 gp | — |
+| [[pole-xphb (items)]] | 5 cp | 7 lb. |
+| [[iron-pot-xphb (items)]] | 2 gp | 10 lb. |
+| [[Potion of Healing Xdmg]] | 50 gp | 1/2 lb. |
+| [[component-pouch-xphb (items)]] | 5 sp | 1 lb. |
+| [[Swift Quiver Xphb]] | 1 gp | 1 lb. |
+| [[Portable Ram Xphb]] | 4 gp | 35 lb. |
+| [[rations-xphb (items)]] | 5 sp | 2 lb. |
+| [[robe-xphb (items)]] | 1 gp | 4 lb. |
+| [[Rope Xphb]] | 1 gp | 10 lb. |
+| [[Silk Rope 50 Feet]] | 10 gp | 5 lb. |
+| [[sack-xphb (items)]] | 1 cp | 1/2 lb. |
+| [[Merchants Scale]] | 5 gp | 3 lb. |
+| [[Sealing Wax]] | 5 sp | — |
+| [[shovel-xphb (items)]] | 2 gp | 5 lb. |
+| [[Signal Whistle Xphb]] | 5 cp | — |
+| [[Signet Ring]] | 5 gp | — |
 | [[soap|Soap]] | 2 cp | — |
 | [[spellbook|Spellbook]] | 50 gp | 3 lb. |
-| [[iron spikes xphb|Spikes, iron (10)]] | 1 gp | 5 lb. |
-| [[spyglass xphb|Spyglass]] | 1,000 gp | 1 lb. |
-| [[tent xphb|Tent, two person]] | 2 gp | 20 lb. |
-| [[tinderbox xphb|Tinderbox]] | 5 sp | 1 lb. |
-| [[torch xphb|Torch]] | 1 cp | 1 lb. |
-| [[vial xphb|Vial]] | 1 gp | — |
-| [[waterskin xphb|Waterskin]] | 2 sp | 5 lb. (full) |
+| [[Iron Spikes Xphb]] | 1 gp | 5 lb. |
+| [[Spyglass Xphb]] | 1,000 gp | 1 lb. |
+| [[Tent Xphb]] | 2 gp | 20 lb. |
+| [[Tinderbox Xphb]] | 5 sp | 1 lb. |
+| [[Torch Xphb]] | 1 cp | 1 lb. |
+| [[Vial Xphb]] | 1 gp | — |
+| [[waterskin-xphb (items)]] | 2 sp | 5 lb. (full) |
 | [[whetstone|Whetstone]] | 1 cp | 1 lb. |
 ^adventuring-gear
 

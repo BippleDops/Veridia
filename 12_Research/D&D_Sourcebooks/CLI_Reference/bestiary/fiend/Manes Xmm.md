@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-manes-xmm-manes-xmm.svg)
 
-# [[manes xmm|Manes]]
+# [[Manes Xmm]]
 *Source: Monster Manual (2024) p. 201*  
 
 Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.

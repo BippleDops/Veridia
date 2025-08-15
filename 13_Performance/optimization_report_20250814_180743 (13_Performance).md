@@ -5,7 +5,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Note Optimization Report
 
@@ -59,18 +59,18 @@ Generated: 2025-08-14T18:07:43.028358
 - Loot records
 - DM notes
 
----
-*Comprehensive optimization complete. Every note has been enhanced.*
+- --
+* Comprehensive optimization complete. Every note has been enhanced.*
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Power Structures]]
 - Connected to: [[Character Backstories]]
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles

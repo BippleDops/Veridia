@@ -48,7 +48,7 @@ world: Both
 
 Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 292. Available in the SRD and the Free Rules (2024)*
 

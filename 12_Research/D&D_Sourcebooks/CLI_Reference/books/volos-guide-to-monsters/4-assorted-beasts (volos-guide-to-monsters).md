@@ -35,14 +35,14 @@ world: Both
 
 This appendix contains statistics for various beasts, expanding on "appendix A" of the Monster Manual.
 
-- [[aurochs mpmm|Aurochs]]  
-- [[cow vgm|Cow]]  
-- [[deep rothe mpmm|Deep Rothé]]  
-- [[dolphin mpmm|Dolphin]]  
-- [[ox mpmm|Ox]]  
-- [[rothe vgm|Rothé]]  
-- [[stench kow mpmm|Stench Kow]]  
-- [[swarm of rot grubs mpmm|Swarm of Rot Grubs]]
+- [[Aurochs Mpmm]]  
+- [[Cow Vgm]]  
+- [[deep-rothe-mpmm (beast)]]  
+- [[dolphin-mpmm (beast)]]  
+- [[Ox Mpmm]]  
+- [[rothe-vgm (beast)]]  
+- [[Stench Kow Mpmm]]  
+- [[Swarm of Rot Grubs Mpmm]]
 
 ## 🔧 Deep Evaluation Improvements
 

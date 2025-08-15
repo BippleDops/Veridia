@@ -44,11 +44,11 @@ world: Both
 - **Components:** V, M (a broken bone and a square of black silk)
 - **Duration:** Instantaneous
 
-You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution saving throw, taking `5d12` necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a [[zombie xmm|zombie]] at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the [[zombie xmm|zombie]] are in the Monster Manual.
+You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution saving throw, taking `5d12` necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a [[Zombie Xmm]] at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the [[Zombie Xmm]] are in the Monster Manual.
 
 If you target an undead with this spell, the target doesn't make a saving throw. Instead, roll `5d12`. The target gains half the total as temporary hit points.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 163*
 

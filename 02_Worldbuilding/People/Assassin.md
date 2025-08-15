@@ -136,6 +136,18 @@ Standing 5'6" with platinum hair streaked with shadow-black, Vespara's most stri
 
 She operates from the Shadowblade District, a neutral zone where information flows like water and contracts are sealed in blood and crystal dust. Her reputation is built on three pillars: she never misses a target, she never breaks a contract, and she never kills without cause.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
 ## Relationships
 
 **Allies:**
@@ -201,6 +213,11 @@ Assassin's path to their current position involved:
 - Maintain their position and influence
 - Advance their organization's interests
 - Personal advancement or satisfaction
+
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
 
 ## Voice & Mannerisms
 
@@ -297,3 +314,40 @@ Mentioned in The Second Prophecy of Stars
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

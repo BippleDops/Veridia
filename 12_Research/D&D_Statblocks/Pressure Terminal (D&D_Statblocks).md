@@ -610,7 +610,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 - [[Royal Transit Authority]]  
 
 **Related Items and Concepts**:  
-- [[Pressure Tube System]]  
+- [[Pressure-Tube System]]  
 - [[Transportation Pods]]  
 - [[Pressure Crystals]]  
 - [[Emergency Protocols]]

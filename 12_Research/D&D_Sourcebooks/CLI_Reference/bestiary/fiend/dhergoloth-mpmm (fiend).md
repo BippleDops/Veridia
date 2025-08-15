@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
 
-# [[dhergoloth mpmm|Dhergoloth]]
+# [[dhergoloth-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
 
 > [!quote] A quote from Mordenkainen  
@@ -97,7 +97,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \nAt will: [[darkness xphb|darkness]], [[fear xphb|fear]]"
+      \nAt will: [[darkness-xphb (variant-rules)]], [[Fear Xphb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

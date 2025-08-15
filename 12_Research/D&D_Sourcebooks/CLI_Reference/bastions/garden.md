@@ -65,10 +65,10 @@ When you issue the "Harvest" order to this facility, you commission the facility
 
 | Garden Type | Description | Harvest |
 |-------------|-------------|---------|
-| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [[perfume xphb|Perfume]], or ten [[candle xphb|Candles]] |
-| Food | Garden of delicious mushrooms or vegetables | 100 days worth of [[rations xphb|Rations]] |
-| Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten [[healers kit xphb|Healer's Kits]] or one [[potion of healing xdmg|Potion of Healing]] |
-| Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of [[antitoxin xphb|Antitoxin]] or one vial of [[basic poison xphb|Basic Poison]] |
+| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [[perfume-xphb (items)]], or ten [[Candle Xphb]] |
+| Food | Garden of delicious mushrooms or vegetables | 100 days worth of [[rations-xphb (items)]] |
+| Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten [[healers-kit-xphb (items)]] or one [[Potion of Healing Xdmg]] |
+| Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of [[antitoxin-xphb (items)]] or one vial of [[Basic Poison Xphb]] |
 ^garden-types
 
 ## Enlarging the Facility

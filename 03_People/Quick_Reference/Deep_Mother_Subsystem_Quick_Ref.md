@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Deep_Mother_Subsystem - Quick Reference
 
 ## Key Info

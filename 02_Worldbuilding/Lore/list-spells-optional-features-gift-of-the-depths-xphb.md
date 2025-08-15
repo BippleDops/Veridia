@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # list-spells-optional-features-gift-of-the-depths-xphb
@@ -22,7 +22,7 @@ The full nature of list-spells-optional-features-gift-of-the-depths-xphb involve
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of list-spells-optional-features-gift-of-the-depths-xphb trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to list-spells-optional-features-gift-of-the-depths-xphb are various o
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view list-spells-optional-features-gift-of-the-depths-xphb through their own cultural lenses:
+Different [[Groups]] view list-spells-optional-features-gift-of-the-depths-xphb through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of list-spells-optional-features-gift-of-the-depths-xphb:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How list-spells-optional-features-gift-of-the-depths-xphb has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate list-spells-optional-features-gift-of-the-depths-xphb into g
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways list-spells-optional-features-gift-of-the-depths-xphb might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,17 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #list-spells-optional-features-gift-of-the-depths-xphb
+*Tags*: [[#General]] #worldbuilding #list-spells-optional-features-gift-of-the-depths-xphb
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

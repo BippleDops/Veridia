@@ -37,18 +37,18 @@ world: Both
 
 | Race | Base Height | Height Modifier | Base Weight | Weight Modifier |
 |------|-------------|-----------------|-------------|-----------------|
-| [[human xphb|Human]] | 4'8" | +`2d10` | 110 lb. | × (`2d4`) lb. |
-| [[dwarf xphb|Dwarf (hill)]] | 3'8" | +`2d4` | 115 lb. | × (`2d6`) lb. |
-| [[dwarf xphb|Dwarf (mountain)]] | 4' | +`2d4` | 130 lb. | × (`2d6`) lb. |
-| [[elf xphb|Elf (high)]] | 4'6" | +`2d10` | 90 lb. | × (`d4`) lb. |
-| [[elf xphb|Elf (wood)]] | 4'6" | +`2d10` | 100 lb. | × (`d4`) lb. |
-| [[elf xphb|Elf (drow)]] | 4'5" | +`2d6` | 75 lb. | × (`d6`) lb. |
-| [[halfling xphb|Halfling]] | 2'7" | +`2d4` | 35 lb. | × 1 lb |
-| [[dragonborn xphb|Dragonborn]] | 5'6" | +`2d8` | 175 lb. | × (`2d6`) lb. |
-| [[gnome xphb|Gnome]] | 2' 11" | +`2d4` | 35 lb. | × 1 lb. |
-| [[half elf|Half elf]] | 4'9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
-| [[half orc|Half orc]] | 4'10" | +`2d10` | 140 lb. | × (`2d6`) lb. |
-| [[tiefling xphb|Tiefling]] | 4 '9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
+| [[Human Xphb]] | 4'8" | +`2d10` | 110 lb. | × (`2d4`) lb. |
+| [[Dwarf Xphb]] | 3'8" | +`2d4` | 115 lb. | × (`2d6`) lb. |
+| [[Dwarf Xphb]] | 4' | +`2d4` | 130 lb. | × (`2d6`) lb. |
+| [[elf-xphb (races)]] | 4'6" | +`2d10` | 90 lb. | × (`d4`) lb. |
+| [[elf-xphb (races)]] | 4'6" | +`2d10` | 100 lb. | × (`d4`) lb. |
+| [[elf-xphb (races)]] | 4'5" | +`2d6` | 75 lb. | × (`d6`) lb. |
+| [[Halfling Xphb]] | 2'7" | +`2d4` | 35 lb. | × 1 lb |
+| [[dragonborn-xphb (races)]] | 5'6" | +`2d8` | 175 lb. | × (`2d6`) lb. |
+| [[gnome-xphb (races)]] | 2' 11" | +`2d4` | 35 lb. | × 1 lb. |
+| [[Half Elf]] | 4'9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
+| [[Half Orc]] | 4'10" | +`2d10` | 140 lb. | × (`2d6`) lb. |
+| [[List Spells Races Tiefling Xphb]] | 4 '9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
 ^random-height-and-weight
 
 ## 🔧 Deep Evaluation Improvements

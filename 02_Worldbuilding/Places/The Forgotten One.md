@@ -1,7 +1,7 @@
 ---
 
 title: The Forgotten One
-type: Location
+type: [[location]]
 tags:
 - mystery
 - aquabyssos
@@ -9,7 +9,7 @@ tags:
 - ruins
 - forgotten
 - memory
-- content/lore
+- content/[[Lore]]
 - content/location
 - place
 - active
@@ -24,9 +24,9 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
-MyCategory: Places
+MyCategory: [[Places]]
 MyContainer: None
 access: restricted
 created_by: auto-stub
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -114,11 +114,11 @@ The location shifts between being a sentient entity, an ancient ruin, a temporal
 
 ### The Approach
 
-The journey to The Forgotten One begins in the [[The Hadal Depths]], where the ocean floor drops away into trenches that seem to extend beyond physical possibility. As explorers descend, they notice their equipment beginning to malfunction - not broken, but operating in ways that feel somehow wrong.
+The journey to The Forgotten One begins in the [[The [[Hadal Depths]]]], where the ocean floor drops away into trenches that seem to extend beyond physical possibility. As explorers descend, they notice their equipment beginning to malfunction - not broken, but operating in ways that feel somehow wrong.
 
 **Environmental Changes**:
 - **Memory Fog**: A supernatural mist that causes explorers to forget why they came
-- **Temporal Slippage**: Time moves inconsistently, with minutes feeling like hours or vice versa
+- **Temporal Slippage**: [[Time]] moves inconsistently, with minutes feeling like hours or vice versa
 - **Reality Drift**: Physical laws begin operating by different, forgotten principles
 - **Emotional Void**: Progressive loss of the ability to feel or form new memories
 - **Documentation Failure**: Written records begin changing or erasing themselves
@@ -126,9 +126,9 @@ The journey to The Forgotten One begins in the [[The Hadal Depths]], where the o
 **Navigation Hazards**:
 - **The Forgetting Current**: Water that flows upward, carrying away thoughts and intentions
 - **Memory Whirlpools**: Vortices of water that drain mental capacity instead of physical objects
-- **Concept Reefs**: Coral-like formations made of crystallized forgotten ideas
+- **Concept Reefs**: [[Coral]]-like formations made of crystallized forgotten ideas
 - **Paradox Trenches**: Chasms that exist but cannot be perceived directly
-- ** Pressure Zones**: Areas where water pressure exists as a negative concept
+- ** [[Pressure Zones]]**: Areas where water pressure exists as a negative concept
 
 ### The Site Itself
 
@@ -163,7 +163,7 @@ The Forgotten One operates on principles that seem to predate current reality. I
 
 **Stage 1 - Peripheral Forgetting** (0-10 minutes):
 - Minor memory lapses and confusion
-- Difficulty recalling recent events
+- Difficulty recalling [[Recent Events]]
 - Equipment malfunction begins
 - Save vs. Wisdom DC 12 or lose memory of last hour
 
@@ -187,7 +187,7 @@ The Forgotten One operates on principles that seem to predate current reality. I
 
 **Stage 5 - Total Nonexistence** (2+ hours):
 - Complete erasure from memory and reality
-- Other people forget the person ever existed
+- Other [[People]] forget the person ever existed
 - No save - permanent removal from existence
 - Only divine intervention or wish magic can restore
 
@@ -199,12 +199,12 @@ The Forgotten One has evolved (or was designed with) multiple layers of protecti
 - **Selective Amnesia**: Important details about the site are automatically forgotten
 - **Misdirection Fields**: Cause explorers to unconsciously avoid the area
 - **False Memory Implantation**: Replace true memories with harmless substitutes
-- **Temporal Displacement**: Cause visitors to arrive at different times than intended
+- **[[Temporal Displacement]]**: Cause visitors to arrive at different times than intended
 - **Reality Anchors**: Prevent magical divination or scrying
 
 **Guardian Entities**:
 - **The Unnamed**: Beings that exist but cannot be remembered or described
-- **Memory Wraiths**: Spirits composed of forgotten experiences
+- **[[Memory Wraiths]]**: Spirits composed of forgotten experiences
 - **Void Swimmers**: Creatures that phase in and out of existence
 - **Echo Servants**: Entities that repeat forgotten conversations and events
 - **The Last Witness**: A singular guardian that remembers what others cannot
@@ -225,7 +225,7 @@ Specialized gear has been developed for exploration, with limited success:
 **Leader**: [[Navigator Sage Driftwood]]
 **Size**: Estimated 12-person team
 **Outcome**: Only Navigator Driftwood returned, with no memory of the expedition
-**Evidence**: Driftwood's journal contains blank pages dated during the missing period
+**[[Evidence]]**: Driftwood's journal contains blank pages dated during the missing period
 **Legacy**: Standard protocols for deep trench exploration developed
 
 ### The Academic Expedition
@@ -252,20 +252,20 @@ Specialized gear has been developed for exploration, with limited success:
 ### The Divine Mission
 
 **Date**: Six months ago
-**Leader**: [[Battle Priest Cassius Depthshield]]
+**Leader**: [[Battle Priest Cassius Depth[[Shield]]]]
 **Purpose**: Attempted exorcism or cleansing of the site
 **Size**: 4 battle clerics and 2 paladins
 **Outcome**: All returned, but claim they never left the city
-**Anomaly**: Divine magic detected significant conflict, but no memories remain
+**Anomaly**: [[Divine Magic]] detected significant conflict, but no memories remain
 **Consequence**: The priests now preach sermons about concepts they can't define
 
 ### Academic Theories
 
 **The Forgotten Civilization Hypothesis**
 - The site represents ruins of a pre-cataclysmic civilization
-- Their technology or magic involved memory manipulation
-- The Great Drowning may have been caused by their experiments with forgetting
-- Cross-references with [[12_Research/D&D_Statblocks/Memoriam   The Forgotten Continent]]
+- Their technology or magic involved [[Memory Manipulation]]
+- The [[Great Drowning]] may have been caused by their experiments with forgetting
+- Cross-references with [[12 Research]]
 
 **The Conceptual Weapon Theory**
 - Created as a weapon that attacks memory and identity
@@ -274,7 +274,7 @@ Specialized gear has been developed for exploration, with limited success:
 - Potentially still active and waiting for commands
 
 **The Natural Phenomenon Explanation**
-- Result of unique magical conditions in the deep trenches
+- Result of unique magical conditions in the [[Deep Trenches]]
 - Intersection of temporal and memory-affecting magical fields
 - May be growing stronger over time
 - Could represent a fundamental flaw in reality itself
@@ -287,9 +287,9 @@ Specialized gear has been developed for exploration, with limited success:
 
 ### Mystical Interpretations
 
-**The Memory Farmers** believe the site is a natural harvesting ground where forgotten memories accumulate over time, making it potentially valuable for their operations.
+**The [[Memory Farmers]]** believe the site is a natural harvesting ground where forgotten memories accumulate over time, making it potentially valuable for their operations.
 
-**The Recursion Cult** claims the site exists in all possible realities simultaneously, making it a nexus point for their dimensional activities.
+**[[The Recursion Cult]]** claims the site exists in all possible realities simultaneously, making it a nexus point for their dimensional activities.
 
 **Temple scholars** theorize it may be a test or trial created by divine powers, designed to teach about the nature of existence and identity.
 
@@ -297,9 +297,9 @@ Specialized gear has been developed for exploration, with limited success:
 
 **Pressure Anomalies**
 - Water pressure fluctuates unpredictably
-- Can range from surface pressure to crushing depths instantly
+- Can range from surface pressure to [[Crushing Depths]] instantly
 - Affects both equipment and living tissue
-- **Mechanical Effect**: Constitution saves DC 16 every 10 minutes or take 2d6 pressure damage
+- **Mechanical Effect**: Constitution saves DC 16 every 10 minutes or take [[2d6]] pressure damage
 
 **Temperature Voids**
 - Areas where the concept of temperature doesn't exist
@@ -311,7 +311,7 @@ Specialized gear has been developed for exploration, with limited success:
 - Gravity may point in multiple directions simultaneously
 - Can cause disorientation and motion sickness
 - Makes navigation extremely difficult
-- **Mechanical Effect**: Movement speed reduced by half, Dexterity saves at disadvantage
+- **Mechanical Effect**: Movement speed reduced by half, Dexterity saves at [[Disadvantage]]
 
 ### Psychological Hazards
 
@@ -371,7 +371,7 @@ Various religious orders have developed different doctrines regarding The Forgot
 
 **Reform Movement**: Believes the site may contain divine revelation that could transform understanding of existence and memory.
 
-**Heretical Sects**: Worship the concept of forgetting itself, seeing it as a path to liberation from painful memories and identity.
+**Heretical Sects**: Worship the concept of forgetting itself, seeing it as a [[path]] to liberation from painful memories and identity.
 
 ### Legal Status
 
@@ -381,7 +381,7 @@ The [[Parliament of Echoes]] has established specific laws regarding The Forgott
 - **Information Suppression**: Public discussion of specific details is discouraged
 - **Victim Compensation**: Families of those lost receive state support
 - **Research Restrictions**: Academic study requires multiple oversight committees
-- **Emergency Protocols**: Established procedures for memory loss events
+- **[[Emergency Protocol]]s**: Established procedures for memory loss events
 
 ### Low-Level Adventures (Levels 1-4)
 
@@ -396,11 +396,11 @@ A vessel arrives in port with a crew that can't remember where they've been or w
 
 ### Mid-Level Adventures (Levels 5-9)
 
-**The Memory Merchant**
+**The Memory [[Merchant]]**
 Someone is selling memories that may have been recovered from The Forgotten One, but the memories contain dangerous knowledge that affects reality itself.
 
 **The Recursive Expedition**
-The party discovers evidence that they themselves led an expedition to The Forgotten One, but none of them remember it happening.
+[[The Party]] discovers evidence that they themselves led an expedition to The Forgotten One, but none of them remember it happening.
 
 **The Identity Crisis**
 Citizens of [[Port Meridian]] begin forgetting fundamental aspects of themselves, suggesting The Forgotten One's influence is spreading.
@@ -456,16 +456,16 @@ The Forgotten One is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Forgotten One as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten One.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -486,6 +486,34 @@ The Forgotten One is a notable location characterized by its unique features and
 
 ### Founding
 The Forgotten One was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -511,3 +539,39 @@ Key stop on spices trade route
 - A map reveals a betrayal about a local noble
 - A noble needs help finding before winter
 - A merchant needs help investigating before the new moon
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

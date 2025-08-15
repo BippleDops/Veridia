@@ -53,19 +53,19 @@ world: Both
 - **Components:** V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
-You create a 10-foot-radius, 20-foot-tall [[cylinder-area-of-effect-xphb|Cylinder]] of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the [[cylinder-area-of-effect-xphb|Cylinder]] intersects with the floor or other surface.
+You create a 10-foot-radius, 20-foot-tall [[Area of Effect Xphb]] of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the [[Area of Effect Xphb]] intersects with the floor or other surface.
 
 Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead. The circle affects a creature of the chosen type in the following ways:
 
-- The creature can't willingly enter the [[cylinder-area-of-effect-xphb|Cylinder]] by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
-- The creature has [[disadvantage xphb|Disadvantage]] on attack rolls against targets within the [[cylinder-area-of-effect-xphb|Cylinder]].  
-- Targets within the [[cylinder-area-of-effect-xphb|Cylinder]] can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition from the creature.  
+- The creature can't willingly enter the [[Area of Effect Xphb]] by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
+- The creature has [[Advantage Xphb]] on attack rolls against targets within the [[Area of Effect Xphb]].  
+- Targets within the [[Area of Effect Xphb]] can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition from the creature.  
 
-Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the [[cylinder-area-of-effect-xphb|Cylinder]] and protecting targets outside it.
+Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the [[Area of Effect Xphb]] and protecting targets outside it.
 
 **Using a Higher-Level Spell Slot.** The duration increases by 1 hour for each spell slot level above 3.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge "subclass=XGE;class=XPHB"|Ranger (Monster Slayer)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 293. Available in the SRD and the Free Rules (2024)*
 
@@ -109,3 +109,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

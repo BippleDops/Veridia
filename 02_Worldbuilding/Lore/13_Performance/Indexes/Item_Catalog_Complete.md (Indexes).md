@@ -22,7 +22,7 @@ modified: '2025-08-14'
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Regional Politics]]
 - Connected to: [[World Events]]
 

@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_25_Diplomacy_Example
 
----
+- --
 title: Session 25 Diplomacy Example
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Diplomatic Mission
 **Event:** Emergency peace summit between realms  
@@ -139,23 +139,23 @@ Tensions between Aquabyssos and Aethermoor reached breaking point when each real
 
 ### Player Feedback
 
-*"Felt like real diplomacy - complex and meaningful"* - Kestra's player
+* "Felt like real diplomacy - complex and meaningful"* - Kestra's player
 
-*"Loved how investigation and negotiation were intertwined"* - Thane's player
+* "Loved how investigation and negotiation were intertwined"* - Thane's player
 
-*"Great seeing character skills used in non-combat situations"* - Marcus's player
+* "Great seeing character skills used in non-combat situations"* - Marcus's player
 
-*"The cultural differences added great depth"* - Lyralei's player
+* "The cultural differences added great depth"* - Lyralei's player
 
-*"Perfect mix of roleplay and political intrigue"* - Serafina's player
+* "Perfect mix of roleplay and political intrigue"* - Serafina's player
 
----
+- --
 
-*Diplomatic sessions reward social skills and strategic thinking while advancing campaign goals through negotiation rather than combat.*
+* Diplomatic sessions reward social skills and strategic thinking while advancing campaign goals through negotiation rather than combat.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -167,11 +167,11 @@ Tensions between Aquabyssos and Aethermoor reached breaking point when each real
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -184,3 +184,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

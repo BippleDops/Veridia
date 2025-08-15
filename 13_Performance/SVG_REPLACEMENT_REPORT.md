@@ -1,3 +1,9 @@
+---
+
+tags: [location, place]
+type: location
+- --
+
 # SVG Replacement Report
 
 Generated: 2025-08-15T02:06:50.835Z
@@ -73,3 +79,37 @@ Generated: 2025-08-15T02:06:50.835Z
 - **void**: void, corruption, madness
 - **forest**: canopy, moss, bark
 - **dungeon**: stone, shadow, torch
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

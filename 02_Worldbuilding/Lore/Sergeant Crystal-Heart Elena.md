@@ -1,7 +1,7 @@
 ---
 
-title: Sergeant Crystal Heart Elena
-type: Lore
+title: Sergeant [[Crystal Heart]] Elena
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,15 +81,15 @@ Sergeant Crystal Heart Elena is a undersea element of the setting, known for bio
 
 Legends speak of Sergeant Crystal Heart Elena as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sergeant Crystal Heart Elena.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Sergeant Crystal-Heart Elena represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -99,7 +99,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## Plot Hooks
 
-- A merchant needs help finding before dawn
+- A [[Merchant]] needs help finding before dawn
 - A journal reveals a conspiracy about a local noble
 - A journal reveals the truth about a local noble
 - A prisoner has gone missing and chaos spreads

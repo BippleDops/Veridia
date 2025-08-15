@@ -47,9 +47,9 @@ This staff has 10 charges. While holding the staff, you can cast one of the spel
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cure wounds xphb|Cure Wounds]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
-| [[lesser restoration xphb|Lesser Restoration]] | 2 |
-| [[mass cure wounds xphb|Mass Cure Wounds]] | 5 |
+| [[mass-cure-wounds-xphb (spells)]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
+| [[Lesser Restoration Xphb]] | 2 |
+| [[mass-cure-wounds-xphb (spells)]] | 5 |
 ^spell-charge-cost
 
 ## 🔧 Deep Evaluation Improvements

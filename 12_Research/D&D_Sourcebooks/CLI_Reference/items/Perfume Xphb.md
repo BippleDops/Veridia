@@ -41,7 +41,7 @@ world: Both
 
 - **Cost**: 5 gp
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[advantage xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[Advantage Xphb]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
 
 *Source: Player's Handbook (2024) p. 227. Available in the SRD and the Free Rules (2024)*
 

@@ -1,7 +1,7 @@
 ---
 
 title: Crystal Resoce Theory
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -194,7 +194,7 @@ Ways to incorporate Crystal Resoce Theory into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -234,7 +234,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

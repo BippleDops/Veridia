@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[acid xphb|Acid]], [[alchemists fire xphb|Alchemist's Fire]], [[component pouch xphb|Component Pouch]], [[oil xphb|Oil]], [[paper xphb|Paper]], [[perfume xphb|Perfume]]  
+- **Craft.** [[Acid Xphb]], [[alchemists-fire-xphb (items)]], [[component-pouch-xphb (items)]], [[Oil Xphb]], [[Paper Xphb]], [[perfume-xphb (items)]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troglodyte-xmm-troglodyte-xmm.svg)
 
-# [[troglodyte xmm|Troglodyte]]
+# [[Troglodyte Xmm]]
 *Source: Monster Manual (2024) p. 309*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -92,12 +92,12 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "cr": "1/4"
 "traits":
   - "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
-      \ that starts its turn in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ that starts its turn in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the troglodyte. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to the Stench of all troglodytes for 1 hour."
     "name": "Stench"
-  - "desc": "While in sunlight, the troglodyte has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the troglodyte has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

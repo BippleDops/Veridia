@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-thonot-xmm-quaggoth-thonot-xmm.svg)
 
-# [[quaggoth thonot xmm|Quaggoth Thonot]]
+# [[quaggoth-thonot-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 251*  
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
@@ -93,8 +93,8 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "While [[bloodied xphb|Bloodied]], the\
-      \ quaggoth has [[advantage xphb|Advantage]]\
+  - "desc": "While [[bloodied-xphb (variant-rules)]], the\
+      \ quaggoth has [[Advantage Xphb]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
@@ -105,13 +105,13 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Claw"
   - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-      \ [[mage hand xphb|Mage Hand]] (the hand is Invisible),\
-      \ [[minor illusion xphb|Minor Illusion]]\n\n2/day:\
-      \ [[mind spike xphb|Mind Spike]]"
+      \ [[mage-hand-xphb (spells)]] (the hand is Invisible),\
+      \ [[Minor Illusion Xphb]]\n\n2/day:\
+      \ [[Pike Xphb]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The quaggoth casts [[feather fall xphb|Feather Fall]]\
-      \ or [[shield xphb|Shield]] in response to the spell's\
+  - "desc": "The quaggoth casts [[Feather Fall Xphb]]\
+      \ or [[Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (3/Day)"

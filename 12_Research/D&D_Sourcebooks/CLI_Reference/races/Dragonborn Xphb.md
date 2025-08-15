@@ -43,7 +43,7 @@ world: Both
 
 ### Draconic Ancestry
 
-Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[damage xphb|Damage]] [[resistance xphb|Resistance]] traits as well as your appearance.
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[Damage Xphb]] [[boon-of-energy-resistance-xphb (feats)]] traits as well as your appearance.
 
 **Draconic Ancestors**
 
@@ -63,13 +63,13 @@ Your lineage stems from a dragon progenitor. Choose the kind of dragon from the 
 
 ### Breath Weapon
 
-When you take the [[actions#Attack|Attack]] action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [[cone area of effect xphb|Cone]] or a 30-foot [[line area of effect xphb|Line]] that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [[proficiency xphb|Proficiency Bonus]]). On a failed save, a creature takes `d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
+When you take the [[actions#Attack|Attack]] action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [[Area of Effect Xphb]] or a 30-foot [[Area of Effect Xphb]] that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [[Proficiency Xphb]]). On a failed save, a creature takes `d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-You can use this Breath Weapon a number of times equal to your [[proficiency xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long rest xphb|Long Rest]].
+You can use this Breath Weapon a number of times equal to your [[Proficiency Xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]].
 
 ### Damage Resistance
 
-You have [[resistance xphb|Resistance]] to the damage type determined by your Draconic Ancestry trait.
+You have [[boon-of-energy-resistance-xphb (feats)]] to the damage type determined by your Draconic Ancestry trait.
 
 ### Darkvision
 
@@ -77,7 +77,7 @@ You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 ### Draconic Flight
 
-When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [[bonus action xphb|Bonus Action]], you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [[conditions#Incapacitated|Incapacitated]] condition. During that time, you have a [[fly speed xphb|Fly Speed]] equal to your [[speed xphb|Speed]]. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [[long rest xphb|Long Rest]].
+When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [[Action Xphb]], you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [[conditions#Incapacitated|Incapacitated]] condition. During that time, you have a [[Fly Speed Xphb]] equal to your [[Fly Speed Xphb]]. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [[long-rest-xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

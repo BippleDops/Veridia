@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-psion-xmm-thri-kreen-psion-xmm.svg)
 
-# [[thri kreen psion xmm|Thri kreen Psion]]
+# [[Thri Kreen Psion Xmm]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
@@ -109,9 +109,9 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Psionic Lance"
   - "desc": "The thri-kreen casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\nAt will: [[mage hand xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day each: [[detect thoughts xphb|Detect Thoughts]],\
-      \ [[sending xphb|Sending]], [[synaptic static xphb|Synaptic Static]]"
+      \ DC 15):\n\nAt will: [[mage-hand-xphb (spells)]]\
+      \ (the hand is Invisible)\n\n1/day each: [[detect-thoughts-xphb (spells)]],\
+      \ [[Sending Xphb]], [[synaptic-static-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

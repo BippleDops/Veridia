@@ -48,7 +48,7 @@ Turn ships into characters and haunted spaces. Hooks deeply into [[Aquabyssos|02
 - Add 12_Research-specific enhancement
 
 ## Mechanics
-- Horror Scenes grant XP to ship and crew; but drain Sanity Pool (see [[Vehicle_Core_Rules#6) Ship Sanity & Madness (Living/Conscious Vessels)|Ship Sanity]])
+- Horror Scenes grant XP to ship and crew; but drain Sanity Pool (see [[Vehicle_Core_Rules]])
 - Exorcism/Communion: Anchor rites vs. Deep Mother bargains
 
 Tables are expanded under [[Travel_Event_Table|Travel Event Table]].

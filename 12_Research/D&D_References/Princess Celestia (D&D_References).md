@@ -1,10 +1,12 @@
 ---
+
 title: Princess Celestia (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Princess Celestia
@@ -71,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

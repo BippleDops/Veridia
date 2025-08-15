@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-warrior-mpmm-sword-wraith-warrior-mpmm.svg)
 
-# [[sword wraith warrior mpmm|Sword Wraith Warrior]]
+# [[sword-wraith-warrior-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -68,7 +68,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[chain shirt xphb|chain shirt]], [[shield xphb|shield]]"
+"ac_class": "[[chain-shirt-xphb (items)]], [[Shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"

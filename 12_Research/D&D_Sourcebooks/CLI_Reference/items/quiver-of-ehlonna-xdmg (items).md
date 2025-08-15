@@ -38,7 +38,7 @@ world: Both
 
 - **Weight**: 2.0 lbs.
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [[arrow xphb|Arrows]], [[bolt xphb|Bolts]], or similar objects. The midsize compartment holds up to 18 [[javelin xphb|Javelins]] or similar objects. The longest compartment holds up to 6 long objects, such as bows, [[quarterstaff xphb|Quarterstaff's]], or [[spear xphb|Spears]].
+Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [[lightning-arrow-xphb (spells)]], [[witch-bolt-xphb (spells)]], or similar objects. The midsize compartment holds up to 18 [[javelin-xphb (items)]] or similar objects. The longest compartment holds up to 6 long objects, such as bows, [[Quarterstaff Xphb]], or [[Eldritch Spear Xphb]].
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 

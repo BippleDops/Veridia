@@ -173,11 +173,11 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[Aquabyssos
 
 #### Environmental Advantage
 **Terrain Utilization**
-- **[[02 Worldbuilding/Tactics/Underwater Concealment|02 Worldbuilding/Tactics/Underwater Concealment]]**: Using water depth and pressure for stealth
-- **[[02 Worldbuilding/Tactics/Current Manipulation|02 Worldbuilding/Tactics/Current Manipulation]]**: Controlling water flow for tactical advantage
-- **[[02 Worldbuilding/Tactics/Pressure Differential|02 Worldbuilding/Tactics/Pressure Differential]]**: Exploiting depth changes for surprise attacks
-- **[[02 Worldbuilding/Tactics/Thermal Layer Usage|02 Worldbuilding/Tactics/Thermal Layer Usage]]**: Using temperature variations for concealment
-- **[[02 Worldbuilding/Tactics/Acoustic Masking|02 Worldbuilding/Tactics/Acoustic Masking]]**: Sound manipulation for stealth movement
+- **[[Underwater Concealment]]**: Using water depth and pressure for stealth
+- **[[Current Manipulation]]**: Controlling water flow for tactical advantage
+- **[[02_Worldbuilding]]**: Exploiting depth changes for surprise attacks
+- **[[Thermal Layer Usage]]**: Using temperature variations for concealment
+- **[[02_Worldbuilding]]**: Sound manipulation for stealth movement
 
 #### The Tidal Ambush
 **Signature Maneuver**

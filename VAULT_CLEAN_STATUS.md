@@ -7,7 +7,7 @@ tags:
 - final
 created: '2024-08-14'
 modified: '2024-08-14'
----
+- --
 
 ## 🏆 Root Directory: PRISTINE
 
@@ -59,7 +59,53 @@ Your vault is now:
 4. **SCALABLE** - Ready for growth
 5. **PROFESSIONAL** - Presentation-ready
 
----
+- --
 
-*The vault root is now pristine and perfectly organized.*
-*Last cleaned: August 14, 2024*
+* The vault root is now pristine and perfectly organized.*
+* Last cleaned: August 14, 2024*
+
+## Pronunciation Guide
+- **Everything**: [EVERYTHING]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

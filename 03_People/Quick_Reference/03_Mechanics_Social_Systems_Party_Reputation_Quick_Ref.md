@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Social_Systems_Party_Reputation - Quick Reference
 
 ## Key Info

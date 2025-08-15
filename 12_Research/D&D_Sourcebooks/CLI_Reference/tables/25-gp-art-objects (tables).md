@@ -39,15 +39,15 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[silver ewer xdmg|Silver ewer]] |
-| 2 | [[carved bone statuette xdmg|Carved bone statuette]] |
-| 3 | [[gold bracelet xdmg|Small gold bracelet]] |
-| 4 | [[cloth of gold vestments xdmg|Cloth-of-gold vestments]] |
+| 1 | [[silver-ewer-xdmg (items)]] |
+| 2 | [[Carved Bone Statuette Xdmg]] |
+| 3 | [[bejeweled-gold-bracelet-xdmg (items)]] |
+| 4 | [[Cloth of Gold Vestments Xdmg]] |
 | 5 | [[black-velvet-mask-stitched-with-silver-thread-xdmg|Black velvet mask stitched with silver thread]] |
-| 6 | [[copper chalice with silver filigree xdmg|Copper chalice with silver filigree]] |
-| 7 | [[pair of engraved bone dice xdmg|Pair of engraved bone dice]] |
+| 6 | [[Copper Chalice With Silver Filigree Xdmg]] |
+| 7 | [[Pair of Engraved Bone Dice Xdmg]] |
 | 8 | [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg|Small mirror set in a painted wooden frame]] |
-| 9 | [[embroidered silk handkerchief xdmg|Embroidered silk handkerchief]] |
+| 9 | [[embroidered-silk-handkerchief-xdmg (items)]] |
 | 10 | [[gold-locket-with-a-painted-portrait-inside-xdmg|Gold locket with a painted portrait inside]] |
 ^25-gp-art-objects
 

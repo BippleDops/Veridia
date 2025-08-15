@@ -1,13 +1,13 @@
 ---
 
 title: The Abyssal Tavern
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- dimensional nexus (both realms)
+- [[Dimensional Nexus]] (both realms)
 - content/lore
 - world/both
-- content/location
+- content/[[location]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -89,11 +89,11 @@ The Abyssal Tavern is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Abyssal Tavern as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Abyssal Tavern.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -106,12 +106,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is hunting information for power
 - A prisoner has gone missing and war looms
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

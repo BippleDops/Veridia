@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-specter-xmm-specter-xmm.svg)
 
-# [[specter xmm|Specter]]
+# [[specter-xmm (undead)]]
 *Source: Monster Manual (2024) p. 290. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -111,15 +111,15 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "cr": "1"
 "traits":
   - "desc": "The specter can move through other creatures and objects as if they were\
-      \ [[difficult terrain xphb|Difficult Terrain]].\
+      \ [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, the specter has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the specter has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage.\
-      \ If the target is a creature, its [[hit points xphb|Hit Point]]\
+      \ If the target is a creature, its [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Life Drain"
 "source":

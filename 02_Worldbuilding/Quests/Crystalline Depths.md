@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Quests/Crystalline Depths
+title: 02_Worldbuilding/[[Quests]]/Crystalline Depths
 type: adventure
 tags:
 - adventure
@@ -71,7 +71,7 @@ An exciting quest that challenges heroes to save the realm.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -91,9 +91,9 @@ An exciting quest that challenges heroes to save the realm.
 ## Treasure Parcels
 
 ### Parcel A (Combat Victory)
-- 2d6 × 10 gp
+- [[2d6]] × 10 gp
 - Potion of Healing
-- Clue to next location
+- Clue to next [[location]]
 
 ### Parcel B (Exploration)
 - Magic item (roll on Table F)
@@ -116,3 +116,7 @@ An exciting quest that challenges heroes to save the realm.
 - Final confrontation
 - Consequences
 - Epilogue hooks
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

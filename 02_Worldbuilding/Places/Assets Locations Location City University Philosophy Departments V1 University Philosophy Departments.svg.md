@@ -202,3 +202,8 @@ Key stop on metals trade route
 - An heirloom has gone missing and war looms
 - Strange dreams suggest a portal
 - An heirloom has gone missing and evil awakens
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

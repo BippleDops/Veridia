@@ -1,7 +1,7 @@
 ---
 
 title: Lord Reginald Seaworthy
-type: Location
+type: [[location]]
 tags:
 - aquabyssos
 - world/surface
@@ -10,7 +10,7 @@ tags:
 - status/complete
 - political
 - content/location
-- content/npc
+- content/[[Npc]]
 - influential
 - place
 - active
@@ -26,14 +26,14 @@ status: complete
 race: Human
 class: Noble
 location: '[[Royal Palace]] - Diplomatic Wing'
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Diplomat
 MyContainer: None
 category: Noble Diplomat
 created_by: auto-stub
 danger_level: Low
-faction: '[[Parliament of Echoes]] - Diplomatic Corps'
+faction: '[[Parliament of Echoes]] - [[Diplomatic Corps]]'
 influence: High
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.981919+00:00'
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -113,7 +113,7 @@ improvements: 20
 
 **Lord Reginald Seaworthy** serves as [[Aquabyssos]]' primary diplomatic liaison with surface realms, particularly [[Aethermoor]], bringing decades of experience in inter-realm relations and cultural mediation to his position. As one of the few surface-born individuals to achieve high rank in [[Aquabyssos]] government, his unique perspective and cultural fluency make him invaluable for navigating the complex relationships between aquatic and aerial civilizations.
 
-Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thirty years ago as a trade representative and gradually evolved into a diplomatic specialist as relations between the realms became more complex. His success in preventing several potential conflicts through skilled negotiation earned him noble title and his current position as head of inter-realm diplomatic affairs.
+Originally from a mari[[Time]] [[Merchant]] family, Reginald came to [[Aquabyssos]] thirty years ago as a trade representative and gradually evolved into a diplomatic specialist as relations between the realms became more complex. His success in preventing several potential conflicts through skilled negotiation earned him noble title and his current position as head of inter-realm diplomatic affairs.
 
 ## Physical Description and Background
 
@@ -129,12 +129,12 @@ Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thir
 ### Primary Functions
 **Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [[Aquabyssos]] and surface realms  
 **Cultural Interpretation**: Helping both sides understand cultural context and avoiding misunderstandings  
-**Crisis Management**: Mediating disputes and preventing minor conflicts from escalating into major problems  
+**[[Crisis Management]]**: Mediating disputes and preventing minor conflicts from escalating into major problems  
 **Policy Development**: Advising [[Aquabyssos]] government on foreign relations strategy and implementation  
 
 ### Key Achievements
 **Trade Agreement Expansion**: Successfully negotiated multiple beneficial trade deals increasing commerce between realms  
-**Cultural Exchange Programs**: Established educational and artistic exchange initiatives building mutual understanding  
+**[[[[Cultural Exchange]] Programs]]**: Established educational and artistic exchange [[Initiative]]s building mutual understanding  
 **Conflict Prevention**: Prevented three potential diplomatic crises through skillful mediation and compromise  
 **Alliance Building**: Helped create cooperative frameworks for addressing shared challenges and opportunities  
 
@@ -147,23 +147,23 @@ Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thir
 **Languages**: Common, Primordial (Aquan), Celestial, Draconic, Diplomatic protocols  
 **CR**: 2 (450 XP)  
 
-**Special Abilities**: Diplomatic immunity, Cultural mediation, Information networks, Crisis negotiation, Noble connections
+**Special Abilities**: [[Diplomatic Immunity]], Cultural mediation, Information networks, Crisis negotiation, Noble connections
 
 ### The Diplomatic Crisis (Levels 4-6)
-A major misunderstanding threatens to derail crucial negotiations between [[Aquabyssos]] and [[Aethermoor]]. Lord Seaworthy needs the party's help to investigate the true cause and find a solution that preserves both honor and practical interests.
+A major misunderstanding threatens to derail crucial negotiations between [[Aquabyssos]] and [[Aethermoor]]. Lord Seaworthy needs [[The Party]]'s help to investigate the true cause and find a solution that preserves both honor and practical interests.
 
 ### The Cultural Exchange (Levels 2-4)
 Seaworthy is organizing a major cultural festival to improve relations between the realms, but various complications threaten the event. The party must help resolve logistical, political, and cultural challenges to ensure success.
 
 ### The Secret Alliance (Levels 6-8)
-Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aquabyssos]] and [[Aethermoor]]. He needs discrete agents to investigate while maintaining diplomatic relations and gathering intelligence about the threat.
+Lord Seaworthy discovers [[Evidence]] of a secret alliance forming against both [[Aquabyssos]] and [[Aethermoor]]. He needs discrete agents to investigate while maintaining diplomatic relations and gathering intelligence about the threat.
 
 ## Professional Network
 
-**Government Contacts**: [[Parliament of Echoes]] leadership, foreign ministry officials, intelligence services  
+**Government Contacts**: [[Parliament of Echoes]] leadership, foreign ministry officials, [[Intelligence Services]]  
 **Diplomatic Corps**: [[Ambassador Lysandra Silvertonge]], embassy staff, cultural attachés  
-**Surface Connections**: Former colleagues, merchant contacts, political allies in various realms  
-**Local Relationships**: [[Aquabyssos]] nobility, cultural leaders, academic institutions  
+**Surface Connections**: Former colleagues, merchant contacts, political [[Allies]] in various realms  
+**Local Relationships**: [[Aquabyssos]] nobility, cultural leaders, [[Academic Institutions]]  
 
 ---
 
@@ -174,20 +174,20 @@ Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aq
 
 Lord Reginald Seaworthy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Lord Reginald Seaworthy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Reginald Seaworthy.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -205,6 +205,34 @@ Lord Reginald Seaworthy is a notable location characterized by its unique featur
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -246,3 +274,40 @@ Ongoing situations affecting Lord Reginald Seaworthy:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

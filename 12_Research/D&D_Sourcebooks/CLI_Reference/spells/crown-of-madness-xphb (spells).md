@@ -56,7 +56,7 @@ A spectral crown appears on the [[conditions#Charmed|Charmed]] target's head, an
 
 On your later turns, you must take the [[actions#Magic|Magic]] action to maintain control of the target, or the spell ends.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 259*
 
@@ -98,3 +98,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[crown-of-madness-xphb (spells)-phb]]` in CLI_Reference/spells/

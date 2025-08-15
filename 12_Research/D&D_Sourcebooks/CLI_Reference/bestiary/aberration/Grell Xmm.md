@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grell-xmm-grell-xmm.svg)
 
-# [[grell xmm|Grell]]
+# [[Grell Xmm]]
 *Source: Monster Manual (2024) p. 157*  
 
 ## 🔧 Deep Evaluation Improvements

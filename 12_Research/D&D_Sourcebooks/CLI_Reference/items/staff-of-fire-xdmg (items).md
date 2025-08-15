@@ -42,7 +42,7 @@ world: Both
 - **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [[resistance xphb|Resistance]] to Fire damage while you hold this staff.
+You have [[boon-of-energy-resistance-xphb (feats)]] to Fire damage while you hold this staff.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -62,9 +62,9 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[burning hands xphb|Burning Hands]] | 1 |
-| [[fireball xphb|Fireball]] | 3 |
-| [[wall of fire xphb|Wall of Fire]] | 4 |
+| [[Burning Hands Xphb]] | 1 |
+| [[fireball-xphb (spells)]] | 3 |
+| [[wall-of-fire-xphb (spells)]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

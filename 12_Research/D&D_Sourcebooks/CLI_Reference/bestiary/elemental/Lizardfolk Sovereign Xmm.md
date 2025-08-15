@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lizardfolk-sovereign-xmm-lizardfolk-sovereign-xmm.svg)
 
-# [[lizardfolk sovereign xmm|Lizardfolk Sovereign]]
+# [[Lizardfolk Sovereign Xmm]]
 *Source: Monster Manual (2024) p. 197*  
 
 Lizardfolk sovereigns undergo magical rites that imbue them with fantastic strength and magic from the Elemental Plane of Earth. In some, though, it also unlocks a primal viciousness.
@@ -99,7 +99,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage.\
       \ If the target is a creature that isn't a Construct or an Undead, the lizardfolk\
-      \ gains [[temporary hit points xphb|Temporary Hit Points]]\
+      \ gains [[temporary-hit-points-xphb (variant-rules)]]\
       \ equal to the damage dealt."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
@@ -107,8 +107,8 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
       \ condition."
     "name": "Earthen Maul"
 "bonus_actions":
-  - "desc": "The lizardfolk moves up to its [[speed xphb|Speed]]\
-      \ or [[swim speed xphb|Swim Speed]] straight\
+  - "desc": "The lizardfolk moves up to its [[Fly Speed Xphb]]\
+      \ or [[swim-speed-xphb (variant-rules)]] straight\
       \ toward an enemy it can see."
     "name": "Charge"
 "source":

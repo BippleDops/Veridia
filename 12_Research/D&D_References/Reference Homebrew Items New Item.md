@@ -14,6 +14,12 @@ Reference Homebrew Items New Item is a notable item with both practical use and 
 
 ## Description
 **Type**: Wondrous Item
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
 **Rarity**: Uncommon
 **Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 

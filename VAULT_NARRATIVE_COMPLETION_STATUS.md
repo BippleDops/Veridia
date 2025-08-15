@@ -8,7 +8,7 @@ tags:
 - final
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # 🎭 VAULT NARRATIVE COMPLETION STATUS
 
@@ -235,15 +235,59 @@ Your vault has achieved narrative critical mass. Every element now generates sto
 
 **Welcome to your Living Campaign World.**
 
----
+- --
 
 ## Navigation
 - [[VAULT_MASTER_INDEX]] - Central hub
-- [[VAULT UPDATES]] - Complete changelog
+- [[VAULT_UPDATES]] - Complete changelog
 - [[NARRATIVE_DEEPENING_MASTER_PROMPT]] - Enhancement blueprint
 - [[00 Indexes]] - All documentation
 
----
+- --
 
-*Status confirmed: January 15, 2025*
-*Your narrative ecosystem is alive.*
+* Status confirmed: January 15, 2025*
+* Your narrative ecosystem is alive.*
+
+## Pronunciation Guide
+- **With**: [WITH]
+- **Weather**: [WEATHER]
+- **Depth**: [DEPTH]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

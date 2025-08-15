@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-infant-basilisk-oota-infant-basilisk-oota.svg)
 
-# [[infant basilisk oota|Infant Basilisk]]
+# [[infant-basilisk-oota (monstrosity)]]
 *Source: Out of the Abyss p. 100*  
 
 ```statblock

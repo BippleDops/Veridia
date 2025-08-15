@@ -52,7 +52,7 @@ world: Both
 - **Components:** V, S, M (a bit of fleece)
 - **Duration:** Concentration, up to 1 minute
 
-You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [[cube-area-of-effect-xphb|Cube]] and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
+You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [[Cube Area of Effect Xphb]] and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
 The target can take a [[actions#Study|Study]] action to examine the phantasm with an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
@@ -60,7 +60,7 @@ While affected by the spell, the target treats the phantasm as if it were real a
 
 An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal `2d8` Psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm. The target perceives the damage as a type appropriate to the illusion.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 304. Available in the SRD and the Free Rules (2024)*
 
@@ -109,3 +109,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[phantasmal-force-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -46,7 +46,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[griffon xmm|Griffon]]
+# [[griffon-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 159. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

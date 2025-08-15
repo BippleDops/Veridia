@@ -40,16 +40,16 @@ world: Both
 
 | dice: d10 | Stone Description |
 |-----------|-------------------|
-| 1 | [[amber xdmg|Amber]] (transparent watery gold to rich gold) |
-| 2 | [[amethyst xdmg|Amethyst]] (transparent deep purple) |
-| 3 | [[chrysoberyl xdmg|Chrysoberyl]] (transparent yellow-green to pale green) |
-| 4 | [[coral xdmg|Coral]] (opaque crimson) |
-| 5 | [[garnet xdmg|Garnet]] (transparent red, brown-green, or violet) |
-| 6 | [[jade xdmg|Jade]] (translucent light green, deep green, or white) |
-| 7 | [[jet xdmg|Jet]] (opaque deep black) |
-| 8 | [[pearl xdmg|Pearl]] (opaque lustrous white, yellow, or pink) |
-| 9 | [[spinel xdmg|Spinel]] (transparent red, red-brown, or deep green) |
-| 10 | [[tourmaline xdmg|Tourmaline]] (transparent pale green, blue, brown, or red) |
+| 1 | [[Amber Xdmg]] (transparent watery gold to rich gold) |
+| 2 | [[Amethyst Xdmg]] (transparent deep purple) |
+| 3 | [[Chrysoberyl Xdmg]] (transparent yellow-green to pale green) |
+| 4 | [[coral-xdmg (items)]] (opaque crimson) |
+| 5 | [[garnet-xdmg (items)]] (transparent red, brown-green, or violet) |
+| 6 | [[jade-xdmg (items)]] (translucent light green, deep green, or white) |
+| 7 | [[jet-xdmg (items)]] (opaque deep black) |
+| 8 | [[black-pearl-xdmg (items)]] (opaque lustrous white, yellow, or pink) |
+| 9 | [[spinel-xdmg (items)]] (transparent red, red-brown, or deep green) |
+| 10 | [[tourmaline-xdmg (items)]] (transparent pale green, blue, brown, or red) |
 ^100-gp-gemstones
 
 ## 🔧 Deep Evaluation Improvements

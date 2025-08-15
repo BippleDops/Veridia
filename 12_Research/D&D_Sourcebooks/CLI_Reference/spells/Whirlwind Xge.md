@@ -53,7 +53,7 @@ A creature must make a Dexterity saving throw the first time on a turn that it e
 
 A [[conditions#Restrained|restrained]] creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer [[conditions#Restrained|restrained]] by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 171*
 

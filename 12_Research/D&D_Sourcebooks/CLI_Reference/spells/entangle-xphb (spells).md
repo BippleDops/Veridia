@@ -46,11 +46,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into [[difficult-terrain-xphb|Difficult Terrain]]. They disappear when the spell ends.
+Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into [[Difficult Terrain Xphb]]. They disappear when the spell ends.
 
 Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [[conditions#Restrained|Restrained]] condition until the spell ends. A [[conditions#Restrained|Restrained]] creature can take an action to make a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [[conditions#Restrained|Restrained]] by them.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the SRD and the Free Rules (2024)*
 
@@ -90,3 +90,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[entangle-xphb (spells)-phb]]` in CLI_Reference/spells/

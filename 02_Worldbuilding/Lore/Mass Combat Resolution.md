@@ -4,7 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
+- [[Lore]]
 title: Mass Combat Resolution
 type: lore
 updated: 2025-08-14
@@ -20,12 +20,12 @@ Mass Combat Resolution represents a significant element within the campaign worl
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,12 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

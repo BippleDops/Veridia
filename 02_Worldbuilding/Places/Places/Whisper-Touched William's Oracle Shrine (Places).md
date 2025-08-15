@@ -12,7 +12,28 @@ type: location
 updated: 2025-08-14
 ---
 
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
 # Whisper-Touched William's Oracle Shrine
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
+
+## Economy
+- **Primary Exports**: Local goods
+- **Primary Imports**: Necessities
+- **Trade Partners**: Neighboring settlements
+- **Currency**: Standard coinage
 
 ## Overview
 Whisper-Touched William's Oracle Shrine serves as an important location within the realm, offering unique opportunities and challenges.
@@ -25,6 +46,13 @@ The approach to Whisper-Touched William's Oracle Shrine reveals its significance
 
 ### Interior
 Within Whisper-Touched William's Oracle Shrine, visitors find a carefully designed space serving multiple purposes.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
 
 ## History
 Established generations ago, Whisper-Touched William's Oracle Shrine has witnessed significant events that shaped the region.
@@ -55,3 +83,40 @@ Recent developments have brought new attention to Whisper-Touched William's Orac
 
 ## DM Notes
 *Whisper-Touched William's Oracle Shrine can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

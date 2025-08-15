@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-illithilich-vgm-illithilich-vgm.svg)
 
-# [[illithilich vgm|Illithilich]]
+# [[Illithilich Vgm]]
 *Source: Volo's Guide to Monsters p. 172*  
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
@@ -93,7 +93,7 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 ## Variant: Mind Flayer Lich (Illithilich)
 
-The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [[imprisonment xphb|imprisonment]] spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
+The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [[Imprisonment Xphb]] spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
 - It has a challenge rating of 22 (41,000 XP).  
 - It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
@@ -183,33 +183,33 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 "traits":
   - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich\
-      \ has the following wizard spells prepared:\n\nCantrips (at will): [[mage hand xphb|mage\]]
-      \ hand]], [[prestidigitation xphb|prestidigitation]],\
-      \ [[ray of frost xphb|ray of frost]]\n\n1st level\
-      \ (4 slots): [[detect magic xphb|detect magic]],\
-      \ [[magic missile xphb|magic missile]], [[shield xphb|shield]],\
-      \ [[thunderwave xphb|thunderwave]]\n\n2nd level\
-      \ (3 slots): [[detect thoughts xphb|detect thoughts]],\
-      \ [[invisibility xphb|invisibility]], [[melfs acid arrow xphb|Melf's acid\]]
-      \ arrow]], [[mirror image xphb|mirror image]]\n\
-      \n3rd level (3 slots): [[animate dead xphb|animate dead]],\
-      \ [[counterspell xphb|counterspell]], [[dispel magic xphb|dispel magic]],\
-      \ [[fireball xphb|fireball]]\n\n4th level (3 slots):\
-      \ [[blight xphb|blight]], [[dimension door xphb|dimension door]]\n\
-      \n5th level (3 slots): [[cloudkill xphb|cloudkill]],\
-      \ [[scrying xphb|scrying]]\n\n6th level (1 slots):\
-      \ [[disintegrate xphb|disintegrate]], [[globe of invulnerability xphb|globe of invulnerability]]\n\
-      \n7th level (1 slots): [[finger of death xphb|finger of death]],\
-      \ [[plane shift xphb|plane shift]]\n\n8th level\
-      \ (1 slots): [[dominate monster xphb|dominate monster]],\
-      \ [[power word stun xphb|power word stun]]\n\n9th\
-      \ level (1 slots): [[power word kill xphb|power word kill]]"
+      \ has the following wizard spells prepared:\n\nCantrips (at will): [[mage-hand-xphb (spells)]]
+      \ hand]], [[Prestidigitation Xphb]],\
+      \ [[ray-of-frost-xphb (spells)]]\n\n1st level\
+      \ (4 slots): [[detect-magic-xphb (spells)]],\
+      \ [[Magic Missile]], [[Shield]],\
+      \ [[Thunderwave Xphb]]\n\n2nd level\
+      \ (3 slots): [[detect-thoughts-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]], [[Melfs Acid Arrow Xphb]]
+      \ arrow]], [[Mirror Image Xphb]]\n\
+      \n3rd level (3 slots): [[animate-dead-xphb (spells)]],\
+      \ [[counterspell-xphb (spells)]], [[dispel-magic-xphb (spells)]],\
+      \ [[fireball-xphb (spells)]]\n\n4th level (3 slots):\
+      \ [[Light Xphb]], [[Dimension Door Xphb]]\n\
+      \n5th level (3 slots): [[Cloudkill Xphb]],\
+      \ [[Scrying Xphb]]\n\n6th level (1 slots):\
+      \ [[Disintegrate Xphb]], [[Vulnerability Xphb]]\n\
+      \n7th level (1 slots): [[finger-of-death-xphb (spells)]],\
+      \ [[plane-shift-xphb (spells)]]\n\n8th level\
+      \ (1 slots): [[Dominate Monster Xphb]],\
+      \ [[Power Word Stun Xphb]]\n\n9th\
+      \ level (1 slots): [[power-word-kill-xphb (spells)]]"
     "name": "Spellcasting"
   - "desc": "The illithilich's innate spellcasting ability is Intelligence (spell\
       \ save DC 20). It can innately cast the following spells, requiring no components.\n\
-      \nAt will: [[detect thoughts xphb|detect thoughts]],\
-      \ [[levitate xphb|levitate]]\n\n1/day each: [[dominate monster xphb|dominate\]]
-      \ monster]], [[plane shift xphb|plane shift]]\
+      \nAt will: [[detect-thoughts-xphb (spells)]],\
+      \ [[levitate-xphb (spells)]]\n\n1/day each: [[Dominate Monster Xphb]]
+      \ monster]], [[plane-shift-xphb (spells)]]\
       \ (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."

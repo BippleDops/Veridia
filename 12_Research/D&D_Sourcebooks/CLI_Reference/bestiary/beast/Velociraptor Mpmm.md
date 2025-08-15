@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
 
-# [[velociraptor mpmm|Velociraptor]]
+# [[Velociraptor Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.

@@ -46,11 +46,11 @@ world: Both
 - **Components:** V, S, M (a sprig of mistletoe)
 - **Duration:** 24 hours
 
-Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [[bonus-action-xphb|Bonus Action]] to eat one berry. Eating a berry restores 1 [[hit-points-xphb|Hit Point]], and the berry provides enough nourishment to sustain a creature for one day.
+Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [[Action Xphb]] to eat one berry. Eating a berry restores 1 [[hit-points-xphb (variant-rules)]], and the berry provides enough nourishment to sustain a creature for one day.
 
 Uneaten berries disappear when the spell ends.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 280. Available in the SRD and the Free Rules (2024)*
 

@@ -50,9 +50,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You take the [[actions#Dash|Dash]] action, and until the spell ends, you can take that action again as a [[bonus-action-xphb|Bonus Action]].
+You take the [[actions#Dash|Dash]] action, and until the spell ends, you can take that action again as a [[Action Xphb]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 270. Available in the SRD and the Free Rules (2024)*
 

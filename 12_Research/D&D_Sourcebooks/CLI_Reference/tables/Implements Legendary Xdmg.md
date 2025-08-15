@@ -40,12 +40,12 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–17 | [[enspelled weapon xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
-| 18–34 | [[instrument of the bards xdmg|Instrument of the Bards]] ([[instrument of the bards ollamh harp xdmg|Ollamh harp]]) |
-| 35–54 | [[sovereign glue xdmg|Sovereign Glue]] |
-| 55–70 | [[sphere of annihilation xdmg|Sphere of Annihilation]] |
-| 71–83 | [[talisman of the sphere xdmg|Talisman of the Sphere]] |
-| 84–00 | [[universal solvent xdmg|Universal Solvent]] |
+| 01–17 | [[enspelled-weapon-xdmg (items)]] (level 6, 7, or 8 spell) |
+| 18–34 | [[instrument-of-the-bards-xdmg (items)]] ([[Instrument of the Bards Ollamh Harp Xdmg]]) |
+| 35–54 | [[sovereign-glue-xdmg (items)]] |
+| 55–70 | [[Sphere of Annihilation Xdmg]] |
+| 71–83 | [[Talisman of the Sphere Xdmg]] |
+| 84–00 | [[universal-solvent-xdmg (items)]] |
 ^implements-legendary
 
 ## 🔧 Deep Evaluation Improvements

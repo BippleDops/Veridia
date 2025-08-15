@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Design_Framework_Master
 
----
+- --
 title: Session Design Framework Master
 type: research
 tags:
@@ -17,7 +17,7 @@ tags:
 - research
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 ### Session 3: The Parliament of Shadows
 **Core Objective**: Expose the Shadow Chamber's parliamentary infiltration
@@ -408,7 +408,7 @@ modified: '2025-08-14'
 - Creates governmental resources for future adventures
 - Links to Deep Mother influence through corruption patterns
 
----
+- --
 
 ### Dynamic Difficulty Scaling
 **Base Formula**: Encounter CR = Party Level + Narrative Intensity Modifier
@@ -431,7 +431,7 @@ modified: '2025-08-14'
 - **Depth 7-9**: Constitution saves DC 15, advantage on certain spell types
 - **Depth 10+**: Major mechanical effects, specialized equipment required
 
----
+- --
 
 ### Major Decision Points
 **Government Structure Choices**:
@@ -458,7 +458,7 @@ Shadow Integration Decisions
 - **Corruption Level 7-9**: Severe impairment, succession crisis
 - **Corruption Level 10+**: Complete transformation, replacement necessary
 
----
+- --
 
 This framework provides the foundation for 200+ detailed session planning steps. Each session includes multiple encounter variations, consequence tracking, and integration points with other campaigns.
 
@@ -467,7 +467,7 @@ This framework provides the foundation for 200+ detailed session planning steps.
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -479,11 +479,11 @@ This framework provides the foundation for 200+ detailed session planning steps.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -507,3 +507,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

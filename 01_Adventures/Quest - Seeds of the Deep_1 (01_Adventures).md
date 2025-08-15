@@ -23,7 +23,28 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
 > [!figure] Portrait
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -233,3 +254,53 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -1,13 +1,13 @@
 ---
 
 title: Leviathan
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/location
+- content/[[location]]
 - active
 - complete
 - status/in-progress
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ Leviathan is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of Leviathan as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Leviathan.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

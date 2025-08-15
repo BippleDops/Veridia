@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gulthias-blight-xmm-gulthias-blight-xmm.svg)
 
-# [[gulthias blight xmm|Gulthias Blight]]
+# [[Gulthias Blight Xmm]]
 *Source: Monster Manual (2024) p. 45*  
 
 Ancient plants twisted by evil, Gulthias blights feed on blood and despoil the surrounding land, often giving rise to subservient blights. These cursed plants take their name from the story of their creation; the first of their kind was a tree that grew from the stake piercing the heart of the vampire Gulthias. These blights consider all creatures either servants or fertilizer for the blights' corruption.
@@ -95,13 +95,13 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "languages": "Common, Druidic"
 "cr": "16"
 "traits":
-  - "desc": "When it finishes a [[long rest xphb|Long Rest]],\
+  - "desc": "When it finishes a [[long-rest-xphb]],\
       \ the blight expels d6 seeds into unoccupied spaces on the ground within 30\
       \ feet of itself. After 24 hours, the seeds become creatures under the blight's\
       \ control. Roll d8 for each seed to determine the creature it becomes: on 1-4,\
-      \ [[twig blight xmm|Twig Blight]]; on 5-6,\
-      \ [[needle blight xmm|Needle Blight]]; on\
-      \ 7-8, [[vine blight xmm|Vine Blight]]."
+      \ [[Twig Blight Xmm]]; on 5-6,\
+      \ [[needle-blight-xmm (plant)]]; on\
+      \ 7-8, [[vine-blight-xmm]]."
     "name": "Blight Seeds"
 "actions":
   - "desc": "The blight makes two attacks, using Slam or Thorn Volley in any combination.\
@@ -118,8 +118,8 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ (escape DC 17) from one of six roots. Until the grapple ends, the target has\
       \ the [[conditions#Restrained|Restrained]] condition and\
       \ takes 14 (4d6) Necrotic damage at the start of each of its turns. The target's\
-      \ [[hit points xphb|Hit Point]] maximum decreases\
-      \ by an amount equal to the Necrotic damage taken, and the blight regains [[hit points xphb|Hit\]]
+      \ [[hit-points-xphb (variant-rules)]] maximum decreases\
+      \ by an amount equal to the Necrotic damage taken, and the blight regains [[hit-points-xphb (variant-rules)]]
       \ Points]] equal to that amount."
     "name": "Life-Draining Root"
 "source":

@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg)
 
-# [[pixie wonderbringer xmm|Pixie Wonderbringer]]
+# [[Pixie Wonderbringer Xmm]]
 *Source: Monster Manual (2024) p. 244*  
 
 Energetic entertainers, wonderbringers use their magic in defense of the wilderness when they must.
@@ -95,7 +95,7 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 "languages": "Common, Elvish, Sylvan"
 "cr": "5"
 "traits":
-  - "desc": "The pixie has [[advantage xphb|Advantage]]\
+  - "desc": "The pixie has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -108,14 +108,14 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
     "name": "Faerie Dust"
   - "desc": "The pixie casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt\
-      \ will: [[dancing lights xphb|Dancing Lights]],\
-      \ [[druidcraft xphb|Druidcraft]], [[invisibility xphb|Invisibility]]\
-      \ (self only)\n\n1/day each: [[detect thoughts xphb|Detect Thoughts]],\
-      \ [[fly xphb|Fly]], [[major image xphb|Major Image]]"
+      \ will: [[dancing-lights-xphb (spells)]],\
+      \ [[druidcraft-xphb (spells)]], [[see-invisibility-xphb (spells)]]\
+      \ (self only)\n\n1/day each: [[detect-thoughts-xphb (spells)]],\
+      \ [[fly-xphb (spells)]], [[Major Image Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The pixie casts [[entangle xphb|Entangle]],\
-      \ [[polymorph xphb|Polymorph]], or [[tashas hideous laughter xphb|Tasha's Hideous\]]
+  - "desc": "The pixie casts [[Entangle Xphb]],\
+      \ [[true-polymorph-xphb (spells)]], or [[Tashas Hideous Laughter Xphb]]
       \ Laughter]], requiring\
       \ no Material components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Burst of Wonder (Recharge 5-6)"

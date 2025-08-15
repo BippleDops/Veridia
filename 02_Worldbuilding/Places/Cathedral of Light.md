@@ -1,7 +1,7 @@
 ---
 
 title: Cathedral of Light
-type: Location
+type: [[location]]
 tags:
 - aerial
 - religious
@@ -26,18 +26,18 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: draft
-region: '[[Capital District]]'
+[[region]]: '[[Capital District]]'
 population: 500
 MyCategory: Unknown
 MyContainer: None
 danger_level: 1
 founded: 300 years before Great Crystallization
-government: '[[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of]]
+government: '[[Sacred Order of Luminous Daw|[[02 Worldbuilding]]/[[Groups]]/Sacred Order Of]]
   Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 obsidianUIMode: preview
 specialties:
-- Divine Magic
+- [[Divine Magic]]
 - Healing Arts
 - Light Magic
 updated: '2025-08-13T12:34:16.778337+00:00'
@@ -69,7 +69,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -109,9 +109,9 @@ improvements: 20
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[[[Illumination Crysta]]ls]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
-The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
+The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by [[Crystal Corruption]], its holy light serving as both literal and metaphorical [[Guidance]] for those lost in darkness.
 
 ### The Soaring Sanctuary
 
@@ -141,12 +141,12 @@ The Cathedral exists not merely as a place of worship but as a beacon of hope in
 Each spire represents one aspect of divine light:
 
 1. **[[The Spire of Healing]]** - Medical halls and divine healing chambers
-2. **[[The Spire of Knowledge]]** - Sacred libraries and scriptoriums  
+2. **[[The Spire of Knowledge]]** - Sacred [[Libraries]] and scriptoriums  
 3. **[[The Spire of Mercy]]** - Sanctuary for refugees and the desperate
 4. **[[The Spire of Justice]]** - Ecclesiastical courts and confessionals
 5. **[[The Spire of Hope]]** - Counseling chambers and meditation gardens
 6. **[[The Spire of Courage]]** - Training halls for [[Paladins of Light]]
-7. **[[The Spire of Unity]]** - Conference halls and interfaith dialogue chambers
+7. **[[The Spire of Unity]]** - Conference halls and [[Interfaith Dialogue]] chambers
 
 ### The Celestial Observatory
 
@@ -163,8 +163,8 @@ Each spire represents one aspect of divine light:
 - Supreme religious leader of the Cathedral
 - Chosen by divine vision 20 years ago
 - Can channel pure light energy for healing and protection
-- Diplomatic immunity and advisory role to the Crown
-- Maintains correspondence with religious leaders across [[Aethermoor]]
+- [[Diplomatic Immunity]] and advisory role to [[The Crown]]
+- Maintains correspondence with [[Religious Leaders]] across [[Aethermoor]]
 
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
@@ -180,7 +180,7 @@ Each spire represents one aspect of divine light:
 
 Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Trained in both martial and divine arts
-- Equipment blessed with [[Illumination Crystal]] enhancements
+- Equipment [[Bless]]ed with [[Illumination Crystal]] enhancements
 - Oath binds them to protect the innocent and fight darkness
 - Led by [[Paladin Commander Sir Radiant Dawnbreaker]]
 - Can channel divine light through their weapons and armor
@@ -207,7 +207,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 **The Archive of Illumination**
 - Largest religious library in [[Aethermoor]]
 - Contains original texts predating [[The Great Crystallization]]
-- Illuminated manuscripts that glow softly in darkness
+- Illuminated manu[[scripts]] that glow softly in darkness
 - Research facilities for theological scholars
 - Public access during designated hours
 
@@ -215,7 +215,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - **The Creation Codex** - Religious account of world's beginning
 - **Chronicles of Saints** - Lives and miracles of holy figures
 - **The Corruption Studies** - Research on crystal influence and resistance
-- **Prophetic Visions** - Recorded divine revelations and future warnings
+- **[[Prophetic Visions]]** - Recorded divine revelations and future warnings
 - **The Harmony Texts** - Interfaith dialogue and cooperation guidelines
 
 ### The Chambers of Sanctuary
@@ -223,7 +223,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 **The Refuge Halls**
 - Safe haven for political refugees and the persecuted
 - No questions asked policy for those seeking shelter
-- Capacity for 200 people in emergency situations
+- Capacity for 200 [[People]] in emergency situations
 - Basic food, shelter, and medical care provided
 - Protected by ancient laws of sanctuary
 
@@ -308,7 +308,7 @@ Underground network providing safe passage for refugees:
 ### Adventure Opportunities
 
 **The Dimming Light**
-The Eternal Flame begins to flicker for the first time in centuries:
+The Eternal Flame begins to flicker for the first [[Time]] in centuries:
 - Investigation reveals sabotage by [[Purist Coalition]] extremists
 - Must restore flame before losing divine connection
 - Requires rare components from dangerous locations
@@ -323,10 +323,10 @@ A revered saint's remains show signs of crystal corruption:
 
 **The Prophetic Warning**
 New visions in Prophecy Chamber show apocalyptic future:
-- Only the party can interpret the cryptic symbols
+- Only [[The Party]] can interpret the cryptic symbols
 - Quest to prevent foretold catastrophe
-- Must work with unlikely allies across religious divides
-- Success rewrites destiny, failure ensures dark timeline
+- Must work with unlikely [[Allies]] across religious divides
+- Success rewrites destiny, failure ensures dark [[Timeline]]
 
 **The Sanctuary Crisis**
 Refugee influx overwhelms Cathedral's resources:
@@ -356,7 +356,7 @@ The Cathedral's design creates perfect sound projection:
 ### Sanctified Ground Effects
 
 The entire Cathedral area is consecrated space:
-- Evil creatures suffer disadvantage on attack rolls
+- Evil creatures suffer [[Disadvantage]] on attack rolls
 - Fiends and undead cannot enter without invitation
 - Divine magic functions reliably without interference
 - Crystal corruption slowed within Cathedral bounds
@@ -380,7 +380,7 @@ While in the Cathedral, characters experience:
 - Can cast *light* cantrip at will
 - Requires attunement by good-aligned divine caster
 
-### Encounter Tables
+### [[Encounter Tables]]
 
 **Peaceful Activities (d8)**
 | Roll | Encounter |
@@ -412,26 +412,26 @@ While in the Cathedral, characters experience:
 *"In the Cathedral of Light, all darkness is temporary, all wounds can heal, and all souls can find their way home."*
 
 > [!tip] DM Note
-> The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, moral dilemmas, and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
+> The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, [[Moral Dilemmas]], and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
 
 ## Player-Facing Summary
 
 Cathedral of Light is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Cathedral of Light as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cathedral of Light.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Cross-References
 
@@ -461,6 +461,27 @@ Cathedral of Light is a notable location characterized by its unique features an
 
 ### Founding
 Cathedral of Light was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
 
 ## Trade Importance
 
@@ -498,3 +519,40 @@ Key stop on magic items trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

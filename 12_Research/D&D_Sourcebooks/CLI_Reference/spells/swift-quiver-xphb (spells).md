@@ -41,9 +41,9 @@ world: Both
 - **Components:** V, S, M (a Quiver worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-When you cast the spell and as a [[bonus action xphb|Bonus Action]] until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
+When you cast the spell and as a [[Action Xphb]] until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 329*
 
@@ -82,3 +82,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[swift-quiver-xphb (spells)-phb]]` in CLI_Reference/spells/

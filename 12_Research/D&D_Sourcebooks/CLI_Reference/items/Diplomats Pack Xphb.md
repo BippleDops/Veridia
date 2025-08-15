@@ -42,7 +42,7 @@ world: Both
 - **Cost**: 39 gp
 - **Weight**: 39.0 lbs.
 
-A Diplomat's Pack contains the following items: [[chest xphb|Chest]], [[fine clothes xphb|Fine Clothes]], [[ink xphb|Ink]], 5 [[ink pen xphb|Ink Pens]], [[lamp xphb|Lamp]], 2 [[map or scroll case xphb|Map or Scroll Cases]], 4 flasks of [[oil xphb|Oil]], 5 sheets of [[paper xphb|Paper]], 5 sheets of [[parchment xphb|Parchment]], [[perfume xphb|Perfume]], and [[tinderbox xphb|Tinderbox]].
+A Diplomat's Pack contains the following items: [[leomunds-secret-chest-xphb (spells)]], [[Fine Clothes Xphb]], [[Blink Xphb]], 5 [[ink-pen-xphb (items)]], [[lamp-xphb (items)]], 2 [[map-or-scroll-case-xphb (items)]], 4 flasks of [[Oil Xphb]], 5 sheets of [[Paper Xphb]], 5 sheets of [[Parchment Xphb]], [[perfume-xphb (items)]], and [[Tinderbox Xphb]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
 

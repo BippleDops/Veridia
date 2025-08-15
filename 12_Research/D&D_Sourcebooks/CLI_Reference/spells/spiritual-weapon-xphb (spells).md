@@ -52,11 +52,11 @@ world: Both
 
 You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to `d8` plus your spellcasting ability modifier.
 
-As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
+As a [[Action Xphb]] on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for every slot level above 2.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the SRD and the Free Rules (2024)*
 
@@ -98,3 +98,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

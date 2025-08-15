@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quasit-xmm-quasit-xmm.svg)
 
-# [[quasit xmm|Quasit]]
+# [[quasit-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,7 +96,7 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
-  - "desc": "The quasit has [[advantage xphb|Advantage]]\
+  - "desc": "The quasit has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -109,13 +109,13 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
       \ condition. At the end of each of its turns, the target repeats the save, ending\
       \ the effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Scare (1/Day)"
-  - "desc": "The quasit shape-shifts to resemble a bat ([[speed xphb|Speed]]\
+  - "desc": "The quasit shape-shifts to resemble a bat ([[Fly Speed Xphb]]\
       \ 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft.,\
       \ Swim 40 ft.), or it returns to its true form. Its game statistics are the\
-      \ same in each form, except for its [[speed xphb|Speed]].\
+      \ same in each form, except for its [[Fly Speed Xphb]].\
       \ Any equipment it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
-  - "desc": "The quasit casts [[invisibility xphb|Invisibility]]\
+  - "desc": "The quasit casts [[see-invisibility-xphb (spells)]]\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"

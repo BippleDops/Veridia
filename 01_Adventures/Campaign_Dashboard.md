@@ -1,10 +1,12 @@
 ---
+
 title: Campaign_Dashboard
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Campaign_Dashboard
@@ -185,9 +187,9 @@ if (daysSinceUpdate > 7) {
 ## Navigation
 - [[Master Index]] - Complete vault navigation
 - [[World Bible]] - Comprehensive lore reference  
-- [[Campaign Index]] - Session archive
-- [[Quick Start Guide]] - New player onboarding
-- [[02 Worldbuilding/Lore/GM Resources]] - Gamemaster tools
+- [[INDEX]] - Session archive
+- [[Quick Start Guide (D&D_References)]] - New player onboarding
+- [[GM Resource]] - Gamemaster tools
 
 ---
 
@@ -283,3 +285,8 @@ if (daysSinceUpdate > 7) {
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

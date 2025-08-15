@@ -543,3 +543,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

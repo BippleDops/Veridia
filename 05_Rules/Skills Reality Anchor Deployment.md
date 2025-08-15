@@ -1,5 +1,6 @@
 ---
 
+
 title: Skills Reality Anchor Deployment
 type: mechanics
 tags:
@@ -9,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -270,3 +272,62 @@ A: Supernatural abilities suppressed, mundane portions still function
 | Moderate | d20+mod | 15 | Complication |
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+## Official Rules Reference
+
+### Core Rulebooks
+- **Ability Checks**: PHB Chapter 7 (p.171-179)
+- **Skills**: PHB p.174-179
+- **Passive Checks**: PHB p.175
+- **Working Together**: PHB p.175
+- **Skill Expertise (Optional)**: TCE p.79-80
+- **Tool Proficiencies**: XGE p.78-85
+- **UA Skill Feats**: Various UA documents
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions
+
+## Variant Rules Options
+
+### From DMG Chapter 9
+- **Proficiency Dice**: Roll dice instead of flat bonus
+- **Hero Points**: Narrative currency system
+- **Honor/Sanity**: Additional ability scores
+- **Lingering Injuries**: Lasting combat effects
+- **Massive Damage**: System shock rules
+- **Morale**: When enemies flee
+
+### From Other Sources
+- **Spell Points** (DMG p.288): Alternative to slots
+- **Gritty Realism** (DMG p.267): Longer rests
+- **Side Initiative** (DMG p.270): Group turns
+- **Facing** (DMG p.252): Directional combat
+
+### Table Consideration
+Discuss with players before implementing

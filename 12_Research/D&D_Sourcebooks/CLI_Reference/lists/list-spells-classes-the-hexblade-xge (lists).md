@@ -70,3 +70,23 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - Strange disappearances suggest a conspiracy
 - Someone is hunting an heir for revenge
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-the-hexblade-xge (lists)-phb]]` in CLI_Reference/spells/

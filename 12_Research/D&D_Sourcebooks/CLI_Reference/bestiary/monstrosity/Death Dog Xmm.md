@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-dog-xmm-death-dog-xmm.svg)
 
-# [[death dog xmm|Death Dog]]
+# [[death-dog-xmm]]
 *Source: Monster Manual (2024) p. 91. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -118,8 +118,8 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
       \ If the target is a creature, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. 1st Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition. While [[conditions#Poisoned|Poisoned]], the\
-      \ target's [[hit points xphb|Hit Point]] maximum\
-      \ doesn't return to normal when finishing a [[long rest xphb|Long Rest]],\
+      \ target's [[hit-points-xphb (variant-rules)]] maximum\
+      \ doesn't return to normal when finishing a [[long-rest-xphb]],\
       \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
       \ on a success. Subsequent Failures: The [[conditions#Poisoned|Poisoned]]\
       \ decreases by 5 (d10)."

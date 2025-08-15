@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)
 
-# [[ash zombie lmop|Ash Zombie]]
+# [[ash-zombie-lmop (undead)]]
 *Source: Lost Mine of Phandelver p. 31*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.

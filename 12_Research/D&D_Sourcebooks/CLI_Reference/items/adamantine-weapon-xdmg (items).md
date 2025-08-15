@@ -72,7 +72,7 @@ world: Both
 # Adamantine Weapon
 *Uncommon*  
 
-This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[critical hit xphb|Critical Hit]].
+This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[Critical Hit Xphb]].
 
 **Variants**:
 - [Adamantine Arrow](#Adamantine%20Arrow)

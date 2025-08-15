@@ -34,7 +34,7 @@ world: Both
 # Dim Light
 *Source: Player's Handbook (2024) p. 366. Available in the SRD and the Free Rules (2024)* 
 
-An area with Dim Light is [[lightly obscured xphb|Lightly Obscured]].
+An area with Dim Light is [[lightly-obscured-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

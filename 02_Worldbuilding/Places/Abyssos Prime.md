@@ -35,7 +35,7 @@ location_type: Sunken Capital
 notable_npcs:
 - '[[The Scattered Emperor]]'
 - '[[Senator Glaucus]]'
-- '[[Marina Red Tide Coralheart   Aquabyssos]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 obsidianUIMode: preview
 parent_location: '[[Aquabyssos]]'
 pressure_effects: Moderate to Severe
@@ -75,6 +75,41 @@ This document contains important information regarding Abyssos Prime and its rol
 ## Description
 Abyssos Prime represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
+
+## Economy
+- **Primary Exports**: Local goods
+- **Primary Imports**: Necessities
+- **Trade Partners**: Neighboring settlements
+- **Currency**: Standard coinage
+
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
@@ -113,3 +148,44 @@ Dark and ominous
 Recommended tracks:
 - dark_capital.wav
 - sunken_palace.mp3
+
+
+## History
+- **Founding**: Origin story
+- **Major Events**: Historical significance
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

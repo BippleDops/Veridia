@@ -47,7 +47,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 
 ## Navigation Links
 - **Back to**: [[Update Indexes]] - Main navigation hub
-- **See Also**: [[Campaign Index]] - Campaign-specific content
+- **See Also**: [[INDEX]] - Campaign-specific content
 - **Related**: [[Quest Index]] - Location-based adventures
 
 ---
@@ -86,3 +86,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

@@ -268,3 +268,25 @@ A: Supernatural abilities suppressed, mundane portions still function
 | Moderate | d20+mod | 15 | Complication |
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+## Variant Rules Options
+
+### From DMG Chapter 9
+- **Proficiency Dice**: Roll dice instead of flat bonus
+- **Hero Points**: Narrative currency system
+- **Honor/Sanity**: Additional ability scores
+- **Lingering Injuries**: Lasting combat effects
+- **Massive Damage**: System shock rules
+- **Morale**: When enemies flee
+
+### From Other Sources
+- **Spell Points** (DMG p.288): Alternative to slots
+- **Gritty Realism** (DMG p.267): Longer rests
+- **Side Initiative** (DMG p.270): Group turns
+- **Facing** (DMG p.252): Directional combat
+
+### Table Consideration
+Discuss with players before implementing

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-wasp-xphb-giant-insect-wasp-xphb.svg)
 
-# [[giant insect wasp xphb|Giant Insect (Wasp)]]
+# [[giant]]
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*  
 
 ```statblock

@@ -37,7 +37,7 @@ updated: '2025-08-13T12:34:06.097736+00:00'
 world: Both
 ---
 
-# [[steel predator mpmm|Steel Predator]]
+# [[Steel Predator Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -109,8 +109,8 @@ If all goes according to plan, a steel predator slays its target and then volunt
     "name": "Stunning Roar (Recharge 5-6)"
   - "desc": "The steel predator casts one of the following spells, requiring no spell\
       \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
-      \ [[dimension door xphb|dimension door]] (self only),\
-      \ [[plane shift xphb|plane shift]] (self only)"
+      \ [[Dimension Door Xphb]] (self only),\
+      \ [[plane-shift-xphb (spells)]] (self only)"
     "name": "Spellcasting"
 "source":
   - "MPMM"

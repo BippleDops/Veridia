@@ -43,7 +43,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[nightmare xmm|Nightmare]]
+# [[Nightmare Xmm]]
 *Source: Monster Manual (2024) p. 226. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,11 +104,11 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [[resistance xphb|Resistance]]\
+  - "desc": "The nightmare can grant [[boon-of-energy-resistance-xphb (feats)]]\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
-  - "desc": "The nightmare sheds [[bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
+  - "desc": "The nightmare sheds [[Light Xphb]]\
+      \ in a 10-foot radius and [[Light Xphb]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

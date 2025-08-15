@@ -38,14 +38,14 @@ world: Both
 
 | Class | Change When You... | Number of Spells |
 |-------|--------------------|------------------|
-| [[bard xphb|Bard]] | Gain a level | One |
-| [[cleric xphb|Cleric]] | Finish a Long Rest | Any |
-| [[druid xphb|Druid]] | Finish a Long Rest | Any |
-| [[paladin xphb|Paladin]] | Finish a Long Rest | One |
-| [[ranger xphb|Ranger]] | Finish a Long Rest | One |
-| [[sorcerer xphb|Sorcerer]] | Gain a level | One |
-| [[warlock xphb|Warlock]] | Gain a level | One |
-| [[wizard xphb|Wizard]] | Finish a Long Rest | Any |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]] | Gain a level | One |
+| [[cleric-xphb-nature-domain (classes)]] | Finish a Long Rest | Any |
+| [[Druid Xphb Circle of the Shepherd Xge]] | Finish a Long Rest | Any |
+| [[paladin-xphb-oath-of-conquest-xge (classes)]] | Finish a Long Rest | One |
+| [[ranger-xphb-monster-slayer-xge (classes)]] | Finish a Long Rest | One |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | Gain a level | One |
+| [[warlock-xphb-fiend-patron-xphb (classes)]] | Gain a level | One |
+| [[Wizard Xphb School of Necromancy]] | Finish a Long Rest | Any |
 ^spell-preparation-by-class
 
 ## 🔧 Deep Evaluation Improvements

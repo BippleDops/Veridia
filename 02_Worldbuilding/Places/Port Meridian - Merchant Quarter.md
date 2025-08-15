@@ -219,7 +219,7 @@ Governing body of the Quarter's major trading houses:
 - **[[Trade Master Silas Goldwater]]** - Council Chairman
 - **[[Merchant Prince Aurelius Goldhand]]** - Largest trading house
 - **[[Banking Lord Cornelius Coinwright]]** - Ficial sector representative
-- **[[02 Worldbuilding/Lore/Dock Mistress Marina Saltwind]]** - Shipping and logistics
+- **[[Dock Mistress Marina Saltwind]]** - Shipping and logistics
 - **[[Foreign Trade Envoy Lysander Farreach]]** - International relations
 
 **[[The Traders Guild]]**
@@ -522,6 +522,34 @@ Port Meridian - Merchant Quarter is a notable location characterized by its uniq
 ### Founding
 Port Meridian - Merchant Quarter was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Trade Importance
 
 Key stop on textiles trade route
@@ -560,3 +588,40 @@ Key stop on textiles trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

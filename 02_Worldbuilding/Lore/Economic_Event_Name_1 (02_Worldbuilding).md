@@ -1,7 +1,7 @@
 ---
 
-title: Economic Event Name 1
-type: lore
+title: [[Economic Event Name 1]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -81,7 +81,7 @@ Economic Event Name 1 can be understood as a multifaceted element that intersect
 ### Detailed Explanation
 The full nature of Economic Event Name 1 involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Economic Event Name 1 trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -92,7 +92,7 @@ Connected to Economic Event Name 1 are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Economic Event Name 1 through their own cultural lenses:
+Different [[Groups]] view Economic Event Name 1 through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -161,7 +161,7 @@ The current state of Economic Event Name 1:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Economic Event Name 1 has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -194,7 +194,7 @@ Ways to incorporate Economic Event Name 1 into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -215,7 +215,7 @@ How to adjust for different games:
 Ways Economic Event Name 1 might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -234,7 +234,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -257,7 +257,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #economic-event-name-1
+*Tags*: [[#General]] #worldbuilding #economic-event-name-1
 
 ## Cultural Impact
 
@@ -266,7 +266,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - A corpse reveals a betrayal about the government
-- A map reveals ancient history about this place
+- A [[map]] reveals ancient history about this place
 - The authorities needs help delivering before the new moon
 
 ## Cultural Practices

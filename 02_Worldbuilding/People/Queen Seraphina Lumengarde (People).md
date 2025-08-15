@@ -23,6 +23,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 
 # Queen Seraphina Lumengarde
@@ -328,11 +340,11 @@ Member of House Lionblood - Trait: divine blood
 
 ## Relationships
 
-- **Sibling**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
-- **Sibling**: [[Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg]]
-- **Sibling**: [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg]]
-- **Lover**: [[Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
-- **Sibling**: [[Portrait NPC Parliament High Council V2 Parliament High Council.svg]]
+- **Sibling**: [[Npc]]
+- **Sibling**: [[Shield]]
+- **Sibling**: [[Npc]]
+- **Lover**: [[Assets]]
+- **Sibling**: [[Parliament High Council]]
 
 ## Historical Timeline
 
@@ -380,3 +392,40 @@ Member of House Lionblood - Trait: divine blood
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

@@ -52,7 +52,7 @@ world: Both
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the SRD and the Free Rules (2024)*
 

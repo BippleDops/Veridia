@@ -36,7 +36,7 @@ updated: '2025-08-13T12:34:06.067500+00:00'
 world: Both
 ---
 
-# [[animated object large xphb|Animated Object (Large)]]
+# [[animated-object-large-xphb (construct)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

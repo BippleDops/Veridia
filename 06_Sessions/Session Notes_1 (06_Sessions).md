@@ -10,11 +10,11 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### History Improvements
 
@@ -257,8 +257,8 @@ Adapt as needed for:
 - Power balance
 - Story needs
 
----
-*Tags*: #general #worldbuilding #session-notes
+- --
+* Tags*: #general #worldbuilding #session-notes
 
 ## Cultural Impact
 
@@ -297,3 +297,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

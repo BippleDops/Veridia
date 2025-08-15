@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_CLI_bestiary_fiend_umbral-vampire-tob - Quick Reference
 
 ## Key Info

@@ -70,7 +70,7 @@ The [[Aethermoor]] portion features traditional crystal architecture with practi
 - **Processing Halls**: Large chambers where goods are examined using crystal-based detection magic
 - **Storage Vaults**: Secure warehouses for quarantined or disputed items
 - **Living Quarters**: Accommodations for customs officers and visiting merchants
-- **Guard Barracks**: Housing for [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] border security forces
+- **Guard Barracks**: Housing for [[The Crystal Guard Elite]] border security forces
 
 **The Aquabyssos Side (The Pressure Portal)**
 The [[Aquabyssos]] section reflects underwater architectural needs:
@@ -144,21 +144,21 @@ The Customs House serves as an intelligence hub:
 
 ### Administrative Leadership
 
-**[[Chief Inspector Dual Current Thane]]** (Joint Administrator)
+**[[Chief Inspector Dual-Current Thane]]** (Joint Administrator)
 - Unique individual with natural ability to exist in both realities
 - Appointed jointly by both world governments
 - Has authority to make binding decisions for both customs services
 - Experienced diplomat who helped negotiate the original trade agreements
 - Maintains careful neutrality while managing increasing political pressures
 
-**[[Deputy Inspector Crystal Flow Maria]]** (Aethermoor Representative)
+**[[Deputy Inspector Crystal-Flow Maria (D&D_References)]]** (Aethermoor Representative)
 - Senior customs official specializing in magical item detection
 - Expert in crystal-based security systems and reality stabilization
-- Coordinates with [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] for security operations
+- Coordinates with [[The Crystal Guard Elite]] for security operations
 - Maintains direct communication with [[Crystalhaven]] government
 - Increasingly concerned about political use of customs data
 
-**[[Deputy Inspector Pressure Tide Jonas]]** (Aquabyssos Representative)
+**[[Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
 - Veteran enforcement officer with enhanced pressure adaptation
 - Specialist in memory-based contraband detection techniques
 - Coordinates with Aquabyssos maritime patrol units

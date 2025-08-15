@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-hew-lmop-hew-lmop.svg)
 
 # Hew
-*Weapon ([[battleaxe xphb|battleaxe]])*  
+*Weapon ([[Battleaxe Xphb]])*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

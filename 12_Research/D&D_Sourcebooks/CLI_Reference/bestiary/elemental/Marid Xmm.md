@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marid-xmm-marid-xmm.svg)
 
-# [[marid xmm|Marid]]
+# [[marid-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 203*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -97,11 +97,11 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
   - "desc": "The marid can breathe air and water."
     "name": "Amphibious"
   - "desc": "If the marid dies outside the Elemental Plane of Water, its body dissolves\
-      \ into brine, and it gains a new body in d4 days, reviving with all its [[hit points xphb|Hit\]]
+      \ into brine, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb (variant-rules)]]
       \ Points]] somewhere on the\
       \ Plane of Water."
     "name": "Elemental Restoration"
-  - "desc": "The marid has a 30 percent chance of knowing the [[wish xphb|Wish]]\
+  - "desc": "The marid has a 30 percent chance of knowing the [[wish-xphb (spells)]]\
       \ spell. If the marid knows it, the marid can cast it only on behalf of a non-genie\
       \ creature who communicates a wish in a way the marid can understand. If the\
       \ marid casts the spell for the creature, the marid suffers none of the spell's\
@@ -115,23 +115,23 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
       \ plus 9 (2d8) Cold damage."
     "name": "Aquatic Lash"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 10-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 31 (9d6) Cold damage. If the target is a Huge or smaller creature, it is pushed\
       \ up to 20 feet straight away from the marid and has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Water Jet"
   - "desc": "The marid casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
-      \ will: [[create or destroy water xphb|Create or Destroy Water]],\
-      \ [[detect evil and good xphb|Detect Evil and Good]],\
-      \ [[detect magic xphb|Detect Magic]], [[purify food and drink xphb|Purify Food\]]
+      \ will: [[create-or-destroy-water-xphb (spells)]],\
+      \ [[detect-evil-and-good-xphb (spells)]],\
+      \ [[detect-magic-xphb (spells)]], [[Purify Food and Drink Xphb]]
       \ and Drink]]\n\n1/day\
-      \ each: [[control water xphb|Control Water]], [[gaseous form xphb|Gaseous\]]
-      \ Form]], [[invisibility xphb|Invisibility]],\
-      \ [[plane shift xphb|Plane Shift]], [[tongues xphb|Tongues]]"
+      \ each: [[Control Water Xphb]], [[gaseous-form-xphb (spells)]]
+      \ Form]], [[see-invisibility-xphb (spells)]],\
+      \ [[plane-shift-xphb (spells)]], [[Tongues Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The marid casts [[fog cloud xphb|Fog Cloud]],\
+  - "desc": "The marid casts [[fog-cloud-xphb (spells)]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Veil (Recharge 5-6)"
 "source":

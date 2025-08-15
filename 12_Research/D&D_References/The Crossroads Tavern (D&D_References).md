@@ -54,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Mentor**: [[Quest   The Pretender]]
-- **Victim**: [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg]]
-- **Creditor**: [[portrait-npc-neutral-zone-v1-neutral-zone.svg]]
+- **Mentor**: [[Quest - The Pretender_1 (01_Adventures)]]
+- **Victim**: [[Npc]]
+- **Creditor**: [[Npc]]
 - **Sibling**: [[Queen Seraphina 3]]
-- **Child**: [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png]]
+- **Child**: [[Npc]]
 
 ## Plot Hooks
 

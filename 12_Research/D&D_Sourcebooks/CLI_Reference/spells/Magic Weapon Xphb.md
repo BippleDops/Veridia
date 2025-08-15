@@ -59,7 +59,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **Using a Higher-Level Spell Slot.** The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 295. Available in the SRD and the Free Rules (2024)*
 

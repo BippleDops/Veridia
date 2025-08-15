@@ -3,20 +3,20 @@ title: 02_Worldbuilding_People_Admiral_Marina_Stormcrest
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # 02_Worldbuilding_People_Admiral_Marina_Stormcrest
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg]] and other parts of the campaign.
+This topic is referenced in [[Brother Matthias]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg]]
+- Referenced by: [[Brother Matthias]]
 - Related topics in the same category
 
 ## Details

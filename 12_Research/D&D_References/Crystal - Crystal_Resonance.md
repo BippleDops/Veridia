@@ -131,9 +131,9 @@ At 100 TP, the character faces the ultimate decision:
 
 ## See Also
 - [[Transformation Compendium|03 Mechanics/Transformation Compendium]]
-- [[02_Worldbuilding/Hazards/Crystal_Plague|02 Worldbuilding/Hazards/Crystal Plague]]
-- [[02_Worldbuilding/Items/Resot_Crystals|02 Worldbuilding/Items/Resot Crystals]]
-- [[02_Worldbuilding/Places/The_Crystal_Gardens|02 Worldbuilding/Places/The Crystal Gardens]]
+- [[02_Worldbuilding]]
+- [[02_Worldbuilding]]
+- [[The Crystal Gardens]]
 
 *"In crystal resoce, we find perfection—cold, beautiful, and utterly inhuman."*
 

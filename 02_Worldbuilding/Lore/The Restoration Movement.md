@@ -1,7 +1,7 @@
 ---
 
 title: The Restoration Movement
-type: Lore
+type: [[Lore]]
 tags:
 - democracy
 - shadow-touched
@@ -28,7 +28,7 @@ modified: '2025-08-14'
 status: complete
 created_by: auto-stub
 current_status: Active but Fragmented
-historical_period: Post-Bathyal Succession to Present
+historical_period: Post-[[Bathyal Succession]] to Present
 movement_type: Political and Religious Reform
 significance: Major
 updated: '2025-08-13T12:34:16.399997+00:00'
@@ -41,8 +41,8 @@ improvements: 20
 
 *Reclaiming the Deep Crown's Sacred Authority*
 
-> *"The depths remember what the surface has forgotten: that true authority flows not from the will of the many, but from the ancient compact between ruler and realm. We shall restore what was sundered, return what was lost, and rebuild what democratic chaos has torn down."*
-> — High Restorer [[Tidal Crown Maraleth]], addressing the Assembly of Sacred Depths
+> *"The depths remember what the surface has forgotten: that true authority flows not from the will of the many, but from [[The Ancient Compact]] between ruler and realm. We shall restore what was sundered, return what was lost, and rebuild what democratic chaos has torn down."*
+> — High Restorer [[Tidal Crown]], addressing the Assembly of Sacred Depths
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,16 +98,16 @@ improvements: 20
 
 ## Overview
 
-The Restoration Movement represents one of the most significant political and religious phenomena in modern [[Aquabyssos]], emerging from the aftermath of [[The Bathyal Succession]] as a complex coalition seeking to reverse the democratic reforms that followed the succession crisis and return the realm to traditional monarchical rule. Far more than simple political nostalgia, the movement combines ancient religious traditions, philosophical arguments about legitimate authority, and practical concerns about democratic goverce into a comprehensive ideology that has fundamentally shaped [[Aquabyssos]] politics for the past three decades.
+The Restoration Movement represents one of the most significant political and religious phenomena in modern [[Aquabyssos]], emerging from the aftermath of [[The Bathyal Succession]] as a complex coalition seeking to reverse the democratic reforms that followed [[The Succession Crisis]] and return the realm to traditional monarchical rule. Far more than simple political nostalgia, the movement combines ancient religious traditions, philosophical arguments about legitimate authority, and practical concerns about democratic goverce into a comprehensive ideology that has fundamentally shaped [[Aquabyssos]] politics for the past three decades.
 
-The movement's core belief centers on the concept of "Sacred Restoration"—the idea that [[Aquabyssos]]'s transition to democratic goverce violated ancient compacts between the realm's rulers and the oceanic forces that define the world. According to Restoration doctrine, only monarchical rule blessed by traditional religious authorities can properly channel the deep magical currents that protect and sustain the realm.
+The movement's core belief centers on the concept of "Sacred Restoration"—the idea that [[Aquabyssos]]'s transition to democratic goverce violated ancient compacts between the realm's rulers and the oceanic forces that define the world. According to Restoration doctrine, only monarchical rule [[Bless]]ed by traditional religious authorities can properly channel the deep magical currents that protect and sustain the realm.
 
-The Restoration Movement encompasses multiple factions with sometimes competing visions, from moderate reformers seeking gradual constitutional changes to radical restorationists advocating complete overthrow of democratic institutions. This ideological diversity has both strengthened and weakened the movement, providing broad appeal while preventing unified action toward clear goals.
+The Restoration Movement encompasses multiple factions with some[[Time]]s competing visions, from moderate reformers seeking gradual constitutional changes to radical restorationists advocating complete overthrow of democratic institutions. This ideological diversity has both strengthened and weakened the movement, providing broad appeal while preventing unified action toward clear goals.
 
 ### Origins in Crisis (Immediate Post-Bathyal Succession)
 
 **Year 1 of the New Democratic Era** - **Seeds of Opposition**
-Even as [[The Bathyal Succession]] concluded with the establishment of democratic goverce, significant portions of [[Aquabyssos]] society remained deeply uncomfortable with the dramatic political transformation. Traditional religious leaders, hereditary nobles, and cultural conservatives expressed concern that abandoning millennia of monarchical rule would invite divine displeasure and undermine the realm's stability.
+Even as [[The Bathyal Succession]] concluded with the establishment of democratic goverce, significant portions of [[Aquabyssos]] society remained deeply uncomfortable with the dramatic political transformation. Traditional [[Religious Leaders]], hereditary nobles, and cultural conservatives expressed concern that abandoning millennia of monarchical rule would invite divine displeasure and undermine the realm's stability.
 
 The earliest proto-Restoration activities centered around private gatherings of displaced nobles, traditionalist priests, and conservative scholars who met to discuss their concerns about the new democratic order. These informal meetings, initially focused on preserving traditional culture and religion under the new system, gradually evolved into more systematic criticism of democratic goverce itself.
 
@@ -116,17 +116,17 @@ The movement's religious dimension crystallized around the teachings of [[Deep P
 
 Covet's doctrine emphasized that [[Aquabyssos]]'s monarchical traditions were not merely political arrangements but sacred covets between rulers and the elemental forces of the deep oceans. He argued that democratic leaders, lacking proper religious consecration and hereditary connection to these forces, could not effectively protect the realm from spiritual and magical threats.
 
-The theological framework attracted support from traditional religious communities throughout [[Aquabyssos]], particularly in regions where ancient religious practices remained strong. Temples and shrines became centers for Restoration activities, providing organizational infrastructure and legitimacy for the growing movement.
+The theological framework attracted support from traditional [[Religious Communities]] throughout [[Aquabyssos]], particularly in [[region]]s where ancient religious practices remained strong. Temples and shrines became centers for Restoration activities, providing [[Organization]]al infrastructure and legitimacy for the growing movement.
 
 **Years 5-8 of the New Democratic Era** - **Political Organization**
-As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble Born Marina Deepcurrent]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
+As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble-Born [[Marina Deepcurrent]]]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
 
-The formation of the "Sacred Covet Party" marked the movement's entry into democratic politics, creating the paradox of using democratic processes to oppose democracy itself. The party's early electoral successes, particularly in traditional and rural areas, demonstrated significant popular support for Restoration ideals.
+The formation of the "Sacred Covet Party" marked the movement's entry into democratic politics, creating the paradox of using democratic processes to oppose democracy itself. [[The Party]]'s early electoral successes, particularly in traditional and rural areas, demonstrated significant popular support for Restoration ideals.
 
 However, participation in democratic goverce created tensions within the movement between "pragmatic restorationists" who sought change through existing institutions and "pure restorationists" who viewed any engagement with democratic processes as illegitimate compromise.
 
 **Years 8-12 of the New Democratic Era** - **The First Restoration Crisis**
-Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant Priest Abyssal]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
+Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant-Priest Abyssal (D&D_References)]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
 
 The conspiracy's discovery and suppression by democratic authorities created the movement's first martyrs while also demonstrating the practical limitations of purely traditional approaches to political change. The crisis forced the movement to confront fundamental questions about means, methods, and ultimate objectives.
 
@@ -149,24 +149,24 @@ The coalition's electoral successes, particularly in local and regional election
 This period saw the movement's greatest political influence, with Traditional Values Coalition politicians holding significant positions in regional governments and influencing national policy debates. However, this success came at the cost of ideological coherence, as electoral considerations forced compromises that many committed restorationists viewed as betrayal of core principles.
 
 **Years 25-30 of the New Democratic Era (Recent Past)** - **The Second Fragmentation**
-The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef Crown]] and radical "Pure Restorationists" led by [[High Restorer Tidal Crown Maraleth]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
+The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef-Crown (D&D_References)]] and radical "Pure Restorationists" led by [[Tidal Crown]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
 
-The Democratic Traditionalists argued that working within existing institutions while advocating traditional values offered the most realistic path to meaningful change. They emphasized cultural and religious restoration over political transformation, seeking to influence society gradually through education, religious revival, and peaceful political participation.
+The Democratic Traditionalists argued that working within existing institutions while advocating traditional values offered the most realistic [[path]] to meaningful change. They emphasized cultural and religious restoration over political transformation, seeking to influence society gradually through education, [[Religious Revival]], and peaceful political participation.
 
 The Pure Restorationists rejected this approach as inadequate compromise, arguing that democratic goverce was inherently incompatible with traditional [[Aquabyssos]] values and needed to be completely replaced. They began developing plans for establishing alternative goverce structures and preparing for eventual confrontation with democratic authorities.
 
 ### Contemporary Status and Current Activities
 
 **Years 30-35 of the New Democratic Era (Present Day)** - **Ongoing Evolution**
-The Restoration Movement continues to evolve in response to changing political conditions and new challenges. The emergence of threats like [[The Great Convergence Prophecies]] has provided new arguments for traditional goverce, as movement leaders argue that only properly consecrated monarchical authority can guide [[Aquabyssos]] through prophesied trials.
+The Restoration Movement continues to evolve in response to changing political conditions and new challenges. [[The Emergence]] of threats like [[The Great Convergence Prophecies]] has provided new arguments for traditional goverce, as movement leaders argue that only properly consecrated monarchical authority can guide [[Aquabyssos]] through prophesied trials.
 
 Current movement activities span the full spectrum of political engagement, from legitimate electoral politics to underground revolutionary planning. The movement's fragmented nature means that different factions often work at cross-purposes, sometimes competing more intensely with each other than with democratic opponents.
 
-Recent years have seen increased sophistication in movement organization, with different factions developing specialized capabilities and focusing on distinct aspects of restoration goals. This specialization has increased overall movement effectiveness while further reducing coordination between different groups.
+Recent years have seen increased sophistication in movement organization, with different factions developing specialized capabilities and focusing on distinct aspects of restoration goals. This specialization has increased overall movement effectiveness while further reducing coordination between different [[Groups]].
 
 ### The Democratic Traditionalists
 
-**Leader**: [[Political Leader Reef Crown]]
+**Leader**: [[Political Leader Reef-Crown (D&D_References)]]
 **Philosophy**: Gradual restoration of traditional values through democratic processes
 **Methods**: Electoral politics, cultural education, religious revival through [[Temple of the First Tide]] partnerships
 **Membership**: ~50,000 active supporters, broader sympathizer network coordinating through [[Reputation System]] influence networks
@@ -180,16 +180,16 @@ The Democratic Traditionalists represent the most moderate and politically succe
 - Government support for traditional religious practices and institutions
 - Gradual expansion of ceremonial monarchical elements within democratic framework
 
-**Electoral Strategy**: The faction operates through the "Cultural Heritage Party," which focuses on local and regional elections where traditional values have stronger appeal. They avoid explicitly anti-democratic rhetoric while emphasizing themes of cultural preservation, religious freedom, and historical continuity.
+**Electoral Strategy**: The faction operates through the "Cultural Heritage Party," which focuses on local and regional elections where traditional values have stronger appeal. They avoid explicitly anti-democratic rhetoric while emphasizing themes of [[Cultural Preservation]], religious freedom, and historical continuity.
 
 **Internal Challenges**: The faction faces constant criticism from more radical restorationists who view their approach as ineffective compromise. They also struggle to maintain distinctiveness from purely conservative democratic politicians while avoiding charges of disloyalty to democratic institutions.
 
 ### The Pure Restorationists
 
-**Leader**: [[High Restorer Tidal Crown Maraleth]]
+**Leader**: [[Tidal Crown]]
 **Philosophy**: Complete restoration of traditional monarchical goverce
-**Methods**: Religious authority through [[Deep Mother Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] shadow networks
-**Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] communication systems
+**Methods**: Religious authority through [[[[Deep Mother]] Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] [[Shadow Network]]s
+**Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] [[Communication Systems]]
 **Influence**: Limited in formal politics, significant in traditional religious communities and [[Crystal Forest]] resource extraction territories
 
 The Pure Restorationists reject democratic goverce entirely, viewing it as a historical aberration that must be completely replaced with restored traditional monarchy. They emphasize religious authority, hereditary legitimacy, and the sacred nature of traditional goverce structures.
@@ -210,19 +210,19 @@ The Pure Restorationists reject democratic goverce entirely, viewing it as a his
 **Philosophy**: Military restoration backed by religious authority from [[The Deep Mother]] and traditional warrior codes
 **Methods**: Military organization through [[Fear Farms]] training facilities, strategic planning, alliance building with [[The Seven Betrayers]] descendant bloodlines
 **Membership**: ~15,000 trained members, military and veterans focus, recruiting from [[Surface Dweller Adaptation]] communities
-**Influence**: Limited but concentrated, significant concern to security services and [[Investigation Procedures]] monitoring networks
+**Influence**: Limited but concentrated, significant concern to [[Security Services]] and [[Investigation Procedures]] monitoring networks
 
 The Sacred Covet Brotherhood represents the most militant faction within the Restoration Movement, focusing on military approaches to political change. Led by former military officers and traditionalist warriors, they emphasize preparation for potential armed conflict while maintaining public commitment to peaceful methods.
 
 **Military Doctrine**: The Brotherhood views restoration as primarily requiring military capability to overcome democratic resistance and establish traditional order. They believe that democratic goverce lacks the martial virtue necessary to protect [[Aquabyssos]] from external threats and internal disorder.
 
-**Recruitment and Training**: The faction actively recruits from military veterans, traditional warrior families, and young people attracted to martial idealism. Training programs emphasize both military skills and traditional [[Aquabyssos]] warrior culture, creating a distinctive identity that combines political goals with military traditions.
+**Recruitment and Training**: The faction actively recruits from military veterans, traditional warrior families, and young [[People]] attracted to martial idealism. Training programs emphasize both military skills and traditional [[Aquabyssos]] warrior culture, creating a distinctive identity that combines political goals with military traditions.
 
 **Strategic Planning**: Brotherhood planning focuses on scenarios where democratic goverce fails or faces overwhelming challenges, creating opportunities for traditional authorities to assume control. Their preparations include detailed plans for establishing military order, protecting key infrastructure, and managing transition periods.
 
 ### The Evolutionary Traditionalists
 
-**Leader**: [[Cultural-Sage Deep-Memor|02 Worldbuilding/Groups/Cultural Sage Deep Memor]]
+**Leader**: [[Cultural-Sage Deep-Memor|[[02 Worldbuilding]]/Groups/Cultural Sage Deep Memor]]
 **Philosophy**: Cultural restoration within flexible political frameworks
 **Methods**: Education, cultural preservation, intellectual development
 **Membership**: ~20,000 scholars, artists, and cultural practitioners
@@ -230,7 +230,7 @@ The Sacred Covet Brotherhood represents the most militant faction within the Res
 
 The Evolutionary Traditionalists seek to preserve and revitalize traditional [[Aquabyssos]] culture while remaining agnostic about specific political arrangements. They argue that cultural restoration is more important than political restoration and that traditional values can thrive under various goverce systems if properly supported.
 
-**Cultural Focus**: Rather than emphasizing political change, this faction concentrates on education, artistic expression, religious practice, and cultural preservation. They operate schools, cultural centers, religious institutions, and artistic organizations that promote traditional [[Aquabyssos]] values.
+**Cultural Focus**: Rather than emphasizing political change, this faction concentrates on education, artistic expression, religious practice, and cultural preservation. They operate schools, [[Cultural Centers]], [[Religious Institutions]], and artistic organizations that promote traditional [[Aquabyssos]] values.
 
 **Philosophical Approach**: Evolutionary Traditionalists view culture as more fundamental than politics, arguing that authentic political restoration must be preceded by cultural renewal. They emphasize long-term change measured in generations rather than immediate political transformation.
 
@@ -290,7 +290,7 @@ The movement's emphasis on traditional values has influenced economic and social
 
 Restoration Movement intellectuals have made significant contributions to [[Aquabyssos]] scholarship, particularly in history, theology, political philosophy, and cultural studies. Their work has enriched academic discourse even when their political conclusions remain controversial.
 
-**Historical Research**: Movement scholars have conducted extensive research into [[Aquabyssos]] history, uncovering important information about traditional goverce, cultural practices, and historical events. This research has improved general historical knowledge while supporting movement arguments.
+**[[Historical Research]]**: Movement scholars have conducted extensive research into [[Aquabyssos]] history, uncovering important information about traditional goverce, cultural practices, and historical events. This research has improved general historical knowledge while supporting movement arguments.
 
 **Philosophical Development**: Restoration philosophers have developed sophisticated critiques of democratic theory and practice while elaborating traditional political concepts. Their work has forced democratic theorists to engage more seriously with questions of authority, legitimacy, and cultural continuity.
 
@@ -342,9 +342,9 @@ Changes in [[Aquabyssos]]'s broader political environment create both opportunit
 
 **Convergence Implications**: The prophesied [[The Great Convergence Prophecies]] provides the movement with new arguments about the inadequacy of democratic goverce for managing unprecedented challenges. However, it also creates uncertainty about what political arrangements would be appropriate for a post-convergence world.
 
-**International Relations**: [[Aquabyssos]]'s relationships with other powers, particularly neighboring realms and emerging threats, influence domestic politics in ways that can either support or undermine movement arguments about the effectiveness of democratic goverce.
+**[[International Relations]]**: [[Aquabyssos]]'s relationships with other powers, particularly neighboring realms and emerging threats, influence domestic politics in ways that can either support or undermine movement arguments about the effectiveness of democratic goverce.
 
-**Economic Pressures**: Economic challenges and social changes create political opportunities for opposition movements like the Restoration Movement, but they also test movement proposals and force practical consideration of how traditional goverce would address contemporary problems.
+**[[Economic Pressure]]s**: Economic challenges and social changes create political opportunities for opposition movements like the Restoration Movement, but they also test movement proposals and force practical consideration of how traditional goverce would address contemporary problems.
 
 ### Adaptation and Evolution
 
@@ -358,23 +358,23 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 ### Political Intrigue Adventures
 
-**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic goverce, requiring use of [[Investigation Procedures]] and [[Evidence Chain Analysis]] while navigating complex political loyalties and competing definitions of legitimacy and loyalty.
+**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic goverce, requiring use of [[Investigation Procedures]] and [[[[Evidence]] Chain Analysis]] while navigating complex political loyalties and competing definitions of legitimacy and loyalty.
 
 **Electoral Manipulation**: A campaign could involve characters investigating or participating in electoral contests where Restoration Movement factions attempt to achieve their objectives through democratic processes, utilizing [[Reputation System]] mechanics and [[Interrogation Techniques]] to uncover vote manipulation schemes connected to [[The Silverscale Conspiracy]].
 
 **Diplomatic Tensions**: International implications of the Restoration Movement could draw characters into diplomatic missions involving neighboring powers concerned about political instability in [[Aquabyssos]] or opportunities created by internal political divisions, potentially involving coordination with [[Silver Mask]] intelligence networks and [[The Great Convergence Prophecies]] strategic considerations.
 
-**The Shadow Alliance**: Investigation reveals connections between Restoration Movement extremists and [[The Crimson Hand]], requiring characters to navigate the dangerous intersection of political ideology and cosmic conspiracy while managing [[Memory Alteration Consequences]] from exposure to supernatural influence.
+**The Shadow Alliance**: Investigation reveals connections between Restoration Movement extremists and [[The Crimson Hand]], requiring characters to navigate the dangerous intersection of political ideology and cosmic conspiracy while managing [[[[Memory Alteration]] Consequences]] from exposure to [[Supernatural Influence]].
 
 ### Cultural and Religious Missions
 
-**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[Deep Mother Cult Practices]] sacred locations that complicate simple cultural preservation projects.
+**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[[[Deep Mother Cult]] Practices]] sacred [[location]]s that complicate simple cultural preservation projects.
 
-**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'s collections, exploration of [[Leviathan Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
+**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[Aquabyssos|02 Worldbuilding/[[Quests]]/Aquabyssos]]'s collections, exploration of [[[[Leviathan]] Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
 
-**Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes using [[Reputation System]] diplomatic mechanics, protecting religious freedom while investigating connections to [[Memory Trader]] memory manipulation, or uncovering alleged religious persecution by [[Silver Mask]] infiltrators in government positions.
+**Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes using [[Reputation System]] diplomatic mechanics, protecting religious freedom while investigating connections to [[Memory Trader]] [[Memory Manipulation]], or uncovering alleged religious persecution by [[Silver Mask]] infiltrators in government positions.
 
-**The Convergence Divide**: The movement splits over interpretation of [[The Great Convergence Prophecies]], with characters navigating factional conflicts while investigating whether [[The Deep Mother]]'s influence is affecting religious visions and traditional practices through [[Tidal Memory Ceremonies]] corruption.
+**The Convergence Divide**: The movement splits over interpretation of [[The Great Convergence Prophecies]], with characters navigating [[Factional Conflicts]] while investigating whether [[The Deep Mother]]'s influence is affecting religious visions and traditional practices through [[Tidal Memory Ceremonies]] corruption.
 
 ### Historical Investigation Adventures
 
@@ -390,9 +390,9 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 **Cross-World Politics**: If the convergence involves contact with [[Aethermoor]], characters could become involved in efforts to establish legitimate authority for governing merged or connected realms, requiring engagement with restoration concepts on a cosmic scale.
 
-**Crisis Management**: Major challenges or disasters could create opportunities for the Restoration Movement to demonstrate the effectiveness of traditional goverce or for characters to prevent movement exploitation of crisis conditions for political advantage.
+**[[Crisis Management]]**: Major challenges or disasters could create opportunities for the Restoration Movement to demonstrate the effectiveness of traditional goverce or for characters to prevent movement exploitation of crisis conditions for political advantage.
 
-### NPC Development Guidelines
+### [[Npc]] Development Guidelines
 
 **Movement Personalities**: Create NPCs representing different movement factions with distinct motivations, methods, and personalities that reflect the diversity within the movement while maintaining believable commitment to traditional values and restoration objectives.
 
@@ -406,7 +406,7 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 **Practical Consequences**: Show how movement activities and democratic responses affect ordinary people, creating stakes for political conflicts that extend beyond abstract principles to concrete impacts on communities and individuals.
 
-**Historical Context**: Use [[Aquabyssos]]'s historical background to provide context for movement arguments and objectives while also demonstrating the complexities and contradictions in both traditional and democratic goverce approaches.
+**[[Historical Context]]**: Use [[Aquabyssos]]'s historical background to provide context for movement arguments and objectives while also demonstrating the complexities and contradictions in both traditional and democratic goverce approaches.
 
 ### Campaign Integration Strategies
 
@@ -426,7 +426,7 @@ The Restoration Movement is a undersea element of the setting, known for biolumi
 
 Legends speak of The Restoration Movement as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Restoration Movement.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -438,7 +438,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-doppelganger-xmm-doppelganger-xmm.svg)
 
-# [[doppelganger xmm|Doppelganger]]
+# [[Doppelganger Xmm]]
 *Source: Monster Manual (2024) p. 100. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -112,17 +112,17 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
       \ available."
     "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +6 (with [[advantage xphb|Advantage]]\
+  - "desc": "Melee Attack Roll: +6 (with [[Advantage Xphb]]\
       \ during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
       \ damage."
     "name": "Slam"
-  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[Area of Effect Xphb]]\
       \ originating from the doppelganger that can see the doppelganger. Failure:\
       \ The target has the [[conditions#frightened|Frightened]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Unsettling Visage (Recharge 6)"
-  - "desc": "The doppelganger casts [[detect thoughts xphb|Detect Thoughts]],\
+  - "desc": "The doppelganger casts [[detect-thoughts-xphb (spells)]],\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 12).\n"
     "name": "Read Thoughts"

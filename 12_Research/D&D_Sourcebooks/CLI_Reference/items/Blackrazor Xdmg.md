@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Blackrazor
-*Weapon ([[greatsword xphb|greatsword]]), artifact (requires attunement)*  
+*Weapon ([[Greatsword Xphb]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
@@ -43,9 +43,9 @@ world: Both
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `d10` Necrotic damage, and the target regains `d10` [[hit points xphb|Hit Points]]. If this Necrotic damage reduces you to 0 [[hit points xphb|Hit Points]], Blackrazor devours your soul (see "Devour Soul" below).
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `d10` Necrotic damage, and the target regains `d10` [[hit-points-xphb (variant-rules)]]. If this Necrotic damage reduces you to 0 [[hit-points-xphb (variant-rules)]], Blackrazor devours your soul (see "Devour Soul" below).
 
-While you hold this weapon, you have [[immunity xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions, and you have [[senses#Blindsight|Blindsight]] with a range of 30 feet.
+While you hold this weapon, you have [[immunity-xphb (variant-rules)]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions, and you have [[senses#Blindsight|Blindsight]] with a range of 30 feet.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -61,13 +61,13 @@ While you hold this weapon, you have [[immunity xphb|Immunity]] to the [[conditi
 
 ## Devour Soul
 
-Whenever you use Blackrazor to reduce a creature to 0 [[hit points xphb|Hit Points]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[wish xphb|Wish]] spell.
+Whenever you use Blackrazor to reduce a creature to 0 [[hit-points-xphb (variant-rules)]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[wish-xphb (spells)]] spell.
 
-When Blackrazor devours a soul that isn't yours, you gain [[temporary hit points xphb|Temporary Hit Points]] equal to the slain creature's [[hit points xphb|Hit Point]] maximum.
+When Blackrazor devours a soul that isn't yours, you gain [[temporary-hit-points-xphb (variant-rules)]] equal to the slain creature's [[hit-points-xphb (variant-rules)]] maximum.
 
 ## Haste
 
-Blackrazor can cast [[haste xphb|Haste]] on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [[conditions#Concentration|Concentration]] required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
+Blackrazor can cast [[Haste Xphb]] on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [[conditions#Concentration|Concentration]] required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
 
 ## Sentience
 

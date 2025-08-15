@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bone-naga-xmm-bone-naga-xmm.svg)
 
-# [[bone naga xmm|Bone Naga]]
+# [[bone-naga-xmm (undead)]]
 *Source: Monster Manual (2024) p. 53*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,9 +100,9 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
     "name": "Serpentine Gaze"
   - "desc": "The naga casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      At will: [[mage hand xphb|Mage Hand]], [[thaumaturgy xphb|Thaumaturgy]]\n\
-      \n1/day each: [[command xphb|Command]], [[detect thoughts xphb|Detect\]]
-      \ Thoughts]], [[lightning bolt xphb|Lightning Bolt]]"
+      At will: [[mage-hand-xphb (spells)]], [[Thaumaturgy Xphb]]\n\
+      \n1/day each: [[command-xphb (spells)]], [[detect-thoughts-xphb (spells)]]
+      \ Thoughts]], [[Lightning Bolt Xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

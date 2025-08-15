@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-awakened-tree-xmm-awakened-tree-xmm.svg)
 
-# [[awakened tree xmm|Awakened Tree]]
+# [[awakened-tree-xmm (plant)]]
 *Source: Monster Manual (2024) p. 23. Available in the SRD and the Free Rules (2024)*  
 
 Some awakened trees stand in still, meditative states for long periods, making them easy to mistake for normal plants, while others patrol regions of natural power. Awakened trees are sometimes brought to life by influences from the Feywild, which make them colorful and endlessly blooming, or by Shadowfell energy, which covers them with grotesque burls or makes them look lifeless.
@@ -63,7 +63,7 @@ Some awakened trees stand in still, meditative states for long periods, making t
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[Awaken Xphb]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 

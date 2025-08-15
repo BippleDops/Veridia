@@ -1,5 +1,6 @@
 ---
 
+
 title: Moral Dilemmas
 type: ethics
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ### Dilemma_251
@@ -322,3 +324,9 @@ improvements: 20
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

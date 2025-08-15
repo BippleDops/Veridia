@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-bronze-scout-mpmm-clockwork-bronze-scout-mpmm.svg)
 
-# [[clockwork bronze scout mpmm|Clockwork Bronze Scout]]
+# [[Clockwork Bronze Scout Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.

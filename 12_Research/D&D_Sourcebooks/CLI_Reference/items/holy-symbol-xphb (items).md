@@ -40,9 +40,9 @@ world: Both
 
 **Items in this group:**
 
-- [[amulet xphb|Amulet]]
-- [[emblem xphb|Emblem]]
-- [[reliquary xphb|Reliquary]]
+- [[amulet-xphb (items)]]
+- [[emblem-xphb (items)]]
+- [[Reliquary Xphb]]
 
 *Source: Player's Handbook (2024) p. 226*
 

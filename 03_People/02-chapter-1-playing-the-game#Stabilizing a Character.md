@@ -1,28 +1,31 @@
 ---
+
 title: 02-chapter-1-playing-the-game#Stabilizing a Character
 type: note
 tags:
 - auto-generated
 - linked
 created: '2025-01-15'
+modified: 2025-08-14
+status: active
 ---
 
 # 02-chapter-1-playing-the-game#Stabilizing a Character
 
 ## Portrait
 
-![[portrait_02-chapter-1-playing-the-game#stabilizing_a_character.png]]
+![[02 Chapter 1 Playing the Game]]
 
 *Portrait reference for 02-chapter-1-playing-the-game#Stabilizing a Character*
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]] and other parts of the campaign.
+This topic is referenced in [[Portal Commander Marina Bridgewright]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]
+- Referenced by: [[Portal Commander Marina Bridgewright]]
 - Related topics in the same category
 
 ## Details
@@ -75,3 +78,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

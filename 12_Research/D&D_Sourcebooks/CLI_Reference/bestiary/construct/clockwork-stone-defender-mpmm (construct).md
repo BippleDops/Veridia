@@ -42,10 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-stone-defender-mpmm-clockwork-stone-defender-mpmm.svg)
 
-# [[clockwork stone defender mpmm|Clockwork Stone Defender]]
+# [[clockwork-stone-defender-mpmm (construct)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 
-The thick plates of stone riveted onto a stone [[defender xdmg|defender]] give it substantial protection. Its chief role is as a bodyguard.
+The thick plates of stone riveted onto a stone [[defender-xdmg (items)]] give it substantial protection. Its chief role is as a bodyguard.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -37,25 +37,25 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[bat xmm|Bat]], [[cat xmm|Cat]], [[goat xmm|Goat]], [[rat xmm|Rat]], [[raven xmm|Raven]], [[spider xmm|Spider]] |
-| 1/8 | [[giant-rat-xmm|Giant Rat]], [[kobold-warrior-xmm|Kobold Warrior]], [[mastiff xmm|Mastiff]], [[mule xmm|Mule]], [[pony xmm|Pony]], [[stirge xmm|Stirge]] |
-| 1/4 | [[animated-broom-xmm|Animated Broom]], [[animated-flying-sword-xmm|Animated Flying Sword]], [[draft-horse-xmm|Draft Horse]], [[giant-centipede-xmm|Giant Centipede]], [[kenku xmm|Kenku]], [[pseudodragon xmm|Pseudodragon]], [[riding-horse-xmm|Riding Horse]], [[skeleton xmm|Skeleton]], [[swarm-of-bats-xmm|Swarm of Bats]], [[swarm-of-rats-xmm|Swarm of Rats]], [[swarm-of-ravens-xmm|Swarm of Ravens]], [[winged-kobold-xmm|Winged Kobold]], [[zombie xmm|Zombie]] |
-| 1/2 | [[crocodile xmm|Crocodile]], [[giant-wasp-xmm|Giant Wasp]], [[shadow xmm|Shadow]], [[swarm-of-insects-xmm|Swarm of Insects]], [[warhorse xmm|Warhorse]], [[warhorse-skeleton-xmm|Warhorse Skeleton]] |
-| 1 | [[animated-armor-xmm|Animated Armor]], [[ghoul xmm|Ghoul]], [[giant-spider-xmm|Giant Spider]], [[lacedon-ghoul-xmm|Lacedon Ghoul]], [[specter xmm|Specter]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]] |
-| 2 | [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]], [[carrion-crawler-xmm|Carrion Crawler]], [[gargoyle xmm|Gargoyle]], [[ghast xmm|Ghast]], [[mimic xmm|Mimic]], [[minotaur-skeleton-xmm|Minotaur Skeleton]], [[ogre-zombie-xmm|Ogre Zombie]], [[poltergeist xmm|Poltergeist]], [[silver-dragon-wyrmling-xmm|Silver Dragon Wyrmling]], [[swarm-of-stirges-xmm|Swarm of Stirges]], [[wererat xmm|Wererat]], [[will-o-wisp-xmm|Will-o'-Wisp]] |
-| 3 | [[doppelganger xmm|Doppelganger]], [[flaming-skeleton-xmm|Flaming Skeleton]], [[phase-spider-xmm|Phase Spider]], [[/03 Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm|Vampire Familiar]], [[water-weird-xmm|Water Weird]], [[wight xmm|Wight]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|Yuan-ti Malison (Type 1)]]/[[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|Yuan-ti Malison (Type 2)]]/[[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|Yuan-ti Malison (Type 3)]] |
-| 4 | [[couatl xmm|Couatl]], [[ghost xmm|Ghost]], [[incubus xmm|Incubus]], [[succubus xmm|Succubus]] |
+| 0 | [[Giant Bat Xmm]], [[cat-xmm (beast)]], [[Goat Xmm]], [[Wererat Xmm]], [[Raven Xmm]], [[phase-spider-xmm (monstrosity)]] |
+| 1/8 | [[giant-rat-xmm|Giant Rat]], [[kobold-warrior-xmm|Kobold Warrior]], [[Mastiff Xmm]], [[mule-xmm (beast)]], [[pony-xmm (beast)]], [[Stirge Xmm]] |
+| 1/4 | [[Animated Broom Xmm]], [[animated-flying-sword-xmm (construct)]], [[draft-horse-xmm (beast)]], [[giant-centipede-xmm|Giant Centipede]], [[Kenku Xmm]], [[pseudodragon-xmm (dragon)]], [[riding-horse-xmm|Riding Horse]], [[flaming-skeleton-xmm (undead)]], [[swarm-of-bats-xmm|Swarm of Bats]], [[swarm-of-rats-xmm (beast)]], [[swarm-of-ravens-xmm|Swarm of Ravens]], [[winged-kobold-xmm|Winged Kobold]], [[Zombie Xmm]] |
+| 1/2 | [[Crocodile Xmm]], [[giant-wasp-xmm|Giant Wasp]], [[Shadow Xmm]], [[swarm-of-insects-xmm|Swarm of Insects]], [[warhorse-xmm (beast)]], [[warhorse-skeleton-xmm (undead)]] |
+| 1 | [[Animated Armor Xmm]], [[ghoul-xmm (undead)]], [[giant-spider-xmm|Giant Spider]], [[lacedon-ghoul-xmm (undead)]], [[specter-xmm (undead)]], [[Bestiary]] |
+| 2 | [[animated-rug-of-smothering-xmm (construct)]], [[Carrion Crawler Xmm]], [[gargoyle-xmm (elemental)]], [[ghast-xmm (undead)]], [[Mimic Xmm]], [[minotaur-skeleton-xmm (undead)]], [[Zombie Xmm]], [[Poltergeist Xmm]], [[Silver Dragon]], [[swarm-of-stirges-xmm (monstrosity)]], [[Wererat Xmm]], [[will-o-wisp-xmm|Will-o'-Wisp]] |
+| 3 | [[Doppelganger Xmm]], [[flaming-skeleton-xmm (undead)]], [[phase-spider-xmm|Phase Spider]], [[Bestiary]], [[water-weird-xmm|Water Weird]], [[Wight Xmm]], [[Bestiary]]/[[Bestiary]]/[[Bestiary]] |
+| 4 | [[Couatl Xmm]], [[Ghost Xmm]], [[incubus-xmm (fiend)]], [[succubus-xmm (fiend)]] |
 | 5 | [[beholder-zombie-xmm|Beholder Zombie]], [[revet xmm|Revet]], [[vampire-spawn-xmm|Vampire Spawn]] |
-| 6 | [[ghast-gravecaller-xmm|Ghast Gravecaller]], [[invisible-stalker-xmm|Invisible Stalker]] |
-| 7 | [[graveyard-revet-xmm|Graveyard Revet]], [[oni xmm|Oni]], [[shield-guardian-xmm|Shield Guardian]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|Yuan-ti Abomination]] |
-| 8 | [[vampire-nightbringer-xmm|Vampire Nightbringer]] |
-| 9 | [[clay-golem-xmm|Clay Golem]], [[young-silver-dragon-xmm|Young Silver Dragon]] |
+| 6 | [[ghast-gravecaller-xmm (undead)]], [[invisible-stalker-xmm (elemental)]] |
+| 7 | [[graveyard-revet-xmm|Graveyard Revet]], [[Oni Xmm]], [[Shield]], [[Bestiary]] |
+| 8 | [[vampire-nightbringer-xmm (undead)]] |
+| 9 | [[clay-golem-xmm (construct)]], [[young-silver-dragon-xmm|Young Silver Dragon]] |
 | 10 | [[haunting-revet-xmm|Haunting Revet]] |
-| 13 | [[rakshasa xmm|Rakshasa]], [[vampire xmm|Vampire]] |
-| 15 | [[vampire-umbral-lord-xmm|Vampire Umbral Lord]] |
-| 16 | [[adult-silver-dragon-xmm|Adult Silver Dragon]] |
-| 23 | [[ancient-silver-dragon-xmm|Ancient Silver Dragon]] |
-| 30 | [[tarrasque xmm|Tarrasque]] |
+| 13 | [[Rakshasa Xmm]], [[Vampire Xmm (undead)]] |
+| 15 | [[vampire-umbral-lord-xmm (undead)]] |
+| 16 | [[Silver Dragon]] |
+| 23 | [[ancient-silver-dragon-xmm (dragon)]] |
+| 30 | [[Tarrasque Xmm]] |
 ^urban-monsters
 
 ## 🔧 Deep Evaluation Improvements

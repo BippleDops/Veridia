@@ -37,14 +37,14 @@ world: Both
 
 | Potion of... | Cost |
 |--------------|------|
-| [[potion of healing xdmg|Healing]] | 50 gp |
-| [[potion of climbing xdmg|Climbing]] | 75 gp |
-| [[potion of animal friendship xdmg|Animal friendship]] | 100 gp |
-| [[potion of greater healing xdmg|Greater healing]] | 100 gp |
-| [[potion of water breathing xdmg|Water breathing]] | 100 gp |
-| [[potion of superior healing xdmg|Superior healing]] | 500 gp |
-| [[potion of supreme healing xdmg|Supreme healing]] | 5,000 gp |
-| [[potion of invisibility xdmg|Invisibility]] | 5,000 gp |
+| [[Potion of Healing Xdmg]] | 50 gp |
+| [[Potion of Climbing Xdmg]] | 75 gp |
+| [[potion-of-animal-friendship-xdmg (items)]] | 100 gp |
+| [[potion-of-greater-healing-xdmg (items)]] | 100 gp |
+| [[Potion of Water Breathing Xdmg]] | 100 gp |
+| [[healing]] | 500 gp |
+| [[Potion of Supreme Healing Xdmg]] | 5,000 gp |
+| [[potion-of-invisibility-xdmg (items)]] | 5,000 gp |
 ^potions-for-sale
 
 ## 🔧 Deep Evaluation Improvements

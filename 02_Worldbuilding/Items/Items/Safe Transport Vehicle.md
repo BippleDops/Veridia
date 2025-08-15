@@ -19,6 +19,12 @@ Safe Transport Vehicle is a notable item with both practical use and historical 
 
 ## Description
 **Type**: Wondrous Item
+
+*An item of interest to adventurers.*
+
+*An item of interest to adventurers.*
+
+*An item of interest to adventurers.*
 **Rarity**: Uncommon
 **Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 

@@ -116,11 +116,11 @@ Legends speak of Blood in the Water as a nexus where past and present converge. 
 
 ## Relationships
 
-- **Debtor**: [[Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
+- **Debtor**: [[Npc]]
 - **Enemy**: [[Master Cultivator Thalia Greenglow]]
-- **Child**: [[Portrait NPC Lord Aldric Thornwhisper V1 Lord Aldric Thornwhisper.svg]]
-- **Child**: [[Portrait NPC High Priest Absence V2 High Priest Absence.svg]]
-- **Ally**: [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]
+- **Child**: [[Npc]]
+- **Child**: [[Npc]]
+- **Ally**: [[Assets]]
 
 ## Plot Hooks
 

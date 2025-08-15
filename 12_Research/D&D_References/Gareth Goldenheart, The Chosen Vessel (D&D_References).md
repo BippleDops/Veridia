@@ -57,9 +57,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Creditor**: [[Lady Elena the Eternal]]
-- **Blackmailer**: [[Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg]]
-- **Debtor**: [[Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
-- **Student**: [[Assets Locations Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]
+- **Blackmailer**: [[Assets]]
+- **Debtor**: [[Npc]]
+- **Student**: [[Assets]]
 - **Debtor**: [[The Corroded Crown]]
 
 ## 12_Research Specific Content

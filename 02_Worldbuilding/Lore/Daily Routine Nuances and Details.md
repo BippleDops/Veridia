@@ -1,7 +1,7 @@
 ---
 
 title: Daily Routine Nuances and Details
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -73,7 +73,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -108,7 +108,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 ### Aquabyssos Alarm Systems
 
 **Bioluminescent Dawn Simulators**:
-- Living coral organisms bred to brighten gradually over 30 minutes
+- Living [[Coral]] organisms bred to brighten gradually over 30 minutes
 - Different species produce different color spectrums for various moods
 - Wealthy families maintain private coral gardens for personalized wake-up experiences
 - Coral health directly affects alarm reliability, requiring daily care
@@ -123,7 +123,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Bedchamber designs that gradually increase water flow over sleeping area
 - Natural simulation of tidal patterns to encourage biological rhythm alignment
 - Can be combined with temperature changes for more effective arousal
-- Expensive systems can simulate specific current patterns from childhood locations
+- Expensive systems can simulate specific current patterns from childhood [[location]]s
 
 ### Aethermoor Alarm Systems
 
@@ -165,7 +165,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Passengers contribute to conversation or maintain respectful silence
 - Sharing food or small items during journey builds social connections
 - Taking turns operating secondary systems (navigation, comfort) shows community spirit
-- Emergency procedures practiced monthly by regular passenger groups
+- Emergency procedures practiced monthly by regular passenger [[Groups]]
 
 ### Aethermoor Transportation Timing  
 
@@ -184,7 +184,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 **Platform Transfer Protocols**:
 - Boarding priority given to families with children and elderly passengers
 - Equipment inspection performed publicly to demonstrate safety consciousness
-- Weather delays announced through crystal resoce networks
+- Weather delays announced through [[Crystal Resoce Networks]]
 - Alternative routing automatically calculated and broadcast during disruptions
 
 ---
@@ -196,14 +196,14 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Day 3-5: Primary extraction work during optimal body adaptation period
 - Day 6-8: Secondary processing and equipment maintece at full pressure
 - Day 9-10: Gradual decompression with documentation and final medical clearance
-- Recovery period includes mandatory family time and psychological counseling
+- Recovery period includes mandatory family [[Time]] and psychological counseling
 
 **Government Administration Flexibility**:
 - Core hours (0900-1500) mandatory for all civil servants
 - Early start option (0700-1300) for those with family obligations
 - Late start option (1100-1700) for those with evening community responsibilities
 - Flexible lunch periods (1-3 hours) to accommodate pressure adjustment needs
-- Monthly rotation between different pressure zones to prevent adaptation issues
+- Monthly rotation between different [[Pressure Zones]] to prevent adaptation issues
 
 **Artisan Workshop Coordination**:
 - Morning hours (0600-1200) reserved for detail work requiring steady hands
@@ -386,12 +386,12 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Pressure washing: Using water pressure for deep cleaning and therapeutic massage
 - Kelp soaps: Natural cleaning products made from processed sea plants and marine minerals
 - Current rinses: Final cleansing in fresh current flow to remove soap residues
-- Sea silk drying: Using processed marine materials for gentle body drying
+- [[Sea Silk]] drying: Using processed marine materials for gentle body drying
 
 **Grooming Standards by Depth**:
 - Surface workers: Standard hygiene with additional moisture protection for pressure transitions
 - Mid-depth residents: Enhanced skin care for pressure adaptation and water exposure
-- Deep dwellers: Specialized treatments for extreme pressure effects on skin and hair
+- Deep dwellers: Specialized treatments for extreme [[Pressure Effects]] on skin and hair
 - Pressure professionals: Occupational hygiene requirements including equipment sanitization
 - Community standards: Neighborhood hygiene expectations and shared facility etiquette
 
@@ -492,7 +492,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 **Deep Current Season Opportunities (1-2 months)**:
 - Unique exploration: Annual access to rarely accessible deep areas
 - Resource gathering: Collection of rare deep-sea materials and resources
-- Spiritual quests: Religious pilgrimages to deep sacred sites and meditation locations
+- Spiritual [[Quests]]: Religious pilgrimages to deep sacred sites and meditation locations
 - Scientific expeditions: Research activities taking advantage of special current patterns
 - Cultural ceremonies: Traditional observances requiring specific deep current conditions
 
@@ -503,7 +503,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 - Indoor concentration: Activities focused in protected, stable atmospheric environments
 - Community cooperation: Increased resource sharing and weather preparation collaboration
 - Emergency readiness: Constant preparation for weather emergencies and atmospheric hazards
-- Cultural emphasis: Enhanced storytelling, crafts, and indoor cultural preservation activities
+- Cultural emphasis: Enhanced storytelling, crafts, and indoor [[Cultural Preservation]] activities
 
 **Fair Weather Season Expansions (6-8 months)**:
 - Extended flight activities: Longer aerial work days (12-14 hours) during optimal conditions
@@ -524,7 +524,7 @@ This comprehensive guide details over 30 specific nuances of daily life in both 
 ### Infant and Toddler Care Nuances (0-3 years)
 
 **Aquabyssos Infant Adaptations**:
-- Gradual pressure introduction: 5-minute increases daily over first year
+- Gradual pressure [[Introduction]]: 5-minute increases daily over first year
 - Family pressure pods: Multi-family childcare sharing during pressure adjustments
 - Safety monitoring: Constant adult supervision during any depth changes
 - Nutrition adaptation: Special diets supporting pressure tolerance development
@@ -598,11 +598,11 @@ Daily Routine Nuances and Details is a undersea element of the setting, known fo
 
 Legends speak of Daily Routine Nuances and Details as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Daily Routine Nuances and Details.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

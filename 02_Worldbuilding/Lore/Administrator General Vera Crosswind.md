@@ -1,13 +1,13 @@
 ---
 
 title: Administrator General Vera Crosswind
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- dimensional nexus (both realms)
+- [[Dimensional Nexus]] (both realms)
 - content/lore
 - world/both
-- content/location
+- content/[[location]]
 - active
 - complete
 - status/in-progress
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ Administrator General Vera Crosswind is a undersea element of the setting, known
 
 Legends speak of Administrator General Vera Crosswind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Administrator General Vera Crosswind.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

@@ -1,22 +1,22 @@
 ---
-title: 02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright
+title: 02_Worldbuilding_[[Lore]]_Master_[[Artificer]]_Coral_Gemwright
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # 02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Dr Siphon Gillwater Dr Siphon Gillwater.png]] and other parts of the campaign.
+This topic is referenced in [[Dr Siphon Gillwater]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Dr Siphon Gillwater Dr Siphon Gillwater.png]]
+- Referenced by: [[Dr Siphon Gillwater]]
 - Related topics in the same category
 
 ## Details

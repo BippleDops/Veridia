@@ -264,7 +264,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 **[[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater]]
 **[[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
 **[[Memory Farmers]]**: Direct competition in memory-related criminal services  
-**[[02 Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
+**[[Groups]]**: Paladins dedicated to stopping shadow magic abuse
 **[[Reformed Surgeons Alliance]]**: Former members exposing operations and helping victims
 **[[Citizens Protection Bureau]]**: Government agency investigating medical crimes
 

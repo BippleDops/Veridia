@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
-A [[block and tackle xphb|Block and Tackle]] allows you to hoist up to four times the weight you can normally lift.
+A [[Block and Tackle Xphb]] allows you to hoist up to four times the weight you can normally lift.
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
 

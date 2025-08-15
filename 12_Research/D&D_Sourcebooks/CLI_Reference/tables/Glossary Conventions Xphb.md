@@ -44,13 +44,13 @@ world: Both
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [[challenge rating xphb|Challenge Rating]] |
-| DC | [[difficulty class xphb|Difficulty Class]] |
+| CR | [[challenge-rating-xphb (variant-rules)]] |
+| DC | [[difficulty-class-xphb (variant-rules)]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [[hit points xphb|Hit Point]](s) |
+| HP | [[hit-points-xphb (variant-rules)]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -60,15 +60,15 @@ world: Both
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [[proficiency xphb|Proficiency Bonus]] |
+| PB | [[Proficiency Xphb]] |
 | PP | Platinum Piece(s) |
-| R | [[ritual xphb|Ritual]] |
+| R | [[Ritual Xphb]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [[experience points xphb|Experience Point]](s) |
+| XP | [[Experience Points Xphb]](s) |
 
 ## 🔧 Deep Evaluation Improvements
 

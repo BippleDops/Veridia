@@ -38,9 +38,9 @@ world: Both
 
 | Symbol | Weight | Cost |
 |--------|--------|------|
-| [[amulet xphb|Amulet]] (worn or held) | 1 lb. | 5 GP |
-| [[emblem xphb|Emblem]] (borne on fabric or a Shield) | — | 5 GP |
-| [[reliquary xphb|Reliquary]] (held) | 2 lb. | 5 GP |
+| [[amulet-xphb (items)]] (worn or held) | 1 lb. | 5 GP |
+| [[emblem-xphb (items)]] (borne on fabric or a Shield) | — | 5 GP |
+| [[Reliquary Xphb]] (held) | 2 lb. | 5 GP |
 ^holy-symbols
 
 ## 🔧 Deep Evaluation Improvements

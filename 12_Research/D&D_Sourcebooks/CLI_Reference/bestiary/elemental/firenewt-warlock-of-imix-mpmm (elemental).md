@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warlock-of-imix-mpmm-firenewt-warlock-of-imix-mpmm.svg)
 
-# [[firenewt warlock of imix mpmm|Firenewt Warlock of Imix]]
+# [[Firenewt Warlock of Imix Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -100,9 +100,9 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance xphb|guidance]],\
-      \ [[light xphb|light]], [[mage armor xphb|mage armor]],\
-      \ [[mage hand xphb|mage hand]], [[prestidigitation xphb|prestidigitation]]"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance-xphb (spells)]],\
+      \ [[Fount of Moonlight Xphb]], [[mage-armor-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Prestidigitation Xphb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

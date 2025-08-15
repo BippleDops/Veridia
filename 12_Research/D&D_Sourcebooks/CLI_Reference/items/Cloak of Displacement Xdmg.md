@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-displacement.webp#right)
 
-While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[disadvantage xphb|Disadvantage]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[speed xphb|Speed]] is 0.
+While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[Advantage Xphb]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[Fly Speed Xphb]] is 0.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
 

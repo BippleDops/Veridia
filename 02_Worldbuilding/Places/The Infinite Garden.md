@@ -1,7 +1,7 @@
 ---
 
 title: The Infinite Garden
-type: Location
+type: [[location]]
 tags:
 - both
 - quest
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.584509+00:00'
@@ -35,7 +35,7 @@ improvements: 20
 # The Infinite Garden
 
 > *"How many gardens exist within gardens? The answer is both none and infinite—depending on your depth of observation."*
-> — Sage Lysander Deepthought
+> — [[Sage Lysander Deepthought]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,11 +95,11 @@ improvements: 20
 
 ## Overview
 
-The Infinite Garden defies conventional understanding of space and dimension. Each crystal tree in this submarine forest contains a complete garden within its crystalline fruit, and each garden within contains more trees with more gardens, recursing into infinity. Visitors often spend lifetimes exploring a single branch, only to discover they've never left the entrance.
+The Infinite Garden defies conventional understanding of space and dimension. Each crystal tree in this submarine forest contains a complete garden within its crystalline fruit, and each garden within contains more trees with more gardens, recursing into infinity. Visitors often spend life[[Time]]s exploring a single branch, only to discover they've never left the entrance.
 
 ### The Primary Garden
 
-The "outermost" layer spans roughly three square miles of seafloor, though measurements become meaningless here. Massive crystal trees grow from beds of prismatic coral, their branches heavy with fruit that contains entire worlds.
+The "outermost" layer spans roughly three square miles of seafloor, though measurements become meaningless here. Massive crystal trees grow from beds of prismatic [[Coral]], their branches heavy with fruit that contains entire worlds.
 
 **Crystal Tree Properties**:
 - Height: 30-300 feet (simultaneously)
@@ -126,7 +126,7 @@ Flowers that bloom in all possible states simultaneously—budding, flowering, d
 1-2: Flower was never picked (action undone)
 3-4: Flower becomes a different object entirely
 5-6: Picker gains a memory of picking it before
-7-8: Flower multiplies into 2d6 identical flowers
+7-8: Flower multiplies into [[2d6]] identical flowers
 9-10: Flower grants vision of one possible future
 11: Flower contains a tiny garden (new recursion)
 12: Picker temporarily exists in all probable states
@@ -156,7 +156,7 @@ Entire civilizations exist within the fruit worlds, unaware they're inside a gar
 **Notable Nested Cultures**:
 - **The Mote Empire**: Rules 17 levels deep, trades in compressed space
 - **The Ascending Monks**: Attempting to reach the "true" reality
-- **The Recursive Raiders**: Pirates who raid across dimensional scales
+- **The Recursive Raiders**: [[Pirates]] who raid across dimensional scales
 
 ### Probability Sprites
 
@@ -167,7 +167,7 @@ Beings that exist in quantum superposition, experiencing all possible versions o
 Characters can encounter themselves from other recursion levels:
 - Meet a giant version from an upper level
 - Encounter a microscopic version from a deeper level
-- Find their own corpse from a failed timeline
+- Find their own corpse from a failed [[Timeline]]
 
 ### Navigation Challenges
 
@@ -178,7 +178,7 @@ Characters can encounter themselves from other recursion levels:
 - 16-19: Successfully navigate
 - 20: Discover shortcut between non-adjacent levels
 
-### "The Lost Expedition"
+### "[[The Lost Expedition]]"
 
 A research team entered the garden years ago but from their perspective, centuries have passed in the deeper recursions. They've built a civilization and forgotten the outside world exists.
 
@@ -192,7 +192,7 @@ Legend speaks of the seed that grew the first crystal tree. Finding it might gra
 
 ### "The Recursive War"
 
-Two civilizations from different recursion levels have declared war, not realizing they're fighting across dimensional scales. The party must broker peace or choose a side.
+Two civilizations from different recursion levels have declared war, not realizing they're fighting across dimensional scales. [[The Party]] must broker peace or choose a side.
 
 ### The Infinity Market
 
@@ -216,15 +216,15 @@ Areas where recursions intersect incorrectly, creating:
 
 ### The Infinite Recursion Campaign
 
-The garden serves as the central location for reality-bending adventures where players question the nature of existence and explore infinite possibilities.
+The garden serves as the [[Central Location]] for reality-bending adventures where players question the nature of existence and exp[[Lore]] infinite possibilities.
 
-### Connection to Aethermoor
+### Connection to [[Aethermoor]]
 
 During convergence events, Aethermoor's crystal formations begin showing recursive properties, with tiny kingdoms discovered inside crystal plague victims.
 
 ### The Depth Mother Connection
 
-Some theorize the entire garden is just one scale of an even larger recursion—perhaps Aquabyssos itself is a fruit in an unimaginably vast garden.
+Some theorize the entire garden is just one scale of an even larger recursion—perhaps [[Aquabyssos]] itself is a fruit in an unimaginably vast garden.
 
 ### Memorable Encounters
 
@@ -235,7 +235,7 @@ Some theorize the entire garden is just one scale of an even larger recursion—
 
 ---
 
-*"I've spent three lifetimes mapping the garden, only to discover I've never left the shadow of the first tree. The infinite is not just vast—it's intimate, existing in every scale simultaneously."*
+*"I've spent three lifetimes [[map]]ping the garden, only to discover I've never left the shadow of the first tree. The infinite is not just vast—it's intimate, existing in every scale simultaneously."*
 — Explorer's log, recursion level unknown
 
 ## Player-Facing Summary
@@ -266,6 +266,34 @@ The Infinite Garden is a notable location characterized by its unique features a
 ### Founding
 The Infinite Garden was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Infinite Garden:
@@ -282,7 +310,7 @@ Key stop on magic items trade route
 
 ## Plot Hooks
 
-- A merchant needs help investigating before the new moon
+- A [[Merchant]] needs help investigating before the new moon
 - Someone is hunting a witness for power
 
 ## Cultural Practices
@@ -342,3 +370,40 @@ Key stop on magic items trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -115,8 +115,8 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
-  - "desc": "If the naga dies, it returns to life in d6 days and regains all its [[hit-points-xphb|Hit\]]
-      \ Points]] unless [[dispel-evil-and-good-xphb|Dispel\]]
+  - "desc": "If the naga dies, it returns to life in d6 days and regains all its [[hit-points-xphb (variant-rules)]]
+      \ Points]] unless [[dispel-evil-and-good-xphb (spells)]]
       \ Evil and Good]] is cast\
       \ on its remains."
     "name": "Celestial Restoration"
@@ -134,11 +134,11 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[thaumaturgy xphb|Thaumaturgy]]\n\n\
-      1/day each: [[clairvoyance xphb|Clairvoyance]],\
-      \ [[cure-wounds-xphb|Cure Wounds]] (level 6 version),\
-      \ [[flame-strike-xphb|Flame Strike]] (level 6 version),\
-      \ [[geas xphb|Geas]], [[true-seeing-xphb|True Seeing]]"
+      \nAt will: [[Thaumaturgy Xphb]]\n\n\
+      1/day each: [[clairvoyance-xphb (spells)]],\
+      \ [[mass-cure-wounds-xphb (spells)]] (level 6 version),\
+      \ [[flame-strike-xphb (spells)]] (level 6 version),\
+      \ [[geas-xphb (spells)]], [[true-seeing-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -39,9 +39,9 @@ world: Both
 
 This ring has 3 charges, and it regains `d3` expended charges daily at dawn. While wearing the ring, you can expend 1 charge to cast one of the following spells (save DC 13) from it:
 
-- [[animal friendship xphb|Animal Friendship]]  
-- [[fear xphb|Fear]] (affects Beasts only)  
-- [[speak with animals xphb|Speak with Animals]]  
+- [[Animal Friendship Xphb]]  
+- [[Fear Xphb]] (affects Beasts only)  
+- [[Speak With Animals Xphb]]  
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
 

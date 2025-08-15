@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_4_Smuggler_Base
 
----
+- --
 title: 'The Sunken Conspiracy - Session 4: Smuggler Base'
 type: session
 tags:
@@ -31,14 +31,14 @@ duration: 4-5 hours
 world: Aquabyssos
 adventure: The Sunken Conspiracy
 updated: '2025-08-13T01:18:37.157839+00:00'
----
+- --
 
 # Session 4: Smuggler Base
-*The Sunken Conspiracy - Infiltrating the Hidden Base*
+* The Sunken Conspiracy - Infiltrating the Hidden Base*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -706,9 +706,9 @@ The modified subjects represent both our greatest success and our heaviest burde
 
 [CONFIDENTIAL MEDICAL DOCUMENT]
 
----
+- --
 
-*In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.*
+* In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.*
 
 ## Player-Facing Summary
 
@@ -724,8 +724,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

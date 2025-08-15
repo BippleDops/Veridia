@@ -98,7 +98,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 - **Technical Analysis**: Examine sabotage techniques for signature patterns
 - **Personnel Records**: Background checks reveal hidden connections
 - **Memory Examination**: Magical investigation of staff amnesia
-- **Temporal Analysis**: [[Time Lost Delegate Chronus]] can detect timeline manipulations
+- **Temporal Analysis**: [[Time]] can detect timeline manipulations
 - **Deep Sensing**: Psychic detection of abyssal corruption in personnel
 
 ### The Real Saboteur: Engineer Brass Gearspin

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-wavebender-xmm-merfolk-wavebender-xmm.svg)
 
-# [[merfolk wavebender xmm|Merfolk Wavebender]]
+# [[Merfolk]]
 *Source: Monster Manual (2024) p. 209*  
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
@@ -107,9 +107,9 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Aquatic Burst"
   - "desc": "The merfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [[elementalism xphb|Elementalism]],\
-      \ [[light xphb|Light]]\n\n1/day each: [[control water xphb|Control\]]
-      \ Water]], [[create or destroy water xphb|Create or Destroy\]]
+      \nAt will: [[elemental]],\
+      \ [[Fount of Moonlight Xphb]]\n\n1/day each: [[Control Water Xphb]]
+      \ Water]], [[create-or-destroy-water-xphb (spells)]]
       \ Water]]"
     "name": "Spellcasting"
 "reactions":

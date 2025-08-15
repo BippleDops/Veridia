@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hook-horror-xmm-hook-horror-xmm.svg)
 
-# [[hook horror xmm|Hook Horror]]
+# [[Hook Horror Xmm]]
 *Source: Monster Manual (2024) p. 173*  
 
 ## 🔧 Deep Evaluation Improvements

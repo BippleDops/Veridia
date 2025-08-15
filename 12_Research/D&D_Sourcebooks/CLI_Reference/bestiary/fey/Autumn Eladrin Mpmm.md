@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-autumn-eladrin-mpmm-autumn-eladrin-mpmm.svg)
 
-# [[autumn eladrin mpmm|Autumn Eladrin]]
+# [[Autumn Eladrin Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -125,11 +125,11 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[hold person xphb|hold person]]\n\n\
-      2/day each: [[cure wounds xphb|cure wounds]] (as\
-      \ a 5th-level spell), [[lesser restoration xphb|lesser restoration]]\n\
-      \n1/day each: [[greater restoration xphb|greater restoration]],\
-      \ [[revivify xphb|revivify]]"
+      \nAt will: [[Hold Person Xphb]]\n\n\
+      2/day each: [[mass-cure-wounds-xphb (spells)]] (as\
+      \ a 5th-level spell), [[Lesser Restoration Xphb]]\n\
+      \n1/day each: [[greater-restoration-xphb (spells)]],\
+      \ [[revivify-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

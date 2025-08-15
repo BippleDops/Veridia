@@ -49,15 +49,15 @@ world: Both
 - **Components:** V, S, M (a bit of gauze)
 - **Duration:** Concentration, up to 1 hour
 
-A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 [[hit-points-xphb|Hit Points]] or if it takes a [[actions#Magic|Magic]] action to end the spell on itself.
+A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 [[hit-points-xphb (variant-rules)]] or if it takes a [[actions#Magic|Magic]] action to end the spell on itself.
 
-While in this form, the target's only method of movement is a [[fly-speed-xphb|Fly Speed]] of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has [[resistance xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage; it has [[immunity xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[advantage xphb|Advantage]] on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
+While in this form, the target's only method of movement is a [[Fly Speed Xphb]] of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has [[boon-of-energy-resistance-xphb (feats)]] to Bludgeoning, Piercing, and Slashing damage; it has [[immunity-xphb (variant-rules)]] to the [[conditions#prone|Prone]] condition; and it has [[Advantage Xphb]] on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 277. Available in the SRD and the Free Rules (2024)*
 
@@ -101,3 +101,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[gaseous-form-xphb (spells)-phb]]` in CLI_Reference/spells/

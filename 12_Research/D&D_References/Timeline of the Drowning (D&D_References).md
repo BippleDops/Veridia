@@ -71,7 +71,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Major Population Centers:**
 1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
 2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime   Pressure Terminal|02 Worldbuilding/Places/Abyssos Prime Pressure Terminal]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
 5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
 6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-imp-xmm-imp-xmm.svg)
 
-# [[imp xmm|Imp]]
+# [[Imp Xmm]]
 *Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -98,25 +98,25 @@ Imps without masters delight in manipulating other creatures and inflating their
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness xphb|Darkness]]),\
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb (variant-rules)]]),\
   \ passive Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"
 "traits":
-  - "desc": "The imp has [[advantage xphb|Advantage]]\
+  - "desc": "The imp has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage\
       \ plus 7 (2d6) Poison damage."
     "name": "Sting"
-  - "desc": "The imp shape-shifts to resemble a rat ([[speed xphb|Speed]]\
+  - "desc": "The imp shape-shifts to resemble a rat ([[Fly Speed Xphb]]\
       \ 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.),\
       \ or it returns to its true form. Its statistics are the same in each form,\
-      \ except for its [[speed xphb|Speed]]. Any\
+      \ except for its [[Fly Speed Xphb]]. Any\
       \ equipment it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
-  - "desc": "The imp casts [[invisibility xphb|Invisibility]]\
+  - "desc": "The imp casts [[see-invisibility-xphb (spells)]]\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"

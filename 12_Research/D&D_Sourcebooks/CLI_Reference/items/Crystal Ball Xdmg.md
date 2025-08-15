@@ -41,7 +41,7 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[scrying xphb|scrying]] spell (save DC 17) with it.
+The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the [[Scrying Xphb]] spell (save DC 17) with it.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 

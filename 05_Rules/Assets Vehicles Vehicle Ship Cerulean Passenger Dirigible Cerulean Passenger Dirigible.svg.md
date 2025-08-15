@@ -259,3 +259,7 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*

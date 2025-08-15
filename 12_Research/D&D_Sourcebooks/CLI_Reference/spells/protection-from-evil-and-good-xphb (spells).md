@@ -57,9 +57,9 @@ world: Both
 - **Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
 - **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have [[disadvantage xphb|Disadvantage]] on attack rolls against the target. The target also can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] conditions from them. If the target is already possessed, [[conditions#Charmed|Charmed]], or [[conditions#frightened|Frightened]] by such a creature, the target has [[advantage xphb|Advantage]] on any new saving throw against the relevant effect.
+Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have [[Advantage Xphb]] on attack rolls against the target. The target also can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] conditions from them. If the target is already possessed, [[conditions#Charmed|Charmed]], or [[conditions#frightened|Frightened]] by such a creature, the target has [[Advantage Xphb]] on any new saving throw against the relevant effect.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge "subclass=XGE;class=XPHB"|Ranger (Monster Slayer)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge "subclass=XGE;class=XPHB"|Ranger (Horizon Walker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 309. Available in the SRD and the Free Rules (2024)*
 
@@ -105,3 +105,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[protection-from-evil-and-good-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -57,11 +57,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Rival**: [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- **Rival**: [[Dr Vera Spectrumseeker]]
 - **Rival**: [[Sunken Kingdom of Nereon]]
 - **Lover**: [[Master Artificer Coral Gemwright]]
 - **Ally**: [[The Republican Coalition]]
-- **Blackmailer**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
+- **Blackmailer**: [[Npc]]
 
 ## 12_Research Specific Content
 

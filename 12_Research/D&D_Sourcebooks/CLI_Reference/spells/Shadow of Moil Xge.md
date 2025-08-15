@@ -46,7 +46,7 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `2d8` necrotic damage.
 
-**Classes**: [[list spells classes warlock|Warlock]]
+**Classes**: [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 164*
 

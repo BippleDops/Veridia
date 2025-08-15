@@ -44,7 +44,7 @@ updated: '2025-08-13T12:34:05.323196+00:00'
 world: Both
 ---
 
-# [[stirge xmm|Stirge]]
+# [[Stirge Xmm]]
 *Source: Monster Manual (2024) p. 299. Available in the SRD and the Free Rules (2024)*  
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.

@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Portraits_Gallery (03_People)
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC Portraits Gallery
 
 ## Portrait
 
-![[portrait_npc_portraits_gallery_(03_people).png]]
+![[NPC_Portraits_Gallery (03_People)]]
 
 *Portrait reference for NPC_Portraits_Gallery (03_People)*
 
@@ -4114,3 +4116,28 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

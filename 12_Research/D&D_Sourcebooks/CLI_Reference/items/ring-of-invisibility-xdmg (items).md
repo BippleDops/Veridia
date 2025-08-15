@@ -37,7 +37,7 @@ world: Both
 *Ring, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
-While wearing this ring, you can take a [[actions#Magic|Magic]] action to give yourself the [[conditions#Invisible|Invisible]] condition. You remain [[conditions#Invisible|Invisible]] until the ring is removed or until you take a [[bonus action xphb|Bonus Action]] to become visible again.
+While wearing this ring, you can take a [[actions#Magic|Magic]] action to give yourself the [[conditions#Invisible|Invisible]] condition. You remain [[conditions#Invisible|Invisible]] until the ring is removed or until you take a [[Action Xphb]] to become visible again.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
 

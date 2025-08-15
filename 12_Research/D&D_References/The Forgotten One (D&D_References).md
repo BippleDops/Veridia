@@ -218,7 +218,7 @@ Specialized gear has been developed for exploration, with limited success:
 - The site represents ruins of a pre-cataclysmic civilization
 - Their technology or magic involved memory manipulation
 - The Great Drowning may have been caused by their experiments with forgetting
-- Cross-references with [[Memoriam   The Forgotten Continent]]
+- Cross-references with [[Memoriam]]
 
 **The Conceptual Weapon Theory**
 - Created as a weapon that attacks memory and identity

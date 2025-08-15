@@ -627,9 +627,9 @@ Faction relationships create complex political networks:
 ### Important Organizations
 - **[[Diplomatic Corps]]**: Professional reputation management services
 - **[[Social Intelligence Network]]**: Reputation monitoring and analysis
-- **[[Cross Realm Cultural Exchange]]**: Reputation building between realms
+- **[[Cross-Realm Cultural Exchange]]**: Reputation building between realms
 - **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
-- **[[02 Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
+- **[[Groups]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
 

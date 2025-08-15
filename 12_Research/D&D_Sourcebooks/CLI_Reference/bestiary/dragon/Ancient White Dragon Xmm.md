@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-white-dragon-xmm-ancient-white-dragon-xmm.svg)
 
-# [[ancient white dragon xmm|Ancient White Dragon]]
+# [[ancient-white-dragon-xmm]]
 *Source: Monster Manual (2024) p. 330. Available in the SRD and the Free Rules (2024)*  
 
 Like arctic storms, ancient white dragons threaten icy realms. They emerge from their frozen lairs to indulge their hungers for food or treasure, menacing other creatures with lethal cold. While they might ignore animals or small groups of polar wanderers, these dragons are quick to challenge other dragons and creatures wielding powerful magic, hoping to add their foes' skulls and magic items to their own hoards.
@@ -102,7 +102,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "20"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [[difficult terrain xphb|Difficult Terrain]]\
+      \ make an ability check. Additionally, [[Difficult Terrain Xphb]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
@@ -113,21 +113,21 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +14, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 7 (2d6) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [[Area of Effect Xphb]].\
       \ Failure: 63 (14d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "legendary_actions":
   - "desc": "Constitution Saving Throw: DC 20, each creature in a 30-foot-radius\
-      \ [[sphere area of effect xphb|Sphere]] centered\
+      \ [[Area of Effect Xphb]] centered\
       \ on a point the dragon can see within 120 feet. Failure: 14 (4d6) Cold damage,\
-      \ and the target's [[speed xphb|Speed]] is\
+      \ and the target's [[Fly Speed Xphb]] is\
       \ 0 until the end of the target's next turn. Failure or Success: The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Freezing Burst"
-  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
-  - "desc": "The dragon casts [[fear xphb|Fear]], requiring\
+  - "desc": "The dragon casts [[Fear Xphb]], requiring\
       \ no Material components and using Charisma as the spellcasting ability (spell\
       \ save DC 18). The dragon can't take this action again until the start of its\
       \ next turn.\n"
@@ -136,15 +136,15 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "The region containing an adult or ancient white dragon's lair is affected\
       \ by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme cold xdmg|extreme\]]
+  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme-cold-xdmg (traps-hazards)]]
       \ cold]]. Any water in that\
-      \ area is [[frigid water xdmg|frigid water]].\
+      \ area is [[Frigid Water Xdmg]].\
       \ See the \"Dungeon Master's Guide\" for rules on extreme cold and frigid water.\
-      \  \n- Glacial Gloom. The area within 1 mile of the lair is [[lightly obscured xphb|Lightly Obscured]]\
+      \  \n- Glacial Gloom. The area within 1 mile of the lair is [[lightly-obscured-xphb (variant-rules)]]\
       \ by chilly fog. Whenever a creature other than the dragon or one of its allies\
-      \ finishes a [[long rest xphb|Long Rest]] in\
+      \ finishes a [[long-rest-xphb]] in\
       \ that area, that creature must succeed on a DC 15 Constitution saving throw\
-      \ or have its [[speed xphb|Speed]] reduced\
+      \ or have its [[Fly Speed Xphb]] reduced\
       \ by 10 feet for 1 hour.  "
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
 "source":

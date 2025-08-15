@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_05_Political_Intrigue_Example
 
----
+- --
 title: Session 05 Political Intrigue Example
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Aquabyssos
----
+- --
 
 ### Quick Summary
 **Location:** Parliament Buildings, Deep Zone  
@@ -94,13 +94,13 @@ The party attended a formal parliamentary session as "cultural observers" while 
 **Faction Relationships Changed:** 6  
 **Major Secrets Discovered:** 3  
 
----
+- --
 
-*This session demonstrates how political intrigue can be just as engaging as combat, with careful relationship management and information gathering creating tension and excitement.*
+* This session demonstrates how political intrigue can be just as engaging as combat, with careful relationship management and information gathering creating tension and excitement.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -112,11 +112,11 @@ The party attended a formal parliamentary session as "cultural observers" while 
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -124,10 +124,35 @@ The party attended a formal parliamentary session as "cultural observers" while 
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+* [Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
 ## Plot Hooks
 
 - Someone is blackmailing information for money
 - Someone is hunting an heir for revenge
 - A map reveals ancient history about the cult
+
+## Pronunciation Guide
+- **Depth**: [DEPTH]
+- **Queen's**: [QUEEN-S]
+- **Thane's**: [THANE-S]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

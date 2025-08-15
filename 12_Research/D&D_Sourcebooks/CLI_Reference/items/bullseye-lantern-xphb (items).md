@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 
-A Bullseye Lantern burns Oil as fuel to cast [[bright light xphb|Bright Light]] in a 60-foot Cone and [[dim light xphb|Dim Light]] for an additional 60 feet.
+A Bullseye Lantern burns Oil as fuel to cast [[Light Xphb]] in a 60-foot Cone and [[Light Xphb]] for an additional 60 feet.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

@@ -36,7 +36,7 @@ updated: '2025-08-13T12:34:05.760463+00:00'
 world: Both
 ---
 
-# [[water elemental myrmidon mpmm|Water Elemental Myrmidon]]
+# [[Water Elemental Myrmidon Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -61,7 +61,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[plate armor xphb|plate]]"
+"ac_class": "[[plate-armor-xphb (items)]]"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "2"

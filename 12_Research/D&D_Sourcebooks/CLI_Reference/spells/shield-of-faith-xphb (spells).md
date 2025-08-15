@@ -51,7 +51,7 @@ world: Both
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[shield-of-faith-xphb (spells)-phb]]` in CLI_Reference/spells/

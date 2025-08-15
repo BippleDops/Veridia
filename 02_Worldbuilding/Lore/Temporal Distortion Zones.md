@@ -1,7 +1,7 @@
 ---
 
 title: Temporal Distortion Zones
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -11,7 +11,7 @@ tags:
 - mechanics/magic
 - temporal-manipulation
 - dimensional-anomalies
-- time-distortion
+- [[Time]]-distortion
 - aquatic
 - time-effects
 - advanced-physics
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -136,8 +136,8 @@ Working with temporal manipulation creates unique dangers requiring specialized 
 - **Temporal Contamination Barriers**: Systems preventing dangerous temporal effects from spreading
 - **Paradox Detection Arrays**: Networks monitoring for temporal contradictions that could destabilize reality
 - **Emergency Temporal Evacuation**: Rapid extraction systems for personnel in temporal danger
-- **Temporal Shielding**: Personal protection equipment for workers in distorted time fields
-- **Reality Anchor Networks**: Systems maintaining stable causality within and around temporal zones
+- **Temporal [[Shield]]ing**: Personal protection equipment for workers in distorted time fields
+- **[[[[Reality Anchor Network]]s]]**: Systems maintaining stable causality within and around temporal zones
 
 **Containment Protocols:**
 Sophisticated containment systems manage temporal effects:
@@ -145,7 +145,7 @@ Sophisticated containment systems manage temporal effects:
 - Automated monitoring systems detecting temporal instabilities before they become critical
 - Emergency shutdown procedures that safely collapse temporal fields during crisis situations
 - Temporal quarantine protocols isolating areas affected by dangerous temporal anomalies
-- Reality stabilization procedures restoring normal temporal flow after temporal incidents
+- [[Reality Stabilization]] procedures restoring normal temporal flow after temporal incidents
 
 ### Temporal Interface Technology
 
@@ -154,7 +154,7 @@ Complex interface systems enable safe interaction between normal time and tempor
 
 **Interface Components:**
 - **Temporal Transition Chambers**: Facilities enabling safe passage between different temporal flow rates
-- **Chronological Communication Systems**: Technology enabling communication across temporal boundaries
+- **Chronological [[Communication Systems]]**: Technology enabling communication across temporal boundaries
 - **Temporal Synchronization Networks**: Systems coordinating activities across different temporal flow rates
 - **Time-Differential Compensation**: Equipment enabling normal function despite temporal variations
 - **Temporal Status Monitoring**: Continuous tracking of temporal conditions throughout Zone facilities
@@ -164,7 +164,7 @@ Sophisticated control systems manage Zone operations across multiple temporal fr
 - Central command systems coordinating activities across all temporal environments
 - Predictive modeling systems anticipating the effects of temporal manipulations
 - Emergency response systems capable of operating across various temporal conditions
-- Personnel tracking systems monitoring staff location and temporal status
+- Personnel tracking systems monitoring staff [[location]] and temporal status
 - Resource management systems accounting for temporal effects on materials and supplies
 
 ### Research and Development Acceleration
@@ -175,7 +175,7 @@ The Zones enable research projects that would normally require decades to be com
 **Research Applications:**
 - **Long-Term Studies**: Research projects requiring extended observation periods completed in compressed time
 - **Accelerated Testing**: Product testing and evaluation conducted at accelerated temporal rates
-- **Historical Research**: Investigation of past events through carefully controlled temporal observation
+- **[[Historical Research]]**: Investigation of past events through carefully controlled temporal observation
 - **Future Projection**: Limited forecasting through controlled temporal manipulation
 - **Theoretical Research**: Investigation of temporal physics and chronological phenomena
 
@@ -185,7 +185,7 @@ Temporal manipulation enables research approaches impossible under normal tempor
 - Repetitive testing enabling rapid iteration and refinement of experimental approaches
 - Extended observation periods allowing study of long-term phenomena
 - Temporal isolation preventing external influences from affecting sensitive experiments
-- Accelerated data analysis and theoretical development through temporal manipulation
+- Accelerated [[data]] analysis and theoretical development through temporal manipulation
 
 ### Industrial and Manufacturing Applications
 
@@ -219,7 +219,7 @@ The Zones provide unique capabilities for defense and strategic planning:
 - **Emergency Response**: Rapid deployment and coordination of emergency response
 - **Defensive Systems**: Temporal barriers and shields protecting critical infrastructure
 
-**Crisis Management:**
+**[[Crisis Management]]:**
 Temporal capabilities enable sophisticated crisis response:
 - Accelerated research and development of solutions to urgent problems
 - Extended evaluation time for critical decisions through temporal deceleration
@@ -264,7 +264,7 @@ Advanced systems detect and prevent paradox formation:
 - Continuous monitoring of causal relationships within temporal fields
 - Automated systems preventing actions that could create temporal contradictions
 - Reality verification systems confirming consistency of temporal manipulations
-- Emergency protocols for containing and resolving paradox situations
+- [[Emergency Protocol]]s for containing and resolving paradox situations
 - Research programs studying paradox formation and prevention techniques
 
 ### Environmental and Cosmic Effects
@@ -293,7 +293,7 @@ Sophisticated monitoring systems track environmental and cosmic effects:
 Ongoing research programs advance understanding of temporal physics and chronological phenomena:
 
 **Research Areas:**
-- **Temporal Mechanics**: Study of fundamental laws governing temporal manipulation
+- **[[Temporal Mechanics]]**: Study of fundamental laws governing temporal manipulation
 - **Chronological Engineering**: Development of improved temporal manipulation techniques
 - **Paradox Theory**: Theoretical research into temporal paradox formation and prevention
 - **Temporal Biology**: Study of biological effects of temporal manipulation
@@ -317,14 +317,14 @@ Research into coordinating temporal effects across dimensional boundaries:
 - **Synchronized Operations**: Coordination of activities across multiple dimensions with different temporal characteristics
 - **Temporal Diplomacy**: Diplomatic protocols for negotiating across temporal and dimensional boundaries
 - **Emergency Coordination**: Crisis response systems operating across multiple temporal frameworks
-- **Cultural Exchange**: Cultural programs enabling interaction across temporal and dimensional differences
+- **[[Cultural Exchange]]**: Cultural programs enabling interaction across temporal and dimensional differences
 
 **Collaborative Research:**
 Joint research programs with [[Aethermoor]] and other dimensional partners:
 - Shared research into temporal physics and chronological phenomena
 - Collaborative development of safety systems for temporal manipulation
 - Joint investigation of cosmic-scale temporal effects
-- Cultural exchange programs for temporal research specialists
+- [[Cultural Exchange Programs]] for temporal research specialists
 - Cooperative monitoring of large-scale temporal and dimensional effects
 
 ### Innovation and Technology Development
@@ -333,7 +333,7 @@ Joint research programs with [[Aethermoor]] and other dimensional partners:
 Research programs developing improved temporal manipulation capabilities:
 
 **Technology Development Areas:**
-- **Enhanced Temporal Control**: More precise and stable temporal field generation
+- **Enhanced [[Temporal Control]]**: More precise and stable temporal field generation
 - **Improved Safety Systems**: Better protection against temporal hazards and contamination
 - **Expanded Applications**: New uses for temporal manipulation in various fields
 - **Reduced Environmental Impact**: Technologies minimizing negative effects of temporal manipulation
@@ -385,7 +385,7 @@ Comprehensive support systems address unique challenges of temporal work:
 - Medical monitoring and treatment for temporal contamination
 - Family support programs helping families cope with temporal work schedules
 - Professional development programs advancing temporal engineering expertise
-- International exchange programs providing collaboration opportunities with other temporal research programs
+- [[International Exchange Program]]s providing collaboration opportunities with other temporal research programs
 
 ### Temporal Crisis Adventures
 
@@ -443,14 +443,14 @@ Involvement with Temporal Distortion Zones provides unique opportunities for cha
 - International cooperation skills managing complex multi-civilization projects
 - Leadership experience directing operations involving cosmic-scale implications
 
-## Connected Locations and Organizations
+## Connected Locations and [[Organization]]s
 
 - [[Aquabyssos]] - Primary location hosting Temporal Distortion Zone facilities
 - [[Aethermoor]] - Partner civilization for cross-dimensional temporal research
 - [[Resoce Chamber]] - Related facility providing acoustic research supporting temporal studies
 - [[Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
-- [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] - Government organization overseeing temporal research
-- [[Chief Temporal Engineer Paradox Timeweaver|02 Worldbuilding/People/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
+- [[[[The Crown]] Authority|[[02 Worldbuilding]]/[[Groups]]/The Crown Authority]] - Government organization overseeing temporal research
+- [[Chief Temporal Engineer Paradox Timeweaver|02 Worldbuilding/[[People]]/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
 - [[Senior Temporal Engineer Chronos Fieldwright|02 Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
 - [[Paradox Analyst Echo Causality|02 Worldbuilding/People/Paradox Analyst Echo Causality]] - Paradox prevention expert
 - [[Safety Coordinator Time Guardian|02 Worldbuilding/People/Safety Coordinator Time Guardian]] - Temporal safety management director
@@ -467,11 +467,11 @@ Temporal Distortion Zones is a undersea element of the setting, known for biolum
 
 Legends speak of Temporal Distortion Zones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Distortion Zones.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

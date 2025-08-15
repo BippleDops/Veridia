@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-v1-yagnoloth-mpmm.svg)
 
-# [[yagnoloth mpmm|Yagnoloth]]
+# [[Yagnoloth Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -120,10 +120,10 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[darkness xphb|darkness]], [[detect magic xphb|detect\]]
-      \ magic]], [[dispel magic xphb|dispel magic]],\
-      \ [[invisibility xphb|invisibility]] (self only),\
-      \ [[suggestion xphb|suggestion]]\n\n3/day: [[lightning bolt xphb|lightning\]]
+      \nAt will: [[darkness-xphb (variant-rules)]], [[detect-magic-xphb (spells)]]
+      \ magic]], [[dispel-magic-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]] (self only),\
+      \ [[Suggestion Xphb]]\n\n3/day: [[Lightning Bolt Xphb]]
       \ bolt]]"
     "name": "Spellcasting"
 "source":

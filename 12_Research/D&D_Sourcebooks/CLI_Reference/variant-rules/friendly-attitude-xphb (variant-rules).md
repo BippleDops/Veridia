@@ -33,7 +33,7 @@ world: Both
 # Friendly [Attitude]
 *Source: Player's Handbook (2024) p. 367. Available in the SRD and the Free Rules (2024)* 
 
-A Friendly creature views you favorably. You have [[advantage xphb|advantage]] on an ability check to influence a Friendly creature.
+A Friendly creature views you favorably. You have [[Advantage Xphb]] on an ability check to influence a Friendly creature.
 
 ## 🔧 Deep Evaluation Improvements
 

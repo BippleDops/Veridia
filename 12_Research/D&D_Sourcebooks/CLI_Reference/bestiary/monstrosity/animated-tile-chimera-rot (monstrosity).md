@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-tile-chimera-rot-animated-tile-chimera-rot.svg)
 
-# [[animated tile chimera rot|Animated Tile Chimera]]
+# [[Animated Tile Chimera Rot]]
 *Source: The Rise of Tiamat p. 42*  
 
 ```statblock

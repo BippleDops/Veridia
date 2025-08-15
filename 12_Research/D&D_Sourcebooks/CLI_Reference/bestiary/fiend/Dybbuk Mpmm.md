@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dybbuk-mpmm-dybbuk-mpmm.svg)
 
-# [[dybbuk mpmm|Dybbuk]]
+# [[dybbuk-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -107,8 +107,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     "name": "Possess Corpse (Recharge 6)"
   - "desc": "The dybbuk casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[dimension door xphb|dimension door]]\n\
-      \n3/day: [[phantasmal force xphb|phantasmal force]]"
+      \ will: [[Dimension Door Xphb]]\n\
+      \n3/day: [[Phantasmal Force Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\

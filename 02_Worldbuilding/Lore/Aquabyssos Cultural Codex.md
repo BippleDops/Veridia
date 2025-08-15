@@ -1,7 +1,7 @@
 ---
 
-title: Aquabyssos Cultural Codex
-type: Lore
+title: [[Aquabyssos]] Cultural Codex
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -30,7 +30,7 @@ improvements: 20
 
 *"In the depths, tradition flows like the eternal currents - ancient, powerful, and ever-present."*
 
-> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[02 Worldbuilding/People/Cultural Sage Deep Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]]
+> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[People]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -86,7 +86,7 @@ improvements: 20
 
 ## Overview
 
-The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia spent in the ocean's embrace. From the crushing depths of the Abyssal Plains to the twilight waters of the mid-depths, each cultural practice has evolved to address the unique challenges and opportunities of underwater civilization. This comprehensive guide details the intricate social customs, traditions, and unwritten rules that govern daily life in the realm beneath the waves.
+The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia spent in the ocean's embrace. From the [[Crushing Depths]] of the Abyssal Plains to the twilight waters of the mid-depths, each cultural practice has evolved to address the unique challenges and opportunities of underwater civilization. This comprehensive guide details the intricate social customs, traditions, and unwritten rules that govern daily life in the realm beneath the waves.
 
 ### 1. The Pressure Bow
 
@@ -121,7 +121,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 4. Echo-Sound Recognition
 
-**Traditional Greeting**: Ritual use of echolocation or sonic greeting patterns
+**Traditional Greeting**: Ritual use of echo[[location]] or sonic greeting patterns
 **Execution**: Produce specific sound patterns using throat resoce or mechanical devices
 **Social Meaning**: Confirms identity and establishes communication readiness
 **Common Patterns**:
@@ -146,7 +146,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - Head of table positions face the domit current direction
 - Guests seated by depth tolerance (deepest to the "downstream" positions)
 - Rotating seating for large gatherings follows tidal patterns
-- Empty spaces left for ancestral spirits and the Deep Mother's presence
+- Empty spaces left for ancestral spirits and the [[Deep Mother]]'s presence
 
 ### 7. Pressure-Cooking Appreciation
 
@@ -200,10 +200,10 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 **Occupational Dress**: Clothing elements that identify professional affiliation
 **Guild Markers**:
-- **Pressure Engineers**: Copper-threaded seams and pressure gauges
-- **Deep Merchants**: Multi-currency belt displays
-- **Navigation Specialists**: Compass rose embroidery and current maps
-- **Memory Keepers**: Pearl-embedded head coverings
+- **[[Pressure Engineers]]**: Copper-threaded seams and pressure gauges
+- **Deep [[Merchant]]s**: Multi-currency belt displays
+- **Navigation Specialists**: Compass rose embroidery and current [[map]]s
+- **[[Memory Keepers]]**: Pearl-[[Embed]]ded head coverings
 - **Shadow Surgeons**: Reflective fabric panels and surgical tool accessories
 
 ### 13. Ceremonial Depth Robes
@@ -250,7 +250,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Ritual Components**:
 - **Water Ceremony**: Mixing water from each partner's birth location
 - **Navigation Unity**: Creating combined maps showing both partners' expertise
-- **Family Current Integration**: Formal introduction to extended family current networks
+- **Family Current Integration**: Formal [[Introduction]] to extended family current networks
 - **Shared Territory Establishment**: Selection of mutually accessible living depths
 
 ### 18. Divorce and Separation Customs
@@ -270,7 +270,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - **Preparation Depth**: Body prepared at deceased's living depth
 - **Descent Procession**: Community escorts body to release depth
 - **Deep Release**: Body given to the depths with specific ritual words
-- **Memorial Current**: Family establishes memorial current pattern
+- **[[Memorial Current]]**: Family establishes memorial current pattern
 - **Ascent Mourning**: Return journey marks beginning of mourning period
 
 ### 20. Pressure Memorial Creation
@@ -279,7 +279,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Memorial Types**:
 - **Depth Stones**: Pressure-carved monuments at deceased's maximum depth
 - **Current Markers**: Navigation aids installed along deceased's favorite routes
-- **Memory Pearls**: Cultivated pearls containing deceased's memories
+- **[[Memory Pearls]]**: Cultivated pearls containing deceased's memories
 - **Echo Chambers**: Acoustic memorials that replay deceased's voice patterns
 
 ### 21. Mourning Period Protocols
@@ -298,7 +298,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Communication Methods**:
 - **Echo Meditation**: Using sound patterns to reach ancestral spirits
 - **Current Reading**: Interpreting water flow changes as ancestral messages
-- **Depth Dreams**: Meditation at significant depths to receive guidance
+- **Depth Dreams**: Meditation at significant depths to receive [[Guidance]]
 - **Memory Pearl Consultation**: Using preserved memories for advice
 
 ### 23. The Deep Trial Ceremony
@@ -355,11 +355,11 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 **Travel Assistance**: Guidance for guests unfamiliar with local current systems
 **Navigation Services**:
-- **Route Planning**: Optimal paths considering guest's abilities
+- **Route Planning**: Optimal [[path]]s considering guest's abilities
 - **Current Interpretation**: Explanation of local flow patterns
 - **Hazard Warnings**: Information about dangerous currents or depths
 - **Guide Assignment**: Experienced local navigator for complex routes
-- **Emergency Protocols**: Procedures for current-related emergencies
+- **[[Emergency Protocol]]s**: Procedures for current-related emergencies
 
 ### 29. Guest Feeding Privileges
 
@@ -397,13 +397,13 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Prohibited Discussions**:
 - **Lost Navigation**: Detailed accounts of current-maze entrapments
 - **Current Wars**: Specific battles or military defeats in current systems
-- **Drowned Settlements**: Communities destroyed by current changes
+- **[[Drowned]] Settlements**: Communities destroyed by current changes
 - **Missing Travelers**: Individuals lost in current systems
 - **Current Corruption**: Pollution or poisoning of major current systems
 
 ### 33. Deep Mother Reverence
 
-**Sacred Restrictions**: Proper treatment of topics related to the Deep Mother
+**Sacred Restrictions**: Proper treatment of topics related to [[The Deep Mother]]
 **Religious Boundaries**:
 - **Never question** the Deep Mother's wisdom or decisions
 - **Never joke** about Deep Mother traditions or rituals
@@ -411,7 +411,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - **Never discuss** personal Deep Mother visions in casual settings
 - **Never refuse** offerings or rituals related to the Deep Mother
 
-### 34. Shadow Surgery Silence
+### 34. [[Shadow Surgery]] Silence
 
 **Medical Privacy**: Restrictions on discussing shadow surgery procedures
 **Privacy Protocols**:
@@ -421,7 +421,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - **Never reveal** others' shadow surgery history
 - **Never judge** individuals requiring or choosing shadow surgery
 
-### 35. Memory Trading Ethics
+### 35. [[Memory Trading]] Ethics
 
 **Personal Boundaries**: Restrictions on memory-related commercial activities
 **Ethical Limitations**:
@@ -452,7 +452,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 38. Memory Harvest Festivals
 
-**Cultural Preservation**: Annual collection and preservation of community memories
+**[[Cultural Preservation]]**: Annual collection and preservation of community memories
 **Festival Elements**:
 - **Memory Sharing Circles**: Community gathering for experience exchange
 - **Pearl Cultivation Ceremonies**: Formal creation of new memory pearls
@@ -465,8 +465,8 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Sacred Activities**:
 - **Community Pilgrimage**: Journey to the deepest accessible sacred sites
 - **Offering Ceremonies**: Presentation of gifts and sacrifices to the Deep Mother
-- **Vision Quests**: Individual spiritual journeys seeking Deep Mother guidance
-- **Purification Rituals**: Cleansing ceremonies for spiritual renewal
+- **Vision [[Quests]]**: Individual spiritual journeys seeking Deep Mother guidance
+- **[[Purification Rituals]]**: Cleansing ceremonies for spiritual renewal
 
 ### 40. Pressure Sculpture Traditions
 
@@ -491,7 +491,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 **Light-Based Art**: Artistic expression using natural and artificial light sources
 **Art Forms**:
 - **Living Light Galleries**: Displays featuring living bioluminescent creatures
-- **Light Pattern Performances**: Choreographed displays of personal bioluminescence
+- **Light Pattern Performances**: Choreographed displays of personal [[Bioluminescence]]
 - **Illuminated Sculptures**: Artworks incorporating permanent lighting elements
 - **Community Light Shows**: Large-scale coordinated bioluminescent displays
 
@@ -506,7 +506,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 44. Echo-Language Supplements
 
-**Sound Communication**: Non-verbal communication systems using echolocation and sound
+**Sound Communication**: Non-verbal [[Communication Systems]] using echolocation and sound
 **Communication Methods**:
 - **Professional Echo-Codes**: Standardized sound patterns for specific occupations
 - **Emotional Sound-Language**: Sonic expressions of feelings and relationships
@@ -524,12 +524,12 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 46. Guild Initiation Hierarchies
 
-**Professional Entry**: Formal processes for joining professional organizations
+**Professional Entry**: Formal processes for joining [[Professional [[Organization]]s]]
 **Initiation Levels**:
 - **Apprentice Trials**: Basic competency testing and depth capability assessment
 - **Journeyman Challenges**: Advanced skill demonstrations and specialization selection
 - **Master Recognition**: Peer evaluation and community service requirements
-- **Elder Status**: Lifetime achievement recognition and teaching obligations
+- **Elder Status**: Life[[Time]] achievement recognition and teaching obligations
 
 ### 47. Trade Secret Protection
 
@@ -542,7 +542,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 48. Inter-Guild Cooperation Protocols
 
-**Professional Relations**: Formal systems for cooperation between different professional groups
+**Professional Relations**: Formal systems for cooperation between different professional [[Groups]]
 **Cooperation Frameworks**:
 - **Project Partnership Agreements**: Formal contracts for collaborative work
 - **Knowledge Exchange Programs**: Structured sharing of complementary expertise
@@ -571,13 +571,13 @@ The Aquabyssos Cultural Codex provides comprehensive guidance for understanding 
 
 The cultural traditions of Aquabyssos have evolved over millennia in response to the unique challenges of underwater life. Each custom serves both practical and symbolic purposes, helping to maintain social cohesion while addressing the physical realities of life in the depths. Many traditions can be traced back to ancient survival necessities that have become ritualized over generations.
 
-## DM Notes
+## [[DM Notes]]
 
-Use the cultural customs as a framework for creating realistic social interactions and consequences. Players who learn and respect the customs will find doors opening and allies supporting them, while those who ignore or violate traditions may face social ostracism or worse. Consider how different NPCs might react to cultural violations based on their own background and position in society.
+Use the cultural customs as a framework for creating realistic social interactions and consequences. Players who learn and respect the customs will find doors opening and [[Allies]] supporting them, while those who ignore or violate traditions may face social ostracism or worse. Consider how different [[Npc]]s might react to cultural violations based on their own background and position in society.
 
 The depth-based hierarchy provides natural tension and conflict opportunities, while the various ceremonies and festivals offer chances for both celebration and disruption. Remember that these customs are living traditions that may be evolving in response to current events in your campaign.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -591,7 +591,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A letter reveals the truth about a local noble
 - Strange dreams suggest a conspiracy
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -606,4 +606,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established

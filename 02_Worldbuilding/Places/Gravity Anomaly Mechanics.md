@@ -1,7 +1,7 @@
 ---
 
 title: Gravity Anomaly Mechanics
-type: Location
+type: [[location]]
 tags:
 - aerial
 - environmental
@@ -11,7 +11,7 @@ tags:
 - status/complete
 - mechanics/magic
 - anomaly
-- content/lore
+- content/[[Lore]]
 - combat
 - location
 - physics
@@ -26,7 +26,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Unknown
 MyContainer: None
@@ -35,7 +35,7 @@ created_by: auto-stub
 danger_level: Moderate
 lore_type: Magical Mechanics
 obsidianUIMode: preview
-primary_application: Environmental Hazards and Effects
+primary_application: [[Environmental Hazards]] and Effects
 scope: Environmental Phenomena
 significance: Mechanical Framework
 updated: '2025-08-13T12:34:16.535261+00:00'
@@ -70,7 +70,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -120,7 +120,7 @@ improvements: 20
 
 Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[Aquabyssos]] and [[Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
 
-Unlike simple magical effects that temporarily alter gravity, true gravity anomalies represent fundamental distortions in the fabric of space-time itself, creating lasting changes to the physical laws governing affected areas. Understanding these mechanics is crucial for navigating anomaly zones, predicting their effects, and developing countermeasures to protect populated areas and critical infrastructure.
+Unlike simple magical effects that temporarily alter gravity, true gravity anomalies represent fundamental distortions in the fabric of space-[[Time]] itself, creating lasting changes to the physical laws governing affected areas. Understanding these mechanics is crucial for navigating anomaly zones, predicting their effects, and developing countermeasures to protect populated areas and critical infrastructure.
 
 ### Gravitational  Zones
 
@@ -253,11 +253,11 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Interface Dynamics**: Areas where water and air interface experience complex interactions when gravitational forces are altered, creating unique hazards and phenomena.
 
-**Pressure Differential**: Altered gravity creates unusual pressure relationships between air and water, affecting breathing equipment and structural integrity.
+**[[Pressure Differential]]**: Altered gravity creates unusual pressure relationships between air and water, affecting breathing equipment and structural integrity.
 
 **Navigation Complexity**: Transitional zones require navigation techniques that account for both underwater and surface gravitational effects simultaneously.
 
-**Emergency Protocols**: Rescue and evacuation procedures must account for gravitational effects that may make normal emergency responses impossible.
+**[[Emergency Protocol]]s**: Rescue and evacuation procedures must account for gravitational effects that may make normal emergency responses impossible.
 
 ### Spell Effects
 
@@ -275,9 +275,9 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Levitation Effects**: Items providing flight or levitation abilities often become unreliable or dangerous in altered gravitational fields.
 
-**Spatial Magic**: Teleportation, dimensional travel, and similar effects are significantly more dangerous in areas with gravitational anomalies.
+**Spatial Magic**: Teleportation, [[Dimensional Travel]], and similar effects are significantly more dangerous in areas with gravitational anomalies.
 
-**Protective Items**: Some magical protections are specifically designed to shield users from gravitational effects, though these are rare and expensive.
+**Protective Items**: Some magical protections are specifically designed to [[Shield]] users from gravitational effects, though these are rare and expensive.
 
 ### Spellcaster Considerations
 
@@ -321,7 +321,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Tactical Considerations
 
-**Movement Strategy**: Combat movement becomes three-dimensional in  zones, while gravity wells create terrain advantages and disadvantages.
+**Movement Strategy**: Combat movement becomes three-dimensional in  zones, while gravity wells create terrain advantages and [[Disadvantage]]s.
 
 **Weapon Effectiveness**: Projectile weapons are affected by gravitational distortions, while melee combat is complicated by altered weight and momentum.
 
@@ -343,7 +343,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Unit Cohesion**: Military formations adapted for three-dimensional combat spaces and constantly changing gravitational conditions.
 
-**Communication**: Enhanced communication systems for coordinating action when normal visual and auditory cues are disrupted.
+**Communication**: Enhanced [[Communication Systems]] for coordinating action when normal visual and auditory cues are disrupted.
 
 **Support Roles**: Specialized roles for managing gravitational effects, including technical specialists and magical support personnel.
 
@@ -353,7 +353,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Observation Methods**: Techniques for safely studying gravitational anomalies without being affected by their dangerous effects.
 
-**Data Collection**: Specialized instruments and procedures for measuring and recording gravitational phenomena under extreme conditions.
+**[[data]] Collection**: Specialized instruments and procedures for measuring and recording gravitational phenomena under extreme conditions.
 
 **Theoretical Framework**: Mathematical and magical models for understanding and predicting gravitational anomaly behavior.
 
@@ -365,7 +365,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Defensive Systems**: Gravitational anomalies as protective barriers or area denial weapons for military and security purposes.
 
-**Transportation**: Experimental systems using gravitational manipulation for more efficient movement of people and goods.
+**Transportation**: Experimental systems using gravitational manipulation for more efficient movement of [[People]] and goods.
 
 **Energy Generation**: Theoretical and experimental methods for extracting useful energy from gravitational anomalies.
 
@@ -381,7 +381,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 ### Encounter Design
 
-**Graduated Introduction**: Start with minor gravitational effects and gradually increase complexity as players become familiar with the mechanics.
+**Graduated [[Introduction]]**: Start with minor gravitational effects and gradually increase complexity as players become familiar with the mechanics.
 
 **Environmental Storytelling**: Use gravitational anomalies to create memorable locations and atmospheric details that enhance narrative immersion.
 
@@ -393,7 +393,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Saving Throw DCs**: Base DCs on anomaly intensity and duration of exposure, with modifiers for protective equipment and character abilities.
 
-**Damage Types**: Use bludgeoning damage for gravity wells, fall damage for directional changes, and exhaustion for extended exposure to anomalous conditions.
+**Damage Types**: Use bludgeoning damage for gravity wells, fall damage for directional changes, and [[Exhaustion]] for extended exposure to anomalous conditions.
 
 **Movement Rules**: Adapt existing movement mechanics for three-dimensional space, weightlessness, and altered gravitational directions.
 
@@ -419,16 +419,16 @@ Gravity Anomaly Mechanics is a undersea element of the setting, known for biolum
 
 Legends speak of Gravity Anomaly Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gravity Anomaly Mechanics.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -449,6 +449,34 @@ Gravity Anomaly Mechanics is a notable location characterized by its unique feat
 
 ### Founding
 Gravity Anomaly Mechanics was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -486,3 +514,40 @@ Key stop on spices trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

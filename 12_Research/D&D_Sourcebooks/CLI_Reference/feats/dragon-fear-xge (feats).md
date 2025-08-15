@@ -34,7 +34,7 @@ world: Both
 # Dragon Fear
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[dragonborn xphb|Dragonborn]]
+**Prerequisite**: [[dragonborn-xphb (races)]]
 
 When angered, you radiate menace. You gain the following benefits:
 

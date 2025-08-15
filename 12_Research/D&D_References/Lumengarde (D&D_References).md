@@ -60,7 +60,7 @@ The heart of Lumengarde, where the massive Mothercoral provides the template for
 Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. [[Master Cultivator Thalia Greenglow]] oversees production and experimentation.
 
 ### The Symbiont Quarter
-Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper Witch Naia Softcurrent]] helps newcomers bond with living structures.
+Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper-Witch Naia Softcurrent]] helps newcomers bond with living structures.
 
 ### The Enzyme Markets
 Commercial district where biological products are traded. [[The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]] maintain a permanent outpost here, managed by [[Merchant Delilah Currentrunner]]'s cousin.

@@ -45,7 +45,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 1.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 283*
 
@@ -81,3 +81,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a curse
 - The authorities needs help investigating before the festival
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[hail-of-thorns-xphb (spells)-phb]]` in CLI_Reference/spells/

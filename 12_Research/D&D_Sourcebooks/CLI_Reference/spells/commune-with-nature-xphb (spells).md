@@ -51,13 +51,13 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 - Locations of settlements  
 - Locations of portals to other planes of existence  
-- Location of one [[challenge-rating-xphb|Challenge Rating]] 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
+- Location of one [[challenge-rating-xphb (variant-rules)]] 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)  
 - Locations of bodies of water  
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb "subclass=XPHB;class=XPHB"|Barbarian (Path of the Wild Heart)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 252. Available in the SRD and the Free Rules (2024)*
 
@@ -96,3 +96,24 @@ Mentioned in The Second Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[commune-with-nature-xphb (spells)-phb]]` in CLI_Reference/spells/

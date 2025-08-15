@@ -1,10 +1,10 @@
 ---
 
 title: Military Moral Quandaries
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - warfare
 - shadow-corruption
 - world/aquabyssos
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -88,19 +88,19 @@ improvements: 20
 
 ## Overview
 
-Military service has always involved moral complexity, but the supernatural threats facing Aquabyssos create unprecedented ethical challenges. Traditional concepts of combatant status, proportional response, civilian protection, and just war theory break down when facing enemies that can corrupt consciousness itself. This guide explores the moral dilemmas that arise when military necessity conflicts with ethical principles in an age of shadow corruption.
+Military service has always involved moral complexity, but the supernatural threats facing Aquabyssos create unprecedented ethical challenges. Traditional concepts of combatant status, proportional response, [[Civilian Protection]], and just war theory break down when facing enemies that can corrupt consciousness itself. This guide explores the [[Moral Dilemmas]] that arise when military necessity conflicts with ethical principles in an age of [[Shadow Corruption]].
 
 ### The Corruption Factor
 
 Every military decision must account for the possibility that:
-- Allies may be compromised without their knowledge
-- Enemy forces include unwilling conscripts (shadow-touched)
+- [[Allies]] may be compromised without their knowledge
+- Enemy forces include unwilling con[[scripts]] (shadow-touched)
 - Military actions might accelerate rather than prevent corruption
 - Victory conditions are unclear when the enemy can alter the nature of existence
 
 #### **The Cult Cell Strike Dilemma**
 
-**Situation**: Intelligence suggests a Deep Mother cult cell plans a major ritual in three days, but evidence is circumstantial and wouldn't justify action under peacetime law.
+**Situation**: Intelligence suggests a [[Deep Mother]] cult cell plans a major ritual in three days, but [[Evidence]] is circumstantial and wouldn't justify action under peace[[Time]] law.
 
 **Intelligence Assessment**:
 - **Source**: Single informant with unknown reliability
@@ -112,20 +112,20 @@ Every military decision must account for the possibility that:
 **Military Options**:
 - **Preemptive Strike**: Eliminate cell based on current intelligence
 - **Enhanced Surveillance**: Monitor until evidence becomes conclusive
-- **Diplomatic Intervention**: Warn local authorities and request investigation
+- **Diplomatic Intervention**: Warn [[Local Authorities]] and request investigation
 - **Infiltration**: Insert agents to gather definitive proof
 
 **Moral Framework Conflicts**:
 - **Utilitarian**: Potential harm from inaction outweighs harm from false positive
-- **Rights-Based**: Cannot harm potentially innocent people without proof
+- **Rights-Based**: Cannot harm potentially innocent [[People]] without proof
 - **Consequentialist**: Results matter more than methods when reality is at stake
 - **Virtue Ethics**: What would honorable soldiers do in this situation?
 
-**Case Study: The Harbor District Cell**
+**Case Study: The [[Harbor District]] Cell**
 Commander Tidewatch receives intelligence about cult activity in a residential area:
 - **Target**: 20-person cell in apartment complex with 400 residents
 - **Risk**: Ritual could open reality breach in populated area
-- **Evidence**: 60% confidence level from military intelligence
+- **Evidence**: 60% confidence level from [[Military Intelligence]]
 - **Collateral**: Strike would likely kill 15-30 civilians
 - **Time**: Window for action closing rapidly
 
@@ -233,16 +233,16 @@ Military evacuation separates family members based on corruption status:
 
 **The Shadow Prophet Interrogation**
 - **Prisoner**: High-ranking cult member with knowledge of planned attacks
-- **Timeline**: Attack scheduled within days, exact timing unknown
+- **[[Timeline]]**: Attack scheduled within days, exact timing unknown
 - **Standard Methods**: Ineffective due to altered pain perception and loyalty
-- **Enhanced Techniques**: Memory extraction, consciousness invasion, reality manipulation
+- **Enhanced Techniques**: Memory extraction, consciousness invasion, [[Reality Manipulation]]
 - **Stakes**: Thousands of lives versus integrity of interrogation practices
 
 **Moral Positions**:
 
 **Absolute Prohibition**
 - **Principle**: Torture is always wrong regardless of consequences
-- **Supporters**: Human rights advocates, religious leaders, legal authorities
+- **Supporters**: Human rights advocates, [[Religious Leaders]], legal authorities
 - **Arguments**: Moral degradation, unreliable information, precedent setting
 - **Problems**: May fail to prevent catastrophic attacks
 
@@ -260,7 +260,7 @@ Military evacuation separates family members based on corruption status:
 
 **Case Study: The Ticking Reality Bomb**
 Intelligence suggests cult has device that could unravel local reality within hours:
-- **Information Needed**: Location and deactivation sequence
+- **Information Needed**: [[location]] and deactivation sequence
 - **Prisoner**: Willing to die rather than reveal information
 - **Alternatives**: Mass evacuation (impossible in timeframe), random searching (unlikely to succeed)
 - **Enhanced Options**: Memory reading (traumatic), consciousness merging (potentially fatal), reality manipulation (unpredictable)
@@ -287,7 +287,7 @@ Intelligence suggests cult has device that could unravel local reality within ho
 **Economic Sanctions**
 - **Method**: Reduce trade, aid, and services to entire community
 - **Benefits**: Pressures community to cooperate, avoids direct violence
-- **Problems**: Harms innocents, may increase rather than decrease cult sympathy
+- **Problems**: Harms innocents, may increase rather than decrease cult sym[[path]]y
 - **Outcome**: Economic hardship with uncertain security benefits
 
 **Forced Relocation**
@@ -367,7 +367,7 @@ Military planning assault on cult stronghold in abandoned cathedral:
 - Can military justify using weapons whose effects are poorly understood?
 - Who bears responsibility for long-term consequences of reality damage?
 
-## DM Notes
+## [[DM Notes]]
 
 Military ethics scenarios work best when players have personal investment in military characters and institutions. Build toward major ethical crises by first presenting smaller military moral choices. Allow time for player discussion of options, but maintain time pressure appropriate to military decision-making. Remember that military ethics training helps but doesn't eliminate moral complexity - even trained officers struggle with these dilemmas.
 
@@ -379,7 +379,7 @@ Military Moral Quandaries is a undersea element of the setting, known for biolum
 
 Legends speak of Military Moral Quandaries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Moral Quandaries.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -408,7 +408,7 @@ Mentioned in The Hidden Prophecy of Depths
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 

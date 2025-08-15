@@ -1,10 +1,10 @@
 ---
 
-title: Void Technician Prima bane
-type: Lore
+title: [[Void Technician Prima bane]]
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -77,11 +77,11 @@ Void Technician Prima bane is a void-touched element of the setting, known for i
 
 Legends speak of Void Technician Prima bane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Technician Prima bane.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

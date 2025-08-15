@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
-# [[juvenile shadow dragon xmm|Juvenile Shadow Dragon]]
+# [[Shadow Dragon Xmm]]
 *Source: Monster Manual (2024) p. 275*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -106,12 +106,12 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "While in [[dim light xphb|Dim Light]]\
-      \ or [[darkness xphb|Darkness]], the dragon\
-      \ has [[resistance xphb|Resistance]] to damage\
+  - "desc": "While in [[Light Xphb]]\
+      \ or [[darkness-xphb (variant-rules)]], the dragon\
+      \ has [[boon-of-energy-resistance-xphb (feats)]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
-  - "desc": "While in sunlight, the dragon has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the dragon has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -120,12 +120,12 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 7 (1d8 + 3) Slashing damage\
       \ plus 3 (d6) Necrotic damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: 17 (5d6) Necrotic damage. Success: Half damage. Failure or Success:\
-      \ A Humanoid reduced to 0 [[hit points xphb|Hit Points]]\
-      \ by this damage dies, and a [[shadow xmm|Shadow]]\
+      \ A Humanoid reduced to 0 [[hit-points-xphb (variant-rules)]]\
+      \ by this damage dies, and a [[Shadow Xmm]]\
       \ rises from its corpse. The shadow is under the dragon's control and shares\
-      \ the dragon's [[initiative xphb|Initiative]]\
+      \ the dragon's [[Initiative Xphb]]\
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":

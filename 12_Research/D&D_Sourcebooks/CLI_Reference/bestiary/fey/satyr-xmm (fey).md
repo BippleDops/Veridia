@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-xmm-satyr-xmm.svg)
 
-# [[satyr xmm|Satyr]]
+# [[satyr-xmm (fey)]]
 *Source: Monster Manual (2024) p. 268. Available in the SRD and the Free Rules (2024)*  
 
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
@@ -94,7 +94,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-  - "desc": "The satyr has [[advantage xphb|Advantage]]\
+  - "desc": "The satyr has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

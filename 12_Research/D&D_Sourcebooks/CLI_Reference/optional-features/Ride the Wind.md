@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [[fly xphb|fly]], targeting yourself.
+You can spend 4 ki points to cast [[fly-xphb (spells)]], targeting yourself.
 
 ## 🔧 Deep Evaluation Improvements
 

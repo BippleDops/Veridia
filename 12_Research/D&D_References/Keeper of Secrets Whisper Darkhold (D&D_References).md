@@ -1,10 +1,12 @@
 ---
+
 title: Keeper of Secrets Whisper Darkhold (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Keeper of Secrets Whisper Darkhold
@@ -64,3 +66,7 @@ Mentioned in The Hidden Prophecy of Winds
 - A stranger needs help stealing before the festival
 - Strange disappearances suggest a conspiracy
 - A journal reveals ancient history about a local noble
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

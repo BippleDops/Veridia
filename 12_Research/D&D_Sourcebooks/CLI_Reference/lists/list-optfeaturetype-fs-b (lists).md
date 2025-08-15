@@ -33,8 +33,8 @@ world: Both
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
-- [[dueling xphb|Dueling]]
-- [[two weapon fighting xphb|Two Weapon Fighting]]
+- [[dueling-xphb (feats)]]
+- [[two-weapon-fighting-xphb (feats)]]
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,7 +1,7 @@
 ---
 
 title: Goldspire Port
-type: Location
+type: [[location]]
 tags:
 - place
 - both
@@ -10,7 +10,7 @@ tags:
 created: null
 modified: '2025-08-14'
 status: active
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:17.003471+00:00'
 world: Both
@@ -25,7 +25,7 @@ improvements: 20
 
 # Goldspire Port
 
-*The Confederacy's Eye on Aethermoor*
+*The Confederacy's Eye on [[Aethermoor]]*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -88,28 +88,56 @@ improvements: 20
 - Show how traditions are changing with new generation
 
 ## Overview
-Goldspire Port stands as the closest major Confederacy city to Aethermoor, a gleaming trade hub where merchants, spies, and refugees mingle. Built into towering golden cliffs, the city watches Aethermoor's crisis with calculating interest, serving as both potential salvation and threat.
+Goldspire Port stands as the closest major Confederacy city to Aethermoor, a gleaming trade hub where [[Merchant]]s, spies, and refugees mingle. Built into towering golden cliffs, the [[City Watch]]es Aethermoor's crisis with calculating interest, serving as both potential salvation and threat.
 
 ## Description
-The city rises in seven terraced levels carved into coastal cliffs of golden sandstone. Each level represents a different economic class, with mechanical lifts powered by steam and clockwork (deliberately avoiding crystal technology) connecting them. The harbor below bristles with ships from across the known world, while the summit holds the Confederate Trade Council's fortress-palace.
+The city rises in seven terraced levels carved into coastal cliffs of golden sandstone. Each level represents a different economic class, with mechanical lifts powered by steam and clockwork (deliberately avoiding [[Crystal Technology]]) connecting them. The harbor below bristles with ships from across the known world, while the summit holds the Confederate Trade Council's fortress-palace.
 
 ### The Seven Tiers
 1. **Tide Ward** - Docks, warehouses, and sailor quarters
-2. **Merchant Quarter** - Shops, markets, and trading houses
+2. **[[Merchant Quarter]]** - Shops, markets, and trading houses
 3. **Craft District** - Workshops and guild halls (crystal-tech research labs)
-4. **Embassy Row** - Foreign delegations and refugee quarters
+4. **[[Embassy Row]]** - Foreign delegations and refugee quarters
 5. **Gold Gardens** - Wealthy merchant estates
 6. **Confederate Heights** - Government buildings and military
 7. **The Spire** - Trade Council's palace and intelligence headquarters
 
 ### The Refugee Quarter
-A growing district in Embassy Row where Aethermoor expatriates gather, bringing crystal corruption fears with them. Heavily monitored by Confederate agents.
+A growing district in Embassy Row where Aethermoor expatriates gather, bringing [[Crystal Corruption]] fears with them. Heavily monitored by Confederate agents.
 
 ### The  Vault
 Secret facility where confiscated crystal artifacts are studied and neutralized. Run by the Department of Existential Threats.
 
 ### The Market of Whispers
 Information brokerage where intelligence about Aethermoor is bought and sold. [[Zephyr Goldwhisper]] maintains an office here.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## DM Secrets
 > [!warning] The Confederate Solution
@@ -131,20 +159,20 @@ Massive devices that create a field preventing crystal energy within the city. S
 
 Goldspire Port is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Goldspire Port as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Goldspire Port.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -182,3 +210,40 @@ Ongoing situations affecting Goldspire Port:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

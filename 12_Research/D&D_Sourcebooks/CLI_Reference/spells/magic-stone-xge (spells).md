@@ -46,11 +46,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [[sling xphb|sling]]. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the attack roll. On a hit, the target takes bludgeoning damage equal to `d6` + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [[Sling Xphb]]. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the attack roll. On a hit, the target takes bludgeoning damage equal to `d6` + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 160*
 
@@ -90,3 +90,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help investigating before the festival
 - An heirloom has gone missing and chaos spreads
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[magic-stone-xge (spells)-phb]]` in CLI_Reference/spells/

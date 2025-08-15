@@ -54,7 +54,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [[conditions#Exhaustion|exhaustion]].
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 168*
 

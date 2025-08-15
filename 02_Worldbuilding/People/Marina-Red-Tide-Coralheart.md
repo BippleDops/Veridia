@@ -39,7 +39,7 @@ faction: '[[The Depth Wardens]]'
 faction_rank: 5
 first_name: Marina
 influence: 8
-last_encounter: '[[Aethermoor   Session 01 Blood in the Harbor]]'
+last_encounter: '[[Session 01]]'
 last_name: Coralheart
 max_hp: 52
 notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
@@ -151,6 +151,25 @@ Marina commands attention the moment she enters a room. Her deep red hair flows 
 
 She dresses in practical sailing clothes mixed with finery stolen from a dozen ports - leather boots worth a fortune, a coat from a naval officer, rings from various "negotiations." Her voice carries the musical lilt of the Meridian docks mixed with phrases from a dozen languages. She moves with a dancer's grace and a predator's awareness.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
+
 ## Background
 Marina is the last known descendant of the Coralheart line, one of seven families who survived the original Aquabyssos catastrophe 300 years ago. Raised by the secret order of Depth Wardens, she was trained from childhood to recognize and protect bloodline carriers while maintaining a perfect cover identity as a smuggler and information broker.
 
@@ -241,6 +260,11 @@ Marina-Red-Tide-Coralheart presents a distinctive figure. Their bearing suggests
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
+
 ## Plot Hooks
 
 1. **The Request**: Marina-Red-Tide-Coralheart needs assistance with a delicate matter
@@ -317,3 +341,35 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

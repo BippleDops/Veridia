@@ -53,13 +53,13 @@ world: Both
 - **Components:** V, S, M (a leather strap)
 - **Duration:** 1 hour
 
-You touch a willing creature. For the duration, the target's movement is unaffected by [[difficult-terrain-xphb|Difficult Terrain]], and spells and other magical effects can neither reduce the target's [[speed xphb|Speed]] nor cause the target to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] conditions. The target also has a [[swim-speed-xphb|Swim Speed]] equal to its [[speed xphb|Speed]].
+You touch a willing creature. For the duration, the target's movement is unaffected by [[Difficult Terrain Xphb]], and spells and other magical effects can neither reduce the target's [[Fly Speed Xphb]] nor cause the target to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] conditions. The target also has a [[swim-speed-xphb (variant-rules)]] equal to its [[Fly Speed Xphb]].
 
 In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the [[conditions#Grappled|Grappled]] condition on it.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 277. Available in the SRD and the Free Rules (2024)*
 
@@ -98,3 +98,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

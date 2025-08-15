@@ -135,3 +135,17 @@ Mentioned in The First Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

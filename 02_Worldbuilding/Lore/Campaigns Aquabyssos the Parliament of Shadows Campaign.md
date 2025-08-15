@@ -1,7 +1,7 @@
 ---
 
-title: Campaigns Aquabyssos the Parliament of Shadows Campaign
-type: lore
+title: Campaigns [[Aquabyssos]] [[The Parliament of Shadows Campaign]]
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -78,7 +78,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -89,10 +89,10 @@ Connected to 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign are vari
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign through their own cultural lenses:
+Different [[Groups]] view 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ### Defining Features
@@ -158,7 +158,7 @@ The current state of 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -191,7 +191,7 @@ Ways to incorporate 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign i
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -212,7 +212,7 @@ How to adjust for different games:
 Ways 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -231,7 +231,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -254,7 +254,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #01_campaigns/aquabyssos/the-parliament-of-shadows-campaign
+*Tags*: [[#General]] #worldbuilding #01_campaigns/aquabyssos/the-parliament-of-shadows-campaign
 
 ## Cultural Impact
 
@@ -266,12 +266,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - The authorities needs help stealing before winter
 - A noble needs help finding before the festival
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -281,7 +281,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Economic Structure
 

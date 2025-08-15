@@ -40,7 +40,7 @@ updated: '2025-08-13T12:34:05.862926+00:00'
 world: Both
 ---
 
-# [[gnoll pack lord xmm|Gnoll Pack Lord]]
+# [[gnoll-pack-lord-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 140*  
 
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
@@ -100,13 +100,13 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Javelin"
   - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-      \ that has the Rampage [[bonus action xphb|Bonus Action]].\
-      \ The target can take a [[reaction xphb|Reaction]]\
+      \ that has the Rampage [[Action Xphb]].\
+      \ The target can take a [[reaction-xphb (variant-rules)]]\
       \ to make one melee attack."
     "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb (variant-rules)]],\
+      \ the gnoll moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Bone Whip attack."
     "name": "Rampage (2/Day)"
 "source":

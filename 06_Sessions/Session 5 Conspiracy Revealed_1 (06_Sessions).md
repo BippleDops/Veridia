@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_5_Conspiracy_Revealed
 
----
+- --
 title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: session
 tags:
@@ -31,14 +31,14 @@ duration: 4-5 hours
 world: Aquabyssos
 adventure: The Sunken Conspiracy
 updated: '2025-08-13T01:18:37.160710+00:00'
----
+- --
 
 # Session 5: Conspiracy Revealed
-*The Sunken Conspiracy - Final Confrontation and Revelations*
+* The Sunken Conspiracy - Final Confrontation and Revelations*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -746,17 +746,18 @@ This record is dedicated to all who suffered under the conspiracy's influence, a
 "In the deepest currents, truth eventually surfaces."
 - Speaker Coralia Deepsong
 
----
+- --
 
 **Adventure Conclusion**
 
-*The Sunken Conspiracy* concludes with the party having shaped the future relationship between two civilizations through their choices, courage, and dedication to justice. Whether through diplomatic triumph, military victory, ancient power, or some combination thereof, they have proven that individuals can make a difference in the face of seemingly insurmountable challenges.
+* The Sunken Conspiracy* concludes with the party having shaped the future relationship between two civilizations through their choices, courage, and dedication to justice. Whether through diplomatic triumph, military victory, ancient power, or some combination thereof, they have proven that individuals can make a difference in the face of seemingly insurmountable challenges.
 
 The underwater realm of Aquabyssos will never be the same, but thanks to their efforts, it has a future—whatever form that future may take. In the crushing depths where pressure shapes all things, they have shown that the greatest pressure of all is the weight of moral choice, and that even in the darkness of conspiracy and betrayal, the light of truth can still shine through.
 
 The adventure ends, but the story of these heroes and the world they helped shape continues in whatever adventures await in the transformed relationship between the realms above and below the waves.
 
 <invoke name="<parameter name="
+
 ## Player-Facing Summary
 
 Session 5 Conspiracy Revealed is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -771,11 +772,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
 ## Related Notes
 
@@ -795,3 +796,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Themes**: [THEMES]
+- **Party's**: [PARTY-S]
+- **Their**: [THEIR]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session 05 - The Shadow War
 
----
+- --
 title: Session 05   The Shadow War
 type: Lore
 tags:
@@ -23,11 +23,11 @@ modified: '2025-08-14'
 status: active
 world: Aquabyssos
 updated: '2025-08-13T01:18:35.710826+00:00'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -51,7 +51,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Prophecy Connection
 
@@ -67,3 +67,13 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

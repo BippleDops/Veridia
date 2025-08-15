@@ -483,7 +483,7 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 - [[Moderate Depth Coalition]] - Centrist coalition
 
 **Related Concepts**:
-- [[Pressure Weighted Representation]] - Unique democratic system
+- [[Pressure-Weighted Representation (D&D_References)]] - Unique democratic system
 - [[The Great Democratic Renewal]] - Current reform movement
 - [[Democratic Technology Development]] - Technological innovation
 - [[Kelp Forest Constituencies]] - Environmental democratic movement

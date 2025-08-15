@@ -1,16 +1,16 @@
 ---
 
 title: The Azure Coast
-type: Location
+type: [[location]]
 tags:
 - coastal
 - status/complete
 - aquatic
 - trade-routes
 - quest
-- coastal-region
+- coastal-[[region]]
 - content/location
-- maritime
+- mari[[Time]]
 - region
 - strategic
 - world/aethermoor
@@ -50,7 +50,7 @@ improvements: 20
 
 # The Azure Coast
 
-*The Golden Shore of Maritime Commerce*
+*The Golden Shore of [[Maritime Commerce]]*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -112,7 +112,7 @@ improvements: 20
 
 The Azure Coast stretches along the western edge of [[Aethermoor]], forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [[Aquabyssos]].
 
-From the great port city of [[Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
+From the great port city of [[Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface [[Merchant]]s trade with underwater diplomats, [[Pirates]] prey upon wealthy cargo vessels, and [[Ancient Ruins]] emerge from the tides during the lowest waters of the season.
 
 ### Coastal Features
 
@@ -120,7 +120,7 @@ From the great port city of [[Port Meridian]] in the north to the lighthouse set
 **Crystal Tide Pools**: Shallow areas where underwater crystal formations create magical effects
 **The Merchant Straits**: Narrow channels between mainland and coastal islands
 **Sorrow Point**: Dangerous rocky headland known for shipwrecks
-**Azure Bay**: Protected cove popular with fishing communities and smugglers
+**Azure Bay**: Protected cove popular with fishing communities and [[Smuggler]]s
 
 ### Climate Patterns
 
@@ -139,7 +139,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 
 ### Port Meridian
 
-*The Crown Jewel of the Azure Coast*
+*[[The Crown]] Jewel of the Azure Coast*
 - Population: 400,000
 - Primary hub for surface-underwater trade
 - Home to [[Aquabyssos Ambassadors]] embassy
@@ -158,7 +158,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 *The Smuggler's Paradise*
 - Population: 45,000
 - Nominally independent fishing community
-- Actually controlled by various criminal organizations
+- Actually controlled by various [[Criminal [[Organization]]s]]
 - Hidden coves and secret harbors throughout the area
 
 ### Lighthouse Towns
@@ -170,8 +170,8 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 ### Maritime Trade
 
 **Surface-Underwater Commerce**: Primary economic driver of the region
-- Memory pearls, pressure-adapted tools, deep-sea delicacies from [[Aquabyssos]]
-- Crystal technology, preserved foods, manufactured goods to underwater markets
+- [[Memory Pearls]], pressure-adapted tools, deep-sea delicacies from [[Aquabyssos]]
+- [[Crystal Technology]], preserved foods, manufactured goods to underwater markets
 - Specialized vessels designed for inter-realm transport
 - Translation and cultural consultation services
 
@@ -184,7 +184,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 ### Specialized Industries
 
 **Crystal Harvesting**: Extracting magical crystals from tidal areas
-**Diplomatic Services**: Supporting inter-realm negotiations and treaties
+**[[Diplomatic Service]]s**: Supporting inter-realm negotiations and treaties
 **Tourism**: Wealthy visitors seeking underwater experiences
 **Research Support**: Academic expeditions studying coastal phenomena
 
@@ -208,7 +208,7 @@ Loose confederation of city-states cooperating on:
 - Maritime security and anti-piracy operations
 - Trade regulation and standardization
 - Diplomatic relations with [[Aquabyssos]]
-- Environmental protection of coastal resources
+- [[Environmental Protection]] of coastal resources
 
 ### Member States
 
@@ -267,7 +267,7 @@ Loose confederation of city-states cooperating on:
 - Protected by joint surface-underwater naval patrols
 - Site of important treaty negotiations and trade agreements
 
-### The Crystal Gardens Tidal Pools
+### The [[Crystal Garden]]s Tidal Pools
 
 *Sacred site for both surface and underwater cultures*
 - Natural crystal formations creating stunning visual displays
@@ -286,14 +286,14 @@ Loose confederation of city-states cooperating on:
 ### The Ruins of Old Meridian
 
 *Ancient city revealed only during extreme low tides*
-- Pre-[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] settlement
+- Pre-[[The [[Great Drowning]]|[[02 Worldbuilding]]/[[Lore]]/[[The Great Drowning]]]] settlement
 - Contains valuable archaeological artifacts
 - Dangerous to explore due to tidal timing
 - Source of ongoing academic and treasure-hunting expeditions
 
 ## Quest Hooks
 
-1. **The Missing Diplomatic Pouch**: Important documents disappear during inter-realm negotiations
+1. **[[The Missing Diplomat]]ic Pouch**: Important documents disappear during inter-realm negotiations
 2. **The Pirate Alliance**: [[The Crimson Fleet]] forms dangerous new partnerships
 3. **The Tidal Excavation**: Race against time to explore ruins before waters return
 4. **The Crystal Shortage**: Vital magical resources begin disappearing from tidal pools
@@ -302,14 +302,14 @@ Loose confederation of city-states cooperating on:
 7. **The Diplomatic Crisis**: Cultural misunderstanding threatens surface-underwater relations
 8. **The Sea Monster**: Legendary creature begins attacking merchant vessels
 9. **The Lighthouse Conspiracy**: Navigation beacons are being deliberately sabotaged
-10. **The Underwater Invasion**: Evidence suggests hostile forces massing in deep waters
+10. **The Underwater Invasion**: [[Evidence]] suggests hostile forces massing in deep waters
 
 ### Festivals & Traditions
 
 **The Tide Festival**: Annual celebration of surface-underwater cooperation
 **The Crystal Moon**: Nighttime festival showcasing azure glow phenomena
-**The Sailor's Blessing**: Pre-voyage ceremonies ensuring safe passage
-**The Harvest Tide**: Celebration of successful fishing and trading seasons
+**The Sailor's [[Bless]]ing**: Pre-voyage ceremonies ensuring safe passage
+**[[The Harvest]] Tide**: Celebration of successful fishing and trading seasons
 
 ## Connections to Ongoing Campaigns
 
@@ -317,12 +317,19 @@ The Azure Coast provides:
 - Entry point for adventures involving both surface and underwater elements
 - Economic and political intrigue spanning multiple realms
 - Maritime adventure opportunities including piracy, exploration, and trade
-- Cultural exchange scenarios requiring diplomatic solutions
+- [[Cultural Exchange]] scenarios requiring diplomatic solutions
 - Environmental challenges affecting multiple communities
 - Archaeological opportunities in tidal ruins and underwater sites
 - Transportation hub connecting various campaign locations
 - Source of unique resources, information, and specialized services
 EOF < /dev/
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Player-Facing Summary
 
@@ -332,16 +339,16 @@ The Azure Coast is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Azure Coast as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Azure Coast.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -362,6 +369,20 @@ The Azure Coast is a notable location characterized by its unique features and s
 
 ### Founding
 The Azure Coast was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
 
 ## Current Events
 
@@ -415,3 +436,36 @@ Key stop on metals trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

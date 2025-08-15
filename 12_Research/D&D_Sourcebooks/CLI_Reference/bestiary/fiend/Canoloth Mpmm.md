@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-canoloth-mpmm-canoloth-mpmm.svg)
 
-# [[canoloth mpmm|Canoloth]]
+# [[Canoloth Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  
 
 > [!quote] A quote from Mordenkainen  

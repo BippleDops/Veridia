@@ -38,26 +38,26 @@ world: Both
 | 2014 Stat Block | 2025 Equivalent |
 |-----------------|-----------------|
 | [[aarakocra-skirmisher-xmm|Aarakocra]] | [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Acolyte]] | [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Priest Acolyte]] |
-| [[dracolich xmm|Adult Blue Dracolich]] | [[dracolich xmm|Dracolich]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[dracolich-xmm (legendary-group)]] | [[dracolich-xmm (legendary-group)]] |
 | [[sphinx-of-valor-xmm|Androsphinx]] | [[sphinx-of-valor-xmm|Sphinx of Valor]] |
-| [[azer-sentinel-xmm|Azer]] | [[azer-sentinel-xmm|Azer Sentinel]] |
+| [[azer-sentinel-xmm (elemental)]] | [[azer-sentinel-xmm (elemental)]] |
 | [[bugbear-warrior-xmm|Bugbear]] | [[bugbear-warrior-xmm|Bugbear Warrior]] |
-| [[bullywug-warrior-xmm|Bullywug]] | [[bullywug-warrior-xmm|Bullywug Warrior]] |
+| [[bullywug-warrior-xmm (fey)]] | [[bullywug-warrior-xmm (fey)]] |
 | [[centaur-trooper-xmm|Centaur]] | [[centaur-trooper-xmm|Centaur Trooper]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatic]] | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cultist Fanatic]] |
+| [[Bestiary]] | [[Bestiary]] |
 | [[cyclops-sentry-xmm|Cyclops]] | [[cyclops-sentry-xmm|Cyclops Sentry]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|Deep Gnome]] | [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Scout]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Drow]] | [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Priest Acolyte]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|Drow Elite Warrior]] | [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|Gladiator]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|Drow Mage]] | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|Bandit Deceiver]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm|Drow Priestess of Lolth]] | [[/03 Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm|Fiend Cultist]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Duergar]] | [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Spy]] |
-| [[modron-duodrone-xmm|Duodrone]] | [[modron-duodrone-xmm|Modron Duodrone]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Modron Duodrone Xmm]] | [[Modron Duodrone Xmm]] |
 | [[faerie-dragon-adult-xmm|Faerie Dragon (if green, blue, indigo, or violet)]] | [[faerie-dragon-adult-xmm|Faerie Dragon Adult]] |
 | [[faerie-dragon-youth-xmm|Faerie Dragon (if red, orange, or yellow)]] | [[faerie-dragon-youth-xmm|Faerie Dragon Youth]] |
 | [[salamander-fire-snake-xmm|Fire Snake]] | [[salamander-fire-snake-xmm|Salamander Fire Snake]] |
-| [[animated-flying-sword-xmm|Flying Sword]] | [[animated-flying-sword-xmm|Animated Flying Sword]] |
+| [[animated-flying-sword-xmm (construct)]] | [[animated-flying-sword-xmm (construct)]] |
 | [[gas-spore-fungus-xmm|Gas Spore]] | [[gas-spore-fungus-xmm|Gas Spore Fungus]] |
 | [[giant-venomous-snake-xmm|Giant Poisonous Snake]] | [[giant-venomous-snake-xmm|Giant Venomous Snake]] |
 | [[gnoll-warrior-xmm|Gnoll]] | [[gnoll-warrior-xmm|Gnoll Warrior]] |
@@ -65,37 +65,37 @@ world: Both
 | [[grick-ancient-xmm|Grick Alpha]] | [[grick-ancient-xmm|Grick Ancient]] |
 | [[sphinx-of-lore-xmm|Gynosphinx]] | [[sphinx-of-lore-xmm|Sphinx of Lore]] |
 | [[ogrillon-ogre-xmm|Half-Ogre (Ogrillon)]] | [[ogrillon-ogre-xmm|Ogrillon Ogre]] |
-| [[half-dragon-xmm|Half-Red Dragon Veteran]] | [[half-dragon-xmm|Half-Dragon]] |
+| [[half-dragon-xmm (dragon)]] | [[half-dragon-xmm (dragon)]] |
 | [[hobgoblin-warrior-xmm|Hobgoblin]] | [[hobgoblin-warrior-xmm|Hobgoblin Warrior]] |
 | [[kobold-warrior-xmm|Kobold]] | [[kobold-warrior-xmm|Kobold Warrior]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Lizardfolk]] | [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Scout]] |
-| [[lizardfolk-geomancer-xmm|Lizardfolk Shaman]] | [[lizardfolk-geomancer-xmm|Lizardfolk Geomancer]] |
-| [[lizardfolk-sovereign-xmm|Lizard King]]/[[lizardfolk-sovereign-xmm|Queen]] | [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Lizardfolk Geomancer Xmm]] | [[Lizardfolk Geomancer Xmm]] |
+| [[Lizardfolk Sovereign Xmm]]/[[Lizardfolk Sovereign Xmm]] | [[Lizardfolk Sovereign Xmm]] |
 | [[merfolk-skirmisher-xmm|Merfolk]] | [[merfolk-skirmisher-xmm|Merfolk Skirmisher]] |
 | [[minotaur-of-baphomet-xmm|Minotaur]] | [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]] |
-| [[modron-monodrone-xmm|Monodrone]] | [[modron-monodrone-xmm|Modron Monodrone]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Orc]] | [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Tough]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Orc Eye of Gruumsh]] | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cultist Fanatic]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/tough-boss-xmm|Orc War Chief]] | [[/03 Mechanics/CLI/bestiary/humanoid/tough-boss-xmm|Tough Boss]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Orog]] | [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] |
-| [[modron-pentadrone-xmm|Pentadrone]] | [[modron-pentadrone-xmm|Modron Pentadrone]] |
+| [[modron-monodrone-xmm (construct)]] | [[modron-monodrone-xmm (construct)]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[modron-pentadrone-xmm (construct)]] | [[modron-pentadrone-xmm (construct)]] |
 | [[venomous-snake-xmm|Poisonous Snake]] | [[venomous-snake-xmm|Venomous Snake]] |
-| [[modron-quadrone-xmm|Quadrone]] | [[modron-quadrone-xmm|Modron Quadrone]] |
+| [[Modron Quadrone Xmm]] | [[Modron Quadrone Xmm]] |
 | [[myconid-spore-servant-xmm|Quaggoth Spore Servant]] | [[myconid-spore-servant-xmm|Myconid Spore Servant]] |
-| [[piranha xmm|Quipper]] | [[piranha xmm|Piranha]] |
-| [[animated-rug-of-smothering-xmm|Rug of Smothering]] | [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]] |
+| [[piranha-xmm (beast)]] | [[piranha-xmm (beast)]] |
+| [[animated-rug-of-smothering-xmm (construct)]] | [[animated-rug-of-smothering-xmm (construct)]] |
 | [[sahuagin-warrior-xmm|Sahuagin]] | [[sahuagin-warrior-xmm|Sahuagin Warrior]] |
-| [[sahuagin-priest-xmm|Sahuagin Priestess]] | [[sahuagin-priest-xmm|Sahuagin Priest]] |
+| [[Sahuagin Priest Xmm]] | [[Sahuagin Priest Xmm]] |
 | [[shrieker-fungus-xmm|Shrieker]] | [[shrieker-fungus-xmm|Shrieker Fungus]] |
 | [[swarm-of-venomous-snakes-xmm|Swarm of Poisonous Snakes]] | [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]] |
-| [[swarm-of-piranhas-xmm|Swarm of Quippers]] | [[swarm-of-piranhas-xmm|Swarm of Piranhas]] |
+| [[swarm-of-piranhas-xmm (beast)]] | [[swarm-of-piranhas-xmm (beast)]] |
 | [[thri-kreen-marauder-xmm|Thri-kreen]] | [[thri-kreen-marauder-xmm|Thri-kreen Marauder]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Thug]] | [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Tough]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warrior]] | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Warrior Infantry]] |
-| [[modron-tridrone-xmm|Tridrone]] | [[modron-tridrone-xmm|Modron Tridrone]] |
-| [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]] | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]] |
-| [[shadow-dragon-xmm|Young Red Shadow Dragon]] | [[shadow-dragon-xmm|Shadow Dragon]] |
-| [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|Yuan-ti Pureblood]] | [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[Modron Tridrone Xmm]] | [[Modron Tridrone Xmm]] |
+| [[Bestiary]] | [[Bestiary]] |
+| [[shadow-dragon-xmm (legendary-group)]] | [[shadow-dragon-xmm (legendary-group)]] |
+| [[Bestiary]] | [[Bestiary]] |
 ^stat-block-conversions
 
 ## 🔧 Deep Evaluation Improvements

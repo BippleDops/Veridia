@@ -45,11 +45,11 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/gate xphb "XPHB"|Gate]]
-- [[/03 Mechanics/CLI/spells/storm-of-vengeance-xphb "XPHB"|Storm of Vengeance]]
-- [[/03 Mechanics/CLI/spells/wish xphb "XPHB"|Wish]]
+- [[spells]]
+- [[spells]]
+- [[spells]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 

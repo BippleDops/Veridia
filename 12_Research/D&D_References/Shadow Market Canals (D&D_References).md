@@ -282,14 +282,14 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[Speed Current Jet]], a reformed street racing champion
+**Leadership**: [[Speed-Current Jet]], a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation
 
 ### The Depth Dealers
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
 **Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[Arcane Depth Void]], mysterious figure who may not be entirely human
+**Leadership**: [[Arcane-Depth Void]], mysterious figure who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts
 
 ### The Silent Current
@@ -303,7 +303,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[Mind Current Remembrance]], former temple priest turned rogue
+**Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
 ### Direct Physical Connections
@@ -329,7 +329,7 @@ Unofficial connection through royal intelligence networks:
 - Discrete disposal of politically sensitive items
 - Emergency communication channels during crises
 
-**[[Reflection Pools   Surgical Theater]]**
+**[[theater]]**
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments

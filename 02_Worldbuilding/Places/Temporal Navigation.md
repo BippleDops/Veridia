@@ -282,7 +282,7 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - Failure: Take 3d6 force damage and gain one level of madness
 - Success: Half damage, no madness
 - Paradox Sickness: DC 16 Constitution save each hour or gain exhaustion
-- Only [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] items provide immunity
+- Only [[Temporal Anchor Points]] items provide immunity
 
 ### Chronological Whirlpools
 
@@ -332,7 +332,7 @@ A repository of knowledge that exists across all time periods simultaneously. Sc
 
 ### The Probability Gardens
 
-Locations where potential futures grow like plants, tended by [[02 Worldbuilding/Lore/Future Gardeners]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
+Locations where potential futures grow like plants, tended by [[garden]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
 - Observe potential outcomes of current events
 - Plant "seeds" that encourage favorable futures
 - Harvest probability fruits that provide glimpses of what might come
@@ -422,7 +422,7 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 - **[[The Abyssal Court]]**: Regulates temporal navigation through official channels
 - **[[The Sunken Cities]]**: Historical destinations for temporal researchers
 - **[[The Temporal War Battlefields]]**: Sites of ancient conflicts preserved in time
-- **[[02 Worldbuilding/Lore/Future Aquabyssos]]**: Potential destinations in various timeline branches
+- **[[Future Aquabyssos]]**: Potential destinations in various timeline branches
 - **[[The Paradox Gardens]]**: Where timeline anomalies are contained
 - **[[Temporal Anchor Points]]**: Navigation waypoints throughout the timestream
 - **[[The Chronicle Depths]]**: Where temporal records are maintained
@@ -466,6 +466,13 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 
 **Temporal Navigation** represents one of the most sophisticated and dangerous aspects of [[Aquabyssos]] culture, where the crushing depths of the ocean create the perfect conditions for bending the very fabric of time itself, allowing those brave or foolish enough to navigate the currents of past and future.
 
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Player-Facing Summary
 
 Temporal Navigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -498,6 +505,20 @@ Temporal Navigation is a notable location characterized by its unique features a
 ### Founding
 Temporal Navigation was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 ## Current Events
 
 Ongoing situations affecting Temporal Navigation:
@@ -511,3 +532,40 @@ Ongoing situations affecting Temporal Navigation:
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

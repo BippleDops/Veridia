@@ -33,7 +33,7 @@ world: Both
 
 # Blessing of Magic Resistance
 
-You have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects.
+You have [[Advantage Xphb]] on saving throws against spells and other magical effects.
 
 *Source: Dungeon Master's Guide (2024) p. 98*
 

@@ -102,7 +102,7 @@ The heart of Lumengarde, where the massive Mothercoral provides the template for
 Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. [[Master Cultivator Thalia Greenglow]] oversees production and experimentation.
 
 ### The Symbiont Quarter
-Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper Witch Naia Softcurrent]] helps newcomers bond with living structures.
+Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper-Witch Naia Softcurrent]] helps newcomers bond with living structures.
 
 ### The Enzyme Markets
 Commercial district where biological products are traded. [[The Phosphor Markets]] maintain a permanent outpost here, managed by [[Merchant Delilah Currentrunner]]'s cousin.
@@ -200,6 +200,34 @@ Lumengarde is a notable location characterized by its unique features and strate
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
@@ -227,3 +255,40 @@ Lumengarde is a notable location characterized by its unique features and strate
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

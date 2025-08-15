@@ -1,7 +1,7 @@
 ---
 
-title: Services Emergency Protocol Certification
-type: lore
+title: Services [[Emergency Protocol]] Certification
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -70,7 +70,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/Services/Emergency Protocol Certification represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/Services/[[Emergency Protocol Certification]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/Services/Emergency Protocol Certification can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -195,7 +195,7 @@ Ways to incorporate 02_Worldbuilding/Services/Emergency Protocol Certification i
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -235,7 +235,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

@@ -1,10 +1,10 @@
 ---
 
 title: Shadow Market Canals
-type: Location
+type: [[location]]
 tags:
 - underground
-- aquabyssos
+- [[Aquabyssos]]
 - waterways
 - session-notes
 - status/complete
@@ -26,9 +26,9 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
-MyCategory: Places
+MyCategory: [[Places]]
 MyContainer: None
 access: invitation_only
 created_by: auto-stub
@@ -48,7 +48,7 @@ improvements: 20
 
 # Shadow Market Canals
 
-*"In the deepest channels beneath the city, where official maps fear to tread, commerce flows as dark and swift as the currents themselves."*
+*"In the deepest channels beneath the city, where official [[map]]s fear to tread, commerce flows as dark and swift as the currents themselves."*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,7 +64,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ improvements: 20
 
 The Shadow Market Canals represent one of Aquabyssos's most sophisticated criminal enterprises - a vast network of hidden waterways that serve as both transportation system and trading floor for the city's underground economy. These forgotten channels, originally built as emergency drainage and waste management systems, have been transformed into a thriving black market complex that operates entirely beneath the notice of official authorities.
 
-Spanning over thirty miles of interconnected tunnels, the canal system provides discrete transportation between key criminal facilities while hosting floating markets, mobile meeting rooms, and secure storage facilities. The constant flow of water masks conversations and movements, while the maze-like layout confuses outsiders and provides numerous escape routes for those who know the secret passages.
+Spanning over thirty miles of interconnected tunnels, the canal system provides discrete transportation between key criminal facilities while hosting [[Floating Markets]], mobile meeting rooms, and secure storage facilities. The constant flow of water masks conversations and movements, while the maze-like layout confuses outsiders and provides numerous escape routes for those who know the secret passages.
 
 ### The Five Districts
 
@@ -131,7 +131,7 @@ Narrow, winding channels designed for emergency evacuation, connecting to natura
 Subtle symbols carved into tunnel walls indicate:
 - Safe passage routes (circle with dot)
 - Dangerous areas (triangle with line)
-- Emergency exits (double arrow)
+- [[Emergency Exits]] (double arrow)
 - Authority patrols (skull symbol)
 - Meeting points (interlocked circles)
 
@@ -154,7 +154,7 @@ Color-coded rope guides indicate water depth:
 
 **The Voucher System**
 All newcomers must be sponsored by established canal users:
-- **Traders**: Need merchant voucher plus 100 gp entry fee
+- **Traders**: Need [[Merchant]] voucher plus 100 gp entry fee
 - **Customers**: Require buyer's pass and escort for first three visits
 - **Service Providers**: Must prove skills and pay 500 gp bond
 - **Information Brokers**: Face background check and loyalty test
@@ -162,7 +162,7 @@ All newcomers must be sponsored by established canal users:
 **Recognition Protocols**
 - **Hand Signals**: Complex gesture language for silent communication
 - **Password Phrases**: Monthly changing codes for different access levels
-- **Token System**: Physical items proving membership in specific organizations
+- **Token System**: Physical items proving membership in specific [[Organization]]s
 - **Reputation Tracking**: Ongoing assessment of trustworthiness and value
 
 ### Multi-Layer Security
@@ -187,8 +187,8 @@ All newcomers must be sponsored by established canal users:
 
 **Layer 4: Enforcement Response**
 - **[[The Current Riders]]**: Fast response team on specialized watercraft
-- **[[Depth Enforcers]]**: Armed guards trained in underwater combat
-- **[[The Tide Turners]]**: Elite operatives capable of controlling water flow
+- **[[Depth Enforcers]]**: Armed guards trained in [[Underwater Combat]]
+- **[[The [[Tide Turner]]s]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures
 
 ### Primary Markets
@@ -201,7 +201,7 @@ Floating market specializing in forbidden goods:
 - Forbidden texts and documents (200-2,000 gp)
 - Weapons banned in the upper city (300-3,000 gp)
 
-**Information Exchange**
+**[[Information Exchange]]**
 Gossip, intelligence, and secrets trading post:
 - City guard patrol schedules (50-200 gp)
 - Noble family scandals and secrets (100-500 gp)
@@ -214,10 +214,10 @@ Specialized skills and labor:
 - Document forgery and identity creation (200-1,000 gp)
 - Discrete transportation and escort services (100-500 gp)
 - Professional lockpicking and breaking-and-entering (300-1,200 gp)
-- Assassination contracts and violence for hire (1,000-10,000 gp)
+- [[Assassin]]ation contracts and violence for hire (1,000-10,000 gp)
 - Magical enhancement and illegal modification (500-3,000 gp)
 
-**Memory Trading Post**
+**[[Memory Trading]] Post**
 Extracted experiences and knowledge:
 - Professional skills and techniques (300-1,500 gp)
 - Romantic and emotional experiences (100-800 gp)
@@ -229,9 +229,9 @@ Extracted experiences and knowledge:
 
 **The Current Express**
 Rapid transport system using trained water creatures:
-- **Giant Sea Horses**: Fast, maneuverable, carry 2 passengers
+- **[[Giant [[Sea Horse]]]]s**: Fast, maneuverable, carry 2 passengers
 - **Dire Eels**: Stealthy, can navigate narrow passages
-- **Trained Dolphins**: Intelligence gathering while traveling
+- **Trained [[Dolphin]]s**: Intelligence gathering while traveling
 - **Current Rays**: Large capacity, good for cargo transport
 
 **Boat Services**
@@ -248,20 +248,20 @@ Rapid transport system using trained water creatures:
 
 ### Canal Master Typhoon Currentwise
 
-*Medium humanoid (triton), chaotic neutral*
+*Medium humanoid ([[Triton]]), chaotic neutral*
 
 **Role**: De facto ruler of the canal system
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
 **Key Relationships**: 
-- Secret arrangement with [[The Shadow Markets]] for territory division
+- Secret arrangement with [[The [[Shadow Markets]]]] for territory division
 - Information sharing agreement with [[Deepmind Conspiracy]]
 - Protection contract with [[Syndicate Enforcers]]
 
 **Abilities**: 
 - **Master Navigator**: Knows every passage and shortcut in the system
 - **Current Control**: Can manipulate water flow using engineering knowledge
-- **Network Coordinator**: Maintains communication with all major criminal organizations
+- **Network Coordinator**: Maintains communication with all major [[Criminal Organizations]]
 - **Escape Artist**: Has never been successfully captured by authorities
 
 **Statistics**: Use **Spy** stats with additional swimming speed of 40 feet and ability to hold breath for 1 hour
@@ -273,7 +273,7 @@ Rapid transport system using trained water creatures:
 **Role**: Primary dealer in stolen goods and contraband
 **Operations**: Manages three floating warehouses with rotating inventory
 **Specialization**: High-value items that require discrete disposal
-**Security**: Employs **2d4+2 Thugs** and **1d3 Spies** for protection
+**Security**: Employs **2d4+2 [[Thugs]]** and **1d3 Spies** for protection
 
 **Services**:
 - Evaluates stolen goods (expertise in art, jewelry, magical items)
@@ -291,7 +291,7 @@ Rapid transport system using trained water creatures:
 **Network**: Maintain contacts throughout the city's legitimate and criminal sectors
 **Payment**: Accept information, favors, and unique experiences in addition to gold
 
-**Intelligence Services**:
+**[[Intelligence Services]]**:
 - **Pattern Analysis**: Identify trends in guard patrols and authority behavior
 - **Risk Assessment**: Evaluate danger levels for planned operations
 - **Opportunity Recognition**: Alert clients to profitable situations
@@ -333,15 +333,15 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[Speed Current Jet]], a reformed street racing champion
+**Leadership**: [[Speed-Current Jet]], a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation
 
 ### The Depth Dealers
 
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
-**Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[Arcane Depth Void]], mysterious figure who may not be entirely human
+**Membership**: 15-20 experienced [[Magic User]]s and treasure hunters
+**Leadership**: [[Arcane-Depth Void]], [[Mysterious Figure]] who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts
 
 ### The Silent Current
@@ -357,7 +357,7 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[Mind Current Remembrance]], former temple priest turned rogue
+**Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
 ### Direct Physical Connections
@@ -377,13 +377,13 @@ Hidden passages allow discrete transport of political information:
 - Blackmail material storage and transport
 
 **[[Secret Vault Beneath Throne]]**
-Unofficial connection through royal intelligence networks:
+Unofficial connection through [[Royal Intelligence]] networks:
 - Crown agents use canals for covert operations
 - Royal intelligence gathering from criminal sources
 - Discrete disposal of politically sensitive items
 - Emergency communication channels during crises
 
-**[[Reflection Pools   Surgical Theater]]**
+**[[theater]]**
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments
@@ -422,19 +422,19 @@ Mutual protection and enforcement cooperation:
 - Territory respect agreements and boundary maintece
 - Coordinated pricing and service standards
 
-**[[12_Research/D&D_Statblocks/Memory Thief]]**
+**[[12 Research]]**
 Memory trading and information extraction services:
 - Shared facilities for memory processing and storage
 - Joint operations for acquiring valuable memories
 - Information verification through memory extraction
 - Protection of memory-based intelligence networks
 
-**[[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]**
+**[[[[Smuggler]]'s Cove]]**
 Goods transfer and transportation coordination:
-- Transporting maritime smuggling goods to underground markets
+- Transporting mari[[Time]] smuggling goods to underground markets
 - Shared storage facilities and security arrangements
 - Joint operations for large-scale smuggling enterprises
-- Emergency evacuation and safe house networks
+- Emergency evacuation and [[Safe House Network]]s
 
 ### Law Enforcement Threats
 
@@ -448,7 +448,7 @@ Periodic attempts to map and infiltrate the canal system:
 **Political Pressure**
 Official efforts to shut down or control canal operations:
 - **Legal Challenges**: Attempts to reclaim the tunnels for city use
-- **Economic Pressure**: Tracking ficial flows and taxation
+- **[[Economic Pressure]]**: Tracking ficial flows and taxation
 - **Public Relations**: Campaigns to reduce public support for criminal activity
 - **International Cooperation**: Working with other realms to stop cross-border crime
 
@@ -475,7 +475,7 @@ Factors that threaten the ficial viability of operations:
 - Economic pressures from the legitimate economy
 - Costs of maintaining security and infrastructure
 
-### Environmental Hazards
+### [[Environmental Hazards]]
 
 **Water System Failures**
 Problems with the physical infrastructure:
@@ -489,7 +489,7 @@ Problems with the mystical aspects of canal operations:
 - Magical protections failing or becoming corrupted
 - Spell effects interfering with each other
 - Supernatural creatures attracted to magical activity
-- Dimensional instabilities from cross-realm criminal connections
+- [[Dimensional Instabilities]] from cross-realm criminal connections
 
 **Natural Disasters**
 Environmental events that threaten the canal system:
@@ -501,7 +501,7 @@ Environmental events that threaten the canal system:
 ### Low-Level Adventures (Levels 1-4)
 
 **The Courier Run**
-The party is hired to transport a mysterious package through the canal system, but they discover they're carrying evidence that could bring down several criminal organizations.
+[[The Party]] is hired to transport a mysterious package through the canal system, but they discover they're carrying [[Evidence]] that could bring down several criminal organizations.
 
 **Missing Person Investigation**
 A legitimate citizen has disappeared, and the only clue leads to the Shadow Market Canals. The party must navigate criminal politics while searching for the missing person.
@@ -522,8 +522,8 @@ A planned authority raid goes wrong, flooding parts of the canal with evidence o
 
 ### High-Level Adventures (Levels 10+)
 
-**The Shadow Network**
-The party discovers that the canal system is part of a cross-realm criminal network threatening both Aethermoor and Aquabyssos. They must prevent a criminal war that could affect both realms.
+**The [[Shadow Network]]**
+The party discovers that the canal system is part of a cross-realm criminal network threatening both [[Aethermoor]] and Aquabyssos. They must prevent a criminal war that could affect both realms.
 
 **The Deep Truth**
 The canal system's connection to ancient city infrastructure reveals secrets about Aquabyssos's founding. The party must decide whether to expose these secrets or use them for their own purposes.
@@ -534,8 +534,8 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 ## Random Events (d20)
 
 1. **Security Sweep**: Canal enforcement conducts surprise inspection
-2. **Territory Dispute**: Two criminal groups argue over docking rights
-3. **Authority Patrol**: City guards investigate reports of unusual activity
+2. **Territory Dispute**: Two criminal [[Groups]] argue over docking rights
+3. **Authority Patrol**: City guards investigate [[reports]] of unusual activity
 4. **Equipment Failure**: Water pumps malfunction, changing canal water levels
 5. **New Arrival**: Mysterious newcomer seeking canal access
 6. **Information Auction**: Valuable intelligence goes up for bid
@@ -597,7 +597,7 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 - **Canal Master's Office**: Administrative headquarters and meeting space
 - **The Arbitration Chamber**: Dispute resolution and contract enforcement
 - **Security Headquarters**: Coordination center for all canal protection
-- **Emergency Response Station**: Crisis management and evacuation coordination
+- **Emergency Response Station**: [[Crisis Management]] and evacuation coordination
 
 ---
 
@@ -607,11 +607,11 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 
 Shadow Market Canals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Shadow Market Canals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Market Canals.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -635,6 +635,34 @@ Shadow Market Canals is a notable location characterized by its unique features 
 ### Founding
 Shadow Market Canals was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Shadow Market Canals:
@@ -652,12 +680,12 @@ Ongoing situations affecting Shadow Market Canals:
 - A shipment has gone missing and evil awakens
 - A prisoner has gone missing and chaos spreads
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -667,7 +695,7 @@ Ongoing situations affecting Shadow Market Canals:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Economic Structure
 
@@ -686,3 +714,40 @@ Ongoing situations affecting Shadow Market Canals:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

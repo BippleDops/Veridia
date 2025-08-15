@@ -1,9 +1,9 @@
 ---
 
-title: The Reflection Pools
-type: Location
+title: The [[Reflection Pools]]
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - quest
 - content/location
@@ -18,12 +18,12 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 accessibility:
   content_warnings:
   - political coercion
-  - environmental hazards
+  - [[Environmental Hazards]]
   pronunciation: The Reflection Pools
   safety_tools:
   - Lines & Veils
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,17 +100,17 @@ improvements: 20
 
 ## Overview
 
-Hidden in the Twilight Depths between the Sunken Palace and the Whispering Trenches, the Reflection Pools are a series of thirteen interconnected basins where the boundaries between possibility and actuality grow thin. Each pool shows not what is, but what could be—or what could have been. The site serves as Aquabyssos's premier divination center, though its revelations often drive visitors to madness or despair.
+Hidden in the [[Twilight Depths]] between [[The [[Sunken Palace]]]] and the Whispering Trenches, the Reflection Pools are a series of thirteen interconnected basins where the boundaries between possibility and actuality grow thin. Each pool shows not what is, but what could be—or what could have been. The site serves as Aquabyssos's premier divination center, though its revelations often drive visitors to madness or despair.
 
-The Pools predate recorded history, possibly existing before water itself. They are maintained by the Order of Mirrors, blind oracles who navigate by reading the ripples of possibility. Politicians, lovers, generals, and desperate souls all make pilgrimages here, though few leave with the answers they sought.
+The Pools predate recorded history, possibly existing before water itself. They are maintained by the [[Order of Mirrors]], blind [[Oracle]]s who navigate by reading the ripples of possibility. Politicians, lovers, generals, and desperate souls all make pilgrimages here, though few leave with the answers they sought.
 
 ### The Approach
 
 Reaching the Reflection Pools requires navigating the Corridor of Choices, a winding tunnel where each fork represents a significant decision in the visitor's life:
 - **Length**: 3 miles of branching passages
 - **Branches**: Unique to each visitor
-- **Navigation**: Cannot be mapped—changes with each journey
-- **Time**: Takes exactly as long as needed for contemplation
+- **Navigation**: Cannot be [[map]]ped—changes with each journey
+- **[[Time]]**: Takes exactly as long as needed for contemplation
 
 #### Pool of What Was Never Born
 
@@ -142,7 +142,7 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 
 #### Pool of Love Unrequited
 
-**Diameter**: Two interlinked circles
+**Diameter**: Two inter[[Link]]ed circles
 **Depth**: Tear-salt concentration
 **Reveals**: Relationships that never began
 **Danger**: Heartbreak can be literally fatal
@@ -180,7 +180,7 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 **Diameter**: Expanding slowly
 **Depth**: Warm embrace
 **Reveals**: Moments where compassion failed
-**Danger**: Overwhelming empathy paralysis
+**Danger**: Overwhelming em[[path]]y paralysis
 
 #### Pool of Knowledge Unlearned
 
@@ -217,8 +217,8 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 - Lies cannot be spoken here—they emerge as truth
 - Questions asked aloud sometimes answer themselves
 
-**The Probability Garden**
-- Coral formations that grow into different shapes simultaneously
+**The [[Probability Garden]]**
+- [[Coral]] formations that grow into different shapes simultaneously
 - Plants that are simultaneously blooming and dead
 - Fish that swim in multiple directions at once
 - Touching anything causes quantum collapse to single state
@@ -249,16 +249,16 @@ STR 9 (-1), DEX 14 (+2), CON 16 (+3), INT 20 (+5), WIS 24 (+7), CHA 18 (+4)
 
 **Probability Sight.** Serendipity can see all possible actions a creature might take in the next minute. She has advantage on all saving throws and cannot be surprised.
 
-**Quantum Uncertainty.** Serendipity's exact position is uncertain. Attack rolls against her have disadvantage.
+**Quantum Uncertainty.** Serendipity's exact position is uncertain. Attack rolls against her have [[Disadvantage]].
 
 **Spellcasting.** Serendipity is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 20, +12 to hit with spell attacks). She has the following spells prepared:
 
-Cantrips (at will): *guidance*, *mending*, *sacred flame*, *spare the dying*, *thaumaturgy*
-1st level (4 slots): *bless*, *command*, *detect magic*, *identify*
+Cantrips (at will): *[[Guidance]]*, *mending*, *sacred flame*, *spare the dying*, *thaumaturgy*
+1st level (4 slots): *[[Bless]]*, *command*, *detect magic*, *identify*
 2nd level (3 slots): *augury*, *calm emotions*, *detect thoughts*, *see invisibility*
 3rd level (3 slots): *clairvoyance*, *dispel magic*, *speak with dead*
 4th level (3 slots): *divination*, *freedom of movement*, *locate creature*
-5th level (3 slots): *commune*, *legend lore*, *scrying*
+5th level (3 slots): *commune*, *legend [[Lore]]*, *scrying*
 6th level (1 slot): *find the path*, *true seeing*
 7th level (1 slot): *etherealness*, *plane shift*
 8th level (1 slot): *antimagic field*, *feeblemind*
@@ -308,7 +308,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** poison
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+**Condition Immunities** [[Exhaustion]], paralyzed, petrified, poisoned, unconscious
 **Senses** darkvision 60 ft., passive Perception 12
 **Languages** Aquan, Primordial
 **Challenge** 9 (5,000 XP)
@@ -342,10 +342,10 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 **Path Reading** (500 gp)
 - Shows three possible futures based on choices
 - 75% accurate for next month
-- Minor temporal displacement possible
+- Minor [[Temporal Displacement]] possible
 
 **Deep Viewing** (2,500 gp)
-- Full exploration of alternative timeline
+- Full exploration of alternative [[Timeline]]
 - 90% accurate but traumatic
 - Requires Wisdom save or gain short-term madness
 
@@ -361,7 +361,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 - Replaces current reality with alternative
 - Creates paradoxes and attracts temporal predators
 
-**Probability Assassination** (Soul Price)
+**Probability [[Assassin]]ation** (Soul Price)
 - Eliminate someone from all possible timelines
 - Requires sacrificing own possibilities
 - User loses ability to make choices
@@ -371,7 +371,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 - Understand all possibilities simultaneously
 - No mortal mind can survive intact
 
-## Random Encounters (d20)
+## [[[[Random Encounter]]s]] (d20)
 
 | Roll | Encounter |
 |------|-----------|
@@ -380,7 +380,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 | 5-6 | Pool shows disturbing possible future |
 | 7-8 | Possibility Elemental guards sacred pool |
 | 9-10 | Desperate noble seeking to change the past |
-| 11-12 | Temporal echo of future party appears warning of danger |
+| 11-12 | [[Temporal Echo]] of future party appears warning of danger |
 | 13-14 | Oracle having probability seizure needs help |
 | 15-16 | Pool begins showing real-time events elsewhere |
 | 17-18 | Rival adventuring party that could have existed |
@@ -415,7 +415,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 
 ### The Stolen Timeline
 
-Someone has been using the pools to steal favorable outcomes from other timelines, causing reality distortions. The party must track the thief through multiple possibilities and stop them before reality collapses.
+Someone has been using the pools to steal favorable outcomes from other timelines, causing [[Reality Distortion]]s. [[The Party]] must track the thief through multiple possibilities and stop them before reality collapses.
 
 ### The Prophet's Paradox
 
@@ -423,7 +423,7 @@ A young oracle has seen their own death in every pool—except one that shows th
 
 ### The Reflected Invasion
 
-Alternate versions of significant NPCs have been emerging from the pools and replacing their originals. The party must determine which are real and why the barriers between possibilities are weakening.
+Alternate versions of significant [[Npc]]s have been emerging from the pools and replacing their originals. The party must determine which are real and why the barriers between possibilities are weakening.
 
 ### The Impossible Child
 
@@ -431,7 +431,7 @@ A child who was never born has emerged from the Pool of What Was Never Born, cla
 
 ### The Council of Selves
 
-A powerful wizard has gathered versions of themselves from twelve different timelines to form a council. They seek to use the Reflection Pools to merge all timelines where they exist into one where they are god-emperor.
+A powerful wizard has gathered versions of themselves from twelve different timelines to form a council. They seek to use the Reflection Pools to merge all timelines where they exist into one where they are god-[[Emperor]].
 
 ### The Probability Compass
 
@@ -473,7 +473,7 @@ The central pool doesn't show possibilities—it creates them. Every reflection 
 
 Each prophecy made drains possibility from the future, making reality more rigid and predetermined. Too much divination could lock the timeline into an inescapable fate.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -491,7 +491,7 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Be specific but not prescriptive
 - Show consequences, not just events
 - Make some possibilities clearly better/worse
-- Include impossible but desired outcomes
+- Include impossible but de[[Sire]]d outcomes
 
 **Managing Paradoxes**:
 - Small paradoxes create minor inconveniences
@@ -501,11 +501,11 @@ Each prophecy made drains possibility from the future, making reality more rigid
 
 ## See Also
 
-- [[02 Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
-- [[02 Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
-- [[02 Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
-- [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [[Groups]]
+- [[02_Worldbuilding]]
+- [[Places]]
+- [[Divination_Expanded]]
+- [[Temporal_Mechanics_System]]
 
 *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."*
 
@@ -536,6 +536,34 @@ The Reflection Pools is a notable location characterized by its unique features 
 
 ### Founding
 The Reflection Pools was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -570,3 +598,40 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

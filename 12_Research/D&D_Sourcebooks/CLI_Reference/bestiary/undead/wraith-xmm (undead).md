@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wraith-xmm-v1-wraith-xmm.svg)
 
-# [[wraith xmm|Wraith]]
+# [[Wraith Xmm]]
 *Source: Monster Manual (2024) p. 336. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -115,19 +115,19 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "cr": "5"
 "traits":
   - "desc": "The wraith can move through other creatures and objects as if they were\
-      \ [[difficult terrain xphb|Difficult Terrain]].\
+      \ [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, the wraith has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the wraith has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 21 (4d8 + 3) Necrotic damage.\
-      \ If the target is a creature, its [[hit points xphb|Hit Point]]\
+      \ If the target is a creature, its [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Life Drain"
   - "desc": "The wraith targets a Humanoid corpse within 10 feet of itself that has\
-      \ been dead for no longer than 1 minute. The target's spirit rises as a [[specter xmm|Specter]]\
+      \ been dead for no longer than 1 minute. The target's spirit rises as a [[specter-xmm (undead)]]\
       \ in the space of its corpse or in the nearest unoccupied space. The specter\
       \ is under the wraith's control. The wraith can have no more than seven specters\
       \ under its control at a time."

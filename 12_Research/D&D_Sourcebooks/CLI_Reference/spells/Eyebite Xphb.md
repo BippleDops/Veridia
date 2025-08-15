@@ -75,7 +75,7 @@ The target has the [[conditions#Poisoned|Poisoned]] condition.
 
 ## Summary
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 270. Available in the SRD and the Free Rules (2024)*
 

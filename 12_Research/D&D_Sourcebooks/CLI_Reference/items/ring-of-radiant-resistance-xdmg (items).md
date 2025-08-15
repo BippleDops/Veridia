@@ -38,7 +38,7 @@ world: Both
 # Ring of Radiant Resistance
 *Ring, rare*  
 
-You have [[resistance xphb|Resistance]] to radiant damage while wearing this ring. The ring is set with topaz.
+You have [[boon-of-energy-resistance-xphb (feats)]] to radiant damage while wearing this ring. The ring is set with topaz.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 

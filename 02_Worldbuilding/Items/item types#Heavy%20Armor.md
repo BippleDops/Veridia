@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item types#Heavy%20Armor
 
 ## Overview
-This topic is referenced in [[paladin xphb (classes)]] and other parts of the campaign.
+This topic is referenced in [[classes]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[paladin xphb (classes)]]
+- Referenced by: [[classes]]
 - Related topics in the same category
 
 ## Details

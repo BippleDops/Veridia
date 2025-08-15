@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # visibility-underwater-underwater-encounter-distance-xdmg
@@ -22,7 +22,7 @@ The full nature of visibility-underwater-underwater-encounter-distance-xdmg invo
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of visibility-underwater-underwater-encounter-distance-xdmg trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to visibility-underwater-underwater-encounter-distance-xdmg are variou
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view visibility-underwater-underwater-encounter-distance-xdmg through their own cultural lenses:
+Different [[Groups]] view visibility-underwater-underwater-encounter-distance-xdmg through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of visibility-underwater-underwater-encounter-distance-xdmg:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How visibility-underwater-underwater-encounter-distance-xdmg has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate visibility-underwater-underwater-encounter-distance-xdmg int
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways visibility-underwater-underwater-encounter-distance-xdmg might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,29 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #visibility-underwater-underwater-encounter-distance-xdmg
+*Tags*: [[#General]] #worldbuilding #visibility-underwater-underwater-encounter-distance-xdmg
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

@@ -39,7 +39,7 @@ updated: '2025-08-13T12:34:05.901551+00:00'
 world: Both
 ---
 
-# [[skull lord mpmm|Skull Lord]]
+# [[Skull Lord Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish domice. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -53,7 +53,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "subtype": "sorcerer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[plate armor xphb|plate]]"
+"ac_class": "[[plate-armor-xphb (items)]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "3"
@@ -106,10 +106,10 @@ Infighting and treachery brought skull lords into existence. The first of them a
       \ (5d8 + 5) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The skull, lord casts one of the following spells, using Charisma as\
-      \ the spellcasting ability (spell save DC 18):\n\nAt will: [[mage hand xphb|mage hand]],\
-      \ [[message xphb|message]]\n\n2/day each: [[dimension door xphb|dimension\]]
-      \ door]], [[fear xphb|fear]]\n\
-      \n1/day each: [[cloudkill xphb|cloudkill]], [[cone of cold xphb|cone\]]
+      \ the spellcasting ability (spell save DC 18):\n\nAt will: [[mage-hand-xphb (spells)]],\
+      \ [[Sage Xphb]]\n\n2/day each: [[Dimension Door Xphb]]
+      \ door]], [[Fear Xphb]]\n\
+      \n1/day each: [[Cloudkill Xphb]], [[cone-of-cold-xphb (spells)]]
       \ of cold]]"
     "name": "Spellcasting"
 "legendary_actions":
@@ -117,8 +117,8 @@ Infighting and treachery brought skull lords into existence. The first of them a
     "name": "Attack"
   - "desc": "The skull lord moves up to its speed without provoking [[actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Move"
-  - "desc": "The skull lord summons up to five [[skeleton xmm|skeletons]]\
-      \ or [[zombie xmm|zombies]] in unoccupied\
+  - "desc": "The skull lord summons up to five [[flaming-skeleton-xmm (undead)]]\
+      \ or [[Zombie Xmm]] in unoccupied\
       \ spaces within 30 feet of it. They remain until destroyed. Undead summoned\
       \ in this way roll initiative, act in the next available turn, and obey the\
       \ skull lord. The skull lord can have no more than five Undead summoned by this\

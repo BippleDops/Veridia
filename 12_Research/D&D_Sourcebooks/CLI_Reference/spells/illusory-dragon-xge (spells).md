@@ -51,7 +51,7 @@ As a bonus action on your turn, you can move the illusion up to 60 feet. At any 
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 
@@ -97,3 +97,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[illusory-dragon-xge (spells)-phb]]` in CLI_Reference/spells/

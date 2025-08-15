@@ -33,7 +33,7 @@ world: Both
 # Armor Training
 *Source: Player's Handbook (2024) p. 361. Available in the SRD and the Free Rules (2024)* 
 
-Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have [[disadvantage xphb|Disadvantage]] on any [[d20 test xphb|D20 Test]] that involves Strength or Dexterity, and you can't cast spells. If you use a [[shield xphb|Shield]] and lack training with it, you don't gain its AC bonus.
+Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have [[Advantage Xphb]] on any [[d20-test-xphb (variant-rules)]] that involves Strength or Dexterity, and you can't cast spells. If you use a [[Shield]] and lack training with it, you don't gain its AC bonus.
 
 ## 🔧 Deep Evaluation Improvements
 

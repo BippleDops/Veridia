@@ -3,20 +3,20 @@ title: Shard Resoce Tracking
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Shard Resoce Tracking
 
 ## Overview
-This topic is referenced in [[Session 10 New Horizons (06 Sessions)]] and other parts of the campaign.
+This topic is referenced in [[Session_10_New_Horizons]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Session 10 New Horizons (06 Sessions)]]
+- Referenced by: [[Session_10_New_Horizons]]
 - Related topics in the same category
 
 ## Details

@@ -32,7 +32,7 @@ world: Both
 ---
 
 # The Hexblade
-*[[warlock xphb|Warlock]]: Warlock Subclass*  
+*[[warlock-xphb-fiend-patron-xphb (classes)]]: Warlock Subclass*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
 > [!tldr] Class and Feature Progression
@@ -79,11 +79,11 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[shield xphb|shield]], [[wrathful smite xphb|wrathful smite]] |
-| 2nd | [[blur xphb|blur]], [[shining smite xphb|branding smite]] |
-| 3rd | [[blink xphb|blink]], [[elemental weapon xphb|elemental weapon]] |
-| 4th | [[phantasmal killer xphb|phantasmal killer]], [[staggering smite xphb|staggering smite]] |
-| 5th | [[banishing smite xphb|banishing smite]], [[cone of cold xphb|cone of cold]] |
+| 1st | [[Shield]], [[wrathful-smite-xphb (spells)]] |
+| 2nd | [[blur-xphb (spells)]], [[Shining Smite Xphb]] |
+| 3rd | [[Blink Xphb]], [[Weapon Xphb]] |
+| 4th | [[Phantasmal Killer Xphb]], [[Staggering Smite Xphb]] |
+| 5th | [[banishing-smite-xphb (spells)]], [[cone-of-cold-xphb (spells)]] |
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)
@@ -104,7 +104,7 @@ The influence of your patron also allows you to mystically channel your will thr
 
 ### Accursed Specter (Level 6)
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[specter xmm|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[specter-xmm (undead)]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 

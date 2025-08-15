@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chuul-xmm-chuul-xmm.svg)
 
-# [[chuul xmm|Chuul]]
+# [[Chuul Xmm]]
 *Source: Monster Manual (2024) p. 71. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -97,7 +97,7 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - "desc": "The chuul can breathe air and water."
     "name": "Amphibious"
   - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
-      \ works like the [[detect magic xphb|Detect Magic]]\
+      \ works like the [[detect-magic-xphb (spells)]]\
       \ spell but isn't itself magical."
     "name": "Sense Magic"
 "actions":

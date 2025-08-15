@@ -1,7 +1,7 @@
 ---
 
-title: Queen Seraphina Lumengarde
-type: lore
+title: [[Queen Seraphina]] [[Lumengarde]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -68,7 +68,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/People/Queen_Seraphina_Lumengarde represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/[[People]]/Queen_Seraphina_Lumengarde represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Queen_Seraphina_Lumengarde can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -80,7 +80,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/People/Queen_Seraphina_Lumengarde involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/People/Queen_Seraphina_Lumengarde trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -91,10 +91,10 @@ Connected to 02_Worldbuilding/People/Queen_Seraphina_Lumengarde are various othe
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/People/Queen_Seraphina_Lumengarde through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/People/Queen_Seraphina_Lumengarde through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ### Defining Features
@@ -160,7 +160,7 @@ The current state of 02_Worldbuilding/People/Queen_Seraphina_Lumengarde:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/People/Queen_Seraphina_Lumengarde has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -193,7 +193,7 @@ Ways to incorporate 02_Worldbuilding/People/Queen_Seraphina_Lumengarde into game
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -214,7 +214,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/People/Queen_Seraphina_Lumengarde might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -233,7 +233,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -256,7 +256,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/people/queen_seraphina_lumengarde
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/people/queen_seraphina_lumengarde
 
 ## Cultural Impact
 
@@ -268,11 +268,11 @@ Mentioned in The First Prophecy of Stars
 
 ## Relationships
 
-- **Sibling**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
-- **Sibling**: [[Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg]]
-- **Sibling**: [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg]]
-- **Lover**: [[Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
-- **Sibling**: [[Portrait NPC Parliament High Council V2 Parliament High Council.svg]]
+- **Sibling**: [[Npc]]
+- **Sibling**: [[Shield]]
+- **Sibling**: [[Npc]]
+- **Lover**: [[Assets]]
+- **Sibling**: [[Parliament High Council]]
 
 ## Plot Hooks
 
@@ -298,3 +298,7 @@ Mentioned in The First Prophecy of Stars
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

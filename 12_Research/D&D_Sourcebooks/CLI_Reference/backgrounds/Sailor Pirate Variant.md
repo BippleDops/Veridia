@@ -36,8 +36,8 @@ world: Both
 *Source: Player's Handbook p. 139*  
 
 - **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]  
-- **Tool Proficiencies.** [[navigators tools xphb|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[club xphb|club]]), [[silk rope 50 feet|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[trinket xphb|trinket]] on the Trinkets table in chapter 5), a set of [[common clothes|common clothes]], and a belt [[pouch xphb|pouch]] containing 10 gp  
+- **Tool Proficiencies.** [[Navigators Tools Xphb]], vehicles (water)  
+- **Equipment.** A belaying pin ([[Greatclub Xphb]]), [[Silk Rope 50 Feet]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[trinket-xphb (items)]] on the Trinkets table in chapter 5), a set of [[common-clothes (items)]], and a belt [[component-pouch-xphb (items)]] containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

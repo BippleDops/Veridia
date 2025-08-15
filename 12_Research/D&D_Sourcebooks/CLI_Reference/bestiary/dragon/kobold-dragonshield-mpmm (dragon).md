@@ -39,7 +39,7 @@ updated: '2025-08-12T23:37:35.759389'
 world: Both
 ---
 
-# [[kobold dragonshield mpmm|Kobold Dragonshield]]
+# [[Shield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -56,7 +56,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[leather armor xphb|leather]], [[shield xphb|shield]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]], [[Shield]]"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"

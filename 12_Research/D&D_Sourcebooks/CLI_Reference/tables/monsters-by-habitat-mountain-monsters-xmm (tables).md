@@ -37,25 +37,25 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[bat xmm|Bat]], [[eagle xmm|Eagle]], [[goat xmm|Goat]], [[hawk xmm|Hawk]] |
-| 1/8 | [[blood hawk xmm|Blood Hawk]], [[kobold warrior xmm|Kobold Warrior]], [[stirge xmm|Stirge]] |
-| 1/4 | [[aarakocra skirmisher xmm|Aarakocra Skirmisher]], [[giant bat xmm|Giant Bat]], [[pseudodragon xmm|Pseudodragon]], [[pteranodon xmm|Pteranodon]], [[swarm of bats xmm|Swarm of Bats]], [[winged kobold xmm|Winged Kobold]] |
-| 1/2 | [[giant goat xmm|Giant Goat]], [[hobgoblin warrior xmm|Hobgoblin Warrior]] |
-| 1 | [[giant eagle xmm|Giant Eagle]], [[harpy xmm|Harpy]], [[hippogriff xmm|Hippogriff]], [[lion xmm|Lion]], [[ogrillon ogre xmm|Ogrillon Ogre]] |
-| 2 | [[azer sentinel xmm|Azer Sentinel]], [[bulette pup xmm|Bulette Pup]], [[griffon xmm|Griffon]], [[ogre xmm|Ogre]], [[peryton xmm|Peryton]], [[saber toothed tiger xmm|Saber Toothed Tiger]], [[silver dragon wyrmling xmm|Silver Dragon Wyrmling]], [[swarm of stirges xmm|Swarm of Stirges]] |
-| 3 | [[basilisk xmm|Basilisk]], [[hell hound xmm|Hell Hound]], [[hobgoblin captain xmm|Hobgoblin Captain]], [[manticore xmm|Manticore]] |
-| 4 | [[aarakocra aeromancer xmm|Aarakocra Aeromancer]], [[ettin xmm|Ettin]], [[red dragon wyrmling xmm|Red Dragon Wyrmling]] |
-| 5 | [[air elemental xmm|Air Elemental]], [[bulette xmm|Bulette]], [[earth elemental xmm|Earth Elemental]], [[troll xmm|Troll]] |
-| 6 | [[azer pyromancer xmm|Azer Pyromancer]], [[chimera xmm|Chimera]], [[cyclops sentry xmm|Cyclops Sentry]], [[galeb duhr xmm|Galeb Duhr]], [[hobgoblin warlord xmm|Hobgoblin Warlord]], [[wyvern xmm|Wyvern]] |
-| 7 | [[stone giant xmm|Stone Giant]] |
-| 8 | [[frost giant xmm|Frost Giant]] |
-| 9 | [[cloud giant xmm|Cloud Giant]], [[fire giant xmm|Fire Giant]], [[young silver dragon xmm|Young Silver Dragon]] |
-| 10 | [[cyclops oracle xmm|Cyclops Oracle]], [[young red dragon xmm|Young Red Dragon]] |
-| 11 | [[roc xmm|Roc]] |
-| 16 | [[adult silver dragon xmm|Adult Silver Dragon]] |
-| 17 | [[adult red dragon xmm|Adult Red Dragon]] |
-| 23 | [[ancient silver dragon xmm|Ancient Silver Dragon]] |
-| 24 | [[ancient red dragon xmm|Ancient Red Dragon]] |
+| 0 | [[Giant Bat Xmm]], [[Eagle Xmm]], [[Goat Xmm]], [[Blood Hawk Xmm]] |
+| 1/8 | [[Blood Hawk Xmm]], [[Kobold Warrior Xmm]], [[Stirge Xmm]] |
+| 1/4 | [[Aarakocra Skirmisher Xmm]], [[Giant Bat Xmm]], [[pseudodragon-xmm (dragon)]], [[pteranodon-xmm (beast)]], [[swarm-of-bats-xmm]], [[winged-kobold-xmm]] |
+| 1/2 | [[Goat Xmm]], [[hobgoblin-warrior-xmm]] |
+| 1 | [[giant]], [[harpy-xmm (monstrosity)]], [[hippogriff-xmm (monstrosity)]], [[lion-xmm (beast)]], [[Ogre Xmm]] |
+| 2 | [[azer-sentinel-xmm (elemental)]], [[Bulette Pup Xmm]], [[griffon-xmm (monstrosity)]], [[Ogre Xmm]], [[peryton-xmm (monstrosity)]], [[saber-toothed-tiger-xmm (beast)]], [[Silver Dragon]], [[swarm-of-stirges-xmm (monstrosity)]] |
+| 3 | [[Basilisk Xmm]], [[hell-hound-xmm]], [[hobgoblin-captain-xmm (fey)]], [[Manticore Xmm]] |
+| 4 | [[aarakocra-aeromancer-xmm (elemental)]], [[ettin-xmm (giant)]], [[Red Dragon Wyrmling Xmm]] |
+| 5 | [[elemental]], [[bulette-xmm (monstrosity)]], [[Earth Elemental Xmm]], [[Troll Xmm]] |
+| 6 | [[azer-pyromancer-xmm (elemental)]], [[Chimera Xmm]], [[cyclops-sentry-xmm]], [[Galeb Duhr Xmm]], [[Hobgoblin Warlord Xmm]], [[Wyvern Xmm]] |
+| 7 | [[stone-giant-xmm (giant)]] |
+| 8 | [[giant]] |
+| 9 | [[giant]], [[fire-giant-xmm (giant)]], [[Silver Dragon]] |
+| 10 | [[cyclops-oracle-xmm (giant)]], [[Red Dragon Xmm]] |
+| 11 | [[Roc Xmm]] |
+| 16 | [[Silver Dragon]] |
+| 17 | [[Red Dragon Xmm]] |
+| 23 | [[ancient-silver-dragon-xmm (dragon)]] |
+| 24 | [[Red Dragon Xmm]] |
 ^mountain-monsters
 
 ## 🔧 Deep Evaluation Improvements

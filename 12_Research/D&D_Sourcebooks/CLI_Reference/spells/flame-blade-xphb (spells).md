@@ -45,15 +45,15 @@ world: Both
 - **Components:** V, S, M (a sumac leaf)
 - **Duration:** Concentration, up to 10 minutes
 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a [[bonus-action-xphb|Bonus Action]].
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a [[Action Xphb]].
 
 As a [[actions#Magic|Magic]] action, you can make a melee spell attack with the fiery blade. On a hit, the target takes Fire damage equal to `3d6` plus your spellcasting ability modifier.
 
-The flaming blade sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
+The flaming blade sheds [[Light Xphb]] in a 10-foot radius and [[Light Xphb]] for an additional 10 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the SRD and the Free Rules (2024)*
 
@@ -105,3 +105,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[flame-blade-xphb (spells)-phb]]` in CLI_Reference/spells/

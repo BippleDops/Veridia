@@ -50,7 +50,7 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 **Cantrip Upgrade.** The damage increases by `d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 333*
 

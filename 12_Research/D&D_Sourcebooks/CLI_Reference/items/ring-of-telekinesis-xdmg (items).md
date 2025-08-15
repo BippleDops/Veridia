@@ -36,7 +36,7 @@ world: Both
 *Ring, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
 
-While wearing this ring, you can cast [[telekinesis xphb|Telekinesis]] from it.
+While wearing this ring, you can cast [[telekinesis-xphb (spells)]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 295. Available in the SRD and the Free Rules (2024)*
 

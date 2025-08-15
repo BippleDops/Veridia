@@ -44,9 +44,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You radiate a magical aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, you and your allies each deal an extra `d4` Radiant damage when hitting with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
+You radiate a magical aura in a 30-foot [[Area of Effect Xphb]]. While in the aura, you and your allies each deal an extra `d4` Radiant damage when hitting with a weapon or an [[Unarmed Strike Xphb]].
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 259*
 

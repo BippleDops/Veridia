@@ -35,7 +35,7 @@ world: Both
 # Fist of Four Thunders
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[thunderwave xphb|thunderwave]].
+You can spend 2 ki points to cast [[Thunderwave Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

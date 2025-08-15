@@ -60,11 +60,11 @@ You speak a one-word command to a creature you can see within range. The target 
 - **Drop.** The target drops whatever it is holding and then ends its turn.  
 - **Flee.** The target spends its turn moving away from you by the fastest available means.  
 - **Grovel.** The target has the [[conditions#prone|Prone]] condition and then ends its turn.  
-- **Halt.** On its turn, the target doesn't move and takes no action or [[bonus-action-xphb|Bonus Action]].  
+- **Halt.** On its turn, the target doesn't move and takes no action or [[Action Xphb]].  
 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-knowledge-domain "class=XPHB"|Cleric (Knowledge Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb "subclass=XPHB;class=XPHB"|Bard (College of Glamour)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 251. Available in the SRD and the Free Rules (2024)*
 

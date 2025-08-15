@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/instrument-of-illusions.webp#right)
 
-While you are playing this [[musical instrument xphb|musical instrument]], you can take a [[actions#Magic|Magic]] action to create harmless, illusory visual effects within a 5-foot [[emanation area of effect xphb|Emanation]] originating from the instrument. If you are a Bard, the size of the [[emanation area of effect xphb|Emanation]] increases to 15 feet. Sample visual effects include luminous musical notes, a spectral dancer, butterflies, and gently falling snow. The magical effects have neither substance nor sound, and they are obviously illusory. The effects end when you stop playing.
+While you are playing this [[musical-instrument-xphb (items)]], you can take a [[actions#Magic|Magic]] action to create harmless, illusory visual effects within a 5-foot [[Area of Effect Xphb]] originating from the instrument. If you are a Bard, the size of the [[Area of Effect Xphb]] increases to 15 feet. Sample visual effects include luminous musical notes, a spectral dancer, butterflies, and gently falling snow. The magical effects have neither substance nor sound, and they are obviously illusory. The effects end when you stop playing.
 
 *Source: Dungeon Master's Guide (2024) p. 271*
 

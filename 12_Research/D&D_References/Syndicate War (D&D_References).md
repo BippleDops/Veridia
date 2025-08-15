@@ -60,7 +60,7 @@ accessibility:
 Syndicate War moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02 Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
+- Bond: A family archive tied to [[The Sunken Library]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary

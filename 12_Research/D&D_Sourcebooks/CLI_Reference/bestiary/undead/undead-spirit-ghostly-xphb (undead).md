@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
 
-# [[undead spirit ghostly xphb|Undead Spirit (Ghostly)]]
+# [[undead]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock

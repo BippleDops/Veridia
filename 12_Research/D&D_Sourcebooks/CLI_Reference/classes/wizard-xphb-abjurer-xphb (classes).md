@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Abjurer
-*[[wizard xphb|Wizard]]: Wizard Subclass*  
+*[[Wizard Xphb School of Necromancy]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 172*  
 
 > [!tldr] Class and Feature Progression
@@ -75,25 +75,25 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Arcane Ward (Level 3)
 
-You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [[long rest xphb|Long Rest]]. The ward has a [[hit points xphb|Hit Point]] maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [[hit points xphb|Hit Points]]. If the damage reduces the ward to 0 [[hit points xphb|Hit Points]], you take any remaining damage. While the ward has 0 [[hit points xphb|Hit Points]], it can't absorb damage, but its magic remains.
+You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [[long-rest-xphb]]. The ward has a [[hit-points-xphb (variant-rules)]] maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [[hit-points-xphb (variant-rules)]]. If the damage reduces the ward to 0 [[hit-points-xphb (variant-rules)]], you take any remaining damage. While the ward has 0 [[hit-points-xphb (variant-rules)]], it can't absorb damage, but its magic remains.
 
-Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of [[hit points xphb|Hit Points]] equal to twice the level of the spell slot. Alternatively, as a [[bonus action xphb|Bonus Action]], you can expend a spell slot, and the ward regains a number of [[hit points xphb|Hit Points]] equal to twice the level of the spell slot expended.
+Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of [[hit-points-xphb (variant-rules)]] equal to twice the level of the spell slot. Alternatively, as a [[Action Xphb]], you can expend a spell slot, and the ward regains a number of [[hit-points-xphb (variant-rules)]] equal to twice the level of the spell slot expended.
 
-Once you create the ward, you can't create it again until you finish a [[long rest xphb|Long Rest]].
+Once you create the ward, you can't create it again until you finish a [[long-rest-xphb]].
 
 ### Projected Ward (Level 6)
 
-When a creature that you can see within 30 feet of yourself takes damage, you can take a [[reaction xphb|Reaction]] to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 [[hit points xphb|Hit Points]], the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's [[hit points xphb|Hit Points]].
+When a creature that you can see within 30 feet of yourself takes damage, you can take a [[reaction-xphb (variant-rules)]] to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 [[hit-points-xphb (variant-rules)]], the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's [[hit-points-xphb (variant-rules)]].
 
 ### Spell Breaker (Level 10)
 
-You always have the [[counterspell xphb|Counterspell]] and [[dispel magic xphb|Dispel Magic]] spells prepared. In addition, you can cast [[dispel magic xphb|Dispel Magic]] as a [[bonus action xphb|Bonus Action]], and you can add your [[proficiency xphb|Proficiency Bonus]] to its ability check.
+You always have the [[counterspell-xphb (spells)]] and [[dispel-magic-xphb (spells)]] spells prepared. In addition, you can cast [[dispel-magic-xphb (spells)]] as a [[Action Xphb]], and you can add your [[Proficiency Xphb]] to its ability check.
 
 When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 
 ### Spell Resistance (Level 14)
 
-You have [[advantage xphb|Advantage]] on saving throws against spells, and you have [[resistance xphb|Resistance]] to the damage of spells.
+You have [[Advantage Xphb]] on saving throws against spells, and you have [[boon-of-energy-resistance-xphb (feats)]] to the damage of spells.
 
 ## 🔧 Deep Evaluation Improvements
 

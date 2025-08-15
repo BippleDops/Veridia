@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Advancement - Quick Reference
 
 ## Key Info
@@ -19,4 +24,4 @@
 - **Weakness**: *[Exploitable flaw]*
 
 ---
-*Quick reference for [[Character Advancement]]*
+*Quick reference for [[Beyond 1st Level Character Advancement Phb]]*

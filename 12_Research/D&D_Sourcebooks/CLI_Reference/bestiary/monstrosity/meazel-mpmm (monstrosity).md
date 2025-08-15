@@ -46,7 +46,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-meazel-mpmm.svg)
 
-# [[meazel mpmm|Meazel]]
+# [[Meazel Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -97,8 +97,8 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ The destination must be a place the meazel has seen before, but it need not\
       \ be within line of sight. If the destination space is occupied, the teleportation\
       \ leads to the nearest unoccupied space.\n\y other creature the meazel teleports\
-      \ becomes cursed for 1 hour or until the curse is ended by [[remove curse xphb|remove curse]]\
-      \ or [[greater restoration xphb|greater restoration]].\
+      \ becomes cursed for 1 hour or until the curse is ended by [[Remove Curse Xphb]]\
+      \ or [[greater-restoration-xphb (spells)]].\
       \ Until this curse ends, every Undead and every creature native to the Shadowfell\
       \ within 300 feet of the cursed creature can sense it, which prevents that creature\
       \ from hiding from them."

@@ -53,9 +53,9 @@ world: Both
 
 You create an [[conditions#Invisible|Invisible]], invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has [[senses#Darkvision|Darkvision]] with a range of 30 feet.
 
-As a [[bonus-action-xphb|Bonus Action]], you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
+As a [[Action Xphb]], you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-knowledge-domain "class=XPHB"|Cleric (Knowledge Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 242. Available in the SRD and the Free Rules (2024)*
 
@@ -98,3 +98,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

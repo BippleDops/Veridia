@@ -94,7 +94,7 @@ Member of House Lionblood - Trait: divine blood
 ## Relationships
 
 - **Debtor**: [[Surface Syndicate]]
-- **Parent**: [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
+- **Parent**: [[Npc]]
 - **Creditor**: [[Coral Duchess Amphitrite]]
 
 ## Historical Timeline

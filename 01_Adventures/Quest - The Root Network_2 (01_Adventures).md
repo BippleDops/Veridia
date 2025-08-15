@@ -41,6 +41,21 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
+
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quest-the-root-network-quest-the-root-network.svg)
 
@@ -49,7 +64,7 @@ improvements: 20
 *The Ancient Arteries of the Living World*
 
 > *"Beneath our feet lies a network older than civilization, deeper than memory, and more vital than blood. The World-Tree's roots connect all forests, all life, all hope. But something stirs in the darkness between the roots, and the network itself may be turning against us."*
-> — [[12_Research/D&D_Statblocks/Archdruid Thornweaver]], during the Root Communion
+> — [[Archdruid Thornweaver]], during the Root Communion
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -111,7 +126,7 @@ improvements: 20
 
 The Root Network is an exploration and environmental adventure that takes players into the vast underground system of interconnected roots that spans the entire continent. What begins as a mission to investigate disturbances in the [[The Verdant Reach]]'s communication network becomes a journey through a living underground world where the line between plant and sentience blurs.
 
-The ancient root system, connected to the legendary World-Tree, serves as both a communication network for druids and a life-support system for forests across the continent. However, recent magical corruption and the influence of [[12_Research/D&D_Statblocks/The Synthesis Gardens]] have begun to turn sections of this network hostile, threatening not just individual forests but the ecological balance of the entire world.
+The ancient root system, connected to the legendary World-Tree, serves as both a communication network for druids and a life-support system for forests across the continent. However, recent magical corruption and the influence of [[garden]] have begun to turn sections of this network hostile, threatening not just individual forests but the ecological balance of the entire world.
 
 Players must navigate treacherous underground passages, solve environmental puzzles, combat corrupted plant-life, and ultimately decide whether to purge the infection at great cost to the network or find a way to heal the corruption while preserving the system's integrity.
 
@@ -123,9 +138,9 @@ The root network extends for hundreds of miles in all directions, connecting eve
 
 ### The Communication Crisis
 
-For the past six months, druid circles across the continent have reported increasing disruptions in root network communications. Messages arrive garbled or changed, some areas become completely unreachable, and disturbing visions of darkness and corruption appear during communion attempts. [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] initially attributed these problems to crystal corruption spreading from [[The Crystalline Wastes]], but recent investigations suggest a more complex and dangerous cause.
+For the past six months, druid circles across the continent have reported increasing disruptions in root network communications. Messages arrive garbled or changed, some areas become completely unreachable, and disturbing visions of darkness and corruption appear during communion attempts. [[Archdruid Thornweaver]] initially attributed these problems to crystal corruption spreading from [[The Crystalline Wastes]], but recent investigations suggest a more complex and dangerous cause.
 
-The corruption appears to originate from multiple sources, including [[12_Research/D&D_Statblocks/The Synthesis Gardens]]' experimental contamination, ancient magical residues from pre-Crystallization conflicts, and something new that defies easy categorization. Most alarming, some sections of the network have begun exhibiting independent behavior, acting against druid commands and pursuing unknown objectives.
+The corruption appears to originate from multiple sources, including [[garden]]' experimental contamination, ancient magical residues from pre-Crystallization conflicts, and something new that defies easy categorization. Most alarming, some sections of the network have begun exhibiting independent behavior, acting against druid commands and pursuing unknown objectives.
 
 ### The Growing Threat
 
@@ -155,9 +170,9 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 ### Quest Givers and Allies
 
-**[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** - The primary quest giver who provides access to the root network and serves as the main contact for coordination and resources. His deep connection to the network allows him to provide guidance but also makes him vulnerable to corruption.
+**[[Archdruid Thornweaver]]** - The primary quest giver who provides access to the root network and serves as the main contact for coordination and resources. His deep connection to the network allows him to provide guidance but also makes him vulnerable to corruption.
 
-**[[Root Speaker Vera Deepbark]]** - A specialist druid who serves as the party's guide to network navigation and plant communication. Her expertise is crucial for survival underground, but her fascination with the corruption may lead to dangerous risks.
+**[[Root-Speaker Vera Deepbark]]** - A specialist druid who serves as the party's guide to network navigation and plant communication. Her expertise is crucial for survival underground, but her fascination with the corruption may lead to dangerous risks.
 
 **[[Ranger Captain Orin Swiftarrow]]** - A surface contact who coordinates rescue operations and maintains communication with the party during their underground mission. He provides tactical support and ensures the party has supplies and backup.
 
@@ -165,9 +180,9 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 ### Antagonistic Forces
 
-**[[The Root Mind]]** - The collective intelligence that has emerged from the corrupted sections of the network. It possesses vast knowledge of the underground system and commands corrupted plant creatures, but its ultimate goals remain unclear.
+**[[The Root-Mind]]** - The collective intelligence that has emerged from the corrupted sections of the network. It possesses vast knowledge of the underground system and commands corrupted plant creatures, but its ultimate goals remain unclear.
 
-**[[Sorrow Root Nightbloom]]** - The corrupted druid whose experiments in [[12_Research/D&D_Statblocks/The Synthesis Gardens]] have contributed significantly to the network's infection. She views the corruption as evolution rather than destruction.
+**[[Sorrow-Root Nightbloom (D&D_References)]]** - The corrupted druid whose experiments in [[garden]] have contributed significantly to the network's infection. She views the corruption as evolution rather than destruction.
 
 **[[The Strangling Vine]]** - A massive corrupted plant creature that serves as the Root-Mind's primary enforcer, capable of traveling through the network at incredible speed to attack intruders.
 
@@ -185,7 +200,7 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 ### Entry Points
 
-**[[Heart Grove]]** - [[12_Research/D&D_Statblocks/Archdruid Thornweaver]]'s center of power, where the main access point to the root network is located. This heavily protected site serves as mission headquarters and primary communication hub.
+**[[Heart Grove]]** - [[Archdruid Thornweaver]]'s center of power, where the main access point to the root network is located. This heavily protected site serves as mission headquarters and primary communication hub.
 
 **[[The Moonwell]]** - A secondary access point where pure water meets the root network, providing a relatively safe entry but requiring water-breathing capabilities or magical assistance.
 
@@ -207,7 +222,7 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 **[[The Screaming Gardens]]** - Sections where corrupted plants emit psychic noise that drives intruders insane while masking the approach of hostile creatures.
 
-**[[The Synthesis Connections]]** - Direct links to [[12_Research/D&D_Statblocks/The Synthesis Gardens]] where [[Sorrow Root Nightbloom]]'s experiments have contaminated the network with hybrid abominations.
+**[[The Synthesis Connections]]** - Direct links to [[garden]] where [[Sorrow-Root Nightbloom (D&D_References)]]'s experiments have contaminated the network with hybrid abominations.
 
 **[[The Dead Zones]]** - Areas where corruption has killed the roots entirely, creating void spaces that disrupt network communication and may hide unknown dangers.
 
@@ -508,3 +523,49 @@ Key stop on spices trade route
 
 ### Story Rewards
 - *[Reputation, allies, information]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

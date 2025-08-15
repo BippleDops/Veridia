@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)
 
-# [[githzerai zerth xmm|Githzerai Zerth]]
+# [[Githzerai Zerth Xmm]]
 *Source: Monster Manual (2024) p. 137*  
 
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
@@ -131,18 +131,18 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-      \ [[mage hand xphb|Mage Hand]] (the hand is Invisible)\n\
-      \n1/day each: [[phantasmal killer xphb|Phantasmal Killer]]\
-      \ (level 6 version), [[plane shift xphb|Plane Shift]],\
-      \ [[see invisibility xphb|See Invisibility]]"
+      \ [[mage-hand-xphb (spells)]] (the hand is Invisible)\n\
+      \n1/day each: [[Phantasmal Killer Xphb]]\
+      \ (level 6 version), [[plane-shift-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [[jump xphb|Jump]], requiring\
+  - "desc": "The githzerai casts [[Long Jump Xphb]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [[feather fall xphb|Feather Fall]]\
-      \ or [[shield xphb|Shield]] in response to the spell's\
+  - "desc": "The githzerai casts [[Feather Fall Xphb]]\
+      \ or [[Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"

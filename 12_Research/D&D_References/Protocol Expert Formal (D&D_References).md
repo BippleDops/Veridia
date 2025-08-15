@@ -1,10 +1,12 @@
 ---
+
 title: Protocol Expert Formal (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Protocol Expert Formal
@@ -59,3 +61,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a conspiracy
 - Someone is searching for an heir for power
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

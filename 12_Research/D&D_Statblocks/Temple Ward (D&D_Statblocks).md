@@ -163,7 +163,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Denomination**: God of smithing, engineering, pressure mastery, construction  
 **Architecture**: Workshop-temple with forges powered by thermal vents  
 **Services**: Tool blessing, construction consecration, craftsmanship prayers  
-**Clergy**: [[Master Smith Priest Vulcan Depthforge]] leads artisan-clerics  
+**Clergy**: [[Master Smith-Priest Vulcan Depthforge]] leads artisan-clerics  
 **Specialties**: Blessing of tools and structures, craft magic, pressure engineering
 
 ### Sanctuary of the Wandering Current
@@ -236,7 +236,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Network**: Works with marine biologists and environmental organizations  
 **Personality**: Passionate about nature, sometimes impatient with bureaucracy
 
-### [[Master Smith Priest Vulcan Depthforge]]
+### [[Master Smith-Priest Vulcan Depthforge]]
 **Faith**: Forge-Temple of Pressure's Heart  
 **Skills**: Combines religious authority with legendary craftsmanship  
 **Products**: Creates blessed tools and weapons for worthy causes  

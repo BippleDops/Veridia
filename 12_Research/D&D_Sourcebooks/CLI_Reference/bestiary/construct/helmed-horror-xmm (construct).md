@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
 
-# [[helmed horror xmm|Helmed Horror]]
+# [[Helmed Horror Xmm]]
 *Source: Monster Manual (2024) p. 166*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -107,12 +107,12 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-  - "desc": "The helmed horror has [[advantage xphb|Advantage]]\
+  - "desc": "The helmed horror has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [[heat metal xphb|Heat Metal]],\
-      \ [[lightning bolt xphb|Lightning Bolt]], and [[magic missile xphb|Magic\]]
+      \ choices include [[heat-metal-xphb (spells)]],\
+      \ [[Lightning Bolt Xphb]], and [[Magic Missile]]
       \ Missile]]."
     "name": "Spell Immunity"
 "actions":

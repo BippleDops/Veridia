@@ -44,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bugbear-stalker-xmm-bugbear-stalker-xmm.svg)
 
-# [[bugbear stalker xmm|Bugbear Stalker]]
+# [[bugbear-stalker-xmm (fey)]]
 *Source: Monster Manual (2024) p. 62. Available in the SRD and the Free Rules (2024)*  
 
 Bugbear stalkers frequently take their victims hostage, relishing opportunities to imprison and terrorize other creatures.
@@ -106,7 +106,7 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 10 ft. or range 30/120 ft.\
       \ Hit: 13 (3d6 + 3) Piercing damage."
     "name": "Javelin"
-  - "desc": "Melee Attack Roll: +5 (with [[advantage xphb|Advantage]]\
+  - "desc": "Melee Attack Roll: +5 (with [[Advantage Xphb]]\
       \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ bugbear), reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage."
     "name": "Morningstar"

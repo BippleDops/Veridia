@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Pretender's Crown_1 (01_Adventures)
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 # Quest - The Pretender's Crown
 
@@ -47,6 +55,21 @@ obsidianUIMode: preview
 # Quest - The Pretender's Crown
 
 *The Throne of Aethermoor Stands on a Foundation of Lies*
+
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -106,7 +129,7 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
+A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow Crystal]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
 
 The investigation will lead through the highest echelons of nobility, into forgotten royal vaults, and ultimately to a conspiracy that threatens not just the crown but the very nature of reality in Aethermoor. Every ally could be an enemy, every proof could be fabricated, and the truth itself might be more dangerous than the lie.
 
@@ -133,7 +156,7 @@ The investigation will lead through the highest echelons of nobility, into forgo
 ### The Truth (DM Only)
 
 The Pretender is actually:
-1. **A Perfect Simulacrum** created by the [[Shadow Crystal Synthesis]] using stolen royal blood and memories
+1. **A Perfect Simulacrum** created by the [[Shadow Crystal]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
 3. **The Real Heir** but corrupted by shadow during their exile
 4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
@@ -144,7 +167,7 @@ The Pretender is actually:
 ### The Auditor's Warning
 
 **Location**: Hidden office in [[Port Meridian]]  
-**Quest Giver**: [[12_Research/D&D_Statblocks/The Nameless Auditor]]
+**Quest Giver**: [[12 Research]]
 
 The Auditor has discovered ficial irregularities suggesting the Pretender's supporters are being paid with gold that doesn't exist—shadow gold that vanishes after 30 days. They need investigators who can work outside official channels.
 
@@ -213,7 +236,7 @@ The party must break into the most secure archive in Aethermoor, protected by:
 
 ### The Memory Market
 
-**Location**: [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]'s shop  
+**Location**: [[12 Research]]'s shop  
 **Objective**: Trace the source of implanted memories
 
 **Investigation Reveals**:
@@ -227,7 +250,7 @@ The party must break into the most secure archive in Aethermoor, protected by:
 **Discovery**: The Pretender is controlled by multiple factions
 
 **Faction Involvement**:
-1. **[[Shadow Crystal Synthesis]]**: Want puppet ruler for their plans
+1. **[[Shadow Crystal]]**: Want puppet ruler for their plans
 2. **[[The Convergence Seekers]]**: Believe false king will trigger convergence
 3. **Foreign Power**: [[Aquabyssos]] agents destabilizing Aethermoor
 4. **Noble Houses**: Gambling on regime change for power
@@ -245,8 +268,8 @@ The party must break into the most secure archive in Aethermoor, protected by:
 - Create permanent portal to shadow realm
 
 **Gathering Allies**:
-- **[[12_Research/D&D_Statblocks/Crystal Wardens]]**: Split between duty and suspicion
-- **[[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]**: Knows religious proofs of falseness
+- **[[12 Research]]**: Split between duty and suspicion
+- **[[High Priestess Celeste]]**: Knows religious proofs of falseness
 - **Queen's Secret Guard**: Loyal to truth, not throne
 - **Common People**: Must be convinced carefully
 
@@ -334,7 +357,7 @@ Depending on earlier discoveries, the Pretender reveals:
 
 ### Allies
 
-**[[12_Research/D&D_Statblocks/The Nameless Auditor]]**
+**[[12 Research]]**
 - Discovers ficial proof
 - Provides safe houses
 - Can be killed if discovered
@@ -508,3 +531,63 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

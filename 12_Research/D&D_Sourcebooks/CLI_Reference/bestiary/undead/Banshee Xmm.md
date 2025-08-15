@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-banshee-xmm-banshee-xmm.svg)
 
-# [[banshee xmm|Banshee]]
+# [[Banshee Xmm]]
 *Source: Monster Manual (2024) p. 29*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -114,7 +114,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
       \ away that aren't Constructs or Undead."
     "name": "Detect Life"
   - "desc": "The banshee can move through other creatures and objects as if they were\
-      \ [[difficult terrain xphb|Difficult Terrain]].\
+      \ [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -129,8 +129,8 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
     "name": "Horrify"
   - "desc": "The banshee releases a mournful wail if it isn't in sunlight. Constitution\
       \ Saving Throw: DC 13, each creature within 30 feet that can hear the wail\
-      \ and isn't a Construct or an Undead. Failure: If the target has 25 [[hit points xphb|Hit Points]]\
-      \ or fewer, it drops to 0 [[hit points xphb|Hit Points]].\
+      \ and isn't a Construct or an Undead. Failure: If the target has 25 [[hit-points-xphb (variant-rules)]]\
+      \ or fewer, it drops to 0 [[hit-points-xphb (variant-rules)]].\
       \ Otherwise, the target takes 10 (3d6) Psychic damage."
     "name": "Deathly Wail (1/Day)"
 "source":

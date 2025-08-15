@@ -44,9 +44,9 @@ world: Both
 - **Components:** V, S, M (a prayer wheel)
 - **Duration:** 1 hour
 
-A creature you touch regains `4d8 + 15` [[hit-points-xphb|Hit Points]]. For the duration, the target regains 1 [[hit-points-xphb|Hit Point]] at the start of each of its turns, and any severed body parts regrow after 2 minutes.
+A creature you touch regains `4d8 + 15` [[hit-points-xphb (variant-rules)]]. For the duration, the target regains 1 [[hit-points-xphb (variant-rules)]] at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD and the Free Rules (2024)*
 
@@ -91,3 +91,24 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[regenerate-xphb (spells)-phb]]` in CLI_Reference/spells/

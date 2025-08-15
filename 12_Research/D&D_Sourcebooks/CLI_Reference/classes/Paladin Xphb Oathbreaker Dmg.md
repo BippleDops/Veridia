@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Oathbreaker
-*[[paladin xphb|Paladin]]: Paladin Subclass*  
+*[[paladin-xphb-oath-of-conquest-xge (classes)]]: Paladin Subclass*  
 *Source: Dungeon Master's Guide p. 97*  
 
 > [!tldr] Class and Feature Progression
@@ -79,11 +79,11 @@ You gain oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[hellish rebuke xphb|hellish rebuke]], [[inflict wounds xphb|inflict wounds]] |
-| 5th | [[crown of madness xphb|crown of madness]], [[darkness xphb|darkness]] |
-| 9th | [[animate dead xphb|animate dead]], [[bestow curse xphb|bestow curse]] |
-| 13th | [[blight xphb|blight]], [[confusion xphb|confusion]] |
-| 17th | [[contagion xphb|contagion]], [[dominate person xphb|dominate person]] |
+| 3rd | [[hellish-rebuke-xphb (spells)]], [[Inflict Wounds Xphb]] |
+| 5th | [[Crown of Madness Xphb]], [[darkness-xphb (variant-rules)]] |
+| 9th | [[animate-dead-xphb (spells)]], [[Bestow Curse Xphb]] |
+| 13th | [[Light Xphb]], [[Confusion Xphb]] |
+| 17th | [[Contagion Xphb]], [[Dominate Person Xphb]] |
 ^oathbreaker-spells
 
 ### Channel Divinity (Level 3)

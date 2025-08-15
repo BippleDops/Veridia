@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-retorter-sword-of-answering-retorter.svg)
 
 # Sword of Answering (Retorter)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a lawful good creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a lawful good creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

@@ -72,3 +72,23 @@ Mentioned in The First Prophecy of Stars
 - A corpse reveals the truth about the cult
 - Someone is protecting a witness for power
 - Someone is protecting an heir for revenge
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-fiend-patron-xphb (lists)-phb]]` in CLI_Reference/spells/

@@ -5,7 +5,7 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Aquabyssos - Session 10 - The Shadow Finale
 
@@ -21,6 +21,7 @@ Aquabyssos - Session 10 - The Shadow Finale represents a significant element wit
 - **Significance**: Important for understanding broader context
 
 ## Details
+
 ### Background
 Historical context and development over time.
 
@@ -44,4 +45,19 @@ This content can be adapted and expanded based on specific campaign needs.
 - Offers opportunities for player engagement
 
 ## DM Notes
-*Customize as needed for your specific campaign requirements.*
+* Customize as needed for your specific campaign requirements.*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

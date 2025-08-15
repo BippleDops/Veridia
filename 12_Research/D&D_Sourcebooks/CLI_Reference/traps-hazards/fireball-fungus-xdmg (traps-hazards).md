@@ -33,9 +33,9 @@ world: Both
 # Fireball Fungus
 *Generic Hazard*  
 
-A fireball fungus is a Small, iimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[bright light xphb|Bright Light]] in a 15-foot radius and [[dim light xphb|Dim Light]] for an additional 15 feet.
+A fireball fungus is a Small, iimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[Light Xphb]] in a 15-foot radius and [[Light Xphb]] for an additional 15 feet.
 
-A fireball fungus has AC 10, HP 6, and [[immunity xphb|Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[fireball xphb|Fireball]] spell (save DC 15) had been centered on it.
+A fireball fungus has AC 10, HP 6, and [[immunity-xphb (variant-rules)]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[fireball-xphb (spells)]] spell (save DC 15) had been centered on it.
 
 ## 🔧 Deep Evaluation Improvements
 

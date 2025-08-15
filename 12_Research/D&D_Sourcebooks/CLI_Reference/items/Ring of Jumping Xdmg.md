@@ -39,7 +39,7 @@ world: Both
 # Ring of Jumping
 *Ring, uncommon (requires attunement)*  
 
-While wearing this ring, you can cast [[jump xphb|Jump]] from it, but can target only yourself when you do so.
+While wearing this ring, you can cast [[Long Jump Xphb]] from it, but can target only yourself when you do so.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
 

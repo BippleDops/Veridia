@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-basilisk-oota-v1-young-basilisk-oota.svg)
 
-# [[young basilisk oota|Young Basilisk]]
+# [[Young Basilisk Oota]]
 *Source: Out of the Abyss p. 100*  
 
 ```statblock
@@ -69,7 +69,7 @@ world: Both
       \ On a failed save, the creature magically begins to turn to stone and is [[conditions#Restrained|restrained]].\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
       \ the effect ends. On a failure, the creature is [[conditions#Petrified|petrified]]\
-      \ until freed by the  [[greater restoration xphb|greater restoration]]\
+      \ until freed by the  [[greater-restoration-xphb (spells)]]\
       \ spell or other magic.\n\nA creature that isn't [[conditions#Surprised|surprised]]\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\

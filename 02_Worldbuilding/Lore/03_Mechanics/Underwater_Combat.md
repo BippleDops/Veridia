@@ -92,3 +92,9 @@ improvements: 20
 - Someone is searching for a artifact for money
 - A stranger needs help finding before the new moon
 - Someone is searching for an heir for money
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

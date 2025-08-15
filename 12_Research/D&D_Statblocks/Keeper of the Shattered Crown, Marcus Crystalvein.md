@@ -261,7 +261,7 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 
 ---
 
-### Links to [[Quest   The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+### Links to [[Quest - The Convergence Crisis]]
 **Crown-Convergence Connection**: Understanding how Shard reunification affects dimensional stability
 - Marcus's research reveals Crown of Stars was originally dimensional stabilization device
 - Current Shard separation weakening barriers between realities

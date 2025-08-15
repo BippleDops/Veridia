@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
 
-# [[armored saber toothed tiger cos|Armored Saber Toothed Tiger]]
+# [[Armored Saber Toothed Tiger Cos]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -47,7 +47,7 @@ world: Both
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "17"
-"ac_class": "[[half plate armor xphb|half plate armor]]"
+"ac_class": "[[Plate Armor Xphb]]"
 "hp": !!int "84"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "2"

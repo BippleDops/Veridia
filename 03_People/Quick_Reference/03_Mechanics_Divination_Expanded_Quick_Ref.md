@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Divination_Expanded - Quick Reference
 
 ## Key Info

@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # 07_Player_Resources/Character_Options/Character_Bonds
@@ -22,7 +22,7 @@ The full nature of 07_Player_Resources/Character_Options/Character_Bonds involve
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 07_Player_Resources/Character_Options/Character_Bonds trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 07_Player_Resources/Character_Options/Character_Bonds are various o
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 07_Player_Resources/Character_Options/Character_Bonds through their own cultural lenses:
+Different [[Groups]] view 07_Player_Resources/Character_Options/Character_Bonds through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 07_Player_Resources/Character_Options/Character_Bonds:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 07_Player_Resources/Character_Options/Character_Bonds has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 07_Player_Resources/Character_Options/Character_Bonds into g
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 07_Player_Resources/Character_Options/Character_Bonds might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #07_player_resources/character_options/character_bonds
+*Tags*: [[#General]] #worldbuilding #07_player_resources/character_options/character_bonds

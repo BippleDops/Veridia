@@ -191,3 +191,10 @@ Contextual improvement based on 07_Player_Resources
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

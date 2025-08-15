@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+---
+
 # Classical Era Timeline
 
 ## Overview

@@ -34,7 +34,7 @@ world: Both
 # Quickened Spell
 *Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[bonus action xphb|Bonus Action]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[Action Xphb]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -80,3 +80,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[quickened-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/

@@ -1,9 +1,9 @@
 ---
 
 title: Garden of Shadows
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - mysterious
 - status/complete
 - aquatic
@@ -20,7 +20,7 @@ tags:
 created: 2025-08-08 - Category/Place
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Location
 MyContainer: None
@@ -32,6 +32,13 @@ world: Aquabyssos
 evaluated: '2025-08-14'
 improvements: 20
 ---
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg)
@@ -56,7 +63,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +107,7 @@ improvements: 20
 
 ## Overview
 
-The Garden of Shadows is one of Aquabyssos's most mysterious and philosophically significant locations, serving as both a meditation retreat and a center for the study of shadow magic and deep-sea mysticism. Located in the deepest accessible levels of the city, where even magical light struggles to penetrate, the Garden cultivates plants and coral that thrive in absolute darkness.
+The Garden of Shadows is one of Aquabyssos's most mysterious and philosophically significant locations, serving as both a meditation retreat and a center for the study of shadow magic and deep-sea mysticism. Located in the deepest accessible levels of the city, where even magical light struggles to penetrate, the Garden cultivates plants and [[Coral]] that thrive in absolute darkness.
 
 Rather than fighting the natural absence of light, the Garden's designers embraced it, creating a space where shadows take on substance and form. Visitors describe the experience as walking through living darkness, where thoughts become visible as ephemeral shapes and the boundary between physical and spiritual reality becomes blurred.
 
@@ -134,7 +141,7 @@ A natural acoustic phenomenon creates a space where conversations can be heard a
 
 The Garden maintains a small permanent population of about 200 individuals, including gardeners who tend the shadow plants, researchers studying darkness and shadow magic, and monks dedicated to deep meditation practices. Most are highly adapted to the lightless environment, with enhanced darkvision and sensitivity to subtle changes in shadow and temperature.
 
-The transient population includes visiting scholars, those seeking guidance through meditation, and individuals who prefer the Garden's anonymity for sensitive meetings.
+The transient population includes visiting scholars, those seeking [[Guidance]] through meditation, and individuals who prefer the Garden's anonymity for sensitive meetings.
 
 ## Economy
 
@@ -144,9 +151,9 @@ The Garden also receives donations from those who benefit from its services and 
 
 ## Government
 
-The Garden operates as a collective led by a council of senior researchers and meditation masters. **Keeper Elara Moonwhisper** serves as the primary administrator and public representative, while day-to-day operations are managed through consensus among the permanent residents.
+The Garden operates as a collective led by a council of senior researchers and meditation masters. **[[Keeper Elara Moonwhisper]]** serves as the primary administrator and public representative, while day-to-day operations are managed through consensus among the permanent residents.
 
-The Garden maintains strict neutrality in political matters, though its meeting spaces are sometimes used by various factions for negotiations.
+The Garden maintains strict neutrality in political matters, though its meeting spaces are some[[Time]]s used by various factions for negotiations.
 
 ## History
 
@@ -158,31 +165,31 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 
 1. Strange disturbances in the Garden's shadows suggest something is corrupting the carefully maintained balance between light and darkness.
 2. A valuable text from the Archive of Dark Wisdom has been stolen, and the thief seems to understand the Garden's layout suspiciously well.
-3. The party needs to meet with a mysterious contact who will only meet in the absolute darkness of the Garden's deepest chambers.
+3. [[The Party]] needs to meet with a mysterious contact who will only meet in the absolute darkness of the Garden's deepest chambers.
 
 ## Connections
 
-The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
+The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages [[Link]] it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
 - [[Lumengarde]]
 
 ## Player-Facing Summary
 
 Garden of Shadows is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Garden of Shadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Garden of Shadows.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -211,12 +218,12 @@ Mentioned in The First Prophecy of Shadows
 - Someone is protecting information for power
 - Strange dreams suggest a portal
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -226,7 +233,7 @@ Mentioned in The First Prophecy of Shadows
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -251,3 +258,40 @@ Mentioned in The First Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

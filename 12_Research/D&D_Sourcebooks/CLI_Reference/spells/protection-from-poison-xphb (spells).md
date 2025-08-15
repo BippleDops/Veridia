@@ -48,9 +48,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance xphb|Resistance]] to Poison damage.
+You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[Advantage Xphb]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[boon-of-energy-resistance-xphb (feats)]] to Poison damage.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 310. Available in the SRD and the Free Rules (2024)*
 
@@ -93,3 +93,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[protection-from-poison-xphb (spells)-phb]]` in CLI_Reference/spells/

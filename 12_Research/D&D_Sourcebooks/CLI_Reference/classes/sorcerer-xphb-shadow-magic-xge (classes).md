@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Shadow Magic
-*[[sorcerer xphb|Sorcerer]]: Sorcerer Subclass*  
+*[[sorcerer-xphb-draconic-sorcery-xphb (classes)]]: Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 > [!tldr] Class and Feature Progression
@@ -88,7 +88,7 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 
 Starting at 1st level, you have [[senses#Darkvision|darkvision]] with a range of 120 feet.
 
-When you reach 3rd level in this class, you learn the [[darkness xphb|darkness]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[darkness xphb|darkness]] created by the spell.
+When you reach 3rd level in this class, you learn the [[darkness-xphb (variant-rules)]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[darkness-xphb (variant-rules)]] created by the spell.
 
 ### Strength of the Grave (Level 1)
 
@@ -98,7 +98,7 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 ### Hound of Ill Omen (Level 6)
 
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [[hound of ill omen xge|hound of ill omen]] to target one creature you can see within 120 feet of you. The hound uses the [[dire wolf xmm|dire wolf]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [[hound-of-ill-omen-xge (monstrosity)]] to target one creature you can see within 120 feet of you. The hound uses the [[dire-wolf-xmm]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
 - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
 - It appears with a number of temporary hit points equal to half your sorcerer level.  

@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
 
-# [[flaming skeleton xmm|Flaming Skeleton]]
+# [[flaming-skeleton-xmm (undead)]]
 *Source: Monster Manual (2024) p. 283*  
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
@@ -107,12 +107,12 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "cr": "3"
 "traits":
   - "desc": "The skeleton explodes when it dies. Dexterity Saving Throw: DC 12,\
-      \ each creature in a 10-foot [[emanation area of effect xphb|Emanation]]\
+      \ each creature in a 10-foot [[Area of Effect Xphb]]\
       \ originating from the skeleton. Failure: 14 (4d6) Fire damage. Success:\
       \ Half damage."
     "name": "Death Burst"
-  - "desc": "The skeleton sheds [[bright light xphb|Bright Light]]\
-      \ in a 15-foot radius and [[dim light xphb|Dim Light]]\
+  - "desc": "The skeleton sheds [[Light Xphb]]\
+      \ in a 15-foot radius and [[Light Xphb]]\
       \ for an additional 15 feet."
     "name": "Illumination"
 "actions":

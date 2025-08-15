@@ -200,7 +200,7 @@ While at Crystallium, characters experience:
 - **Medical Treatment** - Advanced healing for pressure and crystal-related ailments
 
 ### Trade Relationships
-- **[[Port Meridian   Merchant Quarter]]** - Export of pressure pearls and deep-sea materials
+- **[[Port Meridian - Merchant Quarter (D&D_References)]]** - Export of pressure pearls and deep-sea materials
 - **[[Sylvanheart|02 Worldbuilding/Places/Sylvanheart]]** - Exchange of natural and crystal-based magical research
 - **[[Nereidios]]** - Academic cooperation and knowledge sharing
 

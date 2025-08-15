@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
 
-# [[spirit statue mascot scc|Spirit Statue Mascot]]
+# [[spirit-statue-mascot-scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  
 
 To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living.

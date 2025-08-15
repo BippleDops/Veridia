@@ -56,10 +56,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Rival**: [[Portrait NPC Archbishop Mordecai Stormwright Archbishop Mordecai Stormwright.svg]]
-- **Debtor**: [[Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg]]
-- **Creditor**: [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
-- **Blackmailer**: [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg]]
+- **Rival**: [[Npc]]
+- **Debtor**: [[Npc]]
+- **Creditor**: [[The Sunken Cathedral of Perfect Order]]
+- **Blackmailer**: [[Npc]]
 - **Friend**: [[Senator]]
 
 ## Plot Hooks

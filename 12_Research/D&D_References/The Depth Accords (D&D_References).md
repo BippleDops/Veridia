@@ -216,7 +216,7 @@ With the cult defeated and the throne fragment recovered, the characters must pa
 **Void Cultist Infiltration**
 - Remaining cultists attempt to disrupt the ceremony
 - Skill challenge to identify and neutralize infiltrators
-- Combat encounter with [[Void touched Assassins]]
+- Combat encounter with [[Void-touched Assassins]]
 
 **Political Opposition**
 - Some factions on both sides oppose the new accords

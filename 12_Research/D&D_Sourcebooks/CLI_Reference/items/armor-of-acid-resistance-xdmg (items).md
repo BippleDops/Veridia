@@ -50,7 +50,7 @@ world: Both
 # Armor of Acid Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to acid damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

@@ -1,7 +1,7 @@
 ---
 
 title: Court Mage Apprentices
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -77,7 +77,7 @@ Court Mage Apprentices represents a crucial aspect of the world's history, cosmo
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -96,22 +96,22 @@ Mentioned in The First Prophecy of Winds
 - A corpse reveals the truth about this place
 - An heirloom has gone missing and evil awakens
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Economic Structure
 

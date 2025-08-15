@@ -1,6 +1,6 @@
 ---
 title: Archive Old Content
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both

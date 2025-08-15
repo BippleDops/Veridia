@@ -44,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-elemental-xmm-v1-water-elemental-xmm.svg)
 
-# [[water elemental xmm|Water Elemental]]
+# [[water-elemental-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 322. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -113,7 +113,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-  - "desc": "If the elemental takes Cold damage, its [[speed xphb|Speed]]\
+  - "desc": "If the elemental takes Cold damage, its [[Fly Speed Xphb]]\
       \ decreases by 20 feet until the end of its next turn."
     "name": "Freeze"
   - "desc": "The elemental can enter an enemy's space and stop there. It can move\

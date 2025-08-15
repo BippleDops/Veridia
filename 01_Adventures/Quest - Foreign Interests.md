@@ -1,11 +1,19 @@
 ---
+
 title: Quest - Foreign Interests
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 # Quest - Foreign Interests
 
@@ -43,6 +51,21 @@ obsidianUIMode: preview
 # Quest - Foreign Interests
 *Spies in the Crystal Court, The Ambassador's Game, Shadows Across Borders*
 
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -56,7 +79,7 @@ obsidianUIMode: preview
 - Add 12_Research-specific enhancement
 
 ## Quest Overview
-Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] ahead of the [[Quest   The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
+Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] ahead of the [[The Crystal Festival]]. While publicly celebrating the 500th anniversary, these delegations secretly pursue their own agendas—stealing crystal technology, manipulating the succession crisis, establishing spy networks, and potentially preparing for invasion. The party must navigate a web of international intrigue while preventing any single foreign power from gaining too much influence.
 
 ### The Political Situation
 **Why Now?**
@@ -106,7 +129,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[Aethermoor|02 World
 
 ### Opening Scene
 **The Queen's Request**
-**Location**: [[The Crystal Palace   Throne Room]]
+**Location**: [[The Crystal Palace - Throne Room (D&D_References)]]
 
 **Read Aloud:**
 *"These delegations arrive with smiles and gifts, but I taste poison in their wine and see daggers behind their bows. I need eyes and ears I can trust—yours. Officially, you'll be cultural liaisons. Unofficially, discover what each delegation truly wants and prevent catastrophe."*
@@ -357,3 +380,45 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

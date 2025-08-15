@@ -1,7 +1,7 @@
 ---
 
 title: Continental War
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - completed
@@ -23,7 +23,7 @@ created: '2025-08-09'
 modified: '2025-08-14'
 status: draft
 world: Aethermoor
-time_period: Third Age, Years 892-901
+[[Time]]_period: Third Age, Years 892-901
 scale: Continental
 participants:
 - Multiple Kingdoms
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,25 +90,25 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Overview
 
 The Continental War (892-901, Third Age) stands as the most devastating military conflict in [[Aethermoor]]'s recorded history, fundamentally reshaping the political, technological, and magical landscape of the entire continent. What began as a succession dispute in the ancient Kingdom of Drakmoor escalated into a nine-year struggle that drew in every major power, introduced revolutionary military technologies, and ultimately established the modern balance of power between [[Crystalhaven]], [[Ironhold]], [[Port Meridian]], and [[Sylvanheart]].
 
-The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[Ancient Siege Tunnels]], crystal-powered weaponry, organized military intelligence networks, and the first systematic use of magical warfare on a continental scale.
+The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[Ancient Siege Tunnels]], crystal-powered weaponry, organized [[Military Intelligence]] networks, and the first systematic use of magical warfare on a continental scale.
 
 ### The Drakmoor Succession Crisis
 
 The immediate cause of the war was the death of King Valorian the Great of Drakmoor without a clear heir:
-- **Prince Cassius the Bold**: Supported by military commanders and northern provinces
-- **Princess Serenity the Wise**: Backed by merchants and southern trading cities  
+- **Prince Cassius the Bold**: Supported by [[Military Command]]ers and northern provinces
+- **Princess Serenity the Wise**: Backed by [[Merchant]]s and southern trading cities  
 - **Duke Mordain the Ruthless**: Foreign-supported claimant with promises of territorial concessions
 - **The Royal Council**: Attempted to establish a regency but lacked popular support
 
 ### Deeper Tensions
 
-The succession crisis merely sparked conflicts that had been building for decades:
+[[The Succession Crisis]] merely sparked conflicts that had been building for decades:
 
 **Resource Competition**: Control over crystal mining rights and trade routes
 **Technological Rivalries**: Different approaches to magical and military advancement
@@ -139,7 +139,7 @@ Traditional military campaigns with established tactics:
 
 ### Phase Two: The Innovation War (Years 894-897)
 
-Introduction of revolutionary military technologies:
+[[Introduction]] of revolutionary military technologies:
 - Crystal-powered weapons and magical warfare
 - [[Ancient Siege Tunnels]]
 - Organized intelligence networks and espionage
@@ -161,11 +161,11 @@ Complete mobilization of all available resources:
 
 **Escalating Atrocities:**
 - **The Scorching of Verdant Valley**: Magical fire weapons destroyed entire region
-- **The Drowning of Port Sorrow**: Deliberate flooding of enemy harbor city
+- **[[The Drowning]] of Port Sorrow**: Deliberate flooding of enemy harbor city
 - **The Crystal Plague**: Experimental weapon that crystallized living beings
 - **The Mind Wars**: Psychological and magical attacks on enemy populations
 
-### Phase Four: The Exhaustion (Years 900-901)
+### Phase Four: The [[Exhaustion]] (Years 900-901)
 
 Final phase marked by mutual exhaustion and civilian suffering:
 - Armies reduced to skeleton forces through attrition
@@ -192,30 +192,30 @@ The development of [[Ancient Siege Tunnels]] changed warfare permanently:
 ### Intelligence Warfare
 
 The first systematic use of organized espionage and intelligence:
-- **Spy Networks**: Professional intelligence organizations spanning multiple kingdoms
+- **Spy Networks**: Professional intelligence [[Organization]]s spanning multiple kingdoms
 - **Code Breaking**: Mathematical and magical approaches to encrypted communications
 - **Disinformation**: Coordinated campaigns to mislead enemy forces
 - **Sabotage Operations**: Systematic destruction of enemy infrastructure and supplies
 
 ### Northern Alliance Leaders
 
-**Lord Commander Gareth Steelborn**: Master strategist who developed combined arms tactics
-**Archmage Celestia Starweaver**: Pioneered military applications of crystal magic
+**[[[[Lord Commander Gareth]] Steelborn]]**: Master strategist who developed combined arms tactics
+**Archmage Celestia Starweaver**: Pioneered military applications of [[Crystal Magic]]
 **Admiral Marcus Stormwind**: Naval commander who secured Alliance supply lines
 **Spymaster Vera Shadowknife**: Organized the first continental intelligence network
 
 ### Southern Coalition Champions
 
 **General Cassius Ironwall**: Traditional military commander opposing Alliance innovations
-**The Crimson Sage**: Mysterious figure providing magical support to Coalition forces
+**[[The Crimson Sage]]**: [[Mysterious Figure]] providing magical support to Coalition forces
 **Captain Regina Bloodtide**: Pirate queen who disrupted Alliance shipping
 **Duke Mordain the Ruthless**: Foreign-supported claimant whose ambitions prolonged the conflict
 
 ### Neutral and Third-Party Actors
 
 **Elder Whisperwind of [[Sylvanheart]]**: Eventually mediated peace negotiations
-**Emperor Thalassius of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
-**The Merchant Princes**: Trade guilds whose economic pressure helped end the war
+**[[[[Emperor]] Thalassius]] of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
+**The [[Merchant Princes]]**: Trade guilds whose [[Economic Pressure]] helped end the war
 
 ### The Siege of Drakmoor (Year 893)
 
@@ -251,10 +251,10 @@ Most controversial action of the entire war:
 
 ### Negotiation Process
 
-Mediated by [[Sylvanheart]] druids at neutral location:
+Mediated by [[Sylvanheart]] druids at neutral [[location]]:
 - Year-long negotiations involving all major powers
 - Pressure from civilian populations exhausted by war
-- Economic necessity as trade networks collapsed
+- Economic necessity as [[Trade Networks]] collapsed
 - Threat of foreign invasion if war continued
 
 ### Key Treaty Provisions
@@ -270,21 +270,21 @@ Mediated by [[Sylvanheart]] druids at neutral location:
 The original succession dispute resolved through compromise:
 - Kingdom divided between surviving claimants
 - Duke Mordain exiled, foreign supporters expelled
-- Royal treasury distributed among Alliance powers
+- [[Royal Treasury]] distributed among Alliance powers
 - Ancient capital city rebuilt as neutral diplomatic center
 
 ### Political Transformation
 
 **City-State System**: Large kingdoms fragmented into smaller, more manageable units
 **Alliance Networks**: Permanent diplomatic and military cooperation agreements
-**Neutral Zones**: Buffer territories preventing future large-scale conflicts
+**[[Neutral Zone]]s**: Buffer territories preventing future large-scale conflicts
 **Democratic Experiments**: War exhaustion led to more representative governments
 
 ### Technological Revolution
 
 **Military Engineering**: [[Ancient Siege Tunnels]] became permanent infrastructure
-**Crystal Technology**: Widespread adoption of magical enhancement in all fields
-**Communication Systems**: Long-distance magical communication became standard
+**[[Crystal Technology]]**: Widespread adoption of magical enhancement in all fields
+**[[Communication Systems]]**: Long-distance magical communication became standard
 **Medical Advances**: Battlefield medicine innovations benefited civilian healthcare
 
 ### Social Changes
@@ -292,22 +292,22 @@ The original succession dispute resolved through compromise:
 **Professional Armies**: End of feudal levy systems in favor of trained military forces
 **War Veterans**: Large population of disabled veterans requiring social support
 **Women's Roles**: Female participation in war effort led to expanded social opportunities
-**Cultural Exchange**: Population movements created more cosmopolitan societies
+**[[Cultural Exchange]]**: Population movements created more cosmopolitan societies
 
 ### Economic Impact
 
 **Trade Recovery**: Post-war reconstruction created economic boom
 **Industrial Development**: Military innovations adapted for civilian use
 **Labor Movements**: Worker organizations gained power during reconstruction
-**International Commerce**: New trade relationships formed across former battle lines
+**[[International Commerce]]**: New trade relationships formed across former battle lines
 
-### Historical Research
+### [[Historical Research]]
 
 **Intelligence (History) DC 15**: Basic knowledge of major battles and outcomes
 **Intelligence (History) DC 20**: Detailed understanding of military innovations
 **Intelligence (History) DC 25**: Access to classified military records and strategic documents
 
-### Archaeological Discoveries
+### [[Archaeological Discoveries]]
 
 Characters might discover:
 - Battlefield sites with preserved equipment and fortifications
@@ -317,10 +317,10 @@ Characters might discover:
 
 ### Veteran Encounters
 
-**Old Soldiers**: NPCs with firsthand knowledge of battles and personalities
+**Old Soldiers**: [[Npc]]s with firsthand knowledge of battles and personalities
 **Military Engineers**: Experts in tunnel construction and magical warfare
 **Intelligence Operatives**: Former spies with extensive knowledge networks
-**Diplomatic Corps**: Negotiators familiar with international relations
+**[[Diplomatic Corps]]**: Negotiators familiar with [[International Relations]]
 
 ## Quest Hooks
 
@@ -328,7 +328,7 @@ Characters might discover:
 2. **The War Criminal**: Hunt down officer responsible for civilian atrocities
 3. **The Hidden Weapon**: Discover location of concealed magical weapon from the war
 4. **The Veteran's Secret**: Help aging warrior resolve moral conflict from wartime actions
-5. **The Peace Violation**: Investigate evidence of treaty violations by major power
+5. **The Peace Violation**: Investigate [[Evidence]] of treaty violations by major power
 6. **The Historical Conspiracy**: Uncover evidence that war was deliberately prolonged
 7. **The Battlefield Archaeology**: Escort researchers exploring significant battle sites
 8. **The Refugee Descendant**: Help war refugee's descendant reclaim family property
@@ -338,10 +338,10 @@ Characters might discover:
 ## Connections to Ongoing Campaigns
 
 The Continental War provides:
-- Historical context for current political relationships and tensions
+- [[Historical Context]] for current political relationships and tensions
 - Source of ancient military technology and forgotten tactical knowledge
 - Archaeological adventure opportunities in former battlefields
-- Veteran NPCs with extensive knowledge of people, places, and secrets
+- Veteran NPCs with extensive knowledge of [[People]], [[Places]], and secrets
 - Moral complexity around war crimes, civilian casualties, and necessary evils
 - Framework for understanding current alliance structures and diplomatic protocols
 - Background for family histories, inherited obligations, and generational conflicts
@@ -356,9 +356,9 @@ Continental War is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Continental War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Continental War.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Historical Context
 
@@ -368,7 +368,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement

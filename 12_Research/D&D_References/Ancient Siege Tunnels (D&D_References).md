@@ -78,7 +78,7 @@ The ancient engineers employed three distinct tunnel types:
 ### Major Active Sections
 
 **The Port Meridian Approach**
-- 15-mile tunnel connecting to [[Port Meridian   Harbor District|02 Worldbuilding/Places/Port Meridian Harbor District]]
+- 15-mile tunnel connecting to [[Harbor District]]
 - Originally designed to bypass coastal defenses
 - Now used by [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] and smuggling operations
 - Multiple branching passages lead to strategic points throughout the city
@@ -116,7 +116,7 @@ The ancient engineers employed three distinct tunnel types:
 *Central command center where the tunnel campaigns were coordinated*
 - Contains detailed maps of the entire network
 - Magical communication devices still functional
-- Guarded by ancient [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
+- Guarded by ancient [[The Crystal Guard Elite]]
 - Repository of military intelligence from the Continental Wars
 
 ### The Bone Gardens

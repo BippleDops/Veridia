@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-spider-xphb-giant-insect-spider-xphb.svg)
 
-# [[giant insect spider xphb|Giant Insect (Spider)]]
+# [[giant]]
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*  
 
 ```statblock

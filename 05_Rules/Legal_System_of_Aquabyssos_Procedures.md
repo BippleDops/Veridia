@@ -1,5 +1,6 @@
 ---
 
+
 title: Legal System of Aquabyssos Procedures
 type: mechanics
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -271,3 +273,42 @@ A: Supernatural abilities suppressed, mundane portions still function
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate
+## Official Rules Reference
+
+### Core Rulebooks
+- **General Rules**: PHB Chapter 7-10
+- **DM Guidelines**: DMG Chapter 8
+- **Variant Rules**: DMG Chapter 9
+- **Optional Rules**: TCE p.4-8
+- **UA Playtest Material**: D&D Beyond UA Archive
+- **Expansion Content**: Check specific setting books
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions

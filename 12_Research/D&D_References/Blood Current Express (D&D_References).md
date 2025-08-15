@@ -626,7 +626,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 - [[Express Racers]]
 - [[Current Navigation Techniques]]
 - [[Transportation Guild]]
-- [[High Speed Transportation]]
+- [[High-Speed Transportation]]
 
 ## Player-Facing Summary
 

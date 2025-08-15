@@ -38,15 +38,15 @@ world: Both
 
 | Category | Examples |
 |----------|----------|
-| "Armor" | [[1 armor xdmg|+1 Leather Armor]], [[1 shield xdmg|+1 Shield]] |
-| "Potions" | [[potion of healing xdmg|Potion of Healing]] |
-| "Rings" | [[ring of invisibility xdmg|Ring of Invisibility]] |
-| "Rods" | [[immovable rod xdmg|Immovable Rod]] |
-| "Scrolls" | [[spell scroll xdmg|Spell Scroll]] |
-| "Staffs" | [[staff of striking xdmg|Staff of Striking]] |
-| "Wands" | [[wand of fireballs xdmg|Wand of Fireballs]] |
-| "Weapons" | [[1 ammunition xdmg|+1 Ammunition]], [[1 weapon xdmg|+1 Longsword]] |
-| "Wondrous Items" | [[bag of holding xdmg|Bag of Holding]], [[boots of elvenkind xdmg|Boots of Elvenkind]] |
+| "Armor" | [[1 Armor Xdmg]], [[Shield]] |
+| "Potions" | [[Potion of Healing Xdmg]] |
+| "Rings" | [[ring-of-invisibility-xdmg (items)]] |
+| "Rods" | [[immovable-rod-xdmg (items)]] |
+| "Scrolls" | [[spell-scroll-xdmg (items)]] |
+| "Staffs" | [[Staff of Striking Xdmg]] |
+| "Wands" | [[Wand of Fireballs Xdmg]] |
+| "Weapons" | [[1-ammunition-xdmg (items)]], [[1-weapon-xdmg (items)]] |
+| "Wondrous Items" | [[bag-of-holding-xdmg (items)]], [[Boots of Elvenkind Xdmg]] |
 ^magic-item-categories
 
 ## 🔧 Deep Evaluation Improvements

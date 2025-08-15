@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ettin-xmm-ettin-xmm.svg)
 
-# [[ettin xmm|Ettin]]
+# [[ettin-xmm (giant)]]
 *Source: Monster Manual (2024) p. 116. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -125,7 +125,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
       \ condition."
     "name": "Battleaxe"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
-      \ and the target has [[disadvantage xphb|Disadvantage]]\
+      \ and the target has [[Advantage Xphb]]\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Morningstar"
 "source":

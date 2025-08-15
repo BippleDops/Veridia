@@ -1,7 +1,7 @@
 ---
 
 title: Multi Phase Boss Fights
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -37,7 +37,7 @@ improvements: 20
 
 *Epic Encounters Across the Merged Realms*
 
-> *"A true master of combat adapts to every situation. When you think you've won, that's when the real fight begins. I've seen creatures transform three times in a single battle, each form more dangerous than the last. Never assume victory until the threat breathes no more."*
+> *"A true master of combat adapts to every situation. When you think you've won, that's when the real fight begins. I've seen creatures transform three [[Time]]s in a single battle, each form more dangerous than the last. Never assume victory until the threat breathes no more."*
 > — [[Combat Master Surge Battlewright]], Veteran of the Convergence Wars
 
 ## 🔧 Deep Evaluation Improvements
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ Unlike traditional boss fights, multi-phase encounters involve fundamental chang
 
 The system emphasizes narrative progression, where each phase tells part of the story while escalating the mechanical challenge. Phase transitions often coincide with major story revelations, environmental changes, or the activation of powerful abilities that reshape the entire encounter. This creates memorable moments where players must quickly adapt their tactics while processing new narrative information.
 
-Recent convergence events have created particularly complex multi-phase encounters as creatures and beings from both realms combine their abilities, adapt to new environments, or undergo reality-warping transformations during combat. These encounters often serve as climactic moments that define entire story arcs.
+Recent convergence events have created particularly complex multi-phase encounters as creatures and beings from both realms combine their abilities, adapt to new environments, or undergo reality-warping [[Transformations]] during combat. These encounters often serve as climactic moments that define entire story arcs.
 
 ### Phase Structure Framework
 
@@ -181,12 +181,12 @@ Recent convergence events have created particularly complex multi-phase encounte
 **Resource Recovery Opportunities**:
 - **Phase Transition Rest**: Brief rest during major transitions
 - **Environmental Healing**: Health fountains, crystal healing zones
-- **Narrative Restoration**: Ally intervention, divine blessing
+- **Narrative Restoration**: Ally intervention, divine [[Bless]]ing
 - **Tactical Recovery**: Using transition time for healing/buffing
 
 ### The Classic Escalation Pattern
 
-**Phase 1** - Introduction (100%-75% health):
+**Phase 1** - [[Introduction]] (100%-75% health):
 - Standard abilities and tactics
 - Establishes baseline challenge level
 - Allows party to understand basic mechanics
@@ -212,7 +212,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 
 **Example: Corrupted Crystal Guardian**
 - **Phase 1**: Standard crystal construct attacks
-- **Phase 2**: Begins firing crystal shards, creates crystal barriers
+- **Phase 2**: Begins firing [[Crystal Shard]]s, creates crystal barriers
 - **Phase 3**: Transforms into larger form, gains AOE abilities
 - **Phase 4**: Crystallizes environment, gains legendary actions
 
@@ -274,10 +274,10 @@ Recent convergence events have created particularly complex multi-phase encounte
 - Must defeat creature before environment becomes lethal
 - Escape may become primary objective
 
-**Example: Deep Ocean Leviathan**
-- **Phase 1**: Standard underwater combat
+**Example: Deep Ocean [[Leviathan]]**
+- **Phase 1**: Standard [[Underwater Combat]]
 - **Phase 2**: Pressure changes, water currents
-- **Phase 3**: Whirlpools, crushing depths, limited visibility
+- **Phase 3**: Whirlpools, [[Crushing Depths]], limited visibility
 - **Phase 4**: Underwater cave system collapsing
 
 ### The Recursive Pattern
@@ -312,54 +312,54 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **Phase 3**: Adapts tactics based on ongoing combat
 - **Phase 4**: Must restore champion's true memories to end cycle
 
-### Aquabyssos Multi-Phase Encounters
+### [[Aquabyssos]] Multi-Phase Encounters
 
 **Pressure-Based Phase Transitions**:
-- **Depth Changes**: Moving to different pressure zones
+- **Depth Changes**: Moving to different [[Pressure Zones]]
 - **Pressure Implosion**: Dramatic pressure drops trigger transformation
-- **Adaptation Stress**: Pressure adaptation systems failing or evolving
-- **Current Manipulation**: Using water currents to change battlefield
+- **Adaptation Stress**: [[Pressure Adaptation System]]s failing or evolving
+- **[[Current Manipulation]]**: Using water currents to change battlefield
 
 **Aquabyssos Phase Examples**:
 
-**The Deep Mother's Herald**:
+**The [[Deep Mother]]'s Herald**:
 - **Phase 1** (Surface Depth): Humanoid form with minor aberrant abilities
 - **Phase 2** (Mid Depth): Partial transformation, tentacles and mind effects
 - **Phase 3** (Deep Waters): Full aberration form, reality-warping abilities
 - **Phase 4** (Abyssal Trench): Connected to Deep Mother, cosmic horror powers
 
-**Corrupted Memory Merchant**:
-- **Phase 1**: Social encounter, memory trading and manipulation
+**Corrupted Memory [[Merchant]]**:
+- **Phase 1**: Social encounter, [[Memory Trading]] and manipulation
 - **Phase 2**: Psychic combat using stolen memories as weapons
 - **Phase 3**: Physical transformation powered by consumed memories
 - **Phase 4**: Memory storm engulfs battlefield, reality becomes unreliable
 
 **Pressure Titan**:
 - **Phase 1**: Standard giant combat with pressure-based attacks
-- **Phase 2**: Creates pressure differentials, battlefield becomes hazardous
+- **Phase 2**: Creates [[Pressure Differential]]s, battlefield becomes hazardous
 - **Phase 3**: Implodes into compact form, gains speed and intensity
 - **Phase 4**: Pressure explosion threatens entire area, must be contained
 
-### Aethermoor Multi-Phase Encounters
+### [[Aethermoor]] Multi-Phase Encounters
 
 **Crystal-Based Phase Transitions**:
 - **Crystal Resoce**: Harmonic frequencies trigger transformations
-- **Corruption Spread**: Crystal corruption advancing through phases
+- **Corruption Spread**: [[Crystal Corruption]] advancing through phases
 - **Reality Crystallization**: Environment becomes crystalline
 - **Shard Multiplication**: Boss splits into multiple crystal fragments
 
 **Aethermoor Phase Examples**:
 
-**Crystal-Corrupted Sky Knight**:
-- **Phase 1**: Aerial combat on flying mount with standard tactics
+**Crystal-Corrupted Sky [[Knight]]**:
+- **Phase 1**: [[Aerial Combat]] on flying mount with standard tactics
 - **Phase 2**: Crystal corruption spreads, mount becomes crystalline
 - **Phase 3**: Knight and mount fuse into crystal hybrid creature
-- **Phase 4**: Crystal network spreads across battlefield, environmental control
+- **Phase 4**: [[Crystal Network]] spreads across battlefield, environmental control
 
 **Shattered Reality Noble**:
 - **Phase 1**: Political intrigue and social maneuvering
 - **Phase 2**: Reality tears appear, dimension-hopping combat
-- **Phase 3**: Multiple versions from parallel realities join fight
+- **Phase 3**: Multiple versions from [[Parallel Realities]] join fight
 - **Phase 4**: Reality collapse threatens to erase everyone
 
 **Wind Storm Elemental**:
@@ -382,7 +382,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **Phase 1**: Alternates between Aquabyssos and Aethermoor forms
 - **Phase 2**: Exists in both states simultaneously, double actions
 - **Phase 3**: Creates merged reality bubble, new physics apply
-- **Phase 4**: Threatens to permanently merge realities at this location
+- **Phase 4**: Threatens to permanently merge realities at this [[location]]
 
 **Convergence Echo**:
 - **Phase 1**: Battle echoes from both realms' histories play out
@@ -392,8 +392,8 @@ Recent convergence events have created particularly complex multi-phase encounte
 
 **Reality Warden**:
 - **Phase 1**: Protects convergence zone with standard abilities
-- **Phase 2**: Uses reality distortions as weapons and defenses
-- **Phase 3**: Begins uncontrolled reality manipulation
+- **Phase 2**: Uses [[Reality Distortion]]s as weapons and defenses
+- **Phase 3**: Begins uncontrolled [[Reality Manipulation]]
 - **Phase 4**: Must be stopped before reality becomes permanently unstable
 
 ### Dynamic Phase Triggers
@@ -404,7 +404,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - May allow skipping phases or accessing secret phases
 - Rewards players for understanding encounter mechanics
 
-**Branching Phase Paths**:
+**Branching Phase [[path]]s**:
 - Different player choices lead to different phase sequences
 - Multiple possible climax phases
 - Increases encounter replayability
@@ -427,7 +427,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 **Reverse Escalation**:
 - Boss becomes weaker in some phases
 - Creates opportunities for recovery and repositioning
-- May represent exhaustion, injury, or tactical disadvantage
+- May represent [[Exhaustion]], injury, or tactical [[Disadvantage]]
 - Allows for ebb and flow of challenge level
 
 **Phase Regression**:
@@ -439,7 +439,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 ### Cooperative Phase Mechanics
 
 **Party Split Phases**:
-- Different party members face different aspects of boss
+- Different [[Party Members]] face different aspects of boss
 - Requires coordination across multiple sub-encounters
 - Tests party communication and tactical planning
 - Can simulate divide-and-conquer tactics
@@ -626,7 +626,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 
 **Phase 1 Environment** - Familiar Territory:
 - Standard terrain types party recognizes
-- Minimal environmental hazards
+- Minimal [[Environmental Hazards]]
 - Clear positioning and movement options
 - Boss abilities primary focus
 
@@ -678,7 +678,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **Phase 3**: Platform breaking apart, jumping between fragments
 - **Phase 4**: Free-fall combat, must resolve before hitting ground
 
-**Crystal Resoce Chamber**:
+**Crystal [[Resoce Chamber]]**:
 - **Phase 1**: Minor crystal resoce, background effects
 - **Phase 2**: Harmonic frequencies affect spells and abilities
 - **Phase 3**: Resoce becomes weaponized, damage from sound
@@ -787,20 +787,20 @@ Recent convergence events have created particularly complex multi-phase encounte
 - Are resource demands reasonable for party level?
 
 **Step 4: Test and Refine**:
-- Run encounter with test groups if possible
+- Run encounter with test [[Groups]] if possible
 - Adjust timing and difficulty based on actual play
 - Ensure narrative and mechanical elements integrate smoothly
 - Prepare contingency plans for unexpected player actions
 
 ### Specific Boss Examples
 
-**The Tide Turner (Legendary Artifact Boss)**:
+**The [[Tide Turner]] (Legendary Artifact Boss)**:
 - **Phase 1**: Wielder uses artifact's basic powers
 - **Phase 2**: Artifact begins controlling wielder
 - **Phase 3**: Artifact and wielder fully merged
 - **Phase 4**: Artifact seeks new host among party
 
-**The Memory Thief (Social/Combat Hybrid)**:
+**[[The [[Memory Thief]]]] (Social/Combat Hybrid)**:
 - **Phase 1**: Social encounter with hidden memory theft
 - **Phase 2**: Memory-based attacks using stolen experiences
 - **Phase 3**: Physical combat with memory constructs
@@ -850,11 +850,11 @@ Multi Phase Boss Fights is a undersea element of the setting, known for biolumin
 
 Legends speak of Multi Phase Boss Fights as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Multi Phase Boss Fights.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

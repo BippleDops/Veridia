@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Evoker
-*[[wizard xphb|Wizard]]: Wizard Subclass*  
+*[[Wizard Xphb School of Necromancy]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 174. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -89,9 +89,9 @@ Whenever you cast a Wizard spell from the Evocation school, you can add your Int
 
 You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long rest xphb|Long Rest]], you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[resistance xphb|Resistance]] and [[immunity xphb|Immunity]].
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long-rest-xphb]], you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[boon-of-energy-resistance-xphb (feats)]] and [[immunity-xphb (variant-rules)]].
 
-Each time you use this feature again before finishing a [[long rest xphb|Long Rest]], the Necrotic damage per spell level increases by `d12`.
+Each time you use this feature again before finishing a [[long-rest-xphb]], the Necrotic damage per spell level increases by `d12`.
 
 ## 🔧 Deep Evaluation Improvements
 

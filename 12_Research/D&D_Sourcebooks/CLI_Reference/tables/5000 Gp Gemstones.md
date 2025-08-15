@@ -40,10 +40,10 @@ world: Both
 
 | dice: d4 | Stone Description |
 |----------|-------------------|
-| 1 | [[black sapphire xdmg|Black sapphire]] (translucent lustrous black with glowing highlights) |
-| 2 | [[diamond xdmg|Diamond]] (transparent blue-white, canary, pink, brown, or blue) |
-| 3 | [[jacinth xdmg|Jacinth]] (transparent fiery orange) |
-| 4 | [[ruby xdmg|Ruby]] (transparent clear red to deep crimson) |
+| 1 | [[black-sapphire-xdmg (items)]] (translucent lustrous black with glowing highlights) |
+| 2 | [[elemental-gem-yellow-diamond-xdmg (items)]] (transparent blue-white, canary, pink, brown, or blue) |
+| 3 | [[Jacinth Xdmg]] (transparent fiery orange) |
+| 4 | [[Star Ruby Xdmg]] (transparent clear red to deep crimson) |
 ^5000-gp-gemstones
 
 ## 🔧 Deep Evaluation Improvements

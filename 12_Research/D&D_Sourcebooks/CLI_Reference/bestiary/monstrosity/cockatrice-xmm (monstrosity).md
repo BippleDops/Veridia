@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cockatrice-xmm-cockatrice-xmm.svg)
 
-# [[cockatrice xmm|Cockatrice]]
+# [[cockatrice-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 75. Available in the SRD and the Free Rules (2024)*  
 
 Cockatrices often try to claim eye-catching structures—such as ruins and secluded farms—as roosts.

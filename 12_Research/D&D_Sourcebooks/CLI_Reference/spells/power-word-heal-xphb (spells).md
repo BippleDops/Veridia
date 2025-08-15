@@ -43,9 +43,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A wave of healing energy washes over one creature you can see within range. The target regains all its [[hit-points-xphb|Hit Points]]. If the creature has the [[conditions#Charmed|Charmed]], [[conditions#frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[conditions#prone|Prone]] condition, it can use its [[reaction xphb|Reaction]] to stand up.
+A wave of healing energy washes over one creature you can see within range. The target regains all its [[hit-points-xphb (variant-rules)]]. If the creature has the [[conditions#Charmed|Charmed]], [[conditions#frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[conditions#prone|Prone]] condition, it can use its [[reaction-xphb (variant-rules)]] to stand up.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the SRD and the Free Rules (2024)*
 
@@ -87,3 +87,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[power-word-heal-xphb (spells)-phb]]` in CLI_Reference/spells/

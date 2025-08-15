@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Parent**: [[Portrait NPC Captain Scarlet Torrent V2 Captain Scarlet Torrent.svg]]
+- **Parent**: [[Scarlet Torrent]]
 - **Ally**: [[Session 4]]
-- **Blackmailer**: [[Quest   Breaking the Scales]]
+- **Blackmailer**: [[Quest - Breaking the Scales]]
 - **Blackmailer**: [[High King Aurelius Skyborn]]
-- **Creditor**: [[Quest   The Prophecy Fulfilled]]
+- **Creditor**: [[Quest - The Prophecy Fulfilled]]
 
 ## Plot Hooks
 

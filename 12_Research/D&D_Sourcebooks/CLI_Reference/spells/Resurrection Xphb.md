@@ -46,13 +46,13 @@ world: Both
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
 
-The creature returns to life with all its [[hit-points-xphb|Hit Points]]. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
+The creature returns to life with all its [[hit-points-xphb (variant-rules)]]. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to [[d20-test-xphb|D20 Tests]]. Every time the target finishes a [[long-rest-xphb|Long Rest]], the penalty is reduced by 1 until it becomes 0.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to [[d20-test-xphb (variant-rules)]]. Every time the target finishes a [[long-rest-xphb|Long Rest]], the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [[long-rest-xphb|Long Rest]], you can't cast spells again, and you have [[disadvantage xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]].
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [[long-rest-xphb|Long Rest]], you can't cast spells again, and you have [[Advantage Xphb]] on [[d20-test-xphb (variant-rules)]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 312. Available in the SRD and the Free Rules (2024)*
 

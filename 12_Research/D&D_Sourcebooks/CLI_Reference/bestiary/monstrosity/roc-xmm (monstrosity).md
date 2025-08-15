@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-roc-xmm-roc-xmm.svg)
 
-# [[roc xmm|Roc]]
+# [[Roc Xmm]]
 *Source: Monster Manual (2024) p. 261. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -122,7 +122,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
     "name": "Talons"
 "bonus_actions":
   - "desc": "If the roc has a creature [[conditions#Grappled|Grappled]],\
-      \ the roc flies up to half its [[fly speed xphb|Fly Speed]]\
+      \ the roc flies up to half its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and drops that creature."
     "name": "Swoop (Recharge 5-6)"

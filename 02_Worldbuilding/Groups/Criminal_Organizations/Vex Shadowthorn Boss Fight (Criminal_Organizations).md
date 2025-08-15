@@ -154,7 +154,7 @@ Offers protection services for valuable Consortium operations and facilities. Re
 **Relationship**: Equipment Supplier
 Collaborates on development of specialized combat equipment and crystal-enhanced gear. Values their innovation and craftsmanship.
 
-#### **[[Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire (D&D_References)]]**
 **Relationship**: Mutual Respect
 Occasionally contracts for operations in aquatic environments. Appreciates their combat traditions and honor-based culture.
 
@@ -231,7 +231,7 @@ Clients who trust the organization with their most serious problems deserve comp
 - [[The Crystal Throne]]
 - [[Silverscale Consortium]]
 - [[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[Ancient Mer Folk Empire]]
+- [[Ancient Mer-Folk Empire (D&D_References)]]
 
 **Key Locations**:
 - [[The Battle Forge Arena]]
@@ -247,7 +247,7 @@ Clients who trust the organization with their most serious problems deserve comp
 
 **Important Concepts**:
 - [[The Shadowthorn Combat System]]
-- [[Crystal Enhanced Combat Techniques]]
+- [[Crystal-Enhanced Combat Techniques]]
 - [[Professional Monster Hunting]]
 - [[Elite Mercenary Operations]]
 - [[Advanced Combat Training Methods]]

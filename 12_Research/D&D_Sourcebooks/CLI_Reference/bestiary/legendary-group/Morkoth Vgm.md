@@ -50,7 +50,7 @@ _Source: Volo's Guide to Monsters_
 On initiative count 20 (losing initiative ties), the morkoth takes a lair action to cause one of the effects described below:
 
 - The morkoth uses its Hypnosis action, originating at a point within 120 feet of itself. It doesn't need to see the effect's point of origin.  
-- The morkoth casts [[darkness xphb|darkness]], [[dispel magic xphb|dispel magic]], or [[misty step xphb|misty step]], using Intelligence as its spellcasting ability and without expending a spell slot.  
+- The morkoth casts [[darkness-xphb (variant-rules)]], [[dispel-magic-xphb (spells)]], or [[Misty Step Xphb]], using Intelligence as its spellcasting ability and without expending a spell slot.  
 
 ## Regional effects
 

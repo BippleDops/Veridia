@@ -1,4 +1,5 @@
 ---
+
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -9,6 +10,7 @@ tags:
 title: Aquabyssos Session 01
 type: session
 updated: 2025-08-14
+status: active
 ---
 
 # Aquabyssos Session 01
@@ -49,3 +51,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

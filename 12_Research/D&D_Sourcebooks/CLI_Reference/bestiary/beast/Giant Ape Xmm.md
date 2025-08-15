@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-ape-xmm-giant-ape-xmm.svg)
 
-# [[giant ape xmm|Giant Ape]]
+# [[giant]]
 *Source: Monster Manual (2024) p. 354. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -57,7 +57,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Ape (XMM)"
@@ -92,7 +92,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Fist"
   - "desc": "The ape hurls a boulder at a point it can see within 90 feet. Dexterity\
-      \ Saving Throw: DC 17, each creature in a 5-foot-radius [[sphere area of effect xphb|Sphere]]\
+      \ Saving Throw: DC 17, each creature in a 5-foot-radius [[Area of Effect Xphb]]\
       \ centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target\
       \ is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."

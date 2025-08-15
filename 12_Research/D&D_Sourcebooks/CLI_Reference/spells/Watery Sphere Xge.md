@@ -58,7 +58,7 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature [[conditions#Restrained|restrained]] by the sphere is knocked [[conditions#prone|prone]] in the space where it falls. The water then vanishes.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 170*
 

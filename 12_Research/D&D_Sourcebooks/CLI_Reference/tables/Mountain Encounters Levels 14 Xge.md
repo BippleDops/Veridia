@@ -40,50 +40,50 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | 1 [[eagle xmm|eagle]] |
+| 01-02 | 1 [[Eagle Xmm]] |
 | 03-05 | `d3` [[swarm-of-bats-xmm|swarms of bats]] |
-| 06-08 | `d6` [[goat xmm|goats]] |
-| 09-11 | `1d10 + 5` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
-| 12-14 | `1d6 + 3` [[pteranodon xmm|pteranodons]] |
+| 06-08 | `d6` [[Goat Xmm]] |
+| 09-11 | `1d10 + 5` [[Bestiary]] |
+| 12-14 | `1d6 + 3` [[pteranodon-xmm (beast)]] |
 | 15-17 | `1d8 + 1` [[winged-kobold-xmm|winged kobolds]] |
-| 18-20 | 1 [[lion xmm|lion]] |
+| 18-20 | 1 [[lion-xmm (beast)]] |
 | 21-24 | Stairs chiseled into the side of the mountain that climb `3d20 + 40` feet before ending abruptly |
-| 25-27 | `2d10` [[stirge xmm|stirges]] |
+| 25-27 | `2d10` [[Stirge Xmm]] |
 | 28-30 | `2d4` [[aarakocra-skirmisher-xmm|aarakocra]] |
-| 31-33 | `2d6` dwarf soldiers ([[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]]) with `d6` [[mule xmm|mules]] laden with iron ore |
+| 31-33 | `2d6` dwarf soldiers ([[Bestiary]]) with `d6` [[mule-xmm (beast)]] laden with iron ore |
 | 34-36 | 1 [[giant-eagle-xmm|giant eagle]] |
 | 37-38 | A small shrine dedicated to a lawful neutral god, perched on a stone outcropping |
 | 39-41 | `2d8 + 1` [[blood-hawk-xmm|blood hawks]] |
 | 42-44 | 1 [[giant-goat-xmm|giant goat]] |
 | 45-47 | `3d4` [[kobold-warrior-xmm|kobolds]] |
 | 48-50 | 1 [[ogrillon-ogre-xmm|half-ogre]] |
-| 51-53 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserker]] |
-| 54-55 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|orog]] |
+| 51-53 | 1 [[Bestiary]] |
+| 54-55 | 1 [[Bestiary]] |
 | 56 | 1 [[hell-hound-xmm|hell hound]] |
-| 57 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] |
-| 58-59 | 1 [[peryton xmm|peryton]] |
-| 60-61 | `d2` [[hippogriff xmm|hippogriffs]] |
-| 62 | 1 [[manticore xmm|manticore]] |
-| 63-64 | `1d6 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
+| 57 | 1 [[Bestiary]] |
+| 58-59 | 1 [[peryton-xmm (monstrosity)]] |
+| 60-61 | `d2` [[hippogriff-xmm (monstrosity)]] |
+| 62 | 1 [[Manticore Xmm]] |
+| 63-64 | `1d6 + 2` [[Bestiary]] |
 | 65-67 | Enormous footprints left by a giant, which head into the mountain peaks |
-| 68-73 | `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
+| 68-73 | `2d4` [[Bestiary]] |
 | 74-75 | 1 [[giant-elk-xmm|giant elk]] |
-| 76-77 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] |
-| 78-79 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] |
-| 80 | `d4` [[harpy xmm|harpies]] |
-| 81 | 1 [[ogre xmm|ogre]] |
-| 82 | 1 [[griffon xmm|griffon]] |
-| 83 | 1 [[basilisk xmm|basilisk]] |
+| 76-77 | 1 [[Bestiary]] |
+| 78-79 | 1 [[Bestiary]] |
+| 80 | `d4` [[harpy-xmm (monstrosity)]] |
+| 81 | 1 [[Ogre Xmm]] |
+| 82 | 1 [[griffon-xmm (monstrosity)]] |
+| 83 | 1 [[Basilisk Xmm]] |
 | 84-85 | 1 [[saber-toothed-tiger-xmm|saber-toothed tiger]] |
 | 86-90 | A sparkling stream of water spilling from a crevice |
-| 91 | `d2` [[ettin xmm|ettins]] |
+| 91 | `d2` [[ettin-xmm (giant)]] |
 | 92 | 1 [[cyclops-sentry-xmm|cyclops]] |
-| 93 | 1 [[troll xmm|troll]] |
+| 93 | 1 [[Troll Xmm]] |
 | 94 | 1 [[galeb-duhr-xmm|galeb duhr]] |
 | 95 | 1 [[air-elemental-xmm|air elemental]] |
-| 96 | 1 [[bulette xmm|bulette]] |
-| 97 | 1 [[chimera xmm|chimera]] |
-| 98 | 1 [[wyvern xmm|wyvern]] |
+| 96 | 1 [[bulette-xmm (monstrosity)]] |
+| 97 | 1 [[Chimera Xmm]] |
+| 98 | 1 [[Wyvern Xmm]] |
 | 99 | 1 [[stone-giant-xmm|stone giant]] |
 | 00 | 1 [[frost-giant-xmm|frost giant]] |
 ^mountain-encounters-levels-14
@@ -123,3 +123,38 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

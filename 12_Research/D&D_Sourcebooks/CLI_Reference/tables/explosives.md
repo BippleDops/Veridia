@@ -36,17 +36,17 @@ world: Both
 
 | Renaissance Item | Cost | Weight |
 |------------------|------|--------|
-| [[bomb xdmg|Bomb]] | 150 gp | 1 lb. |
-| [[gunpowder keg xdmg|Gunpowder, keg]] | 250 gp | 20 lb. |
-| [[gunpowder powder horn xdmg|Gunpowder, powder horn]] | 35 gp | 2 lb. |
+| [[Bomb Xdmg]] | 150 gp | 1 lb. |
+| [[gunpowder-keg-xdmg (items)]] | 250 gp | 20 lb. |
+| [[gunpowder-powder-horn-xdmg (items)]] | 35 gp | 2 lb. |
 ^explosives
 
 | Modern Item | Cost | Weight |
 |-------------|------|--------|
-| [[dynamite stick xdmg|Dynamite (stick)]] | — | 1 lb. |
-| [[fragmentation grenade xdmg|Grenade, fragmentation]] | — | 1 lb. |
-| [[smoke grenade xdmg|Grenade, smoke]] | — | 2 lb. |
-| [[grenade launcher xdmg|Grenade launcher]] | — | 7 lb. |
+| [[dynamite-stick-xdmg (items)]] | — | 1 lb. |
+| [[fragmentation-grenade-xdmg (items)]] | — | 1 lb. |
+| [[smoke-grenade-xdmg (items)]] | — | 2 lb. |
+| [[grenade-launcher-xdmg (items)]] | — | 7 lb. |
 ^modern-item-cost-weight
 
 ## 🔧 Deep Evaluation Improvements

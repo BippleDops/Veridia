@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-star-spawn-xphb-aberrant-spirit-star-spawn-xphb.svg)
 
-# [[aberrant spirit star spawn xphb|Aberrant Spirit (Star Spawn)]]
+# [[aberrant-spirit-star-spawn-xphb (aberration)]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock

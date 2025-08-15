@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
 
-# [[ochre jelly xmm|Ochre Jelly]]
+# [[Ochre Jelly Xmm]]
 *Source: Monster Manual (2024) p. 230. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -117,12 +117,12 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit points xphb|Hit Points]],\
-      \ it becomes [[bloodied xphb|Bloodied]] or\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit-points-xphb (variant-rules)]],\
+      \ it becomes [[bloodied-xphb (variant-rules)]] or\
       \ is subjected to Lightning or Slashing damage. _Response:_ The jelly splits\
       \ into two new Ochre Jellies. Each new jelly is one size smaller than the original\
-      \ jelly and acts on its [[initiative xphb|Initiative]].\
-      \ The original jelly's [[hit points xphb|Hit Points]]\
+      \ jelly and acts on its [[Initiative Xphb]].\
+      \ The original jelly's [[hit-points-xphb (variant-rules)]]\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":

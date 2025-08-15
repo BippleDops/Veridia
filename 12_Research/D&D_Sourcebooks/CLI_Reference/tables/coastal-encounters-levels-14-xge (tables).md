@@ -39,44 +39,44 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [[pseudodragon xmm|pseudodragon]] |
-| 02-05 | `2d8` [[crab xmm|crabs]] |
-| 06-10 | `2d6` fishers ([[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoners]]) |
+| 01 | 1 [[pseudodragon-xmm (dragon)]] |
+| 02-05 | `2d8` [[giant-crab-xmm (beast)]] |
+| 06-10 | `2d6` fishers ([[Bestiary]]) |
 | 11 | `d3` [[venomous-snake-xmm|poisonous snakes]] |
-| 12-13 | `d6` [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] protecting a standard [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|noble]] |
-| 14-15 | `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
+| 12-13 | `d6` [[Bestiary]] protecting a standard [[Bestiary]] |
+| 14-15 | `2d4` [[Bestiary]] |
 | 16-18 | `2d10` [[merfolk-skirmisher-xmm|merfolk]] |
 | 19-20 | `1d6 + 2` [[sahuagin-warrior-xmm|sahuagin]] |
-| 21-25 | `d4` [[ghoul xmm|ghouls]] feeding on corpses aboard the wreckage of a merchant ship. A search uncovers `2d6` bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
+| 21-25 | `d4` [[ghoul-xmm (undead)]] feeding on corpses aboard the wreckage of a merchant ship. A search uncovers `2d6` bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
 | 26-27 | `d4` [[winged-kobold-xmm|winged kobolds]] with `1d6 + 1` [[kobold-warrior-xmm|kobolds]] |
-| 28-29 | `2d6` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
+| 28-29 | `2d6` [[Bestiary]] |
 | 30-31 | `3d4` [[kobold-warrior-xmm|kobolds]] |
 | 32-33 | `2d4 + 5` [[blood-hawk-xmm|blood hawks]] |
-| 34-35 | `1d8 + 1` [[pteranodon xmm|pteranodons]] |
+| 34-35 | `1d8 + 1` [[pteranodon-xmm (beast)]] |
 | 36-40 | A few dozen baby turtles struggling to make their way to the sea |
 | 41-42 | `1d6 + 2` [[giant-lizard-xmm|giant lizards]] |
 | 43-44 | `1d6 + 4` [[giant-crab-xmm|giant crabs]] |
-| 45-46 | `2d4` [[stirge xmm|stirges]] |
-| 47-48 | `2d6 + 3` [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
+| 45-46 | `2d4` [[Stirge Xmm]] |
+| 47-48 | `2d6 + 3` [[Bestiary]] |
 | 49-53 | `2d4` [[sahuagin-warrior-xmm|sahuagin]] |
-| 54-55 | `1d6 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
+| 54-55 | `1d6 + 2` [[Bestiary]] |
 | 56-60 | 1 [[sea-hag-xmm|sea hag]] |
 | 61-65 | A momentary formation in the waves that looks like an enormous humanoid face |
-| 66-70 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] |
-| 71-75 | `d4` [[harpy xmm|harpies]] |
-| 76-80 | A lone hermit ([[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]) sitting on the beach contemplating the meaning of the multiverse |
-| 81 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
+| 66-70 | 1 [[Bestiary]] |
+| 71-75 | `d4` [[harpy-xmm (monstrosity)]] |
+| 76-80 | A lone hermit ([[Bestiary]]) sitting on the beach contemplating the meaning of the multiverse |
+| 81 | `d4` [[Bestiary]] |
 | 82 | `d6` [[giant-eagle-xmm|giant eagles]] |
 | 83 | `2d4` [[giant-toad-xmm|giant toads]] |
-| 84 | `d4` [[ogre xmm|ogres]] or `d4` [[merrow xmm|merrow]] |
+| 84 | `d4` [[Ogre Xmm]] or `d4` [[merrow-xmm (monstrosity)]] |
 | 85 | `3d6` [[sahuagin-warrior-xmm|sahuagin]] |
-| 86 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
-| 87 | `d2` [[plesiosaurus xmm|plesiosauruses]] |
-| 88 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with `2d6` [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
-| 89 | `d3` [[manticore xmm|manticores]] |
-| 90 | 1 [[banshee xmm|banshee]] |
-| 91-92 | `1d4 + 3` [[griffon xmm|griffons]] |
-| 93-94 | 1 [[sahuagin-priest-xmm|sahuagin priestess]] with `d3` [[merrow xmm|merrow]] and `2d6` [[sahuagin-warrior-xmm|sahuagin]] |
+| 86 | `d4` [[Bestiary]] |
+| 87 | `d2` [[plesiosaurus-xmm (beast)]] |
+| 88 | 1 [[Bestiary]] with `2d6` [[Bestiary]] |
+| 89 | `d3` [[Manticore Xmm]] |
+| 90 | 1 [[Banshee Xmm]] |
+| 91-92 | `1d4 + 3` [[griffon-xmm (monstrosity)]] |
+| 93-94 | 1 [[Sahuagin Priest Xmm]] with `d3` [[merrow-xmm (monstrosity)]] and `2d6` [[sahuagin-warrior-xmm|sahuagin]] |
 | 95-96 | 1 [[sahuagin-baron-xmm|sahuagin baron]] |
 | 97-98 | 1 [[water-elemental-xmm|water elemental]] |
 | 99 | 1 [[cyclops-sentry-xmm|cyclops]] |
@@ -127,3 +127,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

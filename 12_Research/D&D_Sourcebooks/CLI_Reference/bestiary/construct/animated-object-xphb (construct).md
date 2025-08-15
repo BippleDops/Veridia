@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-object-xphb-animated-object-xphb.svg)
 
-# [[animated object xphb|Animated Object]]
+# [[animated-object-xphb (construct)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

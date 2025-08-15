@@ -38,10 +38,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
 
-# [[awakened zurkhwood oota|Awakened Zurkhwood]]
+# [[awakened-zurkhwood-oota (plant)]]
 *Source: Out of the Abyss p. 230*  
 
-This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[awaken xphb|awaken]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
+This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[Awaken Xphb]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
 
 An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications:
 

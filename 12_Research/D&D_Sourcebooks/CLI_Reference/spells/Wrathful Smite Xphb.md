@@ -47,7 +47,7 @@ The target takes an extra `d6` Necrotic damage from the attack, and it must succ
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 343*
 

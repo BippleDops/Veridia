@@ -62,11 +62,11 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[battleaxe xphb|battleaxe]], [[handaxe xphb|handaxe]], [[light hammer xphb|light hammer]], and [[warhammer xphb|warhammer]].
+You have proficiency with the [[Battleaxe Xphb]], [[handaxe-xphb (items)]], [[hammer]], and [[warhammer-xphb (items)]].
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[smiths tools xphb|Smith's tools]], [[brewers supplies xphb|brewer's supplies]], or [[masons tools xphb|mason's tools]].
+You gain proficiency with the artisan's tools of your choice: [[smiths-tools-xphb (items)]], [[Brewers Supplies Xphb]], or [[Masons Tools Xphb]].
 
 ### Stonecunning
 
@@ -78,7 +78,7 @@ You can speak, read, and write Common, Dwarvish, and Undercommon.
 
 ### Duergar Magic
 
-When you reach 3rd level, you can cast the [[enlarge reduce xphb|Enlarge/Reduce]] spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [[invisibility xphb|Invisibility]] spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+When you reach 3rd level, you can cast the [[Enlarge Reduce Xphb]] spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [[see-invisibility-xphb (spells)]] spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 ### Sunlight Sensitivity
 

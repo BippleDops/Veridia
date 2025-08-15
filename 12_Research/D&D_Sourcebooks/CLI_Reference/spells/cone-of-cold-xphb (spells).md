@@ -50,11 +50,11 @@ world: Both
 - **Components:** V, S, M (a small crystal or glass cone)
 - **Duration:** Instantaneous
 
-You unleash a blast of cold air. Each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]] originating from you makes a Constitution saving throw, taking `8d8` Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
+You unleash a blast of cold air. Each creature in a 60-foot [[Area of Effect Xphb]] originating from you makes a Constitution saving throw, taking `8d8` Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 253. Available in the SRD and the Free Rules (2024)*
 
@@ -99,3 +99,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[cone-of-cold-xphb (spells)-phb]]` in CLI_Reference/spells/

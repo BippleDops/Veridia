@@ -1,7 +1,7 @@
 ---
 
-title: The Inter Realm Celebration Committee
-type: lore
+title: [[The_Inter-Realm_Celebration_Committee (02_Worldbuilding)]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -81,7 +81,7 @@ The Inter-Realm Celebration Committee can be understood as a multifaceted elemen
 ### Detailed Explanation
 The full nature of The Inter-Realm Celebration Committee involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of The Inter-Realm Celebration Committee trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -92,7 +92,7 @@ Connected to The Inter-Realm Celebration Committee are various other important e
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view The Inter-Realm Celebration Committee through their own cultural lenses:
+Different [[Groups]] view The Inter-Realm Celebration Committee through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -161,7 +161,7 @@ The current state of The Inter-Realm Celebration Committee:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How The Inter-Realm Celebration Committee has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -194,7 +194,7 @@ Ways to incorporate The Inter-Realm Celebration Committee into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -215,7 +215,7 @@ How to adjust for different games:
 Ways The Inter-Realm Celebration Committee might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -234,7 +234,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -257,7 +257,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #the-inter-realm-celebration-committee
+*Tags*: [[#General]] #worldbuilding #the-inter-realm-celebration-committee
 
 ## Cultural Impact
 

@@ -1,6 +1,6 @@
 ---
 title: The Seven Betrayers
-type: Lore
+type: [[Lore]]
 tags:
 - aerial
 - aquatic
@@ -11,7 +11,7 @@ tags:
 - status/complete
 - quest
 - content/lore
-- aethermoor
+- [[Aethermoor]]
 - crystal-enhanced
 - ancient-conspiracy
 - historical-event
@@ -34,13 +34,13 @@ participants:
 - Divine Court
 related_entities:
 - '[[The Great Crystallization]]'
-- '[[The Seven Shards]]'
-- '[[The Crown of Stars]]'
+- '[[The [[Seven Shards]]]]'
+- '[[The [[Crown of Stars]]]]'
 - '[[Aetheron]]'
-- '[[The Shattering of the Crown]]'
+- '[[[[The Shattering]] of [[The Crown]]]]'
 scale: Continental
 significance: World-Defining
-time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
+[[Time]]_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
 updated: '2025-08-13T12:34:15.931377+00:00'
 world: Aethermoor
 evaluated: '2025-08-14'
@@ -57,12 +57,12 @@ The Seven Betrayers represents a significant element within the campaign world, 
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -83,5 +83,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

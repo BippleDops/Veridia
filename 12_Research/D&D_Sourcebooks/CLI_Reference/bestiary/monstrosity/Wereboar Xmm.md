@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wereboar-xmm-v1-wereboar-xmm.svg)
 
-# [[wereboar xmm|Wereboar]]
+# [[wereboar-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 325. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,8 +96,8 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit points xphb|Hit Points]],\
-      \ it instead becomes a Wereboar under the DM's control and has 10 [[hit points xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb (variant-rules)]],\
+      \ it instead becomes a Wereboar under the DM's control and has 10 [[hit-points-xphb (variant-rules)]].\
       \ Success: The target is immune to this wereboar's curse for 24 hours."
     "name": "Gore (Boar or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit:\

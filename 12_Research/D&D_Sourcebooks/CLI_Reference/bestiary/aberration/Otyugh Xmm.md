@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otyugh-xmm-otyugh-xmm.svg)
 
-# [[otyugh xmm|Otyugh]]
+# [[Otyugh Xmm]]
 *Source: Monster Manual (2024) p. 233. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -106,9 +106,9 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage,\
       \ and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition. Whenever the [[conditions#Poisoned|Poisoned]]\
-      \ target finishes a [[long rest xphb|Long Rest]],\
+      \ target finishes a [[long-rest-xphb]],\
       \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-      \ Failure: The target's [[hit points xphb|Hit Point]]\
+      \ Failure: The target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by 5 (d10) and doesn't return to normal until the [[conditions#Poisoned|Poisoned]]\
       \ condition ends on the target. Success: The [[conditions#Poisoned|Poisoned]]\
       \ condition ends."

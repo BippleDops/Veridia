@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 12 Warlock
 
-The Extra Attack of your [[thirsting blade xphb|Thirsting Blade]] invocation confers two extra attacks rather than one.
+The Extra Attack of your [[Thirsting Blade Xphb]] invocation confers two extra attacks rather than one.
 
 ## 🔧 Deep Evaluation Improvements
 

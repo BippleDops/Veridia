@@ -97,17 +97,17 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
-  - "desc": "The revet regains 10 [[hit points xphb|Hit Points]]\
+  - "desc": "The revet regains 10 [[hit-points-xphb (variant-rules)]]\
       \ at the start of each of its turns. If the revet takes Fire or Radiant damage,\
       \ this trait doesn't function at the start of its next turn. Its body is destroyed\
-      \ only if it starts its turn with 0 [[hit points xphb|Hit Points]]\
+      \ only if it starts its turn with 0 [[hit-points-xphb (variant-rules)]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "If the revet dies, it revives 24 hours later in a different body unless\
-      \ [[dispel evil and good xphb|Dispel Evil and Good]]\
+      \ [[dispel-evil-and-good-xphb (spells)]]\
       \ is cast on its corpse. If it revives, it animates a Humanoid corpse elsewhere\
       \ on the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [[hit points xphb|Hit Points]]."
+      \ block and returns with all its [[hit-points-xphb (variant-rules)]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revet uses Vengeful Glare and makes two Slam attacks."
@@ -126,7 +126,7 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
   - "desc": "The revet curses one creature it can see within 30 feet of itself.\
       \ The revet knows the distance to and direction of the cursed target, even\
       \ if it is on a different plane of existence. The curse ends on the target if\
-      \ the revet uses this [[bonus action xphb|Bonus Action]]\
+      \ the revet uses this [[Action Xphb]]\
       \ on a different creature."
     "name": "Vow of Revenge (1/Day)"
 "source":

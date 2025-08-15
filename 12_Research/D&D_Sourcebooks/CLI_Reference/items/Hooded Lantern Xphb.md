@@ -42,7 +42,7 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 
-A Hooded Lantern burns Oil as fuel to cast [[bright light xphb|Bright Light]] in a 30-foot radius and [[dim light xphb|Dim Light]] for an additional 30 feet. As a [[bonus action xphb|Bonus Action]], you can lower the hood, reducing the light to [[dim light xphb|Dim Light]] in a 5-foot radius, or raise it again.
+A Hooded Lantern burns Oil as fuel to cast [[Light Xphb]] in a 30-foot radius and [[Light Xphb]] for an additional 30 feet. As a [[Action Xphb]], you can lower the hood, reducing the light to [[Light Xphb]] in a 5-foot radius, or raise it again.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

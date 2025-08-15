@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.427315'
 world: Both
 ---
 
-# [[elemental spirit fire xphb|Elemental Spirit (Fire)]]
+# [[elemental]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock

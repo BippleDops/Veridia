@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blink-dog-xmm-blink-dog-xmm.svg)
 
-# [[blink dog xmm|Blink Dog]]
+# [[Link]]
 *Source: Monster Manual (2024) p. 46. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

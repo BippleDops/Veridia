@@ -57,11 +57,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild artisan]]
+- [[guild-artisan (backgrounds)]]
 - [[githzerai-groups-githzerai-group-leader-mtf]]
 - [[guild-artisan-guild-merchant-variant]]
 - [[fiendish-cults-cult-organization-mtf]]
-- [[new organizations]]
+- [[new-organizations (tables)]]
 - [[Border Fortresses]]
 
 ## Related

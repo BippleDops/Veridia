@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
 
-# [[celestial spirit avenger xphb|Celestial Spirit (Avenger)]]
+# [[Celestial Spirit Avenger Xphb]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock

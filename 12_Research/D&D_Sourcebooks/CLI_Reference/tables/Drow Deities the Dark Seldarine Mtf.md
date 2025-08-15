@@ -38,15 +38,15 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[drow eilistraee mtf|Eilistraee]] | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
-| [[drow ghaunadaur mtf|Ghaunadaur]] | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
-| [[drow keptolo mtf|Keptolo]] | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
-| [[drow kiaransalee mtf|Kiaransalee]] | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
-| [[drow malyk mtf|Malyk]] | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
-| [[drow lolth mtf|Lolth]] | CE | Primary god of drow, spiders | Trickery, War | Spider |
-| [[drow selvetarm mtf|Selvetarm]] | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
-| [[drow vhaeraun mtf|Vhaeraun]] | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
-| [[drow zinzerena mtf|Zinzerena]] | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
+| [[Drow Eilistraee Mtf]] | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
+| [[Drow Ghaunadaur Mtf]] | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
+| [[drow-keptolo-mtf (deities)]] | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
+| [[drow-kiaransalee-mtf (deities)]] | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
+| [[Drow Malyk Mtf]] | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
+| [[Drow Lolth Mtf]] | CE | Primary god of drow, spiders | Trickery, War | Spider |
+| [[drow-selvetarm-mtf (deities)]] | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
+| [[Drow Vhaeraun Mtf]] | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
+| [[drow-zinzerena-mtf (deities)]] | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
 ^drow-deities-the-dark-seldarine
 
 *Appears in *Sword Coast Adventurer's Guide*

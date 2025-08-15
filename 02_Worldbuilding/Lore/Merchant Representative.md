@@ -1,9 +1,9 @@
 ---
-title: Merchant Representative
+title: [[Merchant]] Representative
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
@@ -26,3 +26,7 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

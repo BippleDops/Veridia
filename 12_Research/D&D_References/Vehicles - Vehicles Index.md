@@ -57,7 +57,7 @@ SORT file.name ASC
 ```
 
 ### Handouts
-- Player Ship Handouts: [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels|Merger Vessels]]
+- Player Ship Handouts: [[Aquabyssos_Submarines]] • [[04_Resources]] • [[04_Resources]]
 
 LIST FROM "04_Resources/Handouts/Encounters"
 

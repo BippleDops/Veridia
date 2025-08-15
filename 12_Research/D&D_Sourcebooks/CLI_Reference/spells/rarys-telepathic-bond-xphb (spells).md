@@ -49,7 +49,7 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD (as "Telepathic Bond") and the Free Rules (2024)*
 
@@ -102,3 +102,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[rarys-telepathic-bond-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -23,6 +23,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
 
@@ -30,6 +42,13 @@ improvements: 20
 
 # Harbor Master Luna Freedrift
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -88,7 +107,7 @@ improvements: 20
 - Add folk tales and children's stories
 
 ## Overview
-Harbor Master Luna Freedrift controls [[02 Worldbuilding/Places/Freedom Harbor|02 Worldbuilding/Places/Freedom Harbor]], the largest free port in [[Aquabyssos World Overview]]. Officially appointed by the [[Parliament of Echoes]], she secretly serves as a key leader in [[Free Current|02 Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
+Harbor Master Luna Freedrift controls [[Places]], the largest free port in [[Aquabyssos World Overview]]. Officially appointed by the [[Parliament of Echoes]], she secretly serves as a key leader in [[Free Current|02 Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
 
 ## Voice & Mannerisms
 
@@ -104,7 +123,7 @@ Harbor Master Luna Freedrift controls [[02 Worldbuilding/Places/Freedom Harbor|0
 3. **The Smuggling War**: Rival organization threatens to expose her network
 4. **The Deep Trade**: Mysterious cargo arrives from the deepest trenches
 5. **The Surface Alliance**: Opportunity to formalize trade relationships with surface world
-6. **The Marina Mystery**: Investigation into [[Duchess Marina Ever Drowning]]'s shipping activities
+6. **The Marina Mystery**: Investigation into [[Duchess Marina Ever-Drowning (D&D_References)]]'s shipping activities
 7. **The Harbor Siege**: Parliament forces attempt to seize control of Freedom Harbor
 
 ## D&D 5E Stats
@@ -152,7 +171,7 @@ Harbor Master Luna Freedrift controls [[02 Worldbuilding/Places/Freedom Harbor|0
 > [!warning] DM Only
 > - Maintains detailed records of all Parliament corruption and illegal activities
 > - Has agents within Parliament intelligence services providing inside information
-> - Knows about [[Duchess Marina Ever Drowning]]'s mysterious nature and shipping activities
+> - Knows about [[Duchess Marina Ever-Drowning (D&D_References)]]'s mysterious nature and shipping activities
 > - Has evidence of connections between Parliament leaders and shadow corruption
 > - Coordinates with surface world resistance movements opposing Aquabyssos expansion
 > - Maintains secret communication with [[Emperor Thalassius the Wise]]'s loyalists
@@ -274,3 +293,40 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

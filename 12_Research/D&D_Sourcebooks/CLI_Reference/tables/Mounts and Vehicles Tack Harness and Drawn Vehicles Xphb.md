@@ -37,20 +37,20 @@ world: Both
 
 | Item | Weight | Cost |
 |------|--------|------|
-| &emsp;[[carriage xphb|Carriage]] | 600 lb. | 100 GP |
-| &emsp;[[cart xphb|Cart]] | 200 lb. | 15 GP |
-| &emsp;[[chariot xphb|Chariot]] | 100 lb. | 250 GP |
-| &emsp;[[feed per day xphb|Feed per day]] | 10 lb. | 5 CP |
+| &emsp;[[carriage-xphb (items)]] | 600 lb. | 100 GP |
+| &emsp;[[cart-xphb (items)]] | 200 lb. | 15 GP |
+| &emsp;[[Chariot Xphb]] | 100 lb. | 250 GP |
+| &emsp;[[Feed Per Day Xphb]] | 10 lb. | 5 CP |
 | *Saddle* |
-| &emsp;[[exotic saddle xphb|Exotic]] | 40 lb. | 60 GP |
-| &emsp;[[military saddle xphb|Military]] | 30 lb. | 20 GP |
-| &emsp;[[riding saddle xphb|Riding]] | 25 lb. | 10 GP |
-| &emsp;[[sled xphb|Sled]] | 300 lb. | 20 GP |
+| &emsp;[[Exotic Saddle Xphb]] | 40 lb. | 60 GP |
+| &emsp;[[military-saddle-xphb (items)]] | 30 lb. | 20 GP |
+| &emsp;[[riding-saddle-xphb (items)]] | 25 lb. | 10 GP |
+| &emsp;[[sled-xphb (items)]] | 300 lb. | 20 GP |
 | &emsp;Stabling per day | — | 5 SP |
-| &emsp;[[wagon xphb|Wagon]] | 400 lb. | 35 GP |
+| &emsp;[[wagon-xphb (items)]] | 400 lb. | 35 GP |
 ^tack-harness-and-drawn-vehicles
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

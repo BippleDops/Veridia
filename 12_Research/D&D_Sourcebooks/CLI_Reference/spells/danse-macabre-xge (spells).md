@@ -44,7 +44,7 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a [[zombie xmm|zombie]] or a [[skeleton xmm|skeleton]] (the statistics for [[zombie xmm|zombies]] and [[skeleton xmm|skeletons]] are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
+Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a [[Zombie Xmm]] or a [[flaming-skeleton-xmm (undead)]] (the statistics for [[Zombie Xmm]] and [[flaming-skeleton-xmm (undead)]] are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 
 You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
 
@@ -52,7 +52,7 @@ The creatures are under your control until the spell ends, after which they beco
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 153*
 
@@ -90,3 +90,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals a betrayal about a local noble
 - Someone is blackmailing information for power
 - A corpse reveals the truth about the government
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[danse-macabre-xge (spells)-phb]]` in CLI_Reference/spells/

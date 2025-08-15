@@ -19,6 +19,12 @@ Item_Catalog_Complete.md is a notable item with both practical use and historica
 
 ## Description
 **Type**: Wondrous Item
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
 **Rarity**: Uncommon
 **Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 

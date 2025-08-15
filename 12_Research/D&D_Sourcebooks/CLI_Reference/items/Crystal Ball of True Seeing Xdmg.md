@@ -42,7 +42,7 @@ world: Both
 
 - **Weight**: 3.0 lbs.
 
-While touching this crystal orb, you can cast [[scrying xphb|Scrying]] (save DC 17) with it. In addition, you have [[senses#Truesight|Truesight]] with a range of 120 feet centered on the spell's sensor.
+While touching this crystal orb, you can cast [[Scrying Xphb]] (save DC 17) with it. In addition, you have [[senses#Truesight|Truesight]] with a range of 120 feet centered on the spell's sensor.
 
 *Source: Dungeon Master's Guide (2024) p. 159. Available in the SRD and the Free Rules (2024)*
 

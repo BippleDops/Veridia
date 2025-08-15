@@ -54,7 +54,7 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge "subclass=XGE;class=XPHB"|Ranger (Horizon Walker)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 332. Available in the SRD and the Free Rules (2024)*
 

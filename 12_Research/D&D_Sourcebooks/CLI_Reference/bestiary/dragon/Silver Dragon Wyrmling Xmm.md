@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-silver-dragon-wyrmling-xmm-silver-dragon-wyrmling-xmm.svg)
 
-# [[silver dragon wyrmling xmm|Silver Dragon Wyrmling]]
+# [[Silver Dragon]]
 *Source: Monster Manual (2024) p. 278. Available in the SRD and the Free Rules (2024)*  
 
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
@@ -110,7 +110,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 18 (4d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\

@@ -96,7 +96,7 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 **Discoveries**:
 - [[The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
-- [[Jasper "Three Eyes" Flint]] is here—as a willing surgeon
+- [[Jasper "Three-Eyes" Flint]] is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours
 
 **Skill Challenge - Stop the Surgery**:
@@ -146,7 +146,7 @@ Special mechanics for Marina confrontation:
 
 ## 🔍 Secrets & Clues
 1. The Surgeon Prime is composed of 12 different shadows
-2. [[Jasper "Three Eyes" Flint]] volunteered to help harvest
+2. [[Jasper "Three-Eyes" Flint]] volunteered to help harvest
 3. Every major NPC has a prototype prepared
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable

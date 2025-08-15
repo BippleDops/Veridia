@@ -1,10 +1,12 @@
 ---
+
 title: Campaign_Overview_1 (01_Adventures)
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Campaign_Overview
@@ -54,42 +56,42 @@ Long ago, the Deep Mother - an entity of pure consciousness and power - was shat
 
 The heroes begin to notice strange phenomena affecting both worlds: memory gaps, crystalline growths, reality distortions, and shadowy infiltrators. They must investigate these mysteries while dealing with seemingly unrelated local threats.
 
-- [[Session 1   Strange Tides Rising]]
-- [[Session 2   The Crystal Fever]]
-- [[Session 3   Memories Lost and Found]]
-- [[Session 4   The Shadow Parliament]]
-- [[Session 5   Storm Warnings]]
-- [[Session 6   The First Fragment]]
-- [[Session 7   Connections Revealed]]
-- [[Session 8   The Deep Mother's Call]]
+- [[Session 1 - Strange Tides Rising]]
+- [[Session 2 - The Crystal Fever]]
+- [[Session 3 - Memories Lost and Found]]
+- [[Session 4]]
+- [[Session 5 - Storm Warnings]]
+- [[Session 6 - The First Fragment]]
+- [[Session 7 - Connections Revealed]]
+- [[The Deep Mother]]
 
 ### Act II: Convergence (Sessions 9-16)
 **"The shards begin to resonate"**
 
 Having discovered the truth about the Seven Shards, the heroes must race to locate them before they can converge. Political intrigue, ancient guardians, and moral dilemmas complicate their quest as they realize each shard's removal has consequences.
 
-- [[Session 9   The Shard Hunters]]
-- [[Session 10   Diplomatic Immunity]]
-- [[Session 11   The Lighthouse Keeper]]
-- [[Session 12   Crystal Court Conspiracy]]
-- [[Session 13   The Void Between]]
-- [[Session 14   Shadow Market]]
-- [[Session 15   Academy Under Siege]]
-- [[Session 16   The Hidden Guardian]]
+- [[Session 9 - The Shard Hunters]]
+- [[Diplomatic Immunity]]
+- [[Lighthouse Keeper]]
+- [[Session 12 - Crystal Court Conspiracy]]
+- [[Session 13 - The Void Between]]
+- [[Session 14 - Shadow Market]]
+- [[Session 15 - Academy Under Siege]]
+- [[Session 16 - The Hidden Guardian]]
 
 ### Act III: Reformation (Sessions 17-24)
 **"The final choice approaches"**
 
 With most shards located, the heroes must decide: destroy them and risk unknown consequences, attempt to control them, or find a way to use their power to permanently separate or unite the worlds. The Deep Mother's influence grows stronger with each gathered shard.
 
-- [[Session 17   The Gathering Storm]]
-- [[Session 18   Queen's Gambit]]
-- [[Session 19   The Shadow War]]
-- [[Session 20   Reality Fractures]]
-- [[Session 21   The Final Guardian]]
-- [[Session 22   Deep Mother Rising]]
-- [[Session 23   The Seven Become One]]
-- [[Session 24   New Horizons]]
+- [[Session 17 - The Gathering Storm]]
+- [[Session 18 - Queen's Gambit]]
+- [[Session 19 - The Shadow War]]
+- [[Session 20 - Reality Fractures]]
+- [[Session 21 - The Final Guardian]]
+- [[Session 22 - Deep Mother Rising]]
+- [[Session 23 - The Seven Become One]]
+- [[Session 24 - New Horizons]]
 
 ### Shard Corruption System
 Each shard's influence creates specific mechanical effects:
@@ -124,8 +126,8 @@ Each shard's influence creates specific mechanical effects:
 - Cost: Humanity loses some free will
 
 ### Character Integration
-- [[Shard Touched Background Options]]
-- [[Cross Realm Ancestry Rules]]
+- [[Shard-Touched Background Options]]
+- [[Cross-Realm Ancestry Rules]]
 - [[Faction Loyalty Mechanics]]
 - [[Deep Mother Resistance Traits]]
 

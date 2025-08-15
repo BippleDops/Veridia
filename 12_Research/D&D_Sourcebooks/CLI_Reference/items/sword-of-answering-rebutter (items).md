@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-rebutter-sword-of-answering-rebutter.svg)
 
 # Sword of Answering (Rebutter)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a neutral good creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a neutral good creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

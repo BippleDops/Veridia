@@ -43,9 +43,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch has [[immunity xphb|Immunity]] to Psychic damage and the [[conditions#Charmed|Charmed]] condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even [[wish xphb|Wish]]—can gather information about the target, observe it remotely, or control its mind.
+Until the spell ends, one willing creature you touch has [[immunity-xphb (variant-rules)]] to Psychic damage and the [[conditions#Charmed|Charmed]] condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even [[wish-xphb (spells)]]—can gather information about the target, observe it remotely, or control its mind.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 298. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

@@ -50,11 +50,11 @@ You conjure a vine that sprouts from a surface in an unoccupied space that you c
 
 Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes `4d8` Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [[conditions#Grappled|Grappled]] condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [[conditions#Grappled|Grappled]] creature (no action required).
 
-As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
+As a [[Action Xphb]] on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 280*
 

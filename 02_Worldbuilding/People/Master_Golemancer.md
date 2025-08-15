@@ -15,6 +15,38 @@ tags: ['npc']
 
 ## Description
 
+## Statistics
+___
+- **Armor Class** 10 (natural armor)
+- **Hit Points** 11 (3d8)
+- **Speed** 30 ft.
+___
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 12 (+1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+___
+- **Skills** Deception +4, Insight +3, Persuasion +4
+- **Senses** passive Perception 11
+- **Languages** Common
+- **Challenge** 1/8 (25 XP)
+- **Proficiency Bonus** +2
+___
+
+### Actions
+**Multiattack.** Makes two melee attacks.
+
+**Attack.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+
+### Reactions
+**Parry.** Adds 2 to AC against one melee attack that would hit.
+
+## Combat Tactics
+- Uses environment to advantage
+- Targets weakest party member first
+- Retreats when below 25% health
+
 ### Physical Appearance
 A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field.
 
@@ -23,6 +55,18 @@ A distinguished individual whose presence commands attention. Their appearance s
 - **Ideals**: Excellence in their craft
 - **Bonds**: Connections to local organizations
 - **Flaws**: To be discovered through interaction
+
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
 
 ## Background
 
@@ -62,6 +106,13 @@ Master_Golemancer has established themselves as a notable figure in their domain
 - Political opponents
 - Business competitors
 
+
+## Motivations
+- **Primary Goal**: Main objective
+- **Secondary Goals**: Supporting aims
+- **Fears**: What they avoid
+- **Desires**: What they seek
+
 ## Current Activities
 
 Currently engaged in professional duties and maintaining their position within the local hierarchy. Available for consultation on matters within their expertise.
@@ -94,9 +145,51 @@ This NPC can serve multiple roles:
 
 ## References
 
-- First mentioned in:   - Golem overhaul: [[Master Golemancer]]...
+- First mentioned in:   - Golem overhaul: [[03_People_Master_Golemancer]]...
 - Related to: Local political structure
 - Connected plots: To be developed
 
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Voice & Mannerisms
+- **Voice**: Tone and speech patterns
+- **Mannerisms**: Unique behaviors
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature
+## Sourcebook Reference
+> Based on **Commoner** (MM p.345) with modifications

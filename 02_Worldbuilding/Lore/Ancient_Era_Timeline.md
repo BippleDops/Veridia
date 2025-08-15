@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+---
+
 # Ancient Era Timeline
 
 ## Overview

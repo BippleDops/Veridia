@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-warrior-xmm-gnoll-warrior-xmm.svg)
 
-# [[gnoll warrior xmm|Gnoll Warrior]]
+# [[Gnoll Warrior Xmm]]
 *Source: Monster Manual (2024) p. 140. Available in the SRD and the Free Rules (2024)*  
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
@@ -99,8 +99,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Bow"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb (variant-rules)]],\
+      \ the gnoll moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Rend attack."
     "name": "Rampage (1/Day)"
 "source":

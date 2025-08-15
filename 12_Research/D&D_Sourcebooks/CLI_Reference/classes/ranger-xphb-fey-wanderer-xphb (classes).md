@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Fey Wanderer
-*[[ranger xphb|Ranger]]: Ranger Subclass*  
+*[[ranger-xphb-monster-slayer-xge (classes)]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 124*  
 
 > [!tldr] Class and Feature Progression
@@ -79,11 +79,11 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[charm person xphb|Charm Person]] |
-| 5th | [[misty step xphb|Misty Step]] |
-| 9th | [[summon fey xphb|Summon Fey]] |
-| 13th | [[dimension door xphb|Dimension Door]] |
-| 17th | [[mislead xphb|Mislead]] |
+| 3rd | [[Charm Person Xphb]] |
+| 5th | [[Misty Step Xphb]] |
+| 9th | [[fey]] |
+| 13th | [[Dimension Door Xphb]] |
+| 17th | [[Mislead Xphb]] |
 ^fey-wanderer-spells
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
@@ -94,7 +94,7 @@ You also possess a fey blessing. Choose it from the Feywild Gifts table or deter
 
 | dice: 1d6 | Gift |
 |-----------|------|
-| 1 | Illusory butterflies flutter around you while you take a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]]. |
+| 1 | Illusory butterflies flutter around you while you take a [[short-rest-xphb]] or [[long-rest-xphb]]. |
 | 2 | Flowers bloom from your hair each dawn. |
 | 3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
 | 4 | Your shadow dances while no one is looking directly at it. |
@@ -110,21 +110,21 @@ You also gain proficiency in one of these skills of your choice: [[skills#Decept
 
 ### Beguiling Twist (Level 7)
 
-The magic of the Feywild guards your mind. You have [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition.
+The magic of the Feywild guards your mind. You have [[Advantage Xphb]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition.
 
-In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition, you can take a [[reaction xphb|Reaction]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition, you can take a [[reaction-xphb (variant-rules)]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Fey Reinforcements (Level 11)
 
-You can cast [[summon fey xphb|Summon Fey]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[long rest xphb|Long Rest]].
+You can cast [[fey]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[long-rest-xphb]].
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [[conditions#Concentration|Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Misty Wanderer (Level 15)
 
-You can cast [[misty step xphb|Misty Step]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long rest xphb|Long Rest]].
+You can cast [[Misty Step Xphb]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
 
-In addition, whenever you cast [[misty step xphb|Misty Step]], you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+In addition, whenever you cast [[Misty Step Xphb]], you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,12 +1,12 @@
 ---
 title: The Archives
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - content/adventure
 - content/lore
 - quest
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress

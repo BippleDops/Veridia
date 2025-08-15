@@ -1,6 +1,6 @@
 ---
 
-title: Reality Breach Locations
+title: Reality Breach [[location]]s
 type: Location
 tags:
 - aerial
@@ -20,14 +20,14 @@ tags:
 - reality-breach
 - place
 - active
-- world/aquabyssos
-- world/aethermoor
+- world/[[Aquabyssos]]
+- world/[[Aethermoor]]
 - bloodline
 - prophecy
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: claude
 updated: '2025-08-13T12:34:16.551931+00:00'
@@ -35,6 +35,13 @@ world: Both
 evaluated: '2025-08-14'
 improvements: 20
 ---
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-reality-breach-locations-reality-breach-locations.svg)
@@ -44,6 +51,27 @@ improvements: 20
 # Reality Breach Locations
 
 *"Here the world grows thin, and through the cracks, She watches."*
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,7 +87,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -103,7 +131,7 @@ improvements: 20
 
 ## Overview
 
-Reality Breach Locations are sites where the barrier between normal existence and the Deep Mother's dream-realm has been worn thin or deliberately weakened. These areas serve as manifestation points for eldritch phenomena, gathering sites for cultists, and dangerous zones where the laws of physics become unreliable. Each location represents a wound in reality itself, slowly expanding as the Deep Mother's influence grows.
+Reality Breach Locations are sites where the barrier between normal existence and the [[Deep Mother]]'s dream-realm has been worn thin or deliberately weakened. These areas serve as manifestation points for eldritch phenomena, gathering sites for cultists, and dangerous zones where the laws of physics become unreliable. Each location represents a wound in reality itself, slowly expanding as [[The Deep Mother]]'s influence grows.
 
 ### The Sunken Cathedral (Primary Manifestation Site)
 
@@ -113,9 +141,9 @@ Reality Breach Locations are sites where the barrier between normal existence an
 
 #### Description
 
-Once the Grand Cathedral of Tidal Harmony, this massive structure was pulled into the depths during the first recorded manifestation event 47 years ago. The building itself exists in a state of architectural impossibility - its spires extend both upward and downward simultaneously, its halls connect to rooms that should not fit within its dimensions, and its prayer pools contain water from oceans that don't exist.
+Once the Grand Cathedral of [[Tidal Harmony]], this massive structure was pulled into the depths during the first recorded manifestation event 47 years ago. The building itself exists in a state of architectural impossibility - its spires extend both upward and downward simultaneously, its halls connect to rooms that should not fit within its dimensions, and its prayer pools contain water from oceans that don't exist.
 
-### The Observatory of Broken Stars
+### The [[Observatory of Broken Stars]]
 
 **Location**: Mount Celestialis Peak, Aethermoor  
 **Breach Intensity**: Major (Level 4)  
@@ -123,17 +151,17 @@ Once the Grand Cathedral of Tidal Harmony, this massive structure was pulled int
 
 #### Description
 
-This astronomical observatory was built at the highest point in Aethermoor to study celestial movements. When researchers attempted to map stars that "shouldn't exist," their instruments began receiving transmissions from the Deep Mother. The facility now exists partially in space, partially underwater, and partially in dimensions that lack names.
+This astronomical observatory was built at the highest point in Aethermoor to study celestial movements. When researchers attempted to [[map]] stars that "shouldn't exist," their instruments began receiving transmissions from the Deep Mother. The facility now exists partially in space, partially underwater, and partially in dimensions that lack names.
 
-### The Merchant's Folly (Convergence Breach)
+### The [[Merchant]]'s Folly (Convergence Breach)
 
-**Location**: Goldwater Trading Company Warehouse District  
+**Location**: [[Goldwater Trading Company]] [[Warehouse District]]  
 **Breach Intensity**: Growing (Level 3)  
 **Discovery DC**: 15 (obvious to anyone with magical sensitivity)
 
 #### Description
 
-This began as a simple warehouse where merchant Codex Goldstream stored "unusual acquisitions." When he acquired a Deep Mother artifact without proper precautions, his entire commercial district began experiencing reality fluctuations. The area now serves as a spontaneous marketplace between dimensions, with traders from impossible realms conducting business in currency that doesn't exist.
+This began as a simple warehouse where merchant Codex Goldstream stored "unusual acquisitions." When he acquired a Deep Mother artifact without proper precautions, his entire [[Commercial District]] began experiencing reality fluctuations. The area now serves as a spontaneous marketplace between dimensions, with traders from impossible realms conducting business in currency that doesn't exist.
 
 ### The  Gardens (Extinction Zone)
 
@@ -159,11 +187,11 @@ These once-magnificent gardens became a reality breach when researchers tried to
 
 #### Description
 
-This busy marina experiences severe temporal displacement due to a breach in the harbor's deepest point. Ships from past and future dock alongside present-day vessels. Cargo is unloaded before it's loaded, passengers disembark who haven't boarded yet, and harbor masters maintain schedules for voyages that both have and haven't happened.
+This busy marina experiences severe [[Temporal Displacement]] due to a breach in the harbor's deepest point. Ships from past and future dock alongside present-day vessels. Cargo is unloaded before it's loaded, passengers disembark who haven't boarded yet, and harbor masters maintain schedules for voyages that both have and haven't happened.
 
 ### The Dreaming Library
 
-**Location**: Academy of Deep Understanding  
+**Location**: [[Academy of Deep Understanding]]  
 **Breach Level**: 2  
 **Effect**: Books write themselves with dreams of sleeping readers
 
@@ -181,7 +209,7 @@ This busy marina experiences severe temporal displacement due to a breach in the
 
 ### The Memory Pool
 
-**Location**: Cultural Exchange Center  
+**Location**: [[Cultural Exchange]] Center  
 **Breach Level**: 2  
 **Effect**: Water contains liquefied memories from all who've touched it
 
@@ -193,7 +221,7 @@ This busy marina experiences severe temporal displacement due to a breach in the
 
 ### Breach Expansion
 
-Breach sites grow stronger and larger over time:
+Breach sites grow stronger and larger over [[Time]]:
 
 | Level | Radius | Effects | Escape DC |
 |-------|--------|---------|-----------|
@@ -205,26 +233,26 @@ Breach sites grow stronger and larger over time:
 
 ### Investigation Progression
 
-1. **Initial Discovery**: Strange reports dismissed as local eccentricity
+1. **Initial Discovery**: Strange [[reports]] dismissed as local eccentricity
 2. **Pattern Recognition**: Multiple sites show similar anomalies
-3. **First Contact**: Encounter with breach-affected NPCs or creatures
-4. **Deep Investigation**: Explore major breach site, face serious dangers
+3. **First Contact**: Encounter with breach-affected [[Npc]]s or creatures
+4. **Deep Investigation**: Exp[[Lore]] major breach site, face serious dangers
 5. **Revelation**: Understand connection to Deep Mother and cult activities
 6. **Crisis Response**: Must prevent breach expansion or new breach creation
 7. **Final Confrontation**: Battle in or for control of critical breach site
 
 ## Player-Facing Summary
 
-Reality Breach Locations are areas where strange phenomena occur due to "geological instabilities" or "experimental accidents." These sites feature impossible architecture, temporal anomalies, or other reality distortions. While dangerous, they may also contain valuable information or unique opportunities. Local authorities often have these areas under investigation or quarantine, though their explanations rarely match the observed phenomena.
+Reality Breach Locations are areas where strange phenomena occur due to "geological instabilities" or "experimental accidents." These sites feature impossible architecture, temporal anomalies, or other [[Reality Distortion]]s. While dangerous, they may also contain valuable information or unique opportunities. [[Local Authorities]] often have these areas under investigation or quarantine, though their explanations rarely match the observed phenomena.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Breach sites work best as investigative locations that gradually reveal their true nature. Start with subtle wrongness that players can rationalize, then slowly introduce elements that can't be explained normally. Each breach should feel unique while supporting the overall Deep Mother narrative.
 
@@ -284,3 +312,40 @@ Ongoing situations affecting Reality Breach Locations:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

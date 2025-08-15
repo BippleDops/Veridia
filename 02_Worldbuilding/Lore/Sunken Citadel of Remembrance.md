@@ -1,7 +1,7 @@
 ---
 
 title: Sunken Citadel of Remembrance
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -73,7 +73,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/Places/Sunken Citadel of Remembrance represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/[[Places]]/Sunken Citadel of Remembrance represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/Places/Sunken Citadel of Remembrance can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -198,7 +198,7 @@ Ways to incorporate 02_Worldbuilding/Places/Sunken Citadel of Remembrance into g
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -238,7 +238,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -271,12 +271,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Hidden Prophecy of Winds
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

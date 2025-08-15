@@ -42,7 +42,7 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 58.5 lbs.
 
-An Entertainer's Pack contains the following items: [[backpack xphb|Backpack]], [[bedroll xphb|Bedroll]], [[bell xphb|Bell]], [[bullseye lantern xphb|Bullseye Lantern]], 3 [[costume xphb|Costumes]], [[mirror xphb|Mirror]], 8 flasks of [[oil xphb|Oil]], 9 days of [[rations xphb|Rations]], [[tinderbox xphb|Tinderbox]], and [[waterskin xphb|Waterskin]].
+An Entertainer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], [[Bell Xphb]], [[bullseye-lantern-xphb (items)]], 3 [[costume-xphb (items)]], [[mirror-xphb (items)]], 8 flasks of [[Oil Xphb]], 9 days of [[rations-xphb (items)]], [[Tinderbox Xphb]], and [[waterskin-xphb (items)]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
 

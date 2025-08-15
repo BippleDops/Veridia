@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-armor-xmm-animated-armor-xmm.svg)
 
-# [[animated armor xmm|Animated Armor]]
+# [[Animated Armor Xmm]]
 *Source: Monster Manual (2024) p. 16. Available in the SRD and the Free Rules (2024)*  
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.

@@ -44,11 +44,11 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/power-word-heal-xphb "XPHB"|Power Word Heal]]
-- [[/03 Mechanics/CLI/spells/power-word-kill-xphb "XPHB"|Power Word Kill]]
-- [[/03 Mechanics/CLI/spells/psychic-scream-xge "XGE"|Psychic Scream]]
+- [[Power Word Heal Xphb]]
+- [[spells]]
+- [[Psychic Scream Xge]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 
@@ -94,3 +94,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: PHB p.XXX
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-school-enchantment (lists)-phb]]` in CLI_Reference/spells/

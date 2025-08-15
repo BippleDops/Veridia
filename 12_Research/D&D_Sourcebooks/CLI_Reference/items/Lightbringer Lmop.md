@@ -37,12 +37,12 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-lightbringer-lmop-lightbringer-lmop.svg)
 
 # Lightbringer
-*Weapon ([[mace xphb|mace]]), uncommon*  
+*Weapon ([[Mace Xphb]]), uncommon*  
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
-This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a [[torch xphb|torch]] when its wielder commands. While glowing, the mace deals an extra `d6` radiant damage to undead creatures.
+This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a [[Torch Xphb]] when its wielder commands. While glowing, the mace deals an extra `d6` radiant damage to undead creatures.
 
 *Source: Lost Mine of Phandelver p. 48*
 

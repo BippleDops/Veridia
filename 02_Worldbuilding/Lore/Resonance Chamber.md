@@ -1,7 +1,7 @@
 ---
 
-title: Resoce Chamber
-type: Lore
+title: [[Resoce Chamber]]
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -30,7 +30,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -74,7 +74,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Player-Facing Summary
 
@@ -84,15 +84,15 @@ Resoce Chamber is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Resoce Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Chamber.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Resoce Chamber represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -111,22 +111,22 @@ Mentioned in The First Prophecy of Winds
 - Someone is searching for a witness for revenge
 - A letter reveals a betrayal about this place
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 

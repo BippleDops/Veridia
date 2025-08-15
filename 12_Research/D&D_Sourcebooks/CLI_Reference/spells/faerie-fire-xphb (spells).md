@@ -48,11 +48,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot [[cube-area-of-effect-xphb|Cube]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[cube-area-of-effect-xphb|Cube]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
+Objects in a 20-foot [[Cube Area of Effect Xphb]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[Cube Area of Effect Xphb]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[Light Xphb]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
-[[actions#Attack|Attack]] rolls against an affected creature or object have [[advantage xphb|Advantage]] if the attacker can see it.
+[[actions#Attack|Attack]] rolls against an affected creature or object have [[Advantage Xphb]] if the attacker can see it.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 271. Available in the SRD and the Free Rules (2024)*
 
@@ -87,3 +87,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[faerie-fire-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,17 +1,19 @@
 ---
+
 title: Character_Creation_Flowchart
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Character_Creation_Flowchart
 
 ## Portrait
 
-![[portrait_character_creation_flowchart.png]]
+![[Character_Creation_Flowchart]]
 
 *Portrait reference for Character_Creation_Flowchart*
 
@@ -291,3 +293,17 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

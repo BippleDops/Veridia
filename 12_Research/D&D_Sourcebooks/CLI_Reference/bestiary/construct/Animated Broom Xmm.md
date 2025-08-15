@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-broom-xmm-animated-broom-xmm.svg)
 
-# [[animated broom xmm|Animated Broom]]
+# [[Animated Broom Xmm]]
 *Source: Monster Manual (2024) p. 16*  
 
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.

@@ -56,13 +56,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]] makes a Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot [[Area of Effect Xphb]] makes a Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
 
-Flammable objects in the [[cone-area-of-effect-xphb|Cone]] that aren't being worn or carried start [[burning xphb|burning]].
+Flammable objects in the [[Area of Effect Xphb]] that aren't being worn or carried start [[burning-xphb (traps-hazards)]].
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-way-of-the-sun-soul-xge "subclass=XGE;class=XPHB"|Monk (Way of the Sun Soul)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 248. Available in the SRD and the Free Rules (2024)*
 

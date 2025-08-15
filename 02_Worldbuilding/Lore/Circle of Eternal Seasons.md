@@ -1,12 +1,12 @@
 ---
 
 title: Circle of Eternal Seasons
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - content/lore
-- content/npc
-- world/aethermoor
+- content/[[Npc]]
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -85,11 +85,11 @@ Circle of Eternal Seasons is a undersea element of the setting, known for biolum
 
 Legends speak of Circle of Eternal Seasons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Circle of Eternal Seasons.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -99,7 +99,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## Plot Hooks
 
-- A merchant needs help finding before the new moon
+- A [[Merchant]] needs help finding before the new moon
 - A corpse reveals ancient history about a local noble
 
 ## Economic Structure

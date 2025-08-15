@@ -79,3 +79,23 @@ Mentioned in The Hidden Prophecy of Winds
 - A noble needs help investigating before winter
 - The authorities needs help finding before the new moon
 - Someone is searching for an heir for revenge
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[seeking-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/

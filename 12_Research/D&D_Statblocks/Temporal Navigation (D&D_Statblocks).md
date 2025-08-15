@@ -238,7 +238,7 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - Failure: Take 3d6 force damage and gain one level of madness
 - Success: Half damage, no madness
 - Paradox Sickness: DC 16 Constitution save each hour or gain exhaustion
-- Only [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] items provide immunity
+- Only [[Temporal Anchor Points]] items provide immunity
 
 ### Chronological Whirlpools
 

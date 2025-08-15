@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oinoloth-mpmm-oinoloth-mpmm.svg)
 
-# [[oinoloth mpmm|Oinoloth]]
+# [[Oinoloth Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -98,7 +98,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ or [[conditions#Poisoned|poisoned]]. The target then gains\
       \ 1 level of [[conditions#Exhaustion|exhaustion]], and its\
       \ hit point maximum is reduced by 7 (2d6). This reduction can be removed only\
-      \ by a [[wish xphb|wish]] spell or by casting [[greater restoration xphb|greater\]]
+      \ by a [[wish-xphb (spells)]] spell or by casting [[greater-restoration-xphb (spells)]]
       \ restoration]] on the target\
       \ three times within the same hour. The target dies if its hit point maximum\
       \ is reduced to 0."
@@ -108,11 +108,11 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[darkness xphb|darkness]], [[detect magic xphb|detect\]]
-      \ magic]], [[dispel magic xphb|dispel magic]],\
-      \ [[hold monster xphb|hold monster]], [[invisibility xphb|invisibility]]\
-      \ (self only)\n\n1/day each: [[befuddlement xphb|feeblemind]],\
-      \ [[globe of invulnerability xphb|globe of invulnerability]]"
+      \nAt will: [[darkness-xphb (variant-rules)]], [[detect-magic-xphb (spells)]]
+      \ magic]], [[dispel-magic-xphb (spells)]],\
+      \ [[Hold Monster Xphb]], [[see-invisibility-xphb (spells)]]\
+      \ (self only)\n\n1/day each: [[befuddlement-xphb (spells)]],\
+      \ [[Vulnerability Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The oinoloth blights the area in a 30-foot-radius sphere centered on\

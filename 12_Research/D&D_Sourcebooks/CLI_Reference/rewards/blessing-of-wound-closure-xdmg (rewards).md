@@ -33,7 +33,7 @@ world: Both
 
 # Blessing of Wound Closure
 
-This Blessing grants you the benefits of a [[periapt of wound closure xdmg|Periapt of Wound Closure]].
+This Blessing grants you the benefits of a [[periapt-of-wound-closure-xdmg (items)]].
 
 *Source: Dungeon Master's Guide (2024) p. 99*
 

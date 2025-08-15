@@ -1,6 +1,6 @@
 ---
 
-title: The Mothercoral Crisis
+title: The Mother[[Coral]] Crisis
 type: Location
 tags:
 - aquabyssos
@@ -11,7 +11,7 @@ tags:
 - environmental
 - campaign/consequence
 - coral-reef
-- time-sensitive
+- [[Time]]-sensitive
 - content/location
 - place
 - crisis
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Environmental Quest
 MyContainer: None
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -150,17 +150,17 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 ### [[Coral Courts]]
 **Description**: Major reef city built into the Mothercoral system, now partially evacuated  
 **Challenges**: Structural instability, panicking population, political tensions  
-**Important NPCs**: Local officials, marine biologists, community leaders  
+**Important [[Npc]]s**: Local officials, marine biologists, [[Community Leaders]]  
 
 ### Research Station Deep Current
 **Description**: Scientific facility studying the crisis, operating under emergency conditions  
-**Challenges**: Equipment failures, data corruption, researcher safety  
+**Challenges**: Equipment failures, [[data]] corruption, researcher safety  
 **Resources**: Scientific equipment, research data, expert knowledge  
 
 ### The Dead Zones
 **Description**: Areas where the Mothercoral has already died completely  
 **Challenges**: Toxic environment, scavenger creatures, structural collapse  
-**Clues**: Evidence of what caused the initial die-off, samples for analysis  
+**Clues**: [[Evidence]] of what caused the initial die-off, samples for analysis  
 
 ### Dr. Reef Tender
 **Role**: Lead marine biologist coordinating crisis response  
@@ -173,14 +173,14 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Needs**: Escort to dangerous areas, protection during magical rituals  
 
 ### Emergency Coordinator Torrent
-**Role**: Government official managing evacuation and relief efforts  
+**Role**: [[Government Officia]]l managing evacuation and relief efforts  
 **Information**: Political implications, resource allocation, evacuation status  
 **Needs**: Help with coordination, protection for relief workers  
 
-### Merchant Captain Salvage
+### [[Merchant]] Captain Salvage
 **Role**: Independent operator with boats and diving equipment  
 **Information**: Recent changes in sea conditions, transportation options  
-**Needs**: Payment for services, protection from environmental hazards  
+**Needs**: Payment for services, protection from [[Environmental Hazards]]  
 
 ### Scientific Investigation
 **Methods**: Sample collection, magical analysis, environmental monitoring  
@@ -190,7 +190,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 ### Political Investigation  
 **Methods**: Interviewing officials, reviewing policy changes, examining permits  
-**Locations**: Government offices, industrial facilities, diplomatic quarters  
+**Locations**: Government offices, industrial facilities, [[Diplomatic Quarters]]  
 **Challenges**: Bureaucratic obstacles, potential cover-ups, conflicting interests  
 **Results**: Discovery of human activities that may have contributed to the crisis  
 
@@ -230,7 +230,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Solution**: Restore magical balance, repair ley lines, stabilize energy flows  
 **Challenges**: Complex magical work, dangerous energy manipulation, coordinated effort required  
 
-### Crisis Escalation Timeline
+### Crisis Escalation [[Timeline]]
 **Week 1**: Initial symptoms appear, scientific investigation begins  
 **Week 2**: Spread accelerates, first communities evacuated  
 **Week 3**: Major die-off events, political crisis develops  
@@ -254,7 +254,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Corporate Interference**: Security teams trying to stop industrial investigation  
 **Political Opposition**: Officials trying to prevent panic or protect special interests  
 **Cult Activity**: Religious extremists viewing the crisis as divine judgment  
-**Resource Competition**: Other groups competing for limited rescue and research resources  
+**Resource Competition**: Other [[Groups]] competing for limited rescue and research resources  
 
 ### Success Rewards
 **Saving the Mothercoral**: Major reputation increase, government honors, substantial monetary reward  
@@ -274,7 +274,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Political Upheaval**: Government instability as leadership fails to address crisis  
 **Economic Collapse**: Trade disruption and resource shortages affecting daily life  
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -292,7 +292,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 ### Long-term Campaign Integration
 - Environmental monitoring becomes ongoing campaign element
-- Characters become environmental protection specialists
+- Characters become [[[[Environmental Protection]] Specialist]]s
 - Crisis leads to major political and social changes affecting future adventures
 - Discovery of cause connects to larger campaign mysteries or threats
 
@@ -305,15 +305,15 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 The Mothercoral Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Mothercoral Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Mothercoral Crisis.
 
 ### Key Locations
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -334,6 +334,34 @@ The Mothercoral Crisis is a notable location characterized by its unique feature
 
 ### Founding
 The Mothercoral Crisis was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -380,3 +408,40 @@ Ongoing situations affecting The Mothercoral Crisis:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

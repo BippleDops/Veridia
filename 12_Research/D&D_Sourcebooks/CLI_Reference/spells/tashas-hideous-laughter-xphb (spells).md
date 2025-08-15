@@ -52,11 +52,11 @@ world: Both
 
 One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [[conditions#prone|Prone]] and [[conditions#Incapacitated|Incapacitated]] conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [[conditions#prone|Prone]] condition on itself.
 
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [[advantage xphb|Advantage]] on the save if the save is triggered by damage. On a successful save, the spell ends.
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [[Advantage Xphb]] on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the SRD (as "Hideous Laughter") and the Free Rules (2024)*
 
@@ -104,3 +104,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[tashas-hideous-laughter-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,7 +1,7 @@
 ---
 
-title: The Professional Training Academy
-type: location
+title: [[The [[Professional Training]] Academy]]
+type: [[location]]
 tags:
 - place
 - active
@@ -9,11 +9,32 @@ tags:
 - prophecy
 created: '2025-08-14'
 modified: '2025-08-14'
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 evaluated: '2025-08-14'
 improvements: 20
 ---
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -29,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +110,7 @@ The Professional Training Academy stands as a significant academy in the region,
 The academy features architecture typical of the region, with buildings constructed from local materials. Key structures include:
 - Central plaza or courtyard
 - Administrative buildings
-- Commercial district
+- [[Commercial District]]
 - Residential areas
 - Defensive structures (if applicable)
 
@@ -98,7 +119,7 @@ Established generations ago as a strategic settlement, The Professional Training
 
 ### Notable Landmarks
 1. **Central Structure**: Main governmental or religious building
-2. **Market Square**: Hub of commercial activity
+2. **[[Market Squar]]e**: Hub of commercial activity
 3. **Defensive Works**: Walls, gates, or natural barriers
 4. **Cultural Sites**: Temples, theaters, or academies
 
@@ -115,8 +136,8 @@ Led by a council of representatives or appointed officials, maintaining order an
 
 ### Laws
 Standard regional laws apply, with local ordices for:
-- Trade regulations
-- Public safety
+- [[Trade Regulations]]
+- [[Public Safety]]
 - Resource management
 - Defense requirements
 
@@ -134,19 +155,19 @@ The academy currently faces:
 ## Adventure Hooks
 
 1. **Political Intrigue**: Power struggles within leadership
-2. **Economic Opportunity**: Trade deals and merchant conflicts
+2. **Economic Opportunity**: Trade deals and [[Merchant]] conflicts
 3. **Security Threat**: External or internal dangers
 4. **Mystery**: Unexplained events requiring investigation
-5. **Social Conflict**: Tensions between different groups
+5. **Social Conflict**: Tensions between different [[Groups]]
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## Maps & Layouts
+## [[map]]s & Layouts
 
 *[Space for maps]*
 
@@ -171,12 +192,12 @@ Key locations marked:
 - Someone is hunting a artifact for power
 - A noble needs help delivering before dawn
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -186,7 +207,7 @@ Key locations marked:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -199,3 +220,36 @@ Key locations marked:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

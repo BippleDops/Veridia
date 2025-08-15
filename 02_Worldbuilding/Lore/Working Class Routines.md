@@ -1,7 +1,7 @@
 ---
 
 title: Working Class Routines
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - mechanics/social
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -64,7 +64,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -94,7 +94,7 @@ improvements: 20
 
 The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
 
-### Harbor District Dock Workers
+### [[Harbor District]] Dock Workers
 
 **Daily Schedule**: Rising Tide through High Tide (0500-1300)
 
@@ -124,7 +124,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 
 **1015 - Second Work Period**
 - Continuation of morning tasks with increased urgency
-- Coordination with incoming merchant vessels
+- Coordination with incoming [[Merchant]] vessels
 - Precision work requiring steady hands and calm conditions
 - Training of newer workers in specialized techniques
 
@@ -135,7 +135,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 - Some workers continue to evening shift, others go home
 
 **Evening Activities (1400-1800)**:
-- **Family Time**: Playing with children, helping with household tasks
+- **Family [[Time]]**: Playing with children, helping with household tasks
 - **Community Work**: Neighborhood maintece, shared projects
 - **Skills Development**: Learning new techniques or cross-training
 - **Rest and Recovery**: Physical therapy for job-related strain
@@ -146,7 +146,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 - **Local Entertainment**: Music, storytelling, games
 - **Early Rest**: Preparation for next day's early start
 
-### Pressure Terminal Maintece Workers
+### [[Pressure Terminal]] Maintece Workers
 
 **Rotating Shift Schedule**: 24-hour operations with 8-hour shifts
 
@@ -289,7 +289,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 **0630-1200 - Primary Creation Time**
 - **Skilled Work**: Focused creation requiring optimal conditions
 - **Apprentice Training**: Teaching skills to next generation
-- **Custom Orders**: Working on specialized requests from customers
+- **Custom Orders**: Working on specialized re[[Quests]] from customers
 - **Innovation**: Developing new techniques and improving products
 
 **1200-1300 - Craft Break**
@@ -423,7 +423,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 
 ### Flying Courier and Delivery Workers
 
-**Route-Based Schedule**: Following flight paths and delivery needs
+**Route-Based Schedule**: Following flight [[path]]s and delivery needs
 
 **0530 - Flight Preparation**
 - Weather assessment and route planning
@@ -503,7 +503,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 **Pressure-Related Health Issues**:
 - **Decompression Sickness**: Risk from rapid pressure changes
 - **Joint Problems**: Long-term effects of pressure work
-- **Respiratory Issues**: Adaptation to underwater breathing
+- **Respiratory Issues**: Adaptation to [[Underwater Breathing]]
 - **Equipment Injuries**: Accidents with pressure-powered tools
 
 **Preventive Care**:
@@ -526,7 +526,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 - **Weather Awareness**: Training to recognize dangerous conditions
 - **Emergency Response**: Quick medical care for work-related injuries
 
-#### Labor Organizations
+#### Labor [[Organization]]s
 
 **Worker Guilds and Unions**:
 - **Collective Bargaining**: Negotiating wages and working conditions
@@ -535,8 +535,8 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 - **Safety Advocacy**: Fighting for better working conditions and protection
 
 **Community Associations**:
-- **Neighborhood Groups**: Local support networks for daily challenges
-- **Cultural Preservation**: Maintaining working-class traditions and values
+- **Neighborhood [[Groups]]**: Local support networks for daily challenges
+- **[[Cultural Preservation]]**: Maintaining working-class traditions and values
 - **Political Participation**: Representing working-class interests in goverce
 - **Social Activities**: Providing entertainment and community bonding
 
@@ -551,14 +551,14 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 **Community Cooperation**:
 - **Shared Housing**: Multiple families or individuals sharing living spaces
 - **Community Gardens**: Collective food production to supplement incomes
-- **Tool Libraries**: Shared access to expensive equipment
+- **Tool [[Libraries]]**: Shared access to expensive equipment
 - **Knowledge Sharing**: Teaching skills and passing on experience
 
 #### Work-Related Customs
 
 **Daily Rituals**:
 - **Safety Prayers**: Asking for protection before dangerous work
-- **Tool Blessing**: Ceremonies to ensure equipment functions properly
+- **Tool [[Bless]]ing**: Ceremonies to ensure equipment functions properly
 - **Work Songs**: Musical traditions that coordinate group labor
 - **Shift Changes**: Formal transitions between work teams
 
@@ -593,7 +593,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 **Educational Access**:
 - **Basic Literacy**: Programs ensuring all workers can read and write
 - **Technical Training**: Specialized skills for advancing technology
-- **Business Skills**: Understanding commerce and economic systems
+- **Business Skills**: Understanding commerce and [[Economic System]]s
 - **Cultural Education**: Maintaining connection to heritage and traditions
 
 #### Social Mobility Paths
@@ -616,7 +616,7 @@ The working classes of Aquabyssos and Aethermoor demonstrate remarkable resilien
 
 Their daily routines reflect not just the demands of survival and economic necessity, but also rich cultural traditions, strong community bonds, and an admirable determination to build better lives for themselves and their children. Understanding working-class routines is essential for anyone seeking to truly comprehend the social dynamics and economic realities of these remarkable realms.
 
-From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working people maintain the infrastructure, produce the goods, and provide the services that make civilization possible. Their stories of daily struggle and triumph, of community cooperation and individual determination, form the true backbone of both underwater and aerial societies.
+From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working [[People]] maintain the infrastructure, produce the goods, and provide the services that make civilization possible. Their stories of daily struggle and triumph, of community cooperation and individual determination, form the true backbone of both underwater and aerial societies.
 
 ---
 
@@ -625,7 +625,7 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 - [[Aethermoor Daily Rhythms]]
 - [[Noble Leisure Schedules]]
 - [[Child Life in the Realms]]
-- [[Labor Organizations and Guilds]]
+- [[[[Labor Organization]]s and Guilds]]
 - [[Social Support Systems]]
 - [[Working Class Culture and Traditions]]
 
@@ -637,11 +637,11 @@ Working Class Routines is a undersea element of the setting, known for biolumine
 
 Legends speak of Working Class Routines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Working Class Routines.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

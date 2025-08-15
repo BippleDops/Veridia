@@ -91,3 +91,16 @@ Mentioned in The Second Prophecy of Shadows
 - Strange disappearances suggest a curse
 - Strange dreams suggest a conspiracy
 - Strange dreams suggest a portal
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

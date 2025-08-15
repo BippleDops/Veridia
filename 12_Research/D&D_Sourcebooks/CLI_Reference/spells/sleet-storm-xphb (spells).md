@@ -53,11 +53,11 @@ world: Both
 - **Components:** V, S, M (a miniature umbrella)
 - **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius [[cylinder-area-of-effect-xphb|Cylinder]] centered on a point you choose within range. The area is [[heavily-obscured-xphb|Heavily Obscured]], and exposed flames in the area are doused.
+Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius [[Area of Effect Xphb]] centered on a point you choose within range. The area is [[Heavily Obscured Xphb]], and exposed flames in the area are doused.
 
-Ground in the [[cylinder-area-of-effect-xphb|Cylinder]] is [[difficult-terrain-xphb|Difficult Terrain]]. When a creature enters the [[cylinder-area-of-effect-xphb|Cylinder]] for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [[conditions#prone|Prone]] condition and lose [[conditions#Concentration|Concentration]].
+Ground in the [[Area of Effect Xphb]] is [[Difficult Terrain Xphb]]. When a creature enters the [[Area of Effect Xphb]] for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [[conditions#prone|Prone]] condition and lose [[conditions#Concentration|Concentration]].
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 317. Available in the SRD and the Free Rules (2024)*
 
@@ -103,3 +103,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[sleet-storm-xphb (spells)-phb]]` in CLI_Reference/spells/

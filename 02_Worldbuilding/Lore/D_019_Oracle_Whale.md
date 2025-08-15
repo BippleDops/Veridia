@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# D 019_Oracle_Whale
+# D 019_[[Oracle]]_Whale
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of D 019_Oracle_Whale involves several interconnected components
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of D 019_Oracle_Whale trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to D 019_Oracle_Whale are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view D 019_Oracle_Whale through their own cultural lenses:
+Different [[Groups]] view D 019_Oracle_Whale through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of D 019_Oracle_Whale:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How D 019_Oracle_Whale has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate D 019_Oracle_Whale into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways D 019_Oracle_Whale might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #d-019_oracle_whale
+*Tags*: [[#General]] #worldbuilding #d-019_oracle_whale

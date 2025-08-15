@@ -48,7 +48,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Using a Higher-Level Spell Slot.** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 258*
 

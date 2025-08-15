@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shambling-mound-xmm-shambling-mound-xmm.svg)
 
-# [[shambling mound xmm|Shambling Mound]]
+# [[shambling-mound-xmm]]
 *Source: Monster Manual (2024) p. 276. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -107,7 +107,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [[hit points xphb|Hit Points]]\
+      \ a number of [[hit-points-xphb (variant-rules)]]\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":

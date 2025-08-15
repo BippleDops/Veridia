@@ -37,10 +37,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/acolyte.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
-- **Feat.** [[magic initiate xphb|Magic Initiate]] (Cleric)  
+- **Feat.** [[List Spells Feats Magic Initiate Xphb]] (Cleric)  
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Religion|Religion]]  
-- **Tool Proficiency.** [[calligraphers supplies xphb|Calligrapher's Supplies]]  
-- **Equipment.** Choose A or B: (A) [[calligraphers supplies xphb|Calligrapher's Supplies]], [[book xphb|Book (prayers)]], [[holy symbol xphb|Holy Symbol]], [[parchment xphb|Parchment]] (10 sheets), [[robe xphb|Robe]], 8 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[Calligraphers Supplies Xphb]]  
+- **Equipment.** Choose A or B: (A) [[Calligraphers Supplies Xphb]], [[Book Xphb]], [[Symbol Xphb]], [[Parchment Xphb]] (10 sheets), [[robe-xphb (items)]], 8 GP; or (B) 50 GP  
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
 

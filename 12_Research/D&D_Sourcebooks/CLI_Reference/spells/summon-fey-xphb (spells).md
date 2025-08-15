@@ -53,13 +53,13 @@ world: Both
 - **Components:** V, S, M (a gilded flower worth 300+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the [[fey-spirit-xphb|Fey Spirit]] stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb|Hit Points]] or when the spell ends.
+You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the [[fey]] stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb (variant-rules)]] or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [[initiative xphb|Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative Xphb]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb "subclass=XPHB;class=XPHB"|Ranger (Fey Wanderer)]]; [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 326*
 
@@ -99,3 +99,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is protecting an heir for revenge
 - A stranger needs help finding before the new moon
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[summon-fey-xphb (spells)-phb]]` in CLI_Reference/spells/

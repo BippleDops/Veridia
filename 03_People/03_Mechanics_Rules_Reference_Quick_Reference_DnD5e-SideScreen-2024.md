@@ -1,8 +1,17 @@
+---
+
+tags: [npc, character]
+type: npc
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # 03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024
 
 ## Portrait
 
-![[portrait_03_mechanics_rules_reference_quick_reference_dnd5e-sidescreen-2024.png]]
+![[DnD5e-SideScreen-2024]]
 
 *Portrait reference for 03_Mechanics_Rules_Reference_Quick_Reference_DnD5e-SideScreen-2024*
 
@@ -266,3 +275,22 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

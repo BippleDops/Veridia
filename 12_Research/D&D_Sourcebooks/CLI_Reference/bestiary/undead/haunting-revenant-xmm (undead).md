@@ -98,27 +98,27 @@ Wrathful spirits bent on revenge, revets possess corpses and other materials, us
   - "desc": "Constitution Saving Throw: DC 17, any creature that casts a spell while\
       \ inside the revet's space. Failure: The spell fails and is wasted."
     "name": "Haunted Zone"
-  - "desc": "If the revet dies, it revives 24 hours later unless [[dispel evil and good xphb|Dispel Evil and\]]
+  - "desc": "If the revet dies, it revives 24 hours later unless [[dispel-evil-and-good-xphb (spells)]]
       \ Good]] is cast on its\
       \ remains. If it revives, it animates another Gargantuan object or structure\
       \ elsewhere on the same plane of existence; it now looks different but uses\
-      \ the same stat block and returns with all its [[hit points xphb|Hit Points]]."
+      \ the same stat block and returns with all its [[hit-points-xphb (variant-rules)]]."
     "name": "Undead Restoration"
 "actions":
-  - "desc": "The revet makes two [[object xphb|Object]]\
+  - "desc": "The revet makes two [[object-xphb (variant-rules)]]\
       \ Slam attacks and uses Invitation."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Attack Roll: +9 (with [[advantage xphb|Advantage]]\
+  - "desc": "Melee  or Ranged Attack Roll: +9 (with [[Advantage Xphb]]\
       \ if the target is inside the revet's space), reach 10 ft. or range 30/90\
       \ ft. Hit: 27 (5d8 + 5) Bludgeoning damage."
     "name": "Object Slam"
-  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [[Area of Effect Xphb]].\
       \ Failure: The target is teleported inside the revet's space and swallowed.\
-      \ A swallowed creature has [[cover xphb|Total Cover]]\
+      \ A swallowed creature has [[Cover Xphb]]\
       \ against attacks and other effects outside the revet.\n\nWhile the revet\
-      \ has [[hit points xphb|Hit Points]], a swallowed\
+      \ has [[hit-points-xphb (variant-rules)]], a swallowed\
       \ creature can leave the revet's space only by using magic that enables planar\
-      \ travel, such as the [[plane shift xphb|Plane Shift]]\
+      \ travel, such as the [[plane-shift-xphb (spells)]]\
       \ spell."
     "name": "Invitation"
 "source":

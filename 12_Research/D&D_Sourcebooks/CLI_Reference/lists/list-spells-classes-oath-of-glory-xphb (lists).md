@@ -61,3 +61,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-oath-of-glory-xphb (lists)-phb]]` in CLI_Reference/spells/

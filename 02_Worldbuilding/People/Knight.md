@@ -147,6 +147,18 @@ Born into minor nobility, Theron earned his knighthood through valor during the 
 
 His armor bears the crystalline sigil of his order, and intricate engravings tell the story of his greatest victories. Most notably, the crystal embedded in his breastplate pulses with a gentle light—a fragment of the original Heart of Aethermoor, gifted to him by [[Queen Seraphina Lumengarde]] herself.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
 ## Relationships
 
 **Allies:**
@@ -181,6 +193,11 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 **Primary**: Protect Aethermoor and its people from shadow corruption at any cost
 **Secondary**: Preserve the ideals of knighthood in a world growing increasingly gray
 **Hidden**: Find a way to permanently end the shadow threat while maintaining his own purity
+
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
 
 ## Roleplaying Notes
 
@@ -328,3 +345,40 @@ Mentioned in The Second Prophecy of Winds
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

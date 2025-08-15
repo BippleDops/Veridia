@@ -38,18 +38,18 @@ world: Both
 
 | Class | Str. | Dex. | Con. | Int. | Wis. | Cha. |
 |-------|------|------|------|------|------|------|
-| [[barbarian xphb|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
-| [[bard xphb|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
-| [[cleric xphb|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
-| [[druid xphb|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
-| [[fighter xphb|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
-| [[monk xphb|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
-| [[paladin xphb|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
-| [[ranger xphb|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
-| [[rogue xphb|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
-| [[sorcerer xphb|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
-| [[warlock xphb|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
-| [[wizard xphb|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
+| [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | 15 | 13 | 14 | 10 | 12 | 8 |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]] | 8 | 14 | 12 | 13 | 10 | 15 |
+| [[cleric-xphb-nature-domain (classes)]] | 14 | 8 | 13 | 10 | 15 | 12 |
+| [[Druid Xphb Circle of the Shepherd Xge]] | 8 | 12 | 14 | 13 | 15 | 10 |
+| [[fighter-xphb (classes)]] | 15 | 14 | 13 | 8 | 10 | 12 |
+| [[Monk Xphb Warrior of Mercy Xphb]] | 12 | 15 | 13 | 10 | 14 | 8 |
+| [[paladin-xphb-oath-of-conquest-xge (classes)]] | 15 | 10 | 13 | 8 | 12 | 14 |
+| [[ranger-xphb-monster-slayer-xge (classes)]] | 12 | 15 | 13 | 8 | 14 | 10 |
+| [[Rogue Xphb Swashbuckler Xge]] | 12 | 15 | 13 | 14 | 10 | 8 |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | 10 | 13 | 14 | 8 | 12 | 15 |
+| [[warlock-xphb-fiend-patron-xphb (classes)]] | 8 | 14 | 13 | 12 | 10 | 15 |
+| [[Wizard Xphb School of Necromancy]] | 8 | 12 | 13 | 15 | 14 | 10 |
 ^standard-array-by-class
 
 ## 🔧 Deep Evaluation Improvements

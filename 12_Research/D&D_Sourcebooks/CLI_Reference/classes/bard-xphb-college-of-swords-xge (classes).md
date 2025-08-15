@@ -32,7 +32,7 @@ world: Both
 ---
 
 # College of Swords
-*[[bard xphb|Bard]]: Bard Subclass*  
+*[[bard-xphb-college-of-swords-xge 2 (classes)]]: Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 > [!tldr] Class and Feature Progression
@@ -74,7 +74,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[scimitar xphb|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[Scimitar Xphb]].
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -82,8 +82,8 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [[dueling xphb|Dueling]]  
-- [[two weapon fighting xphb|Two Weapon Fighting]]  
+- [[dueling-xphb (feats)]]  
+- [[two-weapon-fighting-xphb (feats)]]  
 
 ### Blade Flourish (Level 3)
 

@@ -20,7 +20,7 @@ The knowledge of 08_Archive provides deeper understanding of the world's mysteri
 
 ## Connections
 - Part of the greater campaign narrative
-- Links to related elements in the world
+- [[Link]]s to related elements in the world
 - Provides opportunities for adventure
 
 ## Current Status

@@ -50,7 +50,7 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 320*
 

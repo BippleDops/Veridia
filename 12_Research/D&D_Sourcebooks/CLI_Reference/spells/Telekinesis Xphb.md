@@ -76,7 +76,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-psi-warrior-xphb "subclass=XPHB;class=XPHB"|Fighter (Psi Warrior)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the SRD and the Free Rules (2024)*
 

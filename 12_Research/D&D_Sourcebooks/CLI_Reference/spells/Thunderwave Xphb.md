@@ -55,13 +55,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You unleash a wave of thunderous energy. Each creature in a 15-foot [[cube-area-of-effect-xphb|Cube]] originating from you makes a Constitution saving throw. On a failed save, a creature takes `2d8` Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
+You unleash a wave of thunderous energy. Each creature in a 15-foot [[Cube Area of Effect Xphb]] originating from you makes a Constitution saving throw. On a failed save, a creature takes `2d8` Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
 
-In addition, unsecured objects that are entirely within the [[cube-area-of-effect-xphb|Cube]] are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
+In addition, unsecured objects that are entirely within the [[Cube Area of Effect Xphb]] are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 334. Available in the SRD and the Free Rules (2024)*
 

@@ -3,20 +3,20 @@ title: Resoce Conspiracy
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Resoce Conspiracy
 
 ## Overview
-This topic is referenced in [[Houses_and_Nobility   House Shadowmere]] and other parts of the campaign.
+This topic is referenced in [[Houses_and_Nobility - House Shadowmere]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Houses_and_Nobility   House Shadowmere]]
+- Referenced by: [[Houses_and_Nobility - House Shadowmere]]
 - Related topics in the same category
 
 ## Details

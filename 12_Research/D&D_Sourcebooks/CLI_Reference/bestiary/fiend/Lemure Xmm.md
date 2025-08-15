@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lemure-xmm-lemure-xmm.svg)
 
-# [[lemure xmm|Lemure]]
+# [[lemure-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 194. Available in the SRD and the Free Rules (2024)*  
 
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
@@ -88,13 +88,13 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[darkness xphb|Darkness]]),\
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb (variant-rules)]]),\
   \ passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [[hit points xphb|Hit Points]]\
-      \ in d10 days unless it is killed by a creature under the effects of a [[bless xphb|Bless]]\
+  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [[hit-points-xphb (variant-rules)]]\
+      \ in d10 days unless it is killed by a creature under the effects of a [[Bless Xphb]]\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
 "actions":

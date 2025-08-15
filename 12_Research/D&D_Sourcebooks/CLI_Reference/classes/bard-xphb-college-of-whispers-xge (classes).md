@@ -32,7 +32,7 @@ world: Both
 ---
 
 # College of Whispers
-*[[bard xphb|Bard]]: Bard Subclass*  
+*[[bard-xphb-college-of-swords-xge 2 (classes)]]: Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 > [!tldr] Class and Feature Progression

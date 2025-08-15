@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_monstrosity_young-remorhaz-xmm - Quick Reference
 
 ## Key Info

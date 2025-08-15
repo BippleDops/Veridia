@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:35.029730'
 world: Both
 ---
 
-# [[chimera xmm|Chimera]]
+# [[Chimera Xmm]]
 *Source: Monster Manual (2024) p. 70. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -91,7 +91,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ It can replace the Claw attack with a use of Fire Breath if available."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage,\
-      \ or 18 (4d6 + 4) Piercing damage if the chimera had [[advantage xphb|Advantage]]\
+      \ or 18 (4d6 + 4) Piercing damage if the chimera had [[Advantage Xphb]]\
       \ on the attack roll."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage."
@@ -100,7 +100,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ damage. If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Ram"
-  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 31 (7d8) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

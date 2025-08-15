@@ -1,7 +1,7 @@
 ---
 
 title: Update Indexes
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - navigation
@@ -29,11 +29,11 @@ improvements: 20
 
 Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides quick access to all major content categories and specialized indexes throughout the vault.
 
-### Data Visualization
+### [[data]] Visualization
 
-- [[Relationship Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
-- [[Continental Connections Map]] - Geographic relationship mapping
-- [[Faction Relationship Tracker]] - Organizational standing matrix
+- [[Relationship_Web]] - Visual faction and character connections
+- [[map]]]] - Geographic relationship mapping
+- [[Faction Relationship Tracker]] - [[Organization]]al standing matrix
 
 ---
 
@@ -54,7 +54,7 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ Update Indexes is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Update Indexes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Update Indexes.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -112,7 +112,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Update Indexes represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -125,22 +125,22 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange dreams suggest a conspiracy
 - Strange disappearances suggest a curse
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 
@@ -153,3 +153,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

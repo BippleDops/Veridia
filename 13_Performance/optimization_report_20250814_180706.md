@@ -5,7 +5,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Note Optimization Report
 
@@ -109,8 +109,8 @@ Generated: 2025-08-14T18:07:06.186981
 - Loot records
 - DM notes
 
----
-*Comprehensive optimization complete. Every note has been enhanced.*
+- --
+* Comprehensive optimization complete. Every note has been enhanced.*
 
 ## Connections
 

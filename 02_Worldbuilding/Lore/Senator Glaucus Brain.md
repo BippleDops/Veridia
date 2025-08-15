@@ -1,10 +1,10 @@
 ---
 
-title: Senator Glaucus Brain
-type: Lore
+title: [[Senator]] Glaucus Brain
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -24,7 +24,7 @@ improvements: 20
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
+![](04_Resources/Assets/Portraits/portrait-[[Npc]]-senator-glaucus-brain-senator-glaucus-brain.svg)
 
 > [!figure] Portrait
 
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -86,13 +86,13 @@ improvements: 20
 
 ## Player-Facing Summary
 
-Senator Glaucus Brain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[[Senator Glaucus]] Brain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
 Legends speak of Senator Glaucus Brain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator Glaucus Brain.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

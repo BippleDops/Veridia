@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-ghoul-pota-aquatic-ghoul-pota.svg)
 
-# [[aquatic ghoul pota|Aquatic Ghoul]]
+# [[aquatic-ghoul-pota (undead)]]
 *Source: Princes of the Apocalypse p. 87*  
 
 ```statblock

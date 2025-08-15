@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg)
 
-# [[paper whirlwind rot|Paper Whirlwind]]
+# [[paper-whirlwind-rot (construct)]]
 *Source: The Rise of Tiamat p. 72*  
 
 ```statblock

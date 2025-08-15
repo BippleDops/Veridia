@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # 01_Adventures/Quest - The Great Maintenance
@@ -22,7 +22,7 @@ The full nature of 01_Adventures/Quest - The Great Maintenance involves several 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 01_Adventures/Quest - The Great Maintenance trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 01_Adventures/Quest - The Great Maintenance are various other impor
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 01_Adventures/Quest - The Great Maintenance through their own cultural lenses:
+Different [[Groups]] view 01_Adventures/Quest - The Great Maintenance through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 01_Adventures/Quest - The Great Maintenance:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 01_Adventures/Quest - The Great Maintenance has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 01_Adventures/Quest - The Great Maintenance into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 01_Adventures/Quest - The Great Maintenance might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #01_adventures/quest---the-great-maintenance
+*Tags*: [[#General]] #worldbuilding #01_adventures/quest---the-great-maintenance

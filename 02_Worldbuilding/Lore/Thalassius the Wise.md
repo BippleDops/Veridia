@@ -1,7 +1,7 @@
 ---
 
 title: Thalassius the Wise
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -9,7 +9,7 @@ tags:
 - thalassius
 - wise
 - aquatic
-- npc
+- [[Npc]]
 - worldbuilding
 - quest
 - scholar
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -95,19 +95,19 @@ improvements: 20
 
 ## Overview
 
-Thalassius the Wise stands as one of [[Aquabyssos]]'s most revered scholars and philosophers, a figure whose intellectual contributions have shaped the underwater city's understanding of magic, history, and inter-realm relations for over three centuries. Despite his advanced age, Thalassius maintains remarkable mental acuity and continues his research into the deepest mysteries of oceanic civilization. His vast library and personal archives represent one of the most comprehensive collections of knowledge about ancient underwater cultures, magical theory, and the pre-contact history of both [[Aquabyssos]] and [[Aethermoor]]. His collection rivals the [[Aethermoor Archives]] and connects to research at [[12_Research/D&D_Statblocks/The Forgotten Archive]].
+Thalassius the Wise stands as one of [[Aquabyssos]]'s most revered scholars and philosophers, a figure whose intellectual contributions have shaped the underwater city's understanding of magic, history, and inter-realm relations for over three centuries. Despite his advanced age, Thalassius maintains remarkable mental acuity and continues his research into the deepest mysteries of oceanic civilization. His vast library and personal archives represent one of the most comprehensive collections of knowledge about ancient underwater cultures, [[Magical Theory]], and the pre-contact history of both [[Aquabyssos]] and [[Aethermoor]]. His collection rivals the [[Aethermoor Archives]] and connects to research at [[12 Research]].
 
 Known for his patient teaching methods and profound insights, Thalassius serves as mentor to generations of scholars, diplomats, and magical practitioners. His unique perspective combines traditional underwater wisdom with innovative approaches to contemporary challenges, making him an invaluable advisor to city leadership during times of crisis. His research into the connections between magical currents and ocean flows has produced practical applications that benefit all of Aquabyssos society.
 
 ### Origins
 
-Born during the early expansion period of Aquabyssos, Thalassius demonstrated exceptional intellectual gifts from childhood, showing particular aptitude for understanding complex patterns in both natural phenomena and social structures. His early education encompassed traditional Merfolk scholarship, expanded to include the knowledge systems of other aquatic species as the city's population diversified.
+Born during the early expansion period of Aquabyssos, Thalassius demonstrated exceptional intellectual gifts from childhood, showing particular aptitude for understanding complex patterns in both natural phenomena and social structures. His early education encompassed traditional [[Merfolk]] scholarship, expanded to include the knowledge systems of other aquatic species as the city's population diversified.
 
-Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the deep archives, documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions.
+Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the [[Deep Archives]], documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions.
 
 ### Development
 
-As [[Aquabyssos]] evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [[Timeline of the Drowning]] and [[The Great Crystallization]]. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure.
+As [[Aquabyssos]] evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [[Time]] of [[The Drowning]]]] and [[The Great Crystallization]]. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure.
 
 Thalassius's development of the "Current Theory of Magic" revolutionized underwater spellcasting and led to numerous practical innovations in magical engineering and architectural design. His work bridging ancient wisdom with contemporary needs earned him recognition as the city's foremost intellectual authority.
 
@@ -115,7 +115,7 @@ Thalassius's development of the "Current Theory of Magic" revolutionized underwa
 
 Modern Thalassius continues his research while serving as elder advisor to city leadership and mentor to new generations of scholars. His recent work focuses on understanding the implications of Surface contact, the nature of inter-realm magical interactions, and the growing concerns about deep-ocean phenomena that threaten both civilizations.
 
-His current projects include comprehensive analysis of [[Shadow Corruption]] effects, compilation of comparative cultural studies between [[Aethermoor]] and [[Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[The Convergence Point]], and research into [[The Deep Mother]]'s growing influence.
+His current projects include comprehensive analysis of [[Shadow Corruption]] effects, compilation of comparative cultural studies between [[Aethermoor]] and [[Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[The Convergence Point]], and research into [[Deep Mother]]]]'s growing influence.
 
 ### In Aquabyssos
 
@@ -131,7 +131,7 @@ Thalassius's role in facilitating intellectual exchange between realms has made 
 
 ### The Great Translation Project
 
-Thalassius's translation of the Ancient Depths Chronicles provided crucial historical context for understanding Aquabyssos's founding and development.
+Thalassius's translation of the Ancient Depths Chronicles provided crucial [[Historical Context]] for understanding Aquabyssos's founding and development.
 
 ### The Current Theory Revelation
 
@@ -143,20 +143,20 @@ Thalassius's conversations with Surface scholars established the intellectual fo
 
 ## Current Developments
 
-Thalassius's recent research has uncovered disturbing patterns in ancient texts that seem to predict current inter-realm tensions and the emergence of corruption phenomena. His analysis suggests that contemporary events may be following ancient cycles that could lead to catastrophic outcomes unless properly understood and addressed.
+Thalassius's recent research has uncovered disturbing patterns in ancient texts that seem to predict current inter-realm tensions and [[The Emergence]] of corruption phenomena. His analysis suggests that contemporary events may be following ancient cycles that could lead to catastrophic outcomes unless properly understood and addressed.
 
 His latest project involves creating a comprehensive guide to inter-realm cooperation that combines historical precedents with practical recommendations for preventing future conflicts while addressing the deep-ocean threats that endanger both civilizations.
 
 ## Adventure Hooks
 
-1. Thalassius requests help retrieving ancient texts from dangerous deep-sea locations
+1. Thalassius re[[Quests]] help retrieving ancient texts from dangerous deep-sea [[location]]s
 2. His research reveals information crucial to preventing an inter-realm catastrophe
 3. Mysterious threats target Thalassius to prevent him from completing important translations
 4. The scholar's apparent knowledge of future events raises questions about his true nature
 
 ### Early Campaign
 
-Introduce as wise mentor and information source who can provide historical context and practical guidance for beginning adventures.
+Introduce as wise mentor and information source who can provide historical context and practical [[Guidance]] for beginning adventures.
 
 ### Mid Campaign
 
@@ -190,9 +190,9 @@ Thalassius the Wise is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Thalassius the Wise as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Thalassius the Wise.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Cultural Impact
 

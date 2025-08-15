@@ -57,10 +57,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Lover**: [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg]]
+- **Lover**: [[Npc]]
 - **Friend**: [[Reflection Captain Vantage]]
-- **Blackmailer**: [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
-- **Lover**: [[Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg]]
+- **Blackmailer**: [[Commander Drake Pressureborn]]
+- **Lover**: [[Npc]]
 
 ## 12_Research Specific Content
 

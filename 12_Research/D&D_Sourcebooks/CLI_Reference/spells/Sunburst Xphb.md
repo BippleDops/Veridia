@@ -48,13 +48,13 @@ world: Both
 - **Components:** V, S, M (a piece of sunstone)
 - **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. Each creature in the [[sphere-area-of-effect-xphb|Sphere]] makes a Constitution saving throw. On a failed save, a creature takes `12d6` Radiant damage and has the [[conditions#Blinded|Blinded]] condition for 1 minute. On a successful save, it takes half as much damage only.
+Brilliant sunlight flashes in a 60-foot-radius [[Area of Effect Xphb]] centered on a point you choose within range. Each creature in the [[Area of Effect Xphb]] makes a Constitution saving throw. On a failed save, a creature takes `12d6` Radiant damage and has the [[conditions#Blinded|Blinded]] condition for 1 minute. On a successful save, it takes half as much damage only.
 
 A creature [[conditions#Blinded|Blinded]] by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-This spell dispels [[darkness xphb|Darkness]] in its area that was created by any spell.
+This spell dispels [[darkness-xphb (variant-rules)]] in its area that was created by any spell.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 329. Available in the SRD and the Free Rules (2024)*
 

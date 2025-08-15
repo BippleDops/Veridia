@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Oath of Redemption
-*[[paladin xphb|Paladin]]: Paladin Subclass*  
+*[[paladin-xphb-oath-of-conquest-xge (classes)]]: Paladin Subclass*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
 > [!tldr] Class and Feature Progression
@@ -100,11 +100,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[sanctuary xphb|sanctuary]], [[sleep xphb|sleep]] |
-| 5th | [[calm emotions xphb|calm emotions]], [[hold person xphb|hold person]] |
-| 9th | [[counterspell xphb|counterspell]], [[hypnotic pattern xphb|hypnotic pattern]] |
-| 13th | [[otilukes resilient sphere xphb|Otiluke's resilient sphere]], [[stoneskin xphb|stoneskin]] |
-| 17th | [[hold monster xphb|hold monster]], [[wall of force xphb|wall of force]] |
+| 3rd | [[sanctuary-xphb (spells)]], [[Sleep Xphb]] |
+| 5th | [[Calm Emotions Xphb]], [[Hold Person Xphb]] |
+| 9th | [[counterspell-xphb (spells)]], [[Hypnotic Pattern Xphb]] |
+| 13th | [[Otilukes Resilient Sphere Xphb]], [[stoneskin-xphb (spells)]] |
+| 17th | [[Hold Monster Xphb]], [[Wall of Force Xphb]] |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # detect-magic-xphb - Quick Reference
 
 ## Key Info

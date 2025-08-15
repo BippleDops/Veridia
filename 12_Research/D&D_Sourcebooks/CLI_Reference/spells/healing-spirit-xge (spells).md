@@ -53,7 +53,7 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `d6` for each slot level above 2nd.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 
@@ -97,3 +97,17 @@ Mentioned in The Hidden Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

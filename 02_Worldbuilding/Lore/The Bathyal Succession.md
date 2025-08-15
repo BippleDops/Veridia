@@ -1,10 +1,10 @@
 ---
 
-title: The Bathyal Succession
-type: Lore
+title: The [[Bathyal Succession]]
+type: [[Lore]]
 tags:
 - aquatic
-- timeline
+- [[[[Time]]line]]
 - lore
 - bathyal-zone
 - status/complete
@@ -17,7 +17,7 @@ tags:
 - succession
 - complete
 - mechanics/combat
-- aquabyssos
+- [[Aquabyssos]]
 - historical-events
 - royal-succession
 - active
@@ -35,10 +35,10 @@ participants:
 - Pressure Nobility
 - Hadal Council
 related_entities:
-- '[[The Parliament of Echoes]]'
-- '[[Aboleth Prime Yoth]]'
-- '[[The Deep Mother]]'
-- '[[Emperor Thalassius]]'
+- '[[The [[Parliament of Echoes]]]]'
+- '[[[[Aboleth]] Prime Yoth]]'
+- '[[The [[Deep Mother]]]]'
+- '[[[[Emperor]] Thalassius]]'
 - '[[The Pressure Wars]]'
 scale: Continental (All Depth Zones)
 significance: Constitutional Crisis
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -117,7 +117,7 @@ improvements: 20
 
 The Bathyal Succession (234-267 AS) stands as the most transformative political event in Aquabyssos history since [[The Drowning]]. What began as a traditional royal succession dispute evolved into a fundamental reimagining of government, ultimately abolishing the ancient depth-based monarchy and establishing the modern parliamentary democracy centered around [[The Parliament of Echoes]].
 
-The conflict derived its name from the **Bathyal Zone** (depths of 1,000-4,000 meters), where most of the political maneuvering and initial battles took place. However, the succession crisis eventually engulfed every depth level of Aquabyssos society, from the surface-touch zones to the deepest hadal trenches where [[The Deep Mother]]'s influence was strongest.
+The conflict derived its name from the **Bathyal Zone** (depths of 1,000-4,000 meters), where most of the [[Political Maneuvering]] and initial battles took place. However, [[The Succession Crisis]] eventually engulfed every depth level of Aquabyssos society, from the surface-touch zones to the deepest hadal trenches where [[The Deep Mother]]'s influence was strongest.
 
 Unlike surface-world succession wars focused on territorial control, the Bathyal Succession was fundamentally about pressure - both literal and political. The crisis centered on whether depth-based hereditary monarchy could adapt to the complex realities of post-Drowning civilization, or whether new forms of government were needed for humanity's underwater existence.
 
@@ -127,11 +127,11 @@ Unlike surface-world succession wars focused on territorial control, the Bathyal
 
 Before the crisis, Aquabyssos operated under the **Pressure Crown System**, a modified form of the ancient Tethyan monarchy adapted for underwater life:
 
-**The Depth Hierarchy:**
+**[[The Depth Hierarchy]]:**
 - **Surface Crown** (0-200m depth): Ceremonial authority, diplomatic relations
 - **Twilight Throne** (200-1,000m): Administrative goverce, daily law
-- **Bathyal Scepter** (1,000-4,000m): Military command, resource allocation  
-- **Abyssal Seal** (4,000-6,000m): Deep trade, pressure technology
+- **Bathyal Scepter** (1,000-4,000m): [[Military Command]], resource al[[location]]  
+- **Abyssal Seal** (4,000-6,000m): Deep trade, [[Pressure Technology]]
 - **Hadal Rod** (6,000m+): Religious authority, connection to [[The Deep Mother]]
 
 Each level required the monarch to physically reside at that depth for specific periods, demonstrating their adaptation and understanding of pressure-based goverce. The system worked for over two centuries but created inherent tensions:
@@ -152,7 +152,7 @@ Emperor Abyssius represented the pinnacle of depth monarchy success and its ulti
 **Achievements:**
 - **Complete Depth Integration**: First monarch to successfully govern from all five depth levels
 - **Pressure Technology Advancement**: Sponsored development of depth-transition systems
-- **Religious Balance**: Maintained relationship with both traditional faiths and Deep Mother cultists
+- **Religious Balance**: Maintained relationship with both traditional faiths and [[Deep Mother Cult]]ists
 - **Economic Prosperity**: Established depth-zone resource sharing agreements
 - **Military Innovation**: Created the first truly integrated multi-depth defense force
 
@@ -165,7 +165,7 @@ Abyssius's unique physical capabilities could not be inherited. His three legiti
 
 ### The Succession Crisis Triggers
 
-**Year 234 AS: The Emperor's Dilemma**
+**Year 234 AS: [[The Emperor]]'s Dilemma**
 
 The crisis began not with Emperor Abyssius's death, but with his recognition that traditional succession was impossible:
 
@@ -182,7 +182,7 @@ Abyssius proposed the **Tripartite Crown** - dividing authority among his three 
 - **Resource Conflicts**: Competition between depth zones for limited resources
 - **Military Command Issues**: No unified defense against external threats
 - **Religious Division**: Different heirs aligned with conflicting spiritual traditions
-- **Economic Disruption**: Trade networks required unified monetary and legal systems
+- **Economic Disruption**: [[Trade Networks]] required unified monetary and legal systems
 
 ### Phase One: The Tripartite Experiment (234-238 AS)
 
@@ -234,13 +234,13 @@ The thermal vent disaster catalyzed existing opposition movements into active re
 - **Ideology**: Depth-based representation rather than hereditary rule
 
 **The Equal Depth Coalition**
-- **Leadership**: Inter-zone trade guild leaders and merchants
+- **Leadership**: Inter-zone trade guild leaders and [[Merchant]]s
 - **Goal**: Eliminate depth-based hierarchy entirely
-- **Support Base**: Mobile populations and international traders
+- **Support Base**: Mobile populations and [[International Trade]]rs
 - **Ideology**: Merit-based goverce regardless of depth adaptation
 
 **The Deep Mother Theocrats**  
-- **Leadership**: Religious leaders claiming direct divine communication
+- **Leadership**: [[Religious Leaders]] claiming direct divine communication
 - **Goal**: Replace human rule with divinely guided government
 - **Support Base**: Deepest zone populations and religious extremists
 - **Ideology**: [[The Deep Mother]]'s awakening requires spiritual leadership
@@ -254,7 +254,7 @@ The thermal vent disaster catalyzed existing opposition movements into active re
 #### The Rebellion Campaigns (238-242 AS)
 
 **The Parliament Strikes (238-239 AS):**
-Non-violent resistance led by former government officials:
+Non-violent resistance led by former [[Government Officia]]ls:
 - **Administrative Shutdown**: Refusal to implement tri-crown orders
 - **Tax Resistance**: Depth zones stopped sending resources to royal treasuries
 - **Legal ification**: Courts refused to recognize conflicting royal decrees
@@ -269,7 +269,7 @@ Military conflict between loyalist forces and rebellion:
 
 **Key Battles:**
 - **The Battle of Current Convergence** (240 AS): Parliamentary forces defeated united royalist fleet
-- **The Siege of Pressure Palace** (241 AS): Princess Benthia's fortress fell after 18-month siege  
+- **The Siege of [[Pressure Palace]]** (241 AS): Princess Benthia's fortress fell after 18-month siege  
 - **The Thermal War** (241-242 AS): Year-long campaign for control of deep energy sources
 - **The Hadal Uprising** (242 AS): Deep Mother cultists overthrew Prince Hadal's government
 
@@ -308,7 +308,7 @@ Recognizing the need for stable governmental structure, the Provisional Parliame
 2. **Executive Authority**: Strong president vs. committee goverce  
 3. **Religious Role**: Secular government vs. Deep Mother recognition
 4. **Depth Integration**: Unified system vs. federal depth-zone autonomy
-5. **Succession Planning**: Preventing future succession crises
+5. **[[Succession Planning]]**: Preventing future succession crises
 
 **The Pressure Compact** (251 AS):
 After three years of debate, the convention produced Aquabyssos's first constitution, establishing:
@@ -333,11 +333,11 @@ The establishment of democratic government triggered a royalist counter-revoluti
 - **Support**: Upper-depth traditionalists and foreign monarchists
 - **Strategy**: Legal challenges to parliamentary authority
 
-**The Depth Purist Coalition**  
+**The Depth [[Purist Coalition]]**  
 - **Leadership**: Princess Benthia and pressure-adapted nobility
 - **Goal**: Return to depth-based hierarchical goverce
 - **Support**: Middle-depth professionals who lost status under democracy
-- **Strategy**: Economic pressure and selective violence
+- **Strategy**: [[Economic Pressure]] and selective violence
 
 **The Deep Mother Restoration**
 - **Leadership**: Religious extremists claiming Prince Hadal survived
@@ -357,7 +357,7 @@ External kingdoms supported the restoration attempt:
 **Parliamentary Response:**
 The new democratic government faced its first major test:
 - **Military Mobilization**: Rapid expansion of democratic armed forces
-- **Economic Warfare**: Trade boycotts and resource control
+- **[[Economic Warfare]]**: Trade boycotts and resource control
 - **Popular Support**: Mobilizing civilian population against restoration
 - **International Alliance**: Seeking support from other democratic nations
 
@@ -393,20 +393,20 @@ The final phase began when [[The Deep Mother]]'s increasing activity challenged 
 #### The Great Stirring (258 AS)
 
 Signs of [[The Deep Mother]]'s awakening created religious and political crisis:
-- **Prophetic Dreams**: Mass visions affecting populations across all depth zones
+- **[[Prophetic Dreams]]**: Mass visions affecting populations across all depth zones
 - **Physical Manifestations**: Unexplained phenomena in deepest ocean areas
-- **Religious Revival**: Dramatic increase in Deep Mother worship
+- **[[Religious Revival]]**: Dramatic increase in Deep Mother worship
 - **Political Claims**: Theocrats demanding divine government
 
 #### The Theocratic Challenge (258-263 AS)
 
-**The Deep Prophets** emerged as a third force challenging both democracy and monarchy:
+**[[The Deep Prophets]]** emerged as a third force challenging both democracy and monarchy:
 
 **Leadership**: High Priestess Thalassa the Deep-Touched
 **Claims**: Direct communication with The Deep Mother
 **Demands**: Replacement of human government with divine theocracy
-**Support**: Religious extremists and those experiencing prophetic visions
-**Methods**: Civil disobedience, religious rallies, miraculous demonstrations
+**Support**: Religious extremists and those experiencing [[Prophetic Visions]]
+**Methods**: Civil disobedience, religious r[[Allies]], miraculous demonstrations
 
 **Parliamentary Response:**
 The democratic government struggled to address divine authority claims:
@@ -418,7 +418,7 @@ The democratic government struggled to address divine authority claims:
 **The Revelation Riots (261 AS):**
 Mass religious demonstrations demanding theocratic government:
 - **Peaceful Protests**: Millions participated in prayer gatherings
-- **Civil Disobedience**: Religious communities refused to follow secular law
+- **Civil Disobedience**: [[Religious Communities]] refused to follow secular law
 - **Miraculous Events**: Unexplained phenomena supporting theocratic claims
 - **Government Crisis**: Parliamentary authority questioned by significant population
 
@@ -435,12 +435,12 @@ Constitutional amendment creating three-way balance:
 
 **Institutional Innovation:**
 - **The Sacred Senate**: Religious advisory body with consultative authority
-- **The Depth Oracles**: Official prophets providing divine guidance
+- **The Depth [[Oracle]]s**: Official prophets providing divine [[Guidance]]
 - **The Pressure Priesthood**: Religious officials integrated into government
 - **The Divine Veto**: Religious council could block laws conflicting with divine will
 
 **Final Settlement (267 AS):**
-The **Constitution of Depths** established the modern Aquabyssos governmental system:
+The **Constitution of Depths** established the modern [[Aquabyssos Government]]al system:
 
 - **Parliamentary Supremacy**: Civil law and goverce remain democratic
 - **Religious Integration**: Spiritual authority recognized in appropriate spheres
@@ -458,7 +458,7 @@ The **Constitution of Depths** established the modern Aquabyssos governmental sy
 #### Prince Pelagic the Surface-Touched (234-267 AS)  
 
 **Depth Range**: Surface to 2,800 meters maximum
-**Personality**: Diplomatic, internationally minded, favored constitutional monarchy
+**Personality**: Diplomatic, internationally minded, favored [[Constitutional Monarchy]]
 **Support Base**: Upper-depth zones, foreign diplomats, traditional nobles
 **Role in Crisis**: Led constitutional royalist movement, accepted democratic transition
 **Final Fate**: Became democratic citizen, served as cultural ambassador
@@ -479,7 +479,7 @@ The **Constitution of Depths** established the modern Aquabyssos governmental sy
 **Role in Crisis**: Catalyst for theocratic movement, disappeared during Deep Mother manifestations  
 **Final Fate**: Unknown - some claim he merged with Deep Mother, others say he lives in deepest trenches
 
-#### Senator Nerida Currentflow (235-289 AS)
+#### [[Senator]] Nerida Currentflow (235-289 AS)
 
 **Background**: Former royal administrator who led parliamentary rebellion
 **Role**: Primary architect of democratic transition, first President of Parliament
@@ -507,7 +507,7 @@ The **Constitution of Depths** established the modern Aquabyssos governmental sy
 **Position**: Supported democratic transition as more stable than monarchy
 **Legacy**: Constitutional advisor whose wisdom helped shape new government
 
-#### Ambassador Korvin Blacktide (from Eastern Kingdoms)
+#### Ambassador [[Korvin Blacktide]] (from [[Eastern Kingdom]]s)
 
 **Role**: Foreign diplomat who supported royalist restoration
 **Methods**: Military aid, ficial support, international recognition
@@ -531,7 +531,7 @@ The crisis established enduring principles of Aquabyssos goverce:
 **Religious Accommodation**: Spiritual authority recognized within constitutional limits  
 **Popular Sovereignty**: Government derives authority from citizen consent, not heredity
 **Succession Prevention**: Constitutional prohibition of hereditary political authority
-**Crisis Management**: Established procedures for governmental transitions during emergencies
+**[[Crisis Management]]**: Established procedures for governmental transitions during emergencies
 
 #### Class Structure Revolution
 
@@ -540,7 +540,7 @@ The succession crisis dismantled traditional depth-based social hierarchy:
 **Pre-Crisis**: Depth determined social status, with deeper-dwelling nobles holding superior rank
 **Post-Crisis**: Merit and democratic participation replaced hereditary status
 **Social Mobility**: Citizens could advance based on ability rather than depth adaptation
-**Cultural Integration**: Inter-depth marriages and cultural exchange increased dramatically
+**Cultural Integration**: Inter-depth marriages and [[Cultural Exchange]] increased dramatically
 
 #### Religious Integration  
 
@@ -553,16 +553,16 @@ The crisis created unique accommodation between secular democracy and religious 
 
 #### Resource Distribution Reform
 
-Democratic goverce revolutionized economic systems:
+Democratic goverce revolutionized [[Economic System]]s:
 
 **Pre-Crisis**: Depth-based resource allocation favoring royal zones
 **Post-Crisis**: Economic policy based on need and democratic representation
 **Trade Integration**: Elimination of depth-zone trade barriers
 **Economic Development**: Investment priorities determined by parliamentary process
 
-#### International Commerce
+#### [[International Commerce]]
 
-The succession crisis affected Aquabyssos's international relationships:
+The succession crisis affected Aquabyssos's [[International Relations]]hips:
 
 **Diplomatic Isolation**: Initial foreign opposition to democratic government
 **Trade Disruption**: Economic relationships damaged during restoration war
@@ -583,7 +583,7 @@ The crisis created modern Aquabyssos military structure:
 Warfare during the succession crisis drove technological advancement:
 
 **Depth-Combat Techniques**: New tactics for multi-zone warfare
-**Communication Systems**: Improved coordination across depth zones
+**[[Communication Systems]]**: Improved coordination across depth zones
 **Weapon Development**: Arms suitable for various pressure environments
 **Defensive Architecture**: Fortifications adapted for underwater democracy
 
@@ -610,7 +610,7 @@ The crisis established traditions of democratic education:
 The Bathyal Succession continues to influence modern Aquabyssos:
 
 **Constitutional Interpretation**: Legal disputes often reference succession-era precedents
-**Political Identity**: Democratic values deeply embedded in cultural identity
+**Political Identity**: Democratic values deeply [[Embed]]ded in cultural identity
 **Government Structure**: Basic institutions established during crisis remain largely unchanged
 **Crisis Management**: Succession-era procedures still guide emergency goverce
 
@@ -643,13 +643,13 @@ Some succession-era issues remain unresolved:
 
 **The Restoration Plot**: Modern descendants of royalty attempt to restore monarchy
 **The Depth Rebellion**: Economic disparities between zones trigger new succession crisis
-**The Religious Challenge**: Growing Deep Mother influence threatens secular goverce
+**The Religious Challenge**: Growing [[Deep Mother Influence]] threatens secular goverce
 **The Constitutional Convention**: Efforts to revise founding documents create political tension
 
 ### Cultural Exploration
 
 **The Democracy Festival**: Annual commemorations provide opportunity for political and cultural adventure
-**The Royal Archives**: Accessing restricted historical documents reveals succession secrets
+**The [[Royal Archives]]**: Accessing restricted historical documents reveals succession secrets
 **The Succession Museum**: Educational facility becomes center of historical mystery
 **The Democratic Pilgrimage**: Journey to sites significant in democratic transition
 
@@ -691,13 +691,13 @@ Some succession-era issues remain unresolved:
 - [[The Depth Councils]] - Regional governmental bodies created during crisis
 - [[The Sacred Senate]] - Religious advisory institution integrated into democracy
 - [[The Constitution of Depths]] - Founding document establishing current government
-- [[The Battle of Parliament Dee|02 Worldbuilding/Groups/The Battle Of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
+- [[The Battle of Parliament Dee|[[02 Worldbuilding]]/[[Groups]]/The Battle Of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
 - [[The Mercy Accords]] - Post-conflict reconciliation agreements
 - [[The Great Thermal Shift]] - Natural disaster that tested early democratic government
 
 ---
 
-*"The crown fell not to conquest, but to the simple truth that no one person can bear the pressure of an entire world's hopes."*
+*"[[The Crown]] fell not to conquest, but to the simple truth that no one person can bear the pressure of an entire world's hopes."*
 *- Senator Nerida Currentflow, first President of the Parliament of Echoes*
 
 ## Player-Facing Summary
@@ -708,11 +708,11 @@ The Bathyal Succession is a undersea element of the setting, known for biolumine
 
 Legends speak of The Bathyal Succession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bathyal Succession.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

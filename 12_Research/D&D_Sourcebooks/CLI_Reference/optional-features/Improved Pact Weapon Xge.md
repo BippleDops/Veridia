@@ -41,7 +41,7 @@ You can use any weapon you summon with your Pact of the Blade feature as a spell
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon you conjure can be a [[shortbow xphb|shortbow]], [[longbow xphb|longbow]], [[light crossbow xphb|light crossbow]], or [[heavy crossbow xphb|heavy crossbow]].
+Finally, the weapon you conjure can be a [[shortbow-xphb (items)]], [[longbow-xphb (items)]], [[light-crossbow-xphb (items)]], or [[Heavy Crossbow Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

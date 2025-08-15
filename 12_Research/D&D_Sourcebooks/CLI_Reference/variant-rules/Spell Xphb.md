@@ -34,7 +34,7 @@ world: Both
 # Spell
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A spell is a [[magical effect xphb|magical effect]] that has the characteristics described in "chapter 7".
+A spell is a [[magical-effect-xphb (variant-rules)]] that has the characteristics described in "chapter 7".
 
 ## 🔧 Deep Evaluation Improvements
 

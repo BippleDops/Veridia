@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-warrior-xmm-githyanki-warrior-xmm.svg)
 
-# [[githyanki warrior xmm|Githyanki Warrior]]
+# [[Githyanki Warrior Xmm]]
 *Source: Monster Manual (2024) p. 134*  
 
 Githyanki warriors use psionic abilities to augment their battle prowess.
@@ -106,13 +106,13 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
       \ plus 7 (2d6) Psychic damage."
     "name": "Psi Blade"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage hand xphb|Mage\]]
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage-hand-xphb (spells)]]
       \ Hand]] (the hand is Invisible)\n\
-      \n2/day: [[nondetection xphb|Nondetection]] (self\
+      \n2/day: [[nondetection-xphb (spells)]] (self\
       \ only)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [[misty step xphb|Misty Step]],\
+  - "desc": "The githyanki casts [[Misty Step Xphb]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":

@@ -213,7 +213,7 @@ Secret agreements with organizations in other realms provide access to different
 - [[Shadow Enhancement Elixirs]]
 - [[The Final Darkening]]
 - [[Shadow Energy Addiction]]
-- [[Void Touched Equipment]]
+- [[Void-Touched Equipment (D&D_References)]]
 
 ## Player-Facing Summary
 

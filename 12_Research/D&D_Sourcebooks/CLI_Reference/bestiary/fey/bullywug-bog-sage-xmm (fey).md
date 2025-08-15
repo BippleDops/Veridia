@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg)
 
-# [[bullywug bog sage xmm|Bullywug Bog Sage]]
+# [[Bullywug Bog Sage Xmm]]
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug bog sages channel the magic of the swamp to sicken foes and speak with plants.
@@ -101,17 +101,17 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
     "name": "Speak with Frogs and Toads"
 "actions":
   - "desc": "The bullywug makes two Bog Staff attacks. It can replace any attack with\
-      \ a use of Spellcasting to cast [[ray of sickness xphb|Ray of Sickness]]."
+      \ a use of Spellcasting to cast [[Ray of Sickness Xphb]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Bog Staff"
   - "desc": "The bullywug casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-      \ [[dancing lights xphb|Dancing Lights]], [[druidcraft xphb|Druidcraft]],\
-      \ [[ray of sickness xphb|Ray of Sickness]]\n\n1/day\
-      \ each: [[speak with plants xphb|Speak with Plants]],\
-      \ [[vitriolic sphere xphb|Vitriolic Sphere]]"
+      \ [[dancing-lights-xphb (spells)]], [[druidcraft-xphb (spells)]],\
+      \ [[Ray of Sickness Xphb]]\n\n1/day\
+      \ each: [[Speak With Plants Xphb]],\
+      \ [[vitriolic-sphere-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."

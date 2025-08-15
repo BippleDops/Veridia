@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-glabrezu-xmm-glabrezu-xmm.svg)
 
-# [[glabrezu xmm|Glabrezu]]
+# [[glabrezu-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 138. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -105,10 +105,10 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 "cr": "9"
 "traits":
   - "desc": "If the glabrezu dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The glabrezu has [[advantage xphb|Advantage]]\
+  - "desc": "The glabrezu has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -124,10 +124,10 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
     "name": "Pummel"
   - "desc": "The glabrezu casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[darkness xphb|Darkness]],\
-      \ [[detect magic xphb|Detect Magic]], [[dispel magic xphb|Dispel Magic]]\n\
-      \n1/day each: [[confusion xphb|Confusion]], [[fly xphb|Fly]],\
-      \ [[power word stun xphb|Power Word Stun]]"
+      \ DC 16):\n\nAt will: [[darkness-xphb (variant-rules)]],\
+      \ [[detect-magic-xphb (spells)]], [[dispel-magic-xphb (spells)]]\n\
+      \n1/day each: [[Confusion Xphb]], [[fly-xphb (spells)]],\
+      \ [[Power Word Stun Xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

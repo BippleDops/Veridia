@@ -41,7 +41,7 @@ related_entities:
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
 - '[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 - '[[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
-- '[[02 Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s]]
+- '[[Marina]]
   Identity Crisis]]'
 ---
 
@@ -211,7 +211,7 @@ His approach to the Shard quest differs from other antagonists:
 
 ### Marina's Identity Crisis
 
-Aurelius's memory manipulation abilities make him a significant threat in storylines involving [[02 Worldbuilding/Lore/Marina's Identity Crisis|02 Worldbuilding/Lore/Marina's Identity Crisis]]. He could:
+Aurelius's memory manipulation abilities make him a significant threat in storylines involving [[Marina's Identity Crisis]]. He could:
 
 - Extract memories that help determine Marina's true identity
 - Implant false memories that further confuse her identity crisis
@@ -344,8 +344,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Mentor**: [[02 Chapter 1 Playing the Game#stabilizing a Character]]
-- **Blackmailer**: [[Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
-- **Friend**: [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg]]
+- **Blackmailer**: [[Npc]]
+- **Friend**: [[Npc]]
 - **Child**: [[The Deepmind Conspiracy]]
 
 ## Plot Hooks

@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dust-mephit-xmm-dust-mephit-xmm.svg)
 
-# [[dust mephit xmm|Dust Mephit]]
+# [[dust-mephit-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 206. Available in the SRD and the Free Rules (2024)*  
 
 Dust mephits are composed of air and fine earth. They are drawn to forsaken places, and they think everything associated with death is hilarious.
@@ -103,18 +103,18 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
-      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success:\
       \ Half damage."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: The target has the [[conditions#Blinded|Blinded]]\
       \ condition until the end of the mephit's next turn."
     "name": "Blinding Breath (Recharge 6)"
-  - "desc": "The mephit casts the [[sleep xphb|Sleep]] spell,\
+  - "desc": "The mephit casts the [[Sleep Xphb]] spell,\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 10).\n"
     "name": "Sleep (1/Day)"

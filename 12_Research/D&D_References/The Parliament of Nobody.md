@@ -124,7 +124,7 @@ The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 W
 - Composed of the most thoroughly non-existent members
 - Has power to temporarily manifest for intervention
 - Can override physical world decisions through paradox creation
-- Serves as final check on [[Empress Tethys the Ever Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]'s power
+- Serves as final check on [[Empress Tethys the Ever-Drowning (D&D_References)]]'s power
 
 ### The  Treasury
 **Resources That Don't Exist**

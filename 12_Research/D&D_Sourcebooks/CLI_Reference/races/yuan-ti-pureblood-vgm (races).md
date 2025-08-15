@@ -54,7 +54,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 ### Innate Spellcasting
 
-You know the [[poison spray xphb|poison spray]] cantrip. You can cast [[animal friendship xphb|animal friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[suggestion xphb|suggestion]] with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[poison-spray-xphb (spells)]] cantrip. You can cast [[Animal Friendship Xphb]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[Suggestion Xphb]] with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Magic Resistance
 

@@ -1,10 +1,10 @@
 ---
 
 title: The Breathing Stone
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - mechanics/magic
 - survival
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -108,15 +108,15 @@ Ancient runes spiral around the stone's circumference, written in the lost langu
 
 ### The Age of First Submersion
 
-The Breathing Stone was crafted during the **Age of First Submersion** (circa 2,847 years before the Great Drowning) by the master artificer **Thalassa the Life-Weaver**. Thalassa created the stone in response to the increasing dangers faced by early Aquabyssos explorers who ventured into the deepest ocean trenches and discovered realms where conventional breathing magic failed.
+The Breathing Stone was crafted during the **Age of First Submersion** (circa 2,847 years before the [[Great Drowning]]) by the master [[Artificer]] **Thalassa the Life-Weaver**. Thalassa created the stone in response to the increasing dangers faced by early Aquabyssos explorers who ventured into the deepest ocean trenches and discovered realms where conventional breathing magic failed.
 
 ### The Deep Expeditions
 
-For over 1,200 years, the Breathing Stone enabled the **Deep Expeditions** - legendary journeys to the most inhospitable regions of the ocean floor. These expeditions mapped the **Abyssal Gardens**, discovered the **Methane Forests**, and established first contact with the **Pressure Wraiths** that inhabit the crushing depths.
+For over 1,200 years, the Breathing Stone enabled the **Deep Expeditions** - legendary journeys to the most inhospitable regions of the ocean floor. These expeditions mapped the **[[[[Abyssal Garden]]s]]**, discovered the **Methane Forests**, and established first contact with the **[[Pressure Wraiths]]** that inhabit the [[Crushing Depths]].
 
 ### The War of Suffocation
 
-During the **War of Suffocation** (1,456-1,461 BGD), possession of the Breathing Stone became a strategic necessity. The conflict began when the **Tide Lords** of House Pelagic used poisonous sea blooms as weapons, creating vast dead zones where conventional breathing magic failed. The stone changed hands seventeen times during the war, each transfer marking a major shift in the conflict's tide.
+During the **War of Suffocation** (1,456-1,461 BGD), possession of the Breathing Stone became a strategic necessity. The conflict began when the **Tide Lords** of House Pelagic used poisonous sea blooms as weapons, creating vast dead zones where conventional breathing magic failed. The stone changed hands seventeen [[Time]]s during the war, each transfer marking a major shift in the conflict's tide.
 
 ### The Great Loss
 
@@ -124,17 +124,17 @@ The Breathing Stone vanished during the **Great Drowning** itself, lost when the
 
 ### Post-Drowning Sightings
 
-Over the past 847 years since the Great Drowning, the Breathing Stone has been sighted at least forty-seven times:
+Over the past 847 years since [[The Great Drowning]], the Breathing Stone has been sighted at least forty-seven times:
 
-- **The Merchant's Tale** (823 AGD): A pearl diver claimed the stone saved him from drowning in the **Whirlpool of Lost Souls**
-- **The Scholar's Discovery** (756 AGD): Professor Delian of the **Deep Archives** reported finding the stone in ancient ruins, only to lose it to **Pressure Pirates**
+- **The [[Merchant]]'s Tale** (823 AGD): A pearl diver claimed the stone saved him from drowning in the **Whirlpool of Lost Souls**
+- **The Scholar's Discovery** (756 AGD): Professor Delian of the **[[Deep Archives]]** reported finding the stone in [[Ancient Ruins]], only to lose it to **Pressure [[Pirates]]**
 - **The Healer's Miracle** (634 AGD): A plague doctor used a stone matching the description to cure victims of **Lung Rot** in the **Lower Districts**
-- **Recent Sightings** (847 AGD): Multiple reports place the stone in the possession of the mysterious **Depth Walker** who aids travelers in the dangerous **Transition Zones**
+- **Recent Sightings** (847 AGD): Multiple [[reports]] place the stone in the possession of the mysterious **Depth Walker** who aids travelers in the dangerous **Transition Zones**
 
 ### Universal Respiration
 
 The stone's primary power grants its bearer the ability to extract breathable essence from any environment. This includes:
-- **Underwater breathing**: Extracting oxygen from water molecules
+- **[[Underwater Breathing]]**: Extracting oxygen from water molecules
 - **Toxic atmosphere filtering**: Neutralizing harmful gases and vapors
 - **Pressure compensation**: Maintaining safe internal pressure at any depth
 - **Vacuum survival**: Creating localized atmosphere in airless environments
@@ -153,7 +153,7 @@ The stone's primary power grants its bearer the ability to extract breathable es
 ### Advanced Manifestations
 
 Legends speak of advanced techniques available to those who truly master the Breathing Stone:
-- **Atmosphere Creation**: Generating breathable air bubbles for groups of people
+- **Atmosphere Creation**: Generating breathable air bubbles for [[Groups]] of [[People]]
 - **Breath Theft**: Temporarily removing an enemy's ability to breathe
 - **Life Force Transfer**: Using breath as a medium to transfer life energy
 - **Pressure Weapon**: Weaponizing air pressure changes for combat
@@ -187,7 +187,7 @@ Scholars at the **Institute of Applied Respiration** theorize that studying the 
 The stone's value extends to civilian applications:
 - **Pearl Diving Operations** in the deepest trenches
 - **Toxic Waste Management** companies dealing with industrial pollution
-- **Adventure Tourism** to the most dangerous underwater locations
+- **Adventure Tourism** to the most dangerous underwater [[location]]s
 - **Medical Treatment** for specialized respiratory conditions
 
 ### The Living Crystal
@@ -196,7 +196,7 @@ The Breathing Stone is not merely a magical artifact but a crystallized fragment
 
 ### The Soul Echo
 
-Archkeeper Nereon's consciousness became fused with the stone during the Great Drowning. His spirit provides guidance to worthy bearers, manifesting as intuitive knowledge about dangerous atmospheric conditions or whispered warnings about impending suffocation threats. However, Nereon's growing madness from centuries of isolation also affects the stone's behavior.
+Archkeeper Nereon's consciousness became fused with the stone during the Great Drowning. His spirit provides [[Guidance]] to worthy bearers, manifesting as intuitive knowledge about dangerous atmospheric conditions or whispered warnings about impending suffocation threats. However, Nereon's growing madness from centuries of isolation also affects the stone's behavior.
 
 ### The Depth Corruption
 
@@ -204,7 +204,7 @@ Prolonged exposure to the deepest parts of Aquabyssos has begun corrupting the s
 
 ### The Artificial Stones
 
-At least five crude replicas of the Breathing Stone exist, created by various factions attempting to duplicate its power. These **False Breathers** provide limited underwater breathing but carry dangerous side effects: progressive lung deterioration, addiction to the stone's power, and eventual transformation into **Gill-Men** who can only breathe underwater.
+At least five crude replicas of the Breathing Stone exist, created by various factions attempting to duplicate its power. These **[[False Breather]]s** provide limited underwater breathing but carry dangerous side effects: progressive lung deterioration, addiction to the stone's power, and eventual transformation into **Gill-Men** who can only breathe underwater.
 
 ### The Breathing Stone Network
 
@@ -212,11 +212,11 @@ The original stone was one of seven created by Thalassa the Life-Weaver. The oth
 
 ### The Breath Thieves
 
-A new criminal organization called **The Suffocators** has developed magical techniques to steal breath from victims, leaving them gasping and helpless. The characters must track down this group while protecting potential targets. Their investigation reveals that the criminals are using fragments of a shattered False Breather to power their abilities, and they're seeking the true Breathing Stone to perfect their technique.
+A new criminal [[Organization]] called **The Suffocators** has developed magical techniques to steal breath from victims, leaving them gasping and helpless. The characters must track down this group while protecting potential targets. Their investigation reveals that the criminals are using fragments of a shattered False Breather to power their abilities, and they're seeking the true Breathing Stone to perfect their technique.
 
 ### The Deep Expedition
 
-An eccentric noble has organized an expedition to the **Marianas Abyss**, the deepest known point in Aquabyssos, claiming to have located the Breathing Stone. The characters are hired as guards and explorers but soon discover that the expedition's true purpose is to awaken something that has been sleeping in the depths - something that the Breathing Stone is meant to keep dormant.
+An eccentric noble has organized an expedition to the **[[Marianas Abys]]s**, the deepest known point in Aquabyssos, claiming to have located the Breathing Stone. The characters are hired as guards and explorers but soon discover that the expedition's true purpose is to awaken something that has been sleeping in the depths - something that the Breathing Stone is meant to keep dormant.
 
 ### The Dying Archive
 
@@ -224,7 +224,7 @@ The **Great Library of the Depths** is slowly flooding with toxic gas from a rup
 
 ### The Pressure Prophet
 
-A mysterious figure calling themselves **The Depth Speaker** has begun preaching in the lower districts, claiming that the Breathing Stone has chosen them as its herald. Their followers gain the ability to survive in increasingly toxic environments, but they're also losing their humanity, developing gills and scaled skin. The characters must determine whether this is genuine divine calling or dangerous cult manipulation.
+A [[Mysterious Figure]] calling themselves **The Depth Speaker** has begun preaching in the lower districts, claiming that the Breathing Stone has chosen them as its herald. Their followers gain the ability to survive in increasingly toxic environments, but they're also losing their humanity, developing gills and scaled skin. The characters must determine whether this is genuine divine calling or dangerous cult manipulation.
 
 ### The Last Breath
 
@@ -273,9 +273,9 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 
 ## Connected References
 
-- [[Thalassa the Life Weaver]] - Original creator
+- [[Thalassa the Life-Weaver]] - Original [[Creator]]
 - [[Archkeeper Nereon]] - Last known bearer
-- [[12_Research/D&D_Statblocks/The Great Drowning]] - Event where stone was lost
+- [[Great Drownin]] - Event where stone was lost
 - [[Deep Expeditions]] - Historical exploration missions
 - [[Pressure Guard]] - Military unit seeking the stone
 - [[Institute of Applied Respiration]] - Academic researchers
@@ -284,12 +284,12 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 - [[Methane Forests]] - Dangerous breathing zones
 - [[The Depth Speaker]] - Mysterious current figure
 - [[False Breathers]] - Replica stones
-- [[Surface Raiders]] - Possible current location
+- [[Surface Raiders]] - Possible [[Current Location]]
 - [[Marianas Abyss]] - Deepest exploration point
-- [[Gill Men]] - Transformation risk
+- [[Gill-Men]] - Transformation risk
 - [[The Final Gasp]] - Breathing plague
 
-The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world.
+The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the [[Drowned]] world.
 
 ## Player-Facing Summary
 
@@ -299,7 +299,7 @@ The Breathing Stone is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Breathing Stone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Breathing Stone.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

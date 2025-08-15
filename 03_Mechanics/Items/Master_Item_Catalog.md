@@ -7,7 +7,24 @@ tags:
 type: catalog
 ---
 
+## Mechanics
+- **Type**: Equipment
+- **Rarity**: Uncommon
+- **Attunement**: Not required
+- **Weight**: 1 lb.
+
+
 # Master Item Catalog
+
+
+## History
+The origins and notable events involving this item.
+
+
+## Value
+- **Market Price**: 50-200 gp
+- **Sell Price**: 25-100 gp
+- **Rarity Factor**: Uncommon in most markets
 
 ## Quick Navigation
 - [[#Weapons]] (174)
@@ -15,7 +32,7 @@ type: catalog
 - [[#Artifacts]] (236)
 - [[#Consumables]] (235)
 - [[#Tools]] (2011)
-- [[#Magical Items]] (795)
+- [[Items]] (795)
 
 ## Catalog Statistics
 - **Total Items**: 3777
@@ -28,3685 +45,3726 @@ type: catalog
 
 ### Common
 
-- [[Axe Of The Dwarvish Lords Xdmg]] (A) - 0 gp
-- [[Axe Of The Dwarvish Lords Xdmg (Items)]] (A) - 0 gp
-- [[Axe Of The Dwarvish Lords Xdmg (Items)]] (A) - 0 gp
+- [[Axe of the Dwarvish Lords Xdmg]] (A) - 0 gp
+- [[Axe of the Dwarvish Lords Xdmg]] (A) - 0 gp
+- [[Axe of the Dwarvish Lords Xdmg]] (A) - 0 gp
 - [[Battleaxe Xphb]] - 0 gp
-- [[Battleaxe Xphb (Items)]] - 0 gp
-- [[Battleaxe Xphb (Items)]] - 0 gp
+- [[Battleaxe Xphb]] - 0 gp
+- [[Battleaxe Xphb]] - 0 gp
 - [[Berserker Axe Xdmg]] (A) - 0 gp
-- [[Berserker Axe Xdmg (Items)]] (A) - 0 gp
-- [[Berserker Axe Xdmg (Items)]] (A) - 0 gp
-- [[Bowl Of Commanding Water Elementals Xdmg]] - 0 gp
-- [[Bowl Of Commanding Water Elementals Xdmg (Items)]] - 0 gp
-- [[Bowl Of Commanding Water Elementals Xdmg (Items)]] - 0 gp
+- [[Berserker Axe Xdmg]] (A) - 0 gp
+- [[Berserker Axe Xdmg]] (A) - 0 gp
+- [[bowl-of-commanding-water-elementals-xdmg (items)]] - 0 gp
+- [[bowl-of-commanding-water-elementals-xdmg (items)]] - 0 gp
+- [[bowl-of-commanding-water-elementals-xdmg (items)]] - 0 gp
 - [[Crossbow Bolt Case Xphb]] - 0 gp
-- [[Crossbow Bolt Case Xphb (Items)]] - 0 gp
-- [[Crossbow Bolt Case Xphb (Items)]] - 0 gp
+- [[Crossbow Bolt Case Xphb]] - 0 gp
+- [[Crossbow Bolt Case Xphb]] - 0 gp
 - [[Crusaders Shortsword Cos]] (A) - 0 gp
-- [[Crusaders Shortsword Cos (Items)]] (A) - 0 gp
-- [[Crusaders Shortsword Cos (Items)]] (A) - 0 gp
-- [[Dagger Of Venom Xdmg]] - 0 gp
-- [[Dagger Of Venom Xdmg (Items)]] - 0 gp
-- [[Dagger Of Venom Xdmg (Items)]] - 0 gp
+- [[crusaders-shortsword-cos (items)]] (A) - 0 gp
+- [[crusaders-shortsword-cos (items)]] (A) - 0 gp
+- [[dagger-of-venom-xdmg (items)]] - 0 gp
+- [[dagger-of-venom-xdmg (items)]] - 0 gp
+- [[dagger-of-venom-xdmg (items)]] - 0 gp
 - [[Dagger Xphb]] - 0 gp
-- [[Dagger Xphb (Items)]] - 0 gp
-- [[Dagger Xphb (Items)]] - 0 gp
+- [[Dagger Xphb]] - 0 gp
+- [[Dagger Xphb]] - 0 gp
 - [[Dancing Sword Xdmg]] (A) - 0 gp
-- [[Dancing Sword Xdmg (Items)]] (A) - 0 gp
-- [[Dancing Sword Xdmg (Items)]] (A) - 0 gp
+- [[Dancing Sword Xdmg]] (A) - 0 gp
+- [[Dancing Sword Xdmg]] (A) - 0 gp
 - [[Dragon Sensing Longsword Pota]] - 0 gp
-- [[Dragon Sensing Longsword Pota (Items)]] - 0 gp
-- [[Dragon Sensing Longsword Pota (Items)]] - 0 gp
+- [[Dragon Sensing Longsword Pota]] - 0 gp
+- [[Dragon Sensing Longsword Pota]] - 0 gp
 - [[Dragontooth Dagger Rot]] - 0 gp
-- [[Dragontooth Dagger Rot (Items)]] - 0 gp
-- [[Dragontooth Dagger Rot (Items)]] - 0 gp
+- [[Dragontooth Dagger Rot]] - 0 gp
+- [[Dragontooth Dagger Rot]] - 0 gp
 - [[Energy Bow Xdmg]] (A) - 0 gp
-- [[Energy Bow Xdmg (Items)]] (A) - 0 gp
-- [[Energy Bow Xdmg (Items)]] (A) - 0 gp
+- [[energy-bow-xdmg (items)]] (A) - 0 gp
+- [[energy-bow-xdmg (items)]] (A) - 0 gp
 - [[Executioners Axe Xdmg]] - 0 gp
-- [[Executioners Axe Xdmg (Items)]] - 0 gp
-- [[Executioners Axe Xdmg (Items)]] - 0 gp
+- [[executioners-axe-xdmg (items)]] - 0 gp
+- [[executioners-axe-xdmg (items)]] - 0 gp
 - [[Greataxe Xphb]] - 0 gp
-- [[Greataxe Xphb (Items)]] - 0 gp
-- [[Greataxe Xphb (Items)]] - 0 gp
+- [[Greataxe Xphb]] - 0 gp
+- [[Greataxe Xphb]] - 0 gp
 - [[Greater Silver Sword Mtf]] (A) - 0 gp
-- [[Greater Silver Sword Mtf (Items)]] (A) - 0 gp
-- [[Greater Silver Sword Mtf (Items)]] (A) - 0 gp
+- [[Greater Silver Sword Mtf]] (A) - 0 gp
+- [[Greater Silver Sword Mtf]] (A) - 0 gp
 - [[Greatsword Xphb]] - 0 gp
-- [[Greatsword Xphb (Items)]] - 0 gp
-- [[Greatsword Xphb (Items)]] - 0 gp
+- [[Greatsword Xphb]] - 0 gp
+- [[Greatsword Xphb]] - 0 gp
 - [[Hand Crossbow Xphb]] - 0 gp
-- [[Hand Crossbow Xphb (Items)]] - 0 gp
-- [[Hand Crossbow Xphb (Items)]] - 0 gp
+- [[hand-crossbow-xphb (items)]] - 0 gp
+- [[hand-crossbow-xphb (items)]] - 0 gp
 - [[Handaxe Xphb]] - 0 gp
-- [[Handaxe Xphb (Items)]] - 0 gp
-- [[Handaxe Xphb (Items)]] - 0 gp
+- [[handaxe-xphb (items)]] - 0 gp
+- [[handaxe-xphb (items)]] - 0 gp
 - [[Heavy Crossbow Xphb]] - 0 gp
-- [[Heavy Crossbow Xphb (Items)]] - 0 gp
-- [[Heavy Crossbow Xphb (Items)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V1 Dagger Of Venom Xdmg.Png]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V1 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V1 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V2 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V2 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V3 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V3 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V4 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V4 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V5 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V5 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V6 Dagger Of Venom Xdmg.Png]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V6 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V6 Dagger Of Venom Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V7 Dagger Of Venom Xdmg.Png]] - 0 gp
+- [[Heavy Crossbow Xphb]] - 0 gp
+- [[Heavy Crossbow Xphb]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
 - [[Light Crossbow Xphb]] - 0 gp
-- [[Light Crossbow Xphb (Items)]] - 0 gp
-- [[Light Crossbow Xphb (Items)]] - 0 gp
+- [[light-crossbow-xphb (items)]] - 0 gp
+- [[light-crossbow-xphb (items)]] - 0 gp
 - [[Light Repeating Crossbow Oota]] - 0 gp
-- [[Light Repeating Crossbow Oota (Items)]] - 0 gp
-- [[Light Repeating Crossbow Oota (Items)]] - 0 gp
+- [[Light Repeating Crossbow Oota]] - 0 gp
+- [[Light Repeating Crossbow Oota]] - 0 gp
 - [[Longbow Xphb]] - 0 gp
-- [[Longbow Xphb (Items)]] - 0 gp
-- [[Longbow Xphb (Items)]] - 0 gp
+- [[longbow-xphb (items)]] - 0 gp
+- [[longbow-xphb (items)]] - 0 gp
 - [[Longsword Xphb]] - 0 gp
-- [[Longsword Xphb (Items)]] - 0 gp
-- [[Longsword Xphb (Items)]] - 0 gp
-- [[Mace Of Disruption Xdmg]] (A) - 0 gp
-- [[Mace Of Disruption Xdmg (Items)]] (A) - 0 gp
-- [[Mace Of Disruption Xdmg (Items)]] (A) - 0 gp
-- [[Mace Of Smiting Xdmg]] - 0 gp
-- [[Mace Of Smiting Xdmg (Items)]] - 0 gp
-- [[Mace Of Smiting Xdmg (Items)]] - 0 gp
-- [[Mace Of Terror Xdmg]] (A) - 0 gp
-- [[Mace Of Terror Xdmg (Items)]] (A) - 0 gp
-- [[Mace Of Terror Xdmg (Items)]] (A) - 0 gp
+- [[Longsword Xphb]] - 0 gp
+- [[Longsword Xphb]] - 0 gp
+- [[mace-of-disruption-xdmg (items)]] (A) - 0 gp
+- [[mace-of-disruption-xdmg (items)]] (A) - 0 gp
+- [[mace-of-disruption-xdmg (items)]] (A) - 0 gp
+- [[mace-of-smiting-xdmg (items)]] - 0 gp
+- [[mace-of-smiting-xdmg (items)]] - 0 gp
+- [[mace-of-smiting-xdmg (items)]] - 0 gp
+- [[mace-of-terror-xdmg (items)]] (A) - 0 gp
+- [[mace-of-terror-xdmg (items)]] (A) - 0 gp
+- [[mace-of-terror-xdmg (items)]] (A) - 0 gp
 - [[Mace Xphb]] - 0 gp
-- [[Mace Xphb (Items)]] - 0 gp
-- [[Mace Xphb (Items)]] - 0 gp
+- [[Mace Xphb]] - 0 gp
+- [[Mace Xphb]] - 0 gp
 - [[Moon Touched Sword Xdmg]] - 0 gp
-- [[Moon Touched Sword Xdmg (Items)]] - 0 gp
-- [[Moon Touched Sword Xdmg (Items)]] - 0 gp
+- [[moon-touched-sword-xdmg (items)]] - 0 gp
+- [[moon-touched-sword-xdmg (items)]] - 0 gp
 - [[Oathbow Xdmg]] (A) - 0 gp
-- [[Oathbow Xdmg (Items)]] (A) - 0 gp
-- [[Oathbow Xdmg (Items)]] (A) - 0 gp
+- [[oathbow-xdmg (items)]] (A) - 0 gp
+- [[oathbow-xdmg (items)]] (A) - 0 gp
 - [[Pathfinders Greataxe Pota]] - 0 gp
-- [[Pathfinders Greataxe Pota (Items)]] - 0 gp
-- [[Pathfinders Greataxe Pota (Items)]] - 0 gp
+- [[Pathfinders Greataxe Pota]] - 0 gp
+- [[Pathfinders Greataxe Pota]] - 0 gp
 - [[Shortbow Xphb]] - 0 gp
-- [[Shortbow Xphb (Items)]] - 0 gp
-- [[Shortbow Xphb (Items)]] - 0 gp
+- [[shortbow-xphb (items)]] - 0 gp
+- [[shortbow-xphb (items)]] - 0 gp
 - [[Shortsword Xphb]] - 0 gp
-- [[Shortsword Xphb (Items)]] - 0 gp
-- [[Shortsword Xphb (Items)]] - 0 gp
+- [[shortsword-xphb (items)]] - 0 gp
+- [[shortsword-xphb (items)]] - 0 gp
 - [[Silver Sword Mtf]] (A) - 0 gp
-- [[Silver Sword Mtf (Items)]] (A) - 0 gp
-- [[Silver Sword Mtf (Items)]] (A) - 0 gp
+- [[silver-sword-mtf (items)]] (A) - 0 gp
+- [[silver-sword-mtf (items)]] (A) - 0 gp
 - [[Sunsword Cos]] (A) - 0 gp
-- [[Sunsword Cos (Items)]] (A) - 0 gp
-- [[Sunsword Cos (Items)]] (A) - 0 gp
-- [[Sword Of Answering Answerer]] (A) - 0 gp
-- [[Sword Of Answering Answerer (Items)]] (A) - 0 gp
-- [[Sword Of Answering Answerer (Items)]] (A) - 0 gp
-- [[Sword Of Answering Back Talker]] (A) - 0 gp
-- [[Sword Of Answering Back Talker (Items)]] (A) - 0 gp
-- [[Sword Of Answering Back Talker (Items)]] (A) - 0 gp
-- [[Sword Of Answering Concluder]] (A) - 0 gp
-- [[Sword Of Answering Concluder (Items)]] (A) - 0 gp
-- [[Sword Of Answering Concluder (Items)]] (A) - 0 gp
-- [[Sword Of Answering Last Quip]] (A) - 0 gp
-- [[Sword Of Answering Last Quip (Items)]] (A) - 0 gp
-- [[Sword Of Answering Last Quip (Items)]] (A) - 0 gp
-- [[Sword Of Answering Rebutter]] (A) - 0 gp
-- [[Sword Of Answering Rebutter (Items)]] (A) - 0 gp
-- [[Sword Of Answering Rebutter (Items)]] (A) - 0 gp
-- [[Sword Of Answering Replier]] (A) - 0 gp
-- [[Sword Of Answering Replier (Items)]] (A) - 0 gp
-- [[Sword Of Answering Replier (Items)]] (A) - 0 gp
-- [[Sword Of Answering Retorter]] (A) - 0 gp
-- [[Sword Of Answering Retorter (Items)]] (A) - 0 gp
-- [[Sword Of Answering Retorter (Items)]] (A) - 0 gp
-- [[Sword Of Answering Scather]] (A) - 0 gp
-- [[Sword Of Answering Scather (Items)]] (A) - 0 gp
-- [[Sword Of Answering Scather (Items)]] (A) - 0 gp
-- [[Sword Of Answering Squelcher]] (A) - 0 gp
-- [[Sword Of Answering Squelcher (Items)]] (A) - 0 gp
-- [[Sword Of Answering Squelcher (Items)]] (A) - 0 gp
-- [[Sword Of Answering Xdmg]] (A) - 0 gp
-- [[Sword Of Answering Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Answering Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Kas Xdmg]] (A) - 0 gp
-- [[Sword Of Kas Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Kas Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Life Stealing Xdmg]] (A) - 0 gp
-- [[Sword Of Life Stealing Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Life Stealing Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Sharpness Xdmg]] (A) - 0 gp
-- [[Sword Of Sharpness Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Sharpness Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Vengeance Xdmg]] (A) - 0 gp
-- [[Sword Of Vengeance Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Vengeance Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Wounding Xdmg]] (A) - 0 gp
-- [[Sword Of Wounding Xdmg (Items)]] (A) - 0 gp
-- [[Sword Of Wounding Xdmg (Items)]] (A) - 0 gp
+- [[sunsword-cos (items)]] (A) - 0 gp
+- [[sunsword-cos (items)]] (A) - 0 gp
+- [[Sword of Answering Answerer]] (A) - 0 gp
+- [[Sword of Answering Answerer]] (A) - 0 gp
+- [[Sword of Answering Answerer]] (A) - 0 gp
+- [[sword-of-answering-back-talker (items)]] (A) - 0 gp
+- [[sword-of-answering-back-talker (items)]] (A) - 0 gp
+- [[sword-of-answering-back-talker (items)]] (A) - 0 gp
+- [[Sword of Answering Concluder]] (A) - 0 gp
+- [[Sword of Answering Concluder]] (A) - 0 gp
+- [[Sword of Answering Concluder]] (A) - 0 gp
+- [[sword-of-answering-last-quip (items)]] (A) - 0 gp
+- [[sword-of-answering-last-quip (items)]] (A) - 0 gp
+- [[sword-of-answering-last-quip (items)]] (A) - 0 gp
+- [[Sword of Answering Rebutter]] (A) - 0 gp
+- [[Sword of Answering Rebutter]] (A) - 0 gp
+- [[Sword of Answering Rebutter]] (A) - 0 gp
+- [[sword-of-answering-replier (items)]] (A) - 0 gp
+- [[sword-of-answering-replier (items)]] (A) - 0 gp
+- [[sword-of-answering-replier (items)]] (A) - 0 gp
+- [[sword-of-answering-retorter (items)]] (A) - 0 gp
+- [[sword-of-answering-retorter (items)]] (A) - 0 gp
+- [[sword-of-answering-retorter (items)]] (A) - 0 gp
+- [[sword-of-answering-scather (items)]] (A) - 0 gp
+- [[sword-of-answering-scather (items)]] (A) - 0 gp
+- [[sword-of-answering-scather (items)]] (A) - 0 gp
+- [[sword-of-answering-squelcher (items)]] (A) - 0 gp
+- [[sword-of-answering-squelcher (items)]] (A) - 0 gp
+- [[sword-of-answering-squelcher (items)]] (A) - 0 gp
+- [[Sword of Answering Xdmg]] (A) - 0 gp
+- [[Sword of Answering Xdmg]] (A) - 0 gp
+- [[Sword of Answering Xdmg]] (A) - 0 gp
+- [[Sword of Kas Xdmg]] (A) - 0 gp
+- [[Sword of Kas Xdmg]] (A) - 0 gp
+- [[Sword of Kas Xdmg]] (A) - 0 gp
+- [[sword-of-life-stealing-xdmg (items)]] (A) - 0 gp
+- [[sword-of-life-stealing-xdmg (items)]] (A) - 0 gp
+- [[sword-of-life-stealing-xdmg (items)]] (A) - 0 gp
+- [[sword-of-sharpness-xdmg (items)]] (A) - 0 gp
+- [[sword-of-sharpness-xdmg (items)]] (A) - 0 gp
+- [[sword-of-sharpness-xdmg (items)]] (A) - 0 gp
+- [[Sword of Vengeance Xdmg]] (A) - 0 gp
+- [[Sword of Vengeance Xdmg]] (A) - 0 gp
+- [[Sword of Vengeance Xdmg]] (A) - 0 gp
+- [[Sword of Wounding Xdmg]] (A) - 0 gp
+- [[Sword of Wounding Xdmg]] (A) - 0 gp
+- [[Sword of Wounding Xdmg]] (A) - 0 gp
 - [[Vorpal Sword Xdmg]] (A) - 0 gp
-- [[Vorpal Sword Xdmg (Items)]] (A) - 0 gp
-- [[Vorpal Sword Xdmg (Items)]] (A) - 0 gp
+- [[Vorpal Sword Xdmg]] (A) - 0 gp
+- [[Vorpal Sword Xdmg]] (A) - 0 gp
 - [[Yester Hill Axe Cos]] - 0 gp
-- [[Yester Hill Axe Cos (Items)]] - 0 gp
-- [[Yester Hill Axe Cos (Items)]] - 0 gp
+- [[Yester Hill Axe Cos]] - 0 gp
+- [[Yester Hill Axe Cos]] - 0 gp
 
 ### Uncommon
 
-- [[Item Artifact Dagger Of Venom Xdmg V2 Dagger Of Venom Xdmg.Png]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V4 Dagger Of Venom Xdmg.Png]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
 
 ### Very Rare
 
-- [[Item Artifact Dagger Of Venom Xdmg Dagger Of Venom Xdmg.Png]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V3 Dagger Of Venom Xdmg.Png]] - 0 gp
-- [[Item Artifact Dagger Of Venom Xdmg V5 Dagger Of Venom Xdmg.Png]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
+- [[Dagger of Venom Xdmg]] - 0 gp
 
 ## 🛡️ Armor
 
 ### Common
 
-- [[03 People Armorer Padwick]] (A) - 0 gp
+- [[People]] (A) - 0 gp
 - [[1 Armor Xdmg]] - 0 gp
-- [[1 Armor Xdmg (Items)]] - 0 gp
-- [[1 Armor Xdmg (Items)]] - 0 gp
+- [[1 Armor Xdmg]] - 0 gp
+- [[1 Armor Xdmg]] - 0 gp
 - [[1 Shield Xdmg]] - 0 gp
-- [[1 Shield Xdmg (Items)]] - 0 gp
-- [[1 Shield Xdmg (Items)]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
 - [[2 Armor Xdmg]] - 0 gp
-- [[2 Armor Xdmg (Items)]] - 0 gp
-- [[2 Armor Xdmg (Items)]] - 0 gp
+- [[2-armor-xdmg (items)]] - 0 gp
+- [[2-armor-xdmg (items)]] - 0 gp
 - [[2 Shield Xdmg]] - 0 gp
-- [[2 Shield Xdmg (Items)]] - 0 gp
-- [[2 Shield Xdmg (Items)]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
 - [[3 Armor Xdmg]] - 0 gp
-- [[3 Armor Xdmg (Items)]] - 0 gp
-- [[3 Armor Xdmg (Items)]] - 0 gp
+- [[3 Armor Xdmg]] - 0 gp
+- [[3 Armor Xdmg]] - 0 gp
 - [[3 Shield Xdmg]] - 0 gp
-- [[3 Shield Xdmg (Items)]] - 0 gp
-- [[3 Shield Xdmg (Items)]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
 - [[Adamantine Armor Xdmg]] - 0 gp
-- [[Adamantine Armor Xdmg (Items)]] - 0 gp
-- [[Adamantine Armor Xdmg (Items)]] - 0 gp
+- [[Adamantine Armor Xdmg]] - 0 gp
+- [[Adamantine Armor Xdmg]] - 0 gp
 - [[Animated Shield Xdmg]] (A) - 0 gp
-- [[Animated Shield Xdmg (Items)]] (A) - 0 gp
-- [[Animated Shield Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Acid Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Acid Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Acid Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Cold Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Cold Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Cold Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Fire Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Fire Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Fire Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Force Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Force Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Force Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Gleaming Xdmg]] - 0 gp
-- [[Armor Of Gleaming Xdmg (Items)]] - 0 gp
-- [[Armor Of Gleaming Xdmg (Items)]] - 0 gp
-- [[Armor Of Invulnerability Xdmg]] (A) - 0 gp
-- [[Armor Of Invulnerability Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Invulnerability Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Lightning Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Lightning Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Lightning Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Necrotic Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Necrotic Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Necrotic Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Poison Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Poison Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Poison Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Psychic Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Psychic Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Psychic Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Radiant Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Radiant Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Radiant Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Thunder Resistance Xdmg]] (A) - 0 gp
-- [[Armor Of Thunder Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Thunder Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Bludgeoning Xdmg]] (A) - 0 gp
-- [[Armor Of Vulnerability Bludgeoning Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Bludgeoning Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Piercing Xdmg]] (A) - 0 gp
-- [[Armor Of Vulnerability Piercing Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Piercing Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Slashing Xdmg]] (A) - 0 gp
-- [[Armor Of Vulnerability Slashing Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Slashing Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Xdmg]] (A) - 0 gp
-- [[Armor Of Vulnerability Xdmg (Items)]] (A) - 0 gp
-- [[Armor Of Vulnerability Xdmg (Items)]] (A) - 0 gp
-- [[Armorer Padwick]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Armor of Acid Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Acid Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Acid Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Cold Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Cold Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Cold Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Fire Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Fire Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Fire Resistance Xdmg]] (A) - 0 gp
+- [[armor-of-force-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-force-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-force-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-gleaming-xdmg (items)]] - 0 gp
+- [[armor-of-gleaming-xdmg (items)]] - 0 gp
+- [[armor-of-gleaming-xdmg (items)]] - 0 gp
+- [[armor-of-invulnerability-xdmg (items)]] (A) - 0 gp
+- [[armor-of-invulnerability-xdmg (items)]] (A) - 0 gp
+- [[armor-of-invulnerability-xdmg (items)]] (A) - 0 gp
+- [[Armor of Lightning Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Lightning Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Lightning Resistance Xdmg]] (A) - 0 gp
+- [[armor-of-necrotic-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-necrotic-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-necrotic-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-poison-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-poison-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-poison-resistance-xdmg (items)]] (A) - 0 gp
+- [[Armor of Psychic Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Psychic Resistance Xdmg]] (A) - 0 gp
+- [[Armor of Psychic Resistance Xdmg]] (A) - 0 gp
+- [[armor-of-radiant-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-radiant-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-radiant-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-thunder-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-thunder-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-thunder-resistance-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-bludgeoning-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-bludgeoning-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-bludgeoning-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-piercing-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-piercing-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-piercing-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-slashing-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-slashing-xdmg (items)]] (A) - 0 gp
+- [[armor-of-vulnerability-slashing-xdmg (items)]] (A) - 0 gp
+- [[Armor of Vulnerability Xdmg]] (A) - 0 gp
+- [[Armor of Vulnerability Xdmg]] (A) - 0 gp
+- [[Armor of Vulnerability Xdmg]] (A) - 0 gp
+- [[03_People_Armorer_Padwick]] (A) - 0 gp
 - [[Arrow Catching Shield Xdmg]] (A) - 0 gp
-- [[Arrow Catching Shield Xdmg (Items)]] (A) - 0 gp
-- [[Arrow Catching Shield Xdmg (Items)]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
 - [[Black Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Black Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Black Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[black-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[black-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 - [[Blue Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Blue Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Blue Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[blue-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[blue-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 - [[Brass Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Brass Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Brass Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[Brass Dragon]] (A) - 0 gp
+- [[Brass Dragon]] (A) - 0 gp
 - [[Bronze Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Bronze Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Bronze Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Brooch Of Shielding Xdmg]] (A) - 0 gp
-- [[Brooch Of Shielding Xdmg (Items)]] (A) - 0 gp
-- [[Brooch Of Shielding Xdmg (Items)]] (A) - 0 gp
+- [[Bronze Dragon]] (A) - 0 gp
+- [[Bronze Dragon]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
 - [[Cast Off Armor Xdmg]] - 0 gp
-- [[Cast Off Armor Xdmg (Items)]] - 0 gp
-- [[Cast Off Armor Xdmg (Items)]] - 0 gp
+- [[Cast Off Armor Xdmg]] - 0 gp
+- [[Cast Off Armor Xdmg]] - 0 gp
 - [[Ceremonial Gold Armor With Black Pearls Xdmg]] - 0 gp
-- [[Ceremonial Gold Armor With Black Pearls Xdmg (Items)]] - 0 gp
-- [[Ceremonial Gold Armor With Black Pearls Xdmg (Items)]] - 0 gp
+- [[ceremonial-gold-armor-with-black-pearls-xdmg (items)]] - 0 gp
+- [[ceremonial-gold-armor-with-black-pearls-xdmg (items)]] - 0 gp
 - [[Chain Mail Xphb]] - 0 gp
-- [[Chain Mail Xphb (Items)]] - 0 gp
-- [[Chain Mail Xphb (Items)]] - 0 gp
+- [[chain-mail-xphb (items)]] - 0 gp
+- [[chain-mail-xphb (items)]] - 0 gp
 - [[Copper Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Copper Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Copper Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[copper-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[copper-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 - [[Demon Armor Xdmg]] (A) - 0 gp
-- [[Demon Armor Xdmg (Items)]] (A) - 0 gp
-- [[Demon Armor Xdmg (Items)]] (A) - 0 gp
+- [[Demon Armor Xdmg]] (A) - 0 gp
+- [[Demon Armor Xdmg]] (A) - 0 gp
 - [[Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[red-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[red-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 - [[Dread Helm Xdmg]] - 0 gp
-- [[Dread Helm Xdmg (Items)]] - 0 gp
-- [[Dread Helm Xdmg (Items)]] - 0 gp
+- [[Dread Helm Xdmg]] - 0 gp
+- [[Dread Helm Xdmg]] - 0 gp
 - [[Drow 1 Armor Mm]] - 0 gp
-- [[Drow 1 Armor Mm (Items)]] - 0 gp
-- [[Drow 1 Armor Mm (Items)]] - 0 gp
+- [[Drow 1 Armor Mm]] - 0 gp
+- [[Drow 1 Armor Mm]] - 0 gp
 - [[Drow 2 Armor Mm]] - 0 gp
-- [[Drow 2 Armor Mm (Items)]] - 0 gp
-- [[Drow 2 Armor Mm (Items)]] - 0 gp
+- [[Drow 2 Armor Mm]] - 0 gp
+- [[Drow 2 Armor Mm]] - 0 gp
 - [[Drow 3 Armor Mm]] - 0 gp
-- [[Drow 3 Armor Mm (Items)]] - 0 gp
-- [[Drow 3 Armor Mm (Items)]] - 0 gp
+- [[drow-3-armor-mm (items)]] - 0 gp
+- [[drow-3-armor-mm (items)]] - 0 gp
 - [[Enspelled Armor Cantrip Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Cantrip Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Cantrip Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-cantrip-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-cantrip-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 1 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 1 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 1 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-1-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-1-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 2 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 2 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 2 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Armor Level 2 Xdmg]] (A) - 0 gp
+- [[Enspelled Armor Level 2 Xdmg]] (A) - 0 gp
 - [[Enspelled Armor Level 3 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 3 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 3 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-3-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-3-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 4 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 4 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 4 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-4-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-4-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 5 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 5 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 5 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-5-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-5-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 6 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 6 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 6 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-6-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-6-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Level 7 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 7 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 7 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] (A) - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] (A) - 0 gp
 - [[Enspelled Armor Level 8 Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Level 8 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Level 8 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-level-8-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-level-8-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Armor Xdmg]] (A) - 0 gp
-- [[Enspelled Armor Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Armor Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-armor-xdmg (items)]] (A) - 0 gp
+- [[enspelled-armor-xdmg (items)]] (A) - 0 gp
 - [[Gold Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Gold Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Gold Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[Gold Dragon]] (A) - 0 gp
+- [[Gold Dragon]] (A) - 0 gp
 - [[Green Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Green Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Green Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Half Plate Armor Of Etherealness Xdmg]] (A) - 0 gp
-- [[Half Plate Armor Of Etherealness Xdmg (Items)]] (A) - 0 gp
-- [[Half Plate Armor Of Etherealness Xdmg (Items)]] (A) - 0 gp
+- [[green-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[green-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[Half Plate Armor of Etherealness Xdmg]] (A) - 0 gp
+- [[Half Plate Armor of Etherealness Xdmg]] (A) - 0 gp
+- [[Half Plate Armor of Etherealness Xdmg]] (A) - 0 gp
 - [[Half Plate Armor Xphb]] - 0 gp
-- [[Half Plate Armor Xphb (Items)]] - 0 gp
-- [[Half Plate Armor Xphb (Items)]] - 0 gp
-- [[Helm Of Brilliance Xdmg]] - 0 gp
-- [[Helm Of Brilliance Xdmg (Items)]] - 0 gp
-- [[Helm Of Brilliance Xdmg (Items)]] - 0 gp
-- [[Helm Of Comprehending Languages Xdmg]] - 0 gp
-- [[Helm Of Comprehending Languages Xdmg (Items)]] - 0 gp
-- [[Helm Of Comprehending Languages Xdmg (Items)]] - 0 gp
-- [[Helm Of Telepathy Xdmg]] (A) - 0 gp
-- [[Helm Of Telepathy Xdmg (Items)]] (A) - 0 gp
-- [[Helm Of Telepathy Xdmg (Items)]] (A) - 0 gp
-- [[Helm Of Teleportation Xdmg]] (A) - 0 gp
-- [[Helm Of Teleportation Xdmg (Items)]] (A) - 0 gp
-- [[Helm Of Teleportation Xdmg (Items)]] (A) - 0 gp
+- [[plate-armor-xphb (items)]] - 0 gp
+- [[plate-armor-xphb (items)]] - 0 gp
+- [[Helm of Brilliance Xdmg]] - 0 gp
+- [[Helm of Brilliance Xdmg]] - 0 gp
+- [[Helm of Brilliance Xdmg]] - 0 gp
+- [[helm-of-comprehending-languages-xdmg (items)]] - 0 gp
+- [[helm-of-comprehending-languages-xdmg (items)]] - 0 gp
+- [[helm-of-comprehending-languages-xdmg (items)]] - 0 gp
+- [[Helm of Telepathy Xdmg]] (A) - 0 gp
+- [[Helm of Telepathy Xdmg]] (A) - 0 gp
+- [[Helm of Telepathy Xdmg]] (A) - 0 gp
+- [[Helm of Teleportation Xdmg]] (A) - 0 gp
+- [[Helm of Teleportation Xdmg]] (A) - 0 gp
+- [[Helm of Teleportation Xdmg]] (A) - 0 gp
 - [[Hide Armor Xphb]] - 0 gp
-- [[Hide Armor Xphb (Items)]] - 0 gp
-- [[Hide Armor Xphb (Items)]] - 0 gp
-- [[Houses And Nobility   House Brightshield]] (A) - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V1 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V2 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V2 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V5 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V5 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V6 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V6 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V2 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V2 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V2 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V2 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V3 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V3 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V4 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V4 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V5 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V5 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V5 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V5 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V6 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V6 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V7 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Whelm Xdmg V7 Whelm Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Types#Heavy%20Armor]] (A) - 0 gp
-- [[Item Types#Heavy%20Armor]] (A) - 0 gp
-- [[Item Types#Light%20Armor]] (A) - 0 gp
-- [[Item Types#Light%20Armor]] (A) - 0 gp
-- [[Item Types#Medium%20Armor]] (A) - 0 gp
-- [[Item Types#Medium%20Armor]] (A) - 0 gp
+- [[Armor Xphb]] - 0 gp
+- [[Armor Xphb]] - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Item Types]] (A) - 0 gp
+- [[Item Types]] (A) - 0 gp
+- [[Item Types]] (A) - 0 gp
+- [[Item Types]] (A) - 0 gp
+- [[Item Types]] (A) - 0 gp
+- [[Item Types]] (A) - 0 gp
 - [[Leather Armor Xphb]] - 0 gp
-- [[Leather Armor Xphb (Items)]] - 0 gp
-- [[Leather Armor Xphb (Items)]] - 0 gp
+- [[studded-leather-armor-xphb (items)]] - 0 gp
+- [[studded-leather-armor-xphb (items)]] - 0 gp
 - [[Mariners Armor Xdmg]] - 0 gp
-- [[Mariners Armor Xdmg (Items)]] - 0 gp
-- [[Mariners Armor Xdmg (Items)]] - 0 gp
+- [[Marin]] - 0 gp
+- [[Marin]] - 0 gp
 - [[Mind Carapace Armor Vgm]] (A) - 0 gp
-- [[Mind Carapace Armor Vgm (Items)]] (A) - 0 gp
-- [[Mind Carapace Armor Vgm (Items)]] (A) - 0 gp
+- [[mind-carapace-armor-vgm (items)]] (A) - 0 gp
+- [[mind-carapace-armor-vgm (items)]] (A) - 0 gp
 - [[Mithral Armor Xdmg]] - 0 gp
-- [[Mithral Armor Xdmg (Items)]] - 0 gp
-- [[Mithral Armor Xdmg (Items)]] - 0 gp
+- [[Mithral Armor Xdmg]] - 0 gp
+- [[Mithral Armor Xdmg]] - 0 gp
 - [[Padded Armor Xphb]] - 0 gp
-- [[Padded Armor Xphb (Items)]] - 0 gp
-- [[Padded Armor Xphb (Items)]] - 0 gp
-- [[Plate Armor Of Etherealness Xdmg]] (A) - 0 gp
-- [[Plate Armor Of Etherealness Xdmg (Items)]] (A) - 0 gp
-- [[Plate Armor Of Etherealness Xdmg (Items)]] (A) - 0 gp
+- [[padded-armor-xphb (items)]] - 0 gp
+- [[padded-armor-xphb (items)]] - 0 gp
+- [[Half Plate Armor of Etherealness Xdmg]] (A) - 0 gp
+- [[half-plate-armor-of-etherealness-xdmg (items)]] (A) - 0 gp
+- [[half-plate-armor-of-etherealness-xdmg (items)]] (A) - 0 gp
 - [[Plate Armor Xphb]] - 0 gp
-- [[Plate Armor Xphb (Items)]] - 0 gp
-- [[Plate Armor Xphb (Items)]] - 0 gp
+- [[plate-armor-xphb (items)]] - 0 gp
+- [[plate-armor-xphb (items)]] - 0 gp
 - [[Red Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Red Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Red Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[red-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[red-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 - [[Ring Mail Xphb]] - 0 gp
-- [[Ring Mail Xphb (Items)]] - 0 gp
-- [[Ring Mail Xphb (Items)]] - 0 gp
-- [[Ring Of Mind Shielding Xdmg]] (A) - 0 gp
-- [[Ring Of Mind Shielding Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Mind Shielding Xdmg (Items)]] (A) - 0 gp
+- [[Ring Mail Xphb]] - 0 gp
+- [[Ring Mail Xphb]] - 0 gp
+- [[ring-of-mind-shielding-xdmg (items)]] (A) - 0 gp
+- [[ring-of-mind-shielding-xdmg (items)]] (A) - 0 gp
+- [[ring-of-mind-shielding-xdmg (items)]] (A) - 0 gp
 - [[Scale Mail Xphb]] - 0 gp
-- [[Scale Mail Xphb (Items)]] - 0 gp
-- [[Scale Mail Xphb (Items)]] - 0 gp
+- [[Scale Mail Xphb]] - 0 gp
+- [[Scale Mail Xphb]] - 0 gp
 - [[Sentinel Shield Xdmg]] - 0 gp
-- [[Sentinel Shield Xdmg (Items)]] - 0 gp
-- [[Sentinel Shield Xdmg (Items)]] - 0 gp
-- [[Shield Of Expression Xdmg]] - 0 gp
-- [[Shield Of Expression Xdmg (Items)]] - 0 gp
-- [[Shield Of Expression Xdmg (Items)]] - 0 gp
-- [[Shield Of Far Sight Vgm]] - 0 gp
-- [[Shield Of Far Sight Vgm (Items)]] - 0 gp
-- [[Shield Of Far Sight Vgm (Items)]] - 0 gp
-- [[Shield Of Missile Attraction Xdmg]] (A) - 0 gp
-- [[Shield Of Missile Attraction Xdmg (Items)]] (A) - 0 gp
-- [[Shield Of Missile Attraction Xdmg (Items)]] (A) - 0 gp
-- [[Shield Of The Cavalier Xdmg]] (A) - 0 gp
-- [[Shield Of The Cavalier Xdmg (Items)]] (A) - 0 gp
-- [[Shield Of The Cavalier Xdmg (Items)]] (A) - 0 gp
-- [[Shield Of The Silver Dragon Cos]] - 0 gp
-- [[Shield Of The Silver Dragon Cos (Items)]] - 0 gp
-- [[Shield Of The Silver Dragon Cos (Items)]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
+- [[shield-of-missile-attraction-xdmg (items)]] (A) - 0 gp
+- [[shield-of-missile-attraction-xdmg (items)]] (A) - 0 gp
+- [[shield-of-missile-attraction-xdmg (items)]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Silver Dragon]] - 0 gp
+- [[Silver Dragon]] - 0 gp
+- [[Silver Dragon]] - 0 gp
 - [[Shield Xphb]] - 0 gp
-- [[Shield Xphb (Items)]] - 0 gp
-- [[Shield Xphb (Items)]] - 0 gp
+- [[Shield]] - 0 gp
+- [[Shield]] - 0 gp
 - [[Silver Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[Silver Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[Silver Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[Silver Dragon]] (A) - 0 gp
+- [[Silver Dragon]] (A) - 0 gp
 - [[Smoldering Armor Xdmg]] - 0 gp
-- [[Smoldering Armor Xdmg (Items)]] - 0 gp
-- [[Smoldering Armor Xdmg (Items)]] - 0 gp
+- [[Smoldering Armor Xdmg]] - 0 gp
+- [[Smoldering Armor Xdmg]] - 0 gp
 - [[Spellguard Shield Xdmg]] (A) - 0 gp
-- [[Spellguard Shield Xdmg (Items)]] (A) - 0 gp
-- [[Spellguard Shield Xdmg (Items)]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
+- [[Shield]] (A) - 0 gp
 - [[Splint Armor Xphb]] - 0 gp
-- [[Splint Armor Xphb (Items)]] - 0 gp
-- [[Splint Armor Xphb (Items)]] - 0 gp
+- [[splint-armor-xphb (items)]] - 0 gp
+- [[splint-armor-xphb (items)]] - 0 gp
 - [[Studded Leather Armor Xphb]] - 0 gp
-- [[Studded Leather Armor Xphb (Items)]] - 0 gp
-- [[Studded Leather Armor Xphb (Items)]] - 0 gp
+- [[studded-leather-armor-xphb (items)]] - 0 gp
+- [[studded-leather-armor-xphb (items)]] - 0 gp
 - [[Whelm Xdmg]] (A) - 0 gp
-- [[Whelm Xdmg (Items)]] (A) - 0 gp
-- [[Whelm Xdmg (Items)]] (A) - 0 gp
+- [[whelm-xdmg (items)]] (A) - 0 gp
+- [[whelm-xdmg (items)]] (A) - 0 gp
 - [[White Dragon Scale Mail Xdmg]] (A) - 0 gp
-- [[White Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
-- [[White Dragon Scale Mail Xdmg (Items)]] (A) - 0 gp
+- [[white-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
+- [[white-dragon-scale-mail-xdmg (items)]] (A) - 0 gp
 
 ### Uncommon
 
-- [[Dual State Armor (Items)]] (A) - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V4 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V3 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V3 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V7 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V7 Whelm Xdmg.Png]] - 0 gp
+- [[Dual State Armor]] (A) - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
 
 ### Rare
 
-- [[Crystal Enhanced Armor]] (A) - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V3 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V5 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V6 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V6 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg Whelm Xdmg.Png]] - 0 gp
+- [[Crystal-Enhanced Armor]] (A) - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
 
 ### Very Rare
 
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
 
 ### Legendary
 
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V2 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Enspelled Armor Level 7 Xdmg V6 Enspelled Armor Level 7 Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V1 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V1 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V4 Whelm Xdmg.Png]] - 0 gp
-- [[Item Artifact Whelm Xdmg V4 Whelm Xdmg.Png]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Enspelled Armor Level 7 Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
+- [[Whelm Xdmg]] - 0 gp
 
 ## ✨ Artifacts
 
 ### Common
 
 - [[Crystal Ball Legendary Version]] (A) - 0 gp
-- [[Crystal Ball Legendary Version (Items)]] (A) - 0 gp
-- [[Crystal Ball Legendary Version (Items)]] (A) - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V1 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V1 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V2 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V2 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V3 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V3 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V3 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V4 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V4 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V5 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V5 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V6 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V6 Boots Of Striding And Springing Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V1 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V1 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V5 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V5 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V6 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V6 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V6 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V7 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V7 Explorers Pack Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V1 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V1 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V2 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V2 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V3 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V3 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V4 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V5 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V5 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V6 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V6 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V6 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V7 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V7 Ioun Stone Greater Absorption Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V1 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V1 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V2 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V2 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V3 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V3 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V4 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V4 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V5 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V5 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V7 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Mess Kit V7 Mess Kit.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V3 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V3 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V1 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V1 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V1 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V1 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V2 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V2 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V2 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V2 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V3 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V3 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V4 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V4 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V5 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V5 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V6 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V6 Ruby Xdmg.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Ruby Xdmg V7 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V7 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Spell Gem Lapis Lazuli Oota V3 Spell Gem Lapis Lazuli Oota.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V1 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V1 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V4 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V4 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V5 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V5 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V7 Travelers Clothes Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V2 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V2 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V3 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V3 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V4 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V4 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V4 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V4 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V5 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V5 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V5 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V5 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V6 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V6 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V7 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V7 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V7 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Warhammer Xphb V7 Warhammer Xphb.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V1 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V1 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V1 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V2 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V2 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V4 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V4 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V6 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V6 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V7 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Weird Tank Pota V7 Weird Tank Pota.Png (Consolidated)]] - 0 gp
-- [[Item Artifact Windvane Pota Windvane Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota Windvane Pota.Png]] - 0 gp
-- [[Random Magic Items Relics (Tables)]] - 0 gp
+- [[crystal-ball-legendary-version (items)]] (A) - 0 gp
+- [[crystal-ball-legendary-version (items)]] (A) - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Random Magic Items Relics]] - 0 gp
 
 ### Uncommon
 
-- [[Item Artifact Boots Of Striding And Springing Xdmg V7 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V5 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Mess Kit V1 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V1 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V5 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V5 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V6 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V6 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V7 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V7 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V6 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V6 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Spell Gem Lapis Lazuli Oota Spell Gem Lapis Lazuli Oota.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V5 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V1 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V1 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V2 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V2 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V2 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V6 Windvane Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V6 Windvane Pota.Png]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
 
 ### Rare
 
-- [[Item Artifact Boots Of Striding And Springing Xdmg V1 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V2 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V4 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V5 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V2 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V2 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V3 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Mess Kit V3 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V3 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V4 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V4 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V4 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V1 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V4 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V3 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V5 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V6 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V4 Windvane Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V4 Windvane Pota.Png]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
 
 ### Very Rare
 
-- [[Item Artifact Boots Of Striding And Springing Xdmg Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Boots Of Striding And Springing Xdmg V6 Boots Of Striding And Springing Xdmg.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V1 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V5 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V1 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Ioun Stone Greater Absorption Xdmg V7 Ioun Stone Greater Absorption Xdmg.Png]] - 0 gp
-- [[Item Artifact Mess Kit Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V2 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Mess Kit V2 Mess Kit.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V3 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V5 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V5 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V3 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V3 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V6 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb V6 Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Warhammer Xphb Warhammer Xphb.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V7 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V7 Windvane Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V7 Windvane Pota.Png]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Boots of Striding and Springing Xdmg]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Ioun Stone Greater Absorption Xdmg]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Warhammer Xphb]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
 
 ### Legendary
 
 - [[Ancient Artifacts System]] (A) - 0 gp
-- [[Item Artifact Explorers Pack Xphb Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Explorers Pack Xphb V7 Explorers Pack Xphb.Png]] - 0 gp
-- [[Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V3 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V3 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V4 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Ruby Xdmg V4 Ruby Xdmg.Png]] - 0 gp
-- [[Item Artifact Spell Gem Lapis Lazuli Oota V1 Spell Gem Lapis Lazuli Oota.Png]] - 0 gp
-- [[Item Artifact Travelers Clothes Xphb V2 Travelers Clothes Xphb.Png]] - 0 gp
-- [[Item Artifact Weird Tank Pota V4 Weird Tank Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V5 Windvane Pota.Png]] - 0 gp
-- [[Item Artifact Windvane Pota V5 Windvane Pota.Png]] - 0 gp
-- [[Pressure Artifacts]] (A) - 0 gp
-- [[Shard Touched Artifacts]] (A) - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
+- [[Travelers Clothes Xphb]] - 0 gp
+- [[Weird Tank Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Windvane Pota]] - 0 gp
+- [[Pressure_Artifacts]] (A) - 0 gp
+- [[Shard-Touched Artifacts]] (A) - 0 gp
 
 ## 🧪 Consumables
 
 ### Common
 
-- [[Map Or Scroll Case Xphb]] - 0 gp
-- [[Map Or Scroll Case Xphb (Items)]] - 0 gp
-- [[Map Or Scroll Case Xphb (Items)]] - 0 gp
-- [[Potion Of Acid Resistance Xdmg]] - 0 gp
-- [[Potion Of Acid Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Acid Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Animal Friendship Xdmg]] - 0 gp
-- [[Potion Of Animal Friendship Xdmg (Items)]] - 0 gp
-- [[Potion Of Animal Friendship Xdmg (Items)]] - 0 gp
-- [[Potion Of Clairvoyance Xdmg]] - 0 gp
-- [[Potion Of Clairvoyance Xdmg (Items)]] - 0 gp
-- [[Potion Of Clairvoyance Xdmg (Items)]] - 0 gp
-- [[Potion Of Climbing Xdmg]] - 0 gp
-- [[Potion Of Climbing Xdmg (Items)]] - 0 gp
-- [[Potion Of Climbing Xdmg (Items)]] - 0 gp
-- [[Potion Of Cloud Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Cloud Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Cloud Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Cold Resistance Xdmg]] - 0 gp
-- [[Potion Of Cold Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Cold Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Comprehension Xdmg]] - 0 gp
-- [[Potion Of Comprehension Xdmg (Items)]] - 0 gp
-- [[Potion Of Comprehension Xdmg (Items)]] - 0 gp
-- [[Potion Of Diminution Xdmg]] - 0 gp
-- [[Potion Of Diminution Xdmg (Items)]] - 0 gp
-- [[Potion Of Diminution Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Breath Xdmg]] - 0 gp
-- [[Potion Of Fire Breath Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Breath Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Fire Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Resistance Xdmg]] - 0 gp
-- [[Potion Of Fire Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Fire Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Flying Xdmg]] - 0 gp
-- [[Potion Of Flying Xdmg (Items)]] - 0 gp
-- [[Potion Of Flying Xdmg (Items)]] - 0 gp
-- [[Potion Of Force Resistance Xdmg]] - 0 gp
-- [[Potion Of Force Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Force Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Frost Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Frost Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Frost Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Gaseous Form Xdmg]] - 0 gp
-- [[Potion Of Gaseous Form Xdmg (Items)]] - 0 gp
-- [[Potion Of Gaseous Form Xdmg (Items)]] - 0 gp
-- [[Potion Of Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Greater Healing Xdmg]] - 0 gp
-- [[Potion Of Greater Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Greater Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Greater Invisibility Xdmg]] - 0 gp
-- [[Potion Of Greater Invisibility Xdmg (Items)]] - 0 gp
-- [[Potion Of Greater Invisibility Xdmg (Items)]] - 0 gp
-- [[Potion Of Growth Xdmg]] - 0 gp
-- [[Potion Of Growth Xdmg (Items)]] - 0 gp
-- [[Potion Of Growth Xdmg (Items)]] - 0 gp
-- [[Potion Of Healing Gv]] - 0 gp
-- [[Potion Of Healing Gv (Items)]] - 0 gp
-- [[Potion Of Healing Gv (Items)]] - 0 gp
-- [[Potion Of Healing Xdmg]] - 0 gp
-- [[Potion Of Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Heroism Xdmg]] - 0 gp
-- [[Potion Of Heroism Xdmg (Items)]] - 0 gp
-- [[Potion Of Heroism Xdmg (Items)]] - 0 gp
-- [[Potion Of Hill Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Hill Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Hill Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Invisibility Xdmg]] - 0 gp
-- [[Potion Of Invisibility Xdmg (Items)]] - 0 gp
-- [[Potion Of Invisibility Xdmg (Items)]] - 0 gp
-- [[Potion Of Invulnerability Xdmg]] - 0 gp
-- [[Potion Of Invulnerability Xdmg (Items)]] - 0 gp
-- [[Potion Of Invulnerability Xdmg (Items)]] - 0 gp
-- [[Potion Of Lightning Resistance Xdmg]] - 0 gp
-- [[Potion Of Lightning Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Lightning Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Longevity Xdmg]] - 0 gp
-- [[Potion Of Longevity Xdmg (Items)]] - 0 gp
-- [[Potion Of Longevity Xdmg (Items)]] - 0 gp
-- [[Potion Of Mind Reading Xdmg]] - 0 gp
-- [[Potion Of Mind Reading Xdmg (Items)]] - 0 gp
-- [[Potion Of Mind Reading Xdmg (Items)]] - 0 gp
-- [[Potion Of Necrotic Resistance Xdmg]] - 0 gp
-- [[Potion Of Necrotic Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Necrotic Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Poison Resistance Xdmg]] - 0 gp
-- [[Potion Of Poison Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Poison Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Poison Xdmg]] - 0 gp
-- [[Potion Of Poison Xdmg (Items)]] - 0 gp
-- [[Potion Of Poison Xdmg (Items)]] - 0 gp
-- [[Potion Of Psychic Resistance Xdmg]] - 0 gp
-- [[Potion Of Psychic Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Psychic Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Pugilism Xdmg]] - 0 gp
-- [[Potion Of Pugilism Xdmg (Items)]] - 0 gp
-- [[Potion Of Pugilism Xdmg (Items)]] - 0 gp
-- [[Potion Of Radiant Resistance Xdmg]] - 0 gp
-- [[Potion Of Radiant Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Radiant Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Resistance Xdmg]] - 0 gp
-- [[Potion Of Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Speed Xdmg]] - 0 gp
-- [[Potion Of Speed Xdmg (Items)]] - 0 gp
-- [[Potion Of Speed Xdmg (Items)]] - 0 gp
-- [[Potion Of Stone Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Stone Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Stone Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Storm Giant Strength Xdmg]] - 0 gp
-- [[Potion Of Storm Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Storm Giant Strength Xdmg (Items)]] - 0 gp
-- [[Potion Of Superior Healing Xdmg]] - 0 gp
-- [[Potion Of Superior Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Superior Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Supreme Healing Xdmg]] - 0 gp
-- [[Potion Of Supreme Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Supreme Healing Xdmg (Items)]] - 0 gp
-- [[Potion Of Thunder Resistance Xdmg]] - 0 gp
-- [[Potion Of Thunder Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Thunder Resistance Xdmg (Items)]] - 0 gp
-- [[Potion Of Vitality Xdmg]] - 0 gp
-- [[Potion Of Vitality Xdmg (Items)]] - 0 gp
-- [[Potion Of Vitality Xdmg (Items)]] - 0 gp
-- [[Potion Of Water Breathing Xdmg]] - 0 gp
-- [[Potion Of Water Breathing Xdmg (Items)]] - 0 gp
-- [[Potion Of Water Breathing Xdmg (Items)]] - 0 gp
-- [[Potions Of Healing Xdmg]] - 0 gp
-- [[Potions Of Healing Xdmg (Items)]] - 0 gp
-- [[Potions Of Healing Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Aberrations Xdmg]] - 0 gp
-- [[Scroll Of Protection Aberrations Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Aberrations Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Beasts Xdmg]] - 0 gp
-- [[Scroll Of Protection Beasts Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Beasts Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Celestials Xdmg]] - 0 gp
-- [[Scroll Of Protection Celestials Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Celestials Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Constructs Xdmg]] - 0 gp
-- [[Scroll Of Protection Constructs Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Constructs Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Dragons Xdmg]] - 0 gp
-- [[Scroll Of Protection Dragons Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Dragons Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Elementals Xdmg]] - 0 gp
-- [[Scroll Of Protection Elementals Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Elementals Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Fey Xdmg]] - 0 gp
-- [[Scroll Of Protection Fey Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Fey Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Fiends Xdmg]] - 0 gp
-- [[Scroll Of Protection Fiends Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Fiends Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Giants Xdmg]] - 0 gp
-- [[Scroll Of Protection Giants Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Giants Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Humanoids Xdmg]] - 0 gp
-- [[Scroll Of Protection Humanoids Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Humanoids Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Monstrosities Xdmg]] - 0 gp
-- [[Scroll Of Protection Monstrosities Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Monstrosities Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Oozes Xdmg]] - 0 gp
-- [[Scroll Of Protection Oozes Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Oozes Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Plants Xdmg]] - 0 gp
-- [[Scroll Of Protection Plants Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Plants Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Undead Xdmg]] - 0 gp
-- [[Scroll Of Protection Undead Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Undead Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Xdmg]] - 0 gp
-- [[Scroll Of Protection Xdmg (Items)]] - 0 gp
-- [[Scroll Of Protection Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Animal Lord Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Animal Lord Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Animal Lord Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Blob Of]] - 0 gp
-- [[Scroll Of Titan Summoning Blob Of Annihilation Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Colossus Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Colossus Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Colossus Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Elemental]] - 0 gp
-- [[Scroll Of Titan Summoning Elemental Cataclysm Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Empyrean Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Empyrean Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Empyrean Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Kraken Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Kraken Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Kraken Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Tarrasque Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Tarrasque Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Tarrasque Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Xdmg]] - 0 gp
-- [[Scroll Of Titan Summoning Xdmg (Items)]] - 0 gp
-- [[Scroll Of Titan Summoning Xdmg (Items)]] - 0 gp
+- [[map-or-scroll-case-xphb (items)]] - 0 gp
+- [[map-or-scroll-case-xphb (items)]] - 0 gp
+- [[map-or-scroll-case-xphb (items)]] - 0 gp
+- [[Potion of Acid Resistance Xdmg]] - 0 gp
+- [[Potion of Acid Resistance Xdmg]] - 0 gp
+- [[Potion of Acid Resistance Xdmg]] - 0 gp
+- [[potion-of-animal-friendship-xdmg (items)]] - 0 gp
+- [[potion-of-animal-friendship-xdmg (items)]] - 0 gp
+- [[potion-of-animal-friendship-xdmg (items)]] - 0 gp
+- [[potion-of-clairvoyance-xdmg (items)]] - 0 gp
+- [[potion-of-clairvoyance-xdmg (items)]] - 0 gp
+- [[potion-of-clairvoyance-xdmg (items)]] - 0 gp
+- [[Potion of Climbing Xdmg]] - 0 gp
+- [[Potion of Climbing Xdmg]] - 0 gp
+- [[Potion of Climbing Xdmg]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[Potion of Cold Resistance Xdmg]] - 0 gp
+- [[Potion of Cold Resistance Xdmg]] - 0 gp
+- [[Potion of Cold Resistance Xdmg]] - 0 gp
+- [[potion-of-comprehension-xdmg (items)]] - 0 gp
+- [[potion-of-comprehension-xdmg (items)]] - 0 gp
+- [[potion-of-comprehension-xdmg (items)]] - 0 gp
+- [[potion-of-diminution-xdmg (items)]] - 0 gp
+- [[potion-of-diminution-xdmg (items)]] - 0 gp
+- [[potion-of-diminution-xdmg (items)]] - 0 gp
+- [[potion-of-fire-breath-xdmg (items)]] - 0 gp
+- [[potion-of-fire-breath-xdmg (items)]] - 0 gp
+- [[potion-of-fire-breath-xdmg (items)]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[potion-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[Potion of Flying Xdmg]] - 0 gp
+- [[Potion of Flying Xdmg]] - 0 gp
+- [[Potion of Flying Xdmg]] - 0 gp
+- [[potion-of-force-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-force-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-force-resistance-xdmg (items)]] - 0 gp
+- [[Potion of Frost Giant Strength Xdmg]] - 0 gp
+- [[Potion of Frost Giant Strength Xdmg]] - 0 gp
+- [[Potion of Frost Giant Strength Xdmg]] - 0 gp
+- [[potion-of-gaseous-form-xdmg (items)]] - 0 gp
+- [[potion-of-gaseous-form-xdmg (items)]] - 0 gp
+- [[potion-of-gaseous-form-xdmg (items)]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[potion-of-greater-healing-xdmg (items)]] - 0 gp
+- [[potion-of-greater-healing-xdmg (items)]] - 0 gp
+- [[potion-of-greater-healing-xdmg (items)]] - 0 gp
+- [[potion-of-greater-invisibility-xdmg (items)]] - 0 gp
+- [[potion-of-greater-invisibility-xdmg (items)]] - 0 gp
+- [[potion-of-greater-invisibility-xdmg (items)]] - 0 gp
+- [[Potion of Growth Xdmg]] - 0 gp
+- [[Potion of Growth Xdmg]] - 0 gp
+- [[Potion of Growth Xdmg]] - 0 gp
+- [[potion-of-healing-gv (items)]] - 0 gp
+- [[potion-of-healing-gv (items)]] - 0 gp
+- [[potion-of-healing-gv (items)]] - 0 gp
+- [[Potion of Healing Xdmg]] - 0 gp
+- [[Potion of Healing Xdmg]] - 0 gp
+- [[Potion of Healing Xdmg]] - 0 gp
+- [[Potion of Heroism Xdmg]] - 0 gp
+- [[Potion of Heroism Xdmg]] - 0 gp
+- [[Potion of Heroism Xdmg]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[potion-of-invisibility-xdmg (items)]] - 0 gp
+- [[potion-of-invisibility-xdmg (items)]] - 0 gp
+- [[potion-of-invisibility-xdmg (items)]] - 0 gp
+- [[Potion of Invulnerability Xdmg]] - 0 gp
+- [[Potion of Invulnerability Xdmg]] - 0 gp
+- [[Potion of Invulnerability Xdmg]] - 0 gp
+- [[potion-of-lightning-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-lightning-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-lightning-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-longevity-xdmg (items)]] - 0 gp
+- [[potion-of-longevity-xdmg (items)]] - 0 gp
+- [[potion-of-longevity-xdmg (items)]] - 0 gp
+- [[potion-of-mind-reading-xdmg (items)]] - 0 gp
+- [[potion-of-mind-reading-xdmg (items)]] - 0 gp
+- [[potion-of-mind-reading-xdmg (items)]] - 0 gp
+- [[Potion of Necrotic Resistance Xdmg]] - 0 gp
+- [[Potion of Necrotic Resistance Xdmg]] - 0 gp
+- [[Potion of Necrotic Resistance Xdmg]] - 0 gp
+- [[Potion of Poison Resistance Xdmg]] - 0 gp
+- [[Potion of Poison Resistance Xdmg]] - 0 gp
+- [[Potion of Poison Resistance Xdmg]] - 0 gp
+- [[Potion of Poison Xdmg]] - 0 gp
+- [[Potion of Poison Xdmg]] - 0 gp
+- [[Potion of Poison Xdmg]] - 0 gp
+- [[Potion of Psychic Resistance Xdmg]] - 0 gp
+- [[Potion of Psychic Resistance Xdmg]] - 0 gp
+- [[Potion of Psychic Resistance Xdmg]] - 0 gp
+- [[potion-of-pugilism-xdmg (items)]] - 0 gp
+- [[potion-of-pugilism-xdmg (items)]] - 0 gp
+- [[potion-of-pugilism-xdmg (items)]] - 0 gp
+- [[Potion of Radiant Resistance Xdmg]] - 0 gp
+- [[Potion of Radiant Resistance Xdmg]] - 0 gp
+- [[Potion of Radiant Resistance Xdmg]] - 0 gp
+- [[potion-of-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-speed-xdmg (items)]] - 0 gp
+- [[potion-of-speed-xdmg (items)]] - 0 gp
+- [[potion-of-speed-xdmg (items)]] - 0 gp
+- [[potion-of-stone-giant-strength-xdmg (items)]] - 0 gp
+- [[potion-of-stone-giant-strength-xdmg (items)]] - 0 gp
+- [[potion-of-stone-giant-strength-xdmg (items)]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[healing]] - 0 gp
+- [[healing]] - 0 gp
+- [[healing]] - 0 gp
+- [[Potion of Supreme Healing Xdmg]] - 0 gp
+- [[Potion of Supreme Healing Xdmg]] - 0 gp
+- [[Potion of Supreme Healing Xdmg]] - 0 gp
+- [[potion-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[potion-of-vitality-xdmg (items)]] - 0 gp
+- [[potion-of-vitality-xdmg (items)]] - 0 gp
+- [[potion-of-vitality-xdmg (items)]] - 0 gp
+- [[Potion of Water Breathing Xdmg]] - 0 gp
+- [[Potion of Water Breathing Xdmg]] - 0 gp
+- [[Potion of Water Breathing Xdmg]] - 0 gp
+- [[potions-of-healing-xdmg (items)]] - 0 gp
+- [[potions-of-healing-xdmg (items)]] - 0 gp
+- [[potions-of-healing-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-aberrations-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-aberrations-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-aberrations-xdmg (items)]] - 0 gp
+- [[beast]] - 0 gp
+- [[beast]] - 0 gp
+- [[beast]] - 0 gp
+- [[scroll-of-protection-celestials-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-celestials-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-celestials-xdmg (items)]] - 0 gp
+- [[Scroll of Protection Constructs Xdmg]] - 0 gp
+- [[Scroll of Protection Constructs Xdmg]] - 0 gp
+- [[Scroll of Protection Constructs Xdmg]] - 0 gp
+- [[Scroll of Protection Dragons Xdmg]] - 0 gp
+- [[Scroll of Protection Dragons Xdmg]] - 0 gp
+- [[Scroll of Protection Dragons Xdmg]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
+- [[fey]] - 0 gp
+- [[fey]] - 0 gp
+- [[fey]] - 0 gp
+- [[scroll-of-protection-fiends-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-fiends-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-fiends-xdmg (items)]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[Scroll of Protection Humanoids Xdmg]] - 0 gp
+- [[Scroll of Protection Humanoids Xdmg]] - 0 gp
+- [[Scroll of Protection Humanoids Xdmg]] - 0 gp
+- [[scroll-of-protection-monstrosities-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-monstrosities-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-monstrosities-xdmg (items)]] - 0 gp
+- [[ooze]] - 0 gp
+- [[ooze]] - 0 gp
+- [[ooze]] - 0 gp
+- [[Scroll of Protection Plants Xdmg]] - 0 gp
+- [[Scroll of Protection Plants Xdmg]] - 0 gp
+- [[Scroll of Protection Plants Xdmg]] - 0 gp
+- [[Scroll of Protection Undead Xdmg]] - 0 gp
+- [[Scroll of Protection Undead Xdmg]] - 0 gp
+- [[Scroll of Protection Undead Xdmg]] - 0 gp
+- [[scroll-of-protection-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-xdmg (items)]] - 0 gp
+- [[scroll-of-protection-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-animal-lord-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-animal-lord-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-animal-lord-xdmg (items)]] - 0 gp
+- [[Scroll of Titan Summoning Blob of Annihilation Xdmg]] - 0 gp
+- [[Scroll of Titan Summoning Blob of Annihilation Xdmg]] - 0 gp
+- [[scroll-of-titan-summoning-colossus-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-colossus-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-colossus-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-elemental-cataclysm-xdmg]] - 0 gp
+- [[scroll-of-titan-summoning-elemental-cataclysm-xdmg]] - 0 gp
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)]] - 0 gp
+- [[Kraken]] - 0 gp
+- [[Kraken]] - 0 gp
+- [[Kraken]] - 0 gp
+- [[Scroll of Titan Summoning Tarrasque Xdmg]] - 0 gp
+- [[Scroll of Titan Summoning Tarrasque Xdmg]] - 0 gp
+- [[Scroll of Titan Summoning Tarrasque Xdmg]] - 0 gp
+- [[scroll-of-titan-summoning-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-xdmg (items)]] - 0 gp
+- [[scroll-of-titan-summoning-xdmg (items)]] - 0 gp
 - [[Spell Scroll Cantrip Xdmg]] - 0 gp
-- [[Spell Scroll Cantrip Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Cantrip Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Cantrip Xdmg]] - 0 gp
+- [[Spell Scroll Cantrip Xdmg]] - 0 gp
 - [[Spell Scroll Level 1 Xdmg]] - 0 gp
-- [[Spell Scroll Level 1 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 1 Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Level 1 Xdmg]] - 0 gp
+- [[Spell Scroll Level 1 Xdmg]] - 0 gp
 - [[Spell Scroll Level 2 Xdmg]] - 0 gp
-- [[Spell Scroll Level 2 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 2 Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Level 2 Xdmg]] - 0 gp
+- [[Spell Scroll Level 2 Xdmg]] - 0 gp
 - [[Spell Scroll Level 3 Xdmg]] - 0 gp
-- [[Spell Scroll Level 3 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 3 Xdmg (Items)]] - 0 gp
+- [[spell-scroll-level-3-xdmg (items)]] - 0 gp
+- [[spell-scroll-level-3-xdmg (items)]] - 0 gp
 - [[Spell Scroll Level 4 Xdmg]] - 0 gp
-- [[Spell Scroll Level 4 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 4 Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Level 4 Xdmg]] - 0 gp
+- [[Spell Scroll Level 4 Xdmg]] - 0 gp
 - [[Spell Scroll Level 5 Xdmg]] - 0 gp
-- [[Spell Scroll Level 5 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 5 Xdmg (Items)]] - 0 gp
+- [[spell-scroll-level-5-xdmg (items)]] - 0 gp
+- [[spell-scroll-level-5-xdmg (items)]] - 0 gp
 - [[Spell Scroll Level 6 Xdmg]] - 0 gp
-- [[Spell Scroll Level 6 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 6 Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Level 6 Xdmg]] - 0 gp
+- [[Spell Scroll Level 6 Xdmg]] - 0 gp
 - [[Spell Scroll Level 7 Xdmg]] - 0 gp
-- [[Spell Scroll Level 7 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 7 Xdmg (Items)]] - 0 gp
+- [[spell-scroll-level-7-xdmg (items)]] - 0 gp
+- [[spell-scroll-level-7-xdmg (items)]] - 0 gp
 - [[Spell Scroll Level 8 Xdmg]] - 0 gp
-- [[Spell Scroll Level 8 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 8 Xdmg (Items)]] - 0 gp
+- [[spell-scroll-level-8-xdmg (items)]] - 0 gp
+- [[spell-scroll-level-8-xdmg (items)]] - 0 gp
 - [[Spell Scroll Level 9 Xdmg]] - 0 gp
-- [[Spell Scroll Level 9 Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Level 9 Xdmg (Items)]] - 0 gp
+- [[Spell Scroll Level 9 Xdmg]] - 0 gp
+- [[Spell Scroll Level 9 Xdmg]] - 0 gp
 - [[Spell Scroll Xdmg]] - 0 gp
-- [[Spell Scroll Xdmg (Items)]] - 0 gp
-- [[Spell Scroll Xdmg (Items)]] - 0 gp
+- [[spell-scroll-xdmg (items)]] - 0 gp
+- [[spell-scroll-xdmg (items)]] - 0 gp
 
 ## 🔧 Tools
 
 ### Common
 
-- [[07 Chapter 7 Monsters And Magic Items (Princes Of The Apocalypse)]] - 0 gp
+- [[Monsters]] - 0 gp
 - [[1 Weapon No Damage]] - 0 gp
-- [[1 Weapon No Damage (Items)]] - 0 gp
-- [[1 Weapon No Damage (Items)]] - 0 gp
+- [[1 Weapon No Damage]] - 0 gp
+- [[1 Weapon No Damage]] - 0 gp
 - [[1 Weapon Xdmg]] - 0 gp
-- [[1 Weapon Xdmg (Items)]] - 0 gp
-- [[1 Weapon Xdmg (Items)]] - 0 gp
-- [[1 Wraps Of Unarmed Power Xdmg]] - 0 gp
-- [[1 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[1 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[12 Appendix C Magic Items (Hoard Of The Dragon Queen)]] - 0 gp
-- [[12 Appendix C Magic Items (Rise Of Tiamat)]] - 0 gp
-- [[19 Appendix B Magic Items (Out Of The Abyss)]] - 0 gp
+- [[1-weapon-xdmg (items)]] - 0 gp
+- [[1-weapon-xdmg (items)]] - 0 gp
+- [[1-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[12-appendix-c-magic-items (hoard-of-the-dragon-queen)]] - 0 gp
+- [[Magic Items]] - 0 gp
+- [[Magic Items]] - 0 gp
 - [[2 Weapon No Damage]] - 0 gp
-- [[2 Weapon No Damage (Items)]] - 0 gp
-- [[2 Weapon No Damage (Items)]] - 0 gp
+- [[2-weapon-no-damage (items)]] - 0 gp
+- [[2-weapon-no-damage (items)]] - 0 gp
 - [[2 Weapon Xdmg]] - 0 gp
-- [[2 Weapon Xdmg (Items)]] - 0 gp
-- [[2 Weapon Xdmg (Items)]] - 0 gp
-- [[2 Wraps Of Unarmed Power Xdmg]] - 0 gp
-- [[2 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[2 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
+- [[2-weapon-xdmg (items)]] - 0 gp
+- [[2-weapon-xdmg (items)]] - 0 gp
+- [[2-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[wraps-of-unarmed-power-xdmg (items)]] - 0 gp
 - [[3 Weapon No Damage]] - 0 gp
-- [[3 Weapon No Damage (Items)]] - 0 gp
-- [[3 Weapon No Damage (Items)]] - 0 gp
+- [[3-weapon-no-damage (items)]] - 0 gp
+- [[3-weapon-no-damage (items)]] - 0 gp
 - [[3 Weapon Xdmg]] - 0 gp
-- [[3 Weapon Xdmg (Items)]] - 0 gp
-- [[3 Weapon Xdmg (Items)]] - 0 gp
-- [[3 Wraps Of Unarmed Power Xdmg]] - 0 gp
-- [[3 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[3 Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[6 Appendix A Magic Items (Lost Mine Of Phandelver)]] - 0 gp
-- [[Abacus]] - 0 gp
+- [[3 Weapon Xdmg]] - 0 gp
+- [[3 Weapon Xdmg]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[6 Appendix a Magic Items]] - 0 gp
+- [[abacus]] - 0 gp
 - [[Acid Xphb]] - 0 gp
-- [[Acid Xphb (Items)]] - 0 gp
-- [[Acid Xphb (Items)]] - 0 gp
+- [[Acid Xphb]] - 0 gp
+- [[Acid Xphb]] - 0 gp
 - [[Adamantine Ammunition Xge]] - 0 gp
-- [[Adamantine Ammunition Xge (Items)]] - 0 gp
-- [[Adamantine Ammunition Xge (Items)]] - 0 gp
+- [[Adamantine Ammunition Xge]] - 0 gp
+- [[Adamantine Ammunition Xge]] - 0 gp
 - [[Adamantine Weapon Xdmg]] - 0 gp
-- [[Adamantine Weapon Xdmg (Items)]] - 0 gp
-- [[Adamantine Weapon Xdmg (Items)]] - 0 gp
+- [[adamantine-weapon-xdmg (items)]] - 0 gp
+- [[adamantine-weapon-xdmg (items)]] - 0 gp
 - [[Airship Xphb]] - 0 gp
-- [[Airship Xphb (Items)]] - 0 gp
-- [[Airship Xphb (Items)]] - 0 gp
+- [[airship-xphb (items)]] - 0 gp
+- [[airship-xphb (items)]] - 0 gp
 - [[Alchemists Doom Scc]] - 0 gp
-- [[Alchemists Doom Scc (Items)]] - 0 gp
-- [[Alchemists Doom Scc (Items)]] - 0 gp
+- [[Alchemists Doom Scc]] - 0 gp
+- [[Alchemists Doom Scc]] - 0 gp
 - [[Alchemists Fire Xphb]] - 0 gp
-- [[Alchemists Fire Xphb (Items)]] - 0 gp
-- [[Alchemists Fire Xphb (Items)]] - 0 gp
+- [[alchemists-fire-xphb (items)]] - 0 gp
+- [[alchemists-fire-xphb (items)]] - 0 gp
 - [[Alchemists Supplies Xphb]] - 0 gp
-- [[Alchemists Supplies Xphb (Items)]] - 0 gp
-- [[Alchemists Supplies Xphb (Items)]] - 0 gp
+- [[Alchemists Supplies Xphb]] - 0 gp
+- [[Alchemists Supplies Xphb]] - 0 gp
 - [[Alchemy Jug Xdmg]] - 0 gp
-- [[Alchemy Jug Xdmg (Items)]] - 0 gp
-- [[Alchemy Jug Xdmg (Items)]] - 0 gp
+- [[alchemy-jug-xdmg (items)]] - 0 gp
+- [[alchemy-jug-xdmg (items)]] - 0 gp
 - [[Ale Gallon]] - 0 gp
-- [[Ale Gallon (Items)]] - 0 gp
-- [[Ale Gallon (Items)]] - 0 gp
+- [[ale-gallon (items)]] - 0 gp
+- [[ale-gallon (items)]] - 0 gp
 - [[Ale Mug Xphb]] - 0 gp
-- [[Ale Mug Xphb (Items)]] - 0 gp
-- [[Ale Mug Xphb (Items)]] - 0 gp
+- [[ale-mug-xphb (items)]] - 0 gp
+- [[ale-mug-xphb (items)]] - 0 gp
 - [[Alexandrite Xdmg]] - 0 gp
-- [[Alexandrite Xdmg (Items)]] - 0 gp
-- [[Alexandrite Xdmg (Items)]] - 0 gp
+- [[Alexandrite Xdmg]] - 0 gp
+- [[Alexandrite Xdmg]] - 0 gp
 - [[Amber Xdmg]] - 0 gp
-- [[Amber Xdmg (Items)]] - 0 gp
-- [[Amber Xdmg (Items)]] - 0 gp
+- [[Amber Xdmg]] - 0 gp
+- [[Amber Xdmg]] - 0 gp
 - [[Amethyst Xdmg]] - 0 gp
-- [[Amethyst Xdmg (Items)]] - 0 gp
-- [[Amethyst Xdmg (Items)]] - 0 gp
-- [[Ammunition Of Slaying Xdmg]] - 0 gp
-- [[Ammunition Of Slaying Xdmg (Items)]] - 0 gp
-- [[Ammunition Of Slaying Xdmg (Items)]] - 0 gp
+- [[Amethyst Xdmg]] - 0 gp
+- [[Amethyst Xdmg]] - 0 gp
+- [[Ammunition of Slaying Xdmg]] - 0 gp
+- [[Ammunition of Slaying Xdmg]] - 0 gp
+- [[Ammunition of Slaying Xdmg]] - 0 gp
 - [[Amulet Xphb]] - 0 gp
-- [[Amulet Xphb (Items)]] - 0 gp
-- [[Amulet Xphb (Items)]] - 0 gp
+- [[amulet-xphb (items)]] - 0 gp
+- [[amulet-xphb (items)]] - 0 gp
 - [[Antimatter Rifle Xdmg]] - 0 gp
-- [[Antimatter Rifle Xdmg (Items)]] - 0 gp
-- [[Antimatter Rifle Xdmg (Items)]] - 0 gp
+- [[antimatter-rifle-xdmg (items)]] - 0 gp
+- [[antimatter-rifle-xdmg (items)]] - 0 gp
 - [[Antitoxin Xphb]] - 0 gp
-- [[Antitoxin Xphb (Items)]] - 0 gp
-- [[Antitoxin Xphb (Items)]] - 0 gp
-- [[Apparatus Of Kwalish Xdmg]] - 0 gp
-- [[Apparatus Of Kwalish Xdmg (Items)]] - 0 gp
-- [[Apparatus Of Kwalish Xdmg (Items)]] - 0 gp
+- [[antitoxin-xphb (items)]] - 0 gp
+- [[antitoxin-xphb (items)]] - 0 gp
+- [[Apparatus of Kwalish Xdmg (vehicles)]] - 0 gp
+- [[Apparatus of Kwalish Xdmg]] - 0 gp
+- [[Apparatus of Kwalish Xdmg]] - 0 gp
 - [[Aquamarine Xdmg]] - 0 gp
-- [[Aquamarine Xdmg (Items)]] - 0 gp
-- [[Aquamarine Xdmg (Items)]] - 0 gp
+- [[Aquamarine Xdmg]] - 0 gp
+- [[Aquamarine Xdmg]] - 0 gp
 - [[Arcane Focus Xphb]] - 0 gp
-- [[Arcane Focus Xphb (Items)]] - 0 gp
-- [[Arcane Focus Xphb (Items)]] - 0 gp
+- [[arcane-focus-xphb (items)]] - 0 gp
+- [[arcane-focus-xphb (items)]] - 0 gp
 - [[Arrow Xphb]] - 0 gp
-- [[Arrow Xphb (Items)]] - 0 gp
-- [[Arrow Xphb (Items)]] - 0 gp
+- [[arrow-xphb (items)]] - 0 gp
+- [[arrow-xphb (items)]] - 0 gp
 - [[Arrows 20 Xphb]] - 0 gp
-- [[Arrows 20 Xphb (Items)]] - 0 gp
-- [[Arrows 20 Xphb (Items)]] - 0 gp
+- [[arrows-20-xphb (items)]] - 0 gp
+- [[arrows-20-xphb (items)]] - 0 gp
 - [[Artisans Tools Xphb]] - 0 gp
-- [[Artisans Tools Xphb (Items)]] - 0 gp
-- [[Artisans Tools Xphb (Items)]] - 0 gp
+- [[artisans-tools-xphb (items)]] - 0 gp
+- [[artisans-tools-xphb (items)]] - 0 gp
 - [[Assassins Blood Xdmg]] - 0 gp
-- [[Assassins Blood Xdmg (Items)]] - 0 gp
-- [[Assassins Blood Xdmg (Items)]] - 0 gp
+- [[Assassin]] - 0 gp
+- [[Assassin]] - 0 gp
 - [[Automatic Rifle Xdmg]] - 0 gp
-- [[Automatic Rifle Xdmg (Items)]] - 0 gp
-- [[Automatic Rifle Xdmg (Items)]] - 0 gp
+- [[Automatic Rifle Xdmg]] - 0 gp
+- [[Automatic Rifle Xdmg]] - 0 gp
 - [[Azurite Xdmg]] - 0 gp
-- [[Azurite Xdmg (Items)]] - 0 gp
-- [[Azurite Xdmg (Items)]] - 0 gp
+- [[azurite-xdmg (items)]] - 0 gp
+- [[azurite-xdmg (items)]] - 0 gp
 - [[Backpack Xphb]] - 0 gp
-- [[Backpack Xphb (Items)]] - 0 gp
-- [[Backpack Xphb (Items)]] - 0 gp
-- [[Bag Of Beans Xdmg]] - 0 gp
-- [[Bag Of Beans Xdmg (Items)]] - 0 gp
-- [[Bag Of Beans Xdmg (Items)]] - 0 gp
-- [[Bag Of Devouring Xdmg]] - 0 gp
-- [[Bag Of Devouring Xdmg (Items)]] - 0 gp
-- [[Bag Of Devouring Xdmg (Items)]] - 0 gp
-- [[Bag Of Holding Xdmg]] - 0 gp
-- [[Bag Of Holding Xdmg (Items)]] - 0 gp
-- [[Bag Of Holding Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Gray Xdmg]] - 0 gp
-- [[Bag Of Tricks Gray Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Gray Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Rust Xdmg]] - 0 gp
-- [[Bag Of Tricks Rust Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Rust Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Tan Xdmg]] - 0 gp
-- [[Bag Of Tricks Tan Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Tan Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Xdmg]] - 0 gp
-- [[Bag Of Tricks Xdmg (Items)]] - 0 gp
-- [[Bag Of Tricks Xdmg (Items)]] - 0 gp
+- [[Backpack Xphb]] - 0 gp
+- [[Backpack Xphb]] - 0 gp
+- [[Bag of Beans Xdmg]] - 0 gp
+- [[Bag of Beans Xdmg]] - 0 gp
+- [[Bag of Beans Xdmg]] - 0 gp
+- [[bag-of-devouring-xdmg (items)]] - 0 gp
+- [[bag-of-devouring-xdmg (items)]] - 0 gp
+- [[bag-of-devouring-xdmg (items)]] - 0 gp
+- [[bag-of-holding-xdmg (items)]] - 0 gp
+- [[bag-of-holding-xdmg (items)]] - 0 gp
+- [[bag-of-holding-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-gray-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-gray-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-gray-xdmg (items)]] - 0 gp
+- [[Bag of Tricks Rust Xdmg]] - 0 gp
+- [[Bag of Tricks Rust Xdmg]] - 0 gp
+- [[Bag of Tricks Rust Xdmg]] - 0 gp
+- [[bag-of-tricks-tan-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-tan-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-tan-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-xdmg (items)]] - 0 gp
+- [[bag-of-tricks-xdmg (items)]] - 0 gp
 - [[Bagpipes Xphb]] - 0 gp
-- [[Bagpipes Xphb (Items)]] - 0 gp
-- [[Bagpipes Xphb (Items)]] - 0 gp
+- [[Bagpipes Xphb]] - 0 gp
+- [[Bagpipes Xphb]] - 0 gp
 - [[Ball Bearing]] - 0 gp
-- [[Ball Bearing (Items)]] - 0 gp
-- [[Ball Bearing (Items)]] - 0 gp
+- [[ball-bearing (items)]] - 0 gp
+- [[ball-bearing (items)]] - 0 gp
 - [[Ball Bearings Xphb]] - 0 gp
-- [[Ball Bearings Xphb (Items)]] - 0 gp
-- [[Ball Bearings Xphb (Items)]] - 0 gp
+- [[ball-bearings-xphb (items)]] - 0 gp
+- [[ball-bearings-xphb (items)]] - 0 gp
 - [[Balloon Pack Pota]] - 0 gp
-- [[Balloon Pack Pota (Items)]] - 0 gp
-- [[Balloon Pack Pota (Items)]] - 0 gp
+- [[balloon-pack-pota (items)]] - 0 gp
+- [[balloon-pack-pota (items)]] - 0 gp
 - [[Banded Agate Xdmg]] - 0 gp
-- [[Banded Agate Xdmg (Items)]] - 0 gp
-- [[Banded Agate Xdmg (Items)]] - 0 gp
-- [[Barding]] - is four times the equivalent armor made for humanoids, and it weighs twice as much.
+- [[banded-agate-xdmg (items)]] - 0 gp
+- [[banded-agate-xdmg (items)]] - 0 gp
+- [[barding]] - is four times the equivalent armor made for humanoids, and it weighs twice as much.
 - [[Barrel Xphb]] - 0 gp
-- [[Barrel Xphb (Items)]] - 0 gp
-- [[Barrel Xphb (Items)]] - 0 gp
+- [[Barrel Xphb]] - 0 gp
+- [[Barrel Xphb]] - 0 gp
 - [[Basic Poison Xphb]] - 0 gp
-- [[Basic Poison Xphb (Items)]] - 0 gp
-- [[Basic Poison Xphb (Items)]] - 0 gp
+- [[Basic Poison Xphb]] - 0 gp
+- [[Basic Poison Xphb]] - 0 gp
 - [[Basket Xphb]] - 0 gp
-- [[Basket Xphb (Items)]] - 0 gp
-- [[Basket Xphb (Items)]] - 0 gp
-- [[Bead Of Force Xdmg]] - 0 gp
-- [[Bead Of Force Xdmg (Items)]] - 0 gp
-- [[Bead Of Force Xdmg (Items)]] - 0 gp
-- [[Bead Of Nourishment Xdmg]] - 0 gp
-- [[Bead Of Nourishment Xdmg (Items)]] - 0 gp
-- [[Bead Of Nourishment Xdmg (Items)]] - 0 gp
-- [[Bead Of Refreshment Xdmg]] - 0 gp
-- [[Bead Of Refreshment Xdmg (Items)]] - 0 gp
-- [[Bead Of Refreshment Xdmg (Items)]] - 0 gp
+- [[basket-xphb (items)]] - 0 gp
+- [[basket-xphb (items)]] - 0 gp
+- [[Bead of Force Xdmg]] - 0 gp
+- [[Bead of Force Xdmg]] - 0 gp
+- [[Bead of Force Xdmg]] - 0 gp
+- [[Bead of Nourishment Xdmg]] - 0 gp
+- [[Bead of Nourishment Xdmg]] - 0 gp
+- [[Bead of Nourishment Xdmg]] - 0 gp
+- [[bead-of-refreshment-xdmg (items)]] - 0 gp
+- [[bead-of-refreshment-xdmg (items)]] - 0 gp
+- [[bead-of-refreshment-xdmg (items)]] - 0 gp
 - [[Bedroll Xphb]] - 0 gp
-- [[Bedroll Xphb (Items)]] - 0 gp
-- [[Bedroll Xphb (Items)]] - 0 gp
+- [[Bedroll Xphb]] - 0 gp
+- [[Bedroll Xphb]] - 0 gp
 - [[Bejeweled Gold Bracelet Xdmg]] - 0 gp
-- [[Bejeweled Gold Bracelet Xdmg (Items)]] - 0 gp
-- [[Bejeweled Gold Bracelet Xdmg (Items)]] - 0 gp
+- [[bejeweled-gold-bracelet-xdmg (items)]] - 0 gp
+- [[bejeweled-gold-bracelet-xdmg (items)]] - 0 gp
 - [[Bejeweled Ivory Drinking Horn With Gold]] - 0 gp
-- [[Bejeweled Ivory Drinking Horn With Gold Filigree Xdmg]] - 0 gp
+- [[Bejeweled Ivory Drinking Horn With Gold]] - 0 gp
 - [[Bell Xphb]] - 0 gp
-- [[Bell Xphb (Items)]] - 0 gp
-- [[Bell Xphb (Items)]] - 0 gp
-- [[Bit And Bridle]] - 0 gp
-- [[Bit And Bridle (Items)]] - 0 gp
-- [[Bit And Bridle (Items)]] - 0 gp
+- [[Bell Xphb]] - 0 gp
+- [[Bell Xphb]] - 0 gp
+- [[bit-and-bridle (items)]] - 0 gp
+- [[bit-and-bridle (items)]] - 0 gp
+- [[bit-and-bridle (items)]] - 0 gp
 - [[Black Opal Xdmg]] - 0 gp
-- [[Black Opal Xdmg (Items)]] - 0 gp
-- [[Black Opal Xdmg (Items)]] - 0 gp
+- [[Black Opal Xdmg]] - 0 gp
+- [[Black Opal Xdmg]] - 0 gp
 - [[Black Pearl Xdmg]] - 0 gp
-- [[Black Pearl Xdmg (Items)]] - 0 gp
-- [[Black Pearl Xdmg (Items)]] - 0 gp
+- [[black-pearl-xdmg (items)]] - 0 gp
+- [[black-pearl-xdmg (items)]] - 0 gp
 - [[Black Sapphire Xdmg]] - 0 gp
-- [[Black Sapphire Xdmg (Items)]] - 0 gp
-- [[Black Sapphire Xdmg (Items)]] - 0 gp
+- [[black-sapphire-xdmg (items)]] - 0 gp
+- [[black-sapphire-xdmg (items)]] - 0 gp
 - [[Black Velvet Mask Stitched With Silver]] - 0 gp
-- [[Black Velvet Mask Stitched With Silver Thread Xdmg]] - 0 gp
+- [[black-velvet-mask-stitched-with-silver-thread-xdmg]] - 0 gp
 - [[Blanket Xphb]] - 0 gp
-- [[Blanket Xphb (Items)]] - 0 gp
-- [[Blanket Xphb (Items)]] - 0 gp
-- [[Block And Tackle Xphb]] - 0 gp
-- [[Block And Tackle Xphb (Items)]] - 0 gp
-- [[Block And Tackle Xphb (Items)]] - 0 gp
+- [[Blanket Xphb]] - 0 gp
+- [[Blanket Xphb]] - 0 gp
+- [[Block and Tackle Xphb]] - 0 gp
+- [[Block and Tackle Xphb]] - 0 gp
+- [[Block and Tackle Xphb]] - 0 gp
 - [[Bloodstone Xdmg]] - 0 gp
-- [[Bloodstone Xdmg (Items)]] - 0 gp
-- [[Bloodstone Xdmg (Items)]] - 0 gp
+- [[bloodstone-xdmg (items)]] - 0 gp
+- [[bloodstone-xdmg (items)]] - 0 gp
 - [[Blowgun Xphb]] - 0 gp
-- [[Blowgun Xphb (Items)]] - 0 gp
-- [[Blowgun Xphb (Items)]] - 0 gp
+- [[Blowgun Xphb]] - 0 gp
+- [[Blowgun Xphb]] - 0 gp
 - [[Blue Quartz Xdmg]] - 0 gp
-- [[Blue Quartz Xdmg (Items)]] - 0 gp
-- [[Blue Quartz Xdmg (Items)]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
 - [[Blue Sapphire Xdmg]] - 0 gp
-- [[Blue Sapphire Xdmg (Items)]] - 0 gp
-- [[Blue Sapphire Xdmg (Items)]] - 0 gp
+- [[blue-sapphire-xdmg (items)]] - 0 gp
+- [[blue-sapphire-xdmg (items)]] - 0 gp
 - [[Blue Spinel Xdmg]] - 0 gp
-- [[Blue Spinel Xdmg (Items)]] - 0 gp
-- [[Blue Spinel Xdmg (Items)]] - 0 gp
+- [[spinel-xdmg (items)]] - 0 gp
+- [[spinel-xdmg (items)]] - 0 gp
 - [[Bolt Xphb]] - 0 gp
-- [[Bolt Xphb (Items)]] - 0 gp
-- [[Bolt Xphb (Items)]] - 0 gp
+- [[Bolt Xphb]] - 0 gp
+- [[Bolt Xphb]] - 0 gp
 - [[Bolts 20 Xphb]] - 0 gp
-- [[Bolts 20 Xphb (Items)]] - 0 gp
-- [[Bolts 20 Xphb (Items)]] - 0 gp
+- [[Bolts 20 Xphb]] - 0 gp
+- [[Bolts 20 Xphb]] - 0 gp
 - [[Bomb Xdmg]] - 0 gp
-- [[Bomb Xdmg (Items)]] - 0 gp
-- [[Bomb Xdmg (Items)]] - 0 gp
-- [[Book Of Exalted Deeds Xdmg]] - 0 gp
-- [[Book Of Exalted Deeds Xdmg (Items)]] - 0 gp
-- [[Book Of Exalted Deeds Xdmg (Items)]] - 0 gp
-- [[Book Of Vile Darkness Xdmg]] - 0 gp
-- [[Book Of Vile Darkness Xdmg (Items)]] - 0 gp
-- [[Book Of Vile Darkness Xdmg (Items)]] - 0 gp
+- [[Bomb Xdmg]] - 0 gp
+- [[Bomb Xdmg]] - 0 gp
+- [[book-of-exalted-deeds-xdmg (items)]] - 0 gp
+- [[book-of-exalted-deeds-xdmg (items)]] - 0 gp
+- [[book-of-exalted-deeds-xdmg (items)]] - 0 gp
+- [[Book of Vile Darkness Xdmg]] - 0 gp
+- [[Book of Vile Darkness Xdmg]] - 0 gp
+- [[Book of Vile Darkness Xdmg]] - 0 gp
 - [[Book Xphb]] - 0 gp
-- [[Book Xphb (Items)]] - 0 gp
-- [[Book Xphb (Items)]] - 0 gp
-- [[Boots Of Elvenkind Xdmg]] - 0 gp
-- [[Boots Of Elvenkind Xdmg (Items)]] - 0 gp
-- [[Boots Of Elvenkind Xdmg (Items)]] - 0 gp
-- [[Boots Of False Tracks Xdmg]] - 0 gp
-- [[Boots Of False Tracks Xdmg (Items)]] - 0 gp
-- [[Boots Of False Tracks Xdmg (Items)]] - 0 gp
-- [[Bottle Of Boundless Coffee Scc]] - 0 gp
-- [[Bottle Of Boundless Coffee Scc (Items)]] - 0 gp
-- [[Bottle Of Boundless Coffee Scc (Items)]] - 0 gp
+- [[Book Xphb]] - 0 gp
+- [[Book Xphb]] - 0 gp
+- [[Boots of Elvenkind Xdmg]] - 0 gp
+- [[Boots of Elvenkind Xdmg]] - 0 gp
+- [[Boots of Elvenkind Xdmg]] - 0 gp
+- [[boots-of-false-tracks-xdmg (items)]] - 0 gp
+- [[boots-of-false-tracks-xdmg (items)]] - 0 gp
+- [[boots-of-false-tracks-xdmg (items)]] - 0 gp
+- [[Bottle of Boundless Coffee Scc]] - 0 gp
+- [[Bottle of Boundless Coffee Scc]] - 0 gp
+- [[Bottle of Boundless Coffee Scc]] - 0 gp
 - [[Bottle Stopper Cork Embossed With Gold Leaf]] - 0 gp
-- [[Bottle Stopper Cork Embossed With Gold Leaf And Set With Amethysts Xdmg]] - 0 gp
+- [[Bottle Stopper Cork Embossed with Gold Leaf and Set with Amethysts Xdmg]] - 0 gp
 - [[Bottled Breath Pota]] - 0 gp
-- [[Bottled Breath Pota (Items)]] - 0 gp
-- [[Bottled Breath Pota (Items)]] - 0 gp
-- [[Box Of Turquoise Animal Figurines Xdmg]] - 0 gp
-- [[Box Of Turquoise Animal Figurines Xdmg (Items)]] - 0 gp
-- [[Box Of Turquoise Animal Figurines Xdmg (Items)]] - 0 gp
+- [[Bottled Breath Pota]] - 0 gp
+- [[Bottled Breath Pota]] - 0 gp
+- [[Box of Turquoise Animal Figurines Xdmg]] - 0 gp
+- [[Box of Turquoise Animal Figurines Xdmg]] - 0 gp
+- [[Box of Turquoise Animal Figurines Xdmg]] - 0 gp
 - [[Brass Mug With Jade Inlay Xdmg]] - 0 gp
-- [[Brass Mug With Jade Inlay Xdmg (Items)]] - 0 gp
-- [[Brass Mug With Jade Inlay Xdmg (Items)]] - 0 gp
-- [[Brazier Of Commanding Fire Elementals Xdmg]] - 0 gp
-- [[Brazier Of Commanding Fire Elementals Xdmg (Items)]] - 0 gp
-- [[Brazier Of Commanding Fire Elementals Xdmg (Items)]] - 0 gp
+- [[Brass Mug With Jade Inlay Xdmg]] - 0 gp
+- [[Brass Mug With Jade Inlay Xdmg]] - 0 gp
+- [[brazier-of-commanding-fire-elementals-xdmg (items)]] - 0 gp
+- [[brazier-of-commanding-fire-elementals-xdmg (items)]] - 0 gp
+- [[brazier-of-commanding-fire-elementals-xdmg (items)]] - 0 gp
 - [[Bread Loaf Xphb]] - 0 gp
-- [[Bread Loaf Xphb (Items)]] - 0 gp
-- [[Bread Loaf Xphb (Items)]] - 0 gp
+- [[Bread Loaf Xphb]] - 0 gp
+- [[Bread Loaf Xphb]] - 0 gp
 - [[Breastplate Xphb]] - 0 gp
-- [[Breastplate Xphb (Items)]] - 0 gp
-- [[Breastplate Xphb (Items)]] - 0 gp
+- [[Breastplate Xphb]] - 0 gp
+- [[Breastplate Xphb]] - 0 gp
 - [[Brewers Supplies Xphb]] - 0 gp
-- [[Brewers Supplies Xphb (Items)]] - 0 gp
-- [[Brewers Supplies Xphb (Items)]] - 0 gp
+- [[Brewers Supplies Xphb]] - 0 gp
+- [[Brewers Supplies Xphb]] - 0 gp
 - [[Bronze Crown Xdmg]] - 0 gp
-- [[Bronze Crown Xdmg (Items)]] - 0 gp
-- [[Bronze Crown Xdmg (Items)]] - 0 gp
+- [[Bronze Crown Xdmg]] - 0 gp
+- [[Bronze Crown Xdmg]] - 0 gp
 - [[Bucket Xphb]] - 0 gp
-- [[Bucket Xphb (Items)]] - 0 gp
-- [[Bucket Xphb (Items)]] - 0 gp
+- [[Bucket Xphb]] - 0 gp
+- [[Bucket Xphb]] - 0 gp
 - [[Bullseye Lantern Xphb]] - 0 gp
-- [[Bullseye Lantern Xphb (Items)]] - 0 gp
-- [[Bullseye Lantern Xphb (Items)]] - 0 gp
-- [[Bundle Of Sheet Music Representing The Lost]] - 0 gp
-- [[Bundle Of Sheet Music Representing The Lost Dirges Of A Famous Composer Xdmg]] - 0 gp
+- [[bullseye-lantern-xphb (items)]] - 0 gp
+- [[bullseye-lantern-xphb (items)]] - 0 gp
+- [[Bundle of Sheet Music Representing the Lost Dirges of a Famous Composer Xdmg]] - 0 gp
+- [[Bundle of Sheet Music Representing the Lost Dirges of a Famous Composer Xdmg]] - 0 gp
 - [[Burglars Pack Xphb]] - 0 gp
-- [[Burglars Pack Xphb (Items)]] - 0 gp
-- [[Burglars Pack Xphb (Items)]] - 0 gp
+- [[burglars-pack-xphb (items)]] - 0 gp
+- [[burglars-pack-xphb (items)]] - 0 gp
 - [[Burnt Othur Fumes Xdmg]] - 0 gp
-- [[Burnt Othur Fumes Xdmg (Items)]] - 0 gp
-- [[Burnt Othur Fumes Xdmg (Items)]] - 0 gp
-- [[Buying A Magic Item Buying Magic Items Xge (Tables)]] - 0 gp
+- [[Burnt Othur Fumes Xdmg]] - 0 gp
+- [[Burnt Othur Fumes Xdmg]] - 0 gp
+- [[buying-a-magic-item-buying-magic-items-xge (tables)]] - 0 gp
 - [[Calligraphers Supplies Xphb]] - 0 gp
-- [[Calligraphers Supplies Xphb (Items)]] - 0 gp
-- [[Calligraphers Supplies Xphb (Items)]] - 0 gp
-- [[Caltrop]] - 0 gp
+- [[Calligraphers Supplies Xphb]] - 0 gp
+- [[Calligraphers Supplies Xphb]] - 0 gp
+- [[caltrops-xphb (items)]] - 0 gp
 - [[Caltrops Xphb]] - 0 gp
-- [[Caltrops Xphb (Items)]] - 0 gp
-- [[Caltrops Xphb (Items)]] - 0 gp
+- [[caltrops-xphb (items)]] - 0 gp
+- [[caltrops-xphb (items)]] - 0 gp
 - [[Camel Xphb]] - 0 gp
-- [[Camel Xphb (Items)]] - 0 gp
-- [[Camel Xphb (Items)]] - 0 gp
-- [[Candle Of The Deep Xdmg]] - 0 gp
-- [[Candle Of The Deep Xdmg (Items)]] - 0 gp
-- [[Candle Of The Deep Xdmg (Items)]] - 0 gp
+- [[camel-xphb (items)]] - 0 gp
+- [[camel-xphb (items)]] - 0 gp
+- [[candle-of-the-deep-xdmg (items)]] - 0 gp
+- [[candle-of-the-deep-xdmg (items)]] - 0 gp
+- [[candle-of-the-deep-xdmg (items)]] - 0 gp
 - [[Candle Xphb]] - 0 gp
-- [[Candle Xphb (Items)]] - 0 gp
-- [[Candle Xphb (Items)]] - 0 gp
+- [[Candle Xphb]] - 0 gp
+- [[Candle Xphb]] - 0 gp
 - [[Canvas 1 Sq Yd Xdmg]] - 0 gp
-- [[Canvas 1 Sq Yd Xdmg (Items)]] - 0 gp
-- [[Canvas 1 Sq Yd Xdmg (Items)]] - 0 gp
-- [[Cap Of Water Breathing Xdmg]] - 0 gp
-- [[Cap Of Water Breathing Xdmg (Items)]] - 0 gp
-- [[Cap Of Water Breathing Xdmg (Items)]] - 0 gp
-- [[Cape Of The Mountebank Xdmg]] - 0 gp
-- [[Cape Of The Mountebank Xdmg (Items)]] - 0 gp
-- [[Cape Of The Mountebank Xdmg (Items)]] - 0 gp
+- [[Canvas 1 Sq Yd Xdmg]] - 0 gp
+- [[Canvas 1 Sq Yd Xdmg]] - 0 gp
+- [[Cap of Water Breathing Xdmg]] - 0 gp
+- [[Cap of Water Breathing Xdmg]] - 0 gp
+- [[Cap of Water Breathing Xdmg]] - 0 gp
+- [[cape-of-the-mountebank-xdmg (items)]] - 0 gp
+- [[cape-of-the-mountebank-xdmg (items)]] - 0 gp
+- [[cape-of-the-mountebank-xdmg (items)]] - 0 gp
 - [[Carnelian Xdmg]] - 0 gp
-- [[Carnelian Xdmg (Items)]] - 0 gp
-- [[Carnelian Xdmg (Items)]] - 0 gp
+- [[carnelian-xdmg (items)]] - 0 gp
+- [[carnelian-xdmg (items)]] - 0 gp
 - [[Carpenters Tools Xphb]] - 0 gp
-- [[Carpenters Tools Xphb (Items)]] - 0 gp
-- [[Carpenters Tools Xphb (Items)]] - 0 gp
-- [[Carpet Of Flying 3 Ft 5 Ft Xdmg]] - 0 gp
-- [[Carpet Of Flying 3 Ft 5 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 3 Ft 5 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 4 Ft 6 Ft Xdmg]] - 0 gp
-- [[Carpet Of Flying 4 Ft 6 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 4 Ft 6 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 5 Ft 7 Ft Xdmg]] - 0 gp
-- [[Carpet Of Flying 5 Ft 7 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 5 Ft 7 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 6 Ft 9 Ft Xdmg]] - 0 gp
-- [[Carpet Of Flying 6 Ft 9 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying 6 Ft 9 Ft Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying Xdmg]] - 0 gp
-- [[Carpet Of Flying Xdmg (Items)]] - 0 gp
-- [[Carpet Of Flying Xdmg (Items)]] - 0 gp
+- [[Carpenters Tools Xphb]] - 0 gp
+- [[Carpenters Tools Xphb]] - 0 gp
+- [[Carpet of Flying 3 Ft 5 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 3 Ft 5 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 3 Ft 5 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 4 Ft 6 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 4 Ft 6 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 4 Ft 6 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 5 Ft 7 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 5 Ft 7 Ft Xdmg]] - 0 gp
+- [[Carpet of Flying 5 Ft 7 Ft Xdmg]] - 0 gp
+- [[carpet-of-flying-6-ft-9-ft-xdmg (items)]] - 0 gp
+- [[carpet-of-flying-6-ft-9-ft-xdmg (items)]] - 0 gp
+- [[carpet-of-flying-6-ft-9-ft-xdmg (items)]] - 0 gp
+- [[Carpet of Flying Xdmg]] - 0 gp
+- [[Carpet of Flying Xdmg]] - 0 gp
+- [[Carpet of Flying Xdmg]] - 0 gp
 - [[Carriage Xphb]] - 0 gp
-- [[Carriage Xphb (Items)]] - 0 gp
-- [[Carriage Xphb (Items)]] - 0 gp
+- [[carriage-xphb (items)]] - 0 gp
+- [[carriage-xphb (items)]] - 0 gp
 - [[Carrion Crawler Mucus Xdmg]] - 0 gp
-- [[Carrion Crawler Mucus Xdmg (Items)]] - 0 gp
-- [[Carrion Crawler Mucus Xdmg (Items)]] - 0 gp
+- [[Carrion Crawler Mucus Xdmg]] - 0 gp
+- [[Carrion Crawler Mucus Xdmg]] - 0 gp
 - [[Cart Xphb]] - 0 gp
-- [[Cart Xphb (Items)]] - 0 gp
-- [[Cart Xphb (Items)]] - 0 gp
+- [[cart-xphb (items)]] - 0 gp
+- [[cart-xphb (items)]] - 0 gp
 - [[Cartographers Tools Xphb]] - 0 gp
-- [[Cartographers Tools Xphb (Items)]] - 0 gp
-- [[Cartographers Tools Xphb (Items)]] - 0 gp
+- [[Cartographers Tools Xphb]] - 0 gp
+- [[Cartographers Tools Xphb]] - 0 gp
 - [[Carved Bone Statuette Xdmg]] - 0 gp
-- [[Carved Bone Statuette Xdmg (Items)]] - 0 gp
-- [[Carved Bone Statuette Xdmg (Items)]] - 0 gp
+- [[Carved Bone Statuette Xdmg]] - 0 gp
+- [[Carved Bone Statuette Xdmg]] - 0 gp
 - [[Carved Ivory Statuette Xdmg]] - 0 gp
-- [[Carved Ivory Statuette Xdmg (Items)]] - 0 gp
-- [[Carved Ivory Statuette Xdmg (Items)]] - 0 gp
-- [[Carved Wooden Harp With Ivory Inlay And]] - 0 gp
-- [[Carved Wooden Harp With Ivory Inlay And Zircon Gems Xdmg]] - 0 gp
+- [[Carved Ivory Statuette Xdmg]] - 0 gp
+- [[Carved Ivory Statuette Xdmg]] - 0 gp
+- [[Carved Wooden Harp with Ivory Inlay and Zircon Gems Xdmg]] - 0 gp
+- [[Carved Wooden Harp with Ivory Inlay and Zircon Gems Xdmg]] - 0 gp
 - [[Catapult Munition Scc]] - 0 gp
-- [[Catapult Munition Scc (Items)]] - 0 gp
-- [[Catapult Munition Scc (Items)]] - 0 gp
-- [[Censer Of Controlling Air Elementals Xdmg]] - 0 gp
-- [[Censer Of Controlling Air Elementals Xdmg (Items)]] - 0 gp
-- [[Censer Of Controlling Air Elementals Xdmg (Items)]] - 0 gp
+- [[catapult-munition-scc (items)]] - 0 gp
+- [[catapult-munition-scc (items)]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
 - [[Chain Shirt Xphb]] - 0 gp
-- [[Chain Shirt Xphb (Items)]] - 0 gp
-- [[Chain Shirt Xphb (Items)]] - 0 gp
+- [[chain-shirt-xphb (items)]] - 0 gp
+- [[chain-shirt-xphb (items)]] - 0 gp
 - [[Chain Xphb]] - 0 gp
-- [[Chain Xphb (Items)]] - 0 gp
-- [[Chain Xphb (Items)]] - 0 gp
+- [[Chain Xphb]] - 0 gp
+- [[Chain Xphb]] - 0 gp
 - [[Chalcedony Xdmg]] - 0 gp
-- [[Chalcedony Xdmg (Items)]] - 0 gp
-- [[Chalcedony Xdmg (Items)]] - 0 gp
+- [[Chalcedony Xdmg]] - 0 gp
+- [[Chalcedony Xdmg]] - 0 gp
 - [[Chalk 1 Piece]] - 0 gp
-- [[Chalk 1 Piece (Items)]] - 0 gp
-- [[Chalk 1 Piece (Items)]] - 0 gp
+- [[chalk-1-piece (items)]] - 0 gp
+- [[chalk-1-piece (items)]] - 0 gp
 - [[Chariot Xphb]] - 0 gp
-- [[Chariot Xphb (Items)]] - 0 gp
-- [[Chariot Xphb (Items)]] - 0 gp
+- [[Chariot Xphb]] - 0 gp
+- [[Chariot Xphb]] - 0 gp
 - [[Cheese Wedge Xphb]] - 0 gp
-- [[Cheese Wedge Xphb (Items)]] - 0 gp
-- [[Cheese Wedge Xphb (Items)]] - 0 gp
+- [[cheese-wedge-xphb (items)]] - 0 gp
+- [[cheese-wedge-xphb (items)]] - 0 gp
 - [[Chest Xphb]] - 0 gp
-- [[Chest Xphb (Items)]] - 0 gp
-- [[Chest Xphb (Items)]] - 0 gp
+- [[chest-xphb (items)]] - 0 gp
+- [[chest-xphb (items)]] - 0 gp
 - [[Chicken Xdmg]] - 0 gp
-- [[Chicken Xdmg (Items)]] - 0 gp
-- [[Chicken Xdmg (Items)]] - 0 gp
-- [[Chime Of Opening Xdmg]] - 0 gp
-- [[Chime Of Opening Xdmg (Items)]] - 0 gp
-- [[Chime Of Opening Xdmg (Items)]] - 0 gp
+- [[chicken-xdmg (items)]] - 0 gp
+- [[chicken-xdmg (items)]] - 0 gp
+- [[Chime of Opening Xdmg]] - 0 gp
+- [[Chime of Opening Xdmg]] - 0 gp
+- [[Chime of Opening Xdmg]] - 0 gp
 - [[Chrysoberyl Xdmg]] - 0 gp
-- [[Chrysoberyl Xdmg (Items)]] - 0 gp
-- [[Chrysoberyl Xdmg (Items)]] - 0 gp
+- [[Chrysoberyl Xdmg]] - 0 gp
+- [[Chrysoberyl Xdmg]] - 0 gp
 - [[Chrysoprase Xdmg]] - 0 gp
-- [[Chrysoprase Xdmg (Items)]] - 0 gp
-- [[Chrysoprase Xdmg (Items)]] - 0 gp
-- [[Chunk Of Meat]] - 0 gp
-- [[Chunk Of Meat (Items)]] - 0 gp
-- [[Chunk Of Meat (Items)]] - 0 gp
+- [[chrysoprase-xdmg (items)]] - 0 gp
+- [[chrysoprase-xdmg (items)]] - 0 gp
+- [[chunk-of-meat (items)]] - 0 gp
+- [[chunk-of-meat (items)]] - 0 gp
+- [[chunk-of-meat (items)]] - 0 gp
 - [[Cinnamon Xdmg]] - 0 gp
-- [[Cinnamon Xdmg (Items)]] - 0 gp
-- [[Cinnamon Xdmg (Items)]] - 0 gp
-- [[Circlet Of Blasting Xdmg]] - 0 gp
-- [[Circlet Of Blasting Xdmg (Items)]] - 0 gp
-- [[Circlet Of Blasting Xdmg (Items)]] - 0 gp
+- [[cinnamon-xdmg (items)]] - 0 gp
+- [[cinnamon-xdmg (items)]] - 0 gp
+- [[Circlet of Blasting Xdmg]] - 0 gp
+- [[Circlet of Blasting Xdmg]] - 0 gp
+- [[Circlet of Blasting Xdmg]] - 0 gp
 - [[Citrine Xdmg]] - 0 gp
-- [[Citrine Xdmg (Items)]] - 0 gp
-- [[Citrine Xdmg (Items)]] - 0 gp
+- [[Citrine Xdmg]] - 0 gp
+- [[Citrine Xdmg]] - 0 gp
 - [[Climbers Kit Xphb]] - 0 gp
-- [[Climbers Kit Xphb (Items)]] - 0 gp
-- [[Climbers Kit Xphb (Items)]] - 0 gp
-- [[Cloak Of Arachnida Xdmg]] - 0 gp
-- [[Cloak Of Arachnida Xdmg (Items)]] - 0 gp
-- [[Cloak Of Arachnida Xdmg (Items)]] - 0 gp
-- [[Cloak Of Billowing Xdmg]] - 0 gp
-- [[Cloak Of Billowing Xdmg (Items)]] - 0 gp
-- [[Cloak Of Billowing Xdmg (Items)]] - 0 gp
-- [[Cloak Of Many Fashions Xdmg]] - 0 gp
-- [[Cloak Of Many Fashions Xdmg (Items)]] - 0 gp
-- [[Cloak Of Many Fashions Xdmg (Items)]] - 0 gp
+- [[Climbers Kit Xphb]] - 0 gp
+- [[Climbers Kit Xphb]] - 0 gp
+- [[Cloak of Arachnida Xdmg]] - 0 gp
+- [[Cloak of Arachnida Xdmg]] - 0 gp
+- [[Cloak of Arachnida Xdmg]] - 0 gp
+- [[cloak-of-billowing-xdmg (items)]] - 0 gp
+- [[cloak-of-billowing-xdmg (items)]] - 0 gp
+- [[cloak-of-billowing-xdmg (items)]] - 0 gp
+- [[Cloak of Many Fashions Xdmg]] - 0 gp
+- [[Cloak of Many Fashions Xdmg]] - 0 gp
+- [[Cloak of Many Fashions Xdmg]] - 0 gp
 - [[Clockwork Amulet Xdmg]] - 0 gp
-- [[Clockwork Amulet Xdmg (Items)]] - 0 gp
-- [[Clockwork Amulet Xdmg (Items)]] - 0 gp
-- [[Cloth Of Gold Vestments Xdmg]] - 0 gp
-- [[Cloth Of Gold Vestments Xdmg (Items)]] - 0 gp
-- [[Cloth Of Gold Vestments Xdmg (Items)]] - 0 gp
-- [[Clothes Of Mending Xdmg]] - 0 gp
-- [[Clothes Of Mending Xdmg (Items)]] - 0 gp
-- [[Clothes Of Mending Xdmg (Items)]] - 0 gp
+- [[Clockwork Amulet Xdmg]] - 0 gp
+- [[Clockwork Amulet Xdmg]] - 0 gp
+- [[Cloth of Gold Vestments Xdmg]] - 0 gp
+- [[Cloth of Gold Vestments Xdmg]] - 0 gp
+- [[Cloth of Gold Vestments Xdmg]] - 0 gp
+- [[Clothes of Mending Xdmg]] - 0 gp
+- [[Clothes of Mending Xdmg]] - 0 gp
+- [[Clothes of Mending Xdmg]] - 0 gp
 - [[Cloves Xdmg]] - 0 gp
-- [[Cloves Xdmg (Items)]] - 0 gp
-- [[Cloves Xdmg (Items)]] - 0 gp
+- [[cloves-xdmg (items)]] - 0 gp
+- [[cloves-xdmg (items)]] - 0 gp
 - [[Club Xphb]] - 0 gp
-- [[Club Xphb (Items)]] - 0 gp
-- [[Club Xphb (Items)]] - 0 gp
+- [[greatclub-xphb (items)]] - 0 gp
+- [[greatclub-xphb (items)]] - 0 gp
 - [[Cobblers Tools Xphb]] - 0 gp
-- [[Cobblers Tools Xphb (Items)]] - 0 gp
-- [[Cobblers Tools Xphb (Items)]] - 0 gp
+- [[Cobblers Tools Xphb]] - 0 gp
+- [[Cobblers Tools Xphb]] - 0 gp
 - [[Command Amulet Xmm]] - 0 gp
-- [[Command Amulet Xmm (Items)]] - 0 gp
-- [[Command Amulet Xmm (Items)]] - 0 gp
+- [[command-amulet-xmm (items)]] - 0 gp
+- [[command-amulet-xmm (items)]] - 0 gp
 - [[Common Clothes]] - 0 gp
-- [[Common Clothes (Items)]] - 0 gp
-- [[Common Clothes (Items)]] - 0 gp
+- [[common-clothes (items)]] - 0 gp
+- [[common-clothes (items)]] - 0 gp
 - [[Common Wine Bottle Xphb]] - 0 gp
-- [[Common Wine Bottle Xphb (Items)]] - 0 gp
-- [[Common Wine Bottle Xphb (Items)]] - 0 gp
+- [[Common Wine Bottle Xphb]] - 0 gp
+- [[Common Wine Bottle Xphb]] - 0 gp
 - [[Component Pouch Xphb]] - 0 gp
-- [[Component Pouch Xphb (Items)]] - 0 gp
-- [[Component Pouch Xphb (Items)]] - 0 gp
+- [[component-pouch-xphb (items)]] - 0 gp
+- [[component-pouch-xphb (items)]] - 0 gp
 - [[Cooks Utensils Xphb]] - 0 gp
-- [[Cooks Utensils Xphb (Items)]] - 0 gp
-- [[Cooks Utensils Xphb (Items)]] - 0 gp
+- [[Cooks Utensils Xphb]] - 0 gp
+- [[Cooks Utensils Xphb]] - 0 gp
 - [[Copper Chalice With Silver Filigree Xdmg]] - 0 gp
-- [[Copper Chalice With Silver Filigree Xdmg (Items)]] - 0 gp
-- [[Copper Chalice With Silver Filigree Xdmg (Items)]] - 0 gp
+- [[Copper Chalice With Silver Filigree Xdmg]] - 0 gp
+- [[Copper Chalice With Silver Filigree Xdmg]] - 0 gp
 - [[Copper Cp]] - 0 gp
-- [[Copper Cp (Items)]] - 0 gp
-- [[Copper Cp (Items)]] - 0 gp
+- [[copper-cp (items)]] - 0 gp
+- [[copper-cp (items)]] - 0 gp
 - [[Copper Xdmg]] - 0 gp
-- [[Copper Xdmg (Items)]] - 0 gp
-- [[Copper Xdmg (Items)]] - 0 gp
+- [[Copper Xdmg]] - 0 gp
+- [[Copper Xdmg]] - 0 gp
 - [[Coral Xdmg]] - 0 gp
-- [[Coral Xdmg (Items)]] - 0 gp
-- [[Coral Xdmg (Items)]] - 0 gp
+- [[coral-xdmg (items)]] - 0 gp
+- [[coral-xdmg (items)]] - 0 gp
 - [[Costume Xphb]] - 0 gp
-- [[Costume Xphb (Items)]] - 0 gp
-- [[Costume Xphb (Items)]] - 0 gp
+- [[costume-xphb (items)]] - 0 gp
+- [[costume-xphb (items)]] - 0 gp
 - [[Cotton Cloth 1 Sq Yd Xdmg]] - 0 gp
-- [[Cotton Cloth 1 Sq Yd Xdmg (Items)]] - 0 gp
-- [[Cotton Cloth 1 Sq Yd Xdmg (Items)]] - 0 gp
+- [[cotton-cloth-1-sq-yd-xdmg (items)]] - 0 gp
+- [[cotton-cloth-1-sq-yd-xdmg (items)]] - 0 gp
 - [[Cow Xdmg]] - 0 gp
-- [[Cow Xdmg (Items)]] - 0 gp
-- [[Cow Xdmg (Items)]] - 0 gp
-- [[Crafting An Item Resources And Resolution Xge (Tables)]] - 0 gp
+- [[Cow Xdmg]] - 0 gp
+- [[Cow Xdmg]] - 0 gp
+- [[Crafting an Item Resources and Resolution Xge]] - 0 gp
 - [[Crowbar Xphb]] - 0 gp
-- [[Crowbar Xphb (Items)]] - 0 gp
-- [[Crowbar Xphb (Items)]] - 0 gp
+- [[Crowbar Xphb]] - 0 gp
+- [[Crowbar Xphb]] - 0 gp
 - [[Crystal Xphb]] - 0 gp
-- [[Crystal Xphb (Items)]] - 0 gp
-- [[Crystal Xphb (Items)]] - 0 gp
-- [[Cube Of Summoning Xdmg]] - 0 gp
-- [[Cube Of Summoning Xdmg (Items)]] - 0 gp
-- [[Cube Of Summoning Xdmg (Items)]] - 0 gp
+- [[crystal-xphb (items)]] - 0 gp
+- [[crystal-xphb (items)]] - 0 gp
+- [[Cube of Summoning Xdmg]] - 0 gp
+- [[Cube of Summoning Xdmg]] - 0 gp
+- [[Cube of Summoning Xdmg]] - 0 gp
 - [[Cubic Gate Xdmg]] - 0 gp
-- [[Cubic Gate Xdmg (Items)]] - 0 gp
-- [[Cubic Gate Xdmg (Items)]] - 0 gp
+- [[Cubic Gate Xdmg]] - 0 gp
+- [[Cubic Gate Xdmg]] - 0 gp
 - [[Cuddly Strixhaven Mascot Scc]] - 0 gp
-- [[Cuddly Strixhaven Mascot Scc (Items)]] - 0 gp
-- [[Cuddly Strixhaven Mascot Scc (Items)]] - 0 gp
+- [[Cuddly Strixhaven Mascot Scc]] - 0 gp
+- [[Cuddly Strixhaven Mascot Scc]] - 0 gp
 - [[Dart Xphb]] - 0 gp
-- [[Dart Xphb (Items)]] - 0 gp
-- [[Dart Xphb (Items)]] - 0 gp
-- [[Decanter Of Endless Water Xdmg]] - 0 gp
-- [[Decanter Of Endless Water Xdmg (Items)]] - 0 gp
-- [[Decanter Of Endless Water Xdmg (Items)]] - 0 gp
-- [[Deck Of Illusions Xdmg (Items)]] - 0 gp
-- [[Deck Of Illusions Xdmg (Items)]] - 0 gp
-- [[Deck Of Illusions Xdmg (Items)]] - 0 gp
-- [[Deck Of Illusions Xdmg (Items)]] - 0 gp
-- [[Deck Of Many Things Xdmg (Items)]] - 0 gp
-- [[Deck Of Many Things Xdmg (Items)]] - 0 gp
-- [[Deck Of Many Things Xdmg (Items)]] - 0 gp
-- [[Deck Of Many Things Xdmg (Items)]] - 0 gp
-- [[Demonomicon Of Iggwilv Xdmg]] - 0 gp
-- [[Demonomicon Of Iggwilv Xdmg (Items)]] - 0 gp
-- [[Demonomicon Of Iggwilv Xdmg (Items)]] - 0 gp
-- [[Detailed Life Sized Dragonborn Skull Cast In]] - 0 gp
-- [[Detailed Life Sized Dragonborn Skull Cast In Electrum Xdmg]] - 0 gp
-- [[Devastation Orb Of Air Pota]] - 0 gp
-- [[Devastation Orb Of Air Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Air Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Earth Pota]] - 0 gp
-- [[Devastation Orb Of Earth Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Earth Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Fire Pota]] - 0 gp
-- [[Devastation Orb Of Fire Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Fire Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Water Pota]] - 0 gp
-- [[Devastation Orb Of Water Pota (Items)]] - 0 gp
-- [[Devastation Orb Of Water Pota (Items)]] - 0 gp
+- [[Dart Xphb]] - 0 gp
+- [[Dart Xphb]] - 0 gp
+- [[Decanter of Endless Water Xdmg]] - 0 gp
+- [[Decanter of Endless Water Xdmg]] - 0 gp
+- [[Decanter of Endless Water Xdmg]] - 0 gp
+- [[Deck of Illusions Xdmg]] - 0 gp
+- [[Deck of Illusions Xdmg]] - 0 gp
+- [[Deck of Illusions Xdmg]] - 0 gp
+- [[Deck of Illusions Xdmg]] - 0 gp
+- [[Deck of Many Things Xdmg (items)]] - 0 gp
+- [[Deck of Many Things Xdmg (items)]] - 0 gp
+- [[Deck of Many Things Xdmg (items)]] - 0 gp
+- [[Deck of Many Things Xdmg (items)]] - 0 gp
+- [[Demonomicon of Iggwilv Xdmg]] - 0 gp
+- [[Demonomicon of Iggwilv Xdmg]] - 0 gp
+- [[Demonomicon of Iggwilv Xdmg]] - 0 gp
+- [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]] - 0 gp
+- [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]] - 0 gp
+- [[devastation-orb-of-air-pota (items)]] - 0 gp
+- [[devastation-orb-of-air-pota (items)]] - 0 gp
+- [[devastation-orb-of-air-pota (items)]] - 0 gp
+- [[devastation-orb-of-earth-pota (items)]] - 0 gp
+- [[devastation-orb-of-earth-pota (items)]] - 0 gp
+- [[devastation-orb-of-earth-pota (items)]] - 0 gp
+- [[devastation-orb-of-fire-pota (items)]] - 0 gp
+- [[devastation-orb-of-fire-pota (items)]] - 0 gp
+- [[devastation-orb-of-fire-pota (items)]] - 0 gp
+- [[devastation-orb-of-water-pota (items)]] - 0 gp
+- [[devastation-orb-of-water-pota (items)]] - 0 gp
+- [[devastation-orb-of-water-pota (items)]] - 0 gp
 - [[Devastation Orb Pota]] - 0 gp
-- [[Devastation Orb Pota (Items)]] - 0 gp
-- [[Devastation Orb Pota (Items)]] - 0 gp
+- [[Devastation Orb Pota]] - 0 gp
+- [[Devastation Orb Pota]] - 0 gp
 - [[Diamond Xdmg]] - 0 gp
-- [[Diamond Xdmg (Items)]] - 0 gp
-- [[Diamond Xdmg (Items)]] - 0 gp
+- [[elemental-gem-yellow-diamond-xdmg (items)]] - 0 gp
+- [[elemental-gem-yellow-diamond-xdmg (items)]] - 0 gp
 - [[Dice Set Xphb]] - 0 gp
-- [[Dice Set Xphb (Items)]] - 0 gp
-- [[Dice Set Xphb (Items)]] - 0 gp
+- [[Dice Set Xphb]] - 0 gp
+- [[Dice Set Xphb]] - 0 gp
 - [[Dimensional Shackles Xdmg]] - 0 gp
-- [[Dimensional Shackles Xdmg (Items)]] - 0 gp
-- [[Dimensional Shackles Xdmg (Items)]] - 0 gp
+- [[dimensional-shackles-xdmg (items)]] - 0 gp
+- [[dimensional-shackles-xdmg (items)]] - 0 gp
 - [[Diplomats Pack Xphb]] - 0 gp
-- [[Diplomats Pack Xphb (Items)]] - 0 gp
-- [[Diplomats Pack Xphb (Items)]] - 0 gp
+- [[diplomats-pack-xphb (items)]] - 0 gp
+- [[diplomats-pack-xphb (items)]] - 0 gp
 - [[Disguise Kit Xphb]] - 0 gp
-- [[Disguise Kit Xphb (Items)]] - 0 gp
-- [[Disguise Kit Xphb (Items)]] - 0 gp
-- [[Donkey]] - 0 gp
-- [[Downtime Activity Crafting An Item Xge (Variant Rules)]] - 0 gp
-- [[Downtime Activity Selling A Magic Item Xge (Variant Rules)]] - 0 gp
+- [[disguise-kit-xphb (items)]] - 0 gp
+- [[disguise-kit-xphb (items)]] - 0 gp
+- [[donkey]] - 0 gp
+- [[downtime-activity-crafting-an-item-xge (variant-rules)]] - 0 gp
+- [[Downtime Activity Selling a Magic Item Xge]] - 0 gp
 - [[Draakhorn Rot]] - 0 gp
-- [[Draakhorn Rot (Items)]] - 0 gp
-- [[Draakhorn Rot (Items)]] - 0 gp
+- [[draakhorn-rot (items)]] - 0 gp
+- [[draakhorn-rot (items)]] - 0 gp
 - [[Draft Horse Xphb]] - 0 gp
-- [[Draft Horse Xphb (Items)]] - 0 gp
-- [[Draft Horse Xphb (Items)]] - 0 gp
+- [[draft-horse-xphb (items)]] - 0 gp
+- [[draft-horse-xphb (items)]] - 0 gp
 - [[Dragon Slayer Xdmg]] - 0 gp
-- [[Dragon Slayer Xdmg (Items)]] - 0 gp
-- [[Dragon Slayer Xdmg (Items)]] - 0 gp
+- [[Dragon Slayer Xdmg]] - 0 gp
+- [[Dragon Slayer Xdmg]] - 0 gp
 - [[Dragonchess Set Xphb]] - 0 gp
-- [[Dragonchess Set Xphb (Items)]] - 0 gp
-- [[Dragonchess Set Xphb (Items)]] - 0 gp
+- [[Dragonchess Set Xphb]] - 0 gp
+- [[Dragonchess Set Xphb]] - 0 gp
 - [[Dragongleam Hotdq]] - 0 gp
-- [[Dragongleam Hotdq (Items)]] - 0 gp
-- [[Dragongleam Hotdq (Items)]] - 0 gp
+- [[dragongleam-hotdq (items)]] - 0 gp
+- [[dragongleam-hotdq (items)]] - 0 gp
 - [[Dragonguard Lmop]] - 0 gp
-- [[Dragonguard Lmop (Items)]] - 0 gp
-- [[Dragonguard Lmop (Items)]] - 0 gp
+- [[Dragonguard Lmop]] - 0 gp
+- [[Dragonguard Lmop]] - 0 gp
 - [[Driftglobe Xdmg]] - 0 gp
-- [[Driftglobe Xdmg (Items)]] - 0 gp
-- [[Driftglobe Xdmg (Items)]] - 0 gp
+- [[driftglobe-xdmg (items)]] - 0 gp
+- [[driftglobe-xdmg (items)]] - 0 gp
 - [[Drow 1 Weapon Mm]] - 0 gp
-- [[Drow 1 Weapon Mm (Items)]] - 0 gp
-- [[Drow 1 Weapon Mm (Items)]] - 0 gp
+- [[drow-1-weapon-mm (items)]] - 0 gp
+- [[drow-1-weapon-mm (items)]] - 0 gp
 - [[Drow 2 Weapon Mm]] - 0 gp
-- [[Drow 2 Weapon Mm (Items)]] - 0 gp
-- [[Drow 2 Weapon Mm (Items)]] - 0 gp
+- [[drow-2-weapon-mm (items)]] - 0 gp
+- [[drow-2-weapon-mm (items)]] - 0 gp
 - [[Drow 3 Weapon Mm]] - 0 gp
-- [[Drow 3 Weapon Mm (Items)]] - 0 gp
-- [[Drow 3 Weapon Mm (Items)]] - 0 gp
+- [[Drow 3 Weapon Mm]] - 0 gp
+- [[Drow 3 Weapon Mm]] - 0 gp
 - [[Druidic Focus Xphb]] - 0 gp
-- [[Druidic Focus Xphb (Items)]] - 0 gp
-- [[Druidic Focus Xphb (Items)]] - 0 gp
+- [[druidic-focus-xphb (items)]] - 0 gp
+- [[druidic-focus-xphb (items)]] - 0 gp
 - [[Drum Xphb]] - 0 gp
-- [[Drum Xphb (Items)]] - 0 gp
-- [[Drum Xphb (Items)]] - 0 gp
+- [[drum-xphb (items)]] - 0 gp
+- [[drum-xphb (items)]] - 0 gp
 - [[Dulcimer Xphb]] - 0 gp
-- [[Dulcimer Xphb (Items)]] - 0 gp
-- [[Dulcimer Xphb (Items)]] - 0 gp
-- [[Dungeon Dressing Utensils And Personal Items (Tables)]] - 0 gp
+- [[Dulcimer Xphb]] - 0 gp
+- [[Dulcimer Xphb]] - 0 gp
+- [[dungeon-dressing-utensils-and-personal-items (tables)]] - 0 gp
 - [[Dungeoneers Pack Xphb]] - 0 gp
-- [[Dungeoneers Pack Xphb (Items)]] - 0 gp
-- [[Dungeoneers Pack Xphb (Items)]] - 0 gp
-- [[Dust Of Disappearance Xdmg]] - 0 gp
-- [[Dust Of Disappearance Xdmg (Items)]] - 0 gp
-- [[Dust Of Disappearance Xdmg (Items)]] - 0 gp
-- [[Dust Of Dryness Xdmg]] - 0 gp
-- [[Dust Of Dryness Xdmg (Items)]] - 0 gp
-- [[Dust Of Dryness Xdmg (Items)]] - 0 gp
-- [[Dust Of Sneezing And Choking Xdmg]] - 0 gp
-- [[Dust Of Sneezing And Choking Xdmg (Items)]] - 0 gp
-- [[Dust Of Sneezing And Choking Xdmg (Items)]] - 0 gp
+- [[dungeoneers-pack-xphb]] - 0 gp
+- [[dungeoneers-pack-xphb]] - 0 gp
+- [[dust-of-disappearance-xdmg (items)]] - 0 gp
+- [[dust-of-disappearance-xdmg (items)]] - 0 gp
+- [[dust-of-disappearance-xdmg (items)]] - 0 gp
+- [[dust-of-dryness-xdmg (items)]] - 0 gp
+- [[dust-of-dryness-xdmg (items)]] - 0 gp
+- [[dust-of-dryness-xdmg (items)]] - 0 gp
+- [[dust-of-sneezing-and-choking-xdmg (items)]] - 0 gp
+- [[dust-of-sneezing-and-choking-xdmg (items)]] - 0 gp
+- [[dust-of-sneezing-and-choking-xdmg (items)]] - 0 gp
 - [[Dwarven Plate Xdmg]] - 0 gp
-- [[Dwarven Plate Xdmg (Items)]] - 0 gp
-- [[Dwarven Plate Xdmg (Items)]] - 0 gp
+- [[Dwarven Plate Xdmg]] - 0 gp
+- [[Dwarven Plate Xdmg]] - 0 gp
 - [[Dynamite Stick Xdmg]] - 0 gp
-- [[Dynamite Stick Xdmg (Items)]] - 0 gp
-- [[Dynamite Stick Xdmg (Items)]] - 0 gp
-- [[Ear Horn Of Hearing Xdmg]] - 0 gp
-- [[Ear Horn Of Hearing Xdmg (Items)]] - 0 gp
-- [[Ear Horn Of Hearing Xdmg (Items)]] - 0 gp
+- [[dynamite-stick-xdmg (items)]] - 0 gp
+- [[dynamite-stick-xdmg (items)]] - 0 gp
+- [[ear-horn-of-hearing-xdmg (items)]] - 0 gp
+- [[ear-horn-of-hearing-xdmg (items)]] - 0 gp
+- [[ear-horn-of-hearing-xdmg (items)]] - 0 gp
 - [[Efreeti Bottle Xdmg]] - 0 gp
-- [[Efreeti Bottle Xdmg (Items)]] - 0 gp
-- [[Efreeti Bottle Xdmg (Items)]] - 0 gp
+- [[efreeti-bottle-xdmg (items)]] - 0 gp
+- [[efreeti-bottle-xdmg (items)]] - 0 gp
 - [[Electrum Ep]] - 0 gp
-- [[Electrum Ep (Items)]] - 0 gp
-- [[Electrum Ep (Items)]] - 0 gp
+- [[electrum-ep (items)]] - 0 gp
+- [[electrum-ep (items)]] - 0 gp
 - [[Elemental Gem Blue Sapphire Xdmg]] - 0 gp
-- [[Elemental Gem Blue Sapphire Xdmg (Items)]] - 0 gp
-- [[Elemental Gem Blue Sapphire Xdmg (Items)]] - 0 gp
+- [[blue-sapphire-xdmg (items)]] - 0 gp
+- [[blue-sapphire-xdmg (items)]] - 0 gp
 - [[Elemental Gem Emerald Xdmg]] - 0 gp
-- [[Elemental Gem Emerald Xdmg (Items)]] - 0 gp
-- [[Elemental Gem Emerald Xdmg (Items)]] - 0 gp
+- [[elemental-gem-emerald-xdmg (items)]] - 0 gp
+- [[elemental-gem-emerald-xdmg (items)]] - 0 gp
 - [[Elemental Gem Red Corundum Xdmg]] - 0 gp
-- [[Elemental Gem Red Corundum Xdmg (Items)]] - 0 gp
-- [[Elemental Gem Red Corundum Xdmg (Items)]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
 - [[Elemental Gem Xdmg]] - 0 gp
-- [[Elemental Gem Xdmg (Items)]] - 0 gp
-- [[Elemental Gem Xdmg (Items)]] - 0 gp
+- [[Elemental Gem Xdmg]] - 0 gp
+- [[Elemental Gem Xdmg]] - 0 gp
 - [[Elemental Gem Yellow Diamond Xdmg]] - 0 gp
-- [[Elemental Gem Yellow Diamond Xdmg (Items)]] - 0 gp
-- [[Elemental Gem Yellow Diamond Xdmg (Items)]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
 - [[Elephant Xphb]] - 0 gp
-- [[Elephant Xphb (Items)]] - 0 gp
-- [[Elephant Xphb (Items)]] - 0 gp
-- [[Elixir Of Health Xdmg]] - 0 gp
-- [[Elixir Of Health Xdmg (Items)]] - 0 gp
-- [[Elixir Of Health Xdmg (Items)]] - 0 gp
+- [[elephant-xphb (items)]] - 0 gp
+- [[elephant-xphb (items)]] - 0 gp
+- [[Elixir of Health Xdmg]] - 0 gp
+- [[Elixir of Health Xdmg]] - 0 gp
+- [[Elixir of Health Xdmg]] - 0 gp
 - [[Elven Chain Xdmg]] - 0 gp
-- [[Elven Chain Xdmg (Items)]] - 0 gp
-- [[Elven Chain Xdmg (Items)]] - 0 gp
+- [[elven-chain-xdmg (items)]] - 0 gp
+- [[elven-chain-xdmg (items)]] - 0 gp
 - [[Elven Trinket Mtf]] - 0 gp
-- [[Elven Trinket Mtf (Items)]] - 0 gp
-- [[Elven Trinket Mtf (Items)]] - 0 gp
+- [[elven-trinket-mtf (items)]] - 0 gp
+- [[elven-trinket-mtf (items)]] - 0 gp
 - [[Emblem Xphb]] - 0 gp
-- [[Emblem Xphb (Items)]] - 0 gp
-- [[Emblem Xphb (Items)]] - 0 gp
+- [[emblem-xphb (items)]] - 0 gp
+- [[emblem-xphb (items)]] - 0 gp
 - [[Embroidered Glove Set With Jewel Chips Xdmg]] - 0 gp
-- [[Embroidered Glove Set With Jewel Chips Xdmg (Items)]] - 0 gp
-- [[Embroidered Glove Set With Jewel Chips Xdmg (Items)]] - 0 gp
-- [[Embroidered Silk And Velvet Mantle Set With]] - 0 gp
-- [[Embroidered Silk And Velvet Mantle Set With Numerous Moonstones Xdmg]] - 0 gp
+- [[Embroidered Glove Set With Jewel Chips Xdmg]] - 0 gp
+- [[Embroidered Glove Set With Jewel Chips Xdmg]] - 0 gp
+- [[Embroidered Silk and Velvet Mantle Set With]] - 0 gp
+- [[Embroidered Silk and Velvet Mantle Set With]] - 0 gp
 - [[Embroidered Silk Handkerchief Xdmg]] - 0 gp
-- [[Embroidered Silk Handkerchief Xdmg (Items)]] - 0 gp
-- [[Embroidered Silk Handkerchief Xdmg (Items)]] - 0 gp
+- [[embroidered-silk-handkerchief-xdmg (items)]] - 0 gp
+- [[embroidered-silk-handkerchief-xdmg (items)]] - 0 gp
 - [[Emerald Xdmg]] - 0 gp
-- [[Emerald Xdmg (Items)]] - 0 gp
-- [[Emerald Xdmg (Items)]] - 0 gp
+- [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] - 0 gp
+- [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] - 0 gp
 - [[Enduring Spellbook Xdmg]] - 0 gp
-- [[Enduring Spellbook Xdmg (Items)]] - 0 gp
-- [[Enduring Spellbook Xdmg (Items)]] - 0 gp
+- [[enduring-spellbook-xdmg (items)]] - 0 gp
+- [[enduring-spellbook-xdmg (items)]] - 0 gp
 - [[Energy Cell Xdmg]] - 0 gp
-- [[Energy Cell Xdmg (Items)]] - 0 gp
-- [[Energy Cell Xdmg (Items)]] - 0 gp
+- [[Energy Cell Xdmg]] - 0 gp
+- [[Energy Cell Xdmg]] - 0 gp
 - [[Entertainers Pack Xphb]] - 0 gp
-- [[Entertainers Pack Xphb (Items)]] - 0 gp
-- [[Entertainers Pack Xphb (Items)]] - 0 gp
+- [[entertainers-pack-xphb (items)]] - 0 gp
+- [[entertainers-pack-xphb (items)]] - 0 gp
 - [[Ersatz Eye Xdmg]] - 0 gp
-- [[Ersatz Eye Xdmg (Items)]] - 0 gp
-- [[Ersatz Eye Xdmg (Items)]] - 0 gp
-- [[Essence Of Ether Xdmg]] - 0 gp
-- [[Essence Of Ether Xdmg (Items)]] - 0 gp
-- [[Essence Of Ether Xdmg (Items)]] - 0 gp
+- [[ersatz-eye-xdmg (items)]] - 0 gp
+- [[ersatz-eye-xdmg (items)]] - 0 gp
+- [[Essence of Ether Xdmg]] - 0 gp
+- [[Essence of Ether Xdmg]] - 0 gp
+- [[Essence of Ether Xdmg]] - 0 gp
 - [[Eversmoking Bottle Xdmg]] - 0 gp
-- [[Eversmoking Bottle Xdmg (Items)]] - 0 gp
-- [[Eversmoking Bottle Xdmg (Items)]] - 0 gp
+- [[Eversmoking Bottle Xdmg]] - 0 gp
+- [[Eversmoking Bottle Xdmg]] - 0 gp
 - [[Exotic Saddle Xphb]] - 0 gp
-- [[Exotic Saddle Xphb (Items)]] - 0 gp
-- [[Exotic Saddle Xphb (Items)]] - 0 gp
+- [[Exotic Saddle Xphb]] - 0 gp
+- [[Exotic Saddle Xphb]] - 0 gp
 - [[Explorers Pack Xphb]] - 0 gp
-- [[Explorers Pack Xphb (Items)]] - 0 gp
-- [[Explorers Pack Xphb (Items)]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
+- [[Explorers Pack Xphb]] - 0 gp
 - [[Eye Agate Xdmg]] - 0 gp
-- [[Eye Agate Xdmg (Items)]] - 0 gp
-- [[Eye Agate Xdmg (Items)]] - 0 gp
+- [[Eye Agate Xdmg]] - 0 gp
+- [[Eye Agate Xdmg]] - 0 gp
 - [[Eye Patch Decorated With Tiny Blue Sapphires]] - 0 gp
-- [[Eye Patch Decorated With Tiny Blue Sapphires And Moonstones Xdmg]] - 0 gp
-- [[Eyes Of Minute Seeing Xdmg]] - 0 gp
-- [[Eyes Of Minute Seeing Xdmg (Items)]] - 0 gp
-- [[Eyes Of Minute Seeing Xdmg (Items)]] - 0 gp
-- [[Eyes Of The Eagle Xdmg]] - 0 gp
-- [[Eyes Of The Eagle Xdmg (Items)]] - 0 gp
-- [[Eyes Of The Eagle Xdmg (Items)]] - 0 gp
+- [[Eye Patch Decorated with Tiny Blue Sapphires and Moonstones Xdmg]] - 0 gp
+- [[eyes-of-minute-seeing-xdmg (items)]] - 0 gp
+- [[eyes-of-minute-seeing-xdmg (items)]] - 0 gp
+- [[eyes-of-minute-seeing-xdmg (items)]] - 0 gp
+- [[eyes-of-the-eagle-xdmg (items)]] - 0 gp
+- [[eyes-of-the-eagle-xdmg (items)]] - 0 gp
+- [[eyes-of-the-eagle-xdmg (items)]] - 0 gp
 - [[Feed Per Day Xphb]] - 0 gp
-- [[Feed Per Day Xphb (Items)]] - 0 gp
-- [[Feed Per Day Xphb (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Bronze Griffon]] - 0 gp
-- [[Figurine Of Wondrous Power Bronze Griffon Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Ebony Fly Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Ebony Fly Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Ebony Fly Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Golden Lions Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Golden Lions Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Golden Lions Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Ivory Goats Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Ivory Goats Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Ivory Goats Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Marble Elephant]] - 0 gp
-- [[Figurine Of Wondrous Power Marble Elephant Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Obsidian Steed]] - 0 gp
-- [[Figurine Of Wondrous Power Obsidian Steed Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Onyx Dog Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Onyx Dog Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Onyx Dog Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Serpentine Owl]] - 0 gp
-- [[Figurine Of Wondrous Power Serpentine Owl Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Silver Raven Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Silver Raven Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Silver Raven Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Xdmg]] - 0 gp
-- [[Figurine Of Wondrous Power Xdmg (Items)]] - 0 gp
-- [[Figurine Of Wondrous Power Xdmg (Items)]] - 0 gp
+- [[Feed Per Day Xphb]] - 0 gp
+- [[Feed Per Day Xphb]] - 0 gp
+- [[Figurine of Wondrous Power Bronze Griffon]] - 0 gp
+- [[Figurine of Wondrous Power Bronze Griffon]] - 0 gp
+- [[figurine-of-wondrous-power-ebony-fly-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-ebony-fly-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-ebony-fly-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]] - 0 gp
+- [[Figurine of Wondrous Power Marble Elephant]] - 0 gp
+- [[Figurine of Wondrous Power Marble Elephant]] - 0 gp
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg]] - 0 gp
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg]] - 0 gp
+- [[figurine-of-wondrous-power-onyx-dog-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-onyx-dog-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-onyx-dog-xdmg (items)]] - 0 gp
+- [[Figurine of Wondrous Power Serpentine Owl]] - 0 gp
+- [[Figurine of Wondrous Power Serpentine Owl]] - 0 gp
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)]] - 0 gp
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)]] - 0 gp
+- [[Figurine of Wondrous Power Xdmg]] - 0 gp
+- [[Figurine of Wondrous Power Xdmg]] - 0 gp
+- [[Figurine of Wondrous Power Xdmg]] - 0 gp
 - [[Fine Clothes Xphb]] - 0 gp
-- [[Fine Clothes Xphb (Items)]] - 0 gp
-- [[Fine Clothes Xphb (Items)]] - 0 gp
-- [[Fine Gold Chain Set With A Fire Opal Xdmg]] - 0 gp
-- [[Fine Gold Chain Set With A Fire Opal Xdmg (Items)]] - 0 gp
-- [[Fine Gold Chain Set With A Fire Opal Xdmg (Items)]] - 0 gp
-- [[Fine Wine Bottle Xphb]] - 0 gp
-- [[Fine Wine Bottle Xphb (Items)]] - 0 gp
-- [[Fine Wine Bottle Xphb (Items)]] - 0 gp
+- [[Fine Clothes Xphb]] - 0 gp
+- [[Fine Clothes Xphb]] - 0 gp
 - [[Fire Opal Xdmg]] - 0 gp
-- [[Fire Opal Xdmg (Items)]] - 0 gp
-- [[Fire Opal Xdmg (Items)]] - 0 gp
+- [[Fire Opal Xdmg]] - 0 gp
+- [[Fire Opal Xdmg]] - 0 gp
+- [[Fine Wine Bottle Xphb]] - 0 gp
+- [[fine-wine-bottle-xphb (items)]] - 0 gp
+- [[fine-wine-bottle-xphb (items)]] - 0 gp
+- [[Fire Opal Xdmg]] - 0 gp
+- [[Fire Opal Xdmg]] - 0 gp
+- [[Fire Opal Xdmg]] - 0 gp
 - [[Firearm Bullet Xphb]] - 0 gp
-- [[Firearm Bullet Xphb (Items)]] - 0 gp
-- [[Firearm Bullet Xphb (Items)]] - 0 gp
+- [[Firearm Bullet Xphb]] - 0 gp
+- [[Firearm Bullet Xphb]] - 0 gp
 - [[Firearm Bullets 10 Xphb]] - 0 gp
-- [[Firearm Bullets 10 Xphb (Items)]] - 0 gp
-- [[Firearm Bullets 10 Xphb (Items)]] - 0 gp
-- [[Firearm Bullets 10 Xphb 2 (Items)]] - 0 gp
-- [[Firearm Bullets 10 Xphb 2 (Items)]] - 0 gp
+- [[Firearm Bullets 10 Xphb]] - 0 gp
+- [[Firearm Bullets 10 Xphb]] - 0 gp
+- [[Firearm Bullets 10 Xphb]] - 0 gp
+- [[Firearm Bullets 10 Xphb]] - 0 gp
 - [[Fishing Tackle]] - 0 gp
-- [[Fishing Tackle (Items)]] - 0 gp
-- [[Fishing Tackle (Items)]] - 0 gp
+- [[fishing-tackle (items)]] - 0 gp
+- [[fishing-tackle (items)]] - 0 gp
 - [[Flail Xphb]] - 0 gp
-- [[Flail Xphb (Items)]] - 0 gp
-- [[Flail Xphb (Items)]] - 0 gp
+- [[Flail Xphb]] - 0 gp
+- [[Flail Xphb]] - 0 gp
 - [[Flask Xphb]] - 0 gp
-- [[Flask Xphb (Items)]] - 0 gp
-- [[Flask Xphb (Items)]] - 0 gp
+- [[Flask Xphb]] - 0 gp
+- [[Flask Xphb]] - 0 gp
 - [[Flensing Claws Huge Vgm]] - 0 gp
-- [[Flensing Claws Huge Vgm (Items)]] - 0 gp
-- [[Flensing Claws Huge Vgm (Items)]] - 0 gp
+- [[Flensing Claws Huge Vgm]] - 0 gp
+- [[Flensing Claws Huge Vgm]] - 0 gp
 - [[Flensing Claws Large Vgm]] - 0 gp
-- [[Flensing Claws Large Vgm (Items)]] - 0 gp
-- [[Flensing Claws Large Vgm (Items)]] - 0 gp
+- [[Flensing Claws Large Vgm]] - 0 gp
+- [[Flensing Claws Large Vgm]] - 0 gp
 - [[Flensing Claws Medium Vgm]] - 0 gp
-- [[Flensing Claws Medium Vgm (Items)]] - 0 gp
-- [[Flensing Claws Medium Vgm (Items)]] - 0 gp
+- [[Flensing Claws Medium Vgm]] - 0 gp
+- [[Flensing Claws Medium Vgm]] - 0 gp
 - [[Flensing Claws Small Vgm]] - 0 gp
-- [[Flensing Claws Small Vgm (Items)]] - 0 gp
-- [[Flensing Claws Small Vgm (Items)]] - 0 gp
+- [[Flensing Claws Small Vgm]] - 0 gp
+- [[Flensing Claws Small Vgm]] - 0 gp
 - [[Flensing Claws Vgm]] - 0 gp
-- [[Flensing Claws Vgm (Items)]] - 0 gp
-- [[Flensing Claws Vgm (Items)]] - 0 gp
+- [[flensing-claws-vgm (items)]] - 0 gp
+- [[flensing-claws-vgm (items)]] - 0 gp
 - [[Flour Xdmg]] - 0 gp
-- [[Flour Xdmg (Items)]] - 0 gp
-- [[Flour Xdmg (Items)]] - 0 gp
+- [[flour-xdmg (items)]] - 0 gp
+- [[flour-xdmg (items)]] - 0 gp
 - [[Flute Xphb]] - 0 gp
-- [[Flute Xphb (Items)]] - 0 gp
-- [[Flute Xphb (Items)]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
 - [[Folding Boat Xdmg]] - 0 gp
-- [[Folding Boat Xdmg (Items)]] - 0 gp
-- [[Folding Boat Xdmg (Items)]] - 0 gp
+- [[Folding Boat Xdmg]] - 0 gp
+- [[Folding Boat Xdmg]] - 0 gp
 - [[Forgery Kit Xphb]] - 0 gp
-- [[Forgery Kit Xphb (Items)]] - 0 gp
-- [[Forgery Kit Xphb (Items)]] - 0 gp
+- [[Forgery Kit Xphb]] - 0 gp
+- [[Forgery Kit Xphb]] - 0 gp
 - [[Fragmentation Grenade Xdmg]] - 0 gp
-- [[Fragmentation Grenade Xdmg (Items)]] - 0 gp
-- [[Fragmentation Grenade Xdmg (Items)]] - 0 gp
+- [[fragmentation-grenade-xdmg (items)]] - 0 gp
+- [[fragmentation-grenade-xdmg (items)]] - 0 gp
 - [[Galley Xphb]] - 0 gp
-- [[Galley Xphb (Items)]] - 0 gp
-- [[Galley Xphb (Items)]] - 0 gp
+- [[Galley Xphb]] - 0 gp
+- [[Galley Xphb]] - 0 gp
 - [[Gaming Set Xphb]] - 0 gp
-- [[Gaming Set Xphb (Items)]] - 0 gp
-- [[Gaming Set Xphb (Items)]] - 0 gp
+- [[gaming-set-xphb (items)]] - 0 gp
+- [[gaming-set-xphb (items)]] - 0 gp
 - [[Garnet Xdmg]] - 0 gp
-- [[Garnet Xdmg (Items)]] - 0 gp
-- [[Garnet Xdmg (Items)]] - 0 gp
-- [[Gem Of Brightness Xdmg]] - 0 gp
-- [[Gem Of Brightness Xdmg (Items)]] - 0 gp
-- [[Gem Of Brightness Xdmg (Items)]] - 0 gp
+- [[garnet-xdmg (items)]] - 0 gp
+- [[garnet-xdmg (items)]] - 0 gp
+- [[Gem of Brightness Xdmg]] - 0 gp
+- [[Gem of Brightness Xdmg]] - 0 gp
+- [[Gem of Brightness Xdmg]] - 0 gp
 - [[Giant Slayer Xdmg]] - 0 gp
-- [[Giant Slayer Xdmg (Items)]] - 0 gp
-- [[Giant Slayer Xdmg (Items)]] - 0 gp
-- [[Gilded Royal Coach Or Funeral Barge Xdmg]] - 0 gp
-- [[Gilded Royal Coach Or Funeral Barge Xdmg (Items)]] - 0 gp
-- [[Gilded Royal Coach Or Funeral Barge Xdmg (Items)]] - 0 gp
+- [[giant]] - 0 gp
+- [[giant]] - 0 gp
+- [[gilded-royal-coach-or-funeral-barge-xdmg (items)]] - 0 gp
+- [[gilded-royal-coach-or-funeral-barge-xdmg (items)]] - 0 gp
+- [[gilded-royal-coach-or-funeral-barge-xdmg (items)]] - 0 gp
 - [[Ginger Xdmg]] - 0 gp
-- [[Ginger Xdmg (Items)]] - 0 gp
-- [[Ginger Xdmg (Items)]] - 0 gp
+- [[Ginger Xdmg]] - 0 gp
+- [[Ginger Xdmg]] - 0 gp
 - [[Glaive Xphb]] - 0 gp
-- [[Glaive Xphb (Items)]] - 0 gp
-- [[Glaive Xphb (Items)]] - 0 gp
+- [[glaive-xphb (items)]] - 0 gp
+- [[glaive-xphb (items)]] - 0 gp
 - [[Glamoured Studded Leather Xdmg]] - 0 gp
-- [[Glamoured Studded Leather Xdmg (Items)]] - 0 gp
-- [[Glamoured Studded Leather Xdmg (Items)]] - 0 gp
+- [[Glamoured Studded Leather Xdmg]] - 0 gp
+- [[Glamoured Studded Leather Xdmg]] - 0 gp
 - [[Glass Bottle Xphb]] - 0 gp
-- [[Glass Bottle Xphb (Items)]] - 0 gp
-- [[Glass Bottle Xphb (Items)]] - 0 gp
+- [[Glass Bottle Xphb]] - 0 gp
+- [[Glass Bottle Xphb]] - 0 gp
 - [[Glassblowers Tools Xphb]] - 0 gp
-- [[Glassblowers Tools Xphb (Items)]] - 0 gp
-- [[Glassblowers Tools Xphb (Items)]] - 0 gp
-- [[Gloves Of Thievery Xdmg]] - 0 gp
-- [[Gloves Of Thievery Xdmg (Items)]] - 0 gp
-- [[Gloves Of Thievery Xdmg (Items)]] - 0 gp
+- [[Glassblowers Tools Xphb]] - 0 gp
+- [[Glassblowers Tools Xphb]] - 0 gp
+- [[gloves-of-thievery-xdmg (items)]] - 0 gp
+- [[gloves-of-thievery-xdmg (items)]] - 0 gp
+- [[gloves-of-thievery-xdmg (items)]] - 0 gp
 - [[Goat Xdmg]] - 0 gp
-- [[Goat Xdmg (Items)]] - 0 gp
-- [[Goat Xdmg (Items)]] - 0 gp
-- [[Goggles Of Night Xdmg]] - 0 gp
-- [[Goggles Of Night Xdmg (Items)]] - 0 gp
-- [[Goggles Of Night Xdmg (Items)]] - 0 gp
+- [[Goat Xdmg]] - 0 gp
+- [[Goat Xdmg]] - 0 gp
+- [[goggles-of-night-xdmg (items)]] - 0 gp
+- [[goggles-of-night-xdmg (items)]] - 0 gp
+- [[goggles-of-night-xdmg (items)]] - 0 gp
 - [[Gold Bar 5 Pound Xdmg]] - 0 gp
-- [[Gold Bar 5 Pound Xdmg (Items)]] - 0 gp
-- [[Gold Bar 5 Pound Xdmg (Items)]] - 0 gp
+- [[gold-bar-5-pound-xdmg (items)]] - 0 gp
+- [[gold-bar-5-pound-xdmg (items)]] - 0 gp
 - [[Gold Birdcage With Electrum Filigree Xdmg]] - 0 gp
-- [[Gold Birdcage With Electrum Filigree Xdmg (Items)]] - 0 gp
-- [[Gold Birdcage With Electrum Filigree Xdmg (Items)]] - 0 gp
+- [[Gold Birdcage With Electrum Filigree Xdmg]] - 0 gp
+- [[Gold Birdcage With Electrum Filigree Xdmg]] - 0 gp
 - [[Gold Bracelet Xdmg]] - 0 gp
-- [[Gold Bracelet Xdmg (Items)]] - 0 gp
-- [[Gold Bracelet Xdmg (Items)]] - 0 gp
+- [[bejeweled-gold-bracelet-xdmg (items)]] - 0 gp
+- [[bejeweled-gold-bracelet-xdmg (items)]] - 0 gp
 - [[Gold Circlet Set With Four Aquamarines Xdmg]] - 0 gp
-- [[Gold Circlet Set With Four Aquamarines Xdmg (Items)]] - 0 gp
-- [[Gold Circlet Set With Four Aquamarines Xdmg (Items)]] - 0 gp
-- [[Gold Comb Shaped Like A Dragon With Red]] - 0 gp
-- [[Gold Comb Shaped Like A Dragon With Red Garnets As Eyes Xdmg]] - 0 gp
+- [[Gold Circlet Set With Four Aquamarines Xdmg]] - 0 gp
+- [[Gold Circlet Set With Four Aquamarines Xdmg]] - 0 gp
+- [[Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]] - 0 gp
+- [[Gold Comb Shaped Like a Dragon with Red Garnets As Eyes Xdmg]] - 0 gp
 - [[Gold Cup Set With Emeralds Xdmg]] - 0 gp
-- [[Gold Cup Set With Emeralds Xdmg (Items)]] - 0 gp
-- [[Gold Cup Set With Emeralds Xdmg (Items)]] - 0 gp
+- [[Gold Cup Set With Emeralds Xdmg]] - 0 gp
+- [[Gold Cup Set With Emeralds Xdmg]] - 0 gp
 - [[Gold Gp]] - 0 gp
-- [[Gold Gp (Items)]] - 0 gp
-- [[Gold Gp (Items)]] - 0 gp
+- [[gold-gp (items)]] - 0 gp
+- [[gold-gp (items)]] - 0 gp
 - [[Gold Idol Xdmg]] - 0 gp
-- [[Gold Idol Xdmg (Items)]] - 0 gp
-- [[Gold Idol Xdmg (Items)]] - 0 gp
+- [[Gold Idol Xdmg]] - 0 gp
+- [[Gold Idol Xdmg]] - 0 gp
 - [[Gold Jewelry Box With Platinum Filigree Xdmg]] - 0 gp
-- [[Gold Jewelry Box With Platinum Filigree Xdmg (Items)]] - 0 gp
-- [[Gold Jewelry Box With Platinum Filigree Xdmg (Items)]] - 0 gp
-- [[Gold Locket With A Painted Portrait Inside]] - 0 gp
-- [[Gold Locket With A Painted Portrait Inside Xdmg]] - 0 gp
+- [[Gold Jewelry Box With Platinum Filigree Xdmg]] - 0 gp
+- [[Gold Jewelry Box With Platinum Filigree Xdmg]] - 0 gp
+- [[gold-locket-with-a-painted-portrait-inside-xdmg]] - 0 gp
+- [[gold-locket-with-a-painted-portrait-inside-xdmg]] - 0 gp
 - [[Gold Music Box Xdmg]] - 0 gp
-- [[Gold Music Box Xdmg (Items)]] - 0 gp
-- [[Gold Music Box Xdmg (Items)]] - 0 gp
+- [[ox-xdmg (items)]] - 0 gp
+- [[ox-xdmg (items)]] - 0 gp
 - [[Gold Ring Set With Bloodstones Xdmg]] - 0 gp
-- [[Gold Ring Set With Bloodstones Xdmg (Items)]] - 0 gp
-- [[Gold Ring Set With Bloodstones Xdmg (Items)]] - 0 gp
+- [[Gold Ring Set With Bloodstones Xdmg]] - 0 gp
+- [[Gold Ring Set With Bloodstones Xdmg]] - 0 gp
 - [[Gold Statuette Set With Rubies Xdmg]] - 0 gp
-- [[Gold Statuette Set With Rubies Xdmg (Items)]] - 0 gp
-- [[Gold Statuette Set With Rubies Xdmg (Items)]] - 0 gp
+- [[Gold Statuette Set With Rubies Xdmg]] - 0 gp
+- [[Gold Statuette Set With Rubies Xdmg]] - 0 gp
 - [[Gold Xdmg]] - 0 gp
-- [[Gold Xdmg (Items)]] - 0 gp
-- [[Gold Xdmg (Items)]] - 0 gp
+- [[Gold Xdmg]] - 0 gp
+- [[Gold Xdmg]] - 0 gp
 - [[Grappling Hook Xphb]] - 0 gp
-- [[Grappling Hook Xphb (Items)]] - 0 gp
-- [[Grappling Hook Xphb (Items)]] - 0 gp
+- [[grappling-hook-xphb (items)]] - 0 gp
+- [[grappling-hook-xphb (items)]] - 0 gp
 - [[Gravenhollow Compass Ring Oota]] - 0 gp
-- [[Gravenhollow Compass Ring Oota (Items)]] - 0 gp
-- [[Gravenhollow Compass Ring Oota (Items)]] - 0 gp
+- [[Gravenhollow Compass Ring Oota]] - 0 gp
+- [[Gravenhollow Compass Ring Oota]] - 0 gp
 - [[Greatclub Xphb]] - 0 gp
-- [[Greatclub Xphb (Items)]] - 0 gp
-- [[Greatclub Xphb (Items)]] - 0 gp
+- [[Greatclub Xphb]] - 0 gp
+- [[Greatclub Xphb]] - 0 gp
 - [[Green Copper Ewer Cos]] - 0 gp
-- [[Green Copper Ewer Cos (Items)]] - 0 gp
-- [[Green Copper Ewer Cos (Items)]] - 0 gp
+- [[Green Copper Ewer Cos]] - 0 gp
+- [[Green Copper Ewer Cos]] - 0 gp
 - [[Grenade Launcher Xdmg]] - 0 gp
-- [[Grenade Launcher Xdmg (Items)]] - 0 gp
-- [[Grenade Launcher Xdmg (Items)]] - 0 gp
+- [[grenade-launcher-xdmg (items)]] - 0 gp
+- [[grenade-launcher-xdmg (items)]] - 0 gp
 - [[Group Conference Mirrors]] - 0 gp
 - [[Gunpowder Keg Xdmg]] - 0 gp
-- [[Gunpowder Keg Xdmg (Items)]] - 0 gp
-- [[Gunpowder Keg Xdmg (Items)]] - 0 gp
+- [[gunpowder-keg-xdmg (items)]] - 0 gp
+- [[gunpowder-keg-xdmg (items)]] - 0 gp
 - [[Gunpowder Powder Horn Xdmg]] - 0 gp
-- [[Gunpowder Powder Horn Xdmg (Items)]] - 0 gp
-- [[Gunpowder Powder Horn Xdmg (Items)]] - 0 gp
+- [[gunpowder-powder-horn-xdmg (items)]] - 0 gp
+- [[gunpowder-powder-horn-xdmg (items)]] - 0 gp
 - [[Hag Eye Xdmg]] - 0 gp
-- [[Hag Eye Xdmg (Items)]] - 0 gp
-- [[Hag Eye Xdmg (Items)]] - 0 gp
+- [[Hag Eye Xdmg]] - 0 gp
+- [[Hag Eye Xdmg]] - 0 gp
 - [[Halberd Xphb]] - 0 gp
-- [[Halberd Xphb (Items)]] - 0 gp
-- [[Halberd Xphb (Items)]] - 0 gp
-- [[Hammer]] - 0 gp
-- [[Handheld Mirror Set In A Painted Wooden]] - 0 gp
-- [[Handheld Mirror Set In A Painted Wooden Frame Xdmg]] - 0 gp
-- [[Hat Of Many Spells Xdmg]] - 0 gp
-- [[Hat Of Many Spells Xdmg (Items)]] - 0 gp
-- [[Hat Of Many Spells Xdmg (Items)]] - 0 gp
-- [[Hat Of Vermin Xdmg]] - 0 gp
-- [[Hat Of Vermin Xdmg (Items)]] - 0 gp
-- [[Hat Of Vermin Xdmg (Items)]] - 0 gp
+- [[Halberd Xphb]] - 0 gp
+- [[Halberd Xphb]] - 0 gp
+- [[Forge Master Petra Hammerdeep]] - 0 gp
+- [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg]] - 0 gp
+- [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg]] - 0 gp
+- [[hat-of-many-spells-xdmg (items)]] - 0 gp
+- [[hat-of-many-spells-xdmg (items)]] - 0 gp
+- [[hat-of-many-spells-xdmg (items)]] - 0 gp
+- [[Hat of Vermin Xdmg]] - 0 gp
+- [[Hat of Vermin Xdmg]] - 0 gp
+- [[Hat of Vermin Xdmg]] - 0 gp
 - [[Healers Kit Xphb]] - 0 gp
-- [[Healers Kit Xphb (Items)]] - 0 gp
-- [[Healers Kit Xphb (Items)]] - 0 gp
+- [[healers-kit-xphb (items)]] - 0 gp
+- [[healers-kit-xphb (items)]] - 0 gp
 - [[Heartstone Mm]] - 0 gp
-- [[Heartstone Mm (Items)]] - 0 gp
-- [[Heartstone Mm (Items)]] - 0 gp
+- [[Heartstone Mm]] - 0 gp
+- [[Heartstone Mm]] - 0 gp
 - [[Hematite Xdmg]] - 0 gp
-- [[Hematite Xdmg (Items)]] - 0 gp
-- [[Hematite Xdmg (Items)]] - 0 gp
+- [[Hematite Xdmg]] - 0 gp
+- [[Hematite Xdmg]] - 0 gp
 - [[Herbalism Kit Xphb]] - 0 gp
-- [[Herbalism Kit Xphb (Items)]] - 0 gp
-- [[Herbalism Kit Xphb (Items)]] - 0 gp
+- [[Herbalism Kit Xphb]] - 0 gp
+- [[Herbalism Kit Xphb]] - 0 gp
 - [[Hew Lmop]] - 0 gp
-- [[Hew Lmop (Items)]] - 0 gp
-- [[Hew Lmop (Items)]] - 0 gp
+- [[Hew Lmop]] - 0 gp
+- [[Hew Lmop]] - 0 gp
 - [[Hewards Handy Haversack Xdmg]] - 0 gp
-- [[Hewards Handy Haversack Xdmg (Items)]] - 0 gp
-- [[Hewards Handy Haversack Xdmg (Items)]] - 0 gp
+- [[hewards-handy-haversack-xdmg (items)]] - 0 gp
+- [[hewards-handy-haversack-xdmg (items)]] - 0 gp
 - [[Hewards Handy Spice Pouch Xdmg]] - 0 gp
-- [[Hewards Handy Spice Pouch Xdmg (Items)]] - 0 gp
-- [[Hewards Handy Spice Pouch Xdmg (Items)]] - 0 gp
+- [[Hewards Handy Spice Pouch Xdmg]] - 0 gp
+- [[Hewards Handy Spice Pouch Xdmg]] - 0 gp
 - [[Holy Symbol Xphb]] - 0 gp
-- [[Holy Symbol Xphb (Items)]] - 0 gp
-- [[Holy Symbol Xphb (Items)]] - 0 gp
+- [[Symbol Xphb]] - 0 gp
+- [[Symbol Xphb]] - 0 gp
 - [[Holy Water Xphb]] - 0 gp
-- [[Holy Water Xphb (Items)]] - 0 gp
-- [[Holy Water Xphb (Items)]] - 0 gp
+- [[Holy Water Xphb]] - 0 gp
+- [[Holy Water Xphb]] - 0 gp
 - [[Hooded Lantern Xphb]] - 0 gp
-- [[Hooded Lantern Xphb (Items)]] - 0 gp
-- [[Hooded Lantern Xphb (Items)]] - 0 gp
+- [[Hooded Lantern Xphb]] - 0 gp
+- [[Hooded Lantern Xphb]] - 0 gp
 - [[Hooked Shortspear Oota]] - 0 gp
-- [[Hooked Shortspear Oota (Items)]] - 0 gp
-- [[Hooked Shortspear Oota (Items)]] - 0 gp
-- [[Horn Of Blasting Xdmg]] - 0 gp
-- [[Horn Of Blasting Xdmg (Items)]] - 0 gp
-- [[Horn Of Blasting Xdmg (Items)]] - 0 gp
-- [[Horn Of Silent Alarm Xdmg]] - 0 gp
-- [[Horn Of Silent Alarm Xdmg (Items)]] - 0 gp
-- [[Horn Of Silent Alarm Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Brass Xdmg]] - 0 gp
-- [[Horn Of Valhalla Brass Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Brass Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Bronze Xdmg]] - 0 gp
-- [[Horn Of Valhalla Bronze Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Bronze Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Iron Xdmg]] - 0 gp
-- [[Horn Of Valhalla Iron Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Iron Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Silver Xdmg]] - 0 gp
-- [[Horn Of Valhalla Silver Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Silver Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Xdmg]] - 0 gp
-- [[Horn Of Valhalla Xdmg (Items)]] - 0 gp
-- [[Horn Of Valhalla Xdmg (Items)]] - 0 gp
-- [[Horn Xphb]] - 0 gp
-- [[Horn Xphb (Items)]] - 0 gp
-- [[Horn Xphb (Items)]] - 0 gp
-- [[Horseshoes Of A Zephyr Xdmg]] - 0 gp
-- [[Horseshoes Of A Zephyr Xdmg (Items)]] - 0 gp
-- [[Horseshoes Of A Zephyr Xdmg (Items)]] - 0 gp
-- [[Horseshoes Of Speed Xdmg]] - 0 gp
-- [[Horseshoes Of Speed Xdmg (Items)]] - 0 gp
-- [[Horseshoes Of Speed Xdmg (Items)]] - 0 gp
-- [[Hourglass]] - 0 gp
-- [[Hunting Rifle Xdmg]] - 0 gp
-- [[Hunting Rifle Xdmg (Items)]] - 0 gp
-- [[Hunting Rifle Xdmg (Items)]] - 0 gp
-- [[Hunting Trap Xphb]] - 0 gp
-- [[Hunting Trap Xphb (Items)]] - 0 gp
-- [[Hunting Trap Xphb (Items)]] - 0 gp
-- [[Immovable Rod Xdmg]] - 0 gp
-- [[Immovable Rod Xdmg (Items)]] - 0 gp
-- [[Immovable Rod Xdmg (Items)]] - 0 gp
-- [[Ink Pen Xphb]] - 0 gp
-- [[Ink Pen Xphb (Items)]] - 0 gp
-- [[Ink Pen Xphb (Items)]] - 0 gp
-- [[Ink Xphb]] - 0 gp
-- [[Ink Xphb (Items)]] - 0 gp
-- [[Ink Xphb (Items)]] - 0 gp
-- [[Insignia Of Claws Hotdq]] - 0 gp
-- [[Insignia Of Claws Hotdq (Items)]] - 0 gp
-- [[Insignia Of Claws Hotdq (Items)]] - 0 gp
-- [[Instrument Of Illusions Xdmg]] - 0 gp
-- [[Instrument Of Illusions Xdmg (Items)]] - 0 gp
-- [[Instrument Of Illusions Xdmg (Items)]] - 0 gp
-- [[Instrument Of Scribing Xdmg]] - 0 gp
-- [[Instrument Of Scribing Xdmg (Items)]] - 0 gp
-- [[Instrument Of Scribing Xdmg (Items)]] - 0 gp
-- [[Instrument Of The Bards Anstruth Harp Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Anstruth Harp Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Anstruth Harp Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Canaith Mandolin Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Canaith Mandolin Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Canaith Mandolin Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Cli Lyre Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Cli Lyre Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Cli Lyre Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Doss Lute Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Doss Lute Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Doss Lute Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Fochlucan Bandore]] (A) - 0 gp
-- [[Instrument Of The Bards Fochlucan Bandore Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Mac Fuirmidh Cittern]] (A) - 0 gp
-- [[Instrument Of The Bards Mac Fuirmidh Cittern Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Ollamh Harp Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Ollamh Harp Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Ollamh Harp Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Xdmg]] (A) - 0 gp
-- [[Instrument Of The Bards Xdmg (Items)]] (A) - 0 gp
-- [[Instrument Of The Bards Xdmg (Items)]] (A) - 0 gp
-- [[Iron Bands Of Bilarro Xdmg]] - 0 gp
-- [[Iron Bands Of Bilarro Xdmg (Items)]] - 0 gp
-- [[Iron Bands Of Bilarro Xdmg (Items)]] - 0 gp
-- [[Iron Flask Xdmg]] - 0 gp
-- [[Iron Flask Xdmg (Items)]] - 0 gp
-- [[Iron Flask Xdmg (Items)]] - 0 gp
-- [[Iron Pot Xphb]] - 0 gp
-- [[Iron Pot Xphb (Items)]] - 0 gp
-- [[Iron Pot Xphb (Items)]] - 0 gp
-- [[Iron Spike Xphb]] - 0 gp
-- [[Iron Spike Xphb (Items)]] - 0 gp
-- [[Iron Spike Xphb (Items)]] - 0 gp
-- [[Iron Spikes Xphb]] - 0 gp
-- [[Iron Spikes Xphb (Items)]] - 0 gp
-- [[Iron Spikes Xphb (Items)]] - 0 gp
+- [[hooked-shortspear-oota (items)]] - 0 gp
+- [[hooked-shortspear-oota (items)]] - 0 gp
+- [[horn-of-blasting-xdmg (items)]] - 0 gp
+- [[horn-of-blasting-xdmg (items)]] - 0 gp
+- [[horn-of-blasting-xdmg (items)]] - 0 gp
+- [[Horn of Silent Alarm Xdmg]] - 0 gp
+- [[Horn of Silent Alarm Xdmg]] - 0 gp
+- [[Horn of Silent Alarm Xdmg]] - 0 gp
+- [[Horn of Valhalla Brass Xdmg]] - 0 gp
+- [[Horn of Valhalla Brass Xdmg]] - 0 gp
+- [[Horn of Valhalla Brass Xdmg]] - 0 gp
+- [[horn-of-valhalla-bronze-xdmg (items)]] - 0 gp
+- [[horn-of-valhalla-bronze-xdmg (items)]] - 0 gp
+- [[horn-of-valhalla-bronze-xdmg (items)]] - 0 gp
 - [[Iron Xdmg]] - 0 gp
-- [[Iron Xdmg (Items)]] - 0 gp
-- [[Iron Xdmg (Items)]] - 0 gp
-- [[Item Mastery (Cli Reference)]] - 0 gp
-- [[Item Types (Cli Reference)]] - in coins.
-- [[Items (Items)]] - 0 gp
-- [[Items (Items)]] - 0 gp
-- [[Jacinth Xdmg]] - 0 gp
-- [[Jacinth Xdmg (Items)]] - 0 gp
-- [[Jacinth Xdmg (Items)]] - 0 gp
-- [[Jade Game Board With Gold Playing Pieces Xdmg]] - 0 gp
-- [[Jade Game Board With Gold Playing Pieces Xdmg (Items)]] - 0 gp
-- [[Jade Game Board With Gold Playing Pieces Xdmg (Items)]] - 0 gp
-- [[Jade Xdmg]] - 0 gp
-- [[Jade Xdmg (Items)]] - 0 gp
-- [[Jade Xdmg (Items)]] - 0 gp
-- [[Jasper Xdmg]] - 0 gp
-- [[Jasper Xdmg (Items)]] - 0 gp
-- [[Jasper Xdmg (Items)]] - 0 gp
-- [[Javelin Of Lightning Xdmg]] - 0 gp
-- [[Javelin Of Lightning Xdmg (Items)]] - 0 gp
-- [[Javelin Of Lightning Xdmg (Items)]] - 0 gp
-- [[Javelin Xphb]] - 0 gp
-- [[Javelin Xphb (Items)]] - 0 gp
-- [[Javelin Xphb (Items)]] - 0 gp
-- [[Jet Xdmg]] - 0 gp
-- [[Jet Xdmg (Items)]] - 0 gp
-- [[Jet Xdmg (Items)]] - 0 gp
-- [[Jeweled Anklet Xdmg]] - 0 gp
-- [[Jeweled Anklet Xdmg (Items)]] - 0 gp
-- [[Jeweled Anklet Xdmg (Items)]] - 0 gp
-- [[Jeweled Gold Crown Xdmg]] - 0 gp
-- [[Jeweled Gold Crown Xdmg (Items)]] - 0 gp
-- [[Jeweled Gold Crown Xdmg (Items)]] - 0 gp
-- [[Jeweled Platinum Ring Xdmg]] - 0 gp
-- [[Jeweled Platinum Ring Xdmg (Items)]] - 0 gp
-- [[Jeweled Platinum Ring Xdmg (Items)]] - 0 gp
-- [[Jewelers Tools Xphb]] - (DC 15)
-- [[Jewelers Tools Xphb (Items)]] - (DC 15)
-- [[Jewelers Tools Xphb (Items)]] - (DC 15)
-- [[Jug Xphb]] - 0 gp
-- [[Jug Xphb (Items)]] - 0 gp
-- [[Jug Xphb (Items)]] - 0 gp
-- [[Keelboat Xphb]] - 0 gp
-- [[Keelboat Xphb (Items)]] - 0 gp
-- [[Keelboat Xphb (Items)]] - 0 gp
-- [[Keoghtoms Ointment Xdmg]] - 0 gp
-- [[Keoghtoms Ointment Xdmg (Items)]] - 0 gp
-- [[Keoghtoms Ointment Xdmg (Items)]] - 0 gp
-- [[Ladder Xphb]] - 0 gp
-- [[Ladder Xphb (Items)]] - 0 gp
-- [[Ladder Xphb (Items)]] - 0 gp
-- [[Lamp Xphb]] - 0 gp
-- [[Lamp Xphb (Items)]] - 0 gp
-- [[Lamp Xphb (Items)]] - 0 gp
-- [[Lance Xphb]] - 0 gp
-- [[Lance Xphb (Items)]] - 0 gp
-- [[Lance Xphb (Items)]] - 0 gp
-- [[Lantern Of Revealing Xdmg]] - 0 gp
-- [[Lantern Of Revealing Xdmg (Items)]] - 0 gp
-- [[Lantern Of Revealing Xdmg (Items)]] - 0 gp
-- [[Lapis Lazuli Xdmg]] - 0 gp
-- [[Lapis Lazuli Xdmg (Items)]] - 0 gp
-- [[Lapis Lazuli Xdmg (Items)]] - 0 gp
-- [[Laser Pistol Xdmg]] - 0 gp
-- [[Laser Pistol Xdmg (Items)]] - 0 gp
-- [[Laser Pistol Xdmg (Items)]] - 0 gp
-- [[Laser Rifle Xdmg]] - 0 gp
-- [[Laser Rifle Xdmg (Items)]] - 0 gp
-- [[Laser Rifle Xdmg (Items)]] - 0 gp
-- [[Leatherworkers Tools Xphb]] - 0 gp
-- [[Leatherworkers Tools Xphb (Items)]] - 0 gp
-- [[Leatherworkers Tools Xphb (Items)]] - 0 gp
-- [[Light Hammer Xphb]] - 0 gp
-- [[Light Hammer Xphb (Items)]] - 0 gp
-- [[Light Hammer Xphb (Items)]] - 0 gp
-- [[Lightbringer Lmop]] - 0 gp
-- [[Lightbringer Lmop (Items)]] - 0 gp
-- [[Lightbringer Lmop (Items)]] - 0 gp
-- [[Linen 1 Sq Yd Xdmg]] - 0 gp
-- [[Linen 1 Sq Yd Xdmg (Items)]] - 0 gp
-- [[Linen 1 Sq Yd Xdmg (Items)]] - 0 gp
-- [[Lock Of Trickery Xdmg]] - 0 gp
-- [[Lock Of Trickery Xdmg (Items)]] - 0 gp
-- [[Lock Of Trickery Xdmg (Items)]] - 0 gp
-- [[Lock Xphb]] - 0 gp
-- [[Lock Xphb (Items)]] - 0 gp
-- [[Lock Xphb (Items)]] - 0 gp
-- [[Lolths Sting Xdmg]] - 0 gp
-- [[Lolths Sting Xdmg (Items)]] - 0 gp
-- [[Lolths Sting Xdmg (Items)]] - 0 gp
-- [[Longship Xphb]] - 0 gp
-- [[Longship Xphb (Items)]] - 0 gp
-- [[Longship Xphb (Items)]] - 0 gp
-- [[Lorehold Trinket Scc]] - 0 gp
-- [[Lorehold Trinket Scc (Items)]] - 0 gp
-- [[Lorehold Trinket Scc (Items)]] - 0 gp
-- [[Lute Of Thunderous Thumping Xdmg]] - 0 gp
-- [[Lute Of Thunderous Thumping Xdmg (Items)]] - 0 gp
-- [[Lute Of Thunderous Thumping Xdmg (Items)]] - 0 gp
-- [[Lute Xphb]] - 0 gp
-- [[Lute Xphb (Items)]] - 0 gp
-- [[Lute Xphb (Items)]] - 0 gp
-- [[Lyre Xphb]] - 0 gp
-- [[Lyre Xphb (Items)]] - 0 gp
-- [[Lyre Xphb (Items)]] - 0 gp
-- [[Magic Item Categories Xdmg (Tables)]] - 0 gp
-- [[Magic Item Purchase Complications Xge (Tables)]] - 0 gp
-- [[Magic Item Sale Complications Xge (Tables)]] - 0 gp
-- [[Magic Item Special Features Magic Items Quirk Xdmg]] - 0 gp
-- [[Magic Item Table A (Tables)]] - 0 gp
-- [[Magic Item Table B (Tables)]] - 0 gp
-- [[Magic Item Table C (Tables)]] - 0 gp
-- [[Magic Item Table D (Tables)]] - 0 gp
-- [[Magic Item Table E (Tables)]] - 0 gp
-- [[Magic Item Table F (Tables)]] - 0 gp
-- [[Magic Item Table G (Tables)]] - 0 gp
-- [[Magic Item Table H (Tables)]] - 0 gp
-- [[Magic Item Table I (Tables)]] - 0 gp
-- [[Magic Item Tools Xdmg (Tables)]] - 0 gp
-- [[Magic Items Awarded By Level Xdmg (Tables)]] - 0 gp
-- [[Magnifying Glass Xphb]] - 0 gp
-- [[Magnifying Glass Xphb (Items)]] - 0 gp
-- [[Magnifying Glass Xphb (Items)]] - 0 gp
-- [[Malachite Xdmg]] - 0 gp
-- [[Malachite Xdmg (Items)]] - 0 gp
-- [[Malachite Xdmg (Items)]] - 0 gp
-- [[Malice Xdmg]] - 0 gp
-- [[Malice Xdmg (Items)]] - 0 gp
-- [[Malice Xdmg (Items)]] - 0 gp
-- [[Manacles Xphb]] - 0 gp
-- [[Manacles Xphb (Items)]] - 0 gp
-- [[Manacles Xphb (Items)]] - 0 gp
-- [[Manual Of Bodily Health Xdmg]] - 0 gp
-- [[Manual Of Bodily Health Xdmg (Items)]] - 0 gp
-- [[Manual Of Bodily Health Xdmg (Items)]] - 0 gp
-- [[Manual Of Clay Golems Xdmg]] - 0 gp
-- [[Manual Of Clay Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Clay Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Flesh Golems Xdmg]] - 0 gp
-- [[Manual Of Flesh Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Flesh Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Gainful Exercise Xdmg]] - 0 gp
-- [[Manual Of Gainful Exercise Xdmg (Items)]] - 0 gp
-- [[Manual Of Gainful Exercise Xdmg (Items)]] - 0 gp
-- [[Manual Of Golems Xdmg]] - |
-- [[Manual Of Golems Xdmg (Items)]] - |
-- [[Manual Of Golems Xdmg (Items)]] - |
-- [[Manual Of Iron Golems Xdmg]] - 0 gp
-- [[Manual Of Iron Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Iron Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Quickness Of Action Xdmg]] - 0 gp
-- [[Manual Of Quickness Of Action Xdmg (Items)]] - 0 gp
-- [[Manual Of Quickness Of Action Xdmg (Items)]] - 0 gp
-- [[Manual Of Stone Golems Xdmg]] - 0 gp
-- [[Manual Of Stone Golems Xdmg (Items)]] - 0 gp
-- [[Manual Of Stone Golems Xdmg (Items)]] - 0 gp
-- [[Map Xphb]] - 0 gp
-- [[Map Xphb (Items)]] - 0 gp
-- [[Map Xphb (Items)]] - 0 gp
-- [[Masons Tools Xphb]] - 0 gp
-- [[Masons Tools Xphb (Items)]] - 0 gp
-- [[Masons Tools Xphb (Items)]] - 0 gp
-- [[Masque Charm Scc]] - 0 gp
-- [[Masque Charm Scc (Items)]] - 0 gp
-- [[Masque Charm Scc (Items)]] - 0 gp
-- [[Mastiff Xphb]] - 0 gp
-- [[Mastiff Xphb (Items)]] - 0 gp
-- [[Mastiff Xphb (Items)]] - 0 gp
-- [[Maul Xphb]] - 0 gp
-- [[Maul Xphb (Items)]] - 0 gp
-- [[Maul Xphb (Items)]] - 0 gp
-- [[Merchants Scale]] - 0 gp
-- [[Merchants Scale (Items)]] - 0 gp
-- [[Merchants Scale (Items)]] - 0 gp
-- [[Mess Kit]] - 0 gp
-- [[Mess Kit (Items)]] - 0 gp
-- [[Mess Kit (Items)]] - 0 gp
-- [[Midnight Tears Xdmg]] - 0 gp
-- [[Midnight Tears Xdmg (Items)]] - 0 gp
-- [[Midnight Tears Xdmg (Items)]] - 0 gp
-- [[Military Saddle Xphb]] - 0 gp
-- [[Military Saddle Xphb (Items)]] - 0 gp
-- [[Military Saddle Xphb (Items)]] - 0 gp
-- [[Miners Pick]] - 0 gp
-- [[Miners Pick (Items)]] - 0 gp
-- [[Miners Pick (Items)]] - 0 gp
-- [[Mirror Of Life Trapping Xdmg]] - 0 gp
-- [[Mirror Of Life Trapping Xdmg (Items)]] - 0 gp
-- [[Mirror Of Life Trapping Xdmg (Items)]] - 0 gp
-- [[Mirror Xphb]] - 0 gp
-- [[Mirror Xphb (Items)]] - 0 gp
-- [[Mirror Xphb (Items)]] - 0 gp
-- [[Modern Bullet]] - 0 gp
-- [[Modern Bullet (Items)]] - 0 gp
-- [[Modern Bullet (Items)]] - 0 gp
-- [[Modern Bullets 10]] - 0 gp
-- [[Modern Bullets 10 (Items)]] - 0 gp
-- [[Modern Bullets 10 (Items)]] - 0 gp
-- [[Monster Hunters Pack Vrgr]] - 0 gp
-- [[Monster Hunters Pack Vrgr (Items)]] - 0 gp
-- [[Monster Hunters Pack Vrgr (Items)]] - 0 gp
-- [[Moonstone Xdmg]] - 0 gp
-- [[Moonstone Xdmg (Items)]] - 0 gp
-- [[Moonstone Xdmg (Items)]] - 0 gp
-- [[Morningstar Xphb]] - 0 gp
-- [[Morningstar Xphb (Items)]] - 0 gp
-- [[Morningstar Xphb (Items)]] - 0 gp
-- [[Moss Agate Xdmg]] - 0 gp
-- [[Moss Agate Xdmg (Items)]] - 0 gp
-- [[Moss Agate Xdmg (Items)]] - 0 gp
-- [[Mule Xphb]] - 0 gp
-- [[Mule Xphb (Items)]] - 0 gp
-- [[Mule Xphb (Items)]] - 0 gp
-- [[Murgaxors Elixir Of Life Scc]] - 0 gp
-- [[Murgaxors Elixir Of Life Scc (Items)]] - 0 gp
-- [[Murgaxors Elixir Of Life Scc (Items)]] - 0 gp
-- [[Murgaxors Orb Scc]] - 0 gp
-- [[Murgaxors Orb Scc (Items)]] - 0 gp
-- [[Murgaxors Orb Scc (Items)]] - 0 gp
-- [[Musical Instrument Xphb]] - 0 gp
-- [[Musical Instrument Xphb (Items)]] - 0 gp
-- [[Musical Instrument Xphb (Items)]] - 0 gp
-- [[Musket Xphb]] - 0 gp
-- [[Musket Xphb (Items)]] - 0 gp
-- [[Musket Xphb (Items)]] - 0 gp
-- [[Mystery Key Xdmg]] - 0 gp
-- [[Mystery Key Xdmg (Items)]] - 0 gp
-- [[Mystery Key Xdmg (Items)]] - 0 gp
-- [[Navigators Tools Xphb]] - 0 gp
-- [[Navigators Tools Xphb (Items)]] - 0 gp
-- [[Navigators Tools Xphb (Items)]] - 0 gp
-- [[Necklace Of Fireballs Xdmg]] - 0 gp
-- [[Necklace Of Fireballs Xdmg (Items)]] - 0 gp
-- [[Necklace Of Fireballs Xdmg (Items)]] - 0 gp
-- [[Necklace String Of Small Pink Pearls Xdmg]] - 0 gp
-- [[Necklace String Of Small Pink Pearls Xdmg (Items)]] - 0 gp
-- [[Necklace String Of Small Pink Pearls Xdmg (Items)]] - 0 gp
-- [[Needle Xphb]] - 0 gp
-- [[Needle Xphb (Items)]] - 0 gp
-- [[Needle Xphb (Items)]] - 0 gp
-- [[Needles 50 Xphb]] - 0 gp
-- [[Needles 50 Xphb (Items)]] - 0 gp
-- [[Needles 50 Xphb (Items)]] - 0 gp
-- [[Net Xphb]] - 0 gp
-- [[Net Xphb (Items)]] - 0 gp
-- [[Net Xphb (Items)]] - 0 gp
-- [[Nolzurs Marvelous Pigments Xdmg]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
-- [[Nolzurs Marvelous Pigments Xdmg (Items)]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
-- [[Nolzurs Marvelous Pigments Xdmg (Items)]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
-- [[Obsidian Statuette With Gold Fittings And]] - 0 gp
-- [[Obsidian Statuette With Gold Fittings And Inlay Xdmg]] - 0 gp
-- [[Obsidian Xdmg]] - 0 gp
-- [[Obsidian Xdmg (Items)]] - 0 gp
-- [[Obsidian Xdmg (Items)]] - 0 gp
-- [[Oil Of Etherealness Xdmg]] - 0 gp
-- [[Oil Of Etherealness Xdmg (Items)]] - 0 gp
-- [[Oil Of Etherealness Xdmg (Items)]] - 0 gp
-- [[Oil Of Sharpness Xdmg]] - 0 gp
-- [[Oil Of Sharpness Xdmg (Items)]] - 0 gp
-- [[Oil Of Sharpness Xdmg (Items)]] - 0 gp
-- [[Oil Of Slipperiness Xdmg]] - 0 gp
-- [[Oil Of Slipperiness Xdmg (Items)]] - 0 gp
-- [[Oil Of Slipperiness Xdmg (Items)]] - 0 gp
-- [[Oil Of Taggit Xdmg]] - 0 gp
-- [[Oil Of Taggit Xdmg (Items)]] - 0 gp
-- [[Oil Of Taggit Xdmg (Items)]] - 0 gp
-- [[Oil Xphb]] - 0 gp
-- [[Oil Xphb (Items)]] - 0 gp
-- [[Oil Xphb (Items)]] - 0 gp
-- [[Old Masterpiece Painting Xdmg]] - 0 gp
-- [[Old Masterpiece Painting Xdmg (Items)]] - 0 gp
-- [[Old Masterpiece Painting Xdmg (Items)]] - 0 gp
-- [[Onyx Xdmg]] - 0 gp
-- [[Onyx Xdmg (Items)]] - 0 gp
-- [[Onyx Xdmg (Items)]] - 0 gp
-- [[Opal Xdmg]] - 0 gp
-- [[Opal Xdmg (Items)]] - 0 gp
-- [[Opal Xdmg (Items)]] - 0 gp
-- [[Orb Of Direction Xdmg]] - 0 gp
-- [[Orb Of Direction Xdmg (Items)]] - 0 gp
-- [[Orb Of Direction Xdmg (Items)]] - 0 gp
-- [[Orb Of Time Xdmg]] - 0 gp
-- [[Orb Of Time Xdmg (Items)]] - 0 gp
-- [[Orb Of Time Xdmg (Items)]] - 0 gp
-- [[Orb Xphb]] - 0 gp
-- [[Orb Xphb (Items)]] - 0 gp
-- [[Orb Xphb (Items)]] - 0 gp
-- [[Ox Xdmg]] - 0 gp
-- [[Ox Xdmg (Items)]] - 0 gp
-- [[Ox Xdmg (Items)]] - 0 gp
-- [[Pack Saddle]] - 0 gp
-- [[Pack Saddle (Items)]] - 0 gp
-- [[Pack Saddle (Items)]] - 0 gp
-- [[Painted Gold War Mask Xdmg]] - 0 gp
-- [[Painted Gold War Mask Xdmg (Items)]] - 0 gp
-- [[Painted Gold War Mask Xdmg (Items)]] - 0 gp
-- [[Painters Supplies Xphb]] - 0 gp
-- [[Painters Supplies Xphb (Items)]] - 0 gp
-- [[Painters Supplies Xphb (Items)]] - 0 gp
-- [[Pair Of Engraved Bone Dice Xdmg]] - 0 gp
-- [[Pair Of Engraved Bone Dice Xdmg (Items)]] - 0 gp
-- [[Pair Of Engraved Bone Dice Xdmg (Items)]] - 0 gp
-- [[Pale Tincture Xdmg]] - 0 gp
-- [[Pale Tincture Xdmg (Items)]] - 0 gp
-- [[Pale Tincture Xdmg (Items)]] - 0 gp
-- [[Pan Flute Xphb]] - 0 gp
-- [[Pan Flute Xphb (Items)]] - 0 gp
-- [[Pan Flute Xphb (Items)]] - 0 gp
-- [[Paper Xphb]] - 0 gp
-- [[Paper Xphb (Items)]] - 0 gp
-- [[Paper Xphb (Items)]] - 0 gp
-- [[Parchment Xphb]] - 0 gp
-- [[Parchment Xphb (Items)]] - 0 gp
-- [[Parchment Xphb (Items)]] - 0 gp
-- [[Pearl Xdmg]] - 0 gp
-- [[Pearl Xdmg (Items)]] - 0 gp
-- [[Pearl Xdmg (Items)]] - 0 gp
-- [[Pepper Xdmg]] - 0 gp
-- [[Pepper Xdmg (Items)]] - 0 gp
-- [[Pepper Xdmg (Items)]] - 0 gp
-- [[Perfume Of Bewitching Xdmg]] - 0 gp
-- [[Perfume Of Bewitching Xdmg (Items)]] - 0 gp
-- [[Perfume Of Bewitching Xdmg (Items)]] - 0 gp
-- [[Perfume Xphb]] - 0 gp
-- [[Perfume Xphb (Items)]] - 0 gp
-- [[Perfume Xphb (Items)]] - 0 gp
-- [[Peridot Xdmg]] - 0 gp
-- [[Peridot Xdmg (Items)]] - 0 gp
-- [[Peridot Xdmg (Items)]] - 0 gp
-- [[Philter Of Love Xdmg]] - 0 gp
-- [[Philter Of Love Xdmg (Items)]] - 0 gp
-- [[Philter Of Love Xdmg (Items)]] - 0 gp
-- [[Pig Xdmg]] - 0 gp
-- [[Pig Xdmg (Items)]] - 0 gp
-- [[Pig Xdmg (Items)]] - 0 gp
-- [[Pike Xphb]] - 0 gp
-- [[Pike Xphb (Items)]] - 0 gp
-- [[Pike Xphb (Items)]] - 0 gp
-- [[Pipe Of Smoke Monsters Xdmg]] - 0 gp
-- [[Pipe Of Smoke Monsters Xdmg (Items)]] - 0 gp
-- [[Pipe Of Smoke Monsters Xdmg (Items)]] - 0 gp
-- [[Pipes Of Haunting Xdmg]] - 0 gp
-- [[Pipes Of Haunting Xdmg (Items)]] - 0 gp
-- [[Pipes Of Haunting Xdmg (Items)]] - 0 gp
-- [[Pistol Xphb]] - 0 gp
-- [[Pistol Xphb (Items)]] - 0 gp
-- [[Pistol Xphb (Items)]] - 0 gp
-- [[Pitcher]] - 0 gp
-- [[Piton]] - 0 gp
-- [[Platinum Bracelet Set With An Emerald Xdmg]] - 0 gp
-- [[Platinum Bracelet Set With An Emerald Xdmg (Items)]] - 0 gp
-- [[Platinum Bracelet Set With An Emerald Xdmg (Items)]] - 0 gp
-- [[Platinum Pp]] - 0 gp
-- [[Platinum Pp (Items)]] - 0 gp
-- [[Platinum Pp (Items)]] - 0 gp
-- [[Platinum Xdmg]] - 0 gp
-- [[Platinum Xdmg (Items)]] - 0 gp
-- [[Platinum Xdmg (Items)]] - 0 gp
-- [[Playing Cards Xphb]] - 0 gp
-- [[Playing Cards Xphb (Items)]] - 0 gp
-- [[Playing Cards Xphb (Items)]] - 0 gp
-- [[Poisoners Kit Xphb]] - 0 gp
-- [[Poisoners Kit Xphb (Items)]] - 0 gp
-- [[Poisoners Kit Xphb (Items)]] - 0 gp
-- [[Pole Of Angling Xdmg]] - 0 gp
-- [[Pole Of Angling Xdmg (Items)]] - 0 gp
-- [[Pole Of Angling Xdmg (Items)]] - 0 gp
-- [[Pole Of Collapsing Xdmg]] - 0 gp
-- [[Pole Of Collapsing Xdmg (Items)]] - 0 gp
-- [[Pole Of Collapsing Xdmg (Items)]] - 0 gp
-- [[Pole Xphb]] - 0 gp
-- [[Pole Xphb (Items)]] - 0 gp
-- [[Pole Xphb (Items)]] - 0 gp
-- [[Pony Xphb]] - 0 gp
-- [[Pony Xphb (Items)]] - 0 gp
-- [[Pony Xphb (Items)]] - 0 gp
-- [[Portable Hole Xdmg]] - 0 gp
-- [[Portable Hole Xdmg (Items)]] - 0 gp
-- [[Portable Hole Xdmg (Items)]] - 0 gp
-- [[Portable Ram Xphb]] - 0 gp
-- [[Portable Ram Xphb (Items)]] - 0 gp
-- [[Portable Ram Xphb (Items)]] - 0 gp
-- [[Pot Of Awakening Xdmg]] - 0 gp
-- [[Pot Of Awakening Xdmg (Items)]] - 0 gp
-- [[Pot Of Awakening Xdmg (Items)]] - 0 gp
-- [[Potters Tools Xphb]] - 0 gp
-- [[Potters Tools Xphb (Items)]] - 0 gp
-- [[Potters Tools Xphb (Items)]] - 0 gp
-- [[Pouch Xphb]] - 0 gp
-- [[Pouch Xphb (Items)]] - 0 gp
-- [[Pouch Xphb (Items)]] - 0 gp
-- [[Priests Pack Xphb]] - 0 gp
-- [[Priests Pack Xphb (Items)]] - 0 gp
-- [[Priests Pack Xphb (Items)]] - 0 gp
-- [[Prismari Trinket Scc]] - 0 gp
-- [[Prismari Trinket Scc (Items)]] - 0 gp
-- [[Prismari Trinket Scc (Items)]] - 0 gp
-- [[Prosthetic Limb Xdmg]] - 0 gp
-- [[Prosthetic Limb Xdmg (Items)]] - 0 gp
-- [[Prosthetic Limb Xdmg (Items)]] - 0 gp
-- [[Psychic Blade Xphb]] - 0 gp
-- [[Psychic Blade Xphb (Items)]] - 0 gp
-- [[Psychic Blade Xphb (Items)]] - 0 gp
-- [[Purple Worm Poison Xdmg]] - 0 gp
-- [[Purple Worm Poison Xdmg (Items)]] - 0 gp
-- [[Purple Worm Poison Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Anchor Xdmg]] - 0 gp
-- [[Quaals Feather Token Anchor Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Anchor Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Bird Xdmg]] - 0 gp
-- [[Quaals Feather Token Bird Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Bird Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Fan Xdmg]] - 0 gp
-- [[Quaals Feather Token Fan Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Fan Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Swan Boat Xdmg]] - 0 gp
-- [[Quaals Feather Token Swan Boat Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Swan Boat Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Tree Xdmg]] - 0 gp
-- [[Quaals Feather Token Tree Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Tree Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Whip Xdmg]] - 0 gp
-- [[Quaals Feather Token Whip Xdmg (Items)]] - 0 gp
-- [[Quaals Feather Token Whip Xdmg (Items)]] - 0 gp
-- [[Quandrix Trinket Scc]] - 0 gp
-- [[Quandrix Trinket Scc (Items)]] - 0 gp
-- [[Quandrix Trinket Scc (Items)]] - 0 gp
-- [[Quarterstaff Xphb]] - 0 gp
-- [[Quarterstaff Xphb (Items)]] - 0 gp
-- [[Quarterstaff Xphb (Items)]] - 0 gp
-- [[Quartz Xdmg]] - 0 gp
-- [[Quartz Xdmg (Items)]] - 0 gp
-- [[Quartz Xdmg (Items)]] - 0 gp
-- [[Quiver Of Ehlonna Xdmg]] - 0 gp
-- [[Quiver Of Ehlonna Xdmg (Items)]] - 0 gp
-- [[Quiver Of Ehlonna Xdmg (Items)]] - 0 gp
-- [[Quiver Xphb]] - 0 gp
-- [[Quiver Xphb (Items)]] - 0 gp
-- [[Quiver Xphb (Items)]] - 0 gp
-- [[Random Magic Items Arcana (Tables)]] - 0 gp
-- [[Random Magic Items Armaments (Tables)]] - 0 gp
-- [[Random Magic Items Implements (Tables)]] - 0 gp
-- [[Rapier Xphb]] - 0 gp
-- [[Rapier Xphb (Items)]] - 0 gp
-- [[Rapier Xphb (Items)]] - 0 gp
-- [[Rations Xphb]] - 0 gp
-- [[Rations Xphb (Items)]] - 0 gp
-- [[Rations Xphb (Items)]] - 0 gp
-- [[Reliquary Xphb]] - 0 gp
-- [[Reliquary Xphb (Items)]] - 0 gp
-- [[Reliquary Xphb (Items)]] - 0 gp
-- [[Reszur Pota]] - 0 gp
-- [[Reszur Pota (Items)]] - 0 gp
-- [[Reszur Pota (Items)]] - 0 gp
-- [[Revolver Xdmg]] - 0 gp
-- [[Revolver Xdmg (Items)]] - 0 gp
-- [[Revolver Xdmg (Items)]] - 0 gp
-- [[Rhodochrosite Xdmg]] - 0 gp
-- [[Rhodochrosite Xdmg (Items)]] - 0 gp
-- [[Rhodochrosite Xdmg (Items)]] - 0 gp
-- [[Riding Horse Xphb]] - 0 gp
-- [[Riding Horse Xphb (Items)]] - 0 gp
-- [[Riding Horse Xphb (Items)]] - 0 gp
-- [[Riding Saddle Xphb]] - 0 gp
-- [[Riding Saddle Xphb (Items)]] - 0 gp
-- [[Riding Saddle Xphb (Items)]] - 0 gp
-- [[Ring Of Acid Resistance Xdmg]] - 0 gp
-- [[Ring Of Acid Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Acid Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Animal Influence Xdmg]] - 0 gp
-- [[Ring Of Animal Influence Xdmg (Items)]] - 0 gp
-- [[Ring Of Animal Influence Xdmg (Items)]] - 0 gp
-- [[Ring Of Cold Resistance Xdmg]] - 0 gp
-- [[Ring Of Cold Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Cold Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Fire Resistance Xdmg]] - 0 gp
-- [[Ring Of Fire Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Fire Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Force Resistance Xdmg]] - 0 gp
-- [[Ring Of Force Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Force Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Lightning Resistance Xdmg]] - 0 gp
-- [[Ring Of Lightning Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Lightning Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Necrotic Resistance Xdmg]] - 0 gp
-- [[Ring Of Necrotic Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Necrotic Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Poison Resistance Xdmg]] - 0 gp
-- [[Ring Of Poison Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Poison Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Psychic Resistance Xdmg]] - 0 gp
-- [[Ring Of Psychic Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Psychic Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Radiant Resistance Xdmg]] - 0 gp
-- [[Ring Of Radiant Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Radiant Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Resistance Xdmg]] - 0 gp
-- [[Ring Of Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Swimming Xdmg]] - 0 gp
-- [[Ring Of Swimming Xdmg (Items)]] - 0 gp
-- [[Ring Of Swimming Xdmg (Items)]] - 0 gp
-- [[Ring Of Three Wishes Xdmg]] - 0 gp
-- [[Ring Of Three Wishes Xdmg (Items)]] - 0 gp
-- [[Ring Of Three Wishes Xdmg (Items)]] - 0 gp
-- [[Ring Of Thunder Resistance Xdmg]] - 0 gp
-- [[Ring Of Thunder Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Thunder Resistance Xdmg (Items)]] - 0 gp
-- [[Ring Of Water Walking Xdmg]] - 0 gp
-- [[Ring Of Water Walking Xdmg (Items)]] - 0 gp
-- [[Ring Of Water Walking Xdmg (Items)]] - 0 gp
-- [[Rival Coin Xdmg]] - 0 gp
-- [[Rival Coin Xdmg (Items)]] - 0 gp
-- [[Rival Coin Xdmg (Items)]] - 0 gp
-- [[Robe Of Useful Items Xdmg]] - 0 gp
-- [[Robe Of Useful Items Xdmg (Items)]] - 0 gp
-- [[Robe Of Useful Items Xdmg (Items)]] - 0 gp
-- [[Robe Xphb]] - 0 gp
-- [[Robe Xphb (Items)]] - 0 gp
-- [[Robe Xphb (Items)]] - 0 gp
-- [[Rod Of Security Xdmg]] - 0 gp
-- [[Rod Of Security Xdmg (Items)]] - 0 gp
-- [[Rod Of Security Xdmg (Items)]] - 0 gp
-- [[Rod Xphb]] - 0 gp
-- [[Rod Xphb (Items)]] - 0 gp
-- [[Rod Xphb (Items)]] - 0 gp
-- [[Rope Of Climbing Xdmg]] - 0 gp
-- [[Rope Of Climbing Xdmg (Items)]] - 0 gp
-- [[Rope Of Climbing Xdmg (Items)]] - 0 gp
-- [[Rope Of Entanglement Xdmg]] - 0 gp
-- [[Rope Of Entanglement Xdmg (Items)]] - 0 gp
-- [[Rope Of Entanglement Xdmg (Items)]] - 0 gp
-- [[Rope Of Mending Xdmg]] - 0 gp
-- [[Rope Of Mending Xdmg (Items)]] - 0 gp
-- [[Rope Of Mending Xdmg (Items)]] - 0 gp
-- [[Rope Xphb]] - 0 gp
-- [[Rope Xphb (Items)]] - 0 gp
-- [[Rope Xphb (Items)]] - 0 gp
-- [[Rowboat Xphb]] - 0 gp
-- [[Rowboat Xphb (Items)]] - 0 gp
-- [[Rowboat Xphb (Items)]] - 0 gp
-- [[Ruby Xdmg]] - 0 gp
-- [[Ruby Xdmg (Items)]] - 0 gp
-- [[Ruby Xdmg (Items)]] - 0 gp
-- [[Sack Xphb]] - 0 gp
-- [[Sack Xphb (Items)]] - 0 gp
-- [[Sack Xphb (Items)]] - 0 gp
-- [[Saddle Of The Cavalier Xdmg]] - 0 gp
-- [[Saddle Of The Cavalier Xdmg (Items)]] - 0 gp
-- [[Saddle Of The Cavalier Xdmg (Items)]] - 0 gp
-- [[Saddlebags]] - 0 gp
-- [[Saffron Xdmg]] - 0 gp
-- [[Saffron Xdmg (Items)]] - 0 gp
-- [[Saffron Xdmg (Items)]] - 0 gp
-- [[Sailing Ship Xphb]] - 0 gp
-- [[Sailing Ship Xphb (Items)]] - 0 gp
-- [[Sailing Ship Xphb (Items)]] - 0 gp
-- [[Salt Xdmg]] - 0 gp
-- [[Salt Xdmg (Items)]] - 0 gp
-- [[Salt Xdmg (Items)]] - 0 gp
-- [[Sardonyx Xdmg]] - 0 gp
-- [[Sardonyx Xdmg (Items)]] - 0 gp
-- [[Sardonyx Xdmg (Items)]] - 0 gp
-- [[Scholars Pack Xphb]] - 0 gp
-- [[Scholars Pack Xphb (Items)]] - 0 gp
-- [[Scholars Pack Xphb (Items)]] - 0 gp
-- [[Scimitar Xphb]] - 0 gp
-- [[Scimitar Xphb (Items)]] - 0 gp
-- [[Scimitar Xphb (Items)]] - 0 gp
-- [[Sealing Wax]] - 0 gp
-- [[Sealing Wax (Items)]] - 0 gp
-- [[Sealing Wax (Items)]] - 0 gp
-- [[Seeker Dart Pota]] - 0 gp
-- [[Seeker Dart Pota (Items)]] - 0 gp
-- [[Seeker Dart Pota (Items)]] - 0 gp
-- [[Selling A Magic Item Magic Item Offer Xge (Tables)]] - |
-- [[Semiautomatic Pistol Xdmg]] - 0 gp
-- [[Semiautomatic Pistol Xdmg (Items)]] - 0 gp
-- [[Semiautomatic Pistol Xdmg (Items)]] - 0 gp
-- [[Sending Stones Xdmg]] - 0 gp
-- [[Sending Stones Xdmg (Items)]] - 0 gp
-- [[Sending Stones Xdmg (Items)]] - 0 gp
-- [[Sentient Items Special Purpose Xdmg (Tables)]] - 0 gp
-- [[Sentient Magic Item Alignment (Tables)]] - 0 gp
-- [[Sentient Magic Item Communication (Tables)]] - 0 gp
-- [[Sentient Magic Item Senses (Tables)]] - 0 gp
-- [[Serpent Venom Xdmg]] - 0 gp
-- [[Serpent Venom Xdmg (Items)]] - 0 gp
-- [[Serpent Venom Xdmg (Items)]] - 0 gp
-- [[Set Of Gold Nesting Dolls Xdmg]] - 0 gp
-- [[Set Of Gold Nesting Dolls Xdmg (Items)]] - 0 gp
-- [[Set Of Gold Nesting Dolls Xdmg (Items)]] - 0 gp
-- [[Shawm Xphb]] - 0 gp
-- [[Shawm Xphb (Items)]] - 0 gp
-- [[Shawm Xphb (Items)]] - 0 gp
-- [[Sheep Xdmg]] - 0 gp
-- [[Sheep Xdmg (Items)]] - 0 gp
-- [[Sheep Xdmg (Items)]] - 0 gp
-- [[Shotgun Xdmg]] - 0 gp
-- [[Shotgun Xdmg (Items)]] - 0 gp
-- [[Shotgun Xdmg (Items)]] - 0 gp
-- [[Shovel Xphb]] - 0 gp
-- [[Shovel Xphb (Items)]] - 0 gp
-- [[Shovel Xphb (Items)]] - 0 gp
-- [[Sickle Xphb]] - 0 gp
-- [[Sickle Xphb (Items)]] - 0 gp
-- [[Sickle Xphb (Items)]] - 0 gp
-- [[Signal Whistle Xphb]] - 0 gp
-- [[Signal Whistle Xphb (Items)]] - 0 gp
-- [[Signal Whistle Xphb (Items)]] - 0 gp
-- [[Signet Ring]] - 0 gp
-- [[Signet Ring (Items)]] - 0 gp
-- [[Signet Ring (Items)]] - 0 gp
-- [[Silk Rope 50 Feet]] - 0 gp
-- [[Silk Rope 50 Feet (Items)]] - 0 gp
-- [[Silk Rope 50 Feet (Items)]] - 0 gp
-- [[Silk Vestments With Gold Embroidery Xdmg]] - 0 gp
-- [[Silk Vestments With Gold Embroidery Xdmg (Items)]] - 0 gp
-- [[Silk Vestments With Gold Embroidery Xdmg (Items)]] - 0 gp
-- [[Silk Xdmg]] - 0 gp
-- [[Silk Xdmg (Items)]] - 0 gp
-- [[Silk Xdmg (Items)]] - 0 gp
-- [[Silver And Gold Brooch Xdmg]] - 0 gp
-- [[Silver And Gold Brooch Xdmg (Items)]] - 0 gp
-- [[Silver And Gold Brooch Xdmg (Items)]] - 0 gp
-- [[Silver Bar 2 Pound Xdmg]] - 0 gp
-- [[Silver Bar 2 Pound Xdmg (Items)]] - 0 gp
-- [[Silver Bar 2 Pound Xdmg (Items)]] - 0 gp
-- [[Silver Bar 5 Pound Xdmg]] - 0 gp
-- [[Silver Bar 5 Pound Xdmg (Items)]] - 0 gp
-- [[Silver Bar 5 Pound Xdmg (Items)]] - 0 gp
-- [[Silver Chalice Set With Moonstones Xdmg]] - 0 gp
-- [[Silver Chalice Set With Moonstones Xdmg (Items)]] - 0 gp
-- [[Silver Chalice Set With Moonstones Xdmg (Items)]] - 0 gp
-- [[Silver Ewer Xdmg]] - 0 gp
-- [[Silver Ewer Xdmg (Items)]] - 0 gp
-- [[Silver Ewer Xdmg (Items)]] - 0 gp
-- [[Silver Necklace With A Gemstone Pendant Xdmg]] - 0 gp
-- [[Silver Necklace With A Gemstone Pendant Xdmg (Items)]] - 0 gp
-- [[Silver Necklace With A Gemstone Pendant Xdmg (Items)]] - 0 gp
-- [[Silver Sp]] - 0 gp
-- [[Silver Sp (Items)]] - 0 gp
-- [[Silver Sp (Items)]] - 0 gp
+- [[Iron Xdmg]] - 0 gp
+- [[Iron Xdmg]] - 0 gp
 - [[Silver Xdmg]] - 0 gp
-- [[Silver Xdmg (Items)]] - 0 gp
-- [[Silver Xdmg (Items)]] - 0 gp
+- [[Silver Xdmg]] - 0 gp
+- [[Silver Xdmg]] - 0 gp
+- [[Horn of Valhalla Xdmg]] - 0 gp
+- [[Horn of Valhalla Xdmg]] - 0 gp
+- [[Horn of Valhalla Xdmg]] - 0 gp
+- [[Horn Xphb]] - 0 gp
+- [[Horn Xphb]] - 0 gp
+- [[Horn Xphb]] - 0 gp
+- [[horseshoes-of-a-zephyr-xdmg (items)]] - 0 gp
+- [[horseshoes-of-a-zephyr-xdmg (items)]] - 0 gp
+- [[horseshoes-of-a-zephyr-xdmg (items)]] - 0 gp
+- [[horseshoes-of-speed-xdmg (items)]] - 0 gp
+- [[horseshoes-of-speed-xdmg (items)]] - 0 gp
+- [[horseshoes-of-speed-xdmg (items)]] - 0 gp
+- [[hourglass]] - 0 gp
+- [[Hunting Rifle Xdmg]] - 0 gp
+- [[hunting-rifle-xdmg (items)]] - 0 gp
+- [[hunting-rifle-xdmg (items)]] - 0 gp
+- [[Hunting Trap Xphb]] - 0 gp
+- [[Hunting Trap Xphb]] - 0 gp
+- [[Hunting Trap Xphb]] - 0 gp
+- [[Immovable Rod Xdmg]] - 0 gp
+- [[immovable-rod-xdmg (items)]] - 0 gp
+- [[immovable-rod-xdmg (items)]] - 0 gp
+- [[Ink Pen Xphb]] - 0 gp
+- [[ink-pen-xphb (items)]] - 0 gp
+- [[ink-pen-xphb (items)]] - 0 gp
+- [[Ink Xphb]] - 0 gp
+- [[ink-xphb (items)]] - 0 gp
+- [[ink-xphb (items)]] - 0 gp
+- [[insignia-of-claws-hotdq (items)]] - 0 gp
+- [[insignia-of-claws-hotdq (items)]] - 0 gp
+- [[insignia-of-claws-hotdq (items)]] - 0 gp
+- [[instrument-of-illusions-xdmg (items)]] - 0 gp
+- [[instrument-of-illusions-xdmg (items)]] - 0 gp
+- [[instrument-of-illusions-xdmg (items)]] - 0 gp
+- [[Instrument of Scribing Xdmg]] - 0 gp
+- [[Instrument of Scribing Xdmg]] - 0 gp
+- [[Instrument of Scribing Xdmg]] - 0 gp
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]] (A) - 0 gp
+- [[Instrument of the Bards Cli Lyre Xdmg]] (A) - 0 gp
+- [[Instrument of the Bards Cli Lyre Xdmg]] (A) - 0 gp
+- [[Instrument of the Bards Cli Lyre Xdmg]] (A) - 0 gp
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]] (A) - 0 gp
+- [[Instrument of the Bards Fochlucan Bandore]] (A) - 0 gp
+- [[Instrument of the Bards Fochlucan Bandore]] (A) - 0 gp
+- [[Instrument of the Bards Mac Fuirmidh Cittern]] (A) - 0 gp
+- [[Instrument of the Bards Mac Fuirmidh Cittern]] (A) - 0 gp
+- [[Instrument of the Bards Ollamh Harp Xdmg]] (A) - 0 gp
+- [[Instrument of the Bards Ollamh Harp Xdmg]] (A) - 0 gp
+- [[Instrument of the Bards Ollamh Harp Xdmg]] (A) - 0 gp
+- [[instrument-of-the-bards-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-xdmg (items)]] (A) - 0 gp
+- [[instrument-of-the-bards-xdmg (items)]] (A) - 0 gp
+- [[iron-bands-of-bilarro-xdmg (items)]] - 0 gp
+- [[iron-bands-of-bilarro-xdmg (items)]] - 0 gp
+- [[iron-bands-of-bilarro-xdmg (items)]] - 0 gp
+- [[Iron Flask Xdmg]] - 0 gp
+- [[iron-flask-xdmg (items)]] - 0 gp
+- [[iron-flask-xdmg (items)]] - 0 gp
+- [[Iron Pot Xphb]] - 0 gp
+- [[iron-pot-xphb (items)]] - 0 gp
+- [[iron-pot-xphb (items)]] - 0 gp
+- [[Iron Spike Xphb]] - 0 gp
+- [[Pike Xphb]] - 0 gp
+- [[Pike Xphb]] - 0 gp
+- [[Iron Spikes Xphb]] - 0 gp
+- [[Iron Spikes Xphb]] - 0 gp
+- [[Iron Spikes Xphb]] - 0 gp
+- [[Iron Xdmg]] - 0 gp
+- [[Iron Xdmg]] - 0 gp
+- [[Iron Xdmg]] - 0 gp
+- [[Item Mastery]] - 0 gp
+- [[Item Types]] - in coins.
+- [[Items]] - 0 gp
+- [[Items]] - 0 gp
+- [[Jacinth Xdmg]] - 0 gp
+- [[Jacinth Xdmg]] - 0 gp
+- [[Jacinth Xdmg]] - 0 gp
+- [[Jade Game Board With Gold Playing Pieces Xdmg]] - 0 gp
+- [[Jade Game Board With Gold Playing Pieces Xdmg]] - 0 gp
+- [[Jade Game Board With Gold Playing Pieces Xdmg]] - 0 gp
+- [[Jade Xdmg]] - 0 gp
+- [[jade-xdmg (items)]] - 0 gp
+- [[jade-xdmg (items)]] - 0 gp
+- [[Jasper Xdmg]] - 0 gp
+- [[Jasper Xdmg]] - 0 gp
+- [[Jasper Xdmg]] - 0 gp
+- [[Javelin of Lightning Xdmg]] - 0 gp
+- [[Javelin of Lightning Xdmg]] - 0 gp
+- [[Javelin of Lightning Xdmg]] - 0 gp
+- [[Javelin Xphb]] - 0 gp
+- [[javelin-xphb (items)]] - 0 gp
+- [[javelin-xphb (items)]] - 0 gp
+- [[Jet Xdmg]] - 0 gp
+- [[jet-xdmg (items)]] - 0 gp
+- [[jet-xdmg (items)]] - 0 gp
+- [[Jeweled Anklet Xdmg]] - 0 gp
+- [[Jeweled Anklet Xdmg]] - 0 gp
+- [[Jeweled Anklet Xdmg]] - 0 gp
+- [[Jeweled Gold Crown Xdmg]] - 0 gp
+- [[Jeweled Gold Crown Xdmg]] - 0 gp
+- [[Jeweled Gold Crown Xdmg]] - 0 gp
+- [[Jeweled Platinum Ring Xdmg]] - 0 gp
+- [[Jeweled Platinum Ring Xdmg]] - 0 gp
+- [[Jeweled Platinum Ring Xdmg]] - 0 gp
+- [[Jewelers Tools Xphb]] - (DC 15)
+- [[Jewelers Tools Xphb]] - (DC 15)
+- [[Jewelers Tools Xphb]] - (DC 15)
+- [[Jug Xphb]] - 0 gp
+- [[Jug Xphb]] - 0 gp
+- [[Jug Xphb]] - 0 gp
+- [[Keelboat Xphb]] - 0 gp
+- [[Keelboat Xphb]] - 0 gp
+- [[Keelboat Xphb]] - 0 gp
+- [[Keoghtoms Ointment Xdmg]] - 0 gp
+- [[keoghtoms-ointment-xdmg (items)]] - 0 gp
+- [[keoghtoms-ointment-xdmg (items)]] - 0 gp
+- [[Ladder Xphb]] - 0 gp
+- [[Ladder Xphb]] - 0 gp
+- [[Ladder Xphb]] - 0 gp
+- [[Lamp Xphb]] - 0 gp
+- [[lamp-xphb (items)]] - 0 gp
+- [[lamp-xphb (items)]] - 0 gp
+- [[Lance Xphb]] - 0 gp
+- [[lance-xphb (items)]] - 0 gp
+- [[lance-xphb (items)]] - 0 gp
+- [[Lantern of Revealing Xdmg]] - 0 gp
+- [[Lantern of Revealing Xdmg]] - 0 gp
+- [[Lantern of Revealing Xdmg]] - 0 gp
+- [[Lapis Lazuli Xdmg]] - 0 gp
+- [[Lapis Lazuli Xdmg]] - 0 gp
+- [[Lapis Lazuli Xdmg]] - 0 gp
+- [[Laser Pistol Xdmg]] - 0 gp
+- [[Laser Pistol Xdmg]] - 0 gp
+- [[Laser Pistol Xdmg]] - 0 gp
+- [[Laser Rifle Xdmg]] - 0 gp
+- [[Laser Rifle Xdmg]] - 0 gp
+- [[Laser Rifle Xdmg]] - 0 gp
+- [[Leatherworkers Tools Xphb]] - 0 gp
+- [[leatherworkers-tools-xphb (items)]] - 0 gp
+- [[leatherworkers-tools-xphb (items)]] - 0 gp
+- [[Light Hammer Xphb]] - 0 gp
+- [[hammer]] - 0 gp
+- [[hammer]] - 0 gp
+- [[Lightbringer Lmop]] - 0 gp
+- [[lightbringer-lmop (items)]] - 0 gp
+- [[lightbringer-lmop (items)]] - 0 gp
+- [[Linen 1 Sq Yd Xdmg]] - 0 gp
+- [[Linen 1 Sq Yd Xdmg]] - 0 gp
+- [[Linen 1 Sq Yd Xdmg]] - 0 gp
+- [[lock-of-trickery-xdmg (items)]] - 0 gp
+- [[lock-of-trickery-xdmg (items)]] - 0 gp
+- [[lock-of-trickery-xdmg (items)]] - 0 gp
+- [[Lock Xphb]] - 0 gp
+- [[lock-xphb (items)]] - 0 gp
+- [[lock-xphb (items)]] - 0 gp
+- [[Lolths Sting Xdmg]] - 0 gp
+- [[lolths-sting-xdmg (items)]] - 0 gp
+- [[lolths-sting-xdmg (items)]] - 0 gp
+- [[Longship Xphb]] - 0 gp
+- [[longship-xphb (items)]] - 0 gp
+- [[longship-xphb (items)]] - 0 gp
+- [[Lorehold Trinket Scc]] - 0 gp
+- [[Lorehold Trinket Scc]] - 0 gp
+- [[Lorehold Trinket Scc]] - 0 gp
+- [[Lute of Thunderous Thumping Xdmg]] - 0 gp
+- [[Lute of Thunderous Thumping Xdmg]] - 0 gp
+- [[Lute of Thunderous Thumping Xdmg]] - 0 gp
+- [[Lute Xphb]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
+- [[Lyre Xphb]] - 0 gp
+- [[Lyre Xphb]] - 0 gp
+- [[Lyre Xphb]] - 0 gp
+- [[magic-item-categories-xdmg (tables)]] - 0 gp
+- [[Magic Item Purchase Complications Xge]] - 0 gp
+- [[magic-item-sale-complications-xge (tables)]] - 0 gp
+- [[magic-item-special-features-magic-items-quirk-xdmg]] - 0 gp
+- [[magic-item-table-a (tables)]] - 0 gp
+- [[magic-item-table-b (tables)]] - 0 gp
+- [[Magic Item Table C]] - 0 gp
+- [[magic-item-table-d (tables)]] - 0 gp
+- [[magic-item-table-e (tables)]] - 0 gp
+- [[Magic Item Table F]] - 0 gp
+- [[magic-item-table-g (tables)]] - 0 gp
+- [[Magic Item Table H]] - 0 gp
+- [[magic-item-table-i (tables)]] - 0 gp
+- [[magic-item-tools-xdmg (tables)]] - 0 gp
+- [[magic-items-awarded-by-level-xdmg (tables)]] - 0 gp
+- [[Magnifying Glass Xphb]] - 0 gp
+- [[Magnifying Glass Xphb]] - 0 gp
+- [[Magnifying Glass Xphb]] - 0 gp
+- [[Malachite Xdmg]] - 0 gp
+- [[Malachite Xdmg]] - 0 gp
+- [[Malachite Xdmg]] - 0 gp
+- [[Malice Xdmg]] - 0 gp
+- [[malice-xdmg (items)]] - 0 gp
+- [[malice-xdmg (items)]] - 0 gp
+- [[Manacles Xphb]] - 0 gp
+- [[Manacles Xphb]] - 0 gp
+- [[Manacles Xphb]] - 0 gp
+- [[Manual of Bodily Health Xdmg]] - 0 gp
+- [[Manual of Bodily Health Xdmg]] - 0 gp
+- [[Manual of Bodily Health Xdmg]] - 0 gp
+- [[Manual of Clay Golems Xdmg]] - 0 gp
+- [[Manual of Clay Golems Xdmg]] - 0 gp
+- [[Manual of Clay Golems Xdmg]] - 0 gp
+- [[Manual of Flesh Golems Xdmg]] - 0 gp
+- [[Manual of Flesh Golems Xdmg]] - 0 gp
+- [[Manual of Flesh Golems Xdmg]] - 0 gp
+- [[Manual of Gainful Exercise Xdmg]] - 0 gp
+- [[Manual of Gainful Exercise Xdmg]] - 0 gp
+- [[Manual of Gainful Exercise Xdmg]] - 0 gp
+- [[manual-of-golems-xdmg (items)]] - |
+- [[manual-of-golems-xdmg (items)]] - |
+- [[manual-of-golems-xdmg (items)]] - |
+- [[manual-of-iron-golems-xdmg (items)]] - 0 gp
+- [[manual-of-iron-golems-xdmg (items)]] - 0 gp
+- [[manual-of-iron-golems-xdmg (items)]] - 0 gp
+- [[Manual of Quickness of Action Xdmg]] - 0 gp
+- [[Manual of Quickness of Action Xdmg]] - 0 gp
+- [[Manual of Quickness of Action Xdmg]] - 0 gp
+- [[manual-of-stone-golems-xdmg (items)]] - 0 gp
+- [[manual-of-stone-golems-xdmg (items)]] - 0 gp
+- [[manual-of-stone-golems-xdmg (items)]] - 0 gp
+- [[Map Xphb]] - 0 gp
+- [[Map Xphb]] - 0 gp
+- [[Map Xphb]] - 0 gp
+- [[Masons Tools Xphb]] - 0 gp
+- [[Masons Tools Xphb]] - 0 gp
+- [[Masons Tools Xphb]] - 0 gp
+- [[Masque Charm Scc]] - 0 gp
+- [[Masque Charm Scc]] - 0 gp
+- [[Masque Charm Scc]] - 0 gp
+- [[Mastiff Xphb]] - 0 gp
+- [[mastiff-xphb (items)]] - 0 gp
+- [[mastiff-xphb (items)]] - 0 gp
+- [[Maul Xphb]] - 0 gp
+- [[maul-xphb (items)]] - 0 gp
+- [[maul-xphb (items)]] - 0 gp
+- [[Merchants Scale]] - 0 gp
+- [[Merchants Scale]] - 0 gp
+- [[Merchants Scale]] - 0 gp
+- [[Mess Kit]] - 0 gp
+- [[mess-kit (items)]] - 0 gp
+- [[mess-kit (items)]] - 0 gp
+- [[Midnight Tears Xdmg]] - 0 gp
+- [[midnight-tears-xdmg (items)]] - 0 gp
+- [[midnight-tears-xdmg (items)]] - 0 gp
+- [[Military Saddle Xphb]] - 0 gp
+- [[military-saddle-xphb (items)]] - 0 gp
+- [[military-saddle-xphb (items)]] - 0 gp
+- [[Miners Pick]] - 0 gp
+- [[miners-pick (items)]] - 0 gp
+- [[miners-pick (items)]] - 0 gp
+- [[mirror-of-life-trapping-xdmg (items)]] - 0 gp
+- [[mirror-of-life-trapping-xdmg (items)]] - 0 gp
+- [[mirror-of-life-trapping-xdmg (items)]] - 0 gp
+- [[Mirror Xphb]] - 0 gp
+- [[mirror-xphb (items)]] - 0 gp
+- [[mirror-xphb (items)]] - 0 gp
+- [[Modern Bullet]] - 0 gp
+- [[Modern Bullet]] - 0 gp
+- [[Modern Bullet]] - 0 gp
+- [[Modern Bullets 10]] - 0 gp
+- [[Modern Bullets 10]] - 0 gp
+- [[Modern Bullets 10]] - 0 gp
+- [[Monster Hunters Pack Vrgr]] - 0 gp
+- [[Monster Hunters Pack Vrgr]] - 0 gp
+- [[Monster Hunters Pack Vrgr]] - 0 gp
+- [[Moonstone Xdmg]] - 0 gp
+- [[moonstone-xdmg (items)]] - 0 gp
+- [[moonstone-xdmg (items)]] - 0 gp
+- [[Morningstar Xphb]] - 0 gp
+- [[Morningstar Xphb]] - 0 gp
+- [[Morningstar Xphb]] - 0 gp
+- [[Moss Agate Xdmg]] - 0 gp
+- [[moss-agate-xdmg (items)]] - 0 gp
+- [[moss-agate-xdmg (items)]] - 0 gp
+- [[Mule Xphb]] - 0 gp
+- [[Mule Xphb]] - 0 gp
+- [[Mule Xphb]] - 0 gp
+- [[murgaxors-elixir-of-life-scc (items)]] - 0 gp
+- [[murgaxors-elixir-of-life-scc (items)]] - 0 gp
+- [[murgaxors-elixir-of-life-scc (items)]] - 0 gp
+- [[Murgaxors Orb Scc]] - 0 gp
+- [[Murgaxors Orb Scc]] - 0 gp
+- [[Murgaxors Orb Scc]] - 0 gp
+- [[Musical Instrument Xphb]] - 0 gp
+- [[musical-instrument-xphb (items)]] - 0 gp
+- [[musical-instrument-xphb (items)]] - 0 gp
+- [[Musket Xphb]] - 0 gp
+- [[Musket Xphb]] - 0 gp
+- [[Musket Xphb]] - 0 gp
+- [[Mystery Key Xdmg]] - 0 gp
+- [[mystery-key-xdmg (items)]] - 0 gp
+- [[mystery-key-xdmg (items)]] - 0 gp
+- [[Navigators Tools Xphb]] - 0 gp
+- [[Navigators Tools Xphb]] - 0 gp
+- [[Navigators Tools Xphb]] - 0 gp
+- [[Necklace of Fireballs Xdmg]] - 0 gp
+- [[Necklace of Fireballs Xdmg]] - 0 gp
+- [[Necklace of Fireballs Xdmg]] - 0 gp
+- [[Necklace String of Small Pink Pearls Xdmg]] - 0 gp
+- [[Necklace String of Small Pink Pearls Xdmg]] - 0 gp
+- [[Necklace String of Small Pink Pearls Xdmg]] - 0 gp
+- [[Needle Xphb]] - 0 gp
+- [[needle-xphb (items)]] - 0 gp
+- [[needle-xphb (items)]] - 0 gp
+- [[Needles 50 Xphb]] - 0 gp
+- [[Needles 50 Xphb]] - 0 gp
+- [[Needles 50 Xphb]] - 0 gp
+- [[Net Xphb]] - 0 gp
+- [[Net Xphb]] - 0 gp
+- [[Net Xphb]] - 0 gp
+- [[Nolzurs Marvelous Pigments Xdmg]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
+- [[Nolzurs Marvelous Pigments Xdmg]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
+- [[Nolzurs Marvelous Pigments Xdmg]] - greater than 25 GP, and the total value of all objects created by a pot of pigment can't exceed 500 GP. If you paint objects of greater value (such as a large pile of gold), they look authentic, but close inspection reveals they're made from paste, cookies, or some other worthless material.
+- [[Obsidian Statuette with Gold Fittings and Inlay Xdmg]] - 0 gp
+- [[Obsidian Statuette with Gold Fittings and Inlay Xdmg]] - 0 gp
+- [[Obsidian Xdmg]] - 0 gp
+- [[Obsidian Xdmg]] - 0 gp
+- [[Obsidian Xdmg]] - 0 gp
+- [[Oil of Etherealness Xdmg]] - 0 gp
+- [[Oil of Etherealness Xdmg]] - 0 gp
+- [[Oil of Etherealness Xdmg]] - 0 gp
+- [[oil-of-sharpness-xdmg (items)]] - 0 gp
+- [[oil-of-sharpness-xdmg (items)]] - 0 gp
+- [[oil-of-sharpness-xdmg (items)]] - 0 gp
+- [[oil-of-slipperiness-xdmg (items)]] - 0 gp
+- [[oil-of-slipperiness-xdmg (items)]] - 0 gp
+- [[oil-of-slipperiness-xdmg (items)]] - 0 gp
+- [[oil-of-taggit-xdmg (items)]] - 0 gp
+- [[oil-of-taggit-xdmg (items)]] - 0 gp
+- [[oil-of-taggit-xdmg (items)]] - 0 gp
+- [[Oil Xphb]] - 0 gp
+- [[Oil Xphb]] - 0 gp
+- [[Oil Xphb]] - 0 gp
+- [[Old Masterpiece Painting Xdmg]] - 0 gp
+- [[old-masterpiece-painting-xdmg (items)]] - 0 gp
+- [[old-masterpiece-painting-xdmg (items)]] - 0 gp
+- [[Onyx Xdmg]] - 0 gp
+- [[Onyx Xdmg]] - 0 gp
+- [[Onyx Xdmg]] - 0 gp
+- [[Opal Xdmg]] - 0 gp
+- [[black-opal-xdmg (items)]] - 0 gp
+- [[black-opal-xdmg (items)]] - 0 gp
+- [[orb-of-direction-xdmg (items)]] - 0 gp
+- [[orb-of-direction-xdmg (items)]] - 0 gp
+- [[orb-of-direction-xdmg (items)]] - 0 gp
+- [[Time]] - 0 gp
+- [[Time]] - 0 gp
+- [[Time]] - 0 gp
+- [[Orb Xphb]] - 0 gp
+- [[Orb Xphb]] - 0 gp
+- [[Orb Xphb]] - 0 gp
+- [[Ox Xdmg]] - 0 gp
+- [[ox-xdmg (items)]] - 0 gp
+- [[ox-xdmg (items)]] - 0 gp
+- [[Pack Saddle]] - 0 gp
+- [[Pack Saddle]] - 0 gp
+- [[Pack Saddle]] - 0 gp
+- [[Painted Gold War Mask Xdmg]] - 0 gp
+- [[painted-gold-war-mask-xdmg (items)]] - 0 gp
+- [[painted-gold-war-mask-xdmg (items)]] - 0 gp
+- [[Painters Supplies Xphb]] - 0 gp
+- [[painters-supplies-xphb (items)]] - 0 gp
+- [[painters-supplies-xphb (items)]] - 0 gp
+- [[Pair of Engraved Bone Dice Xdmg]] - 0 gp
+- [[Pair of Engraved Bone Dice Xdmg]] - 0 gp
+- [[Pair of Engraved Bone Dice Xdmg]] - 0 gp
+- [[Pale Tincture Xdmg]] - 0 gp
+- [[pale-tincture-xdmg (items)]] - 0 gp
+- [[pale-tincture-xdmg (items)]] - 0 gp
+- [[Pan Flute Xphb]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
+- [[flute-xphb (items)]] - 0 gp
+- [[Paper Xphb]] - 0 gp
+- [[Paper Xphb]] - 0 gp
+- [[Paper Xphb]] - 0 gp
+- [[Parchment Xphb]] - 0 gp
+- [[Parchment Xphb]] - 0 gp
+- [[Parchment Xphb]] - 0 gp
+- [[Pearl Xdmg]] - 0 gp
+- [[black-pearl-xdmg (items)]] - 0 gp
+- [[black-pearl-xdmg (items)]] - 0 gp
+- [[Pepper Xdmg]] - 0 gp
+- [[pepper-xdmg (items)]] - 0 gp
+- [[pepper-xdmg (items)]] - 0 gp
+- [[perfume-of-bewitching-xdmg (items)]] - 0 gp
+- [[perfume-of-bewitching-xdmg (items)]] - 0 gp
+- [[perfume-of-bewitching-xdmg (items)]] - 0 gp
+- [[Perfume Xphb]] - 0 gp
+- [[perfume-xphb (items)]] - 0 gp
+- [[perfume-xphb (items)]] - 0 gp
+- [[Peridot Xdmg]] - 0 gp
+- [[peridot-xdmg (items)]] - 0 gp
+- [[peridot-xdmg (items)]] - 0 gp
+- [[philter-of-love-xdmg (items)]] - 0 gp
+- [[philter-of-love-xdmg (items)]] - 0 gp
+- [[philter-of-love-xdmg (items)]] - 0 gp
+- [[Pig Xdmg]] - 0 gp
+- [[pig-xdmg (items)]] - 0 gp
+- [[pig-xdmg (items)]] - 0 gp
+- [[Pike Xphb]] - 0 gp
+- [[Pike Xphb]] - 0 gp
+- [[Pike Xphb]] - 0 gp
+- [[Monsters]] - 0 gp
+- [[Monsters]] - 0 gp
+- [[Monsters]] - 0 gp
+- [[Pipes of Haunting Xdmg]] - 0 gp
+- [[Pipes of Haunting Xdmg]] - 0 gp
+- [[Pipes of Haunting Xdmg]] - 0 gp
+- [[Pistol Xphb]] - 0 gp
+- [[pistol-xphb (items)]] - 0 gp
+- [[pistol-xphb (items)]] - 0 gp
+- [[pitcher]] - 0 gp
+- [[piton]] - 0 gp
+- [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] - 0 gp
+- [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] - 0 gp
+- [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] - 0 gp
+- [[Platinum Pp]] - 0 gp
+- [[platinum-pp (items)]] - 0 gp
+- [[platinum-pp (items)]] - 0 gp
+- [[Platinum Xdmg]] - 0 gp
+- [[Platinum Xdmg]] - 0 gp
+- [[Platinum Xdmg]] - 0 gp
+- [[Playing Cards Xphb]] - 0 gp
+- [[Playing Cards Xphb]] - 0 gp
+- [[Playing Cards Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[Poisoners Kit Xphb]] - 0 gp
+- [[pole-of-angling-xdmg (items)]] - 0 gp
+- [[pole-of-angling-xdmg (items)]] - 0 gp
+- [[pole-of-angling-xdmg (items)]] - 0 gp
+- [[Pole of Collapsing Xdmg]] - 0 gp
+- [[Pole of Collapsing Xdmg]] - 0 gp
+- [[Pole of Collapsing Xdmg]] - 0 gp
+- [[Pole Xphb]] - 0 gp
+- [[pole-xphb (items)]] - 0 gp
+- [[pole-xphb (items)]] - 0 gp
+- [[Pony Xphb]] - 0 gp
+- [[Pony Xphb]] - 0 gp
+- [[Pony Xphb]] - 0 gp
+- [[Portable Hole Xdmg]] - 0 gp
+- [[portable-hole-xdmg (items)]] - 0 gp
+- [[portable-hole-xdmg (items)]] - 0 gp
+- [[Portable Ram Xphb]] - 0 gp
+- [[Portable Ram Xphb]] - 0 gp
+- [[Portable Ram Xphb]] - 0 gp
+- [[Pot of Awakening Xdmg]] - 0 gp
+- [[Pot of Awakening Xdmg]] - 0 gp
+- [[Pot of Awakening Xdmg]] - 0 gp
+- [[Potters Tools Xphb]] - 0 gp
+- [[Potters Tools Xphb]] - 0 gp
+- [[Potters Tools Xphb]] - 0 gp
+- [[Pouch Xphb]] - 0 gp
+- [[component-pouch-xphb (items)]] - 0 gp
+- [[component-pouch-xphb (items)]] - 0 gp
+- [[Priests Pack Xphb]] - 0 gp
+- [[priests-pack-xphb (items)]] - 0 gp
+- [[priests-pack-xphb (items)]] - 0 gp
+- [[Prismari Trinket Scc]] - 0 gp
+- [[Prismari Trinket Scc]] - 0 gp
+- [[Prismari Trinket Scc]] - 0 gp
+- [[Prosthetic Limb Xdmg]] - 0 gp
+- [[prosthetic-limb-xdmg (items)]] - 0 gp
+- [[prosthetic-limb-xdmg (items)]] - 0 gp
+- [[Psychic Blade Xphb]] - 0 gp
+- [[psychic-blade-xphb (items)]] - 0 gp
+- [[psychic-blade-xphb (items)]] - 0 gp
+- [[Purple Worm Poison Xdmg]] - 0 gp
+- [[purple-worm-poison-xdmg (items)]] - 0 gp
+- [[purple-worm-poison-xdmg (items)]] - 0 gp
+- [[Quaals Feather Token Anchor Xdmg]] - 0 gp
+- [[Quaals Feather Token Anchor Xdmg]] - 0 gp
+- [[Quaals Feather Token Anchor Xdmg]] - 0 gp
+- [[Quaals Feather Token Bird Xdmg]] - 0 gp
+- [[Quaals Feather Token Bird Xdmg]] - 0 gp
+- [[Quaals Feather Token Bird Xdmg]] - 0 gp
+- [[Quaals Feather Token Fan Xdmg]] - 0 gp
+- [[Quaals Feather Token Fan Xdmg]] - 0 gp
+- [[Quaals Feather Token Fan Xdmg]] - 0 gp
+- [[Quaals Feather Token Swan Boat Xdmg]] - 0 gp
+- [[Quaals Feather Token Swan Boat Xdmg]] - 0 gp
+- [[Quaals Feather Token Swan Boat Xdmg]] - 0 gp
+- [[Quaals Feather Token Tree Xdmg]] - 0 gp
+- [[Quaals Feather Token Tree Xdmg]] - 0 gp
+- [[Quaals Feather Token Tree Xdmg]] - 0 gp
+- [[Quaals Feather Token Whip Xdmg]] - 0 gp
+- [[quaals-feather-token-whip-xdmg (items)]] - 0 gp
+- [[quaals-feather-token-whip-xdmg (items)]] - 0 gp
+- [[Quandrix Trinket Scc]] - 0 gp
+- [[quandrix-trinket-scc (items)]] - 0 gp
+- [[quandrix-trinket-scc (items)]] - 0 gp
+- [[Quarterstaff Xphb]] - 0 gp
+- [[Quarterstaff Xphb]] - 0 gp
+- [[Quarterstaff Xphb]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
+- [[Quiver of Ehlonna Xdmg]] - 0 gp
+- [[Quiver of Ehlonna Xdmg]] - 0 gp
+- [[Quiver of Ehlonna Xdmg]] - 0 gp
+- [[Quiver Xphb]] - 0 gp
+- [[quiver-xphb (items)]] - 0 gp
+- [[quiver-xphb (items)]] - 0 gp
+- [[Arcana]] - 0 gp
+- [[Magic Items]] - 0 gp
+- [[random-magic-items-implements (tables)]] - 0 gp
+- [[Rapier Xphb]] - 0 gp
+- [[Rapier Xphb]] - 0 gp
+- [[Rapier Xphb]] - 0 gp
+- [[Rations Xphb]] - 0 gp
+- [[rations-xphb (items)]] - 0 gp
+- [[rations-xphb (items)]] - 0 gp
+- [[Reliquary Xphb]] - 0 gp
+- [[Reliquary Xphb]] - 0 gp
+- [[Reliquary Xphb]] - 0 gp
+- [[Reszur Pota]] - 0 gp
+- [[reszur-pota (items)]] - 0 gp
+- [[reszur-pota (items)]] - 0 gp
+- [[Revolver Xdmg]] - 0 gp
+- [[revolver-xdmg (items)]] - 0 gp
+- [[revolver-xdmg (items)]] - 0 gp
+- [[Rhodochrosite Xdmg]] - 0 gp
+- [[Rhodochrosite Xdmg]] - 0 gp
+- [[Rhodochrosite Xdmg]] - 0 gp
+- [[Riding Horse Xphb]] - 0 gp
+- [[riding-horse-xphb (items)]] - 0 gp
+- [[riding-horse-xphb (items)]] - 0 gp
+- [[Riding Saddle Xphb]] - 0 gp
+- [[riding-saddle-xphb (items)]] - 0 gp
+- [[riding-saddle-xphb (items)]] - 0 gp
+- [[Ring of Acid Resistance Xdmg]] - 0 gp
+- [[Ring of Acid Resistance Xdmg]] - 0 gp
+- [[Ring of Acid Resistance Xdmg]] - 0 gp
+- [[Ring of Animal Influence Xdmg]] - 0 gp
+- [[Ring of Animal Influence Xdmg]] - 0 gp
+- [[Ring of Animal Influence Xdmg]] - 0 gp
+- [[Ring of Cold Resistance Xdmg]] - 0 gp
+- [[Ring of Cold Resistance Xdmg]] - 0 gp
+- [[Ring of Cold Resistance Xdmg]] - 0 gp
+- [[ring-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-fire-resistance-xdmg (items)]] - 0 gp
+- [[Ring of Force Resistance Xdmg]] - 0 gp
+- [[Ring of Force Resistance Xdmg]] - 0 gp
+- [[Ring of Force Resistance Xdmg]] - 0 gp
+- [[Ring of Lightning Resistance Xdmg]] - 0 gp
+- [[Ring of Lightning Resistance Xdmg]] - 0 gp
+- [[Ring of Lightning Resistance Xdmg]] - 0 gp
+- [[ring-of-necrotic-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-necrotic-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-necrotic-resistance-xdmg (items)]] - 0 gp
+- [[Ring of Poison Resistance Xdmg]] - 0 gp
+- [[Ring of Poison Resistance Xdmg]] - 0 gp
+- [[Ring of Poison Resistance Xdmg]] - 0 gp
+- [[ring-of-psychic-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-psychic-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-psychic-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-radiant-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-radiant-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-radiant-resistance-xdmg (items)]] - 0 gp
+- [[Ring of Resistance Xdmg]] - 0 gp
+- [[Ring of Resistance Xdmg]] - 0 gp
+- [[Ring of Resistance Xdmg]] - 0 gp
+- [[ring-of-swimming-xdmg (items)]] - 0 gp
+- [[ring-of-swimming-xdmg (items)]] - 0 gp
+- [[ring-of-swimming-xdmg (items)]] - 0 gp
+- [[Ring of Three Wishes Xdmg]] - 0 gp
+- [[Ring of Three Wishes Xdmg]] - 0 gp
+- [[Ring of Three Wishes Xdmg]] - 0 gp
+- [[ring-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[ring-of-thunder-resistance-xdmg (items)]] - 0 gp
+- [[Ring of Water Walking Xdmg]] - 0 gp
+- [[Ring of Water Walking Xdmg]] - 0 gp
+- [[Ring of Water Walking Xdmg]] - 0 gp
+- [[Rival Coin Xdmg]] - 0 gp
+- [[Rival Coin Xdmg]] - 0 gp
+- [[Rival Coin Xdmg]] - 0 gp
+- [[Robe of Useful Items Xdmg]] - 0 gp
+- [[Robe of Useful Items Xdmg]] - 0 gp
+- [[Robe of Useful Items Xdmg]] - 0 gp
+- [[Robe Xphb]] - 0 gp
+- [[robe-xphb (items)]] - 0 gp
+- [[robe-xphb (items)]] - 0 gp
+- [[Rod of Security Xdmg]] - 0 gp
+- [[Rod of Security Xdmg]] - 0 gp
+- [[Rod of Security Xdmg]] - 0 gp
+- [[Rod Xphb]] - 0 gp
+- [[rod-xphb (items)]] - 0 gp
+- [[rod-xphb (items)]] - 0 gp
+- [[Rope of Climbing Xdmg]] - 0 gp
+- [[Rope of Climbing Xdmg]] - 0 gp
+- [[Rope of Climbing Xdmg]] - 0 gp
+- [[Rope of Entanglement Xdmg]] - 0 gp
+- [[Rope of Entanglement Xdmg]] - 0 gp
+- [[Rope of Entanglement Xdmg]] - 0 gp
+- [[rope-of-mending-xdmg (items)]] - 0 gp
+- [[rope-of-mending-xdmg (items)]] - 0 gp
+- [[rope-of-mending-xdmg (items)]] - 0 gp
+- [[Rope Xphb]] - 0 gp
+- [[Rope Xphb]] - 0 gp
+- [[Rope Xphb]] - 0 gp
+- [[Rowboat Xphb]] - 0 gp
+- [[rowboat-xphb (items)]] - 0 gp
+- [[rowboat-xphb (items)]] - 0 gp
+- [[Ruby Xdmg]] - 0 gp
+- [[ruby-xdmg (items)]] - 0 gp
+- [[ruby-xdmg (items)]] - 0 gp
+- [[Sack Xphb]] - 0 gp
+- [[sack-xphb (items)]] - 0 gp
+- [[sack-xphb (items)]] - 0 gp
+- [[saddle-of-the-cavalier-xdmg (items)]] - 0 gp
+- [[saddle-of-the-cavalier-xdmg (items)]] - 0 gp
+- [[saddle-of-the-cavalier-xdmg (items)]] - 0 gp
+- [[saddlebags]] - 0 gp
+- [[Saffron Xdmg]] - 0 gp
+- [[saffron-xdmg (items)]] - 0 gp
+- [[saffron-xdmg (items)]] - 0 gp
+- [[Sailing Ship Xphb]] - 0 gp
+- [[sailing-ship-xphb (items)]] - 0 gp
+- [[sailing-ship-xphb (items)]] - 0 gp
+- [[Salt Xdmg]] - 0 gp
+- [[Salt Xdmg]] - 0 gp
+- [[Salt Xdmg]] - 0 gp
+- [[Sardonyx Xdmg]] - 0 gp
+- [[Sardonyx Xdmg]] - 0 gp
+- [[Sardonyx Xdmg]] - 0 gp
+- [[Scholars Pack Xphb]] - 0 gp
+- [[scholars-pack-xphb (items)]] - 0 gp
+- [[scholars-pack-xphb (items)]] - 0 gp
+- [[Scimitar Xphb]] - 0 gp
+- [[Scimitar Xphb]] - 0 gp
+- [[Scimitar Xphb]] - 0 gp
+- [[Sealing Wax]] - 0 gp
+- [[Sealing Wax]] - 0 gp
+- [[Sealing Wax]] - 0 gp
+- [[Seeker Dart Pota]] - 0 gp
+- [[Seeker Dart Pota]] - 0 gp
+- [[Seeker Dart Pota]] - 0 gp
+- [[Selling a Magic Item Magic Item Offer Xge]] - |
+- [[Semiautomatic Pistol Xdmg]] - 0 gp
+- [[semiautomatic-pistol-xdmg (items)]] - 0 gp
+- [[semiautomatic-pistol-xdmg (items)]] - 0 gp
+- [[Sending Stones Xdmg]] - 0 gp
+- [[sending-stones-xdmg (items)]] - 0 gp
+- [[sending-stones-xdmg (items)]] - 0 gp
+- [[Sentient Items Special Purpose Xdmg]] - 0 gp
+- [[sentient-magic-item-alignment (tables)]] - 0 gp
+- [[Sentient Magic Item Communication]] - 0 gp
+- [[senses]] - 0 gp
+- [[Serpent Venom Xdmg]] - 0 gp
+- [[serpent-venom-xdmg (items)]] - 0 gp
+- [[serpent-venom-xdmg (items)]] - 0 gp
+- [[set-of-gold-nesting-dolls-xdmg (items)]] - 0 gp
+- [[set-of-gold-nesting-dolls-xdmg (items)]] - 0 gp
+- [[set-of-gold-nesting-dolls-xdmg (items)]] - 0 gp
+- [[Shawm Xphb]] - 0 gp
+- [[Shawm Xphb]] - 0 gp
+- [[Shawm Xphb]] - 0 gp
+- [[Sheep Xdmg]] - 0 gp
+- [[sheep-xdmg (items)]] - 0 gp
+- [[sheep-xdmg (items)]] - 0 gp
+- [[Shotgun Xdmg]] - 0 gp
+- [[Shotgun Xdmg]] - 0 gp
+- [[Shotgun Xdmg]] - 0 gp
+- [[Shovel Xphb]] - 0 gp
+- [[shovel-xphb (items)]] - 0 gp
+- [[shovel-xphb (items)]] - 0 gp
+- [[Sickle Xphb]] - 0 gp
+- [[sickle-xphb (items)]] - 0 gp
+- [[sickle-xphb (items)]] - 0 gp
+- [[Signal Whistle Xphb]] - 0 gp
+- [[Signal Whistle Xphb]] - 0 gp
+- [[Signal Whistle Xphb]] - 0 gp
+- [[Signet Ring]] - 0 gp
+- [[Signet Ring]] - 0 gp
+- [[Signet Ring]] - 0 gp
+- [[Silk Rope 50 Feet]] - 0 gp
+- [[Silk Rope 50 Feet]] - 0 gp
+- [[Silk Rope 50 Feet]] - 0 gp
+- [[Silk Vestments With Gold Embroidery Xdmg]] - 0 gp
+- [[silk-vestments-with-gold-embroidery-xdmg (items)]] - 0 gp
+- [[silk-vestments-with-gold-embroidery-xdmg (items)]] - 0 gp
+- [[Silk Xdmg]] - 0 gp
+- [[Silk Xdmg]] - 0 gp
+- [[Silk Xdmg]] - 0 gp
+- [[Silver and Gold Brooch Xdmg]] - 0 gp
+- [[Silver and Gold Brooch Xdmg]] - 0 gp
+- [[Silver and Gold Brooch Xdmg]] - 0 gp
+- [[Silver Bar 2 Pound Xdmg]] - 0 gp
+- [[silver-bar-2-pound-xdmg (items)]] - 0 gp
+- [[silver-bar-2-pound-xdmg (items)]] - 0 gp
+- [[Silver Bar 5 Pound Xdmg]] - 0 gp
+- [[Silver Bar 5 Pound Xdmg]] - 0 gp
+- [[Silver Bar 5 Pound Xdmg]] - 0 gp
+- [[Silver Chalice Set With Moonstones Xdmg]] - 0 gp
+- [[silver-chalice-set-with-moonstones-xdmg (items)]] - 0 gp
+- [[silver-chalice-set-with-moonstones-xdmg (items)]] - 0 gp
+- [[Silver Ewer Xdmg]] - 0 gp
+- [[silver-ewer-xdmg (items)]] - 0 gp
+- [[silver-ewer-xdmg (items)]] - 0 gp
+- [[silver-necklace-with-a-gemstone-pendant-xdmg (items)]] - 0 gp
+- [[silver-necklace-with-a-gemstone-pendant-xdmg (items)]] - 0 gp
+- [[silver-necklace-with-a-gemstone-pendant-xdmg (items)]] - 0 gp
+- [[Silver Sp]] - 0 gp
+- [[Silver Sp]] - 0 gp
+- [[Silver Sp]] - 0 gp
+- [[Silver Xdmg]] - 0 gp
+- [[Silver Xdmg]] - 0 gp
+- [[Silver Xdmg]] - 0 gp
 - [[Silvered Ammunition]] - represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.
-- [[Silvered Ammunition (Items)]] - represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.
-- [[Silvered Ammunition (Items)]] - represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.
+- [[Silvered Ammunition]] - represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.
+- [[Silvered Ammunition]] - represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective.
 - [[Silvered Weapon Xdmg]] - 0 gp
-- [[Silvered Weapon Xdmg (Items)]] - 0 gp
-- [[Silvered Weapon Xdmg (Items)]] - 0 gp
+- [[silvered-weapon-xdmg (items)]] - 0 gp
+- [[silvered-weapon-xdmg (items)]] - 0 gp
 - [[Silverquill Trinket Scc]] - 0 gp
-- [[Silverquill Trinket Scc (Items)]] - 0 gp
-- [[Silverquill Trinket Scc (Items)]] - 0 gp
+- [[Silverquill Trinket Scc]] - 0 gp
+- [[Silverquill Trinket Scc]] - 0 gp
 - [[Sled Xphb]] - 0 gp
-- [[Sled Xphb (Items)]] - 0 gp
-- [[Sled Xphb (Items)]] - 0 gp
-- [[Sledgehammer]] - 0 gp
+- [[sled-xphb (items)]] - 0 gp
+- [[sled-xphb (items)]] - 0 gp
+- [[hammer]] - 0 gp
 - [[Sling Bullet Xphb]] - 0 gp
-- [[Sling Bullet Xphb (Items)]] - 0 gp
-- [[Sling Bullet Xphb (Items)]] - 0 gp
+- [[sling-bullet-xphb (items)]] - 0 gp
+- [[sling-bullet-xphb (items)]] - 0 gp
 - [[Sling Bullets 20 Xphb]] - 0 gp
-- [[Sling Bullets 20 Xphb (Items)]] - 0 gp
-- [[Sling Bullets 20 Xphb (Items)]] - 0 gp
+- [[Sling Bullets 20 Xphb]] - 0 gp
+- [[Sling Bullets 20 Xphb]] - 0 gp
 - [[Sling Xphb]] - 0 gp
-- [[Sling Xphb (Items)]] - 0 gp
-- [[Sling Xphb (Items)]] - 0 gp
+- [[Sling Xphb]] - 0 gp
+- [[Sling Xphb]] - 0 gp
 - [[Smiths Tools Xphb]] - 0 gp
-- [[Smiths Tools Xphb (Items)]] - 0 gp
-- [[Smiths Tools Xphb (Items)]] - 0 gp
+- [[smiths-tools-xphb (items)]] - 0 gp
+- [[smiths-tools-xphb (items)]] - 0 gp
 - [[Smoke Grenade Xdmg]] - 0 gp
-- [[Smoke Grenade Xdmg (Items)]] - 0 gp
-- [[Smoke Grenade Xdmg (Items)]] - 0 gp
-- [[Soap]] - 0 gp
+- [[smoke-grenade-xdmg (items)]] - 0 gp
+- [[smoke-grenade-xdmg (items)]] - 0 gp
+- [[soap]] - 0 gp
 - [[Soul Bag Mm]] - 0 gp
-- [[Soul Bag Mm (Items)]] - 0 gp
-- [[Soul Bag Mm (Items)]] - 0 gp
+- [[Soul Bag Mm]] - 0 gp
+- [[Soul Bag Mm]] - 0 gp
 - [[Sovereign Glue Xdmg]] - 0 gp
-- [[Sovereign Glue Xdmg (Items)]] - 0 gp
-- [[Sovereign Glue Xdmg (Items)]] - 0 gp
+- [[sovereign-glue-xdmg (items)]] - 0 gp
+- [[sovereign-glue-xdmg (items)]] - 0 gp
 - [[Spear Xphb]] - 0 gp
-- [[Spear Xphb (Items)]] - 0 gp
-- [[Spear Xphb (Items)]] - 0 gp
-- [[Special Purpose Sentient Items Alignment Xdmg (Tables)]] - 0 gp
-- [[Special Purpose Sentient Items Communication Xdmg]] - 0 gp
-- [[Special Purpose Sentient Items Senses Xdmg (Tables)]] - 0 gp
+- [[spear-xphb (items)]] - 0 gp
+- [[spear-xphb (items)]] - 0 gp
+- [[Special Purpose Sentient Items Alignment Xdmg]] - 0 gp
+- [[Special Purpose Sentient Items Communication]] - 0 gp
+- [[senses]] - 0 gp
 - [[Spell Gem Amber Oota]] - 0 gp
-- [[Spell Gem Amber Oota (Items)]] - 0 gp
-- [[Spell Gem Amber Oota (Items)]] - 0 gp
+- [[Spell Gem Amber Oota]] - 0 gp
+- [[Spell Gem Amber Oota]] - 0 gp
 - [[Spell Gem Bloodstone Oota]] - 0 gp
-- [[Spell Gem Bloodstone Oota (Items)]] - 0 gp
-- [[Spell Gem Bloodstone Oota (Items)]] - 0 gp
+- [[spell-gem-bloodstone-oota (items)]] - 0 gp
+- [[spell-gem-bloodstone-oota (items)]] - 0 gp
 - [[Spell Gem Diamond Oota]] - 0 gp
-- [[Spell Gem Diamond Oota (Items)]] - 0 gp
-- [[Spell Gem Diamond Oota (Items)]] - 0 gp
+- [[Spell Gem Diamond Oota]] - 0 gp
+- [[Spell Gem Diamond Oota]] - 0 gp
 - [[Spell Gem Jade Oota]] - 0 gp
-- [[Spell Gem Jade Oota (Items)]] - 0 gp
-- [[Spell Gem Jade Oota (Items)]] - 0 gp
+- [[Spell Gem Jade Oota]] - 0 gp
+- [[Spell Gem Jade Oota]] - 0 gp
 - [[Spell Gem Lapis Lazuli Oota]] - 0 gp
-- [[Spell Gem Lapis Lazuli Oota (Items)]] - 0 gp
-- [[Spell Gem Lapis Lazuli Oota (Items)]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
+- [[Spell Gem Lapis Lazuli Oota]] - 0 gp
 - [[Spell Gem Obsidian Oota]] - 0 gp
-- [[Spell Gem Obsidian Oota (Items)]] - 0 gp
-- [[Spell Gem Obsidian Oota (Items)]] - 0 gp
+- [[spell-gem-obsidian-oota (items)]] - 0 gp
+- [[spell-gem-obsidian-oota (items)]] - 0 gp
 - [[Spell Gem Oota]] - 0 gp
-- [[Spell Gem Oota (Items)]] - 0 gp
-- [[Spell Gem Oota (Items)]] - 0 gp
+- [[Spell Gem Oota]] - 0 gp
+- [[Spell Gem Oota]] - 0 gp
 - [[Spell Gem Quartz Oota]] - 0 gp
-- [[Spell Gem Quartz Oota (Items)]] - 0 gp
-- [[Spell Gem Quartz Oota (Items)]] - 0 gp
+- [[spell-gem-quartz-oota (items)]] - 0 gp
+- [[spell-gem-quartz-oota (items)]] - 0 gp
 - [[Spell Gem Ruby Oota]] - 0 gp
-- [[Spell Gem Ruby Oota (Items)]] - 0 gp
-- [[Spell Gem Ruby Oota (Items)]] - 0 gp
+- [[spell-gem-ruby-oota (items)]] - 0 gp
+- [[spell-gem-ruby-oota (items)]] - 0 gp
 - [[Spell Gem Star Ruby Oota]] - 0 gp
-- [[Spell Gem Star Ruby Oota (Items)]] - 0 gp
-- [[Spell Gem Star Ruby Oota (Items)]] - 0 gp
+- [[spell-gem-star-ruby-oota (items)]] - 0 gp
+- [[spell-gem-star-ruby-oota (items)]] - 0 gp
 - [[Spell Gem Topaz Oota]] - 0 gp
-- [[Spell Gem Topaz Oota (Items)]] - 0 gp
-- [[Spell Gem Topaz Oota (Items)]] - 0 gp
-- [[Spellbook]] - 0 gp
-- [[Sphere Of Annihilation Xdmg]] - 0 gp
-- [[Sphere Of Annihilation Xdmg (Items)]] - 0 gp
-- [[Sphere Of Annihilation Xdmg (Items)]] - 0 gp
+- [[spell-gem-topaz-oota (items)]] - 0 gp
+- [[spell-gem-topaz-oota (items)]] - 0 gp
+- [[enduring-spellbook-xdmg (items)]] - 0 gp
+- [[Sphere of Annihilation Xdmg]] - 0 gp
+- [[Sphere of Annihilation Xdmg]] - 0 gp
+- [[Sphere of Annihilation Xdmg]] - 0 gp
 - [[Spinel Xdmg]] - 0 gp
-- [[Spinel Xdmg (Items)]] - 0 gp
-- [[Spinel Xdmg (Items)]] - 0 gp
+- [[spinel-xdmg (items)]] - 0 gp
+- [[spinel-xdmg (items)]] - 0 gp
 - [[Spirit Board Xdmg]] - |
-- [[Spirit Board Xdmg (Items)]] - |
-- [[Spirit Board Xdmg (Items)]] - |
-- [[Sprig Of Mistletoe Xphb]] - 0 gp
-- [[Sprig Of Mistletoe Xphb (Items)]] - 0 gp
-- [[Sprig Of Mistletoe Xphb (Items)]] - 0 gp
+- [[Spirit Board Xdmg]] - |
+- [[Spirit Board Xdmg]] - |
+- [[sprig-of-mistletoe-xphb (items)]] - 0 gp
+- [[sprig-of-mistletoe-xphb (items)]] - 0 gp
+- [[sprig-of-mistletoe-xphb (items)]] - 0 gp
 - [[Spyglass Xphb]] - 0 gp
-- [[Spyglass Xphb (Items)]] - 0 gp
-- [[Spyglass Xphb (Items)]] - 0 gp
+- [[Spyglass Xphb]] - 0 gp
+- [[Spyglass Xphb]] - 0 gp
 - [[Stabling Per Day Xphb]] - 0 gp
-- [[Stabling Per Day Xphb (Items)]] - 0 gp
-- [[Stabling Per Day Xphb (Items)]] - 0 gp
-- [[Staff Of Adornment Xdmg]] - 0 gp
-- [[Staff Of Adornment Xdmg (Items)]] - 0 gp
-- [[Staff Of Adornment Xdmg (Items)]] - 0 gp
-- [[Staff Of Birdcalls Xdmg]] - 0 gp
-- [[Staff Of Birdcalls Xdmg (Items)]] - 0 gp
-- [[Staff Of Birdcalls Xdmg (Items)]] - 0 gp
-- [[Staff Of Flowers Xdmg]] - 0 gp
-- [[Staff Of Flowers Xdmg (Items)]] - 0 gp
-- [[Staff Of Flowers Xdmg (Items)]] - 0 gp
-- [[Staff Of Power Xdmg]] - 0 gp
-- [[Staff Of Power Xdmg (Items)]] - 0 gp
-- [[Staff Of Power Xdmg (Items)]] - 0 gp
-- [[Staff Of Swarming Insects Xdmg]] - 0 gp
-- [[Staff Of Swarming Insects Xdmg (Items)]] - 0 gp
-- [[Staff Of Swarming Insects Xdmg (Items)]] - 0 gp
-- [[Staff Of The Magi Xdmg]] - 0 gp
-- [[Staff Of The Magi Xdmg (Items)]] - 0 gp
-- [[Staff Of The Magi Xdmg (Items)]] - 0 gp
+- [[Stabling Per Day Xphb]] - 0 gp
+- [[Stabling Per Day Xphb]] - 0 gp
+- [[Staff of Adornment Xdmg]] - 0 gp
+- [[Staff of Adornment Xdmg]] - 0 gp
+- [[Staff of Adornment Xdmg]] - 0 gp
+- [[Staff of Birdcalls Xdmg]] - 0 gp
+- [[Staff of Birdcalls Xdmg]] - 0 gp
+- [[Staff of Birdcalls Xdmg]] - 0 gp
+- [[Staff of Flowers Xdmg]] - 0 gp
+- [[Staff of Flowers Xdmg]] - 0 gp
+- [[Staff of Flowers Xdmg]] - 0 gp
+- [[staff-of-power-xdmg (items)]] - 0 gp
+- [[staff-of-power-xdmg (items)]] - 0 gp
+- [[staff-of-power-xdmg (items)]] - 0 gp
+- [[staff-of-swarming-insects-xdmg (items)]] - 0 gp
+- [[staff-of-swarming-insects-xdmg (items)]] - 0 gp
+- [[staff-of-swarming-insects-xdmg (items)]] - 0 gp
+- [[Staff of the Magi Xdmg]] - 0 gp
+- [[Staff of the Magi Xdmg]] - 0 gp
+- [[Staff of the Magi Xdmg]] - 0 gp
 - [[Staff Xphb]] - 0 gp
-- [[Staff Xphb (Items)]] - 0 gp
-- [[Staff Xphb (Items)]] - 0 gp
+- [[Staff Xphb]] - 0 gp
+- [[Staff Xphb]] - 0 gp
 - [[Star Rose Quartz Xdmg]] - 0 gp
-- [[Star Rose Quartz Xdmg (Items)]] - 0 gp
-- [[Star Rose Quartz Xdmg (Items)]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
+- [[Quartz Xdmg]] - 0 gp
 - [[Star Ruby Xdmg]] - 0 gp
-- [[Star Ruby Xdmg (Items)]] - 0 gp
-- [[Star Ruby Xdmg (Items)]] - 0 gp
+- [[Star Ruby Xdmg]] - 0 gp
+- [[Star Ruby Xdmg]] - 0 gp
 - [[Star Sapphire Xdmg]] - 0 gp
-- [[Star Sapphire Xdmg (Items)]] - 0 gp
-- [[Star Sapphire Xdmg (Items)]] - 0 gp
-- [[Statuette Of Saint Markovia Cos]] - 0 gp
-- [[Statuette Of Saint Markovia Cos (Items)]] - 0 gp
-- [[Statuette Of Saint Markovia Cos (Items)]] - 0 gp
-- [[Step 010 Automate Item Illustrations]] - 0 gp
-- [[Stone Of Controlling Earth Elementals Xdmg]] - 0 gp
-- [[Stone Of Controlling Earth Elementals Xdmg (Items)]] - 0 gp
-- [[Stone Of Controlling Earth Elementals Xdmg (Items)]] - 0 gp
+- [[Star Sapphire Xdmg]] - 0 gp
+- [[Star Sapphire Xdmg]] - 0 gp
+- [[Statuette of Saint Markovia Cos]] - 0 gp
+- [[Statuette of Saint Markovia Cos]] - 0 gp
+- [[Statuette of Saint Markovia Cos]] - 0 gp
+- [[step_010]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
+- [[elemental]] - 0 gp
 - [[Storm Boomerang Pota]] - 0 gp
-- [[Storm Boomerang Pota (Items)]] - 0 gp
-- [[Storm Boomerang Pota (Items)]] - 0 gp
+- [[storm-boomerang-pota (items)]] - 0 gp
+- [[storm-boomerang-pota (items)]] - 0 gp
 - [[String Xphb]] - 0 gp
-- [[String Xphb (Items)]] - 0 gp
-- [[String Xphb (Items)]] - 0 gp
+- [[String Xphb]] - 0 gp
+- [[String Xphb]] - 0 gp
 - [[Strixhaven Pennant Scc]] - 0 gp
-- [[Strixhaven Pennant Scc (Items)]] - 0 gp
-- [[Strixhaven Pennant Scc (Items)]] - 0 gp
+- [[strixhaven-pennant-scc (items)]] - 0 gp
+- [[strixhaven-pennant-scc (items)]] - 0 gp
 - [[Survival Mantle Vgm]] - 0 gp
-- [[Survival Mantle Vgm (Items)]] - 0 gp
-- [[Survival Mantle Vgm (Items)]] - 0 gp
-- [[Tankard]] - 0 gp
-- [[Tankard Of Plenty Hotdq]] - 0 gp
-- [[Tankard Of Plenty Hotdq (Items)]] - 0 gp
-- [[Tankard Of Plenty Hotdq (Items)]] - 0 gp
-- [[Tankard Of Sobriety Xdmg]] - 0 gp
-- [[Tankard Of Sobriety Xdmg (Items)]] - 0 gp
-- [[Tankard Of Sobriety Xdmg (Items)]] - 0 gp
+- [[Survival Mantle Vgm]] - 0 gp
+- [[Survival Mantle Vgm]] - 0 gp
+- [[Tankard of Plenty Hotdq]] - 0 gp
+- [[Tankard of Plenty Hotdq]] - 0 gp
+- [[Tankard of Plenty Hotdq]] - 0 gp
+- [[Tankard of Plenty Hotdq]] - 0 gp
+- [[Tankard of Sobriety Xdmg]] - 0 gp
+- [[Tankard of Sobriety Xdmg]] - 0 gp
+- [[Tankard of Sobriety Xdmg]] - 0 gp
 - [[Tent Xphb]] - 0 gp
-- [[Tent Xphb (Items)]] - 0 gp
-- [[Tent Xphb (Items)]] - 0 gp
+- [[Tent Xphb]] - 0 gp
+- [[Tent Xphb]] - 0 gp
 - [[Thieves Tools Xphb]] - 0 gp
-- [[Thieves Tools Xphb (Items)]] - 0 gp
-- [[Thieves Tools Xphb (Items)]] - 0 gp
+- [[thieves-tools-xphb (items)]] - 0 gp
+- [[thieves-tools-xphb (items)]] - 0 gp
 - [[Three Dragon Ante Set Xphb]] - 0 gp
-- [[Three Dragon Ante Set Xphb (Items)]] - 0 gp
-- [[Three Dragon Ante Set Xphb (Items)]] - 0 gp
+- [[three-dragon-ante-set-xphb (items)]] - 0 gp
+- [[three-dragon-ante-set-xphb (items)]] - 0 gp
 - [[Tiger Eye Xdmg]] - 0 gp
-- [[Tiger Eye Xdmg (Items)]] - 0 gp
-- [[Tiger Eye Xdmg (Items)]] - 0 gp
+- [[tiger-eye-xdmg (items)]] - 0 gp
+- [[tiger-eye-xdmg (items)]] - 0 gp
 - [[Tinderbox Xphb]] - 0 gp
-- [[Tinderbox Xphb (Items)]] - 0 gp
-- [[Tinderbox Xphb (Items)]] - 0 gp
+- [[Tinderbox Xphb]] - 0 gp
+- [[Tinderbox Xphb]] - 0 gp
 - [[Tinkers Tools Xphb]] - 0 gp
-- [[Tinkers Tools Xphb (Items)]] - 0 gp
-- [[Tinkers Tools Xphb (Items)]] - 0 gp
-- [[Tome Of Clear Thought Xdmg]] - 0 gp
-- [[Tome Of Clear Thought Xdmg (Items)]] - 0 gp
-- [[Tome Of Clear Thought Xdmg (Items)]] - 0 gp
-- [[Tome Of Leadership And Influence Xdmg]] - 0 gp
-- [[Tome Of Leadership And Influence Xdmg (Items)]] - 0 gp
-- [[Tome Of Leadership And Influence Xdmg (Items)]] - 0 gp
-- [[Tome Of Strahd Cos]] - 0 gp
-- [[Tome Of Strahd Cos (Items)]] - 0 gp
-- [[Tome Of Strahd Cos (Items)]] - 0 gp
-- [[Tome Of The Stilled Tongue Xdmg]] - 0 gp
-- [[Tome Of The Stilled Tongue Xdmg (Items)]] - 0 gp
-- [[Tome Of The Stilled Tongue Xdmg (Items)]] - 0 gp
-- [[Tome Of Understanding Xdmg]] - 0 gp
-- [[Tome Of Understanding Xdmg (Items)]] - 0 gp
-- [[Tome Of Understanding Xdmg (Items)]] - 0 gp
+- [[tinkers-tools-xphb (items)]] - 0 gp
+- [[tinkers-tools-xphb (items)]] - 0 gp
+- [[Tome of Clear Thought Xdmg]] - 0 gp
+- [[Tome of Clear Thought Xdmg]] - 0 gp
+- [[Tome of Clear Thought Xdmg]] - 0 gp
+- [[tome-of-leadership-and-influence-xdmg (items)]] - 0 gp
+- [[tome-of-leadership-and-influence-xdmg (items)]] - 0 gp
+- [[tome-of-leadership-and-influence-xdmg (items)]] - 0 gp
+- [[Tome of Strahd Cos]] - 0 gp
+- [[Tome of Strahd Cos]] - 0 gp
+- [[Tome of Strahd Cos]] - 0 gp
+- [[Tome of the Stilled Tongue Xdmg]] - 0 gp
+- [[Tome of the Stilled Tongue Xdmg]] - 0 gp
+- [[Tome of the Stilled Tongue Xdmg]] - 0 gp
+- [[tome-of-understanding-xdmg (items)]] - 0 gp
+- [[tome-of-understanding-xdmg (items)]] - 0 gp
+- [[tome-of-understanding-xdmg (items)]] - 0 gp
 - [[Topaz Xdmg]] - 0 gp
-- [[Topaz Xdmg (Items)]] - 0 gp
-- [[Topaz Xdmg (Items)]] - 0 gp
+- [[Topaz Xdmg]] - 0 gp
+- [[Topaz Xdmg]] - 0 gp
 - [[Torch Xphb]] - 0 gp
-- [[Torch Xphb (Items)]] - 0 gp
-- [[Torch Xphb (Items)]] - 0 gp
+- [[Torch Xphb]] - 0 gp
+- [[Torch Xphb]] - 0 gp
 - [[Torpor Xdmg]] - 0 gp
-- [[Torpor Xdmg (Items)]] - 0 gp
-- [[Torpor Xdmg (Items)]] - 0 gp
-- [[Totem]] - 0 gp
+- [[Torpor Xdmg]] - 0 gp
+- [[Torpor Xdmg]] - 0 gp
+- [[totem]] - 0 gp
 - [[Tourmaline Xdmg]] - 0 gp
-- [[Tourmaline Xdmg (Items)]] - 0 gp
-- [[Tourmaline Xdmg (Items)]] - 0 gp
+- [[tourmaline-xdmg (items)]] - 0 gp
+- [[tourmaline-xdmg (items)]] - 0 gp
 - [[Travelers Clothes Xphb]] - 0 gp
-- [[Travelers Clothes Xphb (Items)]] - 0 gp
-- [[Travelers Clothes Xphb (Items)]] - 0 gp
+- [[travelers-clothes-xphb (items)]] - 0 gp
+- [[travelers-clothes-xphb (items)]] - 0 gp
 - [[Trident Xphb]] - 0 gp
-- [[Trident Xphb (Items)]] - 0 gp
-- [[Trident Xphb (Items)]] - 0 gp
+- [[trident-xphb (items)]] - 0 gp
+- [[trident-xphb (items)]] - 0 gp
 - [[Trinket Cos]] - 0 gp
-- [[Trinket Cos (Items)]] - 0 gp
-- [[Trinket Cos (Items)]] - 0 gp
+- [[trinket-cos (items)]] - 0 gp
+- [[trinket-cos (items)]] - 0 gp
 - [[Trinket Xphb]] - 0 gp
-- [[Trinket Xphb (Items)]] - 0 gp
-- [[Trinket Xphb (Items)]] - 0 gp
+- [[trinket-xphb (items)]] - 0 gp
+- [[trinket-xphb (items)]] - 0 gp
 - [[Truth Serum Xdmg]] - 0 gp
-- [[Truth Serum Xdmg (Items)]] - 0 gp
-- [[Truth Serum Xdmg (Items)]] - 0 gp
+- [[truth-serum-xdmg (items)]] - 0 gp
+- [[truth-serum-xdmg (items)]] - 0 gp
 - [[Turquoise Xdmg]] - 0 gp
-- [[Turquoise Xdmg (Items)]] - 0 gp
-- [[Turquoise Xdmg (Items)]] - 0 gp
+- [[turquoise-xdmg (items)]] - 0 gp
+- [[turquoise-xdmg (items)]] - 0 gp
 - [[Unbreakable Arrow Xge]] - 0 gp
-- [[Unbreakable Arrow Xge (Items)]] - 0 gp
-- [[Unbreakable Arrow Xge (Items)]] - 0 gp
+- [[Unbreakable Arrow Xge]] - 0 gp
+- [[Unbreakable Arrow Xge]] - 0 gp
 - [[Universal Solvent Xdmg]] - 0 gp
-- [[Universal Solvent Xdmg (Items)]] - 0 gp
-- [[Universal Solvent Xdmg (Items)]] - 0 gp
+- [[universal-solvent-xdmg (items)]] - 0 gp
+- [[universal-solvent-xdmg (items)]] - 0 gp
 - [[Veterans Cane Xdmg]] - 0 gp
-- [[Veterans Cane Xdmg (Items)]] - 0 gp
-- [[Veterans Cane Xdmg (Items)]] - 0 gp
+- [[veterans-cane-xdmg (items)]] - 0 gp
+- [[veterans-cane-xdmg (items)]] - 0 gp
 - [[Vial Xphb]] - 0 gp
-- [[Vial Xphb (Items)]] - 0 gp
-- [[Vial Xphb (Items)]] - 0 gp
+- [[Vial Xphb]] - 0 gp
+- [[Vial Xphb]] - 0 gp
 - [[Vicious Weapon Xdmg]] - 0 gp
-- [[Vicious Weapon Xdmg (Items)]] - 0 gp
-- [[Vicious Weapon Xdmg (Items)]] - 0 gp
+- [[vicious-weapon-xdmg (items)]] - 0 gp
+- [[vicious-weapon-xdmg (items)]] - 0 gp
 - [[Viol Xphb]] - 0 gp
-- [[Viol Xphb (Items)]] - 0 gp
-- [[Viol Xphb (Items)]] - 0 gp
+- [[Viol Xphb]] - 0 gp
+- [[Viol Xphb]] - 0 gp
 - [[Wagon Xphb]] - 0 gp
-- [[Wagon Xphb (Items)]] - 0 gp
-- [[Wagon Xphb (Items)]] - 0 gp
+- [[wagon-xphb (items)]] - 0 gp
+- [[wagon-xphb (items)]] - 0 gp
 - [[Walloping Ammunition Xdmg]] - 0 gp
-- [[Walloping Ammunition Xdmg (Items)]] - 0 gp
-- [[Walloping Ammunition Xdmg (Items)]] - 0 gp
-- [[Wand Of Conducting Xdmg]] - 0 gp
-- [[Wand Of Conducting Xdmg (Items)]] - 0 gp
-- [[Wand Of Conducting Xdmg (Items)]] - 0 gp
-- [[Wand Of Magic Detection Xdmg]] - 0 gp
-- [[Wand Of Magic Detection Xdmg (Items)]] - 0 gp
-- [[Wand Of Magic Detection Xdmg (Items)]] - 0 gp
-- [[Wand Of Magic Missiles Xdmg]] - 0 gp
-- [[Wand Of Magic Missiles Xdmg (Items)]] - 0 gp
-- [[Wand Of Magic Missiles Xdmg (Items)]] - 0 gp
-- [[Wand Of Orcus Xdmg]] - 0 gp
-- [[Wand Of Orcus Xdmg (Items)]] - 0 gp
-- [[Wand Of Orcus Xdmg (Items)]] - 0 gp
-- [[Wand Of Pyrotechnics Xdmg]] - 0 gp
-- [[Wand Of Pyrotechnics Xdmg (Items)]] - 0 gp
-- [[Wand Of Pyrotechnics Xdmg (Items)]] - 0 gp
-- [[Wand Of Scowls Xge]] - 0 gp
-- [[Wand Of Scowls Xge (Items)]] - 0 gp
-- [[Wand Of Scowls Xge (Items)]] - 0 gp
-- [[Wand Of Secrets Xdmg]] - 0 gp
-- [[Wand Of Secrets Xdmg (Items)]] - 0 gp
-- [[Wand Of Secrets Xdmg (Items)]] - 0 gp
-- [[Wand Of Smiles Xge]] - 0 gp
-- [[Wand Of Smiles Xge (Items)]] - 0 gp
-- [[Wand Of Smiles Xge (Items)]] - 0 gp
-- [[Wand Of Wonder Xdmg]] - 0 gp
-- [[Wand Of Wonder Xdmg (Items)]] - 0 gp
-- [[Wand Of Wonder Xdmg (Items)]] - 0 gp
+- [[Walloping Ammunition Xdmg]] - 0 gp
+- [[Walloping Ammunition Xdmg]] - 0 gp
+- [[Wand of Conducting Xdmg]] - 0 gp
+- [[Wand of Conducting Xdmg]] - 0 gp
+- [[Wand of Conducting Xdmg]] - 0 gp
+- [[Wand of Magic Detection Xdmg]] - 0 gp
+- [[Wand of Magic Detection Xdmg]] - 0 gp
+- [[Wand of Magic Detection Xdmg]] - 0 gp
+- [[Magic Missile]] - 0 gp
+- [[Magic Missile]] - 0 gp
+- [[Magic Missile]] - 0 gp
+- [[Wand of Orcus Xdmg]] - 0 gp
+- [[Wand of Orcus Xdmg]] - 0 gp
+- [[Wand of Orcus Xdmg]] - 0 gp
+- [[wand-of-pyrotechnics-xdmg (items)]] - 0 gp
+- [[wand-of-pyrotechnics-xdmg (items)]] - 0 gp
+- [[wand-of-pyrotechnics-xdmg (items)]] - 0 gp
+- [[wand-of-scowls-xge (items)]] - 0 gp
+- [[wand-of-scowls-xge (items)]] - 0 gp
+- [[wand-of-scowls-xge (items)]] - 0 gp
+- [[wand-of-secrets-xdmg (items)]] - 0 gp
+- [[wand-of-secrets-xdmg (items)]] - 0 gp
+- [[wand-of-secrets-xdmg (items)]] - 0 gp
+- [[Wand of Smiles Xge]] - 0 gp
+- [[Wand of Smiles Xge]] - 0 gp
+- [[Wand of Smiles Xge]] - 0 gp
+- [[wand-of-wonder-xdmg (items)]] - 0 gp
+- [[wand-of-wonder-xdmg (items)]] - 0 gp
+- [[wand-of-wonder-xdmg (items)]] - 0 gp
 - [[Wand Xphb]] - 0 gp
-- [[Wand Xphb (Items)]] - 0 gp
-- [[Wand Xphb (Items)]] - 0 gp
+- [[wand-xphb (items)]] - 0 gp
+- [[wand-xphb (items)]] - 0 gp
 - [[War Pick Xphb]] - 0 gp
-- [[War Pick Xphb (Items)]] - 0 gp
-- [[War Pick Xphb (Items)]] - 0 gp
+- [[War Pick Xphb]] - 0 gp
+- [[War Pick Xphb]] - 0 gp
 - [[Warhammer Xphb]] - 0 gp
-- [[Warhammer Xphb (Items)]] - 0 gp
-- [[Warhammer Xphb (Items)]] - 0 gp
+- [[warhammer-xphb (items)]] - 0 gp
+- [[warhammer-xphb (items)]] - 0 gp
 - [[Warhorse Xphb]] - 0 gp
-- [[Warhorse Xphb (Items)]] - 0 gp
-- [[Warhorse Xphb (Items)]] - 0 gp
+- [[warhorse-xphb (items)]] - 0 gp
+- [[warhorse-xphb (items)]] - 0 gp
 - [[Warship Xphb]] - 0 gp
-- [[Warship Xphb (Items)]] - 0 gp
-- [[Warship Xphb (Items)]] - 0 gp
+- [[Warship Xphb]] - 0 gp
+- [[Warship Xphb]] - 0 gp
 - [[Waterskin Xphb]] - 0 gp
-- [[Waterskin Xphb (Items)]] - 0 gp
-- [[Waterskin Xphb (Items)]] - 0 gp
+- [[waterskin-xphb (items)]] - 0 gp
+- [[waterskin-xphb (items)]] - 0 gp
 - [[Weavers Tools Xphb]] - 0 gp
-- [[Weavers Tools Xphb (Items)]] - 0 gp
-- [[Weavers Tools Xphb (Items)]] - 0 gp
-- [[Well Made Tapestry That Is 10 Feet By 10]] - 0 gp
-- [[Well Made Tapestry That Is 10 Feet By 10 Feet Xdmg]] - 0 gp
-- [[Well Of Many Worlds Xdmg]] - 0 gp
-- [[Well Of Many Worlds Xdmg (Items)]] - 0 gp
-- [[Well Of Many Worlds Xdmg (Items)]] - 0 gp
+- [[Weavers Tools Xphb]] - 0 gp
+- [[Weavers Tools Xphb]] - 0 gp
+- [[Well Made Tapestry That Is 10 Feet by 10]] - 0 gp
+- [[Well Made Tapestry That Is 10 Feet by 10]] - 0 gp
+- [[Well of Many Worlds Xdmg]] - 0 gp
+- [[Well of Many Worlds Xdmg]] - 0 gp
+- [[Well of Many Worlds Xdmg]] - 0 gp
 - [[Wheat Xdmg]] - 0 gp
-- [[Wheat Xdmg (Items)]] - 0 gp
-- [[Wheat Xdmg (Items)]] - 0 gp
-- [[Whetstone]] - 0 gp
+- [[wheat-xdmg (items)]] - 0 gp
+- [[wheat-xdmg (items)]] - 0 gp
+- [[whetstone]] - 0 gp
 - [[Whip Xphb]] - 0 gp
-- [[Whip Xphb (Items)]] - 0 gp
-- [[Whip Xphb (Items)]] - 0 gp
+- [[Whip Xphb]] - 0 gp
+- [[Whip Xphb]] - 0 gp
 - [[Wind Fan Xdmg]] - 0 gp
-- [[Wind Fan Xdmg (Items)]] - 0 gp
-- [[Wind Fan Xdmg (Items)]] - 0 gp
+- [[Wind Fan Xdmg]] - 0 gp
+- [[Wind Fan Xdmg]] - 0 gp
 - [[Witherbloom Trinket Scc]] - 0 gp
-- [[Witherbloom Trinket Scc (Items)]] - 0 gp
-- [[Witherbloom Trinket Scc (Items)]] - 0 gp
+- [[witherbloom-trinket-scc (items)]] - 0 gp
+- [[witherbloom-trinket-scc (items)]] - 0 gp
 - [[Woodcarvers Tools Xphb]] - 0 gp
-- [[Woodcarvers Tools Xphb (Items)]] - 0 gp
-- [[Woodcarvers Tools Xphb (Items)]] - 0 gp
+- [[Woodcarvers Tools Xphb]] - 0 gp
+- [[Woodcarvers Tools Xphb]] - 0 gp
 - [[Wooden Staff Xphb]] - 0 gp
-- [[Wooden Staff Xphb (Items)]] - 0 gp
-- [[Wooden Staff Xphb (Items)]] - 0 gp
-- [[Wraps Of Unarmed Power Xdmg]] - 0 gp
-- [[Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
-- [[Wraps Of Unarmed Power Xdmg (Items)]] - 0 gp
+- [[Staff Xphb]] - 0 gp
+- [[Staff Xphb]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
+- [[3-wraps-of-unarmed-power-xdmg (items)]] - 0 gp
 - [[Wyvern Poison Xdmg]] - 0 gp
-- [[Wyvern Poison Xdmg (Items)]] - 0 gp
-- [[Wyvern Poison Xdmg (Items)]] - 0 gp
+- [[Wyvern Poison Xdmg]] - 0 gp
+- [[Wyvern Poison Xdmg]] - 0 gp
 - [[Yellow Sapphire Xdmg]] - 0 gp
-- [[Yellow Sapphire Xdmg (Items)]] - 0 gp
-- [[Yellow Sapphire Xdmg (Items)]] - 0 gp
+- [[yellow-sapphire-xdmg (items)]] - 0 gp
+- [[yellow-sapphire-xdmg (items)]] - 0 gp
 - [[Yew Wand Xphb]] - 0 gp
-- [[Yew Wand Xphb (Items)]] - 0 gp
-- [[Yew Wand Xphb (Items)]] - 0 gp
+- [[wand-xphb (items)]] - 0 gp
+- [[wand-xphb (items)]] - 0 gp
 - [[Zircon Xdmg]] - 0 gp
-- [[Zircon Xdmg (Items)]] - 0 gp
-- [[Zircon Xdmg (Items)]] - 0 gp
+- [[Zircon Xdmg]] - 0 gp
+- [[Zircon Xdmg]] - 0 gp
 
 ## 🔮 Magical Items
 
 ### Common
 
-- [[02 Worldbuilding Lore Map Of The Whispering Expanse]] (A) - 0 gp
-- [[1 Rod Of The Pact Keeper Xdmg]] (A) - 0 gp
-- [[1 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[1 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[1 Wand Of The War Mage Xdmg]] (A) - 0 gp
-- [[1 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[1 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[12 Research D&D Statblocks High Priestess Celeste Dawnbringer]] (A) - 0 gp
-- [[2 Rod Of The Pact Keeper Xdmg]] (A) - 0 gp
-- [[2 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[2 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[2 Wand Of The War Mage Xdmg]] (A) - 0 gp
-- [[2 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[2 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[3 Rod Of The Pact Keeper Xdmg]] (A) - 0 gp
-- [[3 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[3 Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[3 Wand Of The War Mage Xdmg]] (A) - 0 gp
-- [[3 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[3 Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[Amulet Of Health Xdmg]] (A) - 0 gp
-- [[Amulet Of Health Xdmg (Items)]] (A) - 0 gp
-- [[Amulet Of Health Xdmg (Items)]] (A) - 0 gp
-- [[Amulet Of Proof Against Detection And]] (A) - 0 gp
-- [[Amulet Of Proof Against Detection And Location Xdmg]] (A) - 0 gp
-- [[Amulet Of The Planes Xdmg]] (A) - 0 gp
-- [[Amulet Of The Planes Xdmg (Items)]] (A) - 0 gp
-- [[Amulet Of The Planes Xdmg (Items)]] (A) - 0 gp
+- [[Map of the Whispering Expanse]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[Wand of the War Mage Xdmg]] (A) - 0 gp
+- [[Wand of the War Mage Xdmg]] (A) - 0 gp
+- [[Wand of the War Mage Xdmg]] (A) - 0 gp
+- [[High Priestess Celeste]] (A) - 0 gp
+- [[2 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[2 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[2 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[3 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[3 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[3 Rod of the Pact Keeper Xdmg]] (A) - 0 gp
+- [[3-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[3-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[3-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[Amulet of Health Xdmg]] (A) - 0 gp
+- [[Amulet of Health Xdmg]] (A) - 0 gp
+- [[Amulet of Health Xdmg]] (A) - 0 gp
+- [[Amulet of Proof Against Detection and]] (A) - 0 gp
+- [[Amulet of Proof Against Detection and]] (A) - 0 gp
+- [[Amulet of the Planes Xdmg]] (A) - 0 gp
+- [[Amulet of the Planes Xdmg]] (A) - 0 gp
+- [[Amulet of the Planes Xdmg]] (A) - 0 gp
 - [[Baba Yagas Dancing Broom Xdmg]] (A) - 0 gp
-- [[Baba Yagas Dancing Broom Xdmg (Items)]] (A) - 0 gp
-- [[Baba Yagas Dancing Broom Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Cloud Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Cloud Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Cloud Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Dwarvenkind Xdmg]] (A) - 0 gp
-- [[Belt Of Dwarvenkind Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Dwarvenkind Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Fire Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Fire Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Fire Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Frost Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Frost Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Frost Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Hill Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Hill Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Hill Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Stone Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Stone Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Stone Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Storm Giant Strength Xdmg]] (A) - 0 gp
-- [[Belt Of Storm Giant Strength Xdmg (Items)]] (A) - 0 gp
-- [[Belt Of Storm Giant Strength Xdmg (Items)]] (A) - 0 gp
+- [[Baba Yagas Dancing Broom Xdmg]] (A) - 0 gp
+- [[Baba Yagas Dancing Broom Xdmg]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[belt-of-dwarvenkind-xdmg (items)]] (A) - 0 gp
+- [[belt-of-dwarvenkind-xdmg (items)]] (A) - 0 gp
+- [[belt-of-dwarvenkind-xdmg (items)]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[giant]] (A) - 0 gp
+- [[belt-of-storm-giant-strength-xdmg (items)]] (A) - 0 gp
+- [[belt-of-storm-giant-strength-xdmg (items)]] (A) - 0 gp
+- [[belt-of-storm-giant-strength-xdmg (items)]] (A) - 0 gp
 - [[Black Dragon Mask Hotdq]] (A) - 0 gp
-- [[Black Dragon Mask Hotdq (Items)]] (A) - 0 gp
-- [[Black Dragon Mask Hotdq (Items)]] (A) - 0 gp
+- [[black-dragon-mask-hotdq (items)]] (A) - 0 gp
+- [[black-dragon-mask-hotdq (items)]] (A) - 0 gp
 - [[Blackrazor Xdmg]] (A) - 0 gp
-- [[Blackrazor Xdmg (Items)]] (A) - 0 gp
-- [[Blackrazor Xdmg (Items)]] (A) - 0 gp
+- [[Blackrazor Xdmg]] (A) - 0 gp
+- [[Blackrazor Xdmg]] (A) - 0 gp
 - [[Blood Spear Cos]] (A) - 0 gp
-- [[Blood Spear Cos (Items)]] (A) - 0 gp
-- [[Blood Spear Cos (Items)]] (A) - 0 gp
-- [[Boots Of Levitation Xdmg]] (A) - 0 gp
-- [[Boots Of Levitation Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of Levitation Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of Speed Xdmg]] (A) - 0 gp
-- [[Boots Of Speed Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of Speed Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of Striding And Springing Xdmg]] (A) - 0 gp
-- [[Boots Of Striding And Springing Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of Striding And Springing Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of The Winterlands Xdmg]] (A) - 0 gp
-- [[Boots Of The Winterlands Xdmg (Items)]] (A) - 0 gp
-- [[Boots Of The Winterlands Xdmg (Items)]] (A) - 0 gp
-- [[Bracers Of Archery Xdmg]] (A) - 0 gp
-- [[Bracers Of Archery Xdmg (Items)]] (A) - 0 gp
-- [[Bracers Of Archery Xdmg (Items)]] (A) - 0 gp
-- [[Bracers Of Defense Xdmg]] (A) - 0 gp
-- [[Bracers Of Defense Xdmg (Items)]] (A) - 0 gp
-- [[Bracers Of Defense Xdmg (Items)]] (A) - 0 gp
-- [[Broom Of Flying Xdmg]] (A) - 0 gp
-- [[Broom Of Flying Xdmg (Items)]] (A) - 0 gp
-- [[Broom Of Flying Xdmg (Items)]] (A) - 0 gp
-- [[Candle Of Invocation Xdmg]] (A) - 0 gp
-- [[Candle Of Invocation Xdmg (Items)]] (A) - 0 gp
-- [[Candle Of Invocation Xdmg (Items)]] (A) - 0 gp
-- [[Cauldron Of Rebirth Xdmg]] (A) - 0 gp
-- [[Cauldron Of Rebirth Xdmg (Items)]] (A) - 0 gp
-- [[Cauldron Of Rebirth Xdmg (Items)]] (A) - 0 gp
+- [[Blood Spear Cos]] (A) - 0 gp
+- [[Blood Spear Cos]] (A) - 0 gp
+- [[boots-of-levitation-xdmg (items)]] (A) - 0 gp
+- [[boots-of-levitation-xdmg (items)]] (A) - 0 gp
+- [[boots-of-levitation-xdmg (items)]] (A) - 0 gp
+- [[Boots of Speed Xdmg]] (A) - 0 gp
+- [[Boots of Speed Xdmg]] (A) - 0 gp
+- [[Boots of Speed Xdmg]] (A) - 0 gp
+- [[Boots of Striding and Springing Xdmg]] (A) - 0 gp
+- [[Boots of Striding and Springing Xdmg]] (A) - 0 gp
+- [[Boots of Striding and Springing Xdmg]] (A) - 0 gp
+- [[Boots of the Winterlands Xdmg]] (A) - 0 gp
+- [[Boots of the Winterlands Xdmg]] (A) - 0 gp
+- [[Boots of the Winterlands Xdmg]] (A) - 0 gp
+- [[Bracers of Archery Xdmg]] (A) - 0 gp
+- [[Bracers of Archery Xdmg]] (A) - 0 gp
+- [[Bracers of Archery Xdmg]] (A) - 0 gp
+- [[bracers-of-defense-xdmg (items)]] (A) - 0 gp
+- [[bracers-of-defense-xdmg (items)]] (A) - 0 gp
+- [[bracers-of-defense-xdmg (items)]] (A) - 0 gp
+- [[broom-of-flying-xdmg (items)]] (A) - 0 gp
+- [[broom-of-flying-xdmg (items)]] (A) - 0 gp
+- [[broom-of-flying-xdmg (items)]] (A) - 0 gp
+- [[candle-of-invocation-xdmg (items)]] (A) - 0 gp
+- [[candle-of-invocation-xdmg (items)]] (A) - 0 gp
+- [[candle-of-invocation-xdmg (items)]] (A) - 0 gp
+- [[cauldron-of-rebirth-xdmg (items)]] (A) - 0 gp
+- [[cauldron-of-rebirth-xdmg (items)]] (A) - 0 gp
+- [[cauldron-of-rebirth-xdmg (items)]] (A) - 0 gp
 - [[Charlatans Die Xdmg]] (A) - 0 gp
-- [[Charlatans Die Xdmg (Items)]] (A) - 0 gp
-- [[Charlatans Die Xdmg (Items)]] (A) - 0 gp
-- [[Claws Of The Umber Hulk Pota]] (A) - 0 gp
-- [[Claws Of The Umber Hulk Pota (Items)]] (A) - 0 gp
-- [[Claws Of The Umber Hulk Pota (Items)]] (A) - 0 gp
-- [[Cloak Of Displacement Xdmg]] (A) - 0 gp
-- [[Cloak Of Displacement Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Displacement Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Elvenkind Xdmg]] (A) - 0 gp
-- [[Cloak Of Elvenkind Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Elvenkind Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Invisibility Xdmg]] (A) - 0 gp
-- [[Cloak Of Invisibility Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Invisibility Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Protection Xdmg]] (A) - 0 gp
-- [[Cloak Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of The Bat Xdmg]] (A) - 0 gp
-- [[Cloak Of The Bat Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of The Bat Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of The Manta Ray Xdmg]] (A) - 0 gp
-- [[Cloak Of The Manta Ray Xdmg (Items)]] (A) - 0 gp
-- [[Cloak Of The Manta Ray Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of Mind Reading Xdmg]] (A) - 0 gp
-- [[Crystal Ball Of Mind Reading Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of Mind Reading Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of Telepathy Xdmg]] (A) - 0 gp
-- [[Crystal Ball Of Telepathy Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of Telepathy Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of True Seeing Xdmg]] (A) - 0 gp
-- [[Crystal Ball Of True Seeing Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Of True Seeing Xdmg (Items)]] (A) - 0 gp
+- [[charlatans-die-xdmg (items)]] (A) - 0 gp
+- [[charlatans-die-xdmg (items)]] (A) - 0 gp
+- [[claws-of-the-umber-hulk-pota (items)]] (A) - 0 gp
+- [[claws-of-the-umber-hulk-pota (items)]] (A) - 0 gp
+- [[claws-of-the-umber-hulk-pota (items)]] (A) - 0 gp
+- [[cloak-of-displacement-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-displacement-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-displacement-xdmg (items)]] (A) - 0 gp
+- [[Cloak of Elvenkind Xdmg]] (A) - 0 gp
+- [[Cloak of Elvenkind Xdmg]] (A) - 0 gp
+- [[Cloak of Elvenkind Xdmg]] (A) - 0 gp
+- [[cloak-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-protection-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-protection-xdmg (items)]] (A) - 0 gp
+- [[cloak-of-protection-xdmg (items)]] (A) - 0 gp
+- [[Cloak of the Bat Xdmg]] (A) - 0 gp
+- [[Cloak of the Bat Xdmg]] (A) - 0 gp
+- [[Cloak of the Bat Xdmg]] (A) - 0 gp
+- [[Cloak of the Manta Ray Xdmg]] (A) - 0 gp
+- [[Cloak of the Manta Ray Xdmg]] (A) - 0 gp
+- [[Cloak of the Manta Ray Xdmg]] (A) - 0 gp
+- [[Crystal Ball of Mind Reading Xdmg]] (A) - 0 gp
+- [[Crystal Ball of Mind Reading Xdmg]] (A) - 0 gp
+- [[Crystal Ball of Mind Reading Xdmg]] (A) - 0 gp
+- [[crystal-ball-of-telepathy-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-of-telepathy-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-of-telepathy-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-of-true-seeing-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-of-true-seeing-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-of-true-seeing-xdmg (items)]] (A) - 0 gp
 - [[Crystal Ball Xdmg]] (A) - 0 gp
-- [[Crystal Ball Xdmg (Items)]] (A) - 0 gp
-- [[Crystal Ball Xdmg (Items)]] (A) - 0 gp
-- [[Cube Of Force Xdmg]] (A) - |
-- [[Cube Of Force Xdmg (Items)]] (A) - |
-- [[Cube Of Force Xdmg (Items)]] (A) - |
+- [[crystal-ball-xdmg (items)]] (A) - 0 gp
+- [[crystal-ball-xdmg (items)]] (A) - 0 gp
+- [[Cube of Force Xdmg]] (A) - |
+- [[Cube of Force Xdmg]] (A) - |
+- [[Cube of Force Xdmg]] (A) - |
 - [[Daerns Instant Fortress Xdmg]] (A) - 0 gp
-- [[Daerns Instant Fortress Xdmg (Items)]] (A) - 0 gp
-- [[Daerns Instant Fortress Xdmg (Items)]] (A) - 0 gp
+- [[Daerns Instant Fortress Xdmg]] (A) - 0 gp
+- [[Daerns Instant Fortress Xdmg]] (A) - 0 gp
 - [[Dark Shard Amulet Xdmg]] (A) - 0 gp
 - [[Dark Shard Amulet Xdmg]] (A) - 0 gp
-- [[Dark Shard Amulet Xdmg (Items)]] (A) - 0 gp
-- [[Dark Shard Amulet Xdmg (Items)]] (A) - 0 gp
+- [[dark-shard-amulet-xdmg (items)]] (A) - 0 gp
+- [[dark-shard-amulet-xdmg (items)]] (A) - 0 gp
 - [[Dawnbringer Oota]] (A) - 0 gp
-- [[Dawnbringer Oota (Items)]] (A) - 0 gp
-- [[Dawnbringer Oota (Items)]] (A) - 0 gp
+- [[Dawnbringer Oota]] (A) - 0 gp
+- [[Dawnbringer Oota]] (A) - 0 gp
 - [[Defender Xdmg]] (A) - 0 gp
-- [[Defender Xdmg (Items)]] (A) - 0 gp
-- [[Defender Xdmg (Items)]] (A) - 0 gp
+- [[defender-xdmg (items)]] (A) - 0 gp
+- [[defender-xdmg (items)]] (A) - 0 gp
 - [[Depth Pressure Rings]] (A) - Unknown
 - [[Drown Pota]] (A) - 0 gp
-- [[Drown Pota (Items)]] (A) - 0 gp
-- [[Drown Pota (Items)]] (A) - 0 gp
+- [[Drown Pota]] (A) - 0 gp
+- [[Drown Pota]] (A) - 0 gp
 - [[Dwarven Thrower Xdmg]] (A) - 0 gp
-- [[Dwarven Thrower Xdmg (Items)]] (A) - 0 gp
-- [[Dwarven Thrower Xdmg (Items)]] (A) - 0 gp
+- [[dwarven-thrower-xdmg (items)]] (A) - 0 gp
+- [[dwarven-thrower-xdmg (items)]] (A) - 0 gp
 - [[Efreeti Chain Xdmg]] (A) - 0 gp
-- [[Efreeti Chain Xdmg (Items)]] (A) - 0 gp
-- [[Efreeti Chain Xdmg (Items)]] (A) - 0 gp
+- [[Efreeti Chain Xdmg]] (A) - 0 gp
+- [[Efreeti Chain Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Cantrip Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Cantrip Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Cantrip Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Staff Cantrip Xdmg]] (A) - 0 gp
+- [[Enspelled Staff Cantrip Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Level 1 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 1 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 1 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Staff Level 1 Xdmg]] (A) - 0 gp
+- [[Enspelled Staff Level 1 Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Level 2 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 2 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 2 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-staff-level-2-xdmg (items)]] (A) - 0 gp
+- [[enspelled-staff-level-2-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Staff Level 3 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 3 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 3 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-staff-level-3-xdmg (items)]] (A) - 0 gp
+- [[enspelled-staff-level-3-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Staff Level 4 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 4 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 4 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Staff Level 4 Xdmg]] (A) - 0 gp
+- [[Enspelled Staff Level 4 Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Level 5 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 5 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 5 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Staff Level 5 Xdmg]] (A) - 0 gp
+- [[Enspelled Staff Level 5 Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Level 6 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 6 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 6 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-staff-level-6-xdmg (items)]] (A) - 0 gp
+- [[enspelled-staff-level-6-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Staff Level 7 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 7 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 7 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Staff Level 7 Xdmg]] (A) - 0 gp
+- [[Enspelled Staff Level 7 Xdmg]] (A) - 0 gp
 - [[Enspelled Staff Level 8 Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Level 8 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Level 8 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-staff-level-8-xdmg (items)]] (A) - 0 gp
+- [[enspelled-staff-level-8-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Staff Xdmg]] (A) - 0 gp
-- [[Enspelled Staff Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Staff Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-staff-xdmg (items)]] (A) - 0 gp
+- [[enspelled-staff-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Cantrip Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Cantrip Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Cantrip Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Weapon Cantrip Xdmg]] (A) - 0 gp
+- [[Enspelled Weapon Cantrip Xdmg]] (A) - 0 gp
 - [[Enspelled Weapon Level 1 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 1 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 1 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Weapon Level 1 Xdmg]] (A) - 0 gp
+- [[Enspelled Weapon Level 1 Xdmg]] (A) - 0 gp
 - [[Enspelled Weapon Level 2 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 2 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 2 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-level-2-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-level-2-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Level 3 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 3 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 3 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-level-3-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-level-3-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Level 4 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 4 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 4 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-level-4-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-level-4-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Level 5 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 5 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 5 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-level-5-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-level-5-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Level 6 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 6 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 6 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Weapon Level 6 Xdmg]] (A) - 0 gp
+- [[Enspelled Weapon Level 6 Xdmg]] (A) - 0 gp
 - [[Enspelled Weapon Level 7 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 7 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 7 Xdmg (Items)]] (A) - 0 gp
+- [[Enspelled Weapon Level 7 Xdmg]] (A) - 0 gp
+- [[Enspelled Weapon Level 7 Xdmg]] (A) - 0 gp
 - [[Enspelled Weapon Level 8 Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Level 8 Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Level 8 Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-level-8-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-level-8-xdmg (items)]] (A) - 0 gp
 - [[Enspelled Weapon Xdmg]] (A) - 0 gp
-- [[Enspelled Weapon Xdmg (Items)]] (A) - 0 gp
-- [[Enspelled Weapon Xdmg (Items)]] (A) - 0 gp
-- [[Eye And Hand Of Vecna Xdmg]] (A) - |
-- [[Eye And Hand Of Vecna Xdmg (Items)]] (A) - |
-- [[Eye And Hand Of Vecna Xdmg (Items)]] (A) - |
-- [[Eye Of Vecna Xdmg]] (A) - |
-- [[Eye Of Vecna Xdmg (Items)]] (A) - |
-- [[Eye Of Vecna Xdmg (Items)]] (A) - |
-- [[Eyes Of Charming Xdmg]] (A) - 0 gp
-- [[Eyes Of Charming Xdmg (Items)]] (A) - 0 gp
-- [[Eyes Of Charming Xdmg (Items)]] (A) - 0 gp
+- [[enspelled-weapon-xdmg (items)]] (A) - 0 gp
+- [[enspelled-weapon-xdmg (items)]] (A) - 0 gp
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[Eye of Vecna Xdmg]] (A) - |
+- [[Eye of Vecna Xdmg]] (A) - |
+- [[Eye of Vecna Xdmg]] (A) - |
+- [[eyes-of-charming-xdmg (items)]] (A) - 0 gp
+- [[eyes-of-charming-xdmg (items)]] (A) - 0 gp
+- [[eyes-of-charming-xdmg (items)]] (A) - 0 gp
 - [[Flame Tongue Xdmg]] (A) - 0 gp
-- [[Flame Tongue Xdmg (Items)]] (A) - 0 gp
-- [[Flame Tongue Xdmg (Items)]] (A) - 0 gp
+- [[flame-tongue-xdmg (items)]] (A) - 0 gp
+- [[flame-tongue-xdmg (items)]] (A) - 0 gp
 - [[Frost Brand Xdmg]] (A) - 0 gp
-- [[Frost Brand Xdmg (Items)]] (A) - 0 gp
-- [[Frost Brand Xdmg (Items)]] (A) - 0 gp
-- [[Gauntlets Of Ogre Power Xdmg]] (A) - 0 gp
-- [[Gauntlets Of Ogre Power Xdmg (Items)]] (A) - 0 gp
-- [[Gauntlets Of Ogre Power Xdmg (Items)]] (A) - 0 gp
-- [[Gem Of Seeing Xdmg]] (A) - 0 gp
-- [[Gem Of Seeing Xdmg (Items)]] (A) - 0 gp
-- [[Gem Of Seeing Xdmg (Items)]] (A) - 0 gp
-- [[Gloves Of Missile Snaring Xdmg]] (A) - 0 gp
-- [[Gloves Of Missile Snaring Xdmg (Items)]] (A) - 0 gp
-- [[Gloves Of Missile Snaring Xdmg (Items)]] (A) - 0 gp
-- [[Gloves Of Swimming And Climbing Xdmg]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
-- [[Gloves Of Swimming And Climbing Xdmg (Items)]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
-- [[Gloves Of Swimming And Climbing Xdmg (Items)]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
+- [[frost-brand-xdmg (items)]] (A) - 0 gp
+- [[frost-brand-xdmg (items)]] (A) - 0 gp
+- [[Gauntlets of Ogre Power Xdmg]] (A) - 0 gp
+- [[Gauntlets of Ogre Power Xdmg]] (A) - 0 gp
+- [[Gauntlets of Ogre Power Xdmg]] (A) - 0 gp
+- [[Gem of Seeing Xdmg]] (A) - 0 gp
+- [[Gem of Seeing Xdmg]] (A) - 0 gp
+- [[Gem of Seeing Xdmg]] (A) - 0 gp
+- [[gloves-of-missile-snaring-xdmg (items)]] (A) - 0 gp
+- [[gloves-of-missile-snaring-xdmg (items)]] (A) - 0 gp
+- [[gloves-of-missile-snaring-xdmg (items)]] (A) - 0 gp
+- [[Gloves of Swimming and Climbing Xdmg]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
+- [[Gloves of Swimming and Climbing Xdmg]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
+- [[Gloves of Swimming and Climbing Xdmg]] (A) - you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
 - [[Goldwave Family Ring]] (A) - 0 gp
 - [[Gulthias Staff Cos]] (A) - 0 gp
-- [[Gulthias Staff Cos (Items)]] (A) - 0 gp
-- [[Gulthias Staff Cos (Items)]] (A) - 0 gp
-- [[Hammer Of Thunderbolts Xdmg]] (A) - 0 gp
-- [[Hammer Of Thunderbolts Xdmg (Items)]] (A) - 0 gp
-- [[Hammer Of Thunderbolts Xdmg (Items)]] (A) - 0 gp
-- [[Hand Of Vecna Xdmg]] (A) - |
-- [[Hand Of Vecna Xdmg (Items)]] (A) - |
-- [[Hand Of Vecna Xdmg (Items)]] (A) - |
-- [[Hat Of Disguise Xdmg]] (A) - 0 gp
-- [[Hat Of Disguise Xdmg (Items)]] (A) - 0 gp
-- [[Hat Of Disguise Xdmg (Items)]] (A) - 0 gp
-- [[Hat Of Wizardry Xdmg]] (A) - 0 gp
-- [[Hat Of Wizardry Xdmg (Items)]] (A) - 0 gp
-- [[Hat Of Wizardry Xdmg (Items)]] (A) - 0 gp
+- [[gulthias-staff-cos (items)]] (A) - 0 gp
+- [[gulthias-staff-cos (items)]] (A) - 0 gp
+- [[hammer-of-thunderbolts-xdmg (items)]] (A) - 0 gp
+- [[hammer-of-thunderbolts-xdmg (items)]] (A) - 0 gp
+- [[hammer-of-thunderbolts-xdmg (items)]] (A) - 0 gp
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[eye-and-hand-of-vecna-xdmg (items)]] (A) - |
+- [[Hat of Disguise Xdmg]] (A) - 0 gp
+- [[Hat of Disguise Xdmg]] (A) - 0 gp
+- [[Hat of Disguise Xdmg]] (A) - 0 gp
+- [[Hat of Wizardry Xdmg]] (A) - 0 gp
+- [[Hat of Wizardry Xdmg]] (A) - 0 gp
+- [[Hat of Wizardry Xdmg]] (A) - 0 gp
 - [[Hazirawn Hotdq]] (A) - 0 gp
-- [[Hazirawn Hotdq (Items)]] (A) - 0 gp
-- [[Hazirawn Hotdq (Items)]] (A) - 0 gp
-- [[Headband Of Intellect Xdmg]] (A) - 0 gp
-- [[Headband Of Intellect Xdmg (Items)]] (A) - 0 gp
-- [[Headband Of Intellect Xdmg (Items)]] (A) - 0 gp
+- [[Hazirawn Hotdq]] (A) - 0 gp
+- [[Hazirawn Hotdq]] (A) - 0 gp
+- [[Headband of Intellect Xdmg]] (A) - 0 gp
+- [[Headband of Intellect Xdmg]] (A) - 0 gp
+- [[Headband of Intellect Xdmg]] (A) - 0 gp
 - [[Holy Avenger Xdmg]] (A) - 0 gp
-- [[Holy Avenger Xdmg (Items)]] (A) - 0 gp
-- [[Holy Avenger Xdmg (Items)]] (A) - 0 gp
-- [[Holy Symbol Of Ravenkind Cos]] (A) - 0 gp
-- [[Holy Symbol Of Ravenkind Cos (Items)]] (A) - 0 gp
-- [[Holy Symbol Of Ravenkind Cos (Items)]] (A) - 0 gp
-- [[Icon Of Ravenloft Cos]] (A) - 0 gp
-- [[Icon Of Ravenloft Cos (Items)]] (A) - 0 gp
-- [[Icon Of Ravenloft Cos (Items)]] (A) - 0 gp
+- [[Holy Avenger Xdmg]] (A) - 0 gp
+- [[Holy Avenger Xdmg]] (A) - 0 gp
+- [[Holy Symbol of Ravenkind Cos]] (A) - 0 gp
+- [[Holy Symbol of Ravenkind Cos]] (A) - 0 gp
+- [[Holy Symbol of Ravenkind Cos]] (A) - 0 gp
+- [[Icon of Ravenloft Cos]] (A) - 0 gp
+- [[Icon of Ravenloft Cos]] (A) - 0 gp
+- [[Icon of Ravenloft Cos]] (A) - 0 gp
 - [[Improvised Weapons Xphb]] (A) - 0 gp
 - [[Infernal Tack Mtf]] (A) - 0 gp
-- [[Infernal Tack Mtf (Items)]] (A) - 0 gp
-- [[Infernal Tack Mtf (Items)]] (A) - 0 gp
+- [[Infernal Tack Mtf]] (A) - 0 gp
+- [[Infernal Tack Mtf]] (A) - 0 gp
 - [[Ioun Stone Absorption Xdmg]] (A) - 0 gp
-- [[Ioun Stone Absorption Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Absorption Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Absorption Xdmg]] (A) - 0 gp
+- [[Ioun Stone Absorption Xdmg]] (A) - 0 gp
 - [[Ioun Stone Agility Xdmg]] (A) - 0 gp
-- [[Ioun Stone Agility Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Agility Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-agility-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-agility-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Awareness Xdmg]] (A) - 0 gp
-- [[Ioun Stone Awareness Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Awareness Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-awareness-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-awareness-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Fortitude Xdmg]] (A) - 0 gp
-- [[Ioun Stone Fortitude Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Fortitude Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-fortitude-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-fortitude-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Greater Absorption Xdmg]] (A) - 0 gp
-- [[Ioun Stone Greater Absorption Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Greater Absorption Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-greater-absorption-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-greater-absorption-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Insight Xdmg]] (A) - 0 gp
-- [[Ioun Stone Insight Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Insight Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Insight Xdmg]] (A) - 0 gp
+- [[Ioun Stone Insight Xdmg]] (A) - 0 gp
 - [[Ioun Stone Intellect Xdmg]] (A) - 0 gp
-- [[Ioun Stone Intellect Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Intellect Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Intellect Xdmg]] (A) - 0 gp
+- [[Ioun Stone Intellect Xdmg]] (A) - 0 gp
 - [[Ioun Stone Leadership Xdmg]] (A) - 0 gp
-- [[Ioun Stone Leadership Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Leadership Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-leadership-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-leadership-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Mastery Xdmg]] (A) - 0 gp
-- [[Ioun Stone Mastery Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Mastery Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Mastery Xdmg]] (A) - 0 gp
+- [[Ioun Stone Mastery Xdmg]] (A) - 0 gp
 - [[Ioun Stone Protection Xdmg]] (A) - 0 gp
-- [[Ioun Stone Protection Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Protection Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-protection-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-protection-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Regeneration Xdmg]] (A) - 0 gp
-- [[Ioun Stone Regeneration Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Regeneration Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-regeneration-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-regeneration-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Reserve Xdmg]] (A) - 0 gp
-- [[Ioun Stone Reserve Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Reserve Xdmg (Items)]] (A) - 0 gp
+- [[ioun-stone-reserve-xdmg (items)]] (A) - 0 gp
+- [[ioun-stone-reserve-xdmg (items)]] (A) - 0 gp
 - [[Ioun Stone Strength Xdmg]] (A) - 0 gp
-- [[Ioun Stone Strength Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Strength Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Strength Xdmg]] (A) - 0 gp
+- [[Ioun Stone Strength Xdmg]] (A) - 0 gp
 - [[Ioun Stone Sustenance Xdmg]] (A) - 0 gp
-- [[Ioun Stone Sustenance Xdmg (Items)]] (A) - 0 gp
-- [[Ioun Stone Sustenance Xdmg (Items)]] (A) - 0 gp
+- [[Ioun Stone Sustenance Xdmg]] (A) - 0 gp
+- [[Ioun Stone Sustenance Xdmg]] (A) - 0 gp
 - [[Ironfang Pota]] (A) - 0 gp
-- [[Ironfang Pota (Items)]] (A) - 0 gp
-- [[Ironfang Pota (Items)]] (A) - 0 gp
-- [[Item Mastery#Cleave]] (A) - 0 gp
-- [[Item Mastery#Cleave]] (A) - 0 gp
-- [[Item Mastery#Graze]] (A) - 0 gp
-- [[Item Mastery#Graze]] (A) - 0 gp
-- [[Item Mastery#Nick]] (A) - 0 gp
-- [[Item Mastery#Nick]] (A) - 0 gp
-- [[Item Mastery#Push]] (A) - 0 gp
-- [[Item Mastery#Push]] (A) - 0 gp
-- [[Item Mastery#Sap]] (A) - 0 gp
-- [[Item Mastery#Sap]] (A) - 0 gp
-- [[Item Mastery#Slow]] (A) - 0 gp
-- [[Item Mastery#Slow]] (A) - 0 gp
-- [[Item Mastery#Topple]] (A) - 0 gp
-- [[Item Mastery#Topple]] (A) - 0 gp
-- [[Item Mastery#Vex]] (A) - 0 gp
-- [[Item Mastery#Vex]] (A) - 0 gp
-- [[Item Properties (Cli Reference)]] (A) - in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
-- [[Item Properties#Ammunition]] (A) - 0 gp
-- [[Item Properties#Ammunition]] (A) - 0 gp
-- [[Item Properties#Burst%20Fire]] (A) - 0 gp
-- [[Item Properties#Burst%20Fire]] (A) - 0 gp
-- [[Item Properties#Cursed%20Items]] (A) - 0 gp
-- [[Item Properties#Cursed%20Items]] (A) - 0 gp
-- [[Item Properties#Finesse]] (A) - 0 gp
-- [[Item Properties#Finesse]] (A) - 0 gp
-- [[Item Properties#Heavy]] (A) - 0 gp
-- [[Item Properties#Heavy]] (A) - 0 gp
-- [[Item Properties#Light]] (A) - 0 gp
-- [[Item Properties#Light]] (A) - 0 gp
-- [[Item Properties#Loading]] (A) - 0 gp
-- [[Item Properties#Loading]] (A) - 0 gp
-- [[Item Properties#Poison]] (A) - 0 gp
-- [[Item Properties#Poison]] (A) - 0 gp
-- [[Item Properties#Reach]] (A) - 0 gp
-- [[Item Properties#Reach]] (A) - 0 gp
-- [[Item Properties#Reload]] (A) - 0 gp
-- [[Item Properties#Reload]] (A) - 0 gp
-- [[Item Properties#Silvered%20Weapons]] (A) - 0 gp
-- [[Item Properties#Silvered%20Weapons]] (A) - 0 gp
-- [[Item Properties#Thrown]] (A) - 0 gp
-- [[Item Properties#Thrown]] (A) - 0 gp
-- [[Item Properties#Two Handed]] (A) - 0 gp
-- [[Item Properties#Two Handed]] (A) - 0 gp
-- [[Item Properties#Versatile]] (A) - 0 gp
-- [[Item Properties#Versatile]] (A) - 0 gp
-- [[Jakarions Staff Of Frost Cos]] (A) - 0 gp
-- [[Jakarions Staff Of Frost Cos (Items)]] (A) - 0 gp
-- [[Jakarions Staff Of Frost Cos (Items)]] (A) - 0 gp
+- [[Ironfang Pota]] (A) - 0 gp
+- [[Ironfang Pota]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[item mastery#Push]] (A) - 0 gp
+- [[item mastery#Push]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[Item Mastery]] (A) - 0 gp
+- [[item mastery#Topple]] (A) - 0 gp
+- [[item mastery#Topple]] (A) - 0 gp
+- [[item mastery#Vex]] (A) - 0 gp
+- [[item mastery#Vex]] (A) - 0 gp
+- [[item-properties (CLI_Reference)]] (A) - in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[item properties#Burst%20Fire]] (A) - 0 gp
+- [[item properties#Burst%20Fire]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[item properties#Finesse]] (A) - 0 gp
+- [[item properties#Finesse]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[item properties#Light]] (A) - 0 gp
+- [[item properties#Light]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[item properties#Reach]] (A) - 0 gp
+- [[item properties#Reach]] (A) - 0 gp
+- [[item properties#Reload]] (A) - 0 gp
+- [[item properties#Reload]] (A) - 0 gp
+- [[item properties#Silvered%20Weapons]] (A) - 0 gp
+- [[item properties#Silvered%20Weapons]] (A) - 0 gp
+- [[item properties#Thrown]] (A) - 0 gp
+- [[item properties#Thrown]] (A) - 0 gp
+- [[item-properties#Two-Handed]] (A) - 0 gp
+- [[item-properties#Two-Handed]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[Item Properties]] (A) - 0 gp
+- [[jakarions-staff-of-frost-cos (items)]] (A) - 0 gp
+- [[jakarions-staff-of-frost-cos (items)]] (A) - 0 gp
+- [[jakarions-staff-of-frost-cos (items)]] (A) - 0 gp
 - [[Lorehold Primer Scc]] (A) - 0 gp
-- [[Lorehold Primer Scc (Items)]] (A) - 0 gp
-- [[Lorehold Primer Scc (Items)]] (A) - 0 gp
-- [[Lost Crown Of Besilmer Pota]] (A) - 0 gp
-- [[Lost Crown Of Besilmer Pota (Items)]] (A) - 0 gp
-- [[Lost Crown Of Besilmer Pota (Items)]] (A) - 0 gp
+- [[Lorehold Primer Scc]] (A) - 0 gp
+- [[Lorehold Primer Scc]] (A) - 0 gp
+- [[Lost Crown of Besilmer Pota]] (A) - 0 gp
+- [[Lost Crown of Besilmer Pota]] (A) - 0 gp
+- [[Lost Crown of Besilmer Pota]] (A) - 0 gp
 - [[Luck Blade Xdmg]] (A) - 0 gp
-- [[Luck Blade Xdmg (Items)]] (A) - 0 gp
-- [[Luck Blade Xdmg (Items)]] (A) - 0 gp
-- [[Mantle Of Spell Resistance Xdmg]] (A) - 0 gp
-- [[Mantle Of Spell Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Mantle Of Spell Resistance Xdmg (Items)]] (A) - 0 gp
-- [[Mask Of The Dragon Queen Rot]] (A) - 0 gp
-- [[Mask Of The Dragon Queen Rot (Items)]] (A) - 0 gp
-- [[Mask Of The Dragon Queen Rot (Items)]] (A) - 0 gp
-- [[Medallion Of Thoughts Xdmg]] (A) - 0 gp
-- [[Medallion Of Thoughts Xdmg (Items)]] (A) - 0 gp
-- [[Medallion Of Thoughts Xdmg (Items)]] (A) - 0 gp
+- [[luck-blade-xdmg (items)]] (A) - 0 gp
+- [[luck-blade-xdmg (items)]] (A) - 0 gp
+- [[Mantle of Spell Resistance Xdmg]] (A) - 0 gp
+- [[Mantle of Spell Resistance Xdmg]] (A) - 0 gp
+- [[Mantle of Spell Resistance Xdmg]] (A) - 0 gp
+- [[mask-of-the-dragon-queen-rot (items)]] (A) - 0 gp
+- [[mask-of-the-dragon-queen-rot (items)]] (A) - 0 gp
+- [[mask-of-the-dragon-queen-rot (items)]] (A) - 0 gp
+- [[medallion-of-thoughts-xdmg (items)]] (A) - 0 gp
+- [[medallion-of-thoughts-xdmg (items)]] (A) - 0 gp
+- [[medallion-of-thoughts-xdmg (items)]] (A) - 0 gp
 - [[Mind Blade Vgm]] (A) - 0 gp
-- [[Mind Blade Vgm (Items)]] (A) - 0 gp
-- [[Mind Blade Vgm (Items)]] (A) - 0 gp
+- [[mind-blade-vgm (items)]] (A) - 0 gp
+- [[mind-blade-vgm (items)]] (A) - 0 gp
 - [[Mind Lash Vgm]] (A) - 0 gp
-- [[Mind Lash Vgm (Items)]] (A) - 0 gp
-- [[Mind Lash Vgm (Items)]] (A) - 0 gp
+- [[Mind Lash Vgm]] (A) - 0 gp
+- [[Mind Lash Vgm]] (A) - 0 gp
 - [[Moonblade Xdmg]] (A) - 0 gp
-- [[Moonblade Xdmg (Items)]] (A) - 0 gp
-- [[Moonblade Xdmg (Items)]] (A) - 0 gp
+- [[moonblade-xdmg (items)]] (A) - 0 gp
+- [[moonblade-xdmg (items)]] (A) - 0 gp
 - [[Natures Mantle Xdmg]] (A) - 0 gp
-- [[Natures Mantle Xdmg (Items)]] (A) - 0 gp
-- [[Natures Mantle Xdmg (Items)]] (A) - 0 gp
-- [[Necklace Of Adaptation Xdmg]] (A) - 0 gp
-- [[Necklace Of Adaptation Xdmg (Items)]] (A) - 0 gp
-- [[Necklace Of Adaptation Xdmg (Items)]] (A) - 0 gp
-- [[Necklace Of Prayer Beads Xdmg]] (A) - 0 gp
-- [[Necklace Of Prayer Beads Xdmg (Items)]] (A) - 0 gp
-- [[Necklace Of Prayer Beads Xdmg (Items)]] (A) - 0 gp
+- [[natures-mantle-xdmg (items)]] (A) - 0 gp
+- [[natures-mantle-xdmg (items)]] (A) - 0 gp
+- [[Necklace of Adaptation Xdmg]] (A) - 0 gp
+- [[Necklace of Adaptation Xdmg]] (A) - 0 gp
+- [[Necklace of Adaptation Xdmg]] (A) - 0 gp
+- [[necklace-of-prayer-beads-xdmg (items)]] (A) - 0 gp
+- [[necklace-of-prayer-beads-xdmg (items)]] (A) - 0 gp
+- [[necklace-of-prayer-beads-xdmg (items)]] (A) - 0 gp
 - [[Nine Lives Stealer Xdmg]] (A) - 0 gp
-- [[Nine Lives Stealer Xdmg (Items)]] (A) - 0 gp
-- [[Nine Lives Stealer Xdmg (Items)]] (A) - 0 gp
-- [[Orb Of Dragonkind Xdmg]] (A) - |
-- [[Orb Of Dragonkind Xdmg (Items)]] (A) - |
-- [[Orb Of Dragonkind Xdmg (Items)]] (A) - |
+- [[Nine Lives Stealer Xdmg]] (A) - 0 gp
+- [[Nine Lives Stealer Xdmg]] (A) - 0 gp
+- [[orb-of-dragonkind-xdmg (items)]] (A) - |
+- [[orb-of-dragonkind-xdmg (items)]] (A) - |
+- [[orb-of-dragonkind-xdmg (items)]] (A) - |
 - [[Orcsplitter Pota]] (A) - 0 gp
-- [[Orcsplitter Pota (Items)]] (A) - 0 gp
-- [[Orcsplitter Pota (Items)]] (A) - 0 gp
-- [[Pearl Of Power Xdmg]] (A) - 0 gp
-- [[Pearl Of Power Xdmg (Items)]] (A) - 0 gp
-- [[Pearl Of Power Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Health Xdmg]] (A) - 0 gp
-- [[Periapt Of Health Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Health Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Proof Against Poison Xdmg]] (A) - 0 gp
-- [[Periapt Of Proof Against Poison Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Proof Against Poison Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Wound Closure Xdmg]] (A) - 0 gp
-- [[Periapt Of Wound Closure Xdmg (Items)]] (A) - 0 gp
-- [[Periapt Of Wound Closure Xdmg (Items)]] (A) - 0 gp
-- [[Pipes Of The Sewers Xdmg]] (A) - 0 gp
-- [[Pipes Of The Sewers Xdmg (Items)]] (A) - 0 gp
-- [[Pipes Of The Sewers Xdmg (Items)]] (A) - 0 gp
-- [[Piwafwi Cloak Of Elvenkind Oota]] (A) - 0 gp
-- [[Piwafwi Cloak Of Elvenkind Oota (Items)]] (A) - 0 gp
-- [[Piwafwi Cloak Of Elvenkind Oota (Items)]] (A) - 0 gp
-- [[Piwafwi Of Fire Resistance Oota]] (A) - 0 gp
-- [[Piwafwi Of Fire Resistance Oota (Items)]] (A) - 0 gp
-- [[Piwafwi Of Fire Resistance Oota (Items)]] (A) - 0 gp
+- [[Orcsplitter Pota]] (A) - 0 gp
+- [[Orcsplitter Pota]] (A) - 0 gp
+- [[Pearl of Power Xdmg]] (A) - 0 gp
+- [[Pearl of Power Xdmg]] (A) - 0 gp
+- [[Pearl of Power Xdmg]] (A) - 0 gp
+- [[Periapt of Health Xdmg]] (A) - 0 gp
+- [[Periapt of Health Xdmg]] (A) - 0 gp
+- [[Periapt of Health Xdmg]] (A) - 0 gp
+- [[periapt-of-proof-against-poison-xdmg (items)]] (A) - 0 gp
+- [[periapt-of-proof-against-poison-xdmg (items)]] (A) - 0 gp
+- [[periapt-of-proof-against-poison-xdmg (items)]] (A) - 0 gp
+- [[periapt-of-wound-closure-xdmg (items)]] (A) - 0 gp
+- [[periapt-of-wound-closure-xdmg (items)]] (A) - 0 gp
+- [[periapt-of-wound-closure-xdmg (items)]] (A) - 0 gp
+- [[Pipes of the Sewers Xdmg]] (A) - 0 gp
+- [[Pipes of the Sewers Xdmg]] (A) - 0 gp
+- [[Pipes of the Sewers Xdmg]] (A) - 0 gp
+- [[Piwafwi Cloak of Elvenkind Oota]] (A) - 0 gp
+- [[Piwafwi Cloak of Elvenkind Oota]] (A) - 0 gp
+- [[Piwafwi Cloak of Elvenkind Oota]] (A) - 0 gp
+- [[Piwafwi of Fire Resistance Oota]] (A) - 0 gp
+- [[Piwafwi of Fire Resistance Oota]] (A) - 0 gp
+- [[Piwafwi of Fire Resistance Oota]] (A) - 0 gp
 - [[Prismari Primer Scc]] (A) - 0 gp
-- [[Prismari Primer Scc (Items)]] (A) - 0 gp
-- [[Prismari Primer Scc (Items)]] (A) - 0 gp
+- [[prismari-primer-scc (items)]] (A) - 0 gp
+- [[prismari-primer-scc (items)]] (A) - 0 gp
 - [[Quandrix Primer Scc]] (A) - 0 gp
-- [[Quandrix Primer Scc (Items)]] (A) - 0 gp
-- [[Quandrix Primer Scc (Items)]] (A) - 0 gp
-- [[Quarterstaff Of The Acrobat Xdmg]] (A) - 0 gp
-- [[Quarterstaff Of The Acrobat Xdmg (Items)]] (A) - 0 gp
-- [[Quarterstaff Of The Acrobat Xdmg (Items)]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Readme]] (A) - 0 gp
-- [[Ring Of Djinni Summoning Xdmg]] (A) - 0 gp
-- [[Ring Of Djinni Summoning Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Djinni Summoning Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Air Xdmg]] (A) - 0 gp
-- [[Ring Of Elemental Command Air Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Air Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Earth Xdmg]] (A) - 0 gp
-- [[Ring Of Elemental Command Earth Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Earth Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Fire Xdmg]] (A) - 0 gp
-- [[Ring Of Elemental Command Fire Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Fire Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Water Xdmg]] (A) - 0 gp
-- [[Ring Of Elemental Command Water Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Water Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Xdmg]] (A) - 0 gp
-- [[Ring Of Elemental Command Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Elemental Command Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Evasion Xdmg]] (A) - 0 gp
-- [[Ring Of Evasion Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Evasion Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Feather Falling Xdmg]] (A) - 0 gp
-- [[Ring Of Feather Falling Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Feather Falling Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Free Action Xdmg]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
-- [[Ring Of Free Action Xdmg (Items)]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
-- [[Ring Of Free Action Xdmg (Items)]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
-- [[Ring Of Invisibility Xdmg]] (A) - 0 gp
-- [[Ring Of Invisibility Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Invisibility Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Jumping Xdmg]] (A) - 0 gp
-- [[Ring Of Jumping Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Jumping Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Protection Xdmg]] (A) - 0 gp
-- [[Ring Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Regeneration Xdmg]] (A) - 0 gp
-- [[Ring Of Regeneration Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Regeneration Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Shooting Stars Xdmg]] (A) - 0 gp
-- [[Ring Of Shooting Stars Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Shooting Stars Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Spell Storing Xdmg]] (A) - 0 gp
-- [[Ring Of Spell Storing Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Spell Storing Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Spell Turning Xdmg]] (A) - 0 gp
-- [[Ring Of Spell Turning Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Spell Turning Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Telekinesis Xdmg]] (A) - 0 gp
-- [[Ring Of Telekinesis Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Telekinesis Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of The Ram Xdmg]] (A) - 0 gp
-- [[Ring Of The Ram Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of The Ram Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Warmth Xdmg]] (A) - 0 gp
-- [[Ring Of Warmth Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of Warmth Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of X Ray Vision Xdmg]] (A) - 0 gp
-- [[Ring Of X Ray Vision Xdmg (Items)]] (A) - 0 gp
-- [[Ring Of X Ray Vision Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Eyes Xdmg]] (A) - 0 gp
-- [[Robe Of Eyes Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Eyes Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Scintillating Colors Xdmg]] (A) - 0 gp
-- [[Robe Of Scintillating Colors Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Scintillating Colors Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Stars Xdmg]] (A) - 0 gp
-- [[Robe Of Stars Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of Stars Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of The Archmagi Xdmg]] (A) - 0 gp
-- [[Robe Of The Archmagi Xdmg (Items)]] (A) - 0 gp
-- [[Robe Of The Archmagi Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Absorption Xdmg]] (A) - 0 gp
-- [[Rod Of Absorption Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Absorption Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Alertness Xdmg]] (A) - 0 gp
-- [[Rod Of Alertness Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Alertness Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Lordly Might Xdmg]] (A) - 0 gp
-- [[Rod Of Lordly Might Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Lordly Might Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Resurrection Xdmg]] (A) - 0 gp
-- [[Rod Of Resurrection Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Resurrection Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Rulership Xdmg]] (A) - 0 gp
-- [[Rod Of Rulership Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of Rulership Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of The Pact Keeper Xdmg]] (A) - 0 gp
-- [[Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[Rod Of The Pact Keeper Xdmg (Items)]] (A) - 0 gp
-- [[Ruby Of The War Mage Xdmg]] (A) - 0 gp
-- [[Ruby Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[Ruby Of The War Mage Xdmg (Items)]] (A) - 0 gp
+- [[Quandrix Primer Scc]] (A) - 0 gp
+- [[Quandrix Primer Scc]] (A) - 0 gp
+- [[Quarterstaff of the Acrobat Xdmg]] (A) - 0 gp
+- [[Quarterstaff of the Acrobat Xdmg]] (A) - 0 gp
+- [[Quarterstaff of the Acrobat Xdmg]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[Readme Handouts Export (D&D_References)]] (A) - 0 gp
+- [[ring-of-djinni-summoning-xdmg (items)]] (A) - 0 gp
+- [[ring-of-djinni-summoning-xdmg (items)]] (A) - 0 gp
+- [[ring-of-djinni-summoning-xdmg (items)]] (A) - 0 gp
+- [[Ring of Elemental Command Air Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Air Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Air Xdmg]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[Ring of Elemental Command Fire Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Fire Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Fire Xdmg]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[elemental]] (A) - 0 gp
+- [[Ring of Elemental Command Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Xdmg]] (A) - 0 gp
+- [[Ring of Elemental Command Xdmg]] (A) - 0 gp
+- [[ring-of-evasion-xdmg (items)]] (A) - 0 gp
+- [[ring-of-evasion-xdmg (items)]] (A) - 0 gp
+- [[ring-of-evasion-xdmg (items)]] (A) - 0 gp
+- [[Ring of Feather Falling Xdmg]] (A) - 0 gp
+- [[Ring of Feather Falling Xdmg]] (A) - 0 gp
+- [[Ring of Feather Falling Xdmg]] (A) - 0 gp
+- [[Ring of Free Action Xdmg]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
+- [[Ring of Free Action Xdmg]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
+- [[Ring of Free Action Xdmg]] (A) - you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
+- [[ring-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[ring-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[ring-of-invisibility-xdmg (items)]] (A) - 0 gp
+- [[ring-of-jumping-xdmg (items)]] (A) - 0 gp
+- [[ring-of-jumping-xdmg (items)]] (A) - 0 gp
+- [[ring-of-jumping-xdmg (items)]] (A) - 0 gp
+- [[ring-of-protection-xdmg (items)]] (A) - 0 gp
+- [[ring-of-protection-xdmg (items)]] (A) - 0 gp
+- [[ring-of-protection-xdmg (items)]] (A) - 0 gp
+- [[ring-of-regeneration-xdmg (items)]] (A) - 0 gp
+- [[ring-of-regeneration-xdmg (items)]] (A) - 0 gp
+- [[ring-of-regeneration-xdmg (items)]] (A) - 0 gp
+- [[Ring of Shooting Stars Xdmg]] (A) - 0 gp
+- [[Ring of Shooting Stars Xdmg]] (A) - 0 gp
+- [[Ring of Shooting Stars Xdmg]] (A) - 0 gp
+- [[ring-of-spell-storing-xdmg (items)]] (A) - 0 gp
+- [[ring-of-spell-storing-xdmg (items)]] (A) - 0 gp
+- [[ring-of-spell-storing-xdmg (items)]] (A) - 0 gp
+- [[Ring of Spell Turning Xdmg]] (A) - 0 gp
+- [[Ring of Spell Turning Xdmg]] (A) - 0 gp
+- [[Ring of Spell Turning Xdmg]] (A) - 0 gp
+- [[Ring of Telekinesis Xdmg]] (A) - 0 gp
+- [[Ring of Telekinesis Xdmg]] (A) - 0 gp
+- [[Ring of Telekinesis Xdmg]] (A) - 0 gp
+- [[Ring of the Ram Xdmg]] (A) - 0 gp
+- [[Ring of the Ram Xdmg]] (A) - 0 gp
+- [[Ring of the Ram Xdmg]] (A) - 0 gp
+- [[Ring of Warmth Xdmg]] (A) - 0 gp
+- [[Ring of Warmth Xdmg]] (A) - 0 gp
+- [[Ring of Warmth Xdmg]] (A) - 0 gp
+- [[Ring of X Ray Vision Xdmg]] (A) - 0 gp
+- [[Ring of X Ray Vision Xdmg]] (A) - 0 gp
+- [[Ring of X Ray Vision Xdmg]] (A) - 0 gp
+- [[Robe of Eyes Xdmg]] (A) - 0 gp
+- [[Robe of Eyes Xdmg]] (A) - 0 gp
+- [[Robe of Eyes Xdmg]] (A) - 0 gp
+- [[robe-of-scintillating-colors-xdmg (items)]] (A) - 0 gp
+- [[robe-of-scintillating-colors-xdmg (items)]] (A) - 0 gp
+- [[robe-of-scintillating-colors-xdmg (items)]] (A) - 0 gp
+- [[robe-of-stars-xdmg (items)]] (A) - 0 gp
+- [[robe-of-stars-xdmg (items)]] (A) - 0 gp
+- [[robe-of-stars-xdmg (items)]] (A) - 0 gp
+- [[robe-of-the-archmagi-xdmg (items)]] (A) - 0 gp
+- [[robe-of-the-archmagi-xdmg (items)]] (A) - 0 gp
+- [[robe-of-the-archmagi-xdmg (items)]] (A) - 0 gp
+- [[rod-of-absorption-xdmg (items)]] (A) - 0 gp
+- [[rod-of-absorption-xdmg (items)]] (A) - 0 gp
+- [[rod-of-absorption-xdmg (items)]] (A) - 0 gp
+- [[Rod of Alertness Xdmg]] (A) - 0 gp
+- [[Rod of Alertness Xdmg]] (A) - 0 gp
+- [[Rod of Alertness Xdmg]] (A) - 0 gp
+- [[Rod of Lordly Might Xdmg]] (A) - 0 gp
+- [[Rod of Lordly Might Xdmg]] (A) - 0 gp
+- [[Rod of Lordly Might Xdmg]] (A) - 0 gp
+- [[Rod of Resurrection Xdmg]] (A) - 0 gp
+- [[Rod of Resurrection Xdmg]] (A) - 0 gp
+- [[Rod of Resurrection Xdmg]] (A) - 0 gp
+- [[rod-of-rulership-xdmg (items)]] (A) - 0 gp
+- [[rod-of-rulership-xdmg (items)]] (A) - 0 gp
+- [[rod-of-rulership-xdmg (items)]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[1-rod-of-the-pact-keeper-xdmg (items)]] (A) - 0 gp
+- [[ruby-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[ruby-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[ruby-of-the-war-mage-xdmg (items)]] (A) - 0 gp
 - [[Saint Markovias Thighbone Cos]] (A) - 0 gp
-- [[Saint Markovias Thighbone Cos (Items)]] (A) - 0 gp
-- [[Saint Markovias Thighbone Cos (Items)]] (A) - 0 gp
-- [[Scarab Of Protection Xdmg]] (A) - 0 gp
-- [[Scarab Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Scarab Of Protection Xdmg (Items)]] (A) - 0 gp
-- [[Scimitar Of Speed Xdmg]] (A) - 0 gp
-- [[Scimitar Of Speed Xdmg (Items)]] (A) - 0 gp
-- [[Scimitar Of Speed Xdmg (Items)]] (A) - 0 gp
+- [[saint-markovias-thighbone-cos (items)]] (A) - 0 gp
+- [[saint-markovias-thighbone-cos (items)]] (A) - 0 gp
+- [[scarab-of-protection-xdmg (items)]] (A) - 0 gp
+- [[scarab-of-protection-xdmg (items)]] (A) - 0 gp
+- [[scarab-of-protection-xdmg (items)]] (A) - 0 gp
+- [[Scimitar of Speed Xdmg]] (A) - 0 gp
+- [[Scimitar of Speed Xdmg]] (A) - 0 gp
+- [[Scimitar of Speed Xdmg]] (A) - 0 gp
 - [[Silverquill Primer Scc]] (A) - 0 gp
-- [[Silverquill Primer Scc (Items)]] (A) - 0 gp
-- [[Silverquill Primer Scc (Items)]] (A) - 0 gp
-- [[Slippers Of Spider Climbing Xdmg]] (A) - 0 gp
-- [[Slippers Of Spider Climbing Xdmg (Items)]] (A) - 0 gp
-- [[Slippers Of Spider Climbing Xdmg (Items)]] (A) - 0 gp
+- [[silverquill-primer-scc (items)]] (A) - 0 gp
+- [[silverquill-primer-scc (items)]] (A) - 0 gp
+- [[slippers-of-spider-climbing-xdmg (items)]] (A) - 0 gp
+- [[slippers-of-spider-climbing-xdmg (items)]] (A) - 0 gp
+- [[slippers-of-spider-climbing-xdmg (items)]] (A) - 0 gp
 - [[Spider Staff Lmop]] (A) - 0 gp
-- [[Spider Staff Lmop (Items)]] (A) - 0 gp
-- [[Spider Staff Lmop (Items)]] (A) - 0 gp
-- [[Staff Of Charming Xdmg]] (A) - 0 gp
-- [[Staff Of Charming Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Charming Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Defense Lmop]] (A) - 0 gp
-- [[Staff Of Defense Lmop (Items)]] (A) - 0 gp
-- [[Staff Of Defense Lmop (Items)]] (A) - 0 gp
-- [[Staff Of Fire Xdmg]] (A) - |
-- [[Staff Of Fire Xdmg (Items)]] (A) - |
-- [[Staff Of Fire Xdmg (Items)]] (A) - |
-- [[Staff Of Frost Xdmg]] (A) - |
-- [[Staff Of Frost Xdmg (Items)]] (A) - |
-- [[Staff Of Frost Xdmg (Items)]] (A) - |
-- [[Staff Of Healing Xdmg]] (A) - |
-- [[Staff Of Healing Xdmg (Items)]] (A) - |
-- [[Staff Of Healing Xdmg (Items)]] (A) - |
-- [[Staff Of Striking Xdmg]] (A) - 0 gp
-- [[Staff Of Striking Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Striking Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of The Adder Xdmg]] (A) - 0 gp
-- [[Staff Of The Adder Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of The Adder Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of The Python Xdmg]] (A) - 0 gp
-- [[Staff Of The Python Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of The Python Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of The Woodlands Xdmg]] (A) - |
-- [[Staff Of The Woodlands Xdmg (Items)]] (A) - |
-- [[Staff Of The Woodlands Xdmg (Items)]] (A) - |
-- [[Staff Of Thunder And Lightning Xdmg]] (A) - 0 gp
-- [[Staff Of Thunder And Lightning Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Thunder And Lightning Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Withering Xdmg]] (A) - 0 gp
-- [[Staff Of Withering Xdmg (Items)]] (A) - 0 gp
-- [[Staff Of Withering Xdmg (Items)]] (A) - 0 gp
-- [[Stone Of Good Luck Xdmg]] (A) - 0 gp
-- [[Stone Of Good Luck Xdmg (Items)]] (A) - 0 gp
-- [[Stone Of Good Luck Xdmg (Items)]] (A) - 0 gp
+- [[Spider Staff Lmop]] (A) - 0 gp
+- [[Spider Staff Lmop]] (A) - 0 gp
+- [[staff-of-charming-xdmg (items)]] (A) - 0 gp
+- [[staff-of-charming-xdmg (items)]] (A) - 0 gp
+- [[staff-of-charming-xdmg (items)]] (A) - 0 gp
+- [[Staff of Defense Lmop]] (A) - 0 gp
+- [[Staff of Defense Lmop]] (A) - 0 gp
+- [[Staff of Defense Lmop]] (A) - 0 gp
+- [[Staff of Fire Xdmg]] (A) - |
+- [[Staff of Fire Xdmg]] (A) - |
+- [[Staff of Fire Xdmg]] (A) - |
+- [[Staff of Frost Xdmg]] (A) - |
+- [[Staff of Frost Xdmg]] (A) - |
+- [[Staff of Frost Xdmg]] (A) - |
+- [[Staff of Healing Xdmg]] (A) - |
+- [[Staff of Healing Xdmg]] (A) - |
+- [[Staff of Healing Xdmg]] (A) - |
+- [[Staff of Striking Xdmg]] (A) - 0 gp
+- [[Staff of Striking Xdmg]] (A) - 0 gp
+- [[Staff of Striking Xdmg]] (A) - 0 gp
+- [[staff-of-the-adder-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-adder-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-adder-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-python-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-python-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-python-xdmg (items)]] (A) - 0 gp
+- [[staff-of-the-woodlands-xdmg (items)]] (A) - |
+- [[staff-of-the-woodlands-xdmg (items)]] (A) - |
+- [[staff-of-the-woodlands-xdmg (items)]] (A) - |
+- [[Staff of Thunder and Lightning Xdmg]] (A) - 0 gp
+- [[Staff of Thunder and Lightning Xdmg]] (A) - 0 gp
+- [[Staff of Thunder and Lightning Xdmg]] (A) - 0 gp
+- [[Staff of Withering Xdmg]] (A) - 0 gp
+- [[Staff of Withering Xdmg]] (A) - 0 gp
+- [[Staff of Withering Xdmg]] (A) - 0 gp
+- [[stone-of-good-luck-xdmg (items)]] (A) - 0 gp
+- [[stone-of-good-luck-xdmg (items)]] (A) - 0 gp
+- [[stone-of-good-luck-xdmg (items)]] (A) - 0 gp
 - [[Stonespeaker Crystal Oota]] (A) - of 1 charge per level of the spell. The crystal is not consumed when used in this way.
-- [[Stonespeaker Crystal Oota (Items)]] (A) - of 1 charge per level of the spell. The crystal is not consumed when used in this way.
-- [[Stonespeaker Crystal Oota (Items)]] (A) - of 1 charge per level of the spell. The crystal is not consumed when used in this way.
+- [[stonespeaker-crystal-oota (items)]] (A) - of 1 charge per level of the spell. The crystal is not consumed when used in this way.
+- [[stonespeaker-crystal-oota (items)]] (A) - of 1 charge per level of the spell. The crystal is not consumed when used in this way.
 - [[Sun Blade Xdmg]] (A) - 0 gp
-- [[Sun Blade Xdmg (Items)]] (A) - 0 gp
-- [[Sun Blade Xdmg (Items)]] (A) - 0 gp
+- [[sun-blade-xdmg (items)]] (A) - 0 gp
+- [[sun-blade-xdmg (items)]] (A) - 0 gp
 - [[Sylvan Talon Xdmg]] (A) - 0 gp
-- [[Sylvan Talon Xdmg (Items)]] (A) - 0 gp
-- [[Sylvan Talon Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of Pure Good Xdmg]] (A) - 0 gp
-- [[Talisman Of Pure Good Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of Pure Good Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of The Sphere Xdmg]] (A) - 0 gp
-- [[Talisman Of The Sphere Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of The Sphere Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of Ultimate Evil Xdmg]] (A) - 0 gp
-- [[Talisman Of Ultimate Evil Xdmg (Items)]] (A) - 0 gp
-- [[Talisman Of Ultimate Evil Xdmg (Items)]] (A) - 0 gp
+- [[Sylvan Talon Xdmg]] (A) - 0 gp
+- [[Sylvan Talon Xdmg]] (A) - 0 gp
+- [[talisman-of-pure-good-xdmg (items)]] (A) - 0 gp
+- [[talisman-of-pure-good-xdmg (items)]] (A) - 0 gp
+- [[talisman-of-pure-good-xdmg (items)]] (A) - 0 gp
+- [[Talisman of the Sphere Xdmg]] (A) - 0 gp
+- [[Talisman of the Sphere Xdmg]] (A) - 0 gp
+- [[Talisman of the Sphere Xdmg]] (A) - 0 gp
+- [[talisman-of-ultimate-evil-xdmg (items)]] (A) - 0 gp
+- [[talisman-of-ultimate-evil-xdmg (items)]] (A) - 0 gp
+- [[talisman-of-ultimate-evil-xdmg (items)]] (A) - 0 gp
 - [[Talking Doll Xdmg]] (A) - 0 gp
-- [[Talking Doll Xdmg (Items)]] (A) - 0 gp
-- [[Talking Doll Xdmg (Items)]] (A) - 0 gp
+- [[talking-doll-xdmg (items)]] (A) - 0 gp
+- [[talking-doll-xdmg (items)]] (A) - 0 gp
 - [[Tentacle Rod Xdmg]] (A) - 0 gp
-- [[Tentacle Rod Xdmg (Items)]] (A) - 0 gp
-- [[Tentacle Rod Xdmg (Items)]] (A) - 0 gp
+- [[tentacle-rod-xdmg (items)]] (A) - 0 gp
+- [[tentacle-rod-xdmg (items)]] (A) - 0 gp
 - [[Thunderous Greatclub Xdmg]] (A) - 0 gp
-- [[Thunderous Greatclub Xdmg (Items)]] (A) - 0 gp
-- [[Thunderous Greatclub Xdmg (Items)]] (A) - 0 gp
+- [[Thunderous Greatclub Xdmg]] (A) - 0 gp
+- [[Thunderous Greatclub Xdmg]] (A) - 0 gp
 - [[Tinderstrike Pota]] (A) - 0 gp
-- [[Tinderstrike Pota (Items)]] (A) - 0 gp
-- [[Tinderstrike Pota (Items)]] (A) - 0 gp
-- [[Trident Of Fish Command Xdmg]] (A) - 0 gp
-- [[Trident Of Fish Command Xdmg (Items)]] (A) - 0 gp
-- [[Trident Of Fish Command Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Binding Xdmg]] (A) - |
-- [[Wand Of Binding Xdmg (Items)]] (A) - |
-- [[Wand Of Binding Xdmg (Items)]] (A) - |
-- [[Wand Of Enemy Detection Xdmg]] (A) - 0 gp
-- [[Wand Of Enemy Detection Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Enemy Detection Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Fear Xdmg]] (A) - |
-- [[Wand Of Fear Xdmg (Items)]] (A) - |
-- [[Wand Of Fear Xdmg (Items)]] (A) - |
-- [[Wand Of Fireballs Xdmg]] (A) - 0 gp
-- [[Wand Of Fireballs Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Fireballs Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Lightning Bolts Xdmg]] (A) - 0 gp
-- [[Wand Of Lightning Bolts Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Lightning Bolts Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Paralysis Xdmg]] (A) - 0 gp
-- [[Wand Of Paralysis Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Paralysis Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Polymorph Xdmg]] (A) - 0 gp
-- [[Wand Of Polymorph Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Polymorph Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of The War Mage Xdmg]] (A) - 0 gp
-- [[Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of The War Mage Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Viscid Globs Oota]] (A) - 0 gp
-- [[Wand Of Viscid Globs Oota (Items)]] (A) - 0 gp
-- [[Wand Of Viscid Globs Oota (Items)]] (A) - 0 gp
-- [[Wand Of Web Xdmg]] (A) - 0 gp
-- [[Wand Of Web Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Web Xdmg (Items)]] (A) - 0 gp
-- [[Wand Of Winter Hotdq]] (A) - 0 gp
-- [[Wand Of Winter Hotdq (Items)]] (A) - 0 gp
-- [[Wand Of Winter Hotdq (Items)]] (A) - 0 gp
+- [[Tinderstrike Pota]] (A) - 0 gp
+- [[Tinderstrike Pota]] (A) - 0 gp
+- [[trident-of-fish-command-xdmg (items)]] (A) - 0 gp
+- [[trident-of-fish-command-xdmg (items)]] (A) - 0 gp
+- [[trident-of-fish-command-xdmg (items)]] (A) - 0 gp
+- [[Wand of Binding Xdmg]] (A) - |
+- [[Wand of Binding Xdmg]] (A) - |
+- [[Wand of Binding Xdmg]] (A) - |
+- [[wand-of-enemy-detection-xdmg (items)]] (A) - 0 gp
+- [[wand-of-enemy-detection-xdmg (items)]] (A) - 0 gp
+- [[wand-of-enemy-detection-xdmg (items)]] (A) - 0 gp
+- [[wand-of-fear-xdmg (items)]] (A) - |
+- [[wand-of-fear-xdmg (items)]] (A) - |
+- [[wand-of-fear-xdmg (items)]] (A) - |
+- [[Wand of Fireballs Xdmg]] (A) - 0 gp
+- [[Wand of Fireballs Xdmg]] (A) - 0 gp
+- [[Wand of Fireballs Xdmg]] (A) - 0 gp
+- [[Wand of Lightning Bolts Xdmg]] (A) - 0 gp
+- [[Wand of Lightning Bolts Xdmg]] (A) - 0 gp
+- [[Wand of Lightning Bolts Xdmg]] (A) - 0 gp
+- [[Wand of Paralysis Xdmg]] (A) - 0 gp
+- [[Wand of Paralysis Xdmg]] (A) - 0 gp
+- [[Wand of Paralysis Xdmg]] (A) - 0 gp
+- [[wand-of-polymorph-xdmg (items)]] (A) - 0 gp
+- [[wand-of-polymorph-xdmg (items)]] (A) - 0 gp
+- [[wand-of-polymorph-xdmg (items)]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[2-wand-of-the-war-mage-xdmg (items)]] (A) - 0 gp
+- [[Wand of Viscid Globs Oota]] (A) - 0 gp
+- [[Wand of Viscid Globs Oota]] (A) - 0 gp
+- [[Wand of Viscid Globs Oota]] (A) - 0 gp
+- [[wand-of-web-xdmg (items)]] (A) - 0 gp
+- [[wand-of-web-xdmg (items)]] (A) - 0 gp
+- [[wand-of-web-xdmg (items)]] (A) - 0 gp
+- [[Wand of Winter Hotdq]] (A) - 0 gp
+- [[Wand of Winter Hotdq]] (A) - 0 gp
+- [[Wand of Winter Hotdq]] (A) - 0 gp
 - [[Wave Xdmg]] (A) - 0 gp
-- [[Wave Xdmg (Items)]] (A) - 0 gp
-- [[Wave Xdmg (Items)]] (A) - 0 gp
-- [[Weapon Of Warning Xdmg]] (A) - 0 gp
-- [[Weapon Of Warning Xdmg (Items)]] (A) - 0 gp
-- [[Weapon Of Warning Xdmg (Items)]] (A) - 0 gp
+- [[Wave Xdmg]] (A) - 0 gp
+- [[Wave Xdmg]] (A) - 0 gp
+- [[weapon-of-warning-xdmg (items)]] (A) - 0 gp
+- [[weapon-of-warning-xdmg (items)]] (A) - 0 gp
+- [[weapon-of-warning-xdmg (items)]] (A) - 0 gp
 - [[Weird Tank Pota]] (A) - 0 gp
-- [[Weird Tank Pota (Items)]] (A) - 0 gp
-- [[Weird Tank Pota (Items)]] (A) - 0 gp
+- [[Weird Tank Pota]] (A) - 0 gp
+- [[Weird Tank Pota]] (A) - 0 gp
 - [[Windvane Pota]] (A) - 0 gp
-- [[Windvane Pota (Items)]] (A) - 0 gp
-- [[Windvane Pota (Items)]] (A) - 0 gp
+- [[Windvane Pota]] (A) - 0 gp
+- [[Windvane Pota]] (A) - 0 gp
 - [[Winged Boots Xdmg]] (A) - 0 gp
-- [[Winged Boots Xdmg (Items)]] (A) - 0 gp
-- [[Winged Boots Xdmg (Items)]] (A) - 0 gp
-- [[Wings Of Flying Xdmg]] (A) - 0 gp
-- [[Wings Of Flying Xdmg (Items)]] (A) - 0 gp
-- [[Wings Of Flying Xdmg (Items)]] (A) - 0 gp
+- [[winged-boots-xdmg (items)]] (A) - 0 gp
+- [[winged-boots-xdmg (items)]] (A) - 0 gp
+- [[Wings of Flying Xdmg]] (A) - 0 gp
+- [[Wings of Flying Xdmg]] (A) - 0 gp
+- [[Wings of Flying Xdmg]] (A) - 0 gp
 - [[Wingwear Pota]] (A) - 0 gp
-- [[Wingwear Pota (Items)]] (A) - 0 gp
-- [[Wingwear Pota (Items)]] (A) - 0 gp
+- [[wingwear-pota (items)]] (A) - 0 gp
+- [[wingwear-pota (items)]] (A) - 0 gp
 - [[Witherbloom Primer Scc]] (A) - 0 gp
-- [[Witherbloom Primer Scc (Items)]] (A) - 0 gp
-- [[Witherbloom Primer Scc (Items)]] (A) - 0 gp
+- [[Witherbloom Primer Scc]] (A) - 0 gp
+- [[Witherbloom Primer Scc]] (A) - 0 gp
 
 ### Uncommon
 
 - [[Clinical Trial Monitoring System]] (A) - 0 gp
 - [[Consciousness Ward Ring]] (A) - 0 gp
-- [[Family Structures And Child Rearing]] (A) - 0 gp
+- [[Family Structures and Child-Rearing]] (A) - 0 gp
 
 ### Legendary
 
 - [[Consciousness Ward Amulet]] (A) - 0 gp
-- [[Crown Of Tidal Sovereignty]] (A) - Unknown
+- [[Crown of Tidal Sovereignty]] (A) - Unknown
 - [[The Resonance Forge Hammer]] (A) - Unknown
-- [[The Tidal Shard Of Memory]] (A) - Unknown
+- [[The Tidal Shard of Memory]] (A) - Unknown
 
+
+
+## Appearance
+- **Visual Description**: How it looks
+- **Distinguishing Features**: Unique aspects
+
+## Creation
+- **Crafted By**: Original creator
+- **Materials Used**: Components
+
+## Previous Owners
+- **History**: Chain of ownership
+- **Notable Users**: Famous wielders
+
+## Special Properties
+- **Magical Effects**: Enchantments
+- **Mundane Benefits**: Practical uses
+
+## Activation
+- **How to Use**: Operating instructions
+- **Limitations**: Restrictions
+
+## Side Effects
+- **Drawbacks**: Negative aspects
+- **Quirks**: Unusual behaviors
+
+## Market Availability
+- **Where to Find**: Purchase locations
+- **Rarity**: How common
+
+## Maintenance
+- **Care Required**: Upkeep needs
+- **Repair**: Fixing damage
+
+## Cultural Significance
+- **Symbolism**: What it represents
+- **Reputation**: How it's viewed
+
+## Variants
+- **Similar Items**: Related objects
+- **Upgrades**: Improvement options

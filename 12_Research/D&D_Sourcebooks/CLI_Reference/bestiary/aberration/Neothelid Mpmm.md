@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neothelid-mpmm-neothelid-mpmm.svg)
 
-# [[neothelid mpmm|Neothelid]]
+# [[neothelid-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181*  
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
@@ -78,8 +78,8 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
   - "desc": "The neothelid is aware of the presence of creatures within 1 mile of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's Intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [[mind blank xphb|mind blank]]\
-      \ spell, a [[nondetection xphb|nondetection]] spell,\
+      \ but can't sense anything else about it. A creature protected by a [[mind-blank-xphb (spells)]]\
+      \ spell, a [[nondetection-xphb (spells)]] spell,\
       \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The neothelid has advantage on saving throws against spells and other\
@@ -107,8 +107,8 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The neothelid casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\nAt will:\
-      \ [[levitate xphb|levitate]]\n\n1/day each: [[confusion xphb|confusion]],\
-      \ [[befuddlement xphb|feeblemind]], [[telekinesis xphb|telekinesis]]"
+      \ [[levitate-xphb (spells)]]\n\n1/day each: [[Confusion Xphb]],\
+      \ [[befuddlement-xphb (spells)]], [[telekinesis-xphb (spells)]]"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"

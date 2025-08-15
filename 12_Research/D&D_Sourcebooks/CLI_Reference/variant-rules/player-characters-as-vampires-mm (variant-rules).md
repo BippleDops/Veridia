@@ -33,7 +33,7 @@ world: Both
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 
 
-The game statistics of a player character transformed into a [[vampire spawn xmm|vampire spawn]] and then a [[vampire xmm|vampire]] don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[senses#Darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength. The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[wish xphb|wish]] spell or the character is killed and brought back to life.
+The game statistics of a player character transformed into a [[vampire-spawn-xmm (undead)]] and then a [[Vampire Xmm (undead)]] don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[senses#Darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength. The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[wish-xphb (spells)]] spell or the character is killed and brought back to life.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -88,3 +88,92 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## Unearthed Arcana & Playtest Content
+
+### Latest UA Documents
+- **One D&D Playtest**: Character Origins (2022-2024)
+- **Expert Classes**: Bard, Ranger, Rogue updates
+- **Warrior Classes**: Fighter, Barbarian, Monk updates
+- **Priest Classes**: Cleric, Druid, Paladin updates
+- **Mage Classes**: Sorcerer, Warlock, Wizard updates
+
+### Popular UA Options (Not in Official Books)
+- **Mystic Class**: Psionics system (UA 2017)
+- **Revised Ranger**: Improved base class (UA 2016)
+- **Class Feature Variants**: Alternative abilities (UA 2019)
+- **Modern Magic**: Technology spells (UA 2015)
+- **Planeshift Series**: MTG crossover content
+
+### UA Subclasses by Class
+#### Artificer
+- Archivist (UA 2020)
+- Maverick (UA Eberron)
+
+#### Barbarian
+- Path of the Wild Soul (became Wild Magic in TCE)
+- Path of the Beast (finalized in TCE)
+
+#### Bard
+- College of Satire (UA 2016)
+- College of Swords (finalized in XGE)
+
+#### Cleric
+- City Domain (UA Modern Magic)
+- Protection Domain (UA 2016)
+
+#### Druid
+- Circle of Twilight (UA 2016)
+- Circle of Wildfire (finalized in TCE)
+
+#### Fighter
+- Sharpshooter (UA 2016)
+- Scout (became Ranger subclass)
+
+#### Monk
+- Way of Tranquility (UA 2016)
+- Way of the Astral Self (finalized in TCE)
+
+#### Paladin
+- Oath of Treachery (UA 2016)
+- Oath of Heroism (became Glory in TCE)
+
+#### Ranger
+- Primeval Guardian (UA 2017)
+- Monster Slayer (finalized in XGE)
+
+#### Rogue
+- Revived (became Phantom in TCE)
+- Soulknife (finalized in TCE)
+
+#### Sorcerer
+- Phoenix Sorcery (UA 2017)
+- Sea Sorcery (UA 2017)
+
+#### Warlock
+- The Raven Queen (UA 2017)
+- The Seeker (UA 2016)
+
+#### Wizard
+- Theurgy (UA 2017)
+- War Magic (finalized in XGE)
+
+### UA Races/Lineages
+- Changeling (finalized in ERLW)
+- Shifter (finalized in ERLW)
+- Warforged (finalized in ERLW)
+- Gith (finalized in MTF)
+- Revenant (UA Gothic Heroes)
+
+### Playtest Considerations
+⚠️ **Balance Warning**: UA content is playtest material
+- May be unbalanced compared to official content
+- Subject to change or abandonment
+- Requires DM approval
+- May conflict with published versions
+
+### Where to Find UA
+- **D&D Beyond**: UA Archive section
+- **Wizards Website**: Monthly UA articles (discontinued 2021)
+- **Reddit r/UnearthedArcana**: Community discussions
+- **One D&D Playtest**: D&D Beyond exclusive

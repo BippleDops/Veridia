@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werebear-xmm-v1-werebear-xmm.svg)
 
-# [[werebear xmm|Werebear]]
+# [[werebear-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 324. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -95,8 +95,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit points xphb|Hit Points]],\
-      \ it instead becomes a Werebear under the DM's control and has 10 [[hit points xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb (variant-rules)]],\
+      \ it instead becomes a Werebear under the DM's control and has 10 [[hit-points-xphb (variant-rules)]].\
       \ Success: The target is immune to this werebear's curse for 24 hours."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\

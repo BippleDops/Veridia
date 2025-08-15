@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session Planning Guide 3
 
----
+- --
 title: Session Planning Guide 3
 type: Lore
 tags:
@@ -30,15 +30,15 @@ status: complete
 created_by: auto-stub
 updated: '2025-08-13T12:34:29.364449+00:00'
 world: Aquabyssos
----
+- --
 
 # Session Planning Guide
 
-*"Every current has direction, every tide has purpose - plan the flow of adventure."*
+* "Every current has direction, every tide has purpose - plan the flow of adventure."*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -76,7 +76,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Plot Hooks
 
@@ -98,3 +98,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

@@ -34,7 +34,7 @@ world: Both
 # Darkness
 *Source: Player's Handbook (2024) p. 365. Available in the SRD and the Free Rules (2024)* 
 
-An area of Darkness is [[heavily obscured xphb|Heavily Obscured]].
+An area of Darkness is [[Heavily Obscured Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

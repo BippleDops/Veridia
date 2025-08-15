@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-sea-xphb-beast-of-the-sea-xphb.svg)
 
-# [[beast of the sea xphb|Beast of the Sea]]
+# [[beast]]
 *Source: Player's Handbook (2024) p. 124*  
 
 ```statblock

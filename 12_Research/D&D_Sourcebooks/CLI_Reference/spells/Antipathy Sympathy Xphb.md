@@ -67,7 +67,7 @@ If the [[conditions#frightened|Frightened]] or [[conditions#Charmed|Charmed]] cr
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 242. Available in the SRD and the Free Rules (2024)*
 

@@ -341,7 +341,7 @@ Characters spending time in Sylvanheart gain:
 
 **Forest Assembly Days**: Weekly community gatherings bring together all districts for collective decision-making and celebration of community achievements. These assemblies include representation from forest spirits, animal communities, and visiting diplomats. Decisions reached during these gatherings coordinate community-wide activities while maintaining ecological balance.
 
-**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[Cross Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]] adapted for forest diplomacy.
+**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[Cross-Realm Etiquette Guide]] adapted for forest diplomacy.
 
 **Guild Coordination Meetings**: Professional organizations coordinate their activities through weekly assemblies that follow traditions from the [[Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
 

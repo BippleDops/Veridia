@@ -1,7 +1,7 @@
 ---
 
-title: Trade Goods Catalog
-type: lore
+title: [[Trade Goods]] Catalog
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -198,7 +198,7 @@ Ways to incorporate Trade_Goods_Catalog into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -238,7 +238,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

@@ -3,20 +3,20 @@ title: Forest Communities
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Forest Communities
 
 ## Overview
-This topic is referenced in [[Location Name.png]] and other parts of the campaign.
+This topic is referenced in [[Location Name]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location Name.png]]
+- Referenced by: [[Location Name]]
 - Related topics in the same category
 
 ## Details

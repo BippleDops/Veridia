@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-tridrone-xmm-modron-tridrone-xmm.svg)
 
-# [[modron tridrone xmm|Modron Tridrone]]
+# [[Modron Tridrone Xmm]]
 *Source: Monster Manual (2024) p. 217*  
 
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.

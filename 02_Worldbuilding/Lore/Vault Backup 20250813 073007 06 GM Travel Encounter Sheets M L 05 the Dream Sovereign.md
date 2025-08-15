@@ -2,7 +2,7 @@
 
 title: Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream
   Sovereign
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,12 +72,12 @@ vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_M_L-05_the_
 
 *Last Updated: 2025-08-14 19:03*
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -106,3 +106,10 @@ vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_M_L-05_the_
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

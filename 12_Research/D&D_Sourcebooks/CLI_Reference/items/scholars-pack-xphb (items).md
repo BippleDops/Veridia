@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 22.0 lbs.
 
-A Scholar's Pack contains the following items: [[backpack xphb|Backpack]], [[book xphb|Book]], [[ink xphb|Ink]], [[ink pen xphb|Ink Pen]], [[lamp xphb|Lamp]], 10 flasks of [[oil xphb|Oil]], 10 sheets of [[parchment xphb|Parchment]], and [[tinderbox xphb|Tinderbox]].
+A Scholar's Pack contains the following items: [[Backpack Xphb]], [[Book Xphb]], [[Blink Xphb]], [[ink-pen-xphb (items)]], [[lamp-xphb (items)]], 10 flasks of [[Oil Xphb]], 10 sheets of [[Parchment Xphb]], and [[Tinderbox Xphb]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 

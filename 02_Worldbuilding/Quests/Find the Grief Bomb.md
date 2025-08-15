@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Quests/Find the Grief Bomb
+title: 02_Worldbuilding/[[Quests]]/Find the [[Grief Bomb]]
 type: adventure
 tags:
 - adventure
@@ -76,7 +76,7 @@ An exciting quest that challenges heroes to claim glory.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -98,9 +98,9 @@ An exciting quest that challenges heroes to claim glory.
 ## Treasure Parcels
 
 ### Parcel A (Combat Victory)
-- 2d6 × 10 gp
+- [[2d6]] × 10 gp
 - Potion of Healing
-- Clue to next location
+- Clue to next [[location]]
 
 ### Parcel B (Exploration)
 - Magic item (roll on Table F)
@@ -129,3 +129,7 @@ An exciting quest that challenges heroes to claim glory.
 - The villain's family begs for mercy
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

@@ -41,7 +41,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[elemental-spirit-air-xphb|Elemental Spirit (Air)]]
+# [[elemental]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-riding-lizard-oota-giant-riding-lizard-oota.svg)
 
-# [[giant riding lizard oota|Giant Riding Lizard]]
+# [[giant]]
 *Source: Out of the Abyss p. 131*  
 
 ```statblock

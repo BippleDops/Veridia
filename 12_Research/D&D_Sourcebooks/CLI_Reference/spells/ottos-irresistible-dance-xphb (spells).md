@@ -44,9 +44,9 @@ world: Both
 
 One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
 
-On a failed save, the target has the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the target dances comically, must use all its movement to dance in place, and has [[disadvantage xphb|Disadvantage]] on Dexterity saving throws and attack rolls, and other creatures have [[advantage xphb|Advantage]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
+On a failed save, the target has the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the target dances comically, must use all its movement to dance in place, and has [[Advantage Xphb]] on Dexterity saving throws and attack rolls, and other creatures have [[Advantage Xphb]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the SRD (as "Irresistible Dance") and the Free Rules (2024)*
 
@@ -94,3 +94,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

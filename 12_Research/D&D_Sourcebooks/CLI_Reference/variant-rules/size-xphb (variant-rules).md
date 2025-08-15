@@ -33,7 +33,7 @@ world: Both
 # Size
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its [[hit points xphb|Hit Points]].
+A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

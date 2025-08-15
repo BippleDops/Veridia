@@ -159,7 +159,7 @@ Integrated facility producing all components of The Deep Harvest system under th
 Production requires expertise across multiple technical disciplines:
 
 - **Marine Robotics**: Specialists in underwater autonomous systems ([[Robotics Engineer Wave Autowright]])
-- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio Mechanical Specialist Tide Lifeforge]])
+- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio-Mechanical Specialist Tide Lifeforge (D&D_References)]])
 - **Environmental Systems**: Specialists in deep-sea equipment design ([[Environmental Engineer Current Depthwright]])
 - **Control Systems**: Experts in automation and process control ([[Control Systems Engineer Flow Processwright]])
 - **Quality Control**: Specialists ensuring equipment safety and reliability ([[Quality Inspector Reef Perfectwright]])
@@ -173,7 +173,7 @@ The Deep Harvest system requires specialized resources from various suppliers:
 - **Marine-Grade Metals**: Corrosion-resistant alloys for underwater equipment, sourced from [[Deep Metals Consortium]]
 - **Bio-Compatible Components**: Materials suitable for biological integration, from [[Living Systems Suppliers]]
 - **Control Crystals**: Magical crystals managing automated systems, supplied by [[Crystal Forest]]
-- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[02 Worldbuilding/Groups/Marine Protection Guil|02 Worldbuilding/Groups/Marine Protection Guil]]
+- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[Groups]]
 - **Energy Systems**: Power sources for autonomous operations, supplied by [[Deep Energy Consortium]]
 
 **Supply Chain Challenges:**
@@ -229,7 +229,7 @@ The Deep Harvest requires continuous monitoring and coordination to maintain opt
 - **Resource Coordinators**: Specialists managing harvesting schedules and quotas ([[Resource Coordinator Kelp Allocationwright]])
 - **Quality Inspectors**: Personnel ensuring product safety and standards ([[Quality Inspector Pearl Standardwright]])
 - **Environmental Monitors**: Specialists tracking ecological impact ([[Environmental Monitor Reef Ecowatch]])
-- **Maintece Supervisors**: Personnel managing equipment service and repair ([[Maintece Supervisor Tide Fixwright]])
+- **Maintece Supervisors**: Personnel managing equipment service and repair ([[Maintece_Supervisor_Tide_Fixwright]])
 
 ### Food Production and Distribution
 

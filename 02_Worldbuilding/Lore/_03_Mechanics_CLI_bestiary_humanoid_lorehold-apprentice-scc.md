@@ -1,14 +1,14 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# /03 Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc
+# /[[_03_Mechanics_CLI_bestiary_humanoid_cultist-fanatic-xmm]]/CLI/bestiary/humanoid/lorehold-apprentice-scc
 
 ## Overview
 
-/03 Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc represents a significant element of world history and culture, influencing events and beliefs across generations. This knowledge shapes understanding of current events and future possibilities.
+/[[_03_Mechanics_CLI_bestiary_humanoid_witherbloom-pledgemage-scc_Quick_Ref]]/CLI/bestiary/humanoid/lorehold-apprentice-scc represents a significant element of world history and culture, influencing events and beliefs across generations. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 ### Time Period
 This lore originates from a specific era in world history, when civilization faced unique challenges and opportunities. The events and knowledge from this time continue to resonate in the present day.
@@ -19,9 +19,9 @@ Emerging from specific cultural traditions, this lore reflects the values, fears
 ## The Legend
 
 ### Common Version
-As told by most people:
+As told by most [[People]]:
 
-In ages past, when the world was younger and magic flowed more freely, there existed powers and knowledge now lost to time. /03 Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc tells of these ancient days and the lessons learned through triumph and tragedy.
+In ages past, when the world was younger and magic flowed more freely, there existed powers and knowledge now lost to time. /[[03 Mechanics]]/CLI/bestiary/humanoid/lorehold-apprentice-scc tells of these ancient days and the lessons learned through triumph and tragedy.
 
 The story speaks of heroes and villains, of choices made and prices paid. It reminds us that power comes with responsibility, and that the echoes of the past shape the present in ways we may not fully understand.
 
@@ -34,7 +34,7 @@ Scholars who study this lore note several key elements:
 
 ### Hidden Truth
 What few realize is that /03 Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc contains more fact than fiction. The events described, while embellished through retelling, point to real occurrences that shaped the world. Understanding the truth behind the legend reveals:
-- Actual locations of historical importance
+- Actual [[location]]s of historical importance
 - True names and lineages of significant figures
 - Practical knowledge disguised as allegory
 - Warnings about specific dangers or opportunities
@@ -48,7 +48,7 @@ What few realize is that /03 Mechanics/CLI/bestiary/humanoid/lorehold-apprentice
 - **The Catalyst**: Triggers crucial events
 
 ### Important Locations
-Places mentioned in the lore that may still exist:
+[[Places]] mentioned in the lore that may still exist:
 - Sites of significant events
 - Hidden repositories of knowledge
 - Places of power or danger
@@ -111,7 +111,7 @@ How this knowledge can be used:
 
 ### Primary Sources
 - Ancient texts and inscriptions
-- Oral traditions maintained by specific groups
+- Oral traditions maintained by specific [[Groups]]
 - Artistic depictions in ruins or temples
 - Magical recordings or visions
 

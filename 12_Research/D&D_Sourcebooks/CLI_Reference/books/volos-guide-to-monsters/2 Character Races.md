@@ -46,21 +46,21 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [[aasimar xphb|Aasimar (Fallen)]]  
-- [[aasimar xphb|Aasimar (Protector)]]  
-- [[aasimar xphb|Aasimar (Scourge)]]  
-- [[bugbear vgm|Bugbear]]  
-- [[firbolg vgm|Firbolg]]  
-- [[goblin vgm|Goblin]]  
-- [[goliath xphb|Goliath]]  
-- [[hobgoblin vgm|Hobgoblin]]  
-- [[kenku vgm|Kenku]]  
-- [[kobold vgm|Kobold]]  
-- [[lizardfolk vgm|Lizardfolk]]  
-- [[orc xphb|Orc]]  
-- [[tabaxi vgm|Tabaxi]]  
-- [[triton vgm|Triton]]  
-- [[yuan ti pureblood vgm|Yuan ti Pureblood]]  
+- [[List Spells Races Aasimar Xphb]]  
+- [[List Spells Races Aasimar Xphb]]  
+- [[List Spells Races Aasimar Xphb]]  
+- [[Bugbear Vgm]]  
+- [[List Spells Races Firbolg Vgm]]  
+- [[goblin-vgm (races)]]  
+- [[Goliath Xphb]]  
+- [[Hobgoblin Vgm]]  
+- [[Kenku Vgm]]  
+- [[kobold-vgm (races)]]  
+- [[lizardfolk-vgm (races)]]  
+- [[orc-xphb (races)]]  
+- [[Tabaxi Vgm]]  
+- [[triton-vgm (races)]]  
+- [[yuan-ti-pureblood-vgm (races)]]  
 
 ## 🔧 Deep Evaluation Improvements
 

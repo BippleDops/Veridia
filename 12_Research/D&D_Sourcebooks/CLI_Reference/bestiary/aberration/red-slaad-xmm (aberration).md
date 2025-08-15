@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-red-slaad-xmm-red-slaad-xmm.svg)
 
-# [[red slaad xmm|Red Slaad]]
+# [[Red Slaad Xmm]]
 *Source: Monster Manual (2024) p. 285*  
 
 Red slaadi amass in vast throngs in Limbo. There they wrestle and croak-sing as they endlessly dismantle and rebuild islands of drifting planar matter. When they encounter non-slaadi, red slaadi seek to play with, telepathically converse with, or devour the other creatures. These whims change from moment to moment. Red slaadi instinctively avoid harming those bearing slaadi eggs, which red slaadi implant using their claws, or other slaad curses.
@@ -70,8 +70,8 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater restoration xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> One can obtain a slaad's control gem using a [[wish xphb|Wish]] or [[imprisonment xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb (spells)]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
+> One can obtain a slaad's control gem using a [[wish-xphb (spells)]] or [[Imprisonment Xphb]] spell. If the slaad fails its saving throw against [[Imprisonment Xphb]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -100,11 +100,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "languages": "Slaad; telepathy 60 ft."
 "cr": "5"
 "traits":
-  - "desc": "The slaad has [[advantage xphb|Advantage]]\
+  - "desc": "The slaad has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [[hit points xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit points xphb|Hit Point]]."
+  - "desc": "The slaad regains 10 [[hit-points-xphb (variant-rules)]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb (variant-rules)]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The slaad makes three Injecting Claw attacks."
@@ -114,9 +114,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
       \ following effect. Constitution Saving Throw: DC 14. Failure: The target\
       \ is cursed unawares, and a minuscule slaad egg is implanted in it. Removing\
       \ the curse destroys the egg.\n\nOver 2d4 × 10 days, the egg gestates. In the\
-      \ final 24 hours, the cursed target feels unwell; its [[speed xphb|Speed]]\
-      \ is halved, and it has [[disadvantage xphb|Disadvantage]]\
-      \ on [[d20 test xphb|D20 Tests]]. At the end\
+      \ final 24 hours, the cursed target feels unwell; its [[Fly Speed Xphb]]\
+      \ is halved, and it has [[Advantage Xphb]]\
+      \ on [[d20-test-xphb (variant-rules)]]. At the end\
       \ of this time, the egg turns into a Slaad Tadpole, which chews out of the host\
       \ and kills it."
     "name": "Injecting Claw"

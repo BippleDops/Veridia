@@ -1,10 +1,15 @@
+---
+tags: [npc, character]
+type: npc
+- --
+
 # 02 Worldbuilding/Military/Combat Healers
 
 ## Portrait
 
-![[portrait_02_worldbuilding_military_combat_healers.png]]
+![[Combat Healers]]
 
-*Portrait reference for 02_Worldbuilding_Military_Combat_Healers*
+* Portrait reference for 02_Worldbuilding_Military_Combat_Healers*
 
 ## Mechanic Overview
 
@@ -94,21 +99,21 @@ Determining success and degree:
 ## Examples
 
 ### Example 1: Basic Use
-*Scenario*: [Specific situation]
+* Scenario*: [Specific situation]
 - Player declares intent
 - DM sets DC 15
 - Player rolls d20+5, gets 17
 - Success achieved with described outcome
 
 ### Example 2: Complex Application
-*Scenario*: [More complex situation]
+* Scenario*: [More complex situation]
 - Multiple participants involved
 - Extended challenge requiring multiple rolls
 - Resource management element
 - Partial successes building to completion
 
 ### Example 3: Failed Attempt
-*Scenario*: [Failure situation]
+* Scenario*: [Failure situation]
 - What went wrong
 - Consequences of failure
 - Recovery options
@@ -222,8 +227,9 @@ This mechanic aims to:
 **Resources**: [If applicable]
 **Recovery**: [How resources return]
 
----
-*Tags*: #mechanics #rules #homebrew #variant #system
+- --
+* Tags*: #mechanics #rules #homebrew #variant #system
+
 ## Stats
 
 ```statblock
@@ -266,3 +272,189 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word
+
+## Expansion Books & Setting Guides
+
+### Setting-Specific Books
+
+#### Forgotten Realms
+- **SCAG** (Sword Coast Adventurer's Guide)
+  - Backgrounds: City Watch, Clan Crafter, etc.
+  - Subclasses: Purple Dragon Knight, Bladesinger
+  - Cantrips: Booming Blade, Green-Flame Blade
+
+#### Eberron
+- **ERLW** (Eberron: Rising from the Last War)
+  - Races: Changeling, Kalashtar, Shifter, Warforged
+  - Artificer class (official version)
+  - Dragonmarks system
+  - Magic items: Arcane focuses, warforged components
+
+#### Ravnica
+- **GGR** (Guildmaster's Guide to Ravnica)
+  - Races: Centaur, Loxodon, Minotaur, Simic Hybrid, Vedalken
+  - Guild backgrounds with supernatural abilities
+  - Ravnica-specific spells
+
+#### Theros
+- **MOoT** (Mythic Odysseys of Theros)
+  - Races: Leonin, Satyr
+  - Supernatural Gifts system
+  - Piety system for divine favor
+  - Mythic monsters
+
+#### Wildemount
+- **EGtW** (Explorer's Guide to Wildemount)
+  - Races: Aarakocra, Aasimar, Firbolg, Genasi, Goblinoid, Goliath, Kenku, Orc, Tabaxi, Tortle
+  - Dunamancy spells (time/gravity magic)
+  - Echo Knight, Chronurgy Wizard, Graviturgy Wizard
+  - Heroic Chronicle system
+
+#### Strixhaven
+- **SCC** (Strixhaven: A Curriculum of Chaos)
+  - Owlin race
+  - College backgrounds
+  - Relationship system
+  - Extracurricular activities
+
+#### Spelljammer
+- **SAiS** (Spelljammer: Adventures in Space)
+  - Races: Astral Elf, Autognome, Giff, Hadozee, Plasmoid, Thri-kreen
+  - Space combat rules
+  - Spelljamming helms
+  - Wildspace systems
+
+#### Dragonlance
+- **DSotDQ** (Dragonlance: Shadow of the Dragon Queen)
+  - Kender race (updated)
+  - Knight of Solamnia background
+  - Mage of High Sorcery background
+  - War rules integration
+
+#### Planescape
+- **PAitM** (Planescape: Adventures in the Multiverse)
+  - Gate-towns
+  - Faction system
+  - Planar effects
+  - Outlands mechanics
+
+### Compilation Books
+
+#### Xanathar's Guide to Everything (XGE)
+- 31 new subclasses
+- Racial feats
+- Downtime activities
+- Tool uses expanded
+- Common magic items
+- Encounter building tables
+- Trap design
+
+#### Tasha's Cauldron of Everything (TCE)
+- Custom lineage system
+- Optional class features for all classes
+- 30 subclasses (new and reprinted)
+- Artificer class
+- Group patrons
+- Sidekicks rules
+- Puzzles
+
+#### Mordenkainen's Tome of Foes (MTF)
+- Deep lore on conflicts
+- Races: Gith, Duergar subraces, Elf subraces, Tiefling subraces
+- High-CR monsters
+- Demon lords and archdevils
+
+#### Volo's Guide to Monsters (VGM)
+- Monster races as PCs
+- Detailed monster lore
+- Monster variants
+- NPC stat blocks
+
+#### Fizban's Treasury of Dragons (FTD)
+- Dragonborn variants
+- Draconic subclasses
+- Dragon magic items
+- Draconomicon lore
+- Gem dragons
+
+#### Bigby's Glory of Giants (BGG)
+- Giant-themed subclasses
+- Rune magic
+- Giant backgrounds
+- Goliath subraces
+
+### Adventure-Specific Content
+
+#### Curse of Strahd (CoS)
+- Gothic lineages
+- Dark gifts
+- Haunted backgrounds
+
+#### Icewind Dale: Rime of the Frostmaiden (RotFM)
+- Secrets system
+- Goliath variants
+- Cold weather gear
+
+#### Baldur's Gate: Descent into Avernus (BGDiA)
+- Infernal war machines
+- Devil deals
+- Backgrounds tied to Baldur's Gate
+
+### Using Expansion Content
+1. **Check with DM**: Not all content allowed at every table
+2. **Setting Compatibility**: Some content is setting-specific
+3. **Power Level**: Newer books sometimes have stronger options
+4. **Integration**: Consider how content fits campaign theme
+5. **AL Legal**: Check Adventurers League rules if applicable

@@ -16,15 +16,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 08: [Sky Realm Crisis]
 
-*Winds of Rebellion - Aethermoor Politics*
+* Winds of Rebellion - Aethermoor Politics*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -121,7 +121,7 @@ The main reason parties get involved
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -159,3 +159,14 @@ Mentioned in The Hidden Prophecy of Shadows
 - The villain's family begs for mercy
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

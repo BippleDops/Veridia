@@ -62,7 +62,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 **Using a Higher-Level Spell Slot.** You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 264. Available in the SRD and the Free Rules (2024)*
 

@@ -1,13 +1,13 @@
 ---
 
-title: Eastern Kingdoms
-type: Lore
+title: [[Eastern Kingdom]]s
+type: [[Lore]]
 tags:
 - lore
 - session-notes
 - historical-events
 - status/complete
-- timeline
+- [[[[Time]]line]]
 - aquatic
 - quest
 - content/lore
@@ -16,7 +16,7 @@ tags:
 - combat
 - complete
 - eastern-kingdoms
-- historical-region
+- historical-[[region]]
 - world/aethermoor
 - active
 - aethermoor
@@ -29,16 +29,16 @@ created_by: auto-stub
 outcome: Ongoing Major Power
 participants:
 - Eastern Royal Houses
-- Imperial Navy
+- [[Imperial Nav]]y
 - Colonial Administrations
 - Trade Guilds
 related_entities:
 - '[[Aethermoor]]'
 - '[[Continental War]]'
 - '[[The Great Crystallization]]'
-- '[[The Bathyal Succession]]'
+- '[[The [[Bathyal Succession]]]]'
 - '[[Aquabyssos]]'
-- '[[The Shattering of the Crown]]'
+- '[[[[The Shattering]] of [[The Crown]]]]'
 scale: Multi-Continental Empire
 significance: Major Continental Power
 time_period: Ancient Era - Current Era
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ improvements: 20
 
 ## Overview
 
-The Eastern Kingdoms represent the largest and most influential political entity in the post-[[The Great Crystallization]] world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [[Aethermoor]] or the depth-adapted societies of [[Aquabyssos]], the Eastern Kingdoms built their power on traditional monarchy, merchant capitalism, and military expansion.
+The Eastern Kingdoms represent the largest and most influential political entity in the post-[[The Great Crystallization]] world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [[Aethermoor]] or the depth-adapted societies of [[Aquabyssos]], the Eastern Kingdoms built their power on traditional monarchy, [[Merchant]] capitalism, and military expansion.
 
 Spanning over 4.2 million square miles across seven major continents and countless islands, the Eastern Kingdoms maintain political unity through the **Imperial Throne of the Rising Sun** while allowing significant regional autonomy. Their influence extends far beyond direct territorial control through trade networks, diplomatic alliances, and strategic military interventions that have shaped global politics for over eight centuries.
 
@@ -133,7 +133,7 @@ The original core of the Eastern Kingdoms, Solaria Major contains the imperial c
 **Political Structure:**
 - **The Imperial Court**: Central government surrounding the monarch
 - **Provincial Governors**: Royal appointees governing regional territories
-- **Noble Houses**: Hereditary aristocrats with traditional privileges
+- **[[Noble House]]s**: Hereditary aristocrats with traditional privileges
 - **Imperial Bureaucracy**: Professional administrators managing daily goverce
 
 #### The Northern Domains (Aquilonia)
@@ -158,7 +158,7 @@ The harsh northern continent known for military traditions and resource extracti
 
 #### The Southern Archipelago (Meridiana)
 
-**Capital: Coral Harbor**
+**Capital: [[Coral]] Harbor**
 **Population: 31 million**
 **Area: 445,000 square miles (scattered across thousands of islands)**
 
@@ -207,7 +207,7 @@ The commercial heart of the empire, specializing in trade and manufacturing:
 **Economic Specialization:**
 - **Manufacturing Centers**: Production of goods for empire-wide distribution
 - **Ficial Networks**: Banking and investment services
-- **Trade Route Management**: Control of major commercial pathways
+- **Trade Route Management**: Control of major commercial [[path]]ways
 - **Market Regulation**: Standards and quality control for imperial commerce
 
 **Social Structure:**
@@ -225,7 +225,7 @@ The commercial heart of the empire, specializing in trade and manufacturing:
 The newest domain, territories gained through interaction with crystal-affected regions:
 
 **Unique Characteristics:**
-- **Crystal Technology Integration**: Adaptation of crystal-based innovations
+- **[[Crystal Technology]] Integration**: Adaptation of crystal-based innovations
 - **Magical Research**: Study of crystallization effects
 - **Border Security**: Defense against crystal-enhanced threats
 - **Cultural Adaptation**: Integration of crystal-affected populations
@@ -258,14 +258,14 @@ The most distant territories, serving as exploration bases and extreme frontier:
 
 #### The Throne of the Rising Sun
 
-**Current Ruler: Emperor Aurelius Magnus VII (reigned 478 GC - present)**
+**Current Ruler: [[Emperor]] Aurelius Magnus VII (reigned 478 GC - present)**
 
 The Eastern Kingdoms operate under absolute monarchy tempered by traditional limitations and practical necessities:
 
 **Royal Prerogatives:**
 - **Legislative Authority**: Power to create and modify laws
-- **Military Command**: Supreme authority over all imperial forces
-- **Diplomatic Control**: Final authority in international relations
+- **[[Military Command]]**: Supreme authority over all imperial forces
+- **Diplomatic Control**: Final authority in [[International Relations]]
 - **Economic Regulation**: Power to control trade and taxation
 - **Religious Oversight**: Traditional role as protector of imperial faiths
 
@@ -280,7 +280,7 @@ The Eastern Kingdoms operate under absolute monarchy tempered by traditional lim
 
 **The High Administration**
 
-Seven Grand Chancellors advise the emperor and coordinate imperial administration:
+Seven Grand Chancellors advise [[The Emperor]] and coordinate imperial administration:
 
 **Grand Chancellor of War**: Military affairs and imperial defense
 **Grand Chancellor of Commerce**: Trade, taxation, and economic policy
@@ -305,7 +305,7 @@ Each Grand Chancellor oversees a vast bureaucracy of professional administrators
 **Provincial Nobles**: Hereditary aristocrats with traditional territorial rights
 - Maintain local order and traditional customs
 - Collect taxes and provide military service
-- Serve as intermediaries between imperial government and common people
+- Serve as intermediaries between imperial government and common [[People]]
 - Possess limited authority to modify imperial policies for local conditions
 
 **Colonial Administrators**: Professional bureaucrats managing newer territories
@@ -327,7 +327,7 @@ Before unification, the regions that became the Eastern Kingdoms were controlled
 **The Meridian Trading Princes**: Merchant republics controlling southern islands
 **The Western Frontier Lords**: Colonial baronies expanding into new territories
 **The Mercatorian City-States**: Commercial centers focused on trade and manufacturing
-**The Crystal Wardens**: Defensive coalition protecting against magical threats
+**[[The [[Crystal Wardens]]]]**: Defensive coalition protecting against magical threats
 **The Outer Explorers**: Nomadic kingdoms focused on territorial expansion
 
 These kingdoms maintained complex relationships of alliance, rivalry, and warfare for centuries.
@@ -346,9 +346,9 @@ The process of unification began when **King Aurelius the Great** of Solaria lau
 
 **Phase Two (334-321 BGC): The Southern Alliance**
 - Diplomatic marriage alliances with Meridian Trading Princes
-- Economic integration through standardized currency and trade regulations
+- Economic integration through standardized currency and [[Trade Regulations]]
 - Naval cooperation agreements providing mutual defense
-- Cultural exchange programs building shared identity
+- [[Cultural Exchange]] programs building shared identity
 
 **Phase Three (321-308 BGC): The Western Expansion**
 - Military campaigns against Western Frontier Lords
@@ -357,7 +357,7 @@ The process of unification began when **King Aurelius the Great** of Solaria lau
 - Development of colonial administration systems
 
 **Phase Four (308-295 BGC): The Commercial Integration**
-- Economic pressure and incentives to integrate Mercatorian City-States
+- [[Economic Pressure]] and incentives to integrate Mercatorian City-States
 - Standardization of weights, measures, and commercial law
 - Infrastructure projects connecting commercial centers
 - Development of imperial banking and ficial systems
@@ -382,10 +382,10 @@ The first five emperors focused on stabilizing the unified kingdom and establish
 **Administrative Development**:
 - Creation of the imperial bureaucracy with standardized training and advancement
 - Establishment of the Grand Chancellor system for coordinated goverce
-- Development of communication networks enabling rapid information transfer
+- Development of [[Communication Networks]] enabling rapid information transfer
 - Construction of infrastructure projects connecting all imperial territories
 
-**Military Organization**:
+**Military [[Organization]]**:
 - Integration of diverse military traditions into unified imperial forces
 - Establishment of naval supremacy through systematic shipbuilding programs
 - Creation of military academies training professional officer corps
@@ -509,7 +509,7 @@ Transformation of imperial economy through expanded trade:
 Unprecedented cultural interaction with diverse civilizations:
 
 **Educational Exchange**:
-- Establishment of international academic institutions
+- Establishment of international [[Academic Institutions]]
 - Student and scholar exchange programs
 - Development of comparative studies of diverse civilizations
 - Integration of magical and traditional educational approaches
@@ -524,7 +524,7 @@ Unprecedented cultural interaction with diverse civilizations:
 - Integration of diverse spiritual traditions into imperial religious framework
 - Development of syncretic religious movements combining multiple traditions
 - Establishment of religious freedom policies accommodating diverse beliefs
-- Creation of interfaith dialogue and cooperation mechanisms
+- Creation of [[Interfaith Dialogue]] and cooperation mechanisms
 
 ### The Modern Imperial Period (400 GC - Present)
 
@@ -541,10 +541,10 @@ Growing awareness of prophesied world changes:
 - Creation of contingency plans for various convergence scenarios
 
 **Strategic Positioning**:
-- Diplomatic initiatives maintaining relationships with all major powers
+- Diplomatic [[Initiative]]s maintaining relationships with all major powers
 - Military preparations for potential conflicts or instability
 - Economic diversification reducing dependence on any single civilization
-- Cultural preservation efforts maintaining imperial identity during change
+- [[Cultural Preservation]] efforts maintaining imperial identity during change
 
 **Technological Integration**:
 - Advanced adoption of magical technologies while maintaining traditional capabilities
@@ -557,7 +557,7 @@ Growing awareness of prophesied world changes:
 **Modern Eastern Kingdoms Issues**
 
 **The Succession Question**:
-Emperor Aurelius Magnus VII is aging, and succession planning creates political tensions:
+Emperor Aurelius Magnus VII is aging, and [[Succession Planning]] creates political tensions:
 - Multiple potential heirs with different visions for imperial future
 - Debate over adaptation to convergence versus maintaining traditional approaches
 - Regional differences in preferred succession outcomes
@@ -568,14 +568,14 @@ Growing political pressure to take clear position on approaching world transform
 - Conservative factions favoring traditional approaches and resistance to change
 - Progressive factions supporting integration and adaptation to transformation
 - Regional differences in convergence preparation and enthusiasm
-- International pressure from allies with different convergence strategies
+- [[International Pressure]] from [[Allies]] with different convergence strategies
 
 **Economic Transformation**:
 Changing global economy requiring imperial adaptation:
 - Competition from civilizations with magical technological advantages
 - Pressure to adopt convergence-related technologies and practices
 - Regional economic differences creating internal tensions
-- International trade relationships requiring constant renegotiation
+- [[International Trade]] relationships requiring constant renegotiation
 
 **Cultural Evolution**:
 Generational differences in attitudes toward traditional values and world change:
@@ -601,7 +601,7 @@ The Eastern Kingdoms maintain the largest and most sophisticated naval force in 
 - Advanced shipbuilding techniques producing superior vessels
 - Hybrid propulsion systems using both traditional and magical power
 - Sophisticated navigation equipment enabling precise oceanic travel
-- Communication systems providing fleet coordination across vast distances
+- [[Communication Systems]] providing fleet coordination across vast distances
 - Weapons systems combining traditional artillery with magical enhancements
 
 **Naval Personnel**:
@@ -639,7 +639,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - 4,500 highly trained soldiers capable of operating in any environment
 - Advanced training in magical, technological, and traditional combat techniques
 - Specialized equipment for operations against diverse opponents
-- Direct coordination with imperial intelligence and diplomatic services
+- Direct coordination with imperial intelligence and [[Diplomatic Service]]s
 
 #### Traditional Warfare Principles
 
@@ -757,7 +757,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Quality standards ensuring reliability of imperial goods in international markets
 - Commercial law providing framework for domestic and international business
 - Dispute resolution systems handling conflicts between commercial interests
-- International trade agreements protecting imperial commercial interests
+- [[International Trade Agreements]] protecting imperial commercial interests
 
 **Development Policy**:
 - Infrastructure investment connecting and developing imperial territories
@@ -767,7 +767,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 **Economic Security**:
 - Strategic resource reserves protecting against supply disruptions
-- Economic intelligence gathering information about international economic conditions
+- [[Economic Intelligence]] gathering information about international economic conditions
 - Emergency economic measures for crisis response and recovery
 - Economic diplomacy using trade and ficial relationships to achieve political objectives
 
@@ -827,7 +827,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Growing political influence through economic importance
 - Cultural innovation and adaptation to changing conditions
 
-**The Common People**: Agricultural workers, laborers, and soldiers
+**The [[Common People]]**: Agricultural workers, laborers, and soldiers
 - Foundation of imperial population and economic production
 - Limited but real opportunities for social advancement
 - Protection and support through traditional imperial obligations
@@ -886,7 +886,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Imperial Education System**: Common educational standards throughout the empire
 - Language instruction ensuring communication across regional differences
 - History and civic education teaching imperial values and identity
-- Professional training providing advancement opportunities
+- [[Professional Training]] providing advancement opportunities
 - Cultural exchange programs promoting understanding between regions
 
 **Military Service Integration**: Bringing together people from all imperial territories
@@ -1052,7 +1052,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Regional Differences**: Varying attitudes based on regional experiences and interests
 - Heartland regions favoring conservative approaches and traditional stability
 - Border regions with magical contact favoring progressive adaptation strategies
-- Commercial regions supporting whatever approach best serves economic interests
+- Commercial regions supporting whatever approach best serves [[[[Economic Interest]]s]]
 - Military regions divided between traditional strength and adaptive flexibility
 
 #### Strategic Planning Challenges
@@ -1065,7 +1065,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Other civilizations providing incomplete or biased information
 - Internal disagreements about interpretation of available information
 
-**Resource Allocation**: Balancing traditional needs with convergence preparation
+**Resource Al[[location]]**: Balancing traditional needs with convergence preparation
 - Military spending decisions between traditional and convergence-related capabilities
 - Economic investment choices between traditional development and adaptation projects
 - Educational programs balancing traditional imperial culture with convergence preparation
@@ -1098,7 +1098,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Worker training programs maintaining skilled workforce during technological change
 
 **Service Sector Development**: Expanding beyond traditional agriculture and manufacturing
-- Ficial services supporting international commerce and development
+- Ficial services supporting [[International Commerce]] and development
 - Educational services providing training and cultural exchange
 - Transportation services connecting diverse civilizations and territories
 - Communication services facilitating international cooperation and trade
@@ -1137,7 +1137,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Greater openness to convergence participation and world change
 - Interest in magical technologies and transformed civilizations
 - Less attachment to traditional imperial culture and values
-- Desire for active participation in shaping future world order
+- De[[Sire]] for active participation in shaping future world order
 
 **Older Generations**: Attachment to traditional imperial culture and stability
 - Preference for maintaining traditional values and approaches
@@ -1225,7 +1225,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 **Imperial Politics and International Relations**
 
-**The Succession Crisis**: Characters become involved in imperial succession planning
+**[[The Succession Crisis]]**: Characters become involved in imperial succession planning
 - Multiple potential heirs with different visions for imperial future creating political tension
 - International implications of succession choices affecting diplomatic relationships
 - Regional differences in preferred succession outcomes creating internal conflict
@@ -1270,12 +1270,12 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Trade, Commerce, and Economic Development**
 
 **The Trade Mission**: Characters facilitate commercial relationships between civilizations
-- Negotiating trade agreements requiring understanding of diverse cultural and economic systems
+- Negotiating trade agreements requiring understanding of diverse cultural and [[Economic System]]s
 - Transporting valuable or dangerous goods requiring special handling and security
 - Establishing new trade routes through territories affected by magical transformation
 - Resolving commercial disputes requiring diplomatic and investigative skills
 
-**The Development Project**: Characters participate in imperial infrastructure development
+**The Development Project**: Characters participate in imperial [[Infrastructure Development]]
 - Construction projects requiring operations in dangerous or remote territories
 - Resource extraction operations requiring negotiation with local populations
 - Transportation system development connecting distant imperial territories
@@ -1299,12 +1299,12 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 **The Integration Challenge**: Characters help manage cultural diversity within the empire
 - Immigration assistance helping new populations adapt to imperial society
-- Conflict resolution addressing tensions between different cultural groups
+- Conflict resolution addressing tensions between different cultural [[Groups]]
 - Cultural preservation efforts maintaining traditional imperial identity during change
 - Educational program development preparing populations for world transformation
 
 **The Identity Crisis**: Characters explore questions of imperial identity and future direction
-- Historical research uncovering forgotten aspects of imperial development
+- [[Historical Research]] uncovering forgotten aspects of imperial development
 - Philosophical exploration of imperial values and their relevance to changing world
 - Political analysis of various options for imperial future development
 - Personal growth experiences connecting individual identity with imperial identity
@@ -1389,7 +1389,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Cultural understanding enabling effective communication with diverse civilizations
 - Negotiation skills resolving conflicts and building cooperation
 - Intelligence analysis providing information for diplomatic decision-making
-- Crisis management responding to international emergencies and conflicts
+- [[Crisis Management]] responding to international emergencies and conflicts
 
 **Political Development**: Characters influencing imperial political evolution
 - Policy analysis exploring options for imperial future development
@@ -1425,11 +1425,11 @@ Eastern Kingdoms is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Eastern Kingdoms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Eastern Kingdoms.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

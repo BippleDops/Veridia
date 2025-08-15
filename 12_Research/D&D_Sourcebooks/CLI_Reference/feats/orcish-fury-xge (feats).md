@@ -34,7 +34,7 @@ world: Both
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[half orc|Half Orc]]
+**Prerequisite**: [[Half Orc]]
 
 Your fury burns tirelessly. You gain the following benefits:
 

@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Great Old One Patron
-*[[warlock xphb|Warlock]]: Warlock Subclass*  
+*[[warlock-xphb-fiend-patron-xphb (classes)]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 162*  
 
 > [!tldr] Class and Feature Progression
@@ -75,41 +75,41 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[detect thoughts xphb|Detect Thoughts]], [[dissot-whispers-xphb|Dissot Whispers]], [[phantasmal force xphb|Phantasmal Force]], [[tashas hideous laughter xphb|Tasha's Hideous Laughter]] |
-| 5 | [[clairvoyance xphb|Clairvoyance]], [[hunger of hadar xphb|Hunger of Hadar]] |
-| 7 | [[confusion xphb|Confusion]], [[summon aberration xphb|Summon Aberration]] |
-| 9 | [[modify memory xphb|Modify Memory]], [[telekinesis xphb|Telekinesis]] |
+| 3 | [[detect-thoughts-xphb (spells)]], [[dissot-whispers-xphb|Dissot Whispers]], [[Phantasmal Force Xphb]], [[Tashas Hideous Laughter Xphb]] |
+| 5 | [[clairvoyance-xphb (spells)]], [[hunger-of-hadar-xphb (spells)]] |
+| 7 | [[Confusion Xphb]], [[summon-aberration-xphb (spells)]] |
+| 9 | [[modify-memory-xphb (spells)]], [[telekinesis-xphb (spells)]] |
 ^great-old-one-spells
 
 ### Awakened Mind (Level 3)
 
-You can form a telepathic connection between your mind and the mind of another. As a [[bonus action xphb|Bonus Action]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
+You can form a telepathic connection between your mind and the mind of another. As a [[Action Xphb]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
 
 The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.
 
 ### Psychic Spells (Level 3)
 
-When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [[illusions xphb|Illusion]], you can do so without Verbal or Somatic components.
+When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [[Illusions Xphb]], you can do so without Verbal or Somatic components.
 
 ### Clairvoyant Combatant (Level 6)
 
-When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[disadvantage xphb|Disadvantage]] on attack rolls against you, and you have [[advantage xphb|Advantage]] on attack rolls against that creature for the duration of the bond.
+When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[Advantage Xphb]] on attack rolls against you, and you have [[Advantage Xphb]] on attack rolls against that creature for the duration of the bond.
 
-Once you use this feature, you can't use it again until you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]] unless you expend a Pact [[actions#Magic|Magic]] spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]] unless you expend a Pact [[actions#Magic|Magic]] spell slot (no action required) to restore your use of it.
 
 ### Eldritch Hex (Level 10)
 
-Your alien patron grants you a powerful curse. You always have the [[hex xphb|Hex]] spell prepared. When you cast [[hex xphb|Hex]] and choose an ability, the target also has [[disadvantage xphb|Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the [[hex-xphb (spells)]] spell prepared. When you cast [[hex-xphb (spells)]] and choose an ability, the target also has [[Advantage Xphb]] on saving throws of the chosen ability for the duration of the spell.
 
 ### Thought Shield (Level 10)
 
-Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[resistance xphb|Resistance]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[boon-of-energy-resistance-xphb (feats)]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
 
 ### Create Thrall (Level 14)
 
-When you cast [[summon aberration xphb|Summon Aberration]], you can modify it so that it doesn't require [[conditions#Concentration|Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[temporary hit points xphb|Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
+When you cast [[summon-aberration-xphb (spells)]], you can modify it so that it doesn't require [[conditions#Concentration|Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[temporary-hit-points-xphb (variant-rules)]] equal to your Warlock level plus your Charisma modifier.
 
-In addition, the first time each turn the Aberration hits a creature under the effect of your [[hex xphb|Hex]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+In addition, the first time each turn the Aberration hits a creature under the effect of your [[hex-xphb (spells)]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-hyena-xmm-giant-hyena-xmm.svg)
 
-# [[giant hyena xmm|Giant Hyena]]
+# [[Hyena Xmm]]
 *Source: Monster Manual (2024) p. 357. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -60,7 +60,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Hyena (XMM)"
@@ -88,8 +88,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that was already [[bloodied xphb|Bloodied]],\
-      \ the hyena can move up to half its [[speed xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that was already [[bloodied-xphb (variant-rules)]],\
+      \ the hyena can move up to half its [[Fly Speed Xphb]],\
       \ and it makes one Bite attack."
     "name": "Rampage (1/Day)"
 "source":

@@ -1,9 +1,9 @@
 ---
 
 title: Pressure Suit Malfunction
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - emergency
 - event
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -94,14 +94,14 @@ improvements: 20
 - Include cultural hypocrisies and double standards
 
 ## Overview
-A critical equipment failure involving pressure suits used for deep-sea operations around Aquabyssos. Multiple suits have experienced dangerous malfunctions, threatening the lives of workers, explorers, and military personnel operating in high-pressure environments.
+A critical equipment failure involving pressure suits used for deep-sea operations around Aquabyssos. Multiple suits have experienced dangerous malfunctions, threatening the lives of workers, exp[[Lore]]rs, and military personnel operating in high-pressure environments.
 
 ## The Crisis
 **Affected Equipment**: Mark VI Deep Sea Pressure Suits
 **Failure Type**: Seal degradation causing catastrophic pressure loss
 **Casualty Count**: 3 deaths, 12 serious injuries, 30+ suits compromised
 **Affected Personnel**: Deep miners, military patrol units, research expeditions
-**Timeline**: Failures began 2 weeks ago, pattern emerging over last 5 days
+**[[[[Time]]line]]**: Failures began 2 weeks ago, pattern emerging over last 5 days
 
 ## Symptoms and Failures
 **Primary Seal Failure**: Joint seals degrading rapidly under pressure
@@ -112,7 +112,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 
 ## Immediate Response
 **Equipment Recall**: All Mark VI suits ordered out of service
-**Emergency Protocols**: Revised safety procedures for deep operations
+**[[Emergency Protocol]]s**: Revised safety procedures for deep operations
 **Medical Treatment**: Specialized care for pressure-related injuries
 **Investigation Team**: Technical experts examining failed equipment
 **Alternative Equipment**: Older suit models returned to service
@@ -121,7 +121,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 **Manufacturing Defect**: Batch of defective sealing compound identified
 **Quality Control**: Inspection procedures failed to catch the problem
 **Environmental Factor**: Recent chemical contamination may have accelerated failures
-**Sabotage Possibility**: Some evidence suggests deliberate tampering
+**Sabotage Possibility**: Some [[Evidence]] suggests deliberate tampering
 **Maintece Issues**: Inadequate servicing schedules contributed to problems
 
 ## Affected Operations
@@ -152,10 +152,10 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 **Equipment Needed**: Modified rescue suits rated for extreme conditions
 **Time Pressure**: Trapped personnel have limited air supply remaining
 
-## Investigation Suspects
+## Investigation [[Suspects]]
 **Manufacturer**: Koralltech Industries facing negligence charges
 **Saboteur**: Unknown individual with access to equipment storage
-**Government Official**: Possible corruption in safety oversight
+**[[Government Officia]]l**: Possible corruption in safety oversight
 **Foreign Agent**: Espionage aimed at weakening Aquabyssos's deep capabilities
 **Disgruntled Employee**: Insider with knowledge and access
 
@@ -164,7 +164,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 **Material Science**: New synthetic compounds resistant to environmental damage
 **Quality Assurance**: Revised testing procedures and oversight
 **Training Programs**: Enhanced operator education and maintece protocols
-**International Cooperation**: Sharing safety data with other underwater cities
+**International Cooperation**: Sharing safety [[data]] with other underwater cities
 
  ## Adventure Hooks
 1. Characters hired to investigate potential sabotage
@@ -189,7 +189,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 ## Expert Opinions
 **Chief Engineer**: "This represents systemic failure in our safety culture"
 **Medical Specialist**: "Pressure injuries from these failures will have lifelong effects"
-**Military Commander**: "Our deep defense capabilities are compromised until resolution"
+**[[Military Command]]er**: "Our deep defense capabilities are compromised until resolution"
 **Safety Inspector**: "Investigation reveals decades of inadequate oversight"
 **Industry Leader**: "Confidence will take years to rebuild after this crisis"
 
@@ -200,14 +200,14 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 **Operator Training**: Improved education about equipment limitations and dangers
 **Emergency Response**: Better rescue capabilities for equipment failure situations
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 This crisis provides opportunities for rescue missions, investigation adventures, and exploration of themes around technology, safety, and corporate responsibility. The equipment failure can serve as background tension or central plot element depending on campaign needs.
 
 ## Player-Facing Summary
@@ -237,6 +237,34 @@ Pressure Suit Malfunction is a notable location characterized by its unique feat
 
 ### Founding
 Pressure Suit Malfunction was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -271,3 +299,40 @@ Ongoing situations affecting Pressure Suit Malfunction:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

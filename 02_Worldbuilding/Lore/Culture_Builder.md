@@ -1,6 +1,6 @@
 ---
 title: Culture_Builder
-type: lore
+type: [[Lore]]
 tags:
 - lore
 created: '2025-01-15'
@@ -10,7 +10,7 @@ modified: '2025-01-15'
 # Culture_Builder
 
 ---
-title: Culture Builder
+title: [[Culture Builde]]r
 type: Group
 tags:
 - both
@@ -44,13 +44,13 @@ Culture Builder is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Culture Builder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Culture Builder.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Related
 
-*Links to related content will be added here.*
+*[[Link]]s to related content will be added here.*
 
 ## Secret Connections
 

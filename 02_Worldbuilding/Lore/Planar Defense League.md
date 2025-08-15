@@ -1,7 +1,7 @@
 ---
 
 title: Planar Defense League
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Planar Defense League represents a crucial aspect of the world's history, cosmol
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,16 +83,16 @@ Planar Defense League represents a crucial aspect of the world's history, cosmol
 ## Plot Hooks
 
 - Strange sightings suggest a curse
-- A merchant needs help stealing before winter
+- A [[Merchant]] needs help stealing before winter
 - Someone is blackmailing a artifact for love
 - Someone is protecting an heir for revenge
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -102,7 +102,7 @@ Planar Defense League represents a crucial aspect of the world's history, cosmol
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 

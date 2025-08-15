@@ -16,15 +16,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 15: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -160,3 +160,38 @@ Mentioned in The Second Prophecy of Stars
 - The villain's family begs for mercy
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
+
+
+## Pronunciation Guide
+- **Theme**: [THEME]
+- **Theme**: [THEME]
+- **Themes**: [THEMES]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

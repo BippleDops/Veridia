@@ -37,6 +37,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
 
@@ -47,6 +59,13 @@ improvements: 20
 
 > *"We are not infected. We are evolved. The parasites do not control us - they complete us. Through symbiosis, we become more than the sum of our parts, closer to the divine unity that [[The Deep Mother]] intended."*
 > — High Symbiont Threnus Coralborn, moments before his transformation became irreversible
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -127,7 +146,7 @@ Advanced cult doctrine teaches that successful symbiosis creates not just physic
 ### Sacred Texts and Prophecies
 
 **The Codex of Symbiosis:**
-The cult's primary religious text, written by their founder [[High Symbiont Malachar the First Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
+The cult's primary religious text, written by their founder [[High Symbiont Malachar the First-Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
 
 **The Prophecy of Perfect Unity:**
 Cult prophecy speaks of a coming age when the barriers between separate organisms will dissolve, creating a unified biological network spanning all of Aquabyssos. They believe this "Great Symbiosis" will occur when enough individuals have undergone successful parasitic bonding, creating a critical mass that will trigger spontaneous symbiosis throughout the population.
@@ -573,3 +592,40 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

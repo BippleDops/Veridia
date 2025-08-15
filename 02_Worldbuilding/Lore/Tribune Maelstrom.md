@@ -1,7 +1,7 @@
 ---
 
 title: Tribune Maelstrom
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Tribune Maelstrom represents a crucial aspect of the world's history, cosmology,
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -87,5 +87,5 @@ Tribune Maelstrom represents a crucial aspect of the world's history, cosmology,
 
 - Strange accidents suggest a portal
 - Strange dreams suggest ancient magic
-- A merchant needs help stealing before the festival
-- A map reveals ancient history about the government
+- A [[Merchant]] needs help stealing before the festival
+- A [[map]] reveals ancient history about the government

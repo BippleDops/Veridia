@@ -14,6 +14,12 @@ Downtime Activity Crafting an Item Xge is a notable item with both practical use
 
 ## Description
 **Type**: Wondrous Item
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
 **Rarity**: Uncommon
 **Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 

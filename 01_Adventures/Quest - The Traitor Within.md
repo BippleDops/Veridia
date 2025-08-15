@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Traitor Within
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg)
@@ -60,6 +68,15 @@ Sensitive military intelligence has been leaked to enemy forces, resulting in fa
 
 ## Quest Giver
 **General Marcus Ironward** - Veteran military commander torn between loyalty to his officers and duty to protect his soldiers. Offers 5,000 gp and military commendations for successfully identifying the traitor.
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## Background
 Recent military disasters suggest inside information reached enemy hands. Three separate operations failed despite careful planning, enemy forces appeared prepared for tactics, and classified supply routes were ambushed. The leak threatens ongoing war efforts and soldier morale.
@@ -178,3 +195,44 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge

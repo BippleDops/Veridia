@@ -1,15 +1,15 @@
 ---
 
 title: Illyana Glowstream
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - illyana
 - aquatic
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - mage
 - place
 - active
@@ -20,10 +20,10 @@ tags:
 - glowstream
 - crystal-enhanced
 - bloodline
-created: 2025-08-08 - Category/People
+created: 2025-08-08 - Category/[[People]]
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -43,7 +43,7 @@ improvements: 20
 
 # Illyana Glowstream
 
-*"Light is not merely illumination - it is hope made manifest, and in these dark times, hope is the most powerful magic of all."*
+*"Light is not merely illumination - it is hope made manifest, and in these dark [[Time]]s, hope is the most powerful magic of all."*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -144,7 +144,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 
 ### Actions
 
-**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) radiant damage.
+**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 ([[2d6]]) radiant damage.
 
 **Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a DC 15 Constitution saving throw or be blinded for 1 minute.
 
@@ -161,7 +161,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 
 ## Background
 
-Illyana was born in a surface coastal city but drawn to the underwater realm by prophetic dreams about bringing light to the depths. She arrived in Aquabyssos twelve years ago as a young mage and quickly distinguished herself by solving critical problems with the city's aging illumination infrastructure.
+Illyana was born in a surface coastal city but drawn to the underwater realm by [[Prophetic Dreams]] about bringing light to the depths. She arrived in Aquabyssos twelve years ago as a young mage and quickly distinguished herself by solving critical problems with the city's aging illumination infrastructure.
 
 Her innovative combination of traditional magic with bio-luminescent cultivation revolutionized how the city approaches lighting, creating sustainable systems that work with rather than against the natural underwater environment. Her work has been so successful that other underwater settlements regularly send delegations to learn her techniques.
 
@@ -173,18 +173,18 @@ She's also been providing informal counseling services, using her light magic to
 
 ## Quest Hooks
 
-1. Mysterious darkness is spreading through sections of the city, and Illyana needs the party's help to investigate its supernatural source.
+1. Mysterious darkness is spreading through sections of the city, and Illyana needs [[The Party]]'s help to investigate its supernatural source.
 2. The party requires specialized light magic for a mission, leading them to seek Illyana's assistance and expertise.
 3. Saboteurs have targeted critical illumination infrastructure, and Illyana needs protection while making dangerous repairs.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
 
@@ -192,7 +192,7 @@ Illyana serves as both a technical resource and an emotional anchor for the part
 
 Illyana Glowstream is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Illyana Glowstream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Illyana Glowstream.
 
@@ -212,6 +212,34 @@ Illyana Glowstream is a notable location characterized by its unique features an
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -260,3 +288,40 @@ Key stop on metals trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

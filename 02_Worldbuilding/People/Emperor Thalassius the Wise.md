@@ -163,7 +163,26 @@ Emperor Thalassius the Wise has ruled Aquabyssos for over three thousand years, 
 
 Standing seven feet tall even in his hunched, eternal posture, Thalassius wears the corroded crown of the first emperor, now fused to his skull through millennia of pressure and magic. His eyes are twin abyssal pearls that glow with an eerie blue-green light, seeing through time itself. Barnacles and coral growths decorate his form like jewelry, and schools of bioluminescent fish swim through his partially translucent body, living symbols of his unity with the ocean depths.
 
-The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime   Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.
+The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.
+
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## History
 
@@ -240,7 +259,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Economic Coordination**: Unofficial economic policies to prevent trade wars
 - **Succession Planning**: Both rulers secretly worry about what happens when leadership changes
 
-#### **[[The Shadow Crystal Synthesis]] - The Existential Threat**
+#### **[[Shadow Crystal]] - The Existential Threat**
 
 **The Corruption Challenge**:
 - **Ideological Opposition**: Their reality manipulation directly threatens the natural order Thalassius seeks to preserve
@@ -270,7 +289,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Knowledge Exchange**: Share research on reality manipulation while competing for same resources
 - **Trust Issues**: Both groups maintain secrets that prevent full cooperation
 
-#### **[[Sister Thalassa the Depth Touched]] - The Transformed Subject**
+#### **[[Sister Thalassa the Depth-Touched (D&D_References)]] - The Transformed Subject**
 
 **Complex Imperial Relationship**:
 - **Imperial Responsibility**: Thalassius feels partially responsible for her transformation
@@ -319,6 +338,11 @@ For three millennia, he has maintained the delicate balance of power in the dept
 **Primary**: Maintain the eternal stability and prosperity of Aquabyssos at any cost
 **Secondary**: Prevent the shadow corruption from consuming both realms
 **Hidden**: Find a way to truly die while ensuring the empire's continuation
+
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
 
 ## Roleplaying Notes
 
@@ -450,3 +474,40 @@ Mentioned in The Second Prophecy of Depths
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

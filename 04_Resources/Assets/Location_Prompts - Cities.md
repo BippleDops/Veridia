@@ -79,3 +79,51 @@ modified: '2025-01-15'
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-15T03:25:01Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:30:01Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:35:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:40:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:45:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:50:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T03:55:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T04:00:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T04:05:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T04:10:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T04:15:03Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-15T04:20:03Z)\n
+```json
+[]
+```

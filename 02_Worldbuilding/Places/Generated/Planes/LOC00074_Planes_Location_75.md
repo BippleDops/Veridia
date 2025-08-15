@@ -1,0 +1,8 @@
+# Planes Location 75
+
+*Planes*
+
+A detailed planes location with rich history and plot hooks.
+
+---
+*ID: LOC00074*

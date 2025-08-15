@@ -73,11 +73,11 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [[longsword xphb|longsword]], [[shortsword xphb|shortsword]], [[shortbow xphb|shortbow]], and [[longbow xphb|longbow]].
+You have proficiency with the [[Longsword Xphb]], [[shortsword-xphb (items)]], [[shortbow-xphb (items)]], and [[longbow-xphb (items)]].
 
 ### Fey Step
 
-You can cast the [[misty step xphb|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+You can cast the [[Misty Step Xphb]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ## 🔧 Deep Evaluation Improvements
 

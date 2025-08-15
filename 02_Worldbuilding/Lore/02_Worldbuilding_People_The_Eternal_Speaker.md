@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 02 Worldbuilding/People/The Eternal Speaker
+# 02 Worldbuilding/[[People]]/[[The Eternal Speaker]]
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of 02 Worldbuilding/People/The Eternal Speaker involves several 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02 Worldbuilding/People/The Eternal Speaker trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 02 Worldbuilding/People/The Eternal Speaker are various other impor
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02 Worldbuilding/People/The Eternal Speaker through their own cultural lenses:
+Different [[Groups]] view 02 Worldbuilding/People/The Eternal Speaker through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02 Worldbuilding/People/The Eternal Speaker:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02 Worldbuilding/People/The Eternal Speaker has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02 Worldbuilding/People/The Eternal Speaker into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02 Worldbuilding/People/The Eternal Speaker might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02-worldbuilding/people/the-eternal-speaker
+*Tags*: [[#General]] #worldbuilding #02-worldbuilding/people/the-eternal-speaker

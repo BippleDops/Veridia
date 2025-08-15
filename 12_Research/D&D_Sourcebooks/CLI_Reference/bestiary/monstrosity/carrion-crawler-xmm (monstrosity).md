@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-carrion-crawler-xmm-carrion-crawler-xmm.svg)
 
-# [[carrion crawler xmm|Carrion Crawler]]
+# [[Carrion Crawler Xmm]]
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

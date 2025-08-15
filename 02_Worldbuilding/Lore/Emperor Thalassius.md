@@ -1,7 +1,7 @@
 ---
 
-title: Emperor Thalassius
-type: lore
+title: [[Emperor]] Thalassius
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -13,7 +13,7 @@ improvements: 20
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-emperor-thalassius-emperor-thalassius.svg)
+![](04_Resources/Assets/Portraits/portrait-[[Npc]]-emperor-thalassius-emperor-thalassius.svg)
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/People/Emperor_Thalassius represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/[[People]]/Emperor_Thalassius represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Emperor_Thalassius can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -100,7 +100,7 @@ Connected to 02_Worldbuilding/People/Emperor_Thalassius are various other import
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/People/Emperor_Thalassius through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/People/Emperor_Thalassius through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -202,7 +202,7 @@ Ways to incorporate 02_Worldbuilding/People/Emperor_Thalassius into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -242,7 +242,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

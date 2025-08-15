@@ -53,7 +53,7 @@ Dim, greenish light spreads within a 30-foot-radius sphere centered on a point y
 
 When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take `4d10` radiant damage, and it suffers one level of [[conditions#Exhaustion|exhaustion]] and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being [[conditions#Invisible|invisible]]. The light and any levels of [[conditions#Exhaustion|exhaustion]] caused by this spell go away when the spell ends.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 164*
 

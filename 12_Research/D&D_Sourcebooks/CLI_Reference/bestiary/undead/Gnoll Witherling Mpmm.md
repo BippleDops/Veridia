@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-gnoll-witherling-mpmm.svg)
 
-# [[gnoll witherling mpmm|Gnoll Witherling]]
+# [[gnoll-witherling-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
 
 > [!quote] A quote from Mordenkainen  

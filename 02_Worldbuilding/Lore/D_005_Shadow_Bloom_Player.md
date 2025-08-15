@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # D 005_Shadow_Bloom_Player
@@ -22,7 +22,7 @@ The full nature of D 005_Shadow_Bloom_Player involves several interconnected com
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of D 005_Shadow_Bloom_Player trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to D 005_Shadow_Bloom_Player are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view D 005_Shadow_Bloom_Player through their own cultural lenses:
+Different [[Groups]] view D 005_Shadow_Bloom_Player through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of D 005_Shadow_Bloom_Player:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How D 005_Shadow_Bloom_Player has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate D 005_Shadow_Bloom_Player into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways D 005_Shadow_Bloom_Player might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #d-005_shadow_bloom_player
+*Tags*: [[#General]] #worldbuilding #d-005_shadow_bloom_player

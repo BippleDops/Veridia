@@ -36,7 +36,7 @@ world: Both
 *Ring, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
-You gain a +1 bonus to [[armor class xphb|Armor Class]] and saving throws while wearing this ring.
+You gain a +1 bonus to [[armor-class-xphb (variant-rules)]] and saving throws while wearing this ring.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 

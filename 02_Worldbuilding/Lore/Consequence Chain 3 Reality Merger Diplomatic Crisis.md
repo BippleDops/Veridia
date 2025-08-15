@@ -1,7 +1,7 @@
 ---
 
 title: Consequence Chain 3 Reality Merger Diplomatic Crisis
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - session-notes
@@ -12,12 +12,12 @@ tags:
 - quest
 - content/lore
 - world/both
-- world/aethermoor
+- world/[[Aethermoor]]
 - campaign/arc
 - combat
 - active
 - reality-merger
-- world/aquabyssos
+- world/[[Aquabyssos]]
 - convergence-event
 - crystal-enhanced
 - conspiracy
@@ -29,7 +29,7 @@ magnitude: 5
 primary_sessions:
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
-- 'Session 10: The Deep Mother Rises'
+- 'Session 10: The [[Deep Mother]] Rises'
 updated: '2025-08-12T23:37:38.873015'
 visibility: 5
 world: Both Worlds
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -79,7 +79,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -100,19 +100,19 @@ improvements: 20
 - Negotiated with both realm's leadership to prevent total war over merged territories
 - Facilitated first direct diplomatic contact between surface and underwater civilizations
 - Chose unity over separation, creating permanently merged city districts
-- Established the bloodline carrier as living bridge between realms
-- Defeated/communicated with the Deep Mother, stabilizing merged reality
+- Established [[The Bloodline Carrier]] as living bridge between realms
+- Defeated/communicated with [[The Deep Mother]], stabilizing merged reality
 
 **Who was directly affected:**
-- **[[Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
-- **[[The Scattered Emperor]]**: Forced to engage in international diplomacy
+- **[[[[Queen Seraphina]] [[Lumengarde]]]]**: Had to acknowledge underwater civilization's legitimacy
+- **[[The Scattered [[Emperor]]]]**: Forced to engage in international diplomacy
 - **[[United Councils of Both Worlds]]**: Emergency joint government formed
-- **[[Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
+- **[[[[Eastern Kingdom]] Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
-- **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
+- **[[The Deep Mother|[[02 Worldbuilding]]/[[People]]/The Deep Mother]]**: Either sealed, communicated with, or departed
 
 **Immediate visible results:**
-- New Meridian created: floating districts of Aquabyssos merged with surface city
+- [[New Meridian]] created: floating districts of Aquabyssos merged with surface city
 - Impossible architecture: buildings existing in multiple gravitational orientations
 - Dual-species population requiring immediate accommodation and communication
 - Emergency joint councils formed to prevent civil war
@@ -149,7 +149,7 @@ improvements: 20
 - **Joint defense protocols**: Combined forces to protect merged territories
 - **Border control crisis**: No precedent for immigration between merged realities
 - **Security integration**: Surface and depth-based patrol systems required coordination
-- **Intelligence sharing**: Forced cooperation between previously isolated military commands
+- **Intelligence sharing**: Forced cooperation between previously isolated [[Military Command]]s
 - **Weapons compatibility**: Technology sharing for mutual defense
 - **Foreign relations**: Eastern Kingdoms maintained neutral observation fleet
 
@@ -158,17 +158,17 @@ improvements: 20
 **Faction realignments:**
 - **[[The Crown]]** and **[[Parliament of Echoes]]** forced into cooperation
 - **Cross-realm trade guilds** formed to exploit new opportunities
-- **Cultural preservation societies** emerged to protect distinct traditions
+- **[[Cultural Preservation]] societies** emerged to protect distinct traditions
 - **Unification movements** promoted complete realm merger
-- **Separatist groups** demanded reality re-division
-- **Mixed-heritage organizations** supported citizens with dual loyalties
+- **Separatist [[Groups]]** demanded reality re-division
+- **Mixed-heritage [[Organization]]s** supported citizens with dual loyalties
 
 **Trade route changes:**
-- **Vertical trade networks**: Goods moving between surface and depth levels
+- **Vertical [[Trade Networks]]**: Goods moving between surface and depth levels
 - **Gravitational shipping**: New transportation methods for mixed-gravity zones
 - **Resource monopoly breakdown**: Access to both realm's unique materials
 - **International hub development**: New Meridian became major trade center
-- **Technology transfer acceleration**: Cross-realm innovation collaboration
+- **[[Technology Transfer]] acceleration**: Cross-realm innovation collaboration
 - **Smuggling evolution**: Criminals exploited jurisdictional confusion
 
 **Cultural shifts:**
@@ -203,12 +203,12 @@ improvements: 20
 - **Cultural supremacy debates**: Arguments over which traditions should dominate
 - **Jurisdictional conflicts**: Ongoing disputes about legal authority in merged zones
 - **Immigration tensions**: Citizens from non-merged areas seeking merged-area benefits
-- **International pressure**: Other realms demanding similar merger opportunities or prevention
+- **[[International Pressure]]**: Other realms demanding similar merger opportunities or prevention
 
 **Unexpected alliances:**
 - **Cross-realm security cooperation**: Joint forces more effective than separate militaries
 - **Scientific collaboration**: Research advances accelerated through knowledge combination
-- **Cultural exchange programs**: Educational institutions facilitating understanding
+- **[[[[Cultural Exchange]] Programs]]**: Educational institutions facilitating understanding
 - **Mixed-heritage advocacy**: Political movements representing dual-citizenship rights
 - **International mediation**: Eastern Kingdoms became permanent diplomatic facilitators
 - **Religious cooperation**: Some faiths found common ground in merger experience
@@ -246,7 +246,7 @@ improvements: 20
 
 Consequence Chain 3 - Reality Merger Diplomatic Crisis represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -254,7 +254,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

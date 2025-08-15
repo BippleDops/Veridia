@@ -54,7 +54,7 @@ Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw 
 
 As a [[actions#Search|Search]] action, a creature can examine the walls and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the holes on a successful check. Plugging all the holes with wax, cloth, or detritus prevents the darts from firing.
 
-As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[iron spikes xphb|Iron Spike]] or a similar object under the pressure plate prevents the trap from triggering.
+As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[Iron Spikes Xphb]] or a similar object under the pressure plate prevents the trap from triggering.
 
 ## At Higher Levels
 

@@ -129,7 +129,7 @@ Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and pre
 
 ## Cross-References
 
-- [[Abyssos Prime   Throne of Bubbles]]
+- [[Throne of Bubbles]]
 
 nriched: true -->
 
@@ -148,3 +148,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

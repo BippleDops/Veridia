@@ -56,10 +56,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Child**: [[portrait-npc-queen-nerida-v1-queen-nerida.svg]]
-- **Mentor**: [[Portrait NPC Lord Commander Gareth Steelborn V2 Lord Commander Gareth Steelborn.svg]]
+- **Child**: [[Npc]]
+- **Mentor**: [[Npc]]
 - **Ally**: [[Original Glaucus]]
-- **Friend**: [[portrait-npc-deep-lords-v1-deep-lords.svg]]
+- **Friend**: [[Npc]]
 
 ## 12_Research Specific Content
 

@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[disguise self xphb|Disguise Self]] without expending a spell slot.
+You can cast [[disguise-self-xphb (spells)]] without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

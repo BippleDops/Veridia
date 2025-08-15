@@ -52,13 +52,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes `3d6` Necrotic damage, and you regain [[hit-points-xphb|Hit Points]] equal to half the amount of Necrotic damage dealt.
+The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes `3d6` Necrotic damage, and you regain [[hit-points-xphb (variant-rules)]] equal to half the amount of Necrotic damage dealt.
 
 Until the spell ends, you can make the attack again on each of your turns as a [[actions#Magic|Magic]] action, targeting the same creature or a different one.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 3.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 337. Available in the SRD and the Free Rules (2024)*
 
@@ -98,3 +98,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and chaos spreads
 - A shipment has gone missing and evil awakens
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[vampiric-touch-xphb (spells)-phb]]` in CLI_Reference/spells/

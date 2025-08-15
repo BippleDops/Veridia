@@ -46,7 +46,7 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 163*
 
@@ -85,3 +85,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[primordial-ward-xge (spells)-phb]]` in CLI_Reference/spells/

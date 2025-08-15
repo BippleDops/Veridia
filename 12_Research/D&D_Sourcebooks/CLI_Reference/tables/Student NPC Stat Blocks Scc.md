@@ -38,7 +38,7 @@ world: Both
 
 | Year | Stat Block |
 |------|------------|
-| First | [[/03 Mechanics/CLI/bestiary/humanoid/first-year-student-scc|First-Year Student]] |
+| First | [[Bestiary]] |
 | Second | [College] Apprentice |
 | Third or Later | [College] Pledgemage |
 ^student-npc-stat-blocks

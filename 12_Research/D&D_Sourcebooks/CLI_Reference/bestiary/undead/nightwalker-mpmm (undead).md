@@ -41,7 +41,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[nightwalker mpmm|Nightwalker]]
+# [[nightwalker-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -86,7 +86,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [[wish xphb|wish]] spell."
+      \ be revived except by a [[wish-xphb (spells)]] spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-monk-xmm-githzerai-monk-xmm.svg)
 
-# [[githzerai monk xmm|Githzerai Monk]]
+# [[Githzerai Monk Xmm]]
 *Source: Monster Manual (2024) p. 136*  
 
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
@@ -128,16 +128,16 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
       \ plus 9 (2d8) Psychic damage."
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[mage hand xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day: [[see invisibility xphb|See Invisibility]]"
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[mage-hand-xphb (spells)]]\
+      \ (the hand is Invisible)\n\n1/day: [[see-invisibility-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [[jump xphb|Jump]], requiring\
+  - "desc": "The githzerai casts [[Long Jump Xphb]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [[feather fall xphb|Feather Fall]]\
-      \ or [[shield xphb|Shield]] in response to the spell's\
+  - "desc": "The githzerai casts [[Feather Fall Xphb]]\
+      \ or [[Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"

@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Pretender's Crown
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 # Quest - The Pretender's Crown
 
@@ -44,6 +52,21 @@ obsidianUIMode: preview
 
 *The Throne of Aethermoor Stands on a Foundation of Lies*
 
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -58,7 +81,7 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
+A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow Crystal]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
 
 The investigation will lead through the highest echelons of nobility, into forgotten royal vaults, and ultimately to a conspiracy that threatens not just the crown but the very nature of reality in Aethermoor. Every ally could be an enemy, every proof could be fabricated, and the truth itself might be more dangerous than the lie.
 
@@ -84,7 +107,7 @@ The investigation will lead through the highest echelons of nobility, into forgo
 ### The Truth (DM Only)
 
 The Pretender is actually:
-1. **A Perfect Simulacrum** created by the [[Shadow Crystal Synthesis]] using stolen royal blood and memories
+1. **A Perfect Simulacrum** created by the [[Shadow Crystal]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
 3. **The Real Heir** but corrupted by shadow during their exile
 4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
@@ -172,7 +195,7 @@ The party must break into the most secure archive in Aethermoor, protected by:
 **Discovery**: The Pretender is controlled by multiple factions
 
 **Faction Involvement**:
-1. **[[Shadow Crystal Synthesis]]**: Want puppet ruler for their plans
+1. **[[Shadow Crystal]]**: Want puppet ruler for their plans
 2. **[[The Convergence Seekers]]**: Believe false king will trigger convergence
 3. **Foreign Power**: [[Aquabyssos]] agents destabilizing Aethermoor
 4. **Noble Houses**: Gambling on regime change for power
@@ -440,3 +463,55 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

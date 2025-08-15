@@ -233,7 +233,7 @@ Your vault is now fully optimized for:
 - [[100_PERCENT_COMPLETE]] - 10K enhancement completion
 - [[LINK_UPDATE_COMPLETE]] - Link repair summary
 - [[FRONTMATTER_FIX_COMPLETE]] - Metadata standardization
-- [[13_Performance/optimization_report_*.md]] - Detailed reports
+- [[optimization_report_*.md]] - Detailed reports
 
 ## DM Notes
 

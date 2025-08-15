@@ -610,8 +610,8 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 
 **Related Items and Concepts**:
 - [[The Boundary Accords]]
-- [[Inter Realm Diplomacy]]
-- [[Surface Underwater Trade]]
+- [[Inter-Realm Diplomacy (D&D_References)]]
+- [[Surface-Underwater Trade (D&D_References)]]
 - [[Cultural Integration]]
 
 ## Player-Facing Summary

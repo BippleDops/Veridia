@@ -68,15 +68,15 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ### Attune during a Short Rest
 
-Attuning to an item requires you to spend a [[short rest xphb|Short Rest]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
+Attuning to an item requires you to spend a [[short-rest-xphb]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
 
 ### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring of protection xdmg|Ring of Protection]] at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring-of-protection-xdmg (items)]] at a time.
 
 ### Ending Attunement
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[short rest xphb|Short Rest]] focused on the item unless the item is cursed.
+Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[short-rest-xphb]] focused on the item unless the item is cursed.
 
 ### Optional Attunement
 
@@ -91,26 +91,26 @@ _Source: Dungeon Master's Guide (2024) p. 72_
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at the GM's discretion.
 
 ### Burst Fire
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube area of effect xphb|Cube]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[Cube Area of Effect Xphb]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 ### Finesse
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ### Heavy
-You have [[disadvantage xphb|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have [[Advantage Xphb]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ### Light
-When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus action xphb|Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword xphb|Shortsword]] in one hand and a [[dagger xphb|Dagger]] in the other using the [[actions#Attack|Attack]] action and a [[bonus action xphb|Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus action xphb|Bonus Action]] unless that modifier is negative.
+When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[Action Xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb (items)]] in one hand and a [[Dagger Xphb]] in the other using the [[actions#Attack|Attack]] action and a [[Action Xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Action Xphb]] unless that modifier is negative.
 
 ### Loading
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
-You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[bonus action xphb|Bonus Action]], or a [[reaction xphb|Reaction]] to fire it, regardless of the number of attacks you can normally make.
+You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[Action Xphb]], or a [[reaction-xphb (variant-rules)]] to fire it, regardless of the number of attacks you can normally make.
 
 ### Reach
 A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [[actions#Opportunity%20Attack|Opportunity Attacks]] with it.
 
 ### Reload
-You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[bonus action xphb|Bonus Action]].
+You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[Action Xphb]].
 
 ### Thrown
 If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
@@ -131,7 +131,7 @@ An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns
 
 ## Improvised Weapons
 
-If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[improvised weapons xphb|Improvised Weapons]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[Weapons Xphb]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 
 ## Silvered Weapons
 
@@ -155,13 +155,13 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items, including the identify spell, fail to reveal the presence of a curse, although lore might hint at it.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove curse xphb|remove curse]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[Remove Curse Xphb]] spell.
 
 ## Cursed Items
 
 A magic item’s description specifies whether it bears a curse. Most methods of identifying items, including the Identify spell, fail to reveal such a curse.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove curse xphb|Remove Curse]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[Remove Curse Xphb]] spell.
 
 ## Poison
 
@@ -192,8 +192,8 @@ Given their insidious and deadly nature, poisons are a favorite tool among assas
 Poisons come in the following four types:
 
 - **Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.  
-- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[advantage xphb|Advantage]] on the saving throw or dealing only half as much damage on a failed save.  
-- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[cube area of effect xphb|Cube]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
+- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[Advantage Xphb]] on the saving throw or dealing only half as much damage on a failed save.  
+- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[Cube Area of Effect Xphb]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
 - **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.  
 
 ### Purchasing Poison
@@ -202,7 +202,7 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [[conditions#Incapacitated|Incapacitated]] condition. The effort takes `d6` minutes, after which the character makes a DC 20 Intelligence ([[skills#Nature|Nature]]) check using a [[poisoners kit xphb|Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [[conditions#Incapacitated|Incapacitated]] condition. The effort takes `d6` minutes, after which the character makes a DC 20 Intelligence ([[skills#Nature|Nature]]) check using a [[Poisoners Kit Xphb]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ## Player-Facing Summary
 

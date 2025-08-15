@@ -39,14 +39,14 @@ world: Both
 *Potion*  
 
 > [!note]
-> * This item group has the same name and source as the item [[potion of healing xdmg|potion of healing]].
+> * This item group has the same name and source as the item [[Potion of Healing Xdmg]].
 
 **Items in this group:**
 
-- [[potion of healing xdmg|Potion of Healing]]
-- [[potion of greater healing xdmg|Potion of Greater Healing]]
-- [[potion of superior healing xdmg|Potion of Superior Healing]]
-- [[potion of supreme healing xdmg|Potion of Supreme Healing]]
+- [[Potion of Healing Xdmg]]
+- [[potion-of-greater-healing-xdmg (items)]]
+- [[healing]]
+- [[Potion of Supreme Healing Xdmg]]
 
 *Source: Dungeon Master's Guide p. 187. Available in the SRD*
 

@@ -237,3 +237,9 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

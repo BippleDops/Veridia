@@ -1,4 +1,5 @@
 ---
+
 title: DM_Session_Navigator
 type: session
 tags:
@@ -6,6 +7,7 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # DM_Session_Navigator
@@ -122,3 +124,17 @@ SORT priority DESC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

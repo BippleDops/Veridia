@@ -1,10 +1,12 @@
 ---
+
 title: Countess Argentum Vaultkeeper (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Countess Argentum Vaultkeeper
@@ -58,3 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A prisoner has gone missing and evil awakens
 - A corpse reveals a betrayal about this place
 - Someone is hunting a witness for revenge
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

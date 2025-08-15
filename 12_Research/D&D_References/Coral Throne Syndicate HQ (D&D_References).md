@@ -39,7 +39,7 @@ updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02 Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson]]
+- '[[Places]]
   Reef]]'
 ---
 
@@ -64,7 +64,7 @@ related_entities:
 
 The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[Coral Empress Scarletina]].
 
-Located in the depths of [[02 Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
+Located in the depths of [[Places]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
 
 The headquarters represents the perfect synthesis of natural beauty and criminal pragmatism. The syndicate has learned to work with the living coral rather than against it, creating a fortress that grows and adapts over time, healing from damage and expanding to meet operational needs. This symbiotic relationship between criminal organization and living reef has created something unprecedented in the criminal underworld - a truly living stronghold.
 
@@ -156,7 +156,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Personal Security**: Each suite includes magical wards and emergency escape routes
 
 **Notable Residents**:
-- [[Lieutet Bloodcoral Vex Tidebreaker]] - Enforcement specialist with trophy collection
+- [[Lieutet_Bloodcoral_Vex_Tidebreaker]] - Enforcement specialist with trophy collection
 - [[Navigator Slyph Currentwhisper]] - Maritime operations coordinator with maps room
 - [[Harvester Keth Reefrender]] - Coral cultivation expert with personal greenhouse
 
@@ -235,8 +235,8 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Memory Extraction**: Advanced facilities for directly accessing prisoners' memories
 
 **Interrogation Specialists**:
-- [[Truth Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
-- [[Pain Artist Cruelty Refined]] - Expert in physical persuasion techniques
+- [[Truth-Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
+- [[Pain-Artist Cruelty Refined]] - Expert in physical persuasion techniques
 - [[Memory Thief Recall Stealer]] - Specialized in magical memory extraction and manipulation
 
 #### Living Coral Guardians
@@ -299,7 +299,7 @@ The fortress employs various coral creatures as security:
 #### The Inner Circle
 **Trusted Lieutets**: Scarletina's most capable and loyal subordinates:
 
-**[[Lieutet Bloodcoral Vex Tidebreaker]]**: Enforcement and intimidation specialist
+**[[Lieutet_Bloodcoral_Vex_Tidebreaker]]**: Enforcement and intimidation specialist
 - **Responsibilities**: Discipline, debt collection, elimination of threats
 - **Reputation**: Known throughout criminal underworld for creative cruelty
 - **Resources**: Personal squad of elite enforcers, torture specialists

@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships
+# 04_Resources/Handouts/Ships/Player_Handout_[[Aethermoor]]_Airships
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airship
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships are 
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships through their own cultural lenses:
+Different [[Groups]] view 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airsh
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airshi
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #04_resources/handouts/ships/player_handout_aethermoor_airships
+*Tags*: [[#General]] #worldbuilding #04_resources/handouts/ships/player_handout_aethermoor_airships

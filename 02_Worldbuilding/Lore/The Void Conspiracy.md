@@ -1,7 +1,7 @@
 ---
 
 title: The Void Conspiracy
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -21,7 +21,7 @@ improvements: 20
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)
+![](04_Resources/Assets/Portraits/portrait-[[Npc]]-quest-the-void-conspiracy-quest-the-void-conspiracy.png)
 
 > [!figure] Portrait
 
@@ -39,7 +39,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ The Void Conspiracy is a void-touched element of the setting, known for impossib
 
 Legends speak of The Void Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Conspiracy.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -105,12 +105,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

@@ -1,7 +1,7 @@
 ---
 
-title: Assets Npcs
-type: lore
+title: Assets [[Npc]]s
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -81,7 +81,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 04_Resources/Assets/npcs involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 04_Resources/Assets/npcs trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -92,7 +92,7 @@ Connected to 04_Resources/Assets/npcs are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 04_Resources/Assets/npcs through their own cultural lenses:
+Different [[Groups]] view 04_Resources/Assets/npcs through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -161,7 +161,7 @@ The current state of 04_Resources/Assets/npcs:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 04_Resources/Assets/npcs has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -194,7 +194,7 @@ Ways to incorporate 04_Resources/Assets/npcs into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -215,7 +215,7 @@ How to adjust for different games:
 Ways 04_Resources/Assets/npcs might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -234,7 +234,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -257,7 +257,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #04_resources/assets/npcs
+*Tags*: [[#General]] #worldbuilding #04_resources/assets/npcs
 
 ## Cultural Impact
 
@@ -269,12 +269,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is searching for a artifact for revenge
 - Someone is hunting a artifact for love
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -284,7 +284,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 

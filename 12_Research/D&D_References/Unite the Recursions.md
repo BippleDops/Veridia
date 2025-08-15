@@ -493,11 +493,11 @@ The real question isn't whether to unite the recursions, but whether the party w
 ---
 
 ## See Also
-- [[02 Worldbuilding/Lore/The Reality Engine|02 Worldbuilding/Lore/The Reality Engine]]
+- [[The Reality Engine]]
 - [[The Convergence Cult|02 Worldbuilding/Groups/The Convergence Cult]]
-- [[03_Mechanics/Recursion_Travel_System|03 Mechanics/Recursion Travel System]]
-- [[02 Worldbuilding/Lore/The Seventeen Attempts|02 Worldbuilding/Lore/The Seventeen Attempts]]
-- [[02 Worldbuilding/Places/The Recursion Nexus|02 Worldbuilding/Places/The Recursion Nexus]]
+- [[Recursion_Travel_System]]
+- [[The Seventeen Attempts]]
+- [[The Recursion Nexus]]
 
 *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"*
 

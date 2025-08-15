@@ -40,7 +40,7 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 55.0 lbs.
 
-An Explorer's Pack contains the following items: [[backpack xphb|Backpack]], [[bedroll xphb|Bedroll]], 2 flasks of [[oil xphb|Oil]], 10 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], 10 [[torch xphb|Torches]], and [[waterskin xphb|Waterskin]].
+An Explorer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], 2 flasks of [[Oil Xphb]], 10 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], 10 [[Torch Xphb]], and [[waterskin-xphb (items)]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
 

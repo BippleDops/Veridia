@@ -38,7 +38,7 @@ updated: '2025-08-13T12:34:05.383884+00:00'
 world: Both
 ---
 
-# [[stone giant xmm|Stone Giant]]
+# [[stone-giant-xmm (giant)]]
 *Source: Monster Manual (2024) p. 300. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mastermind-mpmm-deathlock-mastermind-mpmm.svg)
 
-# [[deathlock mastermind mpmm|Deathlock Mastermind]]
+# [[Deathlock Mastermind Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -119,12 +119,12 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\nAt will: [[detect magic xphb|detect magic]],\
-      \ [[disguise self xphb|disguise self]], [[mage armor xphb|mage armor]],\
-      \ [[minor illusion xphb|minor illusion]]\n\n1/day\
-      \ each: [[darkness xphb|darkness]], [[dimension door xphb|dimension door]],\
-      \ [[dispel magic xphb|dispel magic]], [[fly xphb|fly]],\
-      \ [[invisibility xphb|invisibility]]"
+      \ spellcasting ability (spell save DC 14):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[disguise-self-xphb (spells)]], [[mage-armor-xphb (spells)]],\
+      \ [[Minor Illusion Xphb]]\n\n1/day\
+      \ each: [[darkness-xphb (variant-rules)]], [[Dimension Door Xphb]],\
+      \ [[dispel-magic-xphb (spells)]], [[fly-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

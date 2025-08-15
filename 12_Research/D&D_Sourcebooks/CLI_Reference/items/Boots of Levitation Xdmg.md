@@ -39,7 +39,7 @@ world: Both
 # Boots of Levitation
 *Wondrous item, rare (requires attunement)*  
 
-While you wear these boots, you can cast [[levitate xphb|Levitate]] on yourself.
+While you wear these boots, you can cast [[levitate-xphb (spells)]] on yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 239. Available in the SRD and the Free Rules (2024)*
 

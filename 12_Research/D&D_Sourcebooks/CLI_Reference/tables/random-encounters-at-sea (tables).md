@@ -46,12 +46,12 @@ world: Both
 | 9-10 | Passing merchant ship (galley or sailing ship) |
 | 11-12 | [[killer-whale-xmm|Killer whale]] sighting |
 | 13-14 | Floating debris |
-| 15 | Longship crewed by hostile [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
-| 16 | Hostile [[griffon xmm|griffons]] or [[harpy xmm|harpies]] |
+| 15 | Longship crewed by hostile [[Bestiary]] |
+| 16 | Hostile [[griffon-xmm (monstrosity)]] or [[harpy-xmm (monstrosity)]] |
 | 17 | Iceberg (easily avoided if seen from a distance) |
 | 18 | [[sahuagin-warrior-xmm|Sahuagin]] boarding party |
 | 19 | NPC in the water (clinging to floating debris) |
-| 20 | Sea monster (such as a [[dragon-turtle-xmm|dragon turtle]] or [[kraken xmm|kraken]]) |
+| 20 | Sea monster (such as a [[dragon-turtle-xmm (dragon)]] or [[Kraken]]) |
 ^random-encounters-at-sea
 
 ## 🔧 Deep Evaluation Improvements
@@ -88,3 +88,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

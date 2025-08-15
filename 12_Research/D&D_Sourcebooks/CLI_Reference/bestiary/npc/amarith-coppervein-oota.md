@@ -48,7 +48,7 @@ world: Both
 "subtype": "any race"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[[splint armor xphb|splint armor]]"
+"ac_class": "[[splint-armor-xphb (items)]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"

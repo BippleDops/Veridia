@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Creation - Quick Reference
 
 ## Key Info
@@ -19,4 +24,4 @@
 - **Weakness**: *[Exploitable flaw]*
 
 ---
-*Quick reference for [[Character Creation]]*
+*Quick reference for [[Character_Creation_Flowchart]]*

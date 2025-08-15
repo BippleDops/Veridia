@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Probability Engine
-type: lore
+title: [[location]]s the Probability Engine
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ Connected to 02_Worldbuilding/Locations/The Probability Engine are various other
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Probability Engine through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Probability Engine through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -191,7 +191,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Probability Engine into gamep
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

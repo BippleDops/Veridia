@@ -47,7 +47,7 @@ danger_level: Moderate
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02 Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[Groups]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -66,7 +66,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 ### The First Bloom
 **Founded**: 200 years ago by [[Sage Prism Lightweaver]]  
 **Original Purpose**: Experimental facility for crystal-plant hybrid cultivation  
-**The Discovery**: First successful growth of [[Resoce Roses]] - crystals that bloom like flowers  
+**The Discovery**: First successful growth of [[Resoce_Roses]] - crystals that bloom like flowers  
 **Royal Patronage**: [[Queen Seraphina Lumengarde]]'s ancestors made it a crown preserve
 
 ### The Great Crystallization
@@ -78,7 +78,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 ### Modern Era
 **Current Status**: Premier magical research facility and public wonder  
 **Expansion**: Underground crystal caverns discovered beneath original gardens  
-**Integration**: Now connected to the [[Palace Courtyard   Crystal Garden]] via crystal bridges
+**Integration**: Now connected to the [[garden]] via crystal bridges
 
 #### The Prism Plaza
 **Description**: Central gathering area with a massive crystal formation that refracts daylight into rainbow patterns  
@@ -381,7 +381,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 **Consequence**: If successful, would destroy magical balance of entire region  
 **Finale**: Confrontation in the deepest chambers beneath the Gardens
 
-### [[Palace Courtyard   Crystal Garden]]
+### [[garden]]
 **Link**: Crystal bridges connect the two locations  
 **Function**: Royal family has private access to rarest specimens  
 **Politics**: Sometimes tensions arise over resource allocation
@@ -430,7 +430,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 ---
 
 **Related Locations**:
-- [[Palace Courtyard   Crystal Garden]]
+- [[garden]]
 - [[The Crystalline Foundry]]  
 - [[Crystalhaven]]
 - [[Aethermoor]]
@@ -439,11 +439,11 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Sage Iris Crystalbloom]]
 - [[Queen Seraphina Lumengarde]]
 - [[Crystal Wardens]]
-- [[02 Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
+- [[Groups]]
 
 **Related Items and Concepts**:
 - [[Aether Crystals]]
-- [[Resoce Roses]]  
+- [[Resoce_Roses]]  
 - [[The Seven Shards]]
 - [[Crystal Speak]]
 

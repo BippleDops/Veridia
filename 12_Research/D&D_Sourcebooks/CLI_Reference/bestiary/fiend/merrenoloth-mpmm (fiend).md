@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
 
-# [[merrenoloth mpmm|Merrenoloth]]
+# [[merrenoloth-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -96,10 +96,10 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\nAt will: [[charm person xphb|charm person]],\
-      \ [[darkness xphb|darkness]], [[detect magic xphb|detect magic]],\
-      \ [[dispel magic xphb|dispel magic]], [[gust of wind xphb|gust of wind]]\n\
-      \n3/day: [[control water xphb|control water]]"
+      \ DC 13):\n\nAt will: [[Charm Person Xphb]],\
+      \ [[darkness-xphb (variant-rules)]], [[detect-magic-xphb (spells)]],\
+      \ [[dispel-magic-xphb (spells)]], [[Gust of Wind Xphb]]\n\
+      \n3/day: [[Control Water Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\

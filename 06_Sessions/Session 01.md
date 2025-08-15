@@ -18,15 +18,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 01: [Sky Realm Crisis]
 
-*Winds of Rebellion - Aethermoor Politics*
+* Winds of Rebellion - Aethermoor Politics*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -119,7 +119,7 @@ The main reason parties get involved
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -129,3 +129,17 @@ The main reason parties get involved
 
 - Strange accidents suggest a portal
 - An heirloom has gone missing and chaos spreads
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

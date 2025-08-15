@@ -56,13 +56,13 @@ world: Both
 - **Components:** V, S, M (a mitten)
 - **Duration:** Instantaneous
 
-Hail falls in a 20-foot-radius, 40-foot-high [[cylinder-area-of-effect-xphb|Cylinder]] centered on a point within range. Each creature in the [[cylinder-area-of-effect-xphb|Cylinder]] makes a Dexterity saving throw. A creature takes `2d10` Bludgeoning damage and `4d6` Cold damage on a failed save or half as much damage on a successful one.
+Hail falls in a 20-foot-radius, 40-foot-high [[Area of Effect Xphb]] centered on a point within range. Each creature in the [[Area of Effect Xphb]] makes a Dexterity saving throw. A creature takes `2d10` Bludgeoning damage and `4d6` Cold damage on a failed save or half as much damage on a successful one.
 
-Hailstones turn ground in the [[cylinder-area-of-effect-xphb|Cylinder]] into [[difficult-terrain-xphb|Difficult Terrain]] until the end of your next turn.
+Hailstones turn ground in the [[Area of Effect Xphb]] into [[Difficult Terrain Xphb]] until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by `d10` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 287. Available in the SRD and the Free Rules (2024)*
 

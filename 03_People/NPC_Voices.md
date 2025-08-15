@@ -1,5 +1,6 @@
 ---
 
+
 ## Description
 
 *[Add detailed physical appearance and personality traits here]*
@@ -24,6 +25,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -347,3 +349,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -44,13 +44,13 @@ world: Both
 - **Components:** V, S, M (the petrified eye of a newt)
 - **Duration:** Concentration, up to 1 hour
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [[disadvantage xphb|Disadvantage]] on ability checks made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [[Advantage Xphb]] on ability checks made with the chosen ability.
 
-If the target drops to 0 [[hit-points-xphb|Hit Points]] before this spell ends, you can take a [[bonus-action-xphb|Bonus Action]] on a later turn to curse a new creature.
+If the target drops to 0 [[hit-points-xphb (variant-rules)]] before this spell ends, you can take a [[Action Xphb]] on a later turn to curse a new creature.
 
 **Using a Higher-Level Spell Slot.** Your [[conditions#Concentration|Concentration]] can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 285. Available in the SRD and the Free Rules (2024)*
 

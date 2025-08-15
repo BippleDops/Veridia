@@ -47,15 +47,15 @@ world: Both
 
 **Items in this group:**
 
-- [[enspelled staff cantrip xdmg|Enspelled Staff (Cantrip)]]
-- [[enspelled staff level 1 xdmg|Enspelled Staff (Level 1)]]
-- [[enspelled staff level 2 xdmg|Enspelled Staff (Level 2)]]
-- [[enspelled staff level 3 xdmg|Enspelled Staff (Level 3)]]
-- [[enspelled staff level 4 xdmg|Enspelled Staff (Level 4)]]
-- [[enspelled staff level 5 xdmg|Enspelled Staff (Level 5)]]
-- [[enspelled staff level 6 xdmg|Enspelled Staff (Level 6)]]
-- [[enspelled staff level 7 xdmg|Enspelled Staff (Level 7)]]
-- [[enspelled staff level 8 xdmg|Enspelled Staff (Level 8)]]
+- [[Enspelled Staff Cantrip Xdmg]]
+- [[Enspelled Staff Level 1 Xdmg]]
+- [[enspelled-staff-level-2-xdmg (items)]]
+- [[enspelled-staff-level-3-xdmg (items)]]
+- [[Enspelled Staff Level 4 Xdmg]]
+- [[Enspelled Staff Level 5 Xdmg]]
+- [[enspelled-staff-level-6-xdmg (items)]]
+- [[Enspelled Staff Level 7 Xdmg]]
+- [[enspelled-staff-level-8-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
 
@@ -105,3 +105,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

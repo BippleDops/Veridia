@@ -113,11 +113,11 @@ Mentioned in The Second Prophecy of Stars
 
 ## Relationships
 
-- **Friend**: [[Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
+- **Friend**: [[Npc]]
 - **Mentor**: [[The Lady's Garden Society]]
-- **Sibling**: [[Portrait NPC the Royal Treasury Depths V2 the Royal Treasury Depths.svg]]
-- **Enemy**: [[portrait-npc-shadow-embassy-shadow-embassy.svg]]
-- **Blackmailer**: [[Portrait NPC Captain Storm Ambushmaster V2 Captain Storm Ambushmaster.svg]]
+- **Sibling**: [[Npc]]
+- **Enemy**: [[Npc]]
+- **Blackmailer**: [[Npc]]
 
 ## Related Notes
 

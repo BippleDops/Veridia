@@ -42,7 +42,7 @@ world: Both
 - **Cost**: 33 gp
 - **Weight**: 29.0 lbs.
 
-A Priest's Pack contains the following items: [[backpack xphb|Backpack]], [[blanket xphb|Blanket]], [[holy water xphb|Holy Water]], [[lamp xphb|Lamp]], 7 days of [[rations xphb|Rations]], [[robe xphb|Robe]], and [[tinderbox xphb|Tinderbox]].
+A Priest's Pack contains the following items: [[Backpack Xphb]], [[Blanket Xphb]], [[Holy Water Xphb]], [[lamp-xphb (items)]], 7 days of [[rations-xphb (items)]], [[robe-xphb (items)]], and [[Tinderbox Xphb]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 

@@ -52,11 +52,11 @@ world: Both
 - **Components:** V, M (a firefly or phosphorescent moss)
 - **Duration:** 1 hour
 
-You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet. The light can be colored as you like.
+You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds [[Light Xphb]] in a 20-foot radius and [[Light Xphb]] for an additional 20 feet. The light can be colored as you like.
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 292. Available in the SRD and the Free Rules (2024)*
 
@@ -113,3 +113,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[light-xphb (spells)-phb]]` in CLI_Reference/spells/

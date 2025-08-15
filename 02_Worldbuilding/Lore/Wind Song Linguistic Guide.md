@@ -1,7 +1,7 @@
 ---
 
 title: Wind Song Linguistic Guide
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - linguistics
@@ -9,7 +9,7 @@ tags:
 - status/complete
 - aquatic
 - content/lore
-- world/aethermoor
+- world/[[Aethermoor]]
 - tonal
 - combat
 - complete
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -128,7 +128,7 @@ Different altitudes create distinct linguistic environments:
 - Powerful, carrying tones for long-distance communication
 - Rhythmic patterns that cut through heavy wind
 - Emergency signals and public announcements
-- Military and maritime applications
+- Military and mari[[Time]] applications
 
 **Storm-Song** (Tempest harmonics)
 - Complex harmonic structures utilizing wind chaos
@@ -139,7 +139,7 @@ Different altitudes create distinct linguistic environments:
 ### **Specialized Variations**
 
 **Crystal Resoce** (Artificially enhanced)
-- Wind tones amplified through crystal networks
+- Wind tones amplified through [[Crystal Network]]s
 - Harmonic multiplication creates complex meaning layers
 - Long-distance communication across crystal relay points
 - Technical and academic discourse applications
@@ -178,19 +178,19 @@ Different altitudes create distinct linguistic environments:
 - Altitude calls with precise frequency specifications
 - Wind shear warnings through harmonic distortion
 - Formation flying coordination through rhythm synchronization
-- Emergency protocols using maximum-carry tones
+- [[Emergency Protocol]]s using maximum-carry tones
 
 ### **Weather Mages Academy**
 
 **Atmospheric Communion**: Technical language for weather manipulation
-- Pressure differential discussions through tonal mathematics
+- [[Pressure Differential]] discussions through tonal mathematics
 - Storm summoning through harmonic resoce patterns
 - Weather prediction through subtle atmospheric tonal analysis
 - Climate alteration coordination requiring multi-mage harmony
 
 ### **Crystal Engineers Guild**
 
-**Resoce Technical**: Scientific discourse for crystal technology
+**Resoce Technical**: Scientific discourse for [[Crystal Technology]]
 - Frequency specifications for crystal tuning
 - Harmonic fault analysis for defective crystal identification
 - Amplification network coordination through tonal networking
@@ -206,7 +206,7 @@ Different altitudes create distinct linguistic environments:
 
 ### **Inter-Realm Challenges**
 
-**Aquabyssos Communication**: 
+**[[Aquabyssos]] Communication**: 
 - Atmospheric vs. hydrostatic pressure creates fundamental incompatibilities
 - Tonal patterns distorted by water medium transmission
 - Cultural context gaps in pressure-based vs. wind-based worldviews
@@ -231,15 +231,15 @@ Wind Song Linguistic Guide is a undersea element of the setting, known for biolu
 
 Legends speak of Wind Song Linguistic Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Wind Song Linguistic Guide.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Wind Song Linguistic Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -253,12 +253,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange dreams suggest ancient magic
 - The authorities needs help delivering before the new moon
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -268,7 +268,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## A Day in the Life
 

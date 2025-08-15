@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Roster
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC_Roster
 
 ## Portrait
 
-![[portrait_npc_roster.png]]
+![[Npc]]
 
 *Portrait reference for NPC_Roster*
 
@@ -102,3 +104,23 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

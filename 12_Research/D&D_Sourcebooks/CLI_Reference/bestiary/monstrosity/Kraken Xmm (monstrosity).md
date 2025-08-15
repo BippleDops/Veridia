@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-xmm-kraken-xmm.svg)
 
-# [[kraken xmm|Kraken]]
+# [[Kraken]]
 *Source: Monster Manual (2024) p. 187. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -159,7 +159,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed\
       \ and no longer [[conditions#Grappled|Grappled]]. A swallowed\
       \ creature has the [[conditions#Restrained|Restrained]] condition,\
-      \ has [[cover xphb|Total Cover]] against attacks\
+      \ has [[Cover Xphb]] against attacks\
       \ and other effects outside the kraken, and takes 24 (7d6) Acid damage at the\
       \ start of each of its turns.\n\nIf the kraken takes 50 damage or more on a\
       \ single turn from a creature inside it, the kraken must succeed on a DC 25\
@@ -173,11 +173,11 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 "legendary_actions":
   - "desc": "The kraken uses Lightning Strike."
     "name": "Storm Bolt"
-  - "desc": "Constitution Saving Throw: DC 23, each creature in a 15-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 23, each creature in a 15-foot [[Area of Effect Xphb]]\
       \ originating from the kraken while it is underwater. Failure: The target\
       \ has the [[conditions#Blinded|Blinded]] and [[conditions#Poisoned|Poisoned]]\
       \ conditions until the end of the kraken's next turn. The kraken then moves\
-      \ up to its [[speed xphb|Speed]]. Failure\
+      \ up to its [[Fly Speed Xphb]]. Failure\
       \ or Success: The kraken can't take this action again until the start of its\
       \ next turn."
     "name": "Toxic Ink"
@@ -188,7 +188,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
   - "desc": "- Ocean Tyrant. The kraken exerts its domice over animals in its\
       \ domain. All Beasts within 1 mile of the lair have the [[conditions#Charmed|Charmed]]\
       \ condition while in that area.  \n- Sea and Storms. While in its lair,\
-      \ the kraken can cast [[control weather xphb|Control Weather]],\
+      \ the kraken can cast [[weather]],\
       \ requiring no spell components and using Intelligence as the spellcasting ability.\
       \  "
   - "desc": "If the kraken dies or moves its lair elsewhere, these effects end immediately."

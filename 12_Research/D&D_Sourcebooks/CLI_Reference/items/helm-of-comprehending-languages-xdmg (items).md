@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
-While wearing this helm, you can cast [[comprehend languages xphb|Comprehend Languages]] from it.
+While wearing this helm, you can cast [[Comprehend Languages Xphb]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the SRD and the Free Rules (2024)*
 

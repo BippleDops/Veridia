@@ -39,7 +39,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web xphb|Web]] (save DC 13) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web-xphb (spells)]] (save DC 13) from it.
 
 ## 🔧 Deep Evaluation Improvements
 

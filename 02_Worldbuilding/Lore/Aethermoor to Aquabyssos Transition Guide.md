@@ -1,7 +1,7 @@
 ---
 
-title: Aethermoor to Aquabyssos Transition Guide
-type: Lore
+title: [[Aethermoor]] to [[Aquabyssos]] Transition Guide
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 The transition from the surface realm of Aethermoor to the underwater domain of Aquabyssos represents one of the most dramatic environmental and cultural shifts possible in the campaign world. This guide provides essential information for characters, players, and dungeon masters navigating the complex process of moving between these two fundamentally different realms. The transition involves not just physical adaptation, but psychological, social, and magical adjustments as well.
 
-Successful transition requires preparation, understanding of both cultures, appropriate magical or technological aids, and often the guidance of experienced inter-realm travelers. Many surface dwellers underestimate the challenges involved, leading to dangerous situations or cultural misunderstandings that can have far-reaching consequences.
+Successful transition requires preparation, understanding of both cultures, appropriate magical or technological aids, and often the [[Guidance]] of experienced inter-realm travelers. Many surface dwellers underestimate the challenges involved, leading to dangerous situations or cultural misunderstandings that can have far-reaching consequences.
 
 ## Historical Background
 
@@ -125,7 +125,7 @@ Surface dwellers often struggle with the concept of three-dimensional social mov
 - Language instruction (Aquan dialects)
 - Social etiquette training
 - Political awareness briefing
-- Emergency protocol education
+- [[Emergency Protocol]] education
 
 **Legal Requirements:**
 - Transit permits or diplomatic documentation
@@ -161,7 +161,7 @@ Surface dwellers often struggle with the concept of three-dimensional social mov
 
 ## Secrets (DM Only)
 
-The transition process actually creates temporary psychic links between individuals crossing together. This connection fades over time but can be reactivated under stress, potentially providing telepathic communication or shared experiences. Some groups deliberately exploit this phenomenon for espionage or coordination purposes.
+The transition process actually creates temporary psychic links between individuals crossing together. This connection fades over [[Time]] but can be reactivated under stress, potentially providing tele[[path]]ic communication or shared experiences. Some [[Groups]] deliberately exploit this phenomenon for espionage or coordination purposes.
 
 ## Campaign Use
 
@@ -175,11 +175,11 @@ Aethermoor to Aquabyssos Transition Guide is a sky-borne element of the setting,
 
 Legends speak of Aethermoor to Aquabyssos Transition Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor to Aquabyssos Transition Guide.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -191,12 +191,12 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Mentioned in The Hidden Prophecy of Shadows
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

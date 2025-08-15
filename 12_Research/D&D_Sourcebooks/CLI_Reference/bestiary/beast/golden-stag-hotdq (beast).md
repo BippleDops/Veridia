@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-golden-stag-hotdq-golden-stag-hotdq.svg)
 
-# [[golden stag hotdq|Golden Stag]]
+# [[Golden Stag Hotdq]]
 *Source: Hoard of the Dragon Queen p. 35*  
 
 ```statblock

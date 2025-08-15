@@ -51,7 +51,7 @@ Each target must succeed on a Wisdom saving throw or have the [[conditions#Charm
 
 **Using a Higher-Level Spell Slot.** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the SRD and the Free Rules (2024)*
 

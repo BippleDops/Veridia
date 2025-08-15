@@ -38,10 +38,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-avatar-of-death-dmg-avatar-of-death-dmg.svg)
 
-# [[avatar of death dmg|Avatar of Death]]
+# [[avatar-of-death-dmg (undead)]]
 *Source: Dungeon Master's Guide p. 164. Available in the SRD*  
 
-Summoned by the "Skull" card from the [[deck of many things xdmg|Deck of Many Things]].
+Summoned by the "Skull" card from the [[Deck of Many Things Xdmg (items)]].
 
 ```statblock
 "name": "Avatar of Death (DMG)"

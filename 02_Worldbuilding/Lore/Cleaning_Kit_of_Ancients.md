@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # Cleaning_Kit_of_Ancients
@@ -22,7 +22,7 @@ The full nature of Cleaning_Kit_of_Ancients involves several interconnected comp
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Cleaning_Kit_of_Ancients trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to Cleaning_Kit_of_Ancients are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Cleaning_Kit_of_Ancients through their own cultural lenses:
+Different [[Groups]] view Cleaning_Kit_of_Ancients through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of Cleaning_Kit_of_Ancients:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Cleaning_Kit_of_Ancients has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate Cleaning_Kit_of_Ancients into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways Cleaning_Kit_of_Ancients might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #cleaning_kit_of_ancients
+*Tags*: [[#General]] #worldbuilding #cleaning_kit_of_ancients

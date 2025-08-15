@@ -1,7 +1,7 @@
 ---
 
 title: Emergency Navigation Response
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Emergency Navigation Response represents a crucial aspect of the world's history
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,26 +83,26 @@ Emergency Navigation Response represents a crucial aspect of the world's history
 ## Plot Hooks
 
 - Strange sightings suggest a conspiracy
-- A merchant needs help delivering before dawn
+- A [[Merchant]] needs help delivering before dawn
 - Strange accidents suggest a portal
-- A map reveals a betrayal about the cult
+- A [[map]] reveals a betrayal about the cult
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## A Day in the Life
 

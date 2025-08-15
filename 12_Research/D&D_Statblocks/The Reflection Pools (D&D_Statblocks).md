@@ -421,11 +421,11 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Campaign-ending paradoxes should be telegraphed
 
 ## See Also
-- [[02 Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
-- [[02 Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
-- [[02 Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
-- [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [[Groups]]
+- [[02_Worldbuilding]]
+- [[Places]]
+- [[Divination_Expanded]]
+- [[Temporal_Mechanics_System]]
 
 *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."*
 

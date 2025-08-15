@@ -1,10 +1,12 @@
 ---
+
 title: Player_Notes
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Player_Notes
@@ -172,3 +174,8 @@ modified: '2025-08-14'
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

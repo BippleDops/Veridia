@@ -1,5 +1,6 @@
 ---
 
+
 title: 04_Resources/Maps
 type: lore
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 > [!figure] Map
@@ -120,3 +122,9 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

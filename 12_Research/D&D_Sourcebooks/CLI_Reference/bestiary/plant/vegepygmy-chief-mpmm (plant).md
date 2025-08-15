@@ -40,10 +40,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vegepygmy-chief-mpmm-v1-vegepygmy-chief-mpmm.svg)
 
-# [[vegepygmy chief mpmm|Vegepygmy Chief]]
+# [[vegepygmy-chief-mpmm (plant)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
 
-As a [[vegepygmy mpmm|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[russet mold vgm|russet mold]] does.
+As a [[Thorny Vegepygmy Mpmm]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[Russet Mold Vgm]] does.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,7 +59,7 @@ As a [[vegepygmy mpmm|vegepygmy]] ages, it grows tougher and develops spore clus
 
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustece and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid adult xmm|myconid adults]], [[shrieker fungus xmm|shriekers]], and [[violet fungus xmm|violet fungi]].
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustece and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid-adult-xmm (plant)]], [[Shrieker Fungus Xmm]], and [[violet-fungus-xmm (plant)]].
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 

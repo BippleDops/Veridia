@@ -36,7 +36,7 @@ updated: '2025-08-13T12:34:05.778208+00:00'
 world: Both
 ---
 
-# [[daemogoth scc|Daemogoth]]
+# [[daemogoth-scc (fiend)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  
 
 Slipping through the darkest corners of the world, daemogoths are powerful fiendish creatures that feed on misery and other negative emotions. Some sages refer to daemogoths as tear lickers, owing to the fiends' tendency to lurk near battlefields and other sites of great tragedy to consume the anguish saturating the area.

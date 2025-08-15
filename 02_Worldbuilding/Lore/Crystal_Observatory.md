@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # Crystal_Observatory
@@ -22,7 +22,7 @@ The full nature of Crystal_Observatory involves several interconnected component
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Crystal_Observatory trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to Crystal_Observatory are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Crystal_Observatory through their own cultural lenses:
+Different [[Groups]] view Crystal_Observatory through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of Crystal_Observatory:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Crystal_Observatory has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate Crystal_Observatory into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways Crystal_Observatory might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #crystal_observatory
+*Tags*: [[#General]] #worldbuilding #crystal_observatory

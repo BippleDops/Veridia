@@ -38,9 +38,9 @@ world: Both
 
 | Visibility | Encounter Distance |
 |------------|--------------------|
-| Clear water, [[bright light xphb|Bright Light]] | 60 feet |
-| Clear water, [[dim light xphb|Dim Light]] | 30 feet |
-| Murky water or [[darkness xphb|Darkness]] | 10 feet |
+| Clear water, [[Light Xphb]] | 60 feet |
+| Clear water, [[Light Xphb]] | 30 feet |
+| Murky water or [[darkness-xphb (variant-rules)]] | 10 feet |
 ^underwater-encounter-distance
 
 ## 🔧 Deep Evaluation Improvements
@@ -79,3 +79,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

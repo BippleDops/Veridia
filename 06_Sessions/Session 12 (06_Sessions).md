@@ -16,15 +16,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 12: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -139,3 +139,14 @@ The main reason parties get involved
 - Final confrontation
 - Consequences
 - Epilogue hooks
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

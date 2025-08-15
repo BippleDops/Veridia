@@ -30,19 +30,19 @@ world: Aquabyssos
 # Session Packet — Aquabyssos 01
 
 handouts:
-  - [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|04 Resources/Handouts/Ships/Player Handout Aquabyssos Submarines]]
+  - [[Aquabyssos_Submarines]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
-  - [[D 005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
-  - [[D 010_Pirate_Shadow_Net_Player|04 Resources/Handouts/Encounters/D 010 Pirate Shadow Net Player]]
-  - [[D 019_Oracle_Whale_Player|04 Resources/Handouts/Encounters/D 019 Oracle Whale Player]]
+  - [[D-005_Shadow_Bloom_Player]]
+  - [[D-010 Pirate Shadow Net Player (Encounters)]]
+  - [[D-019_Oracle_Whale_Player]]
 
 gm_sheets:
-  - [[D 005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
-  - [[D 010_Pirate_Shadow_Net|06 GM Resources/Travel/Encounter Sheets/D 010 Pirate Shadow Net]]
-  - [[D 019_Oracle_Whale|06 GM Resources/Travel/Encounter Sheets/D 019 Oracle Whale]]
+  - [[D-005_Shadow_Bloom_Player]]
+  - [[D-010 Pirate Shadow Net Player (Encounters)]]
+  - [[D-019_Oracle_Whale_Player]]
 
 assets:
-  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[INDEX]]
 
 ## 🔧 Deep Evaluation Improvements
 

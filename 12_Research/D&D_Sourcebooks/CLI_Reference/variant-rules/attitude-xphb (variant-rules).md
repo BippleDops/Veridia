@@ -33,7 +33,7 @@ world: Both
 # Attitude
 *Source: Player's Handbook (2024) p. 361. Available in the SRD and the Free Rules (2024)* 
 
-A [[monster xphb|monster]] has a starting attitude toward a [[player character xphb|player character]]: [[friendly attitude xphb|Friendly]], [[hostile attitude xphb|Hostile]], or [[indifferent attitude xphb|Indifferent]].
+A [[Charm Monster Xphb]] has a starting attitude toward a [[Player Character Xphb]]: [[friendly-attitude-xphb (variant-rules)]], [[Hostile Attitude Xphb]], or [[indifferent-attitude-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

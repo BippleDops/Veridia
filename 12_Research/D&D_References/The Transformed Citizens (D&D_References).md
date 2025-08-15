@@ -100,7 +100,7 @@ Citizens experiencing memories from their alternate-reality selves:
 - **Identity Confusion**: Uncertainty about which memories are "real"
 - **Consciousness Merger**: Gradual integration of both sets of memories
 
-*Case Study: [[Blacksmith Cross Hammer Grendel]]*
+*Case Study: [[Blacksmith Cross-Hammer Grendel]]*
 A weapons maker from [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] began experiencing memories of being a deep-sea pressure engineer. His metalworking improved dramatically, but he now speaks to his tools as if they were living creatures and has nightmares about drowning.
 
 **Reality Sensitivity:**
@@ -179,7 +179,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 
 ### The Hopeful Transformations
 
-**[[The Crystal Touched Teacher, Miss Luminara]]:**
+**[[Crystal Touched]]:**
 A schoolteacher in [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] developed small crystal formations around her eyes that allow her to see the inner light in every student. She uses this ability to identify children who need extra help and has revolutionized her teaching methods. While her appearance has changed, her gift has made her more beloved in her community.
 
 **[[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]:**
@@ -196,7 +196,7 @@ A mother of three in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] developed
 **[[The Crystal Consumed Merchant, Trader Glass Eye Gorvin]]:**
 A successful merchant whose crystal integration progressed too rapidly. Most of his body has crystallized, leaving him with enhanced magical abilities but unable to move freely or maintain normal human relationships. He serves as an oracle for his community but has lost his individual identity.
 
-**[[The Memory Fragmented Child, Little Luna Patchwork]]:**
+**[[The Memory-Fragmented Child, Little Luna Patchwork]]:**
 A seven-year-old girl experiencing severe memory bleed from multiple alternate selves. She frequently becomes confused about which world she's in, calls family members by wrong names, and has nightmares about lives she's never lived. Her parents struggle to help her maintain a coherent sense of identity.
 
 ### The Dangerous Transformations
@@ -207,7 +207,7 @@ A crop farmer whose transformation was corrupted by [[Shadow Corruption]]. His c
 **[[The Depth-Mad Priest, Curator Deep-Voice Thren]]:**
 A religious leader whose direct contact with [[The Deep Mother]] left him with powerful prophetic abilities but also complete disconnection from surface reality. He speaks in riddles, breathes water more easily than air, and has visions so intense they cause physical pain to witness. His prophecies are accurate but delivered in ways that terrify his congregation.
 
-**[[The Reality Sick Mayor, Lord Quantum Aldrich]]:**
+**[[The Reality-Sick Mayor, Lord Quantum Aldrich]]:**
 A town leader whose exposure to [[Merged Reality Zones]] left him existing partially in both worlds simultaneously. He sometimes phases in and out of visibility, makes decisions based on information from alternate realities, and has difficulty distinguishing between what's real and what's possible. His condition makes goverce nearly impossible.
 
 ### Acceptance and Integration Communities

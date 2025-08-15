@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-basilisk-xmm-basilisk-xmm.svg)
 
-# [[basilisk xmm|Basilisk]]
+# [[Basilisk Xmm]]
 *Source: Monster Manual (2024) p. 32. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,8 +110,8 @@ The remains of [[conditions#Petrified|Petrified]] creatures litter the area wher
       \ plus 7 (2d6) Poison damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
-      \ If the basilisk sees its reflection within the [[cone area of effect xphb|Cone]],\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[Area of Effect Xphb]].\
+      \ If the basilisk sees its reflection within the [[Area of Effect Xphb]],\
       \ the basilisk must make this save. 1st Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
       \ [[conditions#Restrained|Restrained]], ending the effect\

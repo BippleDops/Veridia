@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
 
-# [[duergar spore servant oota|Duergar Spore Servant]]
+# [[Duergar Spore Servant Oota]]
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -48,7 +48,7 @@ world: Both
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[[scale mail xphb|scale mail]], [[shield xphb|shield]]"
+"ac_class": "[[Scale Mail Xphb]], [[Shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"

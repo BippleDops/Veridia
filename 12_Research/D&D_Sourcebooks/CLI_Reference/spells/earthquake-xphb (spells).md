@@ -45,7 +45,7 @@ world: Both
 - **Components:** V, S, M (a fractured rock)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [[difficult-terrain-xphb|Difficult Terrain]].
+Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [[Difficult Terrain Xphb]].
 
 When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [[conditions#prone|Prone]] condition, and its [[conditions#Concentration|Concentration]] is broken.
 
@@ -69,13 +69,13 @@ A total of `d6` fissures open in the spell's area at the end of the turn you cas
 
 ## Structures
 
-The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [[hit-points-xphb|Hit Points]], it collapses.
+The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [[hit-points-xphb (variant-rules)]], it collapses.
 
 A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [[conditions#prone|Prone]] condition, and is buried in the rubble, requiring a DC 20 Strength ([[skills#Athletics|Athletics]]) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 267. Available in the SRD and the Free Rules (2024)*
 
@@ -105,3 +105,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[earthquake-xphb (spells)-phb]]` in CLI_Reference/spells/

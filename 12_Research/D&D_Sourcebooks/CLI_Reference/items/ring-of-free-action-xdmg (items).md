@@ -36,7 +36,7 @@ world: Both
 *Ring, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-free-action.webp#right)
 
-While you wear this ring, [[difficult terrain xphb|Difficult Terrain]] doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
+While you wear this ring, [[Difficult Terrain Xphb]] doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[conditions#Paralyzed|Paralyzed]] or [[conditions#Restrained|Restrained]] condition.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
 

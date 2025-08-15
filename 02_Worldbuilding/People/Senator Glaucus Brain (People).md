@@ -23,6 +23,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 
 # 🧠 Senator Glaucus
@@ -132,13 +144,20 @@ Current Reputation: **Respected but Declining**
 **Character Arc**: Either finds redemption or tragic dissolution
 
 ### Connected Quests
-- Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy|01 Campaigns/Aquabyssos/ Investigations/The Shadow Parliament Conspiracy]]
+- Main: [[The_Shadow_Parliament_Conspiracy]]
 - Side: [[Find the Shadow Cure]]
 - Personal: [[The Senator's Last Stand]]
 
 ---
 **NPC Brain Active** | *Last Updated: Session 10*
 **Next Review**: Session 11 (Parliament vote)
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -321,3 +340,36 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

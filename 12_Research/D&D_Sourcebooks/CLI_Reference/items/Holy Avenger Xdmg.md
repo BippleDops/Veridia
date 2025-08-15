@@ -93,7 +93,7 @@ world: Both
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `2d10` Radiant damage.
 
-While you hold the drawn weapon, it creates a 10-foot [[emanation area of effect xphb|Emanation]] originating from you. You and all creatures [[friendly attitude xphb|Friendly]] to you in the [[emanation area of effect xphb|Emanation]] have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [[emanation area of effect xphb|Emanation]] increases to 30 feet.
+While you hold the drawn weapon, it creates a 10-foot [[Area of Effect Xphb]] originating from you. You and all creatures [[friendly-attitude-xphb (variant-rules)]] to you in the [[Area of Effect Xphb]] have [[Advantage Xphb]] on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [[Area of Effect Xphb]] increases to 30 feet.
 
 **Variants**:
 - [Holy Avenger Antimatter Rifle](#Holy%20Avenger%20Antimatter%20Rifle)

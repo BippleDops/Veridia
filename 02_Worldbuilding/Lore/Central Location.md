@@ -1,6 +1,6 @@
 ---
 
-title: Central Location
+title: Central [[location]]
 type: location
 tags:
 - location
@@ -9,7 +9,7 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 location_type: City
-region: Eastern Provinces
+[[region]]: Eastern Provinces
 population: 32144
 evaluated: '2025-08-14'
 improvements: 20
@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -94,7 +94,7 @@ The city is organized into 7 distinct districts:
 1. **Central District**: Heart of administration and commerce
 2. **Residential Quarter**: Where the population makes their homes
 3. **Market District**: Trade and commerce center
-4. **Temple Ward**: Religious and spiritual center
+4. **[[Temple Ward]]**: Religious and spiritual center
 5. **Craft Quarter**: Workshops and artisan studios
 6. **Noble Estate**: Exclusive area for the wealthy
 7. **Foreign Quarter**: Where outsiders reside
@@ -103,7 +103,7 @@ The city is organized into 7 distinct districts:
 Central Location is governed by a religious authority who rules with absolute authority.
 
 ### Economic Base
-The economy primarily relies on magical services, with secondary income from military contracts.
+The economy primarily relies on [[Magical Services]], with secondary income from military contracts.
 
 ### Major Exports
 1. Textiles
@@ -122,7 +122,7 @@ The economy primarily relies on magical services, with secondary income from mil
 ### Commercial Areas
 1. **Grand Market**: Where cultures mix
 2. **Artisan Quarter**: Home to experimental workshops
-3. **Merchant Halls**: Where information trades
+3. **[[Merchant]] Halls**: Where information trades
 
 ### Government Buildings
 1. **Seat of Power**: The palace
@@ -140,7 +140,7 @@ Central Location was established during the last age by military forces. The ori
 ### Major Historical Events
 1. **The Founding Era**: Establishment and early struggles
 2. **The Golden Age**: Period of unprecedented prosperity
-3. **The Dark Times**: When rulers fell
+3. **The Dark [[Time]]s**: When rulers fell
 4. **The Reconstruction**: Recovery and rebuilding
 5. **Recent History**: Current challenges and opportunities
 
@@ -166,8 +166,8 @@ The economy is in crisis due to trade agreements.
 5. **The Tournament**: Competition with suspicious circumstances
 
 ### Mid Level (6-10)
-1. **The Corruption Scandal**: Evidence of high-level conspiracy
-2. **The Ancient Ruins**: Discovery beneath the city
+1. **The Corruption Scandal**: [[Evidence]] of high-level conspiracy
+2. **The [[Ancient Ruins]]**: Discovery beneath the city
 3. **The Diplomatic Crisis**: Prevent war through negotiation
 4. **The Magical Plague**: Supernatural disease spreading
 5. **The Succession Question**: Determine rightful heir
@@ -194,8 +194,8 @@ Central Location can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### Random Encounters (d20)
-1-4: City watch patrol
+### [[[[Random Encounter]]s]] (d20)
+1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
 12-14: Drunk nobles causing trouble
@@ -221,7 +221,7 @@ Central Location can serve as:
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 15
   
-### Environmental Hazards
+### [[Environmental Hazards]]
 - Magical ward
 - DC 15 to detect
 - 6d6 damage on failure
@@ -240,5 +240,5 @@ Central Location can serve as:
 
 ### Future Seeds  
 - **Near Future**: Trial in 12 days
-- **Brewing Conflict**: Trade war
-- **Prophecy Connection**: Links to The Second Prophecy of Stars
+- **Brewing Conflict**: [[Trade War]]
+- **Prophecy Connection**: [[Link]]s to The Second Prophecy of Stars

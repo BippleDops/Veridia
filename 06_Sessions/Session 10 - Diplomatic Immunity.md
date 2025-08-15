@@ -1,4 +1,5 @@
 ---
+
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -9,7 +10,7 @@ tags:
 title: Session 10   Diplomatic Immunity
 type: session
 updated: 2025-08-14
----
+- --
 
 # Session 10 - Diplomatic Immunity
 
@@ -25,6 +26,7 @@ Session 10 - Diplomatic Immunity represents a significant element within the cam
 - **Significance**: Important for understanding broader context
 
 ## Details
+
 ### Background
 Historical context and development over time.
 
@@ -48,4 +50,31 @@ This content can be adapted and expanded based on specific campaign needs.
 - Offers opportunities for player engagement
 
 ## DM Notes
-*Customize as needed for your specific campaign requirements.*
+* Customize as needed for your specific campaign requirements.*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

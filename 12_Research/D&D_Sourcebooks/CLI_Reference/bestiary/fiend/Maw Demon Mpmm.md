@@ -42,7 +42,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[maw-demon-mpmm|Maw Demon]]
+# [[Maw Demon Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Tasha  

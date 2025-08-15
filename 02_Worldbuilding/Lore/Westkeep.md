@@ -3,20 +3,20 @@ title: Westkeep
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Westkeep
 
 ## Overview
-This topic is referenced in [[Location Name (Lore)]] and other parts of the campaign.
+This topic is referenced in [[[[location]] Name ([[Lore]])]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location Name (Lore)]]
+- Referenced by: [[[[Location Name]] (Lore)]]
 - Related topics in the same category
 
 ## Details

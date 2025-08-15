@@ -36,13 +36,13 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[halfling arvoreen mtf|Arvoreen]] | LG | Vigilance, war | War | Crossed short swords |
-| [[halfling brandobaris mtf|Brandobaris]] | N | Adventure, thievery | Trickery | Halfling footprint |
-| [[halfling charmalaine mtf|Charmalaine]] | N | Keen senses, luck | Trickery | Burning boot print |
-| [[halfling cyrrollalee mtf|Cyrrollalee]] | LG | Hearth, home | Life | An open door |
-| [[halfling sheela peryroyl mtf|Sheela Peryroyl]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
-| [[halfling urogalan mtf|Urogalan]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
-| [[halfling yondalla mtf|Yondalla]] | LG | Primary goddess of halflings | Life | Cornucopia |
+| [[Halfling Arvoreen Mtf]] | LG | Vigilance, war | War | Crossed short swords |
+| [[halfling-brandobaris-mtf (deities)]] | N | Adventure, thievery | Trickery | Halfling footprint |
+| [[Halfling Charmalaine Mtf]] | N | Keen senses, luck | Trickery | Burning boot print |
+| [[Halfling Cyrrollalee Mtf]] | LG | Hearth, home | Life | An open door |
+| [[Halfling Sheela Peryroyl Mtf]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
+| [[Halfling Urogalan Mtf]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
+| [[halfling-yondalla-mtf (deities)]] | LG | Primary goddess of halflings | Life | Cornucopia |
 ^deity-alignment-province-suggested-domains-common-symbol
 
 *Appears in "Xanathar's Guide to Everything"

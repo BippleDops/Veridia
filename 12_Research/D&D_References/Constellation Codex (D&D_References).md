@@ -184,3 +184,8 @@ Legends speak of Constellation Codex as a nexus where past and present converge.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

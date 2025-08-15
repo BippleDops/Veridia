@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-elder-oblex-mpmm-elder-oblex-mpmm.svg)
 
-# [[elder oblex mpmm|Elder Oblex]]
+# [[elder-oblex-mpmm (ooze)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -123,8 +123,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 18 Wisdom saving throw or take 44 (8d10) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [[greater restoration xphb|greater restoration]]\
-      \ or [[heal xphb|heal]] spell. Constructs, Oozes,\
+      \ it benefits from the [[greater-restoration-xphb (spells)]]\
+      \ or [[heal-xphb (spells)]] spell. Constructs, Oozes,\
       \ Plants, and Undead succeed on the save automatically.\n\nWhile memory drained,\
       \ the target must roll a d4 and subtract the number rolled from any ability\
       \ check or attack roll it makes. Each time the target is memory drained beyond\
@@ -136,11 +136,11 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\n\
-      At will: [[charm person xphb|charm person]] (as\
-      \ 5th-level spell), [[detect thoughts xphb|detect thoughts]]\n\
-      \n3/day each: [[dimension door xphb|dimension door]],\
-      \ [[dominate person xphb|dominate person]], [[hypnotic pattern xphb|hypnotic\]]
-      \ pattern]], [[telekinesis xphb|telekinesis]]"
+      At will: [[Charm Person Xphb]] (as\
+      \ 5th-level spell), [[detect-thoughts-xphb (spells)]]\n\
+      \n3/day each: [[Dimension Door Xphb]],\
+      \ [[Dominate Person Xphb]], [[Hypnotic Pattern Xphb]]
+      \ pattern]], [[telekinesis-xphb (spells)]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\

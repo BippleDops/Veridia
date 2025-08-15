@@ -1,0 +1,36 @@
+# Elegant Tool Kit of Durability
+
+*Mundane, Uncommon (requires attunement)*
+
+**ID**: ITEM01306
+
+## Description
+A high-quality tool kit with subtle enchantments
+
+## Appearance
+A elegant tool kit showing signs of age
+
+## Properties
+- Grants minor benefit
+- Grants minor benefit
+
+
+
+## History
+Stolen from a dragon's hoard centuries ago
+
+**Created by**: Self-created through accumulated magic
+
+## Value
+221 gp
+
+**Weight**: 1 lbs
+
+## DM Notes
+- Adjust properties for campaign balance
+- Consider the item's history for plot hooks
+- The creator might still be alive (or undead)
+
+
+---
+*Generated: 2025-08-15T03:51:03.475Z*

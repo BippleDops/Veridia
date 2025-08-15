@@ -198,7 +198,7 @@ While party explores Queen's mind, crisis erupts outside:
 - Common people riot from confusion
 
 **Shadow Opportunity**:
-The [[Shadow Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
+The [[Shadow Crystal]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
 
 **Time Pressure**:
 Each day spent in the mindscape, the Queen deteriorates:

@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+---
+
 # Faction Relationships Matrix
 
 ## Overview

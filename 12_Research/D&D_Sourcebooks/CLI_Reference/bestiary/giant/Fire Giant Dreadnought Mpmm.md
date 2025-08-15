@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-giant-dreadnought-mpmm-fire-giant-dreadnought-mpmm.svg)
 
-# [[fire giant dreadnought mpmm|Fire Giant Dreadnought]]
+# [[giant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
 
 > [!quote] A quote from Mordenkainen  
@@ -62,7 +62,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
-"ac_class": "[[plate armor xphb|plate]], [[shield xphb|Dual Shields]]"
+"ac_class": "[[plate-armor-xphb (items)]], [[Shield]]"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "modifier": !!int "-1"

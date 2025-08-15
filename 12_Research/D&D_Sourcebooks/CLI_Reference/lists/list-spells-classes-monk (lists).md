@@ -74,3 +74,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: PHB p.XXX
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-monk (lists)-phb]]` in CLI_Reference/spells/

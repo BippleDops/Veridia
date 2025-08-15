@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-vampire-xmm-v1-vampire-xmm.svg)
 
-# [[vampire xmm|Vampire]]
+# [[Vampire Xmm (undead)]]
 *Source: Monster Manual (2024) p. 317. Available in the SRD and the Free Rules (2024)*  
 
 Vampires are terrifying hunters and manipulators. They use their powers to shape-shift and bend other creatures' wills as they terrorize and feed on populations over generations.
@@ -122,15 +122,15 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "traits":
   - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the vampire drops to 0 [[hit points xphb|Hit Points]]\
+  - "desc": "If the vampire drops to 0 [[hit-points-xphb (variant-rules)]]\
       \ outside its resting place, the vampire uses Shape-Shift to become mist (no\
       \ action required). If it can't use Shape-Shift, it is destroyed.\n\nWhile it\
-      \ has 0 [[hit points xphb|Hit Points]] in mist\
+      \ has 0 [[hit-points-xphb (variant-rules)]] in mist\
       \ form, it can't return to its vampire form, and it must reach its resting place\
       \ within 2 hours or be destroyed. Once in its resting place, it returns to its\
       \ vampire form and has the [[conditions#Paralyzed|Paralyzed]]\
-      \ condition until it regains any [[hit points xphb|Hit Points]],\
-      \ and it regains 1 [[hit points xphb|Hit Point]]\
+      \ condition until it regains any [[hit-points-xphb (variant-rules)]],\
+      \ and it regains 1 [[hit-points-xphb (variant-rules)]]\
       \ after spending 1 hour there."
     "name": "Misty Escape"
   - "desc": "The vampire can climb difficult surfaces, including along ceilings, without\
@@ -144,7 +144,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ condition in its resting place, the vampire has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition until the weapon is removed.  \n- Sunlight. The vampire takes\
       \ 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it\
-      \ has [[disadvantage xphb|Disadvantage]] on\
+      \ has [[Advantage Xphb]] on\
       \ attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
@@ -159,39 +159,39 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ willing or that has the [[conditions#Grappled|Grappled]],\
       \ [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]]\
       \ condition. Failure: 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage.\
-      \ The target's [[hit points xphb|Hit Point]]\
+      \ The target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[hit points xphb|Hit Points]]\
-      \ equal to that amount. A Humanoid reduced to 0 [[hit points xphb|Hit Points]]\
-      \ by this damage and then buried rises the following sunset as a [[vampire spawn xmm|Vampire Spawn]]\
+      \ vampire regains [[hit-points-xphb (variant-rules)]]\
+      \ equal to that amount. A Humanoid reduced to 0 [[hit-points-xphb (variant-rules)]]\
+      \ by this damage and then buried rises the following sunset as a [[vampire-spawn-xmm (undead)]]\
       \ under the vampire's control."
     "name": "Bite (Bat or Vampire Form Only)"
 "bonus_actions":
   - "desc": "If the vampire isn't in sunlight or running water, it shape-shifts into\
-      \ a Tiny bat ([[speed xphb|Speed]] 5 ft., [[fly speed xphb|Fly\]]
+      \ a Tiny bat ([[Fly Speed Xphb]] 5 ft., [[Fly Speed Xphb]]
       \ Speed]] 30 ft.) or a Medium\
-      \ cloud of mist ([[speed xphb|Speed]] 5 ft.,\
-      \ [[fly speed xphb|Fly Speed]] 20 ft. [hover]),\
+      \ cloud of mist ([[Fly Speed Xphb]] 5 ft.,\
+      \ [[Fly Speed Xphb]] 20 ft. [hover]),\
       \ or it returns to its vampire form. Anything it is wearing transforms with\
       \ it.\n\nWhile in bat form, the vampire can't speak. Its game statistics, other\
-      \ than its size and [[speed xphb|Speed]], are\
+      \ than its size and [[Fly Speed Xphb]], are\
       \ unchanged.\n\nWhile in mist form, the vampire can't take any actions, speak,\
       \ or manipulate objects. It is weightless and can enter an enemy's space and\
       \ stop there. If air can pass through a space, the mist can do so, but it can't\
-      \ pass through liquid. It has [[resistance xphb|Resistance]]\
+      \ pass through liquid. It has [[boon-of-energy-resistance-xphb (feats)]]\
       \ to all damage, except the damage it takes from sunlight."
     "name": "Shape-Shift"
-  - "desc": "The vampire casts [[charm person xphb|Charm Person]],\
+  - "desc": "The vampire casts [[Charm Person Xphb]],\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 17), and the duration is 24 hours. The Charmed target is a\
       \ willing recipient of the vampire's Bite, the damage of which doesn't end the\
       \ spell. When the spell ends, the target is unaware it was Charmed by the vampire.\n"
     "name": "Charm (Recharge 5-6)"
 "legendary_actions":
-  - "desc": "The vampire moves up to half its [[speed xphb|Speed]],\
+  - "desc": "The vampire moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Grave Strike attack."
     "name": "Deathless Strike"
-  - "desc": "The vampire casts [[command xphb|Command]],\
+  - "desc": "The vampire casts [[command-xphb (spells)]],\
       \ (spell save DC 17). The vampire can't take this action again until the start\
       \ of its next turn.\n"
     "name": "Beguile"
@@ -203,10 +203,10 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ in its domain. From dusk until dawn, Medium or smaller Beasts have the [[conditions#Charmed|Charmed]]\
       \ condition while within 1 mile of the lair.  \n- Looming Shadows. Shadows\
       \ within 1 mile of the lair seem to move as if alive. Any creature (excluding\
-      \ the vampire and its allies) that finishes a [[short rest xphb|Short Rest]]\
+      \ the vampire and its allies) that finishes a [[short-rest-xphb]]\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  \n- Mists. The area within 1 mile\
-      \ of the lair is [[lightly obscured xphb|Lightly Obscured]]\
+      \ of the lair is [[lightly-obscured-xphb (variant-rules)]]\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  "
   - "desc": "If the vampire dies or moves its lair elsewhere, these effects end immediately."

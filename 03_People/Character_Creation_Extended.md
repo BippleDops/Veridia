@@ -1,4 +1,5 @@
 ---
+
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -11,13 +12,14 @@ tags:
 title: Character Creation Extended
 type: npc
 updated: 2025-08-14
+status: active
 ---
 
 # Character_Creation_Extended
 
 ## Portrait
 
-![[portrait_character_creation_extended.png]]
+![[Character_Creation_Extended]]
 
 *Portrait reference for Character_Creation_Extended*
 
@@ -77,3 +79,18 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

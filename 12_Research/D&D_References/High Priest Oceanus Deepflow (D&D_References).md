@@ -62,10 +62,10 @@ Mentioned in The Hidden Prophecy of Stars
 
 ## Relationships
 
-- **Ally**: [[Portrait NPC Lady Victoria Pennworth Lady Victoria Pennworth.svg]]
+- **Ally**: [[Npc]]
 - **Lover**: [[Agent Whisper Voidheart]]
-- **Blackmailer**: [[Assets Locations Location City Deep Compressmaster V1 Deep Compressmaster.svg]]
-- **Enemy**: [[Portrait NPC Quest the Sanctuary S Secret V2 Quest the Sanctuary S Secret.svg]]
+- **Blackmailer**: [[Deep Compressmaster]]
+- **Enemy**: [[Npc]]
 
 ## 12_Research Specific Content
 

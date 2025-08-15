@@ -3,20 +3,20 @@ title: Master Resoce Architect Echo Stonewhisper
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Master Resoce Architect Echo Stonewhisper
 
 ## Overview
-This topic is referenced in [[Resonance Peaks (D&D References)]] and other parts of the campaign.
+This topic is referenced in [[Resonance Peaks]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Resonance Peaks (D&D References)]]
+- Referenced by: [[Resonance Peaks]]
 - Related topics in the same category
 
 ## Details

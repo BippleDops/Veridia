@@ -34,13 +34,13 @@ world: Both
 ---
 
 # Spellguard Shield
-*Armor ([[shield xphb|shield]]), very rare (requires attunement)*  
+*Armor ([[Shield]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects, and spell attack rolls have [[disadvantage xphb|Disadvantage]] against you.
+While holding this Shield, you have [[Advantage Xphb]] on saving throws against spells and other magical effects, and spell attack rolls have [[Advantage Xphb]] against you.
 
 *Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
 

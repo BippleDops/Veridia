@@ -54,11 +54,11 @@ While [[conditions#Charmed|Charmed]], the creature takes `5d10` Psychic damage i
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-A [[remove-curse-xphb|Remove Curse]], [[greater-restoration-xphb|Greater Restoration]], or [[wish xphb|Wish]] spell ends this spell.
+A [[Remove Curse Xphb]], [[greater-restoration-xphb (spells)]], or [[wish-xphb (spells)]] spell ends this spell.
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 278. Available in the SRD and the Free Rules (2024)*
 

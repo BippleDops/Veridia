@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

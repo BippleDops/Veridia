@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rust-monster-xmm-rust-monster-xmm.svg)
 
-# [[rust monster xmm|Rust Monster]]
+# [[rust-monster-xmm]]
 *Source: Monster Manual (2024) p. 263. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -95,11 +95,11 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
       \ DC 11, the creature with the object. Failure: The object takes a -1 penalty\
       \ to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed\
       \ if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty\
-      \ reaches -5. The penalty can be removed by casting the [[mending xphb|Mending]]\
+      \ reaches -5. The penalty can be removed by casting the [[Mending Xphb]]\
       \ spell on the armor or weapon."
     "name": "Antennae"
   - "desc": "The rust monster touches a nonmagical metal object within 5 feet of itself\
-      \ that isn't being worn or carried. The touch destroys a 1-foot [[cube area of effect xphb|Cube]]\
+      \ that isn't being worn or carried. The touch destroys a 1-foot [[Cube Area of Effect Xphb]]\
       \ of the object."
     "name": "Destroy Metal"
 "reactions":

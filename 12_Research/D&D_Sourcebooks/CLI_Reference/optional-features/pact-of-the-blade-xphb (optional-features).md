@@ -34,11 +34,11 @@ world: Both
 # Pact of the Blade
 *Source: Player's Handbook (2024) p. 156. Available in the SRD*  
 
-As a [[bonus action xphb|Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[spellcasting focus xphb|Spellcasting Focus]].
+As a [[Action Xphb]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[spellcasting-focus-xphb (variant-rules)]].
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature's [[bonus action xphb|Bonus Action]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's [[Action Xphb]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ## 🔧 Deep Evaluation Improvements
 

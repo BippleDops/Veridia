@@ -1,7 +1,7 @@
 ---
 
-title: Locations the  Zones
-type: lore
+title: [[location]]s the  Zones
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -96,7 +96,7 @@ Connected to 02_Worldbuilding/Locations/The  Zones are various other important e
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The  Zones through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The  Zones through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -198,7 +198,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The  Zones into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

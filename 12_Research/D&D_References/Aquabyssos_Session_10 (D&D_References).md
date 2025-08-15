@@ -30,7 +30,7 @@ world: Aquabyssos
 # Session Packet — Aquabyssos 10
 
 handouts:
-  - [[D 201_Abyss_Mirror_Lake_Player|04 Resources/Handouts/Encounters/D 201 Abyss Mirror Lake Player]]
+  - [[D_201_Abyss_Mirror_Lake_Player]]
   - [[D-L-03_Deep_Mother_Dream_Tide_Player|04 Resources/Handouts/Encounters/D L 03 Deep Mother Dream Tide Player]]
   - [[D-L-11_The_Last_Anchor_Player|04 Resources/Handouts/Encounters/D L 11 The Last Anchor Player]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
@@ -41,7 +41,7 @@ gm_sheets:
   - [[D-L-11_The_Last_Anchor|06 GM Resources/Travel/Encounter Sheets/D L 11 The Last Anchor]]
 
 assets:
-  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[INDEX]]
 
 ## 🔧 Deep Evaluation Improvements
 

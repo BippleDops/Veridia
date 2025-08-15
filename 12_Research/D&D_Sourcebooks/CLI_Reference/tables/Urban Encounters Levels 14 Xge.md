@@ -40,73 +40,73 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1d6 [[cat xmm|cats]] |
-| 02-03 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoner]] with 1d6 [[goat xmm|goats]] |
-| 04-05 | 2d10 [[rat xmm|rats]] |
-| 06 | 1 [[raven xmm|raven]] perched on a signpost |
-| 07 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoner]] on a [[draft-horse-xmm|draft horse]] |
-| 08 | 2d4 [[mastiff xmm|mastiffs]] |
-| 09 | 1d2 [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoners]] leading 1d4 [[mule xmm|mules]] or 1d4 [[pony xmm|ponies]] |
-| 10 | 1 [[pseudodragon xmm|pseudodragon]] |
-| 11 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|spy]] |
-| 12-13 | 1d8 + 1 [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
+| 01 | 1d6 [[cat-xmm (beast)]] |
+| 02-03 | 1 [[Bestiary]] with 1d6 [[Goat Xmm]] |
+| 04-05 | 2d10 [[Wererat Xmm]] |
+| 06 | 1 [[Raven Xmm]] perched on a signpost |
+| 07 | 1 [[Bestiary]] on a [[draft-horse-xmm (beast)]] |
+| 08 | 2d4 [[Mastiff Xmm]] |
+| 09 | 1d2 [[Bestiary]] leading 1d4 [[mule-xmm (beast)]] or 1d4 [[pony-xmm (beast)]] |
+| 10 | 1 [[pseudodragon-xmm (dragon)]] |
+| 11 | 1 [[Bestiary]] |
+| 12-13 | 1d8 + 1 [[Bestiary]] |
 | 14 | 1d6 + 6 [[flying-snake-xmm|flying snakes]] |
 | 15 | 3d6 [[kobold-warrior-xmm|kobolds]] |
 | 16 | 2d4 [[giant-centipede-xmm|giant centipedes]] |
-| 17 | 1d8 + 1 [[skeleton xmm|skeletons]] |
-| 18-19 | 1d6 + 2 [[swarm-of-rats-xmm|swarms of rats]] |
-| 20 | 1d12 [[zombie xmm|zombies]] |
+| 17 | 1d8 + 1 [[flaming-skeleton-xmm (undead)]] |
+| 18-19 | 1d6 + 2 [[swarm-of-rats-xmm (beast)]] |
+| 20 | 1d12 [[Zombie Xmm]] |
 | 21-25 | A peddler weighed down with a load of pots, pans, and other basic supplies |
 | 26 | 1 [[giant-wasp-xmm|giant wasp]] |
-| 27-28 | 1 [[warhorse xmm|warhorse]] |
-| 29 | 2d8 [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] |
+| 27-28 | 1 [[warhorse-xmm (beast)]] |
+| 29 | 2d8 [[Bestiary]] |
 | 30-31 | 3d4 [[giant-rat-xmm|giant rats]] |
-| 32 | 2d8 [[stirge xmm|stirges]] |
+| 32 | 2d8 [[Stirge Xmm]] |
 | 33 | 1d3 + 2 [[giant-venomous-snake-xmm|giant poisonous snakes]] |
 | 34 | 1d4 + 2 [[swarm-of-bats-xmm|swarms of bats]] |
 | 35 | 2d4 [[winged-kobold-xmm|winged kobolds]] |
 | 36-40 | A wagon loaded with apples that has a broken wheel and holds up traffic |
-| 41 | 1 [[crocodile xmm|crocodile]] |
+| 41 | 1 [[Crocodile Xmm]] |
 | 42-43 | 1 [[swarm-of-insects-xmm|swarm of insects]] |
-| 44-45 | 3d6 [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
-| 46-47 | 1d3 + 2 [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|nobles]] on [[riding-horse-xmm|riding horses]] with an escort of 1d10 [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] |
-| 48 | 2d4 [[kenku xmm|kenku]] |
-| 49 | 1d6 + 2 [[smoke-mephit-xmm|smoke mephits]] |
+| 44-45 | 3d6 [[Bestiary]] |
+| 46-47 | 1d3 + 2 [[Bestiary]] on [[riding-horse-xmm|riding horses]] with an escort of 1d10 [[Bestiary]] |
+| 48 | 2d4 [[Kenku Xmm]] |
+| 49 | 1d6 + 2 [[smoke-mephit-xmm (elemental)]] |
 | 50 | 1d8 + 1 [[swarm-of-ravens-xmm|swarms of ravens]] |
-| 51-52 | 1 [[wererat xmm|wererat]] |
+| 51-52 | 1 [[Wererat Xmm]] |
 | 53-54 | 1d3 [[ogrillon-ogre-xmm|half-ogres]] |
-| 55-56 | 1 [[mimic xmm|mimic]] |
-| 57-58 | 1d4 [[ghoul xmm|ghouls]] |
-| 59-60 | 1d4 [[specter xmm|specters]] |
-| 61-62 | 1d10 [[shadow xmm|shadows]] |
+| 55-56 | 1 [[Mimic Xmm]] |
+| 57-58 | 1d4 [[ghoul-xmm (undead)]] |
+| 59-60 | 1d4 [[specter-xmm (undead)]] |
+| 61-62 | 1d10 [[Shadow Xmm]] |
 | 63-65 | Someone empties a chamber pot onto the street from a second-floor window |
-| 66-67 | 1 [[ghast xmm|ghast]] |
-| 68-69 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|priest]] |
+| 66-67 | 1 [[ghast-xmm (undead)]] |
+| 68-69 | 1 [[Bestiary]] |
 | 70-71 | 1 [[will-o-wisp-xmm|will-o'-wisp]] |
 | 72-73 | 1d3 [[giant-spider-xmm|giant-spiders]] |
-| 74-75 | 1d4 [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 76-77 | 2d4 [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|thugs]] |
+| 74-75 | 1d4 [[Bestiary]] |
+| 76-77 | 2d4 [[Bestiary]] |
 | 78-80 | A doomsayer who preaches the end of the world from a street corner |
-| 81 | 1 [[cambion xmm|cambion]] |
+| 81 | 1 [[Cambion Xmm]] |
 | 82 | 1 [[vampire-spawn-xmm|vampire spawn]] |
-| 83 | 1 [[couatl xmm|couatl]] |
-| 84 | 1 [[ghost xmm|ghost]] |
-| 85 | 1 [[succubus xmm|succubus]] or 1 [[incubus xmm|incubus]] |
-| 86 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 3d6 [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
-| 87 | 1d4 + 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
-| 88 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|knight]] or 1 [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] |
+| 83 | 1 [[Couatl Xmm]] |
+| 84 | 1 [[Ghost Xmm]] |
+| 85 | 1 [[succubus-xmm (fiend)]] or 1 [[incubus-xmm (fiend)]] |
+| 86 | 1 [[Bestiary]] with 3d6 [[Bestiary]] |
+| 87 | 1d4 + 1 [[Bestiary]] |
+| 88 | 1 [[Bestiary]] or 1 [[Bestiary]] |
 | 89 | 1 [[water-weird-xmm|water weird]] |
-| 90 | 1 [[wight xmm|wight]] |
-| 91 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mage]] |
-| 92 | 1 [[shield-guardian-xmm|shield guardian]] |
-| 93 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|gladiator]] |
+| 90 | 1 [[Wight Xmm]] |
+| 91 | 1 [[Bestiary]] |
+| 92 | 1 [[Shield]] |
+| 93 | 1 [[Bestiary]] |
 | 94 | 1 [[revet xmm|revet]] |
-| 95 | 2d4 [[gargoyle xmm|gargoyles]] |
-| 96 | 1d4 [[doppelganger xmm|doppelgangers]] |
-| 97 | 1 [[oni xmm|oni]] |
-| 98 | 1 [[invisible-stalker-xmm|invisible stalker]] |
+| 95 | 2d4 [[gargoyle-xmm (elemental)]] |
+| 96 | 1d4 [[Doppelganger Xmm]] |
+| 97 | 1 [[Oni Xmm]] |
+| 98 | 1 [[invisible-stalker-xmm (elemental)]] |
 | 99 | 1d3 + 1 [[phase-spider-xmm|phase spiders]] |
-| 00 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|assassin]] |
+| 00 | 1 [[Bestiary]] |
 ^urban-encounters-levels-14
 
 ## 🔧 Deep Evaluation Improvements
@@ -140,3 +140,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

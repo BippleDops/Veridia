@@ -47,7 +47,7 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a [[cylinder-area-of-effect-xphb|Cylinder]] that is 10 feet tall with a 60-foot radius.
+A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a [[Area of Effect Xphb]] that is 10 feet tall with a 60-foot radius.
 
 When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking `3d10` Lightning damage on a failed save or half as much damage on a successful one.
 
@@ -57,7 +57,7 @@ If you're outdoors in a storm when you cast this spell, the spell gives you cont
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 3.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 248. Available in the SRD and the Free Rules (2024)*
 

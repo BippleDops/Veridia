@@ -44,7 +44,7 @@ world: Both
 - **Components:** V, S, M (a miniature crystal sphere)
 - **Duration:** Instantaneous
 
-A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. Each creature in that area makes a Constitution saving throw, taking `10d6` Cold damage on failed save or half as much damage on a successful one.
+A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius [[Area of Effect Xphb]]. Each creature in that area makes a Constitution saving throw, taking `10d6` Cold damage on failed save or half as much damage on a successful one.
 
 If the globe strikes a body of water, it freezes the water to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice and have the [[conditions#Restrained|Restrained]] condition. A trapped creature can take an action to make a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC to break free.
 
@@ -52,7 +52,7 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 6.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 302. Available in the SRD (as "Freezing Sphere") and the Free Rules (2024)*
 
@@ -98,3 +98,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[otilukes-freezing-sphere-xphb (spells)-phb]]` in CLI_Reference/spells/

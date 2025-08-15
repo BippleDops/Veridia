@@ -47,13 +47,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure spirits from the Elemental Planes that flit around you in a 15-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. Until the spell ends, any attack you make deals an extra `2d8` damage when you hit a creature in the [[emanation-area-of-effect-xphb|Emanation]]. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
+You conjure spirits from the Elemental Planes that flit around you in a 15-foot [[Area of Effect Xphb]] for the duration. Until the spell ends, any attack you make deals an extra `2d8` damage when you hit a creature in the [[Area of Effect Xphb]]. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
 
-In addition, the ground in the [[emanation-area-of-effect-xphb|Emanation]] is [[difficult-terrain-xphb|Difficult Terrain]] for your enemies.
+In addition, the ground in the [[Area of Effect Xphb]] is [[Difficult Terrain Xphb]] for your enemies.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the SRD and the Free Rules (2024)*
 

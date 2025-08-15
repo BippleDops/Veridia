@@ -1,6 +1,6 @@
 ---
 title: Lost Archives
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both

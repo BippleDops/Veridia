@@ -47,12 +47,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampiric-mist-mpmm-v1-vampiric-mist-mpmm.svg)
 
-# [[vampiric mist mpmm|Vampiric Mist]]
+# [[vampiric-mist-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  
 
-In billowing clouds of fog lurk vampiric mists, the wretched remts of [[vampire xmm|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
+In billowing clouds of fog lurk vampiric mists, the wretched remts of [[Vampire Xmm (undead)]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 
-Vampiric mists, sometimes called crimson mists, are all that remain of [[vampire xmm|vampires]] who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [[vampire xmm|vampires']] bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
+Vampiric mists, sometimes called crimson mists, are all that remain of [[Vampire Xmm (undead)]] who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [[Vampire Xmm (undead)]] bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
 
 Indistinguishable from fog aside from the charnel reek it exudes, a vampiric mist descends on a creature and causes the blood in the creature's body to ooze through its pores or spill out from its eyes, nose, and mouth. This blood wafts out from the victim like crimson smoke, which the mist then consumes. The feeding causes no pain or discomfort to the victim, so vampiric mists can feed on sleepers without waking them. The more a mist feeds, the redder it gets, such that it turns pink, then red, and finally a deep scarlet hue; when sated, it rains blood droplets wherever it goes.
 

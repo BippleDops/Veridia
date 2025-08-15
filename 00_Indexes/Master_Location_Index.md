@@ -1,3 +1,12 @@
+---
+
+tags: [location, place]
+type: location
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # Master Location Index
 
 ## By Region
@@ -32,3 +41,23 @@
 
 ### High Level (11-20)
 - *[Advanced areas]*
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

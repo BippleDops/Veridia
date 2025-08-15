@@ -1,7 +1,7 @@
 ---
 
-title: Inter Species Relations Division
-type: lore
+title: [[Inter Species Relations Division]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ Inter-Species Relations Division can be understood as a multifaceted element tha
 ### Detailed Explanation
 The full nature of Inter-Species Relations Division involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Inter-Species Relations Division trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -98,10 +98,10 @@ Connected to Inter-Species Relations Division are various other important elemen
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Inter-Species Relations Division through their own cultural lenses:
+Different [[Groups]] view Inter-Species Relations Division through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ### Defining Features
@@ -167,7 +167,7 @@ The current state of Inter-Species Relations Division:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Inter-Species Relations Division has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -200,7 +200,7 @@ Ways to incorporate Inter-Species Relations Division into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -221,7 +221,7 @@ How to adjust for different games:
 Ways Inter-Species Relations Division might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -240,7 +240,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -263,7 +263,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #inter-species-relations-division
+*Tags*: [[#General]] #worldbuilding #inter-species-relations-division
 
 ## Cultural Impact
 
@@ -274,12 +274,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange accidents suggest a curse
 - The authorities needs help finding before the new moon
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -289,7 +289,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## A Day in the Life
 

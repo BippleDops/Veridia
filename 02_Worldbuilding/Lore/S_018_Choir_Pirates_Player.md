@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # S 018_Choir_Pirates_Player
@@ -22,7 +22,7 @@ The full nature of S 018_Choir_Pirates_Player involves several interconnected co
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of S 018_Choir_Pirates_Player trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to S 018_Choir_Pirates_Player are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view S 018_Choir_Pirates_Player through their own cultural lenses:
+Different [[Groups]] view S 018_Choir_Pirates_Player through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of S 018_Choir_Pirates_Player:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How S 018_Choir_Pirates_Player has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate S 018_Choir_Pirates_Player into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways S 018_Choir_Pirates_Player might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #s-018_choir_pirates_player
+*Tags*: [[#General]] #worldbuilding #s-018_choir_pirates_player

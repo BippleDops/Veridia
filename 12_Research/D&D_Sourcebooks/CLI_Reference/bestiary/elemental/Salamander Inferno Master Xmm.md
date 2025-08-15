@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-inferno-master-xmm-salamander-inferno-master-xmm.svg)
 
-# [[salamander inferno master xmm|Salamander Inferno Master]]
+# [[salamander-inferno-master-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 267*  
 
 Salamander inferno masters are ancient connoisseurs of flames and often inhabit places with unique scorching properties. They gather communes of apprentices who learn fiery techniques while helping their mentors accomplish great works. Inferno masters have ambitious goals, such as causing massive volcanic eruptions, opening portals to burning planes, destroying Artifacts, or burning all instances of something from the multiverse.
@@ -101,10 +101,10 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "15"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 10-foot [[emanation area of effect xphb|Emanation]]\
+      \ choice in a 10-foot [[Area of Effect Xphb]]\
       \ originating from the salamander takes 10 (3d6) Fire damage."
     "name": "Fire Aura"
-  - "desc": "The salamander has [[advantage xphb|Advantage]]\
+  - "desc": "The salamander has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -115,20 +115,20 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
       \ trident magically returns to the salamander's hand immediately after a ranged\
       \ attack."
     "name": "Flame Trident"
-  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 30-foot-radius [[sphere area of effect xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 30-foot-radius [[Area of Effect Xphb]]\
       \ centered on a point the salamander can see within 120 feet. Failure: 35\
-      \ (10d6) Fire damage, and the target starts [[burning xphb|burning]],\
+      \ (10d6) Fire damage, and the target starts [[burning-xphb (traps-hazards)]],\
       \ taking 5 (d10) Fire damage at the start of each of its turns instead of the\
-      \ normal [[burning xphb|burning]] damage. The\
+      \ normal [[burning-xphb (traps-hazards)]] damage. The\
       \ target gains 1 [[conditions#Exhaustion|Exhaustion]] level\
-      \ whenever it takes this [[burning xphb|burning]]\
+      \ whenever it takes this [[burning-xphb (traps-hazards)]]\
       \ damage. Success: Half damage only."
     "name": "Inferno Blast (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The salamander moves up to its [[speed xphb|Speed]]\
+  - "desc": "The salamander moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
-      \ During this movement, fire fills a 5-foot [[emanation area of effect xphb|Emanation]]\
-      \ originating from the salamander. When the [[emanation area of effect xphb|Emanation]]\
+      \ During this movement, fire fills a 5-foot [[Area of Effect Xphb]]\
+      \ originating from the salamander. When the [[Area of Effect Xphb]]\
       \ enters a creature's space, that creature takes 7 (2d6) Fire damage. A creature\
       \ can take this damage only once per turn."
     "name": "Blazing Movement"

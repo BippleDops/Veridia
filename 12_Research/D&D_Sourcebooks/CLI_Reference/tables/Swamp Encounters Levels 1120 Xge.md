@@ -41,19 +41,19 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-10 | `d4` [[giant-crocodile-xmm|giant crocodiles]] |
-| 11-15 | `d3` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
+| 11-15 | `d3` [[Bestiary]] |
 | 16-20 | `1d6 + 1` [[green-hag-xmm|green hags]] |
 | 21-25 | A large, spreading tree from which `2d6` armored knights hang by the neck |
-| 26-30 | `2d4` [[wight xmm|wights]] |
-| 31-35 | `1d8 + 1` yuan-ti malisons: [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
+| 26-30 | `2d4` [[Wight Xmm]] |
+| 31-35 | `1d8 + 1` yuan-ti malisons: [[Bestiary]], [[Bestiary]], [[Bestiary]] |
 | 36-40 | Fog that rolls across the terrain, making the area within `d3` miles heavily obscured for `d4` hours |
 | 41-45 | `d4` [[revet xmm|revets]] |
 | 46-50 | `d6` [[shambling-mound-xmm|shambling mounds]] |
 | 51-55 | `d10` [[water-elemental-xmm|water elementals]] |
 | 56-60 | `d4` [[young-black-dragon-xmm|young black dragons]] |
 | 61-65 | An eerie, bat-headed idol almost completely covered by vines |
-| 66-70 | `1d8 + 2` [[troll xmm|trolls]] |
-| 71-75 | `d3` [[hydra xmm|hydras]] |
+| 66-70 | `1d8 + 2` [[Troll Xmm]] |
+| 71-75 | `d3` [[Hydra Xmm]] |
 | 76-80 | The sound of drums beating several miles away |
 | 81-96 | 1 [[adult-black-dragon-xmm|adult black dragon]] |
 | 97-00 | 1 [[ancient-black-dragon-xmm|ancient black dragon]] |
@@ -93,3 +93,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

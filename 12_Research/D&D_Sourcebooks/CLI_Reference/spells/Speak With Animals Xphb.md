@@ -57,7 +57,7 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb "subclass=XPHB;class=XPHB"|Barbarian (Path of the Wild Heart)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 318. Available in the SRD and the Free Rules (2024)*
 

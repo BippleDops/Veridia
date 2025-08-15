@@ -37,7 +37,7 @@ world: Both
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
-If the affected spell requires [[conditions#Concentration|Concentration]], you have [[advantage xphb|Advantage]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
+If the affected spell requires [[conditions#Concentration|Concentration]], you have [[Advantage Xphb]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
 
 ## 🔧 Deep Evaluation Improvements
 

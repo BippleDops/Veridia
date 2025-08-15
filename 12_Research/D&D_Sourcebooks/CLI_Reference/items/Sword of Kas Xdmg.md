@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Sword of Kas
-*Weapon ([[longsword xphb|longsword]]), artifact (requires attunement)*  
+*Weapon ([[Longsword Xphb]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sword-of-kas.webp#right)
 
 - **Damage**:
@@ -59,28 +59,28 @@ Kas was a powerful warrior who served "Vecna" and whose loyalty was rewarded wit
 
 ## Bloodthirst
 
-The sword thirsts for blood. If the sword doesn't taste blood on its blade within 1 minute of being drawn from its scabbard, its wielder makes a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` Psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [[dominate monster xphb|Dominate Monster]] spell, and the sword demands blood. The spell effect ends when the sword's demand is met.
+The sword thirsts for blood. If the sword doesn't taste blood on its blade within 1 minute of being drawn from its scabbard, its wielder makes a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` Psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [[Dominate Monster Xphb]] spell, and the sword demands blood. The spell effect ends when the sword's demand is met.
 
 ## Magic Weapon
 
-You gain a +3 bonus to attack rolls and damage rolls made with the sword, which scores a [[critical hit xphb|Critical Hit]] on a roll of 19 or 20 on the `d20` and deals an extra `2d10` Slashing damage to Undead.
+You gain a +3 bonus to attack rolls and damage rolls made with the sword, which scores a [[Critical Hit Xphb]] on a roll of 19 or 20 on the `d20` and deals an extra `2d10` Slashing damage to Undead.
 
 ## Random Properties
 
 The sword has the following random properties:
 
-- 1 [[artifact properties minor beneficial properties xdmg|minor beneficial]] property  
-- 1 [[artifact properties major beneficial properties xdmg|major beneficial]] property  
-- 1 [[artifact properties minor detrimental properties xdmg|minor detrimental]] property  
-- 1 [[artifact properties major detrimental properties xdmg|major detrimental]] property  
+- 1 [[artifact-properties-minor-beneficial-properties]] property  
+- 1 [[Artifact Properties Major Beneficial]] property  
+- 1 [[Artifact Properties Minor Detrimental Properties Xdmg]] property  
+- 1 [[Artifact Properties Major Detrimental Properties Xdmg]] property  
 
 ## Spells
 
 While the sword is on your person, you can cast the following spells (save DC 18) from it:
 
-- [[call lightning xphb|Call Lightning]]  
-- [[divine word xphb|Divine Word]]  
-- [[finger of death xphb|Finger of Death]]  
+- [[Call Lightning Xphb]]  
+- [[Divine Word Xphb]]  
+- [[finger-of-death-xphb (spells)]]  
 
 Once you use the sword to cast a spell, you can't cast that spell again from it until the next dawn.
 
@@ -88,9 +88,9 @@ Once you use the sword to cast a spell, you can't cast that spell again from it 
 
 While the sword is on your person, you gain the following benefits:
 
-- **Battle Hunger.** You add `d10` to your [[initiative xphb|Initiative]] rolls.  
-- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[armor class xphb|Armor Class]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
-- **Necrotic Resistance.** You have [[resistance xphb|Resistance]] to Necrotic damage.  
+- **Battle Hunger.** You add `d10` to your [[Initiative Xphb]] rolls.  
+- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[armor-class-xphb (variant-rules)]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
+- **Necrotic Resistance.** You have [[boon-of-energy-resistance-xphb (feats)]] to Necrotic damage.  
 
 ## Sentience
 
@@ -102,11 +102,11 @@ The weapon communicates telepathically with its wielder and speaks Common.
 
 The sword's purpose is to bring ruin to Vecna. Killing Vecna's worshipers, destroying the lich's works, and foiling his machinations all help to fulfill this goal.
 
-The Sword of Kas also seeks to destroy anyone corrupted by the [[eye and hand of vecna xdmg|Eye and Hand of Vecna]].
+The Sword of Kas also seeks to destroy anyone corrupted by the [[eye-and-hand-of-vecna-xdmg (items)]].
 
 ## Destroying the Sword
 
-A creature attuned to both the [[eye of vecna xdmg|Eye of Vecna]] and the [[hand of vecna xdmg|Hand of Vecna]] can use the [[wish xphb|Wish]] property of those combined Artifacts to unmake the Sword of Kas, provided the sword is within 30 feet of the spell's caster. Upon casting Wish, the creature makes a DC 18 Charisma saving throw. On a failed save, nothing happens, and the [[wish xphb|Wish]] spell is wasted. On a successful save, the Sword of Kas is destroyed.
+A creature attuned to both the [[Eye of Vecna Xdmg]] and the [[eye-and-hand-of-vecna-xdmg (items)]] can use the [[wish-xphb (spells)]] property of those combined Artifacts to unmake the Sword of Kas, provided the sword is within 30 feet of the spell's caster. Upon casting Wish, the creature makes a DC 18 Charisma saving throw. On a failed save, nothing happens, and the [[wish-xphb (spells)]] spell is wasted. On a successful save, the Sword of Kas is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 313*
 

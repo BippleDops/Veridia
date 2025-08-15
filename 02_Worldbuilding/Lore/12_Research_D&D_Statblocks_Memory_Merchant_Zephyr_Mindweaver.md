@@ -1,12 +1,12 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver
+# 12_Research/D&D_Statblocks/Memory [[Merchant]] Zephyr Mindweaver
 
 ## Overview
 
-12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+12_Research/D&D_Statblocks/[[Memory Merchant Zephyr Mindweaver]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 
@@ -22,7 +22,7 @@ The full nature of 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver are va
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver through their own cultural lenses:
+Different [[Groups]] view 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweave
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #12_research/d&d_statblocks/memory-merchant-zephyr-mindweaver
+*Tags*: [[#General]] #worldbuilding #12_research/d&d_statblocks/memory-merchant-zephyr-mindweaver

@@ -38,26 +38,26 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[crab xmm|Crab]], [[eagle xmm|Eagle]], [[hawk xmm|Hawk]], [[lizard xmm|Lizard]] |
-| 1/8 | [[blood hawk xmm|Blood Hawk]], [[giant crab xmm|Giant Crab]], [[kobold warrior xmm|Kobold Warrior]], [[merfolk skirmisher xmm|Merfolk Skirmisher]], [[venomous snake xmm|Venomous Snake]] |
-| 1/4 | [[giant lizard xmm|Giant Lizard]], [[giant venomous snake xmm|Giant Venomous Snake]], [[giant wolf spider xmm|Giant Wolf Spider]], [[kuo toa xmm|Kuo toa]], [[pseudodragon xmm|Pseudodragon]], [[pteranodon xmm|Pteranodon]], [[winged kobold xmm|Winged Kobold]] |
-| 1/2 | [[crocodile xmm|Crocodile]], [[sahuagin warrior xmm|Sahuagin Warrior]] |
-| 1 | [[giant eagle xmm|Giant Eagle]], [[giant toad xmm|Giant Toad]], [[harpy xmm|Harpy]], [[kuo toa whip xmm|Kuo toa Whip]] |
-| 2 | [[bronze dragon wyrmling xmm|Bronze Dragon Wyrmling]], [[griffon xmm|Griffon]], [[merrow xmm|Merrow]], [[plesiosaurus xmm|Plesiosaurus]], [[sahuagin priest xmm|Sahuagin Priest]], [[sea hag xmm|Sea Hag]], [[swarm of venomous snakes xmm|Swarm of Venomous Snakes]] |
-| 3 | [[blue dragon wyrmling xmm|Blue Dragon Wyrmling]], [[kuo toa monitor xmm|Kuo toa Monitor]], [[manticore xmm|Manticore]] |
-| 4 | [[chuul xmm|Chuul]] |
-| 5 | [[giant crocodile xmm|Giant Crocodile]], [[sahuagin baron xmm|Sahuagin Baron]], [[water elemental xmm|Water Elemental]] |
-| 6 | [[cyclops sentry xmm|Cyclops Sentry]], [[kuo toa archpriest xmm|Kuo toa Archpriest]], [[merfolk wavebender xmm|Merfolk Wavebender]] |
-| 8 | [[hydra xmm|Hydra]], [[young bronze dragon xmm|Young Bronze Dragon]] |
-| 9 | [[young blue dragon xmm|Young Blue Dragon]] |
-| 10 | [[cyclops oracle xmm|Cyclops Oracle]] |
-| 11 | [[djinni xmm|Djinni]], [[marid xmm|Marid]], [[roc xmm|Roc]] |
-| 13 | [[storm giant xmm|Storm Giant]] |
-| 15 | [[adult bronze dragon xmm|Adult Bronze Dragon]] |
-| 16 | [[adult blue dragon xmm|Adult Blue Dragon]] |
-| 17 | [[dragon turtle xmm|Dragon Turtle]] |
-| 22 | [[ancient bronze dragon xmm|Ancient Bronze Dragon]] |
-| 23 | [[ancient blue dragon xmm|Ancient Blue Dragon]] |
+| 0 | [[giant-crab-xmm (beast)]], [[Eagle Xmm]], [[Blood Hawk Xmm]], [[lizard-xmm (beast)]] |
+| 1/8 | [[Blood Hawk Xmm]], [[giant]], [[Kobold Warrior Xmm]], [[Merfolk Skirmisher Xmm]], [[venomous-snake-xmm]] |
+| 1/4 | [[giant]], [[venomous-snake-xmm]], [[Spider Xmm]], [[Kuo Toa Xmm]], [[pseudodragon-xmm (dragon)]], [[pteranodon-xmm (beast)]], [[winged-kobold-xmm]] |
+| 1/2 | [[Crocodile Xmm]], [[sahuagin-warrior-xmm]] |
+| 1 | [[giant]], [[Giant Toad Xmm]], [[harpy-xmm (monstrosity)]], [[Kuo Toa Whip Xmm]] |
+| 2 | [[Bronze Dragon]], [[griffon-xmm (monstrosity)]], [[merrow-xmm (monstrosity)]], [[plesiosaurus-xmm (beast)]], [[Sahuagin Priest Xmm]], [[sea-hag-xmm (fey)]], [[Swarm of Venomous Snakes Xmm]] |
+| 3 | [[blue-dragon-wyrmling-xmm (dragon)]], [[Kuo Toa Monitor Xmm]], [[Manticore Xmm]] |
+| 4 | [[Chuul Xmm]] |
+| 5 | [[giant]], [[sahuagin-baron-xmm]], [[water-elemental-xmm (elemental)]] |
+| 6 | [[cyclops-sentry-xmm]], [[Kuo Toa Archpriest Xmm]], [[Merfolk]] |
+| 8 | [[Hydra Xmm]], [[Bronze Dragon Xmm]] |
+| 9 | [[Blue Dragon Xmm]] |
+| 10 | [[cyclops-oracle-xmm (giant)]] |
+| 11 | [[Djinni Xmm]], [[marid-xmm (elemental)]], [[Roc Xmm]] |
+| 13 | [[giant]] |
+| 15 | [[Bronze Dragon Xmm]] |
+| 16 | [[Adult Blue Dragon Xmm]] |
+| 17 | [[dragon-turtle-xmm (dragon)]] |
+| 22 | [[Bronze Dragon Xmm]] |
+| 23 | [[Blue Dragon Xmm]] |
 ^coastal-monsters
 
 ## 🔧 Deep Evaluation Improvements

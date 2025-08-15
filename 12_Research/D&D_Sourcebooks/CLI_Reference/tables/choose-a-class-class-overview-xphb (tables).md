@@ -37,18 +37,18 @@ world: Both
 
 | Class | Likes... | Primary Ability | Complexity |
 |-------|----------|-----------------|------------|
-| [[barbarian xphb|Barbarian]] | Battle | Strength | Average |
-| [[bard xphb|Bard]] | Performing | Charisma | High |
-| [[cleric xphb|Cleric]] | Gods | Wisdom | Average |
-| [[druid xphb|Druid]] | Nature | Wisdom | High |
-| [[fighter xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
-| [[monk xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
-| [[paladin xphb|Paladin]] | Defense | Strength and Charisma | Average |
-| [[ranger xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
-| [[rogue xphb|Rogue]] | Stealth | Dexterity | Low |
-| [[sorcerer xphb|Sorcerer]] | Power | Charisma | High |
-| [[warlock xphb|Warlock]] | Occult lore | Charisma | High |
-| [[wizard xphb|Wizard]] | Spellbooks | Intelligence | Average |
+| [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | Battle | Strength | Average |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]] | Performing | Charisma | High |
+| [[cleric-xphb-nature-domain (classes)]] | Gods | Wisdom | Average |
+| [[Druid Xphb Circle of the Shepherd Xge]] | Nature | Wisdom | High |
+| [[fighter-xphb (classes)]] | Weapons | Strength or Dexterity | Low |
+| [[Monk Xphb Warrior of Mercy Xphb]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[paladin-xphb-oath-of-conquest-xge (classes)]] | Defense | Strength and Charisma | Average |
+| [[ranger-xphb-monster-slayer-xge (classes)]] | Survival | Dexterity and Wisdom | Average |
+| [[Rogue Xphb Swashbuckler Xge]] | Stealth | Dexterity | Low |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | Power | Charisma | High |
+| [[warlock-xphb-fiend-patron-xphb (classes)]] | Occult lore | Charisma | High |
+| [[Wizard Xphb School of Necromancy]] | Spellbooks | Intelligence | Average |
 ^class-overview
 
 ## 🔧 Deep Evaluation Improvements

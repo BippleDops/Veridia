@@ -39,19 +39,19 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-05 | `3d6` [[wereboar xmm|wereboars]] |
+| 01-05 | `3d6` [[wereboar-xmm (monstrosity)]] |
 | 06-10 | `2d10` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
-| 11-15 | `d4` [[bulette xmm|bulettes]] |
+| 11-15 | `d4` [[bulette-xmm (monstrosity)]] |
 | 16-17 | An old road of paved stones, partly reclaimed by wilderness, that travels for `d8` miles in either direction before ending |
-| 18-27 | `d12` [[couatl xmm|couatls]] |
-| 28-30 | A witch ([[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mage]]) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
-| 31-40 | `2d10` [[elephant xmm|elephants]] |
-| 41-46 | `2d4` [[weretiger xmm|weretigers]] |
+| 18-27 | `d12` [[Couatl Xmm]] |
+| 28-30 | A witch ([[Bestiary]]) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
+| 31-40 | `2d10` [[elephant-xmm (beast)]] |
+| 41-46 | `2d4` [[Weretiger Xmm]] |
 | 47-56 | `1d8 + 1` [[cyclops-sentry-xmm|cyclopes]] |
-| 57-61 | `d3` [[chimera xmm|chimeras]] |
-| 62-66 | 5 [[triceratops xmm|triceratopses]] |
+| 57-61 | `d3` [[Chimera Xmm]] |
+| 62-66 | 5 [[Triceratops Xmm]] |
 | 67-69 | A giant hole 50 feet across that descends nearly 500 feet before opening into an empty cave |
-| 70-79 | `1d4 + 3` [[gorgon xmm|gorgons]] |
+| 70-79 | `1d4 + 3` [[Brazen Gorgon Xmm]] |
 | 80-88 | `d3` [[young-gold-dragon-xmm|young gold dragons]] |
 | 89-90 | A circular section of grass nearly a quarter-mile across that appears to have been pressed down; `d4` more such circles connected by lines can be seen from overhead. |
 | 91-96 | `2d4` [[tyrannosaurus-rex-xmm|tyrannosaurus rexes]] |
@@ -91,3 +91,57 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest a conspiracy
 - Someone is protecting a witness for money
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty
+
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

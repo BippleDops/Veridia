@@ -36,9 +36,9 @@ world: Both
 *Scroll, rare*  
 ![](/03_Mechanics/CLI/items/img/scroll-of-protection.webp#right)
 
-Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[emanation area of effect xphb|Emanation]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Monstrosity would be inside the area, the effect ends.
+Using a [[actions#Magic|Magic]] action to read the scroll creates a 5-foot [[Area of Effect Xphb]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Monstrosity would be inside the area, the effect ends.
 
-As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[emanation area of effect xphb|Emanation]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[emanation area of effect xphb|Emanation]].
+As a [[actions#Magic|Magic]] action, a creature within 5 feet of the [[Area of Effect Xphb]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[Area of Effect Xphb]].
 
 *Source: Dungeon Master's Guide (2024) p. 302*
 

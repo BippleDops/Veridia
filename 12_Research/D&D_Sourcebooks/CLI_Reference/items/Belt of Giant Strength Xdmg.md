@@ -39,21 +39,21 @@ world: Both
 
 | Belt | Str. | Rarity |
 |------|------|--------|
-| [[belt of hill giant strength xdmg|Belt of Hill Giant Strength]] | 21 | Rare |
-| [[belt of frost giant strength xdmg|Belt of Frost Giant Strength]] or [[belt of stone giant strength xdmg|Belt of Stone Giant Strength]] | 23 | Very Rare |
-| [[belt of fire giant strength xdmg|Belt of Fire Giant Strength]] | 25 | Very Rare |
-| [[belt of cloud giant strength xdmg|Belt of Cloud Giant Strength]] | 27 | Legendary |
-| [[belt of storm giant strength xdmg|Belt of Storm Giant Strength]] | 29 | Legendary |
+| [[giant]] | 21 | Rare |
+| [[giant]] or [[giant]] | 23 | Very Rare |
+| [[giant]] | 25 | Very Rare |
+| [[giant]] | 27 | Legendary |
+| [[belt-of-storm-giant-strength-xdmg (items)]] | 29 | Legendary |
 ^belt-str-rarity
 
 **Items in this group:**
 
-- [[belt of cloud giant strength xdmg|Belt of Cloud Giant Strength]]
-- [[belt of fire giant strength xdmg|Belt of Fire Giant Strength]]
-- [[belt of frost giant strength xdmg|Belt of Frost Giant Strength]]
-- [[belt of hill giant strength xdmg|Belt of Hill Giant Strength]]
-- [[belt of stone giant strength xdmg|Belt of Stone Giant Strength]]
-- [[belt of storm giant strength xdmg|Belt of Storm Giant Strength]]
+- [[giant]]
+- [[giant]]
+- [[giant]]
+- [[giant]]
+- [[giant]]
+- [[belt-of-storm-giant-strength-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
 

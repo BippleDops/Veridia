@@ -4,14 +4,14 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
+- [[Lore]]
 title: Pressure''s End
 type: lore
 updated: 2025-08-14
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-pressure-s-end-pressure-s-end.svg)
+![](04_Resources/Assets/Locations/[[location]]-city-pressure-s-end-pressure-s-end.svg)
 
 # Pressure''s End
 
@@ -23,12 +23,12 @@ Pressure''s End represents a significant element within the campaign world, offe
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -49,5 +49,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*

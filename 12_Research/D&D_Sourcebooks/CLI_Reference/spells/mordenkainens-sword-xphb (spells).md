@@ -47,9 +47,9 @@ You create a spectral sword that hovers within range. It lasts for the duration.
 
 When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to `4d12` plus your spellcasting ability modifier.
 
-On your later turns, you can take a [[bonus-action-xphb|Bonus Action]] to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
+On your later turns, you can take a [[Action Xphb]] to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 302. Available in the SRD (as "Arcane Sword") and the Free Rules (2024)*
 
@@ -89,3 +89,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[mordenkainens-sword-xphb (spells)-phb]]` in CLI_Reference/spells/

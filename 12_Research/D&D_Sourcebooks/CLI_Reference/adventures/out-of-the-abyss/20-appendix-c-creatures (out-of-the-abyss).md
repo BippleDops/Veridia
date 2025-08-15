@@ -51,31 +51,31 @@ This appendix presents new monsters and NPCs encountered in this adventure.
 
 | Monster | Challenge |
 |---------|-----------|
-| [[bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]] | 1/8 |
-| [[drow-spore-servant-oota|Drow spore servant]] | 1/8 |
-| [[derro mpmm|Derro]] | 1/4 |
-| [[ixitxachitl oota|Ixitxachitl]] | 1/4 |
-| [[male-steeder-mpmm|Male steeder]] | 1/4 |
-| [[duergar-spore-servant-oota|Duergar spore servant]] | 1/2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|Duergar soulblade]] | 1 |
-| [[female-steeder-mpmm|Female steeder]] | 1 |
-| [[awakened-zurkhwood-oota|Awakened zurkhwood]] | 2 |
-| [[chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/npc/droki oota|Droki]] (NPC) | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota|Duergar darkhaft]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-keeper-of-the-flame-oota|Duergar Keeper of the Flame]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|Duergar xarrorn]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/npc/grisha oota|Grisha]] (NPC) | 2 |
-| [[/03 Mechanics/CLI/bestiary/npc/narrak oota|Narrak]] (NPC) | 2 |
-| [[vampiric-ixitxachitl-oota|Vampiric ixitxachitl]] | 2 |
-| [[derro-savant-mpmm|Derro savant]] | 3 |
-| [[hook-horror-spore-servant-oota|Hook horror spore servant]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota|Troglodyte champion of Laogzed]] | 3 |
-| [[chuul-spore-servant-oota|Chuul spore servant]] | 4 |
-| [[/03 Mechanics/CLI/bestiary/npc/the-pudding-king-oota|The Pudding King]] (NPC) | 4 |
-| [[/03 Mechanics/CLI/bestiary/npc/yestabrod oota|Yestabrod]] (NPC) | 4 |
+| [[Bridesmaid of Zuggtmoy Oota]] | 1/8 |
+| [[drow-spore-servant-oota (plant)]] | 1/8 |
+| [[Derro Mpmm]] | 1/4 |
+| [[Ixitxachitl Oota]] | 1/4 |
+| [[Female Steeder Mpmm]] | 1/4 |
+| [[Duergar Spore Servant Oota]] | 1/2 |
+| [[Bestiary]] | 1 |
+| [[Female Steeder Mpmm]] | 1 |
+| [[awakened-zurkhwood-oota (plant)]] | 2 |
+| [[chamberlain-of-zuggtmoy-oota (plant)]] | 2 |
+| [[Bestiary]] (NPC) | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] (NPC) | 2 |
+| [[Bestiary]] (NPC) | 2 |
+| [[Ixitxachitl Oota]] | 2 |
+| [[Derro Savant Mpmm]] | 3 |
+| [[Hook Horror Spore Servant Oota]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Chuul Spore Servant Oota]] | 4 |
+| [[Bestiary]] (NPC) | 4 |
+| [[Bestiary]] (NPC) | 4 |
 ^monster-challenge
 
 ## Player-Facing Summary

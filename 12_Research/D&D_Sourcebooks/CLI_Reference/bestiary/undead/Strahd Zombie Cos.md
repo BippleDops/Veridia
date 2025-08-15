@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
 
-# [[strahd zombie cos|Strahd Zombie]]
+# [[Strahd Zombie Cos]]
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.

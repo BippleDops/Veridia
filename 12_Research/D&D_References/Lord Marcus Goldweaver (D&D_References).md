@@ -60,10 +60,10 @@ Mentioned in The Second Prophecy of Depths
 
 ## Relationships
 
-- **Ally**: [[Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg]]
+- **Ally**: [[Npc]]
 - **Blackmailer**: [[Master of Currents Poseidon]]
-- **Friend**: [[Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg]]
-- **Enemy**: [[Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
+- **Friend**: [[Deepwater Banking Consortium]]
+- **Enemy**: [[Assets]]
 - **Student**: [[Captain Steelhart]]
 
 ## Plot Hooks

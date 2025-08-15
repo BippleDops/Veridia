@@ -33,7 +33,7 @@ world: Both
 # Spell
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A spell is a [[magical effect xphb|magical effect]] that has the characteristics described in "chapter 7".
+A spell is a [[magical-effect-xphb (variant-rules)]] that has the characteristics described in "chapter 7".
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -82,3 +82,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[spell-xphb (variant-rules)-phb]]` in CLI_Reference/spells/

@@ -646,8 +646,8 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 - [[Current Harvestsage]]
 
 **Related Items and Concepts**:
-- [[Kelp Based Brewing]]
-- [[Depth Aging Process]]
+- [[Kelp-Based Brewing]]
+- [[Depth-Aging Process]]
 - [[Underwater Fermentation]]
 - [[Pressure Brewing Technology]]
 

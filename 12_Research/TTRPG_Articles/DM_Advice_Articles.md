@@ -1,10 +1,12 @@
 ---
+
 title: DM_Advice_Articles
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # DM_Advice_Articles
@@ -65,3 +67,12 @@ modified: '2025-08-14'
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

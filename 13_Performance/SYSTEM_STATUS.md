@@ -5,11 +5,11 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # SYSTEM_STATUS
 
----
+- --
 title: SYSTEM STATUS
 type: note
 tags:
@@ -17,7 +17,7 @@ tags:
 - note
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 # TTRPG Vault Asset Generation System Status
 
@@ -106,6 +106,7 @@ modified: '2025-08-14'
 ## 🎯 Quick Commands
 
 ```bash
+
 # Check system status
 bash scripts/check_status.sh
 
@@ -174,18 +175,56 @@ bash scripts/stop_all_services.sh
 - **Generation Success Rate:** 80%+
 - **Automation Coverage:** 100%
 
----
+- --
 
-*System is currently running and generating assets continuously. Check logs in `09_Performance/logs/` for detailed information.*
+* System is currently running and generating assets continuously. Check logs in `09_Performance/logs/` for detailed information.*
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

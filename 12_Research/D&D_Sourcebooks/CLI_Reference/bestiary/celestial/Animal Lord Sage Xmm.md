@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-sage-xmm-animal-lord-sage-xmm.svg)
 
-# [[animal lord sage xmm|Animal Lord; Sage]]
+# [[Animal Lord Sage Xmm]]
 *Source: Monster Manual (2024) p. 15*  
 
 ```statblock
@@ -84,12 +84,12 @@ world: Both
   - "desc": "If the animal lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
   - "desc": "Wisdom Saving Throw: DC 20, any enemy that starts its turn in a 30-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from the animal lord. Failure: The target takes 10 (3d6) Psychic\
       \ damage, and the target is magically bewildered until the end of its next turn.\
       \ While bewildered, the target subtracts d4 from its saving throws."
     "name": "Lordly Presence"
-  - "desc": "The animal lord has [[advantage xphb|Advantage]]\
+  - "desc": "The animal lord has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -105,17 +105,17 @@ world: Both
   - "desc": "The animal lord conjures an animal spirit that strikes at a creature\
       \ and then disappears. Dexterity Saving Throw: DC 20, one creature the animal\
       \ lord can see within 120 feet. Failure: 28 (4d10 + 6) Radiant damage. Success:\
-      \ Half damage. Failure or Success: The target has [[disadvantage xphb|Disadvantage]]\
+      \ Half damage. Failure or Success: The target has [[Advantage Xphb]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Animal Spirit"
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
-      \nAt will: [[animal friendship xphb|Animal Friendship]],\
-      \ [[animal messenger xphb|Animal Messenger]], [[speak with animals xphb|Speak\]]
+      \nAt will: [[Animal Friendship Xphb]],\
+      \ [[animal-messenger-xphb (spells)]], [[Speak With Animals Xphb]]
       \ with Animals]]\n\n2/day\
-      \ each: [[awaken xphb|Awaken]], [[greater restoration xphb|Greater Restoration]]\n\
-      \n1/day each: [[animal shapes xphb|Animal Shapes]],\
-      \ [[sunburst xphb|Sunburst]]"
+      \ each: [[Awaken Xphb]], [[greater-restoration-xphb (spells)]]\n\
+      \n1/day each: [[animal-shapes-xphb (spells)]],\
+      \ [[Sunburst Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The animal lord shape-shifts into a Huge or smaller version of the animal\
@@ -124,7 +124,7 @@ world: Both
       \ it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
 "legendary_actions":
-  - "desc": "The animal lord moves up to its [[speed xphb|Speed]]\
+  - "desc": "The animal lord moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it makes one Rend attack."
     "name": "Feral Strike"

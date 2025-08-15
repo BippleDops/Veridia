@@ -35,8 +35,8 @@ world: Both
 *Source: Player's Handbook p. 131*  
 
 - **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Performance|Performance]]  
-- **Tool Proficiencies.** [[disguise kit xphb|Disguise kit]], one type of musical instrument  
-- **Equipment.** An inexpensive but unusual weapon, such as a [[trident xphb|trident]] or [[net xphb|net]] (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[costume xphb|costume clothes]], and a belt [[pouch xphb|pouch]] containing 15 gp  
+- **Tool Proficiencies.** [[disguise-kit-xphb (items)]], one type of musical instrument  
+- **Equipment.** An inexpensive but unusual weapon, such as a [[trident-xphb (items)]] or [[Net Xphb]] (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[costume-xphb (items)]], and a belt [[component-pouch-xphb (items)]] containing 15 gp  
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment–perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
 

@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Quarantine Zones
-type: lore
+title: [[location]]s the Quarantine Zones
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ Connected to 02_Worldbuilding/Locations/The Quarantine Zones are various other i
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Quarantine Zones through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Quarantine Zones through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -192,7 +192,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Quarantine Zones into gamepla
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -260,3 +260,7 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

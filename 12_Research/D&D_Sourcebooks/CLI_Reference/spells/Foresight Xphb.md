@@ -46,9 +46,9 @@ world: Both
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[advantage xphb|Advantage]] on [[d20-test-xphb|D20 Tests]], and other creatures have [[disadvantage xphb|Disadvantage]] on attack rolls against it. The spell ends early if you cast it again.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[Advantage Xphb]] on [[d20-test-xphb (variant-rules)]], and other creatures have [[Advantage Xphb]] on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the SRD and the Free Rules (2024)*
 

@@ -94,10 +94,10 @@ Mentioned in The First Prophecy of Depths
 ## Relationships
 
 - **Student**: [[The Verdant Accord]]
-- **Ally**: [[Portrait NPC Captain Prism Shield Valeria V1 Captain Prism Shield Valeria.svg]]
-- **Mentor**: [[portrait-npc-captain-rescue-captain-rescue.svg]]
+- **Ally**: [[Shield]]
+- **Mentor**: [[Npc]]
 - **Sibling**: [[Siren]]
-- **Student**: [[Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
+- **Student**: [[Npc]]
 
 ## Plot Hooks
 

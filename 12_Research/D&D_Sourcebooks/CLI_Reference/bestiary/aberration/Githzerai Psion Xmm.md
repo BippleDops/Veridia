@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-psion-xmm-githzerai-psion-xmm.svg)
 
-# [[githzerai psion xmm|Githzerai Psion]]
+# [[githzerai-psion-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 137*  
 
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
@@ -134,13 +134,13 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psychic Warp"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [[mage hand xphb|Mage Hand]] (the hand\
-      \ is Invisible)\n\n1/day each: [[plane shift xphb|Plane Shift]],\
-      \ [[see invisibility xphb|See Invisibility]]"
+      At will: [[mage-hand-xphb (spells)]] (the hand\
+      \ is Invisible)\n\n1/day each: [[plane-shift-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The githzerai casts [[feather fall xphb|Feather Fall]]\
-      \ or [[shield xphb|Shield]] in response to the spell's\
+  - "desc": "The githzerai casts [[Feather Fall Xphb]]\
+      \ or [[Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense"

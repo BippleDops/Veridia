@@ -48,7 +48,7 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 
 As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [[conditions#Blinded|blinded]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[conditions#Blinded|blinded]]. At the end of each of its turns, a [[conditions#Blinded|blinded]] creature can make a Constitution saving throw, ending the effect on itself on a success.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 
@@ -92,3 +92,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[holy-weapon-xge (spells)-phb]]` in CLI_Reference/spells/

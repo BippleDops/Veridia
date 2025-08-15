@@ -384,7 +384,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 ### Social Networks
 **[[Noble Houses]]**: Private consultation on family matters and succession issues  
-**[[Merchant Guilds]]**: Economic prophecies affecting trade and commercial planning  
+**[[Merchant Guilds (D&D_References)]]**: Economic prophecies affecting trade and commercial planning  
 **[[Cultural Organizations]]**: Spiritual guidance for artistic and cultural development  
 **[[Community Leaders]]**: Local consultation on matters affecting specific populations  
 **[[International Relations]]**: Prophetic insight into relationships with other underwater realms

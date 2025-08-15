@@ -49,7 +49,7 @@ world: Both
 *Uncommon*  
 ![](/03_Mechanics/CLI/items/img/mariners-armor.webp#right)
 
-While wearing this armor, you have a [[swim speed xphb|Swim Speed]] equal to your [[speed xphb|Speed]]. In addition, if you start your turn underwater with 0 [[hit points xphb|Hit Points]], you immediately regain `d4` [[hit points xphb|Hit Points]]. The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]]. In addition, if you start your turn underwater with 0 [[hit-points-xphb (variant-rules)]], you immediately regain `d4` [[hit-points-xphb (variant-rules)]]. The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 

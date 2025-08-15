@@ -1,7 +1,7 @@
 ---
 
-title: Locations Sunken Palace
-type: lore
+title: [[location]]s Sunken Palace
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -195,7 +195,7 @@ Ways to incorporate 02_Worldbuilding/Locations/Sunken Palace into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -268,12 +268,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Hidden Prophecy of Winds
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

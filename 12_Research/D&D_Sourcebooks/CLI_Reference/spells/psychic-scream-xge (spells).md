@@ -50,7 +50,7 @@ Each target must make an Intelligence saving throw. On a failed save, a target t
 
 A [[conditions#Stunned|stunned]] target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 163*
 
@@ -94,3 +94,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

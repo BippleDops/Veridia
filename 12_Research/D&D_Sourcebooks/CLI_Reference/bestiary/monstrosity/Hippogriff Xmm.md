@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hippogriff-xmm-hippogriff-xmm.svg)
 
-# [[hippogriff xmm|Hippogriff]]
+# [[hippogriff-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 169. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,9 +1,9 @@
 ---
-title: deck-of-many-things#Knight
+title: deck-of-many-things#[[Knight]]
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 

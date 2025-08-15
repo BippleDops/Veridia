@@ -1,12 +1,12 @@
 ---
 
 title: Magnus Fairweigh
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - content/lore
-- content/location
-- world/aethermoor
+- content/[[location]]
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Magnus Fairweight 2 is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Magnus Fairweight 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Magnus Fairweight 2.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -104,12 +104,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Second Prophecy of Winds
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

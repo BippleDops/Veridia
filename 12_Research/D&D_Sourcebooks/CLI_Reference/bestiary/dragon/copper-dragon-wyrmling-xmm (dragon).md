@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-copper-dragon-wyrmling-xmm-copper-dragon-wyrmling-xmm.svg)
 
-# [[copper dragon wyrmling xmm|Copper Dragon Wyrmling]]
+# [[copper-dragon-wyrmling-xmm (dragon)]]
 *Source: Monster Manual (2024) p. 78. Available in the SRD and the Free Rules (2024)*  
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
@@ -104,12 +104,12 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 18 (4d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
-      \ Failure: The target can't take Reactions; its [[speed xphb|Speed]]\
-      \ is halved; and it can take either an action or a [[bonus action xphb|Bonus Action]]\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[Area of Effect Xphb]].\
+      \ Failure: The target can't take Reactions; its [[Fly Speed Xphb]]\
+      \ is halved; and it can take either an action or a [[Action Xphb]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
 "source":

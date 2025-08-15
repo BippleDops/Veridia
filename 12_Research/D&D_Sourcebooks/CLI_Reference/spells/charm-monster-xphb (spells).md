@@ -49,11 +49,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with [[advantage xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with [[Advantage Xphb]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb (variant-rules)]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[charm-monster-xphb (spells)-phb]]` in CLI_Reference/spells/

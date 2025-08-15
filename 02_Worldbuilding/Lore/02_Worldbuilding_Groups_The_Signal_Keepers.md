@@ -1,17 +1,17 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 02_Worldbuilding/Groups/The Signal Keepers
+# 02_Worldbuilding/[[Groups]]/The [[Signal_Keepers]]]]
 
 ## Overview
 
-02_Worldbuilding/Groups/The Signal Keepers represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/Groups/[[The [[Signal Keepers]]]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 
 ### Basic Information
-02_Worldbuilding/Groups/The Signal Keepers can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
+02_Worldbuilding/Groups/[[The Signal Keepers]] can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
 - Physical: A tangible thing or place
 - Conceptual: An idea or belief system
 - Event: Something that happened or will happen
@@ -22,7 +22,7 @@ The full nature of 02_Worldbuilding/Groups/The Signal Keepers involves several i
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Groups/The Signal Keepers trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -36,7 +36,7 @@ Connected to 02_Worldbuilding/Groups/The Signal Keepers are various other import
 Different groups view 02_Worldbuilding/Groups/The Signal Keepers through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02_Worldbuilding/Groups/The Signal Keepers:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Groups/The Signal Keepers has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02_Worldbuilding/Groups/The Signal Keepers into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Groups/The Signal Keepers might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/groups/the-signal-keepers
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/groups/the-signal-keepers
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

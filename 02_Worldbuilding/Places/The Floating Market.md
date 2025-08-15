@@ -167,7 +167,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Reputation**: Honest dealing, fair prices, extensive network
 
 #### The Exotic Bazaar
-*Merchant Prince: [[Zara al Zahir]] - Djinn-touched Trader*
+*Merchant Prince: [[Zara al-Zahir]] - Djinn-touched Trader*
 - **Specialty**: Rare goods from across multiple dimensions
 - **Weekly Auctions**: High-value items, starting bids 1,000+ gp
 - **Current Inventory**:
@@ -322,7 +322,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Effect**: Can cast *Misty Step* 3/day, advantage on Stealth in dim light/darkness
 - **Curse**: Wearer has disadvantage on saves vs fear while in bright light
 
-#### [[The Resoce Workshop]]
+#### [[workshop]]
 *Master Enchanter: [[Arcana Dualweave]] - Tiefling Artificer*
 - **Services**: Custom enchantments combining Aethermoor and Aquabyssos techniques
 - **Pricing**: Base item cost + 500 gp per +1 enhancement + special material costs
@@ -517,7 +517,7 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 #### Movement Schedule
 **Morning Phase (6 hours)**: Primary access to [[Aethermoor]]
 - Major portal opens to [[The Crystal Metropolis]]
-- Secondary gates connect to [[Brightforge]] and [[The Academy of Resoce]]
+- Secondary gates connect to [[Brightforge]] and [[The_Academy_of_Resoce]]
 - Aquabyssos access limited to diplomatic channels only
 
 **Afternoon Phase (6 hours)**: Balanced Access
@@ -538,7 +538,7 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 - Portal energy regeneration period
 
 ### Dimensional Mechanics
-The market maintains its neutral status through a complex system of dimensional anchors powered by [[The Great Crystal Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
+The market maintains its neutral status through a complex system of dimensional anchors powered by [[The Great Crystal-Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
 
 ### Plot Hooks
 1. **The Diplomatic Crisis**: Mediate dispute threatening Market's neutral status
@@ -587,6 +587,34 @@ The Floating Market is a notable location characterized by its unique features a
 ### Founding
 The Floating Market was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Floating Market:
@@ -614,3 +642,40 @@ Ongoing situations affecting The Floating Market:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

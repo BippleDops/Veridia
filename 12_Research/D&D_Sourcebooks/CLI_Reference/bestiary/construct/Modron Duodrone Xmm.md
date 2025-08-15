@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-duodrone-xmm-modron-duodrone-xmm.svg)
 
-# [[modron duodrone xmm|Modron Duodrone]]
+# [[Modron Duodrone Xmm]]
 *Source: Monster Manual (2024) p. 217*  
 
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.

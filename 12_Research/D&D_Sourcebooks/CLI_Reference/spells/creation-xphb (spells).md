@@ -46,7 +46,7 @@ world: Both
 - **Components:** V, S, M (a paintbrush)
 - **Duration:** Special
 
-You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot [[cube-area-of-effect-xphb|Cube]], and the object must be of a form and material that you have seen.
+You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot [[Cube Area of Effect Xphb]], and the object must be of a form and material that you have seen.
 
 The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
 
@@ -61,9 +61,9 @@ The spell's duration depends on the object's material, as shown in the Materials
 | Adamantine or mithral | 1 minute |
 ^materials
 
-**Using a Higher-Level Spell Slot.** The [[cube-area-of-effect-xphb|Cube]] increases by 5 feet for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The [[Cube Area of Effect Xphb]] increases by 5 feet for each spell slot level above 5.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 259. Available in the SRD and the Free Rules (2024)*
 
@@ -106,3 +106,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[creation-xphb (spells)-phb]]` in CLI_Reference/spells/

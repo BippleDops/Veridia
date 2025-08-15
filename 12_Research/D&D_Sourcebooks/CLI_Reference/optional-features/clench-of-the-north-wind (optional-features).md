@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [[hold person xphb|hold person]].
+You can spend 3 ki points to cast [[Hold Person Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

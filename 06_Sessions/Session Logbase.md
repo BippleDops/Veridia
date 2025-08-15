@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session Logbase
 
----
+- --
 title: Session Logbase
 type: Lore
 tags:
@@ -27,11 +27,11 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:16.143056+00:00'
 world: Both
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -55,7 +55,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Plot Hooks
 
@@ -63,3 +63,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - Strange dreams suggest a curse
 - Strange sightings suggest ancient magic
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

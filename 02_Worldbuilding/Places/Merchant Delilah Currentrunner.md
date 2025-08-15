@@ -1,16 +1,16 @@
 ---
 
-title: Merchant Delilah Currentrunner
-type: Location
+title: [[Merchant]] Delilah Currentrunner
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - trade
 - status/complete
 - world/aquabyssos
 - aquatic
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - location
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -110,9 +110,9 @@ As political tensions rise in Aquabyssos, Delilah finds herself in the unique po
 
 ## Appearance
 
-Delilah is a confident triton woman in her early forties, with dark blue-green skin marked by intricate tattoos that map the major ocean currents of the region. Her silver hair is kept in practical braids adorned with small shells and metal tokens from her various business dealings. Her eyes are sharp amber, constantly evaluating opportunities and risks.
+Delilah is a confident [[Triton]] woman in her early forties, with dark blue-green skin marked by intricate tattoos that [[map]] the major ocean currents of the region. Her silver hair is kept in practical braids adorned with small shells and metal tokens from her various business dealings. Her eyes are sharp amber, constantly evaluating opportunities and risks.
 
-She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in maritime commerce.
+She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in [[Mari[[Time]] Commerce]].
 
 ## Statistics
 
@@ -134,7 +134,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 
 **Merchant Network.** Delilah can call upon her network of contacts to gather information, arrange meetings, or obtain items. This functions as having contacts in every major settlement within 500 miles.
 
-**Fast Talking.** Once per day, Delilah can make a Persuasion check as a bonus action to distract an enemy, giving allies advantage on their next attack.
+**Fast Talking.** Once per day, Delilah can make a Persuasion check as a bonus action to distract an enemy, giving [[Allies]] advantage on their next attack.
 
 ### Actions
 
@@ -164,30 +164,30 @@ Her reputation was cemented five years ago when she successfully delivered criti
 
 Delilah is busier than ever as the political situation in Aquabyssos creates demand for discrete transportation services. She's carefully balancing contracts from different factions while gathering intelligence about the broader implications of the current crisis.
 
-She's also investigating reports of interference with shipping lanes and suspicious cargo movements that suggest someone is manipulating trade patterns for political purposes.
+She's also investigating [[reports]] of interference with shipping lanes and suspicious cargo movements that suggest someone is manipulating trade patterns for political purposes.
 
 ## Quest Hooks
 
-1. Delilah offers the party high-paying transport work, but the cargo attracts unwanted attention from multiple factions.
+1. Delilah offers [[The Party]] high-paying transport work, but the cargo attracts unwanted attention from multiple factions.
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
 3. Attacks on merchant vessels threaten to disrupt Delilah's business, and she needs investigators to identify the perpetrators.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
+Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating [[Moral Dilemmas]] about the nature of her various clients.
 
 ## Player-Facing Summary
 
 Merchant Delilah Currentrunner is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Merchant Delilah Currentrunner as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Delilah Currentrunner.
 
@@ -208,6 +208,34 @@ Merchant Delilah Currentrunner is a notable location characterized by its unique
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Merchant Delilah Currentrunner:
@@ -227,12 +255,12 @@ Key stop on textiles trade route
 - The authorities needs help investigating before the festival
 - A merchant needs help delivering before winter
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -242,7 +270,7 @@ Key stop on textiles trade route
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## A Day in the Life
 
@@ -259,3 +287,40 @@ Key stop on textiles trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

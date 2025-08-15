@@ -41,19 +41,19 @@ world: Both
 |------------|-----------|
 | 01 | 1 [[abominable-yeti-xmm|abominable yeti]] |
 | 02-04 | `d6` [[revet xmm|revets]] |
-| 05-10 | `1d4 + 1` [[werebear xmm|werebears]] |
+| 05-10 | `1d4 + 1` [[werebear-xmm (monstrosity)]] |
 | 11-20 | `d3` [[young-white-dragon-xmm|young white dragons]] |
 | 21-25 | A blizzard that reduces visibility to 5 feet for `d6` hours |
-| 26-35 | 1 [[roc xmm|roc]] |
-| 36-40 | A herd of `3d20 + 60` caribou ([[deer xmm|deer]]) moving through the snow |
-| 41-50 | `d4` [[mammoth xmm|mammoths]] |
-| 51-60 | `1d8 + 1` [[troll xmm|trolls]] |
+| 26-35 | 1 [[Roc Xmm]] |
+| 36-40 | A herd of `3d20 + 60` caribou ([[deer xmm#^statblock]]) moving through the snow |
+| 41-50 | `d4` [[mammoth-xmm (beast)]] |
+| 51-60 | `1d8 + 1` [[Troll Xmm]] |
 | 61-65 | A mile-wide frozen lake in which preserved corpses of strange creatures can be seen |
-| 66-75 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 66-75 | `2d4` [[Remorhaz Xmm]] |
 | 76-80 | A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids |
 | 81-90 | 1 [[adult-white-dragon-xmm|adult white dragon]] |
 | 91-96 | `1d8 + 1` [[frost-giant-xmm|frost giants]] |
-| 97-99 | `d4` [[remorhaz xmm|remorhazes]] |
+| 97-99 | `d4` [[Remorhaz Xmm]] |
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] |
 ^arctic-encounters-levels-1116
 
@@ -96,3 +96,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

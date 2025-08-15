@@ -35,7 +35,7 @@ world: Both
 # Thief of Five Fates
 *Source: Player's Handbook p. 111. Available in the SRD*  
 
-You can cast [[bane xphb|bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Bane Xphb]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 

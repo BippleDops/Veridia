@@ -42,7 +42,7 @@ updated: '2025-08-13T01:18:37.015778+00:00'
 - Add 12_Research-specific enhancement
 
 ## Overview
-Known only as "Mist," this enigmatic figure operates in the liminal spaces between light and shadow throughout [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. More shadow than flesh after years of bonding with umbral entities, she trades in the most dangerous commodity of all: secrets. Unlike [[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Her true identity, origins, and even physical form remain mysteries that have confounded investigators for years.
+Known only as "Mist," this enigmatic figure operates in the liminal spaces between light and shadow throughout [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. More shadow than flesh after years of bonding with umbral entities, she trades in the most dangerous commodity of all: secrets. Unlike [[Jasper "Three-Eyes" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Her true identity, origins, and even physical form remain mysteries that have confounded investigators for years.
 
 ## Secrets
 > [!warning] DM Only
@@ -65,7 +65,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 2. One of her agents has gone rogue with dangerous secrets
 3. Blackmailing party member with information from their past
 4. Needs protection while she retrieves memories from dangerous source
-5. Competition with [[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] requires outside adjudication
+5. Competition with [[Jasper "Three-Eyes" Flint]] requires outside adjudication
 
 ## Speaking Style
 *"Information, dear client, is the only true currency. Everything else is merely... negotiable."* - To potential clients

@@ -44,9 +44,9 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You fortify up to six creatures you can see within range. The spell bestows 120 [[temporary-hit-points-xphb|Temporary Hit Points]], which you divide among the spell's recipients.
+You fortify up to six creatures you can see within range. The spell bestows 120 [[temporary-hit-points-xphb (variant-rules)]], which you divide among the spell's recipients.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 306*
 

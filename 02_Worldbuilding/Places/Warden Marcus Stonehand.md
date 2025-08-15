@@ -1,15 +1,15 @@
 ---
 
 title: Warden Marcus Stonehand
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - aquatic
 - prison
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - campaign/arc
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -119,7 +119,7 @@ He wears a modified warden's uniform designed for underwater environments, with 
 
 **Warden's Authority.** Marcus has advantage on Intimidation and Persuasion checks when dealing with prisoners or security matters.
 
-**Combat Veteran.** Marcus has advantage on initiative rolls and cannot be surprised while conscious.
+**Combat Veteran.** Marcus has advantage on [[Initiative]] rolls and cannot be surprised while conscious.
 
 ### Actions
 
@@ -145,24 +145,24 @@ Under his leadership, the Pressure Depths has achieved the lowest recidivism rat
 
 Marcus is dealing with increased pressure from various factions wanting special treatment for their imprisoned members or access to prisoners for interrogation. He's maintaining his strict neutrality while preparing for the possibility that political conflicts might affect prison security.
 
-He's also investigating reports of attempts to communicate with high-security prisoners and evidence that some inmates may have connections to the broader conspiracy affecting the city.
+He's also investigating [[reports]] of attempts to communicate with high-security prisoners and [[Evidence]] that some inmates may have connections to the broader conspiracy affecting the city.
 
 ## Quest Hooks
 
-1. Marcus approaches the party for help investigating external attempts to influence or extract information from prisoners.
-2. A prisoner with crucial information is targeted for assassination, and Marcus needs protection for them.
+1. Marcus approaches [[The Party]] for help investigating external attempts to influence or extract information from prisoners.
+2. A prisoner with crucial information is targeted for [[Assassin]]ation, and Marcus needs protection for them.
 3. The party needs to interview a dangerous prisoner, requiring negotiation with Marcus about security protocols.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to explore themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
+Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to exp[[Lore]] themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
 
 ## Player-Facing Summary
 
@@ -188,6 +188,34 @@ Warden Marcus Stonehand is a notable location characterized by its unique featur
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -221,3 +249,40 @@ Key stop on textiles trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

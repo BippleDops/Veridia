@@ -45,30 +45,30 @@ world: Both
 | dice: d100 | Gems or Art Objects | Magic Items |
 |------------|---------------------|-------------|
 | 01-02 | — | — |
-| 03-05 | `3d6` (10) 1,000 gp gems | Roll `d8` times on [[magic item table c|Magic Item Table C]]. |
-| 06-08 | `d10` (5) 2,500 gp art objects | Roll `d8` times on [[magic item table c|Magic Item Table C]]. |
-| 09-11 | `d4` (2) 7,500 gp art objects | Roll `d8` times on [[magic item table c|Magic Item Table C]]. |
-| 12-14 | `d8` (4) 5,000 gp gems | Roll `d8` times on [[magic item table c|Magic Item Table C]]. |
-| 15-22 | `3d6` (10) 1,000 gp gems | Roll `d6` times on [[magic item table d|Magic Item Table D]]. |
-| 23-30 | `d10` (5) 2,500 gp art objects | Roll `d6` times on [[magic item table d|Magic Item Table D]]. |
-| 31-38 | `d4` (2) 7,500 gp art objects | Roll `d6` times on [[magic item table d|Magic Item Table D]]. |
-| 39-46 | `d8` (4) 5,000 gp gems | Roll `d6` times on [[magic item table d|Magic Item Table D]]. |
-| 47-52 | `3d6` (10) 1,000 gp gems | Roll `d6` times on [[magic item table e|Magic Item Table E]]. |
-| 53-58 | `d10` (5) 2,500 gp art objects | Roll `d6` times on [[magic item table e|Magic Item Table E]]. |
-| 59-63 | `d4` (2) 7,500 gp art objects | Roll `d6` times on [[magic item table e|Magic Item Table E]]. |
-| 64-68 | `d8` (4) 5,000 gp gems | Roll `d6` times on [[magic item table e|Magic Item Table E]]. |
-| 69 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[magic item table g|Magic Item Table G]]. |
-| 70 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[magic item table g|Magic Item Table G]]. |
-| 71 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[magic item table g|Magic Item Table G]]. |
-| 72 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[magic item table g|Magic Item Table G]]. |
-| 73-74 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[magic item table h|Magic Item Table H]]. |
-| 75-76 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[magic item table h|Magic Item Table H]]. |
-| 77-78 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[magic item table h|Magic Item Table H]]. |
-| 79-80 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[magic item table h|Magic Item Table H]]. |
-| 81-85 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[magic item table i|Magic Item Table I]]. |
-| 86-90 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[magic item table i|Magic Item Table I]]. |
-| 91-95 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[magic item table i|Magic Item Table I]]. |
-| 96-00 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[magic item table i|Magic Item Table I]]. |
+| 03-05 | `3d6` (10) 1,000 gp gems | Roll `d8` times on [[Magic Item Table C]]. |
+| 06-08 | `d10` (5) 2,500 gp art objects | Roll `d8` times on [[Magic Item Table C]]. |
+| 09-11 | `d4` (2) 7,500 gp art objects | Roll `d8` times on [[Magic Item Table C]]. |
+| 12-14 | `d8` (4) 5,000 gp gems | Roll `d8` times on [[Magic Item Table C]]. |
+| 15-22 | `3d6` (10) 1,000 gp gems | Roll `d6` times on [[magic-item-table-d (tables)]]. |
+| 23-30 | `d10` (5) 2,500 gp art objects | Roll `d6` times on [[magic-item-table-d (tables)]]. |
+| 31-38 | `d4` (2) 7,500 gp art objects | Roll `d6` times on [[magic-item-table-d (tables)]]. |
+| 39-46 | `d8` (4) 5,000 gp gems | Roll `d6` times on [[magic-item-table-d (tables)]]. |
+| 47-52 | `3d6` (10) 1,000 gp gems | Roll `d6` times on [[magic-item-table-e (tables)]]. |
+| 53-58 | `d10` (5) 2,500 gp art objects | Roll `d6` times on [[magic-item-table-e (tables)]]. |
+| 59-63 | `d4` (2) 7,500 gp art objects | Roll `d6` times on [[magic-item-table-e (tables)]]. |
+| 64-68 | `d8` (4) 5,000 gp gems | Roll `d6` times on [[magic-item-table-e (tables)]]. |
+| 69 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[magic-item-table-g (tables)]]. |
+| 70 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[magic-item-table-g (tables)]]. |
+| 71 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[magic-item-table-g (tables)]]. |
+| 72 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[magic-item-table-g (tables)]]. |
+| 73-74 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[Magic Item Table H]]. |
+| 75-76 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[Magic Item Table H]]. |
+| 77-78 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[Magic Item Table H]]. |
+| 79-80 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[Magic Item Table H]]. |
+| 81-85 | `3d6` (10) 1,000 gp gems | Roll `d4` times on [[magic-item-table-i (tables)]]. |
+| 86-90 | `d10` (5) 2,500 gp art objects | Roll `d4` times on [[magic-item-table-i (tables)]]. |
+| 91-95 | `d4` (2) 7,500 gp art objects | Roll `d4` times on [[magic-item-table-i (tables)]]. |
+| 96-00 | `d8` (4) 5,000 gp gems | Roll `d4` times on [[magic-item-table-i (tables)]]. |
 ^gems-or-art-objects-magic-items
 
 ## 🔧 Deep Evaluation Improvements

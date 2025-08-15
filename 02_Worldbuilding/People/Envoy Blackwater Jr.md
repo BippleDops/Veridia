@@ -24,6 +24,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
 
@@ -47,6 +59,13 @@ improvements: 20
 **Languages** Common, Aquabyssan, Elvish, Deep Speech, Primordial, Celestial  
 **Challenge Rating** 9 (5,000 XP)  
 **Proficiency Bonus** +4
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -262,6 +281,11 @@ Envoy Blackwater Jr presents a distinctive figure. Their bearing suggests both c
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
+
 ## Plot Hooks
 
 1. **The Request**: Envoy Blackwater Jr needs assistance with a delicate matter
@@ -370,3 +394,35 @@ Member of House Lionblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

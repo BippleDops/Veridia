@@ -16,15 +16,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 05: [Sky Realm Crisis]
 
-*Winds of Rebellion - Aethermoor Politics*
+* Winds of Rebellion - Aethermoor Politics*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -121,7 +121,7 @@ The main reason parties get involved
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -130,3 +130,32 @@ The main reason parties get involved
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

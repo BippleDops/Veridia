@@ -1,11 +1,28 @@
 ---
+
 title: Quest - Nature's Balance
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 
 # Quest - Nature's Balance
 
@@ -182,7 +199,7 @@ Investigation reveals the imbalance is artificial, caused by a massive device hi
 4. **Destroy the Device**: Overload it with balanced elemental energy
 
 **The Truth**:
-The device was built by the [[Shadow Crystal Synthesis]] to weaken both realms for easier conquest. It converts elemental harmony into pure shadow energy.
+The device was built by the [[Shadow Crystal]] to weaken both realms for easier conquest. It converts elemental harmony into pure shadow energy.
 
 **Key NPCs**:
 - **The Architect**: Genius who designed the device under duress
@@ -385,3 +402,45 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

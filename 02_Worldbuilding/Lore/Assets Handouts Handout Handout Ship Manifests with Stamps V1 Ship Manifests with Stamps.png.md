@@ -295,3 +295,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

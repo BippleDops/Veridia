@@ -51,11 +51,11 @@ world: Both
 - **Components:** V, S, M (a rotten egg)
 - **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of yellow, nauseating gas centered on a point within range. The cloud is [[heavily-obscured-xphb|Heavily Obscured]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[gust-of-wind-xphb|Gust of Wind]]) disperses it.
+You create a 20-foot-radius [[Area of Effect Xphb]] of yellow, nauseating gas centered on a point within range. The cloud is [[Heavily Obscured Xphb]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[Gust of Wind Xphb]]) disperses it.
 
-Each creature that starts its turn in the [[sphere-area-of-effect-xphb|Sphere]] must succeed on a Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition until the end of the current turn. While [[conditions#Poisoned|Poisoned]] in this way, the creature can't take an action or a [[bonus-action-xphb|Bonus Action]].
+Each creature that starts its turn in the [[Area of Effect Xphb]] must succeed on a Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition until the end of the current turn. While [[conditions#Poisoned|Poisoned]] in this way, the creature can't take an action or a [[Action Xphb]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the SRD and the Free Rules (2024)*
 
@@ -96,3 +96,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

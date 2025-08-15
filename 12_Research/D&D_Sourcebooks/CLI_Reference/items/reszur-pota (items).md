@@ -36,7 +36,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-reszur-pota-reszur-pota.svg)
 
 # Reszur
-*Weapon ([[dagger xphb|dagger]]), uncommon*  
+*Weapon ([[Dagger Xphb]]), uncommon*  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

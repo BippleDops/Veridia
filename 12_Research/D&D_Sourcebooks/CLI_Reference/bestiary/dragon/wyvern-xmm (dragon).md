@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wyvern-xmm-v1-wyvern-xmm.svg)
 
-# [[wyvern xmm|Wyvern]]
+# [[Wyvern Xmm]]
 *Source: Monster Manual (2024) p. 337. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

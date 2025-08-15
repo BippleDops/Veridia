@@ -5,19 +5,19 @@ tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Character_Creation
 
 ## Portrait
 
-![[portrait_character_creation.png]]
+![[Character_Creation]]
 
-*Portrait reference for Character_Creation*
+* Portrait reference for Character_Creation*
 
 ## Description
 
-*[Add detailed physical appearance and personality traits here]*
+* [Add detailed physical appearance and personality traits here]*
 
 ## Personality
 - **Traits**: *[Key character traits]*
@@ -29,7 +29,7 @@ modified: '2025-01-15'
 - **Speaking Style**: *[How they talk and express themselves]*
 - **Mannerisms**: *[Distinctive habits or behaviors]*
 
----
+- --
 title: Character Creation
 type: template
 tags:
@@ -37,11 +37,11 @@ tags:
 - active
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -60,11 +60,11 @@ modified: '2025-08-14'
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -72,7 +72,7 @@ modified: '2025-08-14'
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+* [Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
 ## Plot Hooks
 
@@ -129,3 +129,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

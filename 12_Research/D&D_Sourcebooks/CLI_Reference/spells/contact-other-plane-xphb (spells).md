@@ -46,9 +46,9 @@ world: Both
 
 You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
-On a failed save, you take `6d6` Psychic damage and have the [[conditions#Incapacitated|Incapacitated]] condition until you finish a [[long-rest-xphb|Long Rest]]. A [[greater-restoration-xphb|Greater Restoration]] spell cast on you ends this effect.
+On a failed save, you take `6d6` Psychic damage and have the [[conditions#Incapacitated|Incapacitated]] condition until you finish a [[long-rest-xphb|Long Rest]]. A [[greater-restoration-xphb (spells)]] spell cast on you ends this effect.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the SRD and the Free Rules (2024)*
 
@@ -101,3 +101,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[contact-other-plane-xphb (spells)-phb]]` in CLI_Reference/spells/

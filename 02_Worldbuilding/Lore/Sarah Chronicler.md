@@ -1,7 +1,7 @@
 ---
 
 title: Sarah Chronicler
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -87,7 +87,7 @@ Sarah Chronicler is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Sarah Chronicler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sarah Chronicler.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -102,7 +102,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - Strange dreams suggest ancient magic
-- A merchant needs help delivering before the festival
+- A [[Merchant]] needs help delivering before the festival
 - A journal reveals the truth about this place
 
 ## Economic Structure

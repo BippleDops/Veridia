@@ -198,3 +198,16 @@ Mentioned in The Second Prophecy of Shadows
 - Strange disappearances suggest a portal
 - Someone is searching for an heir for money
 - The authorities needs help delivering before the new moon
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

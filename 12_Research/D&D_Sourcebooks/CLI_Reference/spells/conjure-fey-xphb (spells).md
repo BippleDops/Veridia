@@ -45,11 +45,11 @@ world: Both
 
 You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to `3d12` plus your spellcasting ability modifier, and the target has the [[conditions#frightened|Frightened]] condition until the start of your next turn, with both you and the spirit as the source of the fear.
 
-As a [[bonus action xphb|Bonus Action]] on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
+As a [[Action Xphb]] on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d12` for each spell slot level above 6.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the SRD and the Free Rules (2024)*
 
@@ -112,3 +112,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[conjure-fey-xphb (spells)-phb]]` in CLI_Reference/spells/

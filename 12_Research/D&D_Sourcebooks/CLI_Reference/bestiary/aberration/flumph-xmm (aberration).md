@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
 
-# [[flumph xmm|Flumph]]
+# [[Flumph Xmm]]
 *Source: Monster Manual (2024) p. 122*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -148,10 +148,10 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
       \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes\
       \ a stench for d4 hours, and has the [[conditions#Poisoned|Poisoned]]\
       \ condition while the stench lasts. Other creatures have the [[conditions#Poisoned|Poisoned]]\
-      \ condition while in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ condition while in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the coated target. The target can remove the stench on itself\
-      \ if it bathes during a [[short rest xphb|Short]]\
-      \ or [[long rest xphb|Long Rest]]."
+      \ if it bathes during a [[short-rest-xphb]]\
+      \ or [[long-rest-xphb]]."
     "name": "Stench Spray (1/Day)"
 "source":
   - "XMM"

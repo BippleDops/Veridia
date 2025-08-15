@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# Artificer_PlayStation
+# [[Artificer]]_PlayStation
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of Artificer_PlayStation involves several interconnected compone
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Artificer_PlayStation trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to Artificer_PlayStation are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Artificer_PlayStation through their own cultural lenses:
+Different [[Groups]] view Artificer_PlayStation through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of Artificer_PlayStation:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Artificer_PlayStation has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate Artificer_PlayStation into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways Artificer_PlayStation might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #artificer_playstation
+*Tags*: [[#General]] #worldbuilding #artificer_playstation

@@ -58,3 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A journal reveals a betrayal about this place
 - A noble needs help investigating before the festival
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

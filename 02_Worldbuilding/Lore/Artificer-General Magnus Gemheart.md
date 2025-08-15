@@ -1,12 +1,12 @@
 ---
 
-title: Artificer General Magnus Gemheart
-type: Lore
+title: [[Artificer]] General Magnus Gemheart
+type: [[Lore]]
 tags:
 - lore
 - content/faction
 - content/lore
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ Artificer General Magnus Gemheart is a undersea element of the setting, known fo
 
 Legends speak of Artificer General Magnus Gemheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Artificer General Magnus Gemheart.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

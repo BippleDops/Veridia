@@ -40,8 +40,8 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|Githzerai Anarch]] |
-| 2-3 | [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|Githzerai Enlightened]] |
+| 1 | [[Bestiary]] |
+| 2-3 | [[Bestiary]] |
 | 4-6 | [[githzerai-zerth-xmm|Githzerai Zerth]] |
 ^githzerai-group-leader
 

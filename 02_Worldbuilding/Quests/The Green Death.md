@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Quests/The Green Death
+title: 02_Worldbuilding/[[Quests]]/The Green Death
 type: adventure
 tags:
 - adventure
@@ -83,7 +83,7 @@ An exciting quest that challenges heroes to prevent disaster.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -120,5 +120,9 @@ Mentioned in The Hidden Prophecy of Depths
 ## Critical Decisions
 
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
-2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
+2. **The Devil's Bargain**: Accept dark power OR fight with [[Disadvantage]]
 3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

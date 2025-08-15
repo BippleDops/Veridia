@@ -53,7 +53,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [[conditions#Exhaustion|exhaustion]].
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 168*
 
@@ -96,3 +96,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[tensers-transformation-xge (spells)-phb]]` in CLI_Reference/spells/

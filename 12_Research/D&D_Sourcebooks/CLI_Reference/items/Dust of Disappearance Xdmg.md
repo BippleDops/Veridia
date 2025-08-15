@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/dust-of-disappearance.webp#right)
 
-This powder resembles fine sand. There is enough of it for one use. When you take a [[actions#Utilize|Utilize]] action to throw the dust into the air, you and each creature and object within a 10-foot [[emanation area of effect xphb|Emanation]] originating from you have the [[conditions#Invisible|Invisible]] condition for `2d4` minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the [[conditions#Invisible|Invisible]] condition ends for that creature.
+This powder resembles fine sand. There is enough of it for one use. When you take a [[actions#Utilize|Utilize]] action to throw the dust into the air, you and each creature and object within a 10-foot [[Area of Effect Xphb]] originating from you have the [[conditions#Invisible|Invisible]] condition for `2d4` minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the [[conditions#Invisible|Invisible]] condition ends for that creature.
 
 *Source: Dungeon Master's Guide (2024) p. 255. Available in the SRD and the Free Rules (2024)*
 

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-archer-cos-phantom-warrior-archer-cos.svg)
 
-# [[phantom warrior archer cos|Phantom Warrior (Archer)]]
+# [[phantom-warrior-archer-cos (undead)]]
 *Source: Curse of Strahd p. 142*  
 
 ```statblock

@@ -3,20 +3,20 @@ title: Crystal Resoce Networks
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Crystal Resoce Networks
 
 ## Overview
-This topic is referenced in [[Aetheric Wind Songs (D&D References)]] and other parts of the campaign.
+This topic is referenced in [[[[Wind Songs]] (D&D_References)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Aetheric Wind Songs (D&D References)]]
+- Referenced by: [[Wind Songs (D&D_References)]]
 - Related topics in the same category
 
 ## Details

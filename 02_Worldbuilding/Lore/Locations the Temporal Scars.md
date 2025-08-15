@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Temporal Scars
-type: lore
+title: [[location]]s the Temporal Scars
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -93,7 +93,7 @@ Connected to 02_Worldbuilding/Locations/The Temporal Scars are various other imp
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Temporal Scars through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Temporal Scars through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -195,7 +195,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Temporal Scars into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

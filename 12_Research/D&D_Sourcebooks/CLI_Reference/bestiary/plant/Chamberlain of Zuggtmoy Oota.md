@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chamberlain-of-zuggtmoy-oota-chamberlain-of-zuggtmoy-oota.svg)
 
-# [[chamberlain of zuggtmoy oota|Chamberlain of Zuggtmoy]]
+# [[chamberlain-of-zuggtmoy-oota (plant)]]
 *Source: Out of the Abyss p. 230*  
 
 ```statblock

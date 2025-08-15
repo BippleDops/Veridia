@@ -1,9 +1,9 @@
 ---
 title: Archive of Forgotten Depths
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - content/location

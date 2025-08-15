@@ -3,20 +3,20 @@ title: list-optfeaturetype-mm#Metamagic
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # list-optfeaturetype-mm#Metamagic
 
 ## Overview
-This topic is referenced in [[sorcerer xphb (classes)]] and other parts of the campaign.
+This topic is referenced in [[classes]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[sorcerer xphb (classes)]]
+- Referenced by: [[classes]]
 - Related topics in the same category
 
 ## Details

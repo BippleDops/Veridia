@@ -51,7 +51,7 @@ Each target makes a Dexterity saving throw, taking `10d8` Lightning damage on a 
 
 **Using a Higher-Level Spell Slot.** One additional bolt leaps from the first target to another target for each spell slot level above 6.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
 

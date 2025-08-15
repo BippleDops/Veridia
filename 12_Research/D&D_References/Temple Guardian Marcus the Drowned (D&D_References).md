@@ -175,7 +175,7 @@ The Drowned Temple represents one of [[Aquabyssos]]'s most mysterious and spirit
 **Related Locations**:
 - [[Harbor District]]
 - [[Temple of Divine Order]]
-- [[The  Cathedral]]
+- [[The__Cathedral]]
 - [[Abyssos Prime]]
 
 **Related NPCs**:

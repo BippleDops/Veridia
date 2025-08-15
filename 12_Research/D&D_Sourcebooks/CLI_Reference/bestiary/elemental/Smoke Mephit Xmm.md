@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-smoke-mephit-xmm-smoke-mephit-xmm.svg)
 
-# [[smoke mephit xmm|Smoke Mephit]]
+# [[smoke-mephit-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 208*  
 
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
@@ -102,7 +102,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 11,\
-      \ each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ each creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the mephit. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"

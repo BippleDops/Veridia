@@ -44,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-spider-xmm-giant-spider-xmm.svg)
 
-# [[giant spider xmm|Giant Spider]]
+# [[giant-spider-xmm (beast)]]
 *Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -61,7 +61,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Spider (XMM)"
@@ -101,8 +101,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
   - "desc": "Dexterity Saving Throw: DC 13, one creature the spider can see within\
       \ 60 feet. Failure: The target has the [[conditions#Restrained|Restrained]]\
-      \ condition until the web is destroyed (AC 10; HP 5; [[vulnerability xphb|Vulnerability]]\
-      \ to Fire damage; [[immunity xphb|Immunity]]\
+      \ condition until the web is destroyed (AC 10; HP 5; [[Vulnerability Xphb]]\
+      \ to Fire damage; [[immunity-xphb (variant-rules)]]\
       \ to Poison and Psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":

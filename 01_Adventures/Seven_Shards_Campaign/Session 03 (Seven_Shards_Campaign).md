@@ -122,3 +122,31 @@ The main reason parties get involved
 - A shipment has gone missing and chaos spreads
 - A journal reveals a betrayal about a local noble
 - A map reveals the truth about a local noble
+
+## Preparation Checklist
+- [ ] Review previous session
+- [ ] Prepare NPC voices
+- [ ] Set up maps
+- [ ] Review rules
+- [ ] Prepare handouts
+
+## Previous Session Recap
+- Key events from last time
+
+## Scene List
+1. Opening scene
+2. Development
+3. Climax
+4. Resolution
+
+## NPC Roster
+- Characters appearing this session
+
+## Props Needed
+- Maps
+- Handouts
+- Tokens
+
+## Contingencies
+- If players go off-script
+- Alternative paths

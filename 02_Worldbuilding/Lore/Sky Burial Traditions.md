@@ -1,7 +1,7 @@
 ---
 
 title: Sky Burial Traditions
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - afterlife
@@ -24,9 +24,9 @@ modified: '2025-08-14'
 status: complete
 connections:
 - '[[Aethermoor]]'
-- '[[Skyforged Crystal Worship]]'
-- '[[Aetheric Wind Songs]]'
-- '[[Cloud Shepherd Guild Customs]]'
+- '[[[[Skyforge]]d Crystal Worship]]'
+- '[[Aetheric [[Wind Songs]]]]'
+- '[[[[Cloud Shepherd Guild]] Customs]]'
 - '[[Aethermoor Wind Rider Traditions]]'
 - '[[Princess Celestia]]'
 - '[[Queen Seraphina]]'
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -101,7 +101,7 @@ improvements: 20
 
 ## Overview
 
-The **Sky Burial Traditions** of [[Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization.
+The **Sky Burial Traditions** of [[Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal [[Wind Currents]] that sustain their floating civilization.
 
 These traditions reflect the fundamental Aethermoor worldview that life and death are both states of atmospheric existence - birth being the soul's descent from the highest winds into physical form, and death being its liberation back to the limitless sky. The customs have evolved over centuries to become deeply intertwined with the technological, magical, and social structures that keep the sky cities aloft.
 
@@ -132,7 +132,7 @@ Sky burial traditions recognize different levels of atmospheric existence based 
 **The Storm Winds** (High Level)
 - Power the most dramatic atmospheric phenomena and defensive weather systems
 - Contain souls of heroes, great warriors, and those who died protecting Aethermoor
-- Can be called upon during times of crisis to defend the cities
+- Can be called upon during [[Time]]s of crisis to defend the cities
 
 **The Primordial Winds** (Highest Level)
 - The source of all atmospheric power and the ultimate destination for the most enlightened souls
@@ -141,7 +141,7 @@ Sky burial traditions recognize different levels of atmospheric existence based 
 
 ### The Corruption of Weight
 
-Sky burial theology considers improper treatment of the dead to be both spiritually damaging and physically dangerous. Bodies that are not properly consecrated to the sky are believed to become "weighted with sorrow," creating atmospheric disturbances that can threaten the stability of floating cities.
+Sky burial theology considers improper treatment of the dead to be both spiritually damaging and physically dangerous. Bodies that are not properly consecrated to the sky are believed to become "weighted with sorrow," creating atmospheric disturbances that can threaten the stability of [[Floating Cities]].
 
 ### Preparation Rituals
 
@@ -150,7 +150,7 @@ Immediately following death, the deceased undergoes a three-day preparation proc
 
 - **Purification Winds**: The body is placed in chambers where carefully controlled air currents remove all moisture and begin the preservation process
 - **Weight Removal**: All heavy possessions, jewelry, and artificial materials are removed and distributed among family members or donated to community projects
-- **Aerial Anointing**: The body is treated with specially prepared oils that evaporate in wind currents, carrying prayers and blessings to the sky
+- **Aerial Anointing**: The body is treated with specially prepared oils that evaporate in wind currents, carrying prayers and [[Bless]]ings to the sky
 - **Memory Binding**: Family and friends perform ceremonies that "bind" their most treasured memories of the deceased to physical objects, preventing the soul from being anchored by grief
 
 **The Elevation Vigil**
@@ -163,11 +163,11 @@ During the preparation period, loved ones maintain a continuous vigil in the hig
 ### The Sky Consecration Ceremony
 
 **The Procession of Winds**
-On the chosen day, the prepared body is carried in solemn procession to the city's highest platform or designated consecration area. The procession follows specific routes that spiral upward through the city, symbolically mimicking the ascending path the soul will take through atmospheric layers.
+On the chosen day, the prepared body is carried in solemn procession to the city's highest platform or designated consecration area. The procession follows specific routes that spiral upward through the city, symbolically mimicking the ascending [[path]] the soul will take through atmospheric layers.
 
 Participants include:
 - **Wind Speakers**: Priests who chant prayers in ancient languages that supposedly resonate with atmospheric currents
-- **Memory Keepers**: Family members carrying objects that hold bound memories of the deceased
+- **[[Memory Keepers]]**: Family members carrying objects that hold bound memories of the deceased
 - **Current Guides**: Navigators and weather workers who ensure favorable atmospheric conditions
 - **Community Witnesses**: Citizens who attend to demonstrate collective support and maintain social bonds
 
@@ -258,21 +258,21 @@ Special crystalline structures that store atmospheric memories of the deceased. 
 
 ### The Archive of Ascending Souls
 
-A comprehensive record of all sky burials performed in Aethermoor, including detailed weather data, ritual variations, and documented post-burial atmospheric phenomena. This archive serves both religious and meteorological functions, helping Wind Speakers optimize future ceremonies.
+A comprehensive record of all sky burials performed in Aethermoor, including detailed weather [[data]], ritual variations, and documented post-burial atmospheric phenomena. This archive serves both religious and meteorological functions, helping Wind Speakers optimize future ceremonies.
 
 ### Storm Caller Bells
 
-Magical bells that can supposedly summon the spirits of the deceased during atmospheric disturbances. These artifacts are used during anniversary observances and emergency situations when communities need to call upon their ancestors for protection or guidance.
+Magical bells that can supposedly summon the spirits of the deceased during atmospheric disturbances. These artifacts are used during anniversary observances and emergency situations when communities need to call upon their ancestors for protection or [[Guidance]].
 
 ### The Aquabyssos Question
 
 As contact with [[Aquabyssos]] has increased, some Aethermoor theologians have begun questioning whether underwater burial might also be spiritually valid. Progressive Wind Speakers argue that atmospheric and oceanic systems are connected through the water cycle, while traditionalists maintain that only aerial consecration can properly liberate souls.
 
-### The Crystal Corruption Concern
+### The [[Crystal Corruption]] Concern
 
 Recent atmospheric disturbances possibly related to crystal corruption have raised questions about whether traditional sky burial practices might be inadvertently contributing to magical instabilities. Some communities have begun modifying their rituals to account for these new environmental factors.
 
-### The Convergence Prophecies
+### [[The Convergence Prophecies]]
 
 Growing awareness of potential world convergence has created theological uncertainty about what will happen to ancestral wind spirits if atmospheric systems merge with those of [[Aquabyssos]]. Different schools of thought propose various solutions, from modified burial practices to elaborate protective rituals.
 
@@ -284,7 +284,7 @@ Contemporary sky burial incorporates advanced atmospheric control systems that c
 
 Increasing awareness of atmospheric ecology has led some communities to modify their practices to minimize environmental impact. These "Green Wind" movements focus on sustainable burial practices that support rather than disrupt natural weather patterns.
 
-### Cross-Cultural Exchange
+### Cross-[[Cultural Exchange]]
 
 Diplomatic contact with [[Aquabyssos]] has introduced some Aethermoor communities to alternative burial philosophies. A small but growing movement practices "Dual Consecration," honoring both atmospheric and oceanic spiritual traditions.
 
@@ -329,7 +329,7 @@ A recent sky burial has gone wrong, leaving a spirit trapped between atmospheric
 
 ### The Storm Caller's Dilemma
 
-A community's ancestral spirits are not responding to traditional invocation rituals, leaving the city vulnerable during a crisis. The party must determine whether the spirits are being blocked by external forces or have chosen to withdraw their support.
+A community's ancestral spirits are not responding to traditional invocation rituals, leaving the city vulnerable during a crisis. [[The Party]] must determine whether the spirits are being blocked by external forces or have chosen to withdraw their support.
 
 ### The Forbidden Burial
 
@@ -341,7 +341,7 @@ A diplomatic marriage between Aethermoor and [[Aquabyssos]] nobility requires a 
 
 ### The Ancient Wind
 
-Archaeological evidence suggests that pre-civilization sky burial practices were significantly different from current traditions. The PCs must investigate whether returning to ancient methods would solve current atmospheric problems or create new disasters.
+Archaeological [[Evidence]] suggests that pre-civilization sky burial practices were significantly different from current traditions. The PCs must investigate whether returning to ancient methods would solve current atmospheric problems or create new disasters.
 
 ### The Memorial War
 
@@ -353,7 +353,7 @@ Sky burial traditions represent more than isolated cultural practices - they ser
 
 The traditions also offer unique opportunities for cross-cultural understanding and cooperation, as the fundamental human need to honor the dead transcends the differences between aerial and aquatic civilizations. Diplomatic efforts often begin with exchanges of burial customs and shared mourning observances.
 
-*"In the end, we all return to the elements that shaped us - sky dwellers to the wind, sea people to the depths. Perhaps wisdom lies not in choosing between them, but in understanding how the great currents of air and water dance together in the cosmic dance of existence."* - Meditation on Dual Worlds by Wind Speaker Celestial Driftwhisper
+*"In the end, we all return to the elements that shaped us - sky dwellers to the wind, sea [[People]] to the depths. Perhaps wisdom lies not in choosing between them, but in understanding how the great currents of air and water dance together in the cosmic dance of existence."* - Meditation on Dual Worlds by Wind Speaker Celestial Driftwhisper
 
 ## Player-Facing Summary
 
@@ -363,11 +363,11 @@ Sky Burial Traditions is a sky-borne element of the setting, known for brass fit
 
 Legends speak of Sky Burial Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Burial Traditions.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

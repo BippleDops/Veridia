@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals ancient history about the cult
 - A prisoner has gone missing and truth emerges
 - A merchant needs help investigating before the new moon
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

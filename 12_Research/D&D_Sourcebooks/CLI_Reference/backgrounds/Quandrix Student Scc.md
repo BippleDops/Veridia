@@ -39,7 +39,7 @@ world: Both
 - **Skill Proficiencies.** [[skills#Arcana|Arcana]], [[skills#Nature|Nature]]  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A [[ink xphb|bottle of black ink]], an [[ink pen xphb|ink pen]], an [[abacus|abacus]], a book of arcane theory, a school uniform, and a [[pouch xphb|pouch]] containing 15 gp  
+- **Equipment.** A [[Blink Xphb]], an [[ink-pen-xphb (items)]], an [[abacus|abacus]], a book of arcane theory, a school uniform, and a [[component-pouch-xphb (items)]] containing 15 gp  
 
 In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
 
@@ -57,7 +57,7 @@ In preparation to become a student of Quandrix College, you have spent years wor
 
 ## Feature: Quandrix Initiate
 
-You gain the [[strixhaven initiate scc|Strixhaven Initiate]] feat and must choose Quandrix within it.
+You gain the [[strixhaven-initiate-scc (feats)]] feat and must choose Quandrix within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Quandrix Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -65,18 +65,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[entangle xphb|Entangle]], [[guiding bolt xphb|Guiding Bolt]] |
-| 2nd | [[enlarge reduce xphb|Enlarge/Reduce]], [[vortex warp scc|Vortex Warp]] |
-| 3rd | [[aura of vitality xphb|Aura of Vitality]], [[haste xphb|Haste]] |
-| 4th | [[control water xphb|Control Water]], [[freedom of movement xphb|Freedom of Movement]] |
-| 5th | [[circle of power xphb|Circle of Power]], [[passwall xphb|Passwall]] |
+| 1st | [[Entangle Xphb]], [[Guiding Bolt Xphb]] |
+| 2nd | [[Enlarge Reduce Xphb]], [[Vortex Warp Scc]] |
+| 3rd | [[aura-of-vitality-xphb (spells)]], [[Haste Xphb]] |
+| 4th | [[Control Water Xphb]], [[freedom-of-movement-xphb (spells)]] |
+| 5th | [[circle-of-power-xphb (spells)]], [[Passwall Xphb]] |
 ^quandrix-spells
 
 Consider customizing how your spells look when you cast them. Your Quandrix spells might manifest amid kaleidoscopic swirls of fractal patterns, amplifying the tiniest movements of your somatic components. When your magic creates or alters creatures, it might briefly surround the targets with shimmering fractal designs or tessellated patterns.
 
 ## Building a Quandrix Character
 
-Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [[wizard xphb abjurer xphb|Abjuration]], [[wizard xphb illusionist xphb|Illusion]], or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the Knowledge or Nature domains, study in Quandrix as well.
+Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [[Wizard Xphb]], [[wizard-xphb-illusionist-xphb (classes)]], or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the Knowledge or Nature domains, study in Quandrix as well.
 
 Aside from traditional spellcasters, a few characters of other classes find homes in Quandrix. Some fighters, monks, rangers, and rogues study here, using Quandrix principles to train their minds.
 
@@ -100,7 +100,7 @@ With subjects ranging from the physical and tangible to the paradoxical and stra
 
 ### Quandrix Trinkets
 
-When you make your character, you may roll once on the [[quandrix trinket scc|Quandrix Trinkets]] table, instead of on the [[trinket xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [[quandrix-trinket-scc (items)]] table, instead of on the [[trinket-xphb (items)]] in the "Player's Handbook", for your starting trinket.
 
 ## Player-Facing Summary
 

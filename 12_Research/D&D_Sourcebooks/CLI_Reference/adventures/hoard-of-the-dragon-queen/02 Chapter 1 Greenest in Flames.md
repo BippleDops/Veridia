@@ -60,7 +60,7 @@ To tie the characters' backstories to the *Tyranny of Dragons* campaign more clo
 
 ## The Approach
 
-As characters approach Greenest, they see that a blue dragon and its Cult of the Dragon allies are attacking the town. The cultists seek to collect treasure that they hope to present to Tiamat upon her arrival in the world. The cult has assembled a powerful force for this raid by gathering bandits, kobolds, sellswords, and other mercenary types into a small army. A monk named [[/03 Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]] was also in town. Through diligent research and interviews conducted during his travels between Berdusk and Candlekeep, Leosin became convinced that the cult is engaged in a big operation, but he doesn't yet know what it is. Leosin uses the raid as an opportunity to infiltrate the cult so that he can learn more about the cult's plans. He is discovered and captured, however, and needs the characters' help to escape from captivity.
+As characters approach Greenest, they see that a blue dragon and its Cult of the Dragon allies are attacking the town. The cultists seek to collect treasure that they hope to present to Tiamat upon her arrival in the world. The cult has assembled a powerful force for this raid by gathering bandits, kobolds, sellswords, and other mercenary types into a small army. A monk named [[Bestiary]] was also in town. Through diligent research and interviews conducted during his travels between Berdusk and Candlekeep, Leosin became convinced that the cult is engaged in a big operation, but he doesn't yet know what it is. Leosin uses the raid as an opportunity to infiltrate the cult so that he can learn more about the cult's plans. He is discovered and captured, however, and needs the characters' help to escape from captivity.
 
 Characters can engage in several encounters while cultists and kobolds rampage through Greenest.
 
@@ -88,12 +88,12 @@ The cultists tried to set buildings ablaze as they moved through town, but thatc
 The stream that flows past Greenest is shallow (seldom more than 3 feet deep) with a gravel bottom, so characters can move along it without difficulty. Where the banks are clear, the stream is easy to get into or out of. Brush by the stream is dense, and the banks are steep where brush grows. Characters can move only 5 feet per turn through the brush.
 
 > [!gallery]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/007-map-1-1-greenest.webp#gallery|Map 1.1: Greenest]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/008-map-1-1-greenest-player.webp#gallery|Player Version]]
+> ![[map]]
+> ![[Playe]]
 
 #### Governor Nighthill
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/009-tod-01-02.webp#center|Tarbaw Nighthill]]
+![[dragon]]
 
 The man who runs Greenest is Tarbaw Nighthill, a human male of sixty years. If characters ask who's in charge, they are directed to Nighthill. He is pacing atop the parapet of the keep when the sky is clear, or inside the keep if the dragon is attacking. If the characters don't seek out the governor when they reach the keep, he finds them. Either way, Nighthill welcomes them and takes them to the parapet. From there, they have the best view of Greenest.
 
@@ -105,7 +105,7 @@ Escobert is a shield dwarf with knotted, tangled, bright red hair. As master of 
 
 ## Wandering Encounters
 
-The streets of Greenest are overrun by forces consisting of [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] and [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] accompanied by monstrous allies: [[kobold-warrior-xmm|kobolds]] with [[ambush-drake-hotdq|ambush drakes]] (see appendix D) and [[giant-lizard-xmm|giant lizards]]. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.
+The streets of Greenest are overrun by forces consisting of [[Bestiary]] and [[Bestiary]] accompanied by monstrous allies: [[kobold-warrior-xmm|kobolds]] with [[ambush-drake-hotdq (dragon)]] (see appendix D) and [[giant-lizard-xmm|giant lizards]]. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.
 
 If characters use cover and stealth to avoid encounters, have each character attempt a DC 10 Dexterity ([[skills#Stealth|Stealth]]) check. For every two individual checks that fail, the characters have one encounter on the way to their destination. Roll a `d8` on the Chapter 1 Encounters table to determine each encounter. If characters use the stream bed for cover for most of the trip, these characters have advantage on their Dexterity checks.
 
@@ -118,16 +118,16 @@ If characters don't use cover and stealth to avoid encounters, roll a `d8` for e
 | dice: d8 | Encounter |
 |----------|-----------|
 | 1 | 6 [[kobold-warrior-xmm|kobolds]] |
-| 2 | 3 [[kobold-warrior-xmm|kobolds]] and 1 [[ambush-drake-hotdq|ambush drake]] (see appendix D) |
-| 3 | 6 [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] |
-| 4 | 4 [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] and 1 [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guard]] |
-| 5 | 2 [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] and 1 [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]* |
-| 6 | 3 [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] and 1 [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]* |
+| 2 | 3 [[kobold-warrior-xmm|kobolds]] and 1 [[ambush-drake-hotdq (dragon)]] (see appendix D) |
+| 3 | 6 [[Bestiary]] |
+| 4 | 4 [[Bestiary]] and 1 [[Bestiary]] |
+| 5 | 2 [[Bestiary]] and 1 [[Bestiary]]* |
+| 6 | 3 [[Bestiary]] and 1 [[Bestiary]]* |
 | 7 | `d6` townsfolk being hunted by raiders (roll a `d6` to determine the raiding group) |
 | 8 | `d6` townsfolk hiding |
 ^encounter
 
-* Acolytes have [[command xphb|command]] prepared instead of [[sanctuary xphb|sanctuary]].
+* Acolytes have [[command-xphb (spells)]] prepared instead of [[sanctuary-xphb (spells)]].
 
 Most of the cultists, guards, and acolytes are human. You can include a few dwarves, half-elves, half-orcs, or halflings without altering any game statistics.
 
@@ -142,11 +142,11 @@ Characters have random encounters with raiders when they enter Greenest, but thi
 > Without warning, five humans dash out from between two buildings on your left. A limping man and three young children race across the street into more shadows, and a woman carrying a round shield and a broken spear turns and faces back in the direction from which they came. Seven kobolds stream out of the alley on the family's heels and fan out around the woman, who looks determined to delay the creatures for as long as possible.
 ^071
 
-The woman is [[/03 Mechanics/CLI/bestiary/npc/li-swift-hotdq|Li Swift]], and her husband is Cuth. Li is a [[/03 Mechanics/CLI/bestiary/humanoid/commoner xmm|commoner]] but with 8 hit points. Her attack with the spear is `+2` to hit for `d6` piercing damage. Her husband is down to 2 hit points from an earlier fight. The children move at speed 20. They can be carried, but a character carrying a child has disadvantage on attack rolls and cannot wield a two-handed weapon.
+The woman is [[Bestiary]], and her husband is Cuth. Li is a [[Bestiary]] but with 8 hit points. Her attack with the spear is `+2` to hit for `d6` piercing damage. Her husband is down to 2 hit points from an earlier fight. The children move at speed 20. They can be carried, but a character carrying a child has disadvantage on attack rolls and cannot wield a two-handed weapon.
 
 Unless characters interfere, the kobolds assume the characters are cultists and ignore them. Assuming characters intervene and save the family, Li explains that they must make their way to the keep (at area 1); it's the only safe place in Greenest. The raiders haven't set up an effective cordon around the keep, so it's still possible to move through the front gate—but not for long.
 
-To reach the keep, the characters must make it past three groups of raiders. A group consists of `d6` [[kobold-warrior-xmm|kobolds]] and `d4` [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]]. If the group contains six kobolds, one is a [[winged-kobold-xmm|winged kobold (urd)]].
+To reach the keep, the characters must make it past three groups of raiders. A group consists of `d6` [[kobold-warrior-xmm|kobolds]] and `d4` [[Bestiary]]. If the group contains six kobolds, one is a [[winged-kobold-xmm|winged kobold (urd)]].
 
 Characters can fight these enemies, sneak past them, retreat to avoid them entirely, or try something clever such as bluffing. If they fight, run the combat normally. When enemies must make a check to notice sneaking or bluffing, make a check with advantage for the group.
 
@@ -176,13 +176,13 @@ At some point, Escobert recommends the tunnel as a means of sneaking townsfolk i
 
 #### Locks
 
-Characters can clear the cellar door with a few minutes' work. The lock is stiff but opens with the key; without the key, the character can open the lock with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb|thieves' tools]]. The disused tunnel is choked with webs but is otherwise clear. A few yards inside the stream end is a nest of two [[swarm-of-rats-xmm|swarms of rats]]. The rats attack when disturbed, and the surviving rats flee when half their number die.
+Characters can clear the cellar door with a few minutes' work. The lock is stiff but opens with the key; without the key, the character can open the lock with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb (items)]]. The disused tunnel is choked with webs but is otherwise clear. A few yards inside the stream end is a nest of two [[swarm-of-rats-xmm (beast)]]. The rats attack when disturbed, and the surviving rats flee when half their number die.
 
-Years of exposure and neglect have corroded the lock on the exit grate. Even with the key, a successful DC 10 Dexterity check is needed to open the lock. Without the key, the DC increases to 20. If the roll misses by 5 or more, the key or [[thieves-tools-xphb|thieves' tools]] break off in the lock so that unlocking it becomes impossible. Then only a successful DC 15 Strength check can force the grate open.
+Years of exposure and neglect have corroded the lock on the exit grate. Even with the key, a successful DC 10 Dexterity check is needed to open the lock. Without the key, the DC increases to 20. If the roll misses by 5 or more, the key or [[thieves-tools-xphb (items)]] break off in the lock so that unlocking it becomes impossible. Then only a successful DC 15 Strength check can force the grate open.
 
 #### Foes
 
-A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with [[thieves-tools-xphb|thieves' tools]], the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] and six [[kobold-warrior-xmm|kobolds]]. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]], ten [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq|ambush drake]] (see appendix D) arrive to guard the tunnel.
+A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with [[thieves-tools-xphb (items)]], the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two [[Bestiary]] and six [[kobold-warrior-xmm|kobolds]]. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two [[Bestiary]], ten [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq (dragon)]] (see appendix D) arrive to guard the tunnel.
 
 #### Rewards
 
@@ -194,9 +194,9 @@ The keep has a sally port along the west wall for counterattacking foes who brin
 
 Enough defenders are available to deal with the immediate threat from raiders loose in the keep, since it's more a probe that got out of hand rather than a full-scale assault. Escobert is most concerned about resealing the sally port, and he seeks out the characters for that job.
 
-To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]], three [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq|ambush drake]] (see appendix D), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of [[mending xphb|mending]] (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.
+To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three [[Bestiary]], three [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq (dragon)]] (see appendix D), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of [[Mending Xphb]] (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.
 
-Before the door can be repaired, a second group of raiders consisting of two [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]], three [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]], and three [[kobold-warrior-xmm|kobolds]] attacks. These foes can come from outside the keep, or they might be a group of infiltrators trying to fight its way back outside. If characters barricade the door with barrels or other heavy objects while awaiting repairs, they might hold off attackers until the repairs are finished and avoid this fight entirely.
+Before the door can be repaired, a second group of raiders consisting of two [[Bestiary]], three [[Bestiary]], and three [[kobold-warrior-xmm|kobolds]] attacks. These foes can come from outside the keep, or they might be a group of infiltrators trying to fight its way back outside. If characters barricade the door with barrels or other heavy objects while awaiting repairs, they might hold off attackers until the repairs are finished and avoid this fight entirely.
 
 #### Rewards
 
@@ -204,7 +204,7 @@ Award standard XP for defeated foes.
 
 ### Dragon Attack
 
-The [[adult-blue-dragon-xmm|adult blue dragon]] Lennithon accompanied this raid but is not an enthusiastic participant. Its chief contribution has been its Frightful Presence, but that becomes less effective as the night wears on and defenders overcome their fear. Shortly before midnight, the dragon launches a final assault against the citadel. [[/03 Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] orders the attack, knowing that the adventurers are in the keep at the time. Lennithon doesn't consider this to be its fight, and it isn't keen on tangling with adventurers for another's benefit.
+The [[adult-blue-dragon-xmm|adult blue dragon]] Lennithon accompanied this raid but is not an enthusiastic participant. Its chief contribution has been its Frightful Presence, but that becomes less effective as the night wears on and defenders overcome their fear. Shortly before midnight, the dragon launches a final assault against the citadel. [[Bestiary]] orders the attack, knowing that the adventurers are in the keep at the time. Lennithon doesn't consider this to be its fight, and it isn't keen on tangling with adventurers for another's benefit.
 
 During this attack, Lennithon flies over the keep and uses his breath weapon without moving closer than 25 feet from the parapet. The defenders on the walls have mastered their fear of the dragon's Frightful Presence from earlier attacks. There are twenty NPC defenders on the walls at the beginning of the mission, and more can arrive between attacks to take the place of those who fall. The dragon doesn't target the adventures at first, and every breath attack not directed at them kills `d4` NPC defenders and injures `d6` more. Adventurers who happen to get caught in the area make normal saving throws and take standard damage. The NPCs' attacks are ineffective against Lennithon. Bear in mind that the dragon's breath weapon will kill a 1st-level character outright, so be sure to demonstrate its destructive power to the players before turning the dragon against the party.
 
@@ -212,7 +212,7 @@ After each attack, Lennithon swoops away until his breath weapon recharges, then
 
 #### Rewards
 
-Characters earn 50 XP each for driving away Lennithon, but reduce that award to 25 XP if 10 or more defenders were killed during the attack. For their role in driving off the dragon, the characters receive four [[potion-of-healing-xdmg|potions of healing]] from the grateful Governor Nighthill.
+Characters earn 50 XP each for driving away Lennithon, but reduce that award to 25 XP if 10 or more defenders were killed during the attack. For their role in driving off the dragon, the characters receive four [[Potion of Healing Xdmg]] from the grateful Governor Nighthill.
 
 ### Prisoners
 
@@ -221,7 +221,7 @@ Governor Nighthill would like to interrogate some of the raiders.
 > "I'd give anything to know what we're up against, and why. For that, we need prisoners. A commander, even a low-ranking one, is best."
 ^07d
 
-If the characters haven't run into any cult leaders yet, Nighthill takes them onto the parapet and points out what he means. This is an ideal time for everyone to catch a glimpse of [[/03 Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] (see appendix D) in her purple robes, accompanied by a dozen guards. Even the governor cautions characters against attacking such a formidable force, especially when any lower-level officer can answer his questions.
+If the characters haven't run into any cult leaders yet, Nighthill takes them onto the parapet and points out what he means. This is an ideal time for everyone to catch a glimpse of [[Bestiary]] (see appendix D) in her purple robes, accompanied by a dozen guards. Even the governor cautions characters against attacking such a formidable force, especially when any lower-level officer can answer his questions.
 
 Leaving the keep through the front gate is out of the question—too many raiders watch it, and they would jump the characters as soon as they moved away from the keep. Other options are waiting for a cloud to cover the moon before climbing down ropes tossed over the back wall of the keep, or using the old tunnel that exits into the stream bed.
 
@@ -229,7 +229,7 @@ This mission can be combined with another mission, such as saving the mill or re
 
 Prisoners brought back to the keep are interrogated by Governor Nighthill and a few of his picked guards. Characters can participate if they want to.
 
-- Captured kobolds are terrified; they say whatever they think the questioner wants to hear. They know that they're working for the Cult of the Dragon and for the "dragon lady" ([[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]]), and that they're after loot.  
+- Captured kobolds are terrified; they say whatever they think the questioner wants to hear. They know that they're working for the Cult of the Dragon and for the "dragon lady" ([[Bestiary]]), and that they're after loot.  
 - Captured mercenaries or bandits talk freely; they have no special loyalty to the Cult of the Dragon. They reveal that they've been raiding communities around the Greenfields for loot, and they've heard rumors in the camp about dragon eggs.  
 - Cultists and initiates are the most tight-lipped. A successful DC 10 Charisma ([[skills#Intimidation|Intimidation]]) or DC 12 Charisma ([[skills#Persuasion|Persuasion]]) check is needed to cause cultists to reveal that they are members of the Cult of the Dragon and that they are collecting loot "for the great hoard that will usher in the reign of the Queen of Dragons." They know that the cult has a clutch of dragon eggs under heavy guard in a cave at the camp.  
 
@@ -248,7 +248,7 @@ The mill is about 500 feet from the keep. The distance is doubled if characters 
 
 Roll a `d6` on the Chapter 1 Encounters table to determine the strength of the raiders that are trying to set fire to the mill. Any kobolds in this force run away as soon as two or more raiders are killed. If characters observe the mill for a minute or more before attacking, allow them to attempt DC 15 Wisdom ([[skills#Insight|Insight]]) or Charisma ([[skills#Performance|Performance]]) checks. If successful, a character realizes that the raiders are making a demonstration of starting a fire, but it's for show. A few fires are burning around the building, but they could be extinguished easily.
 
-This act of burning the mill is a ruse. Mondath has been informed that heroes are aiding the town, and she wants to lure them into an ambush. More raiders—one [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultist]] and one [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guard]] per character—are hiding inside the mill, waiting for the characters to show up.
+This act of burning the mill is a ruse. Mondath has been informed that heroes are aiding the town, and she wants to lure them into an ambush. More raiders—one [[Bestiary]] and one [[Bestiary]] per character—are hiding inside the mill, waiting for the characters to show up.
 
 The mill is a simple rectangular barn, about 40 feet long and 20 feet wide, with an attached, exterior office. The long side of the building away from the stream has barn doors and a two-part door, and the two short walls have windows. All these openings are closed, but none are locked or barred. Inside, the main floor is dominated by a massive stone grinding wheel driven by a water wheel in the stream. The mill was operating late when the raid began and the millers fled without disengaging the wheel, so it still turns noisily. The upper half of the barn is a loft where milled flour is stored. The loft can be reached by wooden stairs along the east wall or by using the ropes and pulleys that hoist bags of flour up and down through large openings in the loft floor.
 
@@ -270,11 +270,11 @@ The temple is a large building, made of fieldstone with a peaked slate roof, and
 
 The force outside the temple is split into three groups. One (A) is battering at the front doors, another (B) is circling the temple in a screeching mob, and the third (C) is heaping burning straw against a rear door. All these groups together would overwhelm 1st-level characters, but characters can devise a plan that gets them inside the temple by dealing with one group.
 
-Group A consists of one [[/03 Mechanics/CLI/bestiary/humanoid/dragonclaw hotdq|dragonclaw]] (see appendix D), two [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]], and six [[kobold-warrior-xmm|kobolds]]. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.
+Group A consists of one [[Bestiary]] (see appendix D), two [[Bestiary]], and six [[kobold-warrior-xmm|kobolds]]. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.
 
-Group B consists of three [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]], ten [[kobold-warrior-xmm|kobolds]], and two [[ambush-drake-hotdq|ambush drakes]] (see appendix D) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).
+Group B consists of three [[Bestiary]], ten [[kobold-warrior-xmm|kobolds]], and two [[ambush-drake-hotdq (dragon)]] (see appendix D) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).
 
-Group C consists of four [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|cultists]] and four [[kobold-warrior-xmm|kobolds]] clustered tightly around the temple's back door. Their meager fire produces little flame, instead creating prodigious clouds of thick smoke that engulf the back of the temple and blanket the surrounding 30 feet of ground. Everything in the smoke is lightly obscured, and objects or creatures that are seen through more than 15 feet of smoke are heavily obscured. Characters can sneak up on these raiders and gain a surprise round against them, as long as they avoid Group B in the process.
+Group C consists of four [[Bestiary]] and four [[kobold-warrior-xmm|kobolds]] clustered tightly around the temple's back door. Their meager fire produces little flame, instead creating prodigious clouds of thick smoke that engulf the back of the temple and blanket the surrounding 30 feet of ground. Everything in the smoke is lightly obscured, and objects or creatures that are seen through more than 15 feet of smoke are heavily obscured. Characters can sneak up on these raiders and gain a surprise round against them, as long as they avoid Group B in the process.
 
 #### Arranging a Rescue
 
@@ -298,14 +298,14 @@ Before all the raiders depart, their champion challenges the town's best warrior
 > "Defenders of Greenest! This has been a successful night, and I am feeling generous. Do you see these four pitiful, useless prisoners? We have no need for them, so I will trade them back to you. Send out your best warrior to fight me, and you can have these four in exchange."
 ^087
 
-The speaker is [[/03 Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]] (see appendix D for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen [[kobold-warrior-xmm|kobolds]]. A character who makes a successful DC 15 Intelligence ([[skills#Arcana|Arcana]]) or Intelligence ([[skills#Nature|Nature]]) check recognizes the creature as a half-dragon from descriptions.
+The speaker is [[Bestiary]] (see appendix D for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen [[kobold-warrior-xmm|kobolds]]. A character who makes a successful DC 15 Intelligence ([[skills#Arcana|Arcana]]) or Intelligence ([[skills#Nature|Nature]]) check recognizes the creature as a half-dragon from descriptions.
 
 One of the defenders in the keep, Sergeant Markguth, recognizes the prisoners as his sister and her children, and he is ready to rush out into battle with the half-dragon. Escobert the Red and a few other defenders restrain him while Nighthill approaches the characters.
 
 > "My friends, you've demonstrated your prowess all through this frightful night. I realize this is an awful burden to ask you to bear, but any of you has a better chance to defeat that horror than my militia have."
 ^088
 
-If no one steps forward, Nighthill is disappointed but says he understands, and their refusal in no way diminishes what they've done so far. In that case, the woman's brother goes out to face the half-dragon. He is a human [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guard]]. Select one of the players to control Sergeant Markguth for this fight or just narrate its result.
+If no one steps forward, Nighthill is disappointed but says he understands, and their refusal in no way diminishes what they've done so far. In that case, the woman's brother goes out to face the half-dragon. He is a human [[Bestiary]]. Select one of the players to control Sergeant Markguth for this fight or just narrate its result.
 
 Cyanwrath is pleased to see a champion step forward. He agrees to these terms for the combat: The three children will be set loose immediately, but his kobolds will continue to stand guard over the woman, and they will kill her if anyone interferes in the fight—for example, if archers in the keep let fly at him. Regardless of who wins, the woman will be released when the fight is over; and the victor will be the last one standing.
 
@@ -317,7 +317,7 @@ With the fight over, the last of the raiders retreat en masse from the town into
 
 #### Rewards
 
-If a character steps up to the challenge and fights Cyanwrath, each party member earns 50 XP. If not, characters receive nothing for this encounter. A team of healers with healer's kits and +4 bonuses to Wisdom ([[skills#Medicine|Medicine]]) checks attend to the wounded or dying character, and Governor Nighthill gratefully offers two [[potion-of-healing-xdmg|potions of healing]] to the wounded character. If characters do something that costs the life of a hostage, Governor Nighthill is furious with them and offers no more help.
+If a character steps up to the challenge and fights Cyanwrath, each party member earns 50 XP. If not, characters receive nothing for this encounter. A team of healers with healer's kits and +4 bonuses to Wisdom ([[skills#Medicine|Medicine]]) checks attend to the wounded or dying character, and Governor Nighthill gratefully offers two [[Potion of Healing Xdmg]] to the wounded character. If characters do something that costs the life of a hostage, Governor Nighthill is furious with them and offers no more help.
 
 #### Developments
 

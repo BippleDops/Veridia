@@ -1,7 +1,7 @@
 ---
 
 title: '#Features'
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -127,7 +127,7 @@ Ways to incorporate #Features into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

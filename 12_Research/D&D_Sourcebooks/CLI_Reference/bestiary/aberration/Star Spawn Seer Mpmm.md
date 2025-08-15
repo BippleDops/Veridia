@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-seer-mpmm-star-spawn-seer-mpmm.svg)
 
-# [[star spawn seer mpmm|Star Spawn Seer]]
+# [[star-spawn-seer-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.

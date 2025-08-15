@@ -39,7 +39,7 @@ world: Both
 - **Hirelings**: 1
 - **Order**: recruit
 
-Inscribed on the floor of this room is a permanent teleportation circle created by the [[teleportation circle xphb|Teleportation Circle]] spell.
+Inscribed on the floor of this room is a permanent teleportation circle created by the [[teleportation-circle-xphb (spells)]] spell.
 
 ## 🔧 Deep Evaluation Improvements
 

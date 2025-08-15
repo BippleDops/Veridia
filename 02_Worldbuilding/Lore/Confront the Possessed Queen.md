@@ -1,12 +1,12 @@
 ---
 
 title: Confront the Possessed Queen
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - status/complete
 - content/lore
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - aethermoor
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -102,9 +102,9 @@ Confront the Possessed Queen is a undersea element of the setting, known for bio
 
 Legends speak of Confront the Possessed Queen as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Confront the Possessed Queen.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 

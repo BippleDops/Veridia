@@ -38,7 +38,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-back-talker-sword-of-answering-back-talker.svg)
 
 # Sword of Answering (Back Talker)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a chaotic evil creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a chaotic evil creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

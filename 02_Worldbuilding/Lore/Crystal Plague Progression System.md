@@ -1,10 +1,10 @@
 ---
 
 title: Crystal Plague Progression System
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - plague
 - content/lore
@@ -13,7 +13,7 @@ tags:
 - complete
 - world/aquabyssos
 - content/mechanics
-- world/aethermoor
+- world/[[Aethermoor]]
 - crystal-enhanced
 - conspiracy
 - prophecy
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -112,7 +112,7 @@ The Crystal Plague is a devastating condition that transforms living tissue into
 **Duration:** Permanent
 **No further saves**
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -127,14 +127,14 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - Strange sightings suggest a curse
-- A map reveals ancient history about a local noble
+- A [[map]] reveals ancient history about a local noble
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -144,7 +144,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 

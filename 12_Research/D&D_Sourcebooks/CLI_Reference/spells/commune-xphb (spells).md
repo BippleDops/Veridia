@@ -50,7 +50,7 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell more than once before finishing a [[long-rest-xphb|Long Rest]], there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 251. Available in the SRD and the Free Rules (2024)*
 
@@ -95,3 +95,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[commune-xphb (spells)-phb]]` in CLI_Reference/spells/

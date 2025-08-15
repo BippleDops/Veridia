@@ -33,7 +33,7 @@ world: Both
 # Temporary Hit Points
 *Source: Player's Handbook (2024) p. 376. Available in the SRD and the Free Rules (2024)* 
 
-Temporary Hit Points are granted by certain effects and act as a buffer against losing real [[hit points xphb|Hit Points]].
+Temporary Hit Points are granted by certain effects and act as a buffer against losing real [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

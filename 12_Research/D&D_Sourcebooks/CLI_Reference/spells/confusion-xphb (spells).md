@@ -54,7 +54,7 @@ world: Both
 - **Components:** V, S, M (three nut shells)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+Each creature in a 10-foot-radius [[Area of Effect Xphb]] centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 `dice: [](confusion-xphb.md#^1-behavior-for-the-turn)`
 
@@ -68,9 +68,9 @@ Each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
-**Using a Higher-Level Spell Slot.** The [[sphere-area-of-effect-xphb|Sphere]]'s radius increases by 5 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The [[Area of Effect Xphb]]'s radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-knowledge-domain "class=XPHB"|Cleric (Knowledge Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 253. Available in the SRD and the Free Rules (2024)*
 
@@ -101,3 +101,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[confusion-xphb (spells)-phb]]` in CLI_Reference/spells/

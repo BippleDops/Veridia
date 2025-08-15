@@ -53,11 +53,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A creature you touch regains a number of [[hit-points-xphb|Hit Points]] equal to `2d8` plus your spellcasting ability modifier.
+A creature you touch regains a number of [[hit-points-xphb (variant-rules)]] equal to `2d8` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d8` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 259. Available in the SRD and the Free Rules (2024)*
 

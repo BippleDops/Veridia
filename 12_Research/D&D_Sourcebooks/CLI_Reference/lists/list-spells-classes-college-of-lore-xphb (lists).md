@@ -68,3 +68,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting an heir for love
 - Someone is blackmailing information for power
 - A letter reveals ancient history about the government
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-college-of-lore-xphb (lists)-phb]]` in CLI_Reference/spells/

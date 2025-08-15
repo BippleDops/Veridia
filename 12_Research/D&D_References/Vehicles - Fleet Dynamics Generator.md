@@ -57,7 +57,7 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[C
 ## Quick Build Procedure
 1 Pick Doctrine → 2 Assign Fleet Points → 3 Choose Admirals → 4 Place Bases → 5 Define Objectives
 
-Use with: [[Transportation Infrastructure|Transportation Infrastructure]], [[Journey_Event_Compiler|Journey Event Compiler]].
+Use with: [[Transportation_Infrastructure]], [[Journey_Event_Compiler|Journey Event Compiler]].
 
 ## Player-Facing Summary
 

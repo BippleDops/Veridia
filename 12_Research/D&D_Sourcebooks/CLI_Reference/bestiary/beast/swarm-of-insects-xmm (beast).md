@@ -45,7 +45,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-insects-xmm-swarm-of-insects-xmm.svg)
 
-# [[swarm of insects xmm|Swarm of Insects]]
+# [[swarm-of-insects-xmm (beast)]]
 *Source: Monster Manual (2024) p. 370. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -62,7 +62,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Swarm of Insects (XMM)"
@@ -89,18 +89,18 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "If the swarm has a [[climb speed xphb|Climb Speed]],\
+  - "desc": "If the swarm has a [[Climb Speed Xphb]],\
       \ the swarm can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny insect. The swarm\
-      \ can't regain [[hit points xphb|Hit Points]]\
-      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
+      \ can't regain [[hit-points-xphb (variant-rules)]]\
+      \ or gain [[temporary-hit-points-xphb (variant-rules)]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage,\
-      \ or 3 (1d4 + 1) Poison damage if the swarm is [[bloodied xphb|Bloodied]]."
+      \ or 3 (1d4 + 1) Poison damage if the swarm is [[bloodied-xphb (variant-rules)]]."
     "name": "Bites"
 "source":
   - "XMM"

@@ -1,9 +1,9 @@
 ---
 
-title: The Drowning Truth
-type: Location
+title: [[The Drowning]] Truth
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - quest
 - content/location
@@ -16,12 +16,12 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 accessibility:
   content_warnings:
   - political coercion
-  - environmental hazards
+  - [[Environmental Hazards]]
   pronunciation: The Drowning Truth
   safety_tools:
   - Lines & Veils
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -133,7 +133,7 @@ The closer one gets to the center, the greater the "truth pressure":
 
 ### The First Drowning
 
-Legend says the Drowning Truth formed when the philosopher-queen Veritas spoke a truth so profound that reality couldn't contain it. Her words crystallized into water, and she drowned in her own honesty, becoming the first Guardian of Truth.
+Legend says the Drowning Truth formed when the philosopher-queen Veritas spoke a truth so profound that reality couldn't contain it. Her words crystallized into water, and she [[Drowned]] in her own honesty, becoming the first Guardian of Truth.
 
 ### The Heretic's Trial
 
@@ -141,9 +141,9 @@ Three hundred years ago, the accused heretic Malthorn demanded trial by Truth. H
 
 ### The Lovers' Pact
 
-The famous lovers Coral and Pearl entered together, vowing their love was true. Only Pearl emerged. The truth of what happened remains in the sphere, too terrible for her to speak.
+The famous lovers [[Coral]] and Pearl entered together, vowing their love was true. Only Pearl emerged. The truth of what happened remains in the sphere, too terrible for her to speak.
 
-### The Truth Keepers
+### The [[Truth Keepers]]
 
 **Confessor Absolute** (CR 13)
 *The primary guardian who has lived in truth for 47 years*
@@ -198,7 +198,7 @@ STR 14 (+2), DEX 12 (+1), CON 16 (+3), INT 10 (+0), WIS 17 (+3), CHA 6 (-2)
 
 **Damage Resistances** necrotic, psychic
 **Damage Immunities** poison
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
+**Condition Immunities** charmed, [[Exhaustion]], frightened, poisoned
 **Senses** darkvision 60 ft., passive Perception 13
 **Languages** Any languages it knew in life
 **Challenge** 7 (2,900 XP)
@@ -212,12 +212,12 @@ STR 14 (+2), DEX 12 (+1), CON 16 (+3), INT 10 (+0), WIS 17 (+3), CHA 6 (-2)
 
 **Wail of Honesty (Recharge 5-6).** The soul screams a terrible truth. Each creature within 30 feet must make a DC 15 Wisdom saving throw or take 27 (6d8) psychic damage and be frightened for 1 minute.
 
-### The Living Paradox
+### [[The Living Paradox]]
 
 A being that exists because they simultaneously are and aren't:
 - Speaks only in contradictions that are true
 - Phases in and out of existence
-- Can be in multiple places at once
+- Can be in multiple [[Places]] at once
 - Their presence causes logical failures
 
 ### The Confession Chambers
@@ -276,9 +276,9 @@ Couples enter together to test their bond:
 
 **Success Rate**: 23%
 **Cost**: 5,000 gp
-**Reward**: Blessing of Eternal Honesty
+**Reward**: [[Bless]]ing of Eternal Honesty
 
-### Merchant's Verification
+### [[Merchant]]'s Verification
 
 Traders verify the authenticity of goods:
 - Forgeries become obvious
@@ -300,7 +300,7 @@ Dying individuals speak their last truths:
 **Cost**: Donation to Truth Keepers
 **Benefit**: Soul passes peacefully
 
-### Truth Pressure Effects
+### Truth [[Pressure Effects]]
 
 | Depth | Physical Effect | Mental Effect | Save DC |
 |-------|----------------|---------------|---------|
@@ -322,7 +322,7 @@ When too many truths release at once:
 When contradictory truths collide:
 - Logic breaks down
 - Impossible things happen
-- Time flows backwards
+- [[Time]] flows backwards
 - Cause and effect reverse
 
 ### Truth Blindness
@@ -333,7 +333,7 @@ Prolonged exposure causes:
 - Loss of social filters
 - Cannot understand metaphor
 
-### Truth Crystals
+### [[Truth Crystals]]
 
 Crystallized honesty with various properties:
 
@@ -378,11 +378,11 @@ Crystallized honesty with various properties:
 
 ### The False Prophet
 
-A religious leader claims to have spent a year in the Drowning Truth and emerged enlightened. The party must verify their claim by finding evidence of their presence in the sphere—or expose their deception.
+A religious leader claims to have spent a year in the Drowning Truth and emerged enlightened. [[The Party]] must verify their claim by finding [[Evidence]] of their presence in the sphere—or expose their deception.
 
 ### The Truth Plague
 
-Honesty is spreading like a disease from the Drowning Truth, causing chaos as people cannot stop speaking their minds. The party must find what's causing the overflow and stop it before society collapses.
+Honesty is spreading like a disease from the Drowning Truth, causing chaos as people cannot stop speaking their minds. The party must find what's causing [[The Overflow]] and stop it before society collapses.
 
 ### The Paradox Child
 
@@ -394,7 +394,7 @@ A deity seeks to enter the Drowning Truth to prove their divinity is not based o
 
 ### The Memory Editor
 
-Someone is using the Archive of Unspoken to change history by making unspoken truths become "spoken," altering the timeline. The party must stop them while navigating the dangerous truths within.
+Someone is using the Archive of Unspoken to change history by making unspoken truths become "spoken," altering the [[Timeline]]. The party must stop them while navigating the dangerous truths within.
 
 ### The Necessity of Deception
 
@@ -420,7 +420,7 @@ The sphere raises questions:
 - Does observation change truth?
 - Is truth different from fact?
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -431,7 +431,7 @@ The sphere raises questions:
 
 **Preparation Required**:
 - List three secrets for each PC
-- Prepare NPC hidden truths
+- Prepare [[Npc]] hidden truths
 - Consider campaign-changing revelations
 - Plan for exposed secrets
 
@@ -455,7 +455,7 @@ The sphere raises questions:
 - Social consequences focus
 
 **Mid Level (6-10)**:
-- Explore middle layer
+- Exp[[Lore]] middle layer
 - Confront personal truths
 - Truth-based puzzles
 
@@ -471,11 +471,11 @@ The sphere raises questions:
 
 ## See Also
 
-- [[02 Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
-- [[02 Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
-- [[02 Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
-- [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics]]
-- [[02 Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
+- [[02_Worldbuilding]]
+- [[Groups]]
+- [[People]]
+- [[Honesty_Mechanics]]
+- [[The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
 
@@ -506,6 +506,34 @@ The Drowning Truth is a notable location characterized by its unique features an
 
 ### Founding
 The Drowning Truth was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -542,7 +570,7 @@ Key stop on magic items trade route
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -567,3 +595,40 @@ Key stop on magic items trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-wave-xdmg-v1-wave-xdmg.svg)
 
 # Wave
-*Weapon ([[trident xphb|trident]]), artifact (requires attunement)*  
+*Weapon ([[trident-xphb (items)]]), artifact (requires attunement)*  
 
 - **Damage**:
   - One-handed: 1d8 piercing
@@ -52,7 +52,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 While holding Wave, you gain the following benefits:
 
-- **Combat Ready.** You have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls.  
+- **Combat Ready.** You have [[Advantage Xphb]] on [[Initiative Xphb]] rolls.  
 - **Underwater Adaptation.** A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.  
 
 ## 🔧 Deep Evaluation Improvements
@@ -69,11 +69,11 @@ While holding Wave, you gain the following benefits:
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate beast xphb|Dominate Beast]] (save DC 20) from it on a Beast that has a [[swim speed xphb|Swim Speed]].
+Wave has 3 charges and regains `d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[beast]] (save DC 20) from it on a Beast that has a [[swim-speed-xphb (variant-rules)]].
 
 ## Globe of Invulnerability
 
-While holding Wave, you can cast the level 9 version of [[globe of invulnerability xphb|Globe of Invulnerability]] from it. Once used, this property can't be used again until the next dawn.
+While holding Wave, you can cast the level 9 version of [[Vulnerability Xphb]] from it. Once used, this property can't be used again until the next dawn.
 
 ## Sentience
 
@@ -87,7 +87,7 @@ Wave zealously encourages mortals to worship sea gods and has a habit of humming
 
 ## Destroying Wave
 
-Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[storm giant xmm|storm giant]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
+Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[giant]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
 
 *Source: Dungeon Master's Guide (2024) p. 323*
 

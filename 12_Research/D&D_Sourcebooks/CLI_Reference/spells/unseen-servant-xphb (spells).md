@@ -49,13 +49,13 @@ world: Both
 - **Components:** V, S, M (a bit of string and of wood)
 - **Duration:** 1 hour
 
-This spell creates an [[conditions#Invisible|Invisible]], mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 [[hit-points-xphb|Hit Point]], and a Strength of 2, and it can't attack. If it drops to 0 [[hit-points-xphb|Hit Points]], the spell ends.
+This spell creates an [[conditions#Invisible|Invisible]], mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 [[hit-points-xphb (variant-rules)]], and a Strength of 2, and it can't attack. If it drops to 0 [[hit-points-xphb (variant-rules)]], the spell ends.
 
-Once on each of your turns as a [[bonus-action-xphb|Bonus Action]], you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
+Once on each of your turns as a [[Action Xphb]], you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 336. Available in the SRD and the Free Rules (2024)*
 
@@ -104,3 +104,24 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[unseen-servant-xphb (spells)-phb]]` in CLI_Reference/spells/

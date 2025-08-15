@@ -40,65 +40,65 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | `2d4` [[vine-blight-xmm|vine blights]] |
-| 02 | `2d6` [[hobgoblin-warrior-xmm|hobgoblins]] or `2d6` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
-| 03 | `2d4` [[ape xmm|apes]] or `2d4` [[satyr xmm|satyrs]] |
+| 02 | `2d6` [[hobgoblin-warrior-xmm|hobgoblins]] or `2d6` [[Bestiary]] |
+| 03 | `2d4` [[Giant Ape Xmm]] or `2d4` [[satyr-xmm (fey)]] |
 | 04 | `d3` [[will-o-wisp-xmm|will-o'-wisps]] |
 | 05 | `d4` [[swarm-of-venomous-snakes-xmm|swarms of poisonous snakes]] |
-| 06 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d3` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|orogs]] and `1d8 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
-| 07 | `d3` [[constrictor-snake-xmm|constrictor snakes]] or `d4` [[tiger xmm|tigers]] |
-| 08 | 1 [[goblin-boss-xmm|goblin boss]] with `3d6` [[goblin-warrior-xmm|goblins]] |
+| 06 | 1 [[Bestiary]] with `d3` [[Bestiary]] and `1d8 + 2` [[Bestiary]] |
+| 07 | `d3` [[constrictor-snake-xmm|constrictor snakes]] or `d4` [[Weretiger Xmm]] |
+| 08 | 1 [[goblin-boss-xmm (fey)]] with `3d6` [[goblin-warrior-xmm|goblins]] |
 | 09 | 1 [[faerie-dragon-youth-xmm|faerie dragon]] (any age) |
 | 10 | 1 [[brown-bear-xmm|brown bear]] or `1d6 + 2` [[black-bear-xmm|black bears]] |
 | 11-13 | `d4` [[giant-boar-xmm|giant boars]] |
 | 14-15 | `1d8 + 1` [[giant-spider-xmm|giant spiders]] |
-| 16-17 | 1 [[lizardfolk-geomancer-xmm|lizardfolk shaman]] with `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
+| 16-17 | 1 [[Lizardfolk Geomancer Xmm]] with `2d4` [[Bestiary]] |
 | 18 | `d10` [[giant-toad-xmm|giant toads]] |
-| 19 | `d4` [[ankheg xmm|ankhegs]] |
-| 20 | `d3` [[awakened-tree-xmm|awakened trees]] (day) or 1 [[banshee xmm|banshee]] (night) |
+| 19 | `d4` [[Ankheg Xmm]] |
+| 20 | `d3` [[awakened-tree-xmm|awakened trees]] (day) or 1 [[Banshee Xmm]] (night) |
 | 21-25 | A small shack almost hidden by the deep forest. The interior is empty aside from a large cast-iron oven. |
-| 26 | 1 [[couatl xmm|couatl]] |
-| 27-28 | `d4` [[ogre xmm|ogres]] or `1d6 + 2` [[ogrillon-ogre-xmm|half-ogres]] |
-| 29-30 | 1 [[gnoll-pack-lord-xmm|gnoll pack lord]] with `1d4 + 1` [[giant-hyena-xmm|giant hyenas]] |
-| 31-32 | `d6` [[wererat xmm|wererats]] |
-| 33 | `d4` [[grick xmm|gricks]] |
-| 34 | `1d8 + 1` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 35 | `d6` [[pegasus xmm|pegasi]] |
+| 26 | 1 [[Couatl Xmm]] |
+| 27-28 | `d4` [[Ogre Xmm]] or `1d6 + 2` [[ogrillon-ogre-xmm|half-ogres]] |
+| 29-30 | 1 [[gnoll-pack-lord-xmm (fiend)]] with `1d4 + 1` [[giant-hyena-xmm|giant hyenas]] |
+| 31-32 | `d6` [[Wererat Xmm]] |
+| 33 | `d4` [[Grick Xmm]] |
+| 34 | `1d8 + 1` [[Bestiary]] |
+| 35 | `d6` [[pegasus-xmm (celestial)]] |
 | 36-40 | An old stone archway of obvious elven design. Any character who passes under it makes Wisdom (Perception) checks with advantage for 1 hour. |
-| 41-42 | `1d6 + 2` [[dryad xmm|dryads]] |
+| 41-42 | `1d6 + 2` [[dryad-xmm (fey)]] |
 | 43 | `d4` [[giant-elk-xmm|giant elk]] |
-| 44 | `1d8 + 1` [[harpy xmm|harpies]] |
-| 45-46 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] and `1d6 + 5` [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
+| 44 | `1d8 + 1` [[harpy-xmm (monstrosity)]] |
+| 45-46 | 1 [[Bestiary]] with 1 [[Bestiary]] and `1d6 + 5` [[Bestiary]] |
 | 47-48 | `2d4` [[dire-wolf-xmm|dire wolves]] |
 | 49-50 | `2d4` [[bugbear-warrior-xmm|bugbears]] |
 | 51-52 | `2d4` [[centaur-trooper-xmm|centaurs]] |
 | 53-54 | `3d10` [[blink-dog-xmm|blink dogs]] |
-| 55-56 | `d4` [[owlbear xmm|owlbears]] |
-| 57-58 | `1d8 + 1` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
+| 55-56 | `d4` [[owlbear-xmm (monstrosity)]] |
+| 57-58 | `1d8 + 1` [[Bestiary]] |
 | 59-60 | `d3` [[green-hag-xmm|green hags]] |
 | 61-65 | A clear pool of water with `d6` sleeping animals lying around its edge |
-| 66-67 | `d4` [[werewolf xmm|werewolves]] |
-| 68-69 | 1 [[werebear xmm|werebear]] |
-| 70-71 | `1d8 + 1` [[ettercap xmm|ettercaps]] |
-| 72-73 | `2d10` [[elk xmm|elk]] |
-| 74-75 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 66-67 | `d4` [[werewolf-xmm (monstrosity)]] |
+| 68-69 | 1 [[werebear-xmm (monstrosity)]] |
+| 70-71 | `1d8 + 1` [[Ettercap Xmm]] |
+| 72-73 | `2d10` [[elk-xmm (beast)]] |
+| 74-75 | `d4` [[Bestiary]] |
 | 76-80 | An old tree with a wizened face carved into the trunk |
-| 81 | `d4` [[wereboar xmm|wereboars]] |
+| 81 | `d4` [[wereboar-xmm (monstrosity)]] |
 | 82 | `2d4` [[displacer-beast-xmm|displacer beasts]] |
 | 83 | `d4` [[shambling-mound-xmm|shambling mounds]] |
-| 84 | 1 [[hobgoblin-captain-xmm|hobgoblin captain]] with `3d10` [[hobgoblin-warrior-xmm|hobgoblins]] and `4d12` [[goblin-warrior-xmm|goblins]] |
-| 85 | 1 [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] |
+| 84 | 1 [[hobgoblin-captain-xmm (fey)]] with `3d10` [[hobgoblin-warrior-xmm|hobgoblins]] and `4d12` [[goblin-warrior-xmm|goblins]] |
+| 85 | 1 [[Bestiary]] |
 | 86 | `1d8 + 1` [[phase-spider-xmm|phase spiders]] |
-| 87 | `d4` [[troll xmm|trolls]] |
-| 88 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
-| 89 | 1 [[oni xmm|oni]] |
-| 90 | `d4` [[unicorn xmm|unicorns]] |
-| 91 | `1d6 + 2` [[weretiger xmm|weretigers]] |
+| 87 | `d4` [[Troll Xmm]] |
+| 88 | `2d4` [[Bestiary]] |
+| 89 | 1 [[Oni Xmm]] |
+| 90 | `d4` [[unicorn-xmm (celestial)]] |
+| 91 | `1d6 + 2` [[Weretiger Xmm]] |
 | 92 | 1 [[young-green-dragon-xmm|young green dragon]] |
-| 93 | `d4` [[gorgon xmm|gorgons]] |
+| 93 | `d4` [[Brazen Gorgon Xmm]] |
 | 94 | `1d6 + 2` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
-| 95 | 1 [[treant xmm|treant]] |
+| 95 | 1 [[treant-xmm (plant)]] |
 | 96 | `d4` [[revet xmm|revets]] |
-| 97 | 1 [[grick-ancient-xmm|grick alpha]] with `1d6 + 1` [[grick xmm|gricks]] |
+| 97 | 1 [[grick-ancient-xmm|grick alpha]] with `1d6 + 1` [[Grick Xmm]] |
 | 98 | `d4` [[giant-ape-xmm|giant apes]] |
 | 99 | 1 [[guardian-naga-xmm|guardian naga]] |
 | 00 | 1 [[adult-gold-dragon-xmm|adult gold dragon]] |
@@ -138,3 +138,58 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty
+
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

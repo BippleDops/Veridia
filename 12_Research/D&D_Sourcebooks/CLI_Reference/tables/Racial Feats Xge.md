@@ -38,26 +38,26 @@ world: Both
 
 | Race | Feat |
 |------|------|
-| Dragonborn | [[dragon fear xge|Dragon Fear]] |
-| Dragonborn | [[dragon hide xge|Dragon Hide]] |
-| Dwarf | [[dwarven fortitude xge|Dwarven Fortitude]] |
-| Dwarf | [[squat nimbleness xge|Squat Nimbleness]] |
-| Elf | [[elven accuracy xge|Elven Accuracy]] |
-| Elf (drow) | [[drow high magic xge|Drow High Magic]] |
-| Elf (high) | [[fey teleportation xge|Fey Teleportation]] |
-| Elf (wood) | [[wood elf magic xge|Wood Elf Magic]] |
-| Gnome | [[fade away xge|Fade Away]] |
-| Gnome | [[squat nimbleness xge|Squat Nimbleness]] |
-| Half-elf | [[elven accuracy xge|Elven Accuracy]] |
-| Half-elf | [[prodigy xge|Prodigy]] |
-| Half-orc | [[orcish fury xge|Orcish Fury]] |
-| Half-orc | [[prodigy xge|Prodigy]] |
-| Halfling | [[bountiful luck xge|Bountiful Luck]] |
-| Halfling | [[second chance xge|Second Chance]] |
-| Halfling | [[squat nimbleness xge|Squat Nimbleness]] |
-| Human | [[prodigy xge|Prodigy]] |
-| Tiefling | [[flames of phlegethos xge|Flames of Phlegethos]] |
-| Tiefling | [[infernal constitution xge|Infernal Constitution]] |
+| Dragonborn | [[Dragon Fear Xge]] |
+| Dragonborn | [[Dragon Hide Xge]] |
+| Dwarf | [[dwarven-fortitude-xge (feats)]] |
+| Dwarf | [[Squat Nimbleness Xge]] |
+| Elf | [[Elven Accuracy Xge]] |
+| Elf (drow) | [[drow-high-magic-xge (feats)]] |
+| Elf (high) | [[fey]] |
+| Elf (wood) | [[list-spells-feats-wood-elf-magic-xge (lists)]] |
+| Gnome | [[Fade Away Xge]] |
+| Gnome | [[Squat Nimbleness Xge]] |
+| Half-elf | [[Elven Accuracy Xge]] |
+| Half-elf | [[prodigy-xge (feats)]] |
+| Half-orc | [[orcish-fury-xge (feats)]] |
+| Half-orc | [[prodigy-xge (feats)]] |
+| Halfling | [[Bountiful Luck Xge]] |
+| Halfling | [[second-chance-xge (feats)]] |
+| Halfling | [[Squat Nimbleness Xge]] |
+| Human | [[prodigy-xge (feats)]] |
+| Tiefling | [[Flames of Phlegethos Xge]] |
+| Tiefling | [[infernal-constitution-xge (feats)]] |
 ^racial-feats
 
 ## 🔧 Deep Evaluation Improvements

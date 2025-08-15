@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grick-xmm-grick-xmm.svg)
 
-# [[grick xmm|Grick]]
+# [[Grick Xmm]]
 *Source: Monster Manual (2024) p. 158. Available in the SRD and the Free Rules (2024)*  
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.

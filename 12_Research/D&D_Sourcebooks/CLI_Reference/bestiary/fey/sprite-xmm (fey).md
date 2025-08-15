@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sprite-xmm-sprite-xmm.svg)
 
-# [[sprite xmm|Sprite]]
+# [[sprite-xmm (fey)]]
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -109,7 +109,7 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
       \ can see (Celestials, Fiends, and Undead automatically fail the save). Failure:\
       \ The sprite knows the target's emotions and alignment."
     "name": "Heart Sight"
-  - "desc": "The sprite casts [[invisibility xphb|Invisibility]]\
+  - "desc": "The sprite casts [[see-invisibility-xphb (spells)]]\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"

@@ -38,13 +38,13 @@ world: Both
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[bomb xdmg|Bomb]] | 100 GP | 1 lb. |
-| [[dynamite stick xdmg|Dynamite Stick]] | — | 1 lb. |
-| [[fragmentation grenade xdmg|Grenade, Fragmentation]] | — | 1 lb. |
-| [[grenade launcher xdmg|Grenade Launcher]] | — | 7 lb. |
-| [[smoke grenade xdmg|Grenade, Smoke]] | 50 GP | 2 lb. |
-| [[gunpowder keg xdmg|Gunpowder (keg)]] | 250 GP | 20 lb. |
-| [[gunpowder powder horn xdmg|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
+| [[Bomb Xdmg]] | 100 GP | 1 lb. |
+| [[dynamite-stick-xdmg (items)]] | — | 1 lb. |
+| [[fragmentation-grenade-xdmg (items)]] | — | 1 lb. |
+| [[grenade-launcher-xdmg (items)]] | — | 7 lb. |
+| [[smoke-grenade-xdmg (items)]] | 50 GP | 2 lb. |
+| [[gunpowder-keg-xdmg (items)]] | 250 GP | 20 lb. |
+| [[gunpowder-powder-horn-xdmg (items)]] | 35 GP | 2 lb. |
 ^explosives
 
 ## 🔧 Deep Evaluation Improvements

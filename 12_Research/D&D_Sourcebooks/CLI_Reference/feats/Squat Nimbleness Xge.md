@@ -35,7 +35,7 @@ world: Both
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[dwarf xphb|Dwarf]] or a Small race
+**Prerequisite**: [[Dwarf Xphb]] or a Small race
 
 You are uncommonly nimble for your race. You gain the following benefits:
 

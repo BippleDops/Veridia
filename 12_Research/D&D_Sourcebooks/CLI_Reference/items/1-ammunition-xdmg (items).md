@@ -47,7 +47,7 @@ world: Both
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([[magic item values by rarity magic item rarities and values xdmg|200 GP]]).
+> ([[Magic Item Values by Rarity Magic Item Rarities and Values Xdmg]]).
 
 **Variants**:
 - [+1 Arrow](#+1%20Arrow)

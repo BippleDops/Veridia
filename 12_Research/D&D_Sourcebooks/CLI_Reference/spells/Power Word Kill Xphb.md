@@ -45,9 +45,9 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You compel one creature you can see within range to die. If the target has 100 [[hit points xphb|Hit Points]] or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
+You compel one creature you can see within range to die. If the target has 100 [[hit-points-xphb (variant-rules)]] or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the SRD and the Free Rules (2024)*
 

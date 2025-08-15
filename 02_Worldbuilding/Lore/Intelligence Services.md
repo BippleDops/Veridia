@@ -3,23 +3,23 @@ title: Intelligence Services
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg)
+![](04_Resources/Assets/Portraits/portrait-[[Npc]]-intelligence-services-intelligence-services.svg)
 
 # Intelligence Services
 
 ## Overview
-This topic is referenced in [[Assets Portraits Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg]] and other parts of the campaign.
+This topic is referenced in [[Shield]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Portraits Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg]]
+- Referenced by: [[Shield]]
 - Related topics in the same category
 
 ## Details

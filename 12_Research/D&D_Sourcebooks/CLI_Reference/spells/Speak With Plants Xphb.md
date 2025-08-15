@@ -46,15 +46,15 @@ world: Both
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-You imbue plants in an immobile 30-foot [[emanation-area-of-effect-xphb|Emanation]] with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+You imbue plants in an immobile 30-foot [[Area of Effect Xphb]] with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
-You can also turn [[difficult-terrain-xphb|Difficult Terrain]] caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [[difficult-terrain-xphb|Difficult Terrain]] that lasts for the duration.
+You can also turn [[Difficult Terrain Xphb]] caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [[Difficult Terrain Xphb]] that lasts for the duration.
 
 The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.
 
 If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the SRD and the Free Rules (2024)*
 

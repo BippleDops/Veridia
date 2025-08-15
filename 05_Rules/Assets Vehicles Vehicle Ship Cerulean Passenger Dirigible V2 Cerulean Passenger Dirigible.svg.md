@@ -247,3 +247,6 @@ Apply this rule when:
 - Strange sightings suggest a curse
 - A stranger needs help delivering before winter
 - A map reveals ancient history about a local noble
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*

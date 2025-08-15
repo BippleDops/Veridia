@@ -42,7 +42,7 @@ world: Both
 
 ### Brave
 
-You have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#frightened|Frightened]] condition.
+You have [[Advantage Xphb]] on saving throws you make to avoid or end the [[conditions#frightened|Frightened]] condition.
 
 ### Halfling Nimbleness
 
@@ -50,7 +50,7 @@ You can move through the space of any creature that is a size larger than you, b
 
 ### Luck
 
-When you roll a 1 on the `d20` of a [[d20 test xphb|D20 Test]], you can reroll the die, and you must use the new roll.
+When you roll a 1 on the `d20` of a [[d20-test-xphb (variant-rules)]], you can reroll the die, and you must use the new roll.
 
 ### Naturally Stealthy
 

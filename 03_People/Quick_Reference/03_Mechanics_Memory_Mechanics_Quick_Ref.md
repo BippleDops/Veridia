@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Memory_Mechanics - Quick Reference
 
 ## Key Info

@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [[jug xphb|Jug]], [[lamp xphb|Lamp]]  
+- **Craft.** [[Jug Xphb]], [[lamp-xphb (items)]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

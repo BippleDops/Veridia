@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-cataclysm-xmm-elemental-cataclysm-xmm.svg)
 
-# [[elemental cataclysm xmm|Elemental Cataclysm]]
+# [[Elemental Cataclysm Xmm]]
 *Source: Monster Manual (2024) p. 111*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -134,16 +134,16 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Elemental Burst"
   - "desc": "The cataclysm creates one of the following effects at random (roll d4):\n\
       \n- 1 Clinging Flames. Dexterity Saving Throw: DC 23, each creature in\
-      \ a 60-foot-radius [[sphere area of effect xphb|Sphere]]\
+      \ a 60-foot-radius [[Area of Effect Xphb]]\
       \ centered on a point the cataclysm can see within 150 feet. Failure: 45 (13d6)\
       \ Fire damage. Success: Half damage. Failure or Success: The target starts\
-      \ [[burning xphb|burning]].  \n- 2 Freezing\
-      \ Waves. Strength Saving Throw: DC 23, each creature in a 90-foot [[cone area of effect xphb|Cone]].\
+      \ [[burning-xphb (traps-hazards)]].  \n- 2 Freezing\
+      \ Waves. Strength Saving Throw: DC 23, each creature in a 90-foot [[Area of Effect Xphb]].\
       \ Failure: 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and the\
       \ target has the [[conditions#prone|Prone]] condition. Success:\
-      \ Half damage only. Failure or Success: The target's [[speed xphb|Speed]]\
+      \ Half damage only. Failure or Success: The target's [[Fly Speed Xphb]]\
       \ is reduced to 0 until the end of its next turn.  \n- 3 Raging Storm. A\
-      \ storm cloud fills a 60-foot-radius [[sphere area of effect xphb|Sphere]]\
+      \ storm cloud fills a 60-foot-radius [[Area of Effect Xphb]]\
       \ centered on a point the cataclysm can see within 150 feet. The cloud lasts\
       \ for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures\
       \ entirely in the cloud have the [[conditions#Blinded|Blinded]]\
@@ -152,25 +152,25 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ creature that enters the cloud for the first time on a turn or starts its\
       \ turn there. Failure: 18 (4d8) Lightning damage plus 18 (4d8) Thunder damage.\
       \ Success: Half damage.  \n- 4 Swallowing Earth. Strength Saving Throw:\
-      \ DC 23, each creature in a 90-foot [[cube area of effect xphb|Cube]]\
+      \ DC 23, each creature in a 90-foot [[Cube Area of Effect Xphb]]\
       \ originating from a point on the ground within 150 feet. Failure: 18 (4d8)\
       \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[conditions#prone|Prone]]\
       \ condition and is buried under rubble. A buried target has the [[conditions#Restrained|Restrained]]\
-      \ condition, has [[cover xphb|Total Cover]],\
+      \ condition, has [[Cover Xphb]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
       \ 5 feet of it can make a DC 18 Strength ([[skills#Athletics|Athletics]])\
       \ check. On a successful check, the creature is no longer buried. Success:\
       \ Half damage only.  "
     "name": "Cataclysmic Event (Recharge 4-6)"
-  - "desc": "The cataclysm casts the [[control weather xphb|Control Weather]]\
+  - "desc": "The cataclysm casts the [[weather]]\
       \ spell, requiring no spell components and using Constitution as the spellcasting\
       \ ability.\n"
     "name": "Control Weather"
 "legendary_actions":
   - "desc": "The cataclysm makes one Elemental Burst attack."
     "name": "Eruption"
-  - "desc": "The cataclysm moves up to its [[speed xphb|Speed]],\
-      \ [[fly speed xphb|Fly Speed]], or [[swim speed xphb|Swim Speed]]\
+  - "desc": "The cataclysm moves up to its [[Fly Speed Xphb]],\
+      \ [[Fly Speed Xphb]], or [[swim-speed-xphb (variant-rules)]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. Constitution Saving Throw: DC 23. Failure: The\

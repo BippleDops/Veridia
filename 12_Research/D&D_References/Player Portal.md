@@ -67,15 +67,15 @@ FROM #quest
 WHERE quest_status = "Active" OR quest_status = "In Progress"
 
 ## Vehicles & Travel
-- Ship Handouts: [[Player Handout Aquabyssos Submarines]] • [[Player Handout Aethermoor Airships]] • [[Player Handout Merger Vessels]]
+- Ship Handouts: [[Aquabyssos_Submarines]] • [[Playe]] • [[Player Handout Merger Vessels]]
 - Encounter Handouts:
 LIST FROM "04_Resources/Handouts/Encounters"
-- Doctrine Quick Reference: [[Doctrine Quick Reference]]
+- Doctrine Quick Reference: [[Doctrine_Quick_Reference]]
 
 ## Quick References
-- [[07_Player_Resources/Handouts/Sanity Quick Reference]] — Mental health mechanics
-- [[07_Player_Resources/Handouts/Welcome to Aquabyssos]] — World primer
-- [[Character Creation Extended]] — Build options
+- [[Sanity Quick Reference]] — Mental health mechanics
+- [[Welcome to Aquabyssos]] — World primer
+- [[Character_Creation_Extended]] — Build options
 - [[Faction Guide]] — Political landscape
 
 ---

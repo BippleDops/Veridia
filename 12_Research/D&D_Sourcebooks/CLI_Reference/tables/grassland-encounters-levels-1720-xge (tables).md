@@ -39,20 +39,20 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | `2d6` [[triceratops xmm|triceratopses]] |
-| 11-20 | `d10` [[gorgon xmm|gorgons]] |
-| 21-25 | `2d6` [[hyena xmm|hyenas]] feeding on the carcass of a dead dinosaur |
-| 26-35 | `3d6` [[bulette xmm|bulettes]] |
+| 01-10 | `2d6` [[Triceratops Xmm]] |
+| 11-20 | `d10` [[Brazen Gorgon Xmm]] |
+| 21-25 | `2d6` [[hyena-xmm (beast)]] feeding on the carcass of a dead dinosaur |
+| 26-35 | `3d6` [[bulette-xmm (monstrosity)]] |
 | 36-40 | A fiery chariot that races across the sky |
-| 41-50 | `d3` [[young gold dragon xmm|young gold dragons]] |
-| 51-60 | `2d4` [[cyclops sentry xmm|cyclopes]] |
+| 41-50 | `d3` [[young-gold-dragon-xmm (dragon)]] |
+| 51-60 | `2d4` [[cyclops-sentry-xmm]] |
 | 61-65 | A valley where all the grass has died and the ground is littered with stumps and fallen tree trunks, all petrified |
-| 66-75 | `2d10` [[wolf xmm|wolves]] |
+| 66-75 | `2d10` [[werewolf-xmm (monstrosity)]] |
 | 76-80 | A friendly adventuring party of `1d6 + 1` characters of varying races, classes, and levels (average level `1d6 + 2`). They share information about their recent travels. |
-| 81-90 | `d12` [[chimera xmm|chimeras]] |
-| 91-96 | `1d6 + 2` [[tyrannosaurus rex xmm|tyrannosaurus rexes]] |
-| 97-99 | 1 [[adult gold dragon xmm|adult gold dragon]] |
-| 00 | 1 [[ancient gold dragon xmm|ancient gold dragon]] |
+| 81-90 | `d12` [[Chimera Xmm]] |
+| 91-96 | `1d6 + 2` [[tyrannosaurus-rex-xmm (beast)]] |
+| 97-99 | 1 [[adult-gold-dragon-xmm]] |
+| 00 | 1 [[ancient-gold-dragon-xmm (dragon)]] |
 ^grassland-encounters-levels-1720
 
 ## 🔧 Deep Evaluation Improvements
@@ -97,3 +97,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

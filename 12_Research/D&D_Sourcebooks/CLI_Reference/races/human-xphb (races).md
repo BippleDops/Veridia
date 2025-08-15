@@ -42,7 +42,7 @@ world: Both
 
 ### Resourceful
 
-You gain [[heroic inspiration xphb|Heroic Inspiration]] whenever you finish a [[long rest xphb|Long Rest]].
+You gain [[heroic-inspiration-xphb (variant-rules)]] whenever you finish a [[long-rest-xphb]].
 
 ### Skillful
 

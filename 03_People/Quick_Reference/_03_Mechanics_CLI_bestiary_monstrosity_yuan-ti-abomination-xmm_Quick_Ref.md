@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_monstrosity_yuan-ti-abomination-xmm - Quick Reference
 
 ## Key Info

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-spore-servant-xmm-myconid-spore-servant-xmm.svg)
 
-# [[myconid spore servant xmm|Myconid Spore Servant]]
+# [[myconid-spore-servant-xmm]]
 *Source: Monster Manual (2024) p. 223*  
 
 Spore servants are corpses that have been overgrown and reanimated by a myconid sovereign's spores. These fungus-infested bodies are extensions of a myconid sovereign and obey its will.

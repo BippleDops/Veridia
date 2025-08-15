@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[club xphb|Club]], [[greatclub xphb|Greatclub]], [[quarterstaff xphb|Quarterstaff]], Ranged weapons (except [[pistol xphb|Pistol]], [[musket xphb|Musket]], and  [[sling xphb|Sling]]), [[arcane focus xphb|Arcane Focus]], [[arrows 20 xphb|Arrows]], [[bolts 20 xphb|Bolts]], [[druidic focus xphb|Druidic Focus]], [[ink pen xphb|Ink Pen]], [[needles 50 xphb|Needles]]  
+- **Craft.** [[Greatclub Xphb]], [[Greatclub Xphb]], [[Quarterstaff Xphb]], Ranged weapons (except [[pistol-xphb (items)]], [[Musket Xphb]], and  [[Sling Xphb]]), [[arcane-focus-xphb (items)]], [[arrows-20-xphb (items)]], [[Bolts 20 Xphb]], [[druidic-focus-xphb (items)]], [[ink-pen-xphb (items)]], [[Needles 50 Xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

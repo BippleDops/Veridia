@@ -1,10 +1,12 @@
 ---
+
 title: Campaign_Timeline_Tracker
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Campaign_Timeline_Tracker
@@ -174,3 +176,8 @@ modified: '2025-08-14'
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

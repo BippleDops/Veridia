@@ -4,7 +4,7 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
+- [[Lore]]
 title: "\u03A9 System CLI spells school necromancy"
 type: lore
 updated: 2025-08-14
@@ -20,12 +20,12 @@ This document contains important information regarding Ω_System-CLI-spells-scho
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,19 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

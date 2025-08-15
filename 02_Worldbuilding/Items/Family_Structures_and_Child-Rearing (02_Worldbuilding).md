@@ -152,7 +152,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be: - [[Family Structures and Child Rearing]]...
+Last known to be: - [[Family Structures and Child-Rearing]]...
 
 ## Quest Hooks
 

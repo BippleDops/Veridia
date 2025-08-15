@@ -36,20 +36,20 @@ world: Both
 
 | Item | Type | Price per Dose |
 |------|------|----------------|
-| [[assassins blood xdmg|Assassin's blood]] | Ingested | 150 gp |
-| [[burnt othur fumes xdmg|Burnt othur fumes]] | Inhaled | 500 gp |
-| [[carrion crawler mucus xdmg|Carrion crawler mucus]] | Contact | 200 gp |
-| [[lolths sting xdmg|Drow poison]] | Injury | 200 gp |
-| [[essence of ether xdmg|Essence of ether]] | Inhaled | 300 gp |
-| [[malice xdmg|Malice]] | Inhaled | 250 gp |
-| [[midnight tears xdmg|Midnight tears]] | Ingested | 1,500 gp |
-| [[oil of taggit xdmg|Oil of taggit]] | Contact | 400 gp |
-| [[pale tincture xdmg|Pale tincture]] | Ingested | 250 gp |
-| [[purple worm poison xdmg|Purple worm poison]] | Injury | 2,000 gp |
-| [[serpent venom xdmg|Serpent venom]] | Injury | 200 gp |
-| [[torpor xdmg|Torpor]] | Ingested | 600 gp |
-| [[truth serum xdmg|Truth serum]] | Ingested | 150 gp |
-| [[wyvern poison xdmg|Wyvern poison]] | Injury | 1,200 gp |
+| [[Assassin]] | Ingested | 150 gp |
+| [[Burnt Othur Fumes Xdmg]] | Inhaled | 500 gp |
+| [[Carrion Crawler Mucus Xdmg]] | Contact | 200 gp |
+| [[lolths-sting-xdmg (items)]] | Injury | 200 gp |
+| [[Essence of Ether Xdmg]] | Inhaled | 300 gp |
+| [[malice-xdmg (items)]] | Inhaled | 250 gp |
+| [[midnight-tears-xdmg (items)]] | Ingested | 1,500 gp |
+| [[oil-of-taggit-xdmg (items)]] | Contact | 400 gp |
+| [[pale-tincture-xdmg (items)]] | Ingested | 250 gp |
+| [[purple-worm-poison-xdmg (items)]] | Injury | 2,000 gp |
+| [[serpent-venom-xdmg (items)]] | Injury | 200 gp |
+| [[Torpor Xdmg]] | Ingested | 600 gp |
+| [[truth-serum-xdmg (items)]] | Ingested | 150 gp |
+| [[Wyvern Poison Xdmg]] | Injury | 1,200 gp |
 ^poisons
 
 ## 🔧 Deep Evaluation Improvements

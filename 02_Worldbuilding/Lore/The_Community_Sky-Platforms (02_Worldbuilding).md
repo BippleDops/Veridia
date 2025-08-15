@@ -1,10 +1,10 @@
 ---
 
-title: The Community Sky Platforms
-type: lore
+title: [[The Community Sky Platforms]]
+type: [[Lore]]
 tags:
 - lore
-- aethermoor
+- [[Aethermoor]]
 - active
 - bloodline
 created: '2025-08-14'
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -91,7 +91,7 @@ The Community Sky-Platforms can be understood as a multifaceted element that int
 ### Detailed Explanation
 The full nature of The Community Sky-Platforms involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of The Community Sky-Platforms trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -102,7 +102,7 @@ Connected to The Community Sky-Platforms are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view The Community Sky-Platforms through their own cultural lenses:
+Different [[Groups]] view The Community Sky-Platforms through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -171,7 +171,7 @@ The current state of The Community Sky-Platforms:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How The Community Sky-Platforms has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -204,7 +204,7 @@ Ways to incorporate The Community Sky-Platforms into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -225,7 +225,7 @@ How to adjust for different games:
 Ways The Community Sky-Platforms might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -244,7 +244,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -267,7 +267,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #the-community-sky-platforms
+*Tags*: [[#General]] #worldbuilding #the-community-sky-platforms
 
 ## Cultural Impact
 
@@ -278,7 +278,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - An heirloom has gone missing and truth emerges
 - A corpse reveals a betrayal about this place
 - A corpse reveals the truth about the government
-- A merchant needs help stealing before the new moon
+- A [[Merchant]] needs help stealing before the new moon
 
 ## Religious Observances
 

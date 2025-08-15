@@ -1,11 +1,28 @@
 ---
+
 title: Quest - The Root Network_1 (01_Adventures)
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 
 # Quest - The Root Network
 
@@ -112,7 +129,7 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 **[[Archdruid Thornweaver]]** - The primary quest giver who provides access to the root network and serves as the main contact for coordination and resources. His deep connection to the network allows him to provide guidance but also makes him vulnerable to corruption.
 
-**[[Root Speaker Vera Deepbark]]** - A specialist druid who serves as the party's guide to network navigation and plant communication. Her expertise is crucial for survival underground, but her fascination with the corruption may lead to dangerous risks.
+**[[Root-Speaker Vera Deepbark]]** - A specialist druid who serves as the party's guide to network navigation and plant communication. Her expertise is crucial for survival underground, but her fascination with the corruption may lead to dangerous risks.
 
 **[[Ranger Captain Orin Swiftarrow]]** - A surface contact who coordinates rescue operations and maintains communication with the party during their underground mission. He provides tactical support and ensures the party has supplies and backup.
 
@@ -120,9 +137,9 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 ### Antagonistic Forces
 
-**[[The Root Mind]]** - The collective intelligence that has emerged from the corrupted sections of the network. It possesses vast knowledge of the underground system and commands corrupted plant creatures, but its ultimate goals remain unclear.
+**[[The Root-Mind]]** - The collective intelligence that has emerged from the corrupted sections of the network. It possesses vast knowledge of the underground system and commands corrupted plant creatures, but its ultimate goals remain unclear.
 
-**[[Sorrow Root Nightbloom]]** - The corrupted druid whose experiments in [[The Synthesis Gardens]] have contributed significantly to the network's infection. She views the corruption as evolution rather than destruction.
+**[[Sorrow-Root Nightbloom (D&D_References)]]** - The corrupted druid whose experiments in [[The Synthesis Gardens]] have contributed significantly to the network's infection. She views the corruption as evolution rather than destruction.
 
 **[[The Strangling Vine]]** - A massive corrupted plant creature that serves as the Root-Mind's primary enforcer, capable of traveling through the network at incredible speed to attack intruders.
 
@@ -162,7 +179,7 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 **[[The Screaming Gardens]]** - Sections where corrupted plants emit psychic noise that drives intruders insane while masking the approach of hostile creatures.
 
-**[[The Synthesis Connections]]** - Direct links to [[The Synthesis Gardens]] where [[Sorrow Root Nightbloom]]'s experiments have contaminated the network with hybrid abominations.
+**[[The Synthesis Connections]]** - Direct links to [[The Synthesis Gardens]] where [[Sorrow-Root Nightbloom (D&D_References)]]'s experiments have contaminated the network with hybrid abominations.
 
 **[[The Dead Zones]]** - Areas where corruption has killed the roots entirely, creating void spaces that disrupt network communication and may hide unknown dangers.
 
@@ -427,3 +444,63 @@ Contextual improvement based on 12_Research
 
 ### Story Rewards
 - *[Reputation, allies, information]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

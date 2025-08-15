@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+- --
+
 # Audio Fit Report
 
 | File | World | Peak | Clips | Curated Path |

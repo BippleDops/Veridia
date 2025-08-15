@@ -1,7 +1,7 @@
 ---
 
-title: Marriage Counselor Tidal Harmony
-type: lore
+title: Marriage Counselor [[Tidal Harmony]]
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Marriage Counselor Tidal Harmony represents a crucial aspect of the world's hist
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

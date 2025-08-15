@@ -42,11 +42,11 @@ graph LR
 ## Notes
 - Travel time is expressed in days by default; underwater routes may use pressure-lock segments.
 - Realm-shift points are rare; consuming a charge from a shard or meeting ritual requirements may be necessary.
-- Resource availability fluctuates with the Living Economy; see [[03_Mechanics/Living_Economy_System.md|Living Economy System]].
+- Resource availability fluctuates with the Living Economy; see [[Living_Economy_System.md]].
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[World Events]]
 

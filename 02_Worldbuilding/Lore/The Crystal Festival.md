@@ -1,7 +1,7 @@
 ---
 
-title: The Crystal Festival
-type: Lore
+title: The [[Crystal Festival]]
+type: [[Lore]]
 tags:
 - lore
 - bloodline
@@ -26,13 +26,13 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
+[[location]]: '[[Crystal [[Festival Ground]]s]], [[Port Meridian]]'
 world: Aethermoor
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 event_type: Annual Festival turned Catastrophic Ritual
 duration: Originally 7 days, final year lasted 3 hours
-participants: Entire population of [[Port Meridian]] and neighboring regions
+participants: Entire population of [[Port Meridian]] and neighboring [[region]]s
 evaluated: '2025-08-14'
 improvements: 20
 ---
@@ -41,7 +41,7 @@ improvements: 20
 
 *The Celebration That Became a Chrysalis of Transformation*
 
-> *"What began as our most beloved tradition - the annual celebration of crystalline beauty and magical harmony - became the stage for the most profound transformation in our kingdom's history. The festival that had united our people for generations became the crucible that would either save or damn us all."*
+> *"What began as our most beloved tradition - the annual celebration of crystalline beauty and magical harmony - became the stage for the most profound transformation in our kingdom's history. The festival that had united our [[People]] for generations became the crucible that would either save or damn us all."*
 > — [[Festival Master Elena Brightcrystal]], Last Director of Traditional Celebrations
 
 ## 🔧 Deep Evaluation Improvements
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ The Crystal Festival represents the culmination of centuries of tradition in [[A
 
 For generations, the festival served as the cultural heart of [[Aethermoor]], providing a space where all social classes could celebrate together, where the kingdom's greatest artists could showcase their talents, and where the magical properties of crystal formations could be safely experienced by ordinary citizens. The event represented everything noble about the kingdom - creativity, inclusivity, wonder, and the harmonious relationship between mortal civilization and magical forces.
 
-However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
+However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[[[The [[Seven Shards]]]]|[[02 Worldbuilding]]/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
 
 The festival's transformation from beloved celebration to existential crisis serves as a metaphor for the kingdom's broader struggle between preserving cherished traditions and adapting to cosmic forces beyond mortal understanding. The events of the final Crystal Festival would reshape not only [[Aethermoor]] but the fundamental relationship between surface and underwater civilizations.
 
@@ -116,13 +116,13 @@ The Crystal Festival traces its origins to the early days of [[Aethermoor]]'s se
 
 Over the centuries, the simple gatherings evolved into increasingly elaborate celebrations as the kingdom's prosperity and artistic sophistication grew. The addition of competitive exhibitions, magical demonstrations, and cultural performances transformed the festival from a local observance into a kingdom-wide event that attracted participants and spectators from throughout the known world.
 
-The festival's growth paralleled [[Aethermoor]]'s development as a center of magical learning and crystal-based technology. Each year brought new innovations in crystal cultivation, magical artistry, and festival organization that made the celebrations more spectacular and meaningful. The event became a showcase for the kingdom's achievements and a symbol of its commitment to balancing magical advancement with cultural preservation.
+The festival's growth paralleled [[Aethermoor]]'s development as a center of magical learning and crystal-based technology. Each year brought new innovations in crystal cultivation, magical artistry, and festival [[Organization]] that made the celebrations more spectacular and meaningful. The event became a showcase for the kingdom's achievements and a symbol of its commitment to balancing magical advancement with [[Cultural Preservation]].
 
 The festival's significance increased dramatically after the discovery of the [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] and their connection to the crystalline formations throughout [[Aethermoor]]. Religious and magical authorities began to view the festival as more than entertainment - it became a crucial ritual that maintained harmony between mortal civilization and the cosmic forces embodied in the Shards.
 
 The establishment of the [[Crystal Festival Grounds]] as a permanent venue marked the festival's transition from a traveling celebration to a centralized institution. The construction of specialized facilities for magical demonstrations, artistic exhibitions, and large-scale gatherings reflected the event's importance to both the kingdom's economy and its cultural identity.
 
-The final years before the catastrophic festival saw increasing evidence of supernatural influence affecting the celebrations. Participants reported unusual dreams, spontaneous magical manifestations, and a growing sense that the festival was becoming something more than a traditional celebration - though few understood the true nature of these changes.
+The final years before the catastrophic festival saw increasing [[Evidence]] of [[Supernatural Influence]] affecting the celebrations. Participants reported unusual dreams, spontaneous magical manifestations, and a growing sense that the festival was becoming something more than a traditional celebration - though few understood the true nature of these changes.
 
 ## Cultural Significance and Impact
 
@@ -130,7 +130,7 @@ The Crystal Festival served as the cultural cornerstone of [[Aethermoor]] societ
 
 The festival's educational function was equally important as its entertainment value. Magical academies used the event to demonstrate new techniques and theories, while master craftsmen shared knowledge with apprentices and aspiring artisans. The festival served as the kingdom's primary venue for cultural transmission, ensuring that traditional skills and knowledge were preserved and evolved across generations.
 
-The economic impact of the festival extended far beyond the immediate celebration period. Preparation for the annual event provided year-round employment for thousands of artisans, performers, and support staff, while the influx of visitors during festival week generated significant revenue for merchants, innkeepers, and service providers throughout [[Port Meridian]] and the surrounding region.
+The economic impact of the festival extended far beyond the immediate celebration period. Preparation for the annual event provided year-round employment for thousands of artisans, performers, and support staff, while the influx of visitors during festival week generated significant revenue for [[Merchant]]s, innkeepers, and service providers throughout [[Port Meridian]] and the surrounding region.
 
 Religious and spiritual dimensions of the festival reflected [[Aethermoor]]'s complex relationship with magical forces and crystalline entities. Many citizens viewed the festival as a form of worship or communion with the cosmic powers that influenced their daily lives, while others approached it as an opportunity for personal magical development and spiritual growth.
 
@@ -146,15 +146,15 @@ During the festival period, the concentration of crystalline formations and incr
 
 **Crystal Resoce**: Spells that involve light, illusion, or divination gain advantage on spell attack rolls and increase their damage or effect duration by 50%. Spells cast within crystal formation areas can be extended without using higher spell slots.
 
-**Magical Overcharge**: Characters who cast multiple spells during festival events must make Constitution saving throws (DC 10 + spell level) to avoid magical exhaustion. Failure results in temporary ability score reduction and vulnerability to magical effects.
+**Magical Overcharge**: Characters who cast multiple spells during festival events must make Constitution saving throws (DC 10 + spell level) to a[[Void Magic]]al [[Exhaustion]]. Failure results in temporary ability score reduction and vulnerability to magical effects.
 
-**Collective Casting**: Groups of spellcasters can combine their efforts to create spectacular displays or achieve effects beyond normal spell capabilities. These collaborative castings require coordination checks and carry risks of magical feedback that can affect all participants.
+**Collective Casting**: [[Groups]] of spellcasters can combine their efforts to create spectacular displays or achieve effects beyond normal spell capabilities. These collaborative castings require coordination checks and carry risks of magical feedback that can affect all participants.
 
-### Transformation Mechanics
+### [[Transformation Mechanics]]
 
 The final Crystal Festival introduced corruption mechanics as [[Vex Shadowthorn]]'s ritual began affecting participants:
 
-**Crystal Corruption Exposure**: Citizens attending the corrupted festival gain corruption points based on their proximity to ritual centers and duration of exposure. Corruption accumulates slowly during normal festival activities but accelerates dramatically during ritual events.
+**[[Crystal Corruption]] Exposure**: Citizens attending the corrupted festival gain corruption points based on their proximity to ritual centers and duration of exposure. Corruption accumulates slowly during normal festival activities but accelerates dramatically during ritual events.
 
 **Resistance and Vulnerability**: Characters with strong magical abilities or crystal-based equipment show increased resistance to unwanted transformation but may also be more susceptible to certain ritual effects. Mundane citizens are more easily affected but also more easily restored once the source of corruption is removed.
 
@@ -170,7 +170,7 @@ During the festival's early period, a spontaneous magical event occurred when mu
 
 ### The Artist's Revolution (267 years ago)
 
-A group of radical artists attempted to use the festival as a platform for political protest, creating magical performances that criticized the kingdom's leadership and social structure. The government's response established precedents for balancing artistic freedom with public safety during large-scale magical events.
+A group of radical artists attempted to use the festival as a platform for political protest, creating magical performances that criticized the kingdom's leadership and social structure. The government's response established precedents for balancing artistic freedom with [[Public Safety]] during large-scale magical events.
 
 ### The Shard Resoce Incident (156 years ago)
 
@@ -184,7 +184,7 @@ The first recorded interaction between festival crystal formations and one of th
 
 The last traditional director of Crystal Festival operations, Elena dedicated her life to preserving the festival's cultural significance while adapting to changing magical and political circumstances. Her archives contain the most complete documentation of festival traditions and the gradual changes that preceded the final catastrophic celebration.
 
-### The Crystal Artisans Guild
+### [[The Crystal Artisans Guild]]
 
 The primary organization responsible for creating the spectacular crystal formations, magical displays, and artistic installations that defined each year's festival. Guild members possessed specialized knowledge of crystal cultivation and magical enhancement that made the festival's unique effects possible.
 
@@ -232,9 +232,9 @@ The Crystal Festival is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Crystal Festival as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Festival.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Cultural Impact
 

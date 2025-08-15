@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
 
-# [[ghast gravecaller xmm|Ghast Gravecaller]]
+# [[ghast-gravecaller-xmm (undead)]]
 *Source: Monster Manual (2024) p. 130*  
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
@@ -94,7 +94,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "cr": "6"
 "traits":
   - "desc": "Constitution Saving Throw: DC 13, any creature that starts its turn\
-      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the ghast. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this ghast's Stench for 24 hours."
@@ -111,8 +111,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
       \ 15 (2d10 + 4) Necrotic damage, and the target has the [[conditions#frightened|Frightened]]\
     "name": "Horrific Necrosis"
   - "desc": "The ghast casts one of the following spells, requiring no Material components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[speak with dead xphb|Speak\]]
-      \ with Dead]], [[thaumaturgy xphb|Thaumaturgy]]"
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[Speak With Dead Xphb]]
+      \ with Dead]], [[Thaumaturgy Xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

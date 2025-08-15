@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 1 gp
 - **Weight**: 7.0 lbs.
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against [[extreme cold xdmg|extreme cold]] (see the "Dungeon Master's Guide").
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against [[extreme-cold-xdmg (traps-hazards)]] (see the "Dungeon Master's Guide").
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
 

@@ -35,9 +35,9 @@ world: Both
 # Drow High Magic
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[elf xphb|Elf]]
+**Prerequisite**: [[elf-xphb (races)]]
 
-You learn more of the magic typical of dark elves. You learn the [[detect magic xphb|detect magic]] spell and can cast it at will, without expending a spell slot. You also learn [[levitate xphb|levitate]] and [[dispel magic xphb|dispel magic]], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
+You learn more of the magic typical of dark elves. You learn the [[detect-magic-xphb (spells)]] spell and can cast it at will, without expending a spell slot. You also learn [[levitate-xphb (spells)]] and [[dispel-magic-xphb (spells)]], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+- --
+
 # Asset Expansion Complete Report
 
 Generated: ${new Date().toISOString()}
@@ -242,3 +247,18 @@ This represents a **10x expansion** over the previous system, with dramatically 
 The asset generation system is now fully expanded and ready to create a complete multimedia experience for your TTRPG campaigns. Every possible asset type is covered, organized, and prepared for either AI generation or manual creation.
 
 **The vault is now equipped with one of the most comprehensive asset generation systems ever created for TTRPGs!**
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

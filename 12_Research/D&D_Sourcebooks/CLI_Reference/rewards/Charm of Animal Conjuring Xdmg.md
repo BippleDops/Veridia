@@ -34,7 +34,7 @@ world: Both
 
 # Charm of Animal Conjuring
 
-This Charm allows you to cast [[conjure animals xphb|Conjure Animals]]. Once used three times, the Charm vanishes from you.
+This Charm allows you to cast [[conjure-animals-xphb (spells)]]. Once used three times, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
 

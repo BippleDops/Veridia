@@ -44,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cyclops-oracle-xmm-cyclops-oracle-xmm.svg)
 
-# [[cyclops oracle xmm|Cyclops Oracle]]
+# [[cyclops-oracle-xmm (giant)]]
 *Source: Monster Manual (2024) p. 88*  
 
 Cyclops oracles gaze through history to learn hidden truths. Many share these secrets with those who aid them in correcting the mistakes of the past.
@@ -105,19 +105,19 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 22 (3d10 + 6) Radiant damage."
     "name": "Radiant Strike"
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 17 (2d10 + 6) Radiant\
-      \ damage, and the target has [[disadvantage xphb|Disadvantage]]\
+      \ damage, and the target has [[Advantage Xphb]]\
       \ on attack rolls until the end of the cyclops's next turn."
     "name": "Flash of Light"
   - "desc": "The cyclops casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \n2/day each: [[arcane eye xphb|Arcane Eye]],\
-      \ [[detect magic xphb|Detect Magic]], [[locate object xphb|Locate Object]]\n\
-      \n1/day: [[legend lore xphb|Legend Lore]]"
+      \n2/day each: [[Arcane Eye Xphb]],\
+      \ [[detect-magic-xphb (spells)]], [[locate-object-xphb (spells)]]\n\
+      \n1/day: [[legend-lore-xphb (spells)]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "Trigger: The cyclops or an ally it can see makes a [[d20 test xphb|D20 Test]].\
+  - "desc": "Trigger: The cyclops or an ally it can see makes a [[d20-test-xphb (variant-rules)]].\
       \ _Response:_ The cyclops rolls d20 and chooses whether to use that roll in\
-      \ place of the d20 rolled for the [[d20 test xphb|D20 Test]]."
+      \ place of the d20 rolled for the [[d20-test-xphb (variant-rules)]]."
     "name": "Portent (Recharge 4-6)"
 "source":
   - "XMM"

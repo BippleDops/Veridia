@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hadrosaurus-mpmm-hadrosaurus-mpmm.svg)
 
-# [[hadrosaurus mpmm|Hadrosaurus]]
+# [[Hadrosaurus Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.

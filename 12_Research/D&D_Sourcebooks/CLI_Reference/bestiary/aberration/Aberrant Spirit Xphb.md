@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-xphb-aberrant-spirit-xphb.svg)
 
-# [[aberrant spirit xphb|Aberrant Spirit]]
+# [[Aberrant Spirit Xphb]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock

@@ -35,7 +35,7 @@ world: Both
 ---
 
 # Greater Silver Sword
-*Weapon ([[greatsword xphb|greatsword]]), legendary (requires attunement by a creature that has psionic ability)*  
+*Weapon ([[Greatsword Xphb]]), legendary (requires attunement by a creature that has psionic ability)*  
 ![](/03_Mechanics/CLI/items/img/greater-silver-sword.webp#right)
 
 - **Damage**: 2d6 slashing

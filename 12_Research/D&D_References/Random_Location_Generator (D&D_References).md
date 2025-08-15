@@ -52,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is blackmailing a witness for revenge
 - A map reveals a betrayal about a local noble
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

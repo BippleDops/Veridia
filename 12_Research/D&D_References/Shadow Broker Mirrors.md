@@ -141,11 +141,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 #### Reflection Scrying
 **Remote Viewing Magic**
-- **[[02 Worldbuilding/Spells/Mirror Window|02 Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
-- **[[02 Worldbuilding/Spells/Echo Reflection|02 Worldbuilding/Spells/Echo Reflection]]**: Capture and replay past conversations near mirrors
-- **[[02 Worldbuilding/Spells/Truth Reflection|02 Worldbuilding/Spells/Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
-- **[[02 Worldbuilding/Spells/Memory Mirror|02 Worldbuilding/Spells/Memory Mirror]]**: Show important memories of people who look into them
-- **[[02 Worldbuilding/Spells/Future Glimpse|02 Worldbuilding/Spells/Future Glimpse]]**: Brief visions of possible futures through scrying
+- **[[Mirror Window]]**: Turn any reflective surface into viewing portal
+- **[[Echo Reflection]]**: Capture and replay past conversations near mirrors
+- **[[Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
+- **[[Memory Mirror]]**: Show important memories of people who look into them
+- **[[spells]]**: Brief visions of possible futures through scrying
 
 #### Mirror Network
 **Infrastructure-Based Intelligence**
@@ -213,8 +213,8 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 ### Government Counter-Intelligence
 **Official Response**
-- **[[Counter Mirror Task Force]]**: Specialized unit targeting reflection surveillance
-- **[[Anti Scrying Division]]**: Government department developing counter-surveillance
+- **[[Counter-Mirror Task Force]]**: Specialized unit targeting reflection surveillance
+- **[[Anti-Scrying Division (D&D_References)]]**: Government department developing counter-surveillance
 - **[[Privacy Protection Agency]]**: Civilian organization opposing mirror surveillance
 - **[[Legal Reform Movemen|02 Worldbuilding/Lore/Legal Reform Movemen]]**: Politicians working to ban mirror spying
 - **[[Traditional Spy Networks]]**: Government intelligence angry about being outperformed
@@ -229,11 +229,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 ### Technical Countermeasures
 **Anti-Mirror Technology**
-- **[[Mirror Breaking Crystals]]**: Magical devices that disrupt reflection scrying
-- **[[Anti Reflection Wards]]**: Protective magic preventing mirror surveillance
+- **[[Mirror-Breaking Crystals]]**: Magical devices that disrupt reflection scrying
+- **[[Anti-Reflection Wards]]**: Protective magic preventing mirror surveillance
 - **[[Scrying Scramblers]]**: Devices that confuse and misdirect mirror magic
-- **[[Truth Shielding Illusions]]**: False information planted for mirror networks
-- **[[Counter Mirror Agents]]**: Specialists trained in defeating reflection surveillance
+- **[[Shield]]**: False information planted for mirror networks
+- **[[Counter-Mirror Agents]]**: Specialists trained in defeating reflection surveillance
 
 ### Social Opposition
 **Public Relations Problems**
@@ -347,10 +347,10 @@ The organization has enough compromising information on government officials to 
 Advanced mirror magic research is developing ability to trap people's consciousness in mirrors while their bodies are controlled by reflections, creating perfect puppet network.
 
 ### Opposing Organizations
-- [[Counter Mirror Task Force]] - Government unit targeting mirror surveillance
+- [[Counter-Mirror Task Force]] - Government unit targeting mirror surveillance
 - [[Privacy Protection Agency]] - Civilian organization opposing surveillance
 - [[The Whisper Network]] - Traditional human intelligence competition
-- [[Anti Scrying Division]] - Official counter-surveillance department
+- [[Anti-Scrying Division (D&D_References)]] - Official counter-surveillance department
 - [[Religious Privacy Advocates]] - Spiritual opposition to mirror spying
 
 ---

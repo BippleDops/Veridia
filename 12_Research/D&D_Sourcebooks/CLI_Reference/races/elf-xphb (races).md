@@ -57,14 +57,14 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness xphb|Darkness]] |
-| High Elf | You know the [[prestidigitation xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft xphb|Druidcraft]] cantrip. | [[longstrider xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb (spells)]] cantrip. | [[faerie-fire-xphb (spells)]] | [[darkness-xphb (variant-rules)]] |
+| High Elf | You know the [[Prestidigitation Xphb]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[Misty Step Xphb]] |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft-xphb (spells)]] cantrip. | [[longstrider-xphb (spells)]] | [[Pass Without Trace Xphb]] |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [[advantage xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
+You have [[Advantage Xphb]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
 
 ### Keen Senses
 
@@ -108,7 +108,7 @@ High elves have been infused with the magic of crossings between the Feywild and
 
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
-![[/03 Mechanics/CLI/races/img/148-05-022-elf-city.webp#center|A ship departs from a city built by high elves]]
+![[Races]]
 
 ## Player-Facing Summary
 

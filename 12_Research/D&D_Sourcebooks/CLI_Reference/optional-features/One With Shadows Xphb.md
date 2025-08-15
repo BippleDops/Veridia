@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-While you're in an area of [[dim light xphb|Dim Light]] or [[darkness xphb|Darkness]], you can cast [[invisibility xphb|Invisibility]] on yourself without expending a spell slot.
+While you're in an area of [[Light Xphb]] or [[darkness-xphb (variant-rules)]], you can cast [[see-invisibility-xphb (spells)]] on yourself without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

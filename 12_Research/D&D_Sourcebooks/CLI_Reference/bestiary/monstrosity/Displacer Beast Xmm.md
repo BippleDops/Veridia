@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-displacer-beast-xmm-displacer-beast-xmm.svg)
 
-# [[displacer beast xmm|Displacer Beast]]
+# [[Displacer Beast Xmm]]
 *Source: Monster Manual (2024) p. 98*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -99,7 +99,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
       \ if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Avoidance"
-  - "desc": "Attack rolls against the displacer beast have [[disadvantage xphb|Disadvantage]],\
+  - "desc": "Attack rolls against the displacer beast have [[Advantage Xphb]],\
       \ since it projects an illusion that makes it appear to be near its actual location.\
       \ This trait is suppressed while the displacer beast has the [[conditions#Incapacitated|Incapacitated]]\
     "name": "Displacement"

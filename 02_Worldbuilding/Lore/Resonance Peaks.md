@@ -1,7 +1,7 @@
 ---
 
-title: Resoce Peaks
-type: Lore
+title: [[Resoce Peaks]]
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -29,7 +29,7 @@ created_by: auto-stub
 danger_level: High
 expanded: 2025-08-11
 operational_status: Active
-significance: Regional Critical Infrastructure
+significance: [[region]]al Critical Infrastructure
 technology_type: Harmonic Amplification Network
 updated: '2025-08-13T12:34:16.179623+00:00'
 world: Aquabyssos
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ improvements: 20
 
 ## Overview
 
-The Resoce Peaks represent one of Aquabyssos' most sophisticated technological achievements—a network of engineered underwater mountain formations that harness and amplify sound, vibration, and harmonic frequencies for various industrial, communications, and defensive applications. These towering structures combine natural geological formations with advanced crystal technology to create massive resoce chambers capable of producing and manipulating sound waves of extraordinary power and precision.
+The Resoce Peaks represent one of Aquabyssos' most sophisticated technological achievements—a network of engineered underwater mountain formations that harness and amplify sound, vibration, and harmonic frequencies for various industrial, communications, and defensive applications. These towering structures combine natural geological formations with advanced [[Crystal Technology]] to create massive resoce chambers capable of producing and manipulating sound waves of extraordinary power and precision.
 
 Located at strategic points throughout the underwater realm, each Peak serves as both a functional facility and a testament to the engineering capabilities of Aquabyssos civilization. The Peaks work individually and as a coordinated network, allowing for complex acoustic operations that span vast distances and penetrate areas where conventional communication and technology prove insufficient.
 
@@ -128,7 +128,7 @@ The Resoce Peaks begin as natural underwater mountain formations that are extens
 
 **Acoustic Optimization:**
 Every aspect of Peak construction focuses on creating perfect acoustic conditions:
-- Mathematical precision in chamber dimensions to achieve desired resoce frequencies
+- Mathematical precision in chamber dimensions to achieve de[[Sire]]d resoce frequencies
 - Surface treatments and textures that enhance or dampen specific sound characteristics
 - Strategic placement of sound barriers and redirectors to control acoustic flow
 - Integration of natural cave systems and geological features to supplement engineered spaces
@@ -136,18 +136,18 @@ Every aspect of Peak construction focuses on creating perfect acoustic condition
 
 ### Crystal Technology Integration
 
-**Resoce Crystal Networks:**
+**Resoce [[Crystal Network]]s:**
 The heart of each Peak's functionality lies in its integrated crystal systems, which amplify, focus, and direct acoustic energy with supernatural precision.
 
 **Crystal Classification and Function:**
 - **Primary Amplification Crystals**: Large formations that boost incoming sound waves exponentially
 - **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies  
-- **Dimensional Resoce Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
+- **[[Dimensional Resoce]] Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
 - **Safety Regulation Crystals**: Protective crystals that prevent dangerous resoce buildup
 - **Communication Interface Crystals**: Crystals designed for two-way communication and signal processing
 
 **Crystal Cultivation and Maintece:**
-Growing and maintaining the crystal networks requires sophisticated bio-magical techniques:
+Growing and maintaining [[The Crystal Networks]] requires sophisticated bio-magical techniques:
 - Controlled growth environments that produce crystals with exact acoustic properties
 - Regular tuning and calibration to maintain frequency accuracy
 - Replacement cycles for crystals that become damaged or lose effectiveness
@@ -163,7 +163,7 @@ Complex control systems manage the enormous power and precision required for Pea
 - **Frequency Generation Arrays**: Equipment that creates initial sound waves for amplification
 - **Harmonic Modulation Systems**: Technology that adjusts and shapes acoustic output
 - **Safety Monitoring Networks**: Continuous surveillance systems preventing dangerous operations
-- **Communication Interfaces**: Systems enabling coordination between operators and external organizations
+- **Communication Interfaces**: Systems enabling coordination between operators and external [[Organization]]s
 - **Emergency Shutdown Systems**: Rapid response systems that halt operations during dangerous conditions
 
 **Operational Precision Requirements:**
@@ -182,9 +182,9 @@ The Peaks' primary function involves providing communication capabilities across
 **Communication Applications:**
 - **Inter-City Communication**: Reliable communication links between Aquabyssos and distant settlements
 - **Emergency Broadcasting**: Rapid dissemination of emergency information across wide areas
-- **Military Coordination**: Secure communication networks supporting defense and security operations
+- **Military Coordination**: Secure [[Communication Networks]] supporting defense and security operations
 - **Commercial Communication**: Business communication supporting trade and economic coordination
-- **Scientific Data Transmission**: High-capacity data links supporting research and technical cooperation
+- **Scientific [[data]] Transmission**: High-capacity data links supporting research and technical cooperation
 
 **Signal Processing and Enhancement:**
 Advanced signal processing capabilities enable sophisticated communication services:
@@ -221,7 +221,7 @@ The Peaks serve important roles in Aquabyssos defense and security operations:
 
 **Military Applications:**
 - **Perimeter Detection**: Long-range acoustic monitoring detecting approaching threats
-- **Communication Jamming**: Disruption of hostile communication systems through acoustic interference
+- **Communication Jamming**: Disruption of hostile [[Communication Systems]] through acoustic interference
 - **Area Denial**: Creation of acoustic barriers that prevent hostile access to protected areas
 - **Early Warning Systems**: Detection and analysis of unusual acoustic signatures indicating potential threats
 - **Coordination Support**: Communication networks enabling rapid military response and coordination
@@ -250,7 +250,7 @@ The Peaks provide unique research capabilities for various scientific discipline
 Recent research focuses on the Peaks' potential for dimensional interaction:
 - Communication experiments attempting to establish contact with [[Aethermoor]]
 - Research into acoustic effects on dimensional stability and boundary conditions  
-- Investigation of harmonic frequencies that may facilitate dimensional travel
+- Investigation of harmonic frequencies that may facilitate [[Dimensional Travel]]
 - Studies of acoustic phenomena that appear to transcend normal physical limitations
 - Development of new technologies based on cross-dimensional acoustic principles
 
@@ -261,7 +261,7 @@ The Resoce Peaks operate as a coordinated network, enabling capabilities far bey
 
 **Network Coordination Elements:**
 - **Central Command Facility**: Primary coordination center managing network-wide operations
-- **Regional Control Nodes**: Secondary facilities coordinating groups of geographically related Peaks
+- **Regional Control Nodes**: Secondary facilities coordinating [[Groups]] of geographically related Peaks
 - **Automated Synchronization Systems**: Technology ensuring precise timing coordination across all facilities
 - **Emergency Network Protocols**: Backup systems maintaining network coordination during crisis situations
 - **Inter-Peak Communication**: Dedicated communication channels enabling coordination between individual facilities
@@ -280,11 +280,11 @@ Network coordination enables sophisticated operations:
 Peak operations require highly trained specialists with expertise in multiple technical disciplines:
 
 **Primary Specializations:**
-- **Resoce Engineers**: Experts in acoustic engineering and frequency manipulation ([[Senior Resoce Engineer Harmony Deepnote]])
+- **Resoce Engineers**: Experts in acoustic engineering and [[[[Frequency Manipulatio]]n]] ([[Senior Resoce Engineer Harmony Deepnote]])
 - **Crystal Cultivation Specialists**: Experts in growing and maintaining crystal networks ([[Crystal Master Chorus Gemgrow]])
 - **Geological Integration Technicians**: Specialists in mountain engineering and structural maintece ([[Geology Specialist Stone Soundshape]])
 - **Network Coordination Operators**: Personnel managing multi-Peak operations and communication ([[Network Coordinator Wave Linkmaster]])
-- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[Safety Director Storm Shieldvoice]])
+- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[Safety Director Storm [[Shield]]voice]])
 
 **Training and Professional Development:**
 Peak personnel undergo extensive training and continuous professional development:
@@ -302,8 +302,8 @@ Peak operations involve enormous energies and potential hazards requiring sophis
 **Safety Measures:**
 - **Acoustic Exposure Limits**: Strict limits on personnel exposure to dangerous sound levels
 - **Structural Integrity Monitoring**: Continuous monitoring of facility structural condition
-- **Emergency Response Procedures**: Detailed procedures for responding to various emergency scenarios
-- **Environmental Protection**: Measures preventing Peak operations from harming marine life or ecosystem
+- **[[Emergency Response Procedures]]**: Detailed procedures for responding to various emergency scenarios
+- **[[Environmental Protection]]**: Measures preventing Peak operations from harming marine life or ecosystem
 - **Equipment Safety Standards**: Rigorous standards ensuring all equipment meets safety requirements
 
 **Quality Assurance:**
@@ -404,9 +404,9 @@ Plans for expanding the Peak network to increase capabilities and coverage:
 - Enhanced Peak capabilities providing more sophisticated services
 - International cooperation extending network capabilities to allied civilizations
 - Cross-dimensional integration enabling direct acoustic connection with [[Aethermoor]]
-- Mobile Peak technology enabling temporary acoustic capabilities in new locations
+- Mobile Peak technology enabling temporary acoustic capabilities in new [[location]]s
 
-**Technology Transfer and Commercialization:**
+**[[Technology Transfer]] and Commercialization:**
 Peak innovations create opportunities for broader application and economic benefit:
 - Commercial applications of acoustic technology for private industry
 - Technology licensing providing revenue and expanding Peak influence
@@ -421,7 +421,7 @@ Peak operations create distinctive professional cultures and social effects:
 
 **Cultural Impact:**
 - Professional identity and status associated with Peak work
-- Educational priorities and career paths focused on acoustic sciences
+- Educational priorities and career [[path]]s focused on acoustic sciences
 - Cultural traditions and practices related to sound and harmony
 - Community identity tied to Peak capabilities and achievements
 - International recognition enhancing cultural pride and diplomatic standing
@@ -464,7 +464,7 @@ Peak communication capabilities create unique adventure opportunities:
 - **Long-Distance Coordination**: Managing communication for expeditions or operations in remote areas
 - **Diplomatic Communication**: Supporting diplomatic negotiations requiring secure long-distance communication
 - **Intelligence Operations**: Using Peak capabilities for gathering or transmitting sensitive information
-- **Cultural Exchange**: Facilitating communication supporting cultural and educational exchange programs
+- **[[Cultural Exchange]]**: Facilitating communication supporting cultural and educational exchange programs
 
 ### Security and Defense Adventures
 
@@ -509,11 +509,11 @@ Involvement with Peak operations provides numerous opportunities for character d
 - [[Resoce Chamber]] - Related facility providing specialized acoustic research capabilities
 - [[Tidal Chambers]] - Complementary technology providing hydraulic capabilities
 - [[Crystal Forest]] - Source of crystals used in Peak operations
-- [[The Deepwatch Guard]] - Security organization protecting Peak facilities
-- [[02 Worldbuilding/People/Master Resoce Architect Echo Stonewhisper|02 Worldbuilding/People/Master Resoce Architect Echo Stonewhisper]] - Chief Designer of Peak network
-- [[Senior Resoce Engineer Harmony Deepnote|02 Worldbuilding/People/Senior Resoce Engineer Harmony Deepnote]] - Acoustic engineering specialist
+- [[The [[Deepwatch Guard]]]] - Security organization protecting Peak facilities
+- [[People]] - Chief Designer of Peak network
+- [[Senior Resoce Engineer Harmony Deepnote|[[02 Worldbuilding]]/People/Senior Resoce Engineer Harmony Deepnote]] - Acoustic engineering specialist
 - [[Crystal Master Chorus Gemgrow|02 Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
-- [[02 Worldbuilding/People/Geology Specialist Stone Soundshape|02 Worldbuilding/People/Geology Specialist Stone Soundshape]] - Mountain engineering specialist
+- [[People]] - Mountain engineering specialist
 - [[Network Coordinator Wave Linkmaster|02 Worldbuilding/People/Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
 - [[Safety Director Storm Shieldvoice|02 Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
 
@@ -527,11 +527,11 @@ Resoce Peaks is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Resoce Peaks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Peaks.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

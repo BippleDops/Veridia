@@ -34,7 +34,7 @@ world: Both
 # Nonplayer Character
 *Source: Player's Handbook (2024) p. 371. Available in the SRD and the Free Rules (2024)* 
 
-A nonplayer character (NPC) is a [[monster xphb|monster]] that has a personal name and a distinct personality.
+A nonplayer character (NPC) is a [[Charm Monster Xphb]] that has a personal name and a distinct personality.
 
 ## 🔧 Deep Evaluation Improvements
 

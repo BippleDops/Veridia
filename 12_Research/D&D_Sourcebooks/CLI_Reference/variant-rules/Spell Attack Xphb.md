@@ -34,7 +34,7 @@ world: Both
 # Spell Attack
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A spell attack is an attack roll made as part of a spell or another [[magical effect xphb|magical effect]].
+A spell attack is an attack roll made as part of a spell or another [[magical-effect-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

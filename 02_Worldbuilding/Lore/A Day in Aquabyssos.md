@@ -1,6 +1,6 @@
 ---
-title: A Day in Aquabyssos
-type: Lore
+title: A Day in [[Aquabyssos]]
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -38,12 +38,12 @@ A Day in Aquabyssos represents a significant element within the campaign world, 
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -64,5 +64,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

@@ -38,16 +38,16 @@ world: Both
 
 | dice: d20 | Special Creatures |
 |-----------|-------------------|
-| 1 | 1 [[barlgura xmm|Barlgura]] |
-| 2-5 | `3d6` [[dretch xmm|Dretches]] |
-| 6-8 | `2d6` [[ghoul xmm|Ghouls]] |
-| 9-10 | `2d6` [[gnoll witherling mpmm|Gnoll Witherlings]] |
-| 11 | 1 [[hezrou xmm|Hezrou]] |
-| 12-13 | `d4` [[leucrotta mpmm|Leucrottas]] |
-| 14-16 | `2d6` [[manes xmm|Manes]] |
-| 17-18 | `2d4` [[maw demon mpmm|Maw Demons]] |
-| 19 | 1 [[shoosuva mpmm|Shoosuva]] |
-| 20 | `d3` [[troll xmm|Trolls]] |
+| 1 | 1 [[Barlgura Xmm]] |
+| 2-5 | `3d6` [[Dretch Xmm]] |
+| 6-8 | `2d6` [[ghoul-xmm (undead)]] |
+| 9-10 | `2d6` [[gnoll-witherling-mpmm (undead)]] |
+| 11 | 1 [[Hezrou Xmm]] |
+| 12-13 | `d4` [[leucrotta-mpmm (monstrosity)]] |
+| 14-16 | `2d6` [[Manes Xmm]] |
+| 17-18 | `2d4` [[Maw Demon Mpmm]] |
+| 19 | 1 [[shoosuva-mpmm (fiend)]] |
+| 20 | `d3` [[Troll Xmm]] |
 ^gnoll-war-band-special-creatures
 
 ## 🔧 Deep Evaluation Improvements

@@ -37,12 +37,12 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sentinel-shield-xdmg-sentinel-shield-xdmg.svg)
 
 # Sentinel Shield
-*Armor ([[shield xphb|shield]]), uncommon*  
+*Armor ([[Shield]]), uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls and Wisdom ([[skills#Perception|Perception]]) checks. The Shield is emblazoned with a symbol of an eye.
+While holding this Shield, you have [[Advantage Xphb]] on [[Initiative Xphb]] rolls and Wisdom ([[skills#Perception|Perception]]) checks. The Shield is emblazoned with a symbol of an eye.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the SRD and the Free Rules (2024)*
 

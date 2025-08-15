@@ -59,10 +59,10 @@ If the attack hits, the weapon unleashes a thunderclap audible out to 300 feet. 
 
 ## Giant's Bane
 
-While you are attuned to the weapon and wearing either a [[belt of giant strength xdmg|Belt of Giant Strength]] or [[gauntlets of ogre power xdmg|Gauntlets of Ogre Power]] to which you are also attuned, you gain the following benefits:
+While you are attuned to the weapon and wearing either a [[giant]] or [[Gauntlets of Ogre Power Xdmg]] to which you are also attuned, you gain the following benefits:
 
 - **Giants' Bane.** When you roll a 20 on the `d20` for an attack roll made with this weapon against a Giant, the creature must succeed on a DC 17 Constitution saving throw or die.  
-- **Might of Giants.** The Strength score bestowed by your [[belt of giant strength xdmg|Belt of Giant Strength]] or [[gauntlets of ogre power xdmg|Gauntlets of Ogre Power]] increases by 4, to a maximum of 30.  
+- **Might of Giants.** The Strength score bestowed by your [[giant]] or [[Gauntlets of Ogre Power Xdmg]] increases by 4, to a maximum of 30.  
 
 **Variants**:
 - [Maul of Thunderbolts](#Maul%20of%20Thunderbolts)

@@ -117,9 +117,9 @@ nriched: true -->
 
 - **Enemy**: [[Quest the Pretender.png]]
 - **Enemy**: [[Session 4]]
-- **Friend**: [[High Techno Priest Lumina Skyweaver]]
-- **Sibling**: [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg]]
-- **Student**: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
+- **Friend**: [[High Techno-Priest Lumina Skyweaver]]
+- **Sibling**: [[Npc]]
+- **Student**: [[Npc]]
 
 ## 12_Research Specific Content
 

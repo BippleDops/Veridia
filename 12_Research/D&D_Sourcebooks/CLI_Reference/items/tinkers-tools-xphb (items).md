@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [[musket xphb|Musket]], [[pistol xphb|Pistol]], [[bell xphb|Bell]], [[bullseye lantern xphb|Bullseye Lantern]], [[flask xphb|Flask]], [[hooded lantern xphb|Hooded Lantern]], [[hunting trap xphb|Hunting Trap]], [[lock xphb|Lock]], [[manacles xphb|Manacles]], [[mirror xphb|Mirror]], [[shovel xphb|Shovel]], [[signal whistle xphb|Signal Whistle]], [[tinderbox xphb|Tinderbox]]  
+- **Craft.** [[Musket Xphb]], [[pistol-xphb (items)]], [[Bell Xphb]], [[bullseye-lantern-xphb (items)]], [[Flask Xphb]], [[Hooded Lantern Xphb]], [[Hunting Trap Xphb]], [[lock-xphb (items)]], [[Manacles Xphb]], [[mirror-xphb (items)]], [[shovel-xphb (items)]], [[Signal Whistle Xphb]], [[Tinderbox Xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

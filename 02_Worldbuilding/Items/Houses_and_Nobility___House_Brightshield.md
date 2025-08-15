@@ -114,7 +114,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be: - [[Houses_and_Nobility   House Brightshield]]...
+Last known to be: - [[Shield]]...
 
 ### Accessibility
 - How difficult to obtain

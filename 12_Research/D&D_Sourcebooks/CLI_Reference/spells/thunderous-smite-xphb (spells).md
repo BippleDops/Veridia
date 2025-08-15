@@ -45,7 +45,7 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[list spells classes paladin|Paladin]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 334*
 
@@ -93,3 +93,17 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

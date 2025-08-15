@@ -1,7 +1,7 @@
 ---
 
-title: Memoriam   The Forgotten Continent
-type: Location
+title: [[Memoriam]]   The Forgotten Continent
+type: [[location]]
 tags:
 - both
 - quest
@@ -16,7 +16,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.641569+00:00'
@@ -32,7 +32,7 @@ improvements: 20
 
 # Memoriam - The Forgotten Continent
 
-> *"I know I've written about this place before, but I can't find my notes. Each time I investigate, I discover evidence of previous attempts. How many times have I been here?"*
+> *"I know I've written about this place before, but I can't find my notes. Each [[Time]] I investigate, I discover [[Evidence]] of previous attempts. How many times have I been here?"*
 > — Journal found with no author identification
 
 ## 🔧 Deep Evaluation Improvements
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ improvements: 20
 
 ## Overview
 
-Memoriam is a continental paradox—a landmass the size of Abyssos Prime that everyone forgets exists the moment they stop directly observing it. Civilizations have risen and fallen here, leaving behind ruins no one remembers building. Maps show empty ocean where Memoriam sits, yet ships that sail through it arrive at their destinations with missing time and confused crews.
+Memoriam is a continental paradox—a landmass the size of [[Abyssos Prime]] that everyone forgets exists the moment they stop directly observing it. Civilizations have risen and fallen here, leaving behind ruins no one remembers building. [[map]]s show empty ocean where Memoriam sits, yet ships that sail through it arrive at their destinations with missing time and confused crews.
 
 ### The Forgetting Field
 
@@ -105,10 +105,10 @@ A reality-warping field that prevents memory formation about anything within or 
 - **Immediate**: Forget details within seconds of looking away
 - **Short-term**: Forget you were here within minutes of leaving
 - **Long-term**: Evidence of visits erases itself from reality
-- **Permanent**: People who die here are forgotten by everyone
+- **Permanent**: [[People]] who die here are forgotten by everyone
 
 **Mechanical Effects**:
-- Cannot use INT-based skills effectively (always disadvantage)
+- Cannot use INT-based skills effectively (always [[Disadvantage]])
 - Must make DC 18 WIS save to remember anything after 1 minute
 - Written notes about Memoriam fade unless continuously observed
 - Photographs and drawings become blank
@@ -153,7 +153,7 @@ People live here, evidenced by warm meals in empty houses and maintained infrast
 
 Entities that exist by stealing memories from visitors, the only way they can maintain coherent existence. They appear as hollow-eyed humans who speak in borrowed experiences.
 
-**Memory Thief** (CR 8)
+**[[Memory Thief]]** (CR 8)
 - AC: 16 (uncertainty field)
 - HP: 95 (11d8+44)
 - **Memory Drain**: Touch steals 1d6 memories (specific events chosen by DM)
@@ -196,7 +196,7 @@ Violent tempests of concentrated forgetting that can erase people from history:
 ### Paradox Zones
 
 Areas where the antimemetic field conflicts with reality:
-- Places that are remembered but don't exist
+- [[Places]] that are remembered but don't exist
 - Events that happened but never occurred
 - People who are present but were never born
 - Conversations happening in reverse causality
@@ -211,13 +211,13 @@ A child from Memoriam somehow exists in regular memory. Everyone remembers them,
 
 ### "The Accumulating Evidence"
 
-The party keeps finding evidence of previous visits to Memoriam they don't remember. Journal entries in their handwriting, contracts they signed, even scars from battles they never fought.
+[[The Party]] keeps finding evidence of previous visits to Memoriam they don't remember. Journal entries in their handwriting, contracts they signed, even scars from battles they never fought.
 
 ### The Origin of Forgetting
 
 Memoriam was deliberately forgotten to contain something. Theories include:
 - A god that should not be worshipped
-- The true history of the Drowning
+- The true history of [[The Drowning]]
 - A plague of pure information
 - The location of the Depth Mother's heart
 
@@ -231,17 +231,17 @@ Perhaps Memoriam forgets visitors to protect them. Those who fully remember the 
 
 ### The Parliament of Shadows
 
-Several Shadow Senators come from Memoriam, explaining why no one remembers electing them. They're trying to make the rest of Aquabyssos forgettable too.
+Several Shadow [[Senator]]s come from Memoriam, explaining why no one remembers electing them. They're trying to make the rest of [[Aquabyssos]] forgettable too.
 
-### The Memory Wars
+### [[The Memory Wars]]
 
 Memoriam is the ultimate weapon—an entire continent that can be strategically forgotten and remembered to reshape history.
 
-### Connection to Aethermoor
+### Connection to [[Aethermoor]]
 
 The eighth shard, the one no one remembers, is hidden in Memoriam. It's the Shard of Forgetting, and it's been actively erasing itself from the prophecy.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -260,13 +260,13 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 ---
 
 *"This journal entry is the only proof I have that Memoriam exists. By the time you read this, you'll have forgotten where you found it. By the time I reread it, I'll have forgotten I wrote it. But somewhere, nowhere, and everywhere, an entire continent of people lives, dies, and forgets, and forgetting, forgets to forget."*
-— Found carved into ...
+— Found carved into [[...]]
 
 ## Player-Facing Summary
 
 Memoriam   The Forgotten Continent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Memoriam   The Forgotten Continent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memoriam   The Forgotten Continent.
 
@@ -289,6 +289,34 @@ Memoriam - The Forgotten Continent is a notable location characterized by its un
 
 ### Founding
 Memoriam - The Forgotten Continent was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -317,3 +345,40 @@ Ongoing situations affecting Memoriam - The Forgotten Continent:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

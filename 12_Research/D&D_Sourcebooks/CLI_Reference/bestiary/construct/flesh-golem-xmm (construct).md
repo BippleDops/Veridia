@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flesh-golem-xmm-flesh-golem-xmm.svg)
 
-# [[flesh golem xmm|Flesh Golem]]
+# [[flesh-golem-xmm (construct)]]
 *Source: Monster Manual (2024) p. 121. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -108,27 +108,27 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 "languages": "understands Common plus one other language but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "If the golem takes Fire damage, it has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "If the golem takes Fire damage, it has [[Advantage Xphb]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Aversion to Fire"
-  - "desc": "Whenever the golem starts its turn [[bloodied xphb|Bloodied]],\
+  - "desc": "Whenever the golem starts its turn [[bloodied-xphb (variant-rules)]],\
       \ roll d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
-      \ goes berserk, it remains so until it is destroyed or it is no longer [[bloodied xphb|Bloodied]].\n\
+      \ goes berserk, it remains so until it is destroyed or it is no longer [[bloodied-xphb (variant-rules)]].\n\
       \nThe golem's creator, if within 60 feet of the berserk golem, can try to calm\
       \ it by taking an action to make a DC 15 Charisma ([[skills#Persuasion|Persuasion]])\
       \ check; the golem must be able to hear its creator. If this check succeeds,\
       \ the golem ceases being berserk until the start of its next turn, at which\
-      \ point it resumes rolling for the Berserk trait again if it is still [[bloodied xphb|Bloodied]]."
+      \ point it resumes rolling for the Berserk trait again if it is still [[bloodied-xphb (variant-rules)]]."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
   - "desc": "Whenever the golem is subjected to Lightning damage, it regains a number\
-      \ of [[hit points xphb|Hit Points]] equal to\
+      \ of [[hit-points-xphb (variant-rules)]] equal to\
       \ the Lightning damage dealt."
     "name": "Lightning Absorption"
-  - "desc": "The golem has [[advantage xphb|Advantage]]\
+  - "desc": "The golem has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

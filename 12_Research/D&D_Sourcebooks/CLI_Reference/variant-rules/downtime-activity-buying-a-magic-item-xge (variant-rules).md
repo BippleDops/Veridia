@@ -67,15 +67,15 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1–5 | Roll `d6` times on [[magic item table a|Magic Item Table A]]. |
-| 6–10 | Roll `d4` times on [[magic item table b|Magic Item Table B]]. |
-| 11–15 | Roll `d4` times on [[magic item table c|Magic Item Table C]]. |
-| 16–20 | Roll `d4` times on [[magic item table d|Magic Item Table D]]. |
-| 21–25 | Roll `d4` times on [[magic item table e|Magic Item Table E]]. |
-| 26–30 | Roll `d4` times on [[magic item table f|Magic Item Table F]]. |
-| 31–35 | Roll `d4` times on [[magic item table g|Magic Item Table G]]. |
-| 36–40 | Roll `d4` times on [[magic item table h|Magic Item Table H]]. |
-| 41+ | Roll `d4` times on [[magic item table i|Magic Item Table I]]. |
+| 1–5 | Roll `d6` times on [[magic-item-table-a (tables)]]. |
+| 6–10 | Roll `d4` times on [[magic-item-table-b (tables)]]. |
+| 11–15 | Roll `d4` times on [[Magic Item Table C]]. |
+| 16–20 | Roll `d4` times on [[magic-item-table-d (tables)]]. |
+| 21–25 | Roll `d4` times on [[magic-item-table-e (tables)]]. |
+| 26–30 | Roll `d4` times on [[Magic Item Table F]]. |
+| 31–35 | Roll `d4` times on [[magic-item-table-g (tables)]]. |
+| 36–40 | Roll `d4` times on [[Magic Item Table H]]. |
+| 41+ | Roll `d4` times on [[magic-item-table-i (tables)]]. |
 ^buying-magic-items
 
 **Magic Item Price**

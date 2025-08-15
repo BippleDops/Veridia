@@ -43,9 +43,9 @@ world: Both
 
 **Items in this group:**
 
-- [[1 rod of the pact keeper xdmg|+1 Rod of the Pact Keeper]]
-- [[2 rod of the pact keeper xdmg|+2 Rod of the Pact Keeper]]
-- [[3 rod of the pact keeper xdmg|+3 Rod of the Pact Keeper]]
+- [[1-rod-of-the-pact-keeper-xdmg (items)]]
+- [[2 Rod of the Pact Keeper Xdmg]]
+- [[3 Rod of the Pact Keeper Xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 301*
 

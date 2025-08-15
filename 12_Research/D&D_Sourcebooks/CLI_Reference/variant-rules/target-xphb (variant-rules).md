@@ -33,7 +33,7 @@ world: Both
 # Target
 *Source: Player's Handbook (2024) p. 376. Available in the SRD and the Free Rules (2024)* 
 
-A target is the creature or object targeted by an attack roll, forced to make a [[saving throw xphb|saving throw]] by an effect, or selected to receive the effects of a spell or another phenomenon.
+A target is the creature or object targeted by an attack roll, forced to make a [[Death Saving Throw Xphb]] by an effect, or selected to receive the effects of a spell or another phenomenon.
 
 ## 🔧 Deep Evaluation Improvements
 

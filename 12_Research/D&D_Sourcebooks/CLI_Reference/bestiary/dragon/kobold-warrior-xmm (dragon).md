@@ -47,7 +47,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kobold-warrior-xmm-kobold-warrior-xmm.svg)
 
-# [[kobold warrior xmm|Kobold Warrior]]
+# [[Kobold Warrior Xmm]]
 *Source: Monster Manual (2024) p. 185. Available in the SRD and the Free Rules (2024)*  
 
 Kobold warriors use hit-and-run tactics to raid their enemies and defend their homes. To avoid danger, they frequently employ haphazard traps.
@@ -94,12 +94,12 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
-  - "desc": "The kobold has [[advantage xphb|Advantage]]\
+  - "desc": "The kobold has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the kobold's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the kobold has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

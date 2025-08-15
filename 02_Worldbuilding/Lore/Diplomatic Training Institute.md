@@ -1,7 +1,7 @@
 ---
 
 title: Diplomatic Training Institute
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -72,7 +72,7 @@ Diplomatic Training Institute represents a crucial aspect of the world's history
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

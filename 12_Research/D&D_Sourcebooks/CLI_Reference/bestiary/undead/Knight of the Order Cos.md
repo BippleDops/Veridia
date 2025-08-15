@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
 
-# [[knight of the order cos|Knight of the Order]]
+# [[Knight of the Order Cos]]
 *Source: Curse of Strahd p. 139*  
 
 ```statblock
@@ -79,7 +79,7 @@ world: Both
     "name": "Regeneration"
   - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [[wish xphb|wish]]\
+      \ existence and regains all its hit points. While the soul is bodiless, a [[wish-xphb (spells)]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The knight is immune to effects that turn undead."

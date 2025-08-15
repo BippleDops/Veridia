@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marilith-xmm-marilith-xmm.svg)
 
-# [[marilith xmm|Marilith]]
+# [[marilith-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 204. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -95,13 +95,13 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 "cr": "16"
 "traits":
   - "desc": "If the marilith dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The marilith has [[advantage xphb|Advantage]]\
+  - "desc": "The marilith has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The marilith can take one [[reaction xphb|Reaction]]\
+  - "desc": "The marilith can take one [[reaction-xphb (variant-rules)]]\
       \ on every turn of combat."
     "name": "Reactive"
 "actions":

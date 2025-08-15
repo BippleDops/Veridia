@@ -250,7 +250,7 @@ Cooperation with [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates enhan
 - **[[Depth Survey Authority]]**: Government agency managing navigational mapping
 - **[[Emergency Navigation Response]]**: Crisis navigation and rescue coordination
 - **[[Commercial Navigation Services]]**: Private companies providing specialized navigation
-- **[[Cross Realm Navigation Cooperation]]**: Inter-dimensional navigation collaboration
+- **[[Cross-Realm Navigation Cooperation]]**: Inter-dimensional navigation collaboration
 
 ### Key Personnel
 

@@ -1,14 +1,14 @@
 ---
 
-title: The Tidecaller
-type: Location
+title: [[The Tidecaller]]
+type: [[location]]
 tags:
 - status/complete
 - mechanics/magic
 - content/location
-- content/npc
-- maritime
-- world/aethermoor
+- content/[[Npc]]
+- mari[[Time]]
+- world/[[Aethermoor]]
 - place
 - location
 - complete
@@ -17,7 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ improvements: 20
 - Add folk tales and children's stories
 
 ## Overview
-Sage Marina Tidecaller is Aethermoor's most powerful maritime spellcaster, specializing in tide magic and ocean weather control. Her abilities are essential for protecting the kingdom's coastal settlements and ensuring safe passage for merchant vessels.
+Sage [[Marina Tidecaller]] is Aethermoor's most powerful maritime spellcaster, specializing in tide magic and ocean weather control. Her abilities are essential for protecting the kingdom's coastal settlements and ensuring safe passage for [[Merchant]] vessels.
 
 ## Statistics
 **Medium humanoid (human)**
@@ -127,7 +127,7 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Weather Shaping**: Influencing storm patterns and wind directions
 **Water Scrying**: Using tide pools for divination and long-distance observation
 **Ocean Communication**: Speaking with sea creatures and water elementals
-**Maritime Blessing**: Enchanting ships for safe passage and favorable winds
+**Maritime [[Bless]]ing**: Enchanting ships for safe passage and favorable winds
 
 ## Daily Routine
 **Dawn**: Tidal observations and daily weather predictions
@@ -151,7 +151,7 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 
 ## Personal Challenges
 **Age and Health**: 60+ years of intensive magic use taking physical toll
-**Succession Planning**: Training replacement before retirement becomes necessary
+**[[Succession Planning]]**: Training replacement before retirement becomes necessary
 **Political Pressure**: Government demands for increasingly difficult magical tasks
 **Environmental Changes**: Ocean patterns shifting due to unknown causes
 **Isolation**: Lonely position with few peers understanding her responsibilities
@@ -160,7 +160,7 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Staff of Tides**: Amplifies tide magic and stores ocean energy
 **Compass of Currents**: Navigation aid showing magical and physical water flows
 **Cloak of Storm Protection**: Garment providing weather immunity
-**Tide Charts**: Detailed maps with magical annotations
+**Tide Charts**: Detailed [[map]]s with magical annotations
 **Scrying Pool**: Permanent installation for long-distance observation
 
 ## Services Offered
@@ -173,7 +173,7 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 ## Training and Education
 **Apprentice Program**: 7-year intensive course in tide magic
 **Guest Lectures**: Teaching at Royal Academy and foreign institutions
-**Research Supervision**: Directing studies in maritime magical theory
+**Research Supervision**: Directing studies in maritime [[Magical Theory]]
 **International Exchange**: Training programs with other kingdoms' spellcasters
 **Public Education**: Community workshops on basic weather safety
 
@@ -184,21 +184,21 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Research**: Deep study of connection between surface and deep ocean magic
 **Legacy**: Writing comprehensive guide to tide magic theory and practice
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
-The Tidecaller serves as powerful ally for maritime adventures, quest giver for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
+## [[DM Notes]]
+The Tidecaller serves as powerful ally for maritime adventures, [[Quest Giver]] for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
 
 ## Player-Facing Summary
 
 The Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidecaller.
 
@@ -222,6 +222,34 @@ The Tidecaller is a notable location characterized by its unique features and st
 ### Founding
 The Tidecaller was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Tidecaller:
@@ -236,3 +264,39 @@ Ongoing situations affecting The Tidecaller:
 
 - A map reveals a betrayal about a local noble
 - Someone is searching for an heir for power
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

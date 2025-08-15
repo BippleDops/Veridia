@@ -45,3 +45,24 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[maddening-darkness-xge (spells)-phb]]` in CLI_Reference/spells/

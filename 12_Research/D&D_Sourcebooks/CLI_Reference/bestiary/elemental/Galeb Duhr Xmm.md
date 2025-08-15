@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-galeb-duhr-xmm-galeb-duhr-xmm.svg)
 
-# [[galeb duhr xmm|Galeb Duhr]]
+# [[Galeb Duhr Xmm]]
 *Source: Monster Manual (2024) p. 127*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -101,7 +101,7 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - "desc": "The galeb duhr magically animates one or two boulders it can see within\
       \ 60 feet of itself. Each boulder uses the Galeb Duhr stat block, except it\
       \ has Intelligence and Charisma scores of 1 and lacks this action. The boulder\
-      \ takes its turn immediately after the galeb duhr on the same [[initiative xphb|Initiative]]\
+      \ takes its turn immediately after the galeb duhr on the same [[Initiative Xphb]]\
       \ count, and it obeys the galeb duhr. A boulder remains animate for 1 minute\
       \ or until it or the galeb duhr dies."
     "name": "Animate Boulders (1/Day)"

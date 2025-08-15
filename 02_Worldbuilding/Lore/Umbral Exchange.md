@@ -1,7 +1,7 @@
 ---
 
 title: Umbral Exchange
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -99,9 +99,9 @@ improvements: 20
 
 ## Overview
 
-The Umbral Exchange represents Aquabyssos' most sophisticated venture into dimensional commerce—a complex technological and magical infrastructure that enables trade and communication across the boundaries between different planes of existence. This revolutionary system harnesses shadow magic and dimensional manipulation to create stable interfaces with parallel realities, alternate dimensions, and pocket realms, opening unprecedented opportunities for economic growth and cultural exchange.
+[[The Umbral Exchange]] represents Aquabyssos' most sophisticated venture into dimensional commerce—a complex technological and magical infrastructure that enables trade and communication across the boundaries between different planes of existence. This revolutionary system harnesses shadow magic and dimensional manipulation to create stable interfaces with [[Parallel Realities]], alternate dimensions, and pocket realms, opening unprecedented opportunities for economic growth and [[Cultural Exchange]].
 
-Located in the deepest, most magically stable areas of [[Aquabyssos]], the Exchange consists of multiple interconnected facilities that process, store, and facilitate transactions involving goods, services, and even abstract concepts that exist across dimensional boundaries. The technology combines advanced magical theory with practical engineering to create what amounts to a permanent portal network dedicated to commercial activities.
+Located in the deepest, most magically stable areas of [[Aquabyssos]], the Exchange consists of multiple interconnected facilities that process, store, and facilitate transactions involving goods, services, and even abstract concepts that exist across dimensional boundaries. The technology combines advanced [[Magical Theory]] with practical engineering to create what amounts to a permanent [[Portal Network]] dedicated to commercial activities.
 
 The system operates by creating controlled "umbral spaces"—areas where normal physical laws become flexible and dimensional boundaries can be safely manipulated. Within these spaces, traders can interact with entities and markets from other dimensions while maintaining the security and stability necessary for reliable commerce.
 
@@ -114,7 +114,7 @@ The core technology of the Exchange centers on sophisticated portal systems that
 
 **Portal Classification and Capabilities:**
 - **Primary Commerce Portals**: Large-scale interfaces supporting high-volume trade operations
-- **Communication Portals**: Smaller interfaces dedicated to information exchange and negotiation
+- **Communication Portals**: Smaller interfaces dedicated to [[Information Exchange]] and negotiation
 - **Sampling Portals**: Specialized interfaces for testing and evaluating products from other dimensions
 - **Emergency Portals**: Safety systems enabling rapid evacuation or crisis response
 - **Research Portals**: Experimental interfaces for exploring new dimensional connections
@@ -122,7 +122,7 @@ The core technology of the Exchange centers on sophisticated portal systems that
 **Portal Stabilization Technology:**
 Maintaining stable dimensional interfaces requires sophisticated magical and technological systems:
 - Shadow-crystal matrices that anchor portal energy and prevent dimensional drift
-- Temporal stabilization fields that prevent time-flow discrepancies between dimensions
+- Temporal stabilization fields that prevent [[Time]]-flow discrepancies between dimensions
 - Reality anchors that maintain consistent physical laws within portal zones
 - Magical dampening fields that prevent dangerous magical interactions
 - Emergency containment systems that isolate unstable portals to prevent dimensional catastrophes
@@ -133,7 +133,7 @@ Maintaining stable dimensional interfaces requires sophisticated magical and tec
 The Exchange utilizes advanced shadow magic techniques to power its dimensional operations while creating the flexible reality zones necessary for inter-dimensional commerce.
 
 **Shadow Energy Applications:**
-- **Dimensional Bridging**: Using shadow energy to create connections between separate realities
+- **[[Dimensional Bridging]]**: Using shadow energy to create connections between separate realities
 - **Reality Softening**: Temporarily making physical laws more flexible to enable impossible transactions
 - **Concealment and Security**: Shadow-based security systems protecting sensitive operations
 - **Communication Enhancement**: Shadow-assisted communication across dimensional boundaries
@@ -141,7 +141,7 @@ The Exchange utilizes advanced shadow magic techniques to power its dimensional 
 
 **Magical Safety Systems:**
 Working with shadow magic requires extensive safety measures:
-- Protective ward networks preventing shadow corruption of personnel and facilities
+- Protective ward networks preventing [[Shadow Corruption]] of personnel and facilities
 - Light-balance systems maintaining equilibrium between shadow and normal magical energies
 - Purification protocols for removing dangerous shadow contamination
 - Mental protection systems preventing shadow-induced psychological effects
@@ -153,7 +153,7 @@ Working with shadow magic requires extensive safety measures:
 Complex systems handle the unique challenges of conducting business across dimensional boundaries:
 
 **Transaction Processing Components:**
-- **Dimensional Currency Exchange**: Systems for converting value between different dimensional economic systems
+- **Dimensional Currency Exchange**: Systems for converting value between different dimensional [[Economic System]]s
 - **Goods Authentication**: Technology verifying the authenticity and safety of interdimensional products
 - **Contract Enforcement**: Magical systems ensuring contract compliance across dimensional boundaries
 - **Quality Assurance**: Testing and certification systems for interdimensional goods and services
@@ -163,7 +163,7 @@ Complex systems handle the unique challenges of conducting business across dimen
 Comprehensive documentation systems track all aspects of interdimensional commerce:
 - Transaction records that remain accurate despite dimensional temporal variations
 - Inventory management systems tracking goods that exist in multiple dimensional states
-- Customer relationship databases managing interactions with entities from various dimensions
+- Customer relationship [[data]]bases managing interactions with entities from various dimensions
 - Regulatory compliance documentation meeting requirements across multiple realities
 - Ficial reporting systems that account for the complexities of interdimensional economics
 
@@ -184,7 +184,7 @@ The Exchange facilitates trade in various categories of goods and services uniqu
 - **Professional Services**: Expertise and skills from specialists in other dimensions
 - **Cultural Programs**: Educational and artistic exchanges between dimensional civilizations
 - **Research Collaboration**: Joint research projects leveraging capabilities across multiple dimensions
-- **Diplomatic Services**: Communication and negotiation services for interdimensional relations
+- **[[Diplomatic Service]]s**: Communication and negotiation services for interdimensional relations
 
 ### Client Services and Market Access
 
@@ -235,13 +235,13 @@ The Exchange maintains active commercial relationships with several dimensional 
 - **[[Aethermoor]] Connection**: The most developed interdimensional trading relationship, focusing on technological and cultural exchange
 - **The Twilight Markets**: Shadow-realm commerce specializing in abstract concepts and philosophical commodities
 - **The Crystal Dimensions**: Trade in crystalline technologies and energy-based products
-- **The Time-Stream Merchants**: Limited trade in temporal effects and time-manipulation services
+- **The Time-Stream [[Merchant]]s**: Limited trade in temporal effects and time-manipulation services
 - **The Dream Traders**: Commerce in psychological and emotional experiences and services
 
 **Market Specializations:**
 Each dimensional connection focuses on particular types of commerce:
-- Technology transfer enabling both dimensions to benefit from different approaches to similar challenges
-- Cultural exchange programs promoting understanding and cooperation between dimensional civilizations
+- [[Technology Transfer]] enabling both dimensions to benefit from different approaches to similar challenges
+- [[Cultural Exchange Programs]] promoting understanding and cooperation between dimensional civilizations
 - Resource sharing providing access to materials and energy sources unavailable in local dimensions
 - Knowledge trading exchanging scientific, magical, and technical information
 - Service provision offering specialized capabilities and expertise not available locally
@@ -274,7 +274,7 @@ The Exchange maintains comprehensive security systems addressing unique threats 
 **Primary Security Concerns:**
 - **Dimensional Contamination**: Prevention of harmful influences spreading between dimensions
 - **Hostile Infiltration**: Protection against entities using commerce as cover for hostile activities
-- **Economic Exploitation**: Prevention of unfair trading practices and economic manipulation
+- **Economic Exploitation**: Prevention of unfair trading practices and [[Economic Manipulation]]
 - **Cultural Corruption**: Protection against harmful cultural influences spreading between dimensions
 - **Technological Theft**: Security measures protecting valuable technologies and information
 
@@ -315,7 +315,7 @@ The Exchange facilitates extensive cultural and educational exchange between dim
 - **Artistic Collaboration**: Projects bringing together creative individuals from multiple dimensions
 - **Educational Programs**: Student and scholar exchange programs between dimensional institutions
 - **Cultural Documentation**: Preservation and sharing of cultural knowledge across dimensions
-- **Language Development**: Creation of communication systems enabling interdimensional dialogue
+- **Language Development**: Creation of [[Communication Systems]] enabling interdimensional dialogue
 - **Diplomatic Training**: Programs preparing individuals for interdimensional diplomatic service
 
 **Educational Impact:**
@@ -363,7 +363,7 @@ Advanced systems address stability challenges:
 - Predictive monitoring systems identifying potential stability problems before they become critical
 - Adaptive stabilization technology automatically adjusting to changing conditions
 - Redundant systems providing backup capability during primary system failures
-- Emergency protocols for safely shutting down unstable portals
+- [[Emergency Protocol]]s for safely shutting down unstable portals
 - Research programs developing improved stability technologies
 
 ### Security and Safety Concerns
@@ -421,7 +421,7 @@ Research and development programs promise significant improvements to Exchange c
 **Innovation Applications:**
 New technologies create opportunities for expanded Exchange capabilities:
 - Permanent dimensional connections enabling continuous commerce without portal activation
-- Mobile portal systems enabling interdimensional commerce at various locations
+- Mobile portal systems enabling interdimensional commerce at various [[location]]s
 - Personal portal devices enabling individual access to interdimensional markets
 - Automated trading systems managing routine commerce without direct human involvement
 - Integration systems enabling foreign dimensional technologies to function in local conditions
@@ -441,7 +441,7 @@ The Exchange continues expanding its reach into new markets and applications:
 **Strategic Development:**
 Long-term planning focuses on sustainable expansion of interdimensional commerce:
 - Market research identifying opportunities for new types of interdimensional commerce
-- Infrastructure development providing the technical foundation for expanded operations
+- [[Infrastructure Development]] providing the technical foundation for expanded operations
 - Personnel development training specialists needed for expanded Exchange operations
 - Regulatory development creating frameworks for governing expanded interdimensional commerce
 - International cooperation building relationships needed for successful market expansion
@@ -454,7 +454,7 @@ Long-term planning envisions broader integration of interdimensional commerce wi
 **Integration Goals:**
 - **Educational Integration**: Interdimensional studies becoming standard parts of education
 - **Cultural Normalization**: Interdimensional commerce becoming a normal part of daily life
-- **Professional Development**: Career paths focused on interdimensional commerce and relations
+- **Professional Development**: Career [[path]]s focused on interdimensional commerce and relations
 - **Community Benefits**: Local communities benefiting from interdimensional economic opportunities
 - **International Leadership**: Aquabyssos becoming a leader in interdimensional commerce and relations
 
@@ -484,7 +484,7 @@ Exchange-related adventures support various character types:
 - Diplomatic characters managing relationships between different dimensional cultures
 - Security specialists protecting valuable cargo and investigating threats
 - Technical specialists maintaining and operating dimensional interface equipment
-- Cultural specialists helping facilitate communication and understanding between dimensions
+- [[Cultural Specialists]] helping facilitate communication and understanding between dimensions
 
 ### Exploration and Discovery Adventures
 
@@ -522,18 +522,18 @@ Involvement with Exchange operations provides numerous opportunities for charact
 - Security expertise in addressing unique interdimensional threats
 - Diplomatic capabilities managing complex interdimensional relationships
 
-## Connected Locations and Organizations
+## Connected Locations and [[Organization]]s
 
 - [[Aquabyssos]] - Primary location hosting Exchange operations
 - [[Aethermoor]] - Primary interdimensional trading partner
 - [[Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
-- [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
+- [[The Shadow Trade Network|[[02 Worldbuilding]]/[[Groups]]/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
 - [[The Liminal Trading Company]] - Major Exchange trading partner
 - [[Prime Shadow Trader Whisper Voidwright|02 Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
-- [[02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper|02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
-- [[02 Worldbuilding/People/Portal Engineer Shade Linkwright|02 Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
-- [[02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker|02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
-- [[02 Worldbuilding/People/Market Analyst Dream Trendwatcher|02 Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
+- [[People]] - Exchange security director
+- [[People]] - Technical systems specialist
+- [[People]] - Cross-dimensional cultural expert
+- [[People]] - Interdimensional market research specialist
 
 The Umbral Exchange represents more than a technological achievement or economic infrastructure—it embodies Aquabyssos' bold vision of a future where the boundaries between dimensions become pathways for cooperation, understanding, and mutual prosperity. Through this remarkable system, the very concept of reality becomes fluid, commerce transcends physical limitations, and the impossible becomes merely another commodity in the marketplace of infinite possibility.
 
@@ -545,11 +545,11 @@ Umbral Exchange is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Umbral Exchange as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Umbral Exchange.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -564,7 +564,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A merchant needs help delivering before winter
 - Someone is protecting information for love
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -579,4 +579,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established

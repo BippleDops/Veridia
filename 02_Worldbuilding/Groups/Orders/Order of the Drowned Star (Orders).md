@@ -225,7 +225,7 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 
 **Notable NPCs**:
 - [[Stellar Commander Nereus Voidcaller]]
-- [[Sister Astara the Ever Watching]]
+- [[Sister Astara the Ever-Watching]]
 - [[Thalassa the Pathfinder]]
 - [[Brother Pelagios Irondeep]]
 

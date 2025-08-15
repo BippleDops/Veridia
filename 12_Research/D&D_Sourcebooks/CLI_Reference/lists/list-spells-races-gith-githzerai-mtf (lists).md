@@ -63,3 +63,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help delivering before dawn
 - A noble needs help finding before winter
 - The authorities needs help finding before the new moon
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Mordenkainen's Tome of Foes
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-races-gith-githzerai-mtf (lists)-phb]]` in CLI_Reference/spells/

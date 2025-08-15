@@ -42,9 +42,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The target hit by the attack roll takes an extra `5d10` Force damage from the attack. If the attack reduces the target to 50 [[hit-points-xphb|Hit Points]] or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [[conditions#Incapacitated|Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+The target hit by the attack roll takes an extra `5d10` Force damage from the attack. If the attack reduces the target to 50 [[hit-points-xphb (variant-rules)]] or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [[conditions#Incapacitated|Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 245*
 
@@ -82,3 +82,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals the truth about this place
 - The authorities needs help delivering before the festival
 - A document has gone missing and war looms
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[banishing-smite-xphb (spells)-phb]]` in CLI_Reference/spells/

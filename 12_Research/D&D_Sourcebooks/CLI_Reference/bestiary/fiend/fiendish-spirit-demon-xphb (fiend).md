@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-demon-xphb-fiendish-spirit-demon-xphb.svg)
 
-# [[fiendish spirit demon xphb|Fiendish Spirit (Demon)]]
+# [[Fiendish Spirit Demon Xphb]]
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock

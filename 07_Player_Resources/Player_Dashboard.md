@@ -1,15 +1,16 @@
 ---
+
 title: Player_Dashboard
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Player_Dashboard
 
----
+- --
 title: Player Dashboard
 type: player-resource
 tags:
@@ -20,11 +21,11 @@ tags:
 - resource
 created: 2025-08-14
 modified: '2025-08-14'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -79,16 +80,16 @@ SORT relationship DESC
 - [[Current Region]]
 - [[Known Locations]]
 
----
-*Player dashboard - auto-updating*
+- --
+* Player dashboard - auto-updating*
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -97,3 +98,25 @@ SORT relationship DESC
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

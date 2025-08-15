@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-the-manta-ray.webp#right)
 
-While wearing this cloak, you can breathe underwater, and you have a [[swim speed xphb|Swim Speed]] of 60 feet.
+While wearing this cloak, you can breathe underwater, and you have a [[swim-speed-xphb (variant-rules)]] of 60 feet.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 

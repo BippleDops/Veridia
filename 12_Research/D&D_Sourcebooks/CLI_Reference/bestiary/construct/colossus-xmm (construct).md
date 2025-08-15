@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-colossus-xmm-colossus-xmm.svg)
 
-# [[colossus xmm|Colossus]]
+# [[Colossus Xmm]]
 *Source: Monster Manual (2024) p. 76*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,7 +100,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
     "name": "Immutable Form"
   - "desc": "If the colossus fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The colossus has [[advantage xphb|Advantage]]\
+  - "desc": "The colossus has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The colossus deals double damage to objects and structures."
@@ -117,16 +117,16 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
       \ condition."
     "name": "Radiant Ray"
   - "desc": "Dexterity Saving Throw: DC 26, each creature in a 300-foot-long, 10-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 65 (10d12) Radiant damage. Success: Half damage. Failure or Success: A\
-      \ creature reduced to 0 [[hit points xphb|Hit Points]]\
+      \ creature reduced to 0 [[hit-points-xphb (variant-rules)]]\
       \ by this beam disintegrates into dust, leaving behind any magic items it was\
       \ wearing or carrying."
     "name": "Divine Beam (Recharge 5-6)"
 "legendary_actions":
   - "desc": "The colossus makes one Radiant Ray attack."
     "name": "Smite"
-  - "desc": "The colossus moves up to half its [[speed xphb|Speed]]\
+  - "desc": "The colossus moves up to half its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it can make one Slam attack at any point during that move."
     "name": "Stomp"

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-carnivorous-flower-rot-carnivorous-flower-rot.svg)
 
-# [[carnivorous flower rot|Carnivorous Flower]]
+# [[carnivorous-flower-rot (plant)]]
 *Source: The Rise of Tiamat p. 67*  
 
 ```statblock

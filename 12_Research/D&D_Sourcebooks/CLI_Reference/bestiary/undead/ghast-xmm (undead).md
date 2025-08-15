@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-xmm-ghast-xmm.svg)
 
-# [[ghast xmm|Ghast]]
+# [[ghast-xmm (undead)]]
 *Source: Monster Manual (2024) p. 130. Available in the SRD and the Free Rules (2024)*  
 
 Ghasts frequently organize ghouls into packs to despoil crypts and steal the wealth within.
@@ -94,7 +94,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "cr": "2"
 "traits":
   - "desc": "Constitution Saving Throw: DC 10, any creature that starts its turn\
-      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the ghast. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this ghast's Stench for 24 hours."

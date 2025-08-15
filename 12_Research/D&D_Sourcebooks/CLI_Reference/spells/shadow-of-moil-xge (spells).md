@@ -45,7 +45,7 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `2d8` necrotic damage.
 
-**Classes**: [[list spells classes warlock|Warlock]]
+**Classes**: [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 164*
 
@@ -86,3 +86,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[shadow-of-moil-xge (spells)-phb]]` in CLI_Reference/spells/

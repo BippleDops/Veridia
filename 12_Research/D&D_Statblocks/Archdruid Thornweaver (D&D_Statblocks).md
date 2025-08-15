@@ -96,9 +96,9 @@ Legends speak of Archdruid Thornweaver as a nexus where past and present converg
 
 ## Relationships
 
-- **Debtor**: [[Portrait NPC Captain Nerida Stormcrest V1 Captain Nerida Stormcrest.svg]]
-- **Child**: [[Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg]]
-- **Debtor**: [[Assets Locations Location City the Resonance Cathedral V1 the Resonance Cathedral.svg]]
+- **Debtor**: [[Npc]]
+- **Child**: [[Npc]]
+- **Debtor**: [[Assets]]
 
 ## 12_Research Specific Content
 

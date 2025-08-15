@@ -536,7 +536,7 @@ Specialist in memory preservation and spiritual healing, providing individual an
 **[[Festival Artisans Guild]]** - Cultural Craft Organization
 Professional organization coordinating artisan activities, craft fairs, and cultural preservation efforts during festival events. Primary contact for craft participation and cultural arts education.
 
-**[[Inter Community Harmony Council]]** - Diplomatic Organization
+**[[Inter-Community Harmony Council]]** - Diplomatic Organization
 Coordinating body managing relationships between different communities during festival activities. Key organization for diplomatic activities and inter-community cooperation.
 
 **[[Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]]** - Religious Organization

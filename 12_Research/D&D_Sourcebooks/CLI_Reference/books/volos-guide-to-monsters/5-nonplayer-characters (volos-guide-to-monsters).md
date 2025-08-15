@@ -35,29 +35,29 @@ world: Both
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs)—whether friend or foe—expanding on "appendix B" of the Monster Manual. These stat blocks can represent human and nonhuman NPCs, and you can add racial traits to further customize them.
 
-- [[/03 Mechanics/CLI/bestiary/humanoid/abjurer-wizard-mpmm|Abjurer]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm|Apprentice Wizard]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/archdruid mpmm|Archdruid]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/archer mpmm|Archer]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/bard mpmm|Bard]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/blackguard mpmm|Blackguard]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/champion mpmm|Champion]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/conjurer-wizard-mpmm|Conjurer]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/diviner-wizard-mpmm|Diviner]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/enchanter-wizard-mpmm|Enchanter]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm|Evoker]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/illusionist-wizard-mpmm|Illusionist]]  
-- [[kraken-priest-mpmm|Kraken Priest]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/martial-arts-adept-mpmm|Martial Arts Adept]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/master-thief-mpmm|Master Thief]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm|Necromancer]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/swashbuckler mpmm|Swashbuckler]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/transmuter-wizard-mpmm|Transmuter]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/war-priest-mpmm|War Priest]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/warlock-of-the-archfey-mpmm|Warlock of the Archfey]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/warlock-of-the-fiend-mpmm|Warlock of the Fiend]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/warlock-of-the-great-old-one-mpmm|Warlock of the Great Old One]]  
-- [[/03 Mechanics/CLI/bestiary/humanoid/warlord mpmm|Warlord]]
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Kraken]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -103,3 +103,92 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## Unearthed Arcana & Playtest Content
+
+### Latest UA Documents
+- **One D&D Playtest**: Character Origins (2022-2024)
+- **Expert Classes**: Bard, Ranger, Rogue updates
+- **Warrior Classes**: Fighter, Barbarian, Monk updates
+- **Priest Classes**: Cleric, Druid, Paladin updates
+- **Mage Classes**: Sorcerer, Warlock, Wizard updates
+
+### Popular UA Options (Not in Official Books)
+- **Mystic Class**: Psionics system (UA 2017)
+- **Revised Ranger**: Improved base class (UA 2016)
+- **Class Feature Variants**: Alternative abilities (UA 2019)
+- **Modern Magic**: Technology spells (UA 2015)
+- **Planeshift Series**: MTG crossover content
+
+### UA Subclasses by Class
+#### Artificer
+- Archivist (UA 2020)
+- Maverick (UA Eberron)
+
+#### Barbarian
+- Path of the Wild Soul (became Wild Magic in TCE)
+- Path of the Beast (finalized in TCE)
+
+#### Bard
+- College of Satire (UA 2016)
+- College of Swords (finalized in XGE)
+
+#### Cleric
+- City Domain (UA Modern Magic)
+- Protection Domain (UA 2016)
+
+#### Druid
+- Circle of Twilight (UA 2016)
+- Circle of Wildfire (finalized in TCE)
+
+#### Fighter
+- Sharpshooter (UA 2016)
+- Scout (became Ranger subclass)
+
+#### Monk
+- Way of Tranquility (UA 2016)
+- Way of the Astral Self (finalized in TCE)
+
+#### Paladin
+- Oath of Treachery (UA 2016)
+- Oath of Heroism (became Glory in TCE)
+
+#### Ranger
+- Primeval Guardian (UA 2017)
+- Monster Slayer (finalized in XGE)
+
+#### Rogue
+- Revived (became Phantom in TCE)
+- Soulknife (finalized in TCE)
+
+#### Sorcerer
+- Phoenix Sorcery (UA 2017)
+- Sea Sorcery (UA 2017)
+
+#### Warlock
+- The Raven Queen (UA 2017)
+- The Seeker (UA 2016)
+
+#### Wizard
+- Theurgy (UA 2017)
+- War Magic (finalized in XGE)
+
+### UA Races/Lineages
+- Changeling (finalized in ERLW)
+- Shifter (finalized in ERLW)
+- Warforged (finalized in ERLW)
+- Gith (finalized in MTF)
+- Revenant (UA Gothic Heroes)
+
+### Playtest Considerations
+⚠️ **Balance Warning**: UA content is playtest material
+- May be unbalanced compared to official content
+- Subject to change or abandonment
+- Requires DM approval
+- May conflict with published versions
+
+### Where to Find UA
+- **D&D Beyond**: UA Archive section
+- **Wizards Website**: Monthly UA articles (discontinued 2021)
+- **Reddit r/UnearthedArcana**: Community discussions
+- **One D&D Playtest**: D&D Beyond exclusive

@@ -41,7 +41,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[fly speed xphb|Fly Speed]] equal to your [[speed xphb|Speed]] for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
+When you drink this potion, you gain a [[Fly Speed Xphb]] equal to your [[Fly Speed Xphb]] for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
 
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 

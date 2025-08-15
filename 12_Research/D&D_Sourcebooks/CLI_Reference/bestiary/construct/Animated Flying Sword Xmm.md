@@ -42,7 +42,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[animated-flying-sword-xmm|Animated Flying Sword]]
+# [[animated-flying-sword-xmm (construct)]]
 *Source: Monster Manual (2024) p. 17. Available in the SRD and the Free Rules (2024)*  
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.

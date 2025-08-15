@@ -50,7 +50,7 @@ world: Both
 # Armor of Thunder Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to thunder damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to thunder damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Thunder Resistance](#Breastplate%20of%20Thunder%20Resistance)

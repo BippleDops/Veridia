@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Quarterstaff of the Acrobat
-*Staff, weapon ([[quarterstaff xphb|quarterstaff]]), very rare (requires attunement)*  
+*Staff, weapon ([[Quarterstaff Xphb]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/quarterstaff-of-the-acrobat.webp#right)
 
 - **Damage**:
@@ -45,9 +45,9 @@ world: Both
 
 You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
-While holding this weapon, you can cause it to emit green [[dim light xphb|Dim Light]] out to 10 feet, either as a [[bonus action xphb|Bonus Action]] or after you roll [[initiative xphb|Initiative]], or you can extinguish the light as a [[bonus action xphb|Bonus Action]].
+While holding this weapon, you can cause it to emit green [[Light Xphb]] out to 10 feet, either as a [[Action Xphb]] or after you roll [[Initiative Xphb]], or you can extinguish the light as a [[Action Xphb]].
 
-While holding this weapon, you can take a [[bonus action xphb|Bonus Action]] to alter its form, turning it into a 6-inch rod (for ease of storage) or a 10-foot pole, or reverting it a Quarterstaff; the weapon will elongate only as far as the surrounding space allows.
+While holding this weapon, you can take a [[Action Xphb]] to alter its form, turning it into a 6-inch rod (for ease of storage) or a 10-foot pole, or reverting it a Quarterstaff; the weapon will elongate only as far as the surrounding space allows.
 
 In certain forms, the weapon has the following additional properties.
 
@@ -65,11 +65,11 @@ In certain forms, the weapon has the following additional properties.
 
 ## Acrobatic Assist (Quarterstaff and 10-Foot Pole Forms Only)
 
-While holding this weapon, you have [[advantage xphb|Advantage]] on Dexterity ([[skills#Acrobatics|Acrobatics]]) checks.
+While holding this weapon, you have [[Advantage Xphb]] on Dexterity ([[skills#Acrobatics|Acrobatics]]) checks.
 
 ## Attack Deflection (Quarterstaff Form Only)
 
-When you are hit by an attack while holding the weapon, you can take a [[reaction xphb|Reaction]] to twirl the weapon around you, gaining a +5 bonus to your [[armor class xphb|Armor Class]] against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]].
+When you are hit by an attack while holding the weapon, you can take a [[reaction-xphb (variant-rules)]] to twirl the weapon around you, gaining a +5 bonus to your [[armor-class-xphb (variant-rules)]] against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
 
 ## Ranged Weapon (Quarterstaff Form Only)
 

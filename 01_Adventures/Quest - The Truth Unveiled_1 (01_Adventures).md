@@ -36,6 +36,21 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
+
 > [!figure] View
 
 # Quest - The Truth Unveiled
@@ -190,7 +205,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Secondary Locations
 
-**[[Port Meridian   Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
+**[[Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
 
 **[[Parliament of Echoes]]** - The seat of government, where corrupted officials work to advance the conspiracy's agenda through legitimate political processes. Gathering evidence here requires extreme caution to avoid alerting conspiracy members to the investigation.
 
@@ -529,3 +544,51 @@ Ongoing situations affecting Quest - The Truth Unveiled:
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

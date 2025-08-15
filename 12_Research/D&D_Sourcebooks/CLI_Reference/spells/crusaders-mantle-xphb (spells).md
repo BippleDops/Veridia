@@ -43,9 +43,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You radiate a magical aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, you and your allies each deal an extra `d4` Radiant damage when hitting with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
+You radiate a magical aura in a 30-foot [[Area of Effect Xphb]]. While in the aura, you and your allies each deal an extra `d4` Radiant damage when hitting with a weapon or an [[Unarmed Strike Xphb]].
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 259*
 
@@ -86,3 +86,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[crusaders-mantle-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,7 +1,7 @@
 ---
 
 title: Treaty of the Depths
-type: Location
+type: [[location]]
 tags:
 - mechanics/social
 - status/complete
@@ -9,7 +9,7 @@ tags:
 - inter-realm
 - aquatic
 - both worlds
-- content/lore
+- content/[[Lore]]
 - world/both
 - agreement
 - content/location
@@ -24,7 +24,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Unknown
 MyContainer: None
@@ -35,7 +35,7 @@ obsidianUIMode: preview
 primary_participants: Aquabyssos and Aethermoor
 scope: Inter-Realm Relations
 significance: Foundational
-time_period: Current Era
+[[Time]]_period: Current Era
 updated: '2025-08-13T12:34:16.538517+00:00'
 world: Both Worlds
 evaluated: '2025-08-14'
@@ -68,7 +68,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ improvements: 20
 
 The Treaty of the Depths stands as the foundational diplomatic agreement between [[Aquabyssos]] and [[Aethermoor]], establishing formal relations between the underwater and surface realms while creating frameworks for cooperation, trade, and mutual assistance. This landmark document transformed centuries of separation and occasional conflict into structured partnership based on mutual respect and shared interests.
 
-Negotiated over eighteen months of complex diplomatic discussions, the Treaty addresses everything from territorial boundaries and trade relationships to cultural exchange and mutual defense arrangements. Its success has served as model for subsequent inter-realm agreements and established precedents for international cooperation in an increasingly interconnected world.
+Negotiated over eighteen months of complex diplomatic discussions, the Treaty addresses everything from territorial boundaries and trade relationships to [[Cultural Exchange]] and mutual defense arrangements. Its success has served as model for subsequent inter-realm agreements and established precedents for international cooperation in an increasingly interconnected world.
 
 The Treaty's implementation has created lasting institutions and relationships that continue to evolve and strengthen, providing foundation for ongoing cooperation while maintaining the distinct identities and autonomous goverce of both realms.
 
@@ -114,7 +114,7 @@ The Treaty's implementation has created lasting institutions and relationships t
 
 Before the Treaty of the Depths, relations between [[Aquabyssos]] and [[Aethermoor]] were characterized by mutual ignorance punctuated by occasional misunderstandings and minor conflicts over resource access and territorial boundaries.
 
-Both realms maintained separate development paths with minimal contact, leading to divergent cultural practices, technological advancement, and political systems that created barriers to communication and cooperation.
+Both realms maintained separate development [[path]]s with minimal contact, leading to divergent cultural practices, technological advancement, and political systems that created barriers to communication and cooperation.
 
 Increasing population and resource pressures in both realms created situations where territorial disputes and resource competition threatened to escalate into more serious conflicts without diplomatic frameworks for resolution.
 
@@ -130,7 +130,7 @@ Economic opportunities for mutually beneficial trade relationships provided addi
 
 Treaty negotiations involved extensive preliminary discussions to establish basic frameworks for communication, cultural understanding, and procedural agreements before substantive negotiations could begin.
 
-Multiple rounds of formal negotiations addressed different treaty sections, with specialized working groups focusing on specific areas such as trade, territorial issues, cultural exchange, and mutual defense.
+Multiple rounds of formal negotiations addressed different treaty sections, with specialized working [[Groups]] focusing on specific areas such as trade, territorial issues, cultural exchange, and mutual defense.
 
 The negotiation process itself became foundation for ongoing diplomatic relationships, as negotiators from both sides developed personal relationships and communication methods that continued beyond treaty completion.
 
@@ -148,21 +148,21 @@ Clear definition of territorial boundaries eliminates previous sources of confli
 
 Special status provisions for transitional zones recognize the complex nature of boundaries between underwater and surface realms, creating joint administration arrangements for areas that cannot be easily assigned to single realm authority.
 
-Resource access agreements ensure that both realms can obtain necessary materials while respecting territorial sovereignty and environmental protection requirements.
+Resource access agreements ensure that both realms can obtain necessary materials while respecting territorial sovereignty and [[Environmental Protection]] requirements.
 
 ### Trade and Economic Cooperation
 
 Comprehensive trade framework establishes procedures for commercial exchange, quality standards, dispute resolution, and economic cooperation between the realms.
 
-Tariff and taxation agreements create predictable economic environment for merchants and traders while ensuring that both governments receive appropriate revenue from inter-realm commerce.
+Tariff and taxation agreements create predictable economic environment for [[Merchant]]s and traders while ensuring that both governments receive appropriate revenue from inter-realm commerce.
 
 Joint development projects provide mechanisms for collaborative efforts in areas of mutual interest, including infrastructure, technology development, and resource management.
 
 ### Cultural and Educational Exchange
 
-Formal cultural exchange programs promote mutual understanding and friendship between the peoples of both realms while preserving and celebrating cultural diversity.
+Formal [[Cultural Exchange Programs]] promote mutual understanding and friendship between the [[People]]s of both realms while preserving and celebrating cultural diversity.
 
-Educational cooperation includes student exchange programs, joint research initiatives, and sharing of academic resources to advance knowledge and understanding in both realms.
+Educational cooperation includes student exchange programs, joint research [[Initiative]]s, and sharing of academic resources to advance knowledge and understanding in both realms.
 
 Language and communication provisions establish common standards for official communication while supporting preservation and development of distinct cultural languages and practices.
 
@@ -180,7 +180,7 @@ Comprehensive environmental protection agreements address shared ecological conc
 
 Pollution control and resource management provisions ensure that activities in one realm do not negatively affect the environment of the other realm.
 
-Joint environmental monitoring and research programs advance scientific understanding while supporting evidence-based environmental policy development.
+Joint environmental monitoring and research programs advance scientific understanding while supporting [[Evidence]]-based environmental policy development.
 
 ### Treaty Administration
 
@@ -218,7 +218,7 @@ Periodic review processes ensure that treaty provisions remain relevant and effe
 
 The Treaty has transformed inter-realm politics from isolation and occasional conflict to structured cooperation and mutual support, creating foundation for regional stability and development.
 
-Diplomatic precedents established by the Treaty have influenced subsequent agreements between other realms and organizations, spreading cooperative approaches to international relations.
+Diplomatic precedents established by the Treaty have influenced subsequent agreements between other realms and [[Organization]]s, spreading cooperative approaches to [[International Relations]].
 
 Political integration has remained limited and voluntary, preserving each realm's autonomous goverce while enabling coordinated action on issues of mutual concern.
 
@@ -328,7 +328,7 @@ Evolution of both societies continues to create new opportunities for cooperatio
 
 ### Article XII: Cultural Exchange
 
-*"Both realms recognize the value of cultural diversity and commit to supporting exchange programs, educational cooperation, and cultural preservation that enrich both societies while maintaining distinct identities."*
+*"Both realms recognize the value of cultural diversity and commit to supporting exchange programs, educational cooperation, and [[Cultural Preservation]] that enrich both societies while maintaining distinct identities."*
 
 ## Legacy and Significance
 
@@ -350,16 +350,16 @@ Treaty of the Depths is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Treaty of the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Treaty of the Depths.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -381,6 +381,34 @@ Treaty of the Depths is a notable location characterized by its unique features 
 ### Founding
 Treaty of the Depths was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Treaty of the Depths:
@@ -401,3 +429,39 @@ Key stop on spices trade route
 - A prisoner has gone missing and truth emerges
 - The authorities needs help delivering before dawn
 - Someone is hunting a witness for revenge
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

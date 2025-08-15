@@ -38,10 +38,10 @@ world: Both
 
 **Items in this group:**
 
-- [[elemental gem blue sapphire xdmg|Elemental Gem, Blue Sapphire]]
-- [[elemental gem emerald xdmg|Elemental Gem, Emerald]]
-- [[elemental gem red corundum xdmg|Elemental Gem, Red Corundum]]
-- [[elemental gem yellow diamond xdmg|Elemental Gem, Yellow Diamond]]
+- [[Elemental Gem Blue Sapphire Xdmg]]
+- [[elemental-gem-emerald-xdmg (items)]]
+- [[elemental]]
+- [[elemental]]
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
 

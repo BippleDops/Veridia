@@ -58,14 +58,14 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | +/+ | +/+ | + | + | +/+ | + | + | +/+ | + | + | Kept possession of Skyreach Castle |
 | + | + | + | + | + | -/- | + | + | + | + | Skyreach Castle returned to giants |
-|  | + |  |  |  | + |  | + |  | + | [[/03 Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]] supports characters* |
-| + |  |  | + |  |  |  |  | + | + | [[/03 Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]] supports characters* |
+|  | + |  |  |  | + |  | + |  | + | [[Bestiary]] supports characters* |
+| + |  |  | + |  |  |  |  | + | + | [[Bestiary]] supports characters* |
 | — | + | — |  | — | + | + | + |  | + | Smashed dragon hatchery* |
 | + | — | + | + | + | — | — | — |  | — | Left dragon hatchery intact |
-| + | + | + | + | + | + | + | + | + | + | Killed [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]]* |
-| + | + | + | + | + | + | + | + | + | + | Captured [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]] |
-| — | + | + | + | + | + | + | + | + | + | Killed [[/03 Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
-| + | + | + | + | + | + | + | + | + | + | Captured [[/03 Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] |
+| + | + | + | + | + | + | + | + | + | + | Killed [[Bestiary]]* |
+| + | + | + | + | + | + | + | + | + | + | Captured [[Bestiary]] |
+| — | + | + | + | + | + | + | + | + | + | Killed [[Bestiary]] |
+| + | + | + | + | + | + | + | + | + | + | Captured [[Bestiary]] |
 ^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Second Council

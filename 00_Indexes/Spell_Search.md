@@ -1,10 +1,12 @@
 ---
+
 title: Spell_Search
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Spell_Search
@@ -48,3 +50,13 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

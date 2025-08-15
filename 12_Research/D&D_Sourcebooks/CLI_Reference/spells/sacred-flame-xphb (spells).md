@@ -45,11 +45,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `d8` Radiant damage. The target gains no benefit from Half [[cover xphb|Cover]] or Three-Quarters [[cover xphb|Cover]] for this save.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `d8` Radiant damage. The target gains no benefit from Half [[Cover Xphb]] or Three-Quarters [[Cover Xphb]] for this save.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 313. Available in the SRD and the Free Rules (2024)*
 
@@ -88,3 +88,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[sacred-flame-xphb (spells)-phb]]` in CLI_Reference/spells/

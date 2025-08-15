@@ -295,7 +295,7 @@ The wing's unique architecture serves both practical and symbolic purposes - pra
 ### Social Networks
 **[[Aquabyssos Noble Houses]]**: Primary users and supporters of ballroom wing  
 **[[Diplomatic Corps]]**: Foreign representatives regularly attending events  
-**[[Merchant Guilds]]**: Wealthy merchants seeking social advancement  
+**[[Merchant Guilds (D&D_References)]]**: Wealthy merchants seeking social advancement  
 **[[Cultural Organizations]]**: Artists and performers providing entertainment  
 **[[Palace Staff Guild]]**: Professional organization of palace service personnel
 

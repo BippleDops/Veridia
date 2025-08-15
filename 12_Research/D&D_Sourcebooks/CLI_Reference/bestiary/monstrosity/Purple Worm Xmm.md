@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-purple-worm-xmm-purple-worm-xmm.svg)
 
-# [[purple worm xmm|Purple Worm]]
+# [[purple-worm-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 250. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -93,7 +93,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 "languages": ""
 "cr": "15"
 "traits":
-  - "desc": "The worm can burrow through solid rock at half its [[burrow speed xphb|Burrow Speed]]\
+  - "desc": "The worm can burrow through solid rock at half its [[burrow-speed-xphb (variant-rules)]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
@@ -113,7 +113,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
       \ The target is swallowed by the worm, and the [[conditions#Grappled|Grappled]]\
       \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, has\
-      \ [[cover xphb|Total Cover]] against attacks\
+      \ [[Cover Xphb]] against attacks\
       \ and other effects outside the worm, and takes 17 (5d6) Acid damage at the\
       \ start of each of the worm's turns.\n\nIf the worm takes 30 damage or more\
       \ on a single turn from a creature inside it, the worm must succeed on a DC\

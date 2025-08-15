@@ -42,7 +42,7 @@ items_gained:
 - Map fragment - harbor shipping routes
 - Letter of introduction from Marina
 locations_visited:
-- '[[Port Meridian   Harbor District]]'
+- '[[Harbor District]]'
 - '[[Pier 7]]'
 - '[[The Siren''s Rest Tavern]]'
 - '[[Harbor District Customs House]]'
@@ -50,7 +50,7 @@ locations_visited:
 npcs_met:
 - '[[Captain Lyanna Brightshield]]'
 - '[[Marina-Red-Tide-Coralheart]]'
-- "[[02 Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
+- "[[02_Worldbuilding]]"
 - '[[Brother Marcus Steelbane]]'
 obsidianUIMode: preview
 players: []
@@ -59,7 +59,7 @@ plot_threads:
 - Captain Blackwater missing 2 months
 - Singing crystals near Forgotten Isles
 - Nightmares of drowning in crystal caves
-primary_location: '[[Port Meridian   Harbor District]]'
+primary_location: '[[Harbor District]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
@@ -96,7 +96,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
-**NPCs:** [[Captain Lyanna Brightshield]], [[02 Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]
+**NPCs:** [[Captain Lyanna Brightshield]], [[Dock Worker Tomás]]
 **Outcome:** 
 - Party learns corpse wore Meridian Navy uniform
 - Sailor identified as missing for 3 weeks

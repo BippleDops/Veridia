@@ -77,7 +77,7 @@ A group of raiders has been attacking ships in the transition zone between surfa
 Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] seeks adventurers to investigate.
 
 ### The Missing Shipment
-A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[Gareth Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[Master Smith Coral Hammer]] are desperate to find it.
+A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[Gareth Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[hammer]] are desperate to find it.
 
 ### Political Tensions
 [[High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
@@ -93,7 +93,7 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 ### Specialty Shops
 | Shop | Specialty | Owner | Notable Items |
 |------|-----------|-------|---------------|
-| The Pressure Forge | Depth-resistant armor | [[Master Smith Coral Hammer]] | +1 Pressure Suits |
+| The Pressure Forge | Depth-resistant armor | [[hammer]] | +1 Pressure Suits |
 | Biolume Boutique | Glowing items | [[Illyana Glowstream]] | Everglow Pearls |
 | Depth Delights | Exotic foods | [[Chef Gastropod]] | Surface/Deep fusion |
 | The Current Exchange | Currency/Information | [[The Banker Fish]] | All denominations |

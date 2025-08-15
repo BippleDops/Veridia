@@ -52,7 +52,7 @@ Whenever a creature you can see enters the spirit's space or starts its turn wit
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 254. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[conjure-elemental-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# githzerai-groups-githzerai-group-leader-mtf
+# githzerai-[[Groups]]-githzerai-group-leader-mtf
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of githzerai-groups-githzerai-group-leader-mtf involves several 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of githzerai-groups-githzerai-group-leader-mtf trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -36,7 +36,7 @@ Connected to githzerai-groups-githzerai-group-leader-mtf are various other impor
 Different groups view githzerai-groups-githzerai-group-leader-mtf through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of githzerai-groups-githzerai-group-leader-mtf:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How githzerai-groups-githzerai-group-leader-mtf has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate githzerai-groups-githzerai-group-leader-mtf into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways githzerai-groups-githzerai-group-leader-mtf might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #githzerai-groups-githzerai-group-leader-mtf
+*Tags*: [[#General]] #worldbuilding #githzerai-groups-githzerai-group-leader-mtf

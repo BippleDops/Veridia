@@ -36,6 +36,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
 
@@ -44,6 +56,13 @@ improvements: 20
 
 > *"We are the whispers between the shadows, the eyes that see all, the hands that shape fate without touching it. You cannot fight what does not exist, yet we are everywhere."*
 > — Anonymous message found in [[Admiral Thorne Blackwater]]'s private chambers
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -324,7 +343,7 @@ Systematic collection and deployment of compromising information on:
 *Relationship: Competitive Cooperation*
 Mist operates independently but frequently trades information with the Shadow Conspiracy. Her shadow-touch abilities make her valuable for operations requiring supernatural infiltration capabilities. The relationship is mutually beneficial but tense, as both parties recognize the other as a potential threat.
 
-**[[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Independent Information Broker
+**[[Jasper "Three-Eyes" Flint]]** - Independent Information Broker
 *Relationship: Strategic Rivalry*
 Flint's crude but effective information network occasionally conflicts with Shadow Conspiracy operations. While not formally allied, they maintain unofficial agreements to avoid destructive competition. Some conspiracy members suspect Flint may be an unwitting Echo asset.
 
@@ -732,3 +751,40 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

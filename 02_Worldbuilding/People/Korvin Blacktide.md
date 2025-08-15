@@ -24,6 +24,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
 
@@ -205,11 +217,11 @@ Member of House Dragonblood - Trait: magical affinity
 
 ## Relationships
 
-- **Rival**: [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- **Rival**: [[Dr Vera Spectrumseeker]]
 - **Rival**: [[Sunken Kingdom of Nereon]]
 - **Lover**: [[Master Artificer Coral Gemwright]]
 - **Ally**: [[The Republican Coalition]]
-- **Blackmailer**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
+- **Blackmailer**: [[Npc]]
 
 ## Economic Structure
 
@@ -240,3 +252,40 @@ Member of House Dragonblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

@@ -53,11 +53,11 @@ The freight travels as far north as possible, following the Trade Way past Water
 
 When the caravan rolls into Waterdeep after two months on the road, most of the merchants disperse to the city's markets, warehouses, and stables. They've reached their destination and the characters are paid off in silver and thanked for their service. If they performed well, they're told they can find work with these shippers any time in the future. Characters can't waste much time closing accounts with their own employers or sightseeing in Waterdeep, however, or they lose the treasure wagons in the crowded metropolis.
 
-The cult wagons don't follow the same pattern as the others from the caravan. Instead, they head for the north side of the city before looking for a place to spend the night. Everyone who the characters know to be associated with the cult gathers at the same spot by nightfall. [[/03 Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] remains with the cultists during this time, and Jamna expresses her desire to stick with them until they uncover the treasure's destination.
+The cult wagons don't follow the same pattern as the others from the caravan. Instead, they head for the north side of the city before looking for a place to spend the night. Everyone who the characters know to be associated with the cult gathers at the same spot by nightfall. [[Bestiary]] remains with the cultists during this time, and Jamna expresses her desire to stick with them until they uncover the treasure's destination.
 
 The cultists spend a day resting their horses at a stable on the north side of Waterdeep. Other wagons are already there, covertly carrying treasure from all over the Sword Coast to the collection point. During the day, some of the cultists visit a large warehouse just inside the northern city gate, where construction supplies are stockpiled for shipment north and where wagons are gathered and loaded for the trip.
 
-If characters ask around Waterdeep's northern gate about anyone matching [[/03 Mechanics/CLI/bestiary/npc/rezmir hotdq|Rezmir]]'s description, they hear rumors of a half-dragon being sighted in the area at least a tenday ago. Everyone remembers the incident; chromatic half-dragons are almost never seen, and they tend to cause alarm when they are. If the rumor is true, then the half-dragon was traveling with a strong escort of mounted guards, headed north. The rumor is true, of course, but it can't be confirmed 100 percent.
+If characters ask around Waterdeep's northern gate about anyone matching [[Bestiary]]'s description, they hear rumors of a half-dragon being sighted in the area at least a tenday ago. Everyone remembers the incident; chromatic half-dragons are almost never seen, and they tend to cause alarm when they are. If the rumor is true, then the half-dragon was traveling with a strong escort of mounted guards, headed north. The rumor is true, of course, but it can't be confirmed 100 percent.
 
 By asking around, characters learn that the road to the north, called the High Road, used to connect Waterdeep to the city of Neverwinter. A cold, coastal marsh called the Mere of Dead Men lay between the road and the coast. Over the years, the mere continually expanded. Each time it grew, it flooded the road, which had to be relocated farther inland. That was the situation until a century ago, when Neverwinter was nearly destroyed by the eruption of Mount Hotenow. With the city in ruins, efforts to keep the road open simply stopped. It no longer served a purpose.
 
@@ -65,7 +65,7 @@ But now, Lord Neverember is rebuilding Neverwinter and the road is needed again.
 
 ## Northbound, Again
 
-The characters have no trouble getting hired as wagon escorts at the supply warehouse. Unlike in the caravan, guards are not hired by individual wagon masters but by the High Road Charter Company, a consortium of guilds and noble houses partnered with Lord Neverember. A human [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] named Ardred Briferhew commands the entire convoy. It consists of six supply wagons, twelve escorts (including the characters and Jamna), and two dozen laborers marching out to relieve a group that is coming back to Waterdeep for some time off. Those cultists who weren't hired as teamsters for their three wagons are coming along as laborers.
+The characters have no trouble getting hired as wagon escorts at the supply warehouse. Unlike in the caravan, guards are not hired by individual wagon masters but by the High Road Charter Company, a consortium of guilds and noble houses partnered with Lord Neverember. A human [[Bestiary]] named Ardred Briferhew commands the entire convoy. It consists of six supply wagons, twelve escorts (including the characters and Jamna), and two dozen laborers marching out to relieve a group that is coming back to Waterdeep for some time off. Those cultists who weren't hired as teamsters for their three wagons are coming along as laborers.
 
 The cultists are not happy to see the characters again, so the characters are the target of dirty looks.
 
@@ -82,14 +82,14 @@ Remember that the characters are just part of the convoy escort. The monsters li
 | d20 + [Modifier] | Encounter |
 |-------------------------------|-----------|
 | 1–14 | No encounter |
-| 15 | 12 human [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
-| 16 | 1 [[troll xmm|troll]] |
-| 17 | 4 [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] and 1 [[ogre xmm|ogre]] |
-| 18 | 2 [[ogre xmm|ogres]] |
-| 19 | 3 [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] and 3 [[giant-lizard-xmm|giant lizards]] |
-| 20 | 6 [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
+| 15 | 12 human [[Bestiary]] |
+| 16 | 1 [[Troll Xmm]] |
+| 17 | 4 [[Bestiary]] and 1 [[Ogre Xmm]] |
+| 18 | 2 [[Ogre Xmm]] |
+| 19 | 3 [[Bestiary]] and 3 [[giant-lizard-xmm|giant lizards]] |
+| 20 | 6 [[Bestiary]] |
 | 21 | 8 [[giant-frog-xmm|giant frogs]] |
-| 22 | 12 [[bullywug-warrior-xmm|bullywugs]] |
+| 22 | 12 [[bullywug-warrior-xmm (fey)]] |
 ^modifier-encounter
 
 ## Carnath Roadhouse
@@ -100,15 +100,15 @@ The convoy's destination is the Carnath Roadhouse, a compound that served as a h
 
 The work camp is exactly what it appears to be: a supply depot for the road builders. It is also something more, however: a transit point for the cult's contraband coming up from the south.
 
-When wagons arrive from the south, they are brought into the compound one or two at a time for unloading, then moved back outside for parking. The compound is crowded with food, lumber, and myriad other supplies in crates and barrels. Material that can't be left exposed to the cold, wet weather or is especially valuable is stored in the warehouse (area 3), and anything valuable is kept in the locked strong room attached to the warehouse (area 4). Only the camp superintendent, a burly half-orc known only as Bog Luck (use [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] statistics), has a key to that inner room.
+When wagons arrive from the south, they are brought into the compound one or two at a time for unloading, then moved back outside for parking. The compound is crowded with food, lumber, and myriad other supplies in crates and barrels. Material that can't be left exposed to the cold, wet weather or is especially valuable is stored in the warehouse (area 3), and anything valuable is kept in the locked strong room attached to the warehouse (area 4). Only the camp superintendent, a burly half-orc known only as Bog Luck (use [[Bestiary]] statistics), has a key to that inner room.
 
 Bog Luck was recruited to the Cult of the Dragon years ago. The only outward sign of this is the scabbard of his ever-present shortsword, which is decorated with a dragon resembling the designs on the scabbards characters saw in the dragon hatchery (and possibly have with them still; see area 12 in that section). When cult wagons arrive, their road-building cargo is unloaded into the compound normally, but Bog Luck ensures that the contraband is stored in the strong room. Afterward, he goes into the strong room alone and paints a symbol onto each carton belonging to the cult.
 
 In the floor of the strong room is a camouflaged trapdoor. It can be found with a DC 10 Wisdom ([[skills#Perception|Perception]]) check. The trapdoor connects to a dripping, slimy tunnel that runs 500 yards into a dense stand of trees and brush at the edge of the Mere of Dead Men. At night, when everyone in the compound is asleep except for a few rooftop guards, lizardfolk creep through the tunnel and take the marked crates to a location in the mere (the subject of chapter 6). They seldom perform this task over a single night unless the shipment is very small. Typically they take one night per wagon.
 
 > [!gallery]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/025-map-5-1-carnath-roadhouse.webp#gallery|Map 5.1: Carnath Roadhouse]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/026-map-5-1-carnath-roadhouse-player.webp#gallery|Player Version]]
+> ![[map]]
+> ![[Playe]]
 
 ### 1. Courtyard
 
@@ -128,11 +128,11 @@ Unusually valuable cargoes and personal items are kept in the strong room under 
 
 Since the sleeping rooms can't be locked, workers and teamsters often have Bog Luck lock their cash and other valuables into the strong room for safekeeping. He keeps a record in a ledger book of all the personal items stored there and has a reputation for being meticulous about making sure everyone gets their belongings back—all of their belongings and *only* their belongings.
 
-The key for this room is always on Bog Luck's belt, but the lock can be opened with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb|thieves' tools]].
+The key for this room is always on Bog Luck's belt, but the lock can be opened with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb (items)]].
 
 The trapdoor is located in the southeast corner of the room. An empty crate nailed onto the door covers it; when the door is opened, the whole crate tips toward the north. Being nailed to the floor, the crate feels solid and full to a casual bump or shove. Only when it's tipped does the trick become obvious. It can be discovered with a thorough 20-minute search of the room or with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check.
 
-If characters search the strong room during the night, lizardfolk show up to cart away contraband. There are three [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] for every two characters.
+If characters search the strong room during the night, lizardfolk show up to cart away contraband. There are three [[Bestiary]] for every two characters.
 
 ### 5. Rooms
 
@@ -142,7 +142,7 @@ None of the rooms have locks on their doors except Bog Luck's. If asked about lo
 
 ### 6. Bog Luck's Room
 
-Bog Luck has this room to himself, so it's more spacious and comfortable than the others. He's seldom here except when sleeping, and he keeps the door locked. A successful DC 10 Dexterity check with [[thieves-tools-xphb|thieves' tools]] can open it. Despite his crude manner, Bog Luck is a somewhat educated man, as evidenced by the books of philosophy and natural history on his reading shelf.
+Bog Luck has this room to himself, so it's more spacious and comfortable than the others. He's seldom here except when sleeping, and he keeps the door locked. A successful DC 10 Dexterity check with [[thieves-tools-xphb (items)]] can open it. Despite his crude manner, Bog Luck is a somewhat educated man, as evidenced by the books of philosophy and natural history on his reading shelf.
 
 ### 7. Ardred Briferhew's Room
 
@@ -169,9 +169,9 @@ Characters have a few ways to collect clues about what's happening at the work c
 
 A friend of the cultist murdered by Jamna has nurtured a grudge against a character since that incident. Now that their load is safely delivered and the mission is complete, this cultist can seek vengeance for her slain friend.
 
-At an opportune time, the cultist tries to goad the character into a fight. She'll use any incident she can from their time together, including the murder, to question the character's courage and fighting ability in front of everyone. If the character refuses to bite, the cultist doesn't back down. The NPC wants blood and won't settle for anything less. She draws her sword and attacks. The cultist uses the stats of a [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]].
+At an opportune time, the cultist tries to goad the character into a fight. She'll use any incident she can from their time together, including the murder, to question the character's courage and fighting ability in front of everyone. If the character refuses to bite, the cultist doesn't back down. The NPC wants blood and won't settle for anything less. She draws her sword and attacks. The cultist uses the stats of a [[Bestiary]].
 
-As far as the other cultists, teamsters, and hired guards are concerned, this is a personal issue between these two. If the character backs down, everyone assumes the character is a coward and treats this character with disrespect for the rest of his or her time at the camp. If other characters jump into the fight at their companion's side, more cultists do the same (treat them as twelve [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]]. Bog Luck and Ardred Briferhew prevent anyone else from joining in, but they don't mind watching some limited bloodshed to break the boredom.
+As far as the other cultists, teamsters, and hired guards are concerned, this is a personal issue between these two. If the character backs down, everyone assumes the character is a coward and treats this character with disrespect for the rest of his or her time at the camp. If other characters jump into the fight at their companion's side, more cultists do the same (treat them as twelve [[Bestiary]]. Bog Luck and Ardred Briferhew prevent anyone else from joining in, but they don't mind watching some limited bloodshed to break the boredom.
 
 The cultist means to kill the character, and she will if she wins the duel (continuing to stab the body after the character is at 0 hit points) and no one stops her.
 

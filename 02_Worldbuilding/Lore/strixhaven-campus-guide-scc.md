@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # strixhaven-campus-guide-scc
@@ -22,7 +22,7 @@ The full nature of strixhaven-campus-guide-scc involves several interconnected c
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of strixhaven-campus-guide-scc trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to strixhaven-campus-guide-scc are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view strixhaven-campus-guide-scc through their own cultural lenses:
+Different [[Groups]] view strixhaven-campus-guide-scc through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of strixhaven-campus-guide-scc:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How strixhaven-campus-guide-scc has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate strixhaven-campus-guide-scc into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways strixhaven-campus-guide-scc might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #strixhaven-campus-guide-scc
+*Tags*: [[#General]] #worldbuilding #strixhaven-campus-guide-scc

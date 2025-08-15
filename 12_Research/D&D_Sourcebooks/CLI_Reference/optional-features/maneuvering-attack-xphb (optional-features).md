@@ -34,7 +34,7 @@ world: Both
 # Maneuvering Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its [[reaction xphb|Reaction]] to move up to half its [[speed xphb|Speed]] without provoking an [[actions#Opportunity%20Attack|Opportunity Attack]] from the target of your attack.
+When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its [[reaction-xphb (variant-rules)]] to move up to half its [[Fly Speed Xphb]] without provoking an [[actions#Opportunity%20Attack|Opportunity Attack]] from the target of your attack.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -46,13 +46,13 @@ world: Both
 - **Components:** V, S, M (a piece of iron and a flame)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8` Fire damage when you cast the spell. Until the spell ends, you can take a [[bonus-action-xphb|Bonus Action]] on each of your later turns to deal this damage again if the object is within range.
+Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8` Fire damage when you cast the spell. Until the spell ends, you can take a [[Action Xphb]] on each of your later turns to deal this damage again if the object is within range.
 
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has [[disadvantage xphb|Disadvantage]] on attack rolls and ability checks until the start of your next turn.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has [[Advantage Xphb]] on attack rolls and ability checks until the start of your next turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

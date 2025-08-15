@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # myconid-spore-servant-xmm
@@ -22,7 +22,7 @@ The full nature of myconid-spore-servant-xmm involves several interconnected com
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of myconid-spore-servant-xmm trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to myconid-spore-servant-xmm are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view myconid-spore-servant-xmm through their own cultural lenses:
+Different [[Groups]] view myconid-spore-servant-xmm through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of myconid-spore-servant-xmm:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How myconid-spore-servant-xmm has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate myconid-spore-servant-xmm into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways myconid-spore-servant-xmm might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #myconid-spore-servant-xmm
+*Tags*: [[#General]] #worldbuilding #myconid-spore-servant-xmm

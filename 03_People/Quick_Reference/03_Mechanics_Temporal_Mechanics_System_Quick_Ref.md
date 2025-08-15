@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Temporal_Mechanics_System - Quick Reference
 
 ## Key Info

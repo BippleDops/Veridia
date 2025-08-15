@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-centipede-xphb-giant-insect-centipede-xphb.svg)
 
-# [[giant insect centipede xphb|Giant Insect (Centipede)]]
+# [[giant]]
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*  
 
 ```statblock

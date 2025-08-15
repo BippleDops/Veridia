@@ -1,9 +1,9 @@
 ---
 
 title: Temple of the Sunken Cathedral
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - cult
 - eldritch-horror
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: claude
 updated: '2025-08-13T12:34:16.841076+00:00'
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -93,7 +93,7 @@ improvements: 20
 
 ## Overview
 
-The Temple of the Sunken Cathedral serves as the primary worship site for the Deep Mother cult in Aquabyssos. Once the Grand Cathedral of Tidal Harmony, this massive religious structure was pulled into the ocean depths during the first major manifestation event 47 years ago. Rather than being destroyed, the cathedral transformed into something architecturally impossible - a building that exists in multiple dimensions simultaneously, where geometric laws serve cosmic rather than physical principles.
+The Temple of the Sunken Cathedral serves as the primary worship site for the [[Deep Mother]] cult in Aquabyssos. Once the Grand Cathedral of [[Tidal Harmony]], this massive religious structure was pulled into the ocean depths during the first major manifestation event 47 years ago. Rather than being destroyed, the cathedral transformed into something architecturally impossible - a building that exists in multiple dimensions simultaneously, where geometric laws serve cosmic rather than physical principles.
 
 ### The Inverted Spires
 
@@ -109,7 +109,7 @@ The main sanctuary measures precisely 200 feet long, 100 feet wide, and 50 feet 
 
 ### The Confession Chambers
 
-Seven confession chambers line the sanctuary's perimeter, each one larger inside than outside. The chambers connect to each other through doorways that lead in directions that don't exist - north-below, east-within, up-around. Penitents entering one chamber may exit from any other chamber, or from the same chamber at a different time.
+Seven confession chambers line the sanctuary's perimeter, each one larger inside than outside. The chambers connect to each other through doorways that lead in directions that don't exist - north-below, east-within, up-around. Penitents entering one chamber may exit from any other chamber, or from the same chamber at a different [[Time]].
 
 **Temporal Effect**: Conversations in confession chambers can be overheard by previous or future penitents. Secrets told here echo across time.
 
@@ -127,7 +127,7 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 
 ### The High Altar of Depths
 
-**Physical Description**: A massive coral formation that grows both upward from the floor and downward from the ceiling, meeting in the middle in defiance of gravity. The coral lives and breathes, its polyps opening and closing in rhythm with unknown tides. The altar surface shifts between coral, stone, flesh, and void depending on the observer's mental state.
+**Physical Description**: A massive [[Coral]] formation that grows both upward from the floor and downward from the ceiling, meeting in the middle in defiance of gravity. The coral lives and breathes, its polyps opening and closing in rhythm with unknown tides. The altar surface shifts between coral, stone, flesh, and void depending on the observer's mental state.
 
 **Function**: Serves as focal point for major rituals and sacrificial ceremonies. The altar can process offerings of memory, sanity, and identity as easily as physical matter.
 
@@ -136,13 +136,13 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 - The altar responds to emotional rather than physical touch
 - Sacrifices placed on the altar transform based on Deep Mother's current needs
 
-### The Gallery of Drowned Saints
+### The Gallery of [[Drowned]] Saints
 
 **Layout**: A circular chamber surrounding the main sanctuary, containing 49 alcoves (7×7). Each alcove houses a statue of an individual who achieved "perfect unity" with Deep Mother. The statues are carved from water itself, maintaining liquid form while holding solid shape.
 
 **The Saints**: Former clergy, scholars, and cult leaders who volunteered for complete transformation. Each statue weeps constantly, their tears joining the baptismal pool's water supply.
 
-**Interactive Elements**: Touching a statue allows communication with the saint's consciousness, providing advice, prophecy, or forbidden knowledge at the cost of 1d4 sanity per conversation.
+**Interactive Elements**: Touching a statue allows communication with the saint's consciousness, providing advice, prophecy, or [[Forbidden Knowledge]] at the cost of 1d4 sanity per conversation.
 
 ### The Scriptorium of Fluid Texts
 
@@ -169,7 +169,7 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 2. **Parasitic Symbiosis Pool**: Introduces beneficial parasites 
 3. **Sensory Enhancement Pool**: Develops Deep Mother perception abilities
 4. **Memory Integration Pool**: Allows access to collective cult knowledge
-5. **Temporal Displacement Pool**: Provides limited time travel abilities
+5. **[[Temporal Displacement]] Pool**: Provides limited time travel abilities
 6. **Reality Perception Pool**: Enables sight beyond normal dimensions
 7. **Unity Preparation Pool**: Final stage before ego dissolution
 
@@ -181,13 +181,13 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 
 **Meditation Effects**: Extended meditation (4+ hours) allows direct communication with Deep Mother but requires Wisdom saves (DC 18) to avoid losing one's sense of individual identity.
 
-**The Deep Trance**: Cultists who meditate here for 24 continuous hours may receive prophetic visions but risk never waking up, their consciousness joining the collective permanently.
+**The Deep Trance**: Cultists who meditate here for 24 continuous hours may receive [[Prophetic Visions]] but risk never waking up, their consciousness joining the collective permanently.
 
 #### The Tide Turning (Weekly)
 
 Every seven days, the entire congregation gathers to perform a ceremony that influences tidal patterns across Aquabyssos. This ritual demonstrates Deep Mother's growing power over natural forces and serves as practice for larger reality-affecting ceremonies.
 
-**Requirements**: 49 participants minimum, High Oracle leadership, harmonic convergence
+**Requirements**: 49 participants minimum, High [[Oracle]] leadership, harmonic convergence
 **Duration**: 7 hours (one hour per tide cycle)
 **Effect**: Tidal patterns become unpredictable, causing navigation problems for non-cultists
 
@@ -213,19 +213,19 @@ New cult members receive education in basic Deep Mother theology, meditation tec
 
 #### Advanced Studies
 
-Higher-ranking cultists study advanced topics: reality manipulation, temporal paradox resolution, parasitic symbiosis management, and direct communion with cosmic entities. These classes often result in visible transformation or madness.
+Higher-ranking cultists study advanced topics: [[Reality Manipulation]], temporal paradox resolution, parasitic symbiosis management, and direct communion with cosmic entities. These classes often result in visible transformation or madness.
 
 #### The Deep Curriculum
 
 Inner Circle members participate in educational experiences that can only be described as "learning to unlearn." Students study subjects like non-causal mathematics, impossible theology, and practical reality revision.
 
-### High Oracle Serenity Deepcall
+### [[High Oracle Serenity Deepcall]]
 
 **Role**: Cathedral's primary spiritual leader and Deep Mother's direct representative
 **Appearance**: Tall, graceful woman whose body shows obvious parasitic symbiosis - writhing spine, extra eyes, gills along neck
 **Abilities**: Direct communication with Deep Mother, reality alteration within cathedral grounds, prophetic sight
 **Personality**: Serene and welcoming to visitors, genuinely believes she's offering spiritual enlightenment
-**Combat Stats**: CR 16, focuses on psychic attacks and reality distortion
+**Combat Stats**: CR 16, focuses on psychic attacks and [[Reality Distortion]]
 
 ### The Drowned Choir
 
@@ -233,12 +233,12 @@ Inner Circle members participate in educational experiences that can only be des
 **Appearance**: Perpetually underwater figures visible through the pool's surface
 **Function**: Provide constant harmonic background for all cathedral ceremonies
 **Abilities**: Their songs can induce trance states, provide magical effects, or call Deep Mother's attention
-**Special**: Can communicate with visitors telepathically, often offering prophetic warnings or advice
+**Special**: Can communicate with visitors tele[[path]]ically, often offering prophetic warnings or advice
 
-### Brother Pelagios Irondeep
+### [[Brother Pelagios Irondeep]]
 
 **Role**: Master of the Transformation Pools, guide for physical modification rituals
-**Background**: Former deep-sea diver who survived crushing depths through Deep Mother's intervention
+**Background**: Former deep-sea diver who survived [[Crushing Depths]] through Deep Mother's intervention
 **Appearance**: Heavily transformed - metallic skin, pressure-resistant physique, breathing apparatus integrated into body
 **Personality**: Practical and methodical, views transformation as necessary evolution
 **Combat Stats**: CR 12, specializes in pressure-based attacks and defensive abilities
@@ -248,7 +248,7 @@ Inner Circle members participate in educational experiences that can only be des
 **Nature**: Seven animate cleaning implements (mops, brooms, scrubbers) given consciousness through Deep Mother's power
 **Function**: Maintain cathedral cleanliness and assist with minor ceremonies
 **Personality**: Eager to please, innocent despite their eldritch nature
-**Abilities**: Can move through water as easily as air, invisible to anyone not blessed by Deep Mother
+**Abilities**: Can move through water as easily as air, invisible to anyone not [[Bless]]ed by Deep Mother
 
 ### Sister Mira Depthsinger
 
@@ -291,13 +291,13 @@ The cathedral's impossible architecture should create steady sanity pressure:
 - General exposure: 1 sanity loss per hour of exploration
 - Specific chambers: Additional 1d4 loss for particularly disturbing areas
 - Ritual observation: 1d6 loss for witnessing ceremonies
-- Direct Deep Mother contact: 2d6+ loss depending on communication intensity
+- Direct Deep Mother contact: [[2d6]]+ loss depending on communication intensity
 - Philosophical revelation: Variable loss based on character's worldview changes
 
 ### Balancing Threat and Information
 
 The cathedral should feel genuinely dangerous while providing necessary campaign information:
-- Use NPCs genuinely convinced they're helping visitors
+- Use [[Npc]]s genuinely convinced they're helping visitors
 - Provide valuable intelligence mixed with obvious propaganda
 - Create situations where violence would be counter-productive
 - Allow characters to learn through observation and interaction
@@ -316,20 +316,20 @@ When describing the cathedral's aberrant architecture:
 
 Temple of the Sunken Cathedral is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Temple of the Sunken Cathedral as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temple of the Sunken Cathedral.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -351,6 +351,27 @@ Temple of the Sunken Cathedral is a notable location characterized by its unique
 ### Founding
 Temple of the Sunken Cathedral was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
 ## Current Events
 
 Ongoing situations affecting Temple of the Sunken Cathedral:
@@ -367,12 +388,12 @@ Ongoing situations affecting Temple of the Sunken Cathedral:
 - A noble needs help delivering before the new moon
 - A map reveals a conspiracy about the government
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -382,4 +403,41 @@ Ongoing situations affecting Temple of the Sunken Cathedral:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

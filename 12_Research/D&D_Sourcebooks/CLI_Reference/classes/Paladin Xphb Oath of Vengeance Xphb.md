@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Oath of Vengeance
-*[[paladin xphb|Paladin]]: Paladin Subclass*  
+*[[paladin-xphb-oath-of-conquest-xge (classes)]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
 > [!tldr] Class and Feature Progression
@@ -82,38 +82,38 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[bane xphb|Bane]], [[hunters mark xphb|Hunter's Mark]] |
-| 5th | [[hold person xphb|Hold Person]], [[misty step xphb|Misty Step]] |
-| 9th | [[haste xphb|Haste]], [[protection from energy xphb|Protection from Energy]] |
-| 13th | [[banishment xphb|Banishment]], [[dimension door xphb|Dimension Door]] |
-| 17th | [[hold monster xphb|Hold Monster]], [[scrying xphb|Scrying]] |
+| 3rd | [[Bane Xphb]], [[Hunters Mark Xphb]] |
+| 5th | [[Hold Person Xphb]], [[Misty Step Xphb]] |
+| 9th | [[Haste Xphb]], [[protection-from-energy-xphb (spells)]] |
+| 13th | [[Banishment Xphb]], [[Dimension Door Xphb]] |
+| 17th | [[Hold Monster Xphb]], [[Scrying Xphb]] |
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)
 
-When you take the [[actions#Attack|Attack]] action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[advantage xphb|Advantage]] on attack rolls against the creature for 1 minute or until you use this feature again.
+When you take the [[actions#Attack|Attack]] action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[Advantage Xphb]] on attack rolls against the creature for 1 minute or until you use this feature again.
 
-If the creature drops to 0 [[hit points xphb|Hit Points]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
+If the creature drops to 0 [[hit-points-xphb (variant-rules)]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 ### Relentless Avenger (Level 7)
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [[actions#Opportunity%20Attack|Opportunity Attack]], you can reduce the creature's [[speed xphb|Speed]] to 0 until the end of the current turn. You can then move up to half your [[speed xphb|Speed]] as part of the same [[reaction xphb|Reaction]]. This movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [[actions#Opportunity%20Attack|Opportunity Attack]], you can reduce the creature's [[Fly Speed Xphb]] to 0 until the end of the current turn. You can then move up to half your [[Fly Speed Xphb]] as part of the same [[reaction-xphb (variant-rules)]]. This movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Soul of Vengeance (Level 15)
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [[reaction xphb|Reaction]] to make a melee attack against that creature if it's within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [[reaction-xphb (variant-rules)]] to make a melee attack against that creature if it's within range.
 
 ### Avenging Angel (Level 20)
 
-As a [[bonus action xphb|Bonus Action]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long rest xphb|Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[Action Xphb]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Flight
 
-You sprout spectral wings on your back, have a [[fly speed xphb|Fly Speed]] of 60 feet, and can hover.
+You sprout spectral wings on your back, have a [[Fly Speed Xphb]] of 60 feet, and can hover.
 
 #### Frightful Aura
 
-Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute or until it takes any damage. [[actions#Attack|Attack]] rolls against the [[conditions#frightened|Frightened]] creature have [[advantage xphb|Advantage]].
+Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute or until it takes any damage. [[actions#Attack|Attack]] rolls against the [[conditions#frightened|Frightened]] creature have [[Advantage Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

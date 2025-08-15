@@ -214,9 +214,9 @@ Securing adequate funding and support for comprehensive reform initiatives.
 - [[Economic Architect Dr. Prosperity Sharewell]]
 
 **Important Concepts**:
-- [[Crystal Enhanced Democracy]]
+- [[Crystal-Enhanced Democracy]]
 - [[Systematic Governmental Reform]]
-- [[Evidence Based Policy Development]]
+- [[Evidence]]
 - [[Democratic Legitimacy and Reform]]
 - [[Crystal Goverce Model]]
 

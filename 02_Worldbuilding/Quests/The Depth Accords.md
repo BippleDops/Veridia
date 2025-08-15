@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Quests/The Depth Accords
+title: 02_Worldbuilding/[[Quests]]/The [[Depth Accords]]
 type: adventure
 tags:
 - adventure
@@ -71,7 +71,7 @@ An exciting quest that challenges heroes to uncover the truth.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -82,3 +82,7 @@ An exciting quest that challenges heroes to uncover the truth.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

@@ -42,7 +42,7 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 
-While wearing a Costume, you have [[advantage xphb|Advantage]] on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have [[Advantage Xphb]] on any ability check you make to impersonate the person or type of person it represents.
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
 

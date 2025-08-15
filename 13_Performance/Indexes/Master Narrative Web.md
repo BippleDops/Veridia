@@ -70,17 +70,17 @@ flowchart TD
 - War Council outcomes set mass-combat stakes for the Faction War finale.
 
 ## Cross-Index Links
-- [[13_Performance/Indexes/Complete_NPC_Matrix.md|Complete NPC Matrix]]
-- [[13_Performance/Indexes/Location_Network_Graph.md|Location Network Graph]]
-- [[13_Performance/Indexes/Quest_Dependency_System.md|Quest Dependency System]]
-- [[13_Performance/Indexes/Seven_Shards_Tracker.md|Seven Shards Tracker]]
+- [[Npc]]
+- [[INDEX]]
+- [[INDEX]]
+- [[INDEX]]
 ```dataview
 LIST FROM "01_Adventures/The_Seven_Shards_Campaign" OR "01_Adventures/Convergence_Crisis_Scenarios" WHERE status = "complete"
 ```
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[World Events]]
 

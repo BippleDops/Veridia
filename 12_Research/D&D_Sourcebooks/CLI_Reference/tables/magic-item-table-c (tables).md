@@ -39,34 +39,34 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-15 | [[potion of superior healing xdmg|Potion of superior healing]] |
-| 16-22 | [[spell scroll level 4 xdmg|Spell scroll (4th level)]] |
-| 23-27 | [[2 ammunition xdmg|+2 ammunition]] |
-| 28-32 | [[potion of clairvoyance xdmg|Potion of clairvoyance]] |
-| 33-37 | [[potion of diminution xdmg|Potion of diminution]] |
-| 38-42 | [[potion of gaseous form xdmg|Potion of gaseous form]] |
-| 43-47 | [[potion of frost giant strength xdmg|Potion of frost giant strength]] |
-| 48-52 | [[potion of stone giant strength xdmg|Potion of stone giant strength]] |
-| 53-57 | [[potion of heroism xdmg|Potion of heroism]] |
-| 58-62 | [[potion of invulnerability xdmg|Potion of invulnerability]] |
-| 63-67 | [[potion of mind reading xdmg|Potion of mind reading]] |
-| 68-72 | [[spell scroll level 5 xdmg|Spell scroll (5th level)]] |
-| 73-75 | [[elixir of health xdmg|Elixir of health]] |
-| 76-78 | [[oil of etherealness xdmg|Oil of etherealness]] |
-| 79-81 | [[potion of fire giant strength xdmg|Potion of fire giant strength]] |
-| 82-84 | [[quaals feather token xdmg|Quaal's feather token]] |
-| 85-87 | [[scroll of protection xdmg|Scroll of protection]] |
-| 88-89 | [[bag of beans xdmg|Bag of beans]] |
-| 90-91 | [[bead of force xdmg|Bead of force]] |
-| 92 | [[chime of opening xdmg|Chime of opening]] |
-| 93 | [[decanter of endless water xdmg|Decanter of endless water]] |
-| 94 | [[eyes of minute seeing xdmg|Eyes of minute seeing]] |
-| 95 | [[folding boat xdmg|Folding boat]] |
-| 96 | [[hewards handy haversack xdmg|Heward's handy haversack]] |
-| 97 | [[horseshoes of speed xdmg|Horseshoes of speed]] |
-| 98 | [[necklace of fireballs xdmg|Necklace of fireballs]] |
-| 99 | [[periapt of health xdmg|Periapt of health]] |
-| 00 | [[sending stones xdmg|Sending stones]] |
+| 01-15 | [[healing]] |
+| 16-22 | [[Spell Scroll Level 4 Xdmg]] |
+| 23-27 | [[2 Ammunition Xdmg]] |
+| 28-32 | [[potion-of-clairvoyance-xdmg (items)]] |
+| 33-37 | [[potion-of-diminution-xdmg (items)]] |
+| 38-42 | [[potion-of-gaseous-form-xdmg (items)]] |
+| 43-47 | [[Potion of Frost Giant Strength Xdmg]] |
+| 48-52 | [[potion-of-stone-giant-strength-xdmg (items)]] |
+| 53-57 | [[Potion of Heroism Xdmg]] |
+| 58-62 | [[Potion of Invulnerability Xdmg]] |
+| 63-67 | [[potion-of-mind-reading-xdmg (items)]] |
+| 68-72 | [[spell-scroll-level-5-xdmg (items)]] |
+| 73-75 | [[Elixir of Health Xdmg]] |
+| 76-78 | [[Oil of Etherealness Xdmg]] |
+| 79-81 | [[giant]] |
+| 82-84 | [[quaals-feather-token-xdmg (items)]] |
+| 85-87 | [[scroll-of-protection-xdmg (items)]] |
+| 88-89 | [[Bag of Beans Xdmg]] |
+| 90-91 | [[Bead of Force Xdmg]] |
+| 92 | [[Chime of Opening Xdmg]] |
+| 93 | [[Decanter of Endless Water Xdmg]] |
+| 94 | [[eyes-of-minute-seeing-xdmg (items)]] |
+| 95 | [[Folding Boat Xdmg]] |
+| 96 | [[hewards-handy-haversack-xdmg (items)]] |
+| 97 | [[horseshoes-of-speed-xdmg (items)]] |
+| 98 | [[Necklace of Fireballs Xdmg]] |
+| 99 | [[Periapt of Health Xdmg]] |
+| 00 | [[sending-stones-xdmg (items)]] |
 ^magic-item-table-c
 
 ## 🔧 Deep Evaluation Improvements

@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [[wall of stone xphb|wall of stone]].
+You can spend 6 ki points to cast [[Wall of Stone Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -51,11 +51,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [[disadvantage xphb|Disadvantage]] on the next attack roll it makes until the start of your next turn.
+A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [[Advantage Xphb]] on the next attack roll it makes until the start of your next turn.
 
-On a failed save, the target has [[disadvantage xphb|Disadvantage]] on Strength-based [[d20-test-xphb|D20 Tests]] for the duration. During that time, it also subtracts `d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
+On a failed save, the target has [[Advantage Xphb]] on Strength-based [[d20-test-xphb (variant-rules)]] for the duration. During that time, it also subtracts `d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD and the Free Rules (2024)*
 
@@ -90,3 +90,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[ray-of-enfeeblement-xphb (spells)-phb]]` in CLI_Reference/spells/

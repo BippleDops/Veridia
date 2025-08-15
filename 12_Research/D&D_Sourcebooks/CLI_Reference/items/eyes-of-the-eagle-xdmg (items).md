@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/eyes-of-the-eagle.webp#right)
 
-These crystal lenses fit over the eyes. While wearing them, you have [[advantage xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
+These crystal lenses fit over the eyes. While wearing them, you have [[Advantage Xphb]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
 

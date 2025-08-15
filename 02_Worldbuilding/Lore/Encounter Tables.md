@@ -1,7 +1,7 @@
 ---
 
 title: Encounter Tables
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -71,7 +71,7 @@ Encounter Tables represents a crucial aspect of the world's history, cosmology, 
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -82,3 +82,10 @@ Encounter Tables represents a crucial aspect of the world's history, cosmology, 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

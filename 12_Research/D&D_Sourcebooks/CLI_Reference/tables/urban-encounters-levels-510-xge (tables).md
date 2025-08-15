@@ -39,57 +39,57 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | 1d10 [[kenku xmm|kenku]] |
+| 01-02 | 1d10 [[Kenku Xmm]] |
 | 03-04 | 2d6 [[giant-centipede-xmm|giant centipedes]] |
-| 05-06 | 2d8 [[skeleton xmm|skeletons]] |
-| 07-08 | 1d6 [[swarm-of-bats-xmm|swarms of bats]] and 1d6 [[swarm-of-rats-xmm|swarms of rats]] |
+| 05-06 | 2d8 [[flaming-skeleton-xmm (undead)]] |
+| 07-08 | 1d6 [[swarm-of-bats-xmm|swarms of bats]] and 1d6 [[swarm-of-rats-xmm (beast)]] |
 | 09-10 | 3d6 [[winged-kobold-xmm|winged kobolds]] |
-| 11-13 | 2d4 [[specter xmm|specters]] |
-| 14-16 | 1d4 [[wight xmm|wights]] |
-| 17-19 | 4d4 [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] on [[draft-horse-xmm|draft horses]] |
+| 11-13 | 2d4 [[specter-xmm (undead)]] |
+| 14-16 | 1d4 [[Wight Xmm]] |
+| 17-19 | 4d4 [[Bestiary]] on [[draft-horse-xmm (beast)]] |
 | 20-22 | 3d6 [[giant-centipede-xmm|giant centipedes]] |
 | 23-25 | A talkative urchin, badgering passersby to serve as their guide through the community for a price of 1 sp |
-| 26-28 | 1d10 [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|spies]] |
-| 29-31 | 3d6 [[crocodile xmm|crocodiles]] |
+| 26-28 | 1d10 [[Bestiary]] |
+| 29-31 | 3d6 [[Crocodile Xmm]] |
 | 32-34 | 1d6 + 2 [[swarm-of-insects-xmm|swarms of insects]] |
-| 35-37 | 2d4 [[smoke-mephit-xmm|smoke mephits]] |
-| 38-40 | A [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|noble]] shouts "Stop! Thief!" at a fleeing scoundrel ([[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandit]]) |
-| 41-43 | 1 [[succubus xmm|succubus]] or 1 [[incubus xmm|incubus]] |
+| 35-37 | 2d4 [[smoke-mephit-xmm (elemental)]] |
+| 38-40 | A [[Bestiary]] shouts "Stop! Thief!" at a fleeing scoundrel ([[Bestiary]]) |
+| 41-43 | 1 [[succubus-xmm (fiend)]] or 1 [[incubus-xmm (fiend)]] |
 | 44-46 | 1d10 [[ogrillon-ogre-xmm|half-ogres]] |
 | 47-49 | 2d10 [[giant-wasp-xmm|giant wasps]] |
-| 50-51 | 4d10 [[zombie xmm|zombies]] |
-| 52-53 | 1d4 [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|knights]] on [[warhorse xmm|warhorses]] |
+| 50-51 | 4d10 [[Zombie Xmm]] |
+| 52-53 | 1d4 [[Bestiary]] on [[warhorse-xmm (beast)]] |
 | 54-55 | 1d4 + 1 [[water-weird-xmm|water weirds]] |
-| 56-57 | 1d8 + 1 [[mimic xmm|mimics]] |
+| 56-57 | 1d8 + 1 [[Mimic Xmm]] |
 | 58-59 | 2d8 [[giant-spider-xmm|giant spiders]] |
-| 60-61 | 3d6 [[shadow xmm|shadows]] |
+| 60-61 | 3d6 [[Shadow Xmm]] |
 | 62-65 | An actor leans out from a second-story window to call to passersby, announcing a show |
-| 66-67 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 3d8 [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
+| 66-67 | 1 [[Bestiary]] with 3d8 [[Bestiary]] |
 | 68-69 | 1d10 [[will-o-wisp-xmm|will-o'-wisps]] |
-| 70-71 | 2d4 [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|priests]] |
-| 72-74 | 3d6 [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 75-76 | 2d10 [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|thugs]] |
+| 70-71 | 2d4 [[Bestiary]] |
+| 72-74 | 3d6 [[Bestiary]] |
+| 75-76 | 2d10 [[Bestiary]] |
 | 77-80 | A fortune-teller reads cards for those who pay a price of 1 sp |
-| 81 | 1d3 [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|gladiators]] |
-| 82 | 1d4 + 1 [[couatl xmm|couatls]] |
-| 83 | 1d8 [[ghost xmm|ghosts]] |
-| 84 | 2d4 [[doppelganger xmm|doppelgangers]] |
+| 81 | 1d3 [[Bestiary]] |
+| 82 | 1d4 + 1 [[Couatl Xmm]] |
+| 83 | 1d8 [[Ghost Xmm]] |
+| 84 | 2d4 [[Doppelganger Xmm]] |
 | 85 | 1d6 + 2 [[phase-spider-xmm|phase spiders]] |
-| 86 | 2d4 [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
-| 87 | 1d8 [[ghast xmm|ghasts]] with 2d6 [[ghoul xmm|ghouls]] |
-| 88 | 3d6 [[gargoyle xmm|gargoyles]] |
-| 89 | 2d10 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
-| 90 | 3d6 [[wererat xmm|wererats]] |
-| 91 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|assassin]] |
-| 92 | 1d3 [[invisible-stalker-xmm|invisible stalkers]] |
-| 93 | 1 [[gray-slaad-xmm|gray slaad]] |
+| 86 | 2d4 [[Bestiary]] |
+| 87 | 1d8 [[ghast-xmm (undead)]] with 2d6 [[ghoul-xmm (undead)]] |
+| 88 | 3d6 [[gargoyle-xmm (elemental)]] |
+| 89 | 2d10 [[Bestiary]] |
+| 90 | 3d6 [[Wererat Xmm]] |
+| 91 | 1 [[Bestiary]] |
+| 92 | 1d3 [[invisible-stalker-xmm (elemental)]] |
+| 93 | 1 [[Gray Slaad Xmm]] |
 | 94 | 1 [[young-silver-dragon-xmm|young silver dragon]] |
-| 95 | 1d4 [[cambion xmm|cambions]] or 1d4 [[revet xmm|revets]] |
-| 96 | 3d6 [[wight xmm|wights]] |
-| 97 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|archmage]] |
-| 98 | 2d4 [[vampire-spawn-xmm|vampire spawn]] or 1d4 [[oni xmm|oni]] |
-| 99 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/mage xmm|mage]] with 1 [[shield-guardian-xmm|shield guardian]] |
-| 00 | 1 [[rakshasa xmm|rakshasa]] or 1 [[vampire xmm|vampire]] |
+| 95 | 1d4 [[Cambion Xmm]] or 1d4 [[revet xmm|revets]] |
+| 96 | 3d6 [[Wight Xmm]] |
+| 97 | 1 [[Bestiary]] |
+| 98 | 2d4 [[vampire-spawn-xmm|vampire spawn]] or 1d4 [[Oni Xmm]] |
+| 99 | 1 [[Bestiary]] with 1 [[Shield]] |
+| 00 | 1 [[Rakshasa Xmm]] or 1 [[Vampire Xmm (undead)]] |
 ^urban-encounters-levels-510
 
 ## 🔧 Deep Evaluation Improvements
@@ -144,3 +144,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

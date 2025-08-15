@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brass-dragon-wyrmling-xmm-brass-dragon-wyrmling-xmm.svg)
 
-# [[brass dragon wyrmling xmm|Brass Dragon Wyrmling]]
+# [[Brass Dragon]]
 *Source: Monster Manual (2024) p. 54. Available in the SRD and the Free Rules (2024)*  
 
 Brass dragon wyrmlings are relentlessly curious. These dragons eagerly engage approachable creatures and are quick to explore any place that has an interesting story. Once they hear tales of adventure, many are keen to start their own quests.
@@ -106,10 +106,10 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 14 (4d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
       \ 2nd Failure: The target has the [[conditions#Unconscious|Unconscious]]\

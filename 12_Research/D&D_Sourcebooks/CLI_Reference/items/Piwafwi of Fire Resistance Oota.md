@@ -39,7 +39,7 @@ world: Both
 # Piwafwi of Fire Resistance
 *Wondrous item, rare (requires attunement)*  
 
-This dark spider silk cloak is made by [[/03 Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.
+This dark spider silk cloak is made by [[Bestiary]]. It is a [[Cloak of Elvenkind Xdmg]]. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.
 
 While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Perception]]) checks made to see you have disadvantage. and you have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 

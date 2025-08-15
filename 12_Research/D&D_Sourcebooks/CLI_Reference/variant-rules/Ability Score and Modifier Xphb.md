@@ -34,7 +34,7 @@ world: Both
 # Ability Score and Modifier
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a [[d20 test xphb|D20 Test]] Test with the corresponding ability or when a rule asks you to do so.
+A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a [[d20-test-xphb (variant-rules)]] Test with the corresponding ability or when a rule asks you to do so.
 
 ## 🔧 Deep Evaluation Improvements
 

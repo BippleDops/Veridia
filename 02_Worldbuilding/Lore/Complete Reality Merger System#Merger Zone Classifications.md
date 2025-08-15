@@ -1,9 +1,9 @@
 ---
-title: Complete Reality Merger System#Merger Zone Classifications
+title: [[Complete Reality Merger System]]#Merger Zone Classifications
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 

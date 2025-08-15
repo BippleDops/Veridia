@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grimlock-xmm-grimlock-xmm.svg)
 
-# [[grimlock xmm|Grimlock]]
+# [[Grimlock Xmm]]
 *Source: Monster Manual (2024) p. 160. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

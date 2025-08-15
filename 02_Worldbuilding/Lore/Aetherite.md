@@ -1,7 +1,7 @@
 ---
 
 title: Aetherite
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -12,7 +12,7 @@ tags:
 - active
 - complete
 - status/in-progress
-- aethermoor
+- [[Aethermoor]]
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,15 +82,15 @@ Aetherite is a sky-borne element of the setting, known for brass fittings and cl
 
 Legends speak of Aetherite as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aetherite.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Aetherite represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -102,5 +102,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Someone is protecting a witness for money
 - A journal reveals a betrayal about this place
-- A merchant needs help stealing before dawn
+- A [[Merchant]] needs help stealing before dawn
 - A noble needs help delivering before winter

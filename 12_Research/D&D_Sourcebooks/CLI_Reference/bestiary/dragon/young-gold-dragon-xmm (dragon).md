@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-gold-dragon-xmm-v1-young-gold-dragon-xmm.svg)
 
-# [[young gold dragon xmm|Young Gold Dragon]]
+# [[young-gold-dragon-xmm (dragon)]]
 *Source: Monster Manual (2024) p. 144. Available in the SRD and the Free Rules (2024)*  
 
 Young gold dragons have seen glimpses of the world's true evils and crusade to oppose them. They often seek bold and direct solutions to problems.
@@ -115,13 +115,13 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing\
       \ damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: 55 (10d10) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 17, each creature that isn't currently affected\
-      \ by this breath in a 30-foot [[cone area of effect xphb|Cone]].\
-      \ Failure: The target has [[disadvantage xphb|Disadvantage]]\
-      \ on Strength-based [[d20 test xphb|D20 Tests]]\
+      \ by this breath in a 30-foot [[Area of Effect Xphb]].\
+      \ Failure: The target has [[Advantage Xphb]]\
+      \ on Strength-based [[d20-test-xphb (variant-rules)]]\
       \ and subtracts 3 (d6) from its damage rolls. It repeats the save at the end\
       \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
       \ it succeeds automatically."

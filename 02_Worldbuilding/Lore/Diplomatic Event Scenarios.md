@@ -1,10 +1,10 @@
 ---
 
 title: Diplomatic Event Scenarios
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - mechanics/social
 - content/adventure
 - status/complete
@@ -32,8 +32,8 @@ improvements: 20
 
 *A Generator for International Intrigue and Political Drama*
 
-> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice kraken' until we can find a harpoon."*
-> — Ambassador Marina Deepcurrent, "Principles of Underwater Diplomacy"
+> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice [[[[Krake]]n]]' until we can find a harpoon."*
+> — Ambassador [[Marina Deepcurrent]], "Principles of Underwater Diplomacy"
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -97,11 +97,11 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Template A: The Trade Negotiation Masquerade
 
-*Economic discussions hiding political maneuvering*
+*Economic discussions hiding [[Political Maneuvering]]*
 
 #### Key Elements
 
-1. **Opening Ceremony:** Formal welcome with cultural exchange
+1. **Opening Ceremony:** Formal welcome with [[Cultural Exchange]]
 2. **Technical Sessions:** Detailed negotiation of trade terms
 3. **Social Events:** Informal networking and intelligence gathering
 4. **Crisis Interruption:** Unexpected development requiring response
@@ -112,16 +112,16 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 - **Roll 1d6 for Primary Complication:**
   1. Key negotiator is shadow replacement working against their own nation
   2. Crucial trade route involves territory with disputed ownership
-  3. One nation's economic data is completely falsified
+  3. One nation's economic [[data]] is completely falsified
   4. Major trade good is actually contraband or dangerous material
-  5. Negotiation is cover for military intelligence gathering
+  5. Negotiation is cover for [[Military Intelligence]] gathering
   6. Environmental disaster threatens trade route during negotiations
 
 - **Roll 1d4 for Secondary Issues:**
   1. Cultural misunderstandings escalate into diplomatic incidents
   2. Security breach exposes classified negotiation positions
   3. Personal relationships between negotiators complicate professional duties
-  4. Time pressure from external crisis forces rushed decisions
+  4. [[Time]] pressure from external crisis forces rushed decisions
 
 ### Template B: The Cultural Festival Convergence
 
@@ -143,7 +143,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
   3. Performer is actually foreign agent gathering intelligence
   4. Cultural artifact on display is stolen/fake/cursed
   5. Sports competition injury creates diplomatic incident
-  6. Food poisoning at official banquet sparks assassination fears
+  6. Food poisoning at official banquet sparks [[Assassin]]ation fears
   7. Cultural misunderstanding leads to religious offense
   8. Weather or environmental disaster threatens festival continuation
 
@@ -163,7 +163,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 1. **Crisis Briefing:** Detailed situation assessment and intelligence sharing
 2. **Response Planning:** Coordination of relief efforts and resources
-3. **Resource Allocation:** Distribution of costs and responsibilities
+3. **Resource Al[[location]]:** Distribution of costs and responsibilities
 4. **Legal Framework:** Treaties or agreements governing crisis response
 5. **Implementation Coordination:** Ongoing communication and adjustment protocols
 
@@ -177,7 +177,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 6. **Supernatural Threat:** Eldritch entity or magical catastrophe
 7. **Refugee Crisis:** Mass population displacement from disaster
 8. **Resource Depletion:** Critical shortage of essential materials
-9. **Communication Breakdown:** Loss of international communication systems
+9. **Communication Breakdown:** Loss of international [[Communication Systems]]
 10. **Political Assassination:** Murder of key international leader
 
 ### Template D: The Marriage Alliance Spectacle
@@ -190,7 +190,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 2. **Dowry Negotiation:** Ficial and political terms of alliance
 3. **Pre-Wedding Events:** Multiple social occasions for diplomatic interaction
 4. **Wedding Ceremony:** Public ritual with international witnesses
-5. **Post-Wedding Politics:** Integration of new alliance into international relations
+5. **Post-Wedding Politics:** Integration of new alliance into [[International Relations]]
 
 #### Marriage Politics Complications (Roll 1d8)
 
@@ -207,12 +207,12 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 1. **Military Cooperation:** Joint defense agreements and troop sharing
 2. **Economic Integration:** Trade preferences and ficial cooperation
-3. **Intelligence Sharing:** Coordinated espionage and information exchange
+3. **Intelligence Sharing:** Coordinated espionage and [[Information Exchange]]
 4. **Territorial Exchange:** Land transfers or boundary adjustments
 5. **Cultural Exchange:** Educational and social integration programs
 6. **Succession Rights:** Future inheritance and political continuity agreements
 
-### Template E: The Technology Transfer Symposium
+### Template E: The [[Technology Transfer]] Symposium
 
 *Scientific cooperation concealing espionage operations*
 
@@ -258,7 +258,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 **Roll 1d12 when events become complicated:**
 1. **Personal Vendetta:** Historical grievance affects professional relationship
-2. **Economic Pressure:** Ficial crisis forces desperate decisions
+2. **[[Economic Pressure]]:** Ficial crisis forces desperate decisions
 3. **Security Threat:** Assassination attempt or terrorist action
 4. **Environmental Crisis:** Natural disaster interferes with proceedings
 5. **Communication Breakdown:** Misunderstanding escalates into major conflict
@@ -272,7 +272,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Outcome Determination Matrix
 
-**Roll 2d6 for event outcome:**
+**Roll [[2d6]] for event outcome:**
 - **2-3:** Complete Failure - Worst possible outcome, new conflicts created
 - **4-5:** Major Problems - Significant issues, limited success
 - **6-8:** Mixed Results - Some success, some failure, complications remain
@@ -320,7 +320,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ---
 
-*"Successful diplomacy requires the wisdom of Solomon, the patience of Job, and the ability to smile while your counterpart is picking your pocket. In Aquabyssos, add the ability to breathe underwater and detect shadow replacements."*
+*"Successful diplomacy requires the wisdom of Solomon, the patience of Job, and the ability to smile while your counterpart is picking your pocket. In Aquabyssos, add the ability to breathe underwater and detect [[Shadow Replacements]]."*
 — Ambassador Prism Clearlight, "Advanced Diplomatic Protocols"
 
 ## Player-Facing Summary
@@ -331,11 +331,11 @@ Diplomatic Event Scenarios is a undersea element of the setting, known for biolu
 
 Legends speak of Diplomatic Event Scenarios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Event Scenarios.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

@@ -1,6 +1,6 @@
 ---
 
-title: Cure Component Locations
+title: Cure Component [[location]]s
 type: location
 tags:
 - location
@@ -9,7 +9,7 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 location_type: Village
-region: Central Territories
+[[region]]: Central Territories
 population: 42200
 evaluated: '2025-08-14'
 improvements: 20
@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ The village is organized into 4 distinct districts:
 1. **Central District**: Heart of administration and commerce
 2. **Residential Quarter**: Where the population makes their homes
 3. **Market District**: Trade and commerce center
-4. **Temple Ward**: Religious and spiritual center
+4. **[[Temple Ward]]**: Religious and spiritual center
 5. **Craft Quarter**: Workshops and artisan studios
 
 ### Government Type
@@ -108,7 +108,7 @@ The economy primarily relies on craftsmanship, with secondary income from religi
 ### Commercial Areas
 1. **Grand Market**: Where cultures mix
 2. **Artisan Quarter**: Home to master craftsmen
-3. **Merchant Halls**: Where contracts are enforced
+3. **[[Merchant]] Halls**: Where contracts are enforced
 
 ### Government Buildings
 1. **Seat of Power**: The town hall
@@ -126,7 +126,7 @@ Cure Component Locations was established recently by brave settlers. The origina
 ### Major Historical Events
 1. **The Founding Era**: Establishment and early struggles
 2. **The Golden Age**: Period of unprecedented prosperity
-3. **The Dark Times**: When evil rose
+3. **The Dark [[Time]]s**: When evil rose
 4. **The Reconstruction**: Recovery and rebuilding
 5. **Recent History**: Current challenges and opportunities
 
@@ -152,8 +152,8 @@ The economy is thriving due to magical phenomena.
 5. **The Tournament**: Competition with suspicious circumstances
 
 ### Mid Level (6-10)
-1. **The Corruption Scandal**: Evidence of high-level conspiracy
-2. **The Ancient Ruins**: Discovery beneath the city
+1. **The Corruption Scandal**: [[Evidence]] of high-level conspiracy
+2. **The [[Ancient Ruins]]**: Discovery beneath the city
 3. **The Diplomatic Crisis**: Prevent war through negotiation
 4. **The Magical Plague**: Supernatural disease spreading
 5. **The Succession Question**: Determine rightful heir
@@ -180,8 +180,8 @@ Cure Component Locations can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### Random Encounters (d20)
-1-4: City watch patrol
+### [[[[Random Encounter]]s]] (d20)
+1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
 12-14: Drunk nobles causing trouble
@@ -207,7 +207,7 @@ Cure Component Locations can serve as:
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 10
   
-### Environmental Hazards
+### [[Environmental Hazards]]
 - Poisonous gas
 - DC 16 to detect
 - 4d6 damage on failure
@@ -227,14 +227,14 @@ Cure Component Locations can serve as:
 ### Future Seeds  
 - **Near Future**: Arrival in 4 days
 - **Brewing Conflict**: Succession
-- **Prophecy Connection**: Links to The Second Prophecy of Depths
+- **Prophecy Connection**: [[Link]]s to The Second Prophecy of Depths
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -244,4 +244,4 @@ Cure Component Locations can serve as:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established

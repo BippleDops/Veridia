@@ -1,7 +1,7 @@
 ---
 
 title: Pressure Tube Terminal
-type: Location
+type: [[location]]
 tags:
 - both
 - world/both
@@ -14,7 +14,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.957108+00:00'
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -93,21 +93,21 @@ The Pressure Tube Terminal serves as the central hub for [[Aquabyssos]]'s revolu
 Built within a naturally occurring underwater valley that provides optimal pressure conditions for tube operations, the terminal combines architectural grandeur with cutting-edge transportation technology. The facility serves not only as a transit point but as a commercial center, diplomatic meeting place, and showcase of [[Aquabyssos]] engineering prowess.
 
 ### The Great Convergence Hall
-A vast central chamber where dozens of tube lines meet, creating a spectacular display of flowing currents and crystalline architecture. The hall's domed ceiling displays real-time maps of the entire tube network, showing traffic flow, system status, and arrival/departure information in patterns of bioluminescent light.
+A vast central chamber where dozens of tube lines meet, creating a spectacular display of flowing currents and crystalline architecture. The hall's domed ceiling displays real-[[Time]] [[map]]s of the entire tube network, showing traffic flow, system status, and arrival/departure information in patterns of bioluminescent light.
 
 ### The Departure Galleries
-Elegant waiting areas designed for different classes of travel, from basic transport to luxury diplomatic service. Each gallery features comfortable seating areas, refreshment facilities, and information systems that help travelers navigate the complex scheduling and routing options available through the tube network.
+Elegant waiting areas designed for different classes of travel, from basic transport to luxury [[Diplomatic Service]]. Each gallery features comfortable seating areas, refreshment facilities, and information systems that help travelers navigate the complex scheduling and routing options available through the tube network.
 
 ### The Central Command Center
 The nerve center of tube operations, where traffic controllers coordinate movements throughout the entire kingdom-wide network. This facility houses the most advanced pressure monitoring equipment and maintains real-time communication with every tube station in [[Aquabyssos]].
 
-### The Merchant Exchange
+### The [[Merchant]] Exchange
 A bustling commercial area where traders conduct business while waiting for connections, creating an economic hub that rivals the kingdom's traditional markets. The exchange includes secure storage facilities, ficial services, and meeting rooms for conducting inter-city commerce.
 
 ### The Diplomatic Lounge
-Exclusive facilities for government officials and foreign dignitaries, providing privacy, enhanced security, and direct connections to high-priority tube routes. The lounge includes conference rooms for sensitive negotiations and secure communication links to government facilities.
+Exclusive facilities for [[Government Officia]]ls and foreign dignitaries, providing privacy, enhanced security, and direct connections to high-priority tube routes. The lounge includes conference rooms for sensitive negotiations and secure communication [[Link]]s to government facilities.
 
-### The Emergency Response Center
+### [[The Emergency Response Center]]
 Specialized facilities for handling transportation crises, medical emergencies, and security incidents. The center maintains rapid-response teams and emergency equipment capable of dealing with any situation that might affect terminal operations or passenger safety.
 
 ### The Maintece Complex
@@ -135,7 +135,7 @@ Advanced technical facilities where tube maintece crews service the transport po
 
 ### Emergency Coordinator Medic Swift Rescuecurrent
 **Role**: Chief of Emergency Services and Crisis Response
-**Personality**: Quick-thinking medical professional with leadership skills for crisis management
+**Personality**: Quick-thinking medical professional with leadership skills for [[Crisis Management]]
 **Goals**: Ensuring rapid response capabilities while preventing emergencies through proactive safety measures
 
 ### The Terminal Siege Crisis
@@ -145,7 +145,7 @@ Hostile forces attempt to seize control of the terminal to cripple [[Aquabyssos]
 Someone is systematically disrupting tube schedules in ways that seem designed to strand specific individuals or prevent certain meetings, suggesting a conspiracy with political implications.
 
 ### The Overcrowding Emergency
-Unprecedented numbers of travelers converge on the terminal due to crisis conditions elsewhere in the kingdom, creating dangerous overcrowding that tests emergency management capabilities.
+Unprecedented numbers of travelers converge on the terminal due to crisis conditions elsewhere in the kingdom, creating dangerous overcrowding that tests [[Emergency Management]] capabilities.
 
 ### The Diplomatic Incident Investigation
 A foreign dignitary disappears while using terminal facilities, creating international tensions and requiring careful investigation to determine whether this was accident, crime, or political conspiracy.
@@ -163,18 +163,18 @@ Terminal operations provide extensive surveillance capabilities that monitor tra
 Commercial activities at the terminal give authorities significant influence over kingdom-wide economic conditions, with the ability to affect trade flows and market stability.
 
 ### The Diplomatic Backdoor Operations
-Secret diplomatic facilities allow for unofficial negotiations and communications that bypass formal governmental channels, providing flexibility for sensitive international relations.
+Secret diplomatic facilities allow for unofficial negotiations and communications that bypass formal governmental channels, providing flexibility for sensitive [[International Relations]].
 
 ### The Emergency Evacuation Protocols
 Classified contingency plans could rapidly evacuate key government officials and essential personnel to secure locations during catastrophic threats to the kingdom.
 
 ### Pressure System Failures
-Technical malfunctions can create dangerous pressure differentials throughout the facility.
+Technical malfunctions can create dangerous [[Pressure Differential]]s throughout the facility.
 **Mechanical Effect**: System failures require evacuation of affected areas and impose risks of decompression injury.
 
 ### Traffic Congestion Chaos
 Peak travel periods can create dangerous overcrowding conditions.
-**Mechanical Effect**: Crowded conditions impose disadvantage on movement and increase risks of accidents or panic.
+**Mechanical Effect**: Crowded conditions impose [[Disadvantage]] on movement and increase risks of accidents or panic.
 
 ### Security Alert Lockdowns
 Threat conditions trigger security measures that restrict movement throughout the terminal.
@@ -222,25 +222,25 @@ Authorization to review transportation system technical specifications.
 ### Adventure Integration
 **Transportation Hub**: Terminal serves as natural gathering point for adventures requiring travel to various locations.
 **Political Center**: Terminal politics and operations intersect with kingdom-wide governmental and diplomatic activities.
-**Economic Focus**: Commercial activities provide opportunities for trade-based adventures and economic manipulation plots.
+**Economic Focus**: Commercial activities provide opportunities for trade-based adventures and [[Economic Manipulation]] plots.
 **Emergency Staging**: Terminal facilities provide resources and coordination for crisis response adventures.
 
 ## Player-Facing Summary
 
 Pressure Tube Terminal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Pressure Tube Terminal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Tube Terminal.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -263,6 +263,34 @@ Pressure Tube Terminal is a notable location characterized by its unique feature
 
 ### Founding
 Pressure Tube Terminal was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -300,3 +328,40 @@ Ongoing situations affecting Pressure Tube Terminal:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

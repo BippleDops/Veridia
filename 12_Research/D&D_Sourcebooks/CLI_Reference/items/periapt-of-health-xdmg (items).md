@@ -38,9 +38,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While wearing this pendant, you can take a [[actions#Magic|Magic]] action to regain `2d4 + 2` [[hit points xphb|Hit Points]]. Once used, this property can't be used again until the next dawn.
+While wearing this pendant, you can take a [[actions#Magic|Magic]] action to regain `2d4 + 2` [[hit-points-xphb (variant-rules)]]. Once used, this property can't be used again until the next dawn.
 
-In addition, you have [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition while you wear this pendant.
+In addition, you have [[Advantage Xphb]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition while you wear this pendant.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 

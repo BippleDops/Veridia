@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Development_Survey - Quick Reference
 
 ## Key Info

@@ -112,7 +112,7 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 ## Secrets & Hidden Knowledge
 > [!warning] DM Only
 > - Knows the true location of three of [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
-> - Has seen visions of [[Duchess Marina Ever Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]'s true nature
+> - Has seen visions of [[Duchess Marina Ever-Drowning (D&D_References)]]'s true nature
 > - Prophesied the return of [[Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]] centuries ago
 > - Knows that [[Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] is dying from pressure poisoning
 > - Has foreseen a catastrophic war between surface and depths within 5 years
@@ -164,5 +164,5 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 ## Relationships
 
 - **Debtor**: [[Surface Syndicate]]
-- **Parent**: [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
+- **Parent**: [[Npc]]
 - **Creditor**: [[Coral Duchess Amphitrite]]

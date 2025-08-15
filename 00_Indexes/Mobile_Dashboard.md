@@ -1,10 +1,12 @@
 ---
+
 title: Mobile_Dashboard
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Mobile_Dashboard
@@ -25,9 +27,9 @@ cssclass: mobile-optimized
 
 ## 📝 Notes
 
-- [[06 Sessions/Session Notes]]
-- [[Player Notes]]
-- [[02 Worldbuilding/Lore/DM Screen]]
+- [[Session Notes]]
+- [[Playe]]
+- [[02_Worldbuilding]]
 
 ---
 *Optimized for mobile devices*
@@ -43,3 +45,13 @@ cssclass: mobile-optimized
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

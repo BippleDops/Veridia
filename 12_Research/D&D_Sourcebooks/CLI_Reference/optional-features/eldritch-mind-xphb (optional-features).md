@@ -34,7 +34,7 @@ world: Both
 # Eldritch Mind
 *Source: Player's Handbook (2024) p. 155*  
 
-You have [[advantage xphb|Advantage]] on Constitution saving throws that you make to maintain [[conditions#Concentration|Concentration]].
+You have [[Advantage Xphb]] on Constitution saving throws that you make to maintain [[conditions#Concentration|Concentration]].
 
 ## 🔧 Deep Evaluation Improvements
 

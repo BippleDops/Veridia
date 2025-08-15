@@ -1,12 +1,12 @@
 ---
 
 title: Depth Guard
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - active
-- npc
+- [[Npc]]
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -30,7 +30,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -88,11 +88,11 @@ Depth Guard is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Depth Guard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Guard.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -110,19 +110,23 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is searching for an heir for revenge
 - Someone is searching for a witness for money
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

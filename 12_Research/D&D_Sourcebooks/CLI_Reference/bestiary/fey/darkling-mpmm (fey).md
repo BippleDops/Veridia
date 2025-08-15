@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkling-mpmm-darkling-mpmm.svg)
 
-# [[darkling mpmm|Darkling]]
+# [[darkling-mpmm (fey)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -69,7 +69,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[[leather armor xphb|leather armor]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "3"

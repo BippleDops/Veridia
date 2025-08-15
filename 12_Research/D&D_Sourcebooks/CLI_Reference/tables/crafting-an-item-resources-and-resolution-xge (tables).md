@@ -35,10 +35,10 @@ world: Both
 
 | Proficiency | Items |
 |-------------|-------|
-| [[herbalism kit xphb|Herbalism kit]] | Antitoxin, potion of healing |
-| [[leatherworkers tools xphb|Leatherworker's tools]] | Leather armor, boots |
-| [[smiths tools xphb|Smith's tools]] | Armor, weapons |
-| [[weavers tools xphb|Weaver's tools]] | Cloaks, robes |
+| [[Herbalism Kit Xphb]] | Antitoxin, potion of healing |
+| [[leatherworkers-tools-xphb (items)]] | Leather armor, boots |
+| [[smiths-tools-xphb (items)]] | Armor, weapons |
+| [[Weavers Tools Xphb]] | Cloaks, robes |
 ^proficiency-items
 
 ## 🔧 Deep Evaluation Improvements

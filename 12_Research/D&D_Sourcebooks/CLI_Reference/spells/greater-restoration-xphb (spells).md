@@ -55,11 +55,11 @@ You touch a creature and magically remove one of the following effects from it:
 
 - 1 [[conditions#Exhaustion|Exhaustion]] level  
 - The [[conditions#Charmed|Charmed]] or [[conditions#Petrified|Petrified]] condition  
-- A curse, including the target's [[attunement xphb|Attunement]] to a cursed magic item  
+- A curse, including the target's [[attunement-xphb (variant-rules)]] to a cursed magic item  
 - Any reduction to one of the target's ability scores  
-- Any reduction to the target's [[hit-points-xphb|Hit Point]] maximum  
+- Any reduction to the target's [[hit-points-xphb (variant-rules)]] maximum  
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 281. Available in the SRD and the Free Rules (2024)*
 
@@ -105,3 +105,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[greater-restoration-xphb (spells)-phb]]` in CLI_Reference/spells/

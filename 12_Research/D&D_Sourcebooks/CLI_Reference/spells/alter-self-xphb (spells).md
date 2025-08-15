@@ -65,7 +65,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 ## Aquatic Adaptation
 
-You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [[swim-speed-xphb|Swim Speed]] equal to your [[speed xphb|Speed]].
+You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]].
 
 ## Change Appearance
 
@@ -73,11 +73,11 @@ You alter your appearance. You decide what you look like, including your height,
 
 ## Natural Weapons
 
-You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [[unarmed-strike-xphb|Unarmed Strike]] to deal damage with that new growth, it deals `d6` damage of the type in parentheses instead of dealing the normal damage for your [[unarmed-strike-xphb|Unarmed Strike]], and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
+You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [[Unarmed Strike Xphb]] to deal damage with that new growth, it deals `d6` damage of the type in parentheses instead of dealing the normal damage for your [[Unarmed Strike Xphb]], and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 239. Available in the SRD and the Free Rules (2024)*
 
@@ -108,3 +108,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[alter-self-xphb (spells)-phb]]` in CLI_Reference/spells/

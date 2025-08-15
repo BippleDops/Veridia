@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # list-spells-school-enchantment
@@ -22,7 +22,7 @@ The full nature of list-spells-school-enchantment involves several interconnecte
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of list-spells-school-enchantment trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to list-spells-school-enchantment are various other important elements
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view list-spells-school-enchantment through their own cultural lenses:
+Different [[Groups]] view list-spells-school-enchantment through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of list-spells-school-enchantment:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How list-spells-school-enchantment has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate list-spells-school-enchantment into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways list-spells-school-enchantment might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,17 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #list-spells-school-enchantment
+*Tags*: [[#General]] #worldbuilding #list-spells-school-enchantment
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

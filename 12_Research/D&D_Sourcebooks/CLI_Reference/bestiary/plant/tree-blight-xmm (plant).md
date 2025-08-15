@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tree-blight-xmm-tree-blight-xmm.svg)
 
-# [[tree blight xmm|Tree Blight]]
+# [[Tree Blight Xmm]]
 *Source: Monster Manual (2024) p. 44*  
 
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.

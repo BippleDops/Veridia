@@ -33,7 +33,7 @@ world: Both
 ---
 
 # School of Enchantment
-*[[wizard xphb|Wizard]]: Wizard Subclass*  
+*[[Wizard Xphb School of Necromancy]]: Wizard Subclass*  
 *Source: Player's Handbook p. 117*  
 
 > [!tldr] Class and Feature Progression

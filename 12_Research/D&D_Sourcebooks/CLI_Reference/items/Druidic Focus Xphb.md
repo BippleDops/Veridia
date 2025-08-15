@@ -41,9 +41,9 @@ world: Both
 
 **Items in this group:**
 
-- [[sprig of mistletoe xphb|Sprig of mistletoe]]
-- [[wooden staff xphb|Wooden staff]]
-- [[yew wand xphb|Yew wand]]
+- [[sprig-of-mistletoe-xphb (items)]]
+- [[Staff Xphb]]
+- [[yew-wand-xphb (items)]]
 
 *Source: Player's Handbook (2024) p. 225*
 

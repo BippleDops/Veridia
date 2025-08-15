@@ -66,7 +66,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 ## Overgrowth
 
-Choose a point within range. All normal plants in a 100-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
+Choose a point within range. All normal plants in a 100-foot-radius [[Area of Effect Xphb]] centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
 
 ## Enrichment
 
@@ -74,7 +74,7 @@ All plants in a half-mile radius centered on a point within range become enriche
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 305. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

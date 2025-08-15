@@ -37,9 +37,9 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[sprig of mistletoe xphb|Sprig of mistletoe]] | — | 1 GP |
-| [[wooden staff xphb|Wooden staff]] (also a [[quarterstaff xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[yew wand xphb|Yew wand]] | 1 lb. | 10 GP |
+| [[sprig-of-mistletoe-xphb (items)]] | — | 1 GP |
+| [[Staff Xphb]] (also a [[Quarterstaff Xphb]]) | 4 lb. | 5 GP |
+| [[yew-wand-xphb (items)]] | 1 lb. | 10 GP |
 ^druidic-focuses
 
 ## 🔧 Deep Evaluation Improvements

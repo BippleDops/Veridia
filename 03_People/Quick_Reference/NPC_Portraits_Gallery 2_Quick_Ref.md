@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Portraits_Gallery 2 - Quick Reference
 
 ## Key Info

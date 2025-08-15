@@ -1,6 +1,6 @@
 ---
 title: Academy Alliance Archives
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -16,7 +16,7 @@ Academy Alliance Archives represents a crucial aspect of the world's history, co
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

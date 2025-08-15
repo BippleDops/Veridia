@@ -41,10 +41,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-howdah-mpmm-ogre-howdah-mpmm.svg)
 
-# [[ogre-howdah-mpmm|Ogre Howdah]]
+# [[ogre-howdah-mpmm (giant)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[goblin-warrior-xmm|goblins]] into battle, or perhaps [[kobold-warrior-xmm|kobolds]] or [[/03 Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]], but they might also transport other Small folk.
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[goblin-warrior-xmm|goblins]] into battle, or perhaps [[kobold-warrior-xmm|kobolds]] or [[Bestiary]], but they might also transport other Small folk.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,7 +68,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[[breastplate xphb|breastplate]], [[shield xphb|shield]]"
+"ac_class": "[[Breastplate Xphb]], [[Shield]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"

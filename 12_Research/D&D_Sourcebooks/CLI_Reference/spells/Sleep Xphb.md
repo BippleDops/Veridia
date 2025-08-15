@@ -53,11 +53,11 @@ world: Both
 - **Components:** V, S, M (a pinch of sand or rose petals)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature of your choice in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point within range must succeed on a Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]] condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the [[conditions#Unconscious|Unconscious]] condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
+Each creature of your choice in a 5-foot-radius [[Area of Effect Xphb]] centered on a point within range must succeed on a Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]] condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the [[conditions#Unconscious|Unconscious]] condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
 
-Creatures that don't sleep, such as elves, or that have [[immunity xphb|Immunity]] to the [[conditions#Exhaustion|Exhaustion]] condition automatically succeed on saves against this spell.
+Creatures that don't sleep, such as elves, or that have [[immunity-xphb (variant-rules)]] to the [[conditions#Exhaustion|Exhaustion]] condition automatically succeed on saves against this spell.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Redemption)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 317. Available in the SRD and the Free Rules (2024)*
 

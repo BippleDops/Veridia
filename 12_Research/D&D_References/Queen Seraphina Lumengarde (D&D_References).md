@@ -218,9 +218,9 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 - [[Aquabyssos_Submarines_Catalog]]
 - [[Ocean Ecosystem Management]]
 - [[Enforcement Authority Charte]]
-- [[Vehicles   Aethermoor Airships Catalog]]
+- [[Vehicles - Aethermoor Airships]]
 - [[aarakocra-skirmisher-xmm]]
-- [[Quest   The Enforcement War]]
+- [[Quest - The Enforcement War]]
 - [[treasure-hoard-challenge-17]]
 - [[holy-symbol-varies-holy-symbols-xphb]]
 
@@ -230,11 +230,11 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 
 ## Relationships
 
-- **Sibling**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
-- **Sibling**: [[Portrait NPC Watch Captain Roderick Shieldbreaker V2 Watch Captain Roderick Shieldbreaker.svg]]
-- **Sibling**: [[Portrait NPC Emperor Thalassius the Wise V2 Emperor Thalassius the Wise.svg]]
-- **Lover**: [[Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
-- **Sibling**: [[Portrait NPC Parliament High Council V2 Parliament High Council.svg]]
+- **Sibling**: [[Npc]]
+- **Sibling**: [[Shield]]
+- **Sibling**: [[Npc]]
+- **Lover**: [[Assets]]
+- **Sibling**: [[Parliament High Council]]
 
 ## Related Notes
 

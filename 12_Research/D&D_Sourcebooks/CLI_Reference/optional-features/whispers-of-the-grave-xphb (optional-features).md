@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 7 Warlock
 
-You can cast [[speak with dead xphb|Speak with Dead]] without expending a spell slot.
+You can cast [[Speak With Dead Xphb]] without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

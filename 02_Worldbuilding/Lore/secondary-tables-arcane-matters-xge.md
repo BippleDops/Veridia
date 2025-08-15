@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # secondary-tables-arcane-matters-xge
@@ -22,7 +22,7 @@ The full nature of secondary-tables-arcane-matters-xge involves several intercon
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of secondary-tables-arcane-matters-xge trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to secondary-tables-arcane-matters-xge are various other important ele
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view secondary-tables-arcane-matters-xge through their own cultural lenses:
+Different [[Groups]] view secondary-tables-arcane-matters-xge through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of secondary-tables-arcane-matters-xge:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How secondary-tables-arcane-matters-xge has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate secondary-tables-arcane-matters-xge into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways secondary-tables-arcane-matters-xge might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #secondary-tables-arcane-matters-xge
+*Tags*: [[#General]] #worldbuilding #secondary-tables-arcane-matters-xge

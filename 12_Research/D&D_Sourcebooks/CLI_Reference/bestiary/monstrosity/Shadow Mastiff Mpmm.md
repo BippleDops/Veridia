@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-mpmm-shadow-mastiff-mpmm.svg)
 
-# [[shadow mastiff mpmm|Shadow Mastiff]]
+# [[shadow-mastiff-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.

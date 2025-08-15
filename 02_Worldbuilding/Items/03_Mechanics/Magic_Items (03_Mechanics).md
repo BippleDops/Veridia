@@ -19,6 +19,12 @@ Magic_Items is a notable item with both practical use and historical significanc
 
 ## Description
 **Type**: Wondrous Item
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
 **Rarity**: Uncommon
 **Appearance**: Distinctive craftsmanship sets this item apart from common goods.
 

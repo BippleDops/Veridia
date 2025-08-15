@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-skirmisher-xmm-aarakocra-skirmisher-xmm.svg)
 
-# [[aarakocra skirmisher xmm|Aarakocra Skirmisher]]
+# [[Aarakocra Skirmisher Xmm]]
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.

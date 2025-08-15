@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-infant-hook-horror-oota-infant-hook-horror-oota.svg)
 
-# [[infant hook horror oota|Infant Hook Horror]]
+# [[Infant Hook Horror Oota]]
 *Source: Out of the Abyss p. 34*  
 
 ```statblock

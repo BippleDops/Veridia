@@ -45,7 +45,7 @@ items_gained:
 - Emperor's Final Gift
 - Nyx's Shadow Blade
 locations_visited:
-- '[[Reflection Pools   Surgical Theater]]'
+- '[[theater]]'
 - '[[Shadow Market Canals]]'
 - '[[The Convergence Point]]'
 - '[[Tidal Chambers]]'
@@ -114,7 +114,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 - Mass confusion - nobody knows who's who
 
 #### Event 2: The Surgical Theater Horror
-**Location:** [[Reflection Pools   Surgical Theater]]
+**Location:** [[theater]]
 **Scene:** Witness mass shadow transplant operations
 **Horror Elements:**
 - Citizens paralyzed on operating tables
@@ -250,7 +250,7 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 | Captain Lyanna | Unknown | Unknown | Missing |
 
 ## Campaign Continuity
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05   The Shadow War]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05 - The Shadow War]]
 
 ---
 

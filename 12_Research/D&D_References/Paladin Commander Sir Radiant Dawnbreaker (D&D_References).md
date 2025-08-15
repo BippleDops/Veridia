@@ -56,9 +56,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Debtor**: [[Quest   The Deep Incursion]]
+- **Debtor**: [[Quest - The Deep Incursion]]
 - **Enemy**: [[Captain Marina Saltborn]]
-- **Mentor**: [[Nerissa Deepcurrent]]
+- **Mentor**: [[High Tidecaller Nerissa Deepcurrent]]
 - **Enemy**: [[The Northern Kingdoms]]
 - **Sibling**: [[Lord Admiral Gaius Windcutter]]
 

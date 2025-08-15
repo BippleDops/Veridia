@@ -67,7 +67,7 @@ You touch one willing creature whose alignment has changed, and you make a DC 20
 
 ## Bless Water
 
-You touch one [[vial xphb|vial]] of water and cause it to become [[holy-water-xphb|holy water]].
+You touch one [[Vial Xphb]] of water and cause it to become [[Holy Water Xphb]].
 
 ## Coming of Age
 
@@ -79,7 +79,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[wish xphb|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[wish-xphb (spells)]] spell.
 
 ## Wedding
 
@@ -87,7 +87,7 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 151*
 
@@ -125,3 +125,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[ceremony-xge (spells)-phb]]` in CLI_Reference/spells/

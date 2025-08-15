@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-molten-magma-roper-pota-molten-magma-roper-pota.svg)
 
-# [[molten magma roper pota|Molten Magma Roper]]
+# [[molten-magma-roper-pota (monstrosity)]]
 *Source: Princes of the Apocalypse p. 143*  
 
 ```statblock

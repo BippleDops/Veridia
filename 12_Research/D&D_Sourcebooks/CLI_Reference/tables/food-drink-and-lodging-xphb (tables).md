@@ -59,7 +59,7 @@ world: Both
 | &emsp;Fine | 10 GP |
 ^food-drink-and-lodging
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

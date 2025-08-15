@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-savant-mpmm-derro-savant-mpmm.svg)
 
-# [[derro savant mpmm|Derro Savant]]
+# [[Derro Savant Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 
 > [!quote] A quote from Mordenkainen  
@@ -63,7 +63,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[leather armor xphb|leather armor]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -98,10 +98,10 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[mage hand xphb|mage hand]],\
-      \ [[message xphb|message]], [[prestidigitation xphb|prestidigitation]]\n\
-      \n1/day each: [[invisibility xphb|invisibility]],\
-      \ [[sleep xphb|sleep]], [[spider climb xphb|spider climb]]"
+      \ ability (spell save DC 12):\n\nAt will: [[mage-hand-xphb (spells)]],\
+      \ [[Sage Xphb]], [[Prestidigitation Xphb]]\n\
+      \n1/day each: [[see-invisibility-xphb (spells)]],\
+      \ [[Sleep Xphb]], [[spider-climb-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

@@ -33,7 +33,7 @@ connections:
 - '[[Parliament of Echoes]]'
 - '[[Tidal Council]]'
 - '[[Deep Mother]]'
-- '[[Marina Red Tide Coralheart   Aquabyssos]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 themes:
 - political_manipulation
 - long_term_strategy
@@ -124,7 +124,7 @@ Recent events suggest the Emperor's Gambit is entering its final phase:
 
 **The Scholar** manifests through research breakthroughs that occur simultaneously in both worlds, always related to protecting against cosmic intrusion.
 
-**The Crown-Heart** shows signs of activation within individuals connected to [[Marina Red Tide Coralheart   Aquabyssos]], suggesting the bloodline connection runs deeper than previously understood.
+**The Crown-Heart** shows signs of activation within individuals connected to [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]], suggesting the bloodline connection runs deeper than previously understood.
 
 ## Mechanical Effects
 

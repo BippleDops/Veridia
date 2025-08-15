@@ -40,14 +40,14 @@ world: Both
 
 | dice: d100 | Agents |
 |------------|--------|
-| 1-20 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultists]] |
-| 21-30 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] |
-| 31-34 | [[doppelganger xmm|Doppelgangers]] |
-| 35-50 | [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guards]] |
-| 51-60 | [[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|Nobles]] |
-| 61-72 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priests]] |
-| 73-86 | [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|Scouts]] |
-| 87-100 | [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Spies]] |
+| 1-20 | [[Bestiary]] |
+| 21-30 | [[Bestiary]] |
+| 31-34 | [[Doppelganger Xmm]] |
+| 35-50 | [[Bestiary]] |
+| 51-60 | [[Bestiary]] |
+| 61-72 | [[Bestiary]] |
+| 73-86 | [[Bestiary]] |
+| 87-100 | [[Bestiary]] |
 ^yuan-ti-agents
 
 ## 🔧 Deep Evaluation Improvements

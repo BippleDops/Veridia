@@ -1,7 +1,7 @@
 ---
 
 title: Reputation System
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -36,8 +36,8 @@ improvements: 20
 
 *Social Standing in the Merged Realms*
 
-> *"In a world where surface and depth have collided, your reputation isn't just about what people think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
-> — [[Social Navigator Coral Diplomacy]], Master of Cross-Realm Relations
+> *"In a world where surface and depth have collided, your reputation isn't just about what [[People]] think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
+> — [[Social Navigator [[Coral]] Diplomacy]], Master of Cross-Realm Relations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -65,7 +65,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -97,13 +97,13 @@ improvements: 20
 
 ## Overview
 
-The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
+The Reputation System tracks characters' standing with various factions, [[Organization]]s, settlements, and influential individuals across both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by [[Allies]], and unknown to neutral parties, all simultaneously.
 
 Reputation affects everything from prices in shops to access to restricted areas, availability of services, quest opportunities, and survival during political crises. In the merged realms, reputation with one faction can dramatically affect standing with their allies or enemies, creating complex webs of social consequence.
 
 The system operates on multiple scales: personal reputation with individuals, local reputation within communities, organizational reputation with factions, and realm-wide reputation affecting major political movements. Each scale influences the others but can be managed separately through targeted actions and relationship building.
 
-Recent convergence events have complicated reputation management as factions from both realms now interact regularly, creating opportunities for diplomatic bridges or catastrophic misunderstandings. Characters may find their reputation in one realm helps or hinders them in the other, depending on political alliances and cultural differences.
+Recent convergence events have complicated reputation management as factions from both realms now interact regularly, creating opportunities for diplomatic bridges or catastrophic misunderstandings. Characters may find their reputation in one realm helps or hinders them in the other, depending on [[Political Alliances]] and cultural differences.
 
 ### Reputation Scales
 
@@ -155,7 +155,7 @@ Each faction or organization tracks multiple aspects of reputation:
 **Action Impact Modifiers**:
 - **Public vs. Private**: Public actions have 2x impact
 - **Witnessed by Leaders**: 1.5x impact when faction leaders observe
-- **Documented/Recorded**: 1.25x impact when evidence exists
+- **Documented/Recorded**: 1.25x impact when [[Evidence]] exists
 - **Consistent with Past**: 0.75x impact if consistent with established reputation
 - **Contradicts Expectations**: 1.5x impact if surprising
 
@@ -174,9 +174,9 @@ Actions affecting one faction often impact others based on their relationships:
 | Faction A | Faction B | Relationship | Cross-Impact |
 |-----------|-----------|--------------|---------------|
 | Aquabyssos Guards | Deep Patrol | Alliance | +50% |
-| Silverscale Bank | Merchant Guild | Friendly | +25% |
+| Silverscale Bank | [[Merchant]] Guild | Friendly | +25% |
 | Crystal Researchers | Shadow Cult | Enemy | -50% |
-| Royal Court | Rebel Movement | Enemy | -50% |
+| [[Royal Court]] | Rebel Movement | Enemy | -50% |
 | Temple Guards | Criminal Syndicate | Rival | -25% |
 
 #### The Royal Court of Aquabyssos
@@ -191,12 +191,12 @@ Actions affecting one faction often impact others based on their relationships:
 
 **Reputation Modifiers**:
 - Supporting royal authority: +3 to +8
-- Completing royal quests: +5 to +15
+- Completing royal [[Quests]]: +5 to +15
 - Protecting royal family: +10 to +20
 - Undermining royal authority: -5 to -15
 - Threatening royal family: -15 to -30
 
-#### The Silverscale Consortium
+#### [[The [[Silverscale Consortium]]]]
 
 **Leadership**: [[Director Hadrian Silverscale]] and the Board
 **Values**: Profit, efficiency, innovation, market domice
@@ -213,9 +213,9 @@ Actions affecting one faction often impact others based on their relationships:
 - Competing with Silverscale: -3 to -10
 - Exposing corruption: -8 to -20
 
-#### The Deep Guard
+#### The [[Deep Guard]]
 
-**Leadership**: [[Captain Nautilus Deepwatch]] and the Command Structure
+**Leadership**: [[[[Captain Nautilus]] Deepwatch]] and the Command Structure
 **Values**: Duty, protection, law enforcement, citizen safety
 **Benefits by Reputation Level**:
 - **Honored+**: Legal assistance, guard cooperation
@@ -230,9 +230,9 @@ Actions affecting one faction often impact others based on their relationships:
 - Breaking laws: -4 to -12
 - Interfering with justice: -6 to -15
 
-#### The Memory Merchants
+#### The [[Memory Merchants]]
 
-**Leadership**: [[Memory Merchant Valeria]] and the Guild Council
+**Leadership**: [[Memory Merchant Valeria]] and [[The Guild Council]]
 **Values**: Knowledge, memory preservation, information trading
 **Benefits by Reputation Level**:
 - **Honored+**: Rare memory access, knowledge discounts
@@ -254,17 +254,17 @@ Actions affecting one faction often impact others based on their relationships:
 **Benefits by Reputation Level**:
 - **Honored+**: Court invitations, crystal artifact access
 - **Revered+**: Noble sponsorship, magical training
-- **Exalted+**: Court positions, crystal throne influence
+- **Exalted+**: Court positions, [[Crystal Throne]] influence
 - **Legendary**: Potential succession rights, realm authority
 
 **Reputation Modifiers**:
 - Supporting crystal harmony: +3 to +8
 - Creating beautiful art: +4 to +10
 - Protecting crystal sites: +6 to +15
-- Causing crystal corruption: -8 to -20
+- Causing [[Crystal Corruption]]: -8 to -20
 - Destroying crystal formations: -12 to -30
 
-#### The Wind Riders Guild
+#### The [[Wind Riders]] Guild
 
 **Leadership**: [[Guildmaster Storm Skywright]] and the Flight Masters
 **Values**: Freedom, exploration, aerial mastery, independence
@@ -283,7 +283,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The Crystal Corruption Researchers
 
-**Leadership**: [[Chief Researcher Prism Studywright]] and the Research Council
+**Leadership**: [[Chief Researcher Prism Studywright]] and the [[Research Council]]
 **Values**: Scientific progress, corruption understanding, cure development
 **Benefits by Reputation Level**:
 - **Honored+**: Research access, experimental treatments
@@ -303,7 +303,7 @@ Actions affecting one faction often impact others based on their relationships:
 **Leadership**: Representatives from both realms
 **Values**: Unity, cooperation, realm merger management
 **Benefits by Reputation Level**:
-- **Honored+**: Cross-realm travel permits, diplomatic immunity
+- **Honored+**: Cross-realm travel permits, [[Diplomatic Immunity]]
 - **Revered+**: Council advisory positions, treaty negotiations
 - **Exalted+**: Council membership, policy influence
 - **Legendary**: Council leadership, realm unification authority
@@ -326,13 +326,13 @@ Actions affecting one faction often impact others based on their relationships:
 - **Legendary**: Hierophant status, shadow realm control
 
 **Reputation Modifiers**:
-- Spreading shadow corruption: +4 to +12
+- Spreading [[Shadow Corruption]]: +4 to +12
 - Converting others to shadows: +6 to +18
 - Destroying light sources: +3 to +10
 - Fighting shadow spread: -8 to -20
 - Purifying corruption: -12 to -30
 
-### Important NPCs and Personal Relationships
+### Important [[Npc]]s and Personal Relationships
 
 Individual relationships often matter more than faction standing:
 
@@ -354,17 +354,17 @@ Individual relationships often matter more than faction standing:
 - Protection from faction politics
 - Advancement opportunities and recommendations
 - Emergency aid and support
-- Social introductions and networking
+- Social [[Introduction]]s and networking
 
 **Key Individual Relationships**:
 
 **[[Queen Seraphina]]** (Aquabyssos Ruler)
 - **Beloved**: Royal protection, kingdom resources, succession consideration
-- **Nemesis**: Royal assassination attempts, kingdom-wide manhunt
+- **Nemesis**: Royal [[Assassin]]ation attempts, kingdom-wide manhunt
 
 **[[Director Hadrian Silverscale]]** (Consortium Leader)
 - **Beloved**: Unlimited credit, business partnership, insider trading
-- **Nemesis**: Economic warfare, market manipulation against character
+- **Nemesis**: [[Economic Warfare]], market manipulation against character
 
 **[[Princess Celestia]]** (Aethermoor Noble)
 - **Beloved**: Crystal court influence, magical artifacts, succession rights
@@ -372,7 +372,7 @@ Individual relationships often matter more than faction standing:
 
 **[[Memory Merchant Valeria]]** (Knowledge Broker)
 - **Beloved**: Free memory services, rare knowledge, guild secrets
-- **Nemesis**: Memory theft, information warfare, knowledge denial
+- **Nemesis**: Memory theft, [[Information Warfare]], knowledge denial
 
 ### Building Personal Relationships
 
@@ -501,7 +501,7 @@ Individual relationships often matter more than faction standing:
 
 ### Reputation Decay and Maintece
 
-Reputation naturally decays over time without maintece:
+Reputation naturally decays over [[Time]] without maintece:
 
 **Decay Rates**:
 - **Extreme Reputation** (±81-100): -2 points per month
@@ -520,7 +520,7 @@ Reputation naturally decays over time without maintece:
 ### Reputation Transfer and Inheritance
 
 **Group Reputation**:
-Party members share reputation effects:
+[[Party Members]] share reputation effects:
 - **Leadership**: Party leader's reputation affects all members at 75%
 - **Individual Actions**: Personal actions affect personal reputation first
 - **Group Actions**: All members gain equal reputation changes
@@ -537,7 +537,7 @@ Party members share reputation effects:
 **Unknown Standings**:
 Some factions maintain secret reputation scores:
 - **Spy Networks**: Track character without their knowledge
-- **Criminal Organizations**: Monitor threats and opportunities
+- **[[Criminal Organizations]]**: Monitor threats and opportunities
 - **Religious Cults**: Judge theological compatibility
 - **Secret Societies**: Evaluate membership potential
 
@@ -552,7 +552,7 @@ Some factions maintain secret reputation scores:
 **Reputation Attacks**:
 - **Slander Campaigns**: Spread false information to damage reputation
 - **Frame Jobs**: Make character appear responsible for negative events
-- **Association Attacks**: Link character to unpopular causes or people
+- **Association Attacks**: [[Link]] character to unpopular causes or people
 - **Historical Revision**: Change records of past events
 - **Social Sabotage**: Undermine character's social relationships
 
@@ -616,7 +616,7 @@ Faction relationships create complex political networks:
 **Benefits of Neutral Faction Relations**:
 - **Safe Harbor**: Refuge during conflicts with other factions
 - **Information Brokerage**: Access to information from all sides
-- **Diplomatic Services**: Assistance in negotiating with hostile factions
+- **[[Diplomatic Service]]s**: Assistance in negotiating with hostile factions
 - **Economic Stability**: Trade relationships unaffected by political changes
 - **Balanced Perspective**: Advice uncolored by factional bias
 
@@ -679,9 +679,9 @@ Faction relationships create complex political networks:
 
 - **[[Diplomatic Corps]]**: Professional reputation management services
 - **[[Social Intelligence Network]]**: Reputation monitoring and analysis
-- **[[Cross Realm Cultural Exchange]]**: Reputation building between realms
+- **[[Cross-Realm [[Cultural Exchange]]]]**: Reputation building between realms
 - **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
-- **[[02 Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
+- **[[Groups]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
 
@@ -693,11 +693,11 @@ Reputation System is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Reputation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reputation System.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

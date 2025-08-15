@@ -45,9 +45,9 @@ world: Both
 - **Components:** V, S, M (a prayer wheel)
 - **Duration:** 1 hour
 
-A creature you touch regains `4d8 + 15` [[hit-points-xphb|Hit Points]]. For the duration, the target regains 1 [[hit-points-xphb|Hit Point]] at the start of each of its turns, and any severed body parts regrow after 2 minutes.
+A creature you touch regains `4d8 + 15` [[hit-points-xphb (variant-rules)]]. For the duration, the target regains 1 [[hit-points-xphb (variant-rules)]] at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD and the Free Rules (2024)*
 

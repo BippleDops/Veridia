@@ -24,6 +24,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-redbeard-captain-redbeard.svg)
 
@@ -163,10 +175,10 @@ Member of House Eagleblood - Trait: curse
 
 ## Relationships
 
-- **Student**: [[Assets Art Forge Master Petra Hammerdeep.png]]
-- **Creditor**: [[Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
-- **Debtor**: [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
-- **Mentor**: [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg]]
+- **Student**: [[Forge Master Petra Hammerdeep]]
+- **Creditor**: [[Npc]]
+- **Debtor**: [[Ambassador Korvin Blacktide]]
+- **Mentor**: [[Npc]]
 
 ## Historical Timeline
 
@@ -184,3 +196,74 @@ Member of House Eagleblood - Trait: curse
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature
+## Statistics
+___
+- **Armor Class** 10 (natural armor)
+- **Hit Points** 11 (3d8)
+- **Speed** 30 ft.
+___
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 12 (+1) | 11 (+0) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+___
+- **Skills** Deception +4, Insight +3, Persuasion +4
+- **Senses** passive Perception 11
+- **Languages** Common
+- **Challenge** 1/8 (25 XP)
+- **Proficiency Bonus** +2
+___
+
+### Actions
+**Multiattack.** Makes two melee attacks.
+
+**Attack.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+
+### Reactions
+**Parry.** Adds 2 to AC against one melee attack that would hit.
+
+## Combat Tactics
+- Uses environment to advantage
+- Targets weakest party member first
+- Retreats when below 25% health
+
+## Sourcebook Reference
+> Based on **Commoner** (MM p.345) with modifications

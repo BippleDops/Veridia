@@ -34,7 +34,7 @@ world: Both
 # Eldritch Sight
 *Source: Player's Handbook p. 110. Available in the SRD*  
 
-You can cast [[detect magic xphb|detect magic]] at will, without expending a spell slot.
+You can cast [[detect-magic-xphb (spells)]] at will, without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

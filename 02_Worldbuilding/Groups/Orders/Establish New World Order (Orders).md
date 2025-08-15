@@ -26,7 +26,7 @@ alignment: Lawful Neutral (Systematic Reformers)
 created_by: auto-stub
 faction_type: Political Reform Movement
 influence: Political Institutions, Policy Development
-leader: '[[02 Worldbuilding/Lore/Director Prism Reformheart]]'
+leader: '[[02_Worldbuilding]]'
 members: ~500 active members, ~2000 supporters
 obsidianUIMode: preview
 purpose: Systematic governmental reform through crystal-enhanced goverce
@@ -247,15 +247,15 @@ Securing adequate funding and support for comprehensive reform initiatives.
 - [[Government Partner Facilities]]
 
 **Notable NPCs**:
-- [[02 Worldbuilding/Lore/Director Prism Reformheart]]
+- [[02_Worldbuilding]]
 - [[Constitutional Architect Dr. Harmony Lawbright]]
 - [[Democratic Architect Prof. Consensus Builder]]
 - [[Economic Architect Dr. Prosperity Sharewell]]
 
 **Important Concepts**:
-- [[Crystal Enhanced Democracy]]
+- [[Crystal-Enhanced Democracy]]
 - [[Systematic Governmental Reform]]
-- [[Evidence Based Policy Development]]
+- [[Evidence]]
 - [[Democratic Legitimacy and Reform]]
 - [[Crystal Goverce Model]]
 

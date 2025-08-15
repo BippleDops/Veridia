@@ -1,11 +1,28 @@
 ---
+
 title: Quest - Nature's Balance_1 (01_Adventures)
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 
 # Quest - Nature's Balance
 
@@ -146,10 +163,10 @@ The ancient Worldtree that maintains elemental balance in Aethermoor is dying, i
 1. **Investigate the Infection**: Discover crystals are sentient and feeding on elemental energy
 2. **Find the Source**: Trace parasites to illegal crystal mining operation
 3. **Cleanse the Roots**: Perform ritual requiring water from Aquabyssos
-4. **Defend the Tree**: Protect it from [[12_Research/D&D_Statblocks/Crystal Wardens]] who want to "preserve" it in crystal
+4. **Defend the Tree**: Protect it from [[12 Research]] who want to "preserve" it in crystal
 
 **Key NPCs**:
-- **[[12_Research/D&D_Statblocks/The Emerald Sage Willowbark]]**: Quest giver, last druid of the grove
+- **[[The Emerald Sage Willowbark]]**: Quest giver, last druid of the grove
 - **Foreman Grax**: Corrupt miner profiting from the chaos
 - **Seedling**: Awakened tree sprite holding the tree's consciousness
 
@@ -239,7 +256,7 @@ Investigation reveals the imbalance is artificial, caused by a massive device hi
 4. **Destroy the Device**: Overload it with balanced elemental energy
 
 **The Truth**:
-The device was built by the [[Shadow Crystal Synthesis]] to weaken both realms for easier conquest. It converts elemental harmony into pure shadow energy.
+The device was built by the [[Shadow Crystal]] to weaken both realms for easier conquest. It converts elemental harmony into pure shadow energy.
 
 **Key NPCs**:
 - **The Architect**: Genius who designed the device under duress
@@ -302,7 +319,7 @@ With the device destroyed, the party must perform a forgotten ritual to permanen
 
 ### Quest Givers
 
-**[[12_Research/D&D_Statblocks/The Emerald Sage Willowbark]]**  
+**[[The Emerald Sage Willowbark]]**  
 - Last druid maintaining failing barriers
 - Provides guidance and natural magic support
 - May sacrifice themselves if party fails
@@ -475,3 +492,45 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

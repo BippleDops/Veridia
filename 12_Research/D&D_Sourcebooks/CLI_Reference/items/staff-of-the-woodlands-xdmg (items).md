@@ -62,19 +62,19 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[animal friendship xphb|Animal Friendship]] | 1 |
-| [[awaken xphb|Awaken]] | 5 |
-| [[barkskin xphb|Barkskin]] | 2 |
-| [[locate animals or plants xphb|Locate Animals or Plants]] | 2 |
-| [[pass without trace xphb|Pass without Trace]] | 2 |
-| [[speak with animals xphb|Speak with Animals]] | 1 |
-| [[speak with plants xphb|Speak with Plants]] | 3 |
-| [[wall of thorns xphb|Wall of Thorns]] | 6 |
+| [[Animal Friendship Xphb]] | 1 |
+| [[Awaken Xphb]] | 5 |
+| [[barkskin-xphb (spells)]] | 2 |
+| [[Locate Animals or Plants Xphb]] | 2 |
+| [[Pass Without Trace Xphb]] | 2 |
+| [[Speak With Animals Xphb]] | 1 |
+| [[Speak With Plants Xphb]] | 3 |
+| [[wall-of-thorns-xphb (spells)]] | 6 |
 ^spell-charge-cost
 
 ## Tree Form
 
-You can take a [[actions#Magic|Magic]] action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect magic xphb|Detect Magic]] spell. While touching the tree and using a [[actions#Magic|Magic]] action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [[actions#Magic|Magic]] action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect-magic-xphb (spells)]] spell. While touching the tree and using a [[actions#Magic|Magic]] action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 

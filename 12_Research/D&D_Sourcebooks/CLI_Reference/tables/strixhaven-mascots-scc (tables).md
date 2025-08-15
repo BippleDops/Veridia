@@ -37,11 +37,11 @@ world: Both
 
 | College | Mascot |
 |---------|--------|
-| Lorehold | [[spirit statue mascot scc|Spirit Statue Mascot]] |
-| Prismari | [[art elemental mascot scc|Art Elemental Mascot]] |
-| Quandrix | [[fractal mascot scc|Fractal Mascot]] |
-| Silverquill | [[inkling mascot scc|Inkling Mascot]] |
-| Witherbloom | [[pest mascot scc|Pest Mascot]] |
+| Lorehold | [[spirit-statue-mascot-scc]] |
+| Prismari | [[Art Elemental Mascot Scc]] |
+| Quandrix | [[fractal-mascot-scc]] |
+| Silverquill | [[inkling-mascot-scc]] |
+| Witherbloom | [[Pest Mascot Scc]] |
 ^strixhaven-mascots
 
 ## 🔧 Deep Evaluation Improvements

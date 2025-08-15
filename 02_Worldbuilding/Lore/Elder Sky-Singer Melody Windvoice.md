@@ -1,7 +1,7 @@
 ---
 
 title: Elder Sky-Singer Melody Windvoice
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -38,7 +38,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -72,7 +72,7 @@ Elder Sky-Singer Melody Windvoice represents a crucial aspect of the world's his
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,7 +83,7 @@ Elder Sky-Singer Melody Windvoice represents a crucial aspect of the world's his
 ## Plot Hooks
 
 - An heirloom has gone missing and war looms
-- A map reveals ancient history about the cult
+- A [[map]] reveals ancient history about the cult
 - A document has gone missing and chaos spreads
 - An heirloom has gone missing and war looms
 

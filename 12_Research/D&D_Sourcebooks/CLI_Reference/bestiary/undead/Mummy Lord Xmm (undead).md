@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-xmm-mummy-lord-xmm.svg)
 
-# [[mummy lord xmm|Mummy Lord]]
+# [[mummy-lord-xmm]]
 *Source: Monster Manual (2024) p. 221. Available in the SRD and the Free Rules (2024)*  
 
 Those desperate to escape death sometimes make terrible bargains with wicked deities. Devoting their hearts to evil forces, these villains gain power over death and a cursed immortality that binds their minds and spirits within a desiccated corpse. Freed from mortal concerns, these mummy lords pursue their obsessions across ages.
@@ -99,7 +99,7 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove curse xphb|Remove Curse]] spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[Remove Curse Xphb]] spell or similar magic.
 
 ```statblock
 "name": "Mummy Lord (XMM)"
@@ -139,13 +139,13 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 "traits":
   - "desc": "If the mummy fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "The mummy has [[advantage xphb|Advantage]]\
+  - "desc": "The mummy has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "If destroyed, the mummy gains a new body in 24 hours if its heart is\
-      \ intact, reviving with all its [[hit points xphb|Hit Points]].\
+      \ intact, reviving with all its [[hit-points-xphb (variant-rules)]].\
       \ The new body appears in an unoccupied space within the mummy's lair. The heart\
-      \ is a Tiny object that has AC 17, HP 10, and [[immunity xphb|Immunity]]\
+      \ is a Tiny object that has AC 17, HP 10, and [[immunity-xphb (variant-rules)]]\
       \ to all damage except Fire."
     "name": "Undead Restoration"
 "actions":
@@ -154,11 +154,11 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
-      \ While cursed, the target can't regain [[hit points xphb|Hit Points]],\
-      \ it gains no benefit from finishing a [[long rest xphb|Long Rest]],\
-      \ and its [[hit points xphb|Hit Point]] maximum\
+      \ While cursed, the target can't regain [[hit-points-xphb (variant-rules)]],\
+      \ it gains no benefit from finishing a [[long-rest-xphb]],\
+      \ and its [[hit-points-xphb (variant-rules)]] maximum\
       \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
-      \ to dust if reduced to 0 [[hit points xphb|Hit Points]]\
+      \ to dust if reduced to 0 [[hit-points-xphb (variant-rules)]]\
       \ by this attack."
     "name": "Rotting Fist"
   - "desc": "Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage."
@@ -169,10 +169,10 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Dreadful Glare"
   - "desc": "The mummy casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit\
-      \ with spell attacks):\n\nAt will: [[dispel magic xphb|Dispel Magic]],\
-      \ [[thaumaturgy xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[animate dead xphb|Animate Dead]], [[harm xphb|Harm]],\
-      \ [[insect plague xphb|Insect Plague]] (level 7 version)"
+      \ with spell attacks):\n\nAt will: [[dispel-magic-xphb (spells)]],\
+      \ [[Thaumaturgy Xphb]]\n\n1/day each:\
+      \ [[animate-dead-xphb (spells)]], [[Harm Xphb]],\
+      \ [[Insect Plague Xphb]] (level 7 version)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The mummy is hit by an attack roll. _Response:_ The mummy adds\
@@ -188,7 +188,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Glare"
   - "desc": "The mummy makes one Rotting Fist or Channel Negative Energy attack."
     "name": "Necrotic Strike"
-  - "desc": "The mummy casts [[command xphb|Command]] (level\
+  - "desc": "The mummy casts [[command-xphb (spells)]] (level\
       \ 2 version), using the same spellcasting ability as Spellcasting. The mummy\
       \ can't take this action again until the start of its next turn.\n"
     "name": "Dread Command"
@@ -199,10 +199,10 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "desc": "- Cursed Fate. Whenever a creature other than the mummy or one of\
       \ its allies casts a Divination spell while within 1 mile of the lair, the creature\
       \ makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates\
-      \ with no effect, and the action, [[bonus action xphb|Bonus Action]],\
-      \ or [[reaction xphb|Reaction]] used to cast\
+      \ with no effect, and the action, [[Action Xphb]],\
+      \ or [[reaction-xphb (variant-rules)]] used to cast\
       \ the spell is wasted, but any resources used to cast it aren't expended.  \n\
-      - Soul Drain. Creatures within 1 mile of the lair have [[disadvantage xphb|Disadvantage]]\
+      - Soul Drain. Creatures within 1 mile of the lair have [[Advantage Xphb]]\
       \ on Death Saving Throws.  "
   - "desc": "If the mummy lord is destroyed or moves its lair elsewhere, these effects\
       \ end immediately. The effects resume if the mummy lord gains a new body (see\

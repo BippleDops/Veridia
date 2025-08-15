@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-naga-xmm-spirit-naga-xmm.svg)
 
-# [[spirit naga xmm|Spirit Naga]]
+# [[spirit-naga-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 297. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -108,8 +108,8 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
-  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [[hit points xphb|Hit\]]
-      \ Points]]. Only a [[wish xphb|Wish]]\
+  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [[hit-points-xphb (variant-rules)]]
+      \ Points]]. Only a [[wish-xphb (spells)]]\
       \ spell can prevent this trait from functioning."
     "name": "Fiendish Restoration"
 "actions":
@@ -122,12 +122,12 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
     "name": "Necrotic Ray"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\nAt will: [[detect magic xphb|Detect Magic]],\
-      \ [[mage hand xphb|Mage Hand]], [[minor illusion xphb|Minor Illusion]],\
-      \ [[water breathing xphb|Water Breathing]]\n\n2/day\
-      \ each: [[detect thoughts xphb|Detect Thoughts]],\
-      \ [[dimension door xphb|Dimension Door]], [[hold person xphb|Hold Person]]\
-      \ (level 3 version), [[lightning bolt xphb|Lightning Bolt]]\
+      \ DC 14):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Minor Illusion Xphb]],\
+      \ [[Water Breathing Xphb]]\n\n2/day\
+      \ each: [[detect-thoughts-xphb (spells)]],\
+      \ [[Dimension Door Xphb]], [[Hold Person Xphb]]\
+      \ (level 3 version), [[Lightning Bolt Xphb]]\
       \ (level 4 version)"
     "name": "Spellcasting"
 "source":

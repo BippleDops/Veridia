@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-crawling-claw-xmm-crawling-claw-xmm.svg)
 
-# [[crawling claw xmm|Crawling Claw]]
+# [[crawling-claw-xmm (undead)]]
 *Source: Monster Manual (2024) p. 83*  
 
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.

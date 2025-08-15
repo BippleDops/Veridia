@@ -49,7 +49,7 @@ The "shallow" entry area where [[Depth Wardens]] maintain observation posts. [[S
 Vertical cliff faces lined with glowing crystalline formations. [[The Trencher Folk]] have settlements carved into the walls here, led by [[Elder Whisper-In-The-Dark]].
 
 ### The Pressure Cathedral (10000-12000 feet)
-A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth Touched]] claims to receive visions from [[The Deepmind]] here.
+A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[The Deepmind]] here.
 
 ### The Void Gardens (12000-15000 feet)
 Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[Lumengarde|02 Worldbuilding/Places/Lumengarde]].

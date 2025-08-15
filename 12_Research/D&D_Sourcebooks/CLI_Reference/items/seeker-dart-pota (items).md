@@ -36,7 +36,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-seeker-dart-pota-seeker-dart-pota.svg)
 
 # Seeker Dart
-*Weapon ([[dart xphb|dart]]), uncommon*  
+*Weapon ([[Dart Xphb]]), uncommon*  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

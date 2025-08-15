@@ -34,14 +34,14 @@ world: Both
 # Arcane Shot
 *Source: Xanathar's Guide to Everything* 
 
-- [[banishing arrow xge|Banishing Arrow]]
-- [[beguiling arrow xge|Beguiling Arrow]]
-- [[bursting arrow xge|Bursting Arrow]]
-- [[enfeebling arrow xge|Enfeebling Arrow]]
-- [[grasping arrow xge|Grasping Arrow]]
-- [[piercing arrow xge|Piercing Arrow]]
-- [[seeking arrow xge|Seeking Arrow]]
-- [[shadow arrow xge|Shadow Arrow]]
+- [[Banishing Arrow Xge]]
+- [[Beguiling Arrow Xge]]
+- [[bursting-arrow-xge (optional-features)]]
+- [[Enfeebling Arrow Xge]]
+- [[grasping-arrow-xge (optional-features)]]
+- [[Piercing Arrow Xge]]
+- [[seeking-arrow-xge (optional-features)]]
+- [[Shadow Arrow Xge]]
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+- --
+
 # Multimedia Generation Complete Report
 
 Generated: ${new Date().toISOString()}
@@ -102,3 +107,22 @@ The multimedia generation system is now fully operational with:
 - 🎮 Ready for immediate use in sessions
 
 All systems are designed to be easily expandable and can be enhanced with actual AI generation when API access is available.
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

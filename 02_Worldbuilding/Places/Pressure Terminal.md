@@ -1,7 +1,7 @@
 ---
 
 title: Pressure Terminal
-type: Location
+type: [[location]]
 tags:
 - both
 - world/both
@@ -14,7 +14,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.001983+00:00'
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,23 +97,23 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Breakthrough**: Discovery of pressure-amplification crystals enabled passenger transport
 
 ### The Great Construction
-**Timeline**: 120-100 years ago  
+**[[[[Time]]line]]**: 120-100 years ago  
 **Scale**: Largest construction project in Aquabyssos history  
 **Workers**: Over 10,000 engineers, miners, and laborers involved  
-**Obstacles**: Complex geology, pressure differentials, underwater construction challenges  
-**Innovation**: Development of living coral-metal hybrid construction materials  
+**Obstacles**: Complex geology, [[Pressure Differential]]s, underwater construction challenges  
+**Innovation**: Development of living [[Coral]]-metal hybrid construction materials  
 **Cost**: Nearly bankrupt the kingdom but revolutionized transportation
 
 ### The Expansion Era
 **Period**: 80-50 years ago  
 **Network Growth**: Extended to all major population centers  
 **Technical Advances**: Automated switching systems, safety protocols, faster transit times  
-**Economic Impact**: Reduced travel times from weeks to hours across the kingdom  
+**Economic Impact**: Reduced [[Travel Times]] from weeks to hours across the kingdom  
 **Strategic Importance**: Critical for military deployment and administrative control  
 **Population Boom**: Enabled unprecedented urbanization and economic integration
 
 ### The Modern Terminal
-**Renovation**: Completed 20 years ago with latest pressure-crystal technology  
+**Renovation**: Completed 20 years ago with latest pressure-[[Crystal Technology]]  
 **Capacity**: Current system can handle 100,000 passengers per day  
 **Automation**: Advanced magical-mechanical systems reduce human error  
 **Integration**: Connected with [[Dream Rails]] surface transport system  
@@ -122,8 +122,8 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 ### The Grand Concourse
 **Dimensions**: 800 feet long, 200 feet wide, 150 feet high  
 **Design**: Soaring cathedral-like space with bioluminescent murals depicting underwater scenes  
-**Features**: Central information fountain with constantly updating departure/arrival data  
-**Capacity**: Can hold 5,000 people comfortably during peak operations  
+**Features**: Central information fountain with constantly updating departure/arrival [[data]]  
+**Capacity**: Can hold 5,000 [[People]] comfortably during peak operations  
 **Acoustics**: Designed to minimize echoing while allowing clear announcements
 
 #### The Departure Board
@@ -136,7 +136,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 #### The Central Fountain
 **Function**: Both decorative and informational centerpiece  
 **Water Display**: Flowing patterns mimic pressure-tube routing throughout kingdom  
-**Information**: Colored streams indicate route status (blue=operational, red=delayed, etc.)  
+**Information**: Co[[Lore]]d streams indicate route status (blue=operational, red=delayed, etc.)  
 **Maintece**: Self-cleaning system prevents algae buildup and contamination  
 **Symbolism**: Represents the flow of people and goods throughout Aquabyssos
 
@@ -155,7 +155,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Passenger Volume**: Mix of business, government, and leisure travelers
 
 #### Level 3: Deep Routes
-**Destinations**: Remote outposts, mining installations, military bases  
+**Destinations**: Remote outposts, mining installations, [[Military Bases]]  
 **Pressure Rating**: Extreme pressure (25-40+ atmospheres)  
 **Frequency**: 2-6 departures daily depending on destination  
 **Platforms**: 8 specialized platforms with advanced pressure chambers  
@@ -187,12 +187,12 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Equipment**: Specialized rescue pods, emergency pressure suits, mobile medical units  
 **Personnel**: Elite rescue teams trained in high-pressure emergency operations  
 **Response Time**: Can reach any point in the network within 30 minutes  
-**Coordination**: Works with local authorities and medical facilities at all destinations
+**Coordination**: Works with [[Local Authorities]] and medical facilities at all destinations
 
 #### The Transportation Pods
 **Capacity**: Standard pods carry 20-30 passengers, luxury pods carry 8-12  
 **Construction**: Reinforced coral-metal hulls with magical pressure regulation  
-**Speed**: Average 200 mph through tubes, up to 400 mph on express routes  
+**Speed**: Average 200 mph through tubes, up to 400 mph on [[Express Routes]]  
 **Safety**: Multiple redundant systems, emergency brakes, collision avoidance  
 **Comfort**: Climate control, seating for various body types, storage compartments
 
@@ -215,7 +215,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Baggage Inspection**: Prohibited items that could destabilize pressure or cause accidents  
 **Pod Inspection**: Automated safety checks of all systems before departure  
 **Route Clearance**: Verification that destination route is clear and operational  
-**Weather Monitoring**: Checking for pressure storms or other environmental hazards
+**Weather Monitoring**: Checking for pressure storms or other [[Environmental Hazards]]
 
 #### During Transit
 **Continuous Monitoring**: Pod location, pressure levels, passenger welfare tracked constantly  
@@ -237,7 +237,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
   - Population: 2,000-3,000 passengers/hour
   - Primary destinations: Harbor District, Deep Mining Operations, Industrial Areas
   - Platform usage: Levels 1-3 heavily utilized
-- **0600-0800**: Main commuter wave - government workers, merchants, skilled trades
+- **0600-0800**: Main commuter wave - government workers, [[Merchant]]s, skilled trades
   - Population: 8,000-12,000 passengers/hour (Peak capacity)
   - Destinations: Government District, Commercial Centers, Craft Quarters
   - All platforms operating at maximum capacity
@@ -256,7 +256,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 #### Midday Operations (1000-1600)
 **High Tide Steady Flow**:
 - **1000-1200**: Business travelers, inter-district commerce, administrative travel
-  - Destinations: Mixed, with emphasis on government and commercial districts
+  - Destinations: Mixed, with emphasis on government and [[Commercial District]]s
   - Regional routes (Level 2) see increased usage
 - **1200-1400**: Lunch period traffic, family visits, shopping expeditions
   - Population: 3,000-4,000 passengers/hour
@@ -278,7 +278,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Falling Tide Return Surge**:
 - **1600-1800**: Main return wave - government workers, office professionals
   - Population: 10,000-14,000 passengers/hour (Peak return capacity)
-  - Destinations: Primarily residential districts and suburban areas
+  - Destinations: Primarily [[Residential Districts]] and suburban areas
   - Heavy usage of outbound platforms toward living areas
 - **1800-1900**: Secondary return - skilled workers, service industry, retail
   - Population: 6,000-8,000 passengers/hour
@@ -291,7 +291,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Evening Rush Characteristics**:
 - **Flow Direction**: 80% inbound to residential, 15% lateral, 5% continuing outbound
 - **Passenger Types**: 70% returning workers, 20% family/social, 10% entertainment
-- **Family Traffic**: Increased multi-generational and child passenger groups
+- **Family Traffic**: Increased multi-generational and child passenger [[Groups]]
 - **Express Services**: High-capacity return routes every 8-12 minutes
 - **Staff Deployment**: 250% normal staffing focused on crowd management
 
@@ -319,13 +319,13 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
   - Major cleaning and equipment servicing
 
 **Night Characteristics**:
-- **Service Levels**: Essential routes only, reduced frequency
+- **[[Service Levels]]**: Essential routes only, reduced frequency
 - **Passenger Types**: Shift workers, emergency responders, medical transport
 - **Safety Focus**: Enhanced security and medical support available
 - **Maintece Priority**: System upkeep and equipment renewal
 
 #### Royal Transit
-**Access**: Reserved for royal family, high government officials, diplomatic missions  
+**Access**: Reserved for royal family, high [[Government Officia]]ls, diplomatic missions  
 **Pods**: Luxurious custom pods with enhanced comfort and security features  
 **Priority**: Can override regular scheduling for urgent government business  
 **Security**: Armed guards, encrypted communication, special routing protocols  
@@ -366,7 +366,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Security**: Multiple checkpoints, magical scanning, armed guards  
 **Facilities**: Specialized pressure chambers for extreme-depth destinations
 
-### The Crystal Gardens
+### The [[Crystal Garden]]s
 **Location**: Peaceful area within the Grand Concourse  
 **Purpose**: Relaxation space with living crystal formations and aquatic plants  
 **Features**: Bioluminescent displays, comfortable seating, quiet atmosphere  
@@ -388,7 +388,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Cleaning Staff**: Maintaining cleanliness and sanitation in high-traffic areas
 
 ### Specialized Staff
-**Pressure Engineers**: Designing, monitoring, and repairing complex pressure systems  
+**[[Pressure Engineers]]**: Designing, monitoring, and repairing complex pressure systems  
 **Medical Personnel**: Emergency response and passenger health services  
 **Security Forces**: Terminal security, law enforcement, emergency response  
 **Customer Relations**: Information services, complaint handling, passenger assistance  
@@ -409,7 +409,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Secret**: Working on experimental technology for interplanar pressure travel
 
 #### [[Security Chief Corwin Ironshell]]
-**Background**: Former military officer specializing in underwater combat and security  
+**Background**: Former military officer specializing in [[Underwater Combat]] and security  
 **Responsibility**: All terminal security, coordination with law enforcement  
 **Skills**: Expert in crowd control, emergency response, threat assessment  
 **Challenge**: Balancing security needs with smooth passenger flow  
@@ -424,7 +424,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 
 #### System Failures
 **Catastrophic Decompression**: Rapid pressure loss that could kill passengers instantly  
-**Prevention**: Multiple redundant systems, constant monitoring, emergency protocols  
+**Prevention**: Multiple redundant systems, constant monitoring, [[Emergency Protocol]]s  
 **Response**: Automatic safety systems, emergency pressure suits, rapid evacuation  
 **Frequency**: Major failures average 1-2 per year, minor failures handled daily  
 **Investigation**: All failures investigated by independent safety commission
@@ -483,7 +483,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Business**: Facilitates meetings, conferences, and business relationships  
 **Government**: Administrative efficiency through rapid personnel and document transport  
 **Military**: Strategic mobility for defense forces throughout the kingdom  
-**Culture**: Cultural exchange and integration across diverse regions of Aquabyssos
+**Culture**: [[Cultural Exchange]] and integration across diverse regions of Aquabyssos
 
 ### Terminal Security Guard
 **CR 3** | **Medium humanoid, lawful neutral**  
@@ -496,7 +496,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Actions**:  
 - **Truncheon**: +4 to hit, reach 5 ft., 1d6 + 2 bludgeoning damage  
 - **Light Crossbow**: +3 to hit, range 80/320 ft., 1d8 + 1 piercing damage  
-- **Restraint Attempt**: Grapple check to subdue suspects non-lethally
+- **Restraint Attempt**: Grapple check to subdue [[Suspects]] non-lethally
 
 ### Pressure System Emergency
 **Challenge Rating**: Varies by party level and scope  
@@ -504,8 +504,8 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Warning Signs**: Alarms, flashing lights, automated announcements  
 **Effects**:  
 - **Round 1**: DC 12 CON save or take 1d6 bludgeoning damage, -1 to all rolls  
-- **Round 2**: DC 15 CON save or take 2d6 bludgeoning damage, -2 to all rolls  
-- **Round 3+**: DC 18 CON save or take 3d6 bludgeoning damage, stunned for 1 round  
+- **Round 2**: DC 15 CON save or take [[2d6]] bludgeoning damage, -2 to all rolls  
+- **Round 3+**: DC 18 CON save or take [[3d6]] bludgeoning damage, stunned for 1 round  
 **Resolution**: Requires technical expertise (DC 15 Arcana + DC 18 Investigation) or evacuation
 
 ### Terminal Crowd Panic
@@ -518,7 +518,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 
 ### Sabotage Investigation
 **Challenge Type**: Investigation and infiltration encounter  
-**Mystery**: Evidence of sabotage in critical terminal systems  
+**Mystery**: [[Evidence]] of sabotage in critical terminal systems  
 **Clues**: Technical expertise needed to identify tampering methods  
 **Suspects**: Disgruntled employees, foreign agents, terrorist cells  
 **Complications**: Time pressure as sabotage could cause catastrophic failure  
@@ -527,7 +527,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 ### VIP Protection Detail
 **Mission Type**: Escort and protection assignment  
 **Client**: Important government official, foreign diplomat, or wealthy merchant  
-**Threats**: Assassins, kidnappers, political protesters  
+**Threats**: [[Assassin]]s, kidnappers, political protesters  
 **Locations**: Throughout terminal complex, potentially extending to pod transit  
 **Challenges**: Balancing protection with normal terminal operations  
 **Complications**: Multiple potential threats, decoys, inside information leaks
@@ -535,12 +535,12 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 ### The Pressure Bomb
 **Level**: 7-11  
 **Threat**: Terrorists plant explosive devices designed to cause catastrophic decompression  
-**Investigation**: Complex network of infiltrators and sympathizers  
+**Investigation**: Complex network of infiltrators and sym[[path]]izers  
 **Time Limit**: Must locate and defuse bombs before next major departure  
 **Complications**: Multiple potential targets, false leads, inside help for terrorists  
 **Stakes**: Hundreds of lives and potential collapse of transportation system
 
-### The Missing Diplomat
+### [[The Missing Diplomat]]
 **Level**: 5-9  
 **Mystery**: Important diplomatic courier disappears during routine transit  
 **Investigation**: Last seen boarding pod, never arrived at destination  
@@ -556,13 +556,13 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Moral Complexity**: Engineer may be right about safety flaws  
 **Resolution**: Balancing justice with addressing legitimate safety concerns
 
-### The Trade War Blockade
+### The [[Trade War]] Blockade
 **Level**: 9-13  
 **Political Crisis**: Economic rivals attempt to disrupt terminal operations  
 **Methods**: Legal challenges, bribery, intimidation, possible violence  
-**Scope**: Affects international trade relationships and domestic economy  
+**Scope**: Affects [[International Trade]] relationships and domestic economy  
 **Challenge**: Resolving conflict without military intervention  
-**Stakes**: Economic stability of the kingdom and international relationships
+**Stakes**: Economic stability of the kingdom and [[International Relations]]hips
 
 ### The Deep Station Rescue
 **Level**: 11-16  
@@ -572,12 +572,12 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Obstacles**: Equipment failures, hostile sea life, environmental hazards  
 **Discovery**: Station emergency may be cover for something more sinister
 
-### [[Abyssos Prime]] - Capital City
+### [[Abyssos Prime]] - [[Capital City]]
 **Integration**: Terminal is central hub connecting all districts of the capital  
 **Government**: Direct administrative oversight and funding  
 **Population**: Major portion of daily passengers are capital residents  
 **Economy**: Critical infrastructure supporting capital's economic activity  
-**Politics**: Terminal operations closely monitored by royal government
+**Politics**: Terminal operations closely monitored by [[Royal Government]]
 
 ### [[Harbor District]] - Maritime Connection
 **Coordination**: Integrated scheduling with ship arrivals and departures  
@@ -607,12 +607,12 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Mood**: Busy efficiency with underlying tension from potential dangers  
 **Technology**: Visible magical-mechanical systems, crystal-powered displays, automated equipment
 
-### NPC Behavior Patterns
+### [[Npc]] Behavior Patterns
 **Staff**: Professional, safety-conscious, focused on schedules and procedures  
-**Passengers**: Mix of anxiety and excitement, concern about pressure effects, travel-focused  
+**Passengers**: Mix of anxiety and excitement, concern about [[Pressure Effects]], travel-focused  
 **Security**: Alert, authoritative, trained to handle both routine and emergency situations  
 **Engineers**: Technical minded, proud of system achievements, worried about potential failures  
-**Management**: Balancing efficiency with safety, dealing with political and economic pressures
+**Management**: Balancing efficiency with safety, dealing with political and [[Economic Pressure]]s
 
 ### Scaling for Different Levels
 **Low Level (1-4)**: Local problems, individual crimes, simple technical issues  
@@ -651,7 +651,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 - [[Royal Transit Authority]]  
 
 **Related Items and Concepts**:  
-- [[Pressure Tube System]]  
+- [[Pressure-Tube System]]  
 - [[Transportation Pods]]  
 - [[Pressure Crystals]]  
 - [[Emergency Protocols]]
@@ -664,16 +664,16 @@ Pressure Terminal is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Pressure Terminal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Terminal.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -691,6 +691,34 @@ Pressure Terminal is a notable location characterized by its unique features and
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -724,3 +752,40 @@ Ongoing situations affecting Pressure Terminal:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

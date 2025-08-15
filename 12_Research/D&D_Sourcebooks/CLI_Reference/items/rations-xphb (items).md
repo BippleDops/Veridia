@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 
-Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[[malnutrition xphb|Malnutrition]]" for the risks of not eating.
+Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[[malnutrition-xphb (traps-hazards)]]" for the risks of not eating.
 
 *Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-of-baphomet-xmm-minotaur-of-baphomet-xmm.svg)
 
-# [[minotaur of baphomet xmm|Minotaur of Baphomet]]
+# [[minotaur-of-baphomet-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 215. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

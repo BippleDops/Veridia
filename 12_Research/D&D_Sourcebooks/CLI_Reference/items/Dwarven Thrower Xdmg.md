@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Dwarven Thrower
-*Weapon ([[warhammer xphb|warhammer]]), very rare (requires attunement by a dwarf)*  
+*Weapon ([[warhammer-xphb (items)]]), very rare (requires attunement by a dwarf)*  
 ![](/03_Mechanics/CLI/items/img/dwarven-thrower.webp#right)
 
 - **Damage**:

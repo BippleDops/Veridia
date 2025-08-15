@@ -37,25 +37,25 @@ world: Both
 
 | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
-| [[greek zeus|Zeus]], god of the sky, ruler of the gods | N | Tempest | Fist full of lightning bolts |
-| [[greek aphrodite|Aphrodite]], goddess of love and beauty | CG | Light | Sea shell |
-| [[greek apollo|Apollo]], god of light, music, and healing | CG | Knowledge, Life, Light | Lyre |
-| [[greek ares|Ares]], god of war and strife | CE | War | Spear |
-| [[greek artemis|Artemis]], goddess of hunting and childbirth | NG | Life, Nature | Bow and arrow on lunar disk |
-| [[greek athena|Athena]], goddess of wisdom and civilization | LG | Knowledge, War | Owl |
-| [[greek demeter|Demeter]], goddess of agriculture | NG | Life | Mare's head |
-| [[greek dionysus|Dionysus]], god of mirth and wine | CN | Life | Thyrsus (staff tipped with pine cone) |
-| [[greek hades|Hades]], god of the underworld | LE | Death | Black ram |
-| [[greek hecate|Hecate]], goddess of magic and the moon | CE | Knowledge, Trickery | Setting moon |
-| [[greek hephaestus|Hephaestus]], god of smithing and craft | NG | Knowledge | Hammer and anvil |
-| [[greek hera|Hera]], goddess of marriage and intrigue | CN | Trickery | Fan of peacock feathers |
-| [[greek hercules|Hercules]], god of strength and adventure | CG | Tempest, War | Lion's head |
-| [[greek hermes|Hermes]], god of travel and commerce | CG | Trickery | Caduceus (winged staff and serpents) |
-| [[greek hestia|Hestia]], goddess of home and family | NG | Life | Hearth |
-| [[greek nike|Nike]], goddess of victory | LN | War | Winged woman |
-| [[greek pan|Pan]], god of nature | CN | Nature | Syrinx (pan pipes) |
-| [[greek poseidon|Poseidon]], god of the sea and earthquakes | CN | Tempest | Trident |
-| [[greek tyche|Tyche]], goddess of good fortune | N | Trickery | Red pentagram |
+| [[greek-zeus (deities)]], god of the sky, ruler of the gods | N | Tempest | Fist full of lightning bolts |
+| [[greek-aphrodite (deities)]], goddess of love and beauty | CG | Light | Sea shell |
+| [[greek-apollo (deities)]], god of light, music, and healing | CG | Knowledge, Life, Light | Lyre |
+| [[greek-ares (deities)]], god of war and strife | CE | War | Spear |
+| [[Greek Artemis]], goddess of hunting and childbirth | NG | Life, Nature | Bow and arrow on lunar disk |
+| [[Greek Athena]], goddess of wisdom and civilization | LG | Knowledge, War | Owl |
+| [[greek-demeter (deities)]], goddess of agriculture | NG | Life | Mare's head |
+| [[Greek Dionysus]], god of mirth and wine | CN | Life | Thyrsus (staff tipped with pine cone) |
+| [[Greek Hades]], god of the underworld | LE | Death | Black ram |
+| [[Greek Hecate]], goddess of magic and the moon | CE | Knowledge, Trickery | Setting moon |
+| [[greek-hephaestus (deities)]], god of smithing and craft | NG | Knowledge | Hammer and anvil |
+| [[Greek Hera]], goddess of marriage and intrigue | CN | Trickery | Fan of peacock feathers |
+| [[greek-hercules (deities)]], god of strength and adventure | CG | Tempest, War | Lion's head |
+| [[Greek Hermes]], god of travel and commerce | CG | Trickery | Caduceus (winged staff and serpents) |
+| [[greek-hestia (deities)]], goddess of home and family | NG | Life | Hearth |
+| [[greek-nike (deities)]], goddess of victory | LN | War | Winged woman |
+| [[greek-pan (deities)]], god of nature | CN | Nature | Syrinx (pan pipes) |
+| [[Poseidon]], god of the sea and earthquakes | CN | Tempest | Trident |
+| [[greek-tyche (deities)]], goddess of good fortune | N | Trickery | Red pentagram |
 ^greek-deities
 
 ## 🔧 Deep Evaluation Improvements

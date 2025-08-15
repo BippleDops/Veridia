@@ -35,7 +35,7 @@ world: Both
 # Skilled
 *Source: Player's Handbook (2024) p. 201. Available in the SRD and the Free Rules (2024)*  
 
-You gain proficiency in any combination of three [[skill list skills xphb|skills]] or tools of your choice.
+You gain proficiency in any combination of three [[Skill List Skills Xphb]] or tools of your choice.
 
 **Repeatable.** You can take this feat more than once.
 

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fiend-xphb-otherworldly-steed-fiend-xphb.svg)
 
-# [[otherworldly steed fiend xphb|Otherworldly Steed (Fiend)]]
+# [[Otherworldly Steed Fiend Xphb]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock

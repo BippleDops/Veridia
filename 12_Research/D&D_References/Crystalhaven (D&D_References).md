@@ -102,7 +102,7 @@ Crystalhaven stands as the shining jewel of [[Aethermoor|02 Worldbuilding/Places
 - **Crystal Exchange** - Controlled by [[Merchant Lord Silas Copperfield]]
   *Ficial Environment*: Crystal formations here evaluate and authenticate magical goods automatically, creating an environment of trust and precision. The air tastes of prosperity and careful calculation, while crystal displays show current market values and economic trends in real-time.
 
-- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three Eyes" Flint]]
+- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three-Eyes" Flint]]
   *Information Environment*: Crystal formations enhance acoustic properties to carry whispered conversations while maintaining privacy for sensitive discussions. The air buzzes with potential secrets and valuable information, while the lighting adjusts to create intimate conversation areas within the larger social space.
 
 ### The Shadow Warren
@@ -198,7 +198,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **Evening Markets**: Specialized markets open after regular business hours, featuring magical services, custom enchantments, and crystal-enhanced entertainment. Street performers use crystal instruments to create spectacular light and sound shows, while food vendors offer magically-enhanced cuisine that provides temporary magical abilities or corruption resistance.
 
-**Information Exchange**: [[Jasper "Three Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
+**Information Exchange**: [[Jasper "Three-Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
 
 ### Night Life (11 PM to 5 AM)
 
@@ -230,7 +230,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **Corruption Response Cycles**: Weekly corruption assessment and containment activities involve city-wide coordination between [[Crystal Wardens]], medical personnel, and specialized cleanup teams. These essential activities follow strict protocols to prevent corruption spread while maintaining essential city functions.
 
-**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
+**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross-Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
 
 ## Player-Facing Summary
 

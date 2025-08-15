@@ -169,7 +169,7 @@ The Chamber network employs hundreds of specialized workers with expertise in va
 
 **Primary Specializations:**
 - **Tidal Engineers**: Experts in tidal prediction, force manipulation, and system optimization ([[Senior Tidal Engineer Marina Flowmaster]])
-- **Bio-Magical Technicians**: Specialists in living system maintece and biological integration ([[Bio Tech Supervisor Reef Lifeweaver]])
+- **Bio-Magical Technicians**: Specialists in living system maintece and biological integration ([[Bio-Tech Supervisor Reef Lifeweaver (D&D_References)]])
 - **Pressure Systems Operators**: Technicians managing pressure generation and distribution ([[Pressure Master Current Depthwright]])
 - **Water Quality Specialists**: Chemists and magical analysts ensuring water safety and quality ([[Quality Inspector Wave Purewater]])
 - **Emergency Response Teams**: Specialists trained in crisis management and system repair ([[Emergency Coordinator Storm Quickfix]])
@@ -499,10 +499,10 @@ Involvement with Chamber operations provides numerous opportunities for characte
 - [[The Deepwatch Guard|02 Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Chamber facilities
 - [[Master Tidal Engineer Coral Wavewright|02 Worldbuilding/People/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
 - [[Senior Tidal Engineer Marina Flowmaster|02 Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
-- [[Bio Tech Supervisor Reef Lifeweaver|02 Worldbuilding/People/Bio Tech Supervisor Reef Lifeweaver]] - Bio-magical systems specialist
+- [[Bio-Tech Supervisor Reef Lifeweaver (D&D_References)]] - Bio-magical systems specialist
 - [[Pressure Master Current Depthwright|02 Worldbuilding/People/Pressure Master Current Depthwright]] - Pressure systems operations manager
 - [[Quality Inspector Wave Purewater|02 Worldbuilding/People/Quality Inspector Wave Purewater]] - Water quality control specialist
-- [[02 Worldbuilding/People/Emergency Coordinator Storm Quickfix|02 Worldbuilding/People/Emergency Coordinator Storm Quickfix]] - Crisis response team leader
+- [[Emergency Coordinator Storm Quickfix]] - Crisis response team leader
 
 The Tidal Chambers stand as testament to the ingenuity and ambition of Aquabyssos civilization, representing not merely an engineering achievement but a fundamental transformation of the relationship between sentient beings and the forces of nature. Through these systems, the citizens of Aquabyssos have not conquered the ocean but learned to dance with it, creating a harmony between technological advancement and environmental stewardship that offers hope for sustainable underwater civilization.
 

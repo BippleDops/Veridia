@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Mace of Terror
-*Weapon ([[mace xphb|mace]]), rare (requires attunement)*  
+*Weapon ([[Mace Xphb]]), rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning

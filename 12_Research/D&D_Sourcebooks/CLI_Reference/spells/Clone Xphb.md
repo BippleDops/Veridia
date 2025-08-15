@@ -47,7 +47,7 @@ You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate o
 
 If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 251. Available in the SRD and the Free Rules (2024)*
 

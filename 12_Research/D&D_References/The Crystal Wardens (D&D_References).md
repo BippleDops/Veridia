@@ -74,12 +74,12 @@ The supreme leader of the Crystal Wardens, currently held by High Warden Solariu
 **Council of Prisms** - Seven senior leaders
 Each member specializes in a different aspect of crystal warfare and goverce:
 - **Prism Warden of Combat** - [[Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
-- **Prism Warden of Research** - [[Artificer General Magnus Gemheart]] - Crystal technology development and innovation
+- **Prism Warden of Research** - [[Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
 - **Prism Warden of Intelligence** - [[Spymaster Quartz Clearview]] - Information gathering and strategic analysis
 - **Prism Warden of Training** - [[Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
-- **Prism Warden of Diplomacy** - [[Ambassador Warden Luna Peacegem]] - External relations and treaty negotiations
+- **Prism Warden of Diplomacy** - [[Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
 - **Prism Warden of Supply** - [[Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
-- **Prism Warden of Justice** - [[Judge Militant Adamant Truestone]] - Military law and internal discipline
+- **Prism Warden of Justice** - [[Judge-Militant Adamant Truestone (D&D_References)]] - Military law and internal discipline
 
 ### Operational Divisions
 

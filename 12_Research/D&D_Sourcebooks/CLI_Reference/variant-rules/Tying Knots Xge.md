@@ -38,7 +38,7 @@ The rules are purposely open-ended concerning mundane tasks like tying knots, bu
 
 The creature who ties the knot makes an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check or to slip out of it with a Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
-This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[skills with different abilities phb|"Variant: Skills with Different Abilities"]] section in chapter 7 of the player's handbook.
+This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[Skills With Different Abilities Phb]] section in chapter 7 of the player's handbook.
 
 ## 🔧 Deep Evaluation Improvements
 

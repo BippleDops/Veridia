@@ -1,6 +1,6 @@
 ---
 
-title: Key Locations
+title: Key [[location]]s
 type: location
 tags:
 - location
@@ -9,7 +9,7 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 location_type: Village
-region: Western Frontier
+[[region]]: Western Frontier
 population: 1377
 evaluated: '2025-08-14'
 improvements: 20
@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ improvements: 20
 - List common superstitions and their origins
 
 ## Overview
-Key Locations is a village located in the Western Frontier. Hidden from most maps for its magical properties.
+Key Locations is a village located in the Western Frontier. Hidden from most [[map]]s for its magical properties.
 
 ### Terrain
 The surrounding area consists of rolling hills, with scattered lakes. The immediate vicinity features defensive positions.
@@ -86,7 +86,7 @@ The village is organized into 5 distinct districts:
 1. **Central District**: Heart of administration and commerce
 2. **Residential Quarter**: Where the population makes their homes
 3. **Market District**: Trade and commerce center
-4. **Temple Ward**: Religious and spiritual center
+4. **[[Temple Ward]]**: Religious and spiritual center
 5. **Craft Quarter**: Workshops and artisan studios
 
 ### Government Type
@@ -112,7 +112,7 @@ The economy primarily relies on trade, with secondary income from education.
 ### Commercial Areas
 1. **Grand Market**: Where black market thrives
 2. **Artisan Quarter**: Home to artistic studios
-3. **Merchant Halls**: Where deals are struck
+3. **[[Merchant]] Halls**: Where deals are struck
 
 ### Government Buildings
 1. **Seat of Power**: The council chambers
@@ -125,7 +125,7 @@ The economy primarily relies on trade, with secondary income from education.
 3. **Pleasure District**: Does not exist
 
 ### Founding
-Key Locations was established in ancient times by religious pilgrims. The original purpose was religious site.
+Key Locations was established in ancient [[Time]]s by religious pilgrims. The original purpose was religious site.
 
 ### Major Historical Events
 1. **The Founding Era**: Establishment and early struggles
@@ -156,8 +156,8 @@ The economy is thriving due to trade agreements.
 5. **The Tournament**: Competition with suspicious circumstances
 
 ### Mid Level (6-10)
-1. **The Corruption Scandal**: Evidence of high-level conspiracy
-2. **The Ancient Ruins**: Discovery beneath the city
+1. **The Corruption Scandal**: [[Evidence]] of high-level conspiracy
+2. **The [[Ancient Ruins]]**: Discovery beneath the city
 3. **The Diplomatic Crisis**: Prevent war through negotiation
 4. **The Magical Plague**: Supernatural disease spreading
 5. **The Succession Question**: Determine rightful heir
@@ -184,8 +184,8 @@ Key Locations can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### Random Encounters (d20)
-1-4: City watch patrol
+### [[[[Random Encounter]]s]] (d20)
+1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
 12-14: Drunk nobles causing trouble
@@ -211,7 +211,7 @@ Key Locations can serve as:
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 11
   
-### Environmental Hazards
+### [[Environmental Hazards]]
 - Pit trap
 - DC 11 to detect
 - 6d6 damage on failure
@@ -231,7 +231,7 @@ Key Locations can serve as:
 ### Future Seeds  
 - **Near Future**: Trial in 18 days
 - **Brewing Conflict**: Resource shortage
-- **Prophecy Connection**: Links to The Second Prophecy of Shadows
+- **Prophecy Connection**: [[Link]]s to The Second Prophecy of Shadows
 
 ## Plot Hooks
 

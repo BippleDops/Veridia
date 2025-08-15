@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quetzalcoatlus-mpmm-quetzalcoatlus-mpmm.svg)
 
-# [[quetzalcoatlus mpmm|Quetzalcoatlus]]
+# [[quetzalcoatlus-mpmm (beast)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.

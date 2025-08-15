@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_09_The_Shard_Convergence
 
----
+- --
 title: Session 09 The Shard Convergence
 type: Session
 tags:
@@ -25,14 +25,14 @@ modified: '2025-08-14'
 status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
----
+- --
 
 # Session 9: The Shard Convergence
-*The Seven Shards Campaign - Act II Climax*
+* The Seven Shards Campaign - Act II Climax*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -298,7 +298,7 @@ Based on the heroes' choices and the ritual's success, the session concludes wit
 
 **Treasure**:
 - **[[Unity Crown Fragment]]**: Allows cross-dimensional communication
-- **[[Shard Touched Artifacts]]**: Items enhanced by proximity to all seven shards
+- **[[Shard-Touched Artifacts]]**: Items enhanced by proximity to all seven shards
 - **[[Convergence Map]]**: Shows stable pathways between realities
 - **[[Wisdom of the Avatars]]**: Skill bonuses related to shard knowledge
 
@@ -417,11 +417,11 @@ legendary_actions:
 | 9-10 | Unexpected dimensional visitors arrive |
 | 11-12 | Heroes discover hidden consequences of their choice |
 
----
+- --
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Plot Hooks
 
@@ -436,3 +436,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Mother**: [MOTHER]
+- **Theme**: [THEME]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

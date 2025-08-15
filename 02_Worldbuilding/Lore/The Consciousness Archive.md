@@ -1,11 +1,11 @@
 ---
 title: The Consciousness Archive
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - content/faction
 - content/lore
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress

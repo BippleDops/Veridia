@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-warrior-pota-stone-warrior-pota.svg)
 
-# [[stone warrior pota|Stone Warrior]]
+# [[stone-warrior-pota (construct)]]
 *Source: Princes of the Apocalypse p. 97*  
 
 ```statblock

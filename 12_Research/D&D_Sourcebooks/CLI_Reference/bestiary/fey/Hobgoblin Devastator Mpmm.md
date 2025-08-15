@@ -44,7 +44,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[hobgoblin-devastator-mpmm|Hobgoblin Devastator]]
+# [[Hobgoblin Devastator Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -65,7 +65,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[[studded-leather-armor-xphb|studded leather]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "1"
@@ -99,11 +99,11 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ (4d8 + 3) force damage, and the target is knocked [[conditions#prone|prone]]."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 13):\n\nAt will: [[mage-hand-xphb|mage hand]],\
-      \ [[prestidigitation xphb|prestidigitation]]\n\n2/day\
-      \ each: [[fireball xphb|fireball]], [[fly xphb|fly]],\
-      \ [[fog-cloud-xphb|fog cloud]], [[gust-of-wind-xphb|gust of wind]],\
-      \ [[lightning-bolt-xphb|lightning bolt]]"
+      \ the spellcasting ability (spell save DC 13):\n\nAt will: [[mage-hand-xphb (spells)]],\
+      \ [[Prestidigitation Xphb]]\n\n2/day\
+      \ each: [[fireball-xphb (spells)]], [[fly-xphb (spells)]],\
+      \ [[fog-cloud-xphb (spells)]], [[Gust of Wind Xphb]],\
+      \ [[Lightning Bolt Xphb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

@@ -73,11 +73,11 @@ Hailstones rain down. Each creature under the cloud takes `2d6` Bludgeoning dama
 
 ## Turns 5-10
 
-Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[difficult terrain xphb|Difficult Terrain]] and [[heavily obscured xphb|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
+Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[Difficult Terrain Xphb]] and [[Heavily Obscured Xphb]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the SRD and the Free Rules (2024)*
 

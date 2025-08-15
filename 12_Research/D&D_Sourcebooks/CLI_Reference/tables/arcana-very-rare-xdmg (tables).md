@@ -39,46 +39,46 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [[amulet of the planes xdmg|Amulet of the Planes]] |
-| 03–04 | [[bag of devouring xdmg|Bag of Devouring]] |
-| 05–06 | [[carpet of flying xdmg|Carpet of Flying]] |
-| 07–08 | [[cauldron of rebirth xdmg|Cauldron of Rebirth]] |
-| 09–10 | [[cloak of arachnida xdmg|Cloak of Arachnida]] |
-| 11–12 | [[crystal ball xdmg|Crystal Ball]] |
-| 13 | [[dancing sword xdmg|Dancing Sword]] |
-| 14 | [[efreeti bottle xdmg|Efreeti Bottle]] |
-| 15–16 | [[enspelled staff xdmg|Enspelled Staff]] (level 4 or 5 spell) |
+| 01–02 | [[Amulet of the Planes Xdmg]] |
+| 03–04 | [[bag-of-devouring-xdmg (items)]] |
+| 05–06 | [[Carpet of Flying Xdmg]] |
+| 07–08 | [[cauldron-of-rebirth-xdmg (items)]] |
+| 09–10 | [[Cloak of Arachnida Xdmg]] |
+| 11–12 | [[crystal-ball-xdmg (items)]] |
+| 13 | [[Dancing Sword Xdmg]] |
+| 14 | [[efreeti-bottle-xdmg (items)]] |
+| 15–16 | [[enspelled-staff-xdmg (items)]] (level 4 or 5 spell) |
 | 17–18 | [[figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of Wondrous Power (obsidian steed)]] |
-| 19–20 | [[hat of many spells xdmg|Hat of Many Spells]] |
-| 21–22 | [[helm of brilliance xdmg|Helm of Brilliance]] |
-| 23–24 | [[horseshoes of a zephyr xdmg|Horseshoes of a Zephyr]] |
-| 25–26 | [[ioun stone xdmg|Ioun Stone]] ([[ioun stone absorption xdmg|absorption]], [[ioun stone fortitude xdmg|fortitude]], [[ioun stone intellect xdmg|intellect]], or [[ioun stone leadership xdmg|leadership]]) |
-| 27–28 | [[manual of golems xdmg|Manual of Golems]] ([[manual of clay golems xdmg|clay]], [[manual of flesh golems xdmg|flesh]], [[manual of iron golems xdmg|iron]], or [[manual of stone golems xdmg|stone]]) |
-| 29 | [[mirror of life trapping xdmg|Mirror of Life Trapping]] |
-| 30–31 | [[nolzurs marvelous pigments xdmg|Nolzur's Marvelous Pigments]] |
-| 32–34 | [[oil of sharpness xdmg|Oil of Sharpness]] |
-| 35–38 | [[potion of flying xdmg|Potion of Flying]] |
-| 39–42 | [[potion of cloud giant strength xdmg|Potion of Giant Strength (cloud)]] |
-| 43–46 | [[potion of greater invisibility xdmg|Potion of Greater Invisibility]] |
-| 47–49 | [[potion of longevity xdmg|Potion of Longevity]] |
-| 50–53 | [[potion of speed xdmg|Potion of Speed]] |
-| 54–57 | [[potion of vitality xdmg|Potion of Vitality]] |
-| 58–59 | [[ring of regeneration xdmg|Ring of Regeneration]] |
-| 60–61 | [[ring of shooting stars xdmg|Ring of Shooting Stars]] |
-| 62–63 | [[ring of telekinesis xdmg|Ring of Telekinesis]] |
-| 64–65 | [[robe of scintillating colors xdmg|Robe of Scintillating Colors]] |
-| 66–67 | [[robe of stars xdmg|Robe of Stars]] |
-| 68–69 | [[rod of absorption xdmg|Rod of Absorption]] |
-| 70–71 | [[rod of security xdmg|Rod of Security]] |
-| 72–73 | [[3 rod of the pact keeper xdmg|Rod of the Pact Keeper, +3]] |
-| 74–85 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll level 6 xdmg|level 6]], [[spell scroll level 7 xdmg|level 7]], or [[spell scroll level 8 xdmg|level 8]] spell) |
-| 86–87 | [[staff of fire xdmg|Staff of Fire]] |
-| 88–89 | [[staff of frost xdmg|Staff of Frost]] |
-| 90 | [[staff of power xdmg|Staff of Power]] |
-| 91–92 | [[staff of thunder and lightning xdmg|Staff of Thunder and Lightning]] |
-| 93–94 | [[tome of clear thought xdmg|Tome of Clear Thought]] |
-| 95–97 | [[wand of polymorph xdmg|Wand of Polymorph]] |
-| 98–00 | [[3 wand of the war mage xdmg|Wand of the War Mage, +3]] |
+| 19–20 | [[hat-of-many-spells-xdmg (items)]] |
+| 21–22 | [[Helm of Brilliance Xdmg]] |
+| 23–24 | [[horseshoes-of-a-zephyr-xdmg (items)]] |
+| 25–26 | [[ioun-stone-xdmg (items)]] ([[Ioun Stone Absorption Xdmg]], [[ioun-stone-fortitude-xdmg (items)]], [[Ioun Stone Intellect Xdmg]], or [[ioun-stone-leadership-xdmg (items)]]) |
+| 27–28 | [[manual-of-golems-xdmg (items)]] ([[Manual of Clay Golems Xdmg]], [[Manual of Flesh Golems Xdmg]], [[manual-of-iron-golems-xdmg (items)]], or [[manual-of-stone-golems-xdmg (items)]]) |
+| 29 | [[mirror-of-life-trapping-xdmg (items)]] |
+| 30–31 | [[Nolzurs Marvelous Pigments Xdmg]] |
+| 32–34 | [[oil-of-sharpness-xdmg (items)]] |
+| 35–38 | [[Potion of Flying Xdmg]] |
+| 39–42 | [[giant]] |
+| 43–46 | [[potion-of-greater-invisibility-xdmg (items)]] |
+| 47–49 | [[potion-of-longevity-xdmg (items)]] |
+| 50–53 | [[potion-of-speed-xdmg (items)]] |
+| 54–57 | [[potion-of-vitality-xdmg (items)]] |
+| 58–59 | [[ring-of-regeneration-xdmg (items)]] |
+| 60–61 | [[Ring of Shooting Stars Xdmg]] |
+| 62–63 | [[Ring of Telekinesis Xdmg]] |
+| 64–65 | [[robe-of-scintillating-colors-xdmg (items)]] |
+| 66–67 | [[robe-of-stars-xdmg (items)]] |
+| 68–69 | [[rod-of-absorption-xdmg (items)]] |
+| 70–71 | [[Rod of Security Xdmg]] |
+| 72–73 | [[3 Rod of the Pact Keeper Xdmg]] |
+| 74–85 | [[spell-scroll-xdmg (items)]] ([[Spell Scroll Level 6 Xdmg]], [[spell-scroll-level-7-xdmg (items)]], or [[spell-scroll-level-8-xdmg (items)]] spell) |
+| 86–87 | [[Staff of Fire Xdmg]] |
+| 88–89 | [[Staff of Frost Xdmg]] |
+| 90 | [[staff-of-power-xdmg (items)]] |
+| 91–92 | [[Staff of Thunder and Lightning Xdmg]] |
+| 93–94 | [[Tome of Clear Thought Xdmg]] |
+| 95–97 | [[wand-of-polymorph-xdmg (items)]] |
+| 98–00 | [[3-wand-of-the-war-mage-xdmg (items)]] |
 ^arcana-very-rare
 
 ## 🔧 Deep Evaluation Improvements

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wood-woad-mpmm-v1-wood-woad-mpmm.svg)
 
-# [[wood-woad-mpmm|Wood Woad]]
+# [[wood-woad-mpmm (plant)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -54,7 +54,7 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druids]] and [[treant xmm|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[Bestiary]] and [[treant-xmm (plant)]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad (MPMM)"
@@ -62,7 +62,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "natural armor, [[shield xphb|shield]]"
+"ac_class": "natural armor, [[Shield]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "1"

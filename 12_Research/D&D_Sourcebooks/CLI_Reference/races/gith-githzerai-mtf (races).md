@@ -61,9 +61,9 @@ You have advantage on saving throws against the [[conditions#Charmed|charmed]] a
 
 ### Githzerai Psionics
 
-You know the [[mage hand xphb|mage hand]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
+You know the [[mage-hand-xphb (spells)]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
 
-When you reach 3rd level, you can cast [[shield xphb|shield]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect thoughts xphb|detect thoughts]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast [[Shield]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect-thoughts-xphb (spells)]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 

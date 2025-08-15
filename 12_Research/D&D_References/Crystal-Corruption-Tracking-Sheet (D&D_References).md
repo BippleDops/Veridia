@@ -1,10 +1,12 @@
 ---
+
 title: Crystal-Corruption-Tracking-Sheet (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Crystal-Corruption-Tracking-Sheet
@@ -402,7 +404,7 @@ Corruption tracking integrates with other monitoring and security systems:
 Various organizations work with corruption tracking systems:
 
 - **[[Corruption Intelligence Agency]]**: Primary user of tracking system data
-- **[[Anti Corruption Research Institute]]**: Research organization using tracking information
+- **[[Anti-Corruption Research Institute (D&D_References)]]**: Research organization using tracking information
 - **[[Emergency Response Coordination]]**: Crisis management using tracking system alerts
 - **[[Environmental Protection Authorit|02 Worldbuilding/Groups/Environmental Protection Authorit]]**: Agency using tracking data for environmental safety
 - **[[International Corruption Monitoring Consortium]]**: Cross-realm cooperation organization
@@ -415,7 +417,7 @@ Multiple organizations contribute to tracking system advancement:
 - **[[Aethermoor Technical University]]**: Academic research and technical training
 - **[[Corruption Studies Research Institute]]**: Specialized corruption research and analysis
 - **[[Detection Technology Laboratory]]**: Advanced sensor and monitoring system development
-- **[[Cross Realm Cooperation Authority]]**: International collaboration on corruption threats
+- **[[Cross-Realm Cooperation Authority]]**: International collaboration on corruption threats
 - **[[Emergency Technology Development Foundation]]**: Crisis response and public safety advancement
 
 ### Investigation and Intelligence Scenarios
@@ -500,3 +502,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

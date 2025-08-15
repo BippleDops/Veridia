@@ -73,11 +73,11 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[conditions#Concentration|concentrating]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [[see invisibility xphb|see invisibility]] or [[senses#Truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [[see-invisibility-xphb (spells)]] or [[senses#Truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 165*
 
@@ -102,3 +102,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help delivering before dawn
 - A prisoner has gone missing and truth emerges
 - A letter reveals a conspiracy about a local noble
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[soul-cage-xge (spells)-phb]]` in CLI_Reference/spells/

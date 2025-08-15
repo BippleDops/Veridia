@@ -81,7 +81,7 @@ As the Maw awakens, its influence spreads:
 - The Maw begins manifesting directly in physical space
 
 ### Session 1: Strange Reports
-**Location:** [[Abyssos Prime   Parliament of Echoes]]  
+**Location:** [[Abyssos Prime]]  
 **Objective:** Investigate initial reports of unusual phenomena
 
 **Strange Incidents:**
@@ -289,7 +289,7 @@ Success is measured in "Reality Stability Points":
 - **[[Depth Wardens]]**: Military force losing members to erasure attacks
 - **[[The Singing Trenches]]**: Geological formations that may resonate with void energies
 - **[[Crystal Festival]]**: Annual event that might amplify reality distortions
-- **[[Time Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
+- **[[Time]]**: Temporal refugee whose presence weakens dimensional barriers
 - **[[The Lock]]**: Ancient barrier that may have contained similar threats before
 
 Connected Adventures

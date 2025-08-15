@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg)
 
-# [[aquatic troll rot|Aquatic Troll]]
+# [[aquatic-troll-rot (giant)]]
 *Source: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88*  
 
 ```statblock

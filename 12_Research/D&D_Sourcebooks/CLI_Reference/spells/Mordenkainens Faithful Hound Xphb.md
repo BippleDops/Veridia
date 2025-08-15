@@ -54,7 +54,7 @@ At the start of each of your turns, the hound attempts to bite one enemy within 
 
 On your later turns, you can take a [[actions#Magic|Magic]] action to move the hound up to 30 feet.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 300. Available in the SRD (as "Faithful Hound") and the Free Rules (2024)*
 

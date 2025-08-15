@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Creation_Flowchart - Quick Reference
 
 ## Key Info

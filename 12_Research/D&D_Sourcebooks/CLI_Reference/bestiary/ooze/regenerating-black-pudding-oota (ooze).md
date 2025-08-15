@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-regenerating-black-pudding-oota-regenerating-black-pudding-oota.svg)
 
-# [[regenerating black pudding oota|Regenerating Black Pudding]]
+# [[regenerating-black-pudding-oota (ooze)]]
 *Source: Out of the Abyss p. 211*  
 
 ```statblock

@@ -33,7 +33,7 @@ world: Both
 # Adventure
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-An adventure is a series of [[encounter xphb|encounters]]. A story emerges through playing them.
+An adventure is a series of [[Encounter Xphb]]. A story emerges through playing them.
 
 ## 🔧 Deep Evaluation Improvements
 

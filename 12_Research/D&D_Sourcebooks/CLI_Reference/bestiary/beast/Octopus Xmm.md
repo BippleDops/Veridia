@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-octopus-xmm-giant-octopus-xmm.svg)
 
-# [[octopus xmm|Octopus]]
+# [[Giant Octopus Xmm]]
 *Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -57,7 +57,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Octopus (XMM)"
@@ -94,10 +94,10 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Tentacles"
 "reactions":
   - "desc": "Trigger: A creature ends its turn within 5 feet of the octopus while\
-      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [[cube area of effect xphb|Cube]]\
-      \ centered on itself, and the octopus moves up to its [[swim speed xphb|Swim Speed]].\
-      \ The [[cube area of effect xphb|Cube]] is\
-      \ [[heavily obscured xphb|Heavily Obscured]]\
+      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [[Cube Area of Effect Xphb]]\
+      \ centered on itself, and the octopus moves up to its [[swim-speed-xphb (variant-rules)]].\
+      \ The [[Cube Area of Effect Xphb]] is\
+      \ [[Heavily Obscured Xphb]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":

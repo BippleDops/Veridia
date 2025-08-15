@@ -50,13 +50,13 @@ world: Both
 - **Components:** V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the [[aberrant-spirit-xphb|Aberrant Spirit]] stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb|Hit Points]] or when the spell ends.
+You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the [[Aberrant Spirit Xphb]] stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 [[hit-points-xphb (variant-rules)]] or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, it shares your [[initiative xphb|Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, it shares your [[Initiative Xphb]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[actions#Dodge|Dodge]] action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 322*
 
@@ -99,3 +99,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[summon-aberration-xphb (spells)-phb]]` in CLI_Reference/spells/

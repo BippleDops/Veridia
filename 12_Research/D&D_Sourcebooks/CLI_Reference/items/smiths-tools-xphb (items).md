@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except [[club xphb|Club]], [[greatclub xphb|Greatclub]], [[quarterstaff xphb|Quarterstaff]], and [[whip xphb|Whip]]), Medium armor (except [[hide armor xphb|Hide]]), Heavy armor, [[ball bearings xphb|Ball Bearings]], [[bucket xphb|Bucket]], [[caltrops xphb|Caltrops]], [[chain xphb|Chain]], [[crowbar xphb|Crowbar]], [[firearm bullets 10 xphb|Firearm Bullets]], [[grappling hook xphb|Grappling Hook]], [[iron pot xphb|Iron Pot]], [[iron spikes xphb|Iron Spikes]], [[sling bullets 20 xphb|Sling Bullets]]  
+- **Craft.** Any Melee weapon (except [[Greatclub Xphb]], [[Greatclub Xphb]], [[Quarterstaff Xphb]], and [[thorn-whip-xphb (spells)]]), Medium armor (except [[Armor Xphb]]), Heavy armor, [[ball-bearings-xphb (items)]], [[Bucket Xphb]], [[caltrops-xphb (items)]], [[Pact of the Chain Xphb]], [[Crowbar Xphb]], [[Firearm Bullets 10 Xphb]], [[grappling-hook-xphb (items)]], [[iron-pot-xphb (items)]], [[Iron Spikes Xphb]], [[Sling Bullets 20 Xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

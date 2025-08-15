@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blue-abishai-mpmm-blue-abishai-mpmm.svg)
 
-# [[blue abishai mpmm|Blue Abishai]]
+# [[blue-abishai-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -115,11 +115,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "The abishai casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 20):\n\nAt will: [[disguise self xphb|disguise self]],\
-      \ [[mage hand xphb|mage hand]], [[minor illusion xphb|minor illusion]]\n\
-      \n2/day each: [[charm person xphb|charm person]],\
-      \ [[dispel magic xphb|dispel magic]], [[greater invisibility xphb|greater invisibility]],\
-      \ [[wall of force xphb|wall of force]]"
+      \ the spellcasting ability (spell save DC 20):\n\nAt will: [[disguise-self-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Minor Illusion Xphb]]\n\
+      \n2/day each: [[Charm Person Xphb]],\
+      \ [[dispel-magic-xphb (spells)]], [[Invisibility Xphb]],\
+      \ [[Wall of Force Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\

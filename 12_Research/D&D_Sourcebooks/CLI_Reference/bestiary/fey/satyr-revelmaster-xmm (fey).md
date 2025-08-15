@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
 
-# [[satyr revelmaster xmm|Satyr Revelmaster]]
+# [[satyr-revelmaster-xmm]]
 *Source: Monster Manual (2024) p. 268*  
 
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
@@ -96,7 +96,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"
 "traits":
-  - "desc": "The satyr has [[advantage xphb|Advantage]]\
+  - "desc": "The satyr has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -107,7 +107,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
       \ condition until the start of the satyr's next turn."
     "name": "Prance"
   - "desc": "The satyr conjures a charming or frightening song. Wisdom Saving Throw:\
-      \ DC 14, each enemy in a 60-foot [[emanation area of effect xphb|Emanation]]\
+      \ DC 14, each enemy in a 60-foot [[Area of Effect Xphb]]\
       \ originating from the satyr. Failure: The target is subjected to the song's\
       \ effect:\n\n- Charming. The target has the [[conditions#Charmed|Charmed]]\
       \ condition for 1 minute. While [[conditions#Charmed|Charmed]],\

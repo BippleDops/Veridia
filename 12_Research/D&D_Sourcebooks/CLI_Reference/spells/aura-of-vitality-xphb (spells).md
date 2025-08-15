@@ -47,9 +47,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore `2d6` [[hit-points-xphb|Hit Points]] to one creature in it.
+An aura radiates from you in a 30-foot [[Area of Effect Xphb]] for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore `2d6` [[hit-points-xphb (variant-rules)]] to one creature in it.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 244*
 
@@ -88,3 +88,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jade-giant-spider-oota-jade-giant-spider-oota.svg)
 
-# [[jade giant spider oota|Jade Giant Spider]]
+# [[jade-giant-spider-oota (construct)]]
 *Source: Out of the Abyss p. 201*  
 
 ```statblock

@@ -57,9 +57,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Creditor**: [[King Marcus Lumengarde]]
-- **Enemy**: [[Portrait NPC the Bloodline Carrier the Bloodline Carrier.svg]]
+- **Enemy**: [[Npc]]
 - **Parent**: [[Lord Commander Gareth]]
-- **Friend**: [[Captain Depths Walker Marina]]
+- **Friend**: [[Captain Depths-Walker Marina (D&D_References)]]
 - **Ally**: [[High Priest Daemon Shadowprayer]]
 
 ## 12_Research Specific Content

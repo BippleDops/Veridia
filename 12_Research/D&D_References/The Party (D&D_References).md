@@ -404,11 +404,11 @@ Adjust for party composition:
 ---
 
 ## See Also
-- [[07_Player_Resources/Character_Options/Character_Bonds|07 Player Resources/Character Options/Character Bonds]]
-- [[02_Worldbuilding/Groups/Faction_Overview|02 Worldbuilding/Groups/Faction Overview]]
-- [[03_Mechanics/Social_Systems/Party_Reputation|03 Mechanics/Social Systems/Party Reputation]]
-- [[06_GM_Resources/Session_Tools/Session_Zero_Guide|06 GM Resources/Session Tools/Session Zero Guide]]
-- [[03_Mechanics/Underwater_Adaptation_Rules|03 Mechanics/Underwater Adaptation Rules]]
+- [[Character_Bonds]]
+- [[Groups]]
+- [[Party_Reputation]]
+- [[GM Resource]]
+- [[Underwater_Adaptation_Rules]]
 
 *"The Party is not just who you adventure with—they're who you become."*
 

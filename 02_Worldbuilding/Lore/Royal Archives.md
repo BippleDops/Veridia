@@ -1,6 +1,6 @@
 ---
 title: Royal Archives
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -29,7 +29,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Royal Archives represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

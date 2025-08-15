@@ -63,7 +63,7 @@ One side of the wall, selected by you when you cast this spell, deals `5d8` Fire
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[List Spells Classes Light Domain Xphb]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 338. Available in the SRD and the Free Rules (2024)*
 

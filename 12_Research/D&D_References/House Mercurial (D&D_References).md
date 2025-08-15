@@ -1,10 +1,12 @@
 ---
+
 title: House Mercurial (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # House Mercurial
@@ -63,3 +65,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

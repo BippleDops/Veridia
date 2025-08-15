@@ -48,7 +48,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[goblin-hexer-xmm|Goblin Hexer]]
+# [[Goblin Hexer Xmm]]
 *Source: Monster Manual (2024) p. 143*  
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
@@ -114,9 +114,9 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
       \ 12 (2d8 + 3) Psychic damage."
     "name": "Hex Stick"
   - "desc": "The goblin casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[minor-illusion-xphb|Minor Illusion]]\n\
-      \n1/day each: [[blindness-deafness-xphb|Blindness/Deafness]],\
-      \ [[faerie-fire-xphb|Faerie Fire]], [[grease xphb|Grease]]"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[Minor Illusion Xphb]]\n\
+      \n1/day each: [[blindness-deafness-xphb (spells)]],\
+      \ [[faerie-fire-xphb (spells)]], [[grease-xphb (spells)]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\

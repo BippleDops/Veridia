@@ -58,3 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - A noble needs help stealing before the new moon
 - A prisoner has gone missing and truth emerges
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

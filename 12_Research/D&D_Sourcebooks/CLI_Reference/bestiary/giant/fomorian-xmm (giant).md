@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fomorian-xmm-fomorian-xmm.svg)
 
-# [[fomorian xmm|Fomorian]]
+# [[Fomorian Xmm]]
 *Source: Monster Manual (2024) p. 123*  
 
 ## 🔧 Deep Evaluation Improvements

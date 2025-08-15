@@ -38,7 +38,7 @@ world: Both
 # Balloon Pack
 *Wondrous item, uncommon*  
 
-This backpack contains the spirit of an [[air elemental xmm|air elemental]] and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon as an action and gain the effect of the [[levitate xphb|levitate]] spell for 10 minutes, targeting yourself and requiring no [[conditions#Concentration|concentration]]. Alternatively, you can use a reaction to deploy the balloon when you're falling and gain the effect of the [[feather fall xphb|feather fall]] spell for yourself.
+This backpack contains the spirit of an [[elemental]] and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon as an action and gain the effect of the [[levitate-xphb (spells)]] spell for 10 minutes, targeting yourself and requiring no [[conditions#Concentration|concentration]]. Alternatively, you can use a reaction to deploy the balloon when you're falling and gain the effect of the [[Feather Fall Xphb]] spell for yourself.
 
 When either spell ends, the balloon slowly deflates as the elemental spirit escapes and returns to the Elemental Plane of Air. As the balloon deflates, you descend gently toward the ground for up to 60 feet. If you are still in the air at the end of this distance, you fall if you have no other means of staying aloft.
 

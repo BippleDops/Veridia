@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_humanoid_first-year-student-scc - Quick Reference
 
 ## Key Info

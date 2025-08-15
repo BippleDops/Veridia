@@ -3,7 +3,7 @@ title: list-optfeaturetype-as#Arcane%20Shot
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 

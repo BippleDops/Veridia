@@ -1,4 +1,5 @@
 ---
+
 title: MASTER_VAULT_INDEX
 type: note
 tags:
@@ -11,6 +12,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # MASTER_VAULT_INDEX
@@ -40,7 +42,7 @@ updated: 2025-08-14
 ### The Seven Shards Campaign
 
 *Cosmic adventure across dimensions*
-- [[Campaign Overview|Overview]]
+- [[01-campaign-overview (rise-of-tiamat)]]
 - [[Session 01|Session 1: The Beginning]]
 - Progress: Sessions 1-24 planned
 - Theme: Reality manipulation, cosmic horror, epic choices
@@ -48,7 +50,7 @@ updated: 2025-08-14
 ### Shadow Conspiracy
 
 *Political intrigue and consciousness manipulation*
-- [[Campaign Overview|Overview]]
+- [[01-campaign-overview (rise-of-tiamat)]]
 - [[Session 1 Shadows in the Senate|Session 1]]
 - Progress: Sessions 1-8 planned
 - Theme: Trust, betrayal, shadow surgery
@@ -56,7 +58,7 @@ updated: 2025-08-14
 ### Crystal Plague
 
 *Medical mystery with ethical dilemmas*
-- [[Campaign Overview|Overview]]
+- [[01-campaign-overview (rise-of-tiamat)]]
 - Sessions 1-6 planned
 - Theme: Disease, transformation, difficult choices
 
@@ -89,16 +91,16 @@ updated: 2025-08-14
 ## Semantic Connections
 
 *Related concepts and locations:*
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/classes/Wizard Xphb School of Enchantment]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/Visibility Underwater Underwater Encounter Distance Xdmg]]
+- [[classes]]
+- [[Underwater Encounter Distance]]
 - [[Aquabyssos_Submarines_Catalog]]
-- [[12_Research/D&D_References/Ocean Ecosystem Management]]
-- [[12_Research/D&D_References/Crisis Intervention Chief Raven Darkstorm]]
-- [[Vehicles   Aethermoor Airships Catalog]]
-- [[02 Worldbuilding/Groups/Border Territories]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/elemental/Galeb Duhr Xmm]]
-- [[02 Worldbuilding/Groups/Border Fortresses]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/undead/Vampire Umbral Lord Xmm]]
+- [[Ocean Ecosystem Management]]
+- [[Crisis Intervention Chief Raven Darkstorm]]
+- [[Vehicles - Aethermoor Airships]]
+- [[Border Territories]]
+- [[Bestiary]]
+- [[Border Fortresses]]
+- [[Bestiary]]
 
 ## DM Notes
 
@@ -110,7 +112,13 @@ updated: 2025-08-14
 
 
 ## Related
-- [[02 Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02 Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[Aquabyssos World Guide]]
+- [[Aethermoor World Guide]]
+- [[Shadow Conspiracy]]
+- [[Campaign_Overview]]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

@@ -45,11 +45,11 @@ world: Both
 - **Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
 - **Duration:** Instantaneous
 
-Negative energy ripples out in a 60-foot-radius [[sphere area of effect xphb|Sphere]] from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking `8d8` Necrotic damage on a failed save or half as much damage on a successful one.
+Negative energy ripples out in a 60-foot-radius [[Area of Effect Xphb]] from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking `8d8` Necrotic damage on a failed save or half as much damage on a successful one.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d8` for each spell slot level above 6.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 250. Available in the SRD and the Free Rules (2024)*
 

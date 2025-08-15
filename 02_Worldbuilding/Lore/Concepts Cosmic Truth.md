@@ -1,7 +1,7 @@
 ---
 
-title: Concepts Cosmic Truth
-type: lore
+title: Concepts [[Cosmic Truth]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -192,7 +192,7 @@ Ways to incorporate 02_Worldbuilding/Concepts/Cosmic Truth into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -232,7 +232,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

@@ -48,11 +48,11 @@ world: Both
 - **Components:** V, S, M (seven thorns)
 - **Duration:** Concentration, up to 10 minutes
 
-The ground in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point within range sprouts hard spikes and thorns. The area becomes [[difficult-terrain-xphb|Difficult Terrain]] for the duration. When a creature moves into or within the area, it takes `2d4` Piercing damage for every 5 feet it travels.
+The ground in a 20-foot-radius [[Area of Effect Xphb]] centered on a point within range sprouts hard spikes and thorns. The area becomes [[Difficult Terrain Xphb]] for the duration. When a creature moves into or within the area, it takes `2d4` Piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [[actions#Search|Search]] action and succeed on a Wisdom ([[skills#Perception|Perception]] or [[skills#Survival|Survival]]) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the SRD and the Free Rules (2024)*
 

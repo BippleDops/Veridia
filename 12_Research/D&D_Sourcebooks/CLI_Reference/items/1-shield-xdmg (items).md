@@ -36,12 +36,12 @@ world: Both
 ![](04_Resources/Assets/Generated/Items/item-artifact-1-shield-xdmg-1-shield-xdmg.svg)
 
 # +1 Shield
-*Armor ([[shield xphb|shield]]), uncommon*  
+*Armor ([[Shield]]), uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have a +1 bonus to [[armor class xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
+While holding this Shield, you have a +1 bonus to [[armor-class-xphb (variant-rules)]], in addition to the Shield's normal bonus to AC.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the SRD and the Free Rules (2024)*
 

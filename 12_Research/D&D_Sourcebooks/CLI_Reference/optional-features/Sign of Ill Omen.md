@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 5
 
-You can cast [[bestow curse xphb|bestow curse]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Bestow Curse Xphb]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 

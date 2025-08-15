@@ -16,15 +16,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 21: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -121,7 +121,7 @@ The main reason parties get involved
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
 ## Plot Hooks
 
@@ -152,3 +152,20 @@ The main reason parties get involved
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Pronunciation Guide
+- **Theme**: [THEME]
+- **Theme**: [THEME]
+- **Themes**: [THEMES]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

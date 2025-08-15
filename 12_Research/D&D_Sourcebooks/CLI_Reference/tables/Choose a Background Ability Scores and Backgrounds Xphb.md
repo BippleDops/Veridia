@@ -37,12 +37,12 @@ world: Both
 
 | Ability | Backgrounds |
 |---------|-------------|
-| Strength | [[artisan xphb|Artisan]], [[entertainer xphb|Entertainer]], [[farmer xphb|Farmer]], [[guard xphb|Guard]], [[noble xphb|Noble]], [[sailor xphb|Sailor]], [[soldier xphb|Soldier]] |
-| Dexterity | [[artisan xphb|Artisan]], [[charlatan xphb|Charlatan]], [[criminal xphb|Criminal]], [[entertainer xphb|Entertainer]], [[guide xphb|Guide]], [[sailor xphb|Sailor]], [[scribe xphb|Scribe]], [[soldier xphb|Soldier]], [[wayfarer xphb|Wayfarer]] |
-| Constitution | [[charlatan xphb|Charlatan]], [[criminal xphb|Criminal]], [[farmer xphb|Farmer]], [[guide xphb|Guide]], [[hermit xphb|Hermit]], [[merchant xphb|Merchant]], [[sage xphb|Sage]], [[soldier xphb|Soldier]] |
-| Intelligence | [[acolyte xphb|Acolyte]], [[artisan xphb|Artisan]], [[criminal xphb|Criminal]], [[guard xphb|Guard]], [[merchant xphb|Merchant]], [[noble xphb|Noble]], [[sage xphb|Sage]], [[scribe xphb|Scribe]] |
-| Wisdom | [[acolyte xphb|Acolyte]], [[farmer xphb|Farmer]], [[guard xphb|Guard]], [[guide xphb|Guide]], [[hermit xphb|Hermit]], [[sage xphb|Sage]], [[sailor xphb|Sailor]], [[scribe xphb|Scribe]], [[wayfarer xphb|Wayfarer]] |
-| Charisma | [[acolyte xphb|Acolyte]], [[charlatan xphb|Charlatan]], [[entertainer xphb|Entertainer]], [[hermit xphb|Hermit]], [[merchant xphb|Merchant]], [[noble xphb|Noble]], [[wayfarer xphb|Wayfarer]] |
+| Strength | [[Artisan Xphb]], [[entertainer-xphb (backgrounds)]], [[Farmer Xphb]], [[guard-xphb (backgrounds)]], [[noble-xphb (backgrounds)]], [[Sailor Xphb]], [[soldier-xphb (backgrounds)]] |
+| Dexterity | [[Artisan Xphb]], [[charlatan-xphb (backgrounds)]], [[criminal-xphb (backgrounds)]], [[entertainer-xphb (backgrounds)]], [[guide-xphb (backgrounds)]], [[Sailor Xphb]], [[scribe-xphb (backgrounds)]], [[soldier-xphb (backgrounds)]], [[wayfarer-xphb (backgrounds)]] |
+| Constitution | [[charlatan-xphb (backgrounds)]], [[criminal-xphb (backgrounds)]], [[Farmer Xphb]], [[guide-xphb (backgrounds)]], [[hermit-xphb (backgrounds)]], [[merchant-xphb (backgrounds)]], [[sage-xphb (backgrounds)]], [[soldier-xphb (backgrounds)]] |
+| Intelligence | [[acolyte-xphb (backgrounds)]], [[Artisan Xphb]], [[criminal-xphb (backgrounds)]], [[guard-xphb (backgrounds)]], [[merchant-xphb (backgrounds)]], [[noble-xphb (backgrounds)]], [[sage-xphb (backgrounds)]], [[scribe-xphb (backgrounds)]] |
+| Wisdom | [[acolyte-xphb (backgrounds)]], [[Farmer Xphb]], [[guard-xphb (backgrounds)]], [[guide-xphb (backgrounds)]], [[hermit-xphb (backgrounds)]], [[sage-xphb (backgrounds)]], [[Sailor Xphb]], [[scribe-xphb (backgrounds)]], [[wayfarer-xphb (backgrounds)]] |
+| Charisma | [[acolyte-xphb (backgrounds)]], [[charlatan-xphb (backgrounds)]], [[entertainer-xphb (backgrounds)]], [[hermit-xphb (backgrounds)]], [[merchant-xphb (backgrounds)]], [[noble-xphb (backgrounds)]], [[wayfarer-xphb (backgrounds)]] |
 ^ability-scores-and-backgrounds
 
 ## 🔧 Deep Evaluation Improvements

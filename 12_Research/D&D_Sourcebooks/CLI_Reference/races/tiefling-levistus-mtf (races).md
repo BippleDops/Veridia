@@ -58,7 +58,7 @@ You have resistance to fire damage.
 
 ### Legacy of Stygia
 
-You know the [[ray of frost xphb|ray of frost]] cantrip. When you reach 3rd level, you can cast the [[armor of agathys xphb|armor of Agathys]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[darkness xphb|darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[ray-of-frost-xphb (spells)]] cantrip. When you reach 3rd level, you can cast the [[Armor of Agathys Xphb]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[darkness-xphb (variant-rules)]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

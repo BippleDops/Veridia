@@ -445,7 +445,7 @@ Multiple organizations contribute to breathing technology advancement:
 
 - **[[Aquabyssos Medical University]]**: Academic research and medical training programs
 - **[[Respiratory Sciences Research Institute]]**: Advanced studies in breathing and life support technology
-- **[[Bio Integration Laboratory]]**: Specialized research in biological breathing system integration
+- **[[laboratory]]**: Specialized research in biological breathing system integration
 - **[[International Breathing Technology Consortium]]**: Global cooperation on breathing innovations
 - **[[Emergency Life Support Research Foundation]]**: Crisis response and medical treatment advancement
 

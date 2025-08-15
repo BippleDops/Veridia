@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gold-dragon-wyrmling-xmm-gold-dragon-wyrmling-xmm.svg)
 
-# [[gold dragon wyrmling xmm|Gold Dragon Wyrmling]]
+# [[Gold Dragon]]
 *Source: Monster Manual (2024) p. 144. Available in the SRD and the Free Rules (2024)*  
 
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
@@ -108,13 +108,13 @@ Gold dragons make their homes in places of natural and magical wonder.
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 22 (4d10) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 13, each creature that isn't currently affected\
-      \ by this breath in a 15-foot [[cone area of effect xphb|Cone]].\
-      \ Failure: The target has [[disadvantage xphb|Disadvantage]]\
-      \ on Strength-based [[d20 test xphb|D20 Tests]]\
+      \ by this breath in a 15-foot [[Area of Effect Xphb]].\
+      \ Failure: The target has [[Advantage Xphb]]\
+      \ on Strength-based [[d20-test-xphb (variant-rules)]]\
       \ and subtracts 2 (d4) from its damage rolls. It repeats the save at the end\
       \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
       \ it succeeds automatically."

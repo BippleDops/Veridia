@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Log
 
----
+- --
 title: Session Log
 type: campaign
 tags:
@@ -17,11 +17,11 @@ tags:
 - campaign
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -73,11 +73,11 @@ modified: '2025-08-14'
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -85,7 +85,7 @@ modified: '2025-08-14'
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
 ## Plot Hooks
 
@@ -115,3 +115,13 @@ modified: '2025-08-14'
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

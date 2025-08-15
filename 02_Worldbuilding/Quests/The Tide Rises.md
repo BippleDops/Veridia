@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: The Tide Rises
-type: Lore
+type: [[Lore]]
 tags:
 - available
 - lore
@@ -42,7 +42,7 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 
 # The Tide Rises
 
-*Missing nobles, diplomatic immunity, and a conspiracy that threatens to drown Aethermoor*
+*Missing nobles, [[Diplomatic Immunity]], and a conspiracy that threatens to drown [[Aethermoor]]*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +58,7 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,21 +98,21 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 
 ## Quest Overview
 
-Several lesser nobles from [[Crystalhaven]] have vanished after attending "cultural exchange" events at [[12_Research/D&D_Statblocks/The Drowned Embassy]]. [[Captain Lyanna Brightshield]] suspects foul play but cannot legally investigate due to diplomatic immunity. The party must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
+Several lesser nobles from [[Crystalhaven]] have vanished after attending "[[Cultural Exchange]]" events at [[Drowned]] Embassy]]. [[Captain Lyanna Bright[[Shield]]]] suspects foul play but cannot legally investigate due to diplomatic immunity. [[The Party]] must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
 
-## Quest Giver
+## [[Quest Giver]]
 
 **[[Captain Lyanna Brightshield]]** approaches the party unofficially, as official channels are blocked by diplomatic protocols.
 
 ## Background
 
-Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[Ambassador Korvin Blacktide]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
+Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[Korvin Blacktide]]]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
 
 ### Primary Objectives
 
 1. Investigate the disappearances without violating diplomatic immunity
 2. Discover the fate of the missing nobles
-3. Uncover the true purpose of [[12_Research/D&D_Statblocks/The Drowned Embassy]]
+3. Uncover the true purpose of [[The Drowned Embassy]]
 4. Decide whether to expose, stop, or ally with the conspiracy
 
 ### The Noble's Fate
@@ -121,26 +121,26 @@ The nobles are alive but being transformed into Deep Heralds in the Embassy's fl
 
 ### The Blackmail Web
 
-[[Queen Seraphina Lumengarde]] knew about the kidnappings but is being blackmailed by Korvin, who has evidence of her corruption. She's been providing him with information about crystal defenses.
+[[Queen Seraphina]] [[Lumengarde]]]] knew about the kidnappings but is being blackmailed by Korvin, who has [[Evidence]] of her corruption. She's been providing him with information about crystal defenses.
 
 ### The Greater Threat
 
-The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines are tied to ancient pacts that seal the boundary between realms. Once transformed, their corrupted blood will break these seals.
+The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines are tied to [[Ancient Pacts]] that seal the boundary between realms. Once transformed, their corrupted blood will break these seals.
 
 ### The Goldspire Connection
 
-[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their  Bombs to destroy the entire Embassy district if necessary, casualties included.
+[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their  Bombs to destroy the entire [[Embassy District]] if necessary, casualties included.
 
 ## DM Secrets
 
-> [!warning] Timeline Pressure
+> [!warning] [[Timeline]] Pressure
 > - Day 1-2: Investigation phase, gathering clues
 > - Day 3: Transformation completes if not stopped
 > - Day 4: Sleeper agents activated or Deep Gate ritual begins
 > - Day 5: Either invasion begins or Goldspire implements scorched earth
 
 > [!danger] The Moral Dilemma
-> The nobles can be saved, but they've already been partially transformed. Saving them means they'll carry Aquabyssos corruption forever, potentially spreading it. Killing them prevents the invasion but murders innocents. Letting them transform might be the only way to learn Aquabyssos's true plans.
+> The nobles can be saved, but they've already been partially transformed. Saving them means they'll carry [[Aquabyssos]] corruption forever, potentially spreading it. Killing them prevents the invasion but murders innocents. Letting them transform might be the only way to learn Aquabyssos's true plans.
 
 > [!info] Hidden Ally
 > Tidecaller Nerissa, Korvin's attaché, is having doubts about the plan. She was once from Aethermoor and still has family in [[Port Meridian]]. She can be turned with the right approach.
@@ -153,7 +153,7 @@ The Tide Rises is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of The Tide Rises as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tide Rises.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -167,14 +167,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current power structures established
@@ -218,3 +218,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

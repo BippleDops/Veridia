@@ -49,11 +49,11 @@ world: Both
 - **Components:** V, S, M (a bit of pork rind or butter)
 - **Duration:** 1 minute
 
-Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [[difficult-terrain-xphb|Difficult Terrain]] for the duration.
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [[Difficult Terrain Xphb]] for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [[conditions#prone|Prone]] condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [[conditions#prone|Prone]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 280. Available in the SRD and the Free Rules (2024)*
 

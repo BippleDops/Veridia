@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-rug-of-smothering-xmm-animated-rug-of-smothering-xmm.svg)
 
-# [[animated rug of smothering xmm|Animated Rug of Smothering]]
+# [[animated-rug-of-smothering-xmm (construct)]]
 *Source: Monster Manual (2024) p. 17. Available in the SRD and the Free Rules (2024)*  
 
 Animated rugs of smothering might attack any creature that steps on them, or they might be passed off as superficially similar magic items, such as Carpets of Flying, and attack those who speak a supposed command word. Deadly tapestries, furs, and similar items also use this stat block.

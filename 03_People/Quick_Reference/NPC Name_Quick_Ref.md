@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC Name - Quick Reference
 
 ## Key Info

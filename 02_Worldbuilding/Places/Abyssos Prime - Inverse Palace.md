@@ -106,7 +106,7 @@ The palace's most striking features are its **seventeen towering spires** that p
 
 ### The Gravity Wells
 
-Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[Void Touched]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
+Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[The Void Touched Depths]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
 
 - **The Ascending Throne Room**: Where petitioners must "fall upward" to approach [[The Deep Sovereign]]
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
@@ -191,7 +191,7 @@ This repository contains knowledge gathered from across the [[Multiverse]], stor
 - Maps of the [[Pressure Territories]]
 - Histories of the [[Sunken Civilizations]]
 - Prophecies regarding the [[Rising Dark]]
-- Formulas for creating [[Pressure Wrought]] items
+- Formulas for creating [[Pressure-Wrought]] items
 - Intelligence on surface world activities gathered by [[Deep Spies]]
 
 ### The Living Corridors
@@ -223,7 +223,7 @@ Opposing the Ascension Plot are the **Deep Purists**, traditionalists who believ
 
 ### The Temporal Rebellion
 
-A secretive faction has discovered that the palace's [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
+A secretive faction has discovered that the palace's [[Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
 
 - Find timelines where the [[Great Sundering]] never occurred
 - Retrieve lost knowledge from destroyed realities
@@ -337,6 +337,13 @@ Forged from the pressure-compressed remains of surface metals, this armor provid
 
 The [[Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
 
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Player-Facing Summary
 
 Abyssos Prime   Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -376,6 +383,20 @@ Abyssos Prime - Inverse Palace is a notable location characterized by its unique
 ### Founding
 Abyssos Prime - Inverse Palace was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 ## Current Events
 
 Ongoing situations affecting Abyssos Prime - Inverse Palace:
@@ -412,3 +433,40 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

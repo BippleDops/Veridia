@@ -1,9 +1,9 @@
 ---
 
-title: The Great Drowning
-type: Location
+title: The [[Great Drowning]]
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - aquatic
 - content/location
@@ -19,12 +19,12 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 accessibility:
   content_warnings:
   - political coercion
-  - environmental hazards
+  - [[Environmental Hazards]]
   pronunciation: The Great Drowning
   safety_tools:
   - Lines & Veils
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ improvements: 20
 
 The Great Drowning marks both a physical location and a temporal scar in the fabric of Aquabyssos—the epicenter where the ancient city of Thalassopolis was consumed by an uncontrolled planar breach 847 years ago. Now a massive whirlpool spanning three miles in diameter, it serves as both a memorial to the 300,000 souls lost and a persistent reminder of the dangers of unchecked magical experimentation.
 
-The site pulses with residual planar energy, creating unpredictable currents that can transport unwary travelers through space and time. The Abyssal Senate maintains a permanent garrison here, both to prevent access to the depths where Thalassopolis's ruins lie and to monitor the strange phenomena that continue to manifest.
+The site pulses with residual planar energy, creating unpredictable currents that can transport unwary travelers through space and [[Time]]. The Abyssal Senate maintains a permanent garrison here, both to prevent access to the depths where Thalassopolis's ruins lie and to monitor the strange phenomena that continue to manifest.
 
 ### The Maelstrom
 
@@ -119,7 +119,7 @@ The Great Drowning appears as a colossal whirlpool that defies natural physics:
 Concentric zones of crystallized water orbit the maelstrom at various depths:
 - **First Ring** (100-200 feet): Contains echoes of the final day
 - **Second Ring** (300-500 feet): Preserves fragments of daily life
-- **Third Ring** (700-900 feet): Holds the screams of the drowning
+- **Third Ring** (700-900 feet): Holds the screams of [[The Drowning]]
 - **Fourth Ring** (1,200+ feet): Unknown contents—all who enter never return
 
 ### The Temporal Distortion Field
@@ -176,9 +176,9 @@ STR 16 (+3), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 15 (+2), CHA 11 (+0)
 **Actions**
 **Multiattack.** The guard makes three trident attacks.
 
-**Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage plus 3 (1d6) force damage.
+**Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 10 ([[2d6]] + 3) piercing damage plus 3 (1d6) force damage.
 
-**Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a DC 14 Constitution saving throw, taking 28 (8d6) thunder damage on a failed save, or half as much on a successful one.
+**Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a DC 14 Constitution saving throw, taking 28 ([[8d6]]) thunder damage on a failed save, or half as much on a successful one.
 
 ### The Echo Shepherds
 
@@ -207,12 +207,12 @@ STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
 
 **Damage Resistances** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** poison
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+**Condition Immunities** [[Exhaustion]], grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 **Senses** darkvision 60 ft., passive Perception 11
 **Languages** Aquan, Common (fragmented)
 **Challenge** 5 (1,800 XP)
 
-**Fragmented Memory.** The remt has disadvantage on Intelligence checks but advantage on saving throws against being charmed.
+**Fragmented Memory.** The remt has [[Disadvantage]] on Intelligence checks but advantage on saving throws against being charmed.
 
 **Water Form.** The remt can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -237,9 +237,9 @@ A temporal anomaly where past, present, and future overlap:
 - Visitors might encounter their future selves
 - Messages can be left for the past
 - Deaths here echo through time
-- Used by oracles to glimpse possible futures
+- Used by [[Oracle]]s to glimpse possible futures
 
-### The Sorrow Gardens
+### [[The Sorrow Gardens]]
 
 Crystallized tears of the victims form underwater gardens:
 - Each crystal contains a victim's last memory
@@ -247,7 +247,7 @@ Crystallized tears of the victims form underwater gardens:
 - Some crystals grant knowledge or skills temporarily
 - Others inflict curses or madness
 
-## Random Encounters (d20)
+## [[[[Random Encounter]]s]] (d20)
 
 | Roll | Encounter |
 |------|-----------|
@@ -258,14 +258,14 @@ Crystallized tears of the victims form underwater gardens:
 | 9-10 | Memory crystal storm (1d6 psychic damage per round) |
 | 11-12 | Planar rift opens briefly to Elemental Plane of Water |
 | 13-14 | Ghost ship from Thalassopolis emerges, crew unaware they're dead |
-| 15-16 | Temporal echo of the original catastrophe (illusion) |
-| 17-18 | Deep Mother cultists attempting ritual |
+| 15-16 | [[Temporal Echo]] of the original catastrophe (illusion) |
+| 17-18 | [[Deep Mother Cult]]ists attempting ritual |
 | 19 | Future version of party member warning of danger |
 | 20 | Archive Stone activates spontaneously |
 
 ### The Thirteenth Hour
 
-The party must enter the maelstrom during a specific temporal alignment to retrieve an artifact from Thalassopolis before the city's destruction. They have exactly 13 hours of subjective time, but each hour deeper they go, the harder it becomes to return.
+[[The Party]] must enter the maelstrom during a specific temporal alignment to retrieve an artifact from Thalassopolis before the city's destruction. They have exactly 13 hours of subjective time, but each hour deeper they go, the harder it becomes to return.
 
 ### The Last Archmage
 
@@ -273,17 +273,17 @@ Intelligence suggests one of the thirteen archmages survived, transformed into s
 
 ### Memory Thieves
 
-Someone is harvesting the memory crystals from the Sorrow Gardens and selling them on the black market. The Depth Guard needs investigators who can navigate both the physical dangers and the political implications.
+Someone is harvesting the [[Memory Crystals]] from the Sorrow Gardens and selling them on the black market. The Depth Guard needs investigators who can navigate both the physical dangers and the political implications.
 
 ### The Other Side
 
 A message in a bottle emerges from the maelstrom claiming to be from survivors who passed through to another realm. It includes instructions for a ritual to open a stable gateway, but requires components that are themselves dangerous to obtain.
 
-### Temporal Assassination
+### Temporal [[Assassin]]ation
 
-The party discovers evidence of someone using the Tide Calendar to send assassins into the past to eliminate key figures. They must navigate the temporal streams to prevent changes to history—or decide if some changes might be for the better.
+The party discovers [[Evidence]] of someone using the Tide Calendar to send assassins into the past to eliminate key figures. They must navigate the temporal streams to prevent changes to history—or decide if some changes might be for the better.
 
-### Memory Pearls
+### [[Memory Pearls]]
 
 Crystallized memories that can be consumed to gain temporary benefits:
 - **Common** (100 gp): Gain proficiency in one skill for 24 hours
@@ -297,7 +297,7 @@ Crystallized memories that can be consumed to gain temporary benefits:
 Devices that protect against time distortion:
 - **Minor** (750 gp): Advantage on saves vs temporal effects
 - **Major** (7,500 gp): Immunity to time-based attacks
-- **Supreme** (75,000 gp): Control personal timeline
+- **Supreme** (75,000 gp): Control personal [[Timeline]]
 
 ### Depth Caller's Conch
 
@@ -309,7 +309,7 @@ This spiral shell constantly drips with water that never runs dry. While attuned
 - Can hear whispers from the Great Drowning regardless of distance
 - Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -323,17 +323,17 @@ The Great Drowning serves as:
 - A source of temporal plot devices
 - A prison for things that should stay buried
 - A gateway to other planes or times
-- The Deep Mother's potential emergence point
+- [[The Deep Mother]]'s potential emergence point
 
 ---
 
 ## See Also
 
 - [[Deep Mother]]
-- [[02 Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
+- [[Places]]
 - [[Depth Guard]]
-- [[02 Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [[02_Worldbuilding]]
+- [[Temporal_Mechanics_System]]
 
 *"In the depths of the Great Drowning, yesterday screams, today weeps, and tomorrow drowns."*
 
@@ -341,7 +341,7 @@ The Great Drowning serves as:
 
 The Great Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Great Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Drowning.
 
@@ -362,6 +362,34 @@ The Great Drowning is a notable location characterized by its unique features an
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Great Drowning:
@@ -377,7 +405,7 @@ Ongoing situations affecting The Great Drowning:
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -387,7 +415,7 @@ Ongoing situations affecting The Great Drowning:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## A Day in the Life
 
@@ -404,3 +432,40 @@ Ongoing situations affecting The Great Drowning:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

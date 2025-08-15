@@ -53,11 +53,11 @@ These furred boots are snug and feel warm. While wearing them, you gain the foll
 
 ## Cold Resistance
 
-You have [[resistance xphb|Resistance]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
+You have [[boon-of-energy-resistance-xphb (feats)]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
 
 ## Winter Strider
 
-You ignore [[difficult terrain xphb|Difficult Terrain]] created by ice or snow.
+You ignore [[Difficult Terrain Xphb]] created by ice or snow.
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the SRD and the Free Rules (2024)*
 

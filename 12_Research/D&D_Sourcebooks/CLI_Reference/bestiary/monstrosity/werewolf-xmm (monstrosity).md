@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werewolf-xmm-v1-werewolf-xmm.svg)
 
-# [[werewolf xmm|Werewolf]]
+# [[werewolf-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 327. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -88,7 +88,7 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
 "traits":
-  - "desc": "The werewolf has [[advantage xphb|Advantage]]\
+  - "desc": "The werewolf has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the werewolf's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -100,8 +100,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit points xphb|Hit Points]],\
-      \ it instead becomes a Werewolf under the DM's control and has 10 [[hit points xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb (variant-rules)]],\
+      \ it instead becomes a Werewolf under the DM's control and has 10 [[hit-points-xphb (variant-rules)]].\
       \ Success: The target is immune to this werewolf's curse for 24 hours."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."

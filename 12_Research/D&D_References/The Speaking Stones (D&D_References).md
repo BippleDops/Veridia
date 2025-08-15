@@ -57,9 +57,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Sibling**: [[Ambassador Korvin Blacktide]]
-- **Rival**: [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
-- **Creditor**: [[Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg]]
-- **Ally**: [[Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg]]
+- **Rival**: [[Npc]]
+- **Creditor**: [[Npc]]
+- **Ally**: [[Banking Lord Cornelius Coinwright]]
 
 ## 12_Research Specific Content
 

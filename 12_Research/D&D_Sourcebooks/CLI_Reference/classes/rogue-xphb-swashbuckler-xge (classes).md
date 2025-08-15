@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Swashbuckler
-*[[rogue xphb|Rogue]]: Rogue Subclass*  
+*[[Rogue Xphb Swashbuckler Xge]]: Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 48*  
 
 > [!tldr] Class and Feature Progression

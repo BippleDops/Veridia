@@ -1,13 +1,13 @@
 ---
 
 title: The First Truth
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - truth
 - status/complete
 - revelation
-- content/lore
+- content/[[Lore]]
 - quest
 - content/location
 - place
@@ -19,7 +19,7 @@ tags:
 created: 2025-08-08 - Category/Lore
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Philosophy
 MyContainer: None
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ The First Truth is both a philosophical concept and a practical mystery that has
 
 This concept has evolved from abstract philosophical speculation into an active area of research and investigation. Various schools of thought, religious orders, and scholarly institutions have developed different theories about what the First Truth might be, how it could be discovered, and what the implications of its revelation would mean for civilization.
 
-The search for the First Truth has become particularly relevant during Aquabyssos's current crisis, as many believe that understanding this fundamental principle could provide guidance for resolving the city's complex political and supernatural challenges.
+The search for the First Truth has become particularly relevant during Aquabyssos's current crisis, as many believe that understanding this fundamental principle could provide [[Guidance]] for resolving the city's complex political and supernatural challenges.
 
 ## Philosophical Foundations
 
@@ -160,7 +160,7 @@ Attempts to create frameworks for understanding the First Truth have led to adva
 
 The principle that all contradictions stem from incomplete understanding has produced effective mediation techniques for resolving disputes.
 
-### Magical Theory
+### [[Magical Theory]]
 
 Several schools of magic have incorporated First Truth principles, leading to more efficient and elegant spellcasting techniques.
 
@@ -180,9 +180,9 @@ A collaborative effort to combine insights from all schools of thought, looking 
 
 Researchers conduct carefully designed experiences and observations to test theoretical frameworks about the nature of fundamental truth.
 
-### Historical Analysis
+### [[Historical Analysis]]
 
-Scholars examine the records of previous civilizations, looking for evidence that ancient peoples may have possessed knowledge of the First Truth.
+Scholars examine the records of previous civilizations, looking for [[Evidence]] that ancient [[People]]s may have possessed knowledge of the First Truth.
 
 ### Mystical Exploration
 
@@ -209,8 +209,8 @@ Certain philosophers warn that discovering the First Truth might be psychologica
 The political crisis in Aquabyssos has intensified interest in the First Truth, with different factions claiming that understanding fundamental reality would resolve the city's problems:
 
 - Some argue that the First Truth would reveal the correct form of government
-- Others believe it would expose the true nature of the supernatural influences affecting the city
-- Religious leaders suggest it might provide divine guidance for moral decision-making
+- Others believe it would expose the true nature of the [[Supernatural Influence]]s affecting the city
+- [[Religious Leaders]] suggest it might provide divine guidance for moral decision-making
 - Practical thinkers propose it could offer solutions for resource distribution and conflict resolution
 
 ## Practical Implications for Adventures
@@ -229,7 +229,7 @@ Characters could become involved in debates and investigations between different
 
 Factions might seek to use First Truth research to legitimize their positions or gain advantages.
 
-### Personal Quests
+### Personal [[Quests]]
 
 Individual characters might pursue understanding of the First Truth as a personal goal or spiritual journey.
 
@@ -241,19 +241,19 @@ Individual characters might pursue understanding of the First Truth as a persona
 
 3. **The Revelation Crisis**: Someone claims to have discovered the First Truth, but the revelation is so disturbing that society begins to break down as people struggle to accept it.
 
-4. **The False Truth**: A charismatic leader uses a fabricated "First Truth" to gain political power, and the party must expose the deception without destroying people's faith in the concept itself.
+4. **The False Truth**: A charismatic leader uses a fabricated "First Truth" to gain political power, and [[The Party]] must expose the deception without destroying people's faith in the concept itself.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 The First Truth serves as both a philosophical framework and a plot device. Use it to:
-- Provide intellectual depth to NPCs and organizations
+- Provide intellectual depth to [[Npc]]s and [[Organization]]s
 - Create opportunities for roleplay involving ethics and philosophy
 - Generate conflicts between different worldviews
 - Offer potential explanations for mysterious phenomena in the campaign
@@ -287,6 +287,34 @@ The First Truth is a notable location characterized by its unique features and s
 ### Founding
 The First Truth was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The First Truth:
@@ -308,3 +336,40 @@ Ongoing situations affecting The First Truth:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

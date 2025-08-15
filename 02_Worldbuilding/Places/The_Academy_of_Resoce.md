@@ -7,7 +7,7 @@ tags: ['location']
 ## Overview
 
 **Type**: Academy
-**Region**: [[Regional Territory]]
+**[[region]]**: [[Regional Territory]]
 **Population**: ~1,000-10,000 (varies by type)
 **Government**: Local Council
 **Defenses**: Standard fortifications
@@ -20,13 +20,13 @@ The Academy of Resoce stands as a significant academy in the region, serving bot
 - **Location**: Strategic position in the region
 - **Climate**: Temperate, seasonal variations
 - **Terrain**: Varied, suitable for settlement
-- **Resources**: Local materials and trade goods
+- **Resources**: Local materials and [[Trade Goods]]
 
 ### Architecture
 The academy features architecture typical of the region, with buildings constructed from local materials. Key structures include:
 - Central plaza or courtyard
 - Administrative buildings
-- Commercial district
+- [[Commercial District]]
 - Residential areas
 - Defensive structures (if applicable)
 
@@ -44,8 +44,8 @@ Established generations ago as a strategic settlement, The Academy of Resoce has
 
 ### Commercial Quarter
 - Markets and bazaars
-- Merchant guilds
-- Trade warehouses
+- [[Merchant]] guilds
+- [[Trade War]]ehouses
 - Inns and taverns
 
 ### Residential Areas
@@ -56,7 +56,7 @@ Established generations ago as a strategic settlement, The Academy of Resoce has
 
 ### Notable Landmarks
 1. **Central Structure**: Main governmental or religious building
-2. **Market Square**: Hub of commercial activity
+2. **[[Market Squar]]e**: Hub of commercial activity
 3. **Defensive Works**: Walls, gates, or natural barriers
 4. **Cultural Sites**: Temples, theaters, or academies
 
@@ -73,6 +73,20 @@ Established generations ago as a strategic settlement, The Academy of Resoce has
 - Skilled artisans
 - Common laborers
 
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
 ## Government & Law
 
 ### Leadership
@@ -80,13 +94,13 @@ Led by a council of representatives or appointed officials, maintaining order an
 
 ### Laws
 Standard regional laws apply, with local ordinances for:
-- Trade regulations
-- Public safety
+- [[Trade Regulations]]
+- [[Public Safety]]
 - Resource management
 - Defense requirements
 
 ### Law Enforcement
-- City watch or guard
+- [[City Watch]] or guard
 - Judicial system
 - Prison or detention facilities
 
@@ -120,7 +134,7 @@ Local customs blend regional traditions with unique local practices developed ov
 - Gaming establishments
 - Public gatherings
 
-## Important NPCs
+## Important [[Npc]]s
 
 ### Officials
 - **Leader**: Governs the academy
@@ -130,7 +144,7 @@ Local customs blend regional traditions with unique local practices developed ov
 ### Notable Residents
 - Prominent merchants
 - Skilled artisans
-- Religious leaders
+- [[Religious Leaders]]
 - Information brokers
 
 ## Current Events
@@ -147,13 +161,13 @@ The academy currently faces:
 2. **Economic Opportunity**: Trade deals and merchant conflicts
 3. **Security Threat**: External or internal dangers
 4. **Mystery**: Unexplained events requiring investigation
-5. **Social Conflict**: Tensions between different groups
+5. **Social Conflict**: Tensions between different [[Groups]]
 
-## DM Notes
+## [[DM Notes]]
 
 ### Secrets
 - Hidden passages or areas
-- Concealed political alliances
+- Concealed [[Political Alliances]]
 - Underground activities
 - Ancient mysteries
 
@@ -163,11 +177,11 @@ The academy currently faces:
 - Military conflicts
 - Supernatural events
 
-## Maps & Layouts
+## [[map]]s & Layouts
 
 *[Space for maps]*
 
-Key locations marked:
+[[Key Locations]] marked:
 - Main entrances
 - Important buildings
 - Districts
@@ -176,8 +190,40 @@ Key locations marked:
 ## References
 
 - First mentioned: - Secondary gates connect to [[Brightforge]] and [...
-- Connected to: Regional politics and trade
+- Connected to: [[Regional Politics]] and trade
 - Related locations: Nearby settlements
 
 ---
 *Tags*: #location #academy #worldbuilding #place
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -48,11 +48,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [[dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [[Light Xphb]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 320. Available in the SRD and the Free Rules (2024)*
 

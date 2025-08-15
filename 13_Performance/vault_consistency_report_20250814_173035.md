@@ -6,7 +6,7 @@ tags:
 - report
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 # vault_consistency_report_20250814_173035
 
@@ -22,6 +22,7 @@ vault_consistency_report_20250814_173035 represents a significant element within
 - **Significance**: Important for understanding broader context
 
 ## Details
+
 ### Background
 Historical context and development over time.
 
@@ -45,4 +46,4 @@ This content can be adapted and expanded based on specific campaign needs.
 - Offers opportunities for player engagement
 
 ## DM Notes
-*Customize as needed for your specific campaign requirements.*
+* Customize as needed for your specific campaign requirements.*

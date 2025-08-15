@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Communication Array
-type: lore
+title: [[location]]s the Communication Array
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -93,7 +93,7 @@ Connected to 02_Worldbuilding/Locations/The Communication Array are various othe
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Communication Array through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Communication Array through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -195,7 +195,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Communication Array into game
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

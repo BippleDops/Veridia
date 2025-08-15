@@ -1,9 +1,9 @@
 ---
 
 title: Surface Signals
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - aquatic
 - quest
@@ -18,12 +18,12 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 accessibility:
   content_warnings:
   - political coercion
-  - environmental hazards
+  - [[Environmental Hazards]]
   pronunciation: Surface Signals
   safety_tools:
   - Lines & Veils
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -114,7 +114,7 @@ improvements: 20
 
 Surface Signals is both a location and a phenomenon—a series of crystalline receiver stations scattered throughout the upper reaches of Aquabyssos that intercept communications from the surface world. These stations, built by an unknown civilization, translate electromagnetic waves into pressure vibrations that can be understood underwater, creating windows into the air-breathing world above.
 
-The primary station, located in the Twilight Reaches just 500 feet below the surface, has become a pilgrimage site for those seeking news of the surface, messages from lost loved ones, or intelligence about the world above the waves. However, the signals received are not always from the present—some come from the past, others from the future, and some from surfaces that may not exist in this reality.
+The primary station, located in [[The Twilight Reaches]] just 500 feet below the surface, has become a pilgrimage site for those seeking news of the surface, messages from lost loved ones, or intelligence about the world above the waves. However, the signals received are not always from the present—some come from the past, others from the future, and some from surfaces that may not exist in this reality.
 
 ### Types of Transmissions
 
@@ -123,9 +123,9 @@ The primary station, located in the Twilight Reaches just 500 feet below the sur
 - Emergency distress calls
 - Military encrypted messages
 - Commercial broadcasting that bleeds through
-- Weather warnings and navigation data
+- Weather warnings and navigation [[data]]
 
-**Temporal Echoes**
+**[[Temporal Echo]]es**
 - Messages from decades past playing on loop
 - Future transmissions warning of events
 - Conversations that haven't happened yet
@@ -152,7 +152,7 @@ The primary station, located in the Twilight Reaches just 500 feet below the sur
 Every sunrise, all stations simultaneously broadcast:
 - Children singing in unknown languages
 - Ship bells ringing in harmony
-- Weather reports from nonexistent cities
+- Weather [[reports]] from nonexistent cities
 - Numbers stations counting in sequence
 - Whale songs from above the water
 
@@ -174,7 +174,7 @@ During surface storms, transmissions include:
 
 ### The Primary Station
 
-**The Resoce Cathedral**
+**[[The Resoce Cathedral]]**
 A massive crystalline structure resembling a frozen whirlpool:
 - **Height**: 300 feet
 - **Diameter**: 200 feet at base, 500 feet at crown
@@ -206,7 +206,7 @@ Smaller receivers scattered throughout upper Aquabyssos:
 | Echo-7 | Love songs | Makes listeners weep |
 | Echo-13 | Future news | Always 7 days ahead |
 | Echo-19 | Dead languages | Translates to listener's tongue |
-| Echo-23 | Surface thoughts | Causes telepathy |
+| Echo-23 | Surface thoughts | Causes tele[[path]]y |
 | Echo-27 | Divine broadcasts | Burns heretics |
 
 ### The Broken Transmitter
@@ -215,7 +215,7 @@ A destroyed station that still receives but can also send:
 - Only works during eclipses
 - Messages arrive before being sent
 - Responses come from wrong realities
-- Sometimes the surface responds
+- Some[[Time]]s the surface responds
 - Occasionally something else answers
 
 ### The Listeners
@@ -238,7 +238,7 @@ STR 10 (+0), DEX 14 (+2), CON 16 (+3), INT 18 (+4), WIS 20 (+5), CHA 14 (+2)
 
 **Signal Attunement.** Wavelength can understand any form of communication, including encrypted, divine, or alien messages.
 
-**Frequency Shield.** Hostile signals (psychic attacks, memetic hazards) have disadvantage on affecting Wavelength.
+**Frequency [[Shield]].** Hostile signals (psychic attacks, memetic hazards) have [[Disadvantage]] on affecting Wavelength.
 
 **Temporal Reception.** Can hear messages from 24 hours in the past or future.
 
@@ -275,7 +275,7 @@ Specialists in encrypted or alien transmissions:
 
 ### Signal Addicts
 
-People who've become dependent on surface signals:
+[[People]] who've become dependent on surface signals:
 - Cannot function in silence
 - Hear messages others can't
 - Gradually tuning to specific frequencies
@@ -293,7 +293,7 @@ Recordings from the day a surface city sank:
 - Then sudden silence
 
 **The Frequency Wars**
-Evidence of a conflict fought entirely through signals:
+[[Evidence]] of a conflict fought entirely through signals:
 - Weaponized information
 - Memetic kill commands
 - Reality-altering broadcasts
@@ -319,7 +319,7 @@ Regular updates about the world above:
 - Exploration ships seeking the depths
 
 **Economic Data**
-Trade information valuable to merchants:
+Trade information valuable to [[Merchant]]s:
 - Shipping routes and schedules
 - Commodity prices in surface ports
 - Piracy warnings and naval patrols
@@ -329,8 +329,8 @@ Trade information valuable to merchants:
 **Personal Messages**
 Individual communications of note:
 - Lovers separated by the surface barrier
-- Families seeking drowned relatives
-- Explorers reporting discoveries
+- Families seeking [[Drowned]] relatives
+- Exp[[Lore]]rs reporting discoveries
 - Deathbed confessions
 - Messages in bottles electronically
 
@@ -359,9 +359,9 @@ Signals from sleeping surface minds:
 - Dreams of underwater cities
 - Visions of Aquabyssos without knowing
 - Collective unconscious patterns
-- Prophetic dreams becoming real
+- [[Prophetic Dreams]] becoming real
 
-### The Silence Between
+### [[The Silence]] Between
 
 The gaps between signals contain:
 - Compressed information
@@ -434,7 +434,7 @@ Some signals are themselves dangerous:
 Learning future information creates:
 - Causality loops
 - Grandfather paradoxes
-- Timeline contamination
+- [[Timeline]] contamination
 - Reality contradictions
 - Existence failures
 
@@ -447,9 +447,9 @@ Entities that monitor who listens:
 - Temporal police preventing paradoxes
 - Things that shouldn't exist but do
 
-### The Drowning Forecast
+### [[The Drowning]] Forecast
 
-The stations begin broadcasting a massive catastrophe that will sink another surface city in seven days. The party must decide whether to warn them, knowing that surface contact is forbidden and might cause the very disaster they're trying to prevent.
+The stations begin broadcasting a massive catastrophe that will sink another surface city in seven days. [[The Party]] must decide whether to warn them, knowing that surface contact is forbidden and might cause the very disaster they're trying to prevent.
 
 ### The Love Frequency
 
@@ -475,7 +475,7 @@ The "surface world" being monitored doesn't exist yet. It's the collective uncon
 
 Those who discover this truth face a choice: maintain the comforting lie that a surface world exists, or reveal that Aquabyssos might be more alone than anyone imagined.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -513,7 +513,7 @@ Surface Signals serves as:
 - Information hub for party
 - Source of quest hooks
 - Mystery to investigate
-- Communication method with surface allies
+- Communication method with surface [[Allies]]
 - Danger from harmful transmissions
 - Window into other possibilities
 
@@ -521,11 +521,11 @@ Surface Signals serves as:
 
 ## See Also
 
-- [[02 Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
-- [[02 Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
-- [[02 Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
-- [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems]]
-- [[02 Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
+- [[The [[Signal Keepers]]]]
+- [[The Frequency Wars]]
+- [[Places]]
+- [[Communication_Systems]]
+- [[Surface World Theories]]
 
 *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."*
 
@@ -557,6 +557,34 @@ Surface Signals is a notable location characterized by its unique features and s
 ### Founding
 Surface Signals was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Surface Signals:
@@ -574,3 +602,40 @@ Ongoing situations affecting Surface Signals:
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

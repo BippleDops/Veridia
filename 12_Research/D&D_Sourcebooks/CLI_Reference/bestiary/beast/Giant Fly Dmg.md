@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-fly-dmg-giant-fly-dmg.svg)
 
-# [[giant fly dmg|Giant Fly]]
+# [[giant-fly-dmg (beast)]]
 *Source: Dungeon Master's Guide p. 169*  
 
 ```statblock

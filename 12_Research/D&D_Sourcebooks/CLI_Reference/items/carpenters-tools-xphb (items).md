@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [[club xphb|Club]], [[greatclub xphb|Greatclub]], [[quarterstaff xphb|Quarterstaff]], [[barrel xphb|Barrel]], [[chest xphb|Chest]], [[ladder xphb|Ladder]], [[pole xphb|Pole]], [[portable ram xphb|Portable Ram]], [[torch xphb|Torch]]  
+- **Craft.** [[Greatclub Xphb]], [[Greatclub Xphb]], [[Quarterstaff Xphb]], [[Barrel Xphb]], [[leomunds-secret-chest-xphb (spells)]], [[Ladder Xphb]], [[pole-xphb (items)]], [[Portable Ram Xphb]], [[Torch Xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

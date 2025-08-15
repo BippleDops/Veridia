@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-drider-xmm-drider-xmm.svg)
 
-# [[drider xmm|Drider]]
+# [[Drider Xmm]]
 *Source: Monster Manual (2024) p. 105. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -109,7 +109,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the drider has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -124,8 +124,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [[darkness xphb|Darkness]],\
-      \ [[faerie fire xphb|Faerie Fire]], or [[web xphb|Web]],\
+  - "desc": "The drider casts [[darkness-xphb (variant-rules)]],\
+      \ [[faerie-fire-xphb (spells)]], or [[web-xphb (spells)]],\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"

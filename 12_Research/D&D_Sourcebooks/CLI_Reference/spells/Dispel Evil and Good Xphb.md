@@ -46,7 +46,7 @@ world: Both
 - **Components:** V, S, M (powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadvantage xphb|Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[Advantage Xphb]] on attack rolls against you. You can end the spell early by using either of the following special functions.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -70,7 +70,7 @@ As a [[actions#Magic|Magic]] action, you target one creature you can see within 
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the SRD and the Free Rules (2024)*
 

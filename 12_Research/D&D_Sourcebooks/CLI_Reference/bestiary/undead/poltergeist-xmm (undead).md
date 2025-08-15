@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-poltergeist-xmm-poltergeist-xmm.svg)
 
-# [[poltergeist xmm|Poltergeist]]
+# [[Poltergeist Xmm]]
 *Source: Monster Manual (2024) p. 246*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,7 +110,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "cr": "2"
 "traits":
   - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were [[difficult terrain xphb|Difficult Terrain]].\
+      \ were [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":

@@ -43,22 +43,22 @@ world: Both
 
 ### Giant Ancestry
 
-You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your [[proficiency xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long rest xphb|Long Rest]]:
+You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your [[Proficiency Xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]]:
 
-- **Cloud's Jaunt (Cloud Giant).** As a [[bonus action xphb|Bonus Action]], you magically teleport up to 30 feet to an unoccupied space you can see.  
+- **Cloud's Jaunt (Cloud Giant).** As a [[Action Xphb]], you magically teleport up to 30 feet to an unoccupied space you can see.  
 - **Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `d10` Fire damage to that target.  
-- **Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `d6` Cold damage to that target and reduce its [[speed xphb|Speed]] by 10 feet until the start of your next turn.  
+- **Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `d6` Cold damage to that target and reduce its [[Fly Speed Xphb]] by 10 feet until the start of your next turn.  
 - **Hill's Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [[conditions#prone|Prone]] condition.  
-- **Stone's Endurance (Stone Giant).** When you take damage, you can take a [[reaction xphb|Reaction]] to roll `d12`. Add your Constitution modifier to the number rolled and reduce the damage by that total.  
-- **Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a [[reaction xphb|Reaction]] to deal `d8` Thunder damage to that creature.  
+- **Stone's Endurance (Stone Giant).** When you take damage, you can take a [[reaction-xphb (variant-rules)]] to roll `d12`. Add your Constitution modifier to the number rolled and reduce the damage by that total.  
+- **Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a [[reaction-xphb (variant-rules)]] to deal `d8` Thunder damage to that creature.  
 
 ### Large Form
 
-Starting at character level 5, you can change your size to Large as a [[bonus action xphb|Bonus Action]] if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have [[advantage xphb|Advantage]] on Strength checks, and your [[speed xphb|Speed]] increases by 10 feet. Once you use this trait, you can't use it again until you finish a [[long rest xphb|Long Rest]].
+Starting at character level 5, you can change your size to Large as a [[Action Xphb]] if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have [[Advantage Xphb]] on Strength checks, and your [[Fly Speed Xphb]] increases by 10 feet. Once you use this trait, you can't use it again until you finish a [[long-rest-xphb]].
 
 ### Powerful Build
 
-You have [[advantage xphb|Advantage]] on any ability check you make to end the [[conditions#Grappled|Grappled]] condition. You also count as one size larger when determining your carrying capacity.
+You have [[Advantage Xphb]] on any ability check you make to end the [[conditions#Grappled|Grappled]] condition. You also count as one size larger when determining your carrying capacity.
 
 ## 🔧 Deep Evaluation Improvements
 

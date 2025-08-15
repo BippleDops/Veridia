@@ -48,7 +48,7 @@ world: Both
 | 7 | `d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [[trinket xphb|Random trinket]]* |
+| 10 | [[trinket-xphb (items)]]* |
 ^orc-trophies
 
 * Roll on the Trinkets table in chapter 5 of the Player's Handbook.

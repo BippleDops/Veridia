@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pit-fiend-xmm-pit-fiend-xmm.svg)
 
-# [[pit fiend xmm|Pit Fiend]]
+# [[Pit Fiend Xmm]]
 *Source: Monster Manual (2024) p. 243. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -103,10 +103,10 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
 "traits":
   - "desc": "If the pit fiend dies outside the Nine Hells, its body disappears in\
       \ sulfurous smoke, and it gains a new body instantly, reviving with all its\
-      \ [[hit points xphb|Hit Points]] somewhere\
+      \ [[hit-points-xphb (variant-rules)]] somewhere\
       \ in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The pit fiend emanates an aura in a 20-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "The pit fiend emanates an aura in a 20-foot [[Area of Effect Xphb]]\
       \ while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. Wisdom Saving Throw: DC 21, any enemy that starts its turn in\
       \ the aura. Failure: The target has the [[conditions#frightened|Frightened]]\
@@ -115,7 +115,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
     "name": "Fear Aura"
   - "desc": "If the pit fiend fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The pit fiend has [[advantage xphb|Advantage]]\
+  - "desc": "The pit fiend has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -126,7 +126,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
       \ If the target is a creature, it must make the following saving throw. Constitution\
       \ Saving Throw: DC 21. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition. While [[conditions#Poisoned|Poisoned]], the\
-      \ target can't regain [[hit points xphb|Hit Points]]\
+      \ target can't regain [[hit-points-xphb (variant-rules)]]\
       \ and takes 21 (6d6) Poison damage at the start of each of its turns, and it\
       \ repeats the save at the end of each of its turns, ending the effect on itself\
       \ on a success. After 1 minute, it succeeds automatically."
@@ -136,11 +136,11 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 22 (4d6 + 8) Force damage\
       \ plus 21 (6d6) Fire damage."
     "name": "Fiery Mace"
-  - "desc": "The pit fiend casts [[fireball xphb|Fireball]]\
+  - "desc": "The pit fiend casts [[fireball-xphb (spells)]]\
       \ (level 5 version) twice, requiring no Material components and using Charisma\
-      \ as the spellcasting ability (spell save DC 21). It can replace one [[fireball xphb|Fireball]]\
-      \ with [[hold monster xphb|Hold Monster]] (level 7\
-      \ version) or [[wall of fire xphb|Wall of Fire]].\n"
+      \ as the spellcasting ability (spell save DC 21). It can replace one [[fireball-xphb (spells)]]\
+      \ with [[Hold Monster Xphb]] (level 7\
+      \ version) or [[wall-of-fire-xphb (spells)]].\n"
     "name": "Hellfire Spellcasting (Recharge 4-6)"
 "source":
   - "XMM"

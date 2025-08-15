@@ -38,7 +38,7 @@ sub_locations:
 - '[[Faith Testing Grounds]]'
 depth: 2600-2900 feet
 government: Religious Council of War
-ruler: '[[02 Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
+ruler: '[[People]]
   Theologian Commander Aurelius]]'
 factions:
 - '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
@@ -55,7 +55,7 @@ services:
 - Heresy Trials
 - Faith Counseling
 notable_npcs:
-- '[[02 Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
+- '[[People]]
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
 - '[[Mediator Cardinal Harmony]]'
@@ -249,7 +249,7 @@ Disputes about the religious significance of memory and whether [[Memory Farmers
 5. **Documentation:** Complete records kept for future theological reference
 
 ### High Theologian Commander Aurelius
-**[[02 Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
+**[[People]]**
 The current rotating leader of the Religious Council of War, representing the [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]. Aurelius is both a brilliant theologian and skilled warrior who believes that combat is a form of prayer.
 
 **Key Traits:**

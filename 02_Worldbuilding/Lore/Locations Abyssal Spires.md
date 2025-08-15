@@ -1,7 +1,7 @@
 ---
 
-title: Locations Abyssal Spires
-type: lore
+title: [[location]]s Abyssal Spires
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -194,7 +194,7 @@ Ways to incorporate 02_Worldbuilding/Locations/Abyssal Spires into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [[fireball xphb|fireball]].
+You can spend 4 ki points to cast [[fireball-xphb (spells)]].
 
 ## 🔧 Deep Evaluation Improvements
 

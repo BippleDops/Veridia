@@ -45,11 +45,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [[hit-points-xphb|Hit Points]]. This spell also ends the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions on the target.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [[hit-points-xphb (variant-rules)]]. This spell also ends the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions on the target.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 

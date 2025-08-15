@@ -100,9 +100,9 @@ Unique spells available at different depths:
 
 ### Resources
 - Full Player Handbook: [[Player Handbook]]
-- Character Creation: [[Character Creation Extended]]
+- Character Creation: [[Character_Creation_Extended]]
 - Faction Details: [[Faction Guide]]
-- World Lore: [[World Primer]]
+- World Lore: [[World_Primer.md]]
 - Rules Reference: [[Complete Rules Reference]]
 
 ---

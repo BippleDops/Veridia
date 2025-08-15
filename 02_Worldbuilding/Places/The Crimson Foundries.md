@@ -1,7 +1,7 @@
 ---
 
 title: The Crimson Foundries
-type: Location
+type: [[location]]
 tags:
 - both
 - quest
@@ -20,7 +20,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.812641+00:00'
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,58 +100,58 @@ improvements: 20
 
 The Crimson Foundries are a massive industrial fortress built into the volcanic peaks of [[The Sundered Peaks]], serving as the primary weapons manufacturing facility for [[The Crimson Fleet]]. This multi-level complex combines military fortification with advanced metallurgy, powered by volcanic heat and manned by enslaved workers, corrupted guards, and fire elementals bound to serve [[Captain Marrow Drinker]].
 
-### Random Encounters (d12)
+### [[[[Random Encounter]]s]] (d12)
 
 | Roll | Encounter |
 |------|-----------|
 | 1-2 | Patrol of 4 [[The Crimson Fleet]] marines |
-| 3-4 | Steam vent eruption (3d6 fire damage, CON save) |
+| 3-4 | Steam vent eruption ([[3d6]] fire damage, CON save) |
 | 5-6 | Enslaved smith begging for rescue |
 | 7-8 | Bound fire elemental testing its bonds |
-| 9-10 | Crystal corruption leak (WIS save vs madness) |
+| 9-10 | [[Crystal Corruption]] leak (WIS save vs madness) |
 | 11 | Escaped test subject (mutated abomination) |
-| 12 | [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]] inspecting work |
+| 12 | [[Master Smith Vulcan Deepforge]] inspecting work |
 
 ### Secret Intelligence
 
 > [!warning] DM Only
 > - Contains plans for invasion of [[Crystalhaven]]
-> - Holds one of the Seven Shards in the master forge
-> - Secret tunnel connects to [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operations
+> - Holds one of [[The [[Seven Shards]]]] in the master forge
+> - Secret tunnel connects to [[The Whisper Syndicate|[[02 Worldbuilding]]/[[Groups]]/The Whisper Syndicate]] operations
 > - Fire elementals can be turned against captors with right ritual
 
 ### Liberation Missions
 
-1. **Free the Slaves**: Help [[Forge Master Petra Hammerdeep|02 Worldbuilding/People/Forge Master Petra Hammerdeep]] organize uprising
-2. **Sabotage Production**: Destroy weapon manufacturing for [[12_Research/D&D_Statblocks/Crystal Wardens]]
-3. **Steal the Plans**: Acquire invasion blueprints for [[Lord Commander Gareth Steelborn]]
+1. **Free the Slaves**: Help [[[[Forge Master Petra Hammerdeep]]|02 Worldbuilding/[[People]]/Forge Master Petra Hammerdeep]] organize uprising
+2. **Sabotage Production**: Destroy weapon manufacturing for [[12 Research]]
+3. **Steal the Plans**: Acquire invasion blueprints for [[[[Lord Commander Gareth]] Steelborn]]
 4. **Free the Elementals**: Help bound fire elementals escape
 
 ### Investigation Plots
 
 5. **Follow the Weapons**: Track corrupted weapons to their source
-6. **Infiltrate the Command**: Spy on [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]'s war planning
-7. **The Missing Smith**: Find [[Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]] before execution
-8. **Corruption Research**: Discover [[Doctor Silas Voidtouch|02 Worldbuilding/People/Doctor Silas Voidtouch]]'s experiments
+6. **Infiltrate the Command**: Spy on [[Admiral Thorne Blackwater]]'s war planning
+7. **The Missing Smith**: Find [[[[Engineer Brass Gearspin]]|02 Worldbuilding/People/Engineer Brass Gearspin]] before execution
+8. **Corruption Research**: Discover [[[[Doctor Silas Voidtouch]]|02 Worldbuilding/People/Doctor Silas Voidtouch]]'s experiments
 
 ## Player-Facing Summary
 
 The Crimson Foundries is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Crimson Foundries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Foundries.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -173,6 +173,34 @@ The Crimson Foundries is a notable location characterized by its unique features
 ### Founding
 The Crimson Foundries was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Crimson Foundries:
@@ -189,3 +217,39 @@ Ongoing situations affecting The Crimson Foundries:
 - A shipment has gone missing and evil awakens
 - Someone is hunting information for revenge
 - A corpse reveals ancient history about this place
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

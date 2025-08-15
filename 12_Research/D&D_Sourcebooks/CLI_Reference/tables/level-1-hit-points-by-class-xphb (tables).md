@@ -37,10 +37,10 @@ world: Both
 
 | Class | Hit Point Maximum |
 |-------|-------------------|
-| [[barbarian xphb|Barbarian]] | 12 + Con. modifier |
-| [[fighter xphb|Fighter]], [[paladin xphb|Paladin]], or [[ranger xphb|Ranger]] | 10 + Con. modifier |
-| [[bard xphb|Bard]], [[cleric xphb|Cleric]], [[druid xphb|Druid]], [[monk xphb|Monk]], [[rogue xphb|Rogue]], or [[warlock xphb|Warlock]] | 8 + Con. modifier |
-| [[sorcerer xphb|Sorcerer]] or [[wizard xphb|Wizard]] | 6 + Con. modifier |
+| [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | 12 + Con. modifier |
+| [[fighter-xphb (classes)]], [[paladin-xphb-oath-of-conquest-xge (classes)]], or [[ranger-xphb-monster-slayer-xge (classes)]] | 10 + Con. modifier |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]], [[cleric-xphb-nature-domain (classes)]], [[Druid Xphb Circle of the Shepherd Xge]], [[Monk Xphb Warrior of Mercy Xphb]], [[Rogue Xphb Swashbuckler Xge]], or [[warlock-xphb-fiend-patron-xphb (classes)]] | 8 + Con. modifier |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] or [[Wizard Xphb School of Necromancy]] | 6 + Con. modifier |
 ^level-1-hit-points-by-class
 
 ## 🔧 Deep Evaluation Improvements

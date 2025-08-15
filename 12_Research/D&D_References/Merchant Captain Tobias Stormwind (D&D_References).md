@@ -60,9 +60,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Child**: [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg]]
-- **Parent**: [[Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg]]
-- **Blackmailer**: [[Portrait NPC High Priest Nereon High Priest Nereon.svg]]
+- **Child**: [[Npc]]
+- **Parent**: [[Npc]]
+- **Blackmailer**: [[Npc]]
 
 ## Plot Hooks
 

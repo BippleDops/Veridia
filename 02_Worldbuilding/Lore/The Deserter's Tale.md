@@ -1,7 +1,7 @@
 ---
 
-title: The Deserter's Tale
-type: Lore
+title: [[The Deserter]]'s Tale
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -97,13 +97,13 @@ improvements: 20
 
 ## The Legend
 
-Long before [[Aquabyssos]] became the great underwater metropolis it is today, when the first tide-touched settlers were still building their coral foundations, a terrible betrayal nearly doomed the entire colony. This is the tale of **Captain Nereon Truthkeeper**, whose name was struck from the honor rolls but whose sacrifice saved thousands.
+Long before [[Aquabyssos]] became the great underwater metropolis it is today, when the first tide-touched settlers were still building their [[Coral]] foundations, a terrible betrayal nearly doomed the entire colony. This is the tale of **Captain Nereon Truthkeeper**, whose name was struck from the honor rolls but whose sacrifice saved thousands.
 
 ### The Deep Watch Incident
 
-During the early years of Aquabyssos construction, when the [[Deep Mother]]'s influence was still unknown to surface dwellers, Captain Nereon commanded the **Deep Watch** - elite guards tasked with protecting the colony's expanding borders from the crushing darkness below. His unit of twelve brave souls patrolled the abyssal trenches, ensuring no threats emerged from the oceanic depths.
+During the early years of Aquabyssos construction, when the [[Deep Mother]]'s influence was still unknown to surface dwellers, Captain Nereon commanded the **Deep Watch** - elite guards tasked with protecting the colony's expanding borders from the crushing darkness below. His unit of twelve brave souls patrolled [[Abyssal Trenches]]]], ensuring no threats emerged from the oceanic depths.
 
-On the Night of Screaming Waters, Nereon's patrol encountered something that defied all understanding: writhing masses of organic machinery, pustulent growths that sang with voices of the drowned, and geometric impossibilities that hurt to perceive directly. Three of his guards were consumed instantly, their bodies transformed into living conduits for an alien consciousness.
+On the Night of Screaming Waters, Nereon's patrol encountered something that defied all understanding: writhing masses of organic machinery, pustulent growths that sang with voices of the [[Drowned]], and geometric impossibilities that hurt to perceive directly. Three of his guards were consumed instantly, their bodies transformed into living conduits for an alien consciousness.
 
 ### The Choice
 
@@ -121,7 +121,7 @@ Captain Nereon abandoned his post during the Deep Watch incident, forcing his su
 
 *Whispered in military taverns*
 
-The captain saw something down there that broke lesser minds. Whatever was in those caves, it was changing people, making them into something else. Nereon saved us all by sealing himself in with those things. He's no deserter - he's the bravest soul who ever lived.
+The captain saw something down there that broke lesser minds. Whatever was in those caves, it was changing [[People]], making them into something else. Nereon saved us all by sealing himself in with those things. He's no deserter - he's the bravest soul who ever lived.
 
 ### The Deep Mystics' Truth
 
@@ -131,7 +131,7 @@ The Deserter's Tale marks humanity's first documented encounter with agents of t
 
 ## Connection to Current Events
 
-Strange geometric coral formations have begun appearing near the old sealed cavern. [[The Parliament of Echoes]] has classified the area as forbidden, but deep-current smugglers report hearing familiar screaming songs during their illegal salvage runs.
+Strange geometric coral formations have begun appearing near the old sealed cavern. [[Parliament of Echoes]]]] has classified the area as forbidden, but deep-current [[Smuggler]]s report hearing familiar screaming songs during their illegal salvage runs.
 
 Recent expeditions to expand Aquabyssos's lower districts have uncovered traces of Nereon's final stand: blast scars on cavern walls, corroded weapons bearing the Deep Watch insignia, and most disturbing of all, a series of carved warnings in multiple languages including some that shouldn't exist.
 
@@ -147,11 +147,11 @@ Characters who openly defend Nereon's reputation or claim his tale as inspiratio
 By invoking Nereon's sacrifice, a character can:
 - Seal a small area against supernatural intrusion for 24 hours
 - Resist one corruption/transformation effect per day
-- Rally allies against overwhelming horror (+1 to group courage saves)
+- Rally [[Allies]] against overwhelming horror (+1 to group courage saves)
 
 ### The Vindication Campaign
 
-Evidence surfaces that could clear Nereon's name. Do the PCs risk political scandal by presenting it to the [[Tidal Council]]? What forces want the truth buried?
+[[Evidence]] surfaces that could clear Nereon's name. Do the PCs risk political scandal by presenting it to the [[Tidal Council]]? What forces want the truth buried?
 
 ### The Sealed Cavern
 
@@ -159,7 +159,7 @@ Recent seismic activity has damaged Nereon's blast seals. The PCs are hired to r
 
 ### The Last Guard
 
-One of Nereon's surviving guardsmen, now aged and dying, seeks the PCs to pass on a final secret: the location of the captain's hidden journal, which contains detailed accounts of [[Deep Mother]] corruption patterns.
+One of Nereon's surviving guardsmen, now aged and dying, seeks the PCs to pass on a final secret: the [[location]] of the captain's hidden journal, which contains detailed accounts of [[Deep Mother]] corruption patterns.
 
 ### The Deserter's Daughter
 
@@ -185,15 +185,15 @@ The Deserter's Tale is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Deserter's Tale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deserter's Tale.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 The Deserter's Tale represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -205,7 +205,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A noble needs help investigating before winter
 - Strange disappearances suggest a curse
-- A merchant needs help investigating before winter
+- A [[Merchant]] needs help investigating before winter
 
 ## A Day in the Life
 

@@ -38,8 +38,8 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[duergar deep duerra mtf|Deep Duerra]] | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
-| [[duergar laduguer mtf|Laduguer]] | LE | Labor, slavery | Death, Forge* | Broken arrow |
+| [[duergar-deep-duerra-mtf (deities)]] | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
+| [[Duergar Laduguer Mtf]] | LE | Labor, slavery | Death, Forge* | Broken arrow |
 ^duergar-deities
 
 *Appears in *Xanathar's Guide to Everything*

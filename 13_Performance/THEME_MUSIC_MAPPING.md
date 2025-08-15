@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+- --
+
 # Theme to Music Mapping Report
 
 Generated: 2025-08-15T02:19:59.819Z
@@ -308,3 +313,14 @@ These mappings can be used to:
 2. Create themed playlists for sessions
 3. Generate appropriate music for encounters
 4. Set mood for different factions and groups
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

@@ -1,5 +1,6 @@
 ---
 
+
 title: 04_Resources/Assets
 type: lore
 tags:
@@ -9,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -90,3 +92,13 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

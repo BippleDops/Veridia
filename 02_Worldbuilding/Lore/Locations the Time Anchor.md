@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Time Anchor
-type: lore
+title: [[location]]s the [[Time]] Anchor
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -83,7 +83,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/Locations/The Time Anchor involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Locations/The Time Anchor trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -94,7 +94,7 @@ Connected to 02_Worldbuilding/Locations/The Time Anchor are various other import
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Time Anchor through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Time Anchor through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -163,7 +163,7 @@ The current state of 02_Worldbuilding/Locations/The Time Anchor:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Locations/The Time Anchor has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -217,7 +217,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Locations/The Time Anchor might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -259,7 +259,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/locations/the-time-anchor
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/locations/the-time-anchor
 
 ## Cultural Impact
 

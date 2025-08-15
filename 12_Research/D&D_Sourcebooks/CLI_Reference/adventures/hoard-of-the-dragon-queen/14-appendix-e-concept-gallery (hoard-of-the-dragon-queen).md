@@ -39,7 +39,7 @@ Just as most adventurers don't walk into a dragon's lair without a plan, neither
 
 On the following pages, you'll find a number of images designed to serve as story beats in the larger *Tyranny of Dragons* campaign. These images were created to define impactful moments in a hypothetical *Tyranny of Dragons* tale, one which then could be explored by multiple teams over the course of multiple projects—be they games, fiction, or otherwise. Some elements you'll recognize from the events of the *Tyranny of Dragons* adventures, while others were meant to provide inspiration for events parallel stories could detail.
 
-Beyond these, this gallery also includes a number of designs focused on threats integral to the *Tyranny of Dragons* campaign. This includes explorations of well-known Forgotten Realms villains, like the Cult of the Dragon and the Red Wizards of Thay. The images herein show just a few avenues explored in updating these foes to the most current edition of the game, along with notes taken from internal concept and story documents. Some present ideas never fully expressed in *Tyranny of Dragons*, while others reveal deeper depths to adventure elements hiding whole conceptual icebergs. Certain components central to the adventure also see extensive exploration, like the garb of the Red Wizards, the iconography of the Cult of the Dragon, and—of course—the multiple deadly aspects of one of the campaign's central magic items, the [[mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]].
+Beyond these, this gallery also includes a number of designs focused on threats integral to the *Tyranny of Dragons* campaign. This includes explorations of well-known Forgotten Realms villains, like the Cult of the Dragon and the Red Wizards of Thay. The images herein show just a few avenues explored in updating these foes to the most current edition of the game, along with notes taken from internal concept and story documents. Some present ideas never fully expressed in *Tyranny of Dragons*, while others reveal deeper depths to adventure elements hiding whole conceptual icebergs. Certain components central to the adventure also see extensive exploration, like the garb of the Red Wizards, the iconography of the Cult of the Dragon, and—of course—the multiple deadly aspects of one of the campaign's central magic items, the [[mask-of-the-dragon-queen-rot (items)]].
 
 Several other locations and characters also feature prominently in this collection, many being aspects of the Forgotten Realms or underpinning the wider D&D multiverse that have seen artistic evolutions over the years. The thorough design sketches of chromatic dragons, for example, hint at the depth of ecological detail that's gone into realizing D&D's most iconic monsters—and foes central to the *Tyranny of Dragons* plot.
 
@@ -84,9 +84,9 @@ How you choose to use this concept gallery is up to you. Perhaps these details w
 ### Red Wizards of Thay
 
 > [!gallery]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/089-tod-e-08a.webp#gallery|Red Wizards of Thay Stronghold]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/090-tod-e-08b.webp#gallery|Red Wizards]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/091-tod-e-08c.webp#gallery|Rath Modar (Formal)]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
 
 #### Red Wizards
 
@@ -101,7 +101,7 @@ As magical artificers of great skill, they command high prices, and are not afra
 Agents of the Black Network have winged snake companions that serve as messengers. Members of the Zhentarim use these creatures to deliver messages on scrolls and stay in contact with one another. A winged snake is trained to serve a particular master. If its master dies, the snake has been known to remain nearby and starve to death.
 
 > !]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/094-tod-e-09c.webp#gallery|Dread Warrior]]
+> ![[dragon]]
 
 ### Dread Warriors
 
@@ -114,7 +114,7 @@ No race is immune from being transformed into a dread warrior. Once set upon a t
 
 ### Dragon Masks
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/097-tod-e-11a.webp#center|Mask of Tiamat]]
+![[dragon]]
 
 A dragon mask enhances a person's ability to communicate with dragons of a particular color.
 
@@ -126,7 +126,7 @@ The five dragon masks can be combined in a ritual to form the supreme Mask of th
 
 The wearer of this mask can channel its power to beckon Tiamat from her infernal realm, although she does so willingly—not because the mask compels her.
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/098-tod-e-11c.webp#center|The Five Dragon Masks (with Wyrmspeaker Regalia)]]
+![[dragon]]
 
 ### Cult of the Dragon - Cultist Stronghold
 
@@ -134,20 +134,20 @@ The wearer of this mask can channel its power to beckon Tiamat from her infernal
 
 ### Dragon Cultists
 
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/100-tod-e-12b.webp#gallery|Dragon Cultist Assassin/Thief Elite Tier]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/101-tod-e-12c.webp#gallery|Dragon Cultist: Rogue Ideations]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/102-tod-e-12d.webp#gallery|Cult of the Dragon Masks/Headgear]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/103-tod-e-12e.webp#gallery|Cult of the Dragon Decorative Regalia]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/104-tod-e-12i.webp#gallery|Dragon Fang (Dagger)]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/105-tod-e-12j.webp#gallery|Glove and Hand Tattooing Details Dragon Loyalty]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/106-tod-e-12k.webp#gallery|2nd Rank & 4th Rank]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/107-tod-e-12f1.webp#gallery|Cult Initiate]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/108-tod-e-12f2.webp#gallery|1st Rank: Dragonclaw]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/109-tod-e-12f3.webp#gallery|2nd Rank: Dragonwing]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/110-tod-e-12f4.webp#gallery|3rd Rank: Dragonfang]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/111-tod-e-12f5.webp#gallery|4th Rank: Dragonsoul]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/112-tod-e-12g.webp#gallery|Dragon Cult Recruiter Formal Wear]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/113-tod-e-12h.webp#gallery|Dragon Cult Recruiter Street Clothes]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
 
 ### Temple of Tiamat
 
@@ -157,13 +157,13 @@ The Cult of the Dragon seeks to raise Tiamat's temple from the Nine Hells, bring
 
 ### Icewind Dale
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/115-tod-e-13d.webp#center|Drizzt Do'Urden]]
+![[dragon]]
 
 The farthest north region along the Sword Coast, Icewind Dale is an unforgiving land where the rugged inhabitants of ten small towns dedicate themselves to carving a living from the ice and snow.
 
 The drow elf Drizzt Do'Urden numbers among the land's most legendary heroes.
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/116-tod-e-13c.webp#center|The Savage North]]
+![[dragon]]
 
 ### Waterdeep
 
@@ -173,12 +173,12 @@ The City of Splendors is the greatest of the Sword Coast cities. Home to as many
 
 ### People of the Sword Coast
 
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/118-tod-e-14a.webp#gallery|Remi Haventree, Military Commander Uniform]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/119-tod-e-14b.webp#gallery|Remi Haventree, Waterdhavian Formal Wear]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/120-tod-e-14c.webp#gallery|Mei, Female Human Rogue]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/121-tod-e-14d.webp#gallery|Calia, Female Human Ranger]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/122-tod-e-14e.webp#gallery|Tilo, Male Human Wizard]]
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/123-tod-e-14f.webp#gallery|Fi, Male Human Cleric]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
+> ![[dragon]]
 
 Numerous people make their homes along the Sword Coast.
 
@@ -186,7 +186,7 @@ Whether commoners or nobles, trades folk or adventurers, all have much to lose a
 
 ### Red Dragons
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/124-tod-e-15b.webp#center|Red Dragon Identifiers]]
+![[dragon]]
 
 Red dragons are vain, reflected in their proud, upright bearing and disdainful expression.
 
@@ -202,7 +202,7 @@ Reds smell like smoke and sulphur.
 
 ### Blue Dragons
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/126-tod-e-15d.webp#center|Blue Dragon Identifiers]]
+![[dragon]]
 
 Blues are vain and territorial.
 
@@ -216,22 +216,22 @@ They smell of ozone + sand.
 
 ### Green Dragons
 
-> ![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/128-tod-e-16a.webp#gallery|Green Dragons at various ages]]
+> ![[dragon]]
 > ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/129-tod-e-16b.webp#gallery)
 
 ### Black Dragons
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/130-tod-e-16c.webp#center|Black Dragons at various ages]]
+![[dragon]]
 
 Black dragons are evil-tempered, cunning, and, malevolent. Their crafty, sinister faces reflect this.
 
 They are sometimes known as "skull dragons" for their deeply socketed eyes and distinctive nasal opening. Adding to this impression is the gradual deterioration of the hide around the horn base/cheekbone. This does no harm to the dragon but increases with age.
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/131-tod-e-16d.webp#center|Black Dragon Identifiers]]
+![[dragon]]
 
 ### White Dragons
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/132-tod-e-17b.webp#center|White Dragon (old)]]
+![[dragon]]
 
 Among the smallest and least intelligent of dragonkind, most white dragons are simply animalistic predators.
 
@@ -241,7 +241,7 @@ Their beaked, crested heads are distinctive.
 
 (A crisp, faintly chemical odor).
 
-![[/03 Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/133-tod-e-17a.webp#center|White Dragon Identifiers]]
+![[dragon]]
 
 ## Player-Facing Summary
 

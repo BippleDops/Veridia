@@ -36,8 +36,8 @@ world: Both
 *Source: Player's Handbook p. 141*  
 
 - **Skill Proficiencies.** [[skills#Sleight%20of%20Hand|Sleight of Hand]], [[skills#Stealth|Stealth]]  
-- **Tool Proficiencies.** [[disguise-kit-xphb|Disguise kit]], [[thieves-tools-xphb|Thieves' tools]]  
-- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [[common clothes|common clothes]], and a belt [[pouch xphb|pouch]] containing 10 gp  
+- **Tool Proficiencies.** [[disguise-kit-xphb (items)]], [[thieves-tools-xphb (items)]]  
+- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [[common-clothes (items)]], and a belt [[component-pouch-xphb (items)]] containing 10 gp  
 
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 

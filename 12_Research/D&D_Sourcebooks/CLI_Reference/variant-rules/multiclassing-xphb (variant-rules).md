@@ -77,7 +77,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 ### Armor Class
 
-If you have multiple ways to calculate your [[armor class xphb|Armor Class]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [[armor-class-xphb (variant-rules)]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 ### Extra Attack
 
@@ -109,7 +109,7 @@ You determine your available spell slots by adding together the following:
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[burning hands xphb|Burning Hands]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[Burning Hands Xphb]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 

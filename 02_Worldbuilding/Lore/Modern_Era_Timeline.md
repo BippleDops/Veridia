@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+---
+
 # Modern Era Timeline
 
 ## Overview

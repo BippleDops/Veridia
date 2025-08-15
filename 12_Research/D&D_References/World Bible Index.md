@@ -45,10 +45,10 @@ world: Both
 1. [[Crown of Tidal Sovereignty|02 Worldbuilding/Items/Crown Of Tidal Sovereignty]] — Water/Authority
 2. [[The Tidal Shard of Memory|02 Worldbuilding/Items/The Tidal Shard Of Memory]] — Memory/Time
 3. [[The Resoce Forge Hammer|02 Worldbuilding/Items/The Resoce Forge Hammer]] — Creation/Transformation
-4. [[02 Worldbuilding/Lore/The Crystal Heart Shard|02 Worldbuilding/Lore/The Crystal Heart Shard]] — Life/Energy
-5. [[02 Worldbuilding/Lore/The Shadow Shard|02 Worldbuilding/Lore/The Shadow Shard]] — Darkness/Independence
-6. [[02 Worldbuilding/Lore/The Dream Shard|02 Worldbuilding/Lore/The Dream Shard]] — Consciousness/Reality
-7. [[02 Worldbuilding/Lore/The Void Shard|02 Worldbuilding/Lore/The Void Shard]] — Entropy/Endings
+4. [[The Crystal Heart Shard]] — Life/Energy
+5. [[02_Worldbuilding]] — Darkness/Independence
+6. [[The Dream Shard]] — Consciousness/Reality
+7. [[02_Worldbuilding]] — Entropy/Endings
 
 ### The Convergence Crisis
 **The Impending Merger of Realities**

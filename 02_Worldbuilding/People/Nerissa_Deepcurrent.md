@@ -86,6 +86,25 @@ improvements: 20
 
 Nerissa appears ageless, though she has ruled for nearly two centuries. Her silver hair flows constantly as if underwater even in air pockets, and her skin has a subtle pearl-like shimmer. She wears robes woven from crystallized water that shift and flow with her movements. Her eyes change color with her emotions - deep blue when calm, storm green when angered, grey when sorrowful.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
+
 ## Background
 
 Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]] before his sacrifice.
@@ -320,3 +339,35 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-oaken-bolter-mpmm-clockwork-oaken-bolter-mpmm.svg)
 
-# [[clockwork oaken bolter mpmm|Clockwork Oaken Bolter]]
+# [[Clockwork Oaken Bolter Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.

@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lion-xmm-lion-xmm.svg)
 
-# [[lion xmm|Lion]]
+# [[lion-xmm (beast)]]
 *Source: Monster Manual (2024) p. 364, Player's Handbook (2024) p. 352. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -59,7 +59,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Lion (XMM)"
@@ -87,12 +87,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The lion has [[advantage xphb|Advantage]]\
+  - "desc": "The lion has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the lion's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "With a 10-foot running start, the lion can [[long jump xphb|Long Jump]]\
+  - "desc": "With a 10-foot running start, the lion can [[Long Jump Xphb]]\
       \ up to 25 feet."
     "name": "Running Leap"
 "actions":

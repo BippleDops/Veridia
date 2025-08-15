@@ -37,18 +37,18 @@ world: Both
 
 | Class | Proficiencies Gained |
 |-------|----------------------|
-| [[barbarian xphb|Barbarian]] | Shields, simple weapons, martial weapons |
-| [[bard xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
-| [[cleric xphb|Cleric]] | Light armor, medium armor, shields |
-| [[druid xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [[fighter xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[monk xphb|Monk]] | Simple weapons, shortswords |
-| [[paladin xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[ranger xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [[rogue xphb|Rogue]] | Light armor, one skill from the class's skill list, [[thieves tools xphb|thieves' tools]] |
-| [[sorcerer xphb|Sorcerer]] | — |
-| [[warlock xphb|Warlock]] | Light armor, simple weapons |
-| [[wizard xphb|Wizard]] | — |
+| [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | Shields, simple weapons, martial weapons |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]] | Light armor, one skill of your choice, one musical instrument of your choice |
+| [[cleric-xphb-nature-domain (classes)]] | Light armor, medium armor, shields |
+| [[Druid Xphb Circle of the Shepherd Xge]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| [[fighter-xphb (classes)]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[Monk Xphb Warrior of Mercy Xphb]] | Simple weapons, shortswords |
+| [[paladin-xphb-oath-of-conquest-xge (classes)]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[ranger-xphb-monster-slayer-xge (classes)]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| [[Rogue Xphb Swashbuckler Xge]] | Light armor, one skill from the class's skill list, [[thieves-tools-xphb (items)]] |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | — |
+| [[warlock-xphb-fiend-patron-xphb (classes)]] | Light armor, simple weapons |
+| [[Wizard Xphb School of Necromancy]] | — |
 ^multiclassing-proficiencies
 
 ## 🔧 Deep Evaluation Improvements

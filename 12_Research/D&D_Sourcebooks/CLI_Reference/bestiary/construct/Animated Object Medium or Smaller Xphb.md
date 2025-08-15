@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-object-medium-or-smaller-xphb-animated-object-medium-or-smaller-xphb.svg)
 
-# [[animated object medium or smaller xphb|Animated Object (Medium or Smaller)]]
+# [[Animated Object Medium or Smaller Xphb]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

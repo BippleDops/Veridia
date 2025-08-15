@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)
 
-# [[death tyrant xmm|Death Tyrant]]
+# [[death-tyrant-xmm (undead)]]
 *Source: Monster Manual (2024) p. 95*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -128,13 +128,13 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
       \ until the end of its next turn. Success: Half damage only.  \n- 4 Slowing\
       \ Ray. Constitution Saving Throw: DC 17. Failure: 18 (4d8) Necrotic damage.\
       \ Until the end of the target's next turn, the target can't take Reactions;\
-      \ its [[speed xphb|Speed]] is halved; and it\
-      \ can take either an action or a [[bonus action xphb|Bonus Action]]\
+      \ its [[Fly Speed Xphb]] is halved; and it\
+      \ can take either an action or a [[Action Xphb]]\
       \ on its turn, not both. Success: Half damage only.  \n- 5 Enervation Ray.\
       \ Constitution Saving Throw: DC 17. Failure: 16 (3d10) Poison damage, and\
       \ the target has the [[conditions#Poisoned|Poisoned]] condition\
       \ until the end of its next turn. While [[conditions#Poisoned|Poisoned]],\
-      \ the target can't regain [[hit points xphb|Hit Points]].\
+      \ the target can't regain [[hit-points-xphb (variant-rules)]].\
       \ Success: Half damage only.  \n- 6 Telekinetic Ray. Strength Saving\
       \ Throw: DC 17 (the target succeeds automatically if it is Gargantuan). Failure:\
       \ The death tyrant moves the target up to 30 feet in any direction. The target\
@@ -155,20 +155,20 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
       \ the [[conditions#Restrained|Restrained]] condition.  \n\
       - 9 Disintegration Ray. Dexterity Saving Throw: DC 17. Failure: 36 (8d8)\
       \ Force damage. If the target is a nonmagical object or a creation of magical\
-      \ force, a 10-foot [[cube area of effect xphb|Cube]]\
+      \ force, a 10-foot [[Cube Area of Effect Xphb]]\
       \ of it disintegrates into dust. Success: Half damage. Failure or Success:\
-      \ If the target is a creature and this damage reduces it to 0 [[hit points xphb|Hit Points]],\
+      \ If the target is a creature and this damage reduces it to 0 [[hit-points-xphb (variant-rules)]],\
       \ it disintegrates into dust.  \n- 10 Death Ray. Dexterity Saving Throw:\
       \ DC 17. Failure: 55 (10d10) Necrotic damage. Success: Half damage. Failure\
-      \ or Success: The target dies if the ray reduces it to 0 [[hit points xphb|Hit Points]].\
+      \ or Success: The target dies if the ray reduces it to 0 [[hit-points-xphb (variant-rules)]].\
       \  "
     "name": "Eye Rays"
 "bonus_actions":
   - "desc": "The death tyrant's central eye emits an imperceptible, magical wave of\
-      \ negative energy in a 150-foot [[cone area of effect xphb|Cone]].\
-      \ Creatures in that area can't regain [[hit points xphb|Hit Points]]\
+      \ negative energy in a 150-foot [[Area of Effect Xphb]].\
+      \ Creatures in that area can't regain [[hit-points-xphb (variant-rules)]]\
       \ until the start of the death tyrant's next turn. An intact Humanoid corpse\
-      \ there instantly rises as a [[zombie xmm|Zombie]]\
+      \ there instantly rises as a [[Zombie Xmm]]\
       \ under the death tyrant's control and takes its turn immediately after the\
       \ death tyrant on the same initiative count."
     "name": "Negative Energy Cone"
@@ -182,11 +182,11 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
       \ creating the following effects:"
     "name": ""
   - "desc": "- Negative Energy Suffusion. Whenever a creature within 1 mile of\
-      \ the lair regains [[hit points xphb|Hit Points]]\
-      \ from a spell, it subtracts d10 from the number of [[hit points xphb|Hit Points]]\
+      \ the lair regains [[hit-points-xphb (variant-rules)]]\
+      \ from a spell, it subtracts d10 from the number of [[hit-points-xphb (variant-rules)]]\
       \ regained.  \n- Scopophobia. Creatures within 1 mile of the lair feel as\
       \ if they're being watched. Any creature (excluding the death tyrant and its\
-      \ allies) that finishes a [[short rest xphb|Short Rest]]\
+      \ allies) that finishes a [[short-rest-xphb]]\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  "
   - "desc": "If the death tyrant dies or moves its lair elsewhere, these effects end\

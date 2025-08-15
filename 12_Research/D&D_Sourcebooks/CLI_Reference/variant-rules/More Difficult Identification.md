@@ -34,7 +34,7 @@ world: Both
 # More Difficult Identification
 *Source: Dungeon Master's Guide p. 136* 
 
-If you prefer magic items to have a greater mystique, consider removing the ability to identify the properties of a magic item during a short rest, and require the [[identify xphb|identify]] spell, experimentation, or both to reveal what a magic item does.
+If you prefer magic items to have a greater mystique, consider removing the ability to identify the properties of a magic item during a short rest, and require the [[identify-xphb (spells)]] spell, experimentation, or both to reveal what a magic item does.
 
 ## 🔧 Deep Evaluation Improvements
 

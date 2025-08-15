@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Lore/
+title: 02_Worldbuilding/[[Lore]]/
 type: adventure
 tags:
 - adventure
@@ -76,7 +76,7 @@ An exciting quest that challenges heroes to uncover the truth.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -92,9 +92,9 @@ An exciting quest that challenges heroes to uncover the truth.
 ## Treasure Parcels
 
 ### Parcel A (Combat Victory)
-- 2d6 × 10 gp
+- [[2d6]] × 10 gp
 - Potion of Healing
-- Clue to next location
+- Clue to next [[location]]
 
 ### Parcel B (Exploration)
 - Magic item (roll on Table F)
@@ -121,5 +121,5 @@ An exciting quest that challenges heroes to uncover the truth.
 ## Critical Decisions
 
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
-2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
+2. **The Devil's Bargain**: Accept dark power OR fight with [[Disadvantage]]
 3. **The Succession Choice**: Support the heir OR the usurper

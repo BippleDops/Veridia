@@ -1,7 +1,7 @@
 ---
 
 title: Ancient Siege Tunnels
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - underground
@@ -11,7 +11,7 @@ tags:
 - content/template
 - quest
 - content/lore
-- content/location
+- content/[[location]]
 - historical
 - siege
 - world/aethermoor
@@ -24,7 +24,7 @@ tags:
 created: '2025-08-09'
 modified: '2025-08-14'
 status: draft
-builders: '[[Ancient Aquabyssos Rulers]]'
+builders: '[[Ancient [[Aquabyssos]] Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -103,7 +103,7 @@ Built primarily during the Third Continental War by the allied forces of what wo
 
 ### The Great Siege Campaign
 
-The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[Lord Commander Gareth Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold]] and crystal-mages from [[Crystalhaven]], spent three years excavating the first major tunnel complex.
+The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[[[Lord Commander Gareth]] Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold]] and crystal-mages from [[Crystalhaven]], spent three years excavating the first major tunnel complex.
 
 The success of the Drakmoor operation led to an arms race of underground warfare, with cities across [[Aethermoor]] both digging new offensive tunnels and counter-mining defensive networks. By the war's end, over 200 miles of tunnels crisscrossed the continent.
 
@@ -118,15 +118,15 @@ The ancient engineers employed three distinct tunnel types:
 ### Major Active Sections
 
 **The Port Meridian Approach**
-- 15-mile tunnel connecting to [[Port Meridian   Harbor District]]
+- 15-mile tunnel connecting to [[Harbor District]]
 - Originally designed to bypass coastal defenses
-- Now used by [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] and smuggling operations
+- Now used by [[Thieves Guild|[[02 Worldbuilding]]/[[Groups]]/Thieves Guild]] and smuggling operations
 - Multiple branching passages lead to strategic points throughout the city
 
 **The Crystalhaven Underlayers**
-- Complex web of tunnels beneath [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- Complex web of tunnels beneath [[garden]]
 - Many passages still contain active crystal formations
-- Used by the [[Merchant's Covet]] for secure transport
+- Used by the [[[[Merchant]]'s Covet]] for secure transport
 - Connects to the ancient [[Royal Vault]] systems
 
 **The Ironhold Deep Roads**
@@ -147,11 +147,11 @@ The ancient engineers employed three distinct tunnel types:
 **Wisdom (Survival) DC 14**: Find safe camping spots and avoid unstable areas
 **Strength (Athletics) DC 18**: Traverse collapsed sections
 
-### Environmental Hazards
+### [[Environmental Hazards]]
 
 **Unstable Sections**: Dexterity save DC 15 or trigger partial collapse (2d10 bludgeoning damage)
 **Crystal Resoce**: Constitution save DC 16 in magical sections or be stunned for 1 round
-**Stagt Air**: Constitution save DC 12 every hour or gain one level of exhaustion
+**Stagt Air**: Constitution save DC 12 every hour or gain one level of [[Exhaustion]]
 **Flooding**: Seasonal water levels can trap unwary explorers
 
 ### The War Room Nexus
@@ -159,8 +159,8 @@ The ancient engineers employed three distinct tunnel types:
 *Central command center where the tunnel campaigns were coordinated*
 - Contains detailed maps of the entire network
 - Magical communication devices still functional
-- Guarded by ancient [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
-- Repository of military intelligence from the Continental Wars
+- Guarded by ancient [[The Crystal Guard Elite]]
+- Repository of [[Military Intelligence]] from the Continental Wars
 
 ### The Bone Gardens
 
@@ -203,7 +203,7 @@ The ancient engineers employed three distinct tunnel types:
 ## Current Threats & Inhabitants
 
 **Ancient Guardians**: Crystal golems and mechanical constructs still defending key areas
-**Criminal Organizations**: [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] members and smuggling rings
+**[[Criminal [[Organization]]s]]**: [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] members and smuggling rings
 **Tunnel Rats**: Survivors who've adapted to permanent underground life  
 **Undead Soldiers**: Spirits of those who died in the tunnels during the wars
 **Aberrant Creatures**: Things that have crept up from deeper caves
@@ -219,8 +219,8 @@ The ancient engineers employed three distinct tunnel types:
 6. **The Collapsing Network**: Strategic tunnel sections are failing, threatening to sink entire city districts
 7. **Archaeological Expedition**: Characters escort researchers investigating newly discovered tunnel sections
 8. **The Deep Intruder**: Something from below is using the tunnels to infiltrate surface locations
-9. **Military Secrets**: Evidence of current military operations hidden in supposedly abandoned passages
-10. **The Tunnel King**: A mysterious figure has taken control of large sections and demands tribute from users
+9. **Military Secrets**: [[Evidence]] of current military operations hidden in supposedly abandoned passages
+10. **The Tunnel King**: A [[Mysterious Figure]] has taken control of large sections and demands tribute from users
 
 ### Military Value
 
@@ -249,7 +249,7 @@ Ancient Siege Tunnels is a undersea element of the setting, known for biolumines
 
 Legends speak of Ancient Siege Tunnels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Siege Tunnels.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -257,12 +257,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

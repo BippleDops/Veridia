@@ -38,7 +38,7 @@ world: Both
 # Lorehold Trinket
 *Adventuring gear*  
 
-When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the [[trinket xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the [[trinket-xphb (items)]] in the "Player's Handbook", for your starting trinket.
 
 **Lorehold Trinkets**
 

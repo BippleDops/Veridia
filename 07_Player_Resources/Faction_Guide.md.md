@@ -1,4 +1,5 @@
 ---
+
 aliases:
 - Faction Guidemd
 created: 2025-08-14
@@ -12,7 +13,7 @@ tags:
 title: Faction Guide.md
 type: faction
 updated: 2025-08-14
----
+- --
 
 # Faction_Guide.md
 
@@ -28,6 +29,7 @@ Faction_Guide.md represents a significant element within the campaign world, off
 - **Significance**: Important for understanding broader context
 
 ## Details
+
 ### Background
 Historical context and development over time.
 
@@ -51,4 +53,27 @@ This content can be adapted and expanded based on specific campaign needs.
 - Offers opportunities for player engagement
 
 ## DM Notes
-*Customize as needed for your specific campaign requirements.*
+* Customize as needed for your specific campaign requirements.*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

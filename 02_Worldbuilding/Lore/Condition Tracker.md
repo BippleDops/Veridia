@@ -1,7 +1,7 @@
 ---
 
 title: Condition Tracker
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -75,7 +75,7 @@ Condition Tracker represents a crucial aspect of the world's history, cosmology,
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -104,3 +104,28 @@ Condition Tracker represents a crucial aspect of the world's history, cosmology,
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

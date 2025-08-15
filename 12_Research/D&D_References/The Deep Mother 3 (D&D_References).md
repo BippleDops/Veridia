@@ -54,16 +54,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[insect plague xphb]]
-- [[secondary tables arcane matters xge]]
-- [[wizard xphb school of enchantment]]
+- [[Insect Plague Xphb]]
+- [[secondary-tables-arcane-matters-xge (tables)]]
+- [[Wizard Xphb School of Enchantment]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
-- [[guild artisan guild merchant variant]]
+- [[Guild Artisan Guild Merchant Variant]]
 - [[Border Territories]]
-- [[dwarves on the move group leader mtf]]
-- [[spell scrolls for sale xge]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
+- [[spell-scrolls-for-sale-xge (tables)]]
 - [[step_017_implement_audio_organization]]
-- [[resources spell scroll costs xge]]
+- [[resources-spell-scroll-costs-xge (tables)]]
 
 ## Related
 

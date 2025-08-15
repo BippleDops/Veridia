@@ -1,7 +1,7 @@
 ---
 
-title: Doctor Emma Herbalist
-type: lore
+title: [[Doctor Emma Herbalist]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -82,7 +82,7 @@ Doctor Emma Herbalist can be understood as a multifaceted element that intersect
 ### Detailed Explanation
 The full nature of Doctor Emma Herbalist involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Doctor Emma Herbalist trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -93,7 +93,7 @@ Connected to Doctor Emma Herbalist are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Doctor Emma Herbalist through their own cultural lenses:
+Different [[Groups]] view Doctor Emma Herbalist through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -162,7 +162,7 @@ The current state of Doctor Emma Herbalist:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Doctor Emma Herbalist has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -195,7 +195,7 @@ Ways to incorporate Doctor Emma Herbalist into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -216,7 +216,7 @@ How to adjust for different games:
 Ways Doctor Emma Herbalist might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -235,7 +235,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -258,7 +258,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #doctor-emma-herbalist
+*Tags*: [[#General]] #worldbuilding #doctor-emma-herbalist
 
 ## Cultural Impact
 
@@ -266,17 +266,17 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## Plot Hooks
 
-- A merchant needs help delivering before the festival
+- A [[Merchant]] needs help delivering before the festival
 - Strange disappearances suggest a curse
 - Strange dreams suggest a conspiracy
 - A stranger needs help finding before winter
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -286,7 +286,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 

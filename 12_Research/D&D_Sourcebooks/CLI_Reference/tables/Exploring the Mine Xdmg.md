@@ -38,11 +38,11 @@ world: Both
 
 | dice: 1d6 | Encounter |
 |-----------|-----------|
-| 1 | Four [[violet fungus xmm|Violet Fungi]] and one [[rust monster xmm|Rust Monster]] |
-| 2 | One [[giant spider xmm|Giant Spider]] and two [[swarm of insects xmm|Swarms of Insects]] (spiders) |
-| 3 | One [[darkmantle xmm|Darkmantle]] and three [[piercer xmm|Piercers]] |
+| 1 | Four [[violet-fungus-xmm (plant)]] and one [[rust-monster-xmm]] |
+| 2 | One [[giant-spider-xmm (beast)]] and two [[swarm-of-insects-xmm (beast)]] (spiders) |
+| 3 | One [[Darkmantle Xmm]] and three [[piercer-xmm (aberration)]] |
 | 4 | A patch of "yellow mold" (see ""Hazards"" in "chapter 3") on a miner's remains |
-| 5 | One [[gelatinous cube xmm|Gelatinous Cube]] |
+| 5 | One [[gelatinous-cube-xmm (ooze)]] |
 | 6 | Sounds of Terror (see below) |
 ^1-encounter
 

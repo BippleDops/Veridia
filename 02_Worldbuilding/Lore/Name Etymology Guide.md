@@ -1,7 +1,7 @@
 ---
 
 title: Name Etymology Guide
-type: Lore
+type: [[Lore]]
 tags:
 - cultural_reference
 - lore
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ improvements: 20
 
 ## Summary
 
-A comprehensive guide to naming conventions, linguistic origins, and cultural significance of personal names, place names, and institutional titles across both Aquabyssos and Aethermoor.
+A comprehensive guide to naming conventions, linguistic origins, and cultural significance of personal names, place names, and institutional titles across both [[Aquabyssos]] and [[Aethermoor]].
 
 #### **Depth-Based Names**
 
@@ -98,13 +98,13 @@ Names reflecting the underwater environment and pressure adaptation:
 - **Thalassa** - "Deep ocean" (Ancient term for open sea)
 - **Benthos** - "Deep-dweller" (Scientific term for ocean depths)
 - **Pelagios** - "Open ocean born" (Pelagic zone reference)
-- **Abyssos** - "Without bottom" (Abyssal depths reference)
+- **Abyssos** - "Without bottom" ([[Abyssal Depths]] reference)
 
 **Family Names:**
 - **Deepcurrent** - Family with strong navigational traditions
 - **Pressurewise** - Family known for depth adaptation expertise
 - **Voidseeker** - Family associated with deep exploration
-- **Tidecaller** - Family with maritime leadership roles
+- **Tidecaller** - Family with mari[[Time]] leadership roles
 - **Currentborn** - Family with water navigation heritage
 
 #### **Pressure and Current Terminology**
@@ -129,7 +129,7 @@ Reflecting the importance of preserved wisdom:
 
 **Memory-Based:**
 - **Mindwell** - Repository of knowledge
-- **Memoriam** - Keeper of memories
+- **[[Memoriam]]** - Keeper of memories
 - **Scrollheart** - Scholarly tradition
 - **Wisdomdeep** - Profound understanding
 - **Truthkeeper** - Preserver of accurate information
@@ -158,7 +158,7 @@ Social hierarchy reflected in naming conventions:
 Guild and occupation-based naming:
 
 **Mining Guild:**
-- **-forge** suffix (Ironforge, Crystalforge)
+- **-forge** suffix ([[Ironforg]]e, Crystalforge)
 - **-delve** suffix (Deepdelve, Stonedemve)
 - **-strike** suffix (Goldstrike, Voidstrike)
 
@@ -174,12 +174,12 @@ Guild and occupation-based naming:
 
 #### **Aquabyssos Geographic Naming**
 
-Environmental features determining location names:
+Environmental features determining [[location]] names:
 
 **Depth References:**
-- **-depths** suffix: Crystalline Depths, Twilight Depths
+- **-depths** suffix: [[Crystalline Depths]], [[Twilight Depths]]
 - **-abyss** suffix: Memory Abyss, Void Abyss
-- **-deep** suffix: Merchant Deep, Scholar Deep
+- **-deep** suffix: [[Merchant]] Deep, Scholar Deep
 
 **Current and Flow:**
 - **-current** suffix: Swift Current, Deep Current
@@ -207,7 +207,7 @@ Names reflecting aerial environment and atmospheric phenomena:
 - **Windweaver** - Family skilled in wind song and tonal communication
 - **Skyward** - Family with high-altitude specialization
 - **Cloudborn** - Family living at high elevations
-- **Crystalline** - Family associated with crystal technology
+- **Crystalline** - Family associated with [[Crystal Technology]]
 
 #### **Crystal and Resoce Terminology**
 
@@ -247,7 +247,7 @@ Social hierarchy based on elevation capability:
 **Mid-Altitude:**
 - **Wind-** prefix (Wind-Rider, Wind-Singer)
 - **Cloud-** prefix (Cloud-Walker, Cloud-Dancer)
-- **Sky-** prefix (Sky-Touched, Sky-Blessed)
+- **Sky-** prefix (Sky-Touched, Sky-[[Bless]]ed)
 
 **High Altitude:**
 - **Storm-** prefix (Storm-Master, Storm-Born)
@@ -256,7 +256,7 @@ Social hierarchy based on elevation capability:
 
 #### **Professional Titles**
 
-**Crystal Engineering:**
+**[[Crystal Engineering]]:**
 - **-wright** suffix (Crystalwright, Resocewright)
 - **-smith** suffix (Crystalsmith, Harmonysmith)
 - **-weaver** suffix (Soundweaver, Lightweaver)
@@ -273,7 +273,7 @@ Social hierarchy based on elevation capability:
 
 #### **Aethermoor Geographic Naming**
 
-Atmospheric and elevation-based location names:
+Atmospheric and elevation-based [[Location Name]]s:
 
 **Wind References:**
 - **-wind** suffix: Brightwind Plaza, Stormwind Heights
@@ -281,9 +281,9 @@ Atmospheric and elevation-based location names:
 - **-breeze** suffix: Gentle Breeze Gardens, Trade Breeze Markets
 
 **Crystal Features:**
-- **-crystal** compounds: Crystal Heights, Crystal Gardens
+- **-crystal** compounds: Crystal Heights, [[Crystal Garden]]s
 - **-resoce** references: Resoce Plaza, Harmony Resoce Academy
-- **-harmony** places: Harmony Square, Crystal Harmony District
+- **-harmony** [[Places]]: Harmony Square, Crystal Harmony District
 
 **Altitude Markers:**
 - **-heights** suffix: Stormwind Heights, Crystal Heights
@@ -320,12 +320,12 @@ Occupations requiring expertise in both realms:
 - **-wind** (Merchantwind, Tradewind)
 - **-flow** (Goldflow, Coinflow)
 
-**Diplomatic Corps:**
+**[[Diplomatic Corps]]:**
 - **-peace** (Peacemaker, Peaceweaver)
 - **-accord** (Accordkeeper, Accordwright)
 - **-harmony** (Harmonybuilder, Harmonykeeper)
 
-#### **Hadal Depths Region**
+#### **[[Hadal Depths]] [[region]]**
 
 Names reflecting extreme depth culture:
 
@@ -378,7 +378,7 @@ Names incorporating heavy crystal technology integration:
 
 **Place Names:**
 - **Pure** crystal areas: Pure Crystal District, Clear Resoce Plaza
-- **Advanced** tech zones: Master Crystal Academy, Grand Harmony Center
+- **Advanced** tech zones: Master [[Crystal Academy]], Grand Harmony Center
 - **Integration** areas: Crystal-Wind Plaza, Harmonic Gardens
 
 #### **Aquabyssos Taboos**
@@ -414,7 +414,7 @@ Names considered inappropriate or dangerous:
 Names reserved for religious contexts:
 
 **Aquabyssos Sacred Names:**
-- **Deep Mother** references reserved for clergy
+- **[[Deep Mother]]** references reserved for clergy
 - **True Depth** names require religious authorization
 - **Sacred Current** names limited to temple use
 
@@ -439,7 +439,7 @@ Names indicating high social status:
 
 ### **Campaign Integration**
 
-- Important NPCs should have names reflecting their cultural significance
+- Important [[Npc]]s should have names reflecting their cultural significance
 - Place names provide immediate environmental and cultural context
 - Professional naming creates realistic social hierarchies
 - Taboo names can create plot complications and cultural conflicts
@@ -456,7 +456,7 @@ Name Etymology Guide is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Name Etymology Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Name Etymology Guide.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -464,7 +464,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Name Etymology Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

@@ -37,7 +37,7 @@ world: Both
 *Ammunition, minor, common*  
 ![](/03_Mechanics/CLI/items/img/unbreakable-arrow.webp#right)
 
-This arrow can't be broken, except when it is within an [[antimagic field xphb|antimagic field]].
+This arrow can't be broken, except when it is within an [[Antimagic Field Xphb]].
 
 *Source: Xanathar's Guide to Everything p. 139*
 

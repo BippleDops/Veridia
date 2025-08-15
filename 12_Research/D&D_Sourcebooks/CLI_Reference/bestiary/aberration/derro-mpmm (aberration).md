@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-mpmm-derro-mpmm.svg)
 
-# [[derro mpmm|Derro]]
+# [[Derro Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -62,7 +62,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[leather armor xphb|leather armor]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-cleric-oota-ixitxachitl-cleric-oota.svg)
 
-# [[ixitxachitl cleric oota|Ixitxachitl Cleric]]
+# [[vampiric-ixitxachitl-cleric-oota (aberration)]]
 *Source: Out of the Abyss p. 225*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
@@ -89,13 +89,13 @@ The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [[guidance xphb|guidance]],\
-      \ [[thaumaturgy xphb|thaumaturgy]]\n\n1st level\
-      \ (4 slots): [[charm person xphb|charm person]],\
-      \ [[create or destroy water xphb|create or destroy water]]\n\
-      \n2nd level (3 slots): [[hold person xphb|hold person]],\
-      \ [[silence xphb|silence]]\n\n3rd level (2 slots):\
-      \ [[dispel magic xphb|dispel magic]], [[tongues xphb|tongues]]"
+      \ has the following cleric spells prepared:\n\nCantrips (at will): [[guidance-xphb (spells)]],\
+      \ [[Thaumaturgy Xphb]]\n\n1st level\
+      \ (4 slots): [[Charm Person Xphb]],\
+      \ [[create-or-destroy-water-xphb (spells)]]\n\
+      \n2nd level (3 slots): [[Hold Person Xphb]],\
+      \ [[silence-xphb (spells)]]\n\n3rd level (2 slots):\
+      \ [[dispel-magic-xphb (spells)]], [[Tongues Xphb]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\

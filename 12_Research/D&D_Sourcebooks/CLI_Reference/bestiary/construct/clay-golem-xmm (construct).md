@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clay-golem-xmm-clay-golem-xmm.svg)
 
-# [[clay golem xmm|Clay Golem]]
+# [[clay-golem-xmm (construct)]]
 *Source: Monster Manual (2024) p. 72. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,19 +104,19 @@ These golems obey their creators' orders and protect what their makers value mos
 "cr": "9"
 "traits":
   - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
-      \ instead regains a number of [[hit points xphb|Hit Points]]\
+      \ instead regains a number of [[hit-points-xphb (variant-rules)]]\
       \ equal to the Acid damage dealt."
     "name": "Acid Absorption"
-  - "desc": "Whenever the golem starts its turn [[bloodied xphb|Bloodied]],\
+  - "desc": "Whenever the golem starts its turn [[bloodied-xphb (variant-rules)]],\
       \ roll d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
       \ goes berserk, it continues to be berserk until it is destroyed or it is no\
-      \ longer [[bloodied xphb|Bloodied]]."
+      \ longer [[bloodied-xphb (variant-rules)]]."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [[advantage xphb|Advantage]]\
+  - "desc": "The golem has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -124,7 +124,7 @@ These golems obey their creators' orders and protect what their makers value mos
       \ used Hasten this turn."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (1d10 + 5) Bludgeoning\
-      \ damage plus 6 (d12) Acid damage, and the target's [[hit points xphb|Hit Point]]\
+      \ damage plus 6 (d12) Acid damage, and the target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the Acid damage taken."
     "name": "Slam"
 "bonus_actions":

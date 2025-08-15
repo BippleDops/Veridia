@@ -1,7 +1,7 @@
 ---
 
 title: The Deep Harvest
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -36,7 +36,7 @@ improvements: 20
 
 *Mechanized Abundance from the Ocean's Depths*
 
-> *"The Deep Harvest doesn't just feed Aquabyssos—it transforms the ocean floor into the most productive farmland in existence. We've turned the crushing depths into gardens of plenty, and the darkness into fields of light."*
+> *"The Deep Harvest doesn't just feed Aquabyssos—it transforms the ocean floor into the most productive farmland in existence. We've turned the [[Crushing Depths]] into gardens of plenty, and the darkness into fields of light."*
 > — [[Master Harvest Engineer Kelp Deepso]], Director of Marine Agricultural Operations
 
 ## 🔧 Deep Evaluation Improvements
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,7 +81,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -125,7 +125,7 @@ Comprehensive robotic platforms operate throughout Aquabyssos's territorial wate
 - **Rare Material Collection**: Specialized extraction of unusual and valuable oceanic resources
 
 **Environmental Integration:**
-Harvesting systems operate with strict environmental protection protocols:
+Harvesting systems operate with strict [[Environmental Protection]] protocols:
 
 - **Ecosystem Monitoring**: Continuous surveillance ensuring harvesting doesn't damage marine environments
 - **Sustainable Quotas**: Automated limits preventing over-harvesting of any resource type
@@ -185,7 +185,7 @@ Sophisticated facilities transform raw harvested materials into finished product
 ### Production Facilities and Expertise
 
 **The Marine Systems Manufacturing Complex:**
-Integrated facility producing all components of The Deep Harvest system under the direction of [[Chief Marine Engineer Coral Seaforge]] and specialized technical teams:
+Integrated facility producing all components of The Deep Harvest system under the direction of [[Chief Marine Engineer [[Coral]] Seaforge]] and specialized technical teams:
 
 **Manufacturing Capabilities:**
 - **Robotic Systems Assembly**: Creating autonomous harvesting and cultivation equipment
@@ -198,8 +198,8 @@ Integrated facility producing all components of The Deep Harvest system under th
 Production requires expertise across multiple technical disciplines:
 
 - **Marine Robotics**: Specialists in underwater autonomous systems ([[Robotics Engineer Wave Autowright]])
-- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio Mechanical Specialist Tide Lifeforge]])
-- **Environmental Systems**: Specialists in deep-sea equipment design ([[Environmental Engineer Current Depthwright]])
+- **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio-Mechanical Specialist Tide Lifeforge (D&D_References)]])
+- **Environmental Systems**: Specialists in deep-sea equipment design ([[[[Environmental Engineer Current Depthwrigh]]t]])
 - **Control Systems**: Experts in automation and process control ([[Control Systems Engineer Flow Processwright]])
 - **Quality Control**: Specialists ensuring equipment safety and reliability ([[Quality Inspector Reef Perfectwright]])
 
@@ -212,7 +212,7 @@ The Deep Harvest system requires specialized resources from various suppliers:
 - **Marine-Grade Metals**: Corrosion-resistant alloys for underwater equipment, sourced from [[Deep Metals Consortium]]
 - **Bio-Compatible Components**: Materials suitable for biological integration, from [[Living Systems Suppliers]]
 - **Control Crystals**: Magical crystals managing automated systems, supplied by [[Crystal Forest]]
-- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[02 Worldbuilding/Groups/Marine Protection Guil|02 Worldbuilding/Groups/Marine Protection Guil]]
+- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[Groups]]
 - **Energy Systems**: Power sources for autonomous operations, supplied by [[Deep Energy Consortium]]
 
 **Supply Chain Challenges:**
@@ -237,7 +237,7 @@ Deploying harvesting systems requires specialized procedures adapted to deep-sea
 **Installation Procedures:**
 Deep Harvest deployment follows established protocols:
 
-1. **Site Preparation**: Clearing and preparing underwater installation locations
+1. **Site Preparation**: Clearing and preparing underwater installation [[location]]s
 2. **Equipment Deployment**: Transporting and positioning harvesting platforms and cultivation systems
 3. **System Integration**: Connecting harvesting equipment with processing and distribution networks
 4. **Testing and Calibration**: Verifying proper function of all system components
@@ -268,7 +268,7 @@ The Deep Harvest requires continuous monitoring and coordination to maintain opt
 - **Resource Coordinators**: Specialists managing harvesting schedules and quotas ([[Resource Coordinator Kelp Allocationwright]])
 - **Quality Inspectors**: Personnel ensuring product safety and standards ([[Quality Inspector Pearl Standardwright]])
 - **Environmental Monitors**: Specialists tracking ecological impact ([[Environmental Monitor Reef Ecowatch]])
-- **Maintece Supervisors**: Personnel managing equipment service and repair ([[Maintece Supervisor Tide Fixwright]])
+- **Maintece Supervisors**: Personnel managing equipment service and repair ([[Maintece_Supervisor_Tide_Fixwright]])
 
 ### Food Production and Distribution
 
@@ -314,16 +314,16 @@ The Deep Harvest provides essential materials for Aquabyssos industry and constr
 The Deep Harvest generates significant economic value through diverse commercial activities:
 
 **Economic Products:**
-- **Export Commodities**: High-value products for international trade
+- **Export Commodities**: High-value products for [[International Trade]]
 - **Luxury Goods**: Rare and unique items commanding premium prices
 - **Raw Materials**: Basic resources supporting other industries
 - **Processed Products**: Value-added items with enhanced market appeal
 - **Services**: Technical expertise and consultation for other marine operations
 
-**Trade Networks:**
+**[[Trade Networks]]:**
 - **[[Umbral Exchange]]**: Primary trading platform for Deep Harvest products
 - **Surface Trade**: Commercial relationships with [[Aethermoor]] markets
-- **International Commerce**: Trade with other underwater civilizations
+- **[[International Commerce]]**: Trade with other underwater civilizations
 - **Specialized Markets**: Niche products for specific customer needs
 - **Emergency Supply**: Reserve production capacity for crisis situations
 
@@ -340,8 +340,8 @@ Ongoing research promises significant improvements to deep-sea harvesting capabi
 - **Environmental Symbiosis**: Harvesting methods that actively improve marine ecosystems
 
 **Future Technology Possibilities:**
-- **Molecular Assembly**: Building desired products directly from basic oceanic materials
-- **Time-Accelerated Production**: Harvesting systems operating across different temporal flows
+- **Molecular Assembly**: Building de[[Sire]]d products directly from basic oceanic materials
+- **[[Time]]-Accelerated Production**: Harvesting systems operating across different temporal flows
 - **Cross-Dimensional Agriculture**: Cultivation systems accessing multiple reality streams
 - **Collective Intelligence Networks**: Coordinated harvesting across multiple locations
 - **Self-Evolving Systems**: Harvesting technology that improves itself over time
@@ -366,7 +366,7 @@ Cooperation with [[Aethermoor]] creates opportunities for enhanced resource prod
 **Joint Development Projects:**
 - **Dual-Environment Harvesting**: Systems operating in both water and air environments
 - **Resource Exchange Programs**: Coordinated production supporting both realms
-- **Technology Transfer**: Sharing harvesting innovations between surface and depth civilizations
+- **[[Technology Transfer]]**: Sharing harvesting innovations between surface and depth civilizations
 - **Emergency Cooperation**: Joint resource production during crisis situations
 - **Convergence Preparation**: Harvesting systems designed for merged reality environments
 
@@ -418,7 +418,7 @@ Complex automated systems face various technical challenges:
 - **Weather Disruptions**: Ocean conditions affecting harvesting operations
 - **Market Fluctuations**: Economic changes affecting demand for harvested products
 - **Labor Shortages**: Difficulties finding qualified personnel for specialized operations
-- **Supply Chain Disruptions**: Problems obtaining materials needed for operations
+- **[[Supply Chain Disruption]]s**: Problems obtaining materials needed for operations
 
 ### Security and Sabotage Threats
 
@@ -427,7 +427,7 @@ The economic importance of The Deep Harvest makes it a target for various threat
 
 **Security Risks:**
 - **Industrial Sabotage**: Competitors attempting to damage harvesting operations
-- **Resource Theft**: Criminal organizations stealing harvested products
+- **Resource Theft**: [[Criminal [[Organization]]s]] stealing harvested products
 - **Environmental Terrorism**: Activists attempting to stop harvesting through sabotage
 - **International Conflict**: Hostile governments targeting economic infrastructure
 - **Corporate Espionage**: Competitors stealing harvesting technology and methods
@@ -437,7 +437,7 @@ Comprehensive security systems protect harvesting operations:
 
 - **Physical Security**: Guards, patrols, and surveillance protecting harvesting sites
 - **Cybersecurity**: Digital protection for automated systems and control networks
-- **Personnel Security**: Background checks and loyalty verification for workers
+- **Personnel Security**: Background checks and [[Loyalty Verification]] for workers
 - **Emergency Response**: Rapid response teams for security incidents
 - **Intelligence Operations**: Information gathering about potential threats
 
@@ -458,7 +458,7 @@ The Deep Harvest provides numerous adventure opportunities:
 - Industrial espionage targeting harvesting technology
 - Market manipulation affecting Deep Harvest profitability
 - International trade disputes over marine resources
-- Economic warfare targeting Aquabyssos food and material supply
+- [[Economic Warfare]] targeting Aquabyssos food and material supply
 
 ### Environmental and Conservation Scenarios
 
@@ -507,11 +507,11 @@ The Deep Harvest is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Deep Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Harvest.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

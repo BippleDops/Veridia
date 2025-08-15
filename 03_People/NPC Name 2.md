@@ -5,24 +5,24 @@ tags:
 - auto-generated
 - linked
 created: '2025-01-15'
----
+- --
 
 # NPC Name 2
 
 ## Portrait
 
-![[portrait_npc_name_2.png]]
+![[Npc]]
 
-*Portrait reference for NPC Name 2*
+* Portrait reference for NPC Name 2*
 
 ## Overview
-This topic is referenced in [[Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg]] and other parts of the campaign.
+This topic is referenced in [[Information Exchange]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg]]
+- Referenced by: [[Information Exchange]]
 - Related topics in the same category
 
 ## Details
@@ -75,3 +75,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

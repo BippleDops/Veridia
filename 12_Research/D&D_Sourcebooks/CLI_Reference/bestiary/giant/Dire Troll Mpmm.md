@@ -46,7 +46,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[dire-troll-mpmm|Dire Troll]]
+# [[dire-troll-mpmm (giant)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.

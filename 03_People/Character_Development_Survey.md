@@ -1,17 +1,19 @@
 ---
+
 title: Character_Development_Survey
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Character_Development_Survey
 
 ## Portrait
 
-![[portrait_character_development_survey.png]]
+![[Character_Development_Survey]]
 
 *Portrait reference for Character_Development_Survey*
 
@@ -303,3 +305,13 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

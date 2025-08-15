@@ -1,7 +1,7 @@
 ---
 
 title: Deep Current Academy
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Deep Current Academy represents a crucial aspect of the world's history, cosmolo
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -87,19 +87,19 @@ Deep Current Academy represents a crucial aspect of the world's history, cosmolo
 
 Mentioned in The Second Prophecy of Stars
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current power structures established
@@ -119,3 +119,7 @@ Mentioned in The Second Prophecy of Stars
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

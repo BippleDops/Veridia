@@ -37,15 +37,15 @@ world: Both
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [[leatherworkers tools xphb|Leatherworker's Tools]], [[smiths tools xphb|Smith's Tools]], or [[weavers tools xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [[alchemists supplies xphb|Alchemist's Supplies]] or [[herbalism kit xphb|Herbalism Kit]] |
-| Ring | [[jewelers tools xphb|Jeweler's Tools]] |
-| Rod | [[woodcarvers tools xphb|Woodcarver's Tools]] |
-| Scroll | [[calligraphers supplies xphb|Calligrapher's Supplies]] |
-| Staff | [[woodcarvers tools xphb|Woodcarver's Tools]] |
-| Wand | [[woodcarvers tools xphb|Woodcarver's Tools]] |
-| Weapon | [[leatherworkers tools xphb|Leatherworker's Tools]], [[smiths tools xphb|Smith's Tools]], or [[woodcarvers tools xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [[tinkers tools xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[leatherworkers-tools-xphb (items)]], [[smiths-tools-xphb (items)]], or [[Weavers Tools Xphb]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[Alchemists Supplies Xphb]] or [[Herbalism Kit Xphb]] |
+| Ring | [[Jewelers Tools Xphb]] |
+| Rod | [[Woodcarvers Tools Xphb]] |
+| Scroll | [[Calligraphers Supplies Xphb]] |
+| Staff | [[Woodcarvers Tools Xphb]] |
+| Wand | [[Woodcarvers Tools Xphb]] |
+| Weapon | [[leatherworkers-tools-xphb (items)]], [[smiths-tools-xphb (items)]], or [[Woodcarvers Tools Xphb]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[tinkers-tools-xphb (items)]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools
 
 ## 🔧 Deep Evaluation Improvements

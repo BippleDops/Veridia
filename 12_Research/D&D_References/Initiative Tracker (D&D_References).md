@@ -61,7 +61,7 @@ The Initiative Tracker provides comprehensive tools and systems for managing com
 
 The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resoce that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 
-Beyond basic turn order management, the Initiative Tracker integrates with [[Multi Phase Boss Fights]], [[Environmental Hazards]], [[Temporal Distortion Zones]], and [[Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
+Beyond basic turn order management, the Initiative Tracker integrates with [[Multi-Phase Boss Fights]], [[Environmental Hazards]], [[Temporal Distortion Zones]], and [[Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
 
 The tracker includes tools for managing complex initiative modifiers, environmental effects, group actions, delayed actions, and the special timing requirements of spellcasting, multi-attack sequences, and legendary actions in the unique physics of the merged realms.
 
@@ -331,7 +331,7 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Automatic Sorting**: Maintains initiative order automatically
 - **Status Tracking**: Built-in condition and duration management
 - **Environmental Integration**: Handles complex environmental effects
-- **Multi-Phase Support**: Tracks [[Multi Phase Boss Fights]]
+- **Multi-Phase Support**: Tracks [[Multi-Phase Boss Fights]]
 - **Temporal Handling**: Manages time distortion effects
 
 **Customization Options**:

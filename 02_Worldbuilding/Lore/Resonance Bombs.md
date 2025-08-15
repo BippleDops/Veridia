@@ -4,13 +4,13 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
-title: Resoce Bombs
+- [[Lore]]
+title: [[Resoce Bombs]]
 type: lore
 updated: 2025-08-14
 ---
 
-# Resonance Bombs
+# [[Resonance Bomb]]s
 
 ## Overview
 This document contains important information regarding Resonance Bombs and its role within the greater narrative.
@@ -20,12 +20,12 @@ Resonance Bombs represents a significant element within the campaign world, offe
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Mastermind
-*[[rogue xphb|Rogue]]: Rogue Subclass*  
+*[[Rogue Xphb Swashbuckler Xge]]: Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 46*  
 
 > [!tldr] Class and Feature Progression
@@ -71,7 +71,7 @@ Your focus is on people and on the influence and secrets they have. Many spies, 
 
 ### Master of Intrigue (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [[disguise kit xphb|disguise kit]], the [[forgery kit xphb|forgery kit]], and one [[gaming set xphb|gaming set]] of your choice. You also learn two languages of your choice.
+When you choose this archetype at 3rd level, you gain proficiency with the [[disguise-kit-xphb (items)]], the [[Forgery Kit Xphb]], and one [[gaming-set-xphb (items)]] of your choice. You also learn two languages of your choice.
 
 Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
 

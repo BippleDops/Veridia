@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-valor-xmm-sphinx-of-valor-xmm.svg)
 
-# [[sphinx of valor xmm|Sphinx of Valor]]
+# [[sphinx]]
 *Source: Monster Manual (2024) p. 294. Available in the SRD and the Free Rules (2024)*  
 
 Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird truths, deadly Artifacts, and things that shouldn't exist. They inhabit hidden, magical sites and hold their duty above mortal life. If threatened, a sphinx of valor defends its charge with its supernaturally empowered roar and fierce strikes.
@@ -119,7 +119,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "traits":
   - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
       \ its permission. Wisdom ([[skills#Insight|Insight]]) checks\
-      \ made to ascertain its intentions or sincerity are made with [[disadvantage xphb|Disadvantage]]."
+      \ made to ascertain its intentions or sincerity are made with [[Advantage Xphb]]."
     "name": "Inscrutable"
   - "desc": "If the sphinx fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
@@ -129,27 +129,27 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - "desc": "Melee Attack Roll: +12, reach 5 ft. Hit: 20 (4d6 + 6) Slashing damage."
     "name": "Claw"
   - "desc": "The sphinx emits a magical roar. Whenever it roars, the roar has a different\
-      \ effect, as detailed below (the sequence resets when it takes a [[long rest xphb|Long Rest]]):\n\
-      \n- First Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot [[emanation area of effect xphb|Emanation]]\
+      \ effect, as detailed below (the sequence resets when it takes a [[long-rest-xphb]]):\n\
+      \n- First Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot [[Area of Effect Xphb]]\
       \ originating from the sphinx. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition for 1 minute.  \n- Second Roar. Wisdom Saving Throw: DC 20,\
-      \ each enemy in a 500-foot [[emanation area of effect xphb|Emanation]]\
+      \ each enemy in a 500-foot [[Area of Effect Xphb]]\
       \ originating from the sphinx. Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition, and it repeats the save at the end of each of its turns, ending\
       \ the effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- Third Roar. Constitution Saving Throw: DC 20, each enemy in a 500-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from the sphinx. Failure: 44 (8d10) Thunder damage, and the\
       \ target has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only.  "
     "name": "Roar (3/Day)"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\nAt will:\
-      \ [[detect evil and good xphb|Detect Evil and Good]],\
-      \ [[thaumaturgy xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[detect magic xphb|Detect Magic]], [[dispel magic xphb|Dispel Magic]],\
-      \ [[greater restoration xphb|Greater Restoration]],\
-      \ [[heroes feast xphb|Heroes' Feast]], [[zone of truth xphb|Zone of Truth]]"
+      \ [[detect-evil-and-good-xphb (spells)]],\
+      \ [[Thaumaturgy Xphb]]\n\n1/day each:\
+      \ [[detect-magic-xphb (spells)]], [[dispel-magic-xphb (spells)]],\
+      \ [[greater-restoration-xphb (spells)]],\
+      \ [[Heroes Feast Xphb]], [[zone-of-truth-xphb (spells)]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sphinx can teleport up to 30 feet to an unoccupied space it can see,\
@@ -165,7 +165,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - "desc": "The region containing a sphinx of lore's or sphinx of valor's lair is\
       \ altered by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Distant Sight. While in its lair, the sphinx can cast [[clairvoyance xphb|Clairvoyance]],\
+  - "desc": "- Distant Sight. While in its lair, the sphinx can cast [[clairvoyance-xphb (spells)]],\
       \ requiring no spell components and using the same spellcasting ability as its\
       \ Spellcasting action. When cast this way, the spell's range is 1 mile.  \n\
       - Infusion of Knowledge. Whenever the sphinx or one of its allies takes\

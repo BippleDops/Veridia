@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-metal-xphb-construct-spirit-metal-xphb.svg)
 
-# [[construct spirit metal xphb|Construct Spirit (Metal)]]
+# [[construct]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock

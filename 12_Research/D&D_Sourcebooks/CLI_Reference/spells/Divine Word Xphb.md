@@ -44,7 +44,7 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[hit-points-xphb|Hit Points]] or fewer suffers an effect based on its current [[hit-points-xphb|Hit Points]], as shown in the Divine Word Effects table. Regardless of its [[hit-points-xphb|Hit Points]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish xphb|Wish]] spell.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[hit-points-xphb (variant-rules)]] or fewer suffers an effect based on its current [[hit-points-xphb (variant-rules)]], as shown in the Divine Word Effects table. Regardless of its [[hit-points-xphb (variant-rules)]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish-xphb (spells)]] spell.
 
 **Divine Word Effects**
 
@@ -56,7 +56,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [[conditions#Deafened|Deafened]] condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
 

@@ -54,11 +54,11 @@ world: Both
 - **Components:** V, S, M (a white feather)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]] must succeed on a Wisdom saving throw or drop whatever it is holding and have the [[conditions#frightened|Frightened]] condition for the duration.
+Each creature in a 30-foot [[Area of Effect Xphb]] must succeed on a Wisdom saving throw or drop whatever it is holding and have the [[conditions#frightened|Frightened]] condition for the duration.
 
 A [[conditions#frightened|Frightened]] creature takes the [[actions#Dash|Dash]] action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb "subclass=XPHB;class=XPHB"|Ranger (Gloom Stalker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 271. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A document has gone missing and truth emerges
 - A noble needs help investigating before winter
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

@@ -53,7 +53,7 @@ updated: '2025-08-13T01:18:35.552832+00:00'
 The Grand Trade Routes represent the most lucrative and dangerous commercial pathways connecting [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], spanning both surface waters and the deepest oceanic trenches. These routes carry everything from essential crystals and pressure-forged goods to exotic luxuries and forbidden knowledge. Control over these arteries of commerce determines the rise and fall of merchant empires, kingdoms, and criminal syndicates.
 
 ### The Golden Circuit
-**Primary Route**: [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] → [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Route**: [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] → [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[Abyssos Prime]]
 
 **Journey Time**: 3-4 weeks complete circuit
 **Cargo Volume**: 50,000+ tons annually

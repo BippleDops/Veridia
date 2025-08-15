@@ -48,9 +48,9 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ## Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact other plane xphb|contact other plane]] and [[symbol xphb|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[Contact Other Plane Xphb]] and [[Symbol Xphb]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
-Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[new ability scores honor and sanity|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
+Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[new-ability-scores-honor-and-sanity (variant-rules)]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
 ## Madness Effects
 
@@ -64,7 +64,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ## Curing Madness
 
-A [[calm emotions xphb|calm emotions]] spell can suppress the effects of madness, while a [[lesser restoration xphb|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove curse xphb|remove curse]] or [[dispel evil and good xphb|dispel evil]] might also prove effective. A [[greater restoration xphb|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[Calm Emotions Xphb]] spell can suppress the effects of madness, while a [[Lesser Restoration Xphb]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[Remove Curse Xphb]] or [[dispel-evil-and-good-xphb (spells)]] might also prove effective. A [[greater-restoration-xphb (spells)]] spell or more powerful magic is required to rid a character of indefinite madness.
 
 ## Player-Facing Summary
 

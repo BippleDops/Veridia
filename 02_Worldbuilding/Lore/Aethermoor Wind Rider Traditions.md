@@ -1,7 +1,7 @@
 ---
 
-title: Aethermoor Wind Rider Traditions
-type: Lore
+title: [[Aethermoor]] Wind Rider Traditions
+type: [[Lore]]
 tags:
 - lore
 - aerial
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -69,7 +69,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -93,11 +93,11 @@ improvements: 20
 
 ## Overview
 
-The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial culture, encompassing centuries of customs, rituals, and practices developed by those who make their lives among the clouds. From the elite Sky Knights to humble Cloud Shepherds, these traditions bind together a society that exists in constant motion, where mastery of wind and weather determines not just survival, but social standing, spiritual connection, and cultural identity.
+The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial culture, encompassing centuries of customs, rituals, and practices developed by those who make their lives among the clouds. From the elite Sky [[Knight]]s to humble Cloud Shepherds, these traditions bind together a society that exists in constant motion, where mastery of wind and weather determines not just survival, but social standing, spiritual connection, and cultural identity.
 
 ### Sky Knights - The Storm Masters
 
-**Elite Status:** Military aristocracy and aerial combat specialists
+**Elite Status:** Military aristocracy and [[Aerial Combat]] specialists
 **Mount Traditions:** Partner with Greater Wind Drakes or Storm Eagles from adolescence
 **Cultural Role:** Protectors of sky cities, leaders in aerial warfare
 **Training Regimen:**
@@ -109,13 +109,13 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 
 **Honor Codes:**
 - Never abandon a fallen comrade in open sky
-- Protect wind currents from pollution and disruption
+- Protect [[Wind Currents]] from pollution and disruption
 - Share favorable winds with fellow riders in need
 - Maintain mount's health and happiness above personal comfort
 - Teach aerial skills to worthy students regardless of social status
 
 **Ceremonial Practices:**
-- "Wind Blessing" - ritual performed before dangerous flights
+- "Wind [[Bless]]ing" - ritual performed before dangerous flights
 - "Storm Calling" - weather magic demonstrations during festivals
 - "Sky Funeral" - honored dead released to the winds from great heights
 - "Mount Bonding" - sacred ceremony linking rider and aerial creature
@@ -134,7 +134,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Protect sky-flocks from aerial predators and dangerous weather
 
 **Traditional Knowledge:**
-- Memorize constellation maps for night navigation
+- Memorize constellation [[map]]s for night navigation
 - Understand seasonal wind patterns across vast territories
 - Know feeding habits and migration routes of dozens of aerial species
 - Master techniques for cloud condensation and weather modification
@@ -166,8 +166,8 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - "Wind Memory Reading" - divination through interpretation of air currents
 - "Atmospheric Cleansing" - purification ceremonies for polluted air masses
 
-**Sacred Locations:**
-- Wind shrines built at convergence points of major air currents
+**Sacred [[location]]s:**
+- Wind shrines built at [[Convergence Points]] of major air currents
 - Meditation platforms suspended at specific altitudes for optimal wind exposure
 - Storm observation towers for studying severe weather phenomena
 - Sacred groves on mountain peaks where wind patterns meet
@@ -196,7 +196,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Gift-giving ceremony where new adults receive flight equipment
 - Storytelling sessions sharing family aerial adventure histories
 - Music and dance performances celebrating aerial themes
-- Formal introduction to adult responsibilities and social privileges
+- Formal [[Introduction]] to adult responsibilities and social privileges
 
 ### Marriage and Partnership Customs
 
@@ -219,7 +219,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Joint participation in seasonal migration duties
 - Collaborative weather prediction and storm preparation
 - Teaching children aerial skills as unified parenting approach
-- Annual renewal flights to original wedding wind-current location
+- Annual renewal flights to original wedding wind-[[Current Location]]
 
 ### Death and Mourning Practices
 
@@ -281,7 +281,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - "Hurricane's End" - rituals for dissipating dangerous storm systems
 - "Seasonal Balance" - maintaining proper weather cycles throughout the year
 
-### The Sky Merchants Guild
+### The Sky [[Merchant]]s Guild
 
 **Trade Focus:** Inter-realm commerce and aerial cargo transport
 **Specialties:** Lightweight, high-value goods suitable for aerial transport
@@ -289,7 +289,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 **Cultural Identity:**
 - Neutral parties in political conflicts to maintain trade relationships
 - Expert navigators familiar with trade winds and seasonal patterns
-- Diplomatic immunity and safe passage agreements
+- [[Diplomatic Immunity]] and safe passage agreements
 - Specialized knowledge of markets and demand patterns across multiple realms
 - Reputation for reliability and fair dealing in all commercial transactions
 
@@ -300,7 +300,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - "Merchant's Mark" - unique aerial signatures identifying legitimate guild members
 - "Wind Road Maintece" - guild responsibility for maintaining aerial trade routes
 
-### Wind Songs and Aerial Music
+### [[Wind Songs]] and Aerial Music
 
 **Traditional Forms:**
 - "Thermals Rising" - songs celebrating upward air currents
@@ -382,7 +382,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Belief that deceased continue to influence wind patterns
 - Prayers and offerings made at high altitudes closer to ancestral realm
 - Divination through interpretation of unusual wind phenomena
-- Guidance sought through dreams experienced during aerial meditation
+- [[Guidance]] sought through dreams experienced during aerial meditation
 - Family traditions of communicating with specific ancestral spirits
 
 **Storm Communion:**
@@ -392,9 +392,9 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Considered extremely dangerous and practiced only by Wind Whisperers
 - Believed to provide direct communication with atmospheric deities
 
-### Aquabyssos Diplomatic Challenges
+### [[Aquabyssos]] Diplomatic Challenges
 
-**Cultural Translation Difficulties:**
+**[[Cultural Translation]] Difficulties:**
 - Wind-based metaphors and expressions confusing to underwater dwellers
 - Aerial customs incompatible with depth-based social hierarchies
 - Weather-dependent scheduling conflicts with tide-based timing
@@ -403,7 +403,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 
 **Successful Integration Strategies:**
 - Joint festivals celebrating both aerial and aquatic themes
-- Cultural exchange programs pairing wind riders with depth swimmers
+- [[[[Cultural Exchange]] Programs]] pairing [[Wind Riders]] with depth swimmers
 - Shared exploration of transitional environments like coastal areas
 - Combined military exercises for defending against mutual threats
 - Trade partnerships leveraging complementary transportation capabilities
@@ -415,9 +415,9 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Modified transportation systems for ground-dwelling refugees
 - Cultural sensitivity training for wind riders working with traumatized survivors
 - Educational programs teaching basic flight safety to new aerial residents
-- Community support networks helping refugees adapt to high-altitude living
+- [[Community Support Networks]] helping refugees adapt to high-altitude living
 
-**Cultural Preservation:**
+**[[Cultural Preservation]]:**
 - Documentation of pre-Catastrophe traditions and practices
 - Adaptation of traditional ceremonies to include new community members
 - Preservation of historical flight routes and navigation landmarks
@@ -432,12 +432,12 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 4. **The Grounded Knight**: Sky Knight loses flying ability, must adapt to ground-based life
 5. **Weather War**: Competing communities use weather magic against each other
 6. **The Migration Mystery**: Sky creatures change traditional routes, threatening shepherd communities
-7. **Aerial Archaeological Expedition**: Explore ancient ruins accessible only by flight
+7. **Aerial Archaeological Expedition**: Explore [[Ancient Ruins]] accessible only by flight
 8. **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic
 
-## Connected Organizations
+## Connected [[Organization]]s
 
-- [[02 Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
+- [[Groups]] - Professional organization maintaining aerial traditions
 - [[The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
 - [[The Weather Wardens Council]] - Governmental organization managing atmospheric safety
 
@@ -451,11 +451,11 @@ Aethermoor Wind Rider Traditions is a sky-borne element of the setting, known fo
 
 Legends speak of Aethermoor Wind Rider Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Wind Rider Traditions.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

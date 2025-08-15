@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [[glass bottle xphb|Glass Bottle]], [[magnifying glass xphb|Magnifying Glass]], [[spyglass xphb|Spyglass]], [[vial xphb|Vial]]  
+- **Craft.** [[Glass Bottle Xphb]], [[Magnifying Glass Xphb]], [[Spyglass Xphb]], [[Vial Xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

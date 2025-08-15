@@ -38,18 +38,18 @@ world: Both
 
 | Class | Ability Score Minimum |
 |-------|-----------------------|
-| [[barbarian xphb|Barbarian]] | Strength 13 |
-| [[bard xphb|Bard]] | Charisma 13 |
-| [[cleric xphb|Cleric]] | Wisdom 13 |
-| [[druid xphb|Druid]] | Wisdom 13 |
-| [[fighter xphb|Fighter]] | Strength 13 or Dexterity 13 |
-| [[monk xphb|Monk]] | Dexterity 13 and Wisdom 13 |
-| [[paladin xphb|Paladin]] | Strength 13 and Charisma 13 |
-| [[ranger xphb|Ranger]] | Dexterity 13 and Wisdom 13 |
-| [[rogue xphb|Rogue]] | Dexterity 13 |
-| [[sorcerer xphb|Sorcerer]] | Charisma 13 |
-| [[warlock xphb|Warlock]] | Charisma 13 |
-| [[wizard xphb|Wizard]] | Intelligence 13 |
+| [[barbarian-xphb-path-of-the-ancestral-guardian-xge]] | Strength 13 |
+| [[bard-xphb-college-of-swords-xge 2 (classes)]] | Charisma 13 |
+| [[cleric-xphb-nature-domain (classes)]] | Wisdom 13 |
+| [[Druid Xphb Circle of the Shepherd Xge]] | Wisdom 13 |
+| [[fighter-xphb (classes)]] | Strength 13 or Dexterity 13 |
+| [[Monk Xphb Warrior of Mercy Xphb]] | Dexterity 13 and Wisdom 13 |
+| [[paladin-xphb-oath-of-conquest-xge (classes)]] | Strength 13 and Charisma 13 |
+| [[ranger-xphb-monster-slayer-xge (classes)]] | Dexterity 13 and Wisdom 13 |
+| [[Rogue Xphb Swashbuckler Xge]] | Dexterity 13 |
+| [[sorcerer-xphb-draconic-sorcery-xphb (classes)]] | Charisma 13 |
+| [[warlock-xphb-fiend-patron-xphb (classes)]] | Charisma 13 |
+| [[Wizard Xphb School of Necromancy]] | Intelligence 13 |
 ^multiclassing-prerequisites
 
 ## 🔧 Deep Evaluation Improvements

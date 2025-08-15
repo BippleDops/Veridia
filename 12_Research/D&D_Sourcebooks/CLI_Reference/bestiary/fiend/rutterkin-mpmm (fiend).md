@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rutterkin-mpmm-rutterkin-mpmm.svg)
 
-# [[rutterkin mpmm|Rutterkin]]
+# [[Rutterkin Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  
 
 > [!quote] A quote from Tasha  
@@ -48,7 +48,7 @@ world: Both
 
 Rutterkins are warped demons that roam the Abyss in mobs, constantly searching for intruders to surround and devour. These Fiends protect the Abyss from non-demons. When they spot any interlopers, they gather in a crowd and surge forward, emitting a wave of fear in advance of their attacks that leaves their victims terrified and rooted in place.
 
-Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [[manes xmm|manes]] demons that follow in the wake of the rutterkin mob that laid them low.
+Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [[Manes Xmm]] demons that follow in the wake of the rutterkin mob that laid them low.
 
 ```statblock
 "name": "Rutterkin (MPMM)"
@@ -94,8 +94,8 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
       \ At the end of each long rest, the [[conditions#Poisoned|poisoned]]\
       \ target can repeat the saving throw, ending the effect on itself on a success.\
       \ If the target is reduced to 0 hit points while [[conditions#Poisoned|poisoned]]\
-      \ in this way, it dies and instantly transforms into a living [[manes xmm|manes]].\
-      \ The transformation can be undone only by a [[wish xphb|wish]]\
+      \ in this way, it dies and instantly transforms into a living [[Manes Xmm]].\
+      \ The transformation can be undone only by a [[wish-xphb (spells)]]\
       \ spell."
     "name": "Bite"
 "source":

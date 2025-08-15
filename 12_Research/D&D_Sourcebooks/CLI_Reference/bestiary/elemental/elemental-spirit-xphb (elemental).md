@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-xphb-elemental-spirit-xphb.svg)
 
-# [[elemental spirit xphb|Elemental Spirit]]
+# [[elemental-spirit-xphb (elemental)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock

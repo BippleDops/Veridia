@@ -54,8 +54,8 @@ updated: '2025-08-13T01:18:34.477448+00:00'
 **Duration:** 3-5 sessions  
 **Threat:** Mysterious pressure-adaptation experiments threaten public health
 
-**Connected Locations:** [[The Kelp Highway|02 Worldbuilding/Places/The Kelp Highway]], [[Pressure Terminal|02 Worldbuilding/Places/Pressure Terminal]], [[02 Worldbuilding/Places/The Decompression Chamber|02 Worldbuilding/Places/The Decompression Chamber]]  
-**Related Groups:** [[02 Worldbuilding/Groups/Harbor District Medical Corps|02 Worldbuilding/Groups/Harbor District Medical Corps]], [[Port Sorrow Trading Company|02 Worldbuilding/Groups/Port Sorrow Trading Company]], [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
+**Connected Locations:** [[The Kelp Highway|02 Worldbuilding/Places/The Kelp Highway]], [[Pressure Terminal|02 Worldbuilding/Places/Pressure Terminal]], [[The Decompression Chamber]]  
+**Related Groups:** [[Harbor District]], [[Port Sorrow Trading Company|02 Worldbuilding/Groups/Port Sorrow Trading Company]], [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
 **Key Themes:** Medical ethics, pressure adaptation science, surface disease contamination, corporate corruption
 
 ## 🔧 Deep Evaluation Improvements

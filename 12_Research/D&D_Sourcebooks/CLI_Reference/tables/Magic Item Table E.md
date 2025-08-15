@@ -40,13 +40,13 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-30 | [[spell scroll level 8 xdmg|Spell scroll (8th level)]] |
-| 31-55 | [[potion of storm giant strength xdmg|Potion of storm giant strength]] |
-| 56-70 | [[potion of supreme healing xdmg|Potion of supreme healing]] |
-| 71-85 | [[spell scroll level 9 xdmg|Spell scroll (9th level)]] |
-| 86-93 | [[universal solvent xdmg|Universal solvent]] |
-| 94-98 | [[ammunition of slaying xdmg|Arrow of slaying]] |
-| 99-100 | [[sovereign glue xdmg|Sovereign glue]] |
+| 01-30 | [[spell-scroll-level-8-xdmg (items)]] |
+| 31-55 | [[giant]] |
+| 56-70 | [[Potion of Supreme Healing Xdmg]] |
+| 71-85 | [[Spell Scroll Level 9 Xdmg]] |
+| 86-93 | [[universal-solvent-xdmg (items)]] |
+| 94-98 | [[Ammunition of Slaying Xdmg]] |
+| 99-100 | [[sovereign-glue-xdmg (items)]] |
 ^magic-item-table-e
 
 ## 🔧 Deep Evaluation Improvements

@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/horn-of-blasting.webp#right)
 
-You can take a [[actions#Magic|Magic]] action to blow the horn, which emits a thunderous blast in a 30-foot [[cone area of effect xphb|Cone]] that is audible out to 600 feet. Each creature in the [[cone area of effect xphb|Cone]] makes a DC 15 Constitution saving throw. On a failed save, a creature takes `5d8` Thunder damage and has the [[conditions#Deafened|Deafened]] condition for 1 minute. On a successful save, a creature takes half as much damage only. Glass or crystal objects in the [[cone area of effect xphb|Cone]] that aren't being worn or carried take `10d8` Thunder damage.
+You can take a [[actions#Magic|Magic]] action to blow the horn, which emits a thunderous blast in a 30-foot [[Area of Effect Xphb]] that is audible out to 600 feet. Each creature in the [[Area of Effect Xphb]] makes a DC 15 Constitution saving throw. On a failed save, a creature takes `5d8` Thunder damage and has the [[conditions#Deafened|Deafened]] condition for 1 minute. On a successful save, a creature takes half as much damage only. Glass or crystal objects in the [[Area of Effect Xphb]] that aren't being worn or carried take `10d8` Thunder damage.
 
 Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals `10d6` Force damage to the user and destroys the horn.
 

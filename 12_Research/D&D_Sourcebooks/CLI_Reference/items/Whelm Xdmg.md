@@ -39,7 +39,7 @@ world: Both
 > [!figure] Item
 
 # Whelm
-*Weapon ([[warhammer xphb|warhammer]]), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
+*Weapon ([[warhammer-xphb (items)]]), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
@@ -74,7 +74,7 @@ You can take a [[actions#Magic|Magic]] action to strike the ground with Whelm an
 
 ## Supernatural Awareness
 
-While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [[detect-evil-and-good-xphb|Detect Evil and Good]] or [[locate-object-xphb|Locate Object]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
+While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [[detect-evil-and-good-xphb (spells)]] or [[locate-object-xphb (spells)]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
 
 ## Sentience
 

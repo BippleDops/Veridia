@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghost-xmm-ghost-xmm.svg)
 
-# [[ghost xmm|Ghost]]
+# [[Ghost Xmm]]
 *Source: Monster Manual (2024) p. 131. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -98,7 +98,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
       \ Plane."
     "name": "Ethereal Sight"
   - "desc": "The ghost can move through other creatures and objects as if they were\
-      \ [[difficult terrain xphb|Difficult Terrain]].\
+      \ [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -106,7 +106,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 19 (3d10 + 3) Necrotic damage."
     "name": "Withering Touch"
-  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[cone area of effect xphb|Cone]]\
+  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[Area of Effect Xphb]]\
       \ that can see the ghost and isn't an Undead. Failure: 10 (2d6 + 3) Psychic\
       \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the ghost's next turn. Success: The target\
@@ -118,16 +118,16 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
       \ condition and loses control of its body. The ghost now controls the body,\
       \ but the target retains awareness. The ghost can't be targeted by any attack,\
       \ spell, or other effect, except ones that specifically target Undead. The ghost's\
-      \ game statistics are the same, except it uses the possessed target's [[speed xphb|Speed]],\
+      \ game statistics are the same, except it uses the possessed target's [[Fly Speed Xphb]],\
       \ as well as the target's Strength, Dexterity, and Constitution modifiers.\n\
-      \nThe possession lasts until the body drops to 0 [[hit points xphb|Hit Points]]\
-      \ or the ghost leaves as a [[bonus action xphb|Bonus Action]].\
+      \nThe possession lasts until the body drops to 0 [[hit-points-xphb (variant-rules)]]\
+      \ or the ghost leaves as a [[Action Xphb]].\
       \ When the possession ends, the ghost appears in an unoccupied space within\
-      \ 5 feet of the target, and the target is immune to this ghost's [[possession xphb|Possession]]\
-      \ for 24 hours. Success: The target is immune to this ghost's [[possession xphb|Possession]]\
+      \ 5 feet of the target, and the target is immune to this ghost's [[Possession Xphb]]\
+      \ for 24 hours. Success: The target is immune to this ghost's [[Possession Xphb]]\
       \ for 24 hours."
     "name": "Possession (Recharge 6)"
-  - "desc": "The ghost casts the [[etherealness xphb|Etherealness]]\
+  - "desc": "The ghost casts the [[Etherealness Xphb]]\
       \ spell, requiring no spell components and using Charisma as the spellcasting\
       \ ability. The ghost is visible on the Material Plane while on the Border Ethereal\
       \ and vice versa, but it can't affect or be affected by anything on the other\

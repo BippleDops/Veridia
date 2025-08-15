@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-xphb-bestial-spirit-xphb.svg)
 
-# [[bestial spirit xphb|Bestial Spirit]]
+# [[Bestial Spirit Xphb]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock

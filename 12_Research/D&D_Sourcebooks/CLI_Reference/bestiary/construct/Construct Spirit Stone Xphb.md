@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-stone-xphb-construct-spirit-stone-xphb.svg)
 
-# [[construct spirit stone xphb|Construct Spirit (Stone)]]
+# [[construct]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock

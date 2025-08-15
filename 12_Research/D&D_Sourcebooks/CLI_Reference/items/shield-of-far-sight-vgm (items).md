@@ -36,14 +36,14 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-shield-of-far-sight-vgm-shield-of-far-sight-vgm.svg)
 
 # Shield of Far Sight
-*Armor ([[shield xphb|shield]]), rare*  
+*Armor ([[Shield]]), rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-A [[mind flayer xmm|mind flayer]] skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eyes is implanted, whereupon the [[mind flayer xmm|mind flayer]] can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the [[mind flayer xmm|mind flayer]] can see through the shield's eye, which has [[senses#Darkvision|darkvision]] out to a range of 60 feet. While peering through this magical eye, the [[mind flayer xmm|mind flayer]] can use its Mind Blast action as though it were standing behind the shield.
+A [[Mind Flayer Xmm]] skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eyes is implanted, whereupon the [[Mind Flayer Xmm]] can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the [[Mind Flayer Xmm]] can see through the shield's eye, which has [[senses#Darkvision|darkvision]] out to a range of 60 feet. While peering through this magical eye, the [[Mind Flayer Xmm]] can use its Mind Blast action as though it were standing behind the shield.
 
-If a shield of far sight is destroyed, the [[mind flayer xmm|mind flayer]] that created it is [[conditions#Blinded|blinded]] for `2d12` hours.
+If a shield of far sight is destroyed, the [[Mind Flayer Xmm]] that created it is [[conditions#Blinded|blinded]] for `2d12` hours.
 
 *Source: Volo's Guide to Monsters p. 81*
 

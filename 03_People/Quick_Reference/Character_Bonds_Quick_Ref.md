@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Bonds - Quick Reference
 
 ## Key Info
@@ -19,4 +24,4 @@
 - **Weakness**: *[Exploitable flaw]*
 
 ---
-*Quick reference for [[Character Bonds]]*
+*Quick reference for [[Character_Bonds]]*

@@ -1,7 +1,7 @@
 ---
 
 title: Ancient Aquabyssos Rulers
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -25,11 +25,11 @@ modified: '2025-08-14'
 status: draft
 historical_accuracy: Mix of verified records and recovered myths
 related_entities:
-- '[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
+- '[[The [[Great Drowning]]|[[02 Worldbuilding]]/Lore/[[The Great Drowning]]]]'
 - '[[Parliament of Echoes]]'
-- '[[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]]'
+- '[[Thalassius the Wise]]'
 - '[[The Bathyal Palace]]'
-time_period: Pre-Drowning to Third Age of Aquabyssos
+[[Time]]_period: Pre-Drowning to Third Age of Aquabyssos
 updated: '2025-08-13T12:34:16.421360+00:00'
 world: Aquabyssos
 evaluated: '2025-08-14'
@@ -38,7 +38,7 @@ improvements: 20
 
 # Ancient Aquabyssos Rulers
 
-*Chronicles of the Drowned Dynasties*
+*Chronicles of the [[Drowned]] Dynasties*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -104,23 +104,23 @@ improvements: 20
 
 Before the establishment of the [[Parliament of Echoes]], [[Aquabyssos]] was ruled by a series of monarchs whose reigns spanned from the pre-drowning era through the tumultuous centuries following [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]. These rulers, known collectively as the Drowned Dynasties, shaped the underwater civilization through periods of survival, adaptation, expansion, and eventually, the transition to democratic goverce.
 
-The records of these ancient rulers are fragmented, preserved in [[Memory Meadows Black Market]], coral-carved monuments, and the [[Abyssal Academy]] archives. Many details have been lost to time, aboleth manipulation, and the chaos of the early drowning years.
+The records of these ancient rulers are fragmented, preserved in [[[[Memory Meadows]] Black Market]], [[Coral]]-carved monuments, and the [[Abyssal Academy]] archives. Many details have been lost to time, [[Aboleth]] manipulation, and the chaos of the early drowning years.
 
-### Emperor Nereon the Tidecaller (Dates Lost)
+### [[Emperor]] Nereon [[The Tidecaller]] (Dates Lost)
 
 *"The Last Surface Emperor"*
 - Ruled the coastal kingdom that would become Aquabyssos
 - Reportedly possessed control over tides and weather
 - Attempted to prevent or mitigate [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]
-- Final fate unknown; some records suggest he chose to descend with his people
+- Final fate unknown; some records suggest he chose to descend with his [[People]]
 
 **Legendary Artifacts:**
-- **The Crown of Storms**: Said to control weather patterns (current location unknown)
-- **The Tidecaller's Trident**: Ancient weapon with power over water (possibly the [[Tide Turner's Trident]])
+- **[[The Crown]] of Storms**: Said to control weather patterns (current [[location]] unknown)
+- **The Tidecaller's Trident**: Ancient weapon with power over water (possibly the [[[[Tide Turner]]'s Trident]])
 
 ### The Lost Princes
 
-References exist to Emperor Nereon's children, but their names and fates remain mysteries. [[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]] claims to possess memory pearls containing their stories, offered at astronomical prices to scholars from the [[Abyssal Academy]].
+References exist to Emperor Nereon's children, but their names and fates remain mysteries. [[[[Memory [[Merchant]] Valeria]]|02 Worldbuilding/People/Memory Merchant Valeria]] claims to possess [[Memory Pearls]] containing their stories, offered at astronomical prices to scholars from the [[Abyssal Academy]].
 
 ### Empress Tethys the Ever-Drowning (0-47 AD)
 
@@ -145,7 +145,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Made first recorded contact with aboleths (results classified in [[Abyssal Academy]] archives)
 
 **Notable Expeditions:**
-- Discovered [[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]
+- Discovered [[[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]
 - Established outposts in [[The Cerulean Trench]]
 - First documented encounter with [[Deep Mother]] (survivors' accounts sealed)
 
@@ -158,9 +158,9 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Created the [[Ancient Siege Tunnels]] for underwater warfare
 
 **Architectural Legacy:**
-- **The Coral Courts**: Living palace complex using cultivated coral
+- **[[The [[Coral Courts]]]]**: Living palace complex using cultivated coral
 - **The Pressure Plazas**: Public gathering spaces adapted for various depths
-- **The Memory Gardens**: Archive spaces for storing historical records
+- **[[The Memory Garden]]s**: Archive spaces for storing historical records
 - **The Deep Gates**: Defensive structures protecting major cities
 
 ### Emperor Abyssos the Synthesizer (134-201 AD)
@@ -173,22 +173,22 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 
 **Integration Policies:**
 - Mixed marriages between surface and deep populations encouraged
-- Cultural exchange programs with remaining surface civilizations
+- [[[[Cultural Exchange]] Programs]] with remaining surface civilizations
 - Combined military units using both surface and underwater tactics
 - Hybrid architectural styles blending surface and deep aesthetics
 
 ### Empress Marina the Diplomat (201-267 AD)
 
 *"The Peace-Weaver"*
-- Negotiated first formal treaties with surface kingdoms
+- Negotiated first formal treaties with [[Surface Kingdoms]]
 - Established trade relationships with [[Port Meridian]] predecessors
 - Created the diplomatic protocols still used by [[Aquabyssos Ambassadors]]
-- Survived three assassination attempts by aboleth-influenced agents
+- Survived three [[Assassin]]ation attempts by aboleth-influenced agents
 
 **Diplomatic Innovations:**
 - **The Floating Councils**: Meetings held at various depths to accommodate all parties
 - **The Treaty of Depths**: First formal agreement between surface and underwater nations
-- **The Ambassador Corps**: Professional diplomatic service (evolved into modern [[Aquabyssos Ambassadors]])
+- **The Ambassador Corps**: Professional [[Diplomatic Service]] (evolved into modern [[Aquabyssos Ambassadors]])
 - **The Cultural Exchange**: Formal programs for inter-realm understanding
 
 ### Emperor Hadal the Mysterious (267-340 AD)
@@ -200,12 +200,12 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Disappeared under suspicious circumstances, leading to succession crisis
 
 **Controversial Legacy:**
-- Founded research programs later associated with [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
-- Created secret societies that may have evolved into [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
+- Founded research programs later associated with [[Aboleth Mind Mazes]]
+- Created secret societies that may have evolved into [[The [[Shadow Conspiracy]]|02 Worldbuilding/[[Groups]]/The Shadow Conspiracy]]
 - Established protocols for deep-trench exploration (many classified to this day)
 - Left behind sealed chambers in the [[The Bathyal Palace]] (contents unknown)
 
-### Emperor Thalassius the Wise (340-421 AD)
+### [[Emperor Thalassius]] the Wise (340-421 AD)
 
 *"The Law-Giver"*
 - Most revered of all ancient rulers
@@ -225,12 +225,12 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Greatest intellectual ruler of ancient Aquabyssos
 - Established formal educational systems and academies
 - Commissioned comprehensive historical and scientific research projects
-- Created archives and libraries preserving pre-drowning knowledge
+- Created archives and [[Libraries]] preserving pre-drowning knowledge
 
 **Educational Legacy:**
 - Founded the institution that became [[Abyssal Academy]]
 - Established the **Scholar Exchange Program** with surface institutions
-- Created the **Living Libraries**: Memory storage systems using brain coral
+- Created the **[[Living Librar]]ies**: Memory storage systems using brain coral
 - Commissioned translation projects preserving surface and deep cultural knowledge
 
 ### Emperor Benthicus the Defender (498-580 AD)
@@ -264,11 +264,11 @@ Powerful items from these rulers occasionally surface in campaigns:
 
 ### Political Influence
 
-Modern [[Parliament of Echoes]] still references ancient royal precedents in legal decisions, particularly those established by Emperor Thalassius the Wise.
+Modern [[Parliament of Echoes]] still references ancient royal precedents in legal decisions, particularly those established by [[Emperor Thalassius the Wise]].
 
 ### Cultural Memory
 
-Royal festivals and commemorations continue throughout [[Aquabyssos]], serving as opportunities for historical education and cultural unity.
+Royal festivals and commemorations continue throughout [[Aquabyssos]], serving as opportunities for [[Historical Education]] and cultural unity.
 
 ### Diplomatic Protocol
 
@@ -280,12 +280,12 @@ The [[Abyssal Academy]] maintains active research programs studying ancient roya
 
 ## Quest Hooks
 
-1. **The Lost Crown**: Ancient royal regalia surfaces in [[Port Meridian]], sparking international incident
+1. **The Lost Crown**: Ancient [[Royal Regalia]] surfaces in [[Port Meridian]], sparking international incident
 2. **The Succession Claim**: Distant descendant claims legitimate right to rule Aquabyssos
 3. **The Hidden Tomb**: Expedition discovers Emperor Hadal's sealed burial chamber with disturbing contents
-4. **The Royal Conspiracy**: Evidence suggests one ancient ruler may have faked their death
+4. **The Royal Conspiracy**: [[Evidence]] suggests one ancient ruler may have faked their death
 5. **The Memory War**: Different factions fight over access to royal memory pearls containing state secrets
-6. **The Diplomatic Crisis**: Ancient treaty obligations surface, affecting modern international relations
+6. **The Diplomatic Crisis**: Ancient treaty obligations surface, affecting modern [[International Relations]]
 7. **The Royal Artifact**: Powerful royal relic begins affecting its surroundings in dangerous ways
 8. **The Legitimacy Question**: Political rivals use ancient royal precedents to challenge current government
 9. **The Archaeological Fraud**: Fake royal artifacts threaten to rewrite accepted history
@@ -310,7 +310,7 @@ Many supposed royal artifacts may be later creations; distinguishing genuine rel
 ## Connections to Ongoing Campaigns
 
 Ancient Aquabyssos rulers provide:
-- Historical context for current political situations
+- [[Historical Context]] for current political situations
 - Sources of powerful artifacts and ancient knowledge
 - Bloodline connections for character backgrounds
 - Political legitimacy questions affecting modern goverce
@@ -328,9 +328,9 @@ Ancient Aquabyssos Rulers is a undersea element of the setting, known for biolum
 
 Legends speak of Ancient Aquabyssos Rulers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Aquabyssos Rulers.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Historical Context
 

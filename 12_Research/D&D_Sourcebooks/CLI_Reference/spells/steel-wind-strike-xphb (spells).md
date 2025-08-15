@@ -49,7 +49,7 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 320*
 
@@ -88,3 +88,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[steel-wind-strike-xphb (spells)-phb]]` in CLI_Reference/spells/

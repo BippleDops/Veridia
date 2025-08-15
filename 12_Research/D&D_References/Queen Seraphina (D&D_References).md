@@ -30,7 +30,7 @@ created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
 race: Human (Deep-Adapted)
-location: '[[The Royal Palace   Aquabyssos]]'
+location: '[[Royal Palace]]'
 world: Aquabyssos
 role: Reigning Monarch
 affiliation: '[[The Coral Crown]]'
@@ -568,7 +568,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Mentor**: [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
+- **Mentor**: [[Npc]]
 - **Victim**: [[Captain Torren Stormwright]]
 - **Parent**: [[The Barnacle]]
 - **Debtor**: [[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]

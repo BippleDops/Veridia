@@ -1,9 +1,9 @@
 ---
-title: Aethermoor Archives
-type: Lore
+title: [[Aethermoor]] Archives
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - aerial
 - status/complete
 - quest

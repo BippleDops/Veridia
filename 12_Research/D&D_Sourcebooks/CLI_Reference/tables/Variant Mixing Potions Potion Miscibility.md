@@ -47,7 +47,7 @@ world: Both
 | 26-35 | Both potions work, but with their numerical effects and durations halved. A potion has no effect if it can't be halved in this way. |
 | 36-90 | Both potions work normally. |
 | 91-99 | The numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [[potion of healing xdmg|potion of healing]] might increase the drinker's hit point maximum by 4, or [[oil of etherealness xdmg|oil of etherealness]] might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [[dispel magic xphb|dispel magic]] or [[remove curse xphb|remove curse]], might end this lasting effect. |
+| 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [[Potion of Healing Xdmg]] might increase the drinker's hit point maximum by 4, or [[Oil of Etherealness Xdmg]] might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [[dispel-magic-xphb (spells)]] or [[Remove Curse Xphb]], might end this lasting effect. |
 ^potion-miscibility
 
 ## 🔧 Deep Evaluation Improvements

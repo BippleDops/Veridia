@@ -1,8 +1,9 @@
 ---
 
+
 ## Description
 
-*[Add detailed physical appearance and personality traits here]*
+* [Add detailed physical appearance and personality traits here]*
 
 ## Personality
 - **Traits**: *[Key character traits]*
@@ -25,11 +26,11 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### History Improvements
 
@@ -87,13 +88,13 @@ improvements: 20
 
 07_Player_Resources/Character_Creation_Extended.md represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
----
+- --
 
-*Last Updated: 2025-08-14 19:03*
+* Last Updated: 2025-08-14 19:03*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -159,3 +160,30 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -53,7 +53,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the Light property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a [[bonus action xphb|Bonus Action]]. You can make this extra attack only once per turn.
+When you make the extra attack of the Light property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a [[Action Xphb]]. You can make this extra attack only once per turn.
 
 ## Push
 
@@ -61,19 +61,19 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ## Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage xphb|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[Advantage Xphb]] on its next attack roll before the start of your next turn.
 
 ## Slow
 
-If you hit a creature with this weapon and deal damage to it, you can reduce its [[speed xphb|Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[speed xphb|Speed]] reduction doesn't exceed 10 feet.
+If you hit a creature with this weapon and deal damage to it, you can reduce its [[Fly Speed Xphb]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[Fly Speed Xphb]] reduction doesn't exceed 10 feet.
 
 ## Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[proficiency xphb|Proficiency Bonus]]). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[Proficiency Xphb]]). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
 
 ## Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[Advantage Xphb]] on your next attack roll against that creature before the end of your next turn.
 
 ## Player-Facing Summary
 

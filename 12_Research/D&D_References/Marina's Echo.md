@@ -43,7 +43,7 @@ updated: '2025-08-13T01:18:34.766776+00:00'
 
 ### The Discovery
 
-The phenomenon was first documented when researchers noticed that [[Marina Red Tide Coralheart   Aquabyssos]] exhibited impossible knowledge of surface-world events she had never experienced, while simultaneously forgetting crucial details about her underwater life. Marina exists as a single consciousness fractured across multiple reality streams, with each "echo" representing a different path her life could have taken.
+The phenomenon was first documented when researchers noticed that [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]] exhibited impossible knowledge of surface-world events she had never experienced, while simultaneously forgetting crucial details about her underwater life. Marina exists as a single consciousness fractured across multiple reality streams, with each "echo" representing a different path her life could have taken.
 
 ### Reality Fracture Points
 Marina's Echo manifests most strongly at moments of high emotional stress or crucial decision-making. During these "fracture points," her consciousness briefly splits, allowing her to perceive multiple versions of the same situation:

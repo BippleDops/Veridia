@@ -141,6 +141,18 @@ Standing 5'8" with an ethereal grace, Pythia is draped in flowing robes made fro
 
 She resides in the Depths of Contemplation, a sacred site where the barriers between present and future are thinnest. Here, surrounded by pools of liquid starlight and crystalline formations that sing with memories of the deep, she receives visitors who seek knowledge of tomorrow's tides.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
 ## Relationships
 
 **Allies:**
@@ -175,6 +187,11 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 **Primary**: Guide others away from the darkest futures she foresees
 **Secondary**: Understand the nature of time and fate in the cosmic scheme
 **Hidden**: Prevent the specific apocalypse she witnessed in her deepest vision
+
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
 
 ## Roleplaying Notes
 
@@ -337,3 +354,40 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

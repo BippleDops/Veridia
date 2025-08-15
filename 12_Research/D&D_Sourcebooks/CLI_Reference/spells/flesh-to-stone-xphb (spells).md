@@ -45,13 +45,13 @@ world: Both
 - **Components:** V, S, M (a cockatrice feather)
 - **Duration:** Concentration, up to 1 minute
 
-You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the [[conditions#Restrained|Restrained]] condition for the duration. On a successful save, its [[speed xphb|Speed]] is 0 until the start of your next turn. Constructs automatically succeed on the save.
+You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the [[conditions#Restrained|Restrained]] condition for the duration. On a successful save, its [[Fly Speed Xphb]] is 0 until the start of your next turn. Constructs automatically succeed on the save.
 
 A [[conditions#Restrained|Restrained]] target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the [[conditions#Petrified|Petrified]] condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
 
-If you maintain your [[conditions#Concentration|Concentration]] on this spell for the entire possible duration, the target is [[conditions#Petrified|Petrified]] until the condition is ended by [[greater restoration xphb|Greater Restoration]] or similar magic.
+If you maintain your [[conditions#Concentration|Concentration]] on this spell for the entire possible duration, the target is [[conditions#Petrified|Petrified]] until the condition is ended by [[greater-restoration-xphb (spells)]] or similar magic.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the SRD and the Free Rules (2024)*
 
@@ -87,3 +87,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and truth emerges
 - A letter reveals a conspiracy about a local noble
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[flesh-to-stone-xphb (spells)-phb]]` in CLI_Reference/spells/

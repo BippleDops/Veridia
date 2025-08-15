@@ -43,11 +43,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you makes a Strength saving throw. On a failed save, a target takes `2d6` Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot [[Area of Effect Xphb]] originating from you makes a Strength saving throw. On a failed save, a target takes `2d6` Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[list-spells-classes-warlock|Warlock]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 243*
 
@@ -89,3 +89,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[arms-of-hadar-xphb (spells)-phb]]` in CLI_Reference/spells/

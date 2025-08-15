@@ -38,7 +38,7 @@ world: Both
 *Ring, legendary*  
 ![](/03_Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
 
-While wearing this ring, you can expend 1 of its 3 charges to cast [[wish xphb|Wish]] from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can expend 1 of its 3 charges to cast [[wish-xphb (spells)]] from it. The ring becomes nonmagical when you use the last charge.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
 

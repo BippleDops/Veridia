@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juvenile-hook-horror-oota-juvenile-hook-horror-oota.svg)
 
-# [[juvenile hook horror oota|Juvenile Hook Horror]]
+# [[Juvenile Hook Horror Oota]]
 *Source: Out of the Abyss p. 34*  
 
 ```statblock

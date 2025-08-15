@@ -172,7 +172,7 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 8. **Sacred Pearl Quest:** Legendary pearl needed for important ceremony must be recovered from dangerous depths
 
 ## Connected Organizations
-- [[02 Worldbuilding/Groups/The Pearl Divers Guil|02 Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
+- [[The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
 - [[Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 

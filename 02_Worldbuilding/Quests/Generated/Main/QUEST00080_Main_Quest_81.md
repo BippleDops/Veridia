@@ -1,0 +1,9 @@
+# Main Quest 81
+
+*Main Quest*
+
+## Objective
+Complete the main quest objective.
+
+---
+*ID: QUEST00080*

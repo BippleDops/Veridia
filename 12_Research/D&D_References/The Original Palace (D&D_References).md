@@ -190,7 +190,7 @@ The palace serves as the hub for an ancient communication system that connects t
 
 **Crystal Resonators**
 - Networks of specially tuned crystals that carry messages instantly across vast distances
-- Maintained by [[Master Resots]] who understand the ancient techniques
+- Maintained by [[Master_Resots]] who understand the ancient techniques
 - Can reach other major deep-sea cities and outposts
 - Occasionally picks up communications from other planes of existence
 

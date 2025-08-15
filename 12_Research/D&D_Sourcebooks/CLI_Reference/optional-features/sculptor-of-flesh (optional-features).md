@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 7
 
-You can cast [[polymorph xphb|polymorph]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[true-polymorph-xphb (spells)]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## 🔧 Deep Evaluation Improvements
 

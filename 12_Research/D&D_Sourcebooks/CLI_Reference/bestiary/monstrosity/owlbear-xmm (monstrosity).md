@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-owlbear-xmm-owlbear-xmm.svg)
 
-# [[owlbear xmm|Owlbear]]
+# [[owlbear-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 234. Available in the SRD and the Free Rules (2024)*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.

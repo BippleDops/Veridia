@@ -58,7 +58,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature must take the [[actions#Study|Study]] action to inspect your appearance and succeed on an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb "subclass=XPHB;class=XPHB"|Ranger (Gloom Stalker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 262. Available in the SRD and the Free Rules (2024)*
 
@@ -107,3 +107,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[disguise-self-xphb (spells)-phb]]` in CLI_Reference/spells/

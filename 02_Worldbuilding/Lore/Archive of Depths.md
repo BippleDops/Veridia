@@ -1,9 +1,9 @@
 ---
 title: Archive of Depths
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active

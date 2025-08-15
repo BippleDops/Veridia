@@ -1,10 +1,10 @@
 ---
 
-title: Tenebrarum Embassy
-type: Location
+title: [[Tenebrarum]] Embassy
+type: [[location]]
 tags:
 - mechanics/social
-- aquabyssos
+- [[Aquabyssos]]
 - tenebrarum
 - embassy
 - status/complete
@@ -23,7 +23,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:16.558239+00:00'
 world: Aquabyssos
@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -92,27 +92,27 @@ improvements: 20
 
 ## Overview
 
-The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow realm of Tenebrarum to Aquabyssos. Officially focused on trade relations and cultural exchange, the embassy operates one of the most sophisticated spy networks in the capital, specializing in shadow infiltration and identity manipulation.
+The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow realm of Tenebrarum to Aquabyssos. Officially focused on trade relations and [[Cultural Exchange]], the embassy operates one of the most sophisticated spy networks in the capital, specializing in shadow infiltration and identity manipulation.
 
 ### Primary Objectives
 
 1. **Political Intelligence:** Monitor succession crisis and parliamentary developments
-2. **Military Intelligence:** Track naval capabilities and defensive preparations
-3. **Economic Intelligence:** Map trade relationships and ficial vulnerabilities
-4. **Social Intelligence:** Monitor noble house relationships and social dynamics
-5. **Technological Intelligence:** Acquire pressure adaptation and crystal technology
+2. **[[Military Intelligence]]:** Track naval capabilities and defensive preparations
+3. **[[Economic Intelligence]]:** [[map]] trade relationships and ficial vulnerabilities
+4. **Social Intelligence:** Monitor [[Noble House]] relationships and social dynamics
+5. **Technological Intelligence:** Acquire pressure adaptation and [[Crystal Technology]]
 
-#### Operation Shadow Parliament
+#### Operation [[Shadow Parliament]]
 
 **Objective:** Control parliamentary votes through shadow replacement program
-**Method:** Systematically replace key senators with shadow duplicates
+**Method:** Systematically replace key [[Senator]]s with shadow duplicates
 **Current Status:** 4 senators replaced, 8 more targeted for replacement
-**Timeline:** Complete shadow majority within 18 months
+**[[[[Time]]line]]:** Complete shadow majority within 18 months
 **Assets:** Deep cover replacement teams, memory specialists, identity workshops
 
 #### Operation Economic Shadow
 
-**Objective:** Gain control of Aquabyssos economic system
+**Objective:** Gain control of Aquabyssos [[Economic System]]
 **Method:** Infiltrate banking, trade guilds, and currency management
 **Current Status:** 30% penetration of major ficial institutions
 **Timeline:** Economic influence parity within 2 years
@@ -121,7 +121,7 @@ The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow 
 #### Operation Cultural Bridge
 
 **Objective:** Normalize shadow presence to prepare for political integration
-**Method:** Cultural events, educational programs, social integration initiatives
+**Method:** Cultural events, educational programs, social integration [[Initiative]]s
 **Current Status:** 15% public approval for shadow citizenship rights
 **Timeline:** Majority acceptance within 5 years
 **Assets:** Cultural programming, media influence, social manipulation specialists
@@ -130,13 +130,13 @@ The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow 
 
 **Objective:** Acquire comprehensive intelligence on all major political players
 **Method:** Infiltration, surveillance, memory theft, social engineering
-**Current Status:** Detailed files on 85% of government officials
+**Current Status:** Detailed files on 85% of [[Government Officia]]ls
 **Timeline:** Complete intelligence mapping within 1 year
 **Assets:** Entire spy network focused on intelligence gathering
 
 ### The Replacement Discovery
 
-Recent investigation has identified at least 2 shadow replacements in government, creating:
+Recent investigation has identified at least 2 [[Shadow Replacements]] in government, creating:
 - **Security Panic:** Increased scrutiny of all diplomatic personnel
 - **Political Tension:** Calls for embassy closure and staff expulsion
 - **Operational Compromise:** Multiple intelligence operations exposed or suspended
@@ -150,9 +150,9 @@ Competition between Ambassador Nyx and Security Chief Void is creating:
 - **Mission Compromise:** Resources diverted from primary objectives
 - **Staff Demoralization:** Uncertainty about leadership and direction
 
-### Economic Pressure
+### [[Economic Pressure]]
 
-Aquabyssos government economic sanctions are causing:
+[[Aquabyssos Government]] economic sanctions are causing:
 - **Funding Shortages:** Reduced resources for intelligence operations
 - **Cover Business Exposure:** Legitimate trade operations under scrutiny
 - **Asset Compromise:** Ficial pressure forcing agent exposure
@@ -174,7 +174,7 @@ Aquabyssos government economic sanctions are causing:
 
 ### Political Intrigue
 
-1. **Succession Influence:** Navigate embassy attempts to influence succession crisis
+1. **[[Succession Influence]]:** Navigate embassy attempts to influence succession crisis
 2. **Parliamentary Vote:** Stop/enable shadow citizenship legislation
 3. **Noble House Manipulation:** Investigate embassy influence on major families
 4. **Public Opinion:** Manage crisis in shadow-Aquabyssos relations
@@ -194,7 +194,7 @@ Aquabyssos government economic sanctions are causing:
 | Umbral Duskwright | First Secretary | Operations Chief | Phase Shifting |
 | Shade Goldmere | Trade Attaché | Economic Spy | Ficial Manipulation |
 | Echo Dreamweaver | Cultural Liaison | Social Infiltrator | Perfect Mimicry |
-| Void Nightguard | Security Chief | Assassin | Shadow Combat |
+| Void Nightguard | Security Chief | [[Assassin]] | Shadow Combat |
 
 ### Intelligence Asset Categories
 
@@ -209,7 +209,7 @@ Aquabyssos government economic sanctions are causing:
 
 | Business Name | Official Function | Covert Function | Security Risk |
 |---------------|------------------|----------------|---------------|
-| Shadowmere Trading | Import/Export | Intelligence Hub | High |
+| [[Shadowmere]] Trading | Import/Export | Intelligence Hub | High |
 | Duskfall Cultural Center | Education | Recruitment | Medium |
 | Nightshade Ficial | Banking | Money Laundering | High |
 | Twilight Security | Protection | Surveillance | Medium |
@@ -224,18 +224,18 @@ Aquabyssos government economic sanctions are causing:
 
 Tenebrarum Embassy is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Tenebrarum Embassy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tenebrarum Embassy.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -258,6 +258,34 @@ Tenebrarum Embassy is a notable location characterized by its unique features an
 
 ### Founding
 Tenebrarum Embassy was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -305,3 +333,40 @@ Ongoing situations affecting Tenebrarum Embassy:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

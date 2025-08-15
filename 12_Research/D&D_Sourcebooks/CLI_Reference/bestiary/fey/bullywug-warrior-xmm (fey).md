@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-warrior-xmm-bullywug-warrior-xmm.svg)
 
-# [[bullywug warrior xmm|Bullywug Warrior]]
+# [[bullywug-warrior-xmm (fey)]]
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.

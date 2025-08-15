@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-erinyes-xmm-erinyes-xmm.svg)
 
-# [[erinyes xmm|Erinyes]]
+# [[erinyes-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 114. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,19 +100,19 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
 "cr": "12"
 "traits":
   - "desc": "If the erinyes dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The erinyes has [[advantage xphb|Advantage]]\
+  - "desc": "The erinyes has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The erinyes has a magic rope. While bearing it, the erinyes can use the\
-      \ Entangling Rope action. The rope has AC 20, HP 90, and [[immunity xphb|Immunity]]\
-      \ to Poison and Psychic damage. The rope turns to dust if reduced to 0 [[hit points xphb|Hit\]]
+      \ Entangling Rope action. The rope has AC 20, HP 90, and [[immunity-xphb (variant-rules)]]\
+      \ to Poison and Psychic damage. The rope turns to dust if reduced to 0 [[hit-points-xphb (variant-rules)]]
       \ Points]], if it is 5+ feet\
       \ away from the erinyes for 1 hour or more, or if the erinyes dies. If the rope\
       \ is damaged or destroyed, the erinyes can fully restore it when finishing a\
-      \ [[short rest xphb|Short]] or [[long rest xphb|Long Rest]]."
+      \ [[short-rest-xphb]] or [[long-rest-xphb]]."
     "name": "Magic Rope"
 "actions":
   - "desc": "The erinyes makes three Withering Sword attacks and can use Entangling\
@@ -123,7 +123,7 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
     "name": "Withering Sword"
   - "desc": "Strength Saving Throw: DC 16, one creature the erinyes can see within\
       \ 120 feet. Failure: 14 (4d6) Force damage, and the target has the [[conditions#Restrained|Restrained]]\
-      \ condition until the rope is destroyed, the erinyes uses a [[bonus action xphb|Bonus Action]]\
+      \ condition until the rope is destroyed, the erinyes uses a [[Action Xphb]]\
       \ to release the target, or the erinyes uses Entangling Rope again."
     "name": "Entangling Rope (Requires Magic Rope)"
 "reactions":

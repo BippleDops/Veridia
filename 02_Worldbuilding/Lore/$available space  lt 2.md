@@ -1,22 +1,22 @@
 ---
-title: $available space  lt 2
+title: [[$available space  lt 2]]
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # $available space  lt 2
 
 ## Overview
-This topic is referenced in [[TECHNICAL DOCUMENTATION]] and other parts of the campaign.
+This topic is referenced in [[TECHNICAL_DOCUMENTATION]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[TECHNICAL DOCUMENTATION]]
+- Referenced by: [[TECHNICAL_DOCUMENTATION]]
 - Related topics in the same category
 
 ## Details

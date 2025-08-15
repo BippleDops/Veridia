@@ -1,10 +1,10 @@
 ---
 
 title: Depth Speak Variations
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - linguistics
 - status/complete
 - aquatic
@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,16 +85,16 @@ The pressure-influenced speech patterns and linguistic variations found througho
 - Fast, sharp consots that cut through air bubbles
 - Rising tonal patterns to overcome surface noise
 - Heavy use of hand gestures for underwater communication
-- Loan words from both Aethermoor Common and trading pidgin
+- Loan words from both [[Aethermoor]] Common and trading pidgin
 
 **Grammar Patterns:**
 - Subject-Verb-Object order maintained from surface languages
 - Simplified verb tenses focused on present and immediate future
-- Extensive honorific system for merchant relationships
+- Extensive honorific system for [[Merchant]] relationships
 
 **Example Phrases:**
 - *"Tide-swift bargain"* - A quick, favorable deal
-- *"Current-blessed morning"* - Standard surface greeting
+- *"Current-[[Bless]]ed morning"* - Standard surface greeting
 - *"Depth-ward journey"* - Wishing someone safe travels downward
 
 ### **Middle Depths Dialect** (50-500 feet)
@@ -112,7 +112,7 @@ The pressure-influenced speech patterns and linguistic variations found througho
 
 **Grammar Evolution:**
 - Verb-Subject-Object order emerges for emphasis
-- Temporal markers based on pressure cycles rather than surface time
+- Temporal markers based on pressure cycles rather than surface [[Time]]
 - Complex mood indicators reflecting psychological adaptation to depth
 
 ### **Deep Abyssal** (500+ feet)
@@ -153,15 +153,15 @@ Depth Speak Variations is a undersea element of the setting, known for biolumine
 
 Legends speak of Depth Speak Variations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Speak Variations.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Depth Speak Variations represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

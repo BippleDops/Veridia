@@ -1,13 +1,13 @@
 ---
 
 title: Nerissa Depthsong
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/location
+- content/[[location]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,11 +84,11 @@ Nerissa Depthsong is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Nerissa Depthsong as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nerissa Depthsong.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -103,7 +103,7 @@ Mentioned in The Hidden Prophecy of Depths
 ## Plot Hooks
 
 - Someone is searching for a witness for revenge
-- A merchant needs help delivering before dawn
+- A [[Merchant]] needs help delivering before dawn
 - Someone is protecting information for love
 
 ## Cultural Practices

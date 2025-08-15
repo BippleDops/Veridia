@@ -1,7 +1,7 @@
 ---
 
-title: The Crown of Stars
-type: Lore
+title: The [[Crown of Stars]]
+type: [[Lore]]
 tags:
 - lore
 - convergence
@@ -26,8 +26,8 @@ connections:
 - '[[Queen Seraphina]]'
 - '[[Aethermoor]]'
 - '[[The Forgotten Isles]]'
-- '[[Time''s Mercy]]'
-- '[[The Emperor''s Gambit]]'
+- '[[[[Time]]''s Mercy]]'
+- '[[[[The [[Emperor]]]]''s Gambit]]'
 - '[[Deep Mother]]'
 themes:
 - celestial_authority
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -103,11 +103,11 @@ improvements: 20
 
 ## The Celestial Regalia
 
-**The Crown of Stars** stands as the most powerful and dangerous artifact of royal authority ever created, capable of granting its wearer dominion over both [[Aethermoor]] and [[Aquabyssos]] simultaneously. Forged from crystallized starlight and tempered in the void between worlds, the crown represents not just political power but the fundamental right to shape reality according to royal will - a right that comes with consequences no mortal was meant to bear.
+**[[The Crown]] of Stars** stands as the most powerful and dangerous artifact of royal authority ever created, capable of granting its wearer dominion over both [[Aethermoor]] and [[Aquabyssos]] simultaneously. Forged from crystallized starlight and tempered in the void between worlds, the crown represents not just political power but the fundamental right to shape reality according to royal will - a right that comes with consequences no mortal was meant to bear.
 
 ### Physical Description
 
-The Crown of Stars defies conventional description, as its appearance shifts based on the observer's expectations of royal authority. To surface dwellers, it appears as a delicate circlet of platinum and diamonds that captures and reflects light in impossible patterns. To underwater peoples, it manifests as a coral-and-pearl diadem that seems to hold the bioluminescence of deep-sea creatures. To those capable of seeing both aspects simultaneously, it reveals its true form: a construct of pure energy that exists partially outside normal space-time.
+The Crown of Stars defies conventional description, as its appearance shifts based on the observer's expectations of royal authority. To surface dwellers, it appears as a delicate circlet of platinum and diamonds that captures and reflects light in impossible patterns. To underwater [[People]]s, it manifests as a [[Coral]]-and-pearl diadem that seems to hold the [[Bioluminescence]] of deep-sea creatures. To those capable of seeing both aspects simultaneously, it reveals its true form: a construct of pure energy that exists partially outside normal space-time.
 
 The crown's most distinctive feature is the seven star-gems embedded at cardinal points around its circumference. These aren't mere jewels but actual fragments of stellar matter, each containing the compressed essence of a different celestial phenomenon:
 - **Sol Primaris**: The light of the first sunrise ever witnessed
@@ -123,8 +123,8 @@ The crown's most distinctive feature is the seven star-gems embedded at cardinal
 The Crown of Stars was created during the early years following [[The Sundering]], when the rulers of the emerging separate realms realized they needed a way to coordinate responses to threats that affected both worlds. Rather than simple political alliance, they sought to create a single artifact that could grant legitimate authority over both domains simultaneously.
 
 The forging required an unprecedented collaboration:
-- **Surface Artificers** provided techniques for working with crystallized celestial energy
-- **Underwater Mystics** contributed knowledge of pressure-based reality manipulation
+- **Surface [[Artificer]]s** provided techniques for working with crystallized celestial energy
+- **Underwater Mystics** contributed knowledge of pressure-based [[Reality Manipulation]]
 - **[[The Forgotten Isles]]** scholars offered their expertise in bridging incompatible forms of existence
 - **Cosmic Entities** (some beneficial, others of questionable intent) provided the stellar matter itself
 
@@ -133,7 +133,7 @@ The forging required an unprecedented collaboration:
 Creating the crown required seven rulers to sacrifice aspects of their sovereignty:
 - **The First Emperor** gave up his right to rule without consequences
 - **The Sea Queen** sacrificed her ability to make decisions that affected only her own realm
-- **The Star-King** relinquished his connection to his original timeline
+- **The Star-King** relinquished his connection to his original [[Timeline]]
 - **The Depth Sovereign** surrendered her immunity to the costs of leadership
 - **The Bridge Monarch** abandoned their neutral position between worlds
 - **The Void Regent** sacrificed their ability to exist without affecting others
@@ -147,7 +147,7 @@ The Crown of Stars grants its wearer legitimate authority over both [[Aethermoor
 
 Powers include:
 - **Reality Decree**: Commands that alter the basic laws of physics in both realms
-- **Dimensional Navigation**: Ability to travel instantly between any locations in either world
+- **Dimensional Navigation**: Ability to travel instantly between any [[location]]s in either world
 - **Convergence Control**: Power to accelerate or decelerate the merger of the two realms
 - **Stellar Authority**: Command over celestial phenomena affecting both worlds
 
@@ -166,7 +166,7 @@ This creates several unusual effects:
 Each use of the crown's power creates "stellar debt" - obligations to cosmic forces that must be repaid through personal sacrifice. The more dramatic the use of power, the more severe the eventual cost:
 
 - **Minor Uses** (local reality adjustments): Temporary physical ailments, memory gaps
-- **Moderate Uses** (regional changes, dimensional travel): Permanent alterations to personality or physical form
+- **Moderate Uses** (regional changes, [[Dimensional Travel]]): Permanent alterations to personality or physical form
 - **Major Uses** (world-affecting decrees): Loss of personal relationships, sacrifice of loved ones
 - **Ultimate Uses** (convergence control, reality rewrites): Complete transformation or death of the wearer
 
@@ -180,13 +180,13 @@ An underwater ruler who claimed the crown to prevent a war between the realms. H
 
 ### The Regent Twins (Third and Fourth Wearers)
 
-Sister-rulers who attempted to share the crown's burden by taking turns wearing it. This unprecedented arrangement allowed them to make decisions that neither could have managed alone, but the stellar debt bound their life forces together. When one died of natural causes, the other immediately followed, both dissolving into starlight that still illuminates the night sky.
+Sister-rulers who attempted to share [[The Crown's Burden]] by taking turns wearing it. This unprecedented arrangement allowed them to make decisions that neither could have managed alone, but the stellar debt bound their life forces together. When one died of natural causes, the other immediately followed, both dissolving into starlight that still illuminates the night sky.
 
 ### The Interregnum (No Wearer)
 
 For three centuries, the crown remained unworn, stored in a vault between worlds while both realms struggled with increasingly complex crises that required dual-world authority to resolve. The absence of a legitimate wearer led to numerous conflicts and the gradual weakening of cooperative structures between [[Aethermoor]] and [[Aquabyssos]].
 
-### Queen Seraphina Lumengarde (Current Wearer)
+### [[Queen Seraphina [[Lumengarde]]]] (Current Wearer)
 
 [[Queen Seraphina]] recently claimed the crown to address the current convergence crisis, despite knowing the full cost of its power. Her reign has already shown signs of the stellar debt's influence - she has begun making decisions with perfect strategic logic but increasing emotional distance from their human consequences.
 
@@ -216,7 +216,7 @@ The crown exists in a state of quantum superposition between salvation and damna
 
 ### The Convergence Decision
 
-With [[Queen Seraphina]] wearing the Crown of Stars, both worlds face an unprecedented situation. The convergence between realms is accelerating, and only the crown's power can control whether this results in beneficial merger or catastrophic collision. However, using that power will exact a stellar debt that might transform or destroy the queen entirely.
+With [[Queen Seraphina]] wearing the Crown of Stars, both worlds face an unprecedented situation. The convergence between realms is accelerating, and only the crown's power can control whether this results in beneficial merger or catastrophic collision. However, using that power will exact a stellar debt that might transform or destroy [[The Queen]] entirely.
 
 ### The Succession Problem
 
@@ -224,7 +224,7 @@ If Queen Seraphina pays the ultimate stellar debt, both worlds will be left with
 
 ### The False Crown Theory
 
-Disturbing evidence suggests someone has created a replica of the Crown of Stars and is using it to issue competing commands to both worlds. If the false crown's authority is accepted as legitimate, it could create a reality paradox that tears apart the fundamental concept of sovereignty across both realms.
+Disturbing [[Evidence]] suggests someone has created a replica of the Crown of Stars and is using it to issue competing commands to both worlds. If the false crown's authority is accepted as legitimate, it could create a reality paradox that tears apart the fundamental concept of sovereignty across both realms.
 
 ## Mechanical Effects
 
@@ -257,9 +257,9 @@ The Crown of Stars begins acting independently, issuing commands without a weare
 
 Cosmic entities arrive to collect the accumulated stellar debt from all previous crown wearers, demanding payment that could affect entire populations of both worlds. The PCs must either find ways to pay the debt or convince the entities that the debt serves a greater cosmic purpose.
 
-### The Succession Crisis
+### [[The Succession Crisis]]
 
-Queen Seraphina's stellar debt is coming due, but multiple claimants for the crown have emerged, each with different plans for resolving the convergence crisis. The PCs must evaluate the candidates while cosmic forces gather to witness the transition of power.
+Queen Seraphina's stellar debt is coming due, but multiple claimants for the crown have emerged, each with different plans for resolving [[The Convergence Crisis]]. The PCs must evaluate the candidates while cosmic forces gather to witness the transition of power.
 
 ### The Crown War
 
@@ -291,15 +291,15 @@ The Crown of Stars is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Crown of Stars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown of Stars.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 The Crown of Stars represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

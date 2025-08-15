@@ -40,7 +40,7 @@ world: Both
 
 - **Cost**: 5 gp
 
-For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a [[shield xphb|Shield]].
+For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a [[Shield]].
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

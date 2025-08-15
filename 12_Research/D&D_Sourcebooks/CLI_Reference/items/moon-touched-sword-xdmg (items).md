@@ -42,7 +42,7 @@ world: Both
 *Common*  
 ![](/03_Mechanics/CLI/items/img/moon-touched-sword.webp#right)
 
-In [[darkness xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[bright light xphb|Bright Light]] in a 15-foot radius and [[dim light xphb|Dim Light]] for an additional 15 feet.
+In [[darkness-xphb (variant-rules)]], the unsheathed blade of this weapon sheds moonlight, creating [[Light Xphb]] in a 15-foot radius and [[Light Xphb]] for an additional 15 feet.
 
 **Variants**:
 - [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)

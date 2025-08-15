@@ -87,7 +87,7 @@ Advanced cult doctrine teaches that successful symbiosis creates not just physic
 ### Sacred Texts and Prophecies
 
 **The Codex of Symbiosis:**
-The cult's primary religious text, written by their founder [[High Symbiont Malachar the First Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
+The cult's primary religious text, written by their founder [[High Symbiont Malachar the First-Bonded]], contains detailed theological arguments for parasitic symbiosis along with practical instructions for "communion rituals." The text describes various types of beneficial parasites and their effects, creating a catalog of symbiotic opportunities.
 
 **The Prophecy of Perfect Unity:**
 Cult prophecy speaks of a coming age when the barriers between separate organisms will dissolve, creating a unified biological network spanning all of Aquabyssos. They believe this "Great Symbiosis" will occur when enough individuals have undergone successful parasitic bonding, creating a critical mass that will trigger spontaneous symbiosis throughout the population.

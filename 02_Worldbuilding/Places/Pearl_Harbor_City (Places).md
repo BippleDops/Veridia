@@ -29,6 +29,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
+
 > [!figure] View
 
 # Pearl Harbor City
@@ -109,7 +116,7 @@ Suspended platforms connected by bridges where air-breathing merchants can trade
 
 Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[Coral Throne Syndicate]] runs everything here.
 - **Shadow Boss:** Whisper Jack
-- **Fence:** [[12_Research/D&D_Statblocks/The Barnacle]]
+- **Fence:** [[12 Research]]
 - Password: "The tide always turns"
 
 #### **Embassy Row**
@@ -137,11 +144,11 @@ Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillw
 
 ### The Missing Shipment
 
-A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Luminous Hollow]] never arrived. Both [[Gareth Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[Master Smith Coral Hammer]] are desperate to find it.
+A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[Gareth Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[hammer]] are desperate to find it.
 
 ### Political Tensions
 
-[[12_Research/D&D_Statblocks/High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
+[[12 Research]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
 
 ### Transportation
 
@@ -156,7 +163,7 @@ A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Lu
 
 | Shop | Specialty | Owner | Notable Items |
 |------|-----------|-------|---------------|
-| The Pressure Forge | Depth-resistant armor | [[Master Smith Coral Hammer]] | +1 Pressure Suits |
+| The Pressure Forge | Depth-resistant armor | [[hammer]] | +1 Pressure Suits |
 | Biolume Boutique | Glowing items | [[Illyana Glowstream]] | Everglow Pearls |
 | Depth Delights | Exotic foods | [[Chef Gastropod]] | Surface/Deep fusion |
 | The Current Exchange | Currency/Information | [[The Banker Fish]] | All denominations |
@@ -164,16 +171,16 @@ A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Lu
 ## Quest Hooks
 
 1. **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - The Syndicate needs a sensitive package delivered
-2. **[[12_Research/D&D_Statblocks/The Lock Saboteur]]** - Someone's trying to destroy the pressure system
+2. **[[The Lock]]** - Someone's trying to destroy the pressure system
 3. **[[Surface Tensions]]** - Diplomatic mission to establish new trade route
-4. **[[The Deep Fugitive]]** - An escaped prisoner from [[12_Research/D&D_Statblocks/The Maw of Darkness]] is hiding here
+4. **[[The Deep Fugitive]]** - An escaped prisoner from [[12 Research]] is hiding here
 
 ## Random Encounters (d20)
 
 1-5: No encounter
 6-8: [[Syndicate Enforcers]] shaking down merchant
 9-11: [[Surface Traders]] lost and confused
-12-13: [[12_Research/D&D_Statblocks/Depth Warden Patrol]] checking papers
+12-13: [[Depth Warden Patrol]] checking papers
 14-15: [[Street Urchin Gang]] offers information
 16-17: [[Pressure Suit Malfunction]] - someone needs help!
 18-19: [[Black Market Deal]] going wrong
@@ -230,6 +237,20 @@ Pearl_Harbor_City is a notable location characterized by its unique features and
 ### Founding
 Pearl_Harbor_City was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
@@ -272,3 +293,40 @@ Key stop on magic items trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-priest-mpmm-kraken-priest-mpmm.svg)
 
-# [[kraken priest mpmm|Kraken Priest]]
+# [[Kraken]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -93,10 +93,10 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
     "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
   - "desc": "The priest casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[command xphb|command]], [[create or destroy water xphb|create or destroy water]]\n\
-      \n3/day each: [[control water xphb|control water]],\
-      \ [[darkness xphb|darkness]], [[water breathing xphb|water breathing]],\
-      \ [[water walk xphb|water walk]]\n\n1/day: [[evards black tentacles xphb|Evard's\]]
+      \ [[command-xphb (spells)]], [[create-or-destroy-water-xphb (spells)]]\n\
+      \n3/day each: [[Control Water Xphb]],\
+      \ [[darkness-xphb (variant-rules)]], [[Water Breathing Xphb]],\
+      \ [[water-walk-xphb (spells)]]\n\n1/day: [[Evards Black Tentacles Xphb]]
       \ black tentacles]]"
     "name": "Spellcasting"
 "source":

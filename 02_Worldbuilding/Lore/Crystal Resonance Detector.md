@@ -1,7 +1,7 @@
 ---
 
 title: Crystal Resoce Detector
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ Crystal Resoce Detector represents a crucial aspect of the world's history, cosm
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -89,12 +89,12 @@ Crystal Resoce Detector represents a crucial aspect of the world's history, cosm
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

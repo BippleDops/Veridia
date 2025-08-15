@@ -1,7 +1,7 @@
 ---
 
-title: Technology Time Stream Analyzers
-type: lore
+title: Technology [[Time]] Stream Analyzers
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -74,7 +74,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/Technology/Time Stream Analyzers represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/Technology/[[Time Stream Analyzers]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/Technology/Time Stream Analyzers can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -239,7 +239,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

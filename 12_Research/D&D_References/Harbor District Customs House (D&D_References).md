@@ -510,7 +510,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Trust**: Issues of trust and loyalty within customs organization  
 **Resolution**: Justice balanced with organizational integrity
 
-### [[Port Meridian Harbor District]]
+### [[Harbor District]]
 **Integration**: Central part of harbor district operations and economy  
 **Coordination**: Close coordination with harbor authorities and shipping companies  
 **Traffic**: Major influence on harbor traffic and commercial activity  
@@ -552,7 +552,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ---
 
 **Related Locations**:
-- [[Port Meridian Harbor District]]
+- [[Harbor District]]
 - [[Crystalhaven]]
 - [[The Crystal Academy]]
 - [[pat|02 Worldbuilding/Lore/pat]]
@@ -566,7 +566,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Related Items and Concepts**:
 - [[Trade Regulations]]
 - [[Customs Authority]]
-- [[Anti Smuggling Operations]]
+- [[Anti-Smuggling Operations]]
 - [[International Trade Agreements]]
 
 ## Player-Facing Summary

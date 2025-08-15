@@ -43,9 +43,9 @@ world: Both
 - **Components:** V, S, M (a reliquary worth 1,000+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, you emit an aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, creatures of your choice have [[advantage xphb|Advantage]] on all saving throws, and other creatures have [[disadvantage xphb|Disadvantage]] on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the end of its next turn.
+For the duration, you emit an aura in a 30-foot [[Area of Effect Xphb]]. While in the aura, creatures of your choice have [[Advantage Xphb]] on all saving throws, and other creatures have [[Advantage Xphb]] on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the end of its next turn.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 286. Available in the SRD and the Free Rules (2024)*
 
@@ -88,3 +88,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[holy-aura-xphb (spells)-phb]]` in CLI_Reference/spells/

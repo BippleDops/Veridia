@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sahuagin-priest-xmm-sahuagin-priest-xmm.svg)
 
-# [[sahuagin priest xmm|Sahuagin Priest]]
+# [[Sahuagin Priest Xmm]]
 *Source: Monster Manual (2024) p. 265*  
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
@@ -97,8 +97,8 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-  - "desc": "The sahuagin has [[advantage xphb|Advantage]]\
-      \ on attack rolls against any creature that doesn't have all its [[hit points xphb|Hit Points]]."
+  - "desc": "The sahuagin has [[Advantage Xphb]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb (variant-rules)]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -114,13 +114,13 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Spectral Jaws"
   - "desc": "The sahuagin casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[thaumaturgy xphb|Thaumaturgy]]\n\n\
-      2/day each: [[hold person xphb|Hold Person]],\
-      \ [[tongues xphb|Tongues]]"
+      \nAt will: [[Thaumaturgy Xphb]]\n\n\
+      2/day each: [[Hold Person Xphb]],\
+      \ [[Tongues Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The sahuagin casts [[bless xphb|Bless]] or\
-      \ [[healing word xphb|Healing Word]], using the same\
+  - "desc": "The sahuagin casts [[Bless Xphb]] or\
+      \ [[mass-healing-word-xphb (spells)]], using the same\
       \ spellcasting ability as Spellcasting.\n"
     "name": "Fiendish Aid (2/Day)"
 "source":

@@ -46,11 +46,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[short-rest-xphb|Short Rest]] and also regain `2d8` [[hit-points-xphb|Hit Points]]. A creature can't be affected by this spell again until that creature finishes a [[long-rest-xphb|Long Rest]].
+Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[short-rest-xphb|Short Rest]] and also regain `2d8` [[hit-points-xphb (variant-rules)]]. A creature can't be affected by this spell again until that creature finishes a [[long-rest-xphb|Long Rest]].
 
 **Using a Higher-Level Spell Slot.** The healing increases by `d8` for each spell slot level above 2.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 307. Available in the SRD and the Free Rules (2024)*
 
@@ -88,3 +88,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[prayer-of-healing-xphb (spells)-phb]]` in CLI_Reference/spells/

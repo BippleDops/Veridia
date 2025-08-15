@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 15
 
-You can cast [[invisibility xphb|invisibility]] at will, without expending a spell slot.
+You can cast [[see-invisibility-xphb (spells)]] at will, without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

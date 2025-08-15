@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-babau-mpmm-babau-mpmm.svg)
 
-# [[babau mpmm|Babau]]
+# [[Babau Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -96,9 +96,9 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-      \ [[darkness xphb|darkness]], [[dispel magic xphb|dispel magic]],\
-      \ [[fear xphb|fear]], [[heat metal xphb|heat metal]],\
-      \ [[levitate xphb|levitate]]"
+      \ [[darkness-xphb (variant-rules)]], [[dispel-magic-xphb (spells)]],\
+      \ [[Fear Xphb]], [[heat-metal-xphb (spells)]],\
+      \ [[levitate-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

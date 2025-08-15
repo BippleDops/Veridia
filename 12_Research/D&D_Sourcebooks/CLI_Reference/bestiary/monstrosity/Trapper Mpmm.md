@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-trapper-mpmm-trapper-mpmm.svg)
 
-# [[trapper mpmm|Trapper]]
+# [[trapper-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*  
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
@@ -49,7 +49,7 @@ A trapper's ability to alter the color and texture of its outer side enables it 
 
 A trapper that lurks on the floor of its hunting grounds can cover any remains there with its body, making them look like irregularities in the surface. The creature might instead attach itself to a nearby wall or a ceiling, using the remts as bait; any creature that stops to investigate the bones for valuables becomes the trapper's next meal.
 
-A trapper needs to eat a [[halfling xphb|halfling]]-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
+A trapper needs to eat a [[Halfling Xphb]]-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
 
 ```statblock
 "name": "Trapper (MPMM)"

@@ -1,10 +1,12 @@
 ---
+
 title: Campaign_Center
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Campaign_Center
@@ -167,3 +169,8 @@ SORT visits DESC
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

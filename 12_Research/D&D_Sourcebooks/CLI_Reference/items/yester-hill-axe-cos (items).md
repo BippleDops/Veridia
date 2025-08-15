@@ -36,7 +36,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)
 
 # Yester Hill Axe
-*Weapon ([[battleaxe xphb|battleaxe]])*  
+*Weapon ([[Battleaxe Xphb]])*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

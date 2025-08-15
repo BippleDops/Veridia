@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # pushing-attack-xphb
@@ -22,7 +22,7 @@ The full nature of pushing-attack-xphb involves several interconnected component
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of pushing-attack-xphb trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to pushing-attack-xphb are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view pushing-attack-xphb through their own cultural lenses:
+Different [[Groups]] view pushing-attack-xphb through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of pushing-attack-xphb:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How pushing-attack-xphb has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate pushing-attack-xphb into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways pushing-attack-xphb might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #pushing-attack-xphb
+*Tags*: [[#General]] #worldbuilding #pushing-attack-xphb

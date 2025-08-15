@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Way of the Drunken Master
-*[[monk xphb|Monk]]: Monk Subclass*  
+*[[Monk Xphb Warrior of Mercy Xphb]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
 > [!tldr] Class and Feature Progression
@@ -73,7 +73,7 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this tradition at 3rd level, you gain proficiency in the [[skills#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[brewers supplies xphb|brewer's supplies]] if you don't already have it.
+When you choose this tradition at 3rd level, you gain proficiency in the [[skills#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[Brewers Supplies Xphb]] if you don't already have it.
 
 ### Drunken Technique (Level 3)
 

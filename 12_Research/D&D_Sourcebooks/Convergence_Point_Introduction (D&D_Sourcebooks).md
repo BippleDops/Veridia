@@ -136,10 +136,10 @@ The **[[Queen Seraphina|02 Worldbuilding/People/Queen Seraphina]]** (sharing the
 - **Surface Coordination:** Working with Aethermoor despite historical tensions
 - **Deep Mother Consultation:** Attempting to understand if this relates to the primordial entity
 
-**Cultural Conflicts:** Traditional **[[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]** worshippers believe this is part of her awakening and should not be interfered with. The **[[02 Worldbuilding/Groups/The Resurgent Tide|02 Worldbuilding/Groups/The Resurgent Tide]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands.
+**Cultural Conflicts:** Traditional **[[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]** worshippers believe this is part of her awakening and should not be interfered with. The **[[Groups]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands.
 
 ### Inter-Realm Cooperation
-The **[[Aquabyssos Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]** have been expanded with **Emergency Convergence Protocols**:
+The **[[Aquabyssos-Aethermoor Treaties]]** have been expanded with **Emergency Convergence Protocols**:
 
 - **Joint Command Structure:** Unified crisis response leadership
 - **Resource Sharing:** Free exchange of all necessary materials and knowledge

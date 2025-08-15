@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
 
-# [[gnoll flesh gnawer mpmm|Gnoll Flesh Gnawer]]
+# [[gnoll-flesh-gnawer-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -70,7 +70,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[studded leather armor xphb|studded leather]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"

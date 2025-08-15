@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-relic-sloth-scc-relic-sloth-scc.svg)
 
-# [[relic sloth scc|Relic Sloth]]
+# [[relic-sloth-scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 210*  
 
 For long expeditions, Lorehold mages often employ relic sloths to haul adventuring equipment and excavated artifacts—so long as their study isn't in any particular hurry. Relic sloths travel at an excruciatingly slow pace, deliberating every step and moving only when necessary. But this caution makes these hulking creatures perfect for traversing treacherous and crumbling ruins, where other beasts of burden would falter. The distinctive sickle-shaped claws on a relic sloth's forelimbs are primarily used for climbing, though they can fend off a hungry predator in a pinch.

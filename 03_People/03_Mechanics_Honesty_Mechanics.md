@@ -1,8 +1,17 @@
+---
+
+tags: [npc, character]
+type: npc
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # 03_Mechanics/Honesty_Mechanics
 
 ## Portrait
 
-![[portrait_03_mechanics_honesty_mechanics.png]]
+![[03_Mechanics_Honesty_Mechanics]]
 
 *Portrait reference for 03_Mechanics_Honesty_Mechanics*
 
@@ -266,3 +275,18 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

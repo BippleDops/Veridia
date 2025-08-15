@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
 
-# [[sled dog rot|Sled Dog]]
+# [[Sled Dog Rot]]
 *Source: The Rise of Tiamat p. 27*  
 
 ```statblock

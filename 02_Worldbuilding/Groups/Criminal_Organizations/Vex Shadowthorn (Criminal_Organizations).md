@@ -213,11 +213,11 @@ Vex Shadowthorn is [[Aethermoor]]'s most powerful and dangerous criminal organiz
 
 #### Corrupted Crystal Technology
 **Enhanced Criminal Capabilities**
-- **[[02 Worldbuilding/Items/Shadow Sight Crystals|02 Worldbuilding/Items/Shadow Sight Crystals]]**: See through illusions and magical concealment
-- **[[02 Worldbuilding/Items/Silence Stones|02 Worldbuilding/Items/Silence Stones]]**: Create zones where sound cannot escape
-- **[[02 Worldbuilding/Items/Phase Crystals|02 Worldbuilding/Items/Phase Crystals]]**: Allow passage through solid barriers
-- **[[02 Worldbuilding/Items/Shadow Bind Gems|02 Worldbuilding/Items/Shadow Bind Gems]]**: Restrain victims with shadow tentacles
-- **[[02 Worldbuilding/Items/Memory Fog Crystals|02 Worldbuilding/Items/Memory Fog Crystals]]**: Cause temporary amnesia in witnesses
+- **[[02_Worldbuilding]]**: See through illusions and magical concealment
+- **[[02_Worldbuilding]]**: Create zones where sound cannot escape
+- **[[02_Worldbuilding]]**: Allow passage through solid barriers
+- **[[02_Worldbuilding]]**: Restrain victims with shadow tentacles
+- **[[02_Worldbuilding]]**: Cause temporary amnesia in witnesses
 
 #### Corruption Exploitation
 **Using What Others Fear**
@@ -246,7 +246,7 @@ Vex Shadowthorn is [[Aethermoor]]'s most powerful and dangerous criminal organiz
 ### Law Enforcement
 **Government Response**
 - **[[Crystal Guard]]**: Primary law enforcement enemy
-- **[[Anti Corruption Task Force]]**: Specialized unit targeting syndicate
+- **[[Anti-Corruption Task Force (D&D_References)]]**: Specialized unit targeting syndicate
 - **[[City Watch Investigations]]**: Local police attempts to prosecute
 - **[[The Purification Order]]**: Religious opponents of shadow corruption
 - **[[International Law Enforcement]]**: Cross-realm cooperation against crime
@@ -261,7 +261,7 @@ Vex Shadowthorn is [[Aethermoor]]'s most powerful and dangerous criminal organiz
 
 ### Political Opposition
 **Legitimate Authority**
-- **[[Anti Crime Politicians]]**: Officials campaigning against syndicate influence
+- **[[Anti-Crime Politicians]]**: Officials campaigning against syndicate influence
 - **[[Reform Movements]]**: Citizen groups demanding action against corruption
 - **[[International Pressure]]**: Foreign governments concerned about criminal export
 - **[[Business Coalitions]]**: Legitimate enterprises hurt by unfair competition
@@ -446,7 +446,7 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 - [[Crystal Guard]] - Primary law enforcement enemy
 - [[Purist Coalition]] - Ideological opponents of corruption
 - [[The Old Families]] - Traditional crime displaced by syndicate
-- [[Anti Corruption Task Force]] - Specialized law enforcement unit
+- [[Anti-Corruption Task Force (D&D_References)]] - Specialized law enforcement unit
 - [[International Law Enforcement]] - Cross-realm cooperation against crime
 
 ---

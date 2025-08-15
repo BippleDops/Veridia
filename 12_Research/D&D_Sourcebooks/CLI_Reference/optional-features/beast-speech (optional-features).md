@@ -34,7 +34,7 @@ world: Both
 # Beast Speech
 *Source: Player's Handbook p. 110. Available in the SRD*  
 
-You can cast [[speak with animals xphb|speak with animals]] at will, without expending a spell slot.
+You can cast [[Speak With Animals Xphb]] at will, without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -44,7 +44,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dire-worg-xmm-dire-worg-xmm.svg)
 
-# [[worg xmm|Worg]]
+# [[dire-worg-xmm (fey)]]
 *Source: Monster Manual (2024) p. 335. Available in the SRD and the Free Rules (2024)*  
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
@@ -95,7 +95,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
       \ and the next attack roll made against the target before the start of the worg's\
-      \ next turn has [[advantage xphb|Advantage]]."
+      \ next turn has [[Advantage Xphb]]."
     "name": "Bite"
 "source":
   - "XMM"

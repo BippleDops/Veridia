@@ -37,22 +37,22 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[cat xmm|Cat]], [[deer xmm|Deer]], [[eagle xmm|Eagle]], [[goat xmm|Goat]], [[hawk xmm|Hawk]], [[hyena xmm|Hyena]], [[jackal xmm|Jackal]], [[vulture xmm|Vulture]], [[weasel xmm|Weasel]] |
-| 1/8 | [[blood hawk xmm|Blood Hawk]], [[flying snake xmm|Flying Snake]], [[giant weasel xmm|Giant Weasel]], [[goblin minion xmm|Goblin Minion]], [[pony xmm|Pony]], [[stirge xmm|Stirge]], [[venomous snake xmm|Venomous Snake]] |
-| 1/4 | [[axe beak xmm|Axe Beak]], [[boar xmm|Boar]], [[elk xmm|Elk]], [[giant venomous snake xmm|Giant Venomous Snake]], [[giant wolf spider xmm|Giant Wolf Spider]], [[goblin warrior xmm|Goblin Warrior]], [[panther xmm|Panther]], [[pteranodon xmm|Pteranodon]], [[riding horse xmm|Riding Horse]], [[wolf xmm|Wolf]] |
-| 1/2 | [[cockatrice xmm|Cockatrice]], [[giant goat xmm|Giant Goat]], [[giant wasp xmm|Giant Wasp]], [[gnoll warrior xmm|Gnoll Warrior]], [[hobgoblin warrior xmm|Hobgoblin Warrior]], [[jackalwere xmm|Jackalwere]], [[swarm of insects xmm|Swarm of Insects]], [[worg xmm|Worg]] |
-| 1 | [[bugbear warrior xmm|Bugbear Warrior]], [[giant eagle xmm|Giant Eagle]], [[giant hyena xmm|Giant Hyena]], [[giant vulture xmm|Giant Vulture]], [[goblin boss xmm|Goblin Boss]], [[hippogriff xmm|Hippogriff]], [[lion xmm|Lion]], [[ogrillon ogre xmm|Ogrillon Ogre]], [[scarecrow xmm|Scarecrow]], [[thri kreen marauder xmm|Thri kreen Marauder]], [[tiger xmm|Tiger]] |
-| 2 | [[allosaurus xmm|Allosaurus]], [[ankheg xmm|Ankheg]], [[bulette pup xmm|Bulette Pup]], [[centaur trooper xmm|Centaur Trooper]], [[giant boar xmm|Giant Boar]], [[giant elk xmm|Giant Elk]], [[gnoll pack lord xmm|Gnoll Pack Lord]], [[griffon xmm|Griffon]], [[ogre xmm|Ogre]], [[pegasus xmm|Pegasus]], [[rhinoceros xmm|Rhinoceros]], [[swarm of stirges xmm|Swarm of Stirges]], [[swarm of venomous snakes xmm|Swarm of Venomous Snakes]] |
-| 3 | [[ankylosaurus xmm|Ankylosaurus]], [[bugbear stalker xmm|Bugbear Stalker]], [[goblin hexer xmm|Goblin Hexer]], [[gold dragon wyrmling xmm|Gold Dragon Wyrmling]], [[hobgoblin captain xmm|Hobgoblin Captain]], [[manticore xmm|Manticore]], [[phase spider xmm|Phase Spider]] |
-| 4 | [[couatl xmm|Couatl]], [[elephant xmm|Elephant]], [[gnoll fang of yeenoghu xmm|Gnoll Fang of Yeenoghu]], [[hippopotamus xmm|Hippopotamus]], [[wereboar xmm|Wereboar]], [[weretiger xmm|Weretiger]] |
-| 5 | [[bulette xmm|Bulette]], [[giant axe beak xmm|Giant Axe Beak]], [[gorgon xmm|Gorgon]], [[triceratops xmm|Triceratops]] |
-| 6 | [[chimera xmm|Chimera]], [[cyclops sentry xmm|Cyclops Sentry]], [[hobgoblin warlord xmm|Hobgoblin Warlord]] |
-| 7 | [[centaur warden xmm|Centaur Warden]] |
-| 8 | [[cockatrice regent xmm|Cockatrice Regent]], [[gnoll demoniac xmm|Gnoll Demoniac]], [[thri kreen psion xmm|Thri kreen Psion]], [[tyrannosaurus rex xmm|Tyrannosaurus Rex]] |
-| 9 | [[brazen gorgon xmm|Brazen Gorgon]] |
-| 10 | [[cyclops oracle xmm|Cyclops Oracle]], [[dire worg xmm|Dire Worg]], [[young gold dragon xmm|Young Gold Dragon]] |
-| 17 | [[adult gold dragon xmm|Adult Gold Dragon]] |
-| 24 | [[ancient gold dragon xmm|Ancient Gold Dragon]] |
+| 0 | [[cat-xmm (beast)]], [[deer xmm#^statblock]], [[Eagle Xmm]], [[Goat Xmm]], [[Blood Hawk Xmm]], [[hyena-xmm (beast)]], [[jackal-xmm (beast)]], [[giant-vulture-xmm (monstrosity)]], [[giant-weasel-xmm (beast)]] |
+| 1/8 | [[Blood Hawk Xmm]], [[flying-snake-xmm]], [[giant]], [[Goblin Minion Xmm]], [[pony-xmm (beast)]], [[Stirge Xmm]], [[venomous-snake-xmm]] |
+| 1/4 | [[giant-axe-beak-xmm (monstrosity)]], [[giant-boar-xmm]], [[elk-xmm (beast)]], [[venomous-snake-xmm]], [[Spider Xmm]], [[hobgoblin-warrior-xmm]], [[Panther Xmm]], [[pteranodon-xmm (beast)]], [[riding-horse-xmm]], [[werewolf-xmm (monstrosity)]] |
+| 1/2 | [[cockatrice-xmm (monstrosity)]], [[Goat Xmm]], [[Giant Wasp Xmm]], [[Gnoll Warrior Xmm]], [[hobgoblin-warrior-xmm]], [[Jackalwere Xmm]], [[swarm-of-insects-xmm (beast)]], [[dire-worg-xmm (fey)]] |
+| 1 | [[Bugbear Warrior Xmm]], [[giant]], [[Hyena Xmm]], [[giant]], [[goblin-boss-xmm (fey)]], [[hippogriff-xmm (monstrosity)]], [[lion-xmm (beast)]], [[Ogre Xmm]], [[scarecrow-xmm (construct)]], [[thri-kreen-marauder-xmm (monstrosity)]], [[Weretiger Xmm]] |
+| 2 | [[allosaurus]], [[Ankheg Xmm]], [[Bulette Pup Xmm]], [[Centaur Trooper Xmm]], [[giant]], [[giant]], [[gnoll-pack-lord-xmm (fiend)]], [[griffon-xmm (monstrosity)]], [[Ogre Xmm]], [[pegasus-xmm (celestial)]], [[Rhinoceros Xmm]], [[swarm-of-stirges-xmm (monstrosity)]], [[Swarm of Venomous Snakes Xmm]] |
+| 3 | [[Ankylosaurus Xmm]], [[bugbear-stalker-xmm (fey)]], [[Goblin Hexer Xmm]], [[Gold Dragon]], [[hobgoblin-captain-xmm (fey)]], [[Manticore Xmm]], [[phase-spider-xmm (monstrosity)]] |
+| 4 | [[Couatl Xmm]], [[elephant-xmm (beast)]], [[gnoll-fang-of-yeenoghu-xmm (fiend)]], [[hippopotamus-xmm (beast)]], [[wereboar-xmm (monstrosity)]], [[Weretiger Xmm]] |
+| 5 | [[bulette-xmm (monstrosity)]], [[giant]], [[Brazen Gorgon Xmm]], [[Triceratops Xmm]] |
+| 6 | [[Chimera Xmm]], [[cyclops-sentry-xmm]], [[Hobgoblin Warlord Xmm]] |
+| 7 | [[Centaur Warden Xmm]] |
+| 8 | [[cockatrice-regent-xmm (monstrosity)]], [[gnoll-demoniac-xmm (fiend)]], [[Thri Kreen Psion Xmm]], [[tyrannosaurus-rex-xmm (beast)]] |
+| 9 | [[Brazen Gorgon Xmm]] |
+| 10 | [[cyclops-oracle-xmm (giant)]], [[dire-worg-xmm (fey)]], [[young-gold-dragon-xmm (dragon)]] |
+| 17 | [[adult-gold-dragon-xmm]] |
+| 24 | [[ancient-gold-dragon-xmm (dragon)]] |
 ^grassland-monsters
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Guides - Roleplay_Guide
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC_Guides - Roleplay_Guide
 
 ## Portrait
 
-![[portrait_npc_guides_ _roleplay_guide.png]]
+![[Npc]]
 
 *Portrait reference for NPC_Guides - Roleplay_Guide*
 
@@ -415,3 +417,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

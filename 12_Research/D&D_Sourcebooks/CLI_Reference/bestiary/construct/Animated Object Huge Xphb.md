@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-object-huge-xphb-animated-object-huge-xphb.svg)
 
-# [[animated object huge xphb|Animated Object (Huge)]]
+# [[Animated Object Huge Xphb]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

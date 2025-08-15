@@ -1,7 +1,7 @@
 ---
 
 title: DM Screen
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -76,7 +76,7 @@ DM Screen represents a crucial aspect of the world's history, cosmology, or fund
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -92,5 +92,5 @@ Mentioned in The Hidden Prophecy of Winds
 
 - Strange dreams suggest ancient magic
 - A noble needs help finding before the new moon
-- A map reveals the truth about the government
+- A [[map]] reveals the truth about the government
 - A stranger needs help finding before the new moon

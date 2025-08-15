@@ -109,7 +109,7 @@ The creation process took three years and involved:
 
 ### Early Implementation Period
 
-The Seal's first major test came during the negotiation of the [[Aquabyssos Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]], when [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] representatives demanded unprecedented verification of [[Aquabyssos]]' governmental legitimacy. The Trade Seal's authentication capabilities not only satisfied these requirements but impressed surface diplomats enough to establish it as the gold standard for international document verification.
+The Seal's first major test came during the negotiation of the [[Aquabyssos-Aethermoor Treaties]], when [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] representatives demanded unprecedented verification of [[Aquabyssos]]' governmental legitimacy. The Trade Seal's authentication capabilities not only satisfied these requirements but impressed surface diplomats enough to establish it as the gold standard for international document verification.
 
 During its early years, the Seal was used to authenticate:
 - **Founding Treaties**: Establishing [[Aquabyssos]]' place in the international community
@@ -222,7 +222,7 @@ Historical research suggests the Trade Seal may contain fragments or resoces fro
 
 ### Marina's Identity Crisis
 
-The Trade Seal could play a role in resolving [[02 Worldbuilding/Lore/Marina's Identity Crisis|02 Worldbuilding/Lore/Marina's Identity Crisis]], as:
+The Trade Seal could play a role in resolving [[Marina's Identity Crisis]], as:
 - **Identity Verification**: Potential method for determining which version of Marina is authentic
 - **Memory Validation**: Could authenticate recovered memories or experiences
 - **Reality Anchor**: Might help stabilize fractured identities by providing absolute reference points

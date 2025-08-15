@@ -165,6 +165,13 @@ A prophetic merfolk whose scales change color to reflect the fortunes of those a
 Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with connections to the [[Shadow Tide Syndicat|02 Worldbuilding/Groups/Shadow Tide Syndicat]], [[Merchant Marine Consortium]], and various [[Elemental Courts]]. The casino regularly hosts representatives from the [[Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition]] and [[Depths Alliance]]. Many plot threads from across [[Aquabyssos]] converge here, as fortunes won and lost often determine the fate of entire organizations.
 - [[Old Valdris]]
 
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## History
 
 **Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents]]. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [[Luck Spirits]] and innovative use of [[Aeration Crystals]]. 
@@ -230,6 +237,20 @@ Bubble Burst is a notable location characterized by its unique features and stra
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 ## Current Events
 
 Ongoing situations affecting Bubble Burst:
@@ -274,3 +295,36 @@ Ongoing situations affecting Bubble Burst:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

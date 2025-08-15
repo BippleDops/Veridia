@@ -43,9 +43,9 @@ When you take a [[actions#Magic|Magic]] action to toss an *Ioun Stone* into the 
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb (variant-rules)]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-You regain 15 [[hit points xphb|Hit Points]] at the end of each hour this pearly white spindle orbits your head if you have at least 1 [[hit points xphb|Hit Point]].
+You regain 15 [[hit-points-xphb (variant-rules)]] at the end of each hour this pearly white spindle orbits your head if you have at least 1 [[hit-points-xphb (variant-rules)]].
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
 

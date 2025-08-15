@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mind-flayer-xmm-mind-flayer-xmm.svg)
 
-# [[mind flayer xmm|Mind Flayer]]
+# [[Mind Flayer Xmm]]
 *Source: Monster Manual (2024) p. 214*  
 
 A mind flayer's hunger for brains is outmeasured only by its thirst for domice, and it embraces any plot that allows it to indulge both.
@@ -118,7 +118,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "7"
 "traits":
-  - "desc": "The mind flayer has [[advantage xphb|Advantage]]\
+  - "desc": "The mind flayer has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -131,19 +131,19 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "desc": "Constitution Saving Throw: DC 15, one creature that is [[conditions#Grappled|Grappled]]\
       \ by the mind flayer's Tentacles. Failure: 55 (10d10) Piercing damage. Success:\
       \ Half damage. Failure or Success: If this damage reduces the target to 0\
-      \ [[hit points xphb|Hit Points]], the mind\
+      \ [[hit-points-xphb (variant-rules)]], the mind\
       \ flayer kills it and devours its brain."
     "name": "Extract Brain"
-  - "desc": "Intelligence Saving Throw: DC 15, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Intelligence Saving Throw: DC 15, each creature in a 60-foot [[Area of Effect Xphb]].\
       \ Failure: 31 (6d8 + 4) Psychic damage, and the target has the [[conditions#Stunned|Stunned]]\
       \ condition until the end of the mind flayer's next turn. Success: Half damage\
       \ only."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\nAt will: [[detect thoughts xphb|Detect Thoughts]]\n\
-      \n1/day each: [[dominate monster xphb|Dominate Monster]],\
-      \ [[plane shift xphb|Plane Shift]] (self only)"
+      \ DC 15):\n\nAt will: [[detect-thoughts-xphb (spells)]]\n\
+      \n1/day each: [[Dominate Monster Xphb]],\
+      \ [[plane-shift-xphb (spells)]] (self only)"
     "name": "Spellcasting"
 "source":
   - "XMM"

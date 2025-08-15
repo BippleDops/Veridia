@@ -30,19 +30,19 @@ world: Aethermoor
 # Session Packet — Aethermoor 01
 
 handouts:
-  - [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|04 Resources/Handouts/Ships/Player Handout Aethermoor Airships]]
+  - [[04_Resources]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
-  - [[S 004_Cloud_Canyon_Player|04 Resources/Handouts/Encounters/S 004 Cloud Canyon Player]]
-  - [[S 009_Void_Moan_Player|04 Resources/Handouts/Encounters/S 009 Void Moan Player]]
-  - [[S 018_Choir_Pirates_Player|04 Resources/Handouts/Encounters/S 018 Choir Pirates Player]]
+  - [[S_004_Cloud_Canyon_Player]]
+  - [[Playe]]
+  - [[Pirates]]
 
 gm_sheets:
-  - [[S 004_Cloud_Canyon|06 GM Resources/Travel/Encounter Sheets/S 004 Cloud Canyon]]
-  - [[S 009_Void_Moan|06 GM Resources/Travel/Encounter Sheets/S 009 Void Moan]]
-  - [[S 018_Choir_Pirates|06 GM Resources/Travel/Encounter Sheets/S 018 Choir Pirates]]
+  - [[S_004_Cloud_Canyon_Player]]
+  - [[S-009_Void_Moan_Player]]
+  - [[Pirates]]
 
 assets:
-  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[INDEX]]
 
 ## 🔧 Deep Evaluation Improvements
 

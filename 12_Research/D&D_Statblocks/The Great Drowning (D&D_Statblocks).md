@@ -257,10 +257,10 @@ The Great Drowning serves as:
 
 ## See Also
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-- [[02 Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
+- [[Places]]
 - [[Depth Guard|02 Worldbuilding/Lore/Depth Guard]]
-- [[02 Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [[02_Worldbuilding]]
+- [[Temporal_Mechanics_System]]
 
 *"In the depths of the Great Drowning, yesterday screams, today weeps, and tomorrow drowns."*
 

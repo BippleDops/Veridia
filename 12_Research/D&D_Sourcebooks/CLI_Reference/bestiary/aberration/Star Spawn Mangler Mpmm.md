@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
 
-# [[star spawn mangler mpmm|Star Spawn Mangler]]
+# [[star-spawn-mangler-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  

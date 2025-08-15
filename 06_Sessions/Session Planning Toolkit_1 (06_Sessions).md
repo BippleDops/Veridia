@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Planning_Toolkit
 
----
+- --
 title: Session Planning Toolkit
 type: Lore
 tags:
@@ -27,10 +27,10 @@ modified: '2025-08-14'
 status: complete
 world: Both
 updated: '2025-08-13T01:18:31.118209+00:00'
----
+- --
 
 # Session Planning Toolkit
-*Everything You Need for Memorable Sessions*
+* Everything You Need for Memorable Sessions*
 
 #### Opening (15 minutes)
 **Hook Delivery**:
@@ -461,13 +461,13 @@ Make it meaningful:
 4. What do you want less of?
 5. What questions do you have?
 
----
+- --
 
-*Remember: The best sessions are collaborative stories. Your preparation creates the framework, but the players bring it to life. Stay flexible, stay engaged, and let the depths surprise even you.*
+* Remember: The best sessions are collaborative stories. Your preparation creates the framework, but the players bring it to life. Stay flexible, stay engaged, and let the depths surprise even you.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -491,7 +491,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Prophecy Connection
 
@@ -509,3 +509,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Everything**: [EVERYTHING]
+- **Glaucus's**: [GLAUCUS-S]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

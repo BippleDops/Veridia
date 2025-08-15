@@ -51,16 +51,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[insect plague xphb]]
-- [[dwarves on the move group leader mtf]]
+- [[Insect Plague Xphb]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[guild artisan]]
-- [[guild artisan guild merchant variant]]
-- [[fiendish cults cult organization mtf]]
-- [[new organizations]]
+- [[githzerai-groups-githzerai-group-leader-mtf]]
+- [[guild-artisan (backgrounds)]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[Organization]]
+- [[new-organizations (tables)]]
 
 ## Related
 
@@ -95,3 +95,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

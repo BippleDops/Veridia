@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [[stoneskin xphb|stoneskin]], targeting yourself.
+You can spend 5 ki points to cast [[stoneskin-xphb (spells)]], targeting yourself.
 
 ## 🔧 Deep Evaluation Improvements
 

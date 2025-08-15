@@ -114,7 +114,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be:   - *NPC*: [[03 People/Armorer Padwick]] - padding...
+Last known to be:   - *NPC*: [[People]] - padding...
 
 ### Accessibility
 - How difficult to obtain

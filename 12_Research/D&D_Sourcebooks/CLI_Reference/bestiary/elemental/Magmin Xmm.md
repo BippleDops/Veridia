@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-magmin-xmm-magmin-xmm.svg)
 
-# [[magmin xmm|Magmin]]
+# [[Magmin Xmm]]
 *Source: Monster Manual (2024) p. 200. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -90,19 +90,19 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
 "cr": "1/2"
 "traits":
   - "desc": "The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each\
-      \ creature in a 10-foot [[emanation area of effect xphb|Emanation]]\
+      \ creature in a 10-foot [[Area of Effect Xphb]]\
       \ originating from the magmin. Failure: 7 (2d6) Fire damage. Success: Half\
       \ damage."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage.\
       \ If the target is a creature or a flammable object that isn't being worn or\
-      \ carried, it starts [[burning xphb|burning]]."
+      \ carried, it starts [[burning-xphb (traps-hazards)]]."
     "name": "Touch"
 "bonus_actions":
   - "desc": "The magmin sets itself ablaze or extinguishes its flames. While ablaze,\
-      \ the magmin sheds [[bright light xphb|Bright Light]]\
-      \ in a 10-foot radius and [[dim light xphb|Dim Light]]\
+      \ the magmin sheds [[Light Xphb]]\
+      \ in a 10-foot radius and [[Light Xphb]]\
       \ for an additional 10 feet."
     "name": "Ignited Illumination"
 "source":

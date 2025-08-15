@@ -50,7 +50,7 @@ world: Both
 # Armor of Psychic Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to psychic damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to psychic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Psychic Resistance](#Breastplate%20of%20Psychic%20Resistance)

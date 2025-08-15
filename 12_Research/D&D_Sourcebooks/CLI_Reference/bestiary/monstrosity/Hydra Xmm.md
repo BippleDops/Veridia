@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydra-xmm-hydra-xmm.svg)
 
-# [[hydra xmm|Hydra]]
+# [[Hydra Xmm]]
 *Source: Monster Manual (2024) p. 175. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -114,10 +114,10 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ dead. At the end of each of its turns when it has at least one living head,\
       \ the hydra grows two heads for each of its heads that died since its last turn,\
       \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [[hit points xphb|Hit Points]] when it grows\
+      \ [[hit-points-xphb (variant-rules)]] when it grows\
       \ new heads."
     "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction xphb|Reaction]]\
+  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction-xphb (variant-rules)]]\
       \ that can be used only for [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Reactive Heads"
 "actions":

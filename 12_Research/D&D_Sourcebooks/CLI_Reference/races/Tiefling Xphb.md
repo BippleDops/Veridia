@@ -56,14 +56,14 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 |--------|---------|---------|---------|
-| Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb|Poison Spray]] cantrip. | [[ray-of-sickness-xphb|Ray of Sickness]] | [[hold-person-xphb|Hold Person]] |
-| Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb|Chill Touch]] cantrip. | [[false-life-xphb|False Life]] | [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
-| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness xphb|Darkness]] |
+| Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb (spells)]] cantrip. | [[Ray of Sickness Xphb]] | [[Hold Person Xphb]] |
+| Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb (spells)]] cantrip. | [[False Life Xphb]] | [[Ray of Enfeeblement Xphb]] |
+| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb (spells)]] cantrip. | [[hellish-rebuke-xphb (spells)]] | [[darkness-xphb (variant-rules)]] |
 ^fiendish-legacies
 
 ### Otherworldly Presence
 
-You know the [[thaumaturgy xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+You know the [[Thaumaturgy Xphb]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -97,7 +97,7 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 
 > [!gallery]
 !]
-![[12_Research/D&D_Sourcebooks/CLI_Reference/races/img/157-05-028-armored-tiefling.webp]]
+![[Races]]
 
 ## Player-Facing Summary
 

@@ -125,7 +125,7 @@ Sitting on the transformed throne grants supernatural authority over subjects:
 The throne connects to crystal formations throughout [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]:
 - Real-time surveillance through crystal networks in major buildings
 - Communication with crystal consciousness in mines and sacred sites
-- Coordination of [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] through shared crystal awareness
+- Coordination of [[The Crystal Guard Elite]] through shared crystal awareness
 - Influence over crystal-enhanced citizens and possessed individuals
 - Control of crystal-based magical infrastructure throughout the kingdom
 
@@ -134,7 +134,7 @@ The throne connects to crystal formations throughout [[Aethermoor|02 Worldbuildi
 Traditional royal audiences have been modified by the throne room's new properties:
 
 **Approach Protocol:**
-- Visitors must be escorted by [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members
+- Visitors must be escorted by [[The Crystal Guard Elite]] members
 - Crystal formations scan approaching individuals for hostile intentions
 - Memory crystals record all interactions for later review
 - Reality fluctuations may disorient or overwhelm unprepared visitors
@@ -201,7 +201,7 @@ International representatives dealing with increasingly difficult negotiations:
 - Occasional attempts to assess military threat posed by enhanced royal power
 
 **Resistance Infiltrators**
-[[The Loyal Remt]] members attempting intelligence gathering:
+[[The_Loyal_Remt]] members attempting intelligence gathering:
 - Extreme danger from crystal consciousness detection capabilities
 - Some attempt to communicate with suppressed personality of original queen
 - Intelligence gathering complicated by reality distortions and memory recording
@@ -239,7 +239,7 @@ The throne room sometimes displays visions of potential futures:
 Only certain individuals can safely access the archived memories:
 - **[[The Queen|Queen Seraphina]]**: Complete access to all stored information
 - **[[Possessed Noble Coterie]]**: Limited access to memories relevant to their responsibilities
-- **[[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]**: Access to tactical and security-related memories
+- **[[The Crystal Guard Elite]]**: Access to tactical and security-related memories
 - **Authorized Researchers**: Scholars studying convergence phenomena under supervision
 - **The Throne Room Itself**: The chamber's consciousness can selectively reveal information
 
@@ -255,7 +255,7 @@ The throne room's power creates ongoing risks:
 ### Security Threats
 **Infiltration Attempts**
 Various groups seek to penetrate throne room security:
-- **[[The Loyal Remt]]**: Resistance efforts to rescue original queen or gather intelligence
+- **[[The_Loyal_Remt]]**: Resistance efforts to rescue original queen or gather intelligence
 - **Foreign Agents**: International spies attempting to assess threat and gather information
 - **[[The Crimson Hand]]**: Rival faction seeking to influence or control possessed queen
 - **Corruption Entities**: [[Shadow Corruption]] attempts to infiltrate crystal consciousness

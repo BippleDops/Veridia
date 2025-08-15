@@ -50,7 +50,7 @@ world: Both
 # Armor of Fire Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to fire damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to fire damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)

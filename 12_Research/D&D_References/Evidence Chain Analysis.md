@@ -87,7 +87,7 @@ The crisis demanded new approaches that could handle the complexity of multi-lay
 - **[[Archivist Methodius Recordkeeper]]**: Created standardized techniques for preserving and analyzing documentary evidence
 - **[[Sage Analytical Mindweaver]]**: Pioneered methods for detecting magical manipulation of evidence
 - **[[Scholar Temporal Chronos]]**: Established techniques for investigating events across extended time periods
-- **[[Detective Cross Reference Clarke]]**: Developed pattern recognition methods for connecting seemingly unrelated incidents
+- **[[Detective Cross-Reference Clarke]]**: Developed pattern recognition methods for connecting seemingly unrelated incidents
 
 ### The Classical Period
 **Years 320-400 GC**

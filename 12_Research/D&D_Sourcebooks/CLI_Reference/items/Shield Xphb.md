@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Shield
-*Armor ([[shield xphb|shield]])*  
+*Armor ([[Shield]])*  
 ![](/03_Mechanics/CLI/items/img/shield.webp#right)
 
 - **Armor Class**: 2

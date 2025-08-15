@@ -4,28 +4,28 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
-title: Elder Deep Ones
+- [[Lore]]
+title: [[Elder Dee]]p Ones
 type: lore
 updated: 2025-08-14
 ---
 
-# Elder Deep Ones
+# [[Elder Deep]] Ones
 
 ## Overview
-This document contains important information regarding Elder Deep Ones and its role within the greater narrative.
+This document contains important information regarding Elder [[Deep Ones]] and its role within the greater narrative.
 
 ## Description
 Elder Deep Ones represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

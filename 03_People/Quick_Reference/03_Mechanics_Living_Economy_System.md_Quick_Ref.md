@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Living_Economy_System.md - Quick Reference
 
 ## Key Info

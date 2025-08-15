@@ -254,11 +254,11 @@ Mentioned in The Second Prophecy of Depths
 
 ## Relationships
 
-- **Sibling**: [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg]]
-- **Ally**: [[Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg]]
-- **Enemy**: [[Militant Priest Abyssal]]
-- **Blackmailer**: [[Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
-- **Parent**: [[Assets Symbols Symbol Heraldry Border Territories Border Territories.svg]]
+- **Sibling**: [[Npc]]
+- **Ally**: [[Npc]]
+- **Enemy**: [[Militant-Priest Abyssal (D&D_References)]]
+- **Blackmailer**: [[Scarlet Torrent]]
+- **Parent**: [[Border Territories]]
 
 ## Plot Hooks
 

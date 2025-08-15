@@ -3,20 +3,20 @@ title: Ancient Empire
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Ancient Empire
 
 ## Overview
-This topic is referenced in [[Clues_by_Location.png]] and other parts of the campaign.
+This topic is referenced in [[Clues by Location]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Clues_by_Location.png]]
+- Referenced by: [[Clues by Location]]
 - Related topics in the same category
 
 ## Details

@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-chain-brute-mpmm-ogre-chain-brute-mpmm.svg)
 
-# [[ogre chain brute mpmm|Ogre Chain Brute]]
+# [[Ogre Chain Brute Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
@@ -68,7 +68,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[[hide armor xphb|hide armor]]"
+"ac_class": "[[Armor Xphb]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"

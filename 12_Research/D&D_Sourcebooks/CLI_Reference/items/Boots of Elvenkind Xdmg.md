@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/boots-of-elvenkind.webp#right)
 
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have [[advantage xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have [[Advantage Xphb]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 239. Available in the SRD and the Free Rules (2024)*
 

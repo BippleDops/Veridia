@@ -45,11 +45,11 @@ world: Both
 - **Components:** V, S, M (a shard of blue glass)
 - **Duration:** 1 hour
 
-Protective magical frost surrounds you. You gain 5 [[temporary-hit-points-xphb|Temporary Hit Points]]. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [[temporary-hit-points-xphb|Temporary Hit Points]].
+Protective magical frost surrounds you. You gain 5 [[temporary-hit-points-xphb (variant-rules)]]. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [[temporary-hit-points-xphb (variant-rules)]].
 
-**Using a Higher-Level Spell Slot.** The [[temporary-hit-points-xphb|Temporary Hit Points]] and the Cold damage both increase by 5 for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The [[temporary-hit-points-xphb (variant-rules)]] and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 243*
 

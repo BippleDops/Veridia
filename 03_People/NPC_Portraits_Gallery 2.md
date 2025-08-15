@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Portraits_Gallery 2
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC_Portraits_Gallery 2
 
 ## Portrait
 
-![[portrait_npc_portraits_gallery_2.png]]
+![[Npc]]
 
 *Portrait reference for NPC_Portraits_Gallery 2*
 
@@ -2783,3 +2785,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

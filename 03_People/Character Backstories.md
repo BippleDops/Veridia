@@ -1,17 +1,20 @@
 ---
+
 title: Character Backstories
 type: note
 tags:
 - auto-generated
 - linked
 created: '2025-01-15'
+modified: 2025-08-14
+status: active
 ---
 
 # Character Backstories
 
 ## Portrait
 
-![[portrait_character_backstories.png]]
+![[Character Backstories]]
 
 *Portrait reference for Character Backstories*
 
@@ -75,3 +78,24 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

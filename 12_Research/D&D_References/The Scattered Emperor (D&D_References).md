@@ -25,7 +25,7 @@ modified: '2025-08-14'
 status: active
 race: Distributed Consciousness
 class: Wizard/Aberration
-location: '[[Abyssos Prime   Throne of Bubbles]]'
+location: '[[Throne of Bubbles]]'
 level: 20
 first_name: Malachus
 last_name: the Eternal
@@ -47,11 +47,11 @@ relationship_type: ruler
 relationships:
 - '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
 - '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-- '[[Marina Red Tide Coralheart   Aquabyssos]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 related_quests:
 - '[[Unite the Emperor]]'
 - '[[Investigate Shadow Conspiracy]]'
-- '[[02 Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
+- '[[The Emperor]]'
 last_encounter: '[[Aquabyssos - Session 01 - The Drowning Welcome]]'
 stats:
   str: Variable

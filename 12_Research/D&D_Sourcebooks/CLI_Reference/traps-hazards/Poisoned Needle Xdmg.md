@@ -51,7 +51,7 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 
 ## Avoid
 
-The trap doesn't trigger if the lock is opened using a [[knock xphb|Knock]] spell or similar magic.
+The trap doesn't trigger if the lock is opened using a [[knock-xphb (spells)]] spell or similar magic.
 
 ## Detect and Disarm
 

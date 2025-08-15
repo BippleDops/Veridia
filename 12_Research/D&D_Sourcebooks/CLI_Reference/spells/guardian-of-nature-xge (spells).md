@@ -77,7 +77,7 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes ranger|Ranger]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 
@@ -109,3 +109,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[guardian-of-nature-xge (spells)-phb]]` in CLI_Reference/spells/

@@ -72,7 +72,7 @@ The truth is not singular but layered—each revelation opens new questions, and
 The original Marina was a brilliant senator who discovered the approaching convergence between realms would result in mutual annihilation. Her research into memory magic and dimensional theory led her to attempt a radical solution: fragmenting her consciousness across multiple timelines and realities to gather enough knowledge and power to prevent the catastrophe.
 
 **Key Truths**:
-- Discovered the [[Shadow Crystal Synthesis]] was accelerating realm collapse
+- Discovered the [[Shadow Crystal]] was accelerating realm collapse
 - Learned that [[Emperor Thalassius the Wise]] knew but was powerless to stop it
 - Found evidence that the [[Deep Mother]]'s awakening would shatter both realms
 - Attempted to create multiple versions of herself as fail-safes

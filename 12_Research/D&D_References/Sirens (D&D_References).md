@@ -61,9 +61,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Debtor**: [[Sage Elara]]
-- **Parent**: [[Portrait NPC Madame Nightwhisper Madame Nightwhisper.svg]]
-- **Friend**: [[Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg]]
-- **Enemy**: [[Portrait NPC Quest the Missing Guards V2 Quest the Missing Guards.svg]]
+- **Parent**: [[Npc]]
+- **Friend**: [[Npc]]
+- **Enemy**: [[Npc]]
 - **Child**: [[Lady Jade Clawgrip]]
 
 ## Plot Hooks

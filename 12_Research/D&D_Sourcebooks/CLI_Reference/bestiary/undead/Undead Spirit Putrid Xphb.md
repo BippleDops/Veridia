@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-putrid-xphb-undead-spirit-putrid-xphb.svg)
 
-# [[undead spirit putrid xphb|Undead Spirit (Putrid)]]
+# [[Undead Spirit Putrid Xphb]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock

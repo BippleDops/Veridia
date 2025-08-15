@@ -41,11 +41,11 @@ world: Both
 
 **Items in this group:**
 
-- [[crystal xphb|Crystal]]
-- [[orb xphb|Orb]]
-- [[rod xphb|Rod]]
-- [[staff xphb|Staff]]
-- [[wand xphb|Wand]]
+- [[crystal-xphb (items)]]
+- [[Orb Xphb]]
+- [[rod-xphb (items)]]
+- [[Quarterstaff Xphb]]
+- [[wand-xphb (items)]]
 
 *Source: Player's Handbook (2024) p. 224*
 

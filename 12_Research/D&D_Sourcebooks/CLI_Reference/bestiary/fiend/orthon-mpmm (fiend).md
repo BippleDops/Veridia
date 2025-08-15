@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-orthon-mpmm-orthon-mpmm.svg)
 
-# [[orthon mpmm|Orthon]]
+# [[Orthon Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -57,7 +57,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[[half plate armor xphb|half plate]]"
+"ac_class": "[[Plate Armor Xphb]]"
 "hp": !!int "105"
 "hit_dice": "10d10 + 50"
 "modifier": !!int "3"

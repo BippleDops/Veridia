@@ -39,42 +39,42 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [[bead of nourishment xdmg|Bead of Nourishment]] |
-| 03–04 | [[bead of refreshment xdmg|Bead of Refreshment]] |
-| 05–07 | [[candle of the deep xdmg|Candle of the Deep]] |
-| 08–10 | [[cloak of billowing xdmg|Cloak of Billowing]] |
-| 11–13 | [[cloak of many fashions xdmg|Cloak of Many Fashions]] |
-| 14–15 | [[clothes of mending xdmg|Clothes of Mending]] |
-| 16–17 | [[dark shard amulet xdmg|Dark Shard Amulet]] |
-| 18–19 | [[enduring spellbook xdmg|Enduring Spellbook]] |
-| 20–21 | [[ersatz eye xdmg|Ersatz Eye]] |
-| 22–24 | [[hat of vermin xdmg|Hat of Vermin]] |
-| 25–27 | [[hat of wizardry xdmg|Hat of Wizardry]] |
-| 28–29 | [[hewards handy spice pouch xdmg|Heward's Handy Spice Pouch]] |
-| 30–31 | [[horn of silent alarm xdmg|Horn of Silent Alarm]] |
-| 32–33 | [[instrument of illusions xdmg|Instrument of Illusions]] |
-| 34–35 | [[instrument of scribing xdmg|Instrument of Scribing]] |
-| 36–37 | [[lock of trickery xdmg|Lock of Trickery]] |
-| 38–40 | [[mystery key xdmg|Mystery Key]] |
-| 41–42 | [[orb of direction xdmg|Orb of Direction]] |
-| 43–44 | [[orb of time xdmg|Orb of Time]] |
-| 45–46 | [[perfume of bewitching xdmg|Perfume of Bewitching]] |
-| 47–49 | [[pipe of smoke monsters xdmg|Pipe of Smoke Monsters]] |
-| 50–52 | [[potion of climbing xdmg|Potion of Climbing]] |
-| 53–55 | [[potion of comprehension xdmg|Potion of Comprehension]] |
-| 56–58 | [[pot of awakening xdmg|Pot of Awakening]] |
-| 59–60 | [[prosthetic limb xdmg|Prosthetic Limb]] |
-| 61–64 | [[rival coin xdmg|Rival Coin]] |
-| 65–66 | [[rope of mending xdmg|Rope of Mending]] |
-| 67–68 | [[ruby of the war mage xdmg|Ruby of the War Mage]] |
-| 69–82 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll cantrip xdmg|cantrip]] or [[spell scroll level 1 xdmg|level 1]] spell) |
-| 83–84 | [[staff of adornment xdmg|Staff of Adornment]] |
-| 85–86 | [[staff of birdcalls xdmg|Staff of Birdcalls]] |
-| 87–89 | [[staff of flowers xdmg|Staff of Flowers]] |
-| 90–92 | [[talking doll xdmg|Talking Doll]] |
-| 93–94 | [[tankard of sobriety xdmg|Tankard of Sobriety]] |
-| 95–97 | [[wand of conducting xdmg|Wand of Conducting]] |
-| 98–00 | [[wand of pyrotechnics xdmg|Wand of Pyrotechnics]] |
+| 01–02 | [[Bead of Nourishment Xdmg]] |
+| 03–04 | [[bead-of-refreshment-xdmg (items)]] |
+| 05–07 | [[candle-of-the-deep-xdmg (items)]] |
+| 08–10 | [[cloak-of-billowing-xdmg (items)]] |
+| 11–13 | [[Cloak of Many Fashions Xdmg]] |
+| 14–15 | [[Clothes of Mending Xdmg]] |
+| 16–17 | [[dark-shard-amulet-xdmg (items)]] |
+| 18–19 | [[enduring-spellbook-xdmg (items)]] |
+| 20–21 | [[ersatz-eye-xdmg (items)]] |
+| 22–24 | [[Hat of Vermin Xdmg]] |
+| 25–27 | [[Hat of Wizardry Xdmg]] |
+| 28–29 | [[Hewards Handy Spice Pouch Xdmg]] |
+| 30–31 | [[Horn of Silent Alarm Xdmg]] |
+| 32–33 | [[instrument-of-illusions-xdmg (items)]] |
+| 34–35 | [[Instrument of Scribing Xdmg]] |
+| 36–37 | [[lock-of-trickery-xdmg (items)]] |
+| 38–40 | [[mystery-key-xdmg (items)]] |
+| 41–42 | [[orb-of-direction-xdmg (items)]] |
+| 43–44 | [[Time]] |
+| 45–46 | [[perfume-of-bewitching-xdmg (items)]] |
+| 47–49 | [[Monsters]] |
+| 50–52 | [[Potion of Climbing Xdmg]] |
+| 53–55 | [[potion-of-comprehension-xdmg (items)]] |
+| 56–58 | [[Pot of Awakening Xdmg]] |
+| 59–60 | [[prosthetic-limb-xdmg (items)]] |
+| 61–64 | [[Rival Coin Xdmg]] |
+| 65–66 | [[rope-of-mending-xdmg (items)]] |
+| 67–68 | [[ruby-of-the-war-mage-xdmg (items)]] |
+| 69–82 | [[spell-scroll-xdmg (items)]] ([[Spell Scroll Cantrip Xdmg]] or [[Spell Scroll Level 1 Xdmg]] spell) |
+| 83–84 | [[Staff of Adornment Xdmg]] |
+| 85–86 | [[Staff of Birdcalls Xdmg]] |
+| 87–89 | [[Staff of Flowers Xdmg]] |
+| 90–92 | [[talking-doll-xdmg (items)]] |
+| 93–94 | [[Tankard of Sobriety Xdmg]] |
+| 95–97 | [[Wand of Conducting Xdmg]] |
+| 98–00 | [[wand-of-pyrotechnics-xdmg (items)]] |
 ^arcana-common
 
 ## 🔧 Deep Evaluation Improvements

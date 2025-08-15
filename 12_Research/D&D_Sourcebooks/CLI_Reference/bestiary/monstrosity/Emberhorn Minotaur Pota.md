@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-emberhorn-minotaur-pota-emberhorn-minotaur-pota.svg)
 
-# [[emberhorn minotaur pota|Emberhorn Minotaur]]
+# [[Emberhorn Minotaur Pota]]
 *Source: Princes of the Apocalypse p. 120*  
 
 ```statblock

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stegosaurus-mpmm-stegosaurus-mpmm.svg)
 
-# [[stegosaurus mpmm|Stegosaurus]]
+# [[stegosaurus-mpmm (beast)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.

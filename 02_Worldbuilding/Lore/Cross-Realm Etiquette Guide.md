@@ -1,7 +1,7 @@
 ---
 
 title: Cross Realm Etiquette Guide
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - mechanics/social
@@ -34,7 +34,7 @@ improvements: 20
 
 *"Where water meets air and depth encounters sky, wisdom lies in the space between traditions."*
 
-> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]]
+> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[Ambassador [[Marina Tidecaller]]|[[02 Worldbuilding]]/[[People]]/[[Ambassador Marina Tidecaller]]]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ improvements: 20
 
 ## Overview
 
-The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[Aquabyssos]] and [[Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
+The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[Aquabyssos]] and [[Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, [[Cultural Translation]] methods, and diplomatic strategies for individuals who must operate across both domains.
 
 ### 1. The Pressure-Altitude Equivalency Protocol
 
@@ -118,7 +118,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 **Cultural Applications**:
 - Aquabyssos current-riders and Aethermoor wind-riders share similar professional challenges and skills
 - Navigation expertise translates across realms with proper cultural context
-- Emergency protocols for current/wind emergencies share many common elements
+- [[Emergency Protocol]]s for current/wind emergencies share many common elements
 
 ### 3. Ceremonial Equivalence Recognition
 
@@ -178,9 +178,9 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 **Safe Space Meals**: Hosting meals accessible to both cultures
 **Venue Requirements**:
-- **Surface-level locations** accessible to both depth-dwellers and air-dwellers
+- **Surface-level [[location]]s** accessible to both depth-dwellers and air-dwellers
 - **Environmental controls** allowing gradual adaptation to different conditions
-- **Emergency protocols** for environmental distress or cultural misunderstandings
+- **[[Emergency Protocols]]** for environmental distress or cultural misunderstandings
 - **Cultural dietary accommodations** respecting both traditions' food restrictions
 
 **Menu Planning**:
@@ -223,10 +223,10 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 **Professional Translation**: Matching professional status between realms
 **Guild Equivalencies**:
-- **Aquabyssos Deep Merchants** ≈ **Aethermoor Sky Merchants**
-- **Pressure Engineers** ≈ **Weather Wardens**
+- **Aquabyssos Deep [[Merchant]]s** ≈ **Aethermoor Sky Merchants**
+- **[[Pressure Engineers]]** ≈ **Weather Wardens**
 - **Current Navigators** ≈ **Wind-Riders**
-- **Memory Keepers** ≈ **Cultural Preservationists**
+- **[[Memory Keepers]]** ≈ **[[Cultural Preservation]]ists**
 - **Shadow Surgeons** ≈ **Specialized Medical Practitioners**
 
 **Professional Courtesy Protocols**:
@@ -272,7 +272,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 - **Respectful silence** unless specifically invited to participate
 - **Modest dress** appropriate to the host culture's standards
 - **No photography** or recording without explicit permission
-- **Follow host guidance** in all ritual behaviors and movements
+- **Follow host [[Guidance]]** in all ritual behaviors and movements
 
 **Specific Considerations**:
 - **Aquabyssos sacred depths** may be inaccessible to air-dwellers, requiring alternative observation locations
@@ -301,7 +301,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 **Event Planning**:
 - **Neutral locations** accessible and meaningful to both cultures
 - **Hybrid rituals** combining elements from both ceremonial traditions
-- **Dual officiants** religious leaders from both cultures working together
+- **Dual officiants** [[Religious Leaders]] from both cultures working together
 - **Universal symbols** imagery and concepts meaningful to both traditions
 
 **Example Joint Ceremonies**:
@@ -312,7 +312,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 ### 16. Cultural Misunderstanding Response
 
-**Diplomatic Crisis Management**: Addressing cultural violations and misunderstandings
+**Diplomatic [[Crisis Management]]**: Addressing cultural violations and misunderstandings
 **Immediate Response Protocol**:
 1. **Pause interaction** to prevent further cultural damage
 2. **Assess intent** determining if violation was accidental or deliberate
@@ -342,9 +342,9 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 - **Diplomatic notification**: Inform relevant authorities and cultural leaders
 - **Recovery planning**: Develop procedures for returning to normal relations
 
-### 18. Conflict Mediation Protocols
+### 18. [[Conflict Mediation]] Protocols
 
-**Dispute Resolution**: Resolving conflicts between individuals or groups from different realms
+**Dispute Resolution**: Resolving conflicts between individuals or [[Groups]] from different realms
 **Mediation Structure**:
 - **Neutral mediators**: Cultural experts trusted by both parties
 - **Environmental accommodation**: Meeting spaces accessible to all participants
@@ -389,7 +389,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 ### 21. Collaborative Research Projects
 
-**Academic Cooperation**: Joint research initiatives between realm scholars
+**Academic Cooperation**: Joint research [[Initiative]]s between realm scholars
 **Research Areas**:
 - **Environmental science**: Studying both aquatic and aerial ecosystems
 - **Cultural anthropology**: Comparative studies of realm traditions and customs
@@ -496,7 +496,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 
 **Standard Diplomatic Language**: Pre-approved language for formal communications
 
-**Formal Introduction Template**:
+**Formal [[Introduction]] Template**:
 "Honored [Cultural Title], I present myself as [Name, Title, Cultural Affiliation] in the spirit of mutual respect and cultural understanding. I acknowledge the wisdom of your [environmental mastery/professional expertise] and seek [purpose of interaction] in harmony with the traditions of both our peoples."
 
 **Cultural Apology Template**:
@@ -515,7 +515,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 ### Cultural Learning Adventures
 
 1. **The Ambassador's Test**: Players must master both cultural systems to prevent diplomatic crisis
-2. **The Cultural Exchange**: Characters participate in extended cultural immersion programs
+2. **The [[Cultural Exchange]]**: Characters participate in extended cultural immersion programs
 3. **The Protocol Emergency**: Players must rapidly learn cultural customs to handle unexpected diplomatic situation
 4. **The Bridge Builder**: Characters work to create new traditions that honor both cultures
 
@@ -524,11 +524,11 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 1. **The Cultural Evolution**: Traditional practices are changing due to increased inter-realm contact
 2. **The Innovation Challenge**: Creating new technologies or traditions that serve both cultures
 3. **The Alliance Crisis**: Long-standing cultural partnerships face threats from traditionalist factions
-4. **The Cultural Fusion**: Exploring how prolonged contact changes both cultures over time
+4. **The Cultural Fusion**: Exploring how prolonged contact changes both cultures over [[Time]]
 
 ## Player-Facing Summary
 
-The Cross-Realm Etiquette Guide provides essential protocols for successful interaction between Aquabyssos and Aethermoor cultures. Understanding these guidelines enables characters to navigate complex diplomatic situations, avoid cultural conflicts, and build meaningful relationships across the vast differences between depth-dwelling and sky-bound societies.
+The Cross-Realm Etiquette Guide provides essential protocols for successful interaction between Aquabyssos and Aethermoor cultures. Understanding these guidelines enables characters to navigate complex diplomatic situations, a[[Void Cult]]ural conflicts, and build meaningful relationships across the vast differences between depth-dwelling and sky-bound societies.
 
 ## Lore Details
 
@@ -536,13 +536,13 @@ The development of cross-realm etiquette represents a relatively recent but crit
 
 The guide represents a collaborative effort between cultural experts from both realms, attempting to create a bridge between traditions that evolved in completely different environmental and social contexts. Success in cross-cultural interactions often depends not just on following protocols correctly, but on understanding the underlying cultural values and environmental realities that shaped each tradition.
 
-## DM Notes
+## [[DM Notes]]
 
 Use the cross-cultural protocols as a framework for creating complex diplomatic scenarios that require genuine understanding rather than just rule-following. Consider how misunderstandings might arise even when characters are trying to follow protocols correctly, and how cultural evolution might create new challenges as traditions adapt to increased inter-realm contact.
 
 The guide provides opportunities for character growth through cultural learning, and rewards players who invest time in understanding different cultural perspectives. Remember that successful cross-cultural interaction often requires creativity and adaptation rather than rigid adherence to rules, and that the best diplomatic solutions often emerge from genuine respect for cultural differences rather than attempts to eliminate them.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

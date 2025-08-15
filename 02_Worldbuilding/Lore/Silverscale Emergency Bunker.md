@@ -1,7 +1,7 @@
 ---
 
 title: Silverscale Emergency Bunker
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - silverscale
@@ -10,10 +10,10 @@ tags:
 - aquatic
 - bunker
 - active
-- location
+- [[location]]
 - complete
 - safety
-- aethermoor
+- [[Aethermoor]]
 - bloodline
 - prophecy
 created: '2025-08-08'
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ improvements: 20
 
 ## Overview
 
-The Silverscale Emergency Bunker is a heavily fortified underground facility designed to protect key personnel and resources during catastrophic events affecting Aethermoor. Built by the Silverscale organization using both surface and underwater engineering techniques, it represents one of the most secure locations in the surface realm. The bunker features advanced life support systems, magical shielding, and secure communication networks linking it to both realms.
+The Silverscale Emergency Bunker is a heavily fortified underground facility designed to protect key personnel and resources during catastrophic events affecting Aethermoor. Built by the Silverscale [[Organization]] using both surface and underwater engineering techniques, it represents one of the most secure locations in the surface realm. The bunker features advanced life support systems, magical [[Shield]]ing, and secure [[Communication Networks]] [[Link]]ing it to both realms.
 
 ## Historical Background
 
@@ -96,7 +96,7 @@ Constructed during a period of increasing inter-realm tensions, the bunker was d
 
 ## Current State
 
-The bunker remains on standby alert, fully stocked and ready for immediate occupation. Recent dimensional instabilities have triggered several false alarms, leading to reviews of activation protocols.
+The bunker remains on standby alert, fully stocked and ready for immediate occupation. Recent [[Dimensional Instabilities]] have triggered several false alarms, leading to reviews of activation protocols.
 
 ### Duration
 
@@ -120,11 +120,11 @@ Silverscale Emergency Bunker is a undersea element of the setting, known for bio
 
 Legends speak of Silverscale Emergency Bunker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Emergency Bunker.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -136,4 +136,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A document has gone missing and war looms
 - Someone is hunting information for love
-- A merchant needs help delivering before the festival
+- A [[Merchant]] needs help delivering before the festival

@@ -109,3 +109,10 @@ Things widely suspected
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

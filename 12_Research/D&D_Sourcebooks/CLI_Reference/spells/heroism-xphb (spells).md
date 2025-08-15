@@ -43,11 +43,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[conditions#frightened|Frightened]] condition and gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your spellcasting ability modifier at the start of each of its turns.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[conditions#frightened|Frightened]] condition and gains [[temporary-hit-points-xphb (variant-rules)]] equal to your spellcasting ability modifier at the start of each of its turns.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 285. Available in the SRD and the Free Rules (2024)*
 
@@ -78,3 +78,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[heroism-xphb (spells)-phb]]` in CLI_Reference/spells/

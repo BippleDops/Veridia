@@ -42,10 +42,10 @@ world: Both
 
 **Items in this group:**
 
-- [[potion of healing xdmg|Potion of Healing]]
-- [[potion of greater healing xdmg|Potion of Greater Healing]]
-- [[potion of superior healing xdmg|Potion of Superior Healing]]
-- [[potion of supreme healing xdmg|Potion of Supreme Healing]]
+- [[Potion of Healing Xdmg]]
+- [[potion-of-greater-healing-xdmg (items)]]
+- [[healing]]
+- [[Potion of Supreme Healing Xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 

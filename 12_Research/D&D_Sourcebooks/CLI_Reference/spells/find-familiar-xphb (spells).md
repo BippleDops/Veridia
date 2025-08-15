@@ -50,7 +50,7 @@ world: Both
 - **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You gain the service of a familiar, a spirit that takes an animal form you choose: [[bat xmm|Bat]], [[cat xmm|Cat]], [[frog xmm|Frog]], [[hawk xmm|Hawk]], [[lizard xmm|Lizard]], [[octopus xmm|Octopus]], [[owl xmm|Owl]], [[rat xmm|Rat]], [[raven xmm|Raven]], [[spider xmm|Spider]], [[weasel xmm|Weasel]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+You gain the service of a familiar, a spirit that takes an animal form you choose: [[Giant Bat Xmm]], [[cat-xmm (beast)]], [[frog-xmm (beast)]], [[Blood Hawk Xmm]], [[lizard-xmm (beast)]], [[Giant Octopus Xmm]], [[Giant Owl Xmm]], [[Wererat Xmm]], [[Raven Xmm]], [[phase-spider-xmm (monstrosity)]], [[giant-weasel-xmm (beast)]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,17 +66,17 @@ You gain the service of a familiar, a spirit that takes an animal form you choos
 
 ## Telepathic Connection
 
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a [[bonus-action-xphb|Bonus Action]], you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a [[Action Xphb]], you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a [[reaction xphb|Reaction]] to deliver the touch when you cast the spell.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a [[reaction-xphb (variant-rules)]] to deliver the touch when you cast the spell.
 
 ## Combat
 
-The familiar is an ally to you and your allies. It rolls its own [[initiative xphb|Initiative]] and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+The familiar is an ally to you and your allies. It rolls its own [[Initiative Xphb]] and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
 
 ## Disappearance of the Familiar
 
-When the familiar drops to 0 [[hit-points-xphb|Hit Points]], it disappears. It reappears after you cast this spell again. As a [[actions#Magic|Magic]] action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a [[actions#Magic|Magic]] action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 [[hit-points-xphb|Hit Points]] or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+When the familiar drops to 0 [[hit-points-xphb (variant-rules)]], it disappears. It reappears after you cast this spell again. As a [[actions#Magic|Magic]] action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a [[actions#Magic|Magic]] action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 [[hit-points-xphb (variant-rules)]] or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
 ## One Familiar Only
 
@@ -84,7 +84,7 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 ## Summary
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 272. Available in the SRD and the Free Rules (2024)*
 
@@ -111,3 +111,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[find-familiar-xphb (spells)-phb]]` in CLI_Reference/spells/

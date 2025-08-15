@@ -35,7 +35,7 @@ world: Both
 # Flames of Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[tiefling xphb|Tiefling]]
+**Prerequisite**: [[List Spells Races Tiefling Xphb]]
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 

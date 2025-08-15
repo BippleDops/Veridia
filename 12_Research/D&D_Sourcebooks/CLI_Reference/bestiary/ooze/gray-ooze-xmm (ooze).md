@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gray-ooze-xmm-gray-ooze-xmm.svg)
 
-# [[gray ooze xmm|Gray Ooze]]
+# [[Gray Ooze Xmm]]
 *Source: Monster Manual (2024) p. 151. Available in the SRD and the Free Rules (2024)*  
 
 Gray oozes appear in areas affected by unpredictable magic. Magic-users who fail in their attempts to bind elemental spirits to the bodies of Constructs might also accidentally create gray oozes.
@@ -100,7 +100,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
       \ and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty\
       \ to attack rolls immediately after dealing damage to the ooze and coming into\
       \ contact with it. The weapon is destroyed if the penalty reaches -5. The penalty\
-      \ can be removed by casting the [[mending xphb|Mending]]\
+      \ can be removed by casting the [[Mending Xphb]]\
       \ spell on the weapon.\n\nThe ooze can eat through 2-inch-thick, nonmagical\
       \ metal or wood in 1 round."
     "name": "Corrosive Form"
@@ -108,7 +108,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage.\
       \ Nonmagical armor worn by the target takes a -1 penalty to the AC it offers.\
       \ The armor is destroyed if the penalty reduces its AC to 10. The penalty can\
-      \ be removed by casting the [[mending xphb|Mending]]\
+      \ be removed by casting the [[Mending Xphb]]\
       \ spell on the armor."
     "name": "Pseudopod"
 "source":

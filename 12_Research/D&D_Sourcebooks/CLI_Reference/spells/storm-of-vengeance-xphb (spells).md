@@ -72,11 +72,11 @@ Hailstones rain down. Each creature under the cloud takes `2d6` Bludgeoning dama
 
 ## Turns 5-10
 
-Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[difficult terrain xphb|Difficult Terrain]] and [[heavily obscured xphb|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
+Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[Difficult Terrain Xphb]] and [[Heavily Obscured Xphb]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the SRD and the Free Rules (2024)*
 
@@ -104,3 +104,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[storm-of-vengeance-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Communication_Systems - Quick Reference
 
 ## Key Info

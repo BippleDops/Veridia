@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Lore/Campaign Path
+title: 02_Worldbuilding/[[Lore]]/Campaign [[path]]
 type: adventure
 tags:
 - adventure
@@ -71,7 +71,7 @@ An exciting quest that challenges heroes to claim glory.
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

@@ -41,7 +41,7 @@ world: Both
 
 A treacherous lieutet named Kas brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.
 
-The Eye of Vecna and the [[hand of vecna xdmg|Hand of Vecna]] are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
+The Eye of Vecna and the [[eye-and-hand-of-vecna-xdmg (items)]] are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,9 +59,9 @@ The Eye of Vecna and the [[hand of vecna xdmg|Hand of Vecna]] are separate Artif
 
 The Eye of Vecna has the following random properties:
 
-- 1 [[artifact properties minor beneficial properties xdmg|minor beneficial]] property  
-- 1 [[artifact properties major beneficial properties xdmg|major beneficial]] property  
-- 1 [[artifact properties minor detrimental properties xdmg|minor detrimental]] property  
+- 1 [[artifact-properties-minor-beneficial-properties]] property  
+- 1 [[Artifact Properties Major Beneficial]] property  
+- 1 [[Artifact Properties Minor Detrimental Properties Xdmg]] property  
 
 ## Attuning to the Eye
 
@@ -78,17 +78,17 @@ While you are attuned to the eye, your alignment is Neutral Evil, and you gain t
 
     | Spell | Charge Cost |  
     |-------|-------------|  
-    | [[clairvoyance xphb|Clairvoyance]] | 2 |  
-    | [[crown of madness xphb|Crown of Madness]] | 1 |  
-    | [[disintegrate xphb|Disintegrate]] | 4 |  
-    | [[dominate monster xphb|Dominate Monster]] | 5 |  
-    | [[eyebite xphb|Eyebite]] | 4 |  
+    | [[clairvoyance-xphb (spells)]] | 2 |  
+    | [[Crown of Madness Xphb]] | 1 |  
+    | [[Disintegrate Xphb]] | 4 |  
+    | [[Dominate Monster Xphb]] | 5 |  
+    | [[Eyebite Xphb]] | 4 |  
     ^eye-of-vecna-spells  
 - **X-ray Vision.** You can take a [[actions#Magic|Magic]] action to gain X-ray vision with a range of 30 feet for 1 minute. To you, solid objects within that radius appear transparent and don't prevent light from passing through themselves. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.  
 
 ## Destroying the Eye and Hand
 
-If the Eye of Vecna and the [[hand of vecna xdmg|Hand of Vecna]] are both attached to the same creature and that creature is slain by the [[sword of kas xdmg|Sword of Kas]], both the eye and the hand burst into flame, turn to ash, and are destroyed. Any other attempt to destroy the eye or hand seems to work, but the Artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
+If the Eye of Vecna and the [[eye-and-hand-of-vecna-xdmg (items)]] are both attached to the same creature and that creature is slain by the [[Sword of Kas Xdmg]], both the eye and the hand burst into flame, turn to ash, and are destroyed. Any other attempt to destroy the eye or hand seems to work, but the Artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 *Source: Dungeon Master's Guide (2024) p. 259*
 

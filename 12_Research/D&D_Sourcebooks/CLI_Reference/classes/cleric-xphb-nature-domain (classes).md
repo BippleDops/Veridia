@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Nature Domain
-*[[cleric xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb-nature-domain (classes)]]: Cleric Subclass*  
 *Source: Player's Handbook p. 61*  
 
 > [!tldr] Class and Feature Progression
@@ -67,7 +67,7 @@ world: Both
 
 ### Nature Domain (Level 3)
 
-Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, [[dragonlance chislev phb|Chislev]], [[eberron balinor|Balinor]], and [[greek pan|Pan]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
+Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, [[dragonlance-chislev-phb (deities)]], [[Eberron Balinor]], and [[greek-pan (deities)]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -75,11 +75,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[animal friendship xphb|animal friendship]], [[speak with animals xphb|speak with animals]] |
-| 3rd | [[barkskin xphb|barkskin]], [[spike growth xphb|spike growth]] |
-| 5th | [[plant growth xphb|plant growth]], [[wind wall xphb|wind wall]] |
-| 7th | [[dominate beast xphb|dominate beast]], [[grasping vine xphb|grasping vine]] |
-| 9th | [[insect plague xphb|insect plague]], [[tree stride xphb|tree stride]] |
+| 1st | [[Animal Friendship Xphb]], [[Speak With Animals Xphb]] |
+| 3rd | [[barkskin-xphb (spells)]], [[spike-growth-xphb (spells)]] |
+| 5th | [[Plant Growth Xphb]], [[Wind Wall Xphb]] |
+| 7th | [[beast]], [[Grasping Vine Xphb]] |
+| 9th | [[Insect Plague Xphb]], [[Tree Stride Xphb]] |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)

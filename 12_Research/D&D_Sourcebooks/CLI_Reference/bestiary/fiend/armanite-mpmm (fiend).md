@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armanite-mpmm-armanite-mpmm.svg)
 
-# [[armanite mpmm|Armanite]]
+# [[armanite-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.

@@ -16,6 +16,25 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -185,8 +204,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Verdant Shard]] (friend)
-- [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg]] (friend)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg]] (rival)
+- [[04_Resources]] (friend)
+- [[04_Resources]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -213,3 +232,40 @@ Member of House Dragonblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

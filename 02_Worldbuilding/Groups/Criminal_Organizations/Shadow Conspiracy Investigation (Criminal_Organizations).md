@@ -187,11 +187,11 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 #### Advanced Detection
 **Technical Methods**
-- **[[02 Worldbuilding/Items/Lightstone Scanners|02 Worldbuilding/Items/Lightstone Scanners]]**: Devices that reveal shadow nature
-- **[[02 Worldbuilding/Items/Memory Resonators|02 Worldbuilding/Items/Memory Resonators]]**: Tools that detect false memories
-- **[[02 Worldbuilding/Items/Truth Crystals|02 Worldbuilding/Items/Truth Crystals]]**: Artifacts that compel honesty
-- **[[02 Worldbuilding/Items/Original Trackers|02 Worldbuilding/Items/Original Trackers]]**: Locate imprisoned real versions
-- **[[02 Worldbuilding/Items/Shadow Dampeners|02 Worldbuilding/Items/Shadow Dampeners]]**: Suppress shadow abilities temporarily
+- **[[02_Worldbuilding]]**: Devices that reveal shadow nature
+- **[[02_Worldbuilding]]**: Tools that detect false memories
+- **[[02_Worldbuilding]]**: Artifacts that compel honesty
+- **[[Original Trackers]]**: Locate imprisoned real versions
+- **[[02_Worldbuilding]]**: Suppress shadow abilities temporarily
 
 #### Deep Cover Operations
 **Long-term Placement**

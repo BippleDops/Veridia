@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-weird-xmm-v1-water-weird-xmm.svg)
 
-# [[water weird xmm|Water Weird]]
+# [[water-weird-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 323*  
 
 ## 🔧 Deep Evaluation Improvements

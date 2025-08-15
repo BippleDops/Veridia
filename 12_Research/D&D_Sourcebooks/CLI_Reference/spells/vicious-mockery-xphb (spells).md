@@ -42,11 +42,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [[disadvantage xphb|Disadvantage]] on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [[Advantage Xphb]] on the next attack roll it makes before the end of its next turn.
 
 **Cantrip Upgrade.** The damage increases by `d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [[list spells classes bard|Bard]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 337. Available in the SRD and the Free Rules (2024)*
 
@@ -88,3 +88,16 @@ Mentioned in The First Prophecy of Stars
 - An heirloom has gone missing and chaos spreads
 - A document has gone missing and chaos spreads
 - A corpse reveals a betrayal about this place
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

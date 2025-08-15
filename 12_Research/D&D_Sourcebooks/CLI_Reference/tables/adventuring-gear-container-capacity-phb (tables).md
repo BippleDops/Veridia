@@ -37,19 +37,19 @@ world: Both
 
 | Container | Capacity |
 |-----------|----------|
-| [[backpack xphb|Backpack]]* | 1 cubic foot/30 pounds of gear |
-| [[barrel xphb|Barrel]] | 40 gallons liquid, 4 cubic feet solid |
-| [[basket xphb|Basket]] | 2 cubic feet/40 pounds of gear |
-| [[glass bottle xphb|Bottle]] | 1½ pints liquid |
-| [[bucket xphb|Bucket]] | 3 gallons liquid, 1/2 cubic foot solid |
-| [[chest xphb|Chest]] | 12 cubic feet/300 pounds of gear |
-| [[flask xphb|Flask]] or [[tankard|tankard]] | 1 pint liquid |
-| [[jug xphb|Jug]] or [[pitcher|pitcher]] | 1 gallon liquid |
-| [[iron pot xphb|Pot, iron]] | 1 gallon liquid |
-| [[pouch xphb|Pouch]] | 1/5 cubic foot/6 pounds of gear |
-| [[sack xphb|Sack]] | 1 cubic foot/30 pounds of gear |
-| [[vial xphb|Vial]] | 4 ounces liquid |
-| [[waterskin xphb|Waterskin]] | 4 pints liquid |
+| [[Backpack Xphb]]* | 1 cubic foot/30 pounds of gear |
+| [[Barrel Xphb]] | 40 gallons liquid, 4 cubic feet solid |
+| [[basket-xphb (items)]] | 2 cubic feet/40 pounds of gear |
+| [[Glass Bottle Xphb]] | 1½ pints liquid |
+| [[Bucket Xphb]] | 3 gallons liquid, 1/2 cubic foot solid |
+| [[leomunds-secret-chest-xphb (spells)]] | 12 cubic feet/300 pounds of gear |
+| [[Flask Xphb]] or [[tankard|tankard]] | 1 pint liquid |
+| [[Jug Xphb]] or [[pitcher|pitcher]] | 1 gallon liquid |
+| [[iron-pot-xphb (items)]] | 1 gallon liquid |
+| [[component-pouch-xphb (items)]] | 1/5 cubic foot/6 pounds of gear |
+| [[sack-xphb (items)]] | 1 cubic foot/30 pounds of gear |
+| [[Vial Xphb]] | 4 ounces liquid |
+| [[waterskin-xphb (items)]] | 4 pints liquid |
 ^container-capacity
 
 * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.

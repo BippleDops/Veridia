@@ -48,9 +48,9 @@ world: Both
 - **Components:** V, S, M (a handful of oak bark)
 - **Duration:** 1 hour
 
-You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [[armor-class-xphb|Armor Class]] of 17 if its AC is lower than that.
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [[armor-class-xphb (variant-rules)]] of 17 if its AC is lower than that.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 

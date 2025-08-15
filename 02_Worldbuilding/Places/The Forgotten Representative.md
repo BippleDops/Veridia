@@ -1,10 +1,10 @@
 ---
 
 title: The Forgotten Representative
-type: Location
+type: [[location]]
 tags:
 - mystery
-- aquabyssos
+- [[Aquabyssos]]
 - session-notes
 - status/complete
 - representative
@@ -12,17 +12,17 @@ tags:
 - political
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - location
 - complete
 - world/aquabyssos
 - prophecy
-created: 2025-08-08 - Category/People
+created: 2025-08-08 - Category/[[People]]
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,9 +106,9 @@ improvements: 20
 
 ## Overview
 
-The Forgotten Representative is a mysterious figure who claims to speak for the countless individuals whose contributions to Aquabyssos have been erased from official records or deliberately forgotten. This enigmatic person appears at public gatherings, political meetings, and civic ceremonies to remind audiences of overlooked sacrifices, unacknowledged builders, and marginalized communities whose work made the city possible.
+The Forgotten Representative is a [[Mysterious Figure]] who claims to speak for the countless individuals whose contributions to Aquabyssos have been erased from official records or deliberately forgotten. This enigmatic person appears at public gatherings, political meetings, and civic ceremonies to remind audiences of overlooked sacrifices, unacknowledged builders, and marginalized communities whose work made the city possible.
 
-No one knows the Representative's true identity, as they appear wearing a simple mask made of coral fragments and speak in a voice that seems to carry the weight of collective memory. Their knowledge of obscure historical details and forgotten events is encyclopedic, suggesting either extensive research or supernatural connection to the city's suppressed past.
+No one knows the Representative's true identity, as they appear wearing a simple mask made of [[Coral]] fragments and speak in a voice that seems to carry the weight of collective memory. Their knowledge of obscure historical details and forgotten events is encyclopedic, suggesting either extensive research or supernatural connection to the city's suppressed past.
 
 ## Appearance
 
@@ -143,28 +143,28 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 
 **Revelation of Truth (3/day).** The Representative can force one creature within 60 feet to confront a forgotten truth about themselves or their actions. The target must make a DC 16 Wisdom save or be stunned for 1 round by the revelation.
 
-**Call to Remembrance (1/day).** The Representative summons the spirits of 2d6 forgotten individuals who serve as witnesses to truth for up to 10 minutes.
+**Call to Remembrance (1/day).** The Representative summons the spirits of [[2d6]] forgotten individuals who serve as witnesses to truth for up to 10 minutes.
 
 ## Current Activities
 
 The Representative has become increasingly active during the current political crisis, appearing at faction meetings to remind leaders of past promises they've broken and communities they've abandoned. Their interventions often force uncomfortable reckonings with historical injustices that contribute to current tensions.
 
-They seem particularly focused on ensuring that any resolution to the crisis acknowledges the contributions and sacrifices of marginalized groups whose voices might otherwise be overlooked in peace negotiations.
+They seem particularly focused on ensuring that any resolution to the crisis acknowledges the contributions and sacrifices of marginalized [[Groups]] whose voices might otherwise be overlooked in peace negotiations.
 
 ## Quest Hooks
 
-1. The Representative approaches the party with evidence of historical injustices that might hold the key to resolving current conflicts.
+1. The Representative approaches [[The Party]] with [[Evidence]] of historical injustices that might hold the key to resolving current conflicts.
 2. Someone is trying to silence the Representative permanently, and the party must investigate who wants certain memories to remain buried.
 3. The Representative asks the party to help recover stolen historical records that could vindicate forgotten heroes.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
 
@@ -172,7 +172,7 @@ Use the Forgotten Representative to introduce historical complexity to current e
 
 The Forgotten Representative is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Forgotten Representative as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Representative.
 
@@ -180,7 +180,7 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 **Sights**: Sunlight filters through stained glass windows
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
@@ -192,6 +192,34 @@ The Forgotten Representative is a notable location characterized by its unique f
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -208,7 +236,7 @@ Ongoing situations affecting The Forgotten Representative:
 - A stranger needs help delivering before the new moon
 - A noble needs help delivering before winter
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -223,7 +251,7 @@ Ongoing situations affecting The Forgotten Representative:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -236,3 +264,40 @@ Ongoing situations affecting The Forgotten Representative:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

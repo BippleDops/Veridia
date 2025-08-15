@@ -1,7 +1,7 @@
 ---
 
 title: The Grand Bazaar of Echoing Coins
-type: Location
+type: [[location]]
 tags:
 - both
 - aerial
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.677120+00:00'
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ improvements: 20
 
 ## Overview
 
-The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[Port Meridian]]. This massive commercial district operates under the direct protection of the [[Merchant Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated ficial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
+The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[Port Meridian]]. This massive [[Commercial District]] operates under the direct protection of the [[[[Merchant]] Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated ficial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
 
 ### Economic Intrigue
 
@@ -114,8 +114,8 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ### Social & Political
 
 5. **The Merchant Prince Election**: Influence selection of new council member
-6. **Foreign Embargo**: Navigate diplomatic crisis affecting international trade
-7. **Guild War**: Mediate conflict between competing merchant organizations
+6. **Foreign Embargo**: Navigate diplomatic crisis affecting [[International Trade]]
+7. **Guild War**: Mediate conflict between competing merchant [[Organization]]s
 8. **The Inheritance Dispute**: Resolve complex legal battle over trading empire
 
 ### Criminal Activities
@@ -129,20 +129,20 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 
 The Grand Bazaar of Echoing Coins is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Grand Bazaar of Echoing Coins as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Grand Bazaar of Echoing Coins.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -164,6 +164,34 @@ The Grand Bazaar of Echoing Coins is a notable location characterized by its uni
 ### Founding
 The Grand Bazaar of Echoing Coins was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Grand Bazaar of Echoing Coins:
@@ -184,12 +212,12 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - A stranger needs help investigating before the new moon
 - Strange accidents suggest a conspiracy
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -199,7 +227,7 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 
@@ -212,3 +240,40 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

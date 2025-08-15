@@ -44,11 +44,11 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/gate xphb "XPHB"|Gate]]
-- [[/03 Mechanics/CLI/spells/storm-of-vengeance-xphb "XPHB"|Storm of Vengeance]]
-- [[/03 Mechanics/CLI/spells/wish xphb "XPHB"|Wish]]
+- [[spells]]
+- [[spells]]
+- [[spells]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 
@@ -69,3 +69,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: PHB p.XXX
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-school-conjuration (lists)-phb]]` in CLI_Reference/spells/

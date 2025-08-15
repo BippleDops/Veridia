@@ -40,18 +40,18 @@ world: Both
 
 | dice: d12 | Brute(s) |
 |-----------|----------|
-| 1 | [[bugbear warrior xmm|Bugbears]] |
-| 2 | [[doppelganger xmm|Doppelgangers]] |
-| 3 | [[ettercap xmm|Ettercaps]] |
-| 4 | [[gargoyle xmm|Gargoyles]] |
-| 5 | [[jackalwere xmm|Jackalweres]] |
-| 6 | [[kenku xmm|Kenku]] |
-| 7 | [[meenlock mpmm|Meenlocks]] |
-| 8 | [[oni xmm|Oni]] |
-| 9 | [[quickling mpmm|Quicklings]] |
-| 10 | [[redcap mpmm|Redcaps]] |
-| 11 | [[wererat xmm|Wererats]] |
-| 12 | [[werewolf xmm|Werewolves]] |
+| 1 | [[Bugbear Warrior Xmm]] |
+| 2 | [[Doppelganger Xmm]] |
+| 3 | [[Ettercap Xmm]] |
+| 4 | [[gargoyle-xmm (elemental)]] |
+| 5 | [[Jackalwere Xmm]] |
+| 6 | [[Kenku Xmm]] |
+| 7 | [[Meenlock Mpmm]] |
+| 8 | [[Oni Xmm]] |
+| 9 | [[quickling-mpmm (fey)]] |
+| 10 | [[Redcap Mpmm]] |
+| 11 | [[Wererat Xmm]] |
+| 12 | [[werewolf-xmm (monstrosity)]] |
 ^brutes
 
 ## 🔧 Deep Evaluation Improvements

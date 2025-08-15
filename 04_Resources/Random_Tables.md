@@ -1,5 +1,6 @@
 ---
 
+
 title: 04_Resources/Random_Tables
 type: lore
 tags:
@@ -9,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -81,3 +83,12 @@ improvements: 20
 - Strange disappearances suggest a conspiracy
 - A document has gone missing and truth emerges
 - The authorities needs help finding before dawn
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

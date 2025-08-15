@@ -1,7 +1,7 @@
 ---
 
 title: Crystal Corruption Tracking Sheet
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - technology
@@ -10,7 +10,7 @@ tags:
 - mechanics/magic
 - innovation
 - aquatic
-- data-analysis
+- [[data]]-analysis
 - monitoring-device
 - content/lore
 - world/aethermoor
@@ -39,7 +39,7 @@ improvements: 20
 
 *The Silent Guardian Against Crystalline Corruption*
 
-> *"The Tracking Sheet doesn't just record corruption—it predicts it, maps it, and gives us the intelligence we need to fight back. Without this technology, we'd be fighting blind against an enemy that moves faster than we can see."*
+> *"The Tracking Sheet doesn't just record corruption—it predicts it, [[map]]s it, and gives us the intelligence we need to fight back. Without this technology, we'd be fighting blind against an enemy that moves faster than we can see."*
 > — [[Chief Corruption Analyst Prism Datascribe]], Director of Corruption Intelligence
 
 ## 🔧 Deep Evaluation Improvements
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -104,13 +104,13 @@ improvements: 20
 
 ## Overview
 
-The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-time detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
+The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-[[Time]] detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
 
 Developed in response to the accelerating spread of [[Crystal Corruption]], the Tracking Sheet system provides early warning capabilities, enables rapid response deployment, supports research into corruption patterns, and facilitates international cooperation in anti-corruption efforts. The technology has become essential infrastructure for protecting both [[Aethermoor]] and [[Aquabyssos]] populations.
 
 The system operates through a network of detection nodes, analytical processing centers, and communication relays that work together to create real-time maps of corruption activity. Advanced magical algorithms process detection data to identify patterns, predict spread directions, and recommend response strategies based on historical data and current conditions.
 
-Recent upgrades have enhanced the system's ability to detect subtle corruption influences, predict long-term corruption trends, coordinate with similar systems in other locations, and provide intelligence supporting both defensive and research operations against crystalline corruption threats.
+Recent upgrades have enhanced the system's ability to detect subtle corruption influences, predict long-term corruption trends, coordinate with similar systems in other [[location]]s, and provide intelligence supporting both defensive and research operations against crystalline corruption threats.
 
 ### Detection Network Infrastructure
 
@@ -164,12 +164,12 @@ Advanced processing provides detailed corruption intelligence:
 ### Communication and Reporting Networks
 
 **Information Distribution Systems:**
-Comprehensive communication networks ensure corruption intelligence reaches appropriate personnel:
+Comprehensive [[Communication Networks]] ensure corruption intelligence reaches appropriate personnel:
 
 **Communication Components:**
 - **Emergency Alert Systems**: Immediate notification of critical corruption threats
 - **Routine Reporting Networks**: Regular updates on corruption status and trends
-- **Inter-Agency Coordination**: Communication links between different anti-corruption organizations
+- **Inter-Agency Coordination**: Communication links between different anti-corruption [[Organization]]s
 - **Cross-Realm Information Sharing**: Networks enabling intelligence sharing with [[Aquabyssos]]
 - **Public Warning Systems**: Citizen notification systems for corruption emergencies
 
@@ -177,7 +177,7 @@ Comprehensive communication networks ensure corruption intelligence reaches appr
 - **Real-Time Dashboards**: Live corruption status displays for operational personnel
 - **Daily Intelligence Briefings**: Comprehensive summaries for leadership and planning personnel
 - **Emergency Alerts**: Critical threat notifications requiring immediate response
-- **Research Reports**: Detailed analysis supporting corruption research and countermeasure development
+- **Research [[reports]]**: Detailed analysis supporting corruption research and countermeasure development
 - **Strategic Assessments**: Long-term corruption trend analysis for policy development
 
 ### Production Facilities and Expertise
@@ -209,7 +209,7 @@ Corruption tracking systems require specialized resources from various suppliers
 **Primary Materials:**
 - **Detection Crystals**: Specialized crystals sensitive to corruption, harvested from [[Crystal Forest]] facilities
 - **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[Magical Component Manufacturers Guil]]
-- **Communication Infrastructure**: Networks and transmission equipment from [[Communication Systems Consortium]]
+- **Communication Infrastructure**: Networks and transmission equipment from [[[[Communication Systems]] Consortium]]
 - **Environmental Monitoring Equipment**: Sensors for air, water, and soil analysis from [[Environmental Systems Suppliers]]
 - **Data Storage Systems**: Magical and technological storage for corruption intelligence from [[Information Systems Alliance]]
 
@@ -230,7 +230,7 @@ Deploying corruption tracking systems requires careful planning and specialized 
 - **Threat Analysis**: Assessment of existing corruption levels and monitoring priorities
 - **Infrastructure Planning**: Coordination with existing communication and power systems
 - **Security Evaluation**: Assessment of installation site security and protection requirements
-- **Community Coordination**: Consultation with local authorities and residents
+- **Community Coordination**: Consultation with [[Local Authorities]] and residents
 
 **Installation Procedures:**
 Corruption tracking system deployment follows established protocols:
@@ -247,7 +247,7 @@ Corruption tracking system deployment follows established protocols:
 - **Detection Accuracy Validation**: Confirming sensors provide accurate corruption readings
 - **Response Time Evaluation**: Testing system speed and reliability
 - **Personnel Training**: Ensuring operators understand system capabilities and procedures
-- **Emergency Protocol Testing**: Verifying crisis response procedures function correctly
+- **[[Emergency Protocol]] Testing**: Verifying crisis response procedures function correctly
 
 ### Daily Operations and Monitoring
 
@@ -266,7 +266,7 @@ Corruption tracking systems require continuous monitoring and routine maintece:
 - **Data Analysts**: Specialists interpreting corruption detection information ([[Data Analyst Current Patternweave]])
 - **Communication Coordinators**: Personnel managing information distribution ([[Communications Coordinator Wave Messagewright]])
 - **Maintece Technicians**: Specialists performing system upkeep and repairs ([[Maintece Tech Reef Fixwright]])
-- **Emergency Response Coordinators**: Personnel managing crisis response ([[Emergency Coordinator Storm Responsewrigh]])
+- **[[Emergency Response Coordinators]]**: Personnel managing crisis response ([[Emergency Coordinator Storm Responsewrigh]])
 
 ### Early Warning and Prevention
 
@@ -280,7 +280,7 @@ The primary application of tracking systems involves identifying corruption thre
 - **Quarantine Support**: Information supporting isolation of corrupted areas
 - **Resource Protection**: Monitoring systems protecting critical infrastructure and resources
 
-**Public Safety:**
+**[[Public Safety]]:**
 Tracking systems protect civilian populations through various applications:
 
 - **Evacuation Planning**: Information supporting population movement during corruption emergencies
@@ -310,7 +310,7 @@ Tracking systems provide strategic intelligence for anti-corruption operations:
 - **International Cooperation**: Intelligence sharing with allied organizations and governments
 - **Policy Development**: Information supporting corruption-related legislation and regulation
 
-### Emergency Response and Crisis Management
+### Emergency Response and [[Crisis Management]]
 
 **Crisis Response Support:**
 During corruption emergencies, tracking systems provide critical operational support:
@@ -318,7 +318,7 @@ During corruption emergencies, tracking systems provide critical operational sup
 **Emergency Applications:**
 - **Rapid Assessment**: Quick evaluation of corruption incident scope and severity
 - **Response Coordination**: Information supporting multi-agency emergency response
-- **Evacuation Route Planning**: Data identifying safe evacuation paths during corruption emergencies
+- **Evacuation Route Planning**: Data identifying safe evacuation [[path]]s during corruption emergencies
 - **Resource Deployment**: Information guiding emergency resource allocation
 - **Recovery Planning**: Data supporting post-incident cleanup and restoration efforts
 
@@ -360,7 +360,7 @@ Comprehensive security systems protect tracking system integrity:
 - **Communication Encryption**: Secure transmission preventing information theft
 - **Personnel Screening**: Background checks and security clearances for system operators
 - **System Authentication**: Verification preventing unauthorized access or data modification
-- **Emergency Protocols**: Rapid response procedures for security incidents
+- **[[Emergency Protocols]]**: Rapid response procedures for security incidents
 
 ### Data Accuracy and Interpretation Challenges
 
@@ -386,7 +386,7 @@ Corruption tracking faces various challenges in providing accurate and useful in
 **Next-Generation Monitoring Systems:**
 Ongoing research promises significant improvements to corruption tracking capabilities:
 
-**Current Research Initiatives:**
+**Current Research [[Initiative]]s:**
 - **Quantum Corruption Detection**: Advanced physics applications for ultra-sensitive monitoring
 - **Biological Integration**: Living organisms enhanced to serve as corruption sensors
 - **Predictive AI Development**: Artificial intelligence improving corruption forecast accuracy
@@ -424,7 +424,7 @@ Corruption tracking technology creates various commercial possibilities:
 - **Agricultural Monitoring**: Corruption detection protecting crops and livestock
 - **Export Certification**: Verification that exported goods are corruption-free
 
-**Technology Transfer:**
+**[[Technology Transfer]]:**
 - **International Sales**: Export of tracking systems to other civilizations
 - **Licensing Agreements**: Sharing technology in exchange for royalties
 - **Training Services**: Education and certification for tracking system operators
@@ -448,9 +448,9 @@ Corruption tracking integrates with other monitoring and security systems:
 Various organizations work with corruption tracking systems:
 
 - **[[Corruption Intelligence Agency]]**: Primary user of tracking system data
-- **[[Anti Corruption Research Institute]]**: Research organization using tracking information
+- **[[Anti-Corruption Research Institute (D&D_References)]]**: Research organization using tracking information
 - **[[Emergency Response Coordination]]**: Crisis management using tracking system alerts
-- **[[Environmental Protection Authorit]]**: Agency using tracking data for environmental safety
+- **[[[[Environmental Protection]] Authorit]]**: Agency using tracking data for environmental safety
 - **[[International Corruption Monitoring Consortium]]**: Cross-realm cooperation organization
 
 ### Research and Development Partnerships
@@ -461,7 +461,7 @@ Multiple organizations contribute to tracking system advancement:
 - **[[Aethermoor Technical University]]**: Academic research and technical training
 - **[[Corruption Studies Research Institute]]**: Specialized corruption research and analysis
 - **[[Detection Technology Laboratory]]**: Advanced sensor and monitoring system development
-- **[[Cross Realm Cooperation Authority]]**: International collaboration on corruption threats
+- **[[Cross-Realm Cooperation Authority]]**: International collaboration on corruption threats
 - **[[Emergency Technology Development Foundation]]**: Crisis response and public safety advancement
 
 ### Investigation and Intelligence Scenarios
@@ -480,7 +480,7 @@ Corruption tracking provides numerous adventure opportunities:
 - Coordinating multi-agency response to major corruption threats
 - International cooperation on cross-realm corruption intelligence
 - Counter-intelligence operations protecting tracking system security
-- Information warfare involving corruption data manipulation
+- [[Information Warfare]] involving corruption data manipulation
 - Strategic analysis supporting long-term anti-corruption planning
 
 ### Crisis Response and Emergency Adventures
@@ -516,10 +516,10 @@ Involvement with tracking systems offers character advancement:
 **Social Integration:**
 Understanding tracking systems helps navigate society:
 
-- Intelligence community relationships and cooperation
+- [[Intelligence Community]] relationships and cooperation
 - Government policy and corruption-related regulation
 - Scientific research community and academic cooperation
-- International relations and cross-realm collaboration
+- [[International Relations]] and cross-realm collaboration
 - Public safety and emergency response coordination
 
 ## Player-Facing Summary
@@ -530,11 +530,11 @@ Crystal Corruption Tracking Sheet is a undersea element of the setting, known fo
 
 Legends speak of Crystal Corruption Tracking Sheet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Tracking Sheet.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phoenix-mpmm-phoenix-mpmm.svg)
 
-# [[phoenix mpmm|Phoenix]]
+# [[Phoenix Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  

@@ -39,47 +39,47 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [[hobgoblin-captain-xmm|hobgoblin captain]] with `1d4 + 1` [[hobgoblin-warrior-xmm|hobgoblins]] |
-| 02 | 1 [[chimera xmm|chimera]] |
-| 03 | 1 [[gorgon xmm|gorgon]] |
-| 04 | `d2` [[couatl xmm|couatls]] |
-| 05 | 1 [[ankylosaurus xmm|ankylosaurus]] |
-| 06 | 1 [[weretiger xmm|weretiger]] |
-| 07 | `d3` [[allosaurus xmm|allosauruses]] |
-| 08-09 | `d3` [[elephant xmm|elephants]] |
+| 01 | 1 [[hobgoblin-captain-xmm (fey)]] with `1d4 + 1` [[hobgoblin-warrior-xmm|hobgoblins]] |
+| 02 | 1 [[Chimera Xmm]] |
+| 03 | 1 [[Brazen Gorgon Xmm]] |
+| 04 | `d2` [[Couatl Xmm]] |
+| 05 | 1 [[Ankylosaurus Xmm]] |
+| 06 | 1 [[Weretiger Xmm]] |
+| 07 | `d3` [[allosaurus]] |
+| 08-09 | `d3` [[elephant-xmm (beast)]] |
 | 10-14 | A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside |
 | 15-16 | 1 [[phase-spider-xmm|phase spider]] |
-| 17-18 | 1 [[gnoll-pack-lord-xmm|gnoll pack lord]] with `d4` [[giant-hyena-xmm|giant hyenas]] |
-| 19-20 | 1 [[pegasus xmm|pegasus]] |
-| 21-22 | 1 [[ankheg xmm|ankheg]] |
-| 23-24 | `d3` [[rhinoceros xmm|rhinoceroses]] |
-| 25-28 | `d3` [[cockatrice xmm|cockatrices]] |
+| 17-18 | 1 [[gnoll-pack-lord-xmm (fiend)]] with `d4` [[giant-hyena-xmm|giant hyenas]] |
+| 19-20 | 1 [[pegasus-xmm (celestial)]] |
+| 21-22 | 1 [[Ankheg Xmm]] |
+| 23-24 | `d3` [[Rhinoceros Xmm]] |
+| 25-28 | `d3` [[cockatrice-xmm (monstrosity)]] |
 | 29-32 | `1d6 + 2` [[giant-wasp-xmm|giant wasps]] or `1d4 + 3` [[swarm-of-insects-xmm|swarms of insects]] |
-| 33-36 | `d4` [[jackalwere xmm|jackalweres]] or `d4` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
-| 37-40 | `d8` [[giant-goat-xmm|giant goats]] or `d8` [[worg xmm|worgs]] |
-| 41-44 | `2d4` [[hobgoblin-warrior-xmm|hobgoblins]], `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]], or `2d4` [[gnoll-warrior-xmm|gnolls]] |
+| 33-36 | `d4` [[Jackalwere Xmm]] or `d4` [[Bestiary]] |
+| 37-40 | `d8` [[giant-goat-xmm|giant goats]] or `d8` [[dire-worg-xmm (fey)]] |
+| 41-44 | `2d4` [[hobgoblin-warrior-xmm|hobgoblins]], `2d4` [[Bestiary]], or `2d4` [[gnoll-warrior-xmm|gnolls]] |
 | 45-46 | `d2` [[giant-venomous-snake-xmm|giant poisonous snakes]] |
-| 47-48 | `1d6 + 2` [[elk xmm|elk]] or `1d6 + 2` [[riding-horse-xmm|riding horses]] |
+| 47-48 | `1d6 + 2` [[elk-xmm (beast)]] or `1d6 + 2` [[riding-horse-xmm|riding horses]] |
 | 49-50 | `2d4` [[goblin-warrior-xmm|goblins]] |
-| 51-52 | `d3` [[boar xmm|boars]] |
-| 53-54 | 1 leopard ([[panther xmm|panther]]) 1 [[lion xmm|lion]] |
+| 51-52 | `d3` [[giant-boar-xmm]] |
+| 53-54 | 1 leopard ([[Panther Xmm]]) 1 [[lion-xmm (beast)]] |
 | 55-58 | `1d6 + 3` [[goblin-warrior-xmm|goblins]] riding wolves |
 | 59-62 | `2d6` [[giant-wolf-spider-xmm|giant wolf spiders]] or 1 [[giant-eagle-xmm|giant eagle]] |
-| 63-65 | `1d8 + 4` [[pteranodon xmm|pteranodons]] |
-| 66-69 | `3d6` [[wolf xmm|wolves]] |
+| 63-65 | `1d8 + 4` [[pteranodon-xmm (beast)]] |
+| 66-69 | `3d6` [[werewolf-xmm (monstrosity)]] |
 | 70-74 | `2d4 + 2` [[axe-beak-xmm|axe beaks]] |
-| 75-76 | 1 [[giant-boar-xmm|giant boar]] or `d2` [[tiger xmm|tigers]] |
-| 77-78 | 1 [[ogre xmm|ogre]] or `d3` [[bugbear-warrior-xmm|bugbears]] |
-| 79-80 | [[giant-elk-xmm|giant elk]] or 1 [[gnoll-pack-lord-xmm|gnoll pack lord]] or `d3` [[giant-hyena-xmm|giant hyenas]] |
-| 81-82 | `d3` [[giant-vulture-xmm|giant vultures]] or `d3` [[hippogriff xmm|hippogriffs]] |
-| 83-84 | 1 [[goblin-boss-xmm|goblin boss]] with `1d6 + 2` [[goblin-warrior-xmm|goblins]] and `1d4 + 3` [[wolf xmm|wolves]], or `d3` [[thri-kreen-marauder-xmm|thri-kreen]] |
-| 85-89 | `d3` [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druids]] patrolling the wilds |
-| 90-91 | `d6` [[scarecrow xmm|scarecrows]] or 1 [[wereboar xmm|wereboar]] |
-| 92-93 | `d3` [[centaur-trooper-xmm|centaurs]] or `d3` [[griffon xmm|griffons]] |
-| 94 | `d3` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]], or 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `2d4 + 1` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
-| 95-96 | 1 [[triceratops xmm|triceratops]] |
-| 97 | 1 [[cyclops-sentry-xmm|cyclops]] or 1 [[bulette xmm|bulette]] |
-| 98-99 | `d4` [[manticore xmm|manticores]] |
+| 75-76 | 1 [[giant-boar-xmm|giant boar]] or `d2` [[Weretiger Xmm]] |
+| 77-78 | 1 [[Ogre Xmm]] or `d3` [[bugbear-warrior-xmm|bugbears]] |
+| 79-80 | [[giant-elk-xmm|giant elk]] or 1 [[gnoll-pack-lord-xmm (fiend)]] or `d3` [[giant-hyena-xmm|giant hyenas]] |
+| 81-82 | `d3` [[giant-vulture-xmm|giant vultures]] or `d3` [[hippogriff-xmm (monstrosity)]] |
+| 83-84 | 1 [[goblin-boss-xmm (fey)]] with `1d6 + 2` [[goblin-warrior-xmm|goblins]] and `1d4 + 3` [[werewolf-xmm (monstrosity)]], or `d3` [[thri-kreen-marauder-xmm|thri-kreen]] |
+| 85-89 | `d3` [[Bestiary]] patrolling the wilds |
+| 90-91 | `d6` [[scarecrow-xmm (construct)]] or 1 [[wereboar-xmm (monstrosity)]] |
+| 92-93 | `d3` [[centaur-trooper-xmm|centaurs]] or `d3` [[griffon-xmm (monstrosity)]] |
+| 94 | `d3` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]], or 1 [[Bestiary]] with `2d4 + 1` [[Bestiary]] |
+| 95-96 | 1 [[Triceratops Xmm]] |
+| 97 | 1 [[cyclops-sentry-xmm|cyclops]] or 1 [[bulette-xmm (monstrosity)]] |
+| 98-99 | `d4` [[Manticore Xmm]] |
 | 00 | 1 [[tyrannosaurus-rex-xmm|tyrannosaurus rex]] |
 ^grassland-encounters-levels-15
 
@@ -118,3 +118,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

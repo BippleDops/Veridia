@@ -40,8 +40,8 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-05 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
-| 06-10 | `d2` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] with `2d10 + 5` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] and `4d6 + 6` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 11-14 | `1d6 + 2` [[medusa xmm|medusas]] |
+| 06-10 | `d2` [[Bestiary]] with `2d10 + 5` [[Bestiary]] and `4d6 + 6` [[Bestiary]] |
+| 11-14 | `1d6 + 2` [[medusa-xmm (monstrosity)]] |
 | 15-18 | `d2` [[purple-worm-xmm|purple worms]] |
 | 19-22 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
 | 23-25 | An abandoned city made from white marble, empty during the day. At night, harmless apparitions roam the streets, replaying the final moments of their lives. |
@@ -49,11 +49,11 @@ world: Both
 | 31-35 | 1 [[mummy-lord-xmm|mummy lord]] |
 | 36-40 | `d4` hours of extreme heat (see chapter 5 of the *Dungeon Master's Guide*) |
 | 41-50 | `d3` [[guardian-naga-xmm|guardian nagas]] |
-| 51-60 | `d4` [[efreeti xmm|efreet]] |
+| 51-60 | `d4` [[Efreeti Xmm]] |
 | 61-63 | An old signpost identifying a single destination, called Pazar |
-| 64-72 | `d4` [[roc xmm|rocs]] |
+| 64-72 | `d4` [[Roc Xmm]] |
 | 73-80 | `d3` [[sphinx-of-lore-xmm|gynosphinxes]] |
-| 81-85 | 1 [[dracolich xmm|adult blue dracolich]] |
+| 81-85 | 1 [[dracolich-xmm (legendary-group)]] |
 | 86-90 | 1 [[sphinx-of-valor-xmm|androsphinx]] |
 | 91-96 | 1 [[ancient-brass-dragon-xmm|ancient brass dragon]] |
 | 97-99 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
@@ -96,3 +96,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

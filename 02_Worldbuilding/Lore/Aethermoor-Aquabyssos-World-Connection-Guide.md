@@ -1,7 +1,7 @@
 ---
 
-title: Aethermoor Aquabyssos World Connection Guide
-type: Lore
+title: [[Aethermoor]] [[Aquabyssos]] World Connection Guide
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -94,8 +94,8 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
 | [[Abyssos Prime]] | [[Port Meridian]] | Political Centers | Shared Parliament |
-| [[Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[Corallion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged [[Libraries]] |
+| [[[[Coral]]lion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
 | [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
 | [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
 | [[Crystallium]] | [[Resoce Peaks]] | Harmonic Centers | Frequency Sync |
@@ -108,7 +108,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - [[Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resoce keys
-   - Risk: Temporal displacement
+   - Risk: [[Temporal Displacement]]
 
 2. **Deep Wells**
    - Ancient shafts predating both civilizations
@@ -117,7 +117,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[12_Research/D&D_Statblocks/The Memory Meadows]] and [[Aethermoor Archives]]
+   - Flow between [[12 Research]] and [[Aethermoor Archives]]
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
@@ -128,14 +128,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Requirement: Shadow independence
    - Warning: One-way without shadow mastery
 
-#### Power Structures
+#### [[Power Structures]]
 ```mermaid
 graph TD
-    A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor]
-    B -->|Fragment Control| C[Parliament of Echoes]
-    C -.->|Shadow Influence| D[Noble Houses]
+    A[Aethermoor Queen] -.->|Possession [[Link]]| B[Aquabyssos [[Emperor]]]
+    B -->|Fragment Control| C[[[Parliament of Echoes]]]
+    C -.->|Shadow Influence| D[[[Noble House]]s]
     D -->|Crystal Connection| A
-    E[The Deep Mother] -->|Dreams| A
+    E[The [[Deep Mother]]] -->|Dreams| A
     E -->|Reality| B
 ```
 ### The Crystal Plague / Adaptation Syndrome
@@ -155,13 +155,13 @@ graph TD
 | -300 | Kingdom founding | Empire height | Same rulers? |
 | -200 | First crystal discovered | Deep magic found | Same source |
 | -100 | Faction wars begin | Depth divisions | Orchestrated |
-| 0 | Crystal Festival planned | Grand Conjunction | Synchronized |
+| 0 | [[Crystal Festival]] planned | Grand Conjunction | Synchronized |
 | +3 weeks | Plague appears | Shadows separate | Causation |
 | Now | Queen possessed | Emperor scattered | Linked minds |
 
 ### Prophetic Convergences
 
-1. **The Seven Seals**: Both worlds have seven
+1. **[[The Seven Seals]]**: Both worlds have seven
 2. **The Forgotten Age**: Missing century in both histories
 3. **The Deep Calendar**: Astronomical alignment
 4. **The Blood Moon**: Affects both worlds equally
@@ -171,7 +171,7 @@ graph TD
 
 1. Depth refugee seeking surface
 2. Surface explorer lost in depths
-3. Memory merchant trading between worlds
+3. Memory [[Merchant]] trading between worlds
 4. Shadow crossing dimensions
 5. Crystal plague/adaptation hybrid victim
 6. Temporal ghost from pre-separation
@@ -203,14 +203,14 @@ graph TD
 | "Surface" | "Freedom" | "Death" | Perspective |
 | "Shadow" | "Deception" | "Truth" | Reality |
 | "Crystal" | "Power" | "Prison" | Purpose |
-| "Tide" | "Change" | "Constant" | Time |
+| "Tide" | "Change" | "Constant" | [[Time]] |
 
 ### Managing Complexity
 
 1. Start with one connection point
 2. Gradually reveal parallels
 3. Let players discover links
-4. Use NPCs to bridge worlds
+4. Use [[Npc]]s to bridge worlds
 5. Keep consistent internal logic
 
 ### Tonal Balance
@@ -221,7 +221,7 @@ graph TD
 - Progress vs Tradition
 - Known vs Unknown
 
-> *"In the space between worlds, all possibilities exist simultaneously. The question isn't which world survives, but what new world emerges from their collision."*
+> *"In [[The Space Between Worlds]], all possibilities exist simultaneously. The question isn't which world survives, but what new world emerges from their collision."*
 
 ---
 
@@ -233,15 +233,15 @@ Aethermoor Aquabyssos World Connection Guide is a sky-borne element of the setti
 
 Legends speak of Aethermoor Aquabyssos World Connection Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Aquabyssos World Connection Guide.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Aethermoor-Aquabyssos-World-Connection-Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -254,12 +254,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A journal reveals a conspiracy about the government
 - A document has gone missing and truth emerges
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

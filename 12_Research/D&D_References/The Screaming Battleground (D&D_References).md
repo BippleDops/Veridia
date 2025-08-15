@@ -43,7 +43,7 @@ danger_level: Moderate
 - Add 12_Research-specific enhancement
 
 ## Overview
-The Screaming Battleground is a vast, cursed wasteland where the final battle between the ancient [[Ancient Mer Folk Empire|02 Worldbuilding/Lore/Ancient Mer Folk Empire]] and the surface kingdoms was fought 500 years ago. The intense magical conflict left the land permanently scarred, with crystalline formations erupting from the earth and the screams of the fallen echoing eternally across the battlefield. Now it serves as a dangerous wasteland where desperate parties venture for ancient treasures and lost magical artifacts.
+The Screaming Battleground is a vast, cursed wasteland where the final battle between the ancient [[Ancient Mer-Folk Empire (D&D_References)]] and the surface kingdoms was fought 500 years ago. The intense magical conflict left the land permanently scarred, with crystalline formations erupting from the earth and the screams of the fallen echoing eternally across the battlefield. Now it serves as a dangerous wasteland where desperate parties venture for ancient treasures and lost magical artifacts.
 
 ### Archaeological Expeditions
 1. **Recover the Lost Crown**: Find and retrieve Thalassos's royal regalia

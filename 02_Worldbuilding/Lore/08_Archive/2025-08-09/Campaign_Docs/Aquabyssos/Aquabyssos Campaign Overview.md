@@ -15,8 +15,13 @@ updated: 2025-08-14
 > *This is a  note created automatically because it was referenced in other notes.*
 
 ## Description
-
 *[To be filled in]*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
+
+*Further details to be discovered.*
 
 ## Details
 
@@ -27,7 +32,7 @@ updated: 2025-08-14
 ### Referenced In
 - [[Player Portal]]
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02 Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding]]
 
 ## Notes
 

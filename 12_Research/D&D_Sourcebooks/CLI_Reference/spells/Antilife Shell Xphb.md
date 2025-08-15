@@ -47,11 +47,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-An aura extends from you in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
+An aura extends from you in a 10-foot [[Area of Effect Xphb]] for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 241. Available in the SRD and the Free Rules (2024)*
 

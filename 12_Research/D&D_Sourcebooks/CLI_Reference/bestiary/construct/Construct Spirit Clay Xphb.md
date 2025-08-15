@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-clay-xphb-construct-spirit-clay-xphb.svg)
 
-# [[construct spirit clay xphb|Construct Spirit (Clay)]]
+# [[Construct Spirit Clay Xphb]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-twig-blight-xmm-twig-blight-xmm.svg)
 
-# [[twig blight xmm|Twig Blight]]
+# [[Twig Blight Xmm]]
 *Source: Monster Manual (2024) p. 43*  
 
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
@@ -96,7 +96,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [[advantage xphb|Advantage]]\
+  - "desc": "The blight has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the blight's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."

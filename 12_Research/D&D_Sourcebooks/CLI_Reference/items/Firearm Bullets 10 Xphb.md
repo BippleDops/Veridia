@@ -44,7 +44,7 @@ world: Both
 
 The ammunition of a firearm is destroyed upon use.
 
-Firearm Bullets are typically stored in a [[pouch xphb|Pouch]] (bought separately).
+Firearm Bullets are typically stored in a [[component-pouch-xphb (items)]] (bought separately).
 
 *Source: Player's Handbook (2024) p. 222*
 

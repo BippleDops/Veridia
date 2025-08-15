@@ -1,16 +1,16 @@
 ---
 
 title: Captain Marcus
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - military
 - captain
 - aquatic
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - campaign/arc
@@ -19,10 +19,10 @@ tags:
 - location
 - world/aquabyssos
 - naval
-created: 2025-08-08 - Category/People
+created: 2025-08-08 - Category/[[People]]
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ improvements: 20
 
 Captain Marcus Stormheart commands the elite naval vessel "Deepwatch" and serves as one of Aquabyssos's most experienced deep-sea patrol commanders. With over twenty years of military service, he has earned a reputation for tactical brilliance, unwavering loyalty to the city, and an almost supernatural ability to navigate the treacherous currents of both ocean and politics.
 
-Marcus specializes in long-range reconnaissance and threat assessment, leading expeditions into the deepest and most dangerous areas of the ocean to monitor for potential threats to the city. His ship and crew are often the first line of defense against abyssal creatures, hostile forces from other underwater realms, and mysterious phenomena from the deep trenches.
+Marcus specializes in long-range reconnaissance and threat assessment, leading expeditions into the deepest and most dangerous areas of the ocean to monitor for potential threats to the city. His ship and crew are often the first line of defense against abyssal creatures, hostile forces from other underwater realms, and mysterious phenomena from the [[Deep Trenches]].
 
 As political tensions rise within Aquabyssos, Marcus finds himself in the difficult position of maintaining military neutrality while ensuring the city's external defenses remain strong regardless of internal conflicts.
 
@@ -162,32 +162,32 @@ Marcus has never married, dedicating himself entirely to his military service an
 
 ## Current Activities
 
-With political tensions rising within the city, Marcus has increased his patrols of the outer territories, concerned that internal discord might make Aquabyssos vulnerable to external threats. He's been investigating reports of unusual activity in the deep trenches and evidence of potential hostile surveillance of the city.
+With political tensions rising within the city, Marcus has increased his patrols of the outer territories, concerned that internal discord might make Aquabyssos vulnerable to external threats. He's been investigating [[reports]] of unusual activity in the deep trenches and [[Evidence]] of potential hostile surveillance of the city.
 
 He's also been quietly preparing contingency plans for various scenarios, including the possibility that political conflicts might disrupt normal defensive operations or that external enemies might try to exploit the city's internal divisions.
 
 ## Quest Hooks
 
-1. Marcus approaches the party with evidence of external threats to the city, needing discrete investigators who can operate outside official channels.
+1. Marcus approaches [[The Party]] with evidence of external threats to the city, needing discrete investigators who can operate outside official channels.
 2. The party requires naval transport for a dangerous mission, leading them to negotiate with Marcus for the use of his ship and crew.
 3. Strange signals from the deep ocean suggest an imminent threat, and Marcus needs the party's help to investigate without alarming the civilian population.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
+Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for mari[[Time]] adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
 
 ## Player-Facing Summary
 
 Captain Marcus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Captain Marcus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Marcus.
 
@@ -195,7 +195,7 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 
 **Sights**: The architecture features sweeping arches and ornate carvings
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Incense mingles with the scent of exotic spices
 
@@ -207,6 +207,34 @@ Captain Marcus is a notable location characterized by its unique features and st
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -234,3 +262,40 @@ Ongoing situations affecting Captain Marcus:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

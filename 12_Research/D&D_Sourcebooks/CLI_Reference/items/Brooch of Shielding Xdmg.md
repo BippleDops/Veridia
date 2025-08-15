@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/brooch-of-shielding.webp#right)
 
-While wearing this brooch, you have [[resistance xphb|Resistance]] to Force damage, and you have [[immunity xphb|Immunity]] to damage from the [[magic missile xphb|Magic Missile]] spell.
+While wearing this brooch, you have [[boon-of-energy-resistance-xphb (feats)]] to Force damage, and you have [[immunity-xphb (variant-rules)]] to damage from the [[Magic Missile]] spell.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the SRD and the Free Rules (2024)*
 

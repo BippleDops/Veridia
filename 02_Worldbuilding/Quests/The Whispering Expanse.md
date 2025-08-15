@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: The Whispering Expanse
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - cosmic-horror
@@ -55,7 +55,7 @@ obsidianUIMode: preview
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -105,14 +105,14 @@ obsidianUIMode: preview
 
 **Level Range:** 12-17  
 **Duration:** 6-10 sessions  
-**Themes:** Cosmic horror, investigation, sanity, forbidden knowledge  
+**Themes:** Cosmic horror, investigation, sanity, [[Forbidden Knowledge]]  
 **Party Size:** 3-6 characters  
 
-The [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
+The [[map]] of the Whispering Expanse]] is a vast [[region]] of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated [[reports]] of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. [[The Party]] must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
 
 ### The Growing Silence
 
-For centuries, the region now known as the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
+For centuries, the region now known as the [[Map of the Whispering Expanse]] was simply called [[Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, [[The Silence]] began to break.
 
 It started with isolated reports from the frontier town of [[Quiet Haven]]:
 - Residents hearing faint whispers in unknown languages during the night
@@ -132,11 +132,11 @@ What locals initially dismissed as imagination or stress has evolved into someth
 ### The Call for Heroes
 
 The regional government has tried multiple approaches to contain the situation:
-- **[[The Scholar's Guild]]** sent researchers who returned speaking in tongues
-- **[[02 Worldbuilding/Groups/The Order of the Silent Vigi|02 Worldbuilding/Groups/The Order Of The Silent Vigi]]** dispatched paladins who never returned at all
-- **[[Local Militia]]** established quarantine zones that were overrun from within
+- **[[Scholar's Guild]]]]** sent researchers who returned speaking in tongues
+- **[[The Order of the Silent Vigi]]** dispatched paladins who never returned at all
+- **[[[[Local Militi]]a]]** established quarantine zones that were overrun from within
 
-Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] and discover the truth behind the phenomenon.
+Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[Map of the Whispering Expanse]] and discover the truth behind the phenomenon.
 
 ### Opening Hook
 
@@ -144,7 +144,7 @@ The party is approached by **[[Magistrate Elena Greywind]]**, the regional admin
 
 #### Quiet Haven (The First Affected Settlement)
 
-Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barely 200 survivors, most showing signs of [[Whisper Exposure]]. Key locations include:
+Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barely 200 survivors, most showing signs of [[Whisper Exposure]]. [[Key [[location]]s]] include:
 
 **The Town Square**
 - A massive spiral pattern has been carved into the cobblestones
@@ -172,22 +172,22 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 - Contains extensive research notes and observations
 - Final entries become increasingly erratic and written in unknown scripts
 - **Linguistics DC 22**: Late entries show the researchers learned to write in the whisper-language
-- **Investigation DC 16**: Evidence suggests the researchers didn't flee - they walked calmly into the Expanse
+- **Investigation DC 16**: [[Evidence]] suggests the researchers didn't flee - they walked calmly into the Expanse
 
 **Equipment Cache**
 - Specialized listening devices and recording equipment
 - Several devices are still functional but produce disturbing audio
 - **Arcana DC 18**: The recordings can induce temporary madness in listeners
-- Contains research on [[Frequency Manipulation]] and [[Dimensional Resoce]]
+- Contains research on [[[[Frequency Manipulatio]]n]] and [[Dimensional_Resoce]]
 
 #### The Whisper Winds
 
 **Whisper Wind** (Environmental Hazard)
 - Occurs randomly throughout the Expanse (roll d20 each hour, occurs on 15+)
 - All creatures must make DC 16 Wisdom saves
-- Failure: Take 2d6 psychic damage and must use action next turn to listen
+- Failure: Take [[2d6]] psychic damage and must use action next turn to listen
 - Success: Half damage, no compulsion
-- Characters with 0 hit points from psychic damage become [[Whisper Touched]]
+- Characters with 0 hit points from psychic damage become [[Oracle]] Shrine ([[Places]])]]
 
 #### Reality Distortions
 
@@ -196,7 +196,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 - DC 18 Perception to notice architectural impossibilities
 - Navigation requires DC 20 Survival checks to avoid getting lost
 - Characters who fail by 5 or more are separated from the party
-- [[Whisper Touched]] creatures navigate these areas perfectly
+- [[Whisper-Touched William's Oracle Shrine (Places)]] creatures navigate these areas perfectly
 
 #### Silence Zones
 
@@ -209,7 +209,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 
 ### The Source Discovery
 
-As the party ventures deeper into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[The Resoce Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
+As the party ventures deeper into the [[Map of the Whispering Expanse]], they discover that the whispers originate from **[[The_Resoce_Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
 
 #### The Crater's Features
 
@@ -229,12 +229,12 @@ As the party ventures deeper into the [[02 Worldbuilding/Lore/Map of the Whisper
 
 #### The Ancient Observatory
 
-At the crater's center stands **[[The Observatory of Whispers]]**, a structure that predates recorded history:
+At the crater's center stands **[[The Observatory]] of Whispers]]**, a structure that predates recorded history:
 
 **The Listening Chamber**
 - A spherical room with perfect acoustic properties
 - Amplifies the whispers to unbearable levels
-- Contains ancient [[Resoce Equipment]] still partially functional
+- Contains ancient [[Resoce_Equipment]] still partially functional
 - DC 25 Arcana: The equipment is designed to communicate with entities in other dimensions
 
 **The Star Map**
@@ -264,12 +264,12 @@ As the party attempts to stop the ritual, they face the **[[Whisper Collective]]
 - **Damage Resistances** Psychic, Thunder
 - **Damage Immunities** Charmed, Frightened
 - **Senses** Truesight 120 ft., passive Perception 9
-- **Languages** Common, Deep Speech, telepathy 1 mile
+- **Languages** Common, Deep Speech, tele[[path]]y 1 mile
 - **Challenge Rating** 14 (11,500 XP)
 
 *Special Abilities:*
 - **Whisper Network**: Can communicate with all Whisper-Touched within 10 miles
-- **Reality Distortion**: Can alter local space within 60 feet
+- **[[Reality Distortion]]**: Can alter local space within 60 feet
 - **Madness Aura**: Creatures within 30 feet make DC 16 Wisdom saves or gain one level of madness
 - **Collective Spellcasting**: Can cast spells through any Whisper-Touched creature
 
@@ -294,7 +294,7 @@ The Collective has established several ritual sites throughout the Expanse, each
 #### Reality Storms
 
 **Dimensional Instability** (Combat Hazard)
-- Roll d20 at initiative count 20, reality storm on 16+
+- Roll d20 at [[Initiative]] count 20, reality storm on 16+
 - Random 30-foot radius area becomes unstable
 - All creatures in area: DC 17 Dexterity save or take 3d8 force damage
 - Area becomes difficult terrain that causes madness
@@ -350,7 +350,7 @@ If the party fails to stop the ritual:
 - Focus on mystery and investigation rather than cosmic horror
 - Can lead directly into the main quest
 
-#### The Lost Expedition
+#### [[The Lost Expedition]]
 
 *Level 10-14*
 - Party searches for the missing [[The Scholar's Guild]] expedition
@@ -366,7 +366,7 @@ If the party fails to stop the ritual:
 - Explores themes of redemption and recovery from cosmic horror
 - May involve travel to other planes to complete the healing process
 
-#### The Far Realm Response
+#### The [[Far Real]]m Response
 
 *Level 17-20*
 - The Far Realm entities attempt to establish contact through other means
@@ -386,8 +386,8 @@ If the party fails to stop the ritual:
 
 The **Whispering Expanse** can be integrated with other adventures and campaign elements:
 
-- **[[12_Research/D&D_Statblocks/The Pressure Conspiracy]]**: Political manipulation using whisper-influenced agents
-- **[[12_Research/D&D_Statblocks/Temporal Navigation]]**: Time-based approach to preventing or understanding the crisis
+- **[[12 Research]]**: Political manipulation using whisper-influenced agents
+- **[[Temporal Navigation]]**: [[Time]]-based approach to preventing or understanding the crisis
 - **[[Aquabyssos]]**: Connection to underwater sources of cosmic horror
 - **[[Ancient Observatory Networks]]**: Similar facilities in other locations
 - **[[Far Realm Incursions]]**: Part of a larger pattern of otherworldly invasion
@@ -398,7 +398,7 @@ Characters from this adventure can appear in future campaigns:
 - **[[Magistrate Elena Greywind]]**: Becomes an expert in cosmic threats
 - **[[Innkeeper Marcus Thorne]]**: Develops resistance to otherworldly influences  
 - **[[Dr Thaddeus Vain]]**: If cured, becomes a valuable but haunted ally
-- **[[The Whisper Survivors]]**: Form an organization to prevent similar disasters
+- **[[The Whisper Survivors]]**: Form an [[Organization]] to prevent similar disasters
 
 ### World Impact
 
@@ -418,7 +418,7 @@ The Whispering Expanse is a undersea element of the setting, known for biolumine
 
 Legends speak of The Whispering Expanse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whispering Expanse.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -427,3 +427,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and war looms
 - Strange sightings suggest a portal
 - Strange sightings suggest ancient magic
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

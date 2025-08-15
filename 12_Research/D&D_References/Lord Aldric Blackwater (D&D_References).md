@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Blackmailer**: [[Portrait NPC Quest the Runaway Golem V1 Quest the Runaway Golem.svg]]
-- **Child**: [[Portrait NPC Quest the Deepmind Weapon Quest the Deepmind Weapon.svg]]
-- **Lover**: [[Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
+- **Blackmailer**: [[Npc]]
+- **Child**: [[Npc]]
+- **Lover**: [[Npc]]
 - **Friend**: [[Scholar Emperor Thalassius the Wise]]
-- **Blackmailer**: [[Portrait NPC Lord Magnus Goldspire V2 Lord Magnus Goldspire.svg]]
+- **Blackmailer**: [[Npc]]
 
 ## Related Notes
 

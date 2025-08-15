@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrow-xmm-merrow-xmm.svg)
 
-# [[merrow xmm|Merrow]]
+# [[merrow-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 210. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

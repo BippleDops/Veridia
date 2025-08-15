@@ -27,7 +27,7 @@ Specific functionality can be enhanced based on requirements.
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Historical Context]]
 - Connected to: [[Character Backstories]]
 

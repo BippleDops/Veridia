@@ -49,7 +49,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ## Armor Class
 
-The Object [[armor class xphb|Armor Class]] table suggests ACs for various substances.
+The Object [[armor-class-xphb (variant-rules)]] table suggests ACs for various substances.
 
 **Object Armor Class**
 
@@ -66,7 +66,7 @@ The Object [[armor class xphb|Armor Class]] table suggests ACs for various subst
 
 ## Hit Points
 
-An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit points xphb|Hit Points]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit points xphb|Hit Points]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit-points-xphb (variant-rules)]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit-points-xphb (variant-rules)]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 **Object Hit Points**
 
@@ -80,7 +80,7 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 ## Damage Types and Objects
 
-Objects have [[immunity xphb|Immunity]] to Poison and Psychic damage. The DM might decide that some [[damage types xphb|damage types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[vulnerability xphb|Vulnerability]] to Fire damage.
+Objects have [[immunity-xphb (variant-rules)]] to Poison and Psychic damage. The DM might decide that some [[Damage Types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[Vulnerability Xphb]] to Fire damage.
 
 ## Damage Threshold
 

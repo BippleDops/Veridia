@@ -42,40 +42,40 @@ world: Both
 | 01 | 1 [[green-hag-xmm|green hag]] |
 | 02-03 | `2d4` [[giant-lizard-xmm|giant lizards]] or `2d4` [[giant-venomous-snake-xmm|giant poisonous snakes]] |
 | 04-05 | `2d8` [[winged-kobold-xmm|winged kobolds]] |
-| 06-07 | `1d10 + 1` [[bullywug-warrior-xmm|bullywugs]] with `1d8 + 1` [[giant-frog-xmm|giant frogs]] |
-| 08-09 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] |
+| 06-07 | `1d10 + 1` [[bullywug-warrior-xmm (fey)]] with `1d8 + 1` [[giant-frog-xmm|giant frogs]] |
+| 08-09 | 1 [[Bestiary]] |
 | 10 | `1d8 + 1` [[swarm-of-insects-xmm|swarms of insects]] |
-| 11-13 | `d12` [[ghoul xmm|ghouls]] |
-| 14-16 | `2d8` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
-| 17-19 | `2d10` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
+| 11-13 | `d12` [[ghoul-xmm (undead)]] |
+| 14-16 | `2d8` [[Bestiary]] |
+| 17-19 | `2d10` [[Bestiary]] |
 | 20-22 | `2d4` [[giant-spider-xmm|giant spiders]] |
-| 23-24 | Tainted water that exposes creatures that move through it to [[diseases#Sight%20Rot|sight rot]] (see ""Diseases"" in chapter 8 of the *Dungeon Master's Guide*) |
+| 23-24 | Tainted water that exposes creatures that move through it to [[diseases]] (see ""Diseases"" in chapter 8 of the *Dungeon Master's Guide*) |
 | 25-27 | `1d6 + 2` [[giant-toad-xmm|giant toads]] |
-| 28-30 | `3d6` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
-| 31-33 | `1d8 + 1` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
+| 28-30 | `3d6` [[Bestiary]] |
+| 31-33 | `1d8 + 1` [[Bestiary]] |
 | 34-36 | `1d4 + 1` [[swarm-of-venomous-snakes-xmm|swarms of poisonous snakes]] |
 | 37-38 | A bloated humanoid corpse floating facedown in the water |
 | 39-41 | 1 [[shambling-mound-xmm|shambling mound]] |
 | 42-44 | `1d4 + 1` [[will-o-wisp-xmm|will-o'-wisps]] |
-| 45-47 | `2d6` [[crocodile xmm|crocodiles]] |
+| 45-47 | `2d6` [[Crocodile Xmm]] |
 | 48-50 | `1d4 + 1` [[giant-constrictor-snake-xmm|giant constrictor snakes]] |
-| 51-54 | 1 [[lizardfolk-geomancer-xmm|lizardfolk shaman]] with `d3` [[swarm-of-venomous-snakes-xmm|swarms of poisonous snakes]] and `1d8 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
-| 55-58 | `1d8 + 1` [[ogre xmm|ogres]] |
-| 59-62 | `2d4` [[ghast xmm|ghasts]] |
+| 51-54 | 1 [[Lizardfolk Geomancer Xmm]] with `d3` [[swarm-of-venomous-snakes-xmm|swarms of poisonous snakes]] and `1d8 + 2` [[Bestiary]] |
+| 55-58 | `1d8 + 1` [[Ogre Xmm]] |
+| 59-62 | `2d4` [[ghast-xmm (undead)]] |
 | 63-65 | An altar partially sunk into the mud, devoted to a god that is part human and part frog |
 | 66-69 | 1 [[giant-crocodile-xmm|giant crocodile]] |
 | 70-73 | 1 [[shambling-mound-xmm|shambling mound]] |
-| 74-77 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d3` [[ogre xmm|ogres]] and `2d10 + 5` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
+| 74-77 | 1 [[Bestiary]] with `d3` [[Ogre Xmm]] and `2d10 + 5` [[Bestiary]] |
 | 78-80 | A torrential rain that lasts `d6` minutes and puts out all unprotected flames within 1 mile |
 | 81-82 | 1 [[young-black-dragon-xmm|young black dragon]] |
-| 83-84 | `d4` [[green-hag-xmm|green hags]] with `1d6 + 1` [[ogre xmm|ogres]] |
-| 85-86 | 1 [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] |
-| 87-88 | `1d4 + 1` [[wight xmm|wights]] |
-| 89-90 | `1d6 + 1` yuan-ti malisons: [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
-| 91-93 | `1d4 + 1` [[troll xmm|trolls]] |
+| 83-84 | `d4` [[green-hag-xmm|green hags]] with `1d6 + 1` [[Ogre Xmm]] |
+| 85-86 | 1 [[Bestiary]] |
+| 87-88 | `1d4 + 1` [[Wight Xmm]] |
+| 89-90 | `1d6 + 1` yuan-ti malisons: [[Bestiary]], [[Bestiary]], [[Bestiary]] |
+| 91-93 | `1d4 + 1` [[Troll Xmm]] |
 | 94-96 | `d10` [[revet xmm|revets]] |
 | 97-99 | `1d8 + 1` [[water-elemental-xmm|water elementals]] |
-| 00 | `d3` [[hydra xmm|hydras]] |
+| 00 | `d3` [[Hydra Xmm]] |
 ^swamp-encounters-levels-510
 
 ## 🔧 Deep Evaluation Improvements
@@ -120,3 +120,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 02_Worldbuilding/Groups/Faction_Overview
+# 02_Worldbuilding/[[Groups]]/Faction_Overview
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of 02_Worldbuilding/Groups/Faction_Overview involves several int
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Groups/Faction_Overview trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -36,7 +36,7 @@ Connected to 02_Worldbuilding/Groups/Faction_Overview are various other importan
 Different groups view 02_Worldbuilding/Groups/Faction_Overview through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02_Worldbuilding/Groups/Faction_Overview:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Groups/Faction_Overview has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02_Worldbuilding/Groups/Faction_Overview into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Groups/Faction_Overview might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/groups/faction_overview
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/groups/faction_overview

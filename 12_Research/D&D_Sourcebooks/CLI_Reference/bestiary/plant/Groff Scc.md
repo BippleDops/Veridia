@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-groff-scc-groff-scc.svg)
 
-# [[groff scc|Groff]]
+# [[groff-scc (plant)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 194*  
 
 Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane patch of moss—only to discover that it was the back of a hungry groff lurking beneath the surface. These shaggy swamp creatures have canine faces and glowing blue eyes, and they are ravenous carnivores—with pest mascots being their favorite food. A handful of more intrepid Witherbloom mages have learned to follow groffs in order to track down pest mascots, but most of these mages have yet to find a way to capture the pests before the groff eats someone.

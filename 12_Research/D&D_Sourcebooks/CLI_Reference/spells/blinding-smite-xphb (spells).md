@@ -45,7 +45,7 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `d8` for each spell slot level above 3.
 
-**Classes**: [[list spells classes paladin|Paladin]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 247*
 
@@ -93,3 +93,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[blinding-smite-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -51,7 +51,7 @@ _Source: Princes of the Apocalypse_
 
 Yan-C-Bin dwells in a palace of air on the Elemental Plane of Air. In his palace and in air nodes on the Material Plane (including the Howling Caves, described in chapter 5), Yan-C-Bin is master. He can use the following actions in his lair. On initiative count 20 (losing initiative ties), Yan-C-Bin takes a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- Yan-C-Bin drops the temperature of the air, covering all surfaces with ice. This effect is identical to the [[sleet storm xphb|sleet storm]] spell.  
+- Yan-C-Bin drops the temperature of the air, covering all surfaces with ice. This effect is identical to the [[sleet-storm-xphb (spells)]] spell.  
 - Yan-C-Bin controls the surrounding air as an extension of himself. Each creature Yan-C-Bin designates must succeed at a DC 24 Constitution saving throw or be hoisted or flung `3d6 × 10` feet through the air. A creature smashed into a solid object or released in mid-air takes `d6` bludgeoning damage for every 10 feet moved or fallen.  
 - Yan-C-Bin creates a torrent of debris within 120 feet of him that lasts until initiative count 20 on the next round. The debris lightly obscures every creature and object in the area for the duration. All creatures in the area must succeed at a DC 24 Wisdom saving throw or be [[conditions#Blinded|blinded]] until initiative count 20 on the next round.  
 

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-halberd-cos-animated-halberd-cos.svg)
 
-# [[animated halberd cos|Animated Halberd]]
+# [[Animated Halberd Cos]]
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -71,8 +71,8 @@ world: Both
 "cr": "1/4"
 "traits":
   - "desc": "The sword is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic field xphb|antimagic field]].\
-      \ If targeted by [[dispel magic xphb|dispel magic]],\
+      \ while in the area of an [[Antimagic Field Xphb]].\
+      \ If targeted by [[dispel-magic-xphb (spells)]],\
       \ the sword must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."

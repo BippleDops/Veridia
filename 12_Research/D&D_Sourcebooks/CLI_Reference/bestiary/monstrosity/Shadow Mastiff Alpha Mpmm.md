@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
 
-# [[shadow mastiff alpha mpmm|Shadow Mastiff Alpha]]
+# [[Shadow Mastiff Alpha Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.

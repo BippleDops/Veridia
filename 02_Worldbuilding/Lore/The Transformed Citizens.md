@@ -1,7 +1,7 @@
 ---
 
 title: The Transformed Citizens
-type: Lore
+type: [[Lore]]
 tags:
 - shadow-corruption
 - aquatic
@@ -13,7 +13,7 @@ tags:
 - reality-sickness
 - survival
 - content/lore
-- content/npc
+- content/[[Npc]]
 - crystal-enhanced
 - mutation
 - world/both
@@ -37,7 +37,7 @@ improvements: 20
 
 # The Transformed Citizens
 
-*When Reality Changes, People Change With It*
+*When Reality Changes, [[People]] Change With It*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -69,7 +69,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -93,14 +93,14 @@ improvements: 20
 
 ## Overview
 
-The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[Aethermoor]] and [[Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in the convergence crisis, these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in the wake of cosmic forces beyond their understanding or control.
+The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[Aethermoor]] and [[Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in [[The Convergence Crisis]], these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in [[The Wake]] of cosmic forces beyond their understanding or control.
 
-These transformations manifest in countless ways: crystal growths appearing on Aethermoor citizens, aquatic adaptations developing in landlocked communities, memory bleeds causing people to remember lives they never lived, and reality sickness affecting those exposed to [[Merged Reality Zones]]. Their stories represent the human cost of cosmic conflict and the incredible adaptability of ordinary people facing extraordinary circumstances.
+These [[Transformations]] manifest in countless ways: crystal growths appearing on Aethermoor citizens, aquatic adaptations developing in landlocked communities, memory bleeds causing people to remember lives they never lived, and reality sickness affecting those exposed to [[Merged Reality Zones]]. Their stories represent the human cost of cosmic conflict and the incredible adaptability of ordinary people facing extraordinary circumstances.
 
 ### Physical Mutations
 
 **Crystal Integration (Aethermoor Citizens):**
-As [[12_Research/D&D_Statblocks/The Crimson Sage]]'s influence spreads through crystal networks, many citizens develop crystalline growths:
+As [[The Crimson Sage]]'s influence spreads through [[Crystal Network]]s, many citizens develop crystalline growths:
 - **Early Stage**: Small crystal formations appearing on fingernails, teeth, or in hair
 - **Progressive Stage**: Larger crystals growing from skin, particularly on arms and face
 - **Advanced Stage**: Major organs partially crystallized, enhanced magical sensitivity
@@ -111,7 +111,7 @@ As [[12_Research/D&D_Statblocks/The Crimson Sage]]'s influence spreads through c
 A 12-year-old girl from [[Crystalhaven]] whose family bakery sits above crystal veins developed small crystal formations in her eyes that allow her to see magical auras. While the transformation is beneficial, her parents fear what will happen as it progresses.
 
 **Aquatic Adaptation (Aquabyssos Citizens):**
-Influenced by [[The Deep Mother]]'s expanding consciousness, some develop water-breathing abilities:
+Influenced by [[The [[Deep Mother]]]]'s expanding consciousness, some develop water-breathing abilities:
 - **Early Stage**: Enhanced ability to hold breath, improved underwater vision
 - **Progressive Stage**: Gill slits developing on neck, webbed fingers and toes
 - **Advanced Stage**: Full aquatic breathing capability, pressure resistance
@@ -119,13 +119,13 @@ Influenced by [[The Deep Mother]]'s expanding consciousness, some develop water-
 - **Terminal Stage**: Complete aquatic transformation, loss of surface-world memories
 
 *Case Study: [[Merchant Family Tidewalker]]*
-An entire family of surface traders in [[Port Meridian]] developed aquatic adaptations after their youngest child nearly drowned. They can now dive to incredible depths to recover sunken treasure, but struggle to relate to their unchanged neighbors.
+An entire family of [[Surface Traders]] in [[Port Meridian]] developed aquatic adaptations after their youngest child nearly [[Drowned]]. They can now dive to incredible depths to recover sunken treasure, but struggle to relate to their unchanged neighbors.
 
 **Hybrid Mutations (Reality Bleed Exposure):**
 Citizens exposed to [[Merged Reality Zones]] develop characteristics from both worlds:
 - **Crystalline Gills**: Ability to breathe both air and water through crystal formations
 - **Pressure Crystal Vision**: Eyes that can see both magical auras and deep-water currents
-- **Memory Crystals**: Crystalline growths that store and replay memories from both realities
+- **[[Memory Crystals]]**: Crystalline growths that store and replay memories from both realities
 - **Dimensional Skin**: Skin that changes texture and properties based on local reality
 - **Quantum Bones**: Skeletal structure that exists partially in both dimensions
 
@@ -139,7 +139,7 @@ Citizens experiencing memories from their alternate-reality selves:
 - **Identity Confusion**: Uncertainty about which memories are "real"
 - **Consciousness Merger**: Gradual integration of both sets of memories
 
-*Case Study: [[Blacksmith Cross Hammer Grendel]]*
+*Case Study: [[Blacksmith Cross-Hammer Grendel]]*
 A weapons maker from [[Aethermoor]] began experiencing memories of being a deep-sea pressure engineer. His metalworking improved dramatically, but he now speaks to his tools as if they were living creatures and has nightmares about drowning.
 
 **Reality Sensitivity:**
@@ -148,7 +148,7 @@ Enhanced awareness of dimensional phenomena:
 - **Corruption Awareness**: Instinctive recognition of [[Shadow Corruption]]
 - **Dimensional Vision**: Seeing glimpses of the alternate reality overlaying current world
 - **Emotional Resoce**: Feeling the emotions of alternate-world selves
-- **Prophetic Dreams**: Visions of potential convergence outcomes
+- **[[Prophetic Dreams]]**: Visions of potential convergence outcomes
 
 **Collective Consciousness Awakening:**
 Connection to group minds from divine influences:
@@ -162,26 +162,26 @@ Connection to group minds from divine influences:
 
 **Spontaneous Magic Development:**
 Non-magical citizens gaining supernatural abilities:
-- **Crystal Singing**: Aethermoor citizens developing ability to harmonize with crystals
+- **[[Crystal Singing]]**: Aethermoor citizens developing ability to harmonize with crystals
 - **Pressure Manipulation**: Aquabyssos citizens controlling water pressure around them
 - **Memory Reading**: Touching objects and experiencing their histories
 - **Shadow Walking**: Ability to travel short distances through shadows
 - **Reality Shifting**: Temporarily altering local physical laws
 
 **Divine Touch:**
-Citizens touched directly by [[12_Research/D&D_Statblocks/The Crimson Sage]] or [[The Deep Mother]]:
-- **Oracle Symptoms**: Receiving prophetic visions about convergence
+Citizens touched directly by [[The Crimson Sage]] or [[The Deep Mother]]:
+- **[[Oracle]] Symptoms**: Receiving [[Prophetic Visions]] about convergence
 - **Divine Communication**: Ability to speak with crystalline or aquatic consciousnesses
 - **Miracle Working**: Performing small-scale reality alterations
-- **Sacred Immunity**: Resistance to [[Shadow Corruption]] and reality distortions
-- **Blessed Madness**: Enhanced abilities accompanied by difficulty relating to normal reality
+- **Sacred Immunity**: Resistance to [[Shadow Corruption]] and [[Reality Distortion]]s
+- **[[Bless]]ed Madness**: Enhanced abilities accompanied by difficulty relating to normal reality
 
 **Corruption Resistance Evolution:**
 Some citizens develop natural defenses against [[Shadow Corruption]]:
 - **Shadow Sight**: Ability to see corruption before it spreads
 - **Purification Touch**: Power to cleanse minor corruption through physical contact
 - **Immune System Adaptation**: Bodies that automatically reject shadow influence
-- **Mental Shields**: Consciousness barriers that prevent corruption penetration
+- **Mental [[Shield]]s**: Consciousness barriers that prevent corruption penetration
 - **Community Immunity**: Transformed individuals protecting unchanged neighbors
 
 ### Aethermoor Transformation Patterns
@@ -189,7 +189,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 **High Transformation Zones:**
 - **[[Crystalhaven]]**: 40% of population showing some crystal integration
 - **[[Ancient Mining Communities]]**: 60% transformation rate due to crystal exposure
-- **[[Royal Crystal Gardens]]**: 80% of workers developing magical sensitivities
+- **[[Royal [[Crystal Garden]]s]]**: 80% of workers developing magical sensitivities
 - **[[Border Reality Zones]]**: Mixed transformations affecting 70% of residents
 - **[[Crystal Vein Settlements]]**: Nearly 100% transformation, mostly beneficial
 
@@ -197,7 +197,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 - **[[Iron Mountain Regions]]**: 5% transformation rate, natural corruption resistance
 - **[[Agricultural Provinces]]**: 15% rate, mostly minor changes
 - **[[Coastal Communities]]**: 25% rate, often hybrid water-crystal changes
-- **[[Refugee Settlements]]**: Variable rates based on origin and exposure time
+- **[[Refugee Settlements]]**: Variable rates based on origin and exposure [[Time]]
 - **[[Religious Sanctuaries]]**: 10% rate due to protective blessings
 
 ### Aquabyssos Transformation Patterns
@@ -207,18 +207,18 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 - **[[Sacred Depth Sites]]**: 90% showing signs of [[Deep Mother Influence]]
 - **[[Memory Merchant Centers]]**: 55% with consciousness-related changes
 - **[[Pressure Anomaly Regions]]**: 85% developing aquatic enhancements
-- **[[Border Reality Zones]]**: 70% hybrid transformations
+- **[[Border Reality Zones]]**: 70% [[Hybrid Transformation]]s
 
 **Low Transformation Areas:**
 - **[[Surface Trade Ports]]**: 20% transformation rate, mostly minor adaptations
-- **[[Established Family Communities]]**: 25% rate, strong community resistance
+- **[[[[Established Family Communitie]]s]]**: 25% rate, strong community resistance
 - **[[Academic Centers]]**: 30% rate, better understanding enables some resistance
 - **[[Military Bases]]**: 35% rate, training and equipment provide some protection
 - **[[Religious Communities]]**: 15% rate due to spiritual protection practices
 
 ### The Hopeful Transformations
 
-**[[The Crystal Touched Teacher, Miss Luminara]]:**
+**[[Crystal Touched]]:**
 A schoolteacher in [[Crystalhaven]] developed small crystal formations around her eyes that allow her to see the inner light in every student. She uses this ability to identify children who need extra help and has revolutionized her teaching methods. While her appearance has changed, her gift has made her more beloved in her community.
 
 **[[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]:**
@@ -232,10 +232,10 @@ A librarian who began experiencing memories from both worlds has become a living
 **[[The Lost Mother, Seaweed Sarah]]:**
 A mother of three in [[Aquabyssos]] developed advanced aquatic adaptations and can no longer survive on land for more than a few hours. She must live in special water tanks and can barely communicate with her unchanged children. The family struggles with the emotional and ficial burden of her needs.
 
-**[[The Crystal-Consumed Merchant, Trader Glass-Eye Gorvin]]:**
+**[[Merchant]]:**
 A successful merchant whose crystal integration progressed too rapidly. Most of his body has crystallized, leaving him with enhanced magical abilities but unable to move freely or maintain normal human relationships. He serves as an oracle for his community but has lost his individual identity.
 
-**[[The Memory Fragmented Child, Little Luna Patchwork]]:**
+**[[The Memory-Fragmented Child, Little Luna Patchwork]]:**
 A seven-year-old girl experiencing severe memory bleed from multiple alternate selves. She frequently becomes confused about which world she's in, calls family members by wrong names, and has nightmares about lives she's never lived. Her parents struggle to help her maintain a coherent sense of identity.
 
 ### The Dangerous Transformations
@@ -246,7 +246,7 @@ A crop farmer whose transformation was corrupted by [[Shadow Corruption]]. His c
 **[[The Depth-Mad Priest, Curator Deep-Voice Thren]]:**
 A religious leader whose direct contact with [[The Deep Mother]] left him with powerful prophetic abilities but also complete disconnection from surface reality. He speaks in riddles, breathes water more easily than air, and has visions so intense they cause physical pain to witness. His prophecies are accurate but delivered in ways that terrify his congregation.
 
-**[[The Reality Sick Mayor, Lord Quantum Aldrich]]:**
+**[[The Reality-Sick Mayor, Lord Quantum Aldrich]]:**
 A town leader whose exposure to [[Merged Reality Zones]] left him existing partially in both worlds simultaneously. He sometimes phases in and out of visibility, makes decisions based on information from alternate realities, and has difficulty distinguishing between what's real and what's possible. His condition makes goverce nearly impossible.
 
 ### Acceptance and Integration Communities
@@ -275,7 +275,7 @@ Communities that reject all forms of transformation:
 - Created testing procedures to identify early-stage changes
 - Built walls and barriers to keep transformed citizens out
 - Developed "cure" treatments that are often harmful
-- Founded militia groups to forcibly relocate transformed citizens
+- Founded militia [[Groups]] to forcibly relocate transformed citizens
 
 **[[The Stability Zones]]:**
 Areas attempting to prevent any reality alterations:
@@ -283,7 +283,7 @@ Areas attempting to prevent any reality alterations:
 - Created laws restricting transformed citizens' rights
 - Established surveillance systems to monitor for changes
 - Built facilities for forced "treatment" of transformed individuals
-- Founded research programs seeking transformation reversal
+- Founded research programs seeking [[Transformation Reversal]]
 
 ### Adaptive Communities
 
@@ -299,7 +299,7 @@ A trading post that has become a refuge for mixed transformations:
 A research community studying transformation to optimize outcomes:
 - Built laboratories studying transformation processes
 - Established volunteer programs for safe transformation experimentation
-- Created databases tracking transformation patterns and outcomes  
+- Created [[data]]bases tracking transformation patterns and outcomes  
 - Developed technologies to assist with transformation side effects
 - Founded counseling services for transformation trauma
 
@@ -352,7 +352,7 @@ A research community studying transformation to optimize outcomes:
 ### Healthcare Evolution
 
 **New Medical Specializations:**
-- **Transformation Pathology**: Understanding and treating transformation diseases
+- **Transformation [[path]]ology**: Understanding and treating transformation diseases
 - **Reality Medicine**: Healing injuries from dimensional exposure
 - **Memory Integration Therapy**: Helping with identity crisis and memory disorders
 - **Crystal Physiology**: Medical care for crystallized organ systems
@@ -379,7 +379,7 @@ A research community studying transformation to optimize outcomes:
 - **Family Education Programs**: Teaching unchanged relatives to provide support
 - **Community Integration Workshops**: Bringing together transformed and unchanged citizens
 - **Spiritual Counseling**: Religious support for those viewing transformation as spiritual change
-- **Advocacy Organizations**: Legal and political support for transformed citizens' rights
+- **Advocacy [[Organization]]s**: Legal and political support for transformed citizens' rights
 
 ### The Convergence Point
 
@@ -399,7 +399,7 @@ Transformed citizens serve as early warning and preview of convergence effects:
 - Her success or failure affects hope for other transformation cases
 - Her role as dimensional anchor makes her crucial for stabilizing transformation processes
 
-### The Seven Shards
+### [[The [[Seven Shards]]]]
 
 The artifacts both cause and potentially resolve transformation phenomena:
 - Their presence accelerates transformation in nearby populations
@@ -420,7 +420,7 @@ Corruption specifically targets and exploits transformation processes:
 ### The Divine Plan
 
 > [!warning] DM Only
-> All transformations are part of [[12_Research/D&D_Statblocks/The Crimson Sage]] and [[The Deep Mother]]'s preparation for reunion. The divine lovers are unconsciously modifying their followers to be capable of surviving in a merged reality. The transformations are not random mutations but deliberate adaptations for post-convergence existence.
+> All transformations are part of [[The Crimson Sage]] and [[The Deep Mother]]'s preparation for reunion. The divine lovers are unconsciously modifying their followers to be capable of surviving in a merged reality. The transformations are not random mutations but deliberate adaptations for post-convergence existence.
 
 ### The Selection Process
 
@@ -453,11 +453,11 @@ The Transformed Citizens is a undersea element of the setting, known for biolumi
 
 Legends speak of The Transformed Citizens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Transformed Citizens.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

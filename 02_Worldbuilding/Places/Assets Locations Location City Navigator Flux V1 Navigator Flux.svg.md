@@ -204,3 +204,9 @@ Key stop on textiles trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

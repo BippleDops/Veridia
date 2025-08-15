@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mage-hunter-scc-mage-hunter-scc.svg)
 
-# [[mage hunter scc|Mage Hunter]]
+# [[mage-hunter-scc (monstrosity)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  
 
 Mage hunters are hideous spider-legged creatures employed by the Oriq to pursue magic-wielders. These creatures can naturally sense magic via the glowing purple spines on their backs.

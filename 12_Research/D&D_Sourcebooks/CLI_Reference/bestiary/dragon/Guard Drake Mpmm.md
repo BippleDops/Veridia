@@ -43,7 +43,7 @@ updated: '2025-08-13T12:34:06.018202+00:00'
 world: Both
 ---
 
-# [[guard drake mpmm|Guard Drake]]
+# [[guard-drake-mpmm (dragon)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.

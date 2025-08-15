@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-hook-horror-oota-v1-young-hook-horror-oota.svg)
 
-# [[young hook horror oota|Young Hook Horror]]
+# [[Young Hook Horror Oota]]
 *Source: Out of the Abyss p. 34*  
 
 ```statblock

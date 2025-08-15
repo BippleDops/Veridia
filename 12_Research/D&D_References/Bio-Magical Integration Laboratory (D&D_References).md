@@ -1,10 +1,12 @@
 ---
+
 title: Bio-Magical Integration Laboratory (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Bio-Magical Integration Laboratory

@@ -42,10 +42,10 @@ updated: '2025-08-13T01:18:36.887709+00:00'
 - Add 12_Research-specific enhancement
 
 ## Overview
-Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], serving the [[02 Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
+Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], serving the [[Groups]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
 
 ## Background
-Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[02 Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
+Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[Groups]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
 
 ## Secrets
 > [!warning] DM Only

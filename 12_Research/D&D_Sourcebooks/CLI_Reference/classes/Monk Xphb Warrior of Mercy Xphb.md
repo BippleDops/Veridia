@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Warrior of Mercy
-*[[monk xphb|Monk]]: Monk Subclass*  
+*[[Monk Xphb Warrior of Mercy Xphb]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 104*  
 
 > [!tldr] Class and Feature Progression
@@ -70,15 +70,15 @@ Warriors of Mercy manipulate the life force of others. These Monks are wandering
 
 ### Hand of Harm (Level 3)
 
-Once per turn when you hit a creature with an [[unarmed strike xphb|Unarmed Strike]] and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
+Once per turn when you hit a creature with an [[Unarmed Strike Xphb]] and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
 
 ### Hand of Healing (Level 3)
 
-As a [[actions#Magic|Magic]] action, you can expend 1 Focus Point to touch a creature and restore a number of [[hit points xphb|Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+As a [[actions#Magic|Magic]] action, you can expend 1 Focus Point to touch a creature and restore a number of [[hit-points-xphb (variant-rules)]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
 
 ### Implements of Mercy (Level 3)
 
-You gain proficiency in the [[skills#Insight|Insight]] and [[skills#Medicine|Medicine]] skills and proficiency with the [[herbalism kit xphb|Herbalism Kit]].
+You gain proficiency in the [[skills#Insight|Insight]] and [[skills#Medicine|Medicine]] skills and proficiency with the [[Herbalism Kit Xphb]].
 
 ### Physician's Touch (Level 6)
 
@@ -96,15 +96,15 @@ When you use Hand of Healing, you can also end one of the following conditions o
 
 When you use Flurry of Blows, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Focus Points for the healing.
 
-In addition, when you make an [[unarmed strike xphb|Unarmed Strike]] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.
+In addition, when you make an [[Unarmed Strike Xphb]] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.
 
-You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[long rest xphb|Long Rest]].
+You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[long-rest-xphb]].
 
 ### Hand of Ultimate Mercy (Level 17)
 
-Your mastery of life energy opens the door to the ultimate mercy. As a [[actions#Magic|Magic]] action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[hit points xphb|Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], and [[conditions#Stunned|Stunned]].
+Your mastery of life energy opens the door to the ultimate mercy. As a [[actions#Magic|Magic]] action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[hit-points-xphb (variant-rules)]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], and [[conditions#Stunned|Stunned]].
 
-Once you use this feature, you can't use it again until you finish a [[long rest xphb|Long Rest]].
+Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,7 +1,7 @@
 ---
 
-title: Crystal Corruption Taboos
-type: Lore
+title: [[Crystal Corruption]] Taboos
+type: [[Lore]]
 tags:
 - traditional-beliefs
 - historical-trauma
@@ -65,7 +65,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,7 +101,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Overview
 
@@ -111,7 +111,7 @@ Unlike formal laws imposed by governmental authority, the Crystal Corruption Tab
 
 The taboos encompass every aspect of life potentially touched by crystal corruption: language and communication, physical contact and proximity, material possessions and environments, social relationships and community membership, and even thoughts and emotions. They create invisible boundaries that define acceptable behavior, establish social hierarchies based on corruption exposure, and maintain community cohesion through shared fear and collective responsibility.
 
-What makes these taboos particularly complex is their dual nature as both protective mechanisms and sources of social injustice. While they have demonstrably reduced corruption spread and saved countless lives, they have also created systems of discrimination, social stratification, and psychological trauma that affect millions of people across both worlds. Understanding the taboos requires grappling with the uncomfortable reality that effective survival strategies can simultaneously serve as instruments of oppression.
+What makes these taboos particularly complex is their dual nature as both protective mechanisms and sources of social injustice. While they have demonstrably reduced corruption spread and saved countless lives, they have also created systems of discrimination, social stratification, and psychological trauma that affect millions of [[People]] across both worlds. Understanding the taboos requires grappling with the uncomfortable reality that effective survival strategies can simultaneously serve as instruments of oppression.
 
 ### The Emergency Period (Years 1-25 Post-Crystallization)
 
@@ -129,7 +129,7 @@ The earliest Crystal Corruption Taboos emerged during the chaotic years immediat
 **The First Taboo Codifications (Years 5-15)**:
 As patterns emerged in corruption behavior, communities began formalizing protective measures into cultural rules:
 
-**The Silence Protocols**: Recognition that discussing corruption details seemed to increase its occurrence led to restrictions on corruption-related conversation.
+**[[The Silence]] Protocols**: Recognition that discussing corruption details seemed to increase its occurrence led to restrictions on corruption-related conversation.
 - Prohibition against detailed description of corruption symptoms
 - Restrictions on speculation about corruption causes or cures
 - Formal terminology replacing direct references to corruption
@@ -146,7 +146,7 @@ As patterns emerged in corruption behavior, communities began formalizing protec
 **Systematic Cultural Integration (Years 15-25)**:
 As communities stabilized, emergency measures evolved into permanent cultural institutions:
 
-**Educational Integration**: Taboo principles incorporated into child-rearing and community education
+**Educational Integration**: Taboo principles incorporated into child-rearing and [[Community Education]]
 - Children taught taboo compliance from earliest ages
 - Community storytelling emphasizing taboo importance
 - Ritual coming-of-age ceremonies including taboo instruction
@@ -182,21 +182,21 @@ Communities developed complex categorization systems for different types of corr
 - **Degree 4-5**: Complete social death, total ostracism, potential elimination
 
 **Institutional Development (Years 50-75)**:
-Formal organizations emerged to manage taboo enforcement and corruption response:
+Formal [[Organization]]s emerged to manage taboo enforcement and corruption response:
 
-**The Warden Guilds**: Professional organizations dedicated to corruption monitoring and taboo enforcement
+**The Warden Guilds**: [[Professional Organizations]] dedicated to corruption monitoring and taboo enforcement
 - Trained specialists in corruption identification and assessment
 - Authority to declare corruption degrees and enforce community responses
 - Standardized procedures for corruption investigation and judgment
 - Inter-community coordination on corruption threats and taboo violations
 - Development of specialized tools and techniques for safe corruption assessment
 
-**The Purification Temples**: Religious institutions providing spiritual support for taboo observance
+**[[The Purification Temples]]**: [[Religious Institutions]] providing spiritual support for taboo observance
 - Ritual purification ceremonies for those with minor corruption exposure
 - Spiritual counseling for families affected by corruption
 - Religious framework justifying taboo practices as divine mandate
 - Community gathering spaces for reinforcing taboo compliance
-- Training centers for religious leaders specializing in corruption spiritual warfare
+- Training centers for [[Religious Leaders]] specializing in corruption spiritual warfare
 
 **Cultural Refinement (Years 75-100)**:
 Taboo systems achieved sophisticated integration with broader cultural institutions:
@@ -208,9 +208,9 @@ Taboo systems achieved sophisticated integration with broader cultural instituti
 - Commercial law regulating trade in potentially corrupted goods
 - International law addressing cross-border corruption incidents
 
-**Economic Integration**: Corruption considerations becoming central to economic systems
+**Economic Integration**: Corruption considerations becoming central to [[Economic System]]s
 - Insurance systems accounting for corruption risks
-- Trade networks avoiding corruption-affected areas
+- [[Trade Networks]] avoiding corruption-affected areas
 - Professional guilds restricting membership based on corruption history
 - Banking systems incorporating corruption assessment into lending decisions
 - Labor markets segregating workers by corruption exposure status
@@ -219,7 +219,7 @@ Taboo systems achieved sophisticated integration with broader cultural instituti
 
 *"When Taboos Became Invisible"*
 
-The third phase represented the height of taboo cultural integration, when corruption taboos became so thoroughly embedded in social consciousness that they operated automatically without conscious awareness.
+The third phase represented the height of taboo cultural integration, when corruption taboos became so thoroughly [[Embed]]ded in social consciousness that they operated automatically without conscious awareness.
 
 **Unconscious Compliance (Years 100-150)**:
 Taboo observance became instinctive rather than deliberate:
@@ -251,7 +251,7 @@ Taboo systems achieved maximum effectiveness in corruption prevention and contro
 **Cultural Stability**: Taboo-based social order providing stability and predictability
 - Reduced social conflict over corruption-related issues
 - Clear social hierarchies and behavioral expectations
-- Efficient resource allocation based on corruption risk assessment
+- Efficient resource al[[location]] based on corruption risk assessment
 - Stable inter-community relationships based on shared taboo observance
 - Cultural identity strongly tied to successful taboo compliance
 
@@ -286,7 +286,7 @@ Scholars, religious leaders, and social reformers began questioning taboo system
 - Statistical analysis of taboo effectiveness in preventing corruption
 - Social science investigation of taboo-related discrimination and trauma
 - Comparative studies of different communities' taboo systems
-- Historical analysis of taboo development and evolution
+- [[Historical Analysis]] of taboo development and evolution
 
 **Moral Questioning**: Religious and ethical examination of taboo justice and necessity
 - Theological debate about divine approval of discrimination and exclusion
@@ -300,7 +300,7 @@ Gradual modification of taboo systems to reduce harm while maintaining protectio
 
 **Graduated Response Systems**: More nuanced approaches to corruption degrees and community response
 - Detailed assessment procedures reducing false positive identifications
-- Time-limited restrictions allowing eventual social reintegration
+- [[Time]]-limited restrictions allowing eventual social reintegration
 - Support systems for families affected by corruption incidents
 - Rehabilitation programs for individuals with minor corruption exposure
 - Appeals processes for disputed corruption status determinations
@@ -316,16 +316,16 @@ Gradual modification of taboo systems to reduce harm while maintaining protectio
 Reform efforts creating new problems and social tensions:
 
 **Conservative Resistance**: Traditional communities opposing taboo modification
-- Religious groups maintaining strict taboo interpretation as divine mandate
+- [[Religious [[Groups]]]] maintaining strict taboo interpretation as divine mandate
 - Communities with successful taboo-based corruption prevention opposing change
-- Economic interests benefiting from corruption-based labor and social stratification
+- [[[[Economic Interest]]s]] benefiting from corruption-based labor and social stratification
 - Cultural traditionalists viewing taboo reform as dangerous innovation
 - Inter-generational conflict between reformist youth and traditionalist elders
 
 **Implementation Difficulties**: Practical challenges in creating more nuanced taboo systems
 - Administrative complexity of graduated response systems
 - Resource requirements for expanded support and rehabilitation services
-- Training needs for community leaders implementing reformed procedures
+- Training needs for [[Community Leaders]] implementing reformed procedures
 - Coordination challenges across communities with different reform approaches
 - Measurement difficulties in assessing reformed system effectiveness
 
@@ -353,7 +353,7 @@ Modern communities have developed diverse approaches to crystal corruption taboo
 - Resistance to external pressure for taboo modification
 
 **Hybrid Systems**: Communities attempting to balance protection and justice
-- Evidence-based taboo enforcement focusing on actual rather than theoretical risk
+- [[Evidence]]-based taboo enforcement focusing on actual rather than theoretical risk
 - Time-limited restrictions with rehabilitation and reintegration opportunities
 - Community-based support systems combined with protective measures
 - Ongoing dialogue between traditional and progressive perspectives
@@ -422,7 +422,7 @@ Physical interaction taboos represent the most immediately practical corruption 
 **Indirect Contact Limitations**: Restrictions on secondary exposure routes
 - Avoidance of surfaces or areas recently occupied by corrupted individuals
 - Prohibition against using facilities (bathrooms, kitchens) after corrupted persons
-- Restrictions on entering buildings or vehicles occupied by corrupted individuals
+- Restrictions on entering buildings or [[Vehicles]] occupied by corrupted individuals
 - Limitations on handling mail, documents, or messages from corrupted persons
 - Prohibition against participating in activities involving corrupted individual participation
 
@@ -445,7 +445,7 @@ Physical interaction taboos represent the most immediately practical corruption 
 **Environmental Separation**: Restrictions on shared spaces and activities
 - Separate seating areas in public spaces
 - Designated transportation for individuals with corruption exposure
-- Restricted access to community facilities and gathering places
+- Restricted access to community facilities and gathering [[Places]]
 - Separate housing areas for individuals with corruption history
 - Limited participation in community events and celebrations
 
@@ -537,7 +537,7 @@ Social relationship taboos govern interpersonal interactions and community parti
 - Restrictions on business ownership and commercial leadership
 - Limitations on professional guild membership and advancement
 - Requirements for disclosure of corruption status in employment applications
-- Restricted access to professional training and educational opportunities
+- Restricted access to [[Professional Training]] and educational opportunities
 
 **Political and Civic Restrictions**: Limitations on political participation and civic engagement
 - Prohibition against holding elected office or political leadership positions
@@ -552,7 +552,7 @@ Social relationship taboos govern interpersonal interactions and community parti
 - "Pure" individuals holding highest social status and community respect
 - "Tested" individuals with confirmed clean status receiving preferential treatment
 - "Touched" individuals facing minor social restrictions and limitations
-- "Marked" individuals experiencing significant social disadvantages
+- "Marked" individuals experiencing significant social [[Disadvantage]]s
 - "Changed" individuals existing at bottom of social hierarchy with minimal rights
 
 **Mobility Restrictions**: Limitations on social advancement and status change
@@ -584,7 +584,7 @@ Aethermoor crystal corruption taboos emphasize visual detection, public ceremony
 - Public education and awareness programs about corruption prevention
 - Shared responsibility for maintaining community corruption-free status
 
-**Integration with Crystal Technology**: Taboos incorporating crystal magic and technology
+**Integration with [[Crystal Technology]]**: Taboos incorporating [[Crystal Magic]] and technology
 - Crystal-based detection systems for corruption identification
 - Magical purification techniques using clean crystal energy
 - Crystal-enhanced protective equipment for necessary corruption interaction
@@ -604,7 +604,7 @@ Aethermoor crystal corruption taboos emphasize visual detection, public ceremony
 - Extended family and clan-based corruption management
 - Traditional folk practices for corruption prevention and treatment
 - Religious and spiritual approaches to corruption understanding
-- Community elders providing guidance and decision-making authority
+- Community elders providing [[Guidance]] and decision-making authority
 - Emphasis on maintaining traditional taboo practices without modification
 
 ### Aquabyssos Taboo Adaptations
@@ -729,7 +729,7 @@ Contemporary societies face significant tension between traditional taboo system
 **Bridge-Building Efforts**: Attempts to reconcile traditional wisdom and contemporary values
 - Intergenerational dialogue programs bringing together different perspectives
 - Research projects investigating taboo effectiveness and alternatives
-- Educational initiatives teaching both traditional knowledge and contemporary rights
+- Educational [[Initiative]]s teaching both traditional knowledge and contemporary rights
 - Community forums allowing discussion of taboo modification and reform
 - Professional mediation services helping families navigate generational taboo conflicts
 
@@ -802,7 +802,7 @@ Modern reform movements seek to modify crystal corruption taboos to reduce harm 
 
 #### Rights-Based Reform Approaches
 
-**Legal Reform Movement**: Efforts to create formal legal protections for individuals with corruption exposure
+**[[Legal Reform Movemen]]t**: Efforts to create formal legal protections for individuals with corruption exposure
 - Anti-discrimination legislation protecting individuals from corruption status-based exclusion
 - Due process requirements for corruption status determination and community response
 - Appeals procedures allowing individuals to challenge corruption status assessments
@@ -859,7 +859,7 @@ Traditional communities and cultural conservatives resist taboo modification, ar
 - Historical documentation of community survival through traditional taboo practices
 - Comparison of corruption rates between traditional and reformed communities
 - Long-term stability provided by traditional taboo systems
-- Cultural identity preservation through maintece of traditional practices
+- Cultural [[Identity Preservation]] through maintece of traditional practices
 
 **Risk Management Concerns**: Arguments about unknown dangers of taboo modification
 - Concern that reducing taboo enforcement may increase corruption transmission
@@ -868,7 +868,7 @@ Traditional communities and cultural conservatives resist taboo modification, ar
 - Fear that individual rights emphasis may compromise community protection
 - Concern that experimental approaches may create new and unknown risks
 
-**Cultural Preservation**: Emphasis on maintaining traditional culture and identity
+**[[Cultural Preservation]]**: Emphasis on maintaining traditional culture and identity
 - Taboo practices as integral elements of community culture and identity
 - Religious and spiritual significance of traditional taboo observance
 - Intergenerational tradition transmission through taboo maintece
@@ -1012,10 +1012,10 @@ Taboo history provides rich adventure material combining archaeological investig
 
 **The Origin Investigation**: Research into historical development of specific taboo practices
 - Archaeological exploration of early post-Crystallization community sites
-- Document research in archives and libraries investigating early taboo development
+- Document research in archives and [[Libraries]] investigating early taboo development
 - Elder interviews gathering oral traditions about taboo origins and rationales
 - Character discoveries about historical accuracy of current taboo justifications
-- Resolution providing historical context for contemporary taboo reform debates
+- Resolution providing [[Historical Context]] for contemporary taboo reform debates
 
 **The Lost Community**: Discovery of isolated community with alternative approach to corruption and taboo
 - Exploration and first contact with community that developed different survival strategies
@@ -1031,7 +1031,7 @@ Taboo history provides rich adventure material combining archaeological investig
 - Character choices about historical accuracy versus community harmony
 - Resolution addressing community need to acknowledge and learn from historical mistakes
 
-### Cross-Cultural Exchange Adventures
+### Cross-[[Cultural Exchange]] Adventures
 
 *"Different Worlds, Shared Challenges"*
 
@@ -1040,7 +1040,7 @@ Taboo variation between communities and worlds creates adventures focused on cul
 **The Cultural Ambassador**: Diplomatic mission requiring navigation of different taboo systems
 - Character preparation learning about different community taboo practices and expectations
 - Diplomatic protocol development accommodating different cultural requirements
-- Crisis management when cultural misunderstandings threaten diplomatic relationships
+- [[Crisis Management]] when cultural misunderstandings threaten diplomatic relationships
 - Character facilitation of communication between communities with different taboo approaches
 - Resolution establishing ongoing diplomatic relationships despite cultural differences
 
@@ -1069,7 +1069,7 @@ Taboo variation between communities and worlds creates adventures focused on cul
 ---
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
-*— [[Philosopher Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+*— [[Philosopher-Reformer Unity Bridgewright (D&D_References)]], "The Ethics of Necessary Boundaries"*
 
 ## Player-Facing Summary
 
@@ -1079,9 +1079,9 @@ Crystal Corruption Taboos is a undersea element of the setting, known for biolum
 
 Legends speak of Crystal Corruption Taboos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Taboos.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Historical Context
 
@@ -1093,7 +1093,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## Plot Hooks
 
-- A merchant needs help finding before the festival
+- A [[Merchant]] needs help finding before the festival
 - Strange disappearances suggest a curse
 - Strange sightings suggest a portal
 - An heirloom has gone missing and evil awakens

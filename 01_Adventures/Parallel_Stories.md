@@ -1,5 +1,6 @@
 ---
 
+
 title: Parallel Storylines
 type: narrative
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ### ParallelEvent_81
@@ -239,3 +241,19 @@ improvements: 20
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

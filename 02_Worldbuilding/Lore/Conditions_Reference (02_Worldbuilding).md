@@ -1,7 +1,7 @@
 ---
 
-title: Conditions Reference
-type: lore
+title: [[Conditions Reference]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -194,7 +194,7 @@ Ways to incorporate Conditions Reference into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -234,7 +234,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -262,3 +262,28 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

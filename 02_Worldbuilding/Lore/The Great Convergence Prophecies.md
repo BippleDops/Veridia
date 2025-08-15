@@ -1,11 +1,11 @@
 ---
 title: The Great Convergence Prophecies
-type: Lore
+type: [[Lore]]
 tags:
 - aerial
 - aquatic
 - ancient-prophecy
-- timeline
+- [[Timeline]]
 - shadow-touched
 - lore
 - religion
@@ -31,9 +31,9 @@ status: complete
 category: Religious-Historical Event
 created_by: cultural-expansion
 related_entities:
-- '[[The Deep Mother]]'
+- '[[Deep Mother]]]]'
 - '[[Aetheron]]'
-- '[[The Shattering of the Crown]]'
+- '[[The Shattering]] of [[The Crown]]]]'
 - '[[The Drowning]]'
 - '[[The Convergence Point]]'
 - '[[The Seven Betrayers]]'
@@ -56,12 +56,12 @@ The Great Convergence Prophecies represents a significant element within the cam
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -82,5 +82,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*

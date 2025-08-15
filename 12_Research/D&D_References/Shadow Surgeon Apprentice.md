@@ -164,7 +164,7 @@ Provides medical services to shadow community members and collaborates on commun
 **Relationship**: Research Collaboration
 Collaborates on research projects investigating shadow transformation and its medical implications.
 
-#### **[[The Shadow Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**
+#### **[[Shadow Crystal]]**
 **Relationship**: Research Interest
 Studies medical implications of shadow-crystal synthesis research while maintaining ethical boundaries.
 

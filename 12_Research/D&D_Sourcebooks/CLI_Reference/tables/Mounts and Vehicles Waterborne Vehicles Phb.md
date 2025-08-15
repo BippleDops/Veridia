@@ -38,12 +38,12 @@ world: Both
 
 | Item | Cost | Speed |
 |------|------|-------|
-| [[galley xphb|Galley]] | 30,000 gp | 4 mph |
-| [[keelboat xphb|Keelboat]] | 3,000 gp | 1 mph |
-| [[longship xphb|Longship]] | 10,000 gp | 3 mph |
-| [[rowboat xphb|Rowboat]] | 50 gp | 1½ mph |
-| [[sailing ship xphb|Sailing ship]] | 10,000 gp | 2 mph |
-| [[warship xphb|Warship]] | 25,000 gp | 2½ mph |
+| [[Galley Xphb]] | 30,000 gp | 4 mph |
+| [[Keelboat Xphb]] | 3,000 gp | 1 mph |
+| [[longship-xphb (items)]] | 10,000 gp | 3 mph |
+| [[rowboat-xphb (items)]] | 50 gp | 1½ mph |
+| [[sailing-ship-xphb (items)]] | 10,000 gp | 2 mph |
+| [[Warship Xphb]] | 25,000 gp | 2½ mph |
 ^waterborne-vehicles
 
 ## 🔧 Deep Evaluation Improvements

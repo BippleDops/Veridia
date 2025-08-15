@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can see normally in [[dim light xphb|Dim Light]] and [[darkness xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
+You can see normally in [[Light Xphb]] and [[darkness-xphb (variant-rules)]]—both magical and nonmagical—within 120 feet of yourself.
 
 ## 🔧 Deep Evaluation Improvements
 

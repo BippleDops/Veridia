@@ -58,7 +58,7 @@ world: Both
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [[mordenkainens magnificent mansion xphb|Mordenkainen's magnificent mansion]] |
+| 20 | Inside a [[mordenkainens-magnificent-mansion-xphb (spells)]] |
 ^exotic-location
 
 ## 🔧 Deep Evaluation Improvements
@@ -106,3 +106,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

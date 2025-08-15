@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-eladrin-mpmm-v1-winter-eladrin-mpmm.svg)
 
-# [[winter eladrin mpmm|Winter Eladrin]]
+# [[Winter Eladrin Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -126,8 +126,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[fog cloud xphb|fog cloud]],\
-      \ [[gust of wind xphb|gust of wind]], [[sleet storm xphb|sleet storm]]"
+      \ DC 16):\n\nAt will: [[fog-cloud-xphb (spells)]],\
+      \ [[Gust of Wind Xphb]], [[sleet-storm-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

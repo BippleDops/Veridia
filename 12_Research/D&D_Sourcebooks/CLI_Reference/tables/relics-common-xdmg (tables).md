@@ -39,15 +39,15 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[ear horn of hearing xdmg|Ear Horn of Hearing]] |
-| 09–28 | [[potion of healing xdmg|Potion of Healing]] |
-| 29–36 | [[pot of awakening xdmg|Pot of Awakening]] |
-| 37–44 | [[ruby of the war mage xdmg|Ruby of the War Mage]] |
-| 45–52 | [[shield of expression xdmg|Shield of Expression]] |
-| 53–60 | [[smoldering armor xdmg|Smoldering Armor]] |
-| 61–80 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll cantrip xdmg|cantrip]] or [[spell scroll level 1 xdmg|level 1]] spell) |
-| 81–90 | [[staff of adornment xdmg|Staff of Adornment]] |
-| 91–00 | [[staff of flowers xdmg|Staff of Flowers]] |
+| 01–08 | [[ear-horn-of-hearing-xdmg (items)]] |
+| 09–28 | [[Potion of Healing Xdmg]] |
+| 29–36 | [[Pot of Awakening Xdmg]] |
+| 37–44 | [[ruby-of-the-war-mage-xdmg (items)]] |
+| 45–52 | [[Shield]] |
+| 53–60 | [[Smoldering Armor Xdmg]] |
+| 61–80 | [[spell-scroll-xdmg (items)]] ([[Spell Scroll Cantrip Xdmg]] or [[Spell Scroll Level 1 Xdmg]] spell) |
+| 81–90 | [[Staff of Adornment Xdmg]] |
+| 91–00 | [[Staff of Flowers Xdmg]] |
 ^relics-common
 
 ## 🔧 Deep Evaluation Improvements

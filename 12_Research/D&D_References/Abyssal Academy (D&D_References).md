@@ -42,7 +42,7 @@ founded: Third Age of Aquabyssos
 updated: '2025-08-13T01:18:35.632835+00:00'
 related_entities:
 - '[[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'
-- '[[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[Aboleth Mind Mazes]]'
 - '[[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 ---
 
@@ -71,7 +71,7 @@ Under the guidance of the enigmatic [[Professor Euclid Mindmaze|02 Worldbuilding
 The Academy consists of seven interconnected spiral towers, each devoted to a different field of study:
 
 **The Tower of Depths** - Marine biology and abyssal creature studies
-**The Mind Spire** - Psionic research and [[02 Worldbuilding/Lore/Aboleth Mind Mazes|mental architecture]]
+**The Mind Spire** - Psionic research and [[Aboleth Mind Mazes]]
 **The History Helix** - Ancient civilizations and pre-drowning knowledge
 **The Theoretical Tower** - Mathematics, magic theory, and reality studies
 **The Observation Orb** - Astronomy, divination, and far-sight disciplines

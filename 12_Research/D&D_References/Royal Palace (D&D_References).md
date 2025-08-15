@@ -204,7 +204,7 @@ The Royal Palace stands as the magnificent centerpiece of [[Abyssos Prime]], a s
 **Training**: Training facilities for palace service staff
 
 #### Current Monarch
-**Ruler**: [[King/Queen Current Monarch]], sovereign ruler of Aquabyssos  
+**Ruler**: [[Queen Current Monarch]], sovereign ruler of Aquabyssos  
 **Responsibilities**: Ultimate responsibility for kingdom goverce and welfare  
 **Daily Schedule**: Complex daily schedule balancing ceremonial and governmental duties  
 **Advisors**: Trusted advisors from various backgrounds and specializations  
@@ -631,9 +631,9 @@ The Royal Palace stands as the magnificent centerpiece of [[Abyssos Prime]], a s
 - [[The Free Current]]
 
 **Related NPCs**:
-- [[King/Queen Current Monarch]]
+- [[Queen Current Monarch]]
 - [[Prime Minister Government Leader]]
-- [[Lord/Lady Chamberlain Court Manager]]
+- [[Lady Chamberlain Court Manager]]
 - [[Royal Advisor Wise Counselor]]
 
 **Related Items and Concepts**:

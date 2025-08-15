@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-red-dragon-xmm-adult-red-dragon-xmm.svg)
 
-# [[adult red dragon xmm|Adult Red Dragon]]
+# [[Red Dragon Xmm]]
 *Source: Monster Manual (2024) p. 255. Available in the SRD and the Free Rules (2024)*  
 
 Adult red dragons are tyrants that claim vast domains and might command armies of followers or significant magical resources. Red dragons rarely pay attention to the nations and claims of smaller creatures, and they might consider entire cities part of their realm. Most red dragons are inattentive rulers, though, spending decades focused on their own comforts, hoards, or magical concerns within their lairs. But when their attention returns to their territories, if they find matters not to their liking, whole lands might burn.
@@ -109,30 +109,30 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [[scorching ray xphb|Scorching Ray]]."
+      \ use of Spellcasting to cast [[Scorching Ray Xphb]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 13 (1d10 + 8) Slashing\
       \ damage plus 5 (2d4) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [[Area of Effect Xphb]].\
       \ Failure: 59 (17d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit\
-      \ with spell attacks):\n\nAt will: [[command xphb|Command]]\
-      \ (level 2 version), [[detect magic xphb|Detect Magic]],\
-      \ [[scorching ray xphb|Scorching Ray]]\n\n1/day:\
-      \ [[fireball xphb|Fireball]]"
+      \ with spell attacks):\n\nAt will: [[command-xphb (spells)]]\
+      \ (level 2 version), [[detect-magic-xphb (spells)]],\
+      \ [[Scorching Ray Xphb]]\n\n1/day:\
+      \ [[fireball-xphb (spells)]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[command xphb|Command]]\
+  - "desc": "The dragon uses Spellcasting to cast [[command-xphb (spells)]]\
       \ (level 2 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Commanding Presence"
-  - "desc": "The dragon uses Spellcasting to cast [[scorching ray xphb|Scorching Ray]].\
+  - "desc": "The dragon uses Spellcasting to cast [[Scorching Ray Xphb]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Fiery Rays"
-  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -142,9 +142,9 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "- Burning Heat. The area within 1 mile of the lair is an area of\
       \ extreme heat. A burning creature or object takes an additional d4 Fire damage\
       \ at the start of each of its turns.  \n- Smoldering Haze. The area within\
-      \ 1 mile of the lair is [[lightly obscured xphb|Lightly Obscured]]\
+      \ 1 mile of the lair is [[lightly-obscured-xphb (variant-rules)]]\
       \ with clouds of ash. Whenever a creature other than the dragon or one of its\
-      \ allies finishes a [[long rest xphb|Long Rest]]\
+      \ allies finishes a [[long-rest-xphb]]\
       \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
       \ or have the [[conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour.  "

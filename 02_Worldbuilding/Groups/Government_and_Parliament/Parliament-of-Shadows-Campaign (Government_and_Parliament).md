@@ -19,7 +19,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Inter Realm Council Chambers]]'
+headquarters: '[[The Inter-Realm Council Chambers]]'
 membership: Unknown
 MyCategory: Advocacy Campaign
 MyContainer: Inter-Realm Politics
@@ -217,10 +217,10 @@ The organization's headquarters spans both realms through magical transportation
 - [[The Crystal Throne]]
 
 **Key Locations**:
-- [[The Inter Realm Council Chambers]]
-- [[Cross Realm Campaign Offices]]
+- [[The Inter-Realm Council Chambers]]
+- [[Cross-Realm Campaign Offices]]
 - [[Shadow Community Political Centers]]
-- [[Inter Realm Communication Networks]]
+- [[Communication Networks]]
 
 **Notable NPCs**:
 - [[Campaign Director Umbra Bridgeworth]]
@@ -230,9 +230,9 @@ The organization's headquarters spans both realms through magical transportation
 
 **Important Concepts**:
 - [[Shadow Political Representation]]
-- [[Cross Realm Democracy]]
+- [[Cross-Realm Democracy]]
 - [[Shadow Civil Rights Movement]]
-- [[Inter Realm Political Institutions]]
+- [[Inter-Realm Political Institutions]]
 - [[Shadow Community Political Power]]
 
 ## Player-Facing Summary

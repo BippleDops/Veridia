@@ -384,11 +384,11 @@ Remember: Some knowledge is forgotten for good reason.
 ---
 
 ## See Also
-- [[02 Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
-- [[02 Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
-- [[02 Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
-- [[03_Mechanics/Memory_Mechanics|03 Mechanics/Memory Mechanics]]
-- [[02 Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic]]
+- [[The Memory Trade]]
+- [[Groups]]
+- [[Places]]
+- [[Memory_Mechanics]]
+- [[Censorship Magic]]
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
 

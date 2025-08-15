@@ -40,47 +40,47 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | `d4` [[grick-ancient-xmm|grick alphas]] |
-| 02 | `2d8` [[spectator xmm|spectators]] |
+| 02 | `2d8` [[spectator-xmm (aberration)]] |
 | 03-04 | `3d6` [[minotaur-of-baphomet-xmm|minotaurs]] or `2d8` [[kuo-toa-monitor-xmm|kuo-toa monitors]] |
-| 05-06 | `2d8` [[grell xmm|grells]] |
+| 05-06 | `2d8` [[Grell Xmm]] |
 | 07-08 | `2d10` [[phase-spider-xmm|phase spiders]] |
 | 09-10 | `4d4` [[hell-hound-xmm|hell hounds]] |
-| 11-12 | `1d6 + 2` [[roper xmm|ropers]] |
-| 13-14 | `2d10` [[wight xmm|wights]] |
-| 15-16 | `3d6` [[doppelganger xmm|doppelgangers]] |
-| 17-18 | `1d8 + 1` [[chimera xmm|chimeras]] |
-| 19-20 | `d4` [[cloaker xmm|cloakers]] |
-| 21 | `d4` [[hobgoblin-captain-xmm|hobgoblin captains]] with `5d10` [[hobgoblin-warrior-xmm|hobgoblins]] |
+| 11-12 | `1d6 + 2` [[roper-xmm (aberration)]] |
+| 13-14 | `2d10` [[Wight Xmm]] |
+| 15-16 | `3d6` [[Doppelganger Xmm]] |
+| 17-18 | `1d8 + 1` [[Chimera Xmm]] |
+| 19-20 | `d4` [[Cloaker Xmm]] |
+| 21 | `d4` [[hobgoblin-captain-xmm (fey)]] with `5d10` [[hobgoblin-warrior-xmm|hobgoblins]] |
 | 22-23 | `1d8 + 1` [[earth-elemental-xmm|earth elementals]] |
 | 24-25 | `2d4` [[vampire-spawn-xmm|vampire spawn]] |
 | 26-27 | `3d6` [[minotaur-of-baphomet-xmm|minotaurs]] |
 | 28-30 | A 30-foot-tall inverted black pyramid floating 1 inch above the floor in a large cave |
 | 31-32 | `d10` [[beholder-zombie-xmm|beholder zombies]] |
 | 33-34 | `d4` [[mind-flayer-arcanist-xmm|mind flayer arcanists]] |
-| 35-36 | `1d6 + 2` [[otyugh xmm|otyughs]] |
-| 37-38 | `d12` [[troll xmm|trolls]] |
-| 39-40 | `d10` [[wraith xmm|wraiths]] |
+| 35-36 | `1d6 + 2` [[Otyugh Xmm]] |
+| 37-38 | `d12` [[Troll Xmm]] |
+| 39-40 | `d10` [[Wraith Xmm]] |
 | 41-43 | A beautiful obsidian sculpture of a panther lying on the floor |
-| 44-45 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mages]] with `d6` [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|drow elite warriors]] |
+| 44-45 | `d4` [[Bestiary]] with `d6` [[Bestiary]] |
 | 46-47 | `d4` [[spirit-naga-xmm|spirit nagas]] |
-| 48-49 | `1d8 + 1` [[salamander xmm|salamanders]] |
-| 50-51 | `2d4` [[umber-hulk-xmm|umber hulks]] |
-| 52-53 | `d10` [[xorn xmm|xorn]] |
-| 54-56 | 1 [[shadow-dragon-xmm|young red shadow dragon]] |
-| 57-59 | `2d4` [[fomorian xmm|fomorians]] |
-| 60-62 | `1d8 + 1` [[drider xmm|driders]] |
-| 63-65 | ` + 20` [[spider xmm|spiders]] crawling on the walls of a web-filled cave |
+| 48-49 | `1d8 + 1` [[Salamander Xmm]] |
+| 50-51 | `2d4` [[umber-hulk-xmm (monstrosity)]] |
+| 52-53 | `d10` [[xorn-xmm (elemental)]] |
+| 54-56 | 1 [[shadow-dragon-xmm (legendary-group)]] |
+| 57-59 | `2d4` [[Fomorian Xmm]] |
+| 60-62 | `1d8 + 1` [[Drider Xmm]] |
+| 63-65 | ` + 20` [[phase-spider-xmm (monstrosity)]] crawling on the walls of a web-filled cave |
 | 66-68 | `d4` [[fire-giant-xmm|fire giants]] |
 | 69-70 | `d10` [[mind-flayer-xmm|mind flayers]] |
 | 71-73 | `2d4` [[stone-giant-xmm|stone giants]] |
 | 74-76 | `d12` [[cyclops-sentry-xmm|cyclopes]] |
 | 77-80 | A large cave in which stands a 50-foot-tall idol of Blibdoolpoolp |
-| 81-85 | `d3` [[dao xmm|dao]] |
-| 86-90 | `d4` [[beholder xmm|beholders]] |
-| 91-93 | `d4` [[behir xmm|behirs]] |
-| 94-96 | 1 [[death-tyrant-xmm|death tyrant]] |
+| 81-85 | `d3` [[Dao Xmm]] |
+| 86-90 | `d4` [[beholder]] |
+| 91-93 | `d4` [[Behir Xmm]] |
+| 94-96 | 1 [[death-tyrant-xmm (undead)]] |
 | 97-99 | `d3` [[purple-worm-xmm|purple worms]] |
-| 00 | `2d4` [[aboleth xmm|aboleths]] |
+| 00 | `2d4` [[Aboleth Xmm]] |
 ^underdark-encounters-levels-1720
 
 ## 🔧 Deep Evaluation Improvements
@@ -130,3 +130,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

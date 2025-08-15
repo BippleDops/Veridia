@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[sling xphb|Sling]], [[whip xphb|Whip]], [[hide armor xphb|Hide Armor]], [[leather armor xphb|Leather Armor]], [[studded leather armor xphb|Studded Leather Armor]], [[backpack xphb|Backpack]], [[crossbow bolt case xphb|Crossbow Bolt Case]], [[map or scroll case xphb|Map or Scroll Case]], [[parchment xphb|Parchment]], [[pouch xphb|Pouch]], [[quiver xphb|Quiver]], [[waterskin xphb|Waterskin]]  
+- **Craft.** [[Sling Xphb]], [[thorn-whip-xphb (spells)]], [[Armor Xphb]], [[studded-leather-armor-xphb (items)]], [[studded-leather-armor-xphb (items)]], [[Backpack Xphb]], [[Crossbow Bolt Case Xphb]], [[map-or-scroll-case-xphb (items)]], [[Parchment Xphb]], [[component-pouch-xphb (items)]], [[Swift Quiver Xphb]], [[waterskin-xphb (items)]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

@@ -45,8 +45,8 @@ world: Both
 
 This staff has 10 charges. While holding the staff, you can use any of its properties:
 
-- **Cast Spell.** You can expend 1 of the staff's charges to cast [[charm person xphb|Charm Person]], [[command xphb|Command]], or [[comprehend languages xphb|Comprehend Languages]] from it using your spell save DC.  
-- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a [[reaction xphb|Reaction]] to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.  
+- **Cast Spell.** You can expend 1 of the staff's charges to cast [[Charm Person Xphb]], [[command-xphb (spells)]], or [[Comprehend Languages Xphb]] from it using your spell save DC.  
+- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a [[reaction-xphb (variant-rules)]] to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.  
 - **Resist Enchantment.** If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.  
 
 ## 🔧 Deep Evaluation Improvements

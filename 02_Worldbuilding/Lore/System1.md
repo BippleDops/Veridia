@@ -3,20 +3,20 @@ title: System1
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # System1
 
 ## Overview
-This topic is referenced in [[Location_Template_1 (09_Templates)]] and other parts of the campaign.
+This topic is referenced in [[location]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location_Template_1 (09_Templates)]]
+- Referenced by: [[location]]
 - Related topics in the same category
 
 ## Details

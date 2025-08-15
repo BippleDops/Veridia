@@ -329,8 +329,8 @@ Political changes might create opportunities for revolutionary ideas to be incor
 **Important Concepts**:
 - [[The Crystal Manifesto]]
 - [[Revolutionary Crystal Consciousness]]
-- [[Post Revolutionary Society Vision]]
-- [[Cell Based Revolutionary Organization]]
+- [[Post-Revolutionary Society Vision (D&D_References)]]
+- [[Organization]]
 - [[Crystal Transformation Ideology]]
 
 ## Player-Facing Summary

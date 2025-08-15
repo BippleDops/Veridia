@@ -50,16 +50,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves on the move group leader mtf]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
 - [[Captain Elara Shadowshard]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
-- [[dark shard amulet xdmg]]
+- [[dark-shard-amulet-xdmg (items)]]
 - [[Border Fortresses]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[Ambassador Warden Luna Peacegem]]
-- [[guild artisan]]
+- [[githzerai-groups-githzerai-group-leader-mtf]]
+- [[Ambassador-Warden Luna Peacegem]]
+- [[guild-artisan (backgrounds)]]
 
 ## Related
 
@@ -83,3 +83,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

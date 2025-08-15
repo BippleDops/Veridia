@@ -49,21 +49,21 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [[aasimar xphb|Aasimar]] |
-| 2 | [[dragonborn xphb|Dragonborn]] |
-| 3 | [[dwarf xphb|Dwarf]] |
-| 4 | [[elf xphb|Elf]] |
-| 5 | [[gnome xphb|Gnome]] |
-| 6 | [[goliath xphb|Goliath]] |
-| 7 | [[halfling xphb|Halfling]] |
-| 8 | [[human xphb|Human]] |
-| 9 | [[orc xphb|Orc]] |
-| 10 | [[tiefling xphb|Tiefling]] |
+| 1 | [[List Spells Races Aasimar Xphb]] |
+| 2 | [[dragonborn-xphb (races)]] |
+| 3 | [[Dwarf Xphb]] |
+| 4 | [[elf-xphb (races)]] |
+| 5 | [[gnome-xphb (races)]] |
+| 6 | [[Goliath Xphb]] |
+| 7 | [[Halfling Xphb]] |
+| 8 | [[Human Xphb]] |
+| 9 | [[orc-xphb (races)]] |
+| 10 | [[List Spells Races Tiefling Xphb]] |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the SRD and the Free Rules (2024)*
 

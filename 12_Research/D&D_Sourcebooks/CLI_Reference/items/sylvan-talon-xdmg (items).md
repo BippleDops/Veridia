@@ -58,7 +58,7 @@ While this weapon is on your person, you understand the non-written communicatio
 
 ## Secret Message
 
-As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message xphb|Message]]. Once this property is used, it can't be used again until the next dawn.
+As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[Sage Xphb]]. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
 - [Sylvan Talon Dagger](#Sylvan%20Talon%20Dagger)

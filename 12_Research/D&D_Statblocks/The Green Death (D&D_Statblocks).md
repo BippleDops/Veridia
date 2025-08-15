@@ -53,7 +53,7 @@ updated: '2025-08-13T01:18:34.495825+00:00'
 - Add 12_Research-specific enhancement
 
 ## Quest Overview
-[[Sorrow Root Nightbloom|02 Worldbuilding/People/Sorrow Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[The Synthesis Gardens|02 Worldbuilding/Places/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
+[[Sorrow-Root Nightbloom (D&D_References)]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[The Synthesis Gardens|02 Worldbuilding/Places/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
 
 ## Quest Giver
 **[[Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[Sir Marcus Dawnforge|02 Worldbuilding/People/Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.

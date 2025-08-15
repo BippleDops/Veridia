@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cave-badger-oota-cave-badger-oota.svg)
 
-# [[cave badger oota|Cave Badger]]
+# [[Cave Badger Oota]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock

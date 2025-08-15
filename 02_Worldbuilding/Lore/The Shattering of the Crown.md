@@ -1,6 +1,6 @@
 ---
-title: The Shattering of the Crown
-type: Lore
+title: [[The Shattering]] of [[The Crown]]
+type: [[Lore]]
 tags:
 - lore
 - aerial
@@ -12,7 +12,7 @@ tags:
 - content/lore
 - crown-of-stars
 - reality-breaking
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - content/item
@@ -31,17 +31,17 @@ outcome: Crown Shattered, World Transformed, Divinity Scattered
 participants:
 - God-King Aetheron
 - The Seven Betrayers
-- The Crown of Stars
+- The [[Crown of Stars]]
 - Reality Itself
 related_entities:
 - '[[The Seven Betrayers]]'
 - '[[The Crown of Stars]]'
 - '[[The Great Crystallization]]'
 - '[[Aetheron]]'
-- '[[The Seven Shards]]'
+- '[[The [[Seven Shards]]]]'
 scale: Multidimensional
 significance: Reality-Altering
-time_period: Year 1 GC - The Moment of Great Crystallization
+[[Time]]_period: Year 1 GC - The Moment of Great Crystallization
 updated: '2025-08-13T12:34:16.058223+00:00'
 world: Aethermoor
 evaluated: '2025-08-14'
@@ -58,12 +58,12 @@ The Shattering of the Crown represents a significant element within the campaign
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -84,5 +84,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

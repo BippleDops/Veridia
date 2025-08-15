@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_06_The_Sky_Throne
 
----
+- --
 title: Session 06 The Sky Throne
 type: Quest
 tags:
@@ -26,15 +26,15 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Aethermoor
----
+- --
 
 # Session 6: The Sky Throne
 
-*Level 6-7 Characters | 4-5 Hours | Court Intrigue/Investigation/Political Maneuvering*
+* Level 6-7 Characters | 4-5 Hours | Court Intrigue/Investigation/Political Maneuvering*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -53,9 +53,9 @@ The party travels to Aethermoor for the first time, entering the floating crysta
 The party experiences their first journey between realms through the **Wind Gate**, a massive portal maintained by wind-riders and current-shapers working in harmony.
 
 ### Read Aloud
-*The sensation of crossing between realms is indescribable - one moment you're surrounded by the pressure and flow of deep water, and the next you're breathing thin, crystal-clear air as wind currents lift you impossibly high above an ocean of clouds.*
+* The sensation of crossing between realms is indescribable - one moment you're surrounded by the pressure and flow of deep water, and the next you're breathing thin, crystal-clear air as wind currents lift you impossibly high above an ocean of clouds.*
 
-*Before you stretches [[Luminspire]], the crown jewel of Aethermoor. Crystalline spires twist upward like frozen tornadoes, connected by bridges of hardened wind and gossamer-thin platforms that shouldn't be able to support their own weight. The entire city pulses with a soft, prismatic light that seems to respond to the movements of its inhabitants.*
+* Before you stretches [[Luminspire]], the crown jewel of Aethermoor. Crystalline spires twist upward like frozen tornadoes, connected by bridges of hardened wind and gossamer-thin platforms that shouldn't be able to support their own weight. The entire city pulses with a soft, prismatic light that seems to respond to the movements of its inhabitants.*
 
 ### Cultural Adjustment
 Characters must adapt to Aethermoor's unique environment:
@@ -85,9 +85,9 @@ The party must present themselves to **[[Queen Seraphina Lumengarde]]** in the *
 When the party meets Queen Seraphina, they see the effects of long-term crystal exposure:
 
 ### Read Aloud
-*Queen Seraphina sits upon a throne carved from a single massive crystal that seems to pulse with its own heartbeat. Once, she must have been beautiful, but now crystal formations sprout from her skin like living jewelry. Her eyes have become faceted gems that reflect not just light, but fragments of time and possibility.*
+* Queen Seraphina sits upon a throne carved from a single massive crystal that seems to pulse with its own heartbeat. Once, she must have been beautiful, but now crystal formations sprout from her skin like living jewelry. Her eyes have become faceted gems that reflect not just light, but fragments of time and possibility.*
 
-*When she speaks, her voice has a crystalline chime that's both beautiful and unsettling. "Welcome, travelers from the depths. We have... seen your arrival. The crystals show us many things. Too many things."*
+* When she speaks, her voice has a crystalline chime that's both beautiful and unsettling. "Welcome, travelers from the depths. We have... seen your arrival. The crystals show us many things. Too many things."*
 
 ### Court Politics Skill Challenge
 
@@ -171,13 +171,13 @@ The party discovers that some of the Queen's closest advisors are working with T
 Regardless of approach, the party can infiltrate or observe a secret meeting:
 
 ### Read Aloud
-*The meeting takes place on a wind platform suspended between two crystal spires, accessible only by flight. The conspirators speak in hushed tones while the wind carries their words away from the city's memory crystals.*
+* The meeting takes place on a wind platform suspended between two crystal spires, accessible only by flight. The conspirators speak in hushed tones while the wind carries their words away from the city's memory crystals.*
 
-*Captain Zephyr's voice is tight with urgency: "Lord Aurelius grows impatient. The Queen's condition deteriorates faster than expected. We may need to accelerate the timeline."*
+* Captain Zephyr's voice is tight with urgency: "Lord Aurelius grows impatient. The Queen's condition deteriorates faster than expected. We may need to accelerate the timeline."*
 
-*Trade Minister Gale responds: "The resources are in place, but moving against Aquabyssos before the Convergence could unite both realms against us."*
+* Trade Minister Gale responds: "The resources are in place, but moving against Aquabyssos before the Convergence could unite both realms against us."*
 
-*Court Mage Tempest adds ominously: "The Fifth Shard's location has been confirmed. But retrieving it will require... sacrifices."*
+* Court Mage Tempest adds ominously: "The Fifth Shard's location has been confirmed. But retrieving it will require... sacrifices."*
 
 **Intelligence Gathered**:
 - The Fifth Shard is hidden in [[Nimbus Sanctum]], the floating monastery
@@ -281,17 +281,17 @@ As the party attempts to claim or secure the Fifth Shard, **The Collector's** ag
 - Time pressure should be increasing
 - Set up the transition back to cross-realm activities
 
----
+- --
 
-*"In the heights, perspective changes everything. What seemed vast from below reveals itself as merely one layer of an infinite sky."* - Abbot Serenity Cloudheart
+* "In the heights, perspective changes everything. What seemed vast from below reveals itself as merely one layer of an infinite sky."* - Abbot Serenity Cloudheart
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
 ## Prophecy Connection
 
@@ -313,3 +313,19 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Throne**: [THRONE]
+- **Throne**: [THRONE]
+- **Aethermoor**: [AYTHERMOOR]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

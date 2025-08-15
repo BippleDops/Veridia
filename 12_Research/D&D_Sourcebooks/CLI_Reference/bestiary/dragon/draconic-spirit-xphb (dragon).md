@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg)
 
-# [[draconic spirit xphb|Draconic Spirit]]
+# [[draconic-spirit-xphb (dragon)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock

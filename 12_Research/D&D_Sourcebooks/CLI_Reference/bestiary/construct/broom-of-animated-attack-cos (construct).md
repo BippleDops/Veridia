@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-broom-of-animated-attack-cos-broom-of-animated-attack-cos.svg)
 
-# [[broom of animated attack cos|Broom of Animated Attack]]
+# [[broom-of-animated-attack-cos (construct)]]
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -91,8 +91,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The broom is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic field xphb|antimagic field]].\
-      \ If targeted by [[dispel magic xphb|dispel magic]],\
+      \ while in the area of an [[Antimagic Field Xphb]].\
+      \ If targeted by [[dispel-magic-xphb (spells)]],\
       \ the broom must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."

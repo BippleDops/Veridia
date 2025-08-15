@@ -1,10 +1,10 @@
 ---
 
-title: Merchant Family Alliances
-type: Lore
+title: [[Merchant]] Family Alliances
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - relationships
 - aerial
 - trade
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -64,7 +64,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -88,7 +88,7 @@ improvements: 20
 
 ## Overview
 
-The merchant families of Aquabyssos operate through a complex web of trade partnerships, marriage alliances, competitive rivalries, and secret cartels. These relationships determine the flow of commerce throughout the realm and often influence politics more than noble houses realize.
+The merchant families of Aquabyssos operate through a complex web of trade partnerships, marriage alliances, competitive rivalries, and secret cartels. These relationships determine the flow of commerce throughout the realm and often influence politics more than [[Noble House]]s realize.
 
 ---
 
@@ -99,8 +99,8 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 **Core Family Structure:**
 - **Duke Aurelius Goldstream** (Patriarch) - Controls interrealm fice
 - **Lord Magnus Goldstream** (Heir) - Manages domestic markets, memory-trade addiction
-- **Lady Nexus Goldstream** (Daughter) - Revolutionary merchant seeking political power
-- **Dame Fortune Goldstream** (Sister) - International trade coordinator
+- **[[Lady Nexus Goldstream]]** (Daughter) - Revolutionary merchant seeking political power
+- **Dame Fortune Goldstream** (Sister) - [[International Trade]] coordinator
 
 **Primary Business Interests:**
 - **Goldstream Central Bank:** 60% of realm's currency circulation
@@ -110,20 +110,20 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Alliance Network:**
 - **Brightcoin Ficial:** Marriage alliance through Lady Prosperity
-- **Moonwhisper Luxury Goods:** Cultural exchange and high-end trade
-- **Shadowmere Information Services:** Intelligence purchased for market advantage
+- **Moonwhisper Luxury Goods:** [[Cultural Exchange]] and high-end trade
+- **[[Shadowmere]] Information Services:** Intelligence purchased for market advantage
 - **Crystalvein Academic Funding:** Research investments and patent acquisitions
 
 ---
 
-### **The Deepwater Trading Consortium**
+### **[[The Deepwater Trading Consortium]]**
 
 *The Pressure Merchants*
 
 **Core Family Structure:**
-- **Admiral Thorne Blackwater** (Chief Executive) - Former naval officer turned merchant
-- **Captain Cornelius Deepwater** (Operations Director) - Deep-sea salvage and exploration
-- **Lady Marina Blackwater** (Fice Director) - Pressure technology investments
+- **[[Admiral Thorne Blackwater]]** (Chief Executive) - Former naval officer turned merchant
+- **[[Captain Cornelius Deepwater]]** (Operations Director) - Deep-sea salvage and exploration
+- **Lady Marina Blackwater** (Fice Director) - [[Pressure Technology]] investments
 - **Master Hadal Blackwater** (Research Director) - Deep-sea agricultural development
 
 **Primary Business Interests:**
@@ -135,26 +135,26 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 **Alliance Network:**
 - **House Deepcurrent:** Political protection in exchange for exclusive services
 - **Pressure Engineering Guild:** Technical partnership for equipment development
-- **Academy of Depths:** Research collaboration on deep-sea technologies
-- **The Pearl Divers Guild:** Exclusive harvesting agreements
+- **[[Academy of Depths]]:** Research collaboration on deep-sea technologies
+- **[[The [[Pearl Divers]] Guil]]d:** Exclusive harvesting agreements
 
 **Secret Partnerships:**
-- **The Sunken Observatory:** Hidden research into pre-sinking civilization technology
-- **Deep Mother Cultists:** Providing equipment for underwater ritual sites
+- **[[The Sunken Observatory]]:** Hidden research into pre-sinking civilization technology
+- **[[Deep Mother]] Cultists:** Providing equipment for underwater ritual sites
 - **Foreign Shadow Syndicates:** Smuggling operations using deep-sea routes
-- **The Leviathan Prophets:** Trading in prophecies and ancient maritime knowledge
+- **The [[Leviathan]] Prophets:** Trading in prophecies and ancient mari[[Time]] knowledge
 
 ---
 
-### **The Silverscale Consortium**
+### **[[The [[Silverscale Consortium]]]]**
 
-*The Memory Merchants*
+*The [[Memory Merchants]]*
 
 **Core Family Structure:**
-- **Memory Merchant Valeria Siltweave** (Matriarch) - Master of memory manipulation
-- **Archivist Mnemonic the Forgotten** (Chief Curator) - Living database of stored experiences
+- **[[Memory Merchant Valeria]] Siltweave** (Matriarch) - Master of [[Memory Manipulation]]
+- **[[Archivist Mnemonic the Forgotten]]** (Chief Curator) - Living [[data]]base of stored experiences
 - **Psychic Elena Memoryweave** (Operations Manager) - Memory extraction and implantation
-- **Scholar Marcus Thoughtkeeper** (Research Director) - Memory preservation technology
+- **Scholar Marcus Thoughtkeeper** (Research Director) - [[Memory Preservation Technology]]
 
 **Primary Business Interests:**
 - **Memory Banking:** Secure storage of valuable memories and skills
@@ -166,13 +166,13 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **House Shadowmere:** Intelligence purchased through memory extraction
 - **Academy of Redirection:** Research partnership on consciousness manipulation
 - **The Scholars' Guild:** Academic memory preservation services
-- **Temporal Engineering Guild:** Past-event memory recovery services
+- **[[Temporal Engineering Guil]]d:** Past-event memory recovery services
 
 **Competitive Tensions:**
 - **Traditional Educators:** Memory shortcuts threaten conventional learning
 - **Religious Orders:** Artificial memories considered soul corruption
-- **Legal System:** Memory evidence validity constantly disputed
-- **Identity Preservation Society:** Opposes commodification of personal experience
+- **Legal System:** Memory [[Evidence]] validity constantly disputed
+- **[[Identity Preservation]] Society:** Opposes commodification of personal experience
 
 ---
 
@@ -181,21 +181,21 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 *The Combat Merchants*
 
 **Core Family Structure:**
-- **General Harrison Ironhold** (Military CEO) - Retired commander, weapons specialist
-- **Captain Sarah Ironheart** (Field Operations) - Combat logistics and mercenary coordination
+- **General Harrison [[Ironhold]]** (Military CEO) - Retired commander, weapons specialist
+- **[[Captain Sarah Ironheart]]** (Field Operations) - Combat logistics and mercenary coordination
 - **Weaponsmith Marcus Sharpedge** (Production Director) - Advanced weapons development
 - **Strategist Elena Battlewise** (Intelligence Director) - Military information broker
 
 **Primary Business Interests:**
-- **Military Equipment:** Weapons, armor, combat vehicles, siege engines
+- **Military Equipment:** Weapons, armor, combat [[Vehicles]], siege engines
 - **Mercenary Services:** Professional soldiers for hire, conflict resolution
 - **Combat Training:** Military academies, officer education, tactical consulting
 - **War Profiteering:** Supplying all sides in conflicts while maintaining neutrality
 
 **Alliance Network:**
 - **House Ironwill:** Military tradition partnership, officer exchange programs
-- **The Sky Knight Orders:** Aerial combat equipment and training services
-- **Border Patrol Units:** Exclusive supply contracts for frontier defense
+- **The Sky [[Knight]] Orders:** [[Aerial Combat]] equipment and training services
+- **[[[[Border Patrol Unit]]s]]:** Exclusive supply contracts for frontier defense
 - **Foreign Allied Nations:** International military trade agreements
 
 **Secret Operations:**
@@ -210,7 +210,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Family Business:** Atmospheric and weather control technology
 - **Patriarch:** Master Gale Windwright - Weather manipulation inventor
-- **Daughter:** Captain Swift Cloudracer - Air transport and logistics
+- **Daughter:** [[Captain Swift Cloudracer]] - Air transport and logistics
 - **Son:** Engineer Storm Skywright - Atmospheric pressure systems
 
 **Specializations:**
@@ -221,35 +221,35 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Alliance Partners:**
 - **Weather Weaving Guild:** Technical collaboration on atmospheric manipulation
-- **Agricultural Provinces:** Climate control for farming optimization
+- **[[Agricultural Provinces]]:** Climate control for farming optimization
 - **The Sky Knight Orders:** Military aviation technology development
-- **Aethermoor Trading Connections:** Interrealm atmospheric business
+- **[[Aethermoor]] Trading Connections:** Interrealm atmospheric business
 
 ### **The Crystalforge Manufacturing Alliance**
 
 **Family Business:** Magical crystal cultivation and application
 - **Matriarch:** Lady Crystal-Heart Miraleth - Crystal growing expert
-- **Son:** Master Artificer Korvin Gearwright - Crystal-powered machinery
+- **Son:** Master [[Artificer]] Korvin Gearwright - Crystal-powered machinery
 - **Daughter:** Enchanter Prism Lightweave - Crystal enhancement and modification
 
 **Specializations:**
 - **Crystal Agriculture:** Growing and harvesting magical crystals
 - **Magical Technology:** Crystal-powered devices and machinery
 - **Enhancement Services:** Improving existing crystals and gems
-- **Research Partnerships:** Collaborating with academic institutions
+- **Research Partnerships:** Collaborating with [[Academic Institutions]]
 
-**Trade Networks:**
+**[[Trade Networks]]:**
 - **Academy of Crystalline Art:** Research and development collaboration
 - **House Crystalvein:** Noble house partnership for exclusive access
-- **The Crystal Academy:** Educational institution equipment contracts
+- **The [[Crystal Academy]]:** Educational institution equipment contracts
 - **Foreign Crystal Markets:** International magical material exchange
 
-### **The Tidecaller Environmental Corporation**
+### **[[The Tidecaller]] Environmental Corporation**
 
 **Family Business:** Environmental restoration and ecosystem management
 - **Leader:** Druid Willowbark the Emerald Sage - Environmental philosophy
-- **Operations:** Captain Marina Tidecrest - Maritime ecosystem protection
-- **Research:** Bio-Integration Specialist Coral Lifeshaper - Species adaptation
+- **Operations:** Captain [[Marina Tidecrest]] - Maritime ecosystem protection
+- **Research:** Bio-Integration Specialist [[Coral]] Lifeshaper - Species adaptation
 
 **Specializations:**
 - **Ecosystem Restoration:** Repairing environmental damage from industrialization
@@ -258,9 +258,9 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Environmental Consulting:** Advising other businesses on sustainable practices
 
 **Partnership Networks:**
-- **House Tidecaller:** Political alignment on environmental protection
+- **[[House Tidecaller]]:** Political alignment on [[Environmental Protection]]
 - **Academy of Depths:** Research collaboration on deep-sea ecosystems
-- **The Pearl Divers Guild:** Sustainable harvesting practices development
+- **The [[Pearl Divers Guild]]:** Sustainable harvesting practices development
 - **Cross-Realm Environmental Alliance:** International conservation efforts
 
 ---
@@ -268,36 +268,36 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 ### **The Information Brokers Collective**
 
 **Leadership Council:**
-- **Information Broker Whisper Goldtongue** (Chief Intelligence Officer)
-- **The Networker** (Communications Coordinator)
+- **[[Information Broker Whisper]] Goldtongue** (Chief Intelligence Officer)
+- **[[The Networker]]** (Communications Coordinator)
 - **Detective-Prime Clarity Truthseeker** (Investigation Specialist)
-- **Audit Investigator Thomas Truthseeker** (Ficial Intelligence)
+- **[[Audit Investigator Thomas Truthseeker]]** (Ficial Intelligence)
 
 **Business Model:**
 - **Intelligence Trading:** Buying and selling information as commodity
 - **Private Investigation:** Corporate espionage and background checks
-- **Market Analysis:** Predicting trade trends through intelligence gathering
+- **[[Market Analysis]]:** Predicting trade trends through intelligence gathering
 - **Security Consulting:** Protecting other merchants from information theft
 
 **Client Networks:**
 - **All Major Trading Houses:** Regular intelligence purchasers
-- **Noble Houses:** Political information and family secrets
-- **Foreign Governments:** International intelligence exchange
-- **Criminal Organizations:** Underground information markets
+- **[[Noble Houses]]:** Political information and family secrets
+- **[[Foreign Governments]]:** International intelligence exchange
+- **[[Criminal [[Organization]]s]]:** Underground information markets
 
 **Operational Methods:**
 - **Agent Networks:** Spies embedded throughout merchant and noble society
 - **Technology Systems:** Advanced communication and data storage
 - **Blackmail Portfolios:** Leverage maintained against major figures
-- **Information Warfare:** Competitive intelligence and market manipulation
+- **[[Information Warfare]]:** [[Competitive Intelligence]] and market manipulation
 
 ### **The Logistics and Transport Union**
 
 **Leadership Structure:**
-- **Harbor Master Luna Freedrift** (Shipping Coordinator)
-- **Captain Current Rider Crimson Velocity** (Fast Transport Specialist)
+- **[[Harbor Master Luna Freedrift]]** (Shipping Coordinator)
+- **Captain Current Rider [[Crimson Velocity]]** (Fast Transport Specialist)
 - **Navigation Master Wave Mapwright** (Route Planning Director)
-- **Cargo Master Holdspace** (Storage and Distribution Manager)
+- **[[Cargo Master Holdspace]]** (Storage and Distribution Manager)
 
 **Service Categories:**
 - **Maritime Shipping:** Ocean transport of goods across all pressure levels
@@ -317,7 +317,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Artisan Collective Leader** (Quality Standards Director)
 - **Master Smith-Priest Vulcan Depthforge** (Metalworking Specialist)
 - **Fashion Guild Coordinator** (Luxury Goods Designer)
-- **Traditional Craftsmen Guild Representative** (Cultural Preservation)
+- **[[Traditional Craftsmen Guil]]d Representative** ([[Cultural Preservation]])
 
 **Production Categories:**
 - **Luxury Goods:** High-end items for noble houses and wealthy merchants
@@ -366,7 +366,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Results:** Accelerated technological advancement, reduced development costs
 
 **The Environmental Consortium:**
-- **Members:** Tidecaller Environmental, Agricultural Provinces, Conservation Groups
+- **Members:** Tidecaller Environmental, Agricultural Provinces, Conservation [[Groups]]
 - **Purpose:** Sustainable business practices, environmental restoration
 - **Activities:** Ecosystem protection, pollution cleanup, species preservation
 - **Opposition:** Heavy industry, short-term profit maximizers, resource extractors
@@ -387,7 +387,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 ---
 
-### **The Memory Wars**
+### **[[The Memory Wars]]**
 
 **Participants:** Silverscale Consortium vs. Traditional Education System
 **Conflict:** Memory implantation vs. conventional learning methods
@@ -444,12 +444,12 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
    - **Cultural Bridge:** Military tradition meets academic sophistication
 
 **Love Matches with Business Consequences:**
-1. **Memory Merchant Valeria Siltweave + Information Broker Whisper Goldtongue**
+1. **[[Memory Merchant Valeria Siltweave]] + [[Information Broker [[Whisper Goldtongue]]]]**
    - **Personal Connection:** Shared fascination with hidden knowledge
    - **Business Conflict:** Competing for same information sources
    - **Resolution Strategy:** Territorial agreements and specialty divisions
 
-2. **Captain Marina Tidecrest + Bio-Integration Specialist Coral Lifeshaper**
+2. **[[Captain Marina Tidecrest]] + Bio-Integration Specialist [[Coral Lifeshaper]]**
    - **Shared Values:** Environmental protection and species preservation
    - **Business Enhancement:** Combined expertise in ecological restoration
    - **Political Alignment:** Both support sustainable development policies
@@ -458,8 +458,8 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Under Negotiation:**
 1. **Heir Apparent of Goldstream + Daughter of Crystalforge Alliance**
-   - **Strategic Goal:** Ficial backing for crystal technology expansion
-   - **Complication:** Young people prefer different partners
+   - **Strategic Goal:** Ficial backing for [[Crystal Technology]] expansion
+   - **Complication:** Young [[People]] prefer different partners
    - **Family Pressure:** Significant ficial interests at stake
 
 2. **Son of Windwright Dynasty + Granddaughter of Deepwater Consortium**
@@ -491,7 +491,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Political Coordination:** Unified lobbying and political influence campaigns
 
 **Operating Procedures:**
-- **Meeting Locations:** Rotating neutral venues, often disguised as social events
+- **Meeting [[location]]s:** Rotating neutral venues, often disguised as social events
 - **Communication:** Coded messages through legitimate business correspondence
 - **Decision Making:** Consensus required, with ficial penalties for violations
 - **Security:** Counter-intelligence operations, leak prevention, member screening
@@ -537,7 +537,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Challenges:** Pressure adaptation technology, transportation logistics
 - **Opportunities:** Cultural exchange, technological integration
 
-**Tenebrarum Shadow Markets:**
+**[[Tenebrarum]] [[Shadow Markets]]:**
 - **Primary Goods:** Information services ↔ Shadow manipulation technology  
 - **Key Partners:** Information Brokers ↔ Tenebrarum Shadow Guilds
 - **Challenges:** Political tensions, cultural misunderstanding, security concerns
@@ -555,7 +555,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Problem:** Multiple currency systems with fluctuating exchange rates
 - **Impact:** Trade negotiations complicated by monetary uncertainty
 - **Solutions:** Goldstream Banking developing universal exchange systems
-- **Risks:** Economic manipulation by foreign governments
+- **Risks:** [[Economic Manipulation]] by foreign governments
 
 **Cultural Adaptation Challenges:**
 - **Problem:** Business practices vary significantly between realms
@@ -600,7 +600,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Information Brokers:** Intelligence services essential for government operations
 
 **Indirect Political Influence:**
-- **Economic Pressure:** Threatening business operations to influence policy
+- **[[Economic Pressure]]:** Threatening business operations to influence policy
 - **Campaign Contributions:** Ficial support for favorable political candidates  
 - **Lobbying Operations:** Professional influence campaigns on specific legislation
 - **Media Control:** Shaping public opinion through information and advertising
@@ -627,7 +627,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Coordination:** Transport Union provides logistics, other houses contribute resources
 - **Recovery:** Shared rebuilding costs, temporary business relocation assistance
 
-**Political Crisis Management:**
+**Political [[Crisis Management]]:**
 - **Scenarios:** Government instability, regulatory crackdowns, foreign conflicts
 - **Strategy:** Unified political response, coordinated lobbying, international arbitration
 - **Leadership:** Information Brokers provide intelligence, all houses contribute influence
@@ -734,8 +734,8 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 ### **Economic Mystery Adventures**
 
 1. **The Market Manipulation:** Systematic price changes suggest hidden coordination
-2. **The Missing Shipment:** Valuable cargo disappearance threatens international relations
-3. **The Corporate Espionage:** Business secrets stolen, multiple suspects with motives
+2. **The Missing Shipment:** Valuable cargo disappearance threatens [[International Relations]]
+3. **The Corporate Espionage:** Business secrets stolen, multiple [[Suspects]] with motives
 4. **The Ficial Conspiracy:** Complex money trail suggests massive fraud scheme
 
 ---
@@ -751,11 +751,11 @@ Merchant Family Alliances is a undersea element of the setting, known for biolum
 
 Legends speak of Merchant Family Alliances as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Family Alliances.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

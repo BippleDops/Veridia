@@ -1,5 +1,6 @@
 ---
 
+
 title: Mystery Framework
 type: investigation
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ### Mystery_241
@@ -370,3 +372,13 @@ Mentioned in The Second Prophecy of Winds
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

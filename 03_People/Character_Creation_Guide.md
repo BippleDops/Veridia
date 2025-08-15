@@ -1,17 +1,19 @@
 ---
+
 title: Character_Creation_Guide
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Character_Creation_Guide
 
 ## Portrait
 
-![[portrait_character_creation_guide.png]]
+![[Character_Creation_Guide]]
 
 *Portrait reference for Character_Creation_Guide*
 
@@ -128,3 +130,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

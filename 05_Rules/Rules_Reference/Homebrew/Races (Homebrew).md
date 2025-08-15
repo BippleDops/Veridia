@@ -132,3 +132,36 @@ Apply this rule when:
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+## Official Rules Reference
+
+### Core Rulebooks
+- **Core Races**: PHB Chapter 2
+- **Volo's Races**: VGM p.103-120
+- **Mordenkainen's Races**: MTF p.7-43
+- **Tasha's Custom Lineage**: TCE p.7-8
+- **Eberron Races**: EGTW p.175-182
+- **Ravnica Races**: GGR p.12-23
+- **Strixhaven Races**: SCC p.28-35
+- **UA Race Options**: Various UA documents
+- **2024 Species**: XPHB Chapter 2
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
 
-# [[lich xmm|Lich]]
+# [[Demilich Xmm (undead)]]
 *Source: Monster Manual (2024) p. 196. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -140,7 +140,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
   - "desc": "If destroyed, the lich reforms in d10 days if it has a spirit jar, reviving\
-      \ with all its [[hit points xphb|Hit Points]].\
+      \ with all its [[hit-points-xphb (variant-rules)]].\
       \ The new body appears in an unoccupied space within the lich's lair."
     "name": "Spirit Jar"
 "actions":
@@ -155,21 +155,21 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \ condition until the start of the lich's next turn."
     "name": "Paralyzing Touch"
   - "desc": "The lich casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\nAt will: [[detect magic xphb|Detect Magic]],\
-      \ [[detect thoughts xphb|Detect Thoughts]], [[dispel magic xphb|Dispel\]]
-      \ Magic]], [[fireball xphb|Fireball]]\
-      \ (level 5 version), [[invisibility xphb|Invisibility]],\
-      \ [[lightning bolt xphb|Lightning Bolt]] (level 5\
-      \ version), [[mage hand xphb|Mage Hand]], [[prestidigitation xphb|Prestidigitation]]\n\
-      \n2/day each: [[animate dead xphb|Animate Dead]],\
-      \ [[dimension door xphb|Dimension Door]], [[plane shift xphb|Plane Shift]]\n\
-      \n1/day each: [[chain lightning xphb|Chain Lightning]],\
-      \ [[finger of death xphb|Finger of Death]], [[power word kill xphb|Power\]]
-      \ Word Kill]], [[scrying xphb|Scrying]]"
+      \ spellcasting ability (spell save DC 20):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[detect-thoughts-xphb (spells)]], [[dispel-magic-xphb (spells)]]
+      \ Magic]], [[fireball-xphb (spells)]]\
+      \ (level 5 version), [[see-invisibility-xphb (spells)]],\
+      \ [[Lightning Bolt Xphb]] (level 5\
+      \ version), [[mage-hand-xphb (spells)]], [[Prestidigitation Xphb]]\n\
+      \n2/day each: [[animate-dead-xphb (spells)]],\
+      \ [[Dimension Door Xphb]], [[plane-shift-xphb (spells)]]\n\
+      \n1/day each: [[chain-lightning-xphb (spells)]],\
+      \ [[finger-of-death-xphb (spells)]], [[power-word-kill-xphb (spells)]]
+      \ Word Kill]], [[Scrying Xphb]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The lich casts [[counterspell xphb|Counterspell]]\
-      \ or [[shield xphb|Shield]] in response to the spell's\
+  - "desc": "The lich casts [[counterspell-xphb (spells)]]\
+      \ or [[Shield]] in response to the spell's\
       \ trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic"
 "legendary_actions":
@@ -178,12 +178,12 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \ damage."
     "name": "Deathly Teleport"
   - "desc": "Constitution Saving Throw: DC 20, each creature that isn't an Undead\
-      \ in a 20-foot [[emanation area of effect xphb|Emanation]]\
+      \ in a 20-foot [[Area of Effect Xphb]]\
       \ originating from the lich. Failure: 31 (9d6) Necrotic damage. Success:\
       \ Half damage. Failure or Success: The lich can't take this action again until\
       \ the start of its next turn."
     "name": "Disrupt Life"
-  - "desc": "The lich casts [[fear xphb|Fear]], using the\
+  - "desc": "The lich casts [[Fear Xphb]], using the\
       \ same spellcasting ability as Spellcasting. The lich can't take this action\
       \ again until the start of its next turn.\n"
     "name": "Frightening Gaze"
@@ -191,12 +191,12 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "desc": "The region containing a lich's lair is warped by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- All-Seeing. While in its lair, the lich can cast [[clairvoyance xphb|Clairvoyance]],\
+  - "desc": "- All-Seeing. While in its lair, the lich can cast [[clairvoyance-xphb (spells)]],\
       \ requiring no spell components and using the same spellcasting ability as its\
       \ Spellcasting action.  \n- Inevitable Siphon. Whenever a Humanoid dies\
       \ within 1 mile of the lair, its soul is immediately consumed by the lich. A\
       \ Humanoid whose soul is consumed in this way can be brought back to life only\
-      \ by a True Resurrection or [[wish xphb|Wish]] spell.\
+      \ by a True Resurrection or [[wish-xphb (spells)]] spell.\
       \  "
   - "desc": "If the lich is destroyed or moves its lair elsewhere, these effects end\
       \ immediately. These effects resume if the lich gains a new body (see its Spirit\

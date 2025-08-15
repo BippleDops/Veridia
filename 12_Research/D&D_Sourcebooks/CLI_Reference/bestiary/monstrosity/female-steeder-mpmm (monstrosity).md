@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-female-steeder-mpmm-female-steeder-mpmm.svg)
 
-# [[female steeder mpmm|Female Steeder]]
+# [[Female Steeder Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
 
 ## 🔧 Deep Evaluation Improvements

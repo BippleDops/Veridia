@@ -43,11 +43,11 @@ world: Both
 - **Properties**: [[item properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-As a [[bonus action xphb|Bonus Action]], you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its iimate form.
+As a [[Action Xphb]], you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its iimate form.
 
-When you take the [[actions#Attack|Attack]] action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your [[proficiency xphb|Proficiency Bonus]] and Wisdom modifier to the attack roll. On a hit, the target takes `d6` Piercing damage and `3d6` Poison damage.
+When you take the [[actions#Attack|Attack]] action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your [[Proficiency Xphb]] and Wisdom modifier to the attack roll. On a hit, the target takes `d6` Piercing damage and `3d6` Poison damage.
 
-The snake head can be attacked while it is animate. It has AC 15, HP 20, and [[immunity xphb|Immunity]] to Poison and Psychic damage. If the head drops to 0 [[hit points xphb|Hit Points]], the staff is destroyed. As long as it's not destroyed, the staff regains all lost [[hit points xphb|Hit Points]] when it reverts to its iimate form.
+The snake head can be attacked while it is animate. It has AC 15, HP 20, and [[immunity-xphb (variant-rules)]] to Poison and Psychic damage. If the head drops to 0 [[hit-points-xphb (variant-rules)]], the staff is destroyed. As long as it's not destroyed, the staff regains all lost [[hit-points-xphb (variant-rules)]] when it reverts to its iimate form.
 
 *Source: Dungeon Master's Guide (2024) p. 310*
 

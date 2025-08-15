@@ -46,7 +46,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warlord-xmm-hobgoblin-warlord-xmm.svg)
 
-# [[hobgoblin warlord xmm|Hobgoblin Warlord]]
+# [[Hobgoblin Warlord Xmm]]
 *Source: Monster Manual (2024) p. 171*  
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
@@ -120,8 +120,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
-  - "desc": "While in a 30-foot [[emanation area of effect xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage xphb|Advantage]]\
+  - "desc": "While in a 30-foot [[Area of Effect Xphb]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[Advantage Xphb]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"
@@ -130,7 +130,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
       \ combination."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
-      \ 11 (2d6 + 4) Piercing damage, and the target's [[speed xphb|Speed]]\
+      \ 11 (2d6 + 4) Piercing damage, and the target's [[Fly Speed Xphb]]\
       \ decreases by 10 feet until the start of the hobgoblin's next turn."
     "name": "Javelin"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Slashing damage."

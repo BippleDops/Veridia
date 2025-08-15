@@ -114,7 +114,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be:   - Armor padding technique: [[Armorer Padwick]]...
+Last known to be:   - Armor padding technique: [[03_People_Armorer_Padwick]]...
 
 ### Accessibility
 - How difficult to obtain

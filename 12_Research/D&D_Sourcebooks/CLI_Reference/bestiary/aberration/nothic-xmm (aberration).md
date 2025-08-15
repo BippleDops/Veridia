@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nothic-xmm-nothic-xmm.svg)
 
-# [[nothic xmm|Nothic]]
+# [[nothic-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

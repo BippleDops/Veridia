@@ -50,11 +50,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes `d10` Necrotic damage, and it can't regain [[hit-points-xphb|Hit Points]] until the end of your next turn.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes `d10` Necrotic damage, and it can't regain [[hit-points-xphb (variant-rules)]] until the end of your next turn.
 
 **Cantrip Upgrade.** The damage increases by `d10` when you reach levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
 
@@ -102,3 +102,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

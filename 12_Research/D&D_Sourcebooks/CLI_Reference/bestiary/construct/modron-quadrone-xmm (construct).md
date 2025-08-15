@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-quadrone-xmm-modron-quadrone-xmm.svg)
 
-# [[modron quadrone xmm|Modron Quadrone]]
+# [[Modron Quadrone Xmm]]
 *Source: Monster Manual (2024) p. 218*  
 
 Quadrones are among the most relatable modrons—and those most likely to go rogue.

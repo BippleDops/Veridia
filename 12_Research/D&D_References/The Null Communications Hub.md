@@ -1,10 +1,12 @@
 ---
+
 title: The Null Communications Hub
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # The  Communications Hub
@@ -51,16 +53,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves on the move group leader mtf]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
-- [[government sample hierarchy of noble titles]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[forms of government]]
+- [[government-sample-hierarchy-of-noble-titles (tables)]]
+- [[githzerai-groups-githzerai-group-leader-mtf]]
+- [[forms-of-government (tables)]]
 - [[guildhall]]
-- [[guild artisan]]
-- [[guild artisan guild merchant variant]]
-- [[fiendish cults cult organization mtf]]
+- [[guild-artisan (backgrounds)]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[Organization]]
 
 ## Related
 

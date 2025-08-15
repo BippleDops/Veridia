@@ -1,15 +1,15 @@
 ---
 
 title: Temporal Harvest
-type: Location
+type: [[location]]
 tags:
 - mystery
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - harvest
 - mechanics/magic
 - quest
-- content/lore
+- content/[[Lore]]
 - content/location
 - place
 - active
@@ -21,7 +21,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Mystery
 MyContainer: None
@@ -41,7 +41,7 @@ improvements: 20
 
 # Temporal Harvest
 
-*"Time is not a river flowing in one direction, but an ocean with currents and tides. Those who learn to harvest its bounty can reap possibilities that never were, or ensure that what must be, will be."*
+*"[[Time]] is not a river flowing in one direction, but an ocean with currents and tides. Those who learn to harvest its bounty can reap possibilities that never were, or ensure that what must be, will be."*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,9 +101,9 @@ improvements: 20
 
 ## Overview
 
-The Temporal Harvest refers to both a mysterious phenomenon and a theoretical magical practice involving the manipulation and collection of temporal energy. Reports describe events where time itself appears to be "harvested" or "gathered" like a crop, with practitioners somehow extracting temporal essence for unknown purposes.
+The Temporal Harvest refers to both a mysterious phenomenon and a theoretical magical practice involving the manipulation and collection of temporal energy. [[reports]] describe events where time itself appears to be "harvested" or "gathered" like a crop, with practitioners somehow extracting temporal essence for unknown purposes.
 
-This phenomenon has been observed sporadically throughout Aquabyssos's history, typically manifesting as areas where time flows differently, objects that age rapidly or slowly, and individuals who experience temporal displacement. Recent increases in these occurrences have caught the attention of scholars, mages, and city officials who are concerned about the implications for the stability of local space-time.
+This phenomenon has been observed sporadically throughout Aquabyssos's history, typically manifesting as areas where time flows differently, objects that age rapidly or slowly, and individuals who experience [[Temporal Displacement]]. Recent increases in these occurrences have caught the attention of scholars, mages, and city officials who are concerned about the implications for the stability of local space-time.
 
 The concept has evolved from isolated incidents into a subject of serious academic study, with researchers attempting to understand whether the Temporal Harvest represents a natural phenomenon, magical practice, or something far more dangerous.
 
@@ -113,7 +113,7 @@ The first major documented Temporal Harvest occurred in what is now known as the
 
 ### The Age Storms (8 years ago)
 
-A series of temporal disturbances swept through the merchant quarter, causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent.
+A series of temporal disturbances swept through the [[[[Merchant]] Quarter]], causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent.
 
 ### The Echo Market (3 years ago)
 
@@ -125,10 +125,10 @@ A portion of the main marketplace became temporally unstable, creating "time ech
 Proposed by **Chronarch Vera Timeweaver**, this theory suggests that time can be deliberately cultivated and harvested like any other resource. According to this model, skilled practitioners create temporal "fields" where time accumulates like sediment, then extract concentrated temporal energy for various applications.
 
 **The Parasite Theory**
-Advanced by **Scholar Mordant Voidtouch**, this darker interpretation proposes that the Temporal Harvest represents feeding by extradimensional entities that consume time itself, leaving behind temporal distortions as evidence of their predation.
+Advanced by **Scholar Mordant Voidtouch**, this darker interpretation proposes that the Temporal Harvest represents feeding by extradimensional entities that consume time itself, leaving behind temporal distortions as [[Evidence]] of their predation.
 
 **The Natural Phenomenon Theory**
-Supported by **Natural Philosopher Marina Currentflow**, this theory argues that the deep ocean environment creates unique conditions where time naturally accumulates and is periodically released, similar to how tidal pools collect and release water.
+Supported by **Natural Philosopher [[Marina Currentflow]]**, this theory argues that the deep ocean environment creates unique conditions where time naturally accumulates and is periodically released, similar to how tidal pools collect and release water.
 
 **The Artificial Origin Theory**
 Defended by **Investigator Captain Thane Deepwatch**, this theory suggests that the Temporal Harvest is the result of experimental magic or ancient technology that has become self-sustaining and unpredictable.
@@ -139,7 +139,7 @@ If the Temporal Harvest can be controlled or predicted, potential applications i
 
 - **Accelerated Research**: Speeding up experimental processes and observations
 - **Preservation**: Slowing time around valuable or fragile objects
-- **Healing**: Reversing injuries and diseases by manipulating personal timelines
+- **Healing**: Reversing injuries and diseases by manipulating personal [[Timeline]]s
 - **Communication**: Sending messages across different temporal rates
 - **Defense**: Creating temporal barriers that slow enemy actions
 
@@ -154,7 +154,7 @@ A collaborative effort between multiple institutions studying the Temporal Harve
 - Determine the underlying cause of the phenomenon
 
 **Current Projects:**
-- Mapping temporal distortion patterns throughout the city
+- [[map]]ping temporal distortion patterns throughout the city
 - Monitoring individuals with chronic temporal displacement
 - Developing instruments to measure temporal flow rates
 - Creating theoretical models for temporal energy manipulation
@@ -165,7 +165,7 @@ A collaborative effort between multiple institutions studying the Temporal Harve
 Led by **Explorer-Mage Chronos Deepdiver**, this team investigates whether the source of temporal disturbances lies in the deepest ocean trenches where conventional time measurement becomes unreliable.
 
 **The Memory Archive Project**
-Directed by **Archivist Vera Remembrance**, this initiative collects testimonies from individuals affected by temporal harvest events to identify patterns and predict future occurrences.
+Directed by **Archivist Vera Remembrance**, this [[Initiative]] collects testimonies from individuals affected by temporal harvest events to identify patterns and predict future occurrences.
 
 **The Paradox Prevention Initiative**
 Managed by **Logic-Keeper Marcus Causality**, this group works to prevent temporal paradoxes that could result from uncontrolled harvest activities.
@@ -181,22 +181,22 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 
 ## Adventure Hooks
 
-1. **The Harvest Moon**: A predictable temporal event is approaching, and various factions are positioning themselves to either exploit or prevent it.
+1. **[[The Harvest]] Moon**: A predictable temporal event is approaching, and various factions are positioning themselves to either exploit or prevent it.
 
-2. **The Time Thieves**: Someone is deliberately stealing time from specific individuals, and the party must identify the culprits before they claim more victims.
+2. **The Time Thieves**: Someone is deliberately stealing time from specific individuals, and [[The Party]] must identify the culprits before they claim more victims.
 
-3. **The Paradox War**: Competing groups are using temporal manipulation to gain advantages in the political conflict, creating dangerous paradoxes that threaten reality itself.
+3. **The Paradox War**: Competing [[Groups]] are using temporal manipulation to gain advantages in the political conflict, creating dangerous paradoxes that threaten reality itself.
 
 4. **The Chronicle Crisis**: The party discovers that their own actions in a previous adventure created a temporal disturbance, and they must decide whether to fix the timeline or accept the changes.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Use the Temporal Harvest to:
 - Create unique environmental challenges with time-based obstacles
@@ -232,6 +232,34 @@ Temporal Harvest is a notable location characterized by its unique features and 
 
 ### Founding
 Temporal Harvest was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -287,3 +315,40 @@ Key stop on spices trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

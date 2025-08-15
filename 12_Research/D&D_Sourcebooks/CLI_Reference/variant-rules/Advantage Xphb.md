@@ -34,7 +34,7 @@ world: Both
 # Advantage
 *Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
-If you have Advantage on a [[d20 test xphb|D20 Test]], roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and [[disadvantage xphb|Disadvantage]] on the same roll cancel each other.
+If you have Advantage on a [[d20-test-xphb (variant-rules)]], roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and [[Advantage Xphb]] on the same roll cancel each other.
 
 ## 🔧 Deep Evaluation Improvements
 

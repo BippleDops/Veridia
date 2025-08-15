@@ -1,9 +1,9 @@
 ---
 
 title: Black Market Deal
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - content/adventure
 - black_market
 - deal
@@ -21,7 +21,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Quest
 MyContainer: None
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -105,9 +105,9 @@ The Black Market Deal represents an ongoing network of illicit transactions and 
 
 This underground economy operates in the spaces between legitimate authority - abandoned pressure tube stations, forgotten maintece tunnels, and neutral territory where official faction control is minimal. Deals range from simple smuggling operations to complex exchanges involving magical artifacts, restricted information, and services that could shift the balance of power in the city.
 
-The black market serves multiple functions: providing necessary goods during shortages, enabling communication between hostile factions, and creating opportunities for both legitimate merchants and criminal enterprises to profit from the city's instability.
+The black market serves multiple functions: providing necessary goods during shortages, enabling communication between hostile factions, and creating opportunities for both legitimate [[Merchant]]s and criminal enterprises to profit from the city's instability.
 
-### Phase 1: Introduction to the Underground
+### Phase 1: [[Introduction]] to the Underground
 
 **Objective**: Make contact with black market operators
 - PCs are approached by a desperate merchant, faction representative, or private citizen needing something unavailable through legal channels
@@ -170,27 +170,27 @@ Participation in black market activities can lead to:
 
 ## Adventure Hooks
 
-1. **The Desperate Diplomat**: A faction representative needs the PCs to acquire restricted magical components for a critical defensive system, but official channels have been blocked by political maneuvering.
+1. **The Desperate Diplomat**: A faction representative needs the PCs to acquire restricted magical components for a critical defensive system, but official channels have been blocked by [[Political Maneuvering]].
 
 2. **The Missing Shipment**: A valuable black market cargo has disappeared, and multiple factions are secretly searching for it. The PCs must navigate competing interests to recover it.
 
 3. **The Double Agent**: A prominent citizen is using black market channels to secretly support an opposing faction, and the PCs must decide whether to expose them or protect their operation.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Use the Black Market Deal structure to:
 - Provide access to items and information that advance the plot
 - Create moral complexity around illegal but potentially necessary activities
 - Introduce the PCs to Aquabyssos's criminal underworld and its connections to legitimate society
 - Generate ongoing plot threads through the consequences of black market activities
-- Explore themes of desperation, survival, and moral compromise during times of political crisis
+- Exp[[Lore]] themes of desperation, survival, and moral compromise during [[Time]]s of political crisis
 
 ## Player-Facing Summary
 
@@ -220,6 +220,34 @@ Black Market Deal is a notable location characterized by its unique features and
 ### Founding
 Black Market Deal was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Black Market Deal:
@@ -239,3 +267,39 @@ Key stop on metals trade route
 - Someone is protecting a witness for revenge
 - Strange sightings suggest a curse
 - A noble needs help investigating before the festival
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

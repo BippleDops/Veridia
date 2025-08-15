@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [[antitoxin xphb|Antitoxin]]  
+- **Craft.** [[antitoxin-xphb (items)]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Creation_Extended - Quick Reference
 
 ## Key Info

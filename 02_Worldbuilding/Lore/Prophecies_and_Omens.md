@@ -66,7 +66,7 @@ And portals open,
 The final seal shall choose,
 To transform the past."
 
-**Source**: Oracle vision
+**Source**: [[Oracle]] vision
 **Age**: 1324 years old
 **Believers**: Secret society
 
@@ -132,7 +132,7 @@ To save the future."
 **Points to**: Future event in Act 3
 
 ### Subtle Hint #83
-**Type**: NPC comment
+**Type**: [[Npc]] comment
 **Appears in**: Casual conversation
 **Points to**: Future event in Act 4
 
@@ -159,7 +159,7 @@ To save the future."
 ### Fulfillment Requirements
 1. **Person**: Pure of heart
 2. **Place**: Convergence point
-3. **Time**: Eclipse
+3. **[[Time]]**: Eclipse
 4. **Object**: Ancient key
 5. **Action**: Ritual performed
 
@@ -258,7 +258,7 @@ To save the future."
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -282,7 +282,7 @@ To save the future."
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -296,7 +296,7 @@ To save the future."
 
 - Detail funeral rites and afterlife beliefs
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

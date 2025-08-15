@@ -58,3 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help investigating before the new moon
 - A letter reveals ancient history about the cult
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

@@ -36,9 +36,9 @@ world: Both
 *Wondrous item, legendary*  
 ![](/03_Mechanics/CLI/items/img/sovereign-glue.webp#right)
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [[oil of slipperiness xdmg|Oil of Slipperiness]]. When found, a container contains `1d6 + 1` ounces.
+This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [[oil-of-slipperiness-xdmg (items)]]. When found, a container contains `1d6 + 1` ounces.
 
-One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a [[actions#Utilize|Utilize]] action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or [[oil of etherealness xdmg|Oil of Etherealness]], or with a [[wish xphb|Wish]] spell.
+One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a [[actions#Utilize|Utilize]] action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or [[Oil of Etherealness Xdmg]], or with a [[wish-xphb (spells)]] spell.
 
 *Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
 

@@ -40,7 +40,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-This concoction looks, smells, and tastes like a [[potion of healing xdmg|Potion of Healing]] or another beneficial potion. However, it is actually poison masked by illusion magic. [[identify xphb|Identify]] reveals its true nature.
+This concoction looks, smells, and tastes like a [[Potion of Healing Xdmg]] or another beneficial potion. However, it is actually poison masked by illusion magic. [[identify-xphb (spells)]] reveals its true nature.
 
 If you drink this potion, you take `4d6` Poison damage and must succeed on a DC 13 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
 

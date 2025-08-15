@@ -35,24 +35,24 @@ world: Aquabyssos
 The school of **Enchantment** represents the weaving of magical influence over minds and emotions, a practice that manifests differently across the realms of [[Aethermoor]] and [[Aquabyssos]]. This ancient art draws upon the fundamental forces that bind consciousness to reality, manipulating the threads of thought and desire.
 
 ### Aethermoor: The Harmony of Resoce
-In the floating realm of Aethermoor, enchantment magic takes on a musical quality, resonating through the crystalline structures that support the sky cities. [[02 Worldbuilding/Factions/The Resoce Keepers|02 Worldbuilding/Factions/The Resoce Keepers]] have mastered techniques where enchantments are literally sung into existence, their spells harmonizing with the natural frequencies of the [[Seven Shards]].
+In the floating realm of Aethermoor, enchantment magic takes on a musical quality, resonating through the crystalline structures that support the sky cities. [[02_Worldbuilding]] have mastered techniques where enchantments are literally sung into existence, their spells harmonizing with the natural frequencies of the [[Seven Shards]].
 
-The [[02 Worldbuilding/Locations/Crystal Conservatory|02 Worldbuilding/Locations/Crystal Conservatory]] serves as the premier academy for enchantment studies in Aethermoor, where students learn to modulate their magical resoce to influence emotions without overwhelming the target's free will. This practice, known as "Harmonic Persuasion," is considered the most ethical form of enchantment magic.
+The [[Crystal Conservatory]] serves as the premier academy for enchantment studies in Aethermoor, where students learn to modulate their magical resoce to influence emotions without overwhelming the target's free will. This practice, known as "Harmonic Persuasion," is considered the most ethical form of enchantment magic.
 
 ### Aquabyssos: The Depths of Compulsion
-In the crushing depths of Aquabyssos, enchantment magic takes a more visceral form. The [[Deep Mother|02 Worldbuilding/Entities/Deep Mother]]'s influence has twisted this school into something more primal and consuming. [[02 Worldbuilding/Factions/The Tide Singers|02 Worldbuilding/Factions/The Tide Singers]] practice "Depth Calling," where enchantments manifest as irresistible urges that bubble up from the unconscious mind like air from the deepest trenches.
+In the crushing depths of Aquabyssos, enchantment magic takes a more visceral form. The [[Deep Mother|02 Worldbuilding/Entities/Deep Mother]]'s influence has twisted this school into something more primal and consuming. [[Tide Singers]] practice "Depth Calling," where enchantments manifest as irresistible urges that bubble up from the unconscious mind like air from the deepest trenches.
 
-The [[02 Worldbuilding/Locations/Abyssal Spires|02 Worldbuilding/Locations/Abyssal Spires]] contain ancient enchantment laboratories where the boundaries between mind control and madness blur. Here, the distinction between willing compliance and complete mental domination becomes as murky as the deep waters themselves.
+The [[Abyssal Spires]] contain ancient enchantment laboratories where the boundaries between mind control and madness blur. Here, the distinction between willing compliance and complete mental domination becomes as murky as the deep waters themselves.
 
 ### The Memory Weavers
-Among the most respected enchantment practitioners are the **Memory Weavers**, a cross-realm organization that specializes in preserving and sharing memories through magical means. They maintain the [[02 Worldbuilding/Locations/Archive of Echoes|02 Worldbuilding/Locations/Archive Of Echoes]], where important historical moments are stored as living enchantments that can be experienced rather than simply read.
+Among the most respected enchantment practitioners are the **Memory Weavers**, a cross-realm organization that specializes in preserving and sharing memories through magical means. They maintain the [[Archive of Echoes]], where important historical moments are stored as living enchantments that can be experienced rather than simply read.
 
 Notable Memory Weavers include:
 - **Lyralei Moonwhisper** of Aethermoor, who can weave memories into crystalline matrices
 - **Threnody Deepcurrent** of Aquabyssos, master of extracting memories from drowned souls
 
 ### The Influence Courts
-In both realms, political power often flows through subtle enchantment. The [[02 Worldbuilding/Factions/Skyborn Nobility|02 Worldbuilding/Factions/Skyborn Nobility]] of Aethermoor employ court enchanters who specialize in diplomatic magic—spells that enhance charisma, detect deception, and foster genuine cooperation. Meanwhile, the [[02 Worldbuilding/Factions/Abyssal Courts|02 Worldbuilding/Factions/Abyssal Courts]] use more aggressive forms of mental influence to maintain their dominion over the deep settlements.
+In both realms, political power often flows through subtle enchantment. The [[02_Worldbuilding]] of Aethermoor employ court enchanters who specialize in diplomatic magic—spells that enhance charisma, detect deception, and foster genuine cooperation. Meanwhile, the [[Abyssal Cour]] use more aggressive forms of mental influence to maintain their dominion over the deep settlements.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -68,27 +68,27 @@ In both realms, political power often flows through subtle enchantment. The [[02
 
 ## Connection to the Seven Shards
 
-The [[02 Worldbuilding/Artifacts/Shard of Empathy|02 Worldbuilding/Artifacts/Shard Of Empathy]] is intimately connected to enchantment magic, amplifying the caster's ability to understand and influence emotional states. When properly attuned, it allows the wielder to:
+The [[02_Worldbuilding]] is intimately connected to enchantment magic, amplifying the caster's ability to understand and influence emotional states. When properly attuned, it allows the wielder to:
 
 - Sense the deepest desires and fears of others
 - Project emotions across vast distances
 - Create empathic links between individuals
 - Heal psychological trauma through shared understanding
 
-Legend speaks of the **Shard of Dominion**, a theoretical eighth shard that would grant absolute control over minds. The [[02 Worldbuilding/Factions/The Order of the Veil|02 Worldbuilding/Factions/The Order Of The Veil]] actively suppresses research into such artifacts, believing them too dangerous for mortal hands.
+Legend speaks of the **Shard of Dominion**, a theoretical eighth shard that would grant absolute control over minds. The [[The Order of the Veil]] actively suppresses research into such artifacts, believing them too dangerous for mortal hands.
 
 ### The Crown of Whispered Truths
-Hidden somewhere in the [[02 Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
+Hidden somewhere in the [[Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
 
 ### The Lullaby of Eternal Rest
-A spell-song created by ancient Aethermoor enchanters, said to be able to put the Deep Mother herself to sleep. The complete melody is scattered across multiple [[02 Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' records, requiring cooperation between realms to reconstruct.
+A spell-song created by ancient Aethermoor enchanters, said to be able to put the Deep Mother herself to sleep. The complete melody is scattered across multiple [[The Chroniclers]]' records, requiring cooperation between realms to reconstruct.
 
 ### Chains of Consensual Binding
-Developed by the Memory Weavers, these enchantments create voluntary mental links between individuals, allowing them to share thoughts, emotions, and even magical energy. They are particularly valued by [[02 Worldbuilding/Organizations/The Unity Coalition|02 Worldbuilding/Organizations/The Unity Coalition]] as tools for building genuine trust between former enemies.
+Developed by the Memory Weavers, these enchantments create voluntary mental links between individuals, allowing them to share thoughts, emotions, and even magical energy. They are particularly valued by [[Organization]] as tools for building genuine trust between former enemies.
 
 ## Ethical Considerations
 
-The practice of enchantment magic raises profound questions about free will and consent. The [[02 Worldbuilding/Organizations/The Ethical Council of Mages|02 Worldbuilding/Organizations/The Ethical Council Of Mages]] has established strict guidelines:
+The practice of enchantment magic raises profound questions about free will and consent. The [[The Ethical Council of Mages]] has established strict guidelines:
 
 1. **Consensual Magic**: All enchantments affecting sapient beings must be willingly accepted
 2. **Limited Duration**: Mental influences should have clear expiration conditions

@@ -45,7 +45,7 @@ updated: '2025-08-11T00:00:00+00:00'
 *The Sacred Technology of Divine Light*
 
 > *"The crystals are not mere tools—they are fragments of divinity made manifest, channels through which the sky itself speaks to us. In their faceted depths, we find not only power but purpose, not only energy but enlightenment. Through the Skyforged arts, we do not simply use technology; we commune with the very essence of creation itself."*
-> — [[High Techno Priest Lumina Skyweaver]], Supreme Guardian of the Crystal Sanctuaries
+> — [[High Techno-Priest Lumina Skyweaver]], Supreme Guardian of the Crystal Sanctuaries
 
 ## 🔧 Deep Evaluation Improvements
 

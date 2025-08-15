@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/winged-boots.webp#right)
 
-These boots have 4 charges and regain `d4` expended charges daily at dawn. While wearing the boots, you can take a [[actions#Magic|Magic]] action to expend 1 charge, gaining a [[fly speed xphb|Fly Speed]] of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
+These boots have 4 charges and regain `d4` expended charges daily at dawn. While wearing the boots, you can take a [[actions#Magic|Magic]] action to expend 1 charge, gaining a [[Fly Speed Xphb]] of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
 
 *Source: Dungeon Master's Guide (2024) p. 325. Available in the SRD and the Free Rules (2024)*
 

@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-alhoon-mpmm-alhoon-mpmm.svg)
 
-# [[alhoon mpmm|Alhoon]]
+# [[alhoon-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
 
 > [!quote] A quote from Mordenkainen  
@@ -147,14 +147,14 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [[dancing lights xphb|dancing lights]],\
-      \ [[detect magic xphb|detect magic]], [[detect thoughts xphb|detect thoughts]],\
-      \ [[disguise self xphb|disguise self]], [[mage hand xphb|mage hand]],\
-      \ [[prestidigitation xphb|prestidigitation]]\n\n1/day\
-      \ each: [[dominate monster xphb|dominate monster]],\
-      \ [[globe of invulnerability xphb|globe of invulnerability]],\
-      \ [[invisibility xphb|invisibility]], [[modify memory xphb|modify memory]],\
-      \ [[plane shift xphb|plane shift]] (self only), [[wall of force xphb|wall\]]
+      At will: [[dancing-lights-xphb (spells)]],\
+      \ [[detect-magic-xphb (spells)]], [[detect-thoughts-xphb (spells)]],\
+      \ [[disguise-self-xphb (spells)]], [[mage-hand-xphb (spells)]],\
+      \ [[Prestidigitation Xphb]]\n\n1/day\
+      \ each: [[Dominate Monster Xphb]],\
+      \ [[Vulnerability Xphb]],\
+      \ [[see-invisibility-xphb (spells)]], [[modify-memory-xphb (spells)]],\
+      \ [[plane-shift-xphb (spells)]] (self only), [[Wall of Force Xphb]]
       \ of force]]"
     "name": "Spellcasting"
 "reactions":

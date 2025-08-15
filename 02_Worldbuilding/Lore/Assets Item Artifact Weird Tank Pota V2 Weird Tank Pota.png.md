@@ -291,3 +291,7 @@ Mentioned in The Hidden Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

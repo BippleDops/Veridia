@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-piercer-xmm-piercer-xmm.svg)
 
-# [[piercer xmm|Piercer]]
+# [[piercer-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 240*  
 
 ## 🔧 Deep Evaluation Improvements

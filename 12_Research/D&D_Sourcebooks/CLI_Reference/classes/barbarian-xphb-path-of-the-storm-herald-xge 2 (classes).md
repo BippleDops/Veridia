@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Path of the Storm Herald
-*[[barbarian xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian-xphb-path-of-the-ancestral-guardian-xge]]: Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression

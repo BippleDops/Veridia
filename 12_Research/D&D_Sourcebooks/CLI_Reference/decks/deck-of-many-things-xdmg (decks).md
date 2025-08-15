@@ -75,11 +75,11 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ### Comet
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-12-comet.webp#card)
-The next time you enter combat against one or more [[hostile-attitude-xphb|Hostile]] creatures, you can select one of them as your foe when you roll [[initiative xphb|Initiative]]. If you reduce your foe to 0 [[hit-points-xphb|Hit Points]] during that combat, you have [[advantage xphb|Advantage]] on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb|Hit Points]] or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [[Hostile Attitude Xphb]] creatures, you can select one of them as your foe when you roll [[Initiative Xphb]]. If you reduce your foe to 0 [[hit-points-xphb (variant-rules)]] during that combat, you have [[Advantage Xphb]] on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb (variant-rules)]] or you don't choose a foe, this card has no effect.
 
 ### Donjon
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-17-donjon.webp#card)
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish xphb|Wish]] spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish-xphb (spells)]] spell can reveal the location of your prison. You draw no more cards.
 
 ### Euryale
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-22-euryale.webp#card)
@@ -95,7 +95,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ### Fool
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-01-fool.webp#card)
-You have [[disadvantage xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [[Advantage Xphb]] on [[d20-test-xphb (variant-rules)]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ### Gem
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-05-gem.webp#card)
@@ -103,7 +103,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ### Jester
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-14-jester.webp#card)
-You have [[advantage xphb|Advantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [[Advantage Xphb]] on [[d20-test-xphb (variant-rules)]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-02-key.webp#card)
@@ -111,11 +111,11 @@ A Rare or rarer magic weapon with which you are proficient appears on your perso
 
 ### Knight
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-09-knight.webp#card)
-You gain the service of a [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
+You gain the service of a [[Bestiary]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
 
 ### Moon
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-11-moon.webp#card)
-You gain the ability to cast [[wish xphb|Wish]] `d3` times.
+You gain the ability to cast [[wish-xphb (spells)]] `d3` times.
 
 ### Puzzle
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-04-puzzle.webp#card)
@@ -123,7 +123,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ### Rogue
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[hostile-attitude-xphb|Hostile]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish xphb|Wish]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile Attitude Xphb]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb (spells)]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-16-ruin.webp#card)
@@ -135,7 +135,7 @@ At any time you choose within one year of drawing this card, you can ask a quest
 
 ### Skull
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-19-skull.webp#card)
-An [[avatar-of-death-xdmg|Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb|Hit Points]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+An [[Avatar of Death Xdmg]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb (variant-rules)]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ### Star
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-13-star.webp#card)
@@ -143,7 +143,7 @@ Increase one of your ability scores by 2, to a maximum of 24.
 
 ### Sun
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-10-sun.webp#card)
-A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[temporary-hit-points-xphb|Temporary Hit Points]] daily at dawn until you die.
+A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[temporary-hit-points-xphb (variant-rules)]] daily at dawn until you die.
 
 ### Talons
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-21-talons.webp#card)

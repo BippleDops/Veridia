@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_18_Horror_Corruption
 
----
+- --
 title: Session 18 Horror Corruption
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Aquabyssos
----
+- --
 
 ### Horror Overview
 **Tone:** Psychological horror with body horror elements  
@@ -116,23 +116,23 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 
 ### Player Reactions
 
-*"Genuinely unsettling without being traumatic"* - Kestra's player
+* "Genuinely unsettling without being traumatic"* - Kestra's player
 
-*"The voluntary transformation was the most horrifying part"* - Thane's player
+* "The voluntary transformation was the most horrifying part"* - Thane's player
 
-*"Great job building tension throughout the session"* - Marcus's player
+* "Great job building tension throughout the session"* - Marcus's player
 
-*"I felt helpless but not powerless - perfect balance"* - Lyralei's player
+* "I felt helpless but not powerless - perfect balance"* - Lyralei's player
 
-*"Seeing my character's techniques used for evil was brilliant and terrible"* - Serafina's player
+* "Seeing my character's techniques used for evil was brilliant and terrible"* - Serafina's player
 
----
+- --
 
-*Horror sessions require careful balance between tension and comfort, using atmosphere and implications rather than graphic descriptions to create memorable experiences.*
+* Horror sessions require careful balance between tension and comfort, using atmosphere and implications rather than graphic descriptions to create memorable experiences.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -144,11 +144,11 @@ The party arrived in Shadowhaven to investigate reports of an entire district go
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -161,3 +161,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

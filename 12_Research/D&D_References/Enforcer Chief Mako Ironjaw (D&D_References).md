@@ -42,7 +42,7 @@ updated: '2025-08-13T01:18:37.018758+00:00'
 - Add 12_Research-specific enhancement
 
 ## Overview
-Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] and his organization, has made him legendary throughout the depths.
+Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three-Eyes" Flint]] and his organization, has made him legendary throughout the depths.
 
 ## Secrets
 > [!warning] DM Only

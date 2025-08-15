@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-abyssal-wretch-mtf-abyssal-wretch-mtf.svg)
 
-# [[abyssal wretch mtf|Abyssal Wretch]]
+# [[abyssal-wretch-mtf (fiend)]]
 *Source: Mordenkainen's Tome of Foes p. 136*  
 
 ```statblock

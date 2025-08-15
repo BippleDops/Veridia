@@ -1,8 +1,17 @@
+---
+
+tags: [npc, character]
+type: npc
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/noble xmm
 
 ## Portrait
 
-![[portrait__03_mechanics_cli_bestiary_humanoid_noble_xmm.png]]
+![[Bestiary]]
 
 *Portrait reference for _03_Mechanics_CLI_bestiary_humanoid_noble_xmm*
 
@@ -266,3 +275,24 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

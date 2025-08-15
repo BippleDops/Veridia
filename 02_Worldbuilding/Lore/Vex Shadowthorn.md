@@ -1,7 +1,7 @@
 ---
 
 title: Vex Shadowthorn
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -12,7 +12,7 @@ improvements: 20
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-v1-vex-shadowthorn.svg)
+![](04_Resources/Assets/Portraits/portrait-[[Npc]]-vex-shadowthorn-v1-vex-shadowthorn.svg)
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -68,7 +68,7 @@ improvements: 20
 
 ## Overview
 
-02_Worldbuilding/People/Vex_Shadowthorn represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/[[People]]/Vex_Shadowthorn represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Vex_Shadowthorn can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -80,7 +80,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/People/Vex_Shadowthorn involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/People/Vex_Shadowthorn trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -91,7 +91,7 @@ Connected to 02_Worldbuilding/People/Vex_Shadowthorn are various other important
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/People/Vex_Shadowthorn through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/People/Vex_Shadowthorn through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -160,7 +160,7 @@ The current state of 02_Worldbuilding/People/Vex_Shadowthorn:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/People/Vex_Shadowthorn has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -193,7 +193,7 @@ Ways to incorporate 02_Worldbuilding/People/Vex_Shadowthorn into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -214,7 +214,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/People/Vex_Shadowthorn might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -233,7 +233,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -256,7 +256,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/people/vex_shadowthorn
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/people/vex_shadowthorn
 
 ## Cultural Impact
 

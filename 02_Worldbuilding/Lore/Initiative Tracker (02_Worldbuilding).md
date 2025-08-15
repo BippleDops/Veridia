@@ -1,7 +1,7 @@
 ---
 
-title: Initiative Tracker
-type: Lore
+title: [[Initiative]] Tracker
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -38,9 +38,9 @@ improvements: 20
 
 # Initiative Tracker
 
-*Advanced Combat Organization for the Merged Realms*
+*Advanced Combat [[Organization]] for the Merged Realms*
 
-> *"In the chaos of battle between realms, victory belongs to those who can think faster than their enemies can act. Track everything, anticipate everyone, and always know whose turn comes next—even when time itself bends around you."*
+> *"In the chaos of battle between realms, victory belongs to those who can think faster than their enemies can act. Track everything, anticipate everyone, and always know whose turn comes next—even when [[Time]] itself bends around you."*
 > — [[Combat Coordinator Master Strike Orderwright]], Tactical Command Specialist
 
 ## 🔧 Deep Evaluation Improvements
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,11 +97,11 @@ improvements: 20
 
 ## Overview
 
-The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[Aquabyssos]] and [[Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
+The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[Aquabyssos]] and [[Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and [[Aerial_Combat]]]] scenarios.
 
-The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resoce that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
+The system addresses several complications unique to the merged realms: [[Pressure Effects]] that can slow actions, crystal resoce that affects reaction times, [[Memory Magic]] that can alter turn order, and [[Reality Distortion]]s that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 
-Beyond basic turn order management, the Initiative Tracker integrates with [[Multi Phase Boss Fights]], [[Environmental Hazards]], [[Temporal Distortion Zones]], and [[Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
+Beyond basic turn order management, the Initiative Tracker integrates with [[Multi-Phase Boss Fights]], [[Environmental Hazards]], [[Temporal Distortion Zones]], and [[Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
 
 The tracker includes tools for managing complex initiative modifiers, environmental effects, group actions, delayed actions, and the special timing requirements of spellcasting, multi-attack sequences, and legendary actions in the unique physics of the merged realms.
 
@@ -120,7 +120,7 @@ The tracker includes tools for managing complex initiative modifiers, environmen
 | Extreme Depth (3000ft+) | -5 | Severe environmental stress |
 | Sky Realm (Aerial) | +1 | Enhanced mobility and awareness |
 | Crystal Resoce Zone | -2 | Harmonic interference |
-| Shadow Wells | -3 | Darkness impairs reaction |
+| [[Shadow Wells]] | -3 | Darkness impairs reaction |
 | Reality Merge Zone | Special | See Convergence Rules |
 | Temporal Distortion | Special | See Temporal Initiative |
 
@@ -150,7 +150,7 @@ The tracker includes tools for managing complex initiative modifiers, environmen
 - **Reactions**: Interrupt normal initiative order
 - **Delayed Actions**: Hold action for specific trigger
 - **Readied Actions**: Prepared responses to conditions
-- **Environmental Actions**: Automatic effects based on location
+- **Environmental Actions**: Automatic effects based on [[location]]
 
 ### Initiative Ties and Resolution
 
@@ -224,7 +224,7 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Loop Breaking**: Specific actions or conditions end temporal loop
 - **Cascade Effect**: Breaking loop affects all temporal effects in area
 
-### Underwater Combat Initiative
+### [[Underwater_Combat]] Initiative
 
 **Pressure Initiative Modifiers**:
 - **Surface to 100ft**: No additional modifier
@@ -244,7 +244,7 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Specialized senses**: Act normally in total darkness
 - **Streamlined forms**: +1 initiative when moving
 
-### Aerial Combat Initiative
+### [[Aerial Combat]] Initiative
 
 **Flight Initiative Considerations**:
 - **Altitude Advantage**: Higher altitude grants +1 initiative
@@ -291,12 +291,12 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 **Individual Initiative** (Standard):
 - Each participant rolls separately
 - Most tactical control
-- Slower gameplay with large groups
+- Slower gameplay with large [[Groups]]
 - Best for small encounters
 
 **Group Initiative** (Simplified):
 - Each side rolls once
-- All allies act together
+- All [[Allies]] act together
 - Faster gameplay
 - Good for mass combat
 
@@ -371,12 +371,12 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Automatic Sorting**: Maintains initiative order automatically
 - **Status Tracking**: Built-in condition and duration management
 - **Environmental Integration**: Handles complex environmental effects
-- **Multi-Phase Support**: Tracks [[Multi Phase Boss Fights]]
+- **Multi-Phase Support**: Tracks [[Multi-Phase Boss Fights]]
 - **Temporal Handling**: Manages time distortion effects
 
 **Customization Options**:
 - **Environmental Templates**: Pre-set modifiers for different locations
-- **Creature Libraries**: Quick access to common NPCs and monsters
+- **Creature [[Libraries]]**: Quick access to common NPCs and monsters
 - **Combat Scenarios**: Saved setups for recurring encounter types
 - **Rule Variations**: Toggle different initiative rule sets
 
@@ -404,7 +404,7 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 
 **Surprise Round Rules**:
 - **Complete Surprise**: Surprised party cannot act for entire first round
-- **Partial Surprise**: Surprised party acts last in first round with disadvantage
+- **Partial Surprise**: Surprised party acts last in first round with [[Disadvantage]]
 - **Counter-Ambush**: Detecting ambush allows normal initiative
 - **Environmental Surprise**: Sudden hazards create surprise conditions
 
@@ -420,13 +420,13 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Movement Initiative**: Dexterity + speed modifier
 - **Obstacle Navigation**: Additional checks may modify initiative
 - **Environmental Factors**: Terrain affects chase initiative differently
-- **Exhaustion Effects**: Long chases impose cumulative penalties
+- **[[Exhaustion]] Effects**: Long chases impose cumulative penalties
 
 **Chase Environment Modifiers**:
 - **Open Water**: Swimming speed determines initiative modifier
-- **Kelp Forest**: Navigation skill affects initiative
+- **[[Kelp Forest]]**: Navigation skill affects initiative
 - **Crystal Maze**: Harmonic sensitivity grants bonuses
-- **Sky Paths**: Flight speed and maneuverability crucial
+- **Sky [[path]]s**: Flight speed and maneuverability crucial
 - **Reality Rifts**: Dimensional navigation skills important
 
 ### Stealth and Hidden Actions
@@ -519,11 +519,11 @@ Initiative Tracker is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Initiative Tracker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Initiative Tracker.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

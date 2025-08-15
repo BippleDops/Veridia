@@ -70,7 +70,7 @@ GM Note: Use [[New_Ship_Template|New Ship Template]] to add more. Aim for 50+ de
 ### Random Aquatic Complication (d10)
 1 Pressure surge • 2 Kelp snare • 3 Cavitation bloom • 4 Shadow bloom • 5 Merger flicker • 6 Leviathan passing • 7 Parasite cloud • 8 Memory storm • 9 Thermal vent • 10 Hull hymn (ship hums prophecy)
 
-See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]], [[Transportation Infrastructure|Transportation Infrastructure]].
+See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]], [[Transportation_Infrastructure]].
 
 ## Player-Facing Summary
 

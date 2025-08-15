@@ -43,12 +43,12 @@ world: Both
 
 **Items in this group:**
 
-- [[potion of hill giant strength xdmg|Potion of Hill Giant Strength]]
-- [[potion of frost giant strength xdmg|Potion of Frost Giant Strength]]
-- [[potion of stone giant strength xdmg|Potion of Stone Giant Strength]]
-- [[potion of fire giant strength xdmg|Potion of Fire Giant Strength]]
-- [[potion of cloud giant strength xdmg|Potion of Cloud Giant Strength]]
-- [[potion of storm giant strength xdmg|Potion of Storm Giant Strength]]
+- [[giant]]
+- [[Potion of Frost Giant Strength Xdmg]]
+- [[potion-of-stone-giant-strength-xdmg (items)]]
+- [[giant]]
+- [[giant]]
+- [[giant]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 

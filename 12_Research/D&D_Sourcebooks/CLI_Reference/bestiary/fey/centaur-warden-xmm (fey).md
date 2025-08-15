@@ -39,7 +39,7 @@ updated: '2025-08-12T23:37:35.276414'
 world: Both
 ---
 
-# [[centaur warden xmm|Centaur Warden]]
+# [[Centaur Warden Xmm]]
 *Source: Monster Manual (2024) p. 67*  
 
 Centaur wardens often lead groups of centaur troopers and act as intermediaries between Fey creatures and trespassers into their territories.
@@ -103,11 +103,11 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ until the start of the centaur's next turn."
     "name": "Sun Ray"
   - "desc": "The centaur casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\nAt will: [[druidcraft xphb|Druidcraft]],\
-      \ [[speak with animals xphb|Speak with Animals]]"
+      \ ability (spell save DC 15):\n\nAt will: [[druidcraft-xphb (spells)]],\
+      \ [[Speak With Animals Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [[speed xphb|Speed]]\
+  - "desc": "The centaur moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ Each creature within 5 feet of the centaur as it moves is targeted once by\
       \ the following effect. Strength Saving Throw: DC 15. Failure: 11 (2d6 +\

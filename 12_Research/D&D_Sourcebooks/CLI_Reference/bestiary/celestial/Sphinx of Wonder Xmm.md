@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-wonder-xmm-sphinx-of-wonder-xmm.svg)
 
-# [[sphinx of wonder xmm|Sphinx of Wonder]]
+# [[sphinx]]
 *Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the SRD and the Free Rules (2024)*  
 
 A sphinx of wonder is brightly feathered and the size of a lion cub. One comes into being every time a unique idea is conceived on the Material Plane. Each sphinx of wonder is fascinated by a particular type of story or field of study, and it learns all it can about that topic. It bears a unique sigil on its forehead that suggests the type of knowledge that fascinates it. Sometimes, a sphinx of wonder forms a bond with a mortal scholar and aids them in their research.
@@ -110,7 +110,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-  - "desc": "The sphinx has [[advantage xphb|Advantage]]\
+  - "desc": "The sphinx has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

@@ -43,7 +43,7 @@ chronology: active
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
-Choosing a ship affects your story: see [[Vehicles   Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
+Choosing a ship affects your story: see [[Vehicles - Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
 
 ## 🔧 Deep Evaluation Improvements
 

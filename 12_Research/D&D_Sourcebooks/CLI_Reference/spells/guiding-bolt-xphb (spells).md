@@ -50,11 +50,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 round
 
-You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `4d6` Radiant damage, and the next attack roll made against it before the end of your next turn has [[advantage xphb|Advantage]].
+You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `4d6` Radiant damage, and the next attack roll made against it before the end of your next turn has [[Advantage Xphb]].
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-stars-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Stars)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 282. Available in the SRD and the Free Rules (2024)*
 
@@ -103,3 +103,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[guiding-bolt-xphb (spells)-phb]]` in CLI_Reference/spells/

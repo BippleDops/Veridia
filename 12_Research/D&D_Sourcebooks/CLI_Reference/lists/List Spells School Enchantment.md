@@ -45,11 +45,11 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/power-word-heal-xphb "XPHB"|Power Word Heal]]
-- [[/03 Mechanics/CLI/spells/power-word-kill-xphb "XPHB"|Power Word Kill]]
-- [[/03 Mechanics/CLI/spells/psychic-scream-xge "XGE"|Psychic Scream]]
+- [[Power Word Heal Xphb]]
+- [[spells]]
+- [[Psychic Scream Xge]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 

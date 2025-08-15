@@ -149,24 +149,7 @@ Requires specific ritual or condition:
 
 ## Current Location
 
-Last known to be: - **[[02 Worldbuilding/Items/Dual-State Armor|02 W...
-
-## Quest Hooks
-
-1. **Recovery Mission**: Retrieve from current location
-2. **Research Quest**: Discover true properties
-3. **Reforge/Repair**: If broken or incomplete
-4. **Destroy/Contain**: If cursed or dangerous
-5. **Unite Set**: If part of larger collection
-
-### Scaling Options
-- Powers can grow with wielder
-- Additional abilities unlock over time
-- Can be upgraded through quests
-
----
-*Tags*: #item #magic #treasure #equipment
-]]
+Last known to be: - **[[Dual State Armor]]
 
 ## Plot Hooks
 

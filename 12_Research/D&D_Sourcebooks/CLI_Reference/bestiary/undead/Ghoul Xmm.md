@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghoul-xmm-ghoul-xmm.svg)
 
-# [[ghoul xmm|Ghoul]]
+# [[ghoul-xmm (undead)]]
 *Source: Monster Manual (2024) p. 132. Available in the SRD and the Free Rules (2024)*  
 
 Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.

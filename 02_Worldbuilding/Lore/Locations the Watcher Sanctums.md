@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Watcher Sanctums
-type: lore
+title: [[location]]s the Watcher Sanctums
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -81,7 +81,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/Locations/The Watcher Sanctums involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Locations/The Watcher Sanctums trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -92,7 +92,7 @@ Connected to 02_Worldbuilding/Locations/The Watcher Sanctums are various other i
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Watcher Sanctums through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Watcher Sanctums through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -161,7 +161,7 @@ The current state of 02_Worldbuilding/Locations/The Watcher Sanctums:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Locations/The Watcher Sanctums has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -194,7 +194,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Watcher Sanctums into gamepla
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -215,7 +215,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Locations/The Watcher Sanctums might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -257,7 +257,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/locations/the-watcher-sanctums
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/locations/the-watcher-sanctums
 
 ## Cultural Impact
 
@@ -268,7 +268,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A letter reveals the truth about the cult
 - Someone is protecting information for power
 - A corpse reveals the truth about a local noble
-- A merchant needs help delivering before the new moon
+- A [[Merchant]] needs help delivering before the new moon
 
 ## Economic Structure
 

@@ -46,11 +46,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains [[hit-points-xphb|Hit Points]] equal to `2d4` plus your spellcasting ability modifier.
+A creature of your choice that you can see within range regains [[hit-points-xphb (variant-rules)]] equal to `2d4` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d4` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
@@ -96,3 +96,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[healing-word-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -51,7 +51,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **Using a Higher-Level Spell Slot.** Both types of damage increase by `d8` for each spell slot level above 6.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 339. Available in the SRD and the Free Rules (2024)*
 

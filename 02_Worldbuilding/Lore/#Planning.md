@@ -1,7 +1,7 @@
 ---
 
 title: '#Planning'
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -14,7 +14,7 @@ improvements: 20
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-economic-planning-economic-planning.png)
+![](04_Resources/Assets/Locations/[[location]]-city-economic-planning-economic-planning.png)
 
 ### Detailed Explanation
 The full nature of #Planning involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
@@ -30,7 +30,7 @@ Connected to #Planning are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view #Planning through their own cultural lenses:
+Different [[Groups]] view #Planning through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -132,7 +132,7 @@ Ways to incorporate #Planning into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -272,12 +272,12 @@ Mentioned in The Second Prophecy of Stars
 - Someone is searching for a artifact for revenge
 - Someone is searching for a witness for money
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

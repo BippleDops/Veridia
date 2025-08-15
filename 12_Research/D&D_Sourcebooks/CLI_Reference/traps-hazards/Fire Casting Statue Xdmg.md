@@ -35,7 +35,7 @@ world: Both
 # Fire-Casting Statue
 *Generic Hazard*  
 
-When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot [[cone area of effect xphb|Cone]] of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (`2d10`) Fire damage on a failed save or half as much damage on a successful one.
+When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot [[Area of Effect Xphb]] of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (`2d10`) Fire damage on a failed save or half as much damage on a successful one.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -51,9 +51,9 @@ When a creature moves onto this trap's pressure plate for the first time on a tu
 
 ## Detect and Disarm
 
-A [[detect magic xphb|Detect Magic]] spell reveals an aura of Evocation magic around the statue. As a [[actions#Search|Search]] action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([[skills#Perception|Perception]]) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [[actions#Study|Study]] action to examine it and make a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
+A [[detect-magic-xphb (spells)]] spell reveals an aura of Evocation magic around the statue. As a [[actions#Search|Search]] action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([[skills#Perception|Perception]]) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [[actions#Study|Study]] action to examine it and make a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
 
-As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[iron spikes xphb|Iron Spike]] or similar object under the pressure plate prevents the trap from triggering.
+As a [[actions#Search|Search]] action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([[skills#Perception|Perception]]) check, detecting the pressure plate on a successful check. Wedging an [[Iron Spikes Xphb]] or similar object under the pressure plate prevents the trap from triggering.
 
 ## At Higher Levels
 

@@ -10,7 +10,7 @@ created: '2025-01-15'
 # Link
 
 ## Overview
-This topic is referenced in [[AGILE_VAULT_IMPLEMENTATION_ROADMAP]] and other parts of the campaign.
+This topic is referenced in [[AGILE_VAULT_IMPLEMENTATION_ROAD[[map]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

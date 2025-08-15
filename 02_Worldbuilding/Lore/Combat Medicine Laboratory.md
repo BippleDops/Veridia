@@ -1,10 +1,10 @@
 ---
 
 title: Combat Medicine Laboratory
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -91,11 +91,11 @@ Combat Medicine Laboratory is a undersea element of the setting, known for biolu
 
 Legends speak of Combat Medicine Laboratory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Combat Medicine Laboratory.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -112,7 +112,7 @@ Mentioned in The Second Prophecy of Winds
 - The authorities needs help finding before the festival
 - A document has gone missing and chaos spreads
 - A letter reveals a betrayal about the government
-- A merchant needs help investigating before the new moon
+- A [[Merchant]] needs help investigating before the new moon
 
 ## Economic Structure
 
@@ -147,3 +147,10 @@ Mentioned in The Second Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

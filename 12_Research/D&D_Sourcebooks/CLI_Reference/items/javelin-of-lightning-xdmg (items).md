@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Javelin of Lightning
-*Weapon ([[javelin xphb|javelin]]), uncommon*  
+*Weapon ([[javelin-xphb (items)]]), uncommon*  
 ![](/03_Mechanics/CLI/items/img/javelin-of-lightning.webp#right)
 
 - **Damage**: 1d6 piercing
@@ -57,7 +57,7 @@ Each time you make an attack roll with this magic weapon and hit, you can have i
 
 ## Lightning Bolt
 
-When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide [[line area of effect xphb|Line]] between you and the target. The target and each other creature in the [[line area of effect xphb|Line]] (excluding you) makes a DC 13 Dexterity saving throw, taking `4d6` Lightning damage on a failed save or half as much damage on a successful one. Immediately after dealing this damage, the weapon reappears in your hand. This property can't be used again until the next dawn.
+When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide [[Area of Effect Xphb]] between you and the target. The target and each other creature in the [[Area of Effect Xphb]] (excluding you) makes a DC 13 Dexterity saving throw, taking `4d6` Lightning damage on a failed save or half as much damage on a successful one. Immediately after dealing this damage, the weapon reappears in your hand. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 275. Available in the SRD and the Free Rules (2024)*
 

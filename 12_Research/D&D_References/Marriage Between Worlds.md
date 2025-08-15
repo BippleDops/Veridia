@@ -53,7 +53,7 @@ updated: '2025-08-11T00:00:00+00:00'
 Marriage Between Worlds represents the complex and evolving cultural phenomenon of matrimonial unions between citizens of Aquabyssos and Aethermoor. These inter-realm marriages have become increasingly common as diplomatic relations strengthen and trade flourishes, yet they face unique challenges in bridging the fundamental differences between underwater and aerial civilizations. Such unions serve not only as personal bonds but as living symbols of the growing connection between the two realms.
 
 ### Early Diplomatic Marriages
-**Royal Precedents:** The first formal inter-realm marriage occurred between [[Princess Nerida Deepcurrent]] of Aquabyssos and [[Prince Caelum Stormwright]] of Aethermoor during the signing of the [[Aquabyssos Aethermoor Treaties]]
+**Royal Precedents:** The first formal inter-realm marriage occurred between [[Princess Nerida Deepcurrent]] of Aquabyssos and [[Prince Caelum Stormwright]] of Aethermoor during the signing of the [[Aquabyssos-Aethermoor Treaties]]
 **Political Alliance Building:** Strategic marriages between noble families designed to cement diplomatic relationships and trade agreements
 **Cultural Bridge-Building:** Early unions served as experimental ground for developing inter-realm social protocols and customs
 **Economic Integration:** Marriage contracts often included complex trade rights and resource sharing arrangements between families
@@ -227,11 +227,11 @@ Marriage Between Worlds represents the complex and evolving cultural phenomenon 
 10. **Emergency Family Rescue:** Inter-realm family trapped during natural disaster requiring specialized rescue across realm boundaries
 
 ## Connected Lore
-- [[Aquabyssos Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
+- [[Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
 - [[The Merchant Code of Ethics|02 Worldbuilding/Lore/The Merchant Code Of Ethics]] - Commercial ethics governing inter-realm business relationships
 - [[Cultural Exchange Programs]] - Educational initiatives promoting inter-realm understanding
-- [[Inter Realm Trade Protocols]] - Commercial frameworks often involving married couples as trusted intermediaries
-- [[Cross Cultural Adaptation Techniques]] - Practical methods for navigating cultural differences in daily life
+- [[Inter-Realm Trade Protocol]] - Commercial frameworks often involving married couples as trusted intermediaries
+- [[Cross-Cultural Adaptation Technique]] - Practical methods for navigating cultural differences in daily life
 
 Marriage Between Worlds represents both the greatest opportunity for lasting peace between Aquabyssos and Aethermoor and the most challenging social experiment in cultural integration, where personal love and public policy intersect to create new possibilities for inter-realm cooperation and understanding.
 

@@ -1,22 +1,22 @@
 ---
-title: The Merchant's Guild
+title: The [[Merchant]]'s Guild
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # The Merchant's Guild
 
 ## Overview
-This topic is referenced in [[Session 4.png]] and other parts of the campaign.
+This topic is referenced in [[Session 4]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Session 4.png]]
+- Referenced by: [[Session 4]]
 - Related topics in the same category
 
 ## Details

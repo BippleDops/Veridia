@@ -31,14 +31,14 @@ location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 parent_location: '[[Abyssos Prime]]'
 sub_locations:
-- '[[02 Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]]'
+- '[[Npc]]'
 - '[[Gallery of Echoing Truths]]'
 - '[[The Silence Garden]]'
 - '[[Prophecy Translation Center]]'
 - '[[William''s Living Quarters]]'
 depth: 2400-2600 feet
 government: Oracular Authority
-ruler: '[[Whisper Touched William|02 Worldbuilding/People/Whisper Touched William]]'
+ruler: '[[Whisper-Touched William's Oracle Shrine (Places)]]'
 factions:
 - '[[The Voice Interpreters]]'
 - '[[Silence Seekers]]'
@@ -54,10 +54,10 @@ services:
 - Truth Seeking Guidance
 - Madness Counseling
 notable_npcs:
-- '[[Whisper Touched William|02 Worldbuilding/People/Whisper Touched William]]'
-- '[[Echo Translator Vera]]'
+- '[[Whisper-Touched William's Oracle Shrine (Places)]]'
+- '[[Echo-Translator Vera (D&D_References)]]'
 - '[[Silent Guardian Marcus]]'
-- '[[Truth Seeker Cornelius]]'
+- '[[Truth-Seeker Cornelius]]'
 current_state: Active oracle shrine
 temporal_stability: 40
 shadow_density: Low
@@ -159,13 +159,13 @@ The shrine provides consulting services to [[Parliament of Echoes|02 Worldbuildi
 William's truth-detection abilities make him valuable for resolving disputes, verifying historical claims, or exposing deception in important matters.
 
 ### William's Inner Circle
-**[[Whisper Touched William|Full Details]]** - The Oracle
+**[[Whisper-Touched William's Oracle Shrine (Places)]]** - The Oracle
 - Transformed records clerk with prophetic abilities
 - Constantly hears whispers from unknown sources
 - Struggles with the burden of cosmic knowledge
 - Deeply compassionate despite his otherworldly nature
 
-**[[Echo Translator Vera]]** - Chief Interpreter
+**[[Echo-Translator Vera (D&D_References)]]** - Chief Interpreter
 - William's primary assistant and translator
 - Specializes in decoding cryptic prophecies
 - Has developed limited whisper sensitivity
@@ -177,7 +177,7 @@ William's truth-detection abilities make him valuable for resolving disputes, ve
 - Has taken vows of minimal speech to provide William with some quiet
 - Extremely skilled in non-violent restraint techniques
 
-**[[Truth Seeker Cornelius]]** - Documentation Specialist
+**[[Truth-Seeker Cornelius]]** - Documentation Specialist
 - Records and catalogs all prophecies and their fulfillment
 - Maintains the Gallery of Echoing Truths
 - Research specialist who helps verify William's revelations
@@ -328,7 +328,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Whisper Touched William|02 Worldbuilding/Places/Whisper Touched William]]
+- [[Whisper-Touched William's Oracle Shrine (Places)]]
 
 riched: true -->
 - [[Abyssos Prime]]

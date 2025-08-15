@@ -55,3 +55,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

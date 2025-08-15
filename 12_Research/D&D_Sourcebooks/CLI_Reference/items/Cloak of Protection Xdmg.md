@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
-You gain a +1 bonus to [[armor class xphb|Armor Class]] and saving throws while you wear this cloak.
+You gain a +1 bonus to [[armor-class-xphb (variant-rules)]] and saving throws while you wear this cloak.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 

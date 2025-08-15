@@ -1,10 +1,12 @@
 ---
+
 title: DM_Notes
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # DM_Notes
@@ -177,3 +179,14 @@ modified: '2025-08-14'
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

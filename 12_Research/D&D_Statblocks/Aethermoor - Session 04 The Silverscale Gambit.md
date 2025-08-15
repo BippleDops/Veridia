@@ -46,7 +46,7 @@ items_gained:
 - Aquabyssos breathing apparatus
 - Crimson Hand intelligence reports
 locations_visited:
-- '[[Port Meridian   Merchant Quarter]]'
+- '[[Port Meridian - Merchant Quarter (D&D_References)]]'
 - '[[Silverscale Banking House]]'
 - '[[Smuggler''s Cove]]'
 - '[[Silverscale Emergency Bunker]]'
@@ -64,7 +64,7 @@ plot_threads:
 - Vex was Marcus's apprentice
 - Queen discovered shard in royal vault
 - Crystal Festival aligned with cosmic event
-primary_location: '[[Port Meridian   Merchant Quarter]]'
+primary_location: '[[Port Meridian - Merchant Quarter (D&D_References)]]'
 quests_completed: []
 quests_progressed:
 - '[[The Seven Shards Mystery]]'

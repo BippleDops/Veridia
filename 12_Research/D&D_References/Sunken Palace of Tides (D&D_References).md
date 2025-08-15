@@ -1,10 +1,12 @@
 ---
+
 title: Sunken Palace of Tides (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Sunken Palace of Tides
@@ -80,3 +82,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

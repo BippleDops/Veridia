@@ -51,7 +51,7 @@ world: Both
 # Armor of Radiant Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to radiant damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to radiant damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Radiant Resistance](#Breastplate%20of%20Radiant%20Resistance)

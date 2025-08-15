@@ -1,17 +1,20 @@
 ---
+
 title: NPC Name
 type: note
 tags:
 - auto-generated
 - linked
 created: '2025-01-15'
+modified: 2025-08-14
+status: active
 ---
 
 # NPC Name
 
 ## Portrait
 
-![[portrait_npc_name.png]]
+![[Npc]]
 
 *Portrait reference for NPC Name*
 
@@ -75,3 +78,18 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

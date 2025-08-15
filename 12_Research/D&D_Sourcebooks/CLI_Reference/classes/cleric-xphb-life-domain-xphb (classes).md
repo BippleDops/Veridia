@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Life Domain
-*[[cleric xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb-nature-domain (classes)]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 73. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -78,27 +78,27 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[aid xphb|Aid]], [[bless xphb|Bless]], [[cure wounds xphb|Cure Wounds]], [[lesser restoration xphb|Lesser Restoration]] |
-| 5th | [[mass healing word xphb|Mass Healing Word]], [[revivify xphb|Revivify]] |
-| 7th | [[aura of life xphb|Aura of Life]], [[death ward xphb|Death Ward]] |
-| 9th | [[greater restoration xphb|Greater Restoration]], [[mass cure wounds xphb|Mass Cure Wounds]] |
+| 3rd | [[Aid Xphb]], [[Bless Xphb]], [[mass-cure-wounds-xphb (spells)]], [[Lesser Restoration Xphb]] |
+| 5th | [[mass-healing-word-xphb (spells)]], [[revivify-xphb (spells)]] |
+| 7th | [[Aura of Life Xphb]], [[Death Ward Xphb]] |
+| 9th | [[greater-restoration-xphb (spells)]], [[mass-cure-wounds-xphb (spells)]] |
 ^life-domain-spells
 
 ### Disciple of Life (Level 3)
 
-When a spell you cast with a spell slot restores [[hit points xphb|Hit Points]] to a creature, that creature regains additional [[hit points xphb|Hit Points]] on the turn you cast the spell. The additional [[hit points xphb|Hit Points]] equal 2 plus the spell slot's level.
+When a spell you cast with a spell slot restores [[hit-points-xphb (variant-rules)]] to a creature, that creature regains additional [[hit-points-xphb (variant-rules)]] on the turn you cast the spell. The additional [[hit-points-xphb (variant-rules)]] equal 2 plus the spell slot's level.
 
 ### Preserve Life (Level 3)
 
-As a [[actions#Magic|Magic]] action, you present your [[holy symbol xphb|Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[hit points xphb|Hit Points]] equal to five times your Cleric level. Choose [[bloodied xphb|Bloodied]] creatures within 30 feet of yourself (which can include you), and divide those [[hit points xphb|Hit Points]] among them. This feature can restore a creature to no more than half its [[hit points xphb|Hit Point]] maximum.
+As a [[actions#Magic|Magic]] action, you present your [[Symbol Xphb]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[hit-points-xphb (variant-rules)]] equal to five times your Cleric level. Choose [[bloodied-xphb (variant-rules)]] creatures within 30 feet of yourself (which can include you), and divide those [[hit-points-xphb (variant-rules)]] among them. This feature can restore a creature to no more than half its [[hit-points-xphb (variant-rules)]] maximum.
 
 ### Blessed Healer (Level 6)
 
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[hit points xphb|Hit Points]] to one creature other than you, you regain [[hit points xphb|Hit Points]] equal to 2 plus the spell slot's level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[hit-points-xphb (variant-rules)]] to one creature other than you, you regain [[hit-points-xphb (variant-rules)]] equal to 2 plus the spell slot's level.
 
 ### Supreme Healing (Level 17)
 
-When you would normally roll one or more dice to restore [[hit points xphb|Hit Points]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [[hit points xphb|Hit Points]] to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore [[hit-points-xphb (variant-rules)]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [[hit-points-xphb (variant-rules)]] to a creature with a spell, you restore 12.
 
 ## 🔧 Deep Evaluation Improvements
 

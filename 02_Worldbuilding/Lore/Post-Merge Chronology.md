@@ -1,10 +1,10 @@
 ---
 
 title: Post Merge Chronology
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - post-drowning
 - aerial
 - world/aquabyssos
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -94,7 +94,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 ### Year 1 AE - The Foundation Year
 
 **1st Month, Day 15** - First Joint Parliament Session
-- Speaker Marina Deepcall presided over the first combined surface-Aethermoor legislative session
+- Speaker Marina Deepcall presided over the first combined surface-[[Aethermoor]] legislative session
 - Passed the Basic Survival Codes: regulations for air-breathers in water environments
 - Established the Department of Reality Integration
 
@@ -109,13 +109,13 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Dr. Marina Lifecaller published "The New Human: Biological Changes in Aquabyssos"
 - Established specialized education programs for "dual-environment" children
 
-**5th Month, Day 8** - The Deep Mother's First Formal Address
-- Telepathic communication received by 10,000+ citizens simultaneously
+**5th Month, Day 8** - The [[Deep Mother]]'s First Formal Address
+- Tele[[path]]ic communication received by 10,000+ citizens simultaneously
 - Message content: Laws of the depths, relationship protocols with native sea life
-- Established the Order of Deep Speakers as official intermediaries
+- Established the [[Order of Deep Speakers]] as official intermediaries
 
-**7th Month, Day 17** - Crystal Network Full Integration
-- Surface crystal technology successfully merged with Aethermoor wind-magic communication
+**7th Month, Day 17** - [[Crystal Network]] Full Integration
+- Surface [[Crystal Technology]] successfully merged with Aethermoor wind-magic communication
 - Network now spanned from deepest trenches to highest floating islands  
 - Chief Crystal Engineer Harmony Lightvoice appointed as Director of Integrated Communications
 
@@ -126,7 +126,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 
 **11th Month, Day 29** - The Transformation Acceptance Act
 - Legal recognition of transformed citizens' rights and status
-- Established support networks for those undergoing ongoing transformations
+- Established support networks for those undergoing ongoing [[Transformations]]
 - Created the Registry of New Forms for documentation purposes
 
 ### Year 2 AE - The Stabilization Year
@@ -134,14 +134,14 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 **Early 2 AE** - The Reality Anchor Modernization Project
 - Surviving Reality Anchor stations converted to "Stability Maintece" function
 - New stations constructed at key dimensional stress points
-- Station Commander Coral Voidwright promoted to Director of Reality Engineering
+- Station Commander [[Coral]] Voidwright promoted to Director of Reality Engineering
 
 **Mid 2 AE** - First Deep Agriculture Success
 - Marine biologist Dr. Kelp Grower successfully cultivated surface crops in underwater environments
 - Development of "pressure-adapted grains" provided food security
 - Established the Department of Aquatic Agriculture
 
-**Late 2 AE** - The Cultural Preservation Archive Opens
+**Late 2 AE** - The [[Cultural Preservation]] Archive Opens
 - Great Library of Tides reconstructed in the Deep Parliament complex
 - Combined pre-Convergence archives from both surface and Aethermoor civilizations
 - Chief Archivist Erasmus Scrollheart (survivor) appointed as Director
@@ -149,22 +149,22 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 ### Years 3-15 AE - The Early Settlement Period
 
 **Year 5 AE** - First New Cities Founded
-- New Tethys: First planned underwater city, population 45,000
+- [[New Tethys]]: First planned underwater city, population 45,000
 - Aerial Harbor: First sky-ocean port for Aethermoor floating communities  
-- Port Meridian: Joint surface-dweller and mer-folk trading post
+- [[Port Meridian]]: Joint surface-dweller and mer-folk trading post
 
 **Year 8 AE** - The Navigation Revolution
 - Captain Marina Depthfinder developed three-dimensional navigation techniques
 - Maps created for underwater, surface, and sky-ocean travel routes
 - Established the Academy of Depth Navigation
 
-**Year 12 AE** - The Great Integration Festival
+**Year 12 AE** - [[The Great Integration]] Festival
 - First realm-wide celebration combining traditions from all cultures
 - 12-day festival held simultaneously underwater, on surface, and in sky-ocean
 - Became annual tradition marking Convergence anniversary
 
-**Year 15 AE** - Economic System Stabilization
-- Introduction of the "Current" as unified Aquabyssos currency
+**Year 15 AE** - [[Economic System]] Stabilization
+- [[Introduction]] of the "Current" as unified Aquabyssos currency
 - Crystal-based banking system operational throughout all depths
 - Trade agreements with neighboring undiscovered realms established
 
@@ -181,19 +181,19 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Produced the first generation of "Deep Speakers" trained from childhood
 
 **Year 28 AE** - The Shadow Integration Accords
-- Formal recognition of shadow entities that remained after the Shadow Surgery revelation  
+- Formal recognition of shadow entities that remained after the [[Shadow Surgery]] revelation  
 - Established legal framework for shadow-human partnerships
 - Created the Shadow Rights Commission
 
-**Year 34 AE** - Discovery of the Ancient Ruins
+**Year 34 AE** - Discovery of the [[Ancient Ruins]]
 - Underwater archaeological teams discovered pre-Convergence mer-folk ruins
-- Evidence of previous reality mergers dating back millennia
+- [[Evidence]] of previous reality mergers dating back millennia
 - Established the Department of Deep Archaeology
 
 **Year 39 AE** - The Great Technological Leap
 - Successful merger of surface engineering, Aethermoor wind-magic, and mer-folk bio-engineering
 - Development of "living ships" that could adapt to any depth or environment
-- Invention of crystal-biological hybrid communication systems
+- Invention of crystal-biological hybrid [[Communication Systems]]
 
 **Year 45 AE** - First Contact with the Deep Ancients
 - Discovery of sentient entities dwelling in the deepest ocean trenches
@@ -241,7 +241,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 **Year 159 AE** - First Inter-Realm Trade Routes
 - Establishment of permanent trade connections with 7 neighboring dimensional pockets
 - Development of the "Depth Highway" - a network of current-roads through deep ocean
-- Creation of the Merchant Marine Corps for inter-dimensional commerce
+- Creation of the [[Merchant]] [[Marine Corp]]s for inter-dimensional commerce
 
 **Year 167 AE** - The Deep Colony Project
 - Settlement of 23 previously uninhabited areas in the deepest ocean regions
@@ -250,7 +250,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 
 **Year 178 AE** - The Great Library Network
 - Extension of the central library system to all major settlements
-- Crystal-based instant knowledge transfer between library locations
+- Crystal-based instant knowledge transfer between library [[location]]s
 - Collaboration with mer-folk "memory pools" for information storage
 
 **Year 185 AE** - First Deep Wars
@@ -270,7 +270,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Water-sculptures that exist in four dimensions simultaneously
 - Music that can be experienced by air-breathers, water-breathers, and pure energy beings
 
-**Year 234 AE** - The Deep Mother's Grand Revelation
+**Year 234 AE** - [[The Deep Mother]]'s Grand Revelation
 - First complete communication from the Deep Mother regarding Aquabyssos's cosmic purpose
 - Revealed: Aquabyssos serves as a "dimensional anchor point" for multiple realities
 - Established the Sacred Mission: maintaining stability for the greater cosmos
@@ -288,7 +288,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 **Year 289 AE** - Population Peak of Expansion Era
 - 12.3 million total inhabitants across all settlements
 - Successful integration of 34 different species
-- Economic prosperity at all-time high
+- Economic prosperity at all-[[Time]] high
 
 ### Years 301-445 AE - The Consolidation Period
 
@@ -297,10 +297,10 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Major schools: Depth Realism, Transformation Ethics, Cosmic Responsibility Theory
 - Integration of these philosophies into government policy
 
-**Year 345 AE** - The Shadow Conspiracy Trials
+**Year 345 AE** - The [[Shadow Conspiracy]] Trials
 - Historical investigation into pre-Convergence Shadow Surgery operations
 - Public trials revealing the full extent of dimensional infiltration attempts
-- Establishment of the Truth and Reconciliation Depths Commission
+- Establishment of the [[Truth and Reconciliation Depths Commission]]
 
 **Year 367 AE** - The Reality Stability Crisis
 - Dimensional anchor system began showing stress from supporting multiple realities
@@ -340,8 +340,8 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Development of "thought-responsive environments" that adapt to inhabitants' mental states
 - Beginning of the "Living City" project
 
-**Year 489 AE** - The Memory Wars
-- Conflict over control of ancient pre-Convergence memory crystals
+**Year 489 AE** - [[The Memory Wars]]
+- Conflict over control of ancient pre-Convergence [[Memory Crystals]]
 - Various factions sought to rewrite historical narratives
 - Resolution through the establishment of the Sacred Memory Protocols
 
@@ -355,7 +355,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Warning of potential threats from "reality storms" affecting multiple dimensions
 - Beginning of the Cosmic Defense Preparation
 
-**Year 567 AE** - The Reality Storm Crisis
+**Year 567 AE** - [[The Reality Storm Crisis]]
 - First major interdimensional conflict involving multiple reality layers
 - Aquabyssos served as command center for cosmic defense efforts
 - Successful defense established reputation as "Guardian of the Deep Cosmos"
@@ -382,19 +382,19 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Established permanent residence in the Deepest Parliament Chamber
 - Direct participation in goverce of cosmic significance matters
 
-**Year 678 AE** - The Reality Engineering Mastery
+**Year 678 AE** - [[The Reality Engine]]ering Mastery
 - Aquabyssos engineers became capable of creating stable pocket dimensions
 - Beginning of the "Custom Reality" service for specialized community needs
 - Establishment of the Reality Architecture Guild
 
-**Year 723 AE** - The Universal Translation Achievement
+**Year 723 AE** - The [[Universal Translation]] Achievement
 - Development of technology enabling perfect communication between any forms of consciousness
 - Breakthrough in understanding the fundamental nature of meaning and thought
 - Installation throughout Aquabyssos and sharing with allied realms
 
 **Year 745 AE** - The Cosmic Embassy Network
 - Aquabyssos became the diplomatic center for 156 different dimensional realms
-- Construction of Embassy Quarter capable of hosting any form of entity
+- Construction of [[Embassy Quarter]] capable of hosting any form of entity
 - Recognition as the capital of inter-dimensional civilization
 
 **Year 789 AE** - The Great Harmony Festival
@@ -424,7 +424,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Establishment of the Sacred Mission of Consciousness Nurturing
 - Beginning of the Great Work: shepherding the evolution of awareness throughout reality
 
-**Year 934 AE** - The Consciousness Archive
+**Year 934 AE** - [[The Consciousness Archive]]
 - Completion of the Eternal Memory Project preserving the experiences of all willing entities
 - Creation of the largest repository of consciousness experience in known existence
 - Opening of the Archive to researchers from across the cosmos
@@ -469,7 +469,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 **Year 1223 AE** - The Great Teaching
 - Aquabyssos began systematic sharing of consciousness development knowledge
 - Educational programs established in 500+ dimensions
-- Recognition as the guardian and teacher of cosmic awareness
+- Recognition as the guardian and teacher of [[Cosmic Awareness]]
 
 **Year 1247 AE** - Present Day
 - Aquabyssos serves as the heart of cosmic civilization
@@ -486,7 +486,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 ### Expansion Era  
 
 **Captain Kael Windweaver III, Age 45, Dimensional Explorer (298 AE)**
-*"Grandfather always told stories about the old Aethermoor, floating cities and wind magic. Today I visited seventeen different dimensions, each with their own impossible wonders. The convergence didn't trap us underwater - it opened infinite skies for us to explore."*
+*"Grandfather always told stories about the old Aethermoor, [[Floating Cities]] and wind magic. Today I visited seventeen different dimensions, each with their own impossible wonders. The convergence didn't trap us underwater - it opened infinite skies for us to explore."*
 
 ### Modern Era
 
@@ -503,11 +503,11 @@ Post Merge Chronology is a undersea element of the setting, known for biolumines
 
 Legends speak of Post Merge Chronology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Post Merge Chronology.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -519,12 +519,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

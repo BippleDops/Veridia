@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-xmm-animal-lord-xmm.svg)
 
-# [[animal lord xmm|Animal Lord]]
+# [[Animal Lord Xmm]]
 *Source: Monster Manual (2024) p. 15*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -166,7 +166,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "desc": "If the animal lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
   - "desc": "Wisdom Saving Throw: DC 20, any enemy that starts its turn in a 30-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from the animal lord. Failure: The target suffers one of the\
       \ following effects:\n\n- Captivated (Forager Only). The target has the\
       \ [[conditions#Charmed|Charmed]] condition until the end\
@@ -178,7 +178,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ until the end of its next turn. While bewildered, the target subtracts d4\
       \ from its saving throws.  "
     "name": "Lordly Presence"
-  - "desc": "The animal lord has [[advantage xphb|Advantage]]\
+  - "desc": "The animal lord has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -195,20 +195,20 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ and then disappears. Dexterity Saving Throw: DC 20, one creature the animal\
       \ lord can see within 120 feet. Failure: 28 (4d10 + 6) Radiant damage. Success:\
       \ Half damage. Failure or Success: One of the following effects occurs:\n\n\
-      - Fortify (Forager Only). The animal lord gains 20 [[temporary hit points xphb|Temporary Hit Points]].\
-      \  \n- Marked as Prey (Hunter Only). The animal lord has [[advantage xphb|Advantage]]\
+      - Fortify (Forager Only). The animal lord gains 20 [[temporary-hit-points-xphb (variant-rules)]].\
+      \  \n- Marked as Prey (Hunter Only). The animal lord has [[Advantage Xphb]]\
       \ on attack rolls against the target until the start of the animal lord's next\
-      \ turn.  \n- Pesky Swarm (Sage Only). The target has [[disadvantage xphb|Disadvantage]]\
+      \ turn.  \n- Pesky Swarm (Sage Only). The target has [[Advantage Xphb]]\
       \ on attack rolls and ability checks until the end of its next turn.  "
     "name": "Animal Spirit"
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
-      \nAt will: [[animal friendship xphb|Animal Friendship]],\
-      \ [[animal messenger xphb|Animal Messenger]], [[speak with animals xphb|Speak\]]
+      \nAt will: [[Animal Friendship Xphb]],\
+      \ [[animal-messenger-xphb (spells)]], [[Speak With Animals Xphb]]
       \ with Animals]]\n\n2/day\
-      \ each: [[awaken xphb|Awaken]], [[greater restoration xphb|Greater Restoration]]\n\
-      \n1/day each: [[animal shapes xphb|Animal Shapes]],\
-      \ [[sunburst xphb|Sunburst]]"
+      \ each: [[Awaken Xphb]], [[greater-restoration-xphb (spells)]]\n\
+      \n1/day each: [[animal-shapes-xphb (spells)]],\
+      \ [[Sunburst Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The animal lord shape-shifts into a Huge or smaller version of the animal\
@@ -217,7 +217,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
 "legendary_actions":
-  - "desc": "The animal lord moves up to its [[speed xphb|Speed]]\
+  - "desc": "The animal lord moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it makes one Rend attack."
     "name": "Feral Strike"

@@ -50,13 +50,13 @@ world: Both
 - **Components:** V, S, M (a bit of fleece)
 - **Duration:** Concentration, up to 10 minutes
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot [[cube-area-of-effect-xphb|Cube]]. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot [[Cube Area of Effect Xphb]]. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
 As a [[actions#Magic|Magic]] action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a [[actions#Study|Study]] action to examine the image can determine that it is an illusion with a successful Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 317. Available in the SRD and the Free Rules (2024)*
 
@@ -98,3 +98,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[silent-image-xphb (spells)-phb]]` in CLI_Reference/spells/

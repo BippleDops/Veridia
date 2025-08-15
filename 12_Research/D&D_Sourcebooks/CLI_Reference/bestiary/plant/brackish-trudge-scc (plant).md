@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.384567'
 world: Both
 ---
 
-# [[brackish trudge scc|Brackish Trudge]]
+# [[Brackish Trudge Scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  
 
 Brackish trudges are lumbering masses of sentient fungus and vegetation that thrive in the bayou. They are living examples of the conflicting forces of life and decay existing in a harmonious cycle. Flowers and other plant life grow on their backs, necks, and heads. When these plants die, they decay and become the ideal habitat for fungi. The older a trudge is, the wilder and more varied are the plants and fungi that thrive in the tiny ecosystem on its back.

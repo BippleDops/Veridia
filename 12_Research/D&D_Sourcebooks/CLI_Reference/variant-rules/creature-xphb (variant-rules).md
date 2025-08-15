@@ -33,7 +33,7 @@ world: Both
 # Creature
 *Source: Player's Handbook (2024) p. 364. Available in the SRD and the Free Rules (2024)* 
 
-Any being in the game, including a [[player character xphb|a player's character]], is a creature.
+Any being in the game, including a [[Player Character Xphb]], is a creature.
 
 ## 🔧 Deep Evaluation Improvements
 

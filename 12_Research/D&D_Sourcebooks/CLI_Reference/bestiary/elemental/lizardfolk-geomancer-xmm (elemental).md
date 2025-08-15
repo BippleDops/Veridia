@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lizardfolk-geomancer-xmm-lizardfolk-geomancer-xmm.svg)
 
-# [[lizardfolk geomancer xmm|Lizardfolk Geomancer]]
+# [[Lizardfolk Geomancer Xmm]]
 *Source: Monster Manual (2024) p. 197*  
 
 Lizardfolk geomancers draw magic from the natural world, using it to protect their people and territories.
@@ -97,16 +97,16 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
       \ 9 (2d6 + 2) Bludgeoning damage."
     "name": "Earth Burst"
   - "desc": "Constitution Saving Throw: DC 12, each creature in a 20-foot-radius,\
-      \ 40-foot-high [[cylinder area of effect xphb|Cylinder]]\
+      \ 40-foot-high [[Area of Effect Xphb]]\
       \ centered on a point the lizardfolk can see within 60 feet. Failure: 15 (6d4)\
       \ Bludgeoning damage, and the target has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Hail of Stone (Recharge 5-6)"
   - "desc": "The lizardfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[elementalism xphb|Elementalism]]\n\
-      \n1/day each: [[meld into stone xphb|Meld into Stone]],\
-      \ [[speak with plants xphb|Speak with Plants]], [[spike growth xphb|Spike\]]
+      \nAt will: [[elemental]]\n\
+      \n1/day each: [[Meld Into Stone Xphb]],\
+      \ [[Speak With Plants Xphb]], [[spike-growth-xphb (spells)]]
       \ Growth]]"
     "name": "Spellcasting"
 "source":

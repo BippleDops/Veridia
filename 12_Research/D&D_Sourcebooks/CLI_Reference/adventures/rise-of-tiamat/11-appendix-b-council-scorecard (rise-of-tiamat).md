@@ -69,14 +69,14 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 
 ## Second Council
 
-| — | + | + | + | + | — | + | + | — | + | Killed [[/03 Mechanics/CLI/bestiary/npc/varram rot|Varram]] |
-| + | + | — | + | + | + | + | + | + | + | Captured [[/03 Mechanics/CLI/bestiary/npc/varram rot|Varram]] |
+| — | + | + | + | + | — | + | + | — | + | Killed [[Bestiary]] |
+| + | + | — | + | + | + | + | + | + | + | Captured [[Bestiary]] |
 | + | — | + | + | + |  | + | + | + | + | Arcane Brotherhood joins alliance |
 | + | + | + | + | + | +/+ | + | + | + | + | Arauthator killed or driven from lair |
 
 ## Third Council
 
-| — | + | + | + | + | — | + | + | — | + | Killed [[/03 Mechanics/CLI/bestiary/npc/neronvain rot|Neronvain]] |
+| — | + | + | + | + | — | + | + | — | + | Killed [[Bestiary]] |
 | + | + | — | + | + | + | + | + | + | + | Captured Neronvein |
 | + | + | + | + | + | +/+ | +/+ | + | + | + | Chuth killed or driven from lair |
 | + | +/+ | +/+ | + | + | +/+ | +/+ | + | + | + | Rallied metallic dragons |

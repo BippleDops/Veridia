@@ -35,7 +35,7 @@ class: Rogue/Enchanter
 location: '[[The Shadow Markets]]'
 world: Aquabyssos
 category: Criminal Mind-Mage
-faction: '[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory]]
+faction: '[[Memory Thieves Guil]]
   Thieves Guil]]'
 influence: Moderate
 danger_level: High
@@ -222,7 +222,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
+**[[Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vine-blight-xmm-v1-vine-blight-xmm.svg)
 
-# [[vine blight xmm|Vine Blight]]
+# [[vine-blight-xmm]]
 *Source: Monster Manual (2024) p. 44*  
 
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
@@ -102,7 +102,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ Bludgeoning damage at the start of each of its turns, and the blight can't\
       \ make Constricting Vine attacks."
     "name": "Constricting Vine"
-  - "desc": "The blight casts the [[entangle xphb|Entangle]]\
+  - "desc": "The blight casts the [[Entangle Xphb]]\
       \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
     "name": "Entangling Plants (Recharge 5-6)"
 "source":

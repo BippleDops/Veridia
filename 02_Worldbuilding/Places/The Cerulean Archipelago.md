@@ -6,7 +6,7 @@ aliases:
 type: Location
 tags:
 - both
-- region
+- [[region]]
 - content/location
 - world/both
 - place
@@ -29,10 +29,38 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-cerulean-archipelago-the-cerulean-archipelago.svg)
 
 > [!figure] View
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -48,7 +76,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -105,26 +133,26 @@ The atmosphere of this location shifts throughout the day. Midday shows echoing 
 
 The atmosphere of this location shifts throughout the day. Mornings see vibrant festivals, while evening transforms the area with quiet contemplation.
 
-The Cerulean Archipelago is a chain of tropical islands known for their beautiful beaches, lush jungles, and vibrant coral reefs. The islands are also home to many ancient ruins and hidden treasures.
+The Cerulean Archipelago is a chain of tropical islands known for their beautiful beaches, lush jungles, and vibrant [[Coral]] reefs. The islands are also home to many [[Ancient Ruins]] and hidden treasures.
 
 ## Player-Facing Summary
 
 The Cerulean Archipelago is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Cerulean Archipelago as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cerulean Archipelago.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -160,3 +188,40 @@ Ongoing situations affecting The Cerulean Archipelago:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

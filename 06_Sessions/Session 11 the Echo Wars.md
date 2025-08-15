@@ -1,15 +1,16 @@
 ---
+
 title: Session 11 the Echo Wars
 type: session
 tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_11_The_Echo_Wars
 
----
+- --
 title: Session 11 The Echo Wars
 type: research
 tags:
@@ -17,14 +18,14 @@ tags:
 - research
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 # Session 11: The Echo Wars
-*The Seven Shards Campaign - Beyond the Convergence*
+* The Seven Shards Campaign - Beyond the Convergence*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -52,7 +53,7 @@ WHERE contains(tags, "echo-dimension")
 ### The Dimensional Observatory
 Built six months ago to monitor the new cosmic order, the Observatory now detects catastrophic instabilities. Reality itself seems to be fracturing along the lines of decisions the heroes made.
 
-**Scene Setup**: The heroes are summoned by [[02 Worldbuilding/People/Brother Marcus the Willing]], now serving as the Cosmic Observatory Director.
+**Scene Setup**: The heroes are summoned by [[People]], now serving as the Cosmic Observatory Director.
 
 > [!quote] Brother Marcus
 > "Your victory created... complications. Every choice you made, every path not taken, has manifested as a separate reality. And now these 'echo dimensions' are at war with each other - and with us."
@@ -417,7 +418,9 @@ Each echo dimension sends their version of the heroes plus advisors
 
 #### Echo Encounter Types `dice: 1d12`
 | d12 | Encounter |
-|-----|-----------|
+|
+status: active
+-----|-----------|
 | 1-2 | Diplomatic mission from echo reality |
 | 3-4 | Echo refugees seeking asylum |
 | 5-6 | Echo invasion force |
@@ -451,7 +454,7 @@ Each echo dimension sends their version of the heroes plus advisors
 - Echo consulting becomes new profession
 - Philosophy of choice acceptance spreads
 
----
+- --
 
 ## Connected Sessions
 - **Previous**: [[Session_10_New_Horizons]]
@@ -470,11 +473,11 @@ type: cosmic-milestone
 importance: legendary
 description: Heroes integrate all aspects of possibility, healing dimensional rifts
 
-*"To be complete, one must embrace not just who they are, but who they could have been."* - Brother Marcus the Willing
+* "To be complete, one must embrace not just who they are, but who they could have been."* - Brother Marcus the Willing
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Related Notes
 
@@ -490,3 +493,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Three**: [THREE]
+- **These**: [THESE]
+- **Theme**: [THEME]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

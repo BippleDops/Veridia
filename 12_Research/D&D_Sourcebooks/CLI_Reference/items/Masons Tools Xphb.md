@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [[block and tackle xphb|Block and Tackle]]  
+- **Craft.** [[Block and Tackle Xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

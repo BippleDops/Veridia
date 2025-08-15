@@ -37,10 +37,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/artisan.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Intelligence  
-- **Feat.** [[crafter xphb|Crafter]]  
+- **Feat.** [[Crafter Xphb]]  
 - **Skill Proficiencies.** [[skills#Investigation|Investigation]], [[skills#Persuasion|Persuasion]]  
-- **Tool Proficiency.** Choose one kind of [[artisans tools xphb|Artisan's Tools]]  
-- **Equipment.** Choose A or B: (A) [[artisans tools xphb|Artisan's Tools]] (same as above), 2 [[pouch xphb|Pouches]], [[travelers clothes xphb|Traveler's Clothes]], 32 GP; or (B) 50 GP  
+- **Tool Proficiency.** Choose one kind of [[artisans-tools-xphb (items)]]  
+- **Equipment.** Choose A or B: (A) [[artisans-tools-xphb (items)]] (same as above), 2 [[component-pouch-xphb (items)]], [[travelers-clothes-xphb (items)]], 32 GP; or (B) 50 GP  
 
 You began mopping floors and scrubbing counters in an artisan's workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. Your trade has also given you a keen eye for detail.
 

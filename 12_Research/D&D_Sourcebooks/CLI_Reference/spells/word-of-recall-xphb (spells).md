@@ -47,7 +47,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 343. Available in the SRD and the Free Rules (2024)*
 
@@ -83,3 +83,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A corpse reveals the truth about a local noble
 - An heirloom has gone missing and war looms
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[word-of-recall-xphb (spells)-phb]]` in CLI_Reference/spells/

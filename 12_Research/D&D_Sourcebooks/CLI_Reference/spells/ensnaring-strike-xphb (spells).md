@@ -42,13 +42,13 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has [[advantage xphb|Advantage]] on this save. On a failed save, the target has the [[conditions#Restrained|Restrained]] condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
+As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has [[Advantage Xphb]] on this save. On a failed save, the target has the [[conditions#Restrained|Restrained]] condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
 
 While [[conditions#Restrained|Restrained]], the target takes `d6` Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC. On a success, the spell ends.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the SRD and the Free Rules (2024)*
 
@@ -87,3 +87,24 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[ensnaring-strike-xphb (spells)-phb]]` in CLI_Reference/spells/

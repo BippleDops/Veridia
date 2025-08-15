@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-hazirawn-hotdq-hazirawn-hotdq.svg)
 
 # Hazirawn
-*Weapon ([[greatsword xphb|greatsword]]), legendary (requires attunement)*  
+*Weapon ([[Greatsword Xphb]]), legendary (requires attunement)*  
 
 - **Damage**: 2d6 slashing
 - **Properties**: [[item properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
@@ -63,7 +63,7 @@ While you are attuned to this weapon, its bonus on attack and damage rolls incre
 
 ## Spells
 
-Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [[detect magic xphb|detect magic]] (1 charge), [[detect evil and good xphb|detect evil and good]] (1 charge), or [[detect thoughts xphb|detect thoughts]] (2 charges). Each night at midnight, Hazirawn regains `d4` expended charges.
+Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [[detect-magic-xphb (spells)]] (1 charge), [[detect-evil-and-good-xphb (spells)]] (1 charge), or [[detect-thoughts-xphb (spells)]] (2 charges). Each night at midnight, Hazirawn regains `d4` expended charges.
 
 ## Wounding
 

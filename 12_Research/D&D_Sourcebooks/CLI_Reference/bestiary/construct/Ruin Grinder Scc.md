@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ruin-grinder-scc-ruin-grinder-scc.svg)
 
-# [[ruin grinder scc|Ruin Grinder]]
+# [[Ruin Grinder Scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 211*  
 
 Created by the archaeomancers of Lorehold College, ruin grinders are mighty automatons built to excavate ancient ruins and artifacts. The massive toothed shovels attached to a ruin grinder's arms tear through millennia-old bedrock with ease, leading some Lorehold mages to fear that the grinders destroy more history than they unearth.

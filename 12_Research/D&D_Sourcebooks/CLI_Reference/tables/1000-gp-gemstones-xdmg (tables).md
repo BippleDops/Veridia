@@ -39,14 +39,14 @@ world: Both
 
 | dice: 1d8 | Stone |
 |-----------|-------|
-| 1 | [[black opal xdmg|Black opal]] (dark green with black mottling and golden flecks) |
-| 2 | [[blue sapphire xdmg|Blue sapphire]] (medium blue) |
-| 3 | [[emerald xdmg|Emerald]] (deep bright green) |
-| 4 | [[fire opal xdmg|Fire opal]] (fiery red) |
-| 5 | [[opal xdmg|Opal]] (pale blue with green and golden mottling) |
-| 6 | [[star ruby xdmg|Star ruby]] (ruby with white star-shaped center) |
-| 7 | [[star sapphire xdmg|Star sapphire]] (blue sapphire with white star-shaped center) |
-| 8 | [[yellow sapphire xdmg|Yellow sapphire]] (fiery yellow or yellow green) |
+| 1 | [[Black Opal Xdmg]] (dark green with black mottling and golden flecks) |
+| 2 | [[blue-sapphire-xdmg (items)]] (medium blue) |
+| 3 | [[platinum-bracelet-set-with-an-emerald-xdmg (items)]] (deep bright green) |
+| 4 | [[Fire Opal Xdmg]] (fiery red) |
+| 5 | [[Fire Opal Xdmg]] (pale blue with green and golden mottling) |
+| 6 | [[Star Ruby Xdmg]] (ruby with white star-shaped center) |
+| 7 | [[Star Sapphire Xdmg]] (blue sapphire with white star-shaped center) |
+| 8 | [[yellow-sapphire-xdmg (items)]] (fiery yellow or yellow green) |
 ^1000-gp-gemstones
 
 ## 🔧 Deep Evaluation Improvements

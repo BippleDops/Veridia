@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [[antitoxin xphb|Antitoxin]], [[candle xphb|Candle]], [[healers kit xphb|Healer's Kit]], [[potion of healing xdmg|Potion of Healing]]  
+- **Craft.** [[antitoxin-xphb (items)]], [[Candle Xphb]], [[healers-kit-xphb (items)]], [[Potion of Healing Xdmg]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

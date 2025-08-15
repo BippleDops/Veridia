@@ -190,3 +190,9 @@ Key locations marked:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

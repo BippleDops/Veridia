@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Guides - Roleplay_Guide - Quick Reference
 
 ## Key Info
@@ -19,4 +24,4 @@
 - **Weakness**: *[Exploitable flaw]*
 
 ---
-*Quick reference for [[NPC_Guides   Roleplay_Guide]]*
+*Quick reference for [[Npc]]*

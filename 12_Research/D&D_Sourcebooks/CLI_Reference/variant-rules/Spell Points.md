@@ -44,7 +44,7 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[bard xphb|bards]], [[cleric xphb|clerics]], [[druid xphb|druids]], [[sorcerer xphb|sorcerers]], and [[wizard xphb|wizards]]. For a [[paladin xphb|paladin]] or [[ranger xphb|ranger]], halve the character's level in that class and then consult the table. For a [[fighter xphb|fighter (Eldritch Knight)]] or [[rogue xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[bard-xphb-college-of-swords-xge 2 (classes)]], [[cleric-xphb-nature-domain (classes)]], [[Druid Xphb Circle of the Shepherd Xge]], [[sorcerer-xphb-draconic-sorcery-xphb (classes)]], and [[Wizard Xphb School of Necromancy]]. For a [[paladin-xphb-oath-of-conquest-xge (classes)]] or [[ranger-xphb-monster-slayer-xge (classes)]], halve the character's level in that class and then consult the table. For a [[fighter-xphb (classes)]] or [[Rogue Xphb Swashbuckler Xge]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 

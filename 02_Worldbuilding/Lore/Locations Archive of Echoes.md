@@ -1,5 +1,5 @@
 ---
-title: Locations Archive of Echoes
+title: [[location]]s [[Archive of Echoes]]
 type: lore
 tags:
 - lore
@@ -33,7 +33,7 @@ Connected to 02_Worldbuilding/Locations/Archive of Echoes are various other impo
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/Archive of Echoes through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/Archive of Echoes through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations

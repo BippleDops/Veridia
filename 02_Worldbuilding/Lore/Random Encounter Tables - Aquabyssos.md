@@ -1,7 +1,7 @@
 ---
 
-title: Random Encounter Tables   Aquabyssos
-type: Lore
+title: Random [[Encounter Tables]]   [[Aquabyssos]]
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -18,7 +18,7 @@ modified: '2025-08-14'
 status: complete
 accessibility:
   content_warnings: []
-  pronunciation: Random Encounter Tables - Aquabyssos
+  pronunciation: [[[[Random Encounter]] Tables]] - Aquabyssos
   safety_tools:
   - Lines & Veils
   - X-Card
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,9 +97,9 @@ Random Encounter Tables   Aquabyssos is a undersea element of the setting, known
 
 Legends speak of Random Encounter Tables   Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Random Encounter Tables   Aquabyssos.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 g and map use.
 
@@ -174,3 +174,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

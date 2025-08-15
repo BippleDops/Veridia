@@ -39,7 +39,7 @@ updated: '2025-08-13T01:18:34.507522+00:00'
 
 **Type:** Investigation/Horror  
 **Level:** 8-12  
-**Location:** [[Abyssos Prime   Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]], [[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
+**Location:** [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]], [[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
 **Duration:** 3-4 sessions  
 **Threat:** Psychological warfare device threatens to destroy collective memory
 
@@ -60,13 +60,13 @@ updated: '2025-08-13T01:18:34.507522+00:00'
 - Add 12_Research-specific enhancement
 
 ## Overview
-The [[Order of the Drowned Star]] has developed a horrifying weapon called the "Grief Bomb" - a crystalline device that forces entire populations to experience profound, paralyzing sorrow. Intelligence suggests it's hidden somewhere in the [[Abyssos Prime   Inverse Palace]], designed to be detonated during a major political gathering to cripple [[Aquabyssos]]'s leadership permanently.
+The [[Order of the Drowned Star]] has developed a horrifying weapon called the "Grief Bomb" - a crystalline device that forces entire populations to experience profound, paralyzing sorrow. Intelligence suggests it's hidden somewhere in the [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]], designed to be detonated during a major political gathering to cripple [[Aquabyssos]]'s leadership permanently.
 
 ## Background
 [[High Inquisitor Maltheos]] discovered plans for the Grief Bomb in captured [[Shadow Surgeons Collective]] documents. The weapon works by amplifying traumatic memories and projecting them into the minds of everyone within a 2-mile radius. Victims become catatonic with grief, reliving their worst losses on an endless loop.
 
 ### Phase 1: Gathering Intelligence (1 session)
-**Location:** [[Port Meridian   Harbor District]]  
+**Location:** [[Harbor District]]  
 **Objective:** Learn about the weapon and its potential hiding places
 
 **Key Locations:**
@@ -83,7 +83,7 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 4. **Emotional Residue**: Psychic investigators detect "grief shadows" in certain areas
 
 ### Phase 2: The Palace Infiltration (1-2 sessions)
-**Location:** [[Abyssos Prime   Inverse Palace]]  
+**Location:** [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]  
 **Objective:** Navigate the twisted architecture to locate the bomb
 
 **Challenges:**
@@ -93,9 +93,9 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 - **Temporal Loops**: Some rooms repeat the same tragic moment endlessly
 
 **Key Areas:**
-- **[[Inverted Ballroom Wing   Party Quarters]]**: Social events provide cover for investigation
-- **[[Palace Courtyard   Crystal Garden]]**: Crystalline growths here resonate with the bomb
-- **[[Throne Room   Heart of Palace]]**: The ultimate target location for the weapon
+- **[[Inverted Ballroom Wing - Party Quarters]]**: Social events provide cover for investigation
+- **[[garden]]**: Crystalline growths here resonate with the bomb
+- **[[Throne Room - Heart of Palace (D&D_References)]]**: The ultimate target location for the weapon
 
 ### Phase 3: The Confrontation (1 session)
 **Location:** [[The Original Palace]] (accessed through reality tears)  
@@ -165,7 +165,7 @@ When activated, all creatures in range must make DC 20 Wisdom saves or be affect
 
 **Manifestation of Regret (Recharge 5-6).** us creates illusory manifestations of the party's greatest regrets and losses. Each creature within 60 feet must make a DC 19 Wisdom saving throw. On failure: 27 (6d8) psychic damage and the creature is frightened for 1 minute (can repeat save at end of each turn). On success: Half damage and not frightened.
 
-**Activate Grief Bomb (1/Day).** If us is within 30 feet of the [[02 Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]], he can spend his action to begin activating it. This requires 3 consecutive rounds of concentration. If successful, the bomb detonates (see Grief Bomb effects). The activation can be interrupted by breaking his concentration or moving him more than 30 feet from the device.
+**Activate Grief Bomb (1/Day).** If us is within 30 feet of the [[02_Worldbuilding]], he can spend his action to begin activating it. This requires 3 consecutive rounds of concentration. If successful, the bomb detonates (see Grief Bomb effects). The activation can be interrupted by breaking his concentration or moving him more than 30 feet from the device.
 
 **Emotional Vampire (3/Day).** us drains the emotional energy from a creature within 60 feet. The target must make a DC 19 Charisma saving throw. On failure, the target takes 22 (4d10) necrotic damage and us regains the same amount as hit points. The target's maximum hit points are reduced by half the damage taken.
 
@@ -192,11 +192,11 @@ us is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save D
 #### Equipment
 - **Robes of Eternal Sorrow**: AS 17, grants immunity to fear and charm while attuned
 - **Staff of Memory Drain**: +2 spellcasting focus that can store extracted memories
-- **[[02 Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]] Activation Crystal**: Allows remote activation of the device
+- **[[02_Worldbuilding]] Activation Crystal**: Allows remote activation of the device
 - **Vial of Concentrated Despair**: Can be thrown to create a 20-foot radius area of magical despair
 - **Memory Extraction Tools**: Surgical implements for harvesting traumatic experiences
 
-**Tactics:** us focuses on emotional manipulation and psychological warfare rather than direct damage. He attempts to activate the [[02 Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]] while using the party's own memories and regrets against them. He prioritizes spellcasters and leaders, seeking to break their will through targeted emotional attacks.
+**Tactics:** us focuses on emotional manipulation and psychological warfare rather than direct damage. He attempts to activate the [[02_Worldbuilding]] while using the party's own memories and regrets against them. He prioritizes spellcasters and leaders, seeking to break their will through targeted emotional attacks.
 
 ### Customization
 - Adjust the grief effects based on character backstories for maximum impact

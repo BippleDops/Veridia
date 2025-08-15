@@ -42,19 +42,19 @@ world: Both
 |------------|-----------|
 | 01 | 1 [[abominable-yeti-xmm|abominable yeti]] |
 | 02-04 | `d6` [[revet xmm|revets]] |
-| 05-10 | `1d4 + 1` [[werebear xmm|werebears]] |
+| 05-10 | `1d4 + 1` [[werebear-xmm (monstrosity)]] |
 | 11-20 | `d3` [[young-white-dragon-xmm|young white dragons]] |
 | 21-25 | A blizzard that reduces visibility to 5 feet for `d6` hours |
-| 26-35 | 1 [[roc xmm|roc]] |
-| 36-40 | A herd of `3d20 + 60` caribou ([[deer xmm|deer]]) moving through the snow |
-| 41-50 | `d4` [[mammoth xmm|mammoths]] |
-| 51-60 | `1d8 + 1` [[troll xmm|trolls]] |
+| 26-35 | 1 [[Roc Xmm]] |
+| 36-40 | A herd of `3d20 + 60` caribou ([[deer xmm#^statblock]]) moving through the snow |
+| 41-50 | `d4` [[mammoth-xmm (beast)]] |
+| 51-60 | `1d8 + 1` [[Troll Xmm]] |
 | 61-65 | A mile-wide frozen lake in which preserved corpses of strange creatures can be seen |
-| 66-75 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 66-75 | `2d4` [[Remorhaz Xmm]] |
 | 76-80 | A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids |
 | 81-90 | 1 [[adult-white-dragon-xmm|adult white dragon]] |
 | 91-96 | `1d8 + 1` [[frost-giant-xmm|frost giants]] |
-| 97-99 | `d4` [[remorhaz xmm|remorhazes]] |
+| 97-99 | `d4` [[Remorhaz Xmm]] |
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] |
 ^arctic-encounters-levels-1116
 
@@ -103,3 +103,38 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

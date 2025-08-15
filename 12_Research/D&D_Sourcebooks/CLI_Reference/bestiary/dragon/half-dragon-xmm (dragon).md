@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-half-dragon-xmm-half-dragon-xmm.svg)
 
-# [[half dragon xmm|Half Dragon]]
+# [[half-dragon-xmm (dragon)]]
 *Source: Monster Manual (2024) p. 163. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -109,7 +109,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage\
       \ plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
       \ Success: Half damage."
     "name": "Dragon's Breath (Recharge 5-6)"

@@ -80,7 +80,7 @@ improvements: 20
 - Detail common objects and their cultural significance
 
 ## Overview
-Hidden deep within [[The Verdant Reach]], the Synthesis Gardens represent [[Sorrow Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
+Hidden deep within [[The Verdant Reach]], the Synthesis Gardens represent [[Sorrow-Root Nightbloom (D&D_References)]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
 
 ## Description
 The Gardens exist in a two-mile radius of corrupted forest where the boundaries between plant, crystal, and flesh blur. Trees with crystalline bark pulse with internal light, while crystal formations sprout leaves and bleed sap. The air itself shimmers with pollen that carries corruption, and the ground shifts between soil, crystal, and something disturbingly in-between.
@@ -103,6 +103,34 @@ Mass graves of failed experiments that have merged into shambling mounds of crys
 
 ### The Canopy Network
 Corrupted trees whose branches have fused into bridges and platforms. The [[Withered Court]] uses these as highways, while crystal fruit hanging from branches grants temporary abilities at the cost of corruption.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## DM Secrets
 > [!warning] The Living Dungeon
@@ -193,3 +221,40 @@ Mentioned in The Hidden Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

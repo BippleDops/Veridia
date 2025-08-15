@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oni-xmm-oni-xmm.svg)
 
-# [[oni xmm|Oni]]
+# [[Oni Xmm]]
 *Source: Monster Manual (2024) p. 232. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -112,8 +112,8 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The oni regains 10 [[hit points xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit points xphb|Hit Point]]."
+  - "desc": "The oni regains 10 [[hit-points-xphb (variant-rules)]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb (variant-rules)]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
@@ -132,12 +132,12 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
     "name": "Shape-Shift"
   - "desc": "The oni casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
-      \ each: [[charm person xphb|Charm Person]] (level\
-      \ 2 version), [[darkness xphb|Darkness]], [[gaseous form xphb|Gaseous\]]
-      \ Form]], [[sleep xphb|Sleep]]"
+      \ each: [[Charm Person Xphb]] (level\
+      \ 2 version), [[darkness-xphb (variant-rules)]], [[gaseous-form-xphb (spells)]]
+      \ Form]], [[Sleep Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The oni casts [[invisibility xphb|Invisibility]]\
+  - "desc": "The oni casts [[see-invisibility-xphb (spells)]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Invisibility"

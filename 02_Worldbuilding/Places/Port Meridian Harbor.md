@@ -1,7 +1,7 @@
 ---
 
 title: Port Meridian Harbor
-type: Location
+type: [[location]]
 tags:
 - aquabyssos
 - trade
@@ -20,7 +20,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Location
 MyContainer: None
@@ -32,6 +32,13 @@ world: Aquabyssos
 evaluated: '2025-08-14'
 improvements: 20
 ---
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg)
@@ -56,7 +63,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,25 +111,25 @@ improvements: 20
 
 ## Overview
 
-Port Meridian Harbor serves as [[Aquabyssos]]'s primary connection to the surface world and other underwater realms, functioning as both a massive commercial hub and a critical strategic chokepoint. The harbor works closely with [[Port Meridian   Market Square]] on the surface and coordinates with [[The Royal Palace]] for diplomatic trade relations. Built into a natural underwater valley where multiple deep-sea currents converge, the harbor takes advantage of these natural forces to create one of the most efficient maritime facilities in any realm.
+Port Meridian Harbor serves as [[Aquabyssos]]'s primary connection to the surface world and other underwater realms, functioning as both a massive commercial hub and a critical strategic chokepoint. The harbor works closely with [[Port Meridian]] on the surface and coordinates with [[The [[Royal Palace]]]] for diplomatic trade relations. Built into a natural underwater valley where multiple deep-sea currents converge, the harbor takes advantage of these natural forces to create one of the most efficient mari[[Time]] facilities in any realm.
 
 The harbor operates on multiple levels, with surface vessels anchoring above while specialized underwater craft navigate the deeper channels. Massive crystal formations provide illumination and magical infrastructure, while pressure-controlled docking bays allow for seamless transitions between different aquatic environments.
 
-As political tensions rise in [[Aquabyssos]], Port Meridian has become increasingly important as a source of information, supplies, and potential escape routes, making it a focal point for espionage and smuggling operations connected to [[The Shadow Markets]] and other criminal enterprises.
+As political tensions rise in [[Aquabyssos]], Port Meridian has become increasingly important as a source of information, supplies, and potential escape routes, making it a focal point for espionage and smuggling operations connected to [[The [[Shadow Markets]]]] and other criminal enterprises.
 
 ## Geography
 
 The harbor is carved into the side of a massive underwater cliff face, with docking facilities extending across seven distinct levels. The uppermost level connects to surface anchorages through a series of magical air pockets and pressure locks, while the deepest level provides access to the abyssal currents that connect to distant underwater realms.
 
-Natural coral formations have been carefully cultivated to create breakwaters and navigation aids, while artificially grown crystal gardens provide both lighting and magical energy for the harbor's operations. The main channel is wide enough for three large vessels to pass simultaneously, with smaller tributary channels serving specialized craft.
+Natural [[Coral]] formations have been carefully cultivated to create breakwaters and navigation aids, while artificially grown [[Crystal Garden]]s provide both lighting and magical energy for the harbor's operations. The main channel is wide enough for three large vessels to pass simultaneously, with smaller tributary channels serving specialized craft.
 
 ### Surface Exchange
 
-The topmost level where surface traders conduct business through specialized pressure chambers and magical air bubbles. Features offices for foreign merchants and diplomatic representatives from [[Aethermoor]] and other surface realms.
+The topmost level where [[Surface Traders]] conduct business through specialized pressure chambers and magical air bubbles. Features offices for [[Foreign [[Merchant]]s]] and diplomatic representatives from [[Aethermoor]] and other surface realms.
 
 ### Main Commercial Docks
 
-The largest docking facilities handling the majority of trade vessels. Contains warehouses, loading facilities, and the harbor master's headquarters, coordinating with [[Port Meridian   Market Square]] for goods distribution.
+The largest docking facilities handling the majority of trade vessels. Contains warehouses, loading facilities, and the harbor master's headquarters, coordinating with [[Port Meridian]] for goods distribution.
 
 ### Deep Current Terminal
 
@@ -134,13 +141,13 @@ Dedicated to [[Aquabyssos]]'s substantial fishing fleets, with processing facili
 
 ### Restricted Military Zone
 
-Secure docking for naval vessels and sensitive cargo, heavily guarded by [[Depth Wardens]] and requiring special authorization for access.
+Secure docking for naval vessels and sensitive cargo, heavily guarded by [[[[Depth Warden]]s]] and requiring special authorization for access.
 
 ## Population
 
 Port Meridian hosts a permanent population of approximately 8,000 residents, including dockworkers, customs officials, traders, and their families. However, the transient population can swell to over 15,000 during peak trading seasons, with merchants, sailors, and travelers from dozens of different realms and species.
 
-The population is notably diverse, including tritons, sea elves, merfolk, water genasi, and adapted surface dwellers, as well as exotic traders from distant aquatic realms.
+The population is notably diverse, including [[Triton]]s, [[Sea Elves]], [[Merfolk]], water genasi, and adapted surface dwellers, as well as exotic traders from distant aquatic realms.
 
 ## Economy
 
@@ -150,7 +157,7 @@ The harbor generates substantial revenue through docking fees, customs duties, a
 
 ## Government
 
-The harbor operates under the authority of **[[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]**, who reports directly to the city council and coordinates with [[Parliament of Echoes]] on trade policy. Day-to-day operations are managed by a complex bureaucracy including customs officials, dock supervisors, and security forces from [[Depth Wardens]].
+The harbor operates under the authority of **[[Harbormaster Erik Saltbeard]]**, who [[reports]] directly to the city council and coordinates with [[Parliament of Echoes]] on trade policy. Day-to-day operations are managed by a complex bureaucracy including customs officials, dock supervisors, and security forces from [[Depth Wardens]].
 
 Political tensions have resulted in increased security measures and more stringent inspection procedures, though different factions compete to influence harbor policies to their advantage, often involving corruption networks connected to [[The Shadow Markets]].
 
@@ -163,33 +170,33 @@ The harbor has survived several major crises, including attacks by deep-sea mons
 ## Adventure Hooks
 
 1. A valuable shipment goes missing under suspicious circumstances, requiring investigation into the harbor's complex web of rivalries and corruption involving [[The Shadow Markets]].
-2. Strange creatures from the deep currents begin attacking vessels, possibly connected to [[12_Research/D&D_Statblocks/The Void Touched Depths]] or other supernatural threats.
-3. The party needs to intercept a secret meeting between faction representatives that's supposedly taking place in the harbor's neutral territory, with implications for [[Parliament of Echoes]] politics.
+2. Strange creatures from the deep currents begin attacking vessels, possibly connected to [[The [[Void Touched]] Depths]] or other supernatural threats.
+3. [[The Party]] needs to intercept a secret meeting between faction representatives that's supposedly taking place in the harbor's neutral territory, with implications for [[Parliament of Echoes]] politics.
 4. Diplomatic tensions arise when a surface vessel from [[Aethermoor]] is denied docking rights, requiring delicate negotiation.
-5. Evidence emerges of smuggling operations moving contraband between the harbor and [[Port Meridian   Market Square]].
+5. [[Evidence]] emerges of smuggling operations moving contraband between the harbor and [[Port Meridian]].
 
 ## Connections
 
-Port Meridian connects directly to [[Aquabyssos]]'s main transportation network via the pressure tube system, linking to [[Parliament of Echoes]], [[Coral Courts]], and [[The Shadow Markets]]. It also serves as the terminus for several major deep-sea current routes, including connections to other underwater cities, [[Aethermoor]] surface ports via [[Port Meridian   Market Square]], and exotic realms in the deepest oceans. The harbor's communication network links it to diplomatic outposts and trading partners across multiple planes of existence.
+Port Meridian connects directly to [[Aquabyssos]]'s main transportation network via the [[Pressure Tube System]], [[Link]]ing to [[Parliament of Echoes]], [[Coral Courts]], and [[The Shadow Markets]]. It also serves as the terminus for several major deep-sea current routes, including connections to other underwater cities, [[Aethermoor]] surface ports via [[Port Meridian]], and exotic realms in the deepest oceans. The harbor's communication network links it to diplomatic outposts and trading partners across multiple planes of existence.
 
 ## Player-Facing Summary
 
 Port Meridian Harbor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Port Meridian Harbor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian Harbor.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -213,3 +220,39 @@ Port Meridian Harbor is a notable location characterized by its unique features 
 - Strange disappearances suggest a portal
 - A corpse reveals the truth about the cult
 - Strange disappearances suggest a conspiracy
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

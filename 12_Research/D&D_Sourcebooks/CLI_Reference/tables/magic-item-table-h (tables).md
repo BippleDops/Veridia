@@ -39,75 +39,75 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-10 | [[3 weapon xdmg|+3 weapon]] |
-| 11-12 | [[amulet of the planes xdmg|Amulet of the planes]] |
-| 13-14 | [[carpet of flying xdmg|Carpet of flying]] |
-| 15-16 | [[crystal ball xdmg|Crystal ball]] |
-| 17-18 | [[ring of regeneration xdmg|Ring of regeneration]] |
-| 19-20 | [[ring of shooting stars xdmg|Ring of shooting stars]] |
-| 21-22 | [[ring of telekinesis xdmg|Ring of telekinesis]] |
-| 23-24 | [[robe of scintillating colors xdmg|Robe of scintillating colors]] |
-| 25-26 | [[robe of stars xdmg|Robe of stars]] |
-| 27-28 | [[rod of absorption xdmg|Rod of absorption]] |
-| 29-30 | [[rod of alertness xdmg|Rod of alertness]] |
-| 31-32 | [[rod of security xdmg|Rod of security]] |
-| 33-34 | [[3 rod of the pact keeper xdmg|+3 rod of the pact keeper]] |
-| 35-36 | [[scimitar of speed xdmg|Scimitar of speed]] |
-| 37-38 | [[3 shield xdmg|+3 shield]] |
-| 39-40 | [[staff of fire xdmg|Staff of fire]] |
-| 41-42 | [[staff of frost xdmg|Staff of frost]] |
-| 43-44 | [[staff of power xdmg|Staff of power]] |
-| 45-46 | [[staff of striking xdmg|Staff of striking]] |
-| 47-48 | [[staff of thunder and lightning xdmg|Staff of thunder and lightning]] |
-| 49-50 | [[sword of sharpness xdmg|Sword of sharpness]] |
-| 51-52 | [[wand of polymorph xdmg|Wand of polymorph]] |
-| 53-54 | [[3 wand of the war mage xdmg|+3 wand of the war mage]] |
-| 55 | [[adamantine armor xdmg|Adamantine half plate armor]] |
-| 56 | [[adamantine armor xdmg|Adamantine plate armor]] |
-| 57 | [[animated shield xdmg|Animated shield]] |
-| 58 | [[belt of fire giant strength xdmg|Belt of fire giant strength]] |
-| 59 | Belt of [[belt of frost giant strength xdmg|Frost]] or [[belt of stone giant strength xdmg|Stone]] giant strength |
-| 60 | [[1 armor xdmg|+1 breastplate]] |
-| 61 | [[armor of resistance xdmg|Breastplate of resistance]] |
-| 62 | [[candle of invocation xdmg|Candle of invocation]] |
-| 63 | [[2 armor xdmg|+2 chain mail]] |
-| 64 | [[2 armor xdmg|+2 chain shirt]] |
-| 65 | [[cloak of arachnida xdmg|Cloak of arachnida]] |
-| 66 | [[dancing sword xdmg|Dancing sword]] |
-| 67 | [[demon armor xdmg|Demon armor]] |
-| 68 | [[dragon scale mail xdmg|Dragon scale mail]] |
-| 69 | [[dwarven plate xdmg|Dwarven plate]] |
-| 70 | [[dwarven thrower xdmg|Dwarven thrower]] |
-| 71 | [[efreeti bottle xdmg|Efreeti bottle]] |
+| 01-10 | [[3 Weapon Xdmg]] |
+| 11-12 | [[Amulet of the Planes Xdmg]] |
+| 13-14 | [[Carpet of Flying Xdmg]] |
+| 15-16 | [[crystal-ball-xdmg (items)]] |
+| 17-18 | [[ring-of-regeneration-xdmg (items)]] |
+| 19-20 | [[Ring of Shooting Stars Xdmg]] |
+| 21-22 | [[Ring of Telekinesis Xdmg]] |
+| 23-24 | [[robe-of-scintillating-colors-xdmg (items)]] |
+| 25-26 | [[robe-of-stars-xdmg (items)]] |
+| 27-28 | [[rod-of-absorption-xdmg (items)]] |
+| 29-30 | [[Rod of Alertness Xdmg]] |
+| 31-32 | [[Rod of Security Xdmg]] |
+| 33-34 | [[3 Rod of the Pact Keeper Xdmg]] |
+| 35-36 | [[Scimitar of Speed Xdmg]] |
+| 37-38 | [[Shield]] |
+| 39-40 | [[Staff of Fire Xdmg]] |
+| 41-42 | [[Staff of Frost Xdmg]] |
+| 43-44 | [[staff-of-power-xdmg (items)]] |
+| 45-46 | [[Staff of Striking Xdmg]] |
+| 47-48 | [[Staff of Thunder and Lightning Xdmg]] |
+| 49-50 | [[sword-of-sharpness-xdmg (items)]] |
+| 51-52 | [[wand-of-polymorph-xdmg (items)]] |
+| 53-54 | [[3-wand-of-the-war-mage-xdmg (items)]] |
+| 55 | [[Adamantine Armor Xdmg]] |
+| 56 | [[Adamantine Armor Xdmg]] |
+| 57 | [[Shield]] |
+| 58 | [[giant]] |
+| 59 | Belt of [[giant]] or [[giant]] giant strength |
+| 60 | [[1 Armor Xdmg]] |
+| 61 | [[armor-of-resistance-xdmg (items)]] |
+| 62 | [[candle-of-invocation-xdmg (items)]] |
+| 63 | [[2-armor-xdmg (items)]] |
+| 64 | [[2-armor-xdmg (items)]] |
+| 65 | [[Cloak of Arachnida Xdmg]] |
+| 66 | [[Dancing Sword Xdmg]] |
+| 67 | [[Demon Armor Xdmg]] |
+| 68 | [[red-dragon-scale-mail-xdmg (items)]] |
+| 69 | [[Dwarven Plate Xdmg]] |
+| 70 | [[dwarven-thrower-xdmg (items)]] |
+| 71 | [[efreeti-bottle-xdmg (items)]] |
 | 72 | [[figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of wondrous power, obsidian steed]] |
-| 73 | [[frost brand xdmg|Frost brand]] |
-| 74 | [[helm of brilliance xdmg|Helm of brilliance]] |
-| 75 | [[horn of valhalla bronze xdmg|Horn of valhalla, bronze]] |
-| 76 | [[instrument of the bards anstruth harp xdmg|Instrument of the bards, anstruth harp]] |
-| 77 | [[ioun stone absorption xdmg|Ioun stone, absorption]] |
-| 78 | [[ioun stone agility xdmg|Ioun stone, agility]] |
-| 79 | [[ioun stone fortitude xdmg|Ioun stone, fortitude]] |
-| 80 | [[ioun stone insight xdmg|Ioun stone, insight]] |
-| 81 | [[ioun stone intellect xdmg|Ioun stone, intellect]] |
-| 82 | [[ioun stone leadership xdmg|Ioun stone, leadership]] |
-| 83 | [[ioun stone strength xdmg|Ioun stone, strength]] |
-| 84 | [[2 armor xdmg|+2 leather armor]] |
-| 85 | [[manual of bodily health xdmg|Manual of bodily health]] |
-| 86 | [[manual of gainful exercise xdmg|Manual of gainful exercise]] |
-| 87 | [[manual of golems xdmg|Manual of golems]] |
-| 88 | [[manual of quickness of action xdmg|Manual of quickness of action]] |
-| 89 | [[mirror of life trapping xdmg|Mirror of life trapping]] |
-| 90 | [[nine lives stealer xdmg|Nine lives stealer]] |
-| 91 | [[oathbow xdmg|Oathbow]] |
-| 92 | [[2 armor xdmg|+2 scale mail]] |
-| 93 | [[spellguard shield xdmg|Spellguard shield]] |
-| 94 | [[1 armor xdmg|+1 splint armor]] |
-| 95 | [[armor of resistance xdmg|Splint armor of resistance]] |
-| 96 | [[1 armor xdmg|+1 studded leather armor]] |
-| 97 | [[armor of resistance xdmg|Studded leather armor of resistance]] |
-| 98 | [[tome of clear thought xdmg|Tome of clear thought]] |
-| 99 | [[tome of leadership and influence xdmg|Tome of leadership and influence]] |
-| 00 | [[tome of understanding xdmg|Tome of understanding]] |
+| 73 | [[frost-brand-xdmg (items)]] |
+| 74 | [[Helm of Brilliance Xdmg]] |
+| 75 | [[horn-of-valhalla-bronze-xdmg (items)]] |
+| 76 | [[instrument-of-the-bards-anstruth-harp-xdmg (items)]] |
+| 77 | [[Ioun Stone Absorption Xdmg]] |
+| 78 | [[ioun-stone-agility-xdmg (items)]] |
+| 79 | [[ioun-stone-fortitude-xdmg (items)]] |
+| 80 | [[Ioun Stone Insight Xdmg]] |
+| 81 | [[Ioun Stone Intellect Xdmg]] |
+| 82 | [[ioun-stone-leadership-xdmg (items)]] |
+| 83 | [[Ioun Stone Strength Xdmg]] |
+| 84 | [[2-armor-xdmg (items)]] |
+| 85 | [[Manual of Bodily Health Xdmg]] |
+| 86 | [[Manual of Gainful Exercise Xdmg]] |
+| 87 | [[manual-of-golems-xdmg (items)]] |
+| 88 | [[Manual of Quickness of Action Xdmg]] |
+| 89 | [[mirror-of-life-trapping-xdmg (items)]] |
+| 90 | [[Nine Lives Stealer Xdmg]] |
+| 91 | [[oathbow-xdmg (items)]] |
+| 92 | [[2-armor-xdmg (items)]] |
+| 93 | [[Shield]] |
+| 94 | [[1 Armor Xdmg]] |
+| 95 | [[armor-of-resistance-xdmg (items)]] |
+| 96 | [[1 Armor Xdmg]] |
+| 97 | [[armor-of-resistance-xdmg (items)]] |
+| 98 | [[Tome of Clear Thought Xdmg]] |
+| 99 | [[tome-of-leadership-and-influence-xdmg (items)]] |
+| 00 | [[tome-of-understanding-xdmg (items)]] |
 ^magic-item-table-h
 
 ## 🔧 Deep Evaluation Improvements

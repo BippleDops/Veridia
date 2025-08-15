@@ -34,7 +34,7 @@ world: Both
 # Death Saving Throw
 *Source: Player's Handbook (2024) p. 365. Available in the SRD and the Free Rules (2024)* 
 
-A [[player character xphb|player character]] must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 [[hit points xphb|Hit Points]].
+A [[Player Character Xphb]] must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

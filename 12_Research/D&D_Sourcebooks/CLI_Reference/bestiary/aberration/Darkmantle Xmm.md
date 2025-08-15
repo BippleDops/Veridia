@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-darkmantle-xmm.svg)
 
-# [[darkmantle xmm|Darkmantle]]
+# [[Darkmantle Xmm]]
 *Source: Monster Manual (2024) p. 90. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,19 +96,19 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage,\
       \ and the darkmantle attaches to the target. If the target is a Medium or smaller\
-      \ creature and the darkmantle had [[advantage xphb|Advantage]]\
+      \ creature and the darkmantle had [[Advantage Xphb]]\
       \ on the attack roll, it covers the target, which has the [[conditions#Blinded|Blinded]]\
       \ condition and is suffocating while the darkmantle is attached in this way.\n\
       \nWhile attached to a target, the darkmantle can attack only the target but\
-      \ has [[advantage xphb|Advantage]] on its attack\
-      \ rolls. Its [[speed xphb|Speed]] becomes 0,\
-      \ it can't benefit from any bonus to its [[speed xphb|Speed]],\
+      \ has [[Advantage Xphb]] on its attack\
+      \ rolls. Its [[Fly Speed Xphb]] becomes 0,\
+      \ it can't benefit from any bonus to its [[Fly Speed Xphb]],\
       \ and it moves with the target.\n\nA creature can take an action to try to detach\
       \ the darkmantle from itself, doing so with a successful DC 13 Strength ([[skills#Athletics|Athletics]])\
       \ check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
     "name": "Crush"
-  - "desc": "Magical [[darkness xphb|Darkness]] fills\
-      \ a 15-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Magical [[darkness-xphb (variant-rules)]] fills\
+      \ a 15-foot [[Area of Effect Xphb]]\
       \ originating from the darkmantle. This effect lasts while the darkmantle maintains\
       \ [[conditions#Concentration|Concentration]] on it, up to\
       \ 10 minutes. Darkvision can't penetrate this area, and no light can illuminate\

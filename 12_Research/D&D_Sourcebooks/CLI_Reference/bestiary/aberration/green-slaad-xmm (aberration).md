@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-slaad-xmm-green-slaad-xmm.svg)
 
-# [[green slaad xmm|Green Slaad]]
+# [[green-slaad-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 286*  
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
@@ -70,8 +70,8 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater restoration xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> One can obtain a slaad's control gem using a [[wish xphb|Wish]] or [[imprisonment xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb (spells)]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
+> One can obtain a slaad's control gem using a [[wish-xphb (spells)]] or [[Imprisonment Xphb]] spell. If the slaad fails its saving throw against [[Imprisonment Xphb]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -103,11 +103,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "languages": "Common, Slaad; telepathy 60 ft."
 "cr": "8"
 "traits":
-  - "desc": "The slaad has [[advantage xphb|Advantage]]\
+  - "desc": "The slaad has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [[hit points xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit points xphb|Hit Point]]."
+  - "desc": "The slaad regains 10 [[hit-points-xphb (variant-rules)]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb (variant-rules)]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The slaad makes three Chaos Staff attacks."
@@ -120,10 +120,10 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
     "name": "Chaos Staff"
   - "desc": "The slaad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14, +6 to hit\
-      \ with spell attacks):\n\nAt will: [[detect magic xphb|Detect Magic]],\
-      \ [[detect thoughts xphb|Detect Thoughts]], [[mage hand xphb|Mage\]]
-      \ Hand]]\n\n1/day each: [[fireball xphb|Fireball]],\
-      \ [[invisibility xphb|Invisibility]] (self only)"
+      \ with spell attacks):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[detect-thoughts-xphb (spells)]], [[mage-hand-xphb (spells)]]
+      \ Hand]]\n\n1/day each: [[fireball-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\

@@ -48,7 +48,7 @@ The weapon or ammunition then returns to its normal form.
 
 **Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by `d8` for each spell slot level above 3.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 292*
 

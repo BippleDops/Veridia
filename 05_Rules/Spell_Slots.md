@@ -1,5 +1,6 @@
 ---
 
+
 title: Spell Slots
 type: spell-slots
 tags:
@@ -12,6 +13,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -119,3 +121,63 @@ Apply this rule when:
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+## Official Rules Reference
+
+### Core Rulebooks
+- **Spellcasting**: PHB Chapter 10 (p.201-205)
+- **Spell Slots**: PHB p.201
+- **Concentration**: PHB p.203
+- **Components**: PHB p.203
+- **Metamagic Options**: PHB p.101, TCE p.65-66
+- **Spell Versatility (UA)**: UA Class Feature Variants
+- **Expanded Spell Lists**: TCE, XGE, SCAG
+- **Strixhaven Spells**: SCC p.36-39
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions
+
+## Variant Rules Options
+
+### From DMG Chapter 9
+- **Proficiency Dice**: Roll dice instead of flat bonus
+- **Hero Points**: Narrative currency system
+- **Honor/Sanity**: Additional ability scores
+- **Lingering Injuries**: Lasting combat effects
+- **Massive Damage**: System shock rules
+- **Morale**: When enemies flee
+
+### From Other Sources
+- **Spell Points** (DMG p.288): Alternative to slots
+- **Gritty Realism** (DMG p.267): Longer rests
+- **Side Initiative** (DMG p.270): Group turns
+- **Facing** (DMG p.252): Directional combat
+
+### Table Consideration
+Discuss with players before implementing

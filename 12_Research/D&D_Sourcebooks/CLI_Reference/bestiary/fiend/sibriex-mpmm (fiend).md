@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-sibriex-mpmm.svg)
 
-# [[sibriex mpmm|Sibriex]]
+# [[sibriex-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -115,15 +115,15 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
       \ any levels of [[conditions#Exhaustion|exhaustion]] caused\
       \ by it. Each failed save causes the target to gain another level of [[conditions#Exhaustion|exhaustion]].\
       \ Once the target reaches 6 levels of [[conditions#Exhaustion|exhaustion]],\
-      \ it dies and instantly transforms into a living [[manes xmm|manes]]\
+      \ it dies and instantly transforms into a living [[Manes Xmm]]\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [[wish xphb|wish]] spell."
+      \ only by a [[wish-xphb (spells)]] spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \nAt will: [[command xphb|command]], [[dispel magic xphb|dispel magic]],\
-      \ [[hold monster xphb|hold monster]]\n\n1/day:\
-      \ [[befuddlement xphb|feeblemind]]"
+      \nAt will: [[command-xphb (spells)]], [[dispel-magic-xphb (spells)]],\
+      \ [[Hold Monster Xphb]]\n\n1/day:\
+      \ [[befuddlement-xphb (spells)]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sibriex uses Spellcasting."

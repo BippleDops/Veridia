@@ -220,3 +220,9 @@ Key stop on textiles trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

@@ -1,12 +1,12 @@
 ---
 
-title: Great Dying
-type: Lore
+title: [[Great Dyin]]g
+type: [[Lore]]
 tags:
 - lore
 - content/lore
-- content/location
-- world/aethermoor
+- content/[[location]]
+- world/[[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -92,11 +92,11 @@ Great Dying is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Great Dying as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Great Dying.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -115,12 +115,12 @@ Mentioned in The Second Prophecy of Depths
 - Strange sightings suggest a portal
 - A noble needs help finding before winter
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

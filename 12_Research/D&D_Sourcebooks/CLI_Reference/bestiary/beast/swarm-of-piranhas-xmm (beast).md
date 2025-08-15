@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-piranhas-xmm-swarm-of-piranhas-xmm.svg)
 
-# [[swarm of piranhas xmm|Swarm of Piranhas]]
+# [[swarm-of-piranhas-xmm (beast)]]
 *Source: Monster Manual (2024) p. 370. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -56,7 +56,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Swarm of Piranhas (XMM)"
@@ -86,16 +86,16 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny piranha. The swarm\
-      \ can't regain [[hit points xphb|Hit Points]]\
-      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
+      \ can't regain [[hit-points-xphb (variant-rules)]]\
+      \ or gain [[temporary-hit-points-xphb (variant-rules)]]."
     "name": "Swarm"
   - "desc": "The swarm can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [[advantage xphb|Advantage]]\
-      \ if the target doesn't have all its [[hit points xphb|Hit Points]]),\
+  - "desc": "Melee Attack Roll: +5 (with [[Advantage Xphb]]\
+      \ if the target doesn't have all its [[hit-points-xphb (variant-rules)]]),\
       \ reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage\
-      \ if the swarm is [[bloodied xphb|Bloodied]]."
+      \ if the swarm is [[bloodied-xphb (variant-rules)]]."
     "name": "Bites"
 "source":
   - "XMM"

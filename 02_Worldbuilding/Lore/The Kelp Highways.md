@@ -1,7 +1,7 @@
 ---
 
-title: The Kelp Highways
-type: Lore
+title: The [[Kelp Highway]]s
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -70,21 +70,21 @@ improvements: 20
 
 ## Player-Facing Summary
 
-The Kelp Highways is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[[The Kelp Highway]]s is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
 Legends speak of The Kelp Highways as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Kelp Highways.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 The Kelp Highways represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -98,7 +98,7 @@ Mentioned in The Second Prophecy of Depths
 
 ## Plot Hooks
 
-- A merchant needs help investigating before winter
+- A [[Merchant]] needs help investigating before winter
 - A letter reveals a betrayal about the cult
 - A corpse reveals ancient history about this place
 

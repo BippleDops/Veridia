@@ -125,7 +125,7 @@ Provides specialized expertise and assistance in cases involving shadow abilitie
 **Relationship**: Cooperative Alliance
 Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development.
 
-#### **[[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire (D&D_References)]]**
 **Relationship**: Cultural Exchange
 Learns from mer-folk approaches to community self-regulation and honor-based social systems.
 
@@ -260,7 +260,7 @@ Detailed preparations for organizational continuity if current leadership is com
 - [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 - [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
-- [[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
+- [[Ancient Mer-Folk Empire (D&D_References)]]
 
 **Key Locations**:
 - [[The Council of Shadows]]
@@ -276,9 +276,9 @@ Detailed preparations for organizational continuity if current leadership is com
 
 **Important Concepts**:
 - [[The Shadow Conduct Codex]]
-- [[Shadow Community Self Regulation]]
+- [[Shadow Community Self-Regulation]]
 - [[Shadow Ability Ethics]]
-- [[Community Based Restorative Justice]]
+- [[Community-Based Restorative Justice]]
 - [[Shadow Transformation Psychology]]
 
 ## Player-Facing Summary

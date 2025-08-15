@@ -40,10 +40,10 @@ world: Both
 
 **Items in this group:**
 
-- [[dice set xphb|Dice Set]]
-- [[dragonchess set xphb|Dragonchess Set]]
-- [[playing cards xphb|Playing Cards]]
-- [[three dragon ante set xphb|Three Dragon Ante Set]]
+- [[Dice Set Xphb]]
+- [[Dragonchess Set Xphb]]
+- [[Playing Cards Xphb]]
+- [[three-dragon-ante-set-xphb (items)]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: The Maw of Darkness
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -42,9 +42,9 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 
 **Type:** Horror/Exploration  
 **Level:** 12-16  
-**Location:** [[The Hadal Depths]], [[The Cerulean Trench]], [[Abyssos Prime]]  
+**[[location]]:** [[Hadal Depth]]]], [[The Cerulean Trench]], [[Abyssos Prime]]  
 **Duration:** 4-5 sessions  
-**Threat:** An ancient predator from before the drowning has awakened and begun consuming memories, souls, and reality itself
+**Threat:** An ancient predator from before [[The Drowning]] has awakened and begun consuming memories, souls, and reality itself
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,7 +60,7 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -108,13 +108,13 @@ updated: '2025-08-13T01:18:34.504254+00:00'
 
 ## Overview
 
-Deep beneath [[The Hadal Depths]], something that predates even [[The Deep Mother]] has stirred. Known only as "The Maw of Darkness," this entity feeds on the boundary between existence and void. Its awakening is causing reality tears, memory blackouts, and the gradual erasure of people from history itself. Even speaking its true name risks drawing its attention.
+Deep beneath [[Hadal Depth]]]], something that predates even [[Deep Mother]]]] has stirred. Known only as "The Maw of Darkness," this entity feeds on the boundary between existence and void. Its awakening is causing reality tears, memory blackouts, and the gradual erasure of [[People]] from history itself. Even speaking its true name risks drawing its attention.
 
 ## Background
 
 Ancient texts in [[The Archive of Unremembered Things]] reference a "Hunger That Devours Meaning" - something that existed in the spaces between thoughts before the world took shape. The [[Great Drowning]] didn't create this entity; it disturbed its slumber in the deepest trenches. Now, as [[Aquabyssos]] has grown and prospered, the psychic "noise" of civilization has finally roused the Maw from its eons-long dormancy.
 
-### Reality Distortion Effects
+### [[Reality Distortion]] Effects
 
 As the Maw awakens, its influence spreads:
 
@@ -136,13 +136,13 @@ As the Maw awakens, its influence spreads:
 - Physical reality developing "holes" that lead to primordial void
 - The Maw begins manifesting directly in physical space
 
-### Session 1: Strange Reports
+### Session 1: Strange [[reports]]
 
-**Location:** [[Abyssos Prime   Parliament of Echoes]]  
+**Location:** [[Abyssos Prime]]  
 **Objective:** Investigate initial reports of unusual phenomena
 
 **Strange Incidents:**
-- **The Missing Speech**: A senator delivered an important address that no one can remember
+- **The Missing Speech**: A [[Senator]] delivered an important address that no one can remember
 - **Phantom Department**: Government office that everyone knows exists but can't locate
 - **Temporal Bookkeeping**: Ficial records showing payments to non-existent vendors
 - **Identity Crisis**: Citizens who remember having names but can't recall what they were
@@ -151,21 +151,21 @@ As the Maw awakens, its influence spreads:
 - **Archive Research**: Cross-reference historical accounts of similar phenomena
 - **Witness Interviews**: Speak with affected citizens (while they still remember being affected)
 - **Magical Detection**: Identify areas of reality distortion
-- **Temporal Analysis**: Map when and where incidents occur
+- **Temporal Analysis**: [[map]] when and where incidents occur
 
 ### Session 2: Into the Depths
 
-**Location:** [[The Cerulean Trench]], [[The Hadal Depths]]  
+**Location:** [[The Cerulean Trench]], [[The [[Hadal Depths]]]]  
 **Objective:** Trace the disturbances to their source
 
 **Deep Exploration Challenges:**
-- **Pressure Adaptation**: Surviving the crushing depths without specialized equipment
+- **Pressure Adaptation**: Surviving the [[Crushing Depths]] without specialized equipment
 - **Void Pockets**: Areas where reality is thin and memory becomes unreliable
 - **Forgotten Creatures**: Beings that have been partially erased but still hunt
 - **Navigation Hazards**: Landmarks that change or disappear during travel
 
 **Discovery: The First Breach**
-Deep in the trench, the party finds the original tear where the Maw first touched reality:
+Deep in the trench, [[The Party]] finds the original tear where the Maw first touched reality:
 - **Circular Void**: A perfect sphere of nothingness suspended in water
 - **Memory Echoes**: Fragments of erased experiences floating like debris
 - **Forgotten Expedition**: Remains of previous explorers who tried to investigate
@@ -212,7 +212,7 @@ Traditional combat is impossible because:
 **Option 3: Relocation Protocol**
 - Don't fight it; remove everything it wants to consume
 - Evacuate all conscious beings from its influence range
-- Use [[12_Research/D&D_Statblocks/Temporal Navigation]] to shift timeline away from its awakening
+- Use [[Temporal Navigation]] to shift [[Timeline]] away from its awakening
 - Collapse local reality and rebuild elsewhere
 
 ## Session 3-4: The Race Against Erasure
@@ -225,7 +225,7 @@ Traditional combat is impossible because:
 **Challenges:**
 - **Shard Acquisition**: Need to retrieve [[Seven Shards]] fragments from dangerous locations
 - **Reality Engineering**: Create stable "existence fields" using makeshift magic
-- **Population Protection**: Shield civilians from ongoing erasure effects
+- **Population Protection**: [[Shield]] civilians from ongoing erasure effects
 - **Time Pressure**: Barriers must be completed before critical reality loss
 
 **Key Encounters:**
@@ -236,7 +236,7 @@ Traditional combat is impossible because:
 **STR** 18 (+4) **DEX** 14 (+2) **CON** 18 (+4) **INT** 3 (-4) **WIS** 10 (+0) **CHA** 1 (-5)
 **Skills** Perception +3  
 **Damage Resistances** Necrotic, Psychic
-**Damage Immunities** Poison, Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Damage Immunities** Poison, Charmed, [[Exhaustion]], Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Darkvision 60 ft., passive Perception 13
 **Languages** —
 **Description:** Security constructs partially erased from existence, flickering between real and void
@@ -257,11 +257,11 @@ Traditional combat is impossible because:
 **Description:** Opportunists stealing experiences and memories before the Maw consumes them
 **Abilities:**
 - **Memory Theft**: Can steal and store memories in crystal vials, leaving victims with gaps
-- **Sneak Attack**: Once per turn, deals extra 3d6 damage when attacking with advantage
+- **Sneak Attack**: Once per turn, deals extra [[3d6]] damage when attacking with advantage
 - **Memory Overload** (1/day): Can force target to relive traumatic memory, DC 14 Wis save or be stunned for 1 round
 - **Escape Artist**: Can squeeze through spaces as if one size smaller
 
-**Void Cultists**
+**[[[[Void Cult]]ists]]**
 **CR 4** (1,100 XP)  
 **Medium humanoid (human), chaotic evil**
 **AS** 12 (Unarmored Defense), **HP** 45 (7d8 + 14), **Speed** 30 ft.
@@ -270,7 +270,7 @@ Traditional combat is impossible because:
 **Damage Resistances** Necrotic
 **Senses** passive Perception 9
 **Languages** Common, Void Speech (fragmentary)
-**Description:** Fanatical worshippers who believe the Maw brings blessed oblivion
+**Description:** Fanatical worshippers who believe the Maw brings [[Bless]]ed oblivion
 **Spellcasting** 5th-level spellcaster, spell save DC 13, +5 to hit
 **Spells:** Cantrips (3): *chill touch*, *minor illusion*, *thaumaturgy*; 1st (4): *cause fear*, *inflict wounds*; 2nd (3): *hold person*, *spiritual weapon*; 3rd (2): *bestow curse*, *counterspell*
 **Abilities:**
@@ -294,7 +294,7 @@ Traditional combat is impossible because:
 **Description:** Former [[Aquabyssos]] citizen partially consumed by the Maw, existing between reality and void
 **Abilities:**
 - **Partial Existence**: Can phase through solid matter and is immune to being grappled or restrained
-- **Reality Distortion** (3/day): 20-foot radius area becomes difficult terrain and grants disadvantage on concentration saves
+- **Reality Distortion** (3/day): 20-foot radius area becomes difficult terrain and grants [[Disadvantage]] on concentration saves
 - **Void Scream** (Recharge 5-6): 30-foot cone, DC 16 Wis save or 4d8 psychic damage and target forgets their name for 1 hour
 - **Phase Strike**: Can attack creatures on Material Plane while remaining in Border Ethereal
 - **Legendary Actions** (3 per turn): Move, Void Touch attack, Reality Distortion (costs 2)
@@ -313,9 +313,9 @@ Traditional combat is impossible because:
 - **Abstract Concepts**: "War," "Hatred," "Fear" - removed from reality permanently
 - **Temporal Paradoxes**: Feed it contradictory timelines that create logical loops
 
-## Session 5: The Final Confrontation
+## Session 5: [[The Final Confrontation]]
 
-**Location:** [[12_Research/D&D_Statblocks/The Maw of Darkness]] - Conceptual Space  
+**Location:** [[12 Research]] - Conceptual Space  
 **Objective:** Implement the final solution and survive the consequences
 
 ### Entering Conceptual Space
@@ -345,27 +345,27 @@ Success is measured in "Reality Stability Points":
 
 ### Core Campaign Elements
 
-- **[[The Hadal Depths]]**: Deepest ocean regions where the Maw first stirred
+- **[[The Hadal Depths]]**: Deepest ocean [[region]]s where the Maw first stirred
 - **[[The Cerulean Trench]]**: Major geographical feature affected by reality distortion
-- **[[Abyssos Prime]]**: Capital city experiencing memory gaps and erasure events
+- **[[Abyssos Prime]]**: [[Capital City]] experiencing memory gaps and erasure events
 - **[[Aquabyssos]]**: The underwater realm threatened by conceptual consumption
 - **[[The Archive of Unremembered Things]]**: Repository that may contain tools for fighting the Maw
 - **[[The Seven Shards]]**: Ancient artifacts that might power reality-stabilization magic
 - **[[The Deep Mother]]**: Primordial entity whose relationship to the Maw is unclear
 - **[[Memory Tides]]**: Psychic phenomena that may be early signs of Maw influence
-- **[[Shadow Surgeons Collective]]**: Organization whose memory work might help or hinder
+- **[[Shadow Surgeons Collective]]**: [[Organization]] whose memory work might help or hinder
 - **[[Parliament of Echoes]]**: Government body coordinating response to the crisis
-- **[[Depth Wardens]]**: Military force losing members to erasure attacks
+- **[[[[Depth Warden]]s]]**: Military force losing members to erasure attacks
 - **[[The Singing Trenches]]**: Geological formations that may resonate with void energies
 - **[[Crystal Festival]]**: Annual event that might amplify reality distortions
-- **[[Time Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
+- **[[Time]]**: Temporal refugee whose presence weakens dimensional barriers
 - **[[The Lock]]**: Ancient barrier that may have contained similar threats before
 
 Connected Adventures
-- **[[12_Research/D&D_Statblocks/Crystalline Depths]]**: Crystal intelligence may be another reality-consuming entity
-- **[[Aquabyssos]]**: Oracle's prophecies may have warned of the Maw
+- **[[12 Research]]**: Crystal intelligence may be another reality-consuming entity
+- **[[Aquabyssos]]**: [[Oracle]]'s prophecies may have warned of the Maw
 - **[[Aquabyssos]]**: Political instability weakens society's ability to respond to cosmic threats
-- **[[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]**: Political unity needed for coordinated response to existential crisis
+- **[[12 Research]]**: Political unity needed for coordinated response to existential crisis
 - **[[The Archive of Unremembered Things]]**: Contains tools for fighting conceptual threats
 - **[[The Seven Shards]]**: Power source for reality-stabilization magic
 - **[[The Deep Mother]]**: Reveals relationship between different cosmic threats
@@ -373,7 +373,7 @@ Connected Adventures
 ### Campaign Integration
 
 - **Foreshadowing**: Plant early references to "forgotten things"
-- **NPC Knowledge**: Some characters remember what others have forgotten
+- **[[Npc]] Knowledge**: Some characters remember what others have forgotten
 - **Reality Checks**: Regularly confirm what players think they know
 - **Long-term Effects**: Some consequences persist throughout campaign
 
@@ -410,3 +410,7 @@ Legends speak of The Maw of Darkness as a nexus where past and present converge.
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

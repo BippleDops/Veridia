@@ -36,17 +36,17 @@ world: Both
 
 | Item | Carrying Capacity | Cost |
 |------|-------------------|------|
-| [[camel xphb|Camel]] | 450 lb. | 50 GP |
-| [[elephant xphb|Elephant]] | 1,320 lb. | 200 GP |
-| [[draft horse xphb|Horse, Draft]] | 540 lb. | 50 GP |
-| [[riding horse xphb|Horse, Riding]] | 480 lb. | 75 GP |
-| [[mastiff xphb|Mastiff]] | 195 lb. | 25 GP |
-| [[mule xphb|Mule]] | 420 lb. | 8 GP |
-| [[pony xphb|Pony]] | 225 lb. | 30 GP |
-| [[warhorse xphb|Warhorse]] | 540 lb. | 400 GP |
+| [[camel-xphb (items)]] | 450 lb. | 50 GP |
+| [[elephant-xphb (items)]] | 1,320 lb. | 200 GP |
+| [[draft-horse-xphb (items)]] | 540 lb. | 50 GP |
+| [[riding-horse-xphb (items)]] | 480 lb. | 75 GP |
+| [[mastiff-xphb (items)]] | 195 lb. | 25 GP |
+| [[Mule Xphb]] | 420 lb. | 8 GP |
+| [[Pony Xphb]] | 225 lb. | 30 GP |
+| [[warhorse-xphb (items)]] | 540 lb. | 400 GP |
 ^mounts-and-other-animals
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

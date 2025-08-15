@@ -47,11 +47,11 @@ world: Both
 - **Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
 - **Duration:** 1 hour
 
-You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has [[resistance xphb|Resistance]] to all damage. Also, each time it takes damage, you take the same amount of damage.
+You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has [[boon-of-energy-resistance-xphb (feats)]] to all damage. Also, each time it takes damage, you take the same amount of damage.
 
-The spell ends if you drop to 0 [[hit-points-xphb|Hit Points]] or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
+The spell ends if you drop to 0 [[hit-points-xphb (variant-rules)]] or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 340. Available in the SRD and the Free Rules (2024)*
 

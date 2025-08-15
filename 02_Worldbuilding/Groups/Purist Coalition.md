@@ -140,11 +140,11 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 #### The Purifier Corps
 Trained soldiers dedicated to anti-crystal warfare:
-- **[[02 Worldbuilding/Military/Corruption Hunters|02 Worldbuilding/Military/Corruption Hunters]]**: Specialists tracking and eliminating crystal entities
-- **[[02 Worldbuilding/Military/Siege Engineers|02 Worldbuilding/Military/Siege Engineers]]**: Experts at attacking crystal-fortified positions
-- **[[02 Worldbuilding/Military/Guerrilla Fighters|02 Worldbuilding/Military/Guerrilla Fighters]]**: Mobile forces conducting hit-and-run operations
-- **[[02 Worldbuilding/Military/Sabotage Specialists|02 Worldbuilding/Military/Sabotage Specialists]]**: Technical experts in disabling crystal technology
-- **[[02 Worldbuilding/Military/Combat Healers|02 Worldbuilding/Military/Combat Healers]]**: Medics using natural magic and traditional medicine
+- **[[Corruption Hunters]]**: Specialists tracking and eliminating crystal entities
+- **[[02_Worldbuilding]]**: Experts at attacking crystal-fortified positions
+- **[[Guerrilla Fighters]]**: Mobile forces conducting hit-and-run operations
+- **[[Sabotage Specialists]]**: Technical experts in disabling crystal technology
+- **[[Combat Healers]]**: Medics using natural magic and traditional medicine
 
 #### **High Inquisitor Maltheos** - Supreme Leader
 *True Neutral becoming Lawful Evil*

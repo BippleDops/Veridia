@@ -39,7 +39,7 @@ world: Both
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.
 
-A Lamp burns [[oil xphb|Oil]] as fuel to cast [[bright light xphb|Bright Light]] in a 15-foot radius and [[dim light xphb|Dim Light]] for an additional 30 feet.
+A Lamp burns [[Oil Xphb]] as fuel to cast [[Light Xphb]] in a 15-foot radius and [[Light Xphb]] for an additional 30 feet.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

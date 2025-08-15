@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Voices - Quick Reference
 
 ## Key Info
@@ -19,4 +24,4 @@
 - **Weakness**: *[Exploitable flaw]*
 
 ---
-*Quick reference for [[NPC Voices]]*
+*Quick reference for [[NPC_Voices_Quick_Ref]]*

@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Zero_Worksheet
 
----
+- --
 title: Session Zero Worksheet
 type: Visual Handout
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Player Information
 
@@ -218,13 +218,13 @@ COMMUNICATION AGREEMENT:
 □ Boundaries will be respected
 □ Check-ins will happen regularly
 
-*Complete this worksheet before Session Zero*
-*Bring questions and be ready to discuss*
-*Remember: This is about setting up for everyone's fun*
+* Complete this worksheet before Session Zero*
+* Bring questions and be ready to discuss*
+* Remember: This is about setting up for everyone's fun*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -236,11 +236,11 @@ COMMUNICATION AGREEMENT:
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -269,3 +269,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Other**: [OTHER]
+- **Aethermoor**: [AYTHERMOOR]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

@@ -50,15 +50,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves on the move group leader mtf]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild artisan]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[guild artisan guild merchant variant]]
-- [[fiendish cults cult organization mtf]]
-- [[new organizations]]
+- [[guild-artisan (backgrounds)]]
+- [[githzerai-groups-githzerai-group-leader-mtf]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[Organization]]
+- [[new-organizations (tables)]]
 - [[Border Fortresses]]
 
 ## Plot Hooks
@@ -73,3 +73,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

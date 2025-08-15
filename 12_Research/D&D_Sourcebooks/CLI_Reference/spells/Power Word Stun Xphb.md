@@ -45,11 +45,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You overwhelm the mind of one creature you can see within range. If the target has 150 [[hit points xphb|Hit Points]] or fewer, it has the [[conditions#Stunned|Stunned]] condition. Otherwise, its [[speed xphb|Speed]] is 0 until the start of your next turn.
+You overwhelm the mind of one creature you can see within range. If the target has 150 [[hit-points-xphb (variant-rules)]] or fewer, it has the [[conditions#Stunned|Stunned]] condition. Otherwise, its [[Fly Speed Xphb]] is 0 until the start of your next turn.
 
 The [[conditions#Stunned|Stunned]] target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the SRD and the Free Rules (2024)*
 

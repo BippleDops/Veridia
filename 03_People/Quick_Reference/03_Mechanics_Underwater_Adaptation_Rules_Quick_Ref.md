@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Underwater_Adaptation_Rules - Quick Reference
 
 ## Key Info

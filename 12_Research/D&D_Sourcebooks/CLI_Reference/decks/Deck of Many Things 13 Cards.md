@@ -83,7 +83,7 @@ You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appea
 
 ### Moon
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-03-moon.webp#card)
-You are granted the ability to cast the [[wish xphb|wish]] spell `d3` times.
+You are granted the ability to cast the [[wish-xphb (spells)]] spell `d3` times.
 
 ### Star
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-04-star.webp#card)
@@ -103,7 +103,7 @@ You gain the service of a 4th-level fighter who appears in a space you choose wi
 
 ### The Void
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-12-void.webp#card)
-This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [[conditions#Incapacitated|incapacitated]]. A [[wish xphb|wish]] spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [[conditions#Incapacitated|incapacitated]]. A [[wish-xphb (spells)]] spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
 ### Flames
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-13-flames.webp#card)
@@ -111,7 +111,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and plagues your 
 
 ### Skull
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-14-skull.webp#card)
-You summon an [[avatar of death dmg|avatar of death]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[avatar of death dmg|avatar of death]]. A creature slain by an [[avatar of death dmg|avatar of death]] can't be restored to life.
+You summon an [[avatar-of-death-dmg (undead)]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[avatar-of-death-dmg (undead)]]. A creature slain by an [[avatar-of-death-dmg (undead)]] can't be restored to life.
 
 ### Ruin
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-17-ruin.webp#card)
@@ -119,11 +119,11 @@ All forms of wealth that you carry or own, other than magic items, are lost to y
 
 ### Euryale
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-18-euryale.webp#card)
-The card's [[medusa xmm|medusa]]-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [[deck-of-many-things#The%20Fates|The Fates]] card can end this curse.
+The card's [[medusa-xmm (monstrosity)]]-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [[deck-of-many-things#The%20Fates|The Fates]] card can end this curse.
 
 ### Rogue
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-19-rogue.webp#card)
-A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a [[wish xphb|wish]] spell or divine intervention can end the NPC's hostility toward you.
+A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a [[wish-xphb (spells)]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Jester
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-22-jester.webp#card)

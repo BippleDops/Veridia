@@ -48,7 +48,7 @@ As you hit the target, it takes an extra `d6` Fire damage from the attack. At th
 
 **Using a Higher-Level Spell Slot.** All the damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the SRD and the Free Rules (2024)*
 

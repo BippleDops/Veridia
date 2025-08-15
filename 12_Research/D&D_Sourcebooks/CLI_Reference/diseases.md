@@ -49,7 +49,7 @@ _Source: Player's Handbook p. 227_
 Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [[conditions#Blinded|blinded]].
 
 > [!note]
-> This disease can be inflicted with the [[contagion xphb|contagion]] spell.
+> This disease can be inflicted with the [[Contagion Xphb]] spell.
 
 ## Cackle Fever
 _Source: Dungeon Master's Guide (2024) p. 61. Available in the SRD_
@@ -61,7 +61,7 @@ Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which af
 
 **Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
 
-**Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[emanation area of effect xphb|Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+**Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Area of Effect Xphb]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
 
 ## Filth Fever
 
@@ -82,7 +82,7 @@ If a creature's [[conditions#Exhaustion|exhaustion]] level drops below 1, it no 
 
 ## Mindfire
 
-The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [[confusion xphb|confusion]] spell during combat.
+The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [[Confusion Xphb]] spell during combat.
 
 ## Seizure
 
@@ -102,7 +102,7 @@ Fouled potions and alchemical waste can give rise to Sewer Plague, which incubat
 
 Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the contagion ends.
 
-**Fighting the Contagion.** Magic such as a [[heal xphb|Heal]] or [[lesser restoration xphb|Lesser Restoration]] spell ends the contagion immediately. A character who is proficient with an [[herbalism kit xphb|Herbalism Kit]] can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
+**Fighting the Contagion.** Magic such as a [[heal-xphb (spells)]] or [[Lesser Restoration Xphb]] spell ends the contagion immediately. A character who is proficient with an [[Herbalism Kit Xphb]] can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
 
 **Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
 

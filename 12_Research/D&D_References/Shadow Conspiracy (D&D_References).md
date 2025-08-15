@@ -283,7 +283,7 @@ Systematic collection and deployment of compromising information on:
 *Relationship: Competitive Cooperation*
 Mist operates independently but frequently trades information with the Shadow Conspiracy. Her shadow-touch abilities make her valuable for operations requiring supernatural infiltration capabilities. The relationship is mutually beneficial but tense, as both parties recognize the other as a potential threat.
 
-**[[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Independent Information Broker
+**[[Jasper "Three-Eyes" Flint]]** - Independent Information Broker
 *Relationship: Strategic Rivalry*
 Flint's crude but effective information network occasionally conflicts with Shadow Conspiracy operations. While not formally allied, they maintain unofficial agreements to avoid destructive competition. Some conspiracy members suspect Flint may be an unwitting Echo asset.
 

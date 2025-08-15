@@ -60,7 +60,7 @@ accessibility:
 Uniting the Factions moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02 Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
+- Bond: A family archive tied to [[Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary

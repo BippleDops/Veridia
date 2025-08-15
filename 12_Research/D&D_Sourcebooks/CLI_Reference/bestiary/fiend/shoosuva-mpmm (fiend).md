@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg)
 
-# [[shoosuva mpmm|Shoosuva]]
+# [[shoosuva-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Mordenkainen  
@@ -52,7 +52,7 @@ world: Both
 > [!quote] A quote from Tasha  
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [[/03 Mechanics/CLI/bestiary/npc/yeenoghu mpmm|Yeenoghu]] to an especially powerful worshiper (typically a [[gnoll-fang-of-yeenoghu-xmm|fang of Yeenoghu]]). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by [[Bestiary]] to an especially powerful worshiper (typically a [[gnoll-fang-of-yeenoghu-xmm|fang of Yeenoghu]]). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 

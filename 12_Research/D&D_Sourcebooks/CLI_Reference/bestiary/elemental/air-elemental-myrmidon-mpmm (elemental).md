@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)
 
-# [[air elemental myrmidon mpmm|Air Elemental Myrmidon]]
+# [[elemental]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -63,7 +63,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[plate armor xphb|plate]]"
+"ac_class": "[[plate-armor-xphb (items)]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"

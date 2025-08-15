@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
 
-# [[chuul spore servant oota|Chuul Spore Servant]]
+# [[Chuul Spore Servant Oota]]
 *Source: Out of the Abyss p. 228*  
 
 ```statblock

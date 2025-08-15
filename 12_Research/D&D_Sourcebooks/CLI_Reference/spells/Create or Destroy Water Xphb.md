@@ -49,12 +49,12 @@ world: Both
 
 You do one of the following:
 
-- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[cube-area-of-effect-xphb|Cube]] within range, extinguishing exposed flames there.  
-- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[cube-area-of-effect-xphb|Cube]] within range.  
+- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[Cube Area of Effect Xphb]] within range, extinguishing exposed flames there.  
+- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[Cube Area of Effect Xphb]] within range.  
 
-**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[cube-area-of-effect-xphb|Cube]] increases by 5 feet, for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[Cube Area of Effect Xphb]] increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 258. Available in the SRD and the Free Rules (2024)*
 

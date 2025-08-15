@@ -140,7 +140,7 @@ All lore connects to:
 - **[[Master_People_Index|Master People Index]]** - Complete NPC and character reference system
 - **[[Master_Groups_Index|Master Groups Index]]** - Faction and organization comprehensive guide
 - **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Cross-category connection mapping system
-- **[[Campaign Quick Reference Sheets]]** - Session-ready reference materials
+- **[[Campaign Quick Reference Sheets (vault_backup_20250813_073007_20250814_195231)]]** - Session-ready reference materials
 
 ---
 

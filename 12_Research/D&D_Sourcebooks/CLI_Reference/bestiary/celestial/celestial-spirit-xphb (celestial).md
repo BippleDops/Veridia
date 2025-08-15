@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.813646'
 world: Both
 ---
 
-# [[celestial spirit xphb|Celestial Spirit]]
+# [[celestial-spirit-xphb (celestial)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock

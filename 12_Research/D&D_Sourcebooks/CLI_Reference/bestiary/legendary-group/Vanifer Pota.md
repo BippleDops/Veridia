@@ -50,9 +50,9 @@ world: Both
 ## Lair actions
 _Source: Princes of the Apocalypse_
 
-If Vanifer is in the fire node while [[imix pota|Imix]] isn't, the tiefling can take lair actions. On initiative count 20 (losing initiative ties), Vanifer uses a lair action to cast one of her spells, up to 3rd level, without using components or a spell slot. She can't cast the same spell two rounds in a row, although she can continue to concentrate on a spell she previously cast using a lair action. Vanifer can take no other lair actions while [[conditions#Concentration|concentrating]] on a spell cast as a lair action. Her favorite use of this capability is casting [[fireball xphb|fireball]] or [[hypnotic pattern xphb|hypnotic pattern]].
+If Vanifer is in the fire node while [[Imix Pota]] isn't, the tiefling can take lair actions. On initiative count 20 (losing initiative ties), Vanifer uses a lair action to cast one of her spells, up to 3rd level, without using components or a spell slot. She can't cast the same spell two rounds in a row, although she can continue to concentrate on a spell she previously cast using a lair action. Vanifer can take no other lair actions while [[conditions#Concentration|concentrating]] on a spell cast as a lair action. Her favorite use of this capability is casting [[fireball-xphb (spells)]] or [[Hypnotic Pattern Xphb]].
 
-If Vanifer casts [[misty step xphb|misty step]] using this lair action, she also draws the power of the fire node into herself. By doing so, she regains 15 (`3d8 + 2`) hit points.
+If Vanifer casts [[Misty Step Xphb]] using this lair action, she also draws the power of the fire node into herself. By doing so, she regains 15 (`3d8 + 2`) hit points.
 
 ## Player-Facing Summary
 

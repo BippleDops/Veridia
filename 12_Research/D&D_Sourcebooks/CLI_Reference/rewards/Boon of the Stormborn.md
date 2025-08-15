@@ -34,7 +34,7 @@ world: Both
 
 # Boon of the Stormborn
 
-You have immunity to lightning and thunder damage. You can also cast [[thunderwave xphb|thunderwave]] (save DC 15) at will, without using a spell slot or any components.
+You have immunity to lightning and thunder damage. You can also cast [[Thunderwave Xphb]] (save DC 15) at will, without using a spell slot or any components.
 
 *Source: Dungeon Master's Guide p. 232*
 

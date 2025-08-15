@@ -33,7 +33,7 @@ world: Both
 # Skill
 *Source: Player's Handbook (2024) p. 374. Available in the SRD and the Free Rules (2024)* 
 
-A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [[proficiency xphb|Proficiency Bonus]] when you make an ability check associated with that skill.
+A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [[Proficiency Xphb]] when you make an ability check associated with that skill.
 
 ## 🔧 Deep Evaluation Improvements
 

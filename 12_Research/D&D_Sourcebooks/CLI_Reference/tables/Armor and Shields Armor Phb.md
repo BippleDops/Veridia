@@ -39,22 +39,22 @@ world: Both
 | Armor | Cost | Armor Class (AC) | Strength | Stealth | Weight |
 |-------|------|------------------|----------|---------|--------|
 | *Light Armor* |  |  |  |  |  |
-| &emsp;[[padded armor xphb|Padded]] | 5 gp | 11 + Dex modifier | — | Disadvantage | 8 lb. |
-| &emsp;[[leather armor xphb|Leather]] | 10 gp | 11 + Dex modifier | — | — | 10 lb. |
-| &emsp;[[studded leather armor xphb|Studded leather]] | 45 gp | 12 + Dex modifier | — | — | 13 lb. |
+| &emsp;[[padded-armor-xphb (items)]] | 5 gp | 11 + Dex modifier | — | Disadvantage | 8 lb. |
+| &emsp;[[studded-leather-armor-xphb (items)]] | 10 gp | 11 + Dex modifier | — | — | 10 lb. |
+| &emsp;[[studded-leather-armor-xphb (items)]] | 45 gp | 12 + Dex modifier | — | — | 13 lb. |
 | *Medium Armor* |  |  |  |  |  |
-| &emsp;[[hide armor xphb|Hide]] | 10 gp | 12 + Dex modifier (max 2) | — | — | 12 lb. |
-| &emsp;[[chain shirt xphb|Chain shirt]] | 50 gp | 13 + Dex modifier (max 2) | — | — | 20 lb. |
-| &emsp;[[scale mail xphb|Scale mail]] | 50 gp | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. |
-| &emsp;[[breastplate xphb|Breastplate]] | 400 gp | 14 + Dex modifier (max 2) | — | — | 20 lb. |
-| &emsp;[[half plate armor xphb|Half plate]] | 750 gp | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. |
+| &emsp;[[Armor Xphb]] | 10 gp | 12 + Dex modifier (max 2) | — | — | 12 lb. |
+| &emsp;[[chain-shirt-xphb (items)]] | 50 gp | 13 + Dex modifier (max 2) | — | — | 20 lb. |
+| &emsp;[[Scale Mail Xphb]] | 50 gp | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. |
+| &emsp;[[Breastplate Xphb]] | 400 gp | 14 + Dex modifier (max 2) | — | — | 20 lb. |
+| &emsp;[[Plate Armor Xphb]] | 750 gp | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. |
 | *Heavy Armor* |  |  |  |  |  |
-| &emsp;[[ring mail xphb|Ring mail]] | 30 gp | 14 | — | Disadvantage | 40 lb. |
-| &emsp;[[chain mail xphb|Chain mail]] | 75 gp | 16 | Str 13 | Disadvantage | 55 lb. |
-| &emsp;[[splint armor xphb|Splint]] | 200 gp | 17 | Str 15 | Disadvantage | 60 lb. |
-| &emsp;[[plate armor xphb|Plate]] | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb. |
+| &emsp;[[Ring Mail Xphb]] | 30 gp | 14 | — | Disadvantage | 40 lb. |
+| &emsp;[[chain-mail-xphb (items)]] | 75 gp | 16 | Str 13 | Disadvantage | 55 lb. |
+| &emsp;[[splint-armor-xphb (items)]] | 200 gp | 17 | Str 15 | Disadvantage | 60 lb. |
+| &emsp;[[plate-armor-xphb (items)]] | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb. |
 | *Shield* |  |  |  |  |  |
-| &emsp;[[shield xphb|Shield]] | 10 gp | +2 | — | — | 6 lb. |
+| &emsp;[[Shield]] | 10 gp | +2 | — | — | 6 lb. |
 ^armor
 
 ## 🔧 Deep Evaluation Improvements

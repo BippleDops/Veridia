@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-spawn-xmm-vampire-spawn-xmm.svg)
 
-# [[vampire spawn xmm|Vampire Spawn]]
+# [[vampire-spawn-xmm (undead)]]
 *Source: Monster Manual (2024) p. 315. Available in the SRD and the Free Rules (2024)*  
 
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
@@ -128,7 +128,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       - Stake to the Heart. The vampire is destroyed if a weapon that deals Piercing\
       \ damage is driven into the vampire's heart while the vampire has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition.  \n- Sunlight. The vampire takes 20 Radiant damage if it starts\
-      \ its turn in sunlight. While in sunlight, it has [[disadvantage xphb|Disadvantage]]\
+      \ its turn in sunlight. While in sunlight, it has [[Advantage Xphb]]\
       \ on attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
@@ -142,9 +142,9 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ willing or that has the [[conditions#Grappled|Grappled]],\
       \ [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]]\
       \ condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage.\
-      \ The target's [[hit points xphb|Hit Point]]\
+      \ The target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[hit points xphb|Hit Points]]\
+      \ vampire regains [[hit-points-xphb (variant-rules)]]\
       \ equal to that amount."
     "name": "Bite"
 "bonus_actions":

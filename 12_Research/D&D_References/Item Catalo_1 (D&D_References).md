@@ -1,10 +1,12 @@
 ---
+
 title: Item Catalo_1 (D&D_References)
 type: item
 tags:
 - item
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Item_Catalo

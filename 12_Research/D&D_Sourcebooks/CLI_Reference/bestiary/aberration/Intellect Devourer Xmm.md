@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-intellect-devourer-xmm-intellect-devourer-xmm.svg)
 
-# [[intellect devourer xmm|Intellect Devourer]]
+# [[Intellect Devourer Xmm]]
 *Source: Monster Manual (2024) p. 179*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,17 +110,17 @@ Intellect devourers serve their mind flayer creators by consuming other creature
     "name": "Devour Intellect"
   - "desc": "Intelligence Saving Throw: DC 12, one Small or Medium creature within\
       \ 5 feet that has the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition, is a Humanoid or Beast, and has 10 [[hit points xphb|Hit Points]]\
+      \ condition, is a Humanoid or Beast, and has 10 [[hit-points-xphb (variant-rules)]]\
       \ or fewer. Failure: The intellect devourer possesses the target, consumes\
       \ its brain, and teleports inside its skull. While there, the intellect devourer\
-      \ has [[cover xphb|Total Cover]] against attacks\
+      \ has [[Cover Xphb]] against attacks\
       \ and other effects originating outside its host. The intellect devourer retains\
       \ its Intelligence, Wisdom, and Charisma scores; its understanding of Deep Speech;\
       \ its telepathy; and its Detect Intelligence trait. It otherwise adopts the\
       \ target's game statistics. It knows everything the target knew, including spells\
       \ and languages.\n\nIf the host body dies, the intellect devourer must leave\
       \ it. The intellect devourer is also forced out if the target regains its devoured\
-      \ brain by means of a [[wish xphb|Wish]] spell. By\
+      \ brain by means of a [[wish-xphb (spells)]] spell. By\
       \ spending 5 feet of its movement, the intellect devourer can voluntarily leave\
       \ the body, teleporting to the nearest unoccupied space within 5 feet of it.\
       \ The body then dies unless its brain is restored before the end of the intellect\

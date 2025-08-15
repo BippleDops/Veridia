@@ -299,9 +299,9 @@ Multiple contingency plans for different types of reality failure, each requirin
 
 ## References
 
-- [[02 Worldbuilding/People/The Keeper of Between|02 Worldbuilding/People/The Keeper Of Between]] - Facility administrator
-- [[02 Worldbuilding/Groups/The Reunification Coalition|02 Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
-- [[02 Worldbuilding/Groups/The Preservation Protocol|02 Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
+- [[People]] - Facility administrator
+- [[Groups]] - Political faction favoring rejoining the realms
+- [[Groups]] - Political faction favoring continued separation
 - [[Master Index]] - General world information
 
 ---
@@ -327,6 +327,34 @@ The Observatory Between is a notable location characterized by its unique featur
 
 ### Founding
 The Observatory Between was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -361,3 +389,39 @@ Key stop on spices trade route
 
 - A shipment has gone missing and chaos spreads
 - Someone is protecting information for love
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

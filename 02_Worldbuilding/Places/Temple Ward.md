@@ -1,7 +1,7 @@
 ---
 
 title: Temple Ward
-type: Location
+type: [[location]]
 tags:
 - both
 - world/both
@@ -14,7 +14,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.953378+00:00'
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 ## Overview
 
-The Temple Ward stands as the spiritual center of [[Port Meridian]], where the faithful of [[Aquabyssos]] come to worship the myriad deities who watch over the underwater realm. Built around natural thermal vents that create warm, life-giving currents, this sacred district houses temples, shrines, monasteries, and pilgrimage sites representing every major faith practiced in the kingdom. The Ward's unique geography of stepped terraces carved from living coral creates natural amphitheaters where the faithful gather for ceremonies, festivals, and moments of quiet contemplation.
+The Temple Ward stands as the spiritual center of [[Port Meridian]], where the faithful of [[Aquabyssos]] come to worship the myriad deities who watch over the underwater realm. Built around natural thermal vents that create warm, life-giving currents, this sacred district houses temples, shrines, monasteries, and pilgrimage sites representing every major faith practiced in the kingdom. The Ward's unique geography of stepped terraces carved from living [[Coral]] creates natural amphitheaters where the faithful gather for ceremonies, festivals, and moments of quiet contemplation.
 
 ### The Sacred Springs
 **Discovery**: 600 years ago, early settlers discovered thermal vents with healing properties  
@@ -105,12 +105,12 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Cooperation**: Unprecedented interfaith collaboration on shared infrastructure  
 **Architecture**: Unique building techniques blending different religious architectural traditions  
 **Goverce**: Formation of the Council of Faiths to manage Ward affairs  
-**Pilgrimage**: Beginning of regular pilgrimage routes from across the kingdom
+**Pilgrimage**: Beginning of regular [[Pilgrimage Routes]] from across the kingdom
 
 ### The Heresy Wars
 **Period**: 200 years ago when extremist factions attempted to claim exclusive control  
 **Conflict**: Religious violence threatened to tear the Ward apart  
-**Resolution**: Royal intervention and establishment of strict neutrality laws  
+**Resolution**: Royal intervention and establishment of strict [[Neutrality Laws]]  
 **Reconstruction**: Many temples rebuilt with enhanced security and healing symbolism  
 **Unity**: Shared trauma strengthened inter-faith cooperation
 
@@ -139,25 +139,25 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Users**: Visitors seeking quiet prayer and reflection  
 **Maintece**: Tended by monks from various monastic orders  
 **Features**: Labyrinths, prayer wheels, meditation alcoves  
-**Events**: Regular meditation sessions and spiritual guidance
+**Events**: Regular meditation sessions and spiritual [[Guidance]]
 
 #### The Community Plaza (Level 3)
 **Function**: Central gathering space for interfaith ceremonies  
-**Capacity**: Can hold 5,000 people for major festivals  
+**Capacity**: Can hold 5,000 [[People]] for major festivals  
 **Features**: Speakers' platform, ceremonial altars, gathering circles  
 **Events**: Weekly interfaith services, seasonal celebrations  
-**Marketplace**: Religious goods, blessed items, pilgrimage supplies
+**Marketplace**: Religious goods, [[Bless]]ed items, pilgrimage supplies
 
 #### The Temple Circle (Level 4)
 **Location**: Major temples of the seven primary faiths  
 **Architecture**: Each temple maintains distinct religious architectural style  
 **Coordination**: Shared plaza space for joint ceremonies  
 **Resources**: Common library, healing facilities, administrative offices  
-**Cooperation**: Regular interfaith dialogue and theological discussions
+**Cooperation**: Regular [[Interfaith Dialogue]] and theological discussions
 
 #### The Scholars' Quarter (Level 5)
 **Purpose**: Religious education and theological research  
-**Institutions**: Seminaries, libraries, scriptoriums, debate halls  
+**Institutions**: Seminaries, [[Libraries]], scriptoriums, debate halls  
 **Students**: Hundreds of religious scholars from various faiths  
 **Research**: Advanced theological studies and interfaith scholarship  
 **Publications**: Religious texts and philosophical treatises
@@ -187,10 +187,10 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Denomination**: God of deep wisdom, ancient knowledge, pressure mastery  
 **Architecture**: Sunken chambers carved deep into bedrock  
 **Services**: Wisdom seeking, scholarly blessing, pressure adaptation rituals  
-**Clergy**: [[Deep Oracle Bathys]] leads contemplative order  
-**Specialties**: Divination magic, ancient lore, pressure resistance blessings
+**Clergy**: [[[[Deep [[Oracle]]]] Bathys]] leads contemplative order  
+**Specialties**: Divination magic, ancient [[Lore]], pressure resistance blessings
 
-### Cathedral of the Tidal Crown
+### Cathedral of the [[Tidal Crown]]
 **Denomination**: Royal religious authority, divine right, just goverce  
 **Architecture**: Grand structure incorporating royal symbols and religious imagery  
 **Services**: State ceremonies, royal blessings, justice prayers  
@@ -202,13 +202,13 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Architecture**: Living garden temple with coral trees and flowing streams  
 **Services**: Environmental blessing, nature communion, seasonal ceremonies  
 **Clergy**: [[Archdruid Marina Kelpweaver]] leads druidic circle  
-**Specialties**: Nature magic, animal communication, environmental protection
+**Specialties**: Nature magic, animal communication, [[Environmental Protection]]
 
 ### Forge-Temple of Pressure's Heart
 **Denomination**: God of smithing, engineering, pressure mastery, construction  
 **Architecture**: Workshop-temple with forges powered by thermal vents  
 **Services**: Tool blessing, construction consecration, craftsmanship prayers  
-**Clergy**: [[Master Smith Priest Vulcan Depthforge]] leads artisan-clerics  
+**Clergy**: [[Master Smith-Priest Vulcan Depthforge]] leads artisan-clerics  
 **Specialties**: Blessing of tools and structures, craft magic, pressure engineering
 
 ### Sanctuary of the Wandering Current
@@ -218,7 +218,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Clergy**: [[Wandering Prophet Coral Stormrider]] leads nomadic priests  
 **Specialties**: Travel magic, navigation blessing, protection from dangers
 
-### Mystery Temple of the Deep Veil
+### Mystery [[Temple of the Deep]] Veil
 **Denomination**: Goddess of secrets, hidden knowledge, mysteries, truth  
 **Architecture**: Maze-like structure with hidden chambers and shifting passages  
 **Services**: Secret keeping, truth revealing, mystery investigation  
@@ -237,13 +237,13 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Healing Journey**: Focus on therapeutic and restorative practices  
 **Wisdom Quest**: Intellectual and spiritual learning pilgrimage  
 **Pece Walk**: Seeking forgiveness and spiritual cleansing  
-**Discovery Path**: Exploration of new spiritual insights and practices
+**Discovery [[path]]**: Exploration of new spiritual insights and practices
 
 ### Interfaith Cooperation
 **Council Meetings**: Monthly gatherings to coordinate Ward activities  
 **Joint Festivals**: Shared celebrations honoring common themes  
 **Disaster Response**: Coordinated relief efforts during emergencies  
-**Education Programs**: Interfaith schools and cultural exchange  
+**Education Programs**: Interfaith schools and [[Cultural Exchange]]  
 **Conflict Resolution**: Religious arbitration for disputes
 
 ### Seasonal Celebrations
@@ -269,7 +269,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 
 ### [[Deep Oracle Bathys]]
 **Faith**: Shrine of Abyssos the Profound  
-**Ability**: Prophetic visions and profound wisdom about kingdom's future  
+**Ability**: [[Prophetic Visions]] and profound wisdom about kingdom's future  
 **Method**: Speaks in riddles and metaphors requiring careful interpretation  
 **Influence**: Consulted by nobility and royalty on important decisions  
 **Mystery**: May be older than claimed, possibly touched by divine longevity
@@ -278,10 +278,10 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Faith**: Grove of the Current Keepers  
 **Specialty**: Communication with sea life and environmental magic  
 **Mission**: Advocates for ecological protection and sustainable practices  
-**Network**: Works with marine biologists and environmental organizations  
-**Personality**: Passionate about nature, sometimes impatient with bureaucracy
+**Network**: Works with marine biologists and environmental [[Organization]]s  
+**Personality**: Passionate about nature, some[[Time]]s impatient with bureaucracy
 
-### [[Master Smith Priest Vulcan Depthforge]]
+### [[Master Smith-Priest Vulcan Depthforge]]
 **Faith**: Forge-Temple of Pressure's Heart  
 **Skills**: Combines religious authority with legendary craftsmanship  
 **Products**: Creates blessed tools and weapons for worthy causes  
@@ -311,7 +311,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 
 ### Specialized Functions
 **Blessing Services**: Consecration of objects, buildings, and endeavors  
-**Purification Rituals**: Cleansing ceremonies for people and places  
+**[[Purification Rituals]]**: Cleansing ceremonies for people and [[Places]]  
 **Protection Wards**: Magical protection against various threats  
 **Divination Services**: Seeking guidance about future decisions and events  
 **Exorcism**: Removal of unwanted spiritual influences or possessions
@@ -334,7 +334,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Spiritual Resoce**: Areas where prayers and rituals seem enhanced  
 **Divine Manifestations**: Occasional appearances of religious symbols or visions  
 **Healing Miracles**: Documented cases of inexplicable recovery and restoration  
-**Prophetic Dreams**: Vivid dreams experienced by visitors seeking guidance  
+**[[Prophetic Dreams]]**: Vivid dreams experienced by visitors seeking guidance  
 **Protective Auras**: Areas where harmful magic and evil influences are weakened
 
 ### Temple Guardian
@@ -360,12 +360,12 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 - **Preparation**: Gathering proper materials and understanding rituals  
 - **Invocation**: Calling upon divine powers correctly  
 - **Participation**: Leading or supporting community involvement  
-- **Completion**: Achieving desired spiritual outcome  
+- **Completion**: Achieving de[[Sire]]d spiritual outcome  
 **Success**: Grants divine blessing or spiritual benefit
 
 ### Interfaith Diplomacy
 **Encounter Type**: Social challenge requiring careful navigation  
-**Situation**: Mediating dispute between different religious groups  
+**Situation**: Mediating dispute between different [[Religious [[Groups]]]]  
 **Complications**: Historical grievances, doctrinal differences, political pressure  
 **Resolution Methods**: Persuasion, Insight, History, Religion checks  
 **Stakes**: Peace between faiths, Ward's reputation, potential violence  
@@ -374,7 +374,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 ### Heretical Cult Investigation
 **Challenge Rating**: 7-12 depending on scope  
 **Threat**: Secret cult undermining Ward's religious harmony  
-**Investigation**: Gathering evidence without alerting suspects  
+**Investigation**: Gathering [[Evidence]] without alerting [[Suspects]]  
 **Challenges**: Cult infiltration, false accusations, religious sensitivities  
 **Combat**: Cultists may use corrupted divine magic  
 **Resolution**: Exposing cult while protecting innocent believers
@@ -386,7 +386,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Locations**: Hidden chambers beneath Ward, investigation of other sacred sites  
 **Resolution**: May involve confronting corrupt official or ancient curse
 
-### The Interfaith Council Crisis
+### The [[Interfaith Council]] Crisis
 **Level**: 7-12  
 **Situation**: Growing tension between faiths threatens to divide Ward  
 **Challenges**: Mediating disputes, uncovering manipulation, preventing violence  
@@ -429,7 +429,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 ### [[Harbor District]] - Commercial Center
 **Services**: Blessing of ships, protection of travelers, healing of workers  
 **Economics**: Pilgrimage trade brings significant revenue to city  
-**Population**: Many harbor workers and merchants attend Ward services  
+**Population**: Many harbor workers and [[Merchant]]s attend Ward services  
 **International**: Foreign faiths represented through diplomatic and trade connections
 
 ### Atmosphere Guidelines
@@ -444,10 +444,10 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Conflict**: Some tension exists but is managed through institutional structures  
 **Innovation**: New religious ideas and practices regularly emerge  
 **Tradition**: Ancient practices preserved alongside modern developments  
-**Authority**: Religious leaders have significant moral but limited political power
+**Authority**: [[Religious Leaders]] have significant moral but limited political power
 
 ### Adventure Integration
-**Urban Campaigns**: Central location for moral guidance and healing  
+**Urban Campaigns**: [[Central Location]] for moral guidance and healing  
 **Political Campaigns**: Religious authority influences major decisions  
 **Social Campaigns**: Neutral ground for difficult negotiations  
 **Spiritual Campaigns**: Primary setting for religious and philosophical adventures
@@ -468,7 +468,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 - [[Harbor District]]  
 - [[Royal Palace]]  
 
-**Related NPCs**:  
+**Related [[Npc]]s**:  
 - [[High Hierophant Meridius]]  
 - [[High Priestess Nerida Soulcurrent]]  
 - [[Council of Faiths]]  
@@ -488,16 +488,16 @@ Temple Ward is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Temple Ward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temple Ward.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -515,6 +515,34 @@ Temple Ward is a notable location characterized by its unique features and strat
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -537,7 +565,7 @@ Key stop on metals trade route
 - Strange dreams suggest a portal
 - Someone is blackmailing an heir for revenge
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -552,7 +580,7 @@ Key stop on metals trade route
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -577,3 +605,40 @@ Key stop on metals trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

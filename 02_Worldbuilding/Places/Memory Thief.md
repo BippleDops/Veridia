@@ -1,7 +1,7 @@
 ---
 
 title: Memory Thief
-type: Location
+type: [[location]]
 tags:
 - aquabyssos
 - mysterious
@@ -11,7 +11,7 @@ tags:
 - content/faction
 - memory-thief
 - content/location
-- content/npc
+- content/[[Npc]]
 - dangerous
 - place
 - active
@@ -24,15 +24,15 @@ modified: '2025-08-14'
 status: complete
 race: Changeling
 class: Rogue/Enchanter
-location: '[[The Shadow Markets]]'
-region: Unknown
+location: '[[The [[Shadow Markets]]]]'
+[[region]]: Unknown
 population: Unknown
 MyCategory: Criminal Operative
 MyContainer: None
 category: Criminal Mind-Mage
 created_by: auto-stub
 danger_level: High
-faction: '[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory]]
+faction: '[[Memory Thieves Guil]]
   Thieves Guil]]'
 influence: Moderate
 obsidianUIMode: preview
@@ -47,7 +47,7 @@ improvements: 20
 
 > [!figure] View
 
-# The Memory Thief
+# [[The Memory Thief]]
 *Dealer in Stolen Thoughts*
 
 > *"Memories are the most precious treasure anyone possesses, and like all treasures, they can be taken by those skilled enough to claim them. What price would you pay to forget your greatest pain, or to remember someone else's greatest joy?"*
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -115,7 +115,7 @@ improvements: 20
 
 ## Overview
 
-Known only as **The Memory Thief**, this enigmatic changeling operates as one of [[Aquabyssos]]' most skilled and dangerous practitioners of memory manipulation magic, specializing in the extraction, modification, and theft of personal memories for both criminal and quasi-legitimate purposes. Their true identity remains unknown, hidden behind a constantly shifting array of false personas and carefully crafted illusions.
+Known only as **The Memory Thief**, this enigmatic changeling operates as one of [[Aquabyssos]]' most skilled and dangerous practitioners of [[Memory Manipulation]] magic, specializing in the extraction, modification, and theft of personal memories for both criminal and quasi-legitimate purposes. Their true identity remains unknown, hidden behind a constantly shifting array of false personas and carefully crafted illusions.
 
 Working from the shadows of [[Abyssos Prime]]'s underworld, The Memory Thief provides services ranging from helping trauma victims forget painful experiences to stealing valuable information from the minds of unwilling targets. Their reputation for discretion and effectiveness has made them both a sought-after specialist and a feared threat to anyone with secrets worth protecting.
 
@@ -139,7 +139,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Distinguishing Elements**:
 - **Memory Crystal**: Hidden magical focus used for memory manipulation spells
 - **Shifting Voice**: Speaking patterns and accent change with each identity
-- **Empty Eyes**: Even in disguise, their eyes seem to look through rather than at people
+- **Empty Eyes**: Even in disguise, their eyes seem to look through rather than at [[People]]
 - **Subtle Tells**: Minor unconscious habits that persist across all identities
 
 ### Core Traits
@@ -155,7 +155,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 ### Motivations and Goals
 
 **Primary Goals**:
-- Advance understanding of memory magic and mental manipulation techniques
+- Advance understanding of [[Memory Magic]] and mental manipulation techniques
 - Build a network of clients and resources to support increasingly complex operations
 - Avoid capture while maintaining reputation for reliability and discretion
 - Accumulate valuable memories and information for personal use and leverage
@@ -164,7 +164,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 - Never breaks client confidentiality or betrays professional agreements
 - Maintains quality standards for all memory modification work
 - Avoids unnecessary psychological damage during operations
-- Honors agreed-upon prices and completion timeframes
+- Honors agreed-upon prices and completion [[Time]]frames
 
 ### Operational Psychology
 
@@ -179,7 +179,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 ## Combat Statistics
 
 **Level**: 11th level Rogue/Enchanter (7/4)  
-**Armor Class**: 16 (Studded Leather + Dex + Mental Shields)  
+**Armor Class**: 16 (Studded Leather + Dex + Mental [[Shield]]s)  
 **Hit Points**: 82 (11d8 + 33)  
 **Speed**: 30 ft.  
 
@@ -193,7 +193,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Saving Throws**: Dex +8, Int +8, Wis +6  
 **Skills**: Arcana +12, Deception +15, Insight +10, Investigation +8, Perception +6, Sleight of Hand +8, Stealth +8  
-**Languages**: Common, Thieves' Cant, Deep Speech, telepathic communication  
+**Languages**: Common, Thieves' Cant, Deep Speech, tele[[path]]ic communication  
 **Challenge Rating**: 9 (5,000 XP)  
 
 ### Memory Manipulation Magic
@@ -228,7 +228,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Identity Modification**: Altering or replacing memories to change individuals' sense of identity, loyalty, or personal history.
 
-**Evidence Elimination**: Removing memories of criminal activities from witnesses or participants to prevent prosecution.
+**[[Evidence]] Elimination**: Removing memories of criminal activities from witnesses or participants to prevent prosecution.
 
 ### Operational Procedures
 
@@ -238,7 +238,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Magical Preparation**: Specialized spells and equipment preparation for specific types of memory manipulation.
 
-**Execution Protocol**: Systematic approach to memory operations minimizing detection risk and ensuring desired results.
+**Execution Protocol**: Systematic approach to memory operations minimizing detection risk and ensuring de[[Sire]]d results.
 
 ### Security Measures
 
@@ -257,19 +257,19 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Medical Professionals**: Doctors and therapists who refer patients for specialized memory treatment.
 
-**Academic Researchers**: Scholars studying memory and consciousness who need practical examples and data.
+**Academic Researchers**: Scholars studying memory and consciousness who need practical examples and [[data]].
 
 ### Criminal Contacts
-**Information Brokers**: Criminal organizations needing sensitive information extracted from unwilling sources.
+**Information Brokers**: [[Criminal [[Organization]]s]] needing sensitive information extracted from unwilling sources.
 
-**Political Operatives**: Individuals seeking to modify the memories of political enemies or allies.
+**Political Operatives**: Individuals seeking to modify the memories of political enemies or [[Allies]].
 
 **Corporate Espionage**: Business interests wanting to steal trade secrets or eliminate damaging testimony.
 
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[02 Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
+**[[Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 
@@ -278,7 +278,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Magical Suppliers**: Sources for specialized equipment and materials needed for memory manipulation.
 
 ### The Stolen Identity (Levels 6-8)
-A prominent citizen claims their entire identity has been stolen, with false memories implanted to make them believe they are someone else. The party must investigate The Memory Thief's involvement while determining what the true identity theft was meant to accomplish.
+A prominent citizen claims their entire identity has been stolen, with false memories implanted to make them believe they are someone else. [[The Party]] must investigate The Memory Thief's involvement while determining what the true identity theft was meant to accomplish.
 
 **Key Elements**:
 - Identity investigation requiring careful analysis of competing memory claims
@@ -352,20 +352,20 @@ The existence of reliable memory modification technology raises fundamental ques
 
 Memory Thief is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Memory Thief as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Thief.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -387,6 +387,34 @@ Memory Thief is a notable location characterized by its unique features and stra
 ### Founding
 Memory Thief was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Memory Thief:
@@ -403,3 +431,39 @@ Ongoing situations affecting Memory Thief:
 - Someone is protecting information for love
 - Someone is protecting a witness for money
 - Someone is blackmailing an heir for love
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

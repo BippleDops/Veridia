@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # giant-lizard-xmm
@@ -22,7 +22,7 @@ The full nature of giant-lizard-xmm involves several interconnected components. 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of giant-lizard-xmm trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to giant-lizard-xmm are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view giant-lizard-xmm through their own cultural lenses:
+Different [[Groups]] view giant-lizard-xmm through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of giant-lizard-xmm:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How giant-lizard-xmm has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate giant-lizard-xmm into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways giant-lizard-xmm might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #giant-lizard-xmm
+*Tags*: [[#General]] #worldbuilding #giant-lizard-xmm

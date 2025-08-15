@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-yugoloth-xphb-fiendish-spirit-yugoloth-xphb.svg)
 
-# [[fiendish spirit yugoloth xphb|Fiendish Spirit (Yugoloth)]]
+# [[fiend]]
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock

@@ -1,7 +1,7 @@
 ---
 
 title: Gamma Enforcement
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ Gamma-Enforcement can be understood as a multifaceted element that intersects wi
 ### Detailed Explanation
 The full nature of Gamma-Enforcement involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Gamma-Enforcement trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -93,10 +93,10 @@ Connected to Gamma-Enforcement are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Gamma-Enforcement through their own cultural lenses:
+Different [[Groups]] view Gamma-Enforcement through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ### Defining Features
@@ -162,7 +162,7 @@ The current state of Gamma-Enforcement:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Gamma-Enforcement has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -195,7 +195,7 @@ Ways to incorporate Gamma-Enforcement into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -216,7 +216,7 @@ How to adjust for different games:
 Ways Gamma-Enforcement might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -235,7 +235,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -258,7 +258,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #gamma-enforcement
+*Tags*: [[#General]] #worldbuilding #gamma-enforcement
 
 ## Cultural Impact
 
@@ -266,7 +266,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## Plot Hooks
 
-- A merchant needs help delivering before the festival
+- A [[Merchant]] needs help delivering before the festival
 - A journal reveals a conspiracy about a local noble
 
 ## Cultural Practices

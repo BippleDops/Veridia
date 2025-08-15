@@ -38,7 +38,7 @@ world: Both
 
 An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `2d4` Psychic damage.
 
-You can play the Canaith Mandolin to cast one of the following spells: [[fly xphb|Fly]], [[invisibility xphb|Invisibility]], [[levitate xphb|Levitate]], [[protection from evil and good xphb|Protection from Evil and Good]], [[cure wounds xphb|Cure Wounds]] (level 3), [[dispel magic xphb|Dispel Magic]], and [[protection from energy xphb|Protection from Energy]] (Lightning damage only). Once the Canaith Mandolin has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play the Canaith Mandolin to cast one of the following spells: [[fly-xphb (spells)]], [[see-invisibility-xphb (spells)]], [[levitate-xphb (spells)]], [[Protection From Evil and Good Xphb]], [[mass-cure-wounds-xphb (spells)]] (level 3), [[dispel-magic-xphb (spells)]], and [[protection-from-energy-xphb (spells)]] (Lightning damage only). Once the Canaith Mandolin has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
 *Source: Dungeon Master's Guide (2024) p. 272*
 

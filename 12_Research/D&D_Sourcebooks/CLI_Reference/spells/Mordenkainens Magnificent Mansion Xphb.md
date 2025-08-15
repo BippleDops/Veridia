@@ -54,7 +54,7 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 300. Available in the SRD (as "Magnificent Mansion") and the Free Rules (2024)*
 

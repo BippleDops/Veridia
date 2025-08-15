@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Prep
 
----
+- --
 title: Session Prep
 type: template
 tags:
@@ -17,11 +17,11 @@ tags:
 - active
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -33,11 +33,11 @@ modified: '2025-08-14'
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -72,3 +72,9 @@ Contextual improvement based on 09_Templates
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

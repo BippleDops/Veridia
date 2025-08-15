@@ -60,46 +60,46 @@ Power-hungry humanoids see Elemental Evil as a principle deserving of worship an
 
 | Monster | Challenge |
 |---------|-----------|
-| [[/03 Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiate]] | 1/8 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reaver]] | 1/2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monk]] | 1/2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] | 1 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guard]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardian]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/fathomer pota|Fathomer]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/hurricane pota|Hurricane]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/npc/oreioth pota|Oreioth]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota|Wiggan Nettlebee]] | 2 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|One-eyed shiver]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/skyweaver pota|Skyweaver]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/npc/windharrow pota|Windharrow]] | 3 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/burrowshark pota|Burrowshark]] | 4 |
-| [[/03 Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota|Grumink the Renegade]] | 4 |
-| [[/03 Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota|Shoalar Quanderil]] | 4 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/stonemelder pota|Stonemelder]] | 4 |
-| [[/03 Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota|Elizar Dryflagon]] | 5 |
-| [[/03 Mechanics/CLI/bestiary/npc/hellenrae pota|Hellenrae]] | 5 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/razerblast pota|Razerblast]] | 5 |
-| [[/03 Mechanics/CLI/bestiary/humanoid/flamewrath pota|Flamewrath]] | 6 |
-| [[/03 Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] | 6 |
-| [[aerisi-kalinoth-pota|Aerisi Kalinoth]] | 7 (9 with lair actions) |
-| [[/03 Mechanics/CLI/bestiary/npc/drannin-splithelm-pota|Drannin Splithelm]] | 7 |
-| Elemental myrmidon ([[air-elemental-myrmidon-mpmm|Air]], [[earth-elemental-myrmidon-mpmm|Earth]], [[fire-elemental-myrmidon-mpmm|Fire]], [[water-elemental-myrmidon-mpmm|Water]]) | 7 |
-| [[/03 Mechanics/CLI/bestiary/npc/ghald pota|Ghald]] | 7 |
-| [[/03 Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]] | 8 |
-| [[marlos-urnrayle-pota|Marlos Urnrayle]] | 8 (12 with lair actions) |
-| [[gar-shatterkeel-pota|Gar Shatterkeel]] | 9 (13 with lair actions) |
-| [[vanifer pota|Vanifer]] | 9 (12 with lair actions) |
-| [[olhydra pota|Olhydra]] | 18 |
-| [[yan-c-bin-pota|Yan-C-Bin]] | 18 |
-| [[imix pota|Imix]] | 19 |
-| [[ogremoch pota|Ogrémoch]] | 20 |
+| [[Bestiary]] | 1/8 |
+| [[Bestiary]] | 1/2 |
+| [[Bestiary]] | 1/2 |
+| [[Bestiary]] | 1 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 2 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 3 |
+| [[Bestiary]] | 4 |
+| [[Bestiary]] | 4 |
+| [[Bestiary]] | 4 |
+| [[Bestiary]] | 4 |
+| [[Bestiary]] | 5 |
+| [[Bestiary]] | 5 |
+| [[Bestiary]] | 5 |
+| [[Bestiary]] | 6 |
+| [[Bestiary]] | 6 |
+| [[npc - Aerisi Kalinoth Pota]] | 7 (9 with lair actions) |
+| [[Bestiary]] | 7 |
+| Elemental myrmidon ([[elemental]], [[elemental]], [[elemental]], [[Water Elemental Myrmidon Mpmm]]) | 7 |
+| [[Bestiary]] | 7 |
+| [[Bestiary]] | 8 |
+| [[Marlos Urnrayle Pota]] | 8 (12 with lair actions) |
+| [[gar-shatterkeel-pota (legendary-group)]] | 9 (13 with lair actions) |
+| [[Vanifer Pota]] | 9 (12 with lair actions) |
+| [[Olhydra Pota]] | 18 |
+| [[Yan C Bin Pota]] | 18 |
+| [[Imix Pota]] | 19 |
+| [[Ogremoch Pota]] | 20 |
 ^monster-challenge
 
 ## Princes of Elemental Evil
@@ -108,10 +108,10 @@ For the most part, the elements that make up the world are indifferent to good o
 
 Each prince of Elemental Evil is a unique being unlike any other elemental, or any of the other princes. Some embody the combination of elements—for example, Bwimb, the Lord of Ooze, or Cryonax, the Prince of Evil Cold. However, the four princes most strongly associated with the cult of Elemental Evil are malicious embodiments of the four base elements. They are:
 
-- [[imix pota|Imix]], Prince of Evil Fire (the All-Consuming Fire, the Eternal Flame)  
-- [[ogremoch pota|Ogrémoch]], Prince of Evil Earth (Tyrant of Black Earth, the Mountain of Doom)  
-- [[olhydra pota|Olhydra]], Princess of Evil Water (the Crushing Wave, Well of Endless Anguish)  
-- [[yan-c-bin-pota|Yan-C-Bin]], Prince of Evil Air (the Shadow of the Four Winds, the Howling Hatred)  
+- [[Imix Pota]], Prince of Evil Fire (the All-Consuming Fire, the Eternal Flame)  
+- [[Ogremoch Pota]], Prince of Evil Earth (Tyrant of Black Earth, the Mountain of Doom)  
+- [[Olhydra Pota]], Princess of Evil Water (the Crushing Wave, Well of Endless Anguish)  
+- [[Yan C Bin Pota]], Prince of Evil Air (the Shadow of the Four Winds, the Howling Hatred)  
 
 ### Forces of Destruction
 
@@ -143,30 +143,30 @@ Elemental power has allowed the cults to have more magic items than is normal fo
 
 The cults have some special items that harness the power of the elemental nodes themselves. These items rely on energy siphoned from a node, and some of them must be recharged inside the appropriate type of node, as noted in the items' descriptions. Otherwise, such an item ceases to function. Adventurers who recover a node-fueled item will, therefore, only be able to recharge it when an appropriate node is nearby.
 
-- [[balloon-pack-pota|Balloon Pack]]  
-- [[bottled-breath-pota|Bottled Breath]]  
-- [[claws-of-the-umber-hulk-pota|Claws of the Umber Hulk]]  
-- [[devastation-orb-pota|Devastation Orb]]  
-- [[seeker-dart-pota|Seeker Dart]]  
-- [[storm-boomerang-pota|Storm Boomerang]]  
-- [[weird-tank-pota|Weird Tank]]  
-- [[wingwear pota|Wingwear]]  
+- [[balloon-pack-pota (items)]]  
+- [[Bottled Breath Pota]]  
+- [[claws-of-the-umber-hulk-pota (items)]]  
+- [[Devastation Orb Pota]]  
+- [[Seeker Dart Pota]]  
+- [[storm-boomerang-pota (items)]]  
+- [[Weird Tank Pota]]  
+- [[wingwear-pota (items)]]  
 
 ### Relics of Besilmer
 
 The following items were crafted by the dwarves of Besilmer for their king, Torhild Flametongue.
 
-- [[lost-crown-of-besilmer-pota|Lost Crown of Besilmer]]  
-- [[orcsplitter pota|Orcsplitter]]  
+- [[Lost Crown of Besilmer Pota]]  
+- [[Orcsplitter Pota]]  
 
 ### Elemental Weapons
 
 Each of the four prophets who leads a cult of Elemental Evil is armed with a mighty elemental weapon. These potent objects are infused with the essences of the Princes of Elemental Evil. In addition to the weapon's obvious usefulness in battle, they serve as keys that allow the prophets to channel the power of the elemental nodes and rip open the boundary between the planes. The weapons also bring out the worst in their wielders, twisting their minds toward evil ends.
 
-- [[drown pota|Drown]]  
-- [[ironfang pota|Ironfang]]  
-- [[tinderstrike pota|Tinderstrike]]  
-- [[windvane pota|Windvane]]
+- [[Drown Pota]]  
+- [[Ironfang Pota]]  
+- [[Tinderstrike Pota]]  
+- [[Windvane Pota]]
 
 ## Player-Facing Summary
 

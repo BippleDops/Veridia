@@ -387,7 +387,7 @@ Early smugglers discovered that shadow magic could:
 20. **The Legitimization Attempt**: Network seeks to transform into legitimate business organization, characters evaluate sincerity and help or hinder process.
 
 ## Related Quests
-- [[Quest   The Shadow Conspiracy Investigatio|02 Worldbuilding/Groups/Quest The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
+- [[Quest - The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Characters interact with Network shipping and transportation operations
 - **The Corruption Investigation** - Exposing Network influence within government institutions
 - **The Shadow Market Infiltration** - Characters infiltrate Network operations for law enforcement or personal reasons

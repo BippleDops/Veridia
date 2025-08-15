@@ -374,7 +374,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 8. **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic
 
 ## Connected Organizations
-- [[02 Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
+- [[Groups]] - Professional organization maintaining aerial traditions
 - [[The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
 - [[The Weather Wardens Council]] - Governmental organization managing atmospheric safety
 

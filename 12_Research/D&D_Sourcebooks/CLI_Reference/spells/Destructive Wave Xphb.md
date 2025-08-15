@@ -44,9 +44,9 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Destructive energy ripples outward from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. Each creature you choose in the [[emanation-area-of-effect-xphb|Emanation]] makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [[conditions#prone|Prone]] condition. On a successful save, a target takes half as much damage only.
+Destructive energy ripples outward from you in a 30-foot [[Area of Effect Xphb]]. Each creature you choose in the [[Area of Effect Xphb]] makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [[conditions#prone|Prone]] condition. On a successful save, a target takes half as much damage only.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 261*
 

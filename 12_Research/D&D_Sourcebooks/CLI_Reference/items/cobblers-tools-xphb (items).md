@@ -42,8 +42,8 @@ world: Both
 - **Weight**: 5.0 lbs.
 
 - **Ability.** Dexterity  
-- **Utilize.** Modify footwear to give [[advantage xphb|Advantage]] on the wearer's next Dexterity ([[skills#Acrobatics|Acrobatics]]) check (DC 10)  
-- **Craft.** [[climbers kit xphb|Climber's Kit]]  
+- **Utilize.** Modify footwear to give [[Advantage Xphb]] on the wearer's next Dexterity ([[skills#Acrobatics|Acrobatics]]) check (DC 10)  
+- **Craft.** [[Climbers Kit Xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

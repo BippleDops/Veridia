@@ -157,19 +157,19 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 
 #### Shadow Corruption Assessment
 **Medical Evaluation Protocols**
-- **[[02 Worldbuilding/Procedures/Thermal Differential Analysis|02 Worldbuilding/Procedures/Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
-- **[[02 Worldbuilding/Procedures/Memory Coherence Testing|02 Worldbuilding/Procedures/Memory Coherence Testing]]**: Identify gaps in personal memory
-- **[[02 Worldbuilding/Procedures/Shadow Resoce Scanning|02 Worldbuilding/Procedures/Shadow Resoce Scanning]]**: Medical imaging of shadow-affected tissue
-- **[[02 Worldbuilding/Procedures/Behavioral Pattern Analysis|02 Worldbuilding/Procedures/Behavioral Pattern Analysis]]**: Psychological evaluation for personality changes
-- **[[02 Worldbuilding/Procedures/Biological Authentication|02 Worldbuilding/Procedures/Biological Authentication]]**: Genetic testing to confirm identity
+- **[[Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
+- **[[02_Worldbuilding]]**: Identify gaps in personal memory
+- **[[02_Worldbuilding]]**: Medical imaging of shadow-affected tissue
+- **[[02_Worldbuilding]]**: Psychological evaluation for personality changes
+- **[[02_Worldbuilding]]**: Genetic testing to confirm identity
 
 #### Advanced Detection Methods
 **Specialized Medical Technology**
-- **[[02 Worldbuilding/Equipment/Shadow Contamination Scanners|02 Worldbuilding/Equipment/Shadow Contamination Scanners]]**: Detect shadow energy in biological tissue
-- **[[02 Worldbuilding/Equipment/Memory Pattern Analyzers|02 Worldbuilding/Equipment/Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
-- **[[02 Worldbuilding/Equipment/Cellular Shadow Trackers|02 Worldbuilding/Equipment/Cellular Shadow Trackers]]**: Monitor shadow corruption at cellular level
-- **[[02 Worldbuilding/Equipment/Neural Activity Mappers|02 Worldbuilding/Equipment/Neural Activity Mappers]]**: Brain function analysis for replaced individuals
-- **[[02 Worldbuilding/Equipment/Identity Verification Systems|02 Worldbuilding/Equipment/Identity Verification Systems]]**: Medical confirmation of true identity
+- **[[02_Worldbuilding]]**: Detect shadow energy in biological tissue
+- **[[Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
+- **[[02_Worldbuilding]]**: Monitor shadow corruption at cellular level
+- **[[02_Worldbuilding]]**: Brain function analysis for replaced individuals
+- **[[02_Worldbuilding]]**: Medical confirmation of true identity
 
 #### Shadow Separation Recovery
 **Trauma-Informed Medical Care**

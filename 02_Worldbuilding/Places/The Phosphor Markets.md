@@ -1,7 +1,7 @@
 ---
 
 title: The Phosphor Markets
-type: Location
+type: [[location]]
 tags:
 - both
 - aquatic
@@ -19,7 +19,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.785539+00:00'
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 ## Overview
 
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[Aquabyssos World Overview]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant's Covet]], a powerful trading guild that predates the drowning.
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through [[The Gloom Gardens]], never staying in one location for more than a week. This mobile marketplace is the economic heart of [[[[Aquabyssos]] [[World Overview]]]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[[[Merchant]]'s Covet]], a powerful trading guild that predates [[The Drowning]].
 
 ### The Central Exchange
 
@@ -99,15 +99,15 @@ Massive platform made from a hollowed-out whale corpse, preserved and reinforced
 
 ### The Glow Gardens
 
-Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[Lumengarde]].
+Living market stalls made from cultivated bioluminescent [[Coral]] and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[Lumengarde]].
 
 ### The Deep Bazaar
 
-Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[The Hadal Depths]].
+Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[The [[Hadal Depths]]]].
 
 ### The Memory Lane
 
-Section dedicated to pre-drowning artifacts and memories. [[Antiquarian Eliza Tidecaller]] authenticates items while [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
+Section dedicated to pre-drowning artifacts and memories. [[Antiquarian Eliza Tidecaller]] authenticates items while [[12 Research]] trades in extracted memories.
 
 ### The Black Current
 
@@ -135,7 +135,7 @@ Ficial institution managing the market's complex economy. [[Banker Titus Goldcur
 
 ### The Dreamhouse
 
-[[Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
+[[Madame Whisper]]'s establishment offers experiences from before the drowning, using [[Memory Magic]] and illusions. Highly addictive and expensive.
 
 ## The Mobile Nature
 
@@ -156,8 +156,8 @@ The market moves on a semi-predictable route:
 
 ## Current Events
 
-1. Rare depth crystals from the trench flooding the market
-2. [[The Free Current]] planning major heist
+1. Rare [[Depth Crystals]] from the trench flooding the market
+2. [[The [[Free Current]]]] planning major heist
 3. Mysterious buyer purchasing all memory bubbles
 4. Faction tensions threatening market neutrality
 5. Guardian creatures acting strangely aggressive
@@ -165,13 +165,13 @@ The market moves on a semi-predictable route:
 ## Secrets
 
 > [!warning] DM Only
-> - The market master is three people sharing one body
-> - The market follows ley lines of the drowned world's old magic
-> - The Black Current is run by agents of the Deepmind
+> - The market master is three [[People]] sharing one body
+> - The market follows ley lines of the [[Drowned]] world's old magic
+> - The Black Current is run by agents of [[The Deepmind]]
 > - The market's movement pattern is spelling out a summoning ritual
-> - Several prominent merchants are information brokers for all factions
+> - Several [[Prominent Merchant]]s are information brokers for all factions
 
-## Random Encounters (d12)
+## [[[[Random Encounter]]s]] (d12)
 
 1. Merchant hawking "genuine" pre-drowning artifacts
 2. Pickpocket attempting theft
@@ -182,7 +182,7 @@ The market moves on a semi-predictable route:
 7. Adaptation gone wrong in public
 8. Faction representatives in heated negotiation
 9. Street performer with trained sea creatures
-10. Black market dealer approaching with offer
+10. [[Black Market Deal]]er approaching with offer
 11. Gambling house recruiter
 12. Guardian creature demanding "toll"
 
@@ -216,21 +216,21 @@ The market moves on a semi-predictable route:
 - Use the markets to introduce rare items and plot-relevant materials
 - Fluctuating prices can drive adventure motivation
 - Market connections provide information network for players
-- Economic warfare can create non-violent conflict scenarios
+- [[Economic Warfare]] can create non-violent conflict scenarios
 
 ### Scaling for Different Levels
 
 **Low Level (1-5)**: Focus on simple trading, minor disputes, and cultural learning
 **Mid Level (6-10)**: Involve complex negotiations, market manipulation, and factional politics
-**High Level (11-15)**: Deal with market-wide crises, international trade wars, and economic espionage
+**High Level (11-15)**: Deal with market-wide crises, [[International Trade]] wars, and economic espionage
 **Epic Level (16-20)**: Handle reality-bending economics, divine intervention, and multidimensional commerce
 
 ### Pressure Fluctuations
 
 The market's constant movement creates dangerous pressure variations:
 - **Sudden Drops**: DC 15 Constitution save or take 1d6 bludgeoning damage from rapid decompression
-- **Pressure Spikes**: Equipment malfunction on natural 1s during high-pressure zones
-- **Adaptation Required**: Non-aquatic creatures need magical assistance or suffer exhaustion
+- **Pressure Spikes**: Equipment malfunction on natural 1s during high-[[Pressure Zones]]
+- **Adaptation Required**: Non-aquatic creatures need magical assistance or suffer [[Exhaustion]]
 - **Warning Systems**: Bio-luminescent coral flashes indicate dangerous pressure changes
 
 ### Depth Hazards
@@ -239,20 +239,20 @@ The market's constant movement creates dangerous pressure variations:
 - 1000-1500 feet: DC 12 Constitution saves every hour
 - 1500-2000 feet: DC 16 Constitution saves every 30 minutes
 - 2000+ feet: DC 20 Constitution saves every 10 minutes
-- **Failure**: 2d6 bludgeoning damage and one level of exhaustion
+- **Failure**: [[2d6]] bludgeoning damage and one level of exhaustion
 
 ### Market Guardian Creatures
 
 The markets are protected by ancient covet-bound entities:
 
-#### The Kraken's Debt Collector
+#### The [[[[Krake]]n]]'s Debt Collector
 
 *Huge monstrosity, lawful neutral*
 - Enforces payment of debts and market fees
 - Can track debtors across vast distances
 - Accepts payment in memories, years of life, or traditional currency
 
-#### Leviathan Remt Sentries
+#### [[Leviathan]] Remt Sentries
 
 *Large undead, neutral*
 - Skeletal remains of ancient sea creatures animated by market magic
@@ -261,7 +261,7 @@ The markets are protected by ancient covet-bound entities:
 
 ### Temporal Market Phenomena
 
-**The Time Tides**: Certain market sections exist in accelerated or slowed time:
+**The [[Time]] Tides**: Certain market sections exist in accelerated or slowed time:
 - **Fast Zones**: Auctions happen at 3x normal speed
 - **Slow Zones**: Perfect for delicate negotiations
 - **Temporal Eddies**: Random time distortions affect 1d4 stalls per day
@@ -276,10 +276,10 @@ Central administrative building carved from a fossilized whale skull:
 - **The Neutral Archive**: Records of all significant trades spanning centuries
 - **Emergency Assembly Bell**: Massive conch shell that can be heard throughout the market
 
-**NPCs Present**:
+**[[Npc]]s Present**:
 - [[Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
 - [[Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
-- [[Chronicler Depth Song]] - Mer-folk historian documenting market evolution
+- [[Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
 
 #### The Adaptation Clinic
 
@@ -292,7 +292,7 @@ Medical facility specializing in aquatic modifications:
 
 **Staff**:
 - [[Surgeon Coral Seamender]] - Expert in bio-magical modifications
-- [[Healer Tide Touch]] - Specializes in pressure-related injuries
+- [[Healer Tide-Touch]] - Specializes in pressure-related injuries
 - [[Apprentice Bubbles]] - Young water elemental learning medical arts
 
 #### The Bioluminescent Workshops
@@ -305,7 +305,7 @@ Crafting spaces utilizing living organisms:
 - **Shell Smiths**: Fashion armor and tools from giant mollusk shells
 
 **Master Craftspeople**:
-- [[Artisan Glow Finger Nerida]] - Creates bioluminescent jewelry
+- [[Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
 - [[Coral Shaper Polyp]] - Living coral being who grows architectural structures
 - [[Pearl Empress Lustrous]] - Makes pearls that store magical energy
 
@@ -313,10 +313,10 @@ Crafting spaces utilizing living organisms:
 
 Open area displaying crystallized memories as art:
 **Exhibits**:
-- **"The Last Sunset"**: Memory of the final day before the Great Drowning
+- **"The Last Sunset"**: Memory of the final day before the [[Great Drowning]]
 - **"First Love in the Depths"**: Collection of romantic underwater encounters
 - **"The Ancient Songs"**: Whale songs from before civilization
-- **"Dreams of the Deep Mother"**: Controversial and restricted exhibition
+- **"Dreams of the [[Deep Mother]]"**: Controversial and restricted exhibition
 
 **Curator**: [[Memory Artist Recall]] - Can extract and display memories as visual art
 
@@ -345,11 +345,11 @@ Sophisticated ficial trading for future goods delivery:
 - **Weather Derivatives**: Betting on current patterns and seasonal changes
 
 **Key Traders**:
-- [[Futures Master Economic Sense]] - Predicts market trends with supernatural accuracy
+- [[Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
 - [[Risk Assessor Probability]] - Calculates odds for any venture
 - [[Commodity Queen Abundance]] - Controls significant portions of several markets
 
-#### The Pressure Forges
+#### [[The Pressure Forges]]
 
 Manufacturing facilities using extreme depth for industrial processes:
 **Operations**:
@@ -361,7 +361,7 @@ Manufacturing facilities using extreme depth for industrial processes:
 **Dangers**:
 - **Pressure Accidents**: Industrial mishaps can cause explosive decompression
 - **Toxic Emissions**: Some processes release harmful magical byproducts
-- **Structural Failure**: Equipment malfunction at crushing depths is often fatal
+- **Structural Failure**: Equipment malfunction at [[Crushing Depths]] is often fatal
 - **Worker Rights**: Some operations employ indentured servants in dangerous conditions
 
 #### The Contraband Clearinghouse
@@ -376,9 +376,9 @@ Secret level where illegal goods are processed and distributed:
 - Dangerous magical items banned by various governments
 
 **Key Figures**:
-- [[The Facilitator]] - Mysterious figure who arranges impossible trades
-- [[Silence Keeper Mute]] - Enforces secrecy through magical contracts
-- [[The Cleaner]] - Eliminates evidence and witnesses when necessary
+- [[The Facilitator]] - [[Mysterious Figure]] who arranges impossible trades
+- [[Silence-Keeper Mute]] - Enforces secrecy through magical contracts
+- [[The Cleaner]] - Eliminates [[Evidence]] and witnesses when necessary
 
 ### Standard Currency
 
@@ -393,9 +393,9 @@ Secret level where illegal goods are processed and distributed:
 
 **Barter Systems**:
 - **Service Exchange**: Labor hours as payment for goods
-- **Memory Trading**: Personal experiences valued by collectors
+- **[[Memory Trading]]**: Personal experiences valued by collectors
 - **Life Energy**: Years of life span (magically enforced contracts)
-- **Information**: Secrets, maps, and knowledge as valuable commodities
+- **Information**: Secrets, [[map]]s, and knowledge as valuable commodities
 - **Future Obligations**: Contracts for services to be rendered later
 
 ### Market Fees & Taxes
@@ -439,12 +439,12 @@ Secret level where illegal goods are processed and distributed:
 ### The Memory War (Levels 10-14)
 
 **Crisis**: The Memory Sculpture Garden's exhibits are being systematically destroyed
-**Suspects**: Various factions have reasons to erase specific historical memories
+**[[Suspects]]**: Various factions have reasons to erase specific historical memories
 **Investigation**: Each destroyed memory contained evidence of ancient crimes
 **Revelation**: Someone is rewriting history by eliminating contradictory evidence
-**Stakes**: The truth about the Great Drowning may be lost forever
+**Stakes**: The truth about [[The Great Drowning]] may be lost forever
 
-### The Deep Mother's Market (Levels 12-16)
+### [[The Deep Mother]]'s Market (Levels 12-16)
 
 **Event**: The markets begin receiving visitors from impossible depths claiming divine mandate
 **Phenomenon**: These "Deep Traders" offer items that shouldn't exist
@@ -459,18 +459,18 @@ Secret level where illegal goods are processed and distributed:
 
 The Phosphor Markets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Phosphor Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Phosphor Markets.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -486,13 +486,41 @@ The Phosphor Markets is a notable location characterized by its unique features 
 ### Founding
 The Phosphor Markets was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Plot Hooks
 
 - Someone is protecting an heir for power
 - A letter reveals a conspiracy about this place
 - A shipment has gone missing and evil awakens
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -507,4 +535,41 @@ The Phosphor Markets was established in the distant past, growing from humble be
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

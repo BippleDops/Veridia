@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mpmm-deathlock-mpmm.svg)
 
-# [[deathlock mpmm|Deathlock]]
+# [[deathlock-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -113,11 +113,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[detect magic xphb|detect magic]],\
-      \ [[disguise self xphb|disguise self]], [[mage armor xphb|mage armor]],\
-      \ [[mage hand xphb|mage hand]]\n\n1/day each:\
-      \ [[dispel magic xphb|dispel magic]], [[hunger of hadar xphb|hunger of Hadar]],\
-      \ [[invisibility xphb|invisibility]], [[spider climb xphb|spider climb]]"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[disguise-self-xphb (spells)]], [[mage-armor-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]]\n\n1/day each:\
+      \ [[dispel-magic-xphb (spells)]], [[hunger-of-hadar-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]], [[spider-climb-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

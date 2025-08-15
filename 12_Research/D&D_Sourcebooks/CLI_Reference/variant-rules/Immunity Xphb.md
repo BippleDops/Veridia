@@ -34,7 +34,7 @@ world: Both
 # Immunity
 *Source: Player's Handbook (2024) p. 369. Available in the SRD and the Free Rules (2024)* 
 
-If you have Immunity to a [[damage types xphb|damage type]] or a [[condition xphb|condition]], it doesn't affect you in any way.
+If you have Immunity to a [[Damage Types]] or a [[condition-xphb (variant-rules)]], it doesn't affect you in any way.
 
 ## 🔧 Deep Evaluation Improvements
 

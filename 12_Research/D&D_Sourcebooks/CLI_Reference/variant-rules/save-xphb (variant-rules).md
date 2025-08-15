@@ -33,7 +33,7 @@ world: Both
 # Save
 *Source: Player's Handbook (2024) p. 373. Available in the SRD and the Free Rules (2024)* 
 
-Save is another name for a [[saving throw xphb|saving throw]].
+Save is another name for a [[Death Saving Throw Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

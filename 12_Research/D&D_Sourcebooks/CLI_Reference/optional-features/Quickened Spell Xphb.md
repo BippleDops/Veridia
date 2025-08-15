@@ -35,7 +35,7 @@ world: Both
 # Quickened Spell
 *Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[bonus action xphb|Bonus Action]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a [[Action Xphb]] for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 ## 🔧 Deep Evaluation Improvements
 

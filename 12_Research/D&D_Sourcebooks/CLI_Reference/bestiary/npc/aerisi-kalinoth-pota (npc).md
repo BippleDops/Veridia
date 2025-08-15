@@ -37,14 +37,14 @@ world: Both
 
 > [!figure] Creature
 
-# [[aerisi-kalinoth-pota|Aerisi Kalinoth]]
+# [[npc - Aerisi Kalinoth Pota]]
 *Source: Princes of the Apocalypse p. 192*  
 
 Aerisi Kalinoth is the air prophet of the Elder Elemental Eye and leader of the Cult of the Howling Hatred. Tall and slender, with dark hair and (illusory) feathered wings that gently fan the air, Aerisi Kalinoth speaks to her people in a whisper that belies her violent temper, which reveals itself whenever she is denied.
 
 Aerisi was a sheltered moon elf princess named Dara Algwynenn Kalinoth who grew up in a remote Faerie realm. Her parents had wished to protect her from the harsh realities of the world, but they only succeeded in spoiling her. When they tried to discipline their wilful daughter, she used the power of elemental air against them. Soon after, her dreams led her to the ancient dwarven ruins where the spear Windvane awaited her.
 
-Dara changed her name to Aerisi and pretended to be an avariel (winged elf) princess like the ones from her storybooks. Then Aerisi used her talents for enchantment magic to sway mortals into joining her cult. She has convinced all her followers that she is in fact an avariel, and believes it herself even though she must cast [[seeming xphb|seeming]] each day to "reveal" her wings.
+Dara changed her name to Aerisi and pretended to be an avariel (winged elf) princess like the ones from her storybooks. Then Aerisi used her talents for enchantment magic to sway mortals into joining her cult. She has convinced all her followers that she is in fact an avariel, and believes it herself even though she must cast [[Seeming Xphb]] each day to "reveal" her wings.
 
 Aerisi is prone to deluded flights of fancy and impulsive decadence. She sees herself as a beautiful, fierce, and just ruler who wields elemental power because she deserves it.
 
@@ -71,7 +71,7 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "16 with [[mage-armor-xphb|mage armor]]"
+"ac_class": "16 with [[mage-armor-xphb (spells)]]"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "3"
@@ -95,21 +95,21 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
 "traits":
   - "desc": "Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following\
-      \ wizard spells prepared:\n\nCantrips (at will): [[gust xge|gust]],\
-      \ [[mage-hand-xphb|mage hand]], [[message xphb|message]],\
-      \ [[prestidigitation xphb|prestidigitation]], [[ray-of-frost-xphb|ray\]]
-      \ of frost]], [[shocking-grasp-xphb|shocking grasp]]\n\
-      \n1st level (4 slots): [[charm-person-xphb|charm person]],\
-      \ [[feather-fall-xphb|feather fall]], [[mage-armor-xphb|mage armor]],\
-      \ [[thunderwave xphb|thunderwave]]\n\n2nd level\
-      \ (3 slots): [[dust-devil-xge|dust devil]], [[gust-of-wind-xphb|gust\]]
-      \ of wind]], [[invisibility xphb|invisibility]]\n\
-      \n3rd level (3 slots): [[fly xphb|fly]], [[gaseous-form-xphb|gaseous\]]
-      \ form]], [[lightning-bolt-xphb|lightning bolt]]\n\
-      \n4th level (3 slots): [[ice-storm-xphb|ice storm]],\
-      \ [[storm-sphere-xge|storm sphere]]\n\n5th level\
-      \ (2 slots): [[cloudkill xphb|cloudkill]], [[seeming xphb|seeming]]\
-      \ (cast each day)\n\n6th level (1 slots): [[chain-lightning-xphb|chain lightning]]"
+      \ wizard spells prepared:\n\nCantrips (at will): [[gust-xge (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Sage Xphb]],\
+      \ [[Prestidigitation Xphb]], [[ray-of-frost-xphb (spells)]]
+      \ of frost]], [[Shocking Grasp Xphb]]\n\
+      \n1st level (4 slots): [[Charm Person Xphb]],\
+      \ [[Feather Fall Xphb]], [[mage-armor-xphb (spells)]],\
+      \ [[Thunderwave Xphb]]\n\n2nd level\
+      \ (3 slots): [[dust-devil-xge (spells)]], [[Gust of Wind Xphb]]
+      \ of wind]], [[see-invisibility-xphb (spells)]]\n\
+      \n3rd level (3 slots): [[fly-xphb (spells)]], [[gaseous-form-xphb (spells)]]
+      \ form]], [[Lightning Bolt Xphb]]\n\
+      \n4th level (3 slots): [[ice-storm-xphb (spells)]],\
+      \ [[Storm Sphere Xge]]\n\n5th level\
+      \ (2 slots): [[Cloudkill Xphb]], [[Seeming Xphb]]\
+      \ (cast each day)\n\n6th level (1 slots): [[chain-lightning-xphb (spells)]]"
     "name": "Spellcasting"
   - "desc": "Aerisi has advantage on saving throws against being [[conditions#Charmed|charmed]],\
       \ and magic can't put her to sleep."
@@ -127,7 +127,7 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
       \ damage."
     "name": "Windvane"
 "lair_actions":
-  - "desc": "If Aerisi is in the air node while [[yan-c-bin-pota|Yan-C-Bin]]\
+  - "desc": "If Aerisi is in the air node while [[Yan C Bin Pota]]\
       \ isn't, Aerisi can take lair actions. On initiative count 20 (losing initiative\
       \ ties), Aerisi uses a lair action to cast one of her spells, up to 3rd level,\
       \ without using components or a spell slot. She can't cast the same spell two\
@@ -135,7 +135,7 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
       \ cast using a lair action. Aerisi can take no other lair actions while [[conditions#Concentration|concentrating]]\
       \ on a spell cast as a lair action."
     "name": ""
-  - "desc": "If Aerisi casts [[invisibility xphb|invisibility]]\
+  - "desc": "If Aerisi casts [[see-invisibility-xphb (spells)]]\
       \ using this lair action, she also draws the power of the air node into herself.\
       \ By doing so, she regains 15 (3d8 + 2) hit points."
 "source":

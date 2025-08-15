@@ -445,11 +445,11 @@ Surface Signals serves as:
 ---
 
 ## See Also
-- [[02 Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
-- [[02 Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
-- [[02 Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
-- [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems]]
-- [[02 Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
+- [[The Signal Keepers]]
+- [[The Frequency Wars]]
+- [[Places]]
+- [[Communication_Systems]]
+- [[Surface World Theories]]
 
 *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."*
 

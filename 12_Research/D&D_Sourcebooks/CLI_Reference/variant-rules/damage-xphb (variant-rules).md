@@ -33,7 +33,7 @@ world: Both
 # Damage
 *Source: Player's Handbook (2024) p. 364. Available in the SRD and the Free Rules (2024)* 
 
-Damage represents harm that causes a creature or an object to lose [[hit points xphb|Hit Points]].
+Damage represents harm that causes a creature or an object to lose [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

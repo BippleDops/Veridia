@@ -62,9 +62,9 @@ An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn
 
 ## Creature into Creature
 
-If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[challenge rating xphb|Challenge Rating]] equal to or less than the target's [[challenge rating xphb|Challenge Rating]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[hit points xphb|Hit Points]], [[hit point dice xphb|Hit Point Dice]], alignment, and personality.
+If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[challenge-rating-xphb (variant-rules)]] equal to or less than the target's [[challenge-rating-xphb (variant-rules)]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[hit-points-xphb (variant-rules)]], [[hit-point-dice-xphb (variant-rules)]], alignment, and personality.
 
-The target gains a number of [[temporary hit points xphb|Temporary Hit Points]] equal to the [[hit points xphb|Hit Points]] of the new form. These [[temporary hit points xphb|Temporary Hit Points]] vanish if any remain when the spell ends. The spell ends early on the target if it has no [[temporary hit points xphb|Temporary Hit Points]] left.
+The target gains a number of [[temporary-hit-points-xphb (variant-rules)]] equal to the [[hit-points-xphb (variant-rules)]] of the new form. These [[temporary-hit-points-xphb (variant-rules)]] vanish if any remain when the spell ends. The spell ends early on the target if it has no [[temporary-hit-points-xphb (variant-rules)]] left.
 
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 
@@ -72,9 +72,9 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 
 ## Object into Creature
 
-You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a [[challenge rating xphb|Challenge Rating]] of 9 or lower. The creature is [[friendly attitude xphb|Friendly]] to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
+You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a [[challenge-rating-xphb (variant-rules)]] of 9 or lower. The creature is [[friendly-attitude-xphb (variant-rules)]] to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
 
-If the spell lasts more than an hour, you no longer control the creature. It might remain [[friendly attitude xphb|Friendly]] to you, depending on how you have treated it.
+If the spell lasts more than an hour, you no longer control the creature. It might remain [[friendly-attitude-xphb (variant-rules)]] to you, depending on how you have treated it.
 
 ## Creature into Object
 
@@ -82,7 +82,7 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 ## Summary
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 335. Available in the SRD and the Free Rules (2024)*
 

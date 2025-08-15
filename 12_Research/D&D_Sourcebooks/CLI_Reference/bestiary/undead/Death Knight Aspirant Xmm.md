@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-knight-aspirant-xmm-death-knight-aspirant-xmm.svg)
 
-# [[death knight aspirant xmm|Death Knight Aspirant]]
+# [[Death Knight Aspirant Xmm]]
 *Source: Monster Manual (2024) p. 93*  
 
 When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
@@ -92,12 +92,12 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
 "languages": "Abyssal, Common"
 "cr": "11"
 "traits":
-  - "desc": "The aspirant has [[advantage xphb|Advantage]]\
+  - "desc": "The aspirant has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Undead creatures of the aspirant's choice (excluding itself) in a 60-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
-      \ originating from it have [[advantage xphb|Advantage]]\
+      \ [[Area of Effect Xphb]]\
+      \ originating from it have [[Advantage Xphb]]\
       \ on attack rolls and saving throws. It can't use this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Marshal Undead"
@@ -107,14 +107,14 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage\
       \ plus 10 (3d6) Necrotic damage."
     "name": "Dread Blade"
-  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [[sphere area of effect xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [[Area of Effect Xphb]]\
       \ centered on a point the aspirant can see within 120 feet of itself. Failure:\
       \ 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage. Success: Half damage."
     "name": "Hellfire Orb (Recharge 5-6)"
   - "desc": "The aspirant casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15):\n\nAt will: [[phantom steed xphb|Phantom Steed]]\n\
-      \n1/day each: [[destructive wave xphb|Destructive Wave]]\
-      \ (Necrotic), [[dispel magic xphb|Dispel Magic]]"
+      \ spellcasting ability (spell save DC 15):\n\nAt will: [[phantom-steed-xphb (spells)]]\n\
+      \n1/day each: [[Destructive Wave Xphb]]\
+      \ (Necrotic), [[dispel-magic-xphb (spells)]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The aspirant is hit by a melee attack roll while holding a weapon.\

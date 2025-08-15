@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
 
-# [[shrieker fungus xmm|Shrieker Fungus]]
+# [[Shrieker Fungus Xmm]]
 *Source: Monster Manual (2024) p. 125. Available in the SRD and the Free Rules (2024)*  
 
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
@@ -86,7 +86,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [[bright light xphb|Bright Light]]\
+  - "desc": "Trigger: A creature or a source of [[Light Xphb]]\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"

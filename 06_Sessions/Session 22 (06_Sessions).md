@@ -17,15 +17,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 22: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -118,10 +118,31 @@ The main reason parties get involved
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+* [Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 ## Moral Quandaries
 
 - The villain's family begs for mercy
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

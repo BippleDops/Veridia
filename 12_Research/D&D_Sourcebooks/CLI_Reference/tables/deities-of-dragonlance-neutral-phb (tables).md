@@ -37,13 +37,13 @@ world: Both
 
 | The Gods of Neutrality | Alignment | Suggested Domains | Symbol |
 |------------------------|-----------|-------------------|--------|
-| [[dragonlance gilean phb|Gilean]], god of knowledge | N | Knowledge | Open book |
-| [[dragonlance chislev phb|Chislev]], goddess of nature | N | Nature | Feather |
-| [[dragonlance reorx phb|Reorx]], god of craft | N | Knowledge | Forging hammer |
-| [[dragonlance shinare phb|Shinare]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
-| [[dragonlance sirrion phb|Sirrion]], god of fire and change | N | Nature | Multi-colored fire |
-| [[dragonlance zivilyn phb|Zivilyn]], god of wisdom | N | Knowledge | Great green or gold tree |
-| [[dragonlance lunitari phb|Lunitari]], goddess of neutral magic | N | no clerics | Red circle or sphere |
+| [[Dragonlance Gilean Phb]], god of knowledge | N | Knowledge | Open book |
+| [[dragonlance-chislev-phb (deities)]], goddess of nature | N | Nature | Feather |
+| [[Dragonlance Reorx Phb]], god of craft | N | Knowledge | Forging hammer |
+| [[dragonlance-shinare-phb (deities)]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
+| [[dragonlance-sirrion-phb (deities)]], god of fire and change | N | Nature | Multi-colored fire |
+| [[Dragonlance Zivilyn Phb]], god of wisdom | N | Knowledge | Great green or gold tree |
+| [[Dragonlance Lunitari Phb]], goddess of neutral magic | N | no clerics | Red circle or sphere |
 ^deities-of-dragonlance-neutral
 
 ## 🔧 Deep Evaluation Improvements

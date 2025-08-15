@@ -51,7 +51,7 @@ world: Both
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [[cylinder area of effect xphb|Cylinders]], [[emanation area of effect xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[sphere area of effect xphb|Spheres]].
+*Use this column for [[Area of Effect Xphb]], [[Area of Effect Xphb]] (using the size of the Emanation rather than its radius), and [[Area of Effect Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

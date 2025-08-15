@@ -37,7 +37,7 @@ world: Both
 *Ring, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
 
-You can cast [[dancing lights xphb|Dancing Lights]] or [[light xphb|Light]] from the ring.
+You can cast [[dancing-lights-xphb (spells)]] or [[Fount of Moonlight Xphb]] from the ring.
 
 The ring has 6 charges and regains `d6` expended charges daily at dawn. You can expend its charges to use the properties below.
 
@@ -55,15 +55,15 @@ The ring has 6 charges and regains `d6` expended charges daily at dawn. You can 
 
 ## Faerie Fire
 
-You can expend 1 charge to cast [[faerie fire xphb|Faerie Fire]] from the ring.
+You can expend 1 charge to cast [[faerie-fire-xphb (spells)]] from the ring.
 
 ## Lightning Spheres
 
 You can expend 2 charges as a [[actions#Magic|Magic]] action to create up to four 3-foot-diameter spheres of lightning.
 
-Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [[conditions#Concentration|Concentration]], up to 1 minute. Each sphere sheds [[dim light xphb|Dim Light]] in a 30-foot radius.
+Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [[conditions#Concentration|Concentration]], up to 1 minute. Each sphere sheds [[Light Xphb]] in a 30-foot radius.
 
-As a [[bonus action xphb|Bonus Action]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[cover xphb|Total Cover]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
+As a [[Action Xphb]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[Cover Xphb]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
 
 | Number of Spheres | Lightning Damage |
 |-------------------|------------------|
@@ -75,7 +75,7 @@ As a [[bonus action xphb|Bonus Action]], you can move each sphere up to 30 feet,
 
 ## Shooting Stars
 
-You can expend 1 to 3 charges as a [[actions#Magic|Magic]] action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[cube area of effect xphb|Cube]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
+You can expend 1 to 3 charges as a [[actions#Magic|Magic]] action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[Cube Area of Effect Xphb]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 

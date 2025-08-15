@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character Backstories - Quick Reference
 
 ## Key Info

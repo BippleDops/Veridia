@@ -44,9 +44,9 @@ world: Both
 
 **Items in this group:**
 
-- [[crystal ball of mind reading xdmg|Crystal Ball of Mind Reading]]
-- [[crystal ball of telepathy xdmg|Crystal Ball of Telepathy]]
-- [[crystal ball of true seeing xdmg|Crystal Ball of True Seeing]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[crystal-ball-of-telepathy-xdmg (items)]]
+- [[crystal-ball-of-true-seeing-xdmg (items)]]
 
 *Source: Dungeon Master's Guide p. 159*
 

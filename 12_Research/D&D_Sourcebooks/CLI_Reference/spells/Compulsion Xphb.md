@@ -46,9 +46,9 @@ world: Both
 
 Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [[conditions#Charmed|Charmed]] condition until the spell ends.
 
-For the duration, you can take a [[bonus-action-xphb|Bonus Action]] to designate a direction that is horizontal to you. Each [[conditions#Charmed|Charmed]] target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+For the duration, you can take a [[Action Xphb]] to designate a direction that is horizontal to you. Each [[conditions#Charmed|Charmed]] target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 252. Available in the SRD and the Free Rules (2024)*
 

@@ -37,9 +37,9 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-You can breathe underwater, and you gain a [[swim speed xphb|Swim Speed]] equal to your [[speed xphb|Speed]].
+You can breathe underwater, and you gain a [[swim-speed-xphb (variant-rules)]] equal to your [[Fly Speed Xphb]].
 
-You can also cast [[water breathing xphb|Water Breathing]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[long rest xphb|Long Rest]].
+You can also cast [[Water Breathing Xphb]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[long-rest-xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

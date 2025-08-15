@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 02-chapter-1-playing-the-game#Stabilizing a Character - Quick Reference
 
 ## Key Info

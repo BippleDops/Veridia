@@ -39,7 +39,7 @@ world: Both
 # Veteran's Cane
 *Wondrous item, common*  
 
-As a [[bonus action xphb|Bonus Action]], you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
+As a [[Action Xphb]], you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
 
 *Source: Dungeon Master's Guide (2024) p. 318*
 

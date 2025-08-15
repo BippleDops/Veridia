@@ -43,9 +43,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[hit-points-xphb|Hit Point]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[hit-points-xphb|Hit Point]] maximum below 1.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[hit-points-xphb (variant-rules)]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[hit-points-xphb (variant-rules)]] maximum below 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 283. Available in the SRD and the Free Rules (2024)*
 
@@ -84,3 +84,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

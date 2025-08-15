@@ -48,7 +48,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 343. Available in the SRD and the Free Rules (2024)*
 

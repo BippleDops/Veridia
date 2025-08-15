@@ -73,7 +73,7 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 152*
 

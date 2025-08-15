@@ -153,7 +153,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 
 ### Allies and Contacts
 
-**[[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]**
+**[[12 Research]]**
 - Secret leader of the [[Free Current|02 Worldbuilding/Groups/Free Current]] resistance
 - Provides official authority and underground connections
 - Torn between her duties and her conscience
@@ -266,7 +266,7 @@ You believe in the possibility of cooperation between the surface world and Aqua
 Before running this adventure, review:
 1. The complete NPCs and Enemies file for all stat blocks and roleplay notes
 2. The Maps and Handouts file for visual aids and location details
-3. The pressure mechanics from [[Complete_Pressure_Adaptation_System|03 Mechanics/Complete Pressure Adaptation System]]
+3. The pressure mechanics from [[Complete Pressure Adaptation System]]
 4. The political situation in Aquabyssos from the world guide
 
 ### Key Themes to Emphasize

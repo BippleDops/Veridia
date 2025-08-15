@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_12_Character_Focused_Example
 
----
+- --
 title: Session 12 Character Focused Example
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Aquabyssos
----
+- --
 
 ### Session Theme
 This session focused on personal character development, family relationships, and individual backstory exploration while advancing the larger campaign narrative.
@@ -109,23 +109,23 @@ While focusing on character development, the session advanced several campaign p
 
 ### Player Feedback
 
-*"Finally got to explore my character's family background"* - Kestra's player
+* "Finally got to explore my character's family background"* - Kestra's player
 
-*"The moral questions about divine power were fascinating"* - Thane's player
+* "The moral questions about divine power were fascinating"* - Thane's player
 
-*"I loved how everyone's personal stories connected to the main plot"* - Marcus's player
+* "I loved how everyone's personal stories connected to the main plot"* - Marcus's player
 
-*"This session made me care more about the campaign world"* - Lyralei's player
+* "This session made me care more about the campaign world"* - Lyralei's player
 
-*"Good to see Serafina choosing redemption over old patterns"* - Serafina's player
+* "Good to see Serafina choosing redemption over old patterns"* - Serafina's player
 
----
+- --
 
-*Character-focused sessions create emotional investment and make the larger campaign more personally meaningful for players.*
+* Character-focused sessions create emotional investment and make the larger campaign more personally meaningful for players.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -137,11 +137,11 @@ While focusing on character development, the session advanced several campaign p
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -149,7 +149,7 @@ While focusing on character development, the session advanced several campaign p
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+* [Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
 ## Plot Hooks
 
@@ -171,3 +171,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 2 gp
 - **Weight**: 5.0 lbs.
 
-Using a Crowbar gives you [[advantage xphb|Advantage]] on Strength checks where the Crowbar's leverage can be applied.
+Using a Crowbar gives you [[Advantage Xphb]] on Strength checks where the Crowbar's leverage can be applied.
 
 *Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
 

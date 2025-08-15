@@ -42,10 +42,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-kruthik-mpmm-adult-kruthik-mpmm.svg)
 
-# [[adult kruthik mpmm|Adult Kruthik]]
+# [[adult-kruthik-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [[young kruthik mpmm|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [[Young Kruthik Mpmm]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 

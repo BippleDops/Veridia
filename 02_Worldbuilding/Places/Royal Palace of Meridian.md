@@ -1,14 +1,14 @@
 ---
 
-title: Royal Palace of Meridian
-type: Location
+title: [[Royal Palace]] of Meridian
+type: [[location]]
 tags:
 - status/complete
 - royal
 - content/faction
 - content/location
 - place
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - location
 - complete
@@ -17,7 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,25 +97,25 @@ improvements: 20
 - Describe rites of passage and adulthood markers
 
 ## Overview
-The Royal Palace of Meridian is the seat of government for the surface kingdom of Aethermoor, a magnificent structure combining classical architecture with magical enhancements. This center of political power houses the royal family, government offices, and diplomatic facilities.
+[[The Royal Palace]] of Meridian is the seat of government for the surface kingdom of Aethermoor, a magnificent structure combining classical architecture with magical enhancements. This center of political power houses the royal family, government offices, and diplomatic facilities.
 
 ## Palace Structure
-**Main Keep**: Central tower containing throne room and royal apartments
+**Main Keep**: Central tower containing [[Throne Room]] and royal apartments
 **Government Wing**: Administrative offices and council chambers
 **Diplomatic Quarter**: Foreign embassy facilities and guest accommodations
 **Gardens**: Elaborate landscaped grounds with magical enhancements
 **Service Areas**: Kitchens, staff quarters, and maintece facilities
 
-## Key Locations
+## [[Key Locations]]
 **Throne Room**: Grand chamber for royal audiences and state ceremonies
 **Council Chamber**: Meeting hall for governmental decision-making
-**Royal Library**: Extensive collection of books, maps, and official documents
+**Royal Library**: Extensive collection of books, [[map]]s, and official documents
 **Treasury Vault**: Secure storage for kingdom's wealth and important artifacts
 **Observatory**: Tower for astronomical observations and magical research
 
 ## Royal Family
 **King Meridian the Wise**: Aging monarch focused on diplomatic solutions
-**Queen Isabella Goldshore**: Former merchant noble with economic expertise
+**Queen Isabella Goldshore**: Former [[Merchant]] noble with economic expertise
 **Prince Alexander Tidecrest**: Heir apparent with military background
 **Princess Marina Starwater**: Younger daughter interested in magical studies
 **Various Nobles**: Extended family members with court positions
@@ -124,7 +124,7 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Royal Council**: Advisory body of appointed ministers
 **High Chancellor**: Chief administrator coordinating government functions
 **Court Wizard**: Magical advisor and researcher
-**Foreign Minister**: Diplomat managing international relations
+**Foreign Minister**: Diplomat managing [[International Relations]]
 **Treasury Minister**: Official overseeing kingdom's fices
 
 ## Palace Staff
@@ -135,11 +135,11 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Numerous Servants**: Staff maintaining palace functions
 
 ## Security Measures
-**Royal Guard**: Elite soldiers protecting royal family
+**[[Royal Guard]]**: Elite soldiers protecting royal family
 **Magical Wards**: Protective spells defending against magical attacks
 **Physical Barriers**: Strong walls, gates, and defensive positions
 **Intelligence Network**: Spies monitoring threats to royal safety
-**Emergency Protocols**: Plans for evacuation and crisis response
+**[[Emergency Protocol]]s**: Plans for evacuation and crisis response
 
 ## Daily Activities
 **Morning Court**: Royal audiences for petitioners and officials
@@ -151,7 +151,7 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 ## Adventure Hooks
 1. Characters hired as diplomatic security for important negotiations
 2. Mystery involving theft of important royal artifact
-3. Political assassination attempt requires investigation
+3. Political [[Assassin]]ation attempt requires investigation
 4. Foreign agents attempt to recruit characters for espionage
 
 ## Court Culture
@@ -163,22 +163,22 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 
 ## Magical Elements
 **Enchanted Architecture**: Magical enhancements to building structure
-**Communication Systems**: Magical messaging between palace locations
+**[[Communication Systems]]**: Magical messaging between palace locations
 **Defensive Spells**: Protective magic guarding against various threats
 **Scrying Prevention**: Wards blocking magical surveillance
-**Temporal Magic**: Time-related spells for scheduling and coordination
+**Temporal Magic**: [[Time]]-related spells for scheduling and coordination
 
 ## Diplomatic Functions
 **Foreign Embassies**: Permanent diplomatic missions from other kingdoms
 **Trade Negotiations**: Commercial agreements with various partners
 **Military Alliances**: Defense pacts and mutual assistance treaties
-**Cultural Exchanges**: Educational and artistic cooperation programs
+**[[[[Cultural Exchange]]s]]**: Educational and artistic cooperation programs
 **International Law**: Diplomatic protocols and treaty obligations
 
 ## Services Available
 **Royal Justice**: Court system for serious crimes and noble disputes
 **Official Documentation**: Government records and legal certifications
-**Diplomatic Immunity**: Protection for foreign representatives
+**[[Diplomatic Immunity]]**: Protection for foreign representatives
 **Royal Hospitality**: Accommodations for important state guests
 **Official Ceremonies**: Formal events marking significant occasions
 
@@ -189,14 +189,14 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
-The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and government officials to create multilayered plots with significant consequences for player choices.
+## [[DM Notes]]
+The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and [[Government Officia]]ls to create multilayered plots with significant consequences for player choices.
 
 ## Player-Facing Summary
 
 Royal Palace of Meridian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Royal Palace of Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Royal Palace of Meridian.
 
@@ -216,6 +216,27 @@ Royal Palace of Meridian is a notable location characterized by its unique featu
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
 
 ## Current Events
 
@@ -238,3 +259,36 @@ Ongoing situations affecting Royal Palace of Meridian:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

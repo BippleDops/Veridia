@@ -1,17 +1,19 @@
 ---
+
 title: Character_Advancement
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Character_Advancement
 
 ## Portrait
 
-![[portrait_character_advancement.png]]
+![[Character_Advancement]]
 
 *Portrait reference for Character_Advancement*
 
@@ -130,3 +132,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

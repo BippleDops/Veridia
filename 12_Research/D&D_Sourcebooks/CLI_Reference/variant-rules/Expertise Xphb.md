@@ -34,9 +34,9 @@ world: Both
 # Expertise
 *Source: Player's Handbook (2024) p. 367. Available in the SRD and the Free Rules (2024)* 
 
-Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your [[proficiency xphb|Proficiency Bonus]] is doubled for that check unless the bonus is doubled by another feature.
+Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your [[Proficiency Xphb]] is doubled for that check unless the bonus is doubled by another feature.
 
-If you gain Expertise, you gain it in one [[skill xphb|skill]] in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
+If you gain Expertise, you gain it in one [[boon-of-skill-xphb (feats)]] in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -39,59 +39,59 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-05 | [[defender xdmg|Defender]] |
-| 06-10 | [[hammer of thunderbolts xdmg|Hammer of thunderbolts]] |
-| 11-15 | [[luck blade xdmg|Luck blade]] |
-| 16-20 | [[sword of answering xdmg|Sword of answering]] |
-| 21-23 | [[holy avenger xdmg|Holy avenger]] |
-| 24-26 | [[ring of djinni summoning xdmg|Ring of djinni summoning]] |
-| 27-29 | [[ring of invisibility xdmg|Ring of invisibility]] |
-| 30-32 | [[ring of spell turning xdmg|Ring of spell turning]] |
-| 33-35 | [[rod of lordly might xdmg|Rod of lordly might]] |
-| 36-38 | [[staff of the magi xdmg|Staff of the magi]] |
-| 39-41 | [[vorpal sword xdmg|Vorpal sword]] |
-| 42-43 | [[belt of cloud giant strength xdmg|Belt of cloud giant strength]] |
-| 44-45 | [[2 armor xdmg|+2 breastplate]] |
-| 46-47 | [[3 armor xdmg|+3 chain mail]] |
-| 48-49 | [[3 armor xdmg|+3 chain shirt]] |
-| 50-51 | [[cloak of invisibility xdmg|Cloak of invisibility]] |
-| 52-53 | [[crystal ball legendary version|Crystal ball (legendary version)]] |
-| 54-55 | [[1 armor xdmg|+1 half plate armor]] |
-| 56-57 | [[iron flask xdmg|Iron flask]] |
-| 58-59 | [[3 armor xdmg|+3 leather armor]] |
-| 60-61 | [[1 armor xdmg|+1 plate armor]] |
-| 62-63 | [[robe of the archmagi xdmg|Robe of the archmagi]] |
-| 64-65 | [[rod of resurrection xdmg|Rod of resurrection]] |
-| 66-67 | [[1 armor xdmg|+1 scale mail]] |
-| 68-69 | [[scarab of protection xdmg|Scarab of protection]] |
-| 70-71 | [[2 armor xdmg|+2 splint armor]] |
-| 72-73 | [[2 armor xdmg|+2 studded leather armor]] |
-| 74-75 | [[well of many worlds xdmg|Well of many worlds]] |
+| 01-05 | [[defender-xdmg (items)]] |
+| 06-10 | [[hammer-of-thunderbolts-xdmg (items)]] |
+| 11-15 | [[luck-blade-xdmg (items)]] |
+| 16-20 | [[Sword of Answering Xdmg]] |
+| 21-23 | [[Holy Avenger Xdmg]] |
+| 24-26 | [[ring-of-djinni-summoning-xdmg (items)]] |
+| 27-29 | [[ring-of-invisibility-xdmg (items)]] |
+| 30-32 | [[Ring of Spell Turning Xdmg]] |
+| 33-35 | [[Rod of Lordly Might Xdmg]] |
+| 36-38 | [[Staff of the Magi Xdmg]] |
+| 39-41 | [[Vorpal Sword Xdmg]] |
+| 42-43 | [[giant]] |
+| 44-45 | [[2-armor-xdmg (items)]] |
+| 46-47 | [[3 Armor Xdmg]] |
+| 48-49 | [[3 Armor Xdmg]] |
+| 50-51 | [[cloak-of-invisibility-xdmg (items)]] |
+| 52-53 | [[crystal-ball-legendary-version (items)]] |
+| 54-55 | [[1 Armor Xdmg]] |
+| 56-57 | [[iron-flask-xdmg (items)]] |
+| 58-59 | [[3 Armor Xdmg]] |
+| 60-61 | [[1 Armor Xdmg]] |
+| 62-63 | [[robe-of-the-archmagi-xdmg (items)]] |
+| 64-65 | [[Rod of Resurrection Xdmg]] |
+| 66-67 | [[1 Armor Xdmg]] |
+| 68-69 | [[scarab-of-protection-xdmg (items)]] |
+| 70-71 | [[2-armor-xdmg (items)]] |
+| 72-73 | [[2-armor-xdmg (items)]] |
+| 74-75 | [[Well of Many Worlds Xdmg]] |
 | 76 | `dice: [](magic-item-table-i.md#^magic-armor)` |
-| 77 | [[apparatus of kwalish xdmg|Apparatus of Kwalish]] |
-| 78 | [[armor of invulnerability xdmg|Armor of invulnerability]] |
-| 79 | [[belt of storm giant strength xdmg|Belt of storm giant strength]] |
-| 80 | [[cubic gate xdmg|Cubic gate]] |
-| 81 | [[deck of many things xdmg|Deck of many things]] |
-| 82 | [[efreeti chain xdmg|Efreeti chain]] |
-| 83 | [[armor of resistance xdmg|Half plate armor of resistance]] |
-| 84 | [[horn of valhalla iron xdmg|Horn of valhalla, iron]] |
-| 85 | [[instrument of the bards ollamh harp xdmg|Instrument of the bards, Ollamh harp]] |
-| 86 | [[ioun stone greater absorption xdmg|Ioun stone, greater absorption]] |
-| 87 | [[ioun stone mastery xdmg|Ioun stone, mastery]] |
-| 88 | [[ioun stone regeneration xdmg|Ioun stone, regeneration]] |
-| 89 | [[plate armor of etherealness xdmg|Plate armor of etherealness]] |
-| 90 | [[armor of resistance xdmg|Plate armor of resistance]] |
-| 91 | [[ring of elemental command air xdmg|Ring of air elemental command]] |
-| 92 | [[ring of elemental command earth xdmg|Ring of earth elemental command]] |
-| 93 | [[ring of elemental command fire xdmg|Ring of fire elemental command]] |
-| 94 | [[ring of three wishes xdmg|Ring of three wishes]] |
-| 95 | [[ring of elemental command water xdmg|Ring of water elemental command]] |
-| 96 | [[sphere of annihilation xdmg|Sphere of annihilation]] |
-| 97 | [[talisman of pure good xdmg|Talisman of pure good]] |
-| 98 | [[talisman of the sphere xdmg|Talisman of the sphere]] |
-| 99 | [[talisman of ultimate evil xdmg|Talisman of ultimate evil]] |
-| 00 | [[tome of the stilled tongue xdmg|Tome of the stilled tongue]] |
+| 77 | [[Apparatus of Kwalish Xdmg (vehicles)]] |
+| 78 | [[armor-of-invulnerability-xdmg (items)]] |
+| 79 | [[belt-of-storm-giant-strength-xdmg (items)]] |
+| 80 | [[Cubic Gate Xdmg]] |
+| 81 | [[Deck of Many Things Xdmg (items)]] |
+| 82 | [[Efreeti Chain Xdmg]] |
+| 83 | [[armor-of-resistance-xdmg (items)]] |
+| 84 | [[Iron Xdmg]] |
+| 85 | [[Instrument of the Bards Ollamh Harp Xdmg]] |
+| 86 | [[ioun-stone-greater-absorption-xdmg (items)]] |
+| 87 | [[Ioun Stone Mastery Xdmg]] |
+| 88 | [[ioun-stone-regeneration-xdmg (items)]] |
+| 89 | [[Half Plate Armor of Etherealness Xdmg]] |
+| 90 | [[armor-of-resistance-xdmg (items)]] |
+| 91 | [[Ring of Elemental Command Air Xdmg]] |
+| 92 | [[elemental]] |
+| 93 | [[Ring of Elemental Command Fire Xdmg]] |
+| 94 | [[Ring of Three Wishes Xdmg]] |
+| 95 | [[elemental]] |
+| 96 | [[Sphere of Annihilation Xdmg]] |
+| 97 | [[talisman-of-pure-good-xdmg (items)]] |
+| 98 | [[Talisman of the Sphere Xdmg]] |
+| 99 | [[talisman-of-ultimate-evil-xdmg (items)]] |
+| 00 | [[Tome of the Stilled Tongue Xdmg]] |
 ^magic-item-table-i
 
 **Magic armor**
@@ -100,13 +100,13 @@ world: Both
 
 | dice: 1d12 |  |
 |------------|--|
-| 1-2 | [[2 armor xdmg|+2 half plate armor]] |
-| 3-4 | [[2 armor xdmg|+2 plate armor]] |
-| 5-6 | [[3 armor xdmg|+3 studded leather armor]] |
-| 7-8 | [[3 armor xdmg|+3 breastplate]] |
-| 9-10 | [[3 armor xdmg|+3 splint armor]] |
-| 11 | [[3 armor xdmg|+3 half plate armor]] |
-| 12 | [[3 armor xdmg|+3 plate armor]] |
+| 1-2 | [[2-armor-xdmg (items)]] |
+| 3-4 | [[2-armor-xdmg (items)]] |
+| 5-6 | [[3 Armor Xdmg]] |
+| 7-8 | [[3 Armor Xdmg]] |
+| 9-10 | [[3 Armor Xdmg]] |
+| 11 | [[3 Armor Xdmg]] |
+| 12 | [[3 Armor Xdmg]] |
 ^magic-armor
 
 ## 🔧 Deep Evaluation Improvements

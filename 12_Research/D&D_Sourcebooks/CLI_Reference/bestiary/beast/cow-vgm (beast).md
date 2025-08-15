@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cow-vgm-cow-vgm.svg)
 
-# [[cow vgm|Cow]]
+# [[Cow Vgm]]
 *Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.

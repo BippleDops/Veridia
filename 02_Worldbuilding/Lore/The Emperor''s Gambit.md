@@ -4,13 +4,13 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
-title: The Emperor''s Gambit
+- [[Lore]]
+title: [[Emperor]]]]''s Gambit
 type: lore
 updated: 2025-08-14
 ---
 
-# The Emperor''s Gambit
+# [[The Emperor]]''s Gambit
 
 ## Overview
 This document contains important information regarding The Emperor''s Gambit and its role within the greater narrative.
@@ -20,12 +20,12 @@ The Emperor''s Gambit represents a significant element within the campaign world
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*

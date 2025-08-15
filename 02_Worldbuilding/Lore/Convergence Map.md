@@ -1,7 +1,7 @@
 ---
 
-title: Convergence Map
-type: lore
+title: Convergence [[map]]
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -80,7 +80,7 @@ Convergence Map represents a crucial aspect of the world's history, cosmology, o
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -90,15 +90,15 @@ Convergence Map represents a crucial aspect of the world's history, cosmology, o
 
 ## Plot Hooks
 
-- A merchant needs help investigating before winter
+- A [[Merchant]] needs help investigating before winter
 - A stranger needs help delivering before winter
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -108,7 +108,7 @@ Convergence Map represents a crucial aspect of the world's history, cosmology, o
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 

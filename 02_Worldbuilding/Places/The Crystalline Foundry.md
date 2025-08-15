@@ -1,7 +1,7 @@
 ---
 
 title: The Crystalline Foundry
-type: Location
+type: [[location]]
 tags:
 - both
 - quest
@@ -19,7 +19,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.905899+00:00'
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,24 +91,24 @@ improvements: 20
 
 ## Where Crystal Dreams Become Reality
 
-> *"Fire and light, pressure and time - here we forge tomorrow from yesterday's dreams."*
+> *"Fire and light, pressure and [[Time]] - here we forge tomorrow from yesterday's dreams."*
 > — Master Forgewright Thorek Crystalhammer
 
 ## Overview
 
-The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial magical achievement, a massive complex where raw [[Aether Crystals]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
+The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial magical achievement, a massive complex where raw [[[[Aether Crystal]]s]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
 
 ### The Great Commission
 
 **Founded**: 150 years ago by royal decree of King [[Luminar the Builder]]  
 **Purpose**: Centralize and standardize crystal working throughout [[Aethermoor]]  
 **Original Design**: Seven interconnected towers, each dedicated to different aspects of crystal crafting  
-**Investment**: Entire royal treasury committed to construction and equipment acquisition  
+**Investment**: Entire [[Royal Treasury]] committed to construction and equipment acquisition  
 
 ### The Master's Era
 
 **Leadership**: [[Master Thorek Crystalhammer]], appointed 75 years ago  
-**Innovation**: Introduced revolutionary techniques combining dwarven metallurgy with elven crystal singing  
+**Innovation**: Introduced revolutionary techniques combining dwarven metallurgy with elven [[Crystal Singing]]  
 **Expansion**: Added three additional specialized workshops and underground facilities  
 **Reputation**: Established Foundry as premier magical crafting center in known world
 
@@ -135,7 +135,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Danger Level**: Highest security, requires special training and protective equipment  
 **Products**: Multi-aspect crystals for complex magical applications
 
-#### The Resoce Chamber
+#### The [[Resoce Chamber]]
 
 **Specialty**: Tuning crystals for specific magical frequencies  
 **Staff**: [[Crystal Singers]] who literally sing crystals into proper harmonic alignment  
@@ -146,7 +146,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 #### The Enchantment Works
 
 **Purpose**: Imbuing finished crystal items with magical properties  
-**Team**: Collaboration between artificers, enchanters, and crystal specialists  
+**Team**: Collaboration between [[Artificer]]s, enchanters, and crystal specialists  
 **Capability**: Can create items up to legendary quality (extremely rare)  
 **Vault**: Secure storage for completed high-value items awaiting pickup  
 **Waiting List**: Currently backed up 18 months for custom enchantments
@@ -214,26 +214,26 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Technique**: Combines traditional jewelry making with crystal enhancement  
 **Waiting List**: Currently booking commissions 3 years in advance
 
-#### [[Weaponsmith Captain Marcus Sharpedge]]
+#### [[Weaponsmith [[Captain Marcus]] Sharpedge]]
 
 **Focus**: Crystal-enhanced weapons and armor for military applications  
-**Experience**: Former knight who understands combat requirements  
+**Experience**: Former [[Knight]] who understands combat requirements  
 **Innovation**: Developed techniques for creating adaptive crystal weapons  
-**Testing**: Works closely with [[12_Research/D&D_Statblocks/Crystal Wardens]] to field-test creations
+**Testing**: Works closely with [[12 Research]] to field-test creations
 
 ### Magical Radiation
 
 **Source**: Constant exposure to high concentrations of active crystals  
 **Effects**: Can cause magical sensitivity, crystal poisoning, or spontaneous spell casting  
 **Protection**: Special amulets and regular rotation of workers in high-exposure areas  
-**DC 15 CON save**: Made daily by workers; failure results in 1 level of exhaustion  
+**DC 15 CON save**: Made daily by workers; failure results in 1 level of [[Exhaustion]]  
 **Treatment**: On-site specialists trained in magical exposure medicine
 
 ### Temperature Extremes
 
 **Hot Zones**: Fusion areas can reach over 3,000°F, requiring specialized protection  
 **Cold Zones**: Some crystal preservation areas maintain sub-zero temperatures  
-**Damage**: 2d6 fire/cold damage per round without proper protection  
+**Damage**: [[2d6]] fire/cold damage per round without proper protection  
 **Equipment**: Specialized protective clothing provides immunity  
 **Health**: Regular monitoring for temperature-related health issues
 
@@ -245,9 +245,9 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Response**: Immediate evacuation and harmonic rebalancing procedures  
 **Recovery**: Usually temporary, but severe cases may require magical healing
 
-#### The Crown of Seven Lights
+#### [[The Crown]] of Seven Lights
 
-**Commission**: Created for [[Queen Seraphina Lumengarde]]'s coronation  
+**Commission**: Created for [[[[Queen Seraphina]] [[Lumengarde]]]]'s coronation  
 **Materials**: Seven different types of master-grade crystals  
 **Properties**: Grants true sight, protection from mental effects, enhanced magical abilities  
 **Value**: Literally priceless, considered one of world's greatest magical items  
@@ -257,7 +257,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 
 **Type**: Crystal-enhanced longsword (+3 weapon)  
 **Properties**: Constantly burning with sunlight, 2d6 extra radiant damage to undead  
-**Innovation**: First weapon to successfully integrate opposing light and shadow crystals  
+**Innovation**: First weapon to successfully integrate opposing light and [[Shadow Crystals]]  
 **Reputation**: Famous throughout [[Aethermoor]] military  
 **Location**: Currently wielded by retired legendary knight
 
@@ -308,15 +308,15 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Primary Skills**: Arcana (DC 18), Investigation (DC 16), Sleight of Hand (DC 20)  
 **Secondary Skills**: History (DC 15), Insight (DC 14), Persuasion (DC 16)  
 **Time Frame**: Each attempt represents 1 week of intensive work  
-**Success**: Create item with desired legendary properties  
+**Success**: Create item with de[[Sire]]d legendary properties  
 **Failure**: Flawed item, wasted rare materials, possible magical catastrophe
 
 ### The Sabotage Investigation
 
 **Level**: 4-7  
 **Problem**: Series of "accidents" suggests industrial sabotage threatening worker safety  
-**Investigation**: Multiple suspects including rival foundries, disgruntled workers, foreign agents  
-**Clues**: Tampered equipment, mysterious figures, insider knowledge of security  
+**Investigation**: Multiple [[Suspects]] including rival foundries, disgruntled workers, foreign agents  
+**Clues**: Tampered equipment, [[Mysterious Figure]]s, insider knowledge of security  
 **Complication**: Saboteur has magical assistance and inside knowledge  
 **Climax**: Confrontation during major production run or royal commission
 
@@ -336,13 +336,13 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Deadline**: Must be completed before crucial diplomatic meeting in 10 days  
 **Obstacles**: Missing rare materials, unprecedented technical challenges, political pressure  
 **Sabotage**: Someone actively trying to prevent completion  
-**Stakes**: Failure could destabilize kingdom's international relations
+**Stakes**: Failure could destabilize kingdom's [[International Relations]]
 
 ### The Crystal Plague
 
 **Level**: 10-15  
 **Crisis**: Magical contamination spreading from Foundry throughout city  
-**Effect**: People and objects slowly turning to crystal (1 CON damage per day, death at 0 CON)  
+**Effect**: [[People]] and objects slowly turning to crystal (1 CON damage per day, death at 0 CON)  
 **Source**: Experiment gone wrong in hidden underground laboratory  
 **Challenge**: Working in contaminated environment while racing against time  
 **Solution**: Requires reversing the contamination process and healing affected citizens
@@ -356,23 +356,23 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Investigation**: Tracking escaped constructs while learning about their capabilities  
 **Resolution**: Diplomacy, capture, or destruction depending on party choices
 
-### [[12_Research/D&D_Statblocks/Crystal Gardens]]
+### [[garden]]
 
 **Relationship**: Primary supplier of raw crystal materials and living specimens  
 **Cooperation**: Joint research projects on crystal cultivation and industrial applications  
 **Trade**: Gardens provides materials, Foundry creates specialized cultivation tools  
 **Personnel**: Cross-training programs and shared expertise between institutions
 
-### [[Palace Courtyard   Crystal Garden]]
+### [[garden]]
 
 **Service**: Exclusive supplier for all royal magical needs and ceremonial items  
-**Priority**: Special queue for royal commissions and urgent requests  
+**Priority**: Special queue for royal commissions and urgent re[[Quests]]  
 **Security**: Enhanced protection and complete confidentiality for sensitive royal projects  
 **Politics**: Must carefully navigate court intrigue and competing noble demands
 
 ### [[Port Meridian]]
 
-**Trade**: Major supplier of magical items to merchants and international buyers  
+**Trade**: Major supplier of magical items to [[Merchant]]s and international buyers  
 **Export**: Foundry products represent significant portion of [[Aethermoor]]'s export revenue  
 **Shipping**: Special arrangements for transporting valuable and fragile magical items  
 **Economic**: Important relationship with trading guilds and merchant companies
@@ -380,27 +380,27 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 ## Secrets and Mysteries
 
 > [!secret] DM Secret - The Dragon's Bargain
-> The Crystalline Foundry is actually built around and powered by a sleeping Crystal Dragon named Lumathyst from before the Great Drowning. The dragon made a bargain with the original builders - they could use her power to create wonderful things, but if they ever became corrupt or used their abilities for destruction, she would awaken and reclaim her power. Only Master Thorek knows the full truth.
+> The Crystalline Foundry is actually built around and powered by a sleeping Crystal Dragon named Lumathyst from before the [[Great Drowning]]. The dragon made a bargain with the original builders - they could use her power to create wonderful things, but if they ever became corrupt or used their abilities for destruction, she would awaken and reclaim her power. Only Master Thorek knows the full truth.
 
 > [!secret] DM Secret - The Failed Experiment
 > Thirty years ago, the Foundry attempted to create sentient crystal beings as perfect workers. Several constructs gained true intelligence but disappeared during the Great Fire incident. They may still exist somewhere in the city's underground, possibly organizing other constructs and planning their own agenda for crystal-kind's future.
 
 > [!secret] DM Secret - The Hidden Arsenal
-> Deep beneath the main complex lies a secret facility where the most dangerous weapons are created. This includes items that could shift the balance of power between kingdoms, weapons commissioned by the royal family for "special purposes," and experimental artifacts too dangerous for normal use. Access requires personal authorization from the Master and the Queen.
+> Deep beneath the main complex lies a secret facility where the most dangerous weapons are created. This includes items that could shift the balance of power between kingdoms, weapons commissioned by the royal family for "special purposes," and experimental artifacts too dangerous for normal use. Access requires personal authorization from the Master and [[The Queen]].
 
 ---
 
 **Related Locations**:
-- [[12_Research/D&D_Statblocks/Crystal Gardens]]
-- [[Palace Courtyard   Crystal Garden]]
+- [[garden]]
+- [[garden]]
 - [[Port Meridian]]
 - [[Aethermoor]]
 
-**Related NPCs**:
+**Related [[Npc]]s**:
 - [[Thorek Crystalhammer]]
 - [[Elena Prismweaver]]
 - [[Queen Seraphina Lumengarde]]
-- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+- [[12 Research]]
 
 **Related Items and Concepts**:
 - [[Aether Crystals]]
@@ -412,20 +412,20 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 
 The Crystalline Foundry is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Crystalline Foundry as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystalline Foundry.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -444,6 +444,34 @@ The Crystalline Foundry is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Crystalline Foundry:
@@ -454,7 +482,7 @@ Ongoing situations affecting The Crystalline Foundry:
 - External threats
 - Opportunities arising
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -469,4 +497,41 @@ Ongoing situations affecting The Crystalline Foundry:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

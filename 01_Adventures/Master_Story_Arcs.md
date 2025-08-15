@@ -1,5 +1,6 @@
 ---
 
+
 title: Master Story Arcs
 type: narrative-framework
 tags:
@@ -10,6 +11,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 #### Major_Branch_6
@@ -303,3 +305,13 @@ While the party pursues the main quest:
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

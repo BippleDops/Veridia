@@ -1,7 +1,7 @@
 ---
 
-title: King Queen Current Monarch
-type: lore
+title: King [[Queen Current Monarch]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -82,7 +82,7 @@ King/Queen Current Monarch can be understood as a multifaceted element that inte
 ### Detailed Explanation
 The full nature of King/Queen Current Monarch involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of King/Queen Current Monarch trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -93,7 +93,7 @@ Connected to King/Queen Current Monarch are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view King/Queen Current Monarch through their own cultural lenses:
+Different [[Groups]] view King/Queen Current Monarch through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -162,7 +162,7 @@ The current state of King/Queen Current Monarch:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How King/Queen Current Monarch has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -195,7 +195,7 @@ Ways to incorporate King/Queen Current Monarch into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -216,7 +216,7 @@ How to adjust for different games:
 Ways King/Queen Current Monarch might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -235,7 +235,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -258,7 +258,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #king/queen-current-monarch
+*Tags*: [[#General]] #worldbuilding #king/queen-current-monarch
 
 ## Cultural Impact
 

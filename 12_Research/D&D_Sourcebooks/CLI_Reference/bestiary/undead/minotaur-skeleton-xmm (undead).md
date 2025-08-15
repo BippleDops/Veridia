@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-skeleton-xmm-minotaur-skeleton-xmm.svg)
 
-# [[minotaur skeleton xmm|Minotaur Skeleton]]
+# [[minotaur-skeleton-xmm (undead)]]
 *Source: Monster Manual (2024) p. 283. Available in the SRD and the Free Rules (2024)*  
 
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.

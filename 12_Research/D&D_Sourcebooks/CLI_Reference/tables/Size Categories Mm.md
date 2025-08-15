@@ -38,12 +38,12 @@ world: Both
 
 | Size | Space | Examples |
 |------|-------|----------|
-| Tiny | 2½ by 2½ ft. | [[imp xmm|Imp]], [[sprite xmm|sprite]] |
+| Tiny | 2½ by 2½ ft. | [[Imp Xmm]], [[sprite-xmm (fey)]] |
 | Small | 5 by 5 ft. | [[giant-rat-xmm|Giant rat]], [[goblin-warrior-xmm|goblin]] |
-| Medium | 5 by 5 ft. | [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|Orc]], [[werewolf xmm|werewolf]] |
-| Large | 10 by 10 ft. | [[hippogriff xmm|Hippogriff]], [[ogre xmm|ogre]] |
-| Huge | 15 by 15 ft. | [[fire-giant-xmm|Fire giant]], [[treant xmm|treant]] |
-| Gargantuan | 20 by 20 ft. or larger | [[kraken xmm|Kraken]], [[purple-worm-xmm|purple worm]] |
+| Medium | 5 by 5 ft. | [[Bestiary]], [[werewolf-xmm (monstrosity)]] |
+| Large | 10 by 10 ft. | [[hippogriff-xmm (monstrosity)]], [[Ogre Xmm]] |
+| Huge | 15 by 15 ft. | [[fire-giant-xmm|Fire giant]], [[treant-xmm (plant)]] |
+| Gargantuan | 20 by 20 ft. or larger | [[Kraken]], [[purple-worm-xmm|purple worm]] |
 ^size-categories
 
 ## 🔧 Deep Evaluation Improvements

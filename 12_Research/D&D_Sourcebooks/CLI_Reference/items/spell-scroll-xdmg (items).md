@@ -38,16 +38,16 @@ world: Both
 
 **Items in this group:**
 
-- [[spell scroll cantrip xdmg|Spell Scroll (Cantrip)]]
-- [[spell scroll level 1 xdmg|Spell Scroll (Level 1)]]
-- [[spell scroll level 2 xdmg|Spell Scroll (Level 2)]]
-- [[spell scroll level 3 xdmg|Spell Scroll (Level 3)]]
-- [[spell scroll level 4 xdmg|Spell Scroll (Level 4)]]
-- [[spell scroll level 5 xdmg|Spell Scroll (Level 5)]]
-- [[spell scroll level 6 xdmg|Spell Scroll (Level 6)]]
-- [[spell scroll level 7 xdmg|Spell Scroll (Level 7)]]
-- [[spell scroll level 8 xdmg|Spell Scroll (Level 8)]]
-- [[spell scroll level 9 xdmg|Spell Scroll (Level 9)]]
+- [[Spell Scroll Cantrip Xdmg]]
+- [[Spell Scroll Level 1 Xdmg]]
+- [[Spell Scroll Level 2 Xdmg]]
+- [[spell-scroll-level-3-xdmg (items)]]
+- [[Spell Scroll Level 4 Xdmg]]
+- [[spell-scroll-level-5-xdmg (items)]]
+- [[Spell Scroll Level 6 Xdmg]]
+- [[spell-scroll-level-7-xdmg (items)]]
+- [[spell-scroll-level-8-xdmg (items)]]
+- [[Spell Scroll Level 9 Xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
 
@@ -96,3 +96,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

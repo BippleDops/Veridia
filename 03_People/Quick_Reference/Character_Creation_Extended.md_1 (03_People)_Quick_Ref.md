@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Character_Creation_Extended.md_1 (03_People) - Quick Reference
 
 ## Key Info

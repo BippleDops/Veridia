@@ -1,4 +1,5 @@
 ---
+
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -9,6 +10,7 @@ tags:
 title: Next Session
 type: session
 updated: 2025-08-14
+status: active
 ---
 
 # Next Session
@@ -109,3 +111,41 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Preparation Checklist
+- [ ] Review previous session
+- [ ] Prepare NPC voices
+- [ ] Set up maps
+- [ ] Review rules
+- [ ] Prepare handouts
+
+## Previous Session Recap
+- Key events from last time
+
+## Scene List
+1. Opening scene
+2. Development
+3. Climax
+4. Resolution
+
+## NPC Roster
+- Characters appearing this session
+
+## Props Needed
+- Maps
+- Handouts
+- Tokens
+
+## Contingencies
+- If players go off-script
+- Alternative paths
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

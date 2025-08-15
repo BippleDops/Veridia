@@ -37,7 +37,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[undead-spirit-xphb|Undead Spirit]]
+# [[undead-spirit-xphb (undead)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock

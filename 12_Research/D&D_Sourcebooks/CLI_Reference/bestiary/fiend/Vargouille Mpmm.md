@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vargouille-mpmm-v1-vargouille-mpmm.svg)
 
-# [[vargouille mpmm|Vargouille]]
+# [[Vargouille Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*  
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
@@ -51,7 +51,7 @@ Swarms of vargouilles flap through the caverns and skies of the Abyss. They are 
 
 Because of their hunger for living prey, vargouilles are eager to escape the Lower Planes. On rare occasions, summoning a demon to another plane can bring a vargouille along for the ride, attached like a tick. The precautions a mortal takes to control a summoned demon rarely account for a stowaway, enabling the vargouille to escape into the world.
 
-Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [[conditions#Paralyzed|paralyze]] other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[daylight xphb|daylight]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
+Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [[conditions#Paralyzed|paralyze]] other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[Light Xphb]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
 
 ```statblock
 "name": "Vargouille (MPMM)"
@@ -84,10 +84,10 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
       \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma\
       \ saving throw or become cursed. The cursed target loses 1 point of Charisma\
       \ after each hour, as its head takes on fiendish aspects. The curse doesn't\
-      \ advance while the target is in sunlight or the area of a [[daylight xphb|daylight]]\
+      \ advance while the target is in sunlight or the area of a [[Light Xphb]]\
       \ spell; don't count that time. When the cursed target's Charisma becomes 2,\
       \ it dies, and its head tears from its body and becomes a new vargouille. Casting\
-      \ [[remove curse xphb|remove curse]], [[greater restoration xphb|greater restoration]],\
+      \ [[Remove Curse Xphb]], [[greater-restoration-xphb (spells)]],\
       \ or a similar spell on the target before the transformation is complete can\
       \ end the curse. Doing so undoes the changes made to the target by the curse."
     "name": "Abyssal Curse"

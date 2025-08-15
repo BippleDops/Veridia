@@ -44,7 +44,7 @@ world: Both
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-While you're wearing this armor, you can take a [[actions#Magic|Magic]] action and use a command word to gain the effect of the [[etherealness xphb|Etherealness]] spell. The spell ends immediately if you remove the armor or take a [[actions#Magic|Magic]] action to repeat the command word. This property of the armor can't be used again until the next dawn.
+While you're wearing this armor, you can take a [[actions#Magic|Magic]] action and use a command word to gain the effect of the [[Etherealness Xphb]] spell. The spell ends immediately if you remove the armor or take a [[actions#Magic|Magic]] action to repeat the command word. This property of the armor can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 286. Available in the SRD and the Free Rules (2024)*
 

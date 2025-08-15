@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Axe of the Dwarvish Lords
-*Weapon ([[battleaxe xphb|battleaxe]]), artifact (requires attunement)*  
+*Weapon ([[Battleaxe Xphb]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)
 
 - **Damage**:
@@ -76,25 +76,25 @@ While attuned to the axe, you gain the following benefits:
 
 - **Darkvision.** You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
-- **Gifts of the Creator.** You have proficiency with [[brewers supplies xphb|Brewer's Supplies]], [[masons tools xphb|Mason's Tools]], and [[smiths tools xphb|Smith's Tools]].  
-- **One with the Forge.** You have [[immunity xphb|Immunity]] to Poison damage and [[resistance xphb|Resistance]] to Fire damage.  
+- **Gifts of the Creator.** You have proficiency with [[Brewers Supplies Xphb]], [[Masons Tools Xphb]], and [[smiths-tools-xphb (items)]].  
+- **One with the Forge.** You have [[immunity-xphb (variant-rules)]] to Poison damage and [[boon-of-energy-resistance-xphb (feats)]] to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [[actions#Magic|Magic]] action to summon an [[earth elemental xmm|Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[bonus action xphb|Bonus Action]]. You can't use this property again until the next dawn.
+While holding the axe, you can take a [[actions#Magic|Magic]] action to summon an [[Earth Elemental Xmm]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative Xphb]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[Action Xphb]]. You can't use this property again until the next dawn.
 
 ## Random Properties
 
 The axe has the following random properties:
 
-- 2 [[artifact properties minor beneficial properties xdmg|minor beneficial]] properties  
-- 1 [[artifact properties major beneficial properties xdmg|major beneficial]] property  
-- 2 [[artifact properties minor detrimental properties xdmg|minor detrimental]] properties  
+- 2 [[artifact-properties-minor-beneficial-properties]] properties  
+- 1 [[Artifact Properties Major Beneficial]] property  
+- 2 [[Artifact Properties Minor Detrimental Properties Xdmg]] properties  
 
 ## Travel the Depths
 
-You can take a [[actions#Magic|Magic]] action to touch the axe to a fixed piece of dwarven stonework and cast [[teleport xphb|Teleport]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can take a [[actions#Magic|Magic]] action to touch the axe to a fixed piece of dwarven stonework and cast [[Teleport Xphb]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Destroying the Axe
 

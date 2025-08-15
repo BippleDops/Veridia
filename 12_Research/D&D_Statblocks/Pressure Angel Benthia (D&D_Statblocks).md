@@ -213,7 +213,7 @@ If Benthia is encountered at a major pressure nexus point during a moment of cos
 ---
 
 ### Direct Divine Servants
-**[[Sister Thalassa the Depth Touched]]**: Regularly receives guidance and testing from Benthia
+**[[Sister Thalassa the Depth-Touched (D&D_References)]]**: Regularly receives guidance and testing from Benthia
 - Personal relationship developed over years of faithful service
 - Benthia serves as her spiritual director and divine contact
 - Tests her faith periodically to ensure continued worthiness

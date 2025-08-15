@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Dying Forest
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg)
@@ -60,6 +68,15 @@ The ancient Silverleaf Forest outside Aethermoor is withering at an alarming rat
 
 ## Quest Giver
 **Druid Elara Moonwhisper** - Ancient elf guardian of the forest, desperate to save her sacred grove. She offers her staff of nature's blessing and knowledge of forest secrets as reward.
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## Background
 The Silverleaf Forest has stood for millennia, its magical trees providing protection and wonder to Aethermoor. Recent weeks brought reports of blackened branches, dying animals, and strange whispers in the wind. Local rangers refuse to venture deep into the woods after three scouts disappeared.
@@ -191,3 +208,58 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Hooks
+- **Personal**: Character connection
+- **Professional**: Hired for the job
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -49,11 +49,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 8 hours
 
-You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 [[hit-points-xphb|Hit Points]] before the spell ends, the target instead drops to 1 [[hit-points-xphb|Hit Point]], and the spell ends.
+You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 [[hit-points-xphb (variant-rules)]] before the spell ends, the target instead drops to 1 [[hit-points-xphb (variant-rules)]], and the spell ends.
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 261. Available in the SRD and the Free Rules (2024)*
 
@@ -118,3 +118,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[death-ward-xphb (spells)-phb]]` in CLI_Reference/spells/

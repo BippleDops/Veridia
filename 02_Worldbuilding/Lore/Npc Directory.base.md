@@ -1,7 +1,7 @@
 ---
-title: Npc Directory.base
+title: [[Npc]] Directory.base
 aliases:
-- 02 Worldbuilding Lore NPC Directorybase
+- [[02 Worldbuilding]] [[Lore]] NPC Directorybase
 type: lore
 tags:
 - lore
@@ -23,12 +23,12 @@ Npc Directory.base represents a significant element within the campaign world, o
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -49,5 +49,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM Notes]]
 *Customize as needed for your specific campaign requirements.*

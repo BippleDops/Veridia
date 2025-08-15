@@ -34,7 +34,7 @@ world: Both
 # Familiars
 *Source: Monster Manual p. 347* 
 
-Any spellcaster that can cast the [[find familiar xphb|find familiar]] spell (such as an apprentice, warlock, or wizard) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the "Player's Handbook") or some other Tiny monster, such as a [[crawling claw xmm|crawling claw]], an [[imp xmm|imp]], a [[pseudodragon xmm|pseudodragon]], or a [[quasit xmm|quasit]].
+Any spellcaster that can cast the [[find-familiar-xphb (spells)]] spell (such as an apprentice, warlock, or wizard) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the "Player's Handbook") or some other Tiny monster, such as a [[crawling-claw-xmm (undead)]], an [[Imp Xmm]], a [[pseudodragon-xmm (dragon)]], or a [[quasit-xmm (fiend)]].
 
 > [!note]
 > This variant is intended for NPCs. (https://twitter.com/JeremyECrawford/status/920714594334654465)

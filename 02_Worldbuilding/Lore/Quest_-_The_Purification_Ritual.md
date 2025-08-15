@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # Quest - The Purification Ritual
@@ -22,7 +22,7 @@ The full nature of Quest - The Purification Ritual involves several interconnect
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Quest - The Purification Ritual trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to Quest - The Purification Ritual are various other important element
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Quest - The Purification Ritual through their own cultural lenses:
+Different [[Groups]] view Quest - The Purification Ritual through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of Quest - The Purification Ritual:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Quest - The Purification Ritual has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate Quest - The Purification Ritual into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways Quest - The Purification Ritual might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #quest---the-purification-ritual
+*Tags*: [[#General]] #worldbuilding #quest---the-purification-ritual

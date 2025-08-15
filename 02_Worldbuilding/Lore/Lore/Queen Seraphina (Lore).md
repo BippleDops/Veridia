@@ -89,7 +89,7 @@ improvements: 20
 
 ## Relationships
 
-- **Mentor**: [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
+- **Mentor**: [[Npc]]
 - **Victim**: [[Captain Torren Stormwright]]
 - **Parent**: [[The Barnacle]]
 - **Debtor**: [[The Depth Blessed Fisherman, Captain Sal Deepcurrent]]

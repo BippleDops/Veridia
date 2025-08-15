@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-scather-sword-of-answering-scather.svg)
 
 # Sword of Answering (Scather)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a lawful evil creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a lawful evil creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

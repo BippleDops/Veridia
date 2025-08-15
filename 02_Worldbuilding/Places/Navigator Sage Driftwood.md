@@ -1,9 +1,9 @@
 ---
 
 title: Navigator Sage Driftwood
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - navigator
 - status/complete
 - mechanics/exploration
@@ -11,7 +11,7 @@ tags:
 - aquatic
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - combat
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ improvements: 20
 
 ## Overview
 
-Sage Driftwood is Aquabyssos's most renowned deep-sea navigator and oceanic philosopher, possessing an almost mystical understanding of underwater currents, tidal patterns, and the hidden pathways that connect distant parts of the ocean realm. Known for her unconventional methods that blend scientific observation with intuitive wisdom, she has guided more successful deep-sea expeditions than any other navigator in the city's history.
+Sage Driftwood is Aquabyssos's most renowned deep-sea navigator and oceanic philosopher, possessing an almost mystical understanding of underwater currents, tidal patterns, and the hidden [[path]]ways that connect distant parts of the ocean realm. Known for her unconventional methods that blend scientific observation with intuitive wisdom, she has guided more successful deep-sea expeditions than any other navigator in the city's history.
 
 Driftwood operates both as a practical navigator-for-hire and as a teacher of oceanic wisdom, training younger navigators while pursuing her own research into the deeper mysteries of oceanic consciousness and the spiritual aspects of underwater travel. Her unique philosophy views navigation not just as a technical skill, but as a form of communion with the sea itself.
 
@@ -112,9 +112,9 @@ Her services are in high demand as political tensions make safe travel increasin
 
 ## Appearance
 
-Sage Driftwood is an elderly sea elf woman whose exact age is difficult to determine, appearing to be anywhere from sixty to several hundred years old. Her silver-green hair flows like seaweed, often adorned with small shells, bits of coral, and trinkets collected from her travels. Her eyes are the deep blue-green of abyssal waters, seeming to hold depths of ancient knowledge.
+Sage Driftwood is an elderly sea elf woman whose exact age is difficult to determine, appearing to be anywhere from sixty to several hundred years old. Her silver-green hair flows like seaweed, often adorned with small shells, bits of [[Coral]], and trinkets collected from her travels. Her eyes are the deep blue-green of abyssal waters, seeming to hold depths of ancient knowledge.
 
-She dresses in practical but elegant robes made from various aquatic materials - sea silk, kelp fiber, and scales from friendly sea creatures. Her most distinctive possession is an ancient staff carved from driftwood that she claims came from the first tree to ever touch the ocean, adorned with navigation instruments that blend magical and mundane techniques.
+She dresses in practical but elegant robes made from various aquatic materials - [[Sea Silk]], kelp fiber, and scales from friendly sea creatures. Her most distinctive possession is an ancient staff carved from driftwood that she claims came from the first tree to ever touch the ocean, adorned with navigation instruments that blend magical and mundane techniques.
 
 ## Statistics
 
@@ -142,11 +142,11 @@ She dresses in practical but elegant robes made from various aquatic materials -
 
 **Driftwood Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 9 (2d8) psychic damage as the staff shares overwhelming oceanic memories.
 
-**Oceanic Guidance (3/day).** Driftwood can cast *find the path* or *commune with nature* without expending spell slots, but only for oceanic environments.
+**Oceanic [[Guidance]] (3/day).** Driftwood can cast *find the path* or *commune with nature* without expending spell slots, but only for oceanic environments.
 
-**Tidal Blessing (1/day).** Driftwood can grant herself and up to six allies the ability to breathe water, swim speed equal to walking speed, and resistance to pressure damage for 24 hours.
+**Tidal [[Bless]]ing (1/day).** Driftwood can grant herself and up to six [[Allies]] the ability to breathe water, swim speed equal to walking speed, and resistance to pressure damage for 24 hours.
 
-**Call of the Deep (1/day).** Driftwood can summon 2d4 sea creatures (dolphins, whales, or similar) to aid her party for up to 1 hour.
+**Call of the Deep (1/day).** Driftwood can summon 2d4 sea creatures ([[Dolphin]]s, whales, or similar) to aid her party for up to 1 hour.
 
 ### Legendary Actions (3 per turn, when in oceanic environments)
 
@@ -158,7 +158,7 @@ She dresses in practical but elegant robes made from various aquatic materials -
 
 Driftwood has spent over two centuries studying the ocean's mysteries, beginning as a young elf fascinated by the patterns she observed in tidal pools. Her studies gradually expanded to encompass the entire oceanic system, leading her to develop her unique philosophy that treats the ocean as a living, conscious entity.
 
-She earned her title "Sage" after successfully navigating a rescue mission through the Temporal Storms - oceanic disturbances where time flows differently. Her ability to guide ships safely through impossible conditions established her reputation and led to her current role as Aquabyssos's premier navigator.
+She earned her title "Sage" after successfully navigating a rescue mission through the Temporal Storms - oceanic disturbances where [[Time]] flows differently. Her ability to guide ships safely through impossible conditions established her reputation and led to her current role as Aquabyssos's premier navigator.
 
 Throughout her career, she has trained dozens of navigators while conducting personal research into the deepest mysteries of oceanic consciousness and the spiritual aspects of sea travel.
 
@@ -166,22 +166,22 @@ Throughout her career, she has trained dozens of navigators while conducting per
 
 Driftwood is increasingly concerned about disturbances in the ocean's natural patterns that seem to correspond with the political unrest in Aquabyssos. She's been conducting extensive observations to determine whether the city's internal conflicts are affecting the surrounding oceanic environment or vice versa.
 
-She's also been approached by various factions seeking her navigation services for sensitive missions, requiring her to carefully balance her neutral stance with her desire to help maintain stability in the region.
+She's also been approached by various factions seeking her navigation services for sensitive missions, requiring her to carefully balance her neutral stance with her de[[Sire]] to help maintain stability in the region.
 
 ## Quest Hooks
 
-1. Driftwood offers to guide the party to a location that can only be reached during specific oceanic conditions that occur rarely and unpredictably.
+1. Driftwood offers to guide [[The Party]] to a location that can only be reached during specific oceanic conditions that occur rarely and unpredictably.
 2. Strange disturbances in oceanic patterns suggest supernatural interference, and Driftwood needs investigators to help identify the source.
 3. The party requires safe passage through dangerous waters, leading them to seek Driftwood's unique navigation expertise.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
 
@@ -189,7 +189,7 @@ Sage Driftwood serves as both a practical resource for oceanic travel and a sour
 
 Navigator Sage Driftwood is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Navigator Sage Driftwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Navigator Sage Driftwood.
 
@@ -197,7 +197,7 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 **Sights**: Shadows dance across weathered stone walls
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Incense mingles with the scent of exotic spices
 
@@ -209,6 +209,34 @@ Navigator Sage Driftwood is a notable location characterized by its unique featu
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -262,3 +290,40 @@ Ongoing situations affecting Navigator Sage Driftwood:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

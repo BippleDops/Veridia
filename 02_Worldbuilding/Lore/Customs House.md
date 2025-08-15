@@ -1,7 +1,7 @@
 ---
 
 title: Customs House
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -26,7 +26,7 @@ modified: '2025-08-14'
 status: complete
 world: Both
 category: Border Facility
-significance: Major Location
+significance: Major [[location]]
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 evaluated: '2025-08-14'
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,7 +81,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -99,7 +99,7 @@ improvements: 20
 
 The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[Aethermoor]] and [[Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[Merged Reality Zones]], this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
 
-Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while coral formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] approaches.
+Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while [[Coral]] formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] approaches.
 
 ### Dual Architecture
 
@@ -108,12 +108,12 @@ The [[Aethermoor]] portion features traditional crystal architecture with practi
 - **Main Structure**: Five-story crystal spire with administrative offices and inspection facilities
 - **Processing Halls**: Large chambers where goods are examined using crystal-based detection magic
 - **Storage Vaults**: Secure warehouses for quarantined or disputed items
-- **Living Quarters**: Accommodations for customs officers and visiting merchants
-- **Guard Barracks**: Housing for [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] border security forces
+- **Living Quarters**: Accommodations for customs officers and visiting [[Merchant]]s
+- **Guard Barracks**: Housing for [[The Crystal Guard Elite]] border security forces
 
 **The Aquabyssos Side (The Pressure Portal)**
 The [[Aquabyssos]] section reflects underwater architectural needs:
-- **Pressure-Resistant Structure**: Five-level facility built to withstand crushing depths
+- **Pressure-Resistant Structure**: Five-level facility built to withstand [[Crushing Depths]]
 - **Flow-Processing Centers**: Chambers using pressure-current detection for contraband
 - **Compression Vaults**: Storage areas maintaining various pressure levels
 - **Adaptation Chambers**: Spaces for air-breathing visitors to acclimatize
@@ -125,15 +125,15 @@ The [[Aquabyssos]] section reflects underwater architectural needs:
 At the building's heart lies a massive chamber existing fully in both realities:
 - **Dimensions**: 200 feet long, 100 feet wide, 150 feet high
 - **Dual Environment**: Breathable for both air and water-breathing species
-- **Temporal Stability**: Time flows consistently despite reality fluctuations
+- **Temporal Stability**: [[Time]] flows consistently despite reality fluctuations
 - **Universal Communication**: Translation magic enabling all languages
 - **Neutral Ground**: Protected by treaties from both worlds
 
 **The Gateway Arch**
 The primary passage between worlds:
-- **Physical Portal**: 50-foot arch allowing vehicles and large cargo
+- **Physical Portal**: 50-foot arch allowing [[Vehicles]] and large cargo
 - **Security Screening**: Automated systems scanning all crossers
-- **Reality Stabilization**: Prevents dimensional storms from affecting passage
+- **[[Reality Stabilization]]**: Prevents dimensional storms from affecting passage
 - **Emergency Sealing**: Can be closed instantly in case of threats
 - **Dual Jurisdiction**: Staffed by officers from both worlds
 
@@ -162,7 +162,7 @@ The Customs House manages the growing trade between worlds:
 The facility serves as the primary defense against interdimensional threats:
 
 **Contraband Detection:**
-- **[[The Seven Shards]] Fragments**: Scanning for divine artifact pieces
+- **[[Seven Shards]]]] Fragments**: Scanning for divine artifact pieces
 - **[[Shadow Corruption]] Materials**: Detection of corrupted substances and objects
 - **Weapons Smuggling**: Prevention of arms trafficking between worlds
 - **Dangerous Magic**: Screening for reality-threatening magical items
@@ -171,8 +171,8 @@ The facility serves as the primary defense against interdimensional threats:
 **Immigration Control:**
 - **Legal Residency**: Processing applications for permanent settlement
 - **Refugee Management**: Handling individuals fleeing dimensional conflicts
-- **Tourist Oversight**: Managing recreational visitors and cultural exchanges
-- **Diplomatic Immunity**: Special handling for official government representatives
+- **Tourist Oversight**: Managing recreational visitors and [[Cultural Exchanges]]
+- **[[Diplomatic Immunity]]**: Special handling for official government representatives
 - **Criminal Screening**: Background checks preventing dangerous individuals from crossing
 
 ### Intelligence Gathering
@@ -181,31 +181,31 @@ The facility serves as the primary defense against interdimensional threats:
 The Customs House serves as an intelligence hub:
 - **Trade Pattern Analysis**: Monitoring economic flows for political intelligence
 - **Traveler Surveillance**: Tracking movement of persons of interest
-- **Technology Transfer**: Observing what innovations move between worlds
+- **[[Technology Transfer]]**: Observing what innovations move between worlds
 - **Cultural Intelligence**: Understanding social changes and attitudes
 - **Threat Assessment**: Early warning system for potential conflicts
 
 ### Administrative Leadership
 
-**[[Chief Inspector Dual Current Thane]]** (Joint Administrator)
+**[[Chief Inspector Dual-Current Thane]]** (Joint Administrator)
 - Unique individual with natural ability to exist in both realities
 - Appointed jointly by both world governments
 - Has authority to make binding decisions for both customs services
 - Experienced diplomat who helped negotiate the original trade agreements
 - Maintains careful neutrality while managing increasing political pressures
 
-**[[Deputy Inspector Crystal Flow Maria]]** (Aethermoor Representative)
+**[[Deputy Inspector Crystal-Flow Maria (D&D_References)]]** (Aethermoor Representative)
 - Senior customs official specializing in magical item detection
 - Expert in crystal-based security systems and reality stabilization
-- Coordinates with [[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] for security operations
+- Coordinates with [[The Crystal Guard Elite]] for security operations
 - Maintains direct communication with [[Crystalhaven]] government
-- Increasingly concerned about political use of customs data
+- Increasingly concerned about political use of customs [[data]]
 
-**[[Deputy Inspector Pressure Tide Jonas]]** (Aquabyssos Representative)
+**[[Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
 - Veteran enforcement officer with enhanced pressure adaptation
 - Specialist in memory-based contraband detection techniques
 - Coordinates with Aquabyssos maritime patrol units
-- Reports to [[Parliament of Echoes]] security committee
+- [[reports]] to [[Parliament of Echoes]] security committee
 - Struggles with conflicting loyalties as tensions increase
 
 ### Security Forces
@@ -250,8 +250,8 @@ The Customs House serves as an intelligence hub:
 ### Major Trade Categories
 
 **Aethermoor Exports to Aquabyssos:**
-- **Crystal Technology**: Magical devices and power sources
-- **Precision Instruments**: Tools requiring exact crystal harmonics
+- **[[Crystal Technology]]**: Magical devices and power sources
+- **Precision Instruments**: Tools requiring exact [[Crystal Harmonics]]
 - **Luxury Goods**: Art objects and decorative crystal formations
 - **Medicinal Crystals**: Healing stones and therapeutic devices
 - **Information Storage**: Crystal-based data preservation systems
@@ -268,7 +268,7 @@ The Customs House serves as an intelligence hub:
 - **Dimensional Bridges**: Equipment enabling safe travel between worlds
 - **Consciousness Interfaces**: Tools allowing communication between different forms of awareness
 - **Environmental Adapters**: Equipment allowing species to survive in alien environments
-- **Memory Crystals**: Storage devices combining both worlds' information technologies
+- **[[Memory Crystals]]**: Storage devices combining both worlds' information technologies
 
 ### Economic Impact
 
@@ -283,7 +283,7 @@ The Customs House serves as an intelligence hub:
 - Border communities experiencing economic boom from trade
 - Traditional industries adapting to compete with interdimensional alternatives
 - New professions emerging around interdimensional commerce
-- Cultural exchange accelerating through commercial contact
+- [[Cultural Exchange]] accelerating through commercial contact
 - Political pressure increasing as economic interdependence grows
 
 ### Common Contraband
@@ -307,7 +307,7 @@ The Customs House serves as an intelligence hub:
 - **Dimensional Maps**: Detailed charts of reality weak points
 - **Consciousness Patterns**: Stolen memories and personality templates
 - **Convergence Data**: Information about approaching reality merger
-- **Royal Intelligence**: Classified information about government possession
+- **[[Royal Intelligence]]**: Classified information about government possession
 
 ### Smuggling Methods
 
@@ -320,15 +320,15 @@ The Customs House serves as an intelligence hub:
 
 **Corruption of Officials:**
 - **Ficial Bribery**: Traditional monetary corruption of customs officers
-- **Memory Alteration**: Illegal modification of official memories
+- **[[Memory Alteration]]**: Illegal modification of official memories
 - **Possession Influence**: Crystal consciousness affecting decision-making
 - **Family Threats**: Coercion using kidnapping and intimidation
-- **Ideological Conversion**: Converting officials to smuggling organization beliefs
+- **Ideological Conversion**: Converting officials to smuggling [[Organization]] beliefs
 
 ### Law Enforcement Response
 
 **Detection Systems:**
-- **Reality Scanners**: Equipment detecting dimensional anomalies
+- **Reality Scanners**: Equipment detecting [[Dimensional Anomalies]]
 - **Memory Probes**: Devices reading consciousness for hidden information
 - **Crystal Resoce**: Technology identifying possessed or enhanced individuals
 - **Pressure Analysis**: Systems detecting items stored under unusual conditions
@@ -339,7 +339,7 @@ The Customs House serves as an intelligence hub:
 - **Deep Investigations**: Long-term penetration of smuggling organizations
 - **Asset Seizure**: Confiscation of illegal goods and trafficking profits
 - **Diplomatic Pressure**: Government-to-government cooperation on major cases
-- **Public Trials**: High-profile prosecutions deterring other smugglers
+- **Public Trials**: High-profile prosecutions deterring other [[Smuggler]]s
 
 ### Governmental Conflicts
 
@@ -354,7 +354,7 @@ The Customs House serves as an intelligence hub:
 - **[[Aethermoor]]'s Position**: Increasing restrictions due to possession concerns
 - **[[Aquabyssos]]'s Stance**: Maintaining open trade despite political changes
 - **Military Concerns**: Both worlds worried about espionage and infiltration
-- **Economic Interests**: Business pressure to maintain profitable trade
+- **[[[[Economic Interest]]s]]**: Business pressure to maintain profitable trade
 - **Public Opinion**: Citizens in both worlds increasingly suspicious of the other
 
 ### Security Concerns
@@ -362,9 +362,9 @@ The Customs House serves as an intelligence hub:
 **Infiltration Risks:**
 - **[[The Crimson Hand]]**: Using trade routes for personnel movement
 - **[[Possessed Noble Coterie]]**: Attempting to control trade for possession agenda
-- **[[The Deep Mother]] Influence**: Spreading through commercial contacts
+- **[[Deep Mother]]]] Influence**: Spreading through commercial contacts
 - **Foreign Agents**: Third-party nations using facility for espionage
-- **Resistance Groups**: Both worlds' opposition movements using trade for communication
+- **Resistance [[Groups]]**: Both worlds' opposition movements using trade for communication
 
 **Facility Vulnerabilities:**
 - **Reality Instability**: Dimensional fluctuations threatening building integrity
@@ -389,11 +389,11 @@ The facility is crucial for preventing Shard trafficking:
 - **Intelligence Operations**: Tracking Shard movements and locations
 - **Security Coordination**: Joint operations to intercept Shard smuggling
 - **Diplomatic Tool**: Using trade leverage to pressure Shard holders
-- **Information Exchange**: Sharing Shard-related intelligence between worlds
+- **[[Information Exchange]]**: Sharing Shard-related intelligence between worlds
 
 ### [[The Real Marina]]
 
-Marina's identity crisis reflects challenges faced by regular interdimensional travelers:
+[[Marina's Identity Crisis]] reflects challenges faced by regular inter[[Dimensional Travel]]ers:
 - **Documentation Problems**: Difficulty proving identity across realities
 - **Adaptation Services**: Helping individuals manage multidimensional existence
 - **Medical Facilities**: Treating dimensional integration disorders
@@ -430,11 +430,11 @@ Customs House is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Customs House as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Customs House.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

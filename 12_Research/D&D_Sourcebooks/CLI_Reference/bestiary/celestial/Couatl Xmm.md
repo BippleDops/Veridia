@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-couatl-xmm-couatl-xmm.svg)
 
-# [[couatl xmm|Couatl]]
+# [[Couatl Xmm]]
 *Source: Monster Manual (2024) p. 82. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -111,18 +111,18 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
     "name": "Constrict"
   - "desc": "The couatl casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-      \ [[detect evil and good xphb|Detect Evil and Good]],\
-      \ [[detect magic xphb|Detect Magic]], [[detect thoughts xphb|Detect Thoughts]],\
-      \ [[shapechange xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[temporary hit points xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[temporary hit points xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[create food and water xphb|Create Food and Water]],\
-      \ [[dream xphb|Dream]], [[greater restoration xphb|Greater Restoration]],\
-      \ [[scrying xphb|Scrying]], [[sleep xphb|Sleep]]"
+      \ [[detect-evil-and-good-xphb (spells)]],\
+      \ [[detect-magic-xphb (spells)]], [[detect-thoughts-xphb (spells)]],\
+      \ [[Shapechange Xphb]] (Beast or Humanoid\
+      \ form only, no [[temporary-hit-points-xphb (variant-rules)]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb (variant-rules)]]\
+      \ required to maintain the spell)\n\n1/day each: [[Create Food and Water Xphb]],\
+      \ [[dream-xphb (spells)]], [[greater-restoration-xphb (spells)]],\
+      \ [[Scrying Xphb]], [[Sleep Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The couatl casts [[bless xphb|Bless]], [[lesser restoration xphb|Lesser\]]
-      \ Restoration]], or [[sanctuary xphb|Sanctuary]],\
+  - "desc": "The couatl casts [[Bless Xphb]], [[Lesser Restoration Xphb]]
+      \ Restoration]], or [[sanctuary-xphb (spells)]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

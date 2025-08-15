@@ -149,6 +149,18 @@ His movements are deliberate and somewhat mechanical, as if coordinating the act
 
 Crust dwells in the Symbiosis Depths, an area of the deep ocean where the boundaries between individual organisms have broken down entirely. Here, entire ecosystems exist as single entities, and the concept of "self" becomes fluid and negotiable.
 
+
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
 ## Relationships
 
 **Allies:**
@@ -185,6 +197,11 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 **Primary**: Study and preserve the unique life forms of the deepest ocean
 **Secondary**: Perfect the art of beneficial symbiosis between different species
 **Hidden**: Find a way to maintain his individual identity within his collective consciousness
+
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
 
 ## Roleplaying Notes
 
@@ -335,3 +352,40 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

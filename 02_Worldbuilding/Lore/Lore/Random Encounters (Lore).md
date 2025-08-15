@@ -83,3 +83,10 @@ improvements: 20
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

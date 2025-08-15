@@ -1,11 +1,11 @@
 ---
 
 title: Nereidios
-type: Location
+type: [[location]]
 tags:
 - both
 - world/surface
-- world/aquabyssos
+- world/[[Aquabyssos]]
 - quest
 - knowledge
 - content/location
@@ -24,7 +24,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: ~500000
 MyCategory: Unknown
 MyContainer: None
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,7 +101,7 @@ improvements: 20
 
 ## Overview
 
-A vast library-city where the boundary between knowledge and reality has dissolved. The continent exists as much in thought as in physical space. Buildings are constructed from crystallized ideas, streets flow like streams of consciousness, and the very air carries whispers of forbidden knowledge.
+A vast library-city where the boundary between knowledge and reality has dissolved. The continent exists as much in thought as in physical space. Buildings are constructed from crystallized ideas, streets flow like streams of consciousness, and the very air carries whispers of [[Forbidden Knowledge]].
 
 ## Government: The Cognition Collective
 
@@ -109,7 +109,7 @@ A hive mind of preserved brains in jars, connected by neural fluid flowing throu
 
 ## The Dark Secret
 
-The scholars discovered their reality is itself being written. The Infinite Archive contains books that describe everything happening in Aquabyssos in real-time, and editing these books changes reality. A secret war rages between those trying to write better endings and those trying to preserve the narrative.
+The scholars discovered their reality is itself being written. The Infinite Archive contains books that describe everything happening in Aquabyssos in real-[[Time]], and editing these books changes reality. A secret war rages between those trying to write better endings and those trying to preserve the narrative.
 
 ## Adventure Hooks
 
@@ -125,18 +125,18 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 > *"We discovered the truth: every book is true somewhere, every story is real to someone, and every ending is just another beginning we haven't read yet."* - Unknown Scholar
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Random Encounters (d6)
+### [[[[Random Encounter]]s]] (d6)
 
 1. Aggressive autobiography trying to rewrite passersby
 2. Swarm of punctuation marks escaped from grammar prison
-3. Memory merchant offering suspicious deals
+3. Memory [[Merchant]] offering suspicious deals
 4. Thought-form of someone's nightmare
 5. Paradox zone where effect precedes cause
 6. Living equation seeking solution
@@ -145,7 +145,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 Nereidios is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Nereidios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nereidios.
 
@@ -169,6 +169,27 @@ Nereidios is a notable location characterized by its unique features and strateg
 ### Founding
 Nereidios was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
 ## Current Events
 
 Ongoing situations affecting Nereidios:
@@ -179,3 +200,40 @@ Ongoing situations affecting Nereidios:
 - External threats
 - Opportunities arising
 
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

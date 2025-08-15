@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-slaad-xphb-aberrant-spirit-slaad-xphb.svg)
 
-# [[aberrant spirit slaad xphb|Aberrant Spirit (Slaad)]]
+# [[aberrant-spirit-slaad-xphb (aberration)]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock

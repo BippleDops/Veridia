@@ -17,15 +17,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 23: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -139,3 +139,18 @@ Mentioned in The Second Prophecy of Shadows
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

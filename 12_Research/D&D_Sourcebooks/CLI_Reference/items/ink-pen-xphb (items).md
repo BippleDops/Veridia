@@ -40,7 +40,7 @@ world: Both
 
 - **Cost**: 2 cp
 
-Using [[ink xphb|Ink]], an Ink Pen is used to write or draw.
+Using [[Blink Xphb]], an Ink Pen is used to write or draw.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

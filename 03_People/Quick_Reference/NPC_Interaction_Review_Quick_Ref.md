@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Interaction_Review - Quick Reference
 
 ## Key Info

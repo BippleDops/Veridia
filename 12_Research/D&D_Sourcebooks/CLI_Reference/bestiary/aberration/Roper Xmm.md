@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-roper-xmm-roper-xmm.svg)
 
-# [[roper xmm|Roper]]
+# [[roper-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 262. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -74,7 +74,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [[wild magic zone xdmg|Wild Magic zones]]. |
+| 3 | "dead magic zone" or [[Wild Magic Zone Xdmg]]. |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |
@@ -124,7 +124,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
       \ condition (escape DC 14) from one of six tentacles, and the target has the\
       \ [[conditions#Poisoned|Poisoned]] condition until the grapple\
       \ ends.\n\nThe tentacle can be damaged, freeing a creature it has [[conditions#Grappled|Grappled]]\
-      \ when destroyed (AC 20, HP 10, [[immunity xphb|Immunity]]\
+      \ when destroyed (AC 20, HP 10, [[immunity-xphb (variant-rules)]]\
       \ to Poison and Psychic damage). Damaging the tentacle deals no damage to the\
       \ roper, and a destroyed tentacle regrows at the start of the roper's next turn."
     "name": "Tentacle"

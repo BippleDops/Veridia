@@ -1,14 +1,14 @@
 ---
 
-title: The Order of the Shattered Crown
-type: Location
+title: The [[Order of the Shattered Crown]]
+type: [[location]]
 tags:
 - redemption
 - status/complete
 - content/faction
 - content/location
 - place
-- world/aethermoor
+- world/[[Aethermoor]]
 - fallen-nobility
 - location
 - complete
@@ -19,7 +19,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,10 +95,10 @@ improvements: 20
 - Detail common objects and their cultural significance
 
 ## Overview
-The Order of the Shattered Crown is a religious organization composed primarily of former nobility who have renounced their titles and wealth to serve the common people. Founded after a devastating civil war, they seek redemption through charitable works and protection of the defenseless.
+The Order of the Shattered Crown is a religious [[Organization]] composed primarily of former nobility who have renounced their titles and wealth to serve the common [[People]]. Founded after a devastating civil war, they seek redemption through charitable works and protection of the defenseless.
 
 ## History and Foundation
-Established 50 years ago following the War of Succession, when many noble houses were stripped of titles and lands for supporting the losing claimant. Rather than flee into exile, some chose to remain and serve those they had previously ruled over.
+Established 50 years ago following the War of Succession, when many [[Noble House]]s were stripped of titles and lands for supporting the losing claimant. Rather than flee into exile, some chose to remain and serve those they had previously ruled over.
 
 ## Core Philosophy
 **Redemption Through Service**: Past mistakes redeemed by helping others
@@ -110,7 +110,7 @@ Established 50 years ago following the War of Succession, when many noble houses
 ## Organization Structure
 **Grand Prior**: Supreme leader, elected from membership
 **Chapter Priors**: Regional leaders overseeing local operations
-**Knight-Brothers**: Former nobles who serve as protectors
+**[[Knight]]-Brothers**: Former nobles who serve as protectors
 **Sister-Servants**: Former noblewomen focusing on charitable works
 **Lay Members**: Common citizens who support the Order's mission
 
@@ -118,7 +118,7 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Grand Prior Marcus Brokenhelm**: Former duke who lost everything in the war
 **Prior Sarah Ashcrown**: Ex-countess organizing relief efforts
 **Knight-Commander Rex Fallenstar**: Military leader coordinating protection services
-**Sister Superior Elena Goldless**: Former merchant princess managing charitable operations
+**Sister Superior Elena Goldless**: Former [[Merchant]] princess managing charitable operations
 **Brother Librarian Thomas Bookless**: Scholar maintaining Order's records
 
 ## Primary Activities
@@ -139,7 +139,7 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Shattered Keep**: Main monastery converted from ruined noble castle
 **Chapter Houses**: Regional centers in major cities and towns
 **Charitable Facilities**: Orphanages, clinics, schools, and soup kitchens
-**Sacred Sites**: Places of pilgrimage and spiritual reflection
+**Sacred Sites**: [[Places]] of pilgrimage and spiritual reflection
 **Working Farms**: Agricultural properties supporting charitable operations
 
 ## Daily Routine
@@ -155,10 +155,10 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Service**: Dedicating all efforts to helping others
 **Humility**: Rejecting pride and accepting humble circumstances
 **Forgiveness**: Seeking and granting absolution for past wrongs
-**Community**: Prioritizing collective welfare over individual desires
+**Community**: Prioritizing collective welfare over individual de[[Sire]]s
 
 ## Public Perception
-**Common People**: Generally positive, appreciating charitable works
+**[[Common People]]**: Generally positive, appreciating charitable works
 **Current Nobility**: Mixed reactions, some suspicious of motives
 **Religious Authorities**: Supportive of redemptive mission
 **Government**: Cautiously approving of social stability benefits
@@ -176,7 +176,7 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Rural Protection**: Expanding knight-brother patrols to remote villages
 **Medical Training**: Teaching basic healing skills to community volunteers
 **Disaster Preparedness**: Creating emergency response plans for natural catastrophes
-**Reconciliation Initiative**: Programs bringing together former war enemies
+**Reconciliation [[Initiative]]**: Programs bringing together former war enemies
 
 ## Adventure Hooks
 1. Bandits threaten Order facility, requiring protection
@@ -208,14 +208,14 @@ Established 50 years ago following the War of Succession, when many noble houses
 ## Relationships
 **Local Communities**: Strong bonds with people they serve
 **Religious Hierarchy**: Cooperative relationship with established churches
-**Government Officials**: Cautious but generally positive interactions
+**[[Government Officia]]ls**: Cautious but generally positive interactions
 **International Orders**: Exchange programs with similar organizations
 **Former Enemies**: Ongoing reconciliation efforts with war opponents
 
 ## Sacred Symbols and Rituals
 **Broken Crown**: Symbol of renounced nobility and humble service
 **Redemption Ceremonies**: Rituals for new members joining Order
-**Service Blessing**: Daily prayers dedicating work to divine service
+**Service [[Bless]]ing**: Daily prayers dedicating work to divine service
 **Community Meals**: Shared dining emphasizing equality and fellowship
 **Memorial Observances**: Remembering victims of past conflicts
 
@@ -226,21 +226,21 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Succession**: Training next generation of leadership
 **Legacy**: Creating lasting institutions outliving current membership
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 The Order provides opportunities for redemption-themed adventures, charitable missions, and exploration of themes around forgiveness and second chances. Their unique background as former nobility creates interesting political dynamics and character development opportunities.
 
 ## Player-Facing Summary
 
 The Order of the Shattered Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Order of the Shattered Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Order of the Shattered Crown.
 
@@ -261,6 +261,34 @@ The Order of the Shattered Crown is a notable location characterized by its uniq
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Order of the Shattered Crown:
@@ -275,3 +303,35 @@ Ongoing situations affecting The Order of the Shattered Crown:
 
 - Someone is hunting a artifact for revenge
 - A corpse reveals the truth about this place
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

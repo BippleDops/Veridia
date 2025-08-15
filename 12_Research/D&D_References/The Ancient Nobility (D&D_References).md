@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Sibling**: [[Assets Locations Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
-- **Parent**: [[portrait-npc-the-schooling-v1-the-schooling.svg]]
-- **Ally**: [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
-- **Debtor**: [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]
-- **Debtor**: [[Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg]]
+- **Sibling**: [[Forge Master Petra Hammerdeep]]
+- **Parent**: [[Npc]]
+- **Ally**: [[Marina]]
+- **Debtor**: [[garden]]
+- **Debtor**: [[Npc]]
 
 ## Plot Hooks
 

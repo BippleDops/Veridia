@@ -56,11 +56,11 @@ You gain these benefits while wearing the robe.
 
 ## Armor
 
-If you aren't wearing armor, your base [[armor class xphb|Armor Class]] is 15 plus your Dexterity modifier.
+If you aren't wearing armor, your base [[armor-class-xphb (variant-rules)]] is 15 plus your Dexterity modifier.
 
 ## Magic Resistance
 
-You have [[advantage xphb|Advantage]] on saving throws against spells and other magical effects.
+You have [[Advantage Xphb]] on saving throws against spells and other magical effects.
 
 ## War Mage
 

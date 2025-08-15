@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 9 Warlock
 
-You can cast [[arcane eye xphb|Arcane Eye]] without expending a spell slot.
+You can cast [[Arcane Eye Xphb]] without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

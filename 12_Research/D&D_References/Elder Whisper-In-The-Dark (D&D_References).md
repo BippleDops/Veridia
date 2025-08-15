@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Debtor**: [[Surface Syndicate]]
-- **Parent**: [[Portrait NPC High Priestess Scylla Deepdream High Priestess Scylla Deepdream.svg]]
+- **Parent**: [[Npc]]
 - **Creditor**: [[Coral Duchess Amphitrite]]
 
 ## Plot Hooks

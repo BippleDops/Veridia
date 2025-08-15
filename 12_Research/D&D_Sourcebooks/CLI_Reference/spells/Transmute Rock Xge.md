@@ -72,7 +72,7 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 169*
 

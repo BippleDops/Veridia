@@ -43,7 +43,7 @@ world: Both
 
 Until the spell ends, your attacks with weapons deal an extra `d4` Radiant damage on a hit.
 
-**Classes**: [[list spells classes paladin|Paladin]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
 
@@ -89,3 +89,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

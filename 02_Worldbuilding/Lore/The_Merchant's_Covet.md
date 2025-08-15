@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# The Merchant's Covet
+# The [[[[Merchant]]'s Covet]]
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of The Merchant's Covet involves several interconnected componen
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of The Merchant's Covet trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to The Merchant's Covet are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view The Merchant's Covet through their own cultural lenses:
+Different [[Groups]] view The Merchant's Covet through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of The Merchant's Covet:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How The Merchant's Covet has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate The Merchant's Covet into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways The Merchant's Covet might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #the-merchant's-covet
+*Tags*: [[#General]] #worldbuilding #the-merchant's-covet

@@ -1,7 +1,7 @@
 ---
 
-title: Timeline of the Drowning
-type: Lore
+title: [[Timeline]] of [[The Drowning]]
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -34,7 +34,7 @@ improvements: 20
 
 # Timeline of the Drowning
 
-*The Great Submersion That Created Aquabyssos*
+*[[The Great Submersion]] That Created Aquabyssos*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,9 +90,9 @@ improvements: 20
 
 ## Overview
 
-The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
+The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[Deep Mother]]]] as she began her long awakening.
 
-## Pre-Drowning Era: The Tethyan Hegemony
+## Pre-Drowning Era: [[Tethyan Hegemony]]]]
 
 *Dates: Ancient Era - Year 0 (Before Submersion)*
 
@@ -103,7 +103,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Advanced civilization with crystal-based technology similar to [[Aethermoor]]
 - Population of approximately 50 million across seven major city-states
 - Sophisticated understanding of pressure, water, and depth-based engineering
-- Complex trade networks spanning three continents
+- Complex [[Trade Networks]] spanning three continents
 - Advanced memory preservation techniques using crystal matrices
 
 ### The Great Cities (Pre-Submersion)
@@ -111,7 +111,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Major Population Centers:**
 1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
 2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime   Pressure Terminal]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
 5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
 6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]
@@ -150,11 +150,11 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Marine life exhibiting strange behavioral changes
 - Spontaneous appearance of previously unknown deep-sea species in shallow water
 - Increase in seismic activity along ocean trenches
-- Reports of "singing" from deep ocean locations
+- [[reports]] of "singing" from deep ocean [[location]]s
 
 **Year -75 BS: The Dream Plague**
 - Mass shared dreams of underwater cities and breathing water
-- Religious leaders interpreting visions as divine messages
+- [[Religious Leaders]] interpreting visions as divine messages
 - Scientific expeditions to deep ocean locations reporting impossible discoveries
 - First documented cases of humans developing primitive gills
 - Spontaneous creation of pressure-resistant body modifications
@@ -163,15 +163,15 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Localized areas where atmospheric pressure fluctuates wildly
 - Water behaving as if under deep ocean pressure at surface level
 - Buildings beginning to spontaneously adapt for underwater habitation
-- Crystal technology starting to respond to water presence
-- Reports of people briefly becoming able to breathe underwater
+- [[Crystal Technology]] starting to respond to water presence
+- Reports of [[People]] briefly becoming able to breathe underwater
 
 **Year -25 BS: The Shadow Waters**
 - Dark, unusually heavy water appearing in sacred sites
-- Shadow corruption beginning to manifest in aquatic forms
-- Memory alterations affecting those who interact with anomalous water
+- [[Shadow Corruption]] beginning to manifest in aquatic forms
+- [[Memory Alterations]] affecting those who interact with anomalous water
 - Temporal distortions around major bodies of water
-- First appearance of [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/legendary group/aboleth]] creatures in accessible depths
+- First appearance of [[Bestiary]] creatures in accessible depths
 
 **Year -10 BS: The False Tides**
 - Daily "phantom tides" occurring hundreds of miles inland
@@ -190,7 +190,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Water levels begin rising at approximately 3 feet per year
 - Initially, populations adapt by building higher and developing water-resistant technologies
 - Water exhibits unusual properties: breathable for adapted individuals, perfect pressure
-- Mass religious movements declaring this as divine blessing
+- Mass religious movements declaring this as divine [[Bless]]ing
 - Voluntary submersion rituals become commonplace
 - First generation of "Depth-Born" children with natural aquatic adaptations
 
@@ -205,15 +205,15 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Year 5-15 AS: The Commitment**
 - Water levels accelerate to 10 feet per year
 - Surface infrastructure begins comprehensive conversion to underwater functionality
-- Development of the first pressure-based currency and economic systems
+- Development of the first pressure-based currency and [[Economic System]]s
 - Establishment of depth-stratified social hierarchies
 - Mass extinction of surface-dependent species, evolution of aquatic replacements
 
 **Key Developments:**
 - **The New Architecture** (Year 7 AS): Complete redesign of cities for underwater living
 - **The Depth Castes** (Year 9 AS): Social stratification based on how deep one can safely descend
-- **The Memory Tides** (Year 11 AS): Discovery that water carries and transfers memories between individuals
-- **The Aboleth Accords** (Year 13 AS): First diplomatic contact with ancient deep-sea intelligences
+- **The [[Memory Tides]]** (Year 11 AS): Discovery that water carries and transfers memories between individuals
+- **The [[Aboleth]] Accords** (Year 13 AS): First diplomatic contact with ancient deep-sea intelligences
 - **The Pressure Codex** (Year 14 AS): Legal framework adapted for underwater civilization
 
 ### Phase Three: The Profound Submersion
@@ -221,23 +221,23 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Year 15-35 AS: The Transformation**
 - Water levels reach final depths of 2-8 miles above original surface
 - Complete biological and technological adaptation to aquatic existence
-- Development of pressure-based magic and memory manipulation
+- Development of pressure-based magic and [[Memory Manipulation]]
 - Establishment of the depth-zone governmental system
 - First contact with [[The Deep Mother]]'s direct servants
 
 **Critical Events:**
 - **The Deep Parliament** (Year 18 AS): First underwater democratic assembly in former Tethyopolis
-- **The Pressure Wars** (Year 22 AS): Conflicts between depth-adapted and surface-nostalgic factions
+- **[[The Pressure Wars]]** (Year 22 AS): Conflicts between depth-adapted and surface-nostalgic factions
 - **The Great Memory Synthesis** (Year 26 AS): Combining pre-Drowning knowledge with deep-sea wisdom
-- **The First Deep Expeditions** (Year 29 AS): Exploration of previously impossible ocean depths
+- **The First [[Deep Expeditions]]** (Year 29 AS): Exploration of previously impossible ocean depths
 - **The Shadow Integration** (Year 33 AS): Learning to coexist with shadow corruption as natural element
 
 ### Phase Four: The Deep Stabilization
 
 **Year 35-50 AS: The New Order**
 - Establishment of stable underwater ecosystem and civilization
-- Development of inter-depth trade networks and communication systems
-- Creation of the modern Aquabyssos governmental structure
+- Development of inter-depth trade networks and [[Communication_Systems]]
+- Creation of the modern [[Aquabyssos Government]]al structure
 - Full integration with deep-sea entities and ecosystems
 - Beginning of expansion into previously uninhabitable ocean trenches
 
@@ -270,7 +270,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Discovery of connections to surface world [[Aethermoor]]
 - Beginning of dimensional research programs
 
-### The Memory Wars
+### [[The Memory Wars]]
 
 **Years 400-600 AS**
 - Conflicts over control of memory-manipulation technology
@@ -281,7 +281,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ### The Modern Era
 
-**Years 600+ AS (Current Time)**
+**Years 600+ AS (Current [[Time]])**
 - Current political and social structure
 - Ongoing shadow corruption management
 - Diplomatic contact with surface world
@@ -339,9 +339,9 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **New Deep Technologies:**
 - **Pressure Forging**: Using ocean depth to create materials impossible on surface
 - **Memory Crystallization**: Storing experiences and knowledge in transferable formats
-- **Bio-Acoustic Systems**: Technology based on whale and dolphin communication
+- **Bio-Acoustic Systems**: Technology based on whale and [[Dolphin]] communication
 - **Current Engineering**: Redirecting and utilizing ocean currents for power and transport
-- **Depth Agriculture**: Farming systems utilizing pressure differentials and thermal vents
+- **Depth Agriculture**: Farming systems utilizing [[Pressure Differential]]s and thermal vents
 
 ### Lost Technologies
 
@@ -369,17 +369,17 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Establishment of underwater temples and sacred sites
 
 **New Religious Movements:**
-- **The Drowned Prophets**: Extreme devotion to [[The Deep Mother]]
-- **The Memory Keepers**: Preservation of pre-Drowning spiritual practices
-- **The Shadow Shepherds**: Integration of shadow corruption into worship
+- **The [[Drowned]] Prophets**: Extreme devotion to [[The Deep Mother]]
+- **The [[The Memory Keepers Guild]] (D&D_References)]]**: Preservation of pre-Drowning spiritual practices
+- **[[The Shadow Shepherds]]**: Integration of shadow corruption into worship
 - **The Current Followers**: Worship of ocean flows and pressure systems
-- **The Depth Seekers**: Constant pursuit of deeper spiritual experiences
+- **The [[Depth Seekers]]**: Constant pursuit of deeper spiritual experiences
 
 ### Social Structure Evolution
 
 **Pre-Drowning Hierarchy:**
-- Traditional monarchy with noble houses
-- Merchant class controlling trade networks
+- Traditional monarchy with [[[[Noble House]]s]]
+- [[Merchant]] class controlling trade networks
 - Scholarly class maintaining knowledge
 - Artisan class creating technology and art
 - Agricultural class supporting food production
@@ -437,7 +437,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 **Pre-Drowning System:**
 - Central monarchy with regional governors
-- Noble houses controlling territories
+- [[Noble Houses]] controlling territories
 - City-states with local autonomy
 - Guild representation in policy making
 - Religious authority advising secular power
@@ -445,7 +445,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Post-Drowning Parliament System:**
 - **[[Parliament of Echoes]]**: Democratic assembly in former capital
 - **Depth Councils**: Representatives from each pressure zone
-- **Memory Tribunals**: Judicial system using memory evidence
+- **Memory Tribunals**: Judicial system using memory [[Evidence]]
 - **Shadow Integration Board**: Managing corruption phenomena
 - **Current Coordination Committee**: Infrastructure and transportation
 
@@ -453,7 +453,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Executive authority shared between depth zone representatives
 - Legislative power distributed by population and depth capability
 - Judicial authority combines traditional law with memory evidence
-- Military command structured around depth-based specialization
+- [[Military Command]] structured around depth-based specialization
 - Economic regulation adapted for new depth-based systems
 
 ### Ecosystem Transformation
@@ -489,7 +489,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### Pre-Drowning Historical Methods
 
 **Traditional Preservation:**
-- Written records in crystal-preserved libraries
+- Written records in crystal-preserved [[Libraries]]
 - Oral traditions maintained by scholarly classes
 - Artistic representations in permanent materials
 - Religious texts preserved in temple archives
@@ -514,7 +514,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### The Resistance Movements
 
 **Surface Loyalists (Years 0-25):**
-- Groups attempting to maintain pre-Drowning civilization
+- [[Groups]] attempting to maintain pre-Drowning civilization
 - Efforts to create permanent air-filled spaces
 - Rejection of biological adaptation processes
 - Attempts to develop technology for returning to surface
@@ -546,7 +546,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### Contemporary Consequences
 
 **Social Structure:**
-- Depth-based hierarchy remains domit social organization
+- Depth-based hierarchy remains domit social [[Organization]]
 - Memory transfer creates shared cultural experiences
 - Shadow integration affects daily life and decision-making
 - Pressure adaptation capabilities determine life opportunities
@@ -556,7 +556,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - All modern technology adapted for underwater operation
 - Pressure-based energy systems provide sustainable power
 - Memory crystallization enables efficient knowledge transfer
-- Bio-acoustic communication networks connect all settlements
+- Bio-acoustic [[Communication Networks]] connect all settlements
 - Shadow manipulation provides unique technological capabilities
 
 **Cultural Identity:**
@@ -570,7 +570,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 **Ongoing Challenges:**
 - Shadow corruption continues to spread and evolve
-- Memory alteration creates questions about historical accuracy
+- [[Memory Alteration]] creates questions about historical accuracy
 - Depth hierarchy creates social inequality and conflict
 - Connection to surface world [[Aethermoor]] raises identity questions
 - [[The Deep Mother]]'s increasing activity creates uncertainty
@@ -603,11 +603,11 @@ Timeline of the Drowning is a undersea element of the setting, known for biolumi
 
 Legends speak of Timeline of the Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline of the Drowning.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

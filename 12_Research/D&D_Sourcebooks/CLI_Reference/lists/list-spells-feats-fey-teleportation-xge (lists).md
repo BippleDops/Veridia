@@ -63,3 +63,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help delivering before winter
 - A map reveals a conspiracy about the cult
 - Someone is protecting information for money
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-feats-fey-teleportation-xge (lists)-phb]]` in CLI_Reference/spells/

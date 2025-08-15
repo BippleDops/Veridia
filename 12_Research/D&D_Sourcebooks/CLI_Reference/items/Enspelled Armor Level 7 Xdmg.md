@@ -113,3 +113,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help stealing before the festival
 - Someone is protecting information for power
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

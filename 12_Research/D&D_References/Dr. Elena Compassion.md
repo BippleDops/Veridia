@@ -1,10 +1,12 @@
 ---
+
 title: Dr. Elena Compassion
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Dr. Elena Compassion
@@ -54,16 +56,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[maddening darkness xge]]
-- [[dwarves on the move group leader mtf]]
+- [[maddening-darkness-xge]]
+- [[dwarves-on-the-move-group-leader-mtf (tables)]]
 - [[Nurse Nightshade]]
 - [[Heritage Keeper Memoryshade]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[guild artisan]]
-- [[guild artisan guild merchant variant]]
+- [[githzerai-groups-githzerai-group-leader-mtf]]
+- [[guild-artisan (backgrounds)]]
+- [[Guild Artisan Guild Merchant Variant]]
 
 ## Related
 
@@ -75,3 +77,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest a curse
 - The authorities needs help delivering before dawn
 - Someone is blackmailing an heir for power
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

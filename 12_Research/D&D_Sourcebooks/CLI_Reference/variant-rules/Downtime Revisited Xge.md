@@ -142,19 +142,19 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [[downtime activity buying a magic item xge|Buying a Magic Item]]  
-- [[downtime activity carousing xge|Carousing]]  
-- [[downtime activity crafting an item xge|Crafting an Item]]  
-- [[downtime activity crime xge|Crime]]  
-- [[downtime activity gambling xge|Gambling]]  
-- [[downtime activity pit fighting xge|Pit Fighting]]  
-- [[downtime activity relaxation xge|Relaxation]]  
-- [[downtime activity religious service xge|Religious Service]]  
-- [[downtime activity research xge|Research]]  
-- [[downtime activity scribing a spell scroll xge|Scribing a Spell Scroll]]  
-- [[downtime activity selling a magic item xge|Selling a Magic Item]]  
-- [[downtime activity training xge|Training]]  
-- [[downtime activity work xge|Work]]
+- [[Downtime Activity Buying a Magic Item Xge]]  
+- [[Time]]  
+- [[downtime-activity-crafting-an-item-xge (variant-rules)]]  
+- [[Downtime Activity Crime Xge]]  
+- [[downtime-activity-gambling-xge (variant-rules)]]  
+- [[Downtime Activity Pit Fighting Xge]]  
+- [[Downtime Activity Relaxation Xge]]  
+- [[Religious Service Xge]]  
+- [[downtime-activity-research-xge (variant-rules)]]  
+- [[Time]]  
+- [[Downtime Activity Selling a Magic Item Xge]]  
+- [[Downtime Activity Training Xge]]  
+- [[downtime-activity-work-xge (variant-rules)]]
 
 ## Player-Facing Summary
 

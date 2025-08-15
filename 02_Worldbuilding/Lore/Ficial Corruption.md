@@ -3,20 +3,20 @@ title: Ficial Corruption
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Ficial Corruption
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Dr Reef Brightwater V1 Dr Reef Brightwater.svg]] and other parts of the campaign.
+This topic is referenced in [[Dr Reef Brightwater]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Dr Reef Brightwater V1 Dr Reef Brightwater.svg]]
+- Referenced by: [[Dr Reef Brightwater]]
 - Related topics in the same category
 
 ## Details

@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS
@@ -22,7 +22,7 @@ The full nature of 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS involves seve
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS are various other i
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS through their own cultural lenses:
+Different [[Groups]] view 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS into gamepla
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #08_archive/planning/100_next_level_improvements
+*Tags*: [[#General]] #worldbuilding #08_archive/planning/100_next_level_improvements

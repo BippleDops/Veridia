@@ -46,7 +46,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 1.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 283*
 

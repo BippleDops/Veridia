@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-demon-xmm-shadow-demon-xmm.svg)
 
-# [[shadow demon xmm|Shadow Demon]]
+# [[Shadow Demon Xmm]]
 *Source: Monster Manual (2024) p. 273*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -111,23 +111,23 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 "cr": "4"
 "traits":
   - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
   - "desc": "The demon can move through other creatures and objects as if they were\
-      \ [[difficult terrain xphb|Difficult Terrain]].\
+      \ [[Difficult Terrain Xphb]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in [[bright light xphb|Bright Light]],\
-      \ the demon has [[disadvantage xphb|Disadvantage]]\
+  - "desc": "While in [[Light Xphb]],\
+      \ the demon has [[Advantage Xphb]]\
       \ on ability checks and attack rolls."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 16 (3d8 + 3) Psychic damage."
     "name": "Umbral Claw"
 "bonus_actions":
-  - "desc": "While in [[dim light xphb|Dim Light]]\
-      \ or [[darkness xphb|Darkness]], the demon\
+  - "desc": "While in [[Light Xphb]]\
+      \ or [[darkness-xphb (variant-rules)]], the demon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

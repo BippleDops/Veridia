@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
 
-# [[hound of ill omen xge|Hound of Ill Omen]]
+# [[hound-of-ill-omen-xge (monstrosity)]]
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock

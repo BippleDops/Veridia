@@ -1,7 +1,7 @@
 ---
 
 title: Festival Coordinator Luna Celebration
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -67,11 +67,11 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Overview
 
-02_Worldbuilding/People/Festival Coordinator Luna Celebration represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/[[People]]/Festival Coordinator Luna Celebration represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 02_Worldbuilding/People/Festival Coordinator Luna Celebration can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -83,7 +83,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/People/Festival Coordinator Luna Celebration involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/People/Festival Coordinator Luna Celebration trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -94,7 +94,7 @@ Connected to 02_Worldbuilding/People/Festival Coordinator Luna Celebration are v
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/People/Festival Coordinator Luna Celebration through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/People/Festival Coordinator Luna Celebration through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -163,7 +163,7 @@ The current state of 02_Worldbuilding/People/Festival Coordinator Luna Celebrati
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/People/Festival Coordinator Luna Celebration has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -196,7 +196,7 @@ Ways to incorporate 02_Worldbuilding/People/Festival Coordinator Luna Celebratio
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -217,7 +217,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/People/Festival Coordinator Luna Celebration might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -236,7 +236,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -259,7 +259,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/people/festival-coordinator-luna-celebration
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/people/festival-coordinator-luna-celebration
 
 ## Cultural Impact
 
@@ -271,7 +271,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is hunting a artifact for power
 - Strange dreams suggest ancient magic
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -286,7 +286,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Economic Structure
 

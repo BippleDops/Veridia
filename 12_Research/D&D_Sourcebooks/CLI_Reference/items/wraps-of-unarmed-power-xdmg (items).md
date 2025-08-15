@@ -40,9 +40,9 @@ world: Both
 
 **Items in this group:**
 
-- [[1 wraps of unarmed power xdmg|+1 Wraps of Unarmed Power]]
-- [[2 wraps of unarmed power xdmg|+2 Wraps of Unarmed Power]]
-- [[3 wraps of unarmed power xdmg|+3 Wraps of Unarmed Power]]
+- [[1-wraps-of-unarmed-power-xdmg (items)]]
+- [[2-wraps-of-unarmed-power-xdmg (items)]]
+- [[3-wraps-of-unarmed-power-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 325*
 

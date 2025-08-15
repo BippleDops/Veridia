@@ -44,7 +44,7 @@ updated: '2025-08-13T12:34:05.297023+00:00'
 world: Both
 ---
 
-# [[swarm of stirges xmm|Swarm of Stirges]]
+# [[swarm-of-stirges-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 299*  
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
@@ -110,12 +110,12 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [[hit points xphb|Hit Points]]\
-      \ or gain [[temporary hit points xphb|Temporary Hit Points]]."
+      \ can't regain [[hit-points-xphb (variant-rules)]]\
+      \ or gain [[temporary-hit-points-xphb (variant-rules)]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage,\
-      \ or 8 (1d10 + 3) Piercing damage if the swarm is [[bloodied xphb|Bloodied]].\
+      \ or 8 (1d10 + 3) Piercing damage if the swarm is [[bloodied-xphb (variant-rules)]].\
       \ If the target is a Medium or smaller creature in the swarm's space, the target\
       \ has the [[conditions#Grappled|Grappled]] condition (escape\
       \ DC 13). Until the grapple ends, the target takes 7 (2d6) Necrotic damage at\

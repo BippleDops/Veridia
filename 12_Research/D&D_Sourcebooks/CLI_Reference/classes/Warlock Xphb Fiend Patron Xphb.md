@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Fiend Patron
-*[[warlock xphb|Warlock]]: Warlock Subclass*  
+*[[warlock-xphb-fiend-patron-xphb (classes)]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -76,31 +76,31 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[burning hands xphb|Burning Hands]], [[command xphb|Command]], [[scorching ray xphb|Scorching Ray]], [[suggestion xphb|Suggestion]] |
-| 5 | [[fireball xphb|Fireball]], [[stinking cloud xphb|Stinking Cloud]] |
-| 7 | [[fire shield xphb|Fire Shield]], [[wall of fire xphb|Wall of Fire]] |
-| 9 | [[geas xphb|Geas]], [[insect plague xphb|Insect Plague]] |
+| 3 | [[Burning Hands Xphb]], [[command-xphb (spells)]], [[Scorching Ray Xphb]], [[Suggestion Xphb]] |
+| 5 | [[fireball-xphb (spells)]], [[stinking-cloud-xphb (spells)]] |
+| 7 | [[Shield]], [[wall-of-fire-xphb (spells)]] |
+| 9 | [[geas-xphb (spells)]], [[Insect Plague Xphb]] |
 ^fiend-spells
 
 ### Dark One's Blessing (Level 3)
 
-When you reduce an enemy to 0 [[hit points xphb|Hit Points]], you gain [[temporary hit points xphb|Temporary Hit Points]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[temporary hit points xphb|Temporary Hit Point]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[hit points xphb|Hit Points]].
+When you reduce an enemy to 0 [[hit-points-xphb (variant-rules)]], you gain [[temporary-hit-points-xphb (variant-rules)]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[temporary-hit-points-xphb (variant-rules)]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[hit-points-xphb (variant-rules)]].
 
 ### Dark One's Own Luck (Level 6)
 
 You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `d10` to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[long rest xphb|Long Rest]].
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[long-rest-xphb]].
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]]. You have [[resistance xphb|Resistance]] to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. You have [[boon-of-energy-resistance-xphb (feats)]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 
 Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [[conditions#Incapacitated|Incapacitated]] condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
-Once you use this feature, you can't use it again until you finish a [[long rest xphb|Long Rest]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ## 🔧 Deep Evaluation Improvements
 

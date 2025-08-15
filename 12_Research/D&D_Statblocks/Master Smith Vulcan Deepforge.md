@@ -216,7 +216,7 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 ### Professional Network
 
-**[[02 Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
+**[[Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
 
 **[[Military Commander Steel]]** - Primary liaison for military equipment projects, ensuring that Vulcan's creations meet operational requirements and combat effectiveness standards.
 

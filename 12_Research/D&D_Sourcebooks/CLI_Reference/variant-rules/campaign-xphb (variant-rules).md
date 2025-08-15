@@ -33,7 +33,7 @@ world: Both
 # Campaign
 *Source: Player's Handbook (2024) p. 362. Available in the SRD and the Free Rules (2024)* 
 
-A campaign is a series of [[adventure xphb|adventures]].
+A campaign is a series of [[adventure-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

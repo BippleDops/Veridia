@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
 
-# [[skeleton xmm|Skeleton]]
+# [[flaming-skeleton-xmm (undead)]]
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the SRD and the Free Rules (2024)*  
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.

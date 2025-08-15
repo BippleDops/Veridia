@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Dragontooth Dagger
-*Weapon ([[dagger xphb|dagger]]), rare*  
+*Weapon ([[Dagger Xphb]]), rare*  
 ![](/03_Mechanics/CLI/items/img/dragontooth-dagger.webp#right)
 
 - **Damage**: 1d4 piercing

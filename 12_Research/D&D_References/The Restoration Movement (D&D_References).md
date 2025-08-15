@@ -43,7 +43,7 @@ current_status: Active but Fragmented
 *Reclaiming the Deep Crown's Sacred Authority*
 
 > *"The depths remember what the surface has forgotten: that true authority flows not from the will of the many, but from the ancient compact between ruler and realm. We shall restore what was sundered, return what was lost, and rebuild what democratic chaos has torn down."*
-> — High Restorer [[Tidal Crown Maraleth]], addressing the Assembly of Sacred Depths
+> — High Restorer [[Tidal Crown]], addressing the Assembly of Sacred Depths
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -80,14 +80,14 @@ Covet's doctrine emphasized that [[Aquabyssos]]'s monarchical traditions were no
 The theological framework attracted support from traditional religious communities throughout [[Aquabyssos]], particularly in regions where ancient religious practices remained strong. Temples and shrines became centers for Restoration activities, providing organizational infrastructure and legitimacy for the growing movement.
 
 **Years 5-8 of the New Democratic Era** - **Political Organization**
-As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble Born Marina Deepcurrent]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
+As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble-Born Marina Deepcurrent]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
 
 The formation of the "Sacred Covet Party" marked the movement's entry into democratic politics, creating the paradox of using democratic processes to oppose democracy itself. The party's early electoral successes, particularly in traditional and rural areas, demonstrated significant popular support for Restoration ideals.
 
 However, participation in democratic goverce created tensions within the movement between "pragmatic restorationists" who sought change through existing institutions and "pure restorationists" who viewed any engagement with democratic processes as illegitimate compromise.
 
 **Years 8-12 of the New Democratic Era** - **The First Restoration Crisis**
-Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant Priest Abyssal]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
+Growing political success emboldened more radical elements within the movement to attempt direct action against democratic institutions. The "Deep Temple Conspiracy," led by [[Militant-Priest Abyssal (D&D_References)]], planned to use religious authority and traditional loyalties to dissolve the democratic government and install a provisional monarchical council.
 
 The conspiracy's discovery and suppression by democratic authorities created the movement's first martyrs while also demonstrating the practical limitations of purely traditional approaches to political change. The crisis forced the movement to confront fundamental questions about means, methods, and ultimate objectives.
 
@@ -110,7 +110,7 @@ The coalition's electoral successes, particularly in local and regional election
 This period saw the movement's greatest political influence, with Traditional Values Coalition politicians holding significant positions in regional governments and influencing national policy debates. However, this success came at the cost of ideological coherence, as electoral considerations forced compromises that many committed restorationists viewed as betrayal of core principles.
 
 **Years 25-30 of the New Democratic Era (Recent Past)** - **The Second Fragmentation**
-The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef Crown]] and radical "Pure Restorationists" led by [[High Restorer Tidal Crown Maraleth]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
+The movement's internal tensions culminated in a major split between moderate "Democratic Traditionalists" led by [[Political Leader Reef-Crown (D&D_References)]] and radical "Pure Restorationists" led by [[Tidal Crown]]. This split reflected fundamental disagreements about whether the movement's goals could be achieved through democratic processes or required revolutionary action.
 
 The Democratic Traditionalists argued that working within existing institutions while advocating traditional values offered the most realistic path to meaningful change. They emphasized cultural and religious restoration over political transformation, seeking to influence society gradually through education, religious revival, and peaceful political participation.
 
@@ -127,7 +127,7 @@ Recent years have seen increased sophistication in movement organization, with d
 
 ### The Democratic Traditionalists
 
-**Leader**: [[Political Leader Reef Crown]]
+**Leader**: [[Political Leader Reef-Crown (D&D_References)]]
 **Philosophy**: Gradual restoration of traditional values through democratic processes
 **Methods**: Electoral politics, cultural education, religious revival through [[Temple of the First Tide]] partnerships
 **Membership**: ~50,000 active supporters, broader sympathizer network coordinating through [[Reputation System]] influence networks
@@ -147,7 +147,7 @@ The Democratic Traditionalists represent the most moderate and politically succe
 
 ### The Pure Restorationists
 
-**Leader**: [[High Restorer Tidal Crown Maraleth]]
+**Leader**: [[Tidal Crown]]
 **Philosophy**: Complete restoration of traditional monarchical goverce
 **Methods**: Religious authority through [[Deep Mother Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] shadow networks
 **Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] communication systems

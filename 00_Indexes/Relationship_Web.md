@@ -1,4 +1,5 @@
 ---
+
 title: Relationship_Web
 type: note
 tags:
@@ -6,6 +7,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Relationship_Web
@@ -104,3 +106,19 @@ WHERE quests-given !=  OR contains(tags, "quest-giver")
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

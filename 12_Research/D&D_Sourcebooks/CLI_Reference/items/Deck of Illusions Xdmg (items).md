@@ -43,7 +43,7 @@ This box contains a set of cards. A full deck has 34 cards: 32 depicting specifi
 
 The magic of the deck functions only if its cards are drawn at random. You can take a [[actions#Magic|Magic]] action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of yourself. An illusion of a creature, determined by rolling on the Deck of Illusions table, forms over the thrown card and remains until dispelled. The illusory creature created by the card looks and behaves like a real creature of its kind, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can take a [[actions#Magic|Magic]] action to move it anywhere within 30 feet of its card.
 
-Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a [[actions#Study|Study]] action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The illusion lasts until its card is moved or the illusion is dispelled (using a [[dispel-magic-xphb|Dispel Magic]] spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
+Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a [[actions#Study|Study]] action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The illusion lasts until its card is moved or the illusion is dispelled (using a [[dispel-magic-xphb (spells)]] spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
 
 **Deck of Illusions**
 
@@ -51,17 +51,17 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 
 | dice: 1d100 | Illusion |
 |-------------|----------|
-| 01-03 | [[adult-red-dragon-xmm|Adult Red Dragon]] |
-| 04-06 | [[/03 Mechanics/CLI/bestiary/humanoid/archmage xmm|Archmage]] |
-| 07-09 | [[/03 Mechanics/CLI/bestiary/humanoid/assassin xmm|Assassin]] |
-| 10-12 | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]] |
-| 13-15 | [[beholder xmm|Beholder]] |
-| 16-18 | [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] |
+| 01-03 | [[Red Dragon Xmm]] |
+| 04-06 | [[Bestiary]] |
+| 07-09 | [[Bestiary]] |
+| 10-12 | [[Bestiary]] |
+| 13-15 | [[beholder]] |
+| 16-18 | [[Bestiary]] |
 | 19-21 | [[bugbear-warrior-xmm|Bugbear Warrior]] |
 | 22-24 | [[cloud-giant-xmm|Cloud Giant]] |
-| 25-27 | [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|Druid]] |
-| 28-30 | [[erinyes xmm|Erinyes]] |
-| 31-33 | [[ettin xmm|Ettin]] |
+| 25-27 | [[Bestiary]] |
+| 28-30 | [[erinyes-xmm (fiend)]] |
+| 31-33 | [[ettin-xmm (giant)]] |
 | 34-36 | [[fire-giant-xmm|Fire Giant]] |
 | 37-39 | [[frost-giant-xmm|Frost Giant]] |
 | 40-42 | [[gnoll-warrior-xmm|Gnoll Warrior]] |
@@ -69,20 +69,20 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 46-48 | [[guardian-naga-xmm|Guardian Naga]] |
 | 49-51 | [[hill-giant-xmm|Hill Giant]] |
 | 52-54 | [[hobgoblin-warrior-xmm|Hobgoblin Warrior]] |
-| 55-57 | [[incubus xmm|Incubus]] |
-| 58-60 | [[iron-golem-xmm|Iron Golem]] |
-| 61-63 | [[/03 Mechanics/CLI/bestiary/humanoid/knight xmm|Knight]] |
+| 55-57 | [[incubus-xmm (fiend)]] |
+| 58-60 | [[Iron Golem Xmm]] |
+| 61-63 | [[Bestiary]] |
 | 64-66 | [[kobold-warrior-xmm|Kobold Warrior]] |
-| 67-69 | [[lich xmm|Lich]] |
-| 70-72 | [[medusa xmm|Medusa]] |
-| 73-75 | [[night-hag-xmm|Night Hag]] |
-| 76-78 | [[ogre xmm|Ogre]] |
-| 79-81 | [[oni xmm|Oni]] |
-| 82-84 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priest]] |
-| 85-87 | [[succubus xmm|Succubus]] |
-| 88-90 | [[troll xmm|Troll]] |
-| 91-93 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]] |
-| 94-96 | [[wyvern xmm|Wyvern]] |
+| 67-69 | [[Demilich Xmm (undead)]] |
+| 70-72 | [[medusa-xmm (monstrosity)]] |
+| 73-75 | [[Night Hag]] |
+| 76-78 | [[Ogre Xmm]] |
+| 79-81 | [[Oni Xmm]] |
+| 82-84 | [[Bestiary]] |
+| 85-87 | [[succubus-xmm (fiend)]] |
+| 88-90 | [[Troll Xmm]] |
+| 91-93 | [[Bestiary]] |
+| 94-96 | [[Wyvern Xmm]] |
 | 97-00 | The card drawer |
 ^deck-of-illusions
 

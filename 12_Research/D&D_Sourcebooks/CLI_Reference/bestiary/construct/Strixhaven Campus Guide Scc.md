@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strixhaven-campus-guide-scc-strixhaven-campus-guide-scc.svg)
 
-# [[strixhaven campus guide scc|Strixhaven Campus Guide]]
+# [[strixhaven-campus-guide-scc (construct)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 217*  
 
 With cheerful dispositions and a knack for walking backward, Strixhaven campus guides lead gaggles of prospective students on tours. The guides' gold and silver chassis are built in shapes reminiscent of the star arches surrounding Strixhaven. Embedded in their chests are holographic maps of the university's campuses, which the guides use to provide directions. However, it's rare for a campus guide to need its own maps, as these gregarious automatons have a gift for finding things on campus, often popping up at the most inopportune times.

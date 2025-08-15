@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-leucrotta-mpmm-leucrotta-mpmm.svg)
 
-# [[leucrotta mpmm|Leucrotta]]
+# [[leucrotta-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.

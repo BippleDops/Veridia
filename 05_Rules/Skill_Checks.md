@@ -1,5 +1,6 @@
 ---
 
+
 title: Skill Checks
 type: mechanics
 tags:
@@ -9,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -129,3 +131,39 @@ Apply this rule when:
 | Moderate | d20+mod | 15 | Complication |
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+## Official Rules Reference
+
+### Core Rulebooks
+- **Ability Checks**: PHB Chapter 7 (p.171-179)
+- **Skills**: PHB p.174-179
+- **Passive Checks**: PHB p.175
+- **Working Together**: PHB p.175
+- **Skill Expertise (Optional)**: TCE p.79-80
+- **Tool Proficiencies**: XGE p.78-85
+- **UA Skill Feats**: Various UA documents
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions

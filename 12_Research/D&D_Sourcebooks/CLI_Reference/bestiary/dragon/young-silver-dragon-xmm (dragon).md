@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-silver-dragon-xmm-v1-young-silver-dragon-xmm.svg)
 
-# [[young silver dragon xmm|Young Silver Dragon]]
+# [[Silver Dragon]]
 *Source: Monster Manual (2024) p. 278. Available in the SRD and the Free Rules (2024)*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
@@ -112,7 +112,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: 49 (11d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\

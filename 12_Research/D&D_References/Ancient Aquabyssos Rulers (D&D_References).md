@@ -146,7 +146,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Disappeared under suspicious circumstances, leading to succession crisis
 
 **Controversial Legacy:**
-- Founded research programs later associated with [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Founded research programs later associated with [[Aboleth Mind Mazes]]
 - Created secret societies that may have evolved into [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 - Established protocols for deep-trench exploration (many classified to this day)
 - Left behind sealed chambers in the [[The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] (contents unknown)

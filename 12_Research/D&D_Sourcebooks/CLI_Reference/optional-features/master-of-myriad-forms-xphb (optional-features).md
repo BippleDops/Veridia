@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-You can cast [[alter self xphb|Alter Self]] without expending a spell slot.
+You can cast [[alter-self-xphb (spells)]] without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

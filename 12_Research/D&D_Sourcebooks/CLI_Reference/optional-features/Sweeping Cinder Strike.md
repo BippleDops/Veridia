@@ -35,7 +35,7 @@ world: Both
 # Sweeping Cinder Strike
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[burning hands xphb|burning hands]].
+You can spend 2 ki points to cast [[Burning Hands Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

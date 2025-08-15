@@ -1,7 +1,7 @@
 ---
 
 title: The Forgetting Bomb
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Coming_Of_Age Improvements
 
@@ -99,15 +99,15 @@ improvements: 20
 
 ## Overview
 
-The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[Aquabyssos]].
+The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective [[Memory Alteration]] tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[Aquabyssos]].
 
 ### Device Configuration
 
 **Physical Properties:**
 - **Size**: Crystal sphere approximately 3 feet in diameter
 - **Weight**: 500 pounds (due to dense memory-storage matrices)
-- **Appearance**: Translucent blue crystal with swirling shadow corruption patterns
-- **Power Source**: Combination of pressure differentials and crystallized memories
+- **Appearance**: Translucent blue crystal with swirling [[Shadow Corruption]] patterns
+- **Power Source**: Combination of [[Pressure Differential]]s and crystallized memories
 - **Deployment**: Requires specialized delivery vehicle due to weight and fragility
 
 **Blast Characteristics:**
@@ -130,7 +130,7 @@ Upon detonation, the device releases a "forgetting wave" - a pulse of crystalliz
 
 **Shadow Corruption Enhancement:**
 Recent versions incorporate shadow corruption to make effects more thorough:
-- Prevents natural memory recovery over time
+- Prevents natural memory recovery over [[Time]]
 - Blocks memory reconstruction through external prompts
 - Creates resistance to memory restoration techniques
 - Leaves shadow "scars" that make victims vulnerable to future manipulation
@@ -149,7 +149,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 ### Military Weaponization
 
 **Years 585-590 AS:**
-The potential military applications became obvious to [[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02_Worldbuilding]] and other [[Organization]]s involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -165,9 +165,9 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 
 **The Meridian District Catastrophe:**
 - Terrorist organization detonated prototype device in [[Port Meridian]]
-- 50,000 people within blast radius suffered complete amnesia
+- 50,000 [[People]] within blast radius suffered complete amnesia
 - Entire district's social structure collapsed overnight
-- Emergency response teams also affected, hampering rescue efforts
+- [[Emergency Response Teams]] also affected, hampering rescue efforts
 - Economic and social chaos spread throughout [[Aquabyssos]]
 
 **International Response:**
@@ -183,7 +183,7 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 Despite international condemnation and treaty obligations, multiple organizations continue developing Forgetting Bomb technology:
 
 **Known Developers:**
-- **[[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
+- **[[02_Worldbuilding]]**: Estimated 12-15 devices in arsenal
 - **[[The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
 - **[[Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally
@@ -220,7 +220,7 @@ Despite international condemnation and treaty obligations, multiple organization
 - **Population Terror**: Threat of memory loss creates psychological pressure
 - **Infrastructure Targeting**: Eliminate institutional knowledge
 - **Social Disruption**: Destroy community bonds and cultural continuity
-- **Economic Warfare**: Eliminate business and ficial knowledge
+- **[[Economic Warfare]]**: Eliminate business and ficial knowledge
 - **Religious Targeting**: Erase cultural and spiritual traditions
 
 ### Immediate Impact
@@ -244,7 +244,7 @@ Despite international condemnation and treaty obligations, multiple organization
 **Social Breakdown:**
 - Complete collapse of family and community structures
 - Loss of professional expertise and institutional knowledge
-- Breakdown of economic systems dependent on memory and trust
+- Breakdown of [[Economic System]]s dependent on memory and trust
 - Elimination of cultural practices and traditions
 - Mass displacement as people cannot remember homes or jobs
 
@@ -291,7 +291,7 @@ The [[Meridian Accords]] established international law regarding Forgetting Bomb
 ### Religious and Philosophical Opposition
 
 **[[The Depth Mysteries Cult]] Position:**
-- Memory is sacred gift from [[The Deep Mother]]
+- Memory is sacred gift from [[The [[Deep Mother]]]]
 - Destroying memories is form of spiritual murder
 - Forgetting Bomb represents ultimate blasphemy
 - Victims become "hollow shells" without divine connection
@@ -322,7 +322,7 @@ The [[Meridian Accords]] established international law regarding Forgetting Bomb
 
 ### Protection Technologies
 
-**Memory Shielding:**
+**Memory [[Shield]]ing:**
 - **Crystal Barriers**: Specially tuned crystals that deflect memory-disrupting waves
 - **Pressure Suits**: Equipment providing physical and psychic protection
 - **Memory Anchors**: Devices maintaining core identity memories during attacks
@@ -330,11 +330,11 @@ The [[Meridian Accords]] established international law regarding Forgetting Bomb
 - **Consciousness Backup**: Storing memories in external matrices for restoration
 
 **Early Warning Systems:**
-- **Dimensional Monitors**: Detecting reality distortions that precede detonation
+- **Dimensional Monitors**: Detecting [[Reality Distortion]]s that precede detonation
 - **Memory Flux Sensors**: Identifying memory-disrupting energy signatures
 - **Intelligence Networks**: Human agents monitoring for device development
 - **Crystal Resoce Arrays**: Detecting artificial memory-crystal configurations
-- **Psychic Surveillance**: Telepathic monitoring for memory weapon activities
+- **Psychic Surveillance**: Tele[[path]]ic monitoring for memory weapon activities
 
 ### Response Protocols
 
@@ -346,7 +346,7 @@ The [[Meridian Accords]] established international law regarding Forgetting Bomb
 - **Intelligence Operations**: Locating and neutralizing devices before deployment
 
 **Humanitarian Responses:**
-- **Victim Support Services**: Medical and psychological care for amnesia victims
+- **[[Victim Support]] Services**: Medical and psychological care for amnesia victims
 - **Identity Reconstruction**: Helping victims rebuild sense of self
 - **Community Integration**: Programs for reintroducing victims to society
 - **Economic Support**: Ficial assistance for those unable to work
@@ -405,20 +405,20 @@ Marina's unique nature creates both vulnerability and resistance:
 ### The Memory Plague Vector
 
 > [!warning] Hidden Knowledge
-> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[Aethermoor]] and [[Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
+> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[Aethermoor]] and [[Aquabyssos]], essentially using mass amnesia as a tool for [[Reality Manipulation]].
 
 ### Strategic Assets
 
 - [[The Memory Disruptor Network]] - Early warning system for memory attacks
 - [[The Consciousness Vault]] - Backup storage for important memories
 - [[The Amnesia Rehabilitation Centers]] - Treatment facilities for victims
-- [[The Memory Shield Array]] - Defensive barriers around critical locations
+- [[The Memory Shield Array]] - Defensive barriers around critical [[location]]s
 - [[The Forgetting Bomb Arsenal]] - Hidden cache of strategic weapons
 
 ---
 
 *"They say death is the great equalizer, but forgetting is the great eraser. Death takes your future, but amnesia steals your past, present, and the very meaning of your existence."*
-*- Dr. Nereus Thoughtweaver, creator of the Forgetting Bomb*
+*- Dr. Nereus Thoughtweaver, [[Creator]] of the Forgetting Bomb*
 
 ## Player-Facing Summary
 
@@ -428,11 +428,11 @@ The Forgetting Bomb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Forgetting Bomb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgetting Bomb.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -446,7 +446,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A journal reveals a conspiracy about a local noble
 - An heirloom has gone missing and chaos spreads
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -461,7 +461,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Religious Observances
 

@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Samurai
-*[[fighter xphb|Fighter]]: Fighter Subclass*  
+*[[fighter-xphb (classes)]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 31*  
 
 > [!tldr] Class and Feature Progression

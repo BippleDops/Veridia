@@ -46,7 +46,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[list-spells-classes-warlock|Warlock]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[hellish-rebuke-xphb (spells)-phb]]` in CLI_Reference/spells/

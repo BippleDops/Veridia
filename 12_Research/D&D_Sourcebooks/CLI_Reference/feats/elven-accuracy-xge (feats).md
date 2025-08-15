@@ -34,7 +34,7 @@ world: Both
 # Elven Accuracy
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[elf xphb|Elf]] or [[half elf|Half Elf]]
+**Prerequisite**: [[elf-xphb (races)]] or [[Half Elf]]
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 

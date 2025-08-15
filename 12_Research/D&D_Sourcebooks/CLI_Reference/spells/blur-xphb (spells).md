@@ -52,9 +52,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Your body becomes blurred. For the duration, any creature has [[disadvantage xphb|Disadvantage]] on attack rolls against you. An attacker is immune to this effect if it perceives you with [[senses#Blindsight|Blindsight]] or [[senses#Truesight|Truesight]].
+Your body becomes blurred. For the duration, any creature has [[Advantage Xphb]] on attack rolls against you. An attacker is immune to this effect if it perceives you with [[senses#Blindsight|Blindsight]] or [[senses#Truesight|Truesight]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 248. Available in the SRD and the Free Rules (2024)*
 
@@ -93,3 +93,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

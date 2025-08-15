@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-brass-dragon-xmm-v1-young-brass-dragon-xmm.svg)
 
-# [[young brass dragon xmm|Young Brass Dragon]]
+# [[Brass Dragon]]
 *Source: Monster Manual (2024) p. 54. Available in the SRD and the Free Rules (2024)*  
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
@@ -112,10 +112,10 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 38 (11d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
       \ 2nd Failure: The target has the [[conditions#Unconscious|Unconscious]]\

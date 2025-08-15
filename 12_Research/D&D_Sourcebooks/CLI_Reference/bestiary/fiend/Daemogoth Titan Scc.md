@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-daemogoth-titan-scc-daemogoth-titan-scc.svg)
 
-# [[daemogoth titan scc|Daemogoth Titan]]
+# [[daemogoth-titan-scc (fiend)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 190*  
 
 Daemogoth titans are towering monsters that blight the land around them. A daemogoth grows in power over the course of decades spent feeding on sorrow and draining life from nature. Eventually that growth turns the daemogoth into a titan.
@@ -60,7 +60,7 @@ The titans maintain their lesser cousins' ability to trade magical power for a m
 
 ## Barbed Gifts
 
-When a supplicant piques a daemogoth titan's interest, the titan can grant a blessing to the supplicant (see "Supernatural Gifts "in the Dungeon Master's Guide). As long as the creature has the blessing, it must expend and roll two of its Hit Dice whenever it finishes a long rest. It takes psychic damage equal to the total rolled, and its hit point maximum is reduced by an amount equal to the psychic damage taken. This reduction lasts until the creature finishes its next long rest. The creature dies if this effect reduces its hit point maximum to 0. The blessing can be removed only by a [[wish xphb|wish]] spell.
+When a supplicant piques a daemogoth titan's interest, the titan can grant a blessing to the supplicant (see "Supernatural Gifts "in the Dungeon Master's Guide). As long as the creature has the blessing, it must expend and roll two of its Hit Dice whenever it finishes a long rest. It takes psychic damage equal to the total rolled, and its hit point maximum is reduced by an amount equal to the psychic damage taken. This reduction lasts until the creature finishes its next long rest. The creature dies if this effect reduces its hit point maximum to 0. The blessing can be removed only by a [[wish-xphb (spells)]] spell.
 
 ```statblock
 "name": "Daemogoth Titan (SCC)"
@@ -103,7 +103,7 @@ When a supplicant piques a daemogoth titan's interest, the titan can grant a ble
   - "desc": "Using a 10-minute long ritual, the titan can forge a magical bond with\
       \ a willing creature it touches throughout the ritual. The creature becomes\
       \ bound by the pact until it dies, the titan dies, or the pact is broken by\
-      \ a [[wish xphb|wish]] spell.\n\nThe titan chooses\
+      \ a [[wish-xphb (spells)]] spell.\n\nThe titan chooses\
       \ one spell from the necromancy or enchantment school that is 8th level or lower.\
       \ The bound creature can cast that spell using this pact, requiring no material\
       \ components and using Intelligence as the spellcasting ability. When it casts\

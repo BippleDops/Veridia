@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Arcane Archer
-*[[fighter xphb|Fighter]]: Fighter Subclass*  
+*[[fighter-xphb (classes)]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 > [!tldr] Class and Feature Progression
@@ -70,7 +70,7 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[skills#Arcana|Arcana]] or the [[skills#Nature|Nature]] skill, and you choose to learn either the [[prestidigitation xphb|prestidigitation]] or the [[druidcraft xphb|druidcraft]] cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[skills#Arcana|Arcana]] or the [[skills#Nature|Nature]] skill, and you choose to learn either the [[Prestidigitation Xphb]] or the [[druidcraft-xphb (spells)]] cantrip.
 
 ### Arcane Shot (Level 3)
 

@@ -37,9 +37,9 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast [[dimension door xphb|Dimension Door]] as a [[actions#Magic|Magic]] action. This property can't be used again until the next dawn.
+This cape smells faintly of brimstone. While wearing it, you can use it to cast [[Dimension Door Xphb]] as a [[actions#Magic|Magic]] action. This property can't be used again until the next dawn.
 
-When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[lightly obscured xphb|Lightly Obscured]] by that smoke until the end of your next turn.
+When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[lightly-obscured-xphb (variant-rules)]] by that smoke until the end of your next turn.
 
 *Source: Dungeon Master's Guide (2024) p. 242. Available in the SRD and the Free Rules (2024)*
 

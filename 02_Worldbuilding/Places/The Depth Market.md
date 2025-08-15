@@ -1,7 +1,7 @@
 ---
 
 title: The Depth Market
-type: Location
+type: [[location]]
 tags:
 - both
 - aquatic
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.524836+00:00'
@@ -37,7 +37,7 @@ improvements: 20
 *Where the Abyss Yields Its Treasures*
 
 > *"Down here, in the crushing dark where pressure makes diamonds and cold preserves wonders, you can find anything - if you're willing to pay the price. Just remember: in the depths, everything costs more than money."*
-> — [[Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
+> — [[Master Trader Abyss Currentbinder]], Chief of the Depth [[Merchant]]'s Consortium
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,19 +97,19 @@ improvements: 20
 
 ## Overview
 
-The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
+The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the [[Crushing Depths]] where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
 
 ### The Deep Prospector Era
 
 **Period**: 350 years ago, discovery by deep-sea prospectors  
 **Discovery**: Rich mineral deposits and unique deep-sea resources  
-**Pioneers**: Small groups of adventurous merchants and miners  
+**Pioneers**: Small [[Groups]] of adventurous merchants and miners  
 **Challenges**: Extreme environment, dangerous creatures, isolation  
 **Beginning**: Informal trading posts established near resource sites
 
 ### The Consortium Formation
 
-**Timeline**: 300-280 years ago, organization of independent traders  
+**[[[[Time]]line]]**: 300-280 years ago, [[Organization]] of independent traders  
 **Need**: Coordination required for survival and mutual protection  
 **Leadership**: [[Master Trader Abyss Currentbinder]] and founding merchants  
 **Goverce**: Development of basic trading laws and mutual defense agreements  
@@ -166,12 +166,12 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 #### The Artifact Halls
 
 **Purpose**: Display and trade of ancient artifacts and archaeological finds  
-**Knowledge**: Scholars and experts providing authentication and historical context  
+**Knowledge**: Scholars and experts providing authentication and [[Historical Context]]  
 **Mystery**: Many artifacts of unknown origin and purpose  
 **Value**: Artifacts priced based on rarity, historical significance, and magical properties  
 **Research**: Ongoing research into artifact origins and functions
 
-#### The Crystal Mines Market
+#### The [[Crystal Mines]] Market
 
 **Resources**: Direct access to nearby abyssal crystal formations  
 **Mining**: Active mining operations integrated with trading activities  
@@ -187,7 +187,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Danger**: Handling of dangerous creatures requiring specialized expertise  
 **Conservation**: Balance between trade and conservation of rare species
 
-#### The Pressure Forge District
+#### The Pressure [[Forge District]]
 
 **Manufacturing**: Specialized manufacturing using extreme pressure conditions  
 **Unique Products**: Goods that can only be created under deep-sea conditions  
@@ -200,21 +200,21 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Accommodation**: Specialized lodging for traders and visitors  
 **Atmosphere**: Pressure-controlled environments for different physiologies  
 **Services**: Full hospitality services adapted to deep-sea environment  
-**Safety**: Emergency life support and evacuation systems  
+**Safety**: [[Emergency Life Support]] and evacuation systems  
 **Community**: Social hub for the trading community
 
 #### The Pressure Transit Hub
 
-**Transportation**: Specialized vehicles for deep-sea travel  
+**Transportation**: Specialized [[Vehicles]] for deep-sea travel  
 **Safety**: Advanced safety systems for extreme-depth transportation  
 **Maintece**: Vehicle maintece and emergency repair services  
 **Coordination**: Traffic coordination for safe movement through dangerous areas  
 **Emergency**: Emergency rescue and evacuation capabilities
 
-#### The Deep Communications Center
+#### The Deep [[Communications Center]]
 
-**Technology**: Long-range communication systems adapted for deep-sea use  
-**Networks**: Communication networks connecting to surface and other deep settlements  
+**Technology**: Long-range [[Communication Systems]] adapted for deep-sea use  
+**Networks**: [[Communication Networks]] connecting to surface and other deep settlements  
 **Information**: Commercial intelligence and market information services  
 **Emergency**: Emergency communication and distress signal capabilities  
 **Coordination**: Coordination of complex trading operations and logistics
@@ -310,7 +310,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 #### Ancient Artifacts
 
 **Origin**: Recovered from ruins of civilizations that sank beneath the waves  
-**Technology**: Evidence of advanced ancient technologies  
+**Technology**: [[Evidence]] of advanced ancient technologies  
 **Magic**: Many artifacts contain powerful magical enchantments  
 **Mystery**: Most artifacts' purposes and origins remain unknown  
 **Danger**: Some artifacts pose significant dangers to handlers
@@ -342,7 +342,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 #### Information Economy
 
 **Value**: Information about new discoveries, dangers, and opportunities  
-**Trading**: Active trading in maps, creature behavioral data, and market intelligence  
+**Trading**: Active trading in [[map]]s, creature behavioral [[data]], and market intelligence  
 **Secrecy**: Some information kept secret to maintain competitive advantages  
 **Networks**: Information networks crucial for survival and profit  
 **Verification**: Complex systems for verifying information accuracy
@@ -471,11 +471,11 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Events**: Celebrations of significant discoveries and achievements  
 **Sharing**: Sharing knowledge and excitement of new discoveries  
-**Recognition**: Recognizing the efforts of successful explorers and traders  
+**Recognition**: Recognizing the efforts of successful exp[[Lore]]rs and traders  
 **Inspiration**: Inspiring others to pursue their own discoveries  
 **Progress**: Celebrating progress and advancement of the community
 
-#### Pressure Zones
+#### [[Pressure Zones]]
 
 **Mechanics**: Different pressure zones requiring specific equipment or magic  
 **Damage**: Taking damage from pressure changes without proper protection  
@@ -495,7 +495,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Effects**: Constitution saves against cold damage and hypothermia  
 **Equipment**: Specialized cold weather gear and magical protection  
-**Exhaustion**: Risk of exhaustion from prolonged cold exposure  
+**[[Exhaustion]]**: Risk of exhaustion from prolonged cold exposure  
 **Healing**: Slower healing in extreme cold conditions  
 **Resources**: Increased resource consumption for heating and warmth
 
@@ -534,7 +534,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 #### Archaeological Expeditions
 
 **Discovery**: Exploring newly discovered ruins and archaeological sites  
-**Danger**: Ancient traps, guardians, and environmental hazards  
+**Danger**: Ancient traps, guardians, and [[Environmental Hazards]]  
 **Knowledge**: Historical and magical knowledge from successful exploration  
 **Competition**: Competition with other expedition groups  
 **Ethics**: Ethical considerations about archaeological recovery and preservation
@@ -557,10 +557,10 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 #### Deep-Sea Trading
 
-**Economy**: Unique economic system with barter, risk premiums, and information trading  
-**Reputation**: Reputation system affecting access to goods and opportunities  
+**Economy**: Unique [[Economic System]] with barter, risk premiums, and information trading  
+**Reputation**: [[Reputation System]] affecting access to goods and opportunities  
 **Specialization**: Benefits for characters with relevant knowledge and skills  
-**Networks**: Building and maintaining networks of contacts and allies  
+**Networks**: Building and maintaining networks of contacts and [[Allies]]  
 **Innovation**: Opportunities for characters to develop new trading methods
 
 #### The Lost City Discovery
@@ -578,7 +578,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Conflict**: War between different factions of intelligent deep-sea creatures  
 **Sides**: Choosing sides or trying to maintain neutrality for continued trade  
 **Diplomacy**: Diplomatic missions to negotiate peace or advantageous alliances  
-**Combat**: Underwater combat in extreme environment with massive creatures  
+**Combat**: [[Underwater Combat]] in extreme environment with massive creatures  
 **Stakes**: Future of deep-sea trading and market survival
 
 #### The Pressure Plague
@@ -603,7 +603,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Level**: 7-11  
 **Crime**: Valuable ancient artifact stolen from secure market vault  
-**Investigation**: Complex investigation with multiple suspects and motives  
+**Investigation**: Complex investigation with multiple [[Suspects]] and motives  
 **Chase**: Pursuit of thieves through dangerous deep-sea environment  
 **Recovery**: Recovering stolen goods while avoiding traps and ambushes  
 **Justice**: Bringing criminals to justice while navigating market politics
@@ -646,13 +646,13 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 ### [[Abyssos Prime]]
 
-**Trade**: Major supplier of exotic goods to the capital city  
+**Trade**: Major supplier of exotic goods to the [[Capital City]]  
 **Independence**: Maintains independence while respecting royal authority  
 **Intelligence**: Exchange of information about deep-sea threats and opportunities  
 **Support**: Informal support arrangements during major crises  
 **Taxation**: Negotiations over taxation of deep-sea trade
 
-### [[The Free Current]]
+### [[The [[Free Current]]]]
 
 **Philosophy**: Shared commitment to free trade and minimal government interference  
 **Cooperation**: Cooperation on trade routes and mutual defense  
@@ -666,7 +666,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Regulation**: Resistance to regulatory oversight of deep-sea trading  
 **Representation**: Questions about political representation and voting rights  
 **Taxation**: Disputes over taxation and fees on deep-sea trade  
-**Autonomy**: Desire to maintain autonomy while participating in broader economy
+**Autonomy**: De[[Sire]] to maintain autonomy while participating in broader economy
 
 ### [[Azure Citadel]]
 
@@ -685,7 +685,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 > The market complex itself is partially alive, grown rather than built using ancient biotechnology discovered in the ruins. The "walls" are actually a massive, slow-growing organism that responds to the needs of the inhabitants by creating new chambers and passages. Only a few of the oldest traders know this secret, and they've been carefully nurturing the growth while keeping it hidden. The organism requires specific nutrients and conditions to remain healthy, and its death would cause the entire market to collapse.
 
 > [!secret] DM Secret - The Pressure Addiction
-> Long-term residence in the extreme deep-sea environment creates a form of physical and psychological addiction to the high pressure. Many permanent residents can no longer survive at normal pressures and become violently ill if they try to return to the surface. This condition is kept secret to avoid discouraging trade, but it's creating a growing population of people trapped in the depths. Some affected individuals are becoming increasingly desperate and may resort to extreme measures to either find a cure or ensure others share their fate.
+> Long-term residence in the extreme deep-sea environment creates a form of physical and psychological addiction to the high pressure. Many permanent residents can no longer survive at normal pressures and become violently ill if they try to return to the surface. This condition is kept secret to avoid discouraging trade, but it's creating a growing population of [[People]] trapped in the depths. Some affected individuals are becoming increasingly desperate and may resort to extreme measures to either find a cure or ensure others share their fate.
 
 ---
 
@@ -695,7 +695,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 - [[Parliament of Echoes]]
 - [[Azure Citadel]]
 
-**Related NPCs**:
+**Related [[Npc]]s**:
 - [[Master Trader Abyss Currentbinder]]
 - [[Deep Current Flowmaster]]
 - [[Pressure Guard Steelwall]]
@@ -703,9 +703,9 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Related Items and Concepts**:
 - [[Abyssal Crystals]]
-- [[Deep Sea Artifacts]]
+- [[Deep-Sea Artifacts (D&D_References)]]
 - [[Pressure Technology]]
-- [[Depth Merchant's Consortium]]
+- [[Depth [[Merchant's Consortium]]]]
 
 ## Player-Facing Summary
 
@@ -715,14 +715,14 @@ The Depth Market is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Depth Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Market.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -742,6 +742,34 @@ The Depth Market is a notable location characterized by its unique features and 
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -779,3 +807,40 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

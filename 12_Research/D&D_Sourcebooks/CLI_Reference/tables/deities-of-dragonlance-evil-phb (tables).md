@@ -37,13 +37,13 @@ world: Both
 
 | The Gods of Evil | Alignment | Suggested Domains | Symbol |
 |------------------|-----------|-------------------|--------|
-| [[dragonlance takhisis phb|Takhisis]], goddess of night and hatred | LE | Death | Black crescent |
-| [[dragonlance chemosh phb|Chemosh]], god of the undead | LE | Death | Yellow skull |
-| [[dragonlance hiddukel phb|Hiddukel]], god of lies and greed | CE | Trickery | Broken merchant's scales |
-| [[dragonlance morgion phb|Morgion]], god of disease and secrecy | NE | Death | Hood with two red eyes |
-| [[dragonlance sargonnas phb|Sargonnas]], god of vengeance and fire | LE | War | Stylized red condor |
-| [[dragonlance zeboim phb|Zeboim]], goddess of the sea and storms | CE | Tempest | Turtle shell |
-| [[dragonlance nuitari phb|Nuitari]], god of evil magic | LE | no clerics | Black circle or sphere |
+| [[Dragonlance Takhisis Phb]], goddess of night and hatred | LE | Death | Black crescent |
+| [[dragonlance-chemosh-phb (deities)]], god of the undead | LE | Death | Yellow skull |
+| [[dragonlance-hiddukel-phb (deities)]], god of lies and greed | CE | Trickery | Broken merchant's scales |
+| [[Dragonlance Morgion Phb]], god of disease and secrecy | NE | Death | Hood with two red eyes |
+| [[dragonlance-sargonnas-phb (deities)]], god of vengeance and fire | LE | War | Stylized red condor |
+| [[dragonlance-zeboim-phb (deities)]], goddess of the sea and storms | CE | Tempest | Turtle shell |
+| [[Dragonlance Nuitari Phb]], god of evil magic | LE | no clerics | Black circle or sphere |
 ^deities-of-dragonlance-evil
 
 ## 🔧 Deep Evaluation Improvements

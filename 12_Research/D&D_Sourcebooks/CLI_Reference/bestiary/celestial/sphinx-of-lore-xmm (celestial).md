@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-lore-xmm-sphinx-of-lore-xmm.svg)
 
-# [[sphinx of lore xmm|Sphinx of Lore]]
+# [[Sphinx of Lore Xmm]]
 *Source: Monster Manual (2024) p. 293. Available in the SRD and the Free Rules (2024)*  
 
 Sphinxes of lore each know a great secret and protect it all costs. This truth might take the form of an ancient text, a magical puzzle, or a path to another world. These sphinxes might gain reputations as sages or oracles, but they typically dwell far from civilization.
@@ -111,7 +111,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "traits":
   - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
       \ its permission. Wisdom ([[skills#Insight|Insight]]) checks\
-      \ made to ascertain its intentions or sincerity are made with [[disadvantage xphb|Disadvantage]]."
+      \ made to ascertain its intentions or sincerity are made with [[Advantage Xphb]]."
     "name": "Inscrutable"
   - "desc": "If the sphinx fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
@@ -120,20 +120,20 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 14 (3d6 + 4) Slashing damage."
     "name": "Claw"
-  - "desc": "Wisdom Saving Throw: DC 16, each enemy in a 300-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 16, each enemy in a 300-foot [[Area of Effect Xphb]]\
       \ originating from the sphinx. Failure: 35 (10d6) Psychic damage, and the\
       \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the start of the sphinx's next turn."
     "name": "Mind-Rending Roar (Recharge 5-6)"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [[detect magic xphb|Detect Magic]], [[identify xphb|Identify]],\
-      \ [[mage hand xphb|Mage Hand]], [[minor illusion xphb|Minor Illusion]],\
-      \ [[prestidigitation xphb|Prestidigitation]]\n\n1/day\
-      \ each: [[dispel magic xphb|Dispel Magic]], [[legend lore xphb|Legend\]]
-      \ Lore]], [[locate object xphb|Locate Object]],\
-      \ [[plane shift xphb|Plane Shift]], [[remove curse xphb|Remove Curse]],\
-      \ [[tongues xphb|Tongues]]"
+      At will: [[detect-magic-xphb (spells)]], [[identify-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Minor Illusion Xphb]],\
+      \ [[Prestidigitation Xphb]]\n\n1/day\
+      \ each: [[dispel-magic-xphb (spells)]], [[legend-lore-xphb (spells)]]
+      \ Lore]], [[locate-object-xphb (spells)]],\
+      \ [[plane-shift-xphb (spells)]], [[Remove Curse Xphb]],\
+      \ [[Tongues Xphb]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sphinx can teleport up to 30 feet to an unoccupied space it can see,\
@@ -149,7 +149,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - "desc": "The region containing a sphinx of lore's or sphinx of valor's lair is\
       \ altered by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Distant Sight. While in its lair, the sphinx can cast [[clairvoyance xphb|Clairvoyance]],\
+  - "desc": "- Distant Sight. While in its lair, the sphinx can cast [[clairvoyance-xphb (spells)]],\
       \ requiring no spell components and using the same spellcasting ability as its\
       \ Spellcasting action. When cast this way, the spell's range is 1 mile.  \n\
       - Infusion of Knowledge. Whenever the sphinx or one of its allies takes\

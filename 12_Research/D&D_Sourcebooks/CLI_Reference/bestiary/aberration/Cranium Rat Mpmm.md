@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cranium-rat-mpmm-cranium-rat-mpmm.svg)
 
-# [[cranium rat mpmm|Cranium Rat]]
+# [[cranium-rat-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## 🔧 Deep Evaluation Improvements

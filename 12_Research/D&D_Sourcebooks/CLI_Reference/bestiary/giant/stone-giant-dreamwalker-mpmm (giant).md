@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-giant-dreamwalker-mpmm-stone-giant-dreamwalker-mpmm.svg)
 
-# [[stone giant dreamwalker mpmm|Stone Giant Dreamwalker]]
+# [[giant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -106,7 +106,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
       \ that is [[conditions#Charmed|charmed]] by it. The target\
       \ must make a DC 17 Constitution saving throw. On a failed save, the target\
       \ becomes [[conditions#Petrified|petrified]], and the giant\
-      \ can adhere the target to its stony body. [[greater restoration xphb|greater restoration]]\
+      \ can adhere the target to its stony body. [[greater-restoration-xphb (spells)]]\
       \ spells and other magic that can undo petrification have no effect on a [[conditions#Petrified|petrified]]\
       \ creature adhered to the giant unless the giant is dead, in which case the\
       \ magic works normally, freeing the [[conditions#Petrified|petrified]]\

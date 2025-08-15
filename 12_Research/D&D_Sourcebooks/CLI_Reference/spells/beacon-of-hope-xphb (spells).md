@@ -46,9 +46,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Choose any number of creatures within range. For the duration, each target has [[advantage xphb|Advantage]] on Wisdom saving throws and Death Saving Throws and regains the maximum number of [[hit-points-xphb|Hit Points]] possible from any healing.
+Choose any number of creatures within range. For the duration, each target has [[Advantage Xphb]] on Wisdom saving throws and Death Saving Throws and regains the maximum number of [[hit-points-xphb (variant-rules)]] possible from any healing.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 
@@ -93,3 +93,17 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

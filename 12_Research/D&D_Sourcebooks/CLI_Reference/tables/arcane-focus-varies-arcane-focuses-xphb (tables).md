@@ -37,11 +37,11 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[crystal xphb|Crystal]] | 1 lb. | 10 GP |
-| [[orb xphb|Orb]] | 3 lb. | 20 GP |
-| [[rod xphb|Rod]] | 2 lb. | 10 GP |
-| [[staff xphb|Staff]] (also a [[quarterstaff xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[wand xphb|Wand]] | 1 lb. | 10 GP |
+| [[crystal-xphb (items)]] | 1 lb. | 10 GP |
+| [[Orb Xphb]] | 3 lb. | 20 GP |
+| [[rod-xphb (items)]] | 2 lb. | 10 GP |
+| [[Quarterstaff Xphb]] (also a [[Quarterstaff Xphb]]) | 4 lb. | 5 GP |
+| [[wand-xphb (items)]] | 1 lb. | 10 GP |
 ^arcane-focuses
 
 ## 🔧 Deep Evaluation Improvements

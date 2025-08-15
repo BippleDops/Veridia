@@ -40,7 +40,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[salamander xmm|Salamander]]
+# [[Salamander Xmm]]
 *Source: Monster Manual (2024) p. 267. Available in the SRD and the Free Rules (2024)*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
@@ -96,7 +96,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ choice in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the salamander takes 7 (2d6) Fire damage."
     "name": "Fire Aura"
 "actions":

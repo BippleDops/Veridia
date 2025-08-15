@@ -45,12 +45,12 @@ The cube starts with 10 charges, and it regains `d6` expended charges daily at d
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[mage armor xphb|Mage Armor]] | 1 |
-| [[shield xphb|Shield]] | 1 |
-| [[leomunds tiny hut xphb|Leomund's Tiny Hut]] | 3 |
-| [[mordenkainens private sanctum xphb|Mordenkainen's Private Sanctum]] | 4 |
-| [[otilukes resilient sphere xphb|Otiluke's Resilient Sphere]] | 4 |
-| [[wall of force xphb|Wall of Force]] | 5 |
+| [[mage-armor-xphb (spells)]] | 1 |
+| [[Shield]] | 1 |
+| [[Leomunds Tiny Hut Xphb]] | 3 |
+| [[Mordenkainens Private Sanctum Xphb]] | 4 |
+| [[Otilukes Resilient Sphere Xphb]] | 4 |
+| [[Wall of Force Xphb]] | 5 |
 ^cube-of-force-faces
 
 *Source: Dungeon Master's Guide (2024) p. 246. Available in the SRD and the Free Rules (2024)*

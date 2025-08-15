@@ -1,8 +1,17 @@
+---
+
+tags: [npc, character]
+type: npc
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm
 
 ## Portrait
 
-![[portrait__03_mechanics_cli_bestiary_monstrosity_yuan-ti-malison-type-1-xmm.png]]
+![[Bestiary]]
 
 *Portrait reference for _03_Mechanics_CLI_bestiary_monstrosity_yuan-ti-malison-type-1-xmm*
 
@@ -266,3 +275,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

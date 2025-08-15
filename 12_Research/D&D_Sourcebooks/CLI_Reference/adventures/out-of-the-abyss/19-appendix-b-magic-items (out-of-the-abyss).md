@@ -35,12 +35,12 @@ world: Both
 
 Player characters can find a number of unusual magic items over the course of this adventure, including creations of the drow, the deep gnomes, and other inhabitants of the Underdark.
 
-- [[dawnbringer oota|Dawnbringer]]  
-- [[piwafwi cloak of elvenkind oota|Piwafwi (Cloak of Elvenkind)]]  
-- [[piwafwi of fire resistance oota|Piwafwi of Fire Resistance]]  
-- [[spell gem oota|Spell Gem]]  
-- [[stonespeaker crystal oota|Stonespeaker Crystal]]  
-- [[wand of viscid globs oota|Wand of Viscid Globs]]
+- [[Dawnbringer Oota]]  
+- [[Piwafwi Cloak of Elvenkind Oota]]  
+- [[Piwafwi of Fire Resistance Oota]]  
+- [[Spell Gem Oota]]  
+- [[stonespeaker-crystal-oota (items)]]  
+- [[Wand of Viscid Globs Oota]]
 
 ## 🔧 Deep Evaluation Improvements
 

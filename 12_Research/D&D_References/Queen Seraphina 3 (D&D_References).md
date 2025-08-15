@@ -31,7 +31,7 @@ created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
 race: Human (Deep-Adapted)
-location: '[[The Royal Palace   Aquabyssos]]'
+location: '[[Royal Palace]]'
 access_level: Royal Court Only
 affiliation: '[[The Coral Crown]]'
 age: '47'

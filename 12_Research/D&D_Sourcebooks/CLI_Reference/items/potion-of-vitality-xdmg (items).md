@@ -40,7 +40,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, it removes any [[conditions#Exhaustion|Exhaustion]] levels you have and ends the [[conditions#Poisoned|Poisoned]] condition on you. For the next 24 hours, you regain the maximum number of [[hit points xphb|Hit Points]] for any [[hit points xphb|Hit Point]] Die you spend.
+When you drink this potion, it removes any [[conditions#Exhaustion|Exhaustion]] levels you have and ends the [[conditions#Poisoned|Poisoned]] condition on you. For the next 24 hours, you regain the maximum number of [[hit-points-xphb (variant-rules)]] for any [[hit-points-xphb (variant-rules)]] Die you spend.
 
 This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 

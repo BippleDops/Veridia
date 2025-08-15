@@ -343,8 +343,8 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 - [[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Political leader
 - [[Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Political figure
 - [[The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
-- [[02 Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
-- [[02 Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
+- [[Groups]] - Political faction
+- [[Surface Reconnection Coalition]] - Political faction
 - [[Master Index|02 Worldbuilding/Lore/Master Index]] - General world information
 
 ---

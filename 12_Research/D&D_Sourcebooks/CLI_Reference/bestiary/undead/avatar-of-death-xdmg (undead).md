@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.578118'
 world: Both
 ---
 
-# [[avatar of death xdmg|Avatar of Death]]
+# [[Avatar of Death Xdmg]]
 *Source: Dungeon Master's Guide (2024) p. 252*  
 
 ```statblock

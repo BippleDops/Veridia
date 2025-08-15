@@ -3,20 +3,20 @@ title: Goldwave Ficial Offices
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Goldwave Ficial Offices
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Master Archivist Thomas Scrollkeeper V1 Master Archivist Thomas Scrollkeeper.png]] and other parts of the campaign.
+This topic is referenced in [[Master Archivist Thomas Scrollkeeper]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Master Archivist Thomas Scrollkeeper V1 Master Archivist Thomas Scrollkeeper.png]]
+- Referenced by: [[Master Archivist Thomas Scrollkeeper]]
 - Related topics in the same category
 
 ## Details

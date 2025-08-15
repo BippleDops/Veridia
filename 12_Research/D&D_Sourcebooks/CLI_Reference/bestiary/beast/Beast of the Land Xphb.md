@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-land-xphb-beast-of-the-land-xphb.svg)
 
-# [[beast of the land xphb|Beast of the Land]]
+# [[beast]]
 *Source: Player's Handbook (2024) p. 123*  
 
 ```statblock

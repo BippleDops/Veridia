@@ -94,6 +94,6 @@ Mentioned in The Second Prophecy of Depths
 ## Relationships
 
 - **Mentor**: [[02 Chapter 1 Playing the Game#stabilizing a Character]]
-- **Blackmailer**: [[Portrait NPC Deep Sea Explorer Captain Abyss V2 Deep Sea Explorer Captain Abyss.svg]]
-- **Friend**: [[Portrait NPC Scholar Priest Tidal Memory V1 Scholar Priest Tidal Memory.svg]]
+- **Blackmailer**: [[Npc]]
+- **Friend**: [[Npc]]
 - **Child**: [[The Deepmind Conspiracy]]

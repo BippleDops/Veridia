@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-arcanaloth-xmm-arcanaloth-xmm.svg)
 
-# [[arcanaloth xmm|Arcanaloth]]
+# [[Arcana]]
 *Source: Monster Manual (2024) p. 19*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -103,20 +103,20 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 "cr": "12"
 "traits":
   - "desc": "If the arcanaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly and revives with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly and revives with all its [[hit-points-xphb (variant-rules)]]\
       \ in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The arcanaloth has [[advantage xphb|Advantage]]\
+  - "desc": "The arcanaloth has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The arcanaloth has a magic tome. While holding or carrying the tome,\
       \ the arcanaloth can use its Banishing Claw action.\n\nThe tome has AC 17; HP\
-      \ 35; and [[immunity xphb|Immunity]] to Necrotic,\
-      \ Poison, and Psychic damage. The tome regains all its [[hit points xphb|Hit Points]]\
-      \ at the end of every turn, but it turns to dust if reduced to 0 [[hit points xphb|Hit Points]]\
+      \ 35; and [[immunity-xphb (variant-rules)]] to Necrotic,\
+      \ Poison, and Psychic damage. The tome regains all its [[hit-points-xphb (variant-rules)]]\
+      \ at the end of every turn, but it turns to dust if reduced to 0 [[hit-points-xphb (variant-rules)]]\
       \ or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can\
-      \ create a new one when it finishes a [[short rest xphb|Short]]\
-      \ or [[long rest xphb|Long Rest]]."
+      \ create a new one when it finishes a [[short-rest-xphb]]\
+      \ or [[long-rest-xphb]]."
     "name": "Soul Tome"
 "actions":
   - "desc": "The arcanaloth makes three Fiendish Burst attacks. It can replace one\
@@ -134,23 +134,23 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
       \ tome on a success. When the target escapes, it appears in the space it left\
       \ or, if that space is occupied, the nearest unoccupied space.\n\nIf the target\
       \ fails three of these saves while in the demiplane, it becomes bound to the\
-      \ tome and can escape only if the tome is reduced to 0 [[hit points xphb|Hit Points]]."
+      \ tome and can escape only if the tome is reduced to 0 [[hit-points-xphb (variant-rules)]]."
     "name": "Banishing Claw (Requires Soul Tome)"
   - "desc": "The arcanaloth casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[alter self xphb|Alter Self]],\
-      \ [[detect magic xphb|Detect Magic]], [[identify xphb|Identify]],\
-      \ [[mage hand xphb|Mage Hand]], [[prestidigitation xphb|Prestidigitation]]\n\
-      \n1/day each: [[contact other plane xphb|Contact Other Plane]],\
-      \ [[detect thoughts xphb|Detect Thoughts]], [[dimension door xphb|Dimension\]]
-      \ Door]], [[mind blank xphb|Mind Blank]]"
+      \ DC 17):\n\nAt will: [[alter-self-xphb (spells)]],\
+      \ [[detect-magic-xphb (spells)]], [[identify-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Prestidigitation Xphb]]\n\
+      \n1/day each: [[Contact Other Plane Xphb]],\
+      \ [[detect-thoughts-xphb (spells)]], [[Dimension Door Xphb]]
+      \ Door]], [[mind-blank-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The arcanaloth teleports up to 30 feet to an unoccupied space it can\
       \ see."
     "name": "Teleport"
 "reactions":
-  - "desc": "The arcanaloth casts [[counterspell xphb|Counterspell]]\
+  - "desc": "The arcanaloth casts [[counterspell-xphb (spells)]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Counterspell"

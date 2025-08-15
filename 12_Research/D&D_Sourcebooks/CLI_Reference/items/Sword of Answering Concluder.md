@@ -38,7 +38,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-concluder-sword-of-answering-concluder.svg)
 
 # Sword of Answering (Concluder)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a lawful neutral creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a lawful neutral creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

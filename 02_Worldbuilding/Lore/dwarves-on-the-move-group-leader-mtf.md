@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # dwarves-on-the-move-group-leader-mtf
@@ -22,7 +22,7 @@ The full nature of dwarves-on-the-move-group-leader-mtf involves several interco
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of dwarves-on-the-move-group-leader-mtf trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to dwarves-on-the-move-group-leader-mtf are various other important el
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view dwarves-on-the-move-group-leader-mtf through their own cultural lenses:
+Different [[Groups]] view dwarves-on-the-move-group-leader-mtf through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of dwarves-on-the-move-group-leader-mtf:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How dwarves-on-the-move-group-leader-mtf has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate dwarves-on-the-move-group-leader-mtf into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways dwarves-on-the-move-group-leader-mtf might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #dwarves-on-the-move-group-leader-mtf
+*Tags*: [[#General]] #worldbuilding #dwarves-on-the-move-group-leader-mtf

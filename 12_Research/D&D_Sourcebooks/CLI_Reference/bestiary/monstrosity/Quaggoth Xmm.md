@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-xmm-quaggoth-xmm.svg)
 
-# [[quaggoth xmm|Quaggoth]]
+# [[Quaggoth Xmm]]
 *Source: Monster Manual (2024) p. 251*  
 
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
@@ -93,15 +93,15 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "While [[bloodied xphb|Bloodied]], the\
-      \ quaggoth has [[advantage xphb|Advantage]]\
+  - "desc": "While [[bloodied-xphb (variant-rules)]], the\
+      \ quaggoth has [[Advantage Xphb]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "The quaggoth makes two Claw attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage,\
-      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[bloodied xphb|Bloodied]]."
+      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[bloodied-xphb (variant-rules)]]."
     "name": "Claw"
 "source":
   - "XMM"

@@ -39,11 +39,11 @@ world: Both
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous item, rare*  
 
-A [[figurine of wondrous power xdmg|Figurine of Wondrous Power]] is a statuette small enough to fit in a pocket. If you take a [[actions#Magic|Magic]] action to throw the figurine to a point on the ground within 60 feet of yourself, the figurine becomes a living creature specified in the figurine's description below. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
+A [[Figurine of Wondrous Power Xdmg]] is a statuette small enough to fit in a pocket. If you take a [[actions#Magic|Magic]] action to throw the figurine to a point on the ground within 60 feet of yourself, the figurine becomes a living creature specified in the figurine's description below. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
 
-The creature is [[friendly attitude xphb|Friendly]] to you and your allies. It understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. If you issue no commands, the creature defends itself but takes no other actions.
+The creature is [[friendly-attitude-xphb (variant-rules)]] to you and your allies. It understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative Xphb]] count. If you issue no commands, the creature defends itself but takes no other actions.
 
-The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if its creature form drops to 0 [[hit points xphb|Hit Points]] or if you take a [[actions#Magic|Magic]] action while touching the creature to make it revert to figurine form. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified below.
+The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if its creature form drops to 0 [[hit-points-xphb (variant-rules)]] or if you take a [[actions#Magic|Magic]] action while touching the creature to make it revert to figurine form. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified below.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -59,7 +59,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Bronze Griffon (Rare)
 
-This bronze statuette is of a griffon rampant. It can become a [[griffon xmm|Griffon]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+This bronze statuette is of a griffon rampant. It can become a [[griffon-xmm (monstrosity)]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
 

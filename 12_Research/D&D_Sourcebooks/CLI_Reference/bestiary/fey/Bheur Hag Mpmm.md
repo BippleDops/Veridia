@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
 
-# [[bheur hag mpmm|Bheur Hag]]
+# [[Bheur Hag Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -81,7 +81,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The hag can cast the [[control weather xphb|control weather]]\
+  - "desc": "The hag can cast the [[weather]]\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (1/Day)"
@@ -118,9 +118,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Horrific Feast"
   - "desc": "While holding or riding the graystaff, the hag casts one of the following\
       \ spells, requiring no material components and using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [[hold person xphb|hold person]]\n\
-      \n1/day each: [[cone of cold xphb|cone of cold]],\
-      \ [[ice storm xphb|ice storm]], [[wall of ice xphb|wall of ice]]"
+      \ ability (spell save DC 14):\n\nAt will: [[Hold Person Xphb]]\n\
+      \n1/day each: [[cone-of-cold-xphb (spells)]],\
+      \ [[ice-storm-xphb (spells)]], [[Wall of Ice Xphb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

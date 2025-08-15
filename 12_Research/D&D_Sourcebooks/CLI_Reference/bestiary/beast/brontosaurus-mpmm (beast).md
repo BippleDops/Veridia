@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brontosaurus-mpmm-brontosaurus-mpmm.svg)
 
-# [[brontosaurus mpmm|Brontosaurus]]
+# [[brontosaurus-mpmm (beast)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.

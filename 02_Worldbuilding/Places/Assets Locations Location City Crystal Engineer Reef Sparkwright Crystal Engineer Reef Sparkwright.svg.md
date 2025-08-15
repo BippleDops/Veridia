@@ -187,3 +187,9 @@ Key stop on spices trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

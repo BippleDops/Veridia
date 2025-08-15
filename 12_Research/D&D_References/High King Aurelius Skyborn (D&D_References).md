@@ -57,8 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Mentor**: [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg]]
-- **Sibling**: [[Portrait NPC Captain Sarah Ironheart V1 Captain Sarah Ironheart.svg]]
+- **Mentor**: [[Npc]]
+- **Sibling**: [[Npc]]
 - **Sibling**: [[Captain Torrent Freewater]]
 
 ## Plot Hooks

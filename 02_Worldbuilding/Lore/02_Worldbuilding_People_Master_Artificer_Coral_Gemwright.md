@@ -1,22 +1,22 @@
 ---
-title: 02_Worldbuilding_People_Master_Artificer_Coral_Gemwright
+title: 02_Worldbuilding_People_Master_[[Artificer]]_Coral_Gemwright
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # 02_Worldbuilding_People_Master_Artificer_Coral_Gemwright
 
 ## Overview
-This topic is referenced in [[Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]] and other parts of the campaign.
+This topic is referenced in [[Shield]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
+- Referenced by: [[Shield]]
 - Related topics in the same category
 
 ## Details

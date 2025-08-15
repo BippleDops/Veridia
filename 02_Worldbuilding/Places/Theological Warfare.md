@@ -1,7 +1,7 @@
 ---
 
 title: Theological Warfare
-type: Location
+type: [[location]]
 tags:
 - both
 - status/complete
@@ -24,7 +24,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: 500
 MyCategory: Unknown
 MyContainer: None
@@ -33,15 +33,15 @@ danger_level: 9
 depth: 2600-2900 feet
 discovered: true
 factions:
-- '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
-- '[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
-- '[[Deep Mother Zealots]]'
+- '[[Temple of Divine Order|[[02 Worldbuilding]]/[[Groups]]/Temple Of Divine Order]]'
+- '[[The [[Leviathan]] Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[[[Deep Mother]] Zealots]]'
 - '[[Syncretist Mediators]]'
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
-notable_npcs:
-- '[[02 Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
+notable_[[Npc]]s:
+- '[[People]]
   Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
@@ -49,15 +49,7 @@ notable_npcs:
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 pressure_effects: Severe
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
-services:
-- Theological Debate Resolution
-- Religious Combat Training
-- Divine Magic Testing
-- Heresy Trials
-- Faith Counseling
-shadow_density: Variable
-sub_locations:]]
+ruler: '[[People]]
 - '[[The Argument Amphitheater]]'
 - '[[Divine Intervention Plaza]]'
 - '[[Heresy Hunter Barracks]]'
@@ -90,7 +82,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -130,17 +122,17 @@ improvements: 20
 
 ## Where Faith Battles Faith in Holy Combat
 
-> *"Here gods war through mortal hands, and every prayer is both blessing and battlecry"*
+> *"Here gods war through mortal hands, and every prayer is both [[Bless]]ing and battlecry"*
 
 ## Overview
 
-The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, divine magic, and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[12_Research/D&D_Statblocks/The Great Drowning]].
+The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, [[Divine Magic]], and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[Great Drownin]].
 
 What makes this location unique is that violence here is not random or chaotic but ritualized and regulated. The various religious factions have agreed that rather than allowing theological disputes to tear apart society, they will be resolved in formal combat under strict rules. This has created a bizarre fusion of monastery, military base, and gladiatorial arena where priests dual with both scripture and sword.
 
 ### The Divine Schism
 
-The Great Drowning didn't just transform the physical world—it created a theological crisis. Different religious groups interpreted the catastrophe in radically different ways, leading to fundamental disagreements about divine will, the nature of existence, and humanity's relationship with higher powers.
+The [[Great Drowning]] didn't just transform the physical world—it created a theological crisis. Different [[Religious Groups]] interpreted the catastrophe in radically different ways, leading to fundamental disagreements about divine will, the nature of existence, and humanity's relationship with higher powers.
 
 ### The First Holy War
 
@@ -160,10 +152,10 @@ Rather than allow theological disputes to destroy civilization, the major religi
 ### Temple of Divine Order
 
 **[[Temple of Divine Order|Full Details]]**
-Believe that The Great Drowning was divine punishment for chaos and disorder, and that salvation comes through rigid adherence to divine law and structure.
+Believe that [[The Great Drowning]] was divine punishment for chaos and disorder, and that salvation comes through rigid adherence to divine law and structure.
 
 **Theological Position:**
-- The drowning was justified divine punishment
+- [[The Drowning]] was justified divine punishment
 - Salvation requires absolute order and obedience
 - Chaos and individualism are sins against the divine plan
 - The surface world fell because it rejected divine authority
@@ -197,7 +189,7 @@ Worship the massive sea creatures as divine beings, believing that The Great Dro
 Worship the mysterious entity known as [[The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
 
 **Theological Position:**
-- The Deep Mother is the true creator goddess
+- The Deep Mother is the true [[Creator]] goddess
 - The drowning was a divine birthing process
 - Transformation and evolution are sacred duties
 - Surface life was merely the larval stage of true existence
@@ -216,7 +208,7 @@ Believe that all the various religious interpretations contain elements of truth
 **Theological Position:**
 - All religions contain partial truths
 - The divine is too complex for any single interpretation
-- Unity through diversity is the path to understanding
+- Unity through diversity is the [[path]] to understanding
 - Theological warfare is itself a form of worship
 
 **Combat Style:**
@@ -245,7 +237,7 @@ The primary combat area where armed theological disputes are resolved. The plaza
 - **Squadron Fields:** For organized unit combat
 - **Chaos Zones:** For unrestricted theological warfare
 - **Ritual Spaces:** For magical and divine intervention contests
-- **Neutral Grounds:** For negotiation and surrender ceremonies
+- **[[Neutral Grounds]]:** For negotiation and surrender ceremonies
 
 ### Heresy Hunter Barracks
 
@@ -285,21 +277,21 @@ A complex theological question about whether undead beings possess souls:
 
 ### The Memory Sacred Controversy
 
-Disputes about the religious significance of memory and whether [[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
+Disputes about the religious significance of memory and whether [[[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
 
 ### Pre-Combat Requirements
 
 1. **Formal Challenge:** Disputes must be formally declared with specific theological issues identified
 2. **Debate Period:** Minimum 24 hours of formal theological debate before combat
 3. **Witness Requirements:** At least one representative from each major faction must observe
-4. **Divine Consultation:** All combatants must demonstrate they have sought divine guidance
+4. **Divine Consultation:** All combatants must demonstrate they have sought divine [[Guidance]]
 5. **Stakes Declaration:** Clear statement of what the winner's victory will resolve
 
 ### Combat Protocols
 
 1. **No Killing:** Combat continues until surrender, incapacitation, or divine intervention
 2. **Divine Magic Encouraged:** All forms of divine magic are permitted
-3. **Environmental Hazards:** The grounds themselves may manifest divine challenges
+3. **[[Environmental Hazards]]:** The grounds themselves may manifest divine challenges
 4. **Neutral Arbitration:** Heresy Hunters serve as referees
 5. **Sacred Truces:** Combat stops for major religious observances
 
@@ -311,9 +303,9 @@ Disputes about the religious significance of memory and whether [[Memory Farmers
 4. **Healing Rituals:** All combatants receive medical and spiritual care
 5. **Documentation:** Complete records kept for future theological reference
 
-### High Theologian Commander Aurelius
+### [[High Theologian Commander Aurelius]]
 
-**[[02 Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
+**[[People]]**
 The current rotating leader of the Religious Council of War, representing the [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]. Aurelius is both a brilliant theologian and skilled warrior who believes that combat is a form of prayer.
 
 **Key Traits:**
@@ -330,7 +322,7 @@ Spiritual leader of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan C
 **Abilities:**
 - Summoning and communication with sea creatures
 - Water manipulation and oceanic magic
-- Prophetic visions related to the sea's will
+- [[Prophetic Visions]] related to the sea's will
 - Transformation into semi-aquatic forms
 
 ### Deep Mother Priestess Sira
@@ -351,7 +343,7 @@ Leader of the [[Syncretist Mediators]] who has somehow learned to use divine mag
 
 **Unique Abilities:**
 - Multi-faith divine spellcasting
-- Diplomatic immunity during theological combat
+- [[Diplomatic Immunity]] during theological combat
 - Ability to channel multiple divine sources simultaneously
 - Enhanced empathy and understanding abilities
 
@@ -363,7 +355,7 @@ The concentration of competing divine forces creates unpredictable magical effec
 - **Faith Testing Events:** Participants' beliefs are supernaturally tested
 - **Revelation Moments:** Combatants may receive divine visions during battle
 
-### Theological Reality Distortions
+### Theological [[Reality Distortion]]s
 
 The clash of different religious worldviews creates localized reality alterations:
 - Areas where different theological laws of physics apply
@@ -375,13 +367,13 @@ The clash of different religious worldviews creates localized reality alteration
 
 Beyond standard deep-sea pressure, the grounds generate spiritual pressure that affects non-believers:
 - **DC 16 Wisdom saves** for those without strong religious convictions
-- Atheists and agnostics suffer disadvantage on all actions
+- Atheists and agnostics suffer [[Disadvantage]] on all actions
 - True believers gain advantage on actions aligned with their faith
 - Theological uncertainty causes confusion and disorientation
 
 ### The Fifth Faction
 
-There is evidence of a fifth religious faction that operates in secret, manipulating the theological warfare for unknown purposes. This group may be connected to [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] or represent an entirely different theological perspective.
+There is [[Evidence]] of a fifth religious faction that operates in secret, manipulating the theological warfare for unknown purposes. This group may be connected to [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] or represent an entirely different theological perspective.
 
 ### The Divine Conspiracy
 
@@ -403,15 +395,15 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 
 1. **The Heretical Discovery:** Archaeological evidence emerges that contradicts all major religious beliefs about The Great Drowning. Players must investigate the discovery while various factions try to suppress or control the information, leading to a massive theological crisis.
 
-2. **The False Prophet:** Someone is impersonating religious leaders from multiple factions, starting conflicts and theological disputes. Players must unmask the impostor while preventing the theological warfare from spilling into general civil war.
+2. **The False Prophet:** Someone is impersonating [[Religious Leaders]] from multiple factions, starting conflicts and theological disputes. Players must unmask the impostor while preventing the theological warfare from spilling into general civil war.
 
 ### Political Intrigue
 
-3. **The Divine Election:** The Religious Council of War needs to elect a new leader, but the voting has deadlocked. Players become involved in the complex theological and political maneuvering, with each faction trying to secure their support.
+3. **The Divine Election:** The Religious Council of War needs to elect a new leader, but the voting has deadlocked. Players become involved in the complex theological and [[Political Maneuvering]], with each faction trying to secure their support.
 
 4. **The Neutrality Question:** The supposedly neutral Heresy Hunters are accused of favoring one religious faction. Players must investigate these claims while navigating the complex relationships between religious and political power.
 
-### Moral Dilemmas
+### [[Moral Dilemmas]]
 
 5. **The Conversion Campaign:** One faction launches an aggressive conversion campaign that threatens to upset the careful balance of theological warfare. Players must decide whether religious freedom includes the right to aggressive proselytizing.
 
@@ -423,7 +415,7 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 
 8. **The Syncretist Challenge:** Players are challenged to create a new religious synthesis that incorporates elements from all major factions. Success could bring peace, but failure might intensify religious conflicts.
 
-## Random Encounters (d12)
+## [[[[Random Encounter]]s]] (d12)
 
 | Roll | Encounter |
 |------|-----------|
@@ -488,26 +480,26 @@ Certain areas manifest divine judgment based on actions:
 
 Theological Warfare is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Theological Warfare as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Theological Warfare.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
 **Sights**: The architecture features sweeping arches and ornate carvings
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Incense mingles with the scent of exotic spices
 
@@ -522,6 +514,34 @@ Theological Warfare is a notable location characterized by its unique features a
 
 ### Founding
 Theological Warfare was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -544,7 +564,7 @@ Ongoing situations affecting Theological Warfare:
 - A shipment has gone missing and truth emerges
 - A noble needs help finding before winter
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -559,7 +579,7 @@ Ongoing situations affecting Theological Warfare:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -572,3 +592,40 @@ Ongoing situations affecting Theological Warfare:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

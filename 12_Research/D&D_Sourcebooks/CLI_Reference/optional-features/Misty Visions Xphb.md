@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[silent image xphb|Silent Image]] without expending a spell slot.
+You can cast [[Silent Image Xphb]] without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

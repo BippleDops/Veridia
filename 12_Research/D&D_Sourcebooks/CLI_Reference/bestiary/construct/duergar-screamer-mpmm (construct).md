@@ -37,7 +37,7 @@ updated: '2025-08-12T23:37:35.828384'
 world: Both
 ---
 
-# [[duergar screamer mpmm|Duergar Screamer]]
+# [[Duergar Screamer Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.

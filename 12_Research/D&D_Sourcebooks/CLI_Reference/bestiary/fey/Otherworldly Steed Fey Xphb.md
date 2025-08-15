@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fey-xphb-otherworldly-steed-fey-xphb.svg)
 
-# [[otherworldly steed fey xphb|Otherworldly Steed (Fey)]]
+# [[fey]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock

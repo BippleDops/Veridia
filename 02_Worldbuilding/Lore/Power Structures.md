@@ -3,7 +3,7 @@ title: Power Structures
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 

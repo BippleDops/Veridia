@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-amber-golem-cos-amber-golem-cos.svg)
 
-# [[amber golem cos|Amber Golem]]
+# [[Amber Golem Cos]]
 *Source: Curse of Strahd p. 186*  
 
 ```statblock

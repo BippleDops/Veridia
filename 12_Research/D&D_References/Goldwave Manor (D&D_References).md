@@ -31,7 +31,7 @@ status: complete
 world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Ficial Complex
-parent_location: '[[Port Meridian   Market Square]]'
+parent_location: '[[Port Meridian]]'
 connected_locations:
 - '[[Port Meridian Harbor]]'
 - '[[The Royal Palace]]'
@@ -88,7 +88,7 @@ discovered: false
 
 ## Overview
 
-Goldwave Manor stands as the most magnificent private residence in [[Port Meridian   Market Square]], serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
+Goldwave Manor stands as the most magnificent private residence in [[Port Meridian]], serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
 
 Unlike traditional noble houses that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and ficial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
 

@@ -167,7 +167,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly xphb|fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly-xphb (spells)]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ### Difficult Terrain
 
@@ -197,7 +197,7 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly xphb|fly]] spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly-xphb (spells)]] spell.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c91.webp#center)
 
@@ -207,7 +207,7 @@ Each creature takes up a different amount of space.
 
 The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-![[creature size size categories phb|Creature Size; Size Categories]]
+![[creature-size-size-categories-phb (tables)]]
 
 #### Space
 
@@ -292,7 +292,7 @@ If the `d20` roll for an attack is a 1, the attack misses regardless of any modi
 
 ### Unseen Attackers and Targets
 
-Combatants often try to escape their foes' notice by hiding, casting the [[invisibility xphb|invisibility]] spell, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the [[see-invisibility-xphb (spells)]] spell, or lurking in darkness.
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
@@ -580,7 +580,7 @@ A **ranged weapon attack** automatically misses a target beyond the weapon's nor
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
+[[DnD5e-DM Screen-2014]]
 
 ## Player-Facing Summary
 
@@ -612,3 +612,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

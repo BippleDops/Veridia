@@ -281,7 +281,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Trade**: Gardens provides materials, Foundry creates specialized cultivation tools  
 **Personnel**: Cross-training programs and shared expertise between institutions
 
-### [[Palace Courtyard   Crystal Garden]]
+### [[garden]]
 **Service**: Exclusive supplier for all royal magical needs and ceremonial items  
 **Priority**: Special queue for royal commissions and urgent requests  
 **Security**: Enhanced protection and complete confidentiality for sensitive royal projects  
@@ -308,7 +308,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 
 **Related Locations**:
 - [[Crystal Gardens]]
-- [[Palace Courtyard   Crystal Garden]]
+- [[garden]]
 - [[Port Meridian]]
 - [[Aethermoor]]
 

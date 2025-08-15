@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nalfeshnee-xmm-nalfeshnee-xmm.svg)
 
-# [[nalfeshnee xmm|Nalfeshnee]]
+# [[Nalfeshnee Xmm]]
 *Source: Monster Manual (2024) p. 224. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -102,10 +102,10 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "cr": "13"
 "traits":
   - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The nalfeshnee has [[advantage xphb|Advantage]]\
+  - "desc": "The nalfeshnee has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -118,7 +118,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
       \ see."
     "name": "Teleport"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [[Area of Effect Xphb]]\
       \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
       \ target has the [[conditions#frightened|Frightened]] condition\
       \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\

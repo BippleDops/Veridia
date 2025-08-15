@@ -36,7 +36,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[jump xphb|Jump]] on yourself without expending a spell slot.
+You can cast [[Long Jump Xphb]] on yourself without expending a spell slot.
 
 ## 🔧 Deep Evaluation Improvements
 

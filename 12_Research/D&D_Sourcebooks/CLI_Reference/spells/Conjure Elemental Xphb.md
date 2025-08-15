@@ -53,7 +53,7 @@ Whenever a creature you can see enters the spirit's space or starts its turn wit
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 254. Available in the SRD and the Free Rules (2024)*
 

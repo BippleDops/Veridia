@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: The Lock Saboteur
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -42,13 +42,13 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 **Type:** Infiltration/Sabotage Prevention  
 **Level:** 10-14  
-**Location:** [[The Lock]], [[Pressure's End]], [[The Hadal Depths]]  
+**[[location]]:** [[The Lock]], [[Pressure's End]], [[Hadal Depth]]]]  
 **Duration:** 2-3 sessions  
 **Threat:** Someone is sabotaging the most important barrier protecting [[Aquabyssos]] from abyssal horrors
 
-**Connected Locations:** [[Abyssos Prime]], [[12_Research/D&D_Statblocks/The Deepmind]], [[Parliament of Echoes]]  
-**Related Groups:** [[The Depth Wardens]], [[Memory Farmers]], [[The Purist Coalition]]  
-**Key Themes:** Environmental horror, institutional failure, [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], moral complexity
+**Connected Locations:** [[Abyssos Prime]], [[12 Research]], [[Parliament of Echoes]]  
+**Related Groups:** [[Depth Warden]]]], [[Memory Farmers]], [[Purist Coalition]]]]  
+**Key Themes:** Environmental horror, institutional failure, [[The Seven Shards]]|[[02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]/Lore/The Seven Shards]], moral complexity
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -64,7 +64,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -112,11 +112,11 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 
 ## Overview
 
-[[The Lock]] - the massive arcane barrier holding back the creatures of [[The Hadal Depths]] - has begun showing signs of systematic sabotage. Power fluctuations, missing security personnel, and disturbing whispers in the deep suggest an inside job. If the Lock fails completely, the horrors beneath will surge upward and consume all of [[Aquabyssos]].
+[[The Lock]] - the massive arcane barrier holding back the creatures of [[Hadal Depth]]]] - has begun showing signs of systematic sabotage. Power fluctuations, missing security personnel, and disturbing whispers in the deep suggest an inside job. If the Lock fails completely, the horrors beneath will surge upward and consume all of [[Aquabyssos]].
 
 ## Background
 
-[[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]] first noticed unusual readings from the Lock's monitoring stations. What seemed like normal degradation revealed itself as deliberate tampering when [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] found crystalline components that had been carefully weakened rather than naturally worn. Someone with intimate knowledge of the Lock's construction is methodically destroying it from within.
+[[Admiral Thorne Blackwater]] first noticed unusual readings from the Lock's monitoring stations. What seemed like normal degradation revealed itself as deliberate tampering when [[Vault Keeper Eternal]] found crystalline components that had been carefully weakened rather than naturally worn. Someone with intimate knowledge of the Lock's construction is methodically destroying it from within.
 
 ### Phase 1: Understanding the Lock (1 session)
 
@@ -128,9 +128,9 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 - **Pressure Systems**: Mechanical components maintaining structural integrity
 - **Ritual Chambers**: Ongoing ceremonies that reinforce magical bindings
 - **Monitoring Network**: Sensory apparatus detecting threats from below
-- **Emergency Protocols**: Last-resort systems for catastrophic failure
+- **[[[[Emergency Protocol]]s]]**: Last-resort systems for catastrophic failure
 
-**Evidence of Sabotage:**
+**[[Evidence]] of Sabotage:**
 1. **Micro-fractures**: Crystalline supports show tool marks, not wear patterns
 2. **Ritual Disruption**: Sacred ceremonies interrupted by "equipment failures"
 3. **Missing Personnel**: Three technicians vanished during routine maintece
@@ -142,10 +142,10 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 **Location:** [[The Lock]] - Lower Levels, [[Pressure's End]]  
 **Objective:** Identify the saboteur and their methods
 
-**Suspects to Investigate:**
+**[[Suspects]] to Investigate:**
 - **[[Engineer Brass Gearspin]]**: Has complete access and technical knowledge
-- **[[Temple Guardian Marcus the Drowned]]**: Religious extremist with philosophical motive
-- **New Technician "Coral"**: Recent hire with suspicious background
+- **[[Drowned]]]]**: Religious extremist with philosophical motive
+- **New Technician "[[Coral]]"**: Recent hire with suspicious background
 - **[[Memory Farmers]] Agent**: Could be erasing evidence of their infiltration
 - **Deep Cultist**: Someone corrupted by exposure to abyssal influence
 
@@ -153,7 +153,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 - **Technical Analysis**: Examine sabotage techniques for signature patterns
 - **Personnel Records**: Background checks reveal hidden connections
 - **Memory Examination**: Magical investigation of staff amnesia
-- **Temporal Analysis**: [[Time Lost Delegate Chronus]] can detect timeline manipulations
+- **Temporal Analysis**: [[Time]] can detect [[Timeline]] manipulations
 - **Deep Sensing**: Psychic detection of abyssal corruption in personnel
 
 ### The Real Saboteur: Engineer Brass Gearspin
@@ -167,7 +167,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 1. **Controlled Failure**: Create manageable breaches that prove the Lock's danger
 2. **Evidence Collection**: Document corruption effects on deep-dwelling citizens
 3. **Mass Evacuation**: Convince authorities to relocate population to safety
-4. **Selective Destruction**: Destroy the Lock only after people are safe
+4. **Selective Destruction**: Destroy the Lock only after [[People]] are safe
 
 ### Moral Complexity
 
@@ -221,7 +221,7 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 **Technical Mastery.** Brass can use an action to control any mechanical or magical system within 120 feet, including [[The Lock]]'s defenses. This functions as *dominate monster* but only affects constructs and magical systems.
 
-**Abyssal Corruption.** Brass is partially corrupted by exposure to [[The Hadal Depths]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
+**Abyssal Corruption.** Brass is partially corrupted by exposure to [[The [[Hadal Depths]]]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
 
 **Lock System Integration.** While within [[The Lock]], Brass can see through any surveillance system and communicate through the facility's intercom as a bonus action.
 
@@ -236,7 +236,7 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 **Multiattack.** Brass makes two Corrupted Tools attacks or casts two spells.
 
-**Corrupted Tools.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage plus 7 (2d6) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or have their maximum hit points reduced by the necrotic damage until they finish a long rest.
+**Corrupted Tools.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage plus 7 ([[2d6]]) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or have their maximum hit points reduced by the necrotic damage until they finish a long rest.
 
 **Abyssal Whispers (Recharge 5-6).** Brass shares horrifying visions of [[The Hadal Depths]] with a creature within 60 feet. The target must make a DC 17 Wisdom saving throw. On failure: 22 (4d10) psychic damage and the target is frightened for 1 minute. On success: Half damage and not frightened.
 
@@ -255,7 +255,7 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit). He knows the following spells:
 - **Cantrips (at will):** *mage hand*, *mending*, *prestidigitation*, *minor illusion*
-- **1st level (4 slots):** *detect magic*, *identify*, *shield*
+- **1st level (4 slots):** *detect magic*, *identify*, *[[Shield]]*
 - **2nd level (3 slots):** *knock*, *see invisibility*, *spider climb*
 - **3rd level (3 slots):** *counterspell*, *fireball*, *haste*
 - **4th level (3 slots):** *fabricate*, *greater invisibility*, *wall of fire*
@@ -267,7 +267,7 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 - **Reinforced Engineer's Coat**: AS 14 + Dex modifier, provides resistance to one type of energy damage per day
 - **Magnetic Climbing Boots**: Grant climbing speed and immunity to being knocked prone
 - **Master's Toolkit**: Gives advantage on all tool-based checks
-- **Abyssal Corruption Focus**: Crystal shard that enhances spells with necrotic energy
+- **Abyssal Corruption Focus**: [[Crystal Shard]] that enhances spells with necrotic energy
 - **Lock Master Key**: Allows access to all areas of [[The Lock]]
 
 **Tactics:** Brass uses his environmental control to create hazardous conditions while positioning himself to complete critical sabotage. He prioritizes incapacitating enemies over killing them, as he genuinely believes he's saving lives through his actions.
@@ -283,7 +283,7 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 ### Option 2: Collaborative Solution (Investigation Focus)
 
 **Outcome:** Work with Brass to find safer way to address his concerns
-- **Research Initiative**: Major study of Lock's health effects begins
+- **Research [[Initiative]]**: Major study of Lock's health effects begins
 - **Gradual Improvement**: Modified barrier reduces harmful emissions
 - **Public Awareness**: Controlled revelation leads to health monitoring
 - **Long-term Success**: Engineered solution protects both safety and health
@@ -334,3 +334,7 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

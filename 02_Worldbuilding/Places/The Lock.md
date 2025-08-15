@@ -162,7 +162,7 @@ Each tower corresponds to one matrix of the Great Seal:
 
 **Silence Tower**
 - Centers of absolute void and emptiness
-- Maintained by [[Void Keeper Sister Nyx space]]
+- Maintained by [[Void_Keeper_Sister_Nyx_space]]
 - Chambers where sound, light, and thought cannot exist
 - Training for operating in impossible conditions
 
@@ -183,7 +183,7 @@ Living quarters designed for extreme psychological pressure:
 
 **The Workshop Levels**
 - Maintece facilities for the seven matrices
-- Forges for creating [[Hadal Resistant Equipment]]
+- Forges for creating [[Hadal-Resistant Equipmen]]
 - Laboratories for studying phenomena from beyond the barrier
 - Storage for replacement parts and emergency materials
 
@@ -419,6 +419,34 @@ The Lock is a notable location characterized by its unique features and strategi
 ### Founding
 The Lock was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
@@ -453,3 +481,40 @@ The Lock was established in the distant past, growing from humble beginnings to 
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

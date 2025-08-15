@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session-4
 
----
+- --
 title: Session 4
 type: npc
 tags:
@@ -40,13 +40,13 @@ accessibility:
   - Lines & Veils
   - X-Card
   - Open Door
----
+- --
 
 # Session-4
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -60,7 +60,7 @@ accessibility:
 Session-4 moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02 Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
+- Bond: A family archive tied to [[The Sunken Library]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary
@@ -77,7 +77,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Plot Hooks
 
@@ -106,3 +106,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

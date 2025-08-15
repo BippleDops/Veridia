@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_npc_galazeth-prismari-scc - Quick Reference
 
 ## Key Info

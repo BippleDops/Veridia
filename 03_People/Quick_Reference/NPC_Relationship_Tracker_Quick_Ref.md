@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Relationship_Tracker - Quick Reference
 
 ## Key Info

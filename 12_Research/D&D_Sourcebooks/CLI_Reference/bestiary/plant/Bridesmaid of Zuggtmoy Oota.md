@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-bridesmaid-of-zuggtmoy-oota.svg)
 
-# [[bridesmaid of zuggtmoy oota|Bridesmaid of Zuggtmoy]]
+# [[Bridesmaid of Zuggtmoy Oota]]
 *Source: Out of the Abyss p. 230*  
 
 ```statblock

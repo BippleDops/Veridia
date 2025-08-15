@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_2_Harbor_Investigation
 
----
+- --
 title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: session
 tags:
@@ -31,14 +31,14 @@ duration: 4-5 hours
 world: Aquabyssos
 adventure: The Sunken Conspiracy
 updated: '2025-08-13T01:18:37.159211+00:00'
----
+- --
 
 # Session 2: Harbor Investigation
-*The Sunken Conspiracy - Uncovering Smuggling Operations*
+* The Sunken Conspiracy - Uncovering Smuggling Operations*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -749,9 +749,9 @@ Estimated Completion: 18 hours
 - **Terrain**: Difficult terrain from currents and obstacles
 - **Vision**: Limited visibility creates opportunities for stealth
 
----
+- --
 
-*As the conspiracy's true scope becomes clear, the party must navigate treacherous political waters where allies and enemies are not always who they seem. In the depths of Aquabyssos, even the currents carry secrets, and some truths are more dangerous than the crushing pressure of the abyss.*
+* As the conspiracy's true scope becomes clear, the party must navigate treacherous political waters where allies and enemies are not always who they seem. In the depths of Aquabyssos, even the currents carry secrets, and some truths are more dangerous than the crushing pressure of the abyss.*
 
 ## Player-Facing Summary
 
@@ -767,11 +767,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+* [Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
 ## 12_Research Specific Content
 
@@ -780,3 +780,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Themes**: [THEMES]
+- **Through**: [THROUGH]
+- **Gather**: [GATHER]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

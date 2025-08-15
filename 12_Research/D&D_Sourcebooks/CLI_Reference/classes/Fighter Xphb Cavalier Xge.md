@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Cavalier
-*[[fighter xphb|Fighter]]: Fighter Subclass*  
+*[[fighter-xphb (classes)]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 30*  
 
 > [!tldr] Class and Feature Progression

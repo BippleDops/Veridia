@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
 
-# [[flind mpmm|Flind]]
+# [[flind-mpmm (fiend)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -58,7 +58,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[[breastplate xphb|breastplate]]"
+"ac_class": "[[Breastplate Xphb]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"

@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Creditor**: [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg]]
-- **Mentor**: [[Portrait NPC Captain Threshold Captain Threshold.svg]]
-- **Mentor**: [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- **Creditor**: [[Npc]]
+- **Mentor**: [[Npc]]
+- **Mentor**: [[Master Trader Abyss Currentbinder]]
 - **Victim**: [[Merchant Lord Cornelius Generous]]
-- **Sibling**: [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+- **Sibling**: [[Npc]]
 
 ## Plot Hooks
 

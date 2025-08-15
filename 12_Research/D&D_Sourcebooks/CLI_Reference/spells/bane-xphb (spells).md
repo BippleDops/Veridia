@@ -53,7 +53,7 @@ Up to three creatures of your choice that you can see within range must each mak
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Vengeance)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 
@@ -90,3 +90,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting an heir for revenge
 - A merchant needs help delivering before the new moon
 - The authorities needs help delivering before dawn
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[bane-xphb (spells)-phb]]` in CLI_Reference/spells/

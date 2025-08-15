@@ -50,7 +50,7 @@ world: Both
 # Armor of Lightning Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to lightning damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to lightning damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Lightning Resistance](#Breastplate%20of%20Lightning%20Resistance)

@@ -383,8 +383,8 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 - [[The Scattered Emperor]] - Political leader
 - [[Senator Glaucus]] - Political figure
 - [[The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
-- [[02 Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
-- [[02 Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
+- [[Groups]] - Political faction
+- [[Surface Reconnection Coalition]] - Political faction
 - [[Master Index]] - General world information
 
 ---
@@ -417,6 +417,34 @@ Aquabyssos was established in the distant past, growing from humble beginnings t
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## DM Notes
 
@@ -499,3 +527,36 @@ Mysterious underwater atmosphere
 Recommended tracks:
 - underwater_ambience.wav
 - deep_sea_mystery.mp3
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements

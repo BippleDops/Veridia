@@ -1,5 +1,5 @@
 ---
-title: The Crown's Burden
+title: [[The Crown]]'s Burden
 type: quest
 tags:
 - quest
@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: The Crown's Burden
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - psychological
@@ -21,7 +21,7 @@ tags:
 - quest
 - active
 - curse
-- aethermoor
+- [[Aethermoor]]
 - shadow-touched
 - crystal-enhanced
 created: '2025-08-08'
@@ -32,9 +32,9 @@ quest_priority: High
 quest_type: Character Quest
 level_range: 7-12
 world: Aethermoor
-quest_giver: Queen Seraphina Lumengarde
-rewards: Royal Blessing, Curse Removal, Ancient Knowledge
-time_limit: Before the Queen's Mind Breaks (21 days)
+quest_giver: [[Queen Seraphina]] [[Lumengarde]]
+rewards: Royal [[Bless]]ing, Curse Removal, Ancient Knowledge
+time_limit: Before [[The Queen]]'s Mind Breaks (21 days)
 created_by: system
 updated: '2025-08-13T01:18:34.473763+00:00'
 MyContainer: None
@@ -60,7 +60,7 @@ obsidianUIMode: preview
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ obsidianUIMode: preview
 
 [[Queen Seraphina Lumengarde]] is dying—not physically, but mentally. The Crown of Aethermoor carries a terrible secret: it contains the accumulated consciousness of every monarch who has ever worn it. Their memories, regrets, triumphs, and madnesses all press against the current ruler's mind. After decades of rule, the Queen's psyche is fracturing under the weight of a thousand royal souls. She secretly seeks heroes to either lift this burden or help her bear it before she descends into the same madness that claimed her predecessors.
 
-This deeply personal quest explores themes of leadership, sacrifice, and the price of power. The party must navigate not just physical dangers but the labyrinthine depths of royal memory, confronting the ghosts of history and the weight of responsibility that comes with absolute authority.
+This deeply personal quest explores themes of leadership, sacrifice, and the price of power. [[The Party]] must navigate not just physical dangers but the labyrinthine depths of royal memory, confronting the ghosts of history and the weight of responsibility that comes with absolute authority.
 
 ### The Accumulation
 
@@ -111,7 +111,7 @@ The Crown of Aethermoor was created during the First Crystal Age as a way to pre
 **The Current Crisis**:
 - Queen Seraphina has ruled for 47 years
 - She now carries the memories of 73 previous monarchs
-- Recent shadow corruption has awakened the darkest memories
+- Recent [[Shadow Corruption]] has awakened the darkest memories
 - She experiences multiple realities simultaneously
 - Without intervention, she has weeks before complete breakdown
 
@@ -133,8 +133,8 @@ The Crown of Aethermoor was created during the First Crystal Age as a way to pre
 
 ### Royal Confession
 
-**Location**: Queen's Private Meditation Chamber  
-**Time**: Midnight, during a lucid moment
+**[[location]]**: Queen's Private Meditation Chamber  
+**[[Time]]**: Midnight, during a lucid moment
 
 The Queen summons the party through unconventional means—dreams, coded messages, or trusted intermediaries. She cannot risk public knowledge of her condition.
 
@@ -143,8 +143,8 @@ The Queen summons the party through unconventional means—dreams, coded message
 
 **Initial Options**:
 1. **Research the Crown**: Learn its history and construction
-2. **Seek the Creators**: Find descendants of the original artificers
-3. **Consult Specialists**: Mind mages, memory merchants, divine healers
+2. **Seek the Creators**: Find descendants of the original [[Artificer]]s
+3. **Consult Specialists**: Mind mages, [[Memory Merchants]], divine healers
 4. **Enter Her Mind**: Psychic journey through royal memories
 
 ### The Crystal Archive
@@ -173,7 +173,7 @@ The Queen summons the party through unconventional means—dreams, coded message
 - **The Healers**: Genuinely want to help but risk exposure
 
 **Immediate Threats**:
-- Assassination attempts disguised as mercy killings
+- [[Assassin]]ation attempts disguised as mercy killings
 - Power grabs by ambitious nobles
 - Foreign agents exploiting the weakness
 - Shadow cultists wanting to corrupt the Crown
@@ -181,7 +181,7 @@ The Queen summons the party through unconventional means—dreams, coded message
 ### The Psychic Dive
 
 **Method**: Ritual allowing party to enter Queen's mindscape  
-**Guide**: [[12_Research/D&D_Statblocks/Memory Harvester Kythara]] or similar specialist
+**Guide**: [[12 Research]] or similar specialist
 
 **The Mental Landscape**:
 The Queen's mind is a vast palace where each room represents a different monarch's reign. The party must navigate this psychological maze to reach the Crown's core.
@@ -208,7 +208,7 @@ The Queen's mind is a vast palace where each room represents a different monarch
 
 **Monarch**: King Benedict the Betrayed (150 years ago)  
 **Memory**: Murdered by his own council  
-**Challenge**: Identify the traitor among allies (all seem guilty)  
+**Challenge**: Identify the traitor among [[Allies]] (all seem guilty)  
 **Lesson**: The paranoia that comes with power  
 **Guardian**: Doppelgangers of the party themselves
 
@@ -231,11 +231,11 @@ The Crown is alive—a crystalline entity that feeds on royal consciousness. It 
 **The Crown Entity** (CR 12):
 - Appears as amalgamation of all previous rulers
 - Speaks with 73 voices in harmony
-- Offers to make party members rulers
+- Offers to make [[Party Members]] rulers
 - Can only be defeated through negotiation or sacrifice
 
 **Negotiation Options**:
-1. **Convince it to release Seraphina**: Requires evidence of worthier vessels
+1. **Convince it to release Seraphina**: Requires [[Evidence]] of worthier vessels
 2. **Bargain for partial freedom**: Crown keeps some memories, releases others
 3. **Offer alternative food source**: Redirect to willing volunteers
 4. **Challenge its purpose**: Prove monarchy has evolved beyond its design
@@ -247,11 +247,11 @@ While party explores Queen's mind, crisis erupts outside:
 **Political Chaos**:
 - Duke Aldwin declares regency
 - Parliament attempts to seize power
-- [[12_Research/D&D_Statblocks/Crystal Wardens]] split into factions
-- Common people riot from confusion
+- [[12 Research]] split into factions
+- Common [[People]] riot from confusion
 
 **Shadow Opportunity**:
-The [[Shadow Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
+The [[Shadow Crystal]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
 
 **Time Pressure**:
 Each day spent in the mindscape, the Queen deteriorates:
@@ -267,9 +267,9 @@ Each day spent in the mindscape, the Queen deteriorates:
 **Location**: Hidden in memories of the First King  
 **Requirements**:
 - Willing sacrifice of royal blood
-- Shard from the original Crystal Heart
+- Shard from the original [[Lady Crystal-Heart Miraleth]]
 - Confession of the kingdom's greatest sin
-- Uimous consent of the noble houses
+- Uimous consent of the [[[[Noble House]]s]]
 - Tears of genuine sorrow for the Crown's victims
 
 **The Ritual Process**:
@@ -278,7 +278,7 @@ Each day spent in the mindscape, the Queen deteriorates:
 3. Protect ritual from shadow sabotage
 4. Navigate moral choice of who sacrifices what
 
-#### Path of Severance
+#### [[path]] of Severance
 
 **Method**: Forcibly separate Crown from Queen  
 **Cost**: Queen loses all memories of her reign  
@@ -302,7 +302,7 @@ Each day spent in the mindscape, the Queen deteriorates:
 **Risk**: Potential for psychic civil war  
 **Consequence**: Council rule replaces monarchy
 
-### The Final Choice
+### [[The Final Choice]]
 
 Based on party's decision, different scenarios unfold:
 
@@ -391,14 +391,14 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 - Knows partial truth
 - Can teach psychic defense
 
-**Prince Caspian Duskwater**
+**[[Prince Caspian]] Duskwater**
 - Queen's cousin
 - Potential successor
 - Genuinely wants to help
 - May sacrifice himself
 
 **The Memory Keeper**
-- Ancestor of Crown's creator
+- Ancestor of Crown's [[Creator]]
 - Holds missing manual
 - Bitter about family legacy
 - Requires convincing to help
@@ -431,7 +431,7 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 - Others see opportunity
 - Need careful handling
 
-**[[12_Research/D&D_Statblocks/Crystal Wardens]]**
+**[[12 Research]]**
 - Sworn to protect Crown
 - Conflicted about Queen's condition
 - May oppose or support based on approach
@@ -441,9 +441,9 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 
 **Material Rewards**:
 - Royal Boon (one request granted)
-- Crown Jewels (25,000 gp value)
+- [[Crown Jewels]] (25,000 gp value)
 - Noble titles and lands
-- Access to royal vaults
+- Access to [[Royal Vault]]s
 - Ancient magical items
 
 **Unique Rewards**:
@@ -451,7 +451,7 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 - **Crown Shard**: Immunity to mind control
 - **Royal Seal**: Authority in Queen's name
 - **Blessing of Rulers**: +2 Charisma permanently
-- **Psychic Shield**: Resistance to psychic damage
+- **Psychic [[Shield]]**: Resistance to psychic damage
 
 **Story Rewards**:
 - Shape Aethermoor's government
@@ -499,7 +499,7 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 - Reduce Crown entity power
 - Fewer memory realms
 - Simpler political situation
-- More NPC assistance
+- More [[Npc]] assistance
 
 **Higher Level (13-15)**:
 - Add cosmic implications
@@ -518,7 +518,7 @@ Seraphina has been pregt this entire time, hiding it even from herself.
 
 ### Pacing Suggestions
 
-**Sessions 1-2**: Introduction and investigation  
+**Sessions 1-2**: [[Introduction]] and investigation  
 **Sessions 3-4**: First psychic journey  
 **Sessions 5-6**: Political complications  
 **Sessions 7-8**: Deep dive into memories  
@@ -532,16 +532,16 @@ The Crown's Burden is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Crown's Burden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown's Burden.
 
-## DM Notes
+## [[DM_Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Plot Hooks
 
 - Strange sightings suggest ancient magic
 - Someone is searching for a witness for revenge
 - A prisoner has gone missing and truth emerges
-- A merchant needs help investigating before winter
+- A [[Merchant]] needs help investigating before winter
 
 ## A Day in the Life
 
@@ -558,3 +558,140 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*
+## Expansion Books & Setting Guides
+
+### Setting-Specific Books
+
+#### Forgotten Realms
+- **SCAG** (Sword Coast Adventurer's Guide)
+  - Backgrounds: City Watch, Clan Crafter, etc.
+  - Subclasses: Purple Dragon Knight, Bladesinger
+  - Cantrips: Booming Blade, Green-Flame Blade
+
+#### Eberron
+- **ERLW** (Eberron: Rising from the Last War)
+  - Races: Changeling, Kalashtar, Shifter, Warforged
+  - Artificer class (official version)
+  - Dragonmarks system
+  - Magic items: Arcane focuses, warforged components
+
+#### Ravnica
+- **GGR** (Guildmaster's Guide to Ravnica)
+  - Races: Centaur, Loxodon, Minotaur, Simic Hybrid, Vedalken
+  - Guild backgrounds with supernatural abilities
+  - Ravnica-specific spells
+
+#### Theros
+- **MOoT** (Mythic Odysseys of Theros)
+  - Races: Leonin, Satyr
+  - Supernatural Gifts system
+  - Piety system for divine favor
+  - Mythic monsters
+
+#### Wildemount
+- **EGtW** (Explorer's Guide to Wildemount)
+  - Races: Aarakocra, Aasimar, Firbolg, Genasi, Goblinoid, Goliath, Kenku, Orc, Tabaxi, Tortle
+  - Dunamancy spells (time/gravity magic)
+  - Echo Knight, Chronurgy Wizard, Graviturgy Wizard
+  - Heroic Chronicle system
+
+#### Strixhaven
+- **SCC** (Strixhaven: A Curriculum of Chaos)
+  - Owlin race
+  - College backgrounds
+  - Relationship system
+  - Extracurricular activities
+
+#### Spelljammer
+- **SAiS** (Spelljammer: Adventures in Space)
+  - Races: Astral Elf, Autognome, Giff, Hadozee, Plasmoid, Thri-kreen
+  - Space combat rules
+  - Spelljamming helms
+  - Wildspace systems
+
+#### Dragonlance
+- **DSotDQ** (Dragonlance: Shadow of the Dragon Queen)
+  - Kender race (updated)
+  - Knight of Solamnia background
+  - Mage of High Sorcery background
+  - War rules integration
+
+#### Planescape
+- **PAitM** (Planescape: Adventures in the Multiverse)
+  - Gate-towns
+  - Faction system
+  - Planar effects
+  - Outlands mechanics
+
+### Compilation Books
+
+#### Xanathar's Guide to Everything (XGE)
+- 31 new subclasses
+- Racial feats
+- Downtime activities
+- Tool uses expanded
+- Common magic items
+- Encounter building tables
+- Trap design
+
+#### Tasha's Cauldron of Everything (TCE)
+- Custom lineage system
+- Optional class features for all classes
+- 30 subclasses (new and reprinted)
+- Artificer class
+- Group patrons
+- Sidekicks rules
+- Puzzles
+
+#### Mordenkainen's Tome of Foes (MTF)
+- Deep lore on conflicts
+- Races: Gith, Duergar subraces, Elf subraces, Tiefling subraces
+- High-CR monsters
+- Demon lords and archdevils
+
+#### Volo's Guide to Monsters (VGM)
+- Monster races as PCs
+- Detailed monster lore
+- Monster variants
+- NPC stat blocks
+
+#### Fizban's Treasury of Dragons (FTD)
+- Dragonborn variants
+- Draconic subclasses
+- Dragon magic items
+- Draconomicon lore
+- Gem dragons
+
+#### Bigby's Glory of Giants (BGG)
+- Giant-themed subclasses
+- Rune magic
+- Giant backgrounds
+- Goliath subraces
+
+### Adventure-Specific Content
+
+#### Curse of Strahd (CoS)
+- Gothic lineages
+- Dark gifts
+- Haunted backgrounds
+
+#### Icewind Dale: Rime of the Frostmaiden (RotFM)
+- Secrets system
+- Goliath variants
+- Cold weather gear
+
+#### Baldur's Gate: Descent into Avernus (BGDiA)
+- Infernal war machines
+- Devil deals
+- Backgrounds tied to Baldur's Gate
+
+### Using Expansion Content
+1. **Check with DM**: Not all content allowed at every table
+2. **Setting Compatibility**: Some content is setting-specific
+3. **Power Level**: Newer books sometimes have stronger options
+4. **Integration**: Consider how content fits campaign theme
+5. **AL Legal**: Check Adventurers League rules if applicable

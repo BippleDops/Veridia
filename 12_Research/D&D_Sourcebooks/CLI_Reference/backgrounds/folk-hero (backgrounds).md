@@ -36,7 +36,7 @@ world: Both
 
 - **Skill Proficiencies.** [[skills#Animal%20Handling|Animal Handling]], [[skills#Survival|Survival]]  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [[shovel xphb|shovel]], an [[iron pot xphb|iron pot]], a set of [[common clothes|common clothes]], and a belt [[pouch xphb|pouch]] containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a [[shovel-xphb (items)]], an [[iron-pot-xphb (items)]], a set of [[common-clothes (items)]], and a belt [[component-pouch-xphb (items)]] containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 

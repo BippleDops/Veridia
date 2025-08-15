@@ -41,10 +41,10 @@ world: Both
 
 **Items in this group:**
 
-- [[ring of elemental command air xdmg|Ring of Elemental Command (Air)]]
-- [[ring of elemental command earth xdmg|Ring of Elemental Command (Earth)]]
-- [[ring of elemental command fire xdmg|Ring of Elemental Command (Fire)]]
-- [[ring of elemental command water xdmg|Ring of Elemental Command (Water)]]
+- [[Ring of Elemental Command Air Xdmg]]
+- [[elemental]]
+- [[Ring of Elemental Command Fire Xdmg]]
+- [[elemental]]
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the SRD and the Free Rules (2024)*
 

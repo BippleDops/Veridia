@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-xphb-fiendish-spirit-xphb.svg)
 
-# [[fiendish spirit xphb|Fiendish Spirit]]
+# [[fiendish-spirit-xphb (fiend)]]
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock

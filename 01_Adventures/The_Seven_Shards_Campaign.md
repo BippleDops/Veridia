@@ -1,4 +1,5 @@
 ---
+
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -8,6 +9,7 @@ tags:
 title: The Seven Shards Campaign
 type: lore
 updated: 2025-08-14
+status: active
 ---
 
 # The_Seven_Shards_Campaign
@@ -108,3 +110,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements

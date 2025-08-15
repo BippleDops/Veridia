@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-giant-xmm-fire-giant-xmm.svg)
 
-# [[fire giant xmm|Fire Giant]]
+# [[fire-giant-xmm (giant)]]
 *Source: Monster Manual (2024) p. 119. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -107,7 +107,7 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
     "name": "Flame Sword"
   - "desc": "Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning\
       \ damage plus 4 (d8) Fire damage, and the target is pushed up to 15 feet straight\
-      \ away from the giant and has [[disadvantage xphb|Disadvantage]]\
+      \ away from the giant and has [[Advantage Xphb]]\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Hammer Throw"
 "source":

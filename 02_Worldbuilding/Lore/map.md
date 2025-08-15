@@ -3,23 +3,23 @@ title: map
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 > [!figure] Map
-![](04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-aethermoor-harbor-skirmish.png)
+![](04_Resources/Assets/Maps/map-map-[[Aethermoor]]-harbor-skirmish-aethermoor-harbor-skirmish.png)
 
 # map
 
 ## Overview
-This topic is referenced in [[Location Template]] and other parts of the campaign.
+This topic is referenced in [[location]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location Template]]
+- Referenced by: [[location]]
 - Related topics in the same category
 
 ## Details

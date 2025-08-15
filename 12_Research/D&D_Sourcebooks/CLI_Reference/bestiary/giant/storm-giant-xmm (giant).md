@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg)
 
-# [[storm giant xmm|Storm Giant]]
+# [[giant]]
 *Source: Monster Manual (2024) p. 302. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -114,14 +114,14 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
       \ start of the giant's next turn."
     "name": "Thunderbolt"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [[cylinder area of effect xphb|Cylinder]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from a point the giant can see within 500 feet. Failure: 55\
       \ (10d10) Lightning damage. Success: Half damage."
     "name": "Lightning Storm (Recharge 5-6)"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\nAt will:\
-      \ [[detect magic xphb|Detect Magic]], [[light xphb|Light]]\n\
-      \n1/day: [[control weather xphb|Control Weather]]"
+      \ [[detect-magic-xphb (spells)]], [[Fount of Moonlight Xphb]]\n\
+      \n1/day: [[weather]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -1,7 +1,7 @@
 ---
 
 title: Market Industry Name 2
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -90,7 +90,7 @@ Market/Industry Name 2 can be understood as a multifaceted element that intersec
 ### Detailed Explanation
 The full nature of Market/Industry Name 2 involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Market/Industry Name 2 trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -101,7 +101,7 @@ Connected to Market/Industry Name 2 are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Market/Industry Name 2 through their own cultural lenses:
+Different [[Groups]] view Market/Industry Name 2 through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -170,7 +170,7 @@ The current state of Market/Industry Name 2:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Market/Industry Name 2 has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -203,7 +203,7 @@ Ways to incorporate Market/Industry Name 2 into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -224,7 +224,7 @@ How to adjust for different games:
 Ways Market/Industry Name 2 might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -243,7 +243,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -266,7 +266,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #market/industry-name-2
+*Tags*: [[#General]] #worldbuilding #market/industry-name-2
 
 ## Cultural Impact
 
@@ -286,12 +286,12 @@ Mentioned in The First Prophecy of Depths
 - Strange disappearances suggest ancient magic
 - A document has gone missing and evil awakens
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -301,7 +301,7 @@ Mentioned in The First Prophecy of Depths
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -330,3 +330,7 @@ Mentioned in The First Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

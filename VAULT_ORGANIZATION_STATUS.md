@@ -1,4 +1,5 @@
 ---
+
 title: Vault Organization Status
 type: status-report
 tags:
@@ -7,7 +8,7 @@ tags:
 - complete
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # 📁 VAULT ORGANIZATION STATUS
 
@@ -108,7 +109,9 @@ ObsidianTTRPGVault Experimental/
 ### File Placement Guide
 
 | Content Type | Directory | Example |
-|-------------|-----------|---------|
+|
+status: active
+-------------|-----------|---------|
 | Adventures, Campaigns | 01_Adventures | The Crystal Plague |
 | NPCs, Characters | 03_People | Captain Blackwater |
 | Locations, Maps | 04_Places | Port Nimbus |
@@ -189,6 +192,46 @@ ObsidianTTRPGVault Experimental/
 
 Your vault is now optimally organized for both human navigation and Obsidian's features.
 
----
+- --
 
-*Organization complete. Your vault structure is now clean, logical, and maintainable.*
+* Organization complete. Your vault structure is now clean, logical, and maintainable.*
+
+## Pronunciation Guide
+- **Health**: [HEALTH]
+- **Path**: [PATH]
+- **Obsidian's**: [OBSIDIAN-S]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death

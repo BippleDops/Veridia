@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ambush-drake-hotdq-ambush-drake-hotdq.svg)
 
-# [[ambush drake hotdq|Ambush Drake]]
+# [[ambush-drake-hotdq (dragon)]]
 *Source: Hoard of the Dragon Queen p. 88*  
 
 ```statblock

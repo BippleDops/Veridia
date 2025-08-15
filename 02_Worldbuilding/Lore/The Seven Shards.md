@@ -1,7 +1,7 @@
 ---
 
-title: The Seven Shards
-type: Lore
+title: The [[Seven Shards]]
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -70,7 +70,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -90,13 +90,13 @@ improvements: 20
 
 ## Overview
 
-When the Crown of Stars shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[12_Research/D&D_Statblocks/The Crimson Sage]] (Aetheron)'s divine essence. These Shards are the most powerful artifacts in [[Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[The Convergence Point]] between [[Aethermoor]] and [[Aquabyssos]].
+When the [[Crown of Stars]] shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[The Crimson Sage]] ([[Aetheron]])'s divine essence. These Shards are the most powerful artifacts in [[Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[The Convergence Point]] between [[Aethermoor]] and [[Aquabyssos]].
 
-### The Clear Shard (Crystal Throne)
+### The Clear Shard ([[Crystal Throne]])
 
-**Location**: [[Crystalhaven]] - IS the Crystal Throne
+**[[location]]**: [[Crystalhaven]] - IS the Crystal Throne
 **Power**: Pure magical energy, authority
-**Guardian**: [[Queen Seraphina Lumengarde]]
+**Guardian**: [[[[Queen Seraphina]] [[Lumengarde]]]]
 **Effect**: Grants rulership, accelerates corruption
 **Secret**: Slowly merging with Queen
 **Connections**: May influence [[Crystal Festival]] displays, [[The Crystal Throne]] faction activities
@@ -120,7 +120,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 
 **Location**: [[High Inquisitor Maltheos]]'s possession
 **Power**: Physical might, endurance
-**Guardian**: [[The Purist Coalition]]
+**Guardian**: [[The [[Purist Coalition]]]]
 **Effect**: Grants unbreakable will
 **Secret**: Maltheos doesn't know its true nature
 **Connections**: Influences [[Order of the Sunken Crown]] activities, [[Interrogation Techniques]]
@@ -129,30 +129,30 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 
 **Location**: Heart Tree in [[The Verdant Reach]]
 **Power**: Natural magic, growth, healing
-**Guardian**: [[12_Research/D&D_Statblocks/Archdruid Thornweaver]]
+**Guardian**: [[Archdruid Thornweaver]]
 **Effect**: Accelerates plant growth
 **Secret**: Tree becoming sentient
 **Connections**: May influence [[Crystal Forest]], [[The Bloom Fields]], [[Screaming Tree Guardians]]
 
-### The Azure Shard (Ocean)
+### [[The [[Azure Shard]]]] (Ocean)
 
 **Location**: Sunken temple, [[The Azure Coast]]
 **Power**: Emotional control, water
 **Guardian**: Sea monsters
 **Effect**: Controls tides and storms
 **Status**: Undiscovered by factions
-**Connections**: May be connected to [[The Deep Mother]], [[Memory Tide Events]], [[Tidal Memory Ceremonies]], [[Leviathan Graveyard]]
+**Connections**: May be connected to [[The [[Deep Mother]]]], [[Memory Tide Events]], [[Tidal Memory Ceremonies]], [[[[Leviathan]] Graveyard]]
 
 ### The Obsidian Shard (Shadow)
 
-**Location**: [[The Shadowmere]] depths
+**Location**: [[The [[Shadowmere]]]] depths
 **Power**: Shadow, fear, nightmares
-**Guardian**: The Shadowmere itself
+**Guardian**: [[The Shadowmere]] itself
 **Effect**: Corrupts entire region
 **Secret**: Creating shadow realm
 **Connections**: Source of [[Shadow Corruption]], connected to [[The Crimson Hand]] power, [[Fear Farms]]
 
-> **For the Table - Shadow Shard Encounters:**
+> **For the Table - [[Shadow Shard]] Encounters:**
 > - **Discovery Scene:** "The water turns black as ink. Your reflection shows your deepest fear made flesh."
 > - **Temptation Mechanics:** Offers to remove one fear/trauma in exchange for shadow corruption
 > - **Environmental Effect:** 300ft radius of magical darkness, shadows act independently
@@ -195,13 +195,13 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ### The Restoration Prophecy
 
 *"Seven lights that fell from grace,*
-*Seven powers time won't erase,*
+*Seven powers [[Time]] won't erase,*
 *When united in one hand,*
 *Gods shall walk upon the land."*
 
 ### The Warning
 
-*"Beware the crown reformed in haste,*
+*"Beware [[The Crown]] reformed in haste,*
 *For power gained is humanity waste,*
 *The price of godhood, mortals learn,*
 *Is everything for which they yearn."*
@@ -235,11 +235,11 @@ The Seven Shards is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Seven Shards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Shards.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

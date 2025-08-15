@@ -1,16 +1,16 @@
 ---
 
-title: The Memory Thief
-type: Location
+title: The [[Memory Thief]]
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - memory_thief
 - mysterious
 - status/complete
 - content/faction
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - combat
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ improvements: 20
 
 ## Overview
 
-The Memory Thief is one of Aquabyssos's most enigmatic and feared criminals, operating in the shadows to steal, modify, and trade in memories themselves. Unlike common thieves who target material possessions, this mysterious figure specializes in extracting specific memories from victims, leaving them with gaps in their recollections that they may not even realize exist.
+The Memory Thief is one of Aquabyssos's most enigmatic and feared criminals, operating in the shadows to steal, modify, and trade in memories themselves. Unlike common thieves who target material possessions, this [[Mysterious Figure]] specializes in extracting specific memories from victims, leaving them with gaps in their recollections that they may not even realize exist.
 
 The Memory Thief's true identity remains unknown, with victims describing different appearances, genders, and even species during encounters. This has led to theories that either multiple individuals share the title, or the thief possesses shapeshifting abilities that extend to manipulating observers' perceptions and memories of the encounters themselves.
 
@@ -130,7 +130,7 @@ The only consistent element across all accounts is that encounters with the Memo
 - **Damage Resistances** Psychic, Necrotic
 - **Condition Immunities** Charmed, Frightened
 - **Senses** Truesight 120 ft, passive Perception 19
-- **Languages** All languages (telepathic understanding)
+- **Languages** All languages (tele[[path]]ic understanding)
 - **Challenge** 9 (5,000 XP)
 
 ### Special Abilities
@@ -161,9 +161,9 @@ The only consistent element across all accounts is that encounters with the Memo
 
 ## Background
 
-The Memory Thief first appeared in Aquabyssos approximately five years ago, initially dismissed as an urban legend until investigative evidence confirmed the existence of systematic memory manipulation throughout the city. Early cases involved the theft of traumatic memories from victims of crime or accident, leading some to theorize that the entity began as a benevolent healer.
+The Memory Thief first appeared in Aquabyssos approximately five years ago, initially dismissed as an urban legend until investigative [[Evidence]] confirmed the existence of systematic [[Memory Manipulation]] throughout the city. Early cases involved the theft of traumatic memories from victims of crime or accident, leading some to theorize that the entity began as a benevolent healer.
 
-Over time, the Memory Thief's activities evolved to include extracting valuable information, embarrassing secrets, and skilled knowledge from various individuals. The pattern suggests either expanding abilities or changing motivations, though the entity's ultimate goals remain mysterious.
+Over [[Time]], the Memory Thief's activities evolved to include extracting valuable information, embarrassing secrets, and skilled knowledge from various individuals. The pattern suggests either expanding abilities or changing motivations, though the entity's ultimate goals remain mysterious.
 
 Investigations have revealed no clear origin for the Memory Thief, with some scholars theorizing they may be from another plane of existence or the result of experimental magic gone wrong.
 
@@ -171,26 +171,26 @@ Investigations have revealed no clear origin for the Memory Thief, with some sch
 
 Recent Memory Thief incidents have focused on individuals connected to the city's political crisis, with several key figures reporting gaps in their recollections around crucial events. This has led to speculation that the Memory Thief is either working for one of the factions or pursuing their own agenda related to the current conflicts.
 
-The entity has also been linked to a growing black market in stolen memories, where wealthy clients pay premium prices for experiences they could never have themselves or knowledge they could never legitimately acquire.
+The entity has also been [[Link]]ed to a growing black market in stolen memories, where wealthy clients pay premium prices for experiences they could never have themselves or knowledge they could never legitimately acquire.
 
 ## Quest Hooks
 
-1. **The Stolen Secret**: A key witness to a major crime has had their crucial memories stolen, and the party must either recover the memories or find another way to uncover the truth.
+1. **The Stolen Secret**: A key witness to a major crime has had their crucial memories stolen, and [[The Party]] must either recover the memories or find another way to uncover the truth.
 
 2. **The Memory Market**: The party discovers an underground auction where stolen memories are being sold, providing an opportunity to confront the Memory Thief or their agents.
 
-3. **Personal Stakes**: One of the party members begins experiencing memory gaps, indicating they've become a target of the Memory Thief for unknown reasons.
+3. **Personal Stakes**: One of the [[Party Members]] begins experiencing memory gaps, indicating they've become a target of the Memory Thief for unknown reasons.
 
-4. **The Collector's Purpose**: Evidence suggests the Memory Thief is assembling memories related to a specific historical event or piece of knowledge that could affect the city's fate.
+4. **[[The Collector]]'s Purpose**: Evidence suggests the Memory Thief is assembling memories related to a specific historical event or piece of knowledge that could affect the city's fate.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved.
 
@@ -198,7 +198,7 @@ The Memory Thief serves as both a recurring antagonist and a source of mystery i
 
 The Memory Thief is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Memory Thief as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Thief.
 
@@ -225,6 +225,34 @@ The Memory Thief is a notable location characterized by its unique features and 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Memory Thief:
@@ -241,15 +269,15 @@ Ongoing situations affecting The Memory Thief:
 
 ## Plot Hooks
 
-- A merchant needs help investigating before the festival
+- A [[Merchant]] needs help investigating before the festival
 - A corpse reveals the truth about a local noble
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -259,7 +287,7 @@ Ongoing situations affecting The Memory Thief:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -272,3 +300,40 @@ Ongoing situations affecting The Memory Thief:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

@@ -1,16 +1,16 @@
 ---
 
 title: Enchanter Valdris Peacewarden
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - mechanics/magic
 - aquatic
 - peacewarden
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - combat
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,15 +104,15 @@ improvements: 20
 
 Enchanter Valdris Peacewarden is one of Aquabyssos's most skilled magical artisans, specializing in enchantments that promote harmony, communication, and peaceful resolution of conflicts. Operating from the prestigious Arcane Quarter, his workshop serves as both a magical laboratory and an informal neutral meeting ground for faction representatives.
 
-Valdris earned his title "Peacewarden" through his innovative development of enchantments that can detect and neutralize hostile intentions, making negotiation safer and more productive. His services are highly sought after by diplomats, merchants, and anyone seeking to ensure honest dealings in the politically volatile city.
+Valdris earned his title "Peacewarden" through his innovative development of enchantments that can detect and neutralize hostile intentions, making negotiation safer and more productive. His services are highly sought after by diplomats, [[Merchant]]s, and anyone seeking to ensure honest dealings in the politically volatile city.
 
 Despite his peaceful reputation, Valdris is no pacifist - his protective enchantments are equally renowned, and he's created some of the most sophisticated defensive magic in the underwater realm.
 
 ## Appearance
 
-Valdris is a distinguished sea elf in his middle years, with the typical tall, lean build of his people. His silver-blue hair is kept in an intricate braid adorned with small gems that pulse with magical energy. His eyes shift color depending on his mood and the magic he's currently working with, ranging from deep ocean blue to brilliant coral pink.
+Valdris is a distinguished sea elf in his middle years, with the typical tall, lean build of his [[People]]. His silver-blue hair is kept in an intricate braid adorned with small gems that pulse with magical energy. His eyes shift color depending on his mood and the magic he's currently working with, ranging from deep ocean blue to brilliant [[Coral]] pink.
 
-He dresses in flowing robes that seem to be woven from sea silk and starlight, with patterns that shift and change as he moves. His fingers are adorned with rings of his own creation, each serving both decorative and functional purposes in his magical work.
+He dresses in flowing robes that seem to be woven from [[Sea Silk]] and starlight, with patterns that shift and change as he moves. His fingers are adorned with rings of his own creation, each serving both decorative and functional purposes in his magical work.
 
 ## Statistics
 
@@ -128,7 +128,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 
 ### Special Abilities
 
-**Peaceweaving.** Valdris can spend 10 minutes to create a zone of peace in a 30-foot radius that lasts for 1 hour. Creatures in this area have disadvantage on attack rolls and cannot cast spells intended to harm others.
+**Peaceweaving.** Valdris can spend 10 minutes to create a zone of peace in a 30-foot radius that lasts for 1 hour. Creatures in this area have [[Disadvantage]] on attack rolls and cannot cast spells intended to harm others.
 
 **Enchantment Expertise.** Valdris has advantage on saving throws against enchantment spells, and creatures have disadvantage on saves against his enchantment spells.
 
@@ -136,10 +136,10 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 
 ### Actions
 
-**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) psychic damage. The target must make a DC 16 Wisdom save or be charmed for 1 minute.
+**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 ([[2d6]]) psychic damage. The target must make a DC 16 Wisdom save or be charmed for 1 minute.
 
 **Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). He has the following spells prepared:
-- Cantrips: *guidance*, *mage hand*, *minor illusion*, *prestidigitation*
+- Cantrips: *[[Guidance]]*, *mage hand*, *minor illusion*, *prestidigitation*
 - 1st level (4 slots): *charm person*, *comprehend languages*, *detect magic*
 - 2nd level (3 slots): *calm emotions*, *suggestion*, *zone of truth*
 - 3rd level (3 slots): *counterspell*, *dispel magic*, *tongues*
@@ -163,13 +163,13 @@ Over the decades, he has trained numerous apprentices in both magical techniques
 
 ## Current Activities
 
-Valdris is deeply concerned about the escalating tensions in Aquabyssos and has been working overtime to create protective enchantments for key locations and individuals. He's noticed that some of the recent conflicts seem resistant to his usual peaceweaving techniques, suggesting supernatural interference.
+Valdris is deeply concerned about the escalating tensions in Aquabyssos and has been working over[[Time]] to create protective enchantments for [[Key Locations]] and individuals. He's noticed that some of the recent conflicts seem resistant to his usual peaceweaving techniques, suggesting supernatural interference.
 
 He's been quietly investigating the source of this magical disruption while maintaining his public role as a neutral mediator. His workshop has become an increasingly important safe haven for those seeking to escape the growing paranoia in the city.
 
 ## Quest Hooks
 
-1. Valdris approaches the party to investigate the source of magical interference that's disrupting his peace enchantments throughout the city.
+1. Valdris approaches [[The Party]] to investigate the source of magical interference that's disrupting his peace enchantments throughout the city.
 2. The party needs specialized enchanted items for a dangerous mission, and Valdris requires them to complete a task proving their peaceful intentions first.
 3. A diplomatic meeting under Valdris's protection is attacked by unknown assailants using magic that shouldn't work in his peace zone.
 
@@ -180,7 +180,7 @@ He's been quietly investigating the source of this magical disruption while main
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use.
 
@@ -188,7 +188,7 @@ Valdris serves as an excellent source of magical items, information about the ci
 
 Enchanter Valdris Peacewarden is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Enchanter Valdris Peacewarden.
 
@@ -209,6 +209,34 @@ Enchanter Valdris Peacewarden is a notable location characterized by its unique 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Enchanter Valdris Peacewarden:
@@ -221,7 +249,7 @@ Ongoing situations affecting Enchanter Valdris Peacewarden:
 
 ## Plot Hooks
 
-- A map reveals a betrayal about a local noble
+- A [[map]] reveals a betrayal about a local noble
 - A journal reveals a betrayal about a local noble
 - A letter reveals ancient history about the cult
 
@@ -236,3 +264,40 @@ Ongoing situations affecting Enchanter Valdris Peacewarden:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

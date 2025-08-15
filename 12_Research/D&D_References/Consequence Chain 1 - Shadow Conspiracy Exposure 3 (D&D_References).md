@@ -169,7 +169,7 @@ world: Aquabyssos
 
 **Future adventure hooks:**
 - Hidden shadow cells operating in other cities across Aquabyssos
-- The identity of **[[Quest   The First Shadow]]** remains unknown
+- The identity of **[[Quest - The First Shadow]]** remains unknown
 - Memory Meadows prisoners with decades of stolen memories seek restitution
 - Foreign shadow conspiracies may exist in other realms
 - Technology for artificial shadow creation discovered in abandoned facilities

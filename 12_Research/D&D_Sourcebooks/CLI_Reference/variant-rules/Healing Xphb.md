@@ -34,7 +34,7 @@ world: Both
 # Healing
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-Healing is how you regain [[hit points xphb|Hit Points]].
+Healing is how you regain [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

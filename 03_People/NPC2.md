@@ -5,24 +5,24 @@ tags:
 - auto-generated
 - linked
 created: '2025-01-15'
----
+- --
 
 # NPC2
 
 ## Portrait
 
-![[portrait npc2.png]]
+![[Npc]]
 
-*Portrait reference for NPC2*
+* Portrait reference for NPC2*
 
 ## Overview
-This topic is referenced in [[NPC_Template_1 (09_Templates)]] and other parts of the campaign.
+This topic is referenced in [[Npc]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[NPC_Template_1 (09_Templates)]]
+- Referenced by: [[Npc]]
 - Related topics in the same category
 
 ## Details
@@ -75,3 +75,18 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

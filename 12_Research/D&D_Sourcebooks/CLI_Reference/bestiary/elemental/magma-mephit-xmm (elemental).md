@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-magma-mephit-xmm-magma-mephit-xmm.svg)
 
-# [[magma mephit xmm|Magma Mephit]]
+# [[Magma Mephit Xmm]]
 *Source: Monster Manual (2024) p. 207. Available in the SRD and the Free Rules (2024)*  
 
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
@@ -99,7 +99,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the mephit. Failure: 7 (2d6) Fire damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -107,7 +107,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 7 (2d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 6)"
 "source":

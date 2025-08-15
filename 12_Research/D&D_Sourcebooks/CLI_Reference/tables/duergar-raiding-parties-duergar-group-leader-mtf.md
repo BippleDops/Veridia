@@ -39,9 +39,9 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] |
-| 2-4 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm|Duergar Warlord]] |
-| 5-6 | [[/03 Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm|Duergar Despot]] |
+| 1 | [[Bestiary]] |
+| 2-4 | [[Bestiary]] |
+| 5-6 | [[Bestiary]] |
 ^duergar-group-leader
 
 ## 🔧 Deep Evaluation Improvements

@@ -48,7 +48,7 @@ A passage appears at a point that you can see on a wooden, plaster, or stone sur
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 304. Available in the SRD and the Free Rules (2024)*
 

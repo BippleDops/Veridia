@@ -121,15 +121,15 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
 
-- [[dragonborn xphb|Dragonborn]]  
-- [[dwarf xphb|Dwarf]]  
-- [[elf xphb|Elf]]  
-- [[gnome xphb|Gnome]]  
-- [[half elf|Half Elf]]  
-- [[half orc|Half Orc]]  
-- [[halfling xphb|Halfling]]  
-- [[human xphb|Human]]  
-- [[tiefling xphb|Tiefling]]
+- [[dragonborn-xphb (races)]]  
+- [[Dwarf Xphb]]  
+- [[elf-xphb (races)]]  
+- [[gnome-xphb (races)]]  
+- [[Half Elf]]  
+- [[Half Orc]]  
+- [[Halfling Xphb]]  
+- [[Human Xphb]]  
+- [[List Spells Races Tiefling Xphb]]
 
 ## Player-Facing Summary
 

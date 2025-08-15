@@ -1009,7 +1009,7 @@ Taboo variation between communities and worlds creates adventures focused on cul
 ---
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
-*— [[Philosopher Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+*— [[Philosopher-Reformer Unity Bridgewright (D&D_References)]], "The Ethics of Necessary Boundaries"*
 
 ## Player-Facing Summary
 

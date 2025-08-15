@@ -41,9 +41,9 @@ world: Both
 
 **Items in this group:**
 
-- [[1 wand of the war mage xdmg|+1 Wand of the War Mage]]
-- [[2 wand of the war mage xdmg|+2 Wand of the War Mage]]
-- [[3 wand of the war mage xdmg|+3 Wand of the War Mage]]
+- [[Wand of the War Mage Xdmg]]
+- [[2-wand-of-the-war-mage-xdmg (items)]]
+- [[3-wand-of-the-war-mage-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 322. Available in the SRD*
 

@@ -57,11 +57,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Enemy**: [[portrait-npc-senator-glaucus-senator-glaucus.svg]]
+- **Enemy**: [[Npc]]
 - **Blackmailer**: [[Assassin]]
 - **Lover**: [[Lighthouse Keeper]]
-- **Parent**: [[Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
-- **Student**: [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+- **Parent**: [[Assets]]
+- **Student**: [[Assets]]
 
 ## Related Notes
 

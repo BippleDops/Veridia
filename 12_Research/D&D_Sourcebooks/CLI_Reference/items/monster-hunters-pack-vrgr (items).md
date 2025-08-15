@@ -42,17 +42,17 @@ world: Both
 
 Includes:
 
-- a [[chest xphb|chest]]  
-- a [[crowbar xphb|crowbar]]  
+- a [[leomunds-secret-chest-xphb (spells)]]  
+- a [[Crowbar Xphb]]  
 - a [[hammer|hammer]]  
 - three wooden stakes  
-- a [[holy symbol xphb|holy symbol]]  
-- a [[holy water xphb|flask of holy water]]  
-- a set of [[manacles xphb|manacles]]  
-- a [[mirror xphb|steel mirror]]  
-- a [[oil xphb|flask of oil]]  
-- a [[tinderbox xphb|tinderbox]]  
-- 3 [[torch xphb|torches]]  
+- a [[Symbol Xphb]]  
+- a [[Holy Water Xphb]]  
+- a set of [[Manacles Xphb]]  
+- a [[mirror-xphb (items)]]  
+- a [[Oil Xphb]]  
+- a [[Tinderbox Xphb]]  
+- 3 [[Torch Xphb]]  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*
 

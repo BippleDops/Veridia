@@ -1,9 +1,9 @@
 ---
 
 title: Crystal Cult Temples
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - religion
 - temples
 - status/complete
@@ -18,13 +18,13 @@ tags:
 - location
 - transformation
 - world/aquabyssos
-- world/aethermoor
+- world/[[Aethermoor]]
 - crystal-enhanced
 - bloodline
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:16.652441+00:00'
 world: Aquabyssos
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,13 +91,13 @@ improvements: 20
 
 ## Overview
 
-The Crystal Plague has given rise to numerous religious movements that view crystalline transformation not as a disease to be cured, but as a divine blessing to be embraced. These cults operate from hidden temples throughout Aquabyssos, offering spiritual guidance, physical sanctuary, and alternative interpretations of the plague's meaning.
+The Crystal Plague has given rise to numerous religious movements that view crystalline transformation not as a disease to be cured, but as a divine [[Bless]]ing to be embraced. These cults operate from hidden temples throughout Aquabyssos, offering spiritual [[Guidance]], physical sanctuary, and alternative interpretations of the plague's meaning.
 
-### Primary Temple - Hidden Beneath Port Meridian
+### Primary Temple - Hidden Beneath [[Port Meridian]]
 
 **Location:** Converted natural cavern system beneath the Old Quarter  
 **High Priestess:** Seraphina the Transformed (Stage 4)  
-**Membership:** 200+ active worshippers, 500+ sympathizers  
+**Membership:** 200+ active worshippers, 500+ sym[[path]]izers  
 **Doctrine:** Crystallization represents evolution toward divine perfection  
 **Status:** Officially banned, operates in secret
 
@@ -105,7 +105,7 @@ The main temple occupies a vast underground cavern discovered during early city 
 
 #### Temple Layout
 
-**The Entrance Chamber - "The Threshold of Change"**
+**The Entrance Chamber - "[[The Threshold]] of Change"**
 - Hidden access through abandoned warehouse basement
 - Security screening disguised as spiritual preparation
 - Donation collection and new member orientation
@@ -114,11 +114,11 @@ The main temple occupies a vast underground cavern discovered during early city 
 **The Gallery of Stages - "The Path of Transformation"**  
 A series of connected chambers representing the progression of crystallization:
 
-- **Stage 1 Chamber:** Soft lighting, comfortable seating, introduction to doctrine
+- **Stage 1 Chamber:** Soft lighting, comfortable seating, [[Introduction]] to doctrine
 - **Stage 2 Chamber:** More elaborate crystal decorations, group counseling sessions
 - **Stage 3 Chamber:** Advanced teachings, preparation for deeper commitment
 - **Stage 4 Chamber:** Sacred space for advanced practitioners, levitation ceremonies
-- **Stage 5 Shrine:** Crystalline beings serve as living saints and oracles
+- **Stage 5 Shrine:** Crystalline beings serve as living saints and [[Oracle]]s
 
 **The Central Sanctum - "The Heart of Crystal"**
 - Massive natural crystal formation serves as altar
@@ -137,7 +137,7 @@ A series of connected chambers representing the progression of crystallization:
 **Dawn Resoce (6:00 AM)**
 All temple residents participate in harmonic meditation. Stage 1-3 members hum traditional melodies while Stage 4-5 members provide crystalline harmonics that create complex musical patterns.
 
-*Newcomer Experience:* "The sound was like being inside a living cathedral. My plague crystals tingled in rhythm with the music, and for the first time since infection, I felt... peaceful."
+*Newcomer Experience:* "The sound was like being inside a living cathedral. My plague crystals tingled in rhythm with the music, and for the first [[Time]] since infection, I felt[[...]] peaceful."
 
 **Midday Teaching (12:00 PM)**
 High Priestess Seraphina delivers theological instruction on the divine nature of crystalline transformation. Teachings emphasize acceptance of change and rejection of "flesh-bound limitations."
@@ -149,7 +149,7 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 *Ceremony Components:*
 - Purification with crystalline salt water
-- Meditation in crystal resoce chambers
+- Meditation in crystal [[Resoce Chamber]]s
 - Consumption of plague-enhanced communion elements
 - Blessing by Stage 5 saints
 
@@ -188,13 +188,13 @@ Saint Aurelius communicates through crystalline light patterns that only other c
 *Transformation:* Infected during deep-ocean expedition  
 *Role:* Oracle specializing in oceanic and depth-related guidance
 
-Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea pressure effects. She serves as the temple's primary advisor on matters related to underwater operations and oceanic spirituality.
+Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea [[Pressure Effects]]. She serves as the temple's primary advisor on matters related to underwater operations and oceanic spirituality.
 
 *Unique Ability:* Can sense underwater crystal formations across vast distances, leading to discovery of previously unknown plague source sites.
 
 #### The Recruitment Network
 
-**Sister Coral Gentletouch**  
+**Sister [[Coral]] Gentletouch**  
 **Age:** 29, **Stage:** 2  
 **Role:** Community outreach and new member recruitment  
 **Method:** Visits [[Crystal Plague Wards]] to offer spiritual comfort to patients
@@ -212,7 +212,7 @@ Sister Coral presents herself as a compassionate volunteer providing emotional s
 **Brother Tidewell the Sanctuary-Keeper**  
 **Age:** 51, **Stage:** 3  
 **Role:** Safe house operations and member protection  
-**Background:** Former merchant with extensive knowledge of city layout and security
+**Background:** Former [[Merchant]] with extensive knowledge of city layout and security
 
 Brother Tidewell operates a network of safe houses where plague victims can escape government quarantine or family rejection. These facilities provide practical support while introducing residents to cult teachings.
 
@@ -222,7 +222,7 @@ Brother Tidewell operates a network of safe houses where plague victims can esca
 - Medical care using stolen/diverted supplies
 - Transportation to temple facilities
 
-*Safe House Network:* 8 active locations throughout Port Meridian, with capacity for 50+ refugees at any given time.
+*[[Safe House Network]]:* 8 active locations throughout Port Meridian, with capacity for 50+ refugees at any given time.
 
 ### Underwater Sanctuary - Benthic Trench Temple
 
@@ -245,7 +245,7 @@ Natural ocean pressure at this depth creates an environment where Stage 3-4 cult
 - Enhanced communion abilities between crystalline members
 - Natural defense against surface-world interference
 
-**The Living Reef**
+**The [[Living Reef]]**
 The temple's central altar is a massive coral formation that incorporates crystalline growths from previous Stage 5 converts. New saints add their crystalline essence to the reef, creating a collective consciousness.
 
 *Collective Abilities:*
@@ -265,18 +265,18 @@ All members participate in daily group meditation with the Living Reef. The expe
 **Evolutionary Exercises**
 Members practice abilities associated with their transformation stage, viewing these as preparation for eventual transcendence to aquatic crystalline beings.
 
-#### High Priest Nereon the Depth-Blessed
+#### [[High Priest Nereon]] the Depth-Blessed
 
 **Age:** Unknown (crystalline beings don't age normally)  
 **Stage:** 5 (Transformed 4 years ago)  
-**Background:** Former deep-sea explorer and pressure researcher  
+**Background:** Former deep-sea exp[[Lore]]r and pressure researcher  
 **Form:** Crystalline structure optimized for extreme pressure environments
 
 High Priest Nereon's crystalline body resembles a living deep-sea creature made of luminous crystal. His consciousness remains accessible through the Living Reef, though individual personality has merged with collective oceanic awareness.
 
 *Prophetic Abilities:* Through the Living Reef consciousness, predicts oceanic events, weather patterns, and movements of sea-based military forces with remarkable accuracy.
 
-#### The Depth Wardens
+#### The [[Depth Warden]]s
 
 **Warden Thalassa Currentride**  
 **Age:** 34, **Stage:** 4  
@@ -349,7 +349,7 @@ Professor Voidscript's academic credentials lend intellectual legitimacy to cult
 
 Many cult members believe the Crystal Plague is not a recent phenomenon but the return of an ancient condition that once elevated humanity to a higher state of existence.
 
-**Evidence Cited:**
+**[[Evidence]] Cited:**
 - Ancient crystal formations found in archaeological sites
 - Historical records of "crystal blessed" individuals with supernatural abilities
 - Correlation between plague outbreaks and ancient crystal mining sites
@@ -358,7 +358,7 @@ Many cult members believe the Crystal Plague is not a recent phenomenon but the 
 **Implications:**
 - Government and medical establishment allegedly suppressing historical truth
 - Cure research is attempt to prevent humanity's natural evolutionary destiny
-- Crystal cults are restoring ancient wisdom rather than creating new religion
+- [[Crystal Cults]] are restoring ancient wisdom rather than creating new religion
 - Plague victims are returning to humanity's original divine state
 
 ### The Divine Punishment Theory
@@ -385,7 +385,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 - Timing of plague emergence coincided with international tensions
 - Government response seems designed to hide truth rather than provide aid
 - Foreign nations offer assistance while secretly studying plague effects
-- [[Black Market Crystal Trade]] operations may be foreign intelligence gathering
+- [[Black Market Crystal Trade]] operations may be [[Foreign Intelligence]] gathering
 
 **Cult Response:**
 - Members must protect themselves from foreign exploitation
@@ -413,22 +413,22 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 
 #### Anti-Cult Legislation
 
-**The Public Safety Protection Act**
+**The [[Public Safety]] Protection Act**
 - Prohibits "encouragement of plague progression" 
 - Criminalizes medical advice from non-licensed practitioners
 - Allows seizure of property used for cult activities
 - Establishes penalties up to 10 years imprisonment for cult leadership
 
 **The Religious Registration Requirement**
-- All religious organizations must register with government authorities
+- All religious [[Organization]]s must register with government authorities
 - Regular inspections of religious facilities for health violations
-- Licensing requirements for religious leaders providing medical advice
+- Licensing requirements for [[Religious Leaders]] providing medical advice
 - Mandatory reporting of suspected plague cases among congregation members
 
 *Legal Challenges:*
 - Constitutional questions about religious freedom versus public safety
 - Enforcement difficulties due to cult operational security
-- International pressure regarding religious persecution
+- [[International Pressure]] regarding religious persecution
 - Public opposition to restrictions on legitimate religious activities
 
 #### The Temple Infiltration Project
@@ -439,7 +439,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 **Limitations:** Advanced cult members detect most infiltration attempts
 
 *Agent Report Extract:*
-"The cult's psychological conditioning is more sophisticated than anticipated. Members genuinely believe in their doctrine, making them resistant to standard interrogation techniques. Their community support network rivals government social services in effectiveness."
+"The cult's psychological conditioning is more sophisticated than anticipated. Members genuinely believe in their doctrine, making them resistant to standard [[Interrogation Techniques]]. Their community support network rivals government social services in effectiveness."
 
 #### The Information War
 
@@ -456,7 +456,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 
 ### The Convert's Dilemma
 
-A close friend or family member of the party has joined a crystal cult after contracting the plague. They seem genuinely happier and healthier than before, but their new beliefs are leading them toward dangerous transformation rituals.
+A close friend or family member of [[The Party]] has joined a crystal cult after contracting the plague. They seem genuinely happier and healthier than before, but their new beliefs are leading them toward dangerous transformation rituals.
 
 *Complications:*
 - The cult provides superior emotional and practical support compared to government services
@@ -469,7 +469,7 @@ A close friend or family member of the party has joined a crystal cult after con
 The party is hired to investigate cult activities, but discovers that their employer may be using the information for persecution rather than legitimate law enforcement purposes.
 
 *Moral Complexity:*
-- Cult members are providing genuine assistance to desperate plague victims
+- Cult members are providing genuine assistance to [[Desperate Plague Victim]]s
 - Government response includes both legitimate public safety concerns and religious prejudice
 - Some cult practices are genuinely dangerous while others are merely unconventional
 - Intelligence gathered could be used to improve government services or justify oppression
@@ -486,7 +486,7 @@ A valuable religious artifact or important cult member must be retrieved from a 
 
 ### The Prophetic Warning
 
-Crystal cult oracles have provided specific warnings about an impending disaster. Government officials dismiss these prophecies, but evidence suggests the predictions might be accurate.
+Crystal cult oracles have provided specific warnings about an impending disaster. [[Government Officia]]ls dismiss these prophecies, but evidence suggests the predictions might be accurate.
 
 *Investigation Elements:*
 - Determining the reliability of crystalline prophetic abilities
@@ -504,7 +504,7 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - What happens to patients who improve under cult care but refuse conventional treatment?
 - Can government and cult organizations cooperate without compromising either group's principles?
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -531,6 +531,34 @@ Crystal Cult Temples is a notable location characterized by its unique features 
 ### Founding
 Crystal Cult Temples was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Crystal Cult Temples:
@@ -541,12 +569,12 @@ Ongoing situations affecting Crystal Cult Temples:
 - External threats
 - Opportunities arising
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -556,4 +584,37 @@ Ongoing situations affecting Crystal Cult Temples:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements

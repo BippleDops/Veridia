@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Rules_Reference_Quick_Reference_DnD5e-SideScreen-2024 - Quick Reference
 
 ## Key Info

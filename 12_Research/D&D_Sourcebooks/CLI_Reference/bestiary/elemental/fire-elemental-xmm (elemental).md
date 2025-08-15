@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:35.435841'
 world: Both
 ---
 
-# [[fire elemental xmm|Fire Elemental]]
+# [[elemental]]
 *Source: Monster Manual (2024) p. 118. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -112,18 +112,18 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from the elemental takes 5 (d10) Fire damage. Creatures and flammable\
-      \ objects in the [[emanation area of effect xphb|Emanation]]\
-      \ start [[burning xphb|burning]]."
+      \ objects in the [[Area of Effect Xphb]]\
+      \ start [[burning-xphb (traps-hazards)]]."
     "name": "Fire Aura"
   - "desc": "The elemental can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so, and it can enter a creature's space and stop there.\
       \ The first time it enters a creature's space on a turn, that creature takes\
       \ 5 (d10) Fire damage."
     "name": "Fire Form"
-  - "desc": "The elemental sheds [[bright light xphb|Bright Light]]\
-      \ in a 30-foot radius and [[dim light xphb|Dim Light]]\
+  - "desc": "The elemental sheds [[Light Xphb]]\
+      \ in a 30-foot radius and [[Light Xphb]]\
       \ for an additional 30 feet."
     "name": "Illumination"
   - "desc": "The elemental takes 3 (d6) Cold damage for every 5 feet the elemental\
@@ -133,7 +133,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
   - "desc": "The elemental makes two Burn attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Fire damage.\
-      \ If the target is a creature or a flammable object, it starts [[burning xphb|burning]]."
+      \ If the target is a creature or a flammable object, it starts [[burning-xphb (traps-hazards)]]."
     "name": "Burn"
 "source":
   - "XMM"

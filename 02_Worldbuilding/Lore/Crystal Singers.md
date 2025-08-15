@@ -1,7 +1,7 @@
 ---
 
 title: Crystal Singers
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -22,7 +22,7 @@ improvements: 20
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-crystal-singers-crystal-singers.svg)
+![](04_Resources/Assets/[[location]]s/location-city-crystal-singers-crystal-singers.svg)
 
 > [!figure] Asset
 
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -86,9 +86,9 @@ Crystal Singers is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Crystal Singers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Singers.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Cultural Impact
 
@@ -103,12 +103,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - The authorities needs help investigating before dawn
 - A shipment has gone missing and chaos spreads
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

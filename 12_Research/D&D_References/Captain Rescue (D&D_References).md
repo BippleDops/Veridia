@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Enemy**: [[Portrait NPC the Smuggler S Den V2 the Smuggler S Den.svg]]
-- **Lover**: [[Assets Locations Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
-- **Blackmailer**: [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg]]
-- **Mentor**: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg]]
-- **Rival**: [[portrait-npc-tenebrarum-v1-tenebrarum.svg]]
+- **Enemy**: [[Npc]]
+- **Lover**: [[Harbor Master Nereid Deepcurrent]]
+- **Blackmailer**: [[Npc]]
+- **Mentor**: [[Npc]]
+- **Rival**: [[Npc]]
 
 ## Plot Hooks
 

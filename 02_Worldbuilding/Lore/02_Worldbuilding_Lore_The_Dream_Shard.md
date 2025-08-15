@@ -1,22 +1,22 @@
 ---
-title: 02_Worldbuilding_Lore_The_Dream_Shard
+title: 02_Worldbuilding_[[Lore]]_The_Dream_Shard
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # 02_Worldbuilding_Lore_The_Dream_Shard
 
 ## Overview
-This topic is referenced in [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]] and other parts of the campaign.
+This topic is referenced in [[Assets]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+- Referenced by: [[Assets]]
 - Related topics in the same category
 
 ## Details

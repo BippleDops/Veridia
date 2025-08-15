@@ -1,5 +1,5 @@
 ---
-title: Infected NPC Database
+title: Infected [[Npc]] Database
 type: npc
 tags:
 - npc
@@ -31,7 +31,7 @@ Infected NPC Database is a notable figure in the realm, known for their unique s
 ## Personality
 - **Traits**: Observant, calculating, pragmatic
 - **Ideals**: Knowledge is power, loyalty must be earned
-- **Bonds**: Connected to several influential organizations
+- **Bonds**: Connected to several influential [[Organization]]s
 - **Flaws**: Tendency to overthink situations
 
 ## Background
@@ -43,7 +43,7 @@ Born into modest circumstances, Infected NPC Database rose through dedication an
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **[[Allies]]**: [[Merchant]]'s Guild]], [[City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -52,8 +52,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## Plot Hooks
 1. Seeks adventurers for a delicate mission
-2. Has information about a mystery the party is investigating
+2. Has information about a mystery [[The Party]] is investigating
 3. May become an ally or adversary based on party actions
 
-## DM Notes
+## [[DM_Notes]]
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*

@@ -42,7 +42,7 @@ world: Both
 
 You have learned how to summon a Strixhaven mascot to assist you, granting you these benefits:
 
-- You can cast the [[find familiar xphb|find familiar]] spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat: a [[spirit statue mascot scc|spirit statue mascot]] (Lorehold), an [[art elemental mascot scc|art elemental mascot]] (Prismari), a [[fractal mascot scc|fractal mascot]] (Quandrix), an [[inkling mascot scc|inkling mascot]] (Silverquill), or a [[pest mascot scc|pest mascot]] (Witherbloom).  
+- You can cast the [[find-familiar-xphb (spells)]] spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat: a [[spirit-statue-mascot-scc]] (Lorehold), an [[Art Elemental Mascot Scc]] (Prismari), a [[fractal-mascot-scc]] (Quandrix), an [[inkling-mascot-scc]] (Silverquill), or a [[Pest Mascot Scc]] (Witherbloom).  
 - When you take the [[actions#Attack|Attack]] action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.  
 - If your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again.
 

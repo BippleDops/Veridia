@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 1 DM Toolkit/DM Board
+# 1 DM Toolkit/[[DM Board]]
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of 1 DM Toolkit/DM Board involves several interconnected compone
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 1 DM Toolkit/DM Board trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 1 DM Toolkit/DM Board are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 1 DM Toolkit/DM Board through their own cultural lenses:
+Different [[Groups]] view 1 DM Toolkit/DM Board through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 1 DM Toolkit/DM Board:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 1 DM Toolkit/DM Board has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 1 DM Toolkit/DM Board into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 1 DM Toolkit/DM Board might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #1-dm-toolkit/dm-board
+*Tags*: [[#General]] #worldbuilding #1-dm-toolkit/dm-board

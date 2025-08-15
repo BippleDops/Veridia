@@ -209,13 +209,13 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
 
 **Notable NPCs**:
-- [[Echo Prime Cacophony Voidlungs]]
+- [[Echo-Prime Cacophony Voidlungs (D&D_References)]]
 - [[Doctor Harmony Whisperfall]]
-- [[Bass Echo Rumble Deepshake]]
-- [[Mid Echo Shriek Nerveshatter]]
-- [[Treble Echo Whistle Brainsplitter]]
-- [[Void Echo Silence Deafmake|02 Worldbuilding/Groups/Void Echo Silence Deafmake]]
-- [[Chaos Echo Discord Mindmelter]]
+- [[Bass-Echo Rumble Deepshake]]
+- [[Mid-Echo Shriek Nerveshatter]]
+- [[Treble-Echo Whistle Brainsplitter]]
+- [[Void-Echo Silence Deafmake (D&D_References)]]
+- [[Chaos-Echo Discord Mindmelter]]
 
 **Specialized Equipment**:
 - [[Scream Crystals]]

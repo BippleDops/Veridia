@@ -56,9 +56,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Parent**: [[Portrait NPC Quest the Runaway Golem Quest the Runaway Golem.svg]]
-- **Child**: [[Master Smith Priest Vulcan Depthforge]]
-- **Creditor**: [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg]]
+- **Parent**: [[Npc]]
+- **Child**: [[Master Smith-Priest Vulcan Depthforge]]
+- **Creditor**: [[Npc]]
 - **Friend**: [[The Verdant Accord]]
 
 ## Plot Hooks

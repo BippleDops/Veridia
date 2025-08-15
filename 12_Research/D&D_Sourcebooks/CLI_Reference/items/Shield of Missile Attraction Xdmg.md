@@ -34,14 +34,14 @@ world: Both
 ---
 
 # Shield of Missile Attraction
-*Armor ([[shield xphb|shield]]), cursed item, rare (requires attunement)*  
+*Armor ([[Shield]]), cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2
 - **Properties**: [[item properties#Cursed%20Items|Cursed]]
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[resistance xphb|Resistance]] to damage from attacks made with Ranged weapons.
+While holding this Shield, you have [[boon-of-energy-resistance-xphb (feats)]] to damage from attacks made with Ranged weapons.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,7 +57,7 @@ While holding this Shield, you have [[resistance xphb|Resistance]] to damage fro
 
 ## Curse
 
-This Shield is cursed. Attuning to it curses you until you are targeted by a [[remove curse xphb|Remove Curse]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
+This Shield is cursed. Attuning to it curses you until you are targeted by a [[Remove Curse Xphb]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
 
 *Source: Dungeon Master's Guide (2024) p. 304. Available in the SRD and the Free Rules (2024)*
 

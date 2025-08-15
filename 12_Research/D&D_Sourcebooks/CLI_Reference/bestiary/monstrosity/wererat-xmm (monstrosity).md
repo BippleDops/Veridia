@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wererat-xmm-v1-wererat-xmm.svg)
 
-# [[wererat xmm|Wererat]]
+# [[Wererat Xmm]]
 *Source: Monster Manual (2024) p. 325. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,8 +96,8 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 11. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit points xphb|Hit Points]],\
-      \ it instead becomes a Wererat under the DM's control and has 10 [[hit points xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb (variant-rules)]],\
+      \ it instead becomes a Wererat under the DM's control and has 10 [[hit-points-xphb (variant-rules)]].\
       \ Success: The target is immune to this wererat's curse for 24 hours."
     "name": "Bite (Rat or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."

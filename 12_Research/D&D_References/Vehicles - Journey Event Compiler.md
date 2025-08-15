@@ -41,7 +41,7 @@ Framework to produce 1,000+ varied travel events by combining depth/height/merge
 ### Systems (d20)
 1 Power surge • 2 Anchor drift • 3 Hull leak • 4 Sensor blindness • 5 Weapon jam • 6 Parasite alarm • 7 Crystal crack • 8 Memory loop • 9 Crew panic • 10 Sanity wave • 11 Rations spoil • 12 O2 scrub fail • 13 Ballast miscalc • 14 Rigging snap • 15 Shrine silence • 16 Command dispute • 17 Map misprint • 18 Ghost at hatch • 19 Clock loss • 20 Time double
 
-See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Transportation Infrastructure|Transportation Infrastructure]].
+See also: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Transportation_Infrastructure]].
 
 ## 🔧 Deep Evaluation Improvements
 

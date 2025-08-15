@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/helm-of-teleportation.webp#right)
 
-This helm has 3 charges. While wearing it, you can expend 1 charge to cast [[teleport xphb|Teleport]] from it. The helm regains `d3` expended charges daily at dawn.
+This helm has 3 charges. While wearing it, you can expend 1 charge to cast [[Teleport Xphb]] from it. The helm regains `d3` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the SRD and the Free Rules (2024)*
 

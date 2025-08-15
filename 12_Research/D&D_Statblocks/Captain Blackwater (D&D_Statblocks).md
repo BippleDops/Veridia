@@ -167,10 +167,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Enemy**: [[Portrait NPC Captain Navigator Captain Navigator.svg]]
-- **Enemy**: [[Portrait NPC Captain Threshold V2 Captain Threshold.svg]]
-- **Enemy**: [[Portrait NPC Captain Twin Reality Marsh V2 Captain Twin Reality Marsh.svg]]
-- **Debtor**: [[Portrait NPC Shadow Parliament V1 Shadow Parliament.svg]]
+- **Enemy**: [[Npc]]
+- **Enemy**: [[Npc]]
+- **Enemy**: [[Npc]]
+- **Debtor**: [[Npc]]
 
 ## Plot Hooks
 

@@ -202,7 +202,7 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 
 ## Connected References
 
-- [[Thalassa the Life Weaver]] - Original creator
+- [[Thalassa the Life-Weaver]] - Original creator
 - [[Archkeeper Nereon]] - Last known bearer
 - [[The Great Drowning]] - Event where stone was lost
 - [[Deep Expeditions]] - Historical exploration missions
@@ -215,7 +215,7 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 - [[False Breathers]] - Replica stones
 - [[Surface Raiders]] - Possible current location
 - [[Marianas Abyss]] - Deepest exploration point
-- [[Gill Men]] - Transformation risk
+- [[Gill-Men]] - Transformation risk
 - [[The Final Gasp]] - Breathing plague
 
 The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world.

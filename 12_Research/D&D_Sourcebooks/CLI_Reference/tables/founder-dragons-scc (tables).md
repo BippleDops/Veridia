@@ -37,11 +37,11 @@ world: Both
 
 | College | Founder |
 |---------|---------|
-| Lorehold | [[/03 Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc|Velomachus Lorehold]] |
-| Prismari | [[/03 Mechanics/CLI/bestiary/npc/galazeth-prismari-scc|Galazeth Prismari]] |
-| Quandrix | [[/03 Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc|Tanazir Quandrix]] |
-| Silverquill | [[/03 Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc|Shadrix Silverquill]] |
-| Witherbloom | [[/03 Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc|Beledros Witherbloom]] |
+| Lorehold | [[Bestiary]] |
+| Prismari | [[Bestiary]] |
+| Quandrix | [[Bestiary]] |
+| Silverquill | [[Bestiary]] |
+| Witherbloom | [[Bestiary]] |
 ^founder-dragons
 
 ## 🔧 Deep Evaluation Improvements

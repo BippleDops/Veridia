@@ -50,7 +50,7 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 150*
 
@@ -94,3 +94,24 @@ Mentioned in The Hidden Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Xanathar's Guide to Everything
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[bones-of-the-earth-xge (spells)-phb]]` in CLI_Reference/spells/

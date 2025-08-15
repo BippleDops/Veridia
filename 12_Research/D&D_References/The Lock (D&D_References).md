@@ -123,7 +123,7 @@ Each tower corresponds to one matrix of the Great Seal:
 
 **Silence Tower**
 - Centers of absolute void and emptiness
-- Maintained by [[Void Keeper Sister Nyx space]]
+- Maintained by [[Void_Keeper_Sister_Nyx_space]]
 - Chambers where sound, light, and thought cannot exist
 - Training for operating in impossible conditions
 
@@ -144,7 +144,7 @@ Living quarters designed for extreme psychological pressure:
 
 **The Workshop Levels**
 - Maintece facilities for the seven matrices
-- Forges for creating [[Hadal Resistant Equipment]]
+- Forges for creating [[Hadal-Resistant Equipmen]]
 - Laboratories for studying phenomena from beyond the barrier
 - Storage for replacement parts and emergency materials
 

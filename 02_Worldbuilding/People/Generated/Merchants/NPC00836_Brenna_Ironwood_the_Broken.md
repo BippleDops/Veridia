@@ -1,0 +1,117 @@
+# Brenna Ironwood the Broken
+
+*Firbolg Caravan Master (Merchants), Age 47, Non-binary*
+
+**ID**: NPC00836
+
+## Quick Reference
+- **Location**: Crossroads inn on the trade route
+- **Occupation**: Cloth merchant
+- **Disposition**: Believes in every conspiracy theory
+
+## Appearance
+Towering and imposing, with Shaved gray hair and Black eyes. Weathered skin. Missing finger on left hand.
+
+**Clothing**: Assassin's garb, all in black
+**Accessories**: Decorated dagger
+
+## Personality
+- **Traits**: Believes in every conspiracy theory; Never uses people's real names; Never backs down from any challenge
+- **Ideal**: Redemption: Everyone deserves a second chance
+- **Bond**: I will become the greatest that ever lived
+- **Flaw**: I turn tail and run at the first sign of danger
+- **Quirks**: Always carries a lucky charm, Can't sit still, Always cold, wears extra layers
+- **Fear**: Enclosed spaces
+- **Dream**: Avenging their family
+
+## Background
+Former adventurer who retired to open a shop They recently discovered a secret that could destroy powerful people.
+
+## Current Situation
+- **Occupation**: Cloth merchant
+- **Resources**: Trade contacts
+- **Problems**: Massive debt to dangerous people
+
+### Goals
+- **Short Term**: Find missing person
+- **Long Term**: Find redemption
+
+
+## Relationships
+### Baelor Nightfall the Bold (Family - Spouse)
+- **Status**: Secretly hostile
+- **History**: Arranged partnership that grew genuine
+- **Secret**: Planning betrayal
+
+### Wynne Moonshadow the Swift (Political - Spy)
+- **Status**: Mutually beneficial
+- **History**: Teacher and student relationship
+
+
+### Solas Goldleaf the Lost (Professional - Partner)
+- **Status**: Professional only
+- **History**: Bonded over shared tragedy
+
+
+## Secrets
+1. Smuggles illegal magical items
+
+## Statistics
+- **Level**: 8
+- **HP**: 50
+- **AC**: 12
+- **Speed**: 30 ft.
+- **Challenge Rating**: 4
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 10 | 13 | 8 | 18 | 9 | 12 |
+
+### Saving Throws
+INT, CHA
+
+### Skills
+Insight, Investigation, Sleight of Hand
+
+### Attacks
+- Shortsword: +6 to hit, 1d6+3 slashing
+- Dagger: +5 to hit, 1d4+3 damage
+
+### Special Abilities
+- Bribery: Can influence officials with gold
+- Bribery: Can influence officials with gold
+- Silver Tongue: Advantage on Deception checks
+
+## Possessions
+- 461 gold pieces
+- Strongbox key
+- Strongbox key
+
+## Dialogue
+### Greetings
+- "Welcome! Looking to buy or sell?"
+- "Ah, a potential customer!"
+- "Business or pleasure today?"
+
+### Catchphrases
+- "I've seen stranger things."
+- "If you say so."
+
+### Knowledge
+- Market prices and trends
+- Trade route conditions
+- Competitor weaknesses
+- New business opportunities
+
+## Plot Hook
+Caravan needs guards
+
+## DM Notes
+- Adjust stats based on party level
+- Secrets can drive major plot points
+- Relationships create web of connections
+- Use quirks for memorable roleplay
+
+---
+*Generated: 2025-08-15T03:51:03.208Z*

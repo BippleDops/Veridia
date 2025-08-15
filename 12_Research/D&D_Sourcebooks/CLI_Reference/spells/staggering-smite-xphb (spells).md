@@ -46,7 +46,7 @@ The target takes an extra `4d6` Psychic damage from the attack, and the target m
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `d6` for each spell slot level above 4.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 320*
 
@@ -99,3 +99,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

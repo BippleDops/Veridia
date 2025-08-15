@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-night-hag-xmm-night-hag-xmm.svg)
 
-# [[night hag xmm|Night Hag]]
+# [[Night Hag]]
 *Source: Monster Manual (2024) p. 225. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -97,18 +97,18 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 14): [[augury xphb|Augury]], [[find familiar xphb|Find Familiar]],\
-      \ [[identify xphb|Identify]], [[locate object xphb|Locate Object]],\
-      \ [[scrying xphb|Scrying]], or [[unseen servant xphb|Unseen Servant]].\
-      \ The hag must finish a [[long rest xphb|Long Rest]]\
+      \ save DC 14): [[augury-xphb (spells)]], [[find-familiar-xphb (spells)]],\
+      \ [[identify-xphb (spells)]], [[locate-object-xphb (spells)]],\
+      \ [[Scrying Xphb]], or [[Unseen Servant Xphb]].\
+      \ The hag must finish a [[long-rest-xphb]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
-  - "desc": "The hag has [[advantage xphb|Advantage]]\
+  - "desc": "The hag has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The hag has a soul bag. While holding or carrying the bag, the hag can\
-      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[resistance xphb|Resistance]]\
-      \ to all damage. The bag turns to dust if reduced to 0 [[hit points xphb|Hit Points]].\
+      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[boon-of-energy-resistance-xphb (feats)]]\
+      \ to all damage. The bag turns to dust if reduced to 0 [[hit-points-xphb (variant-rules)]].\
       \ If the bag is destroyed, any souls the bag is holding are released. The hag\
       \ can create a new bag after 7 days."
     "name": "Soul Bag"
@@ -119,19 +119,19 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      At will: [[detect magic xphb|Detect Magic]], [[etherealness xphb|Etherealness]],\
-      \ [[magic missile xphb|Magic Missile]] (level 4 version)\n\
-      \n2/day each: [[phantasmal killer xphb|Phantasmal Killer]],\
-      \ [[plane shift xphb|Plane Shift]] (self only)"
+      At will: [[detect-magic-xphb (spells)]], [[Etherealness Xphb]],\
+      \ [[Magic Missile]] (level 4 version)\n\
+      \n2/day each: [[Phantasmal Killer Xphb]],\
+      \ [[plane-shift-xphb (spells)]] (self only)"
     "name": "Spellcasting"
-  - "desc": "While on the Ethereal Plane, the hag casts [[dream xphb|Dream]],\
+  - "desc": "While on the Ethereal Plane, the hag casts [[dream-xphb (spells)]],\
       \ using the same spellcasting ability as Spellcasting. Only the hag can serve\
       \ as the spell's messenger, and the target must be a creature the hag can see\
       \ on the Material Plane. The spell fails and is wasted if the target is under\
-      \ the effect of the [[protection from evil and good xphb|Protection from Evil and Good]]\
-      \ spell or within a [[magic circle xphb|Magic Circle]]\
-      \ spell.\n\nIf the target takes damage from the [[dream xphb|Dream]]\
-      \ spell, the target's [[hit points xphb|Hit Point]]\
+      \ the effect of the [[Protection From Evil and Good Xphb]]\
+      \ spell or within a [[Magic Circle Xphb]]\
+      \ spell.\n\nIf the target takes damage from the [[dream-xphb (spells)]]\
+      \ spell, the target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to that damage. If the spell kills the\
       \ target, its soul is trapped in the hag's soul bag, and the target can't be\
       \ raised from the dead until its soul is released.\n"

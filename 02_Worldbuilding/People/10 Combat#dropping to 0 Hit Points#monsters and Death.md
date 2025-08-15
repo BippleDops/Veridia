@@ -16,6 +16,25 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
+
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -135,6 +154,11 @@ Currently engaged in professional duties and maintaining their position within t
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
+
+## Secrets
+- Hidden information about this character
+- Unknown connections or past events
+
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -181,8 +205,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Lord Blackwater]] (rival)
-- [[Sorrow Root Nightbloom]] (enemy)
-- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg]] (colleague)
+- [[Sorrow-Root Nightbloom (D&D_References)]] (enemy)
+- [[Npc]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -236,3 +260,46 @@ Member of House Serpentblood - Trait: curse
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

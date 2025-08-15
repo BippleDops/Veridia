@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-dragongleam-hotdq-dragongleam-hotdq.svg)
 
 # Dragongleam
-*Weapon ([[spear xphb|spear]])*  
+*Weapon ([[Eldritch Spear Xphb]])*  
 
 - **Damage**:
   - One-handed: 1d6 piercing
@@ -46,7 +46,7 @@ world: Both
 - **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-This spear is enchanted with 10 charges of a [[daylight xphb|daylight]] spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
+This spear is enchanted with 10 charges of a [[Light Xphb]] spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
 
 *Source: Hoard of the Dragon Queen p. 84*
 

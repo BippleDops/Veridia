@@ -45,7 +45,7 @@ world: Both
 # Sword of Wounding
 *Rare (requires attunement)*  
 
-When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit points xphb|Hit Points]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit-points-xphb (variant-rules)]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 **Variants**:
 - [Glaive of Wounding](#Glaive%20of%20Wounding)

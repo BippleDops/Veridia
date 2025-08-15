@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-elvenkind.webp#right)
 
-While you wear this cloak, Wisdom ([[skills#Perception|Perception]]) checks made to perceive you have [[disadvantage xphb|Disadvantage]], and you have [[advantage xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
+While you wear this cloak, Wisdom ([[skills#Perception|Perception]]) checks made to perceive you have [[Advantage Xphb]], and you have [[Advantage Xphb]] on Dexterity ([[skills#Stealth|Stealth]]) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
 

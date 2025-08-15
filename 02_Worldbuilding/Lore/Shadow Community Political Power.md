@@ -1,12 +1,12 @@
 ---
 
 title: Shadow Community Political Power
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - content/faction
 - content/lore
-- both aethermoor & aquabyssos
+- both [[Aethermoor]] & [[Aquabyssos]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -85,11 +85,11 @@ Shadow Community Political Power is a undersea element of the setting, known for
 
 Legends speak of Shadow Community Political Power as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Community Political Power.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -100,7 +100,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - An heirloom has gone missing and truth emerges
-- A merchant needs help finding before winter
+- A [[Merchant]] needs help finding before winter
 
 ## Economic Structure
 

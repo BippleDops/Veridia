@@ -1,7 +1,7 @@
 ---
 
 title: The Shrinking Sanctuary
-type: Location
+type: [[location]]
 tags:
 - aquabyssos
 - sanctuary
@@ -23,7 +23,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: ~300 refugees and guardians
 created_by: auto-stub
 current_size: 3 square miles
@@ -36,7 +36,7 @@ parent_location: The Wandering Depths
 related_entities:
 - '[[Free Current]]'
 - '[[Parliament of Echoes]]'
-- '[[12_Research/D&D_Statblocks/The Memory Meadows]]'
+- '[[12 Research]]'
 - '[[Dimensional Research Institute]]'
 shrinking_rate: 5 cubic feet per hour
 updated: '2025-08-13T12:34:16.653819+00:00'
@@ -52,7 +52,7 @@ improvements: 20
 
 # The Shrinking Sanctuary
 
-*A Haven Running Out of Time*
+*A Haven Running Out of [[Time]]*
 
 > *"Every day we grow closer together - not by choice, but by necessity. Our refuge saves us from the dangers without, but it cannot save us from the mathematics of its own existence."*
 > — [[Keeper Temporal Safehaven]], Sanctuary Administrator
@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -146,7 +146,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 **Gateway Count**: Three dimensional portals providing controlled access
 **Security Screening**: Magical and mundane evaluation of all newcomers
-**Emergency Protocols**: Rapid evacuation systems for catastrophic failures
+**[[Emergency Protocol]]s**: Rapid evacuation systems for catastrophic failures
 **Boundary Stability**: Constant monitoring and maintece of dimensional walls
 **External Interaction**: Limited visibility and communication with outside world
 
@@ -155,7 +155,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Current Size**: 200-yard diameter (originally 500 yards)
 **Function**: Primary community meeting space and cultural center
 **Features**: Adaptive amphitheater seating that reconfigures as space shrinks
-**Activities**: Democratic councils, cultural celebrations, conflict mediation
+**Activities**: Democratic councils, cultural celebrations, [[Conflict Mediation]]
 **Acoustics**: Magical sound enhancement ensuring everyone can participate in discussions
 
 #### Family Quarters
@@ -193,7 +193,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Cultural Schools**: Preserving refugee cultures and languages
 **Skill Training**: Teaching practical skills for life inside and outside sanctuary
 **Innovation Labs**: Developing solutions for shrinking-space challenges
-**Libraries**: Compressed information storage preserving essential knowledge
+**[[Libraries]]**: Compressed information storage preserving essential knowledge
 **Integration Programs**: Helping diverse cultures blend into cohesive community
 
 #### Workshop Districts
@@ -206,16 +206,16 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 #### Memorial and Reflection Areas
 
-**Sacred Spaces**: Areas dedicated to remembering lost homes and people
+**Sacred Spaces**: Areas dedicated to remembering lost homes and [[People]]
 **Meditation Zones**: Quiet spaces for individual and group reflection
 **Cultural Monuments**: Adaptable memorials honoring refugee heritage
 **Prayer Areas**: Multi-faith spaces accommodating diverse spiritual needs
-**Grief Counseling**: Support systems for processing loss and displacement
+**[[Grief Counseling]]**: Support systems for processing loss and displacement
 
 #### Food-Producing Plants
 
 **High-Yield Kelp**: Specially bred kelp varieties providing vegetables and protein
-**Fruit Corals**: Coral formations genetically modified to produce edible fruit
+**Fruit [[Coral]]s**: Coral formations genetically modified to produce edible fruit
 **Protein Grasses**: Seagrasses that develop high-protein nodules
 **Root Vegetables**: Underground crops maximizing three-dimensional growing space
 **Herb Gardens**: Culinary and medicinal herbs concentrated for maximum potency
@@ -247,7 +247,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 #### Psychological Effects
 
 **Spatial Adaptation**: Gradual mental adjustment to decreasing space
-**Community Bonding**: Enhanced empathy and cooperation due to proximity
+**Community Bonding**: Enhanced em[[path]]y and cooperation due to proximity
 **Stress Management**: Magical calming effects built into sanctuary's structure
 **Memory Enhancement**: Improved retention of cultural knowledge and skills
 **Time Perception**: Altered perception of time passage within dimensional space
@@ -280,7 +280,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 **Reality Storms**: Temporary disruptions threatening sanctuary's dimensional integrity
 **Gateway Malfunctions**: Failures in dimensional portals that could trap inhabitants
-**Compression Zones**: Areas where shrinking creates dangerous pressure differentials
+**Compression Zones**: Areas where shrinking creates dangerous [[Pressure Differential]]s
 **Dimensional Echoes**: Reflections of external reality bleeding into sanctuary space
 **Temporal Fluctuations**: Minor time distortions near dimensional boundaries
 
@@ -310,7 +310,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 #### Spatial Distortions
 
-**Changing Geography**: Layout modifications as space contracts require updated maps
+**Changing Geography**: Layout modifications as space contracts require updated [[map]]s
 **Navigation Equipment**: Standard equipment unreliable in dimensional space
 **Landmark Systems**: Creating and maintaining navigation aids in shifting environment
 **Emergency Routes**: Constantly updated evacuation routes and procedures
@@ -344,9 +344,9 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 **Hook**: One of three dimensional gateways begins destabilizing, threatening to trap everyone inside
 **Challenge**: Repair dimensional breach without knowledge of original construction techniques
-**Complications**: Repair attempts risk accelerating overall dimensional collapse
+**Complications**: Repair attempts risk accelerating overall [[Dimensional Collapse]]
 **Stakes**: Without functioning gateways, sanctuary becomes beautiful prison
-**Resolution**: Discover emergency protocols or find alternative exit methods
+**Resolution**: Discover [[Emergency Protocols]] or find alternative exit methods
 
 #### 2. The Resource Crisis  
 
@@ -375,9 +375,9 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 #### 5. The Origin Investigation  
 
 **Hook**: Mysterious clues about sanctuary's creation and why it's shrinking
-**Exploration**: Investigate hidden chambers and dimensional anomalies within sanctuary
-**Revelations**: Discover truth about original creators and their intentions
-**Connections**: Find links to other dimensional projects throughout [[Aquabyssos]]
+**Exploration**: Investigate hidden chambers and [[Dimensional Anomalies]] within sanctuary
+**Revelations**: Discover truth about original [[Creator]]s and their intentions
+**Connections**: Find [[Link]]s to other dimensional projects throughout [[Aquabyssos]]
 **Legacy**: Understanding origins might provide key to controlling sanctuary's fate
 
 #### 6. The Dimensional Mapping Project
@@ -399,7 +399,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 #### 8. The Departure Decisions
 
 **Hook**: Help families and individuals decide whether to leave sanctuary for uncertain outside world
-**Counseling**: Provide guidance for making informed decisions about future
+**Counseling**: Provide [[Guidance]] for making informed decisions about future
 **Preparation**: Assist with practical preparations for life outside sanctuary's protection
 **Connections**: Help establish contacts and safe havens in external communities
 **Support**: Provide ongoing assistance for those choosing to leave
@@ -416,7 +416,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 
 **Hook**: Critical mission to external world to secure resources or assistance
 **Danger**: Navigate threats that originally forced people to seek sanctuary
-**Diplomacy**: Negotiate with outside organizations for aid or cooperation
+**Diplomacy**: Negotiate with outside [[Organization]]s for aid or cooperation
 **Intelligence**: Gather information about changing conditions in broader [[Aquabyssos]]
 **Return**: Ensure safe return to sanctuary with mission objectives accomplished
 
@@ -426,7 +426,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Location**: Find suitable dimensional conditions for new sanctuary construction
 **Construction**: Assist with complex magical engineering of dimensional space
 **Population**: Help relocate volunteers to reduce crowding in original sanctuary
-**Network**: Create support and communication systems between multiple sanctuaries
+**Network**: Create support and [[Communication Systems]] between multiple sanctuaries
 
 ### The Compression Cycles
 
@@ -455,7 +455,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 ### [[Free Current]]
 
 **Transportation Network**: Current system provides transportation routes for refugees seeking sanctuary
-**Information Exchange**: Regular news and communication exchange about conditions throughout [[Aquabyssos]]
+**[[Information Exchange]]**: Regular news and communication exchange about conditions throughout [[Aquabyssos]]
 **Resource Cooperation**: Limited resource sharing and mutual aid arrangements
 **Philosophy**: Shared commitment to freedom, mutual aid, and cooperative goverce
 **Evacuation Planning**: Current network integral to emergency evacuation scenarios
@@ -468,9 +468,9 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Policy Development**: Creating policies for managing refugee crises and dimensional anomalies
 **Future Planning**: Long-term political planning for refugee integration and support
 
-### [[12_Research/D&D_Statblocks/The Memory Meadows]]
+### [[12 Research]]
 
-**Cultural Preservation**: Preserving memories and cultural heritage of diverse refugee communities
+**[[Cultural Preservation]]**: Preserving memories and cultural heritage of diverse refugee communities
 **Trauma Healing**: Memory-based therapy for refugees dealing with displacement trauma
 **Historical Documentation**: Recording sanctuary's unique experiment in community cooperation
 **Identity Support**: Helping individuals maintain cultural identity while adapting to sanctuary life
@@ -482,12 +482,12 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Emergency Response**: Specialist intervention during dimensional crises and instabilities
 **Research Collaboration**: Joint research projects studying dimensional compression and community adaptation
 **Innovation Development**: Creating new magical techniques for dimensional manipulation and space optimization
-**Training Programs**: Education for Sanctuary Keepers in dimensional magic and crisis management
+**Training Programs**: Education for Sanctuary Keepers in dimensional magic and [[Crisis Management]]
 
 ### [[Abyssos Prime]]
 
-**Government Relations**: Official relationship with royal government and bureaucracy
-**Resource Requests**: Formal requests for government assistance and resource allocation
+**Government Relations**: Official relationship with [[Royal Government]] and bureaucracy
+**Resource Re[[Quests]]**: Formal requests for government assistance and resource allocation
 **Refugee Processing**: Coordination with government agencies managing refugee affairs
 **Research Funding**: Government support for dimensional research and technological development
 **Integration Planning**: Long-term planning for refugee integration into broader [[Aquabyssos]] society
@@ -508,14 +508,14 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Related Locations**:
 - [[Free Current]]
 - [[Parliament of Echoes]]
-- [[12_Research/D&D_Statblocks/The Memory Meadows]]
+- [[12 Research]]
 - [[Dimensional Research Institute]]
 - [[Abyssos Prime]]
 
-**Related NPCs**:
+**Related [[Npc]]s**:
 - [[Keeper Temporal Safehaven]]
 - [[Sanctuary Council Members]]  
-- [[Refugee Community Leaders]]
+- [[Refugee [[Community Leaders]]]]
 - [[Dimensional Researchers]]
 - [[Architect Temporal Wisdom]]
 
@@ -524,24 +524,24 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 - [[Refugee Integration Protocols]]
 - [[Community Resource Sharing]]
 - [[Sanctuary Emergency Systems]]
-- [[Faith Stability Magical Theory]]
+- [[Faith-Stability [[Magical Theory]]]]
 
 ## Player-Facing Summary
 
 The Shrinking Sanctuary is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Shrinking Sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shrinking Sanctuary.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -564,6 +564,34 @@ The Shrinking Sanctuary is a notable location characterized by its unique featur
 
 ### Founding
 The Shrinking Sanctuary was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -593,3 +621,40 @@ Ongoing situations affecting The Shrinking Sanctuary:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

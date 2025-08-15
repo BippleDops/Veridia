@@ -35,7 +35,7 @@ world: Both
 # Heightened Spell
 *Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
-When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell [[disadvantage xphb|Disadvantage]] on saves against the spell.
+When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell [[Advantage Xphb]] on saves against the spell.
 
 ## 🔧 Deep Evaluation Improvements
 

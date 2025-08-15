@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
 
-# [[ancient bronze dragon xmm|Ancient Bronze Dragon]]
+# [[Bronze Dragon Xmm]]
 *Source: Monster Manual (2024) p. 60. Available in the SRD and the Free Rules (2024)*  
 
 Ancient bronze dragons develop dramatic patinas on their glimmering scales. These dragons strive to protect whole regions, continents, or planets from threats. They seek solutions to planes-spanning calamities or multiversal perils and oppose the evil of mighty chromatic dragons.
@@ -111,41 +111,41 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Repulsion Breath or (B) Spellcasting to cast [[guiding bolt xphb|Guiding Bolt]]\
+      \ use of (A) Repulsion Breath or (B) Spellcasting to cast [[Guiding Bolt Xphb]]\
       \ (level 2 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +16, reach 15 ft. Hit: 18 (2d8 + 9) Slashing damage\
       \ plus 9 (2d8) Lightning damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 23, each creature in a 120-foot-long, 10-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 82 (15d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 23, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Strength Saving Throw: DC 23, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: The target is pushed up to 60 feet straight away from the dragon\
       \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit\
-      \ with spell attacks):\n\nAt will: [[detect magic xphb|Detect Magic]],\
-      \ [[guiding bolt xphb|Guiding Bolt]] (level 2 version),\
-      \ [[shapechange xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[temporary hit points xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[temporary hit points xphb|Temporary Hit Points]]\
-      \ required to maintain the spell), [[speak with animals xphb|Speak with Animals]],\
-      \ [[thaumaturgy xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[detect thoughts xphb|Detect Thoughts]], [[control water xphb|Control\]]
-      \ Water]], [[scrying xphb|Scrying]],\
-      \ [[water breathing xphb|Water Breathing]]"
+      \ with spell attacks):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[Guiding Bolt Xphb]] (level 2 version),\
+      \ [[Shapechange Xphb]] (Beast or Humanoid\
+      \ form only, no [[temporary-hit-points-xphb (variant-rules)]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb (variant-rules)]]\
+      \ required to maintain the spell), [[Speak With Animals Xphb]],\
+      \ [[Thaumaturgy Xphb]]\n\n1/day each:\
+      \ [[detect-thoughts-xphb (spells)]], [[Control Water Xphb]]
+      \ Water]], [[Scrying Xphb]],\
+      \ [[Water Breathing Xphb]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[guiding bolt xphb|Guiding Bolt]]\
+  - "desc": "The dragon uses Spellcasting to cast [[Guiding Bolt Xphb]]\
     "name": "Guiding Light"
-  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "Constitution Saving Throw: DC 22, each creature in a 20-foot-radius\
-      \ [[sphere area of effect xphb|Sphere]] centered\
+      \ [[Area of Effect Xphb]] centered\
       \ on a point the dragon can see within 120 feet. Failure: 13 (3d8) Thunder\
       \ damage, and the target has the [[conditions#Deafened|Deafened]]\
       \ condition until the end of its next turn."
@@ -155,9 +155,9 @@ Bronze dragons usually make their homes near or under the sea.
       \ by its presence, creating the following effects:"
     "name": ""
   - "desc": "- Buoying Currents. Creatures within 1 mile of the lair that lack\
-      \ a [[swim speed xphb|Swim Speed]] ignore the\
+      \ a [[swim-speed-xphb (variant-rules)]] ignore the\
       \ extra cost of movement while swimming.  \n- Sun and Storms. While in its\
-      \ lair, the dragon can cast [[control weather xphb|Control Weather]],\
+      \ lair, the dragon can cast [[weather]],\
       \ requiring no Material components and using the same spellcasting ability as\
       \ its Spellcasting action. When casting the spell this way, the dragon can control\
       \ the weather within 1 mile of its lair, regardless if the dragon is inside\

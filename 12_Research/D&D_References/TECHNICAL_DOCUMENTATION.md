@@ -498,7 +498,7 @@ echo "Validating Cordelia Vault System Requirements..."
 
 # Check Python version
 python_version=$(python3 --version 2>/dev/ | cut -d ' ' -f 2)
-if [[ "$python version" < "3.9" ]]; then
+if [["$python_version" < "3.9"]]; then
     echo "ERROR: Python 3.9+ required, found $python_version"
     exit 1
 fi

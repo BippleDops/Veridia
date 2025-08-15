@@ -70,7 +70,7 @@ The palace's most striking features are its **seventeen towering spires** that p
 
 ### The Gravity Wells
 
-Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[Void Touched]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
+Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[Deepcaster]] [[The Void Touched Depths]] mages using rituals that required the sacrifice of entire [[Leviathan]] pods. Key gravity-defying areas include:
 
 - **The Ascending Throne Room**: Where petitioners must "fall upward" to approach [[The Deep Sovereign]]
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
@@ -155,7 +155,7 @@ This repository contains knowledge gathered from across the [[Multiverse]], stor
 - Maps of the [[Pressure Territories]]
 - Histories of the [[Sunken Civilizations]]
 - Prophecies regarding the [[Rising Dark]]
-- Formulas for creating [[Pressure Wrought]] items
+- Formulas for creating [[Pressure-Wrought]] items
 - Intelligence on surface world activities gathered by [[Deep Spies]]
 
 ### The Living Corridors
@@ -187,7 +187,7 @@ Opposing the Ascension Plot are the **Deep Purists**, traditionalists who believ
 
 ### The Temporal Rebellion
 
-A secretive faction has discovered that the palace's [[02 Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
+A secretive faction has discovered that the palace's [[Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
 
 - Find timelines where the [[Great Sundering]] never occurred
 - Retrieve lost knowledge from destroyed realities

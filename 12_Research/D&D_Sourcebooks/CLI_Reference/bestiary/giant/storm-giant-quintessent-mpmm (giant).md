@@ -41,7 +41,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[storm-giant-quintessent-mpmm|Storm Giant Quintessent]]
+# [[giant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -130,7 +130,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
       \ While dispersed, the giant can't take any actions other than lair actions,\
       \ and it can't be targeted by attacks, spells, or other effects. The giant can't\
       \ use this ability outside its lair, nor can it use this ability if another\
-      \ creature is using a [[control-weather-xphb|control weather]]\
+      \ creature is using a [[weather]]\
       \ spell or similar magic to quell the storm."
     "name": "One with the Storm (Costs 3 Actions)"
 "source":

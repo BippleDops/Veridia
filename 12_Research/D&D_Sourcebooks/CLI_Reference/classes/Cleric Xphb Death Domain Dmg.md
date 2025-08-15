@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Death Domain
-*[[cleric xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb-nature-domain (classes)]]: Cleric Subclass*  
 *Source: Dungeon Master's Guide p. 96*  
 
 > [!tldr] Class and Feature Progression
@@ -68,7 +68,7 @@ world: Both
 
 ### Death Domain (Level 3)
 
-The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [[dragonlance chemosh phb|Chemosh]], Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([[egyptian anubis|Anubis]], Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [[dragonlance morgion phb|Morgion]]), and the underworld ([[greek hades|Hades]] and [[norse hel|Hel]]).
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [[dragonlance-chemosh-phb (deities)]], Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([[Egyptian Anubis]], Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [[Dragonlance Morgion Phb]]), and the underworld ([[Greek Hades]] and [[Norse Hel]]).
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -76,11 +76,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[false life xphb|false life]], [[ray of sickness xphb|ray of sickness]] |
-| 3rd | [[blindness deafness xphb|blindness/deafness]], [[ray of enfeeblement xphb|ray of enfeeblement]] |
-| 5th | [[animate dead xphb|animate dead]], [[vampiric touch xphb|vampiric touch]] |
-| 7th | [[blight xphb|blight]], [[death ward xphb|death ward]] |
-| 9th | [[antilife shell xphb|antilife shell]], [[cloudkill xphb|cloudkill]] |
+| 1st | [[False Life Xphb]], [[Ray of Sickness Xphb]] |
+| 3rd | [[blindness-deafness-xphb (spells)]], [[Ray of Enfeeblement Xphb]] |
+| 5th | [[animate-dead-xphb (spells)]], [[Vampiric Touch Xphb]] |
+| 7th | [[Light Xphb]], [[Death Ward Xphb]] |
+| 9th | [[antilife-shell-xphb (spells)]], [[Cloudkill Xphb]] |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)

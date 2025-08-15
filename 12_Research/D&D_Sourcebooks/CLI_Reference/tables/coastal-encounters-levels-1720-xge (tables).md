@@ -39,19 +39,19 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | 1 [[roc xmm|roc]] |
-| 11-20 | 1 [[storm giant xmm|storm giant]] |
-| 21-25 | An [[adult bronze dragon xmm|adult bronze dragon]] fighting an [[adult blue dragon xmm|adult blue dragon]] to the death |
-| 26-40 | `2d4` [[cyclops sentry xmm|cyclopes]] |
-| 41-50 | 1 [[adult bronze dragon xmm|adult bronze dragon]] or 1 [[adult blue dragon xmm|adult blue dragon]] |
-| 51-60 | `d3` [[djinni xmm|djinni]] or `d3` [[marid xmm|marids]] |
-| 61-70 | 1 [[dragon turtle xmm|dragon turtle]] |
-| 71-75 | `d3` [[roc xmm|rocs]] |
+| 01-10 | 1 [[Roc Xmm]] |
+| 11-20 | 1 [[giant]] |
+| 21-25 | An [[Bronze Dragon Xmm]] fighting an [[Adult Blue Dragon Xmm]] to the death |
+| 26-40 | `2d4` [[cyclops-sentry-xmm]] |
+| 41-50 | 1 [[Bronze Dragon Xmm]] or 1 [[Adult Blue Dragon Xmm]] |
+| 51-60 | `d3` [[Djinni Xmm]] or `d3` [[marid-xmm (elemental)]] |
+| 61-70 | 1 [[dragon-turtle-xmm (dragon)]] |
+| 71-75 | `d3` [[Roc Xmm]] |
 | 76-80 | `1d6 + 2` waterspouts that dance on the water before stopping abruptly |
-| 81-90 | `d6` [[young blue dragon xmm|young blue dragons]] |
-| 91-96 | 1 [[ancient bronze dragon xmm|ancient bronze dragon]] |
-| 97-99 | 1 [[ancient blue dragon xmm|ancient blue dragon]] |
-| 00 | `1d3 + 1` [[storm giant xmm|storm giants]] |
+| 81-90 | `d6` [[Blue Dragon Xmm]] |
+| 91-96 | 1 [[Bronze Dragon Xmm]] |
+| 97-99 | 1 [[Blue Dragon Xmm]] |
+| 00 | `1d3 + 1` [[giant]] |
 ^coastal-encounters-levels-1720
 
 ## 🔧 Deep Evaluation Improvements
@@ -91,3 +91,58 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty
+
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

@@ -35,7 +35,7 @@ world: Both
 # Riposte
 *Source: Player's Handbook (2024) p. 95*  
 
-When a creature misses you with a melee attack roll, you can take a [[reaction xphb|Reaction]] and expend one Superiority Die to make a melee attack roll with a weapon or an [[unarmed strike xphb|Unarmed Strike]] against the creature. If you hit, add the Superiority Die to the attack's damage.
+When a creature misses you with a melee attack roll, you can take a [[reaction-xphb (variant-rules)]] and expend one Superiority Die to make a melee attack roll with a weapon or an [[Unarmed Strike Xphb]] against the creature. If you hit, add the Superiority Die to the attack's damage.
 
 ## 🔧 Deep Evaluation Improvements
 

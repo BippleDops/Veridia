@@ -45,7 +45,7 @@ world: Both
 
 This spell creates a magical link between a Large or larger iimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 334. Available in the SRD and the Free Rules (2024)*
 
@@ -80,3 +80,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

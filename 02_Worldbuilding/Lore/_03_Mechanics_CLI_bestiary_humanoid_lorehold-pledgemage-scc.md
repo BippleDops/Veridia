@@ -1,14 +1,14 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# /03 Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage-scc
+# /[[03 Mechanics]]/CLI/bestiary/humanoid/lorehold-pledgemage-scc
 
 ## Overview
 
 /03 Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage-scc represents a significant element of world history and culture, influencing events and beliefs across generations. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 ### Time Period
 This lore originates from a specific era in world history, when civilization faced unique challenges and opportunities. The events and knowledge from this time continue to resonate in the present day.
@@ -48,7 +48,7 @@ What few realize is that /03 Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage
 - **The Catalyst**: Triggers crucial events
 
 ### Important Locations
-Places mentioned in the lore that may still exist:
+[[Places]] mentioned in the lore that may still exist:
 - Sites of significant events
 - Hidden repositories of knowledge
 - Places of power or danger
@@ -111,7 +111,7 @@ How this knowledge can be used:
 
 ### Primary Sources
 - Ancient texts and inscriptions
-- Oral traditions maintained by specific groups
+- Oral traditions maintained by specific [[Groups]]
 - Artistic depictions in ruins or temples
 - Magical recordings or visions
 

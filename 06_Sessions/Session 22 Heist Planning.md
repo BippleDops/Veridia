@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_22_Heist_Planning
 
----
+- --
 title: Session 22 Heist Planning
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Aethermoor
----
+- --
 
 ### Mission Brief
 **Target:** Royal Crystal Vault, Sky Palace  
@@ -87,14 +87,14 @@ world: Aethermoor
 ### Player Feedback
 
 **Planning Phase Reactions:**
-*"Loved the collaborative planning - everyone contributed"*
-*"Felt like we were actually master criminals"*
-*"The intelligence gathering was as fun as the heist"*
+* "Loved the collaborative planning - everyone contributed"*
+* "Felt like we were actually master criminals"*
+* "The intelligence gathering was as fun as the heist"*
 
 **Execution Phase Reactions:**
-*"Great tension between following plan and adapting"*
-*"Combat in the vault was intense but quick"*
-*"Perfect mix of stealth, skill, and action"*
+* "Great tension between following plan and adapting"*
+* "Combat in the vault was intense but quick"*
+* "Perfect mix of stealth, skill, and action"*
 
 #### Lessons for Future Heists
 - **Plan for Improvisation:** Expect player creativity
@@ -103,13 +103,13 @@ world: Aethermoor
 - **Time Management:** Balance planning with execution
 - **Aftermath Importance:** Consequences matter as much as success
 
----
+- --
 
-*Heist sessions reward planning and teamwork while testing adaptability and character skills in high-stakes situations.*
+* Heist sessions reward planning and teamwork while testing adaptability and character skills in high-stakes situations.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -121,11 +121,11 @@ world: Aethermoor
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -145,3 +145,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

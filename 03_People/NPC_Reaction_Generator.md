@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Reaction_Generator
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC_Reaction_Generator
 
 ## Portrait
 
-![[portrait_npc_reaction_generator.png]]
+![[NPC_Reaction_Generator]]
 
 *Portrait reference for NPC_Reaction_Generator*
 
@@ -232,3 +234,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

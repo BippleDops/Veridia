@@ -1,6 +1,6 @@
 ---
 
-title: Crystal Cult Organization
+title: Crystal Cult [[Organization]]
 type: organization
 tags:
 - organization
@@ -30,7 +30,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -80,7 +80,7 @@ Crystal Cult Organization is a powerful order that threatens significant aspects
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

@@ -39,7 +39,7 @@ world: Both
 # Quandrix Trinket
 *Adventuring gear*  
 
-When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the [[trinket xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the [[trinket-xphb (items)]] in the "Player's Handbook", for your starting trinket.
 
 **Quandrix Trinkets**
 

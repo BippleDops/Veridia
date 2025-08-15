@@ -1,7 +1,7 @@
 ---
 
 title: The Eternal Senate
-type: Location
+type: [[location]]
 tags:
 - both
 - status/complete
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: 144
 MyCategory: Unknown
 MyContainer: None
@@ -31,15 +31,15 @@ danger_level: 7
 depth: 2200-2400 feet
 discovered: true
 factions:
-- '[[The Original Senators]]'
+- '[[The Original [[Senator]]s]]'
 - '[[Shadow Replacements]]'
 - '[[The Transcended]]'
 - '[[New Death Faction]]'
 government: Undead Parliamentary Democracy
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
-notable_npcs:
-- '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal]]
+notable_[[Npc]]s:
+- '[[People]]
   Speaker]]'
 - '[[Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
@@ -47,7 +47,7 @@ notable_npcs:
 obsidianUIMode: preview
 parent_location: '[[Parliament of Echoes]]'
 pressure_effects: Moderate
-ruler: '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The]]
+ruler: '[[People]]
   Eternal Speaker]]'
 services:
 - Legislative Sessions
@@ -89,7 +89,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -143,11 +143,11 @@ The chamber itself is a marvel of necromantic architecture, built within what wa
 
 ### The Democratic Covet
 
-When [[12_Research/D&D_Statblocks/The Great Drowning]] transformed most of the surface world's political class into various forms of undead, the surviving governmental structures faced a crisis: should the transformed politicians retain their positions? The Democratic Covet, signed in blood and ectoplasm, established that citizenship transcends biological status.
+When [[Great Drownin]] transformed most of the surface world's political class into various forms of undead, the surviving governmental structures faced a crisis: should the transformed politicians retain their positions? The Democratic Covet, signed in blood and ectoplasm, established that citizenship transcends biological status.
 
 ### The First Undead Session
 
-The initial post-drowning parliamentary session was chaotic, with undead senators forgetting parliamentary procedure, ghost representatives unable to physically vote, and zombie congressmen eating the legislation. However, over time, specialized protocols were developed to accommodate the unique needs of deceased democracy.
+The initial post-drowning parliamentary session was chaotic, with undead senators forgetting parliamentary procedure, ghost representatives unable to physically vote, and zombie congressmen eating the legislation. However, over [[Time]], specialized protocols were developed to accommodate the unique needs of deceased democracy.
 
 ### Evolution of Undead Rights
 
@@ -181,21 +181,21 @@ Private voting chambers designed to accommodate senators who cannot safely inter
 **Voting Methods:**
 - **Traditional:** Living senators use standard ballot systems
 - **Spectral:** Ghosts manifest their votes as ectoplasmic signatures
-- **Empathic:** Wraiths project their intentions directly
+- **Em[[path]]ic:** Wraiths project their intentions directly
 - **Symbolic:** Intelligent zombies arrange objects to indicate choices
 
 ### Memory Archive Vaults
 
-Extensive libraries containing the complete legislative history of both pre and post-drowning governments. The archives serve as institutional memory, particularly important since many undead senators have memory issues.
+Extensive [[Libraries]] containing the complete legislative history of both pre and post-drowning governments. [[The Archives]] serve as institutional memory, particularly important since many undead senators have memory issues.
 
 ### The Speaker's Throne
 
-Elaborately carved throne that serves as the seat of the Eternal Speaker, the parliament's presiding officer. The throne incorporates necromantic enchantments that allow it to accommodate speakers of any undead type while providing them with enhanced authority and mental clarity.
+Elaborately carved throne that serves as the seat of [[The Eternal Speaker]], the parliament's presiding officer. The throne incorporates necromantic enchantments that allow it to accommodate speakers of any undead type while providing them with enhanced authority and mental clarity.
 
 ### The Eternal Speaker
 
-**[[02 Worldbuilding/People/The Eternal Speaker|Full Details]]**
-The parliamentary leader who presides over sessions and maintains order. The current Speaker is a lich who died during the drowning but retained their political acumen and dedication to democratic principles.
+**[[People]]**
+The parliamentary leader who presides over sessions and maintains order. The current Speaker is a lich who died during [[The Drowning]] but retained their political acumen and dedication to democratic principles.
 
 **Powers and Responsibilities:**
 - Maintain order during debates
@@ -222,7 +222,7 @@ Senators whose original consciousness has been replaced by shadow entities, thou
 - Shadow integration into society
 - Expanding shadow rights and recognition
 - Reforming laws that discriminate against shadow entities
-- Secret coordination with [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]
+- Secret coordination with [[The Shadow Trade Network|[[02 Worldbuilding]]/[[Groups]]/The Shadow Trade Network]]
 
 #### The Transcended
 
@@ -244,7 +244,7 @@ Recently deceased individuals who were elected to represent the interests of the
 - Bridge-building between living and dead communities
 - Reform of outdated undeath policies
 
-#### The Shadow Citizenship Act
+#### The [[Shadow Citizenship Act]]
 
 Controversial legislation that would grant full citizenship rights to shadow entities, including shadow replacements of living people. The bill has created deep divisions within the senate.
 
@@ -264,11 +264,11 @@ Controversial legislation that would grant full citizenship rights to shadow ent
 
 Legislation designed to prevent exploitation of undead workers, particularly zombies and skeletons who are often treated as mindless labor.
 
-#### The Memory Preservation Initiative
+#### The Memory Preservation [[Initiative]]
 
 Funding bill for programs to help undead senators and citizens maintain their memories and cognitive function over time.
 
-#### Surface Contact Prohibition Renewal
+#### [[Surface Contact Prohibition]] Renewal
 
 Debate over whether to continue the ban on contact with surface world survivors, with growing opposition from moderate factions.
 
@@ -294,7 +294,7 @@ Debate over whether to continue the ban on contact with surface world survivors,
 
 ### Living Representatives
 
-**[[Senator Marina Tidecaller]]** - Living human (New Death)
+**[[Senator [[Marina Tidecaller]]]]** - Living human (New Death)
 - Youngest senator, elected to represent transition interests
 - Often serves as interpreter between living and undead factions
 - Advocates for death preparation and transition services
@@ -344,9 +344,9 @@ The emotional intensity of undead political passion creates psychic effects:
 
 A secret faction of living senators is working to gradually reduce undead political power, believing that death should disqualify political participation.
 
-### The Memory Merchants
+### The Memory [[Merchant]]s
 
-Several senators are secretly selling their pre-drowning memories to [[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
+Several senators are secretly selling their pre-drowning memories to [[[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
 
 ### The Resurrection Clause
 
@@ -358,29 +358,29 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 
 ### Political Intrigue
 
-1. **The Shadow Citizenship Vote:** The controversial Shadow Citizenship Act comes to a vote, and various factions are using increasingly desperate measures to influence the outcome. Players must navigate political manipulation, assassination attempts, and moral complexities to ensure a fair democratic process.
+1. **The Shadow Citizenship Vote:** The controversial Shadow Citizenship Act comes to a vote, and various factions are using increasingly desperate measures to influence the outcome. Players must navigate political manipulation, [[Assassin]]ation attempts, and moral complexities to ensure a fair democratic process.
 
 2. **The Missing Senators:** Three senators have disappeared in the past month, and their empty seats are affecting crucial votes. Investigation reveals a conspiracy that goes to the heart of undead democracy and threatens the entire governmental system.
 
 ### Investigation
 
-3. **The Memory Thief:** Someone is stealing the memories of undead senators, leaving them unable to remember their political positions or constituent needs. Players must identify the culprit and restore the stolen memories before the government collapses into chaos.
+3. **[[The [[Memory Thief]]]]:** Someone is stealing the memories of undead senators, leaving them unable to remember their political positions or constituent needs. Players must identify the culprit and restore the stolen memories before the government collapses into chaos.
 
 4. **The False Replacement:** A living senator claims that their undead colleague is actually a shadow replacement, but proving this requires delving into the dangerous politics of identity and consciousness in undead society.
 
-### Moral Dilemmas
+### [[Moral Dilemmas]]
 
-5. **The Resurrection Referendum:** Evidence emerges that mass resurrection of drowning victims is possible, but it would dissolve the undead government and potentially harm those who have adapted to undeath. Players must help decide whether to pursue resurrection or preserve undead society.
+5. **The Resurrection Referendum:** [[Evidence]] emerges that mass resurrection of drowning victims is possible, but it would dissolve the undead government and potentially harm those who have adapted to undeath. Players must help decide whether to pursue resurrection or preserve undead society.
 
 6. **The Living Rights Movement:** A growing movement of living citizens argues that undead senators cannot truly represent living interests. Players must mediate between groups while addressing legitimate concerns about representation and democracy.
 
 ### Social Challenges
 
-7. **The Diplomatic Crisis:** Foreign governments refuse to recognize the legitimacy of undead democracy, threatening trade and political relationships. Players must serve as diplomats to convince skeptical living governments that undead societies can be legitimate democracies.
+7. **The Diplomatic Crisis:** [[Foreign Governments]] refuse to recognize the legitimacy of undead democracy, threatening trade and political relationships. Players must serve as diplomats to convince skeptical living governments that undead societies can be legitimate democracies.
 
-8. **The Succession Crisis:** The Eternal Speaker is showing signs of final dissolution, and the various factions cannot agree on a replacement. Players must help manage the succession while preventing the government from falling into chaos.
+8. **[[The Succession Crisis]]:** The Eternal Speaker is showing signs of final dissolution, and the various factions cannot agree on a replacement. Players must help manage the succession while preventing the government from falling into chaos.
 
-## Random Encounters (d10)
+## [[[[Random Encounter]]s]] (d10)
 
 | Roll | Encounter |
 |------|-----------|
@@ -419,20 +419,20 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 
 The Eternal Senate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Eternal Senate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eternal Senate.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -450,6 +450,34 @@ The Eternal Senate is a notable location characterized by its unique features an
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -469,3 +497,39 @@ Key stop on textiles trade route
 
 - A corpse reveals the truth about the government
 - The authorities needs help investigating before the festival
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

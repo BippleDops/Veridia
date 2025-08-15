@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:35.412145'
 world: Both
 ---
 
-# [[azer sentinel xmm|Azer Sentinel]]
+# [[azer-sentinel-xmm (elemental)]]
 *Source: Monster Manual (2024) p. 25. Available in the SRD and the Free Rules (2024)*  
 
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
@@ -89,12 +89,12 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the azer takes 5 (d10) Fire damage unless the azer has the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [[bright light xphb|Bright Light]]\
-      \ in a 10-foot radius and [[dim light xphb|Dim Light]]\
+  - "desc": "The azer sheds [[Light Xphb]]\
+      \ in a 10-foot radius and [[Light Xphb]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # list-spells-school-evocation
@@ -22,7 +22,7 @@ The full nature of list-spells-school-evocation involves several interconnected 
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of list-spells-school-evocation trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to list-spells-school-evocation are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view list-spells-school-evocation through their own cultural lenses:
+Different [[Groups]] view list-spells-school-evocation through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of list-spells-school-evocation:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How list-spells-school-evocation has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate list-spells-school-evocation into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways list-spells-school-evocation might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,17 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #list-spells-school-evocation
+*Tags*: [[#General]] #worldbuilding #list-spells-school-evocation
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

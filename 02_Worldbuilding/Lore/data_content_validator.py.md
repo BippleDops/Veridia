@@ -1,8 +1,8 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# data/content validator.py
+# [[data]]/content validator.py
 
 ## Overview
 
@@ -22,7 +22,7 @@ The full nature of data/content validator.py involves several interconnected com
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of data/content validator.py trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to data/content validator.py are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view data/content validator.py through their own cultural lenses:
+Different [[Groups]] view data/content validator.py through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of data/content validator.py:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How data/content validator.py has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate data/content validator.py into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways data/content validator.py might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #data/content-validator.py
+*Tags*: [[#General]] #worldbuilding #data/content-validator.py

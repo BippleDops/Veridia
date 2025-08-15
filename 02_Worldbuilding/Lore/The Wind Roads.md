@@ -1,7 +1,7 @@
 ---
 
 title: The Wind Roads
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Hospitality Improvements
 
@@ -88,7 +88,7 @@ The Wind Roads is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of The Wind Roads as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Wind Roads.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -99,7 +99,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
-- A merchant needs help finding before winter
+- A [[Merchant]] needs help finding before winter
 - A prisoner has gone missing and truth emerges
 - The authorities needs help investigating before the new moon
 

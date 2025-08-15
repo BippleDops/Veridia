@@ -57,11 +57,11 @@ obsidianUIMode: preview
 **Themes:** Cosmic horror, investigation, sanity, forbidden knowledge  
 **Party Size:** 3-6 characters  
 
-The [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
+The [[Map of the Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
 
 ### The Growing Silence
 
-For centuries, the region now known as the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[Great Silence|02 Worldbuilding/Lore/Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
+For centuries, the region now known as the [[Map of the Whispering Expanse]] was simply called [[Great Silence|02 Worldbuilding/Lore/Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
 
 It started with isolated reports from the frontier town of [[Quiet Haven]]:
 - Residents hearing faint whispers in unknown languages during the night
@@ -82,10 +82,10 @@ What locals initially dismissed as imagination or stress has evolved into someth
 
 The regional government has tried multiple approaches to contain the situation:
 - **[[The Scholar's Guild]]** sent researchers who returned speaking in tongues
-- **[[02 Worldbuilding/Groups/The Order of the Silent Vigi|02 Worldbuilding/Groups/The Order Of The Silent Vigi]]** dispatched paladins who never returned at all
+- **[[The Order of the Silent Vigi]]** dispatched paladins who never returned at all
 - **[[Local Militia]]** established quarantine zones that were overrun from within
 
-Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] and discover the truth behind the phenomenon.
+Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[Map of the Whispering Expanse]] and discover the truth behind the phenomenon.
 
 ### Opening Hook
 
@@ -127,7 +127,7 @@ The remains of the [[The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's G
 - Specialized listening devices and recording equipment
 - Several devices are still functional but produce disturbing audio
 - **Arcana DC 18**: The recordings can induce temporary madness in listeners
-- Contains research on [[Frequency Manipulation]] and [[Dimensional Resoce]]
+- Contains research on [[Frequency Manipulation]] and [[Dimensional_Resoce]]
 
 #### The Whisper Winds
 
@@ -136,7 +136,7 @@ The remains of the [[The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's G
 - All creatures must make DC 16 Wisdom saves
 - Failure: Take 2d6 psychic damage and must use action next turn to listen
 - Success: Half damage, no compulsion
-- Characters with 0 hit points from psychic damage become [[Whisper Touched]]
+- Characters with 0 hit points from psychic damage become [[Whisper-Touched William's Oracle Shrine (Places)]]
 
 #### Reality Distortions
 
@@ -145,7 +145,7 @@ The remains of the [[The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's G
 - DC 18 Perception to notice architectural impossibilities
 - Navigation requires DC 20 Survival checks to avoid getting lost
 - Characters who fail by 5 or more are separated from the party
-- [[Whisper Touched]] creatures navigate these areas perfectly
+- [[Whisper-Touched William's Oracle Shrine (Places)]] creatures navigate these areas perfectly
 
 #### Silence Zones
 
@@ -158,7 +158,7 @@ The remains of the [[The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's G
 
 ### The Source Discovery
 
-As the party ventures deeper into the [[02 Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[The Resoce Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
+As the party ventures deeper into the [[Map of the Whispering Expanse]], they discover that the whispers originate from **[[The_Resoce_Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
 
 #### The Crater's Features
 
@@ -183,7 +183,7 @@ At the crater's center stands **[[The Observatory of Whispers]]**, a structure t
 **The Listening Chamber**
 - A spherical room with perfect acoustic properties
 - Amplifies the whispers to unbearable levels
-- Contains ancient [[Resoce Equipment]] still partially functional
+- Contains ancient [[Resoce_Equipment]] still partially functional
 - DC 25 Arcana: The equipment is designed to communicate with entities in other dimensions
 
 **The Star Map**

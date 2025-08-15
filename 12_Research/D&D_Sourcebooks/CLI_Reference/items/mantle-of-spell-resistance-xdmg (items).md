@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
 
-You have [[advantage xphb|Advantage]] on saving throws against spells while you wear this cloak.
+You have [[Advantage Xphb]] on saving throws against spells while you wear this cloak.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the SRD and the Free Rules (2024)*
 
@@ -85,3 +85,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

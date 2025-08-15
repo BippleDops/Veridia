@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hook-horror-spore-servant-oota-hook-horror-spore-servant-oota.svg)
 
-# [[hook horror spore servant oota|Hook Horror Spore Servant]]
+# [[Hook Horror Spore Servant Oota]]
 *Source: Out of the Abyss p. 68*  
 
 ```statblock

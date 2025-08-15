@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Feedback_Form
 
----
+- --
 title: Session Feedback Form
 type: Feedback Form
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Basic Session Information
 
@@ -199,12 +199,12 @@ SHARING PREFERENCES:
 □ Keep anonymous when shared
 □ Please discuss with me privately
 
-*Thank you for taking the time to provide feedback!*
-*Your input helps make the game better for everyone.*
+* Thank you for taking the time to provide feedback!*
+* Your input helps make the game better for everyone.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -216,11 +216,11 @@ SHARING PREFERENCES:
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -228,7 +228,7 @@ SHARING PREFERENCES:
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+* [Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
 ## 12_Research Specific Content
 
@@ -237,3 +237,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

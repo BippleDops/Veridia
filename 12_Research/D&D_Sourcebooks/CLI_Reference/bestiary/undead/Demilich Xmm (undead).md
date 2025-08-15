@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
 
-# [[demilich xmm|Demilich]]
+# [[Demilich Xmm (undead)]]
 *Source: Monster Manual (2024) p. 96*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,8 +100,8 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 "traits":
   - "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the demilich is destroyed, it reforms and regains all its [[hit points xphb|Hit Points]]\
-      \ in d10 days unless a [[wish xphb|Wish]] spell is\
+  - "desc": "If the demilich is destroyed, it reforms and regains all its [[hit-points-xphb (variant-rules)]]\
+      \ in d10 days unless a [[wish-xphb (spells)]] spell is\
       \ cast on its remains."
     "name": "Undead Restoration"
 "actions":
@@ -110,18 +110,18 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   - "desc": "Melee  or Ranged Attack Roll: +11, reach 5 ft. or range 120 ft. Hit:\
       \ 24 (7d6) Necrotic damage."
     "name": "Necrotic Burst"
-  - "desc": "Constitution Saving Throw: DC 19, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 19, each creature in a 30-foot [[Area of Effect Xphb]]\
       \ originating from the demilich. Failure: 70 (20d6) Psychic damage. Failure\
       \ or Success: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the demilich's next turn."
     "name": "Howl (Recharge 5-6)"
 "legendary_actions":
   - "desc": "Constitution Saving Throw: DC 19, one creature the demilich can see\
-      \ within 120 feet. Failure: The target's [[hit points xphb|Hit Point]]\
+      \ within 120 feet. Failure: The target's [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by 14 (4d6). Failure or Success: The demilich can't take\
       \ this action again until the start of its next turn."
     "name": "Energy Drain"
-  - "desc": "The demilich flies up to its [[fly speed xphb|Fly Speed]],\
+  - "desc": "The demilich flies up to its [[Fly Speed Xphb]],\
       \ shedding grave dust. Each creature within 5 feet of the demilich as it moves\
       \ is targeted once by the following effect. Constitution Saving Throw: DC\
       \ 19. Failure: The target has the [[conditions#Blinded|Blinded]]\
@@ -135,11 +135,11 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
       \ the following effects:"
     "name": ""
   - "desc": "- Enervating Domain. Whenever a creature other than the demilich\
-      \ or one of its allies finishes a [[long rest xphb|Long Rest]]\
+      \ or one of its allies finishes a [[long-rest-xphb]]\
       \ within 1 mile of the lair, the creature must succeed on a DC 20 Constitution\
-      \ saving throw or have its [[hit points xphb|Hit Point]]\
+      \ saving throw or have its [[hit-points-xphb (variant-rules)]]\
       \ maximum reduced by d4. This reduction lasts until the creature finishes a\
-      \ [[long rest xphb|Long Rest]] outside that\
+      \ [[long-rest-xphb]] outside that\
       \ area.  \n- Travel Ward. Creatures can't use teleportation or planar travel\
       \ to enter or exit the lair.  "
   - "desc": "If the demilich dies or moves its lair elsewhere, these effects end immediately."

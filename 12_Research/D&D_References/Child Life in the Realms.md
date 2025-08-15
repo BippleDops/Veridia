@@ -640,8 +640,8 @@ Understanding childhood in these realms provides crucial insight into how these 
 - [[Aethermoor Daily Rhythms]]
 - [[Working Class Routines]]
 - [[Noble Leisure Schedules]]
-- [[Educational Systems and Institutions]]
-- [[Family Structures and Child Rearing]]
+- [[Educational_Systems_and_Institutions]]
+- [[Family Structures and Child-Rearing]]
 - [[Coming-of-Age Traditions and Ceremonies]]
 
 ## Player-Facing Summary

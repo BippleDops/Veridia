@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_15_Exploration_Discovery
 
----
+- --
 title: Session 15 Exploration Discovery
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Discovery Overview
 **Location:** The Sunken Observatory, Deep Abyss  
@@ -130,23 +130,23 @@ world: Both
 
 ### Player Reactions
 
-*"The environmental storytelling was incredible - I felt like an archaeologist"*
+* "The environmental storytelling was incredible - I felt like an archaeologist"*
 
-*"Learning the cosmic context made everything click into place"*
+* "Learning the cosmic context made everything click into place"*
 
-*"The Guardian encounter was the perfect mix of combat and roleplay"*
+* "The Guardian encounter was the perfect mix of combat and roleplay"*
 
-*"I love how this changed our understanding of the entire campaign"*
+* "I love how this changed our understanding of the entire campaign"*
 
-*"The puzzle-solving felt rewarding and meaningful"*
+* "The puzzle-solving felt rewarding and meaningful"*
 
----
+- --
 
-*Exploration sessions reward curiosity and provide context that enriches the entire campaign narrative.*
+* Exploration sessions reward curiosity and provide context that enriches the entire campaign narrative.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -158,11 +158,11 @@ world: Both
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -170,7 +170,7 @@ world: Both
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+* [Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
 ## Prophecy Connection
 
@@ -194,3 +194,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

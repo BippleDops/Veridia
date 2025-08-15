@@ -34,7 +34,7 @@ world: Both
 # Difficulty Class
 *Source: Player's Handbook (2024) p. 366. Available in the SRD and the Free Rules (2024)* 
 
-A Difficulty Class (DC) is the target number for an ability check or a [[saving throw xphb|saving throw]].
+A Difficulty Class (DC) is the target number for an ability check or a [[Death Saving Throw Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

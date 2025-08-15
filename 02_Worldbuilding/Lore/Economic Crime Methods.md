@@ -1,7 +1,7 @@
 ---
 
 title: Economic Crime Methods
-type: Lore
+type: [[Lore]]
 tags:
 - economy
 - lore
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Overview
 
@@ -99,7 +99,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 #### Crystal Valuation Manipulation
 
 **Method**: Artificially depressing declared crystal values through false quality assessments
-**Participants**: Corrupt appraisers, crystal merchants, noble families
+**Participants**: Corrupt appraisers, crystal [[Merchant]]s, noble families
 **Savings**: 30-70% reduction in crystal-based taxes
 **Detection Risk**: Low (requires specialized magical analysis)
 
@@ -133,7 +133,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Method**: Systematic undervaluation of real estate for property tax purposes
 **Participants**: Property owners, corrupt assessors, complicit surveyors
 **Savings**: 20-50% reduction in annual property taxes
-**Detection Risk**: Low (requires comprehensive market analysis)
+**Detection Risk**: Low (requires comprehensive [[Market Analysis]])
 
 #### Pressure Manufacturing Hidden Production
 
@@ -143,15 +143,15 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Detection Risk**: High (requires sophisticated monitoring systems)
 
 **Concealment Methods**:
-- **Off-Book Production Facilities**: Hidden manufacturing locations using alternative pressure systems
+- **Off-Book Production Facilities**: Hidden manufacturing [[location]]s using alternative pressure systems
 - **Output Distribution**: Spreading production across multiple legitimate facilities to hide excess
-- **Time Shifting**: Running production during periods claimed as maintece downtime
+- **[[Time]] Shifting**: Running production during periods claimed as maintece downtime
 - **Quality Misrepresentation**: Claiming defective products to reduce taxable value
 
 #### Current Transport Fee Avoidance
 
 **Method**: Using unofficial transport networks to avoid current usage fees
-**Participants**: [[12_Research/D&D_Statblocks/The Current Merchants]], independent traders, smugglers
+**Participants**: [[The Current Merchants]], independent traders, [[Smuggler]]s
 **Savings**: 15-40% reduction in transport-related taxation
 **Detection Risk**: Moderate (patrol monitoring can detect unauthorized current usage)
 
@@ -181,7 +181,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 - **Jurisdiction Shopping**: Claiming residence in lower-tax realm while operating in higher-tax realm
 - **Double Deduction**: Claiming same business expenses as deductions in both tax systems
 
-#### International Trade Laundering
+#### [[International Trade]] Laundering
 
 **Method**: Moving taxable income through complex international transactions
 **Participants**: Major trading houses, international ficial networks, diplomatic personnel
@@ -228,7 +228,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Sophistication Level**: High
 
 **Complex Mechanisms**:
-- **Over-Invoicing**: Paying more than actual value for imports, difference goes to criminal organizations
+- **Over-Invoicing**: Paying more than actual value for imports, difference goes to [[Criminal [[Organization]]s]]
 - **Under-Invoicing**: Claiming lower import values, paying difference through criminal channels
 - **Phantom Shipments**: Creating documentation for shipments that never existed
 - **Quality Manipulation**: Claiming premium prices for standard goods, excess goes to criminals
@@ -248,7 +248,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 #### Crystal Energy Washing
 
-**Method**: Converting criminal profits through crystal energy markets and magical services
+**Method**: Converting criminal profits through crystal energy markets and [[Magical Services]]
 **Unique Advantage**: Magical transactions difficult to trace with conventional methods
 **Capacity**: Limited by available magical infrastructure
 **Sophistication Level**: Very High
@@ -329,7 +329,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 - **Family History**: Creating false relatives and family relationship documentation
 - **Property Records**: Establishing false property ownership and ficial history
 - **Professional Credentials**: Educational records, professional licenses, work history
-- **Social Connections**: Establishing relationships with real people who will vouch for false identity
+- **Social Connections**: Establishing relationships with real [[People]] who will vouch for false identity
 
 #### Commodity Monopolization
 
@@ -365,7 +365,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Impact**: Can cause market panics, create false investment booms, manipulate currency values
 **Profitability**: 100-1000% returns for those controlling information flows
 
-**Information Warfare Techniques**:
+**[[Information Warfare]] Techniques**:
 - **False Intelligence Distribution**: Spreading incorrect economic information to influence trading
 - **Selective Information Disclosure**: Revealing true information only to preferred clients
 - **Timing Manipulation**: Controlling when important economic information becomes public
@@ -395,7 +395,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 **Method**: False claims about business losses, property damage, or theft
 **Types**: Fire damage, theft, business interruption, equipment failure
-**Investigation Avoidance**: Using magical means to create convincing evidence of losses
+**Investigation Avoidance**: Using magical means to create convincing [[Evidence]] of losses
 **Annual Fraud Volume**: Estimated 10-20% of all insurance claims are partially or completely fraudulent
 
 #### Ponzi and Pyramid Investment Schemes
@@ -416,11 +416,11 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Method**: Systematic theft of bank deposits and institutional funds by insiders
 **Participants**: Bank officers, accounting specialists, regulatory inspectors
 **Concealment**: False accounting, document destruction, regulatory report manipulation
-**Detection Timeline**: Often years or decades before discovery due to sophisticated concealment
+**Detection [[Timeline]]**: Often years or decades before discovery due to sophisticated concealment
 
 #### Systematic Bribery Networks
 
-**Scope**: Coordinated corruption of multiple government officials for comprehensive regulatory avoidance
+**Scope**: Coordinated corruption of multiple [[Government Officia]]ls for comprehensive regulatory avoidance
 **Cost Structure**: 10-30% of saved costs for maintaining corruption network
 **Services Provided**: License approvals, inspection avoidance, tax reduction, regulatory interpretation
 **Organizational Structure**: Hierarchical networks matching government bureaucracy
@@ -440,7 +440,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 #### Guild and Professional Organization Corruption
 
-**Method**: Gaining control of professional organizations that regulate specific industries
+**Method**: Gaining control of [[Professional Organizations]] that regulate specific industries
 **Benefits**: Self-regulation allowing comprehensive criminal activity within industry standards
 **Techniques**: Leadership election manipulation, member intimidation, regulatory capture
 **Permanence**: Can provide decades of protection for criminal enterprises
@@ -454,10 +454,10 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 #### Industrial Espionage Operations
 
-**Targets**: New magical techniques, crystal processing methods, pressure technology, bio-luminescent innovations
+**Targets**: New magical techniques, crystal processing methods, [[Pressure Technology]], bio-luminescent innovations
 **Methods**: Employee corruption, break-in operations, reverse engineering, academic infiltration
 **Market Value**: 10,000-1,000,000 gp for cutting-edge technological innovations
-**International Scope**: Often involves cross-realm technology transfer and espionage
+**International Scope**: Often involves cross-realm [[Technology Transfer]] and espionage
 
 #### Patent and Innovation Fraud
 
@@ -468,14 +468,14 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 #### Communication System Infiltration
 
-**Method**: Gaining unauthorized access to magical communication networks for espionage and fraud
-**Applications**: Market manipulation, blackmail, military intelligence, diplomatic espionage
+**Method**: Gaining unauthorized access to magical [[Communication Networks]] for espionage and fraud
+**Applications**: Market manipulation, blackmail, [[Military Intelligence]], diplomatic espionage
 **Technical Requirements**: Advanced magical expertise and specialized equipment
 **Detection**: Extremely difficult due to magical rather than physical evidence
 
-#### Data Manipulation and Storage Crimes
+#### [[data]] Manipulation and Storage Crimes
 
-**Method**: Altering stored information in memory crystals, archive systems, and documentation repositories
+**Method**: Altering stored information in [[Memory Crystals]], archive systems, and documentation repositories
 **Impact**: Can falsify historical records, business transactions, legal documents, academic research
 **Participants**: Archivists, memory specialists, magical technicians, corrupt officials
 **Permanence**: Changes to magical storage can be nearly impossible to detect or reverse
@@ -491,7 +491,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 1. **The Robin Hood Dilemma**: Criminal economic schemes that benefit poor communities while harming wealthy elites
 2. **The Necessary Evil**: Economic crimes that prevent worse economic disasters or social problems
-3. **The System Corruption**: Discovering that legal economic systems are more harmful than criminal alternatives
+3. **The System Corruption**: Discovering that legal [[Economic System]]s are more harmful than criminal alternatives
 4. **The Whistle Blower**: Protecting individuals exposing economic crimes against powerful criminal organizations
 
 #### Infiltration and Undercover Operations
@@ -499,7 +499,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 1. **The Inside Job**: Players must infiltrate criminal organizations to gather evidence of economic crimes
 2. **The Deep Cover**: Long-term undercover operations requiring players to participate in criminal activities
 3. **The Double Agent**: Playing multiple criminal organizations against each other to expose economic crimes
-4. **The Corruption Network**: Mapping and exposing systematic government and professional corruption
+4. **The Corruption Network**: [[map]]ping and exposing systematic government and professional corruption
 
 ### Economic Crime Event Generator (d20)
 
@@ -528,7 +528,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 4: **Market Instability** - Economic crime causes price volatility and market uncertainty
 5: **Social Inequality** - Economic crime increases gap between rich and poor
 6: **Legal System Corruption** - Crime corrupts law enforcement and judicial systems
-7: **International Relations** - Cross-realm economic crime damages diplomatic relationships
+7: **[[International Relations]]** - Cross-realm economic crime damages diplomatic relationships
 8: **Cultural Damage** - Economic crime undermines traditional social institutions
 9: **Environmental Destruction** - Profit-driven crime causes environmental damage
 10: **Systemic Collapse** - Major economic crime threatens fundamental economic stability
@@ -543,7 +543,7 @@ Ancient criminal texts speak of the "Perfect Crime" - a theoretical economic fra
 
 Deep-sea criminal philosophers maintain that at extreme depths, the pressure makes economic crimes physically manifest, creating visible distortions in reality that reflect the moral distortions of ficial fraud. They claim that the most sophisticated economic criminals eventually become unable to exist at normal pressures.
 
-## DM Notes
+## [[DM Notes]]
 
 Use economic crimes as more than just background elements - make them active forces that shape the political and social landscape of your campaign. Economic crime can provide adventure hooks that combine mystery, politics, moral complexity, and social commentary.
 
@@ -551,7 +551,7 @@ Consider how different types of economic crime create different kinds of moral q
 
 The sophisticated nature of economic crime allows for complex plots that develop over multiple sessions, requiring careful investigation, strategic thinking, and difficult moral decisions. These crimes often involve legitimate institutions and respected individuals, creating ambiguity about who can be trusted.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

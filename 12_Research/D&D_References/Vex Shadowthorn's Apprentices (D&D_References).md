@@ -74,7 +74,7 @@ updated: '2025-08-13T01:18:37.020889+00:00'
 **Relationships**:
 - [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Surrogate parent figure, complex devotion
 - [[Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]] - Former lover, now information source
-- [[02 Worldbuilding/Places/The Gilded Serpent|02 Worldbuilding/Places/The Gilded Serpent]] - Manages operations there
+- [[The Gilded Serpent]] - Manages operations there
 - **Marcus "The Shade" Blackwood** - Mentor in combat techniques
 
 **Secrets**:
@@ -101,7 +101,7 @@ updated: '2025-08-13T01:18:37.020889+00:00'
 **Relationships**:
 - [[Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Former academic colleague
 - [[The Biomancers|02 Worldbuilding/Groups/The Biomancers]] - Uneasy alliance through research
-- [[Duchess Marina Ever Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]] - Secretly reports to her
+- [[Duchess Marina Ever-Drowning (D&D_References)]] - Secretly reports to her
 - Deep sea entities - Patron relationship
 
 **Secrets**:

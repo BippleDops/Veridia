@@ -36,14 +36,14 @@ world: Both
 
 Here are game statistics for the demon lords who have roles to play in this story. Beware! They are formidable opponents.
 
-- [[/03 Mechanics/CLI/bestiary/npc/baphomet mpmm|Baphomet]]  
-- [[/03 Mechanics/CLI/bestiary/npc/demogorgon mpmm|Demogorgon]]  
-- [[/03 Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm|Fraz-Urb'luu]]  
-- [[/03 Mechanics/CLI/bestiary/npc/grazzt mpmm|Graz'zt]]  
-- [[/03 Mechanics/CLI/bestiary/npc/juiblex mpmm|Juiblex]]  
-- [[/03 Mechanics/CLI/bestiary/npc/orcus mpmm|Orcus]]  
-- [[/03 Mechanics/CLI/bestiary/npc/yeenoghu mpmm|Yeenoghu]]  
-- [[/03 Mechanics/CLI/bestiary/npc/zuggtmoy mpmm|Zuggtmoy]]
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]  
+- [[Bestiary]]
 
 ## 🔧 Deep Evaluation Improvements
 

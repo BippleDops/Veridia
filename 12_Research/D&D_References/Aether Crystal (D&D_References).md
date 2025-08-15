@@ -62,9 +62,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Ally**: [[Portrait NPC Lady Willow Greenbough V2 Lady Willow Greenbough.svg]]
-- **Friend**: [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]
-- **Lover**: [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
+- **Ally**: [[Npc]]
+- **Friend**: [[Assets]]
+- **Lover**: [[Npc]]
 
 ## Plot Hooks
 

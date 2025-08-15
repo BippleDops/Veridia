@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # 02_Worldbuilding/Lore/The_Maintenance_Codex
@@ -8,7 +8,7 @@ tags: ['lore']
 
 02_Worldbuilding/Lore/The_Maintenance_Codex represents a significant element of world history and culture, influencing events and beliefs across generations. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 ### Time Period
 This lore originates from a specific era in world history, when civilization faced unique challenges and opportunities. The events and knowledge from this time continue to resonate in the present day.
@@ -19,7 +19,7 @@ Emerging from specific cultural traditions, this lore reflects the values, fears
 ## The Legend
 
 ### Common Version
-As told by most people:
+As told by most [[People]]:
 
 In ages past, when the world was younger and magic flowed more freely, there existed powers and knowledge now lost to time. 02_Worldbuilding/Lore/The_Maintenance_Codex tells of these ancient days and the lessons learned through triumph and tragedy.
 
@@ -34,7 +34,7 @@ Scholars who study this lore note several key elements:
 
 ### Hidden Truth
 What few realize is that 02_Worldbuilding/Lore/The_Maintenance_Codex contains more fact than fiction. The events described, while embellished through retelling, point to real occurrences that shaped the world. Understanding the truth behind the legend reveals:
-- Actual locations of historical importance
+- Actual [[location]]s of historical importance
 - True names and lineages of significant figures
 - Practical knowledge disguised as allegory
 - Warnings about specific dangers or opportunities
@@ -48,7 +48,7 @@ What few realize is that 02_Worldbuilding/Lore/The_Maintenance_Codex contains mo
 - **The Catalyst**: Triggers crucial events
 
 ### Important Locations
-Places mentioned in the lore that may still exist:
+[[Places]] mentioned in the lore that may still exist:
 - Sites of significant events
 - Hidden repositories of knowledge
 - Places of power or danger
@@ -111,7 +111,7 @@ How this knowledge can be used:
 
 ### Primary Sources
 - Ancient texts and inscriptions
-- Oral traditions maintained by specific groups
+- Oral traditions maintained by specific [[Groups]]
 - Artistic depictions in ruins or temples
 - Magical recordings or visions
 

@@ -1,7 +1,7 @@
 ---
 
-title: Timeline of Crimes
-type: Lore
+title: [[[[Time]]line]] of Crimes
+type: [[Lore]]
 tags:
 - lore
 - access/secret
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -108,7 +108,7 @@ The Timeline of Crimes serves as the comprehensive chronological framework for u
 
 This timeline recognizes that many supposedly independent historical events are actually connected elements of long-term conspiracy activities, with some criminal enterprises spanning centuries or millennia. By organizing these hidden activities chronologically, investigators can identify recurring patterns, understand how past crimes enable present conspiracies, and predict likely future criminal developments.
 
-The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [[The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the evidence patterns it created for future investigation.
+The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [[The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the [[Evidence]] patterns it created for future investigation.
 
 ### The Primordial Crimes
 
@@ -118,10 +118,10 @@ The earliest criminal activities occurred during the establishment of the fundam
 
 **The Original Betrayal**
 - **Date**: Unknown (Mythological Period)
-- **Crime Type**: Divine Betrayal and Reality Manipulation
+- **Crime Type**: Divine Betrayal and [[Reality Manipulation]]
 - **Perpetrators**: Primordial entities seeking to escape cosmic justice
 - **Description**: Ancient beings committed crimes against the fundamental forces of reality, establishing the precedent for using reality manipulation to escape consequences
-- **Evidence**: Traces of reality distortion in oldest magical sites, mythological accounts across multiple cultures
+- **Evidence**: Traces of [[Reality Distortion]] in oldest magical sites, mythological accounts across multiple cultures
 - **Connections**: Establishes pattern of using supernatural power to avoid accountability for criminal acts
 - **Long-term Impact**: Creates the infrastructure for reality-manipulation conspiracies that continue to the present day
 
@@ -155,11 +155,11 @@ Timeline of Crimes is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Timeline of Crimes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline of Crimes.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

@@ -1,4 +1,5 @@
 ---
+
 title: Master_Campaign_Index
 type: note
 tags:
@@ -12,6 +13,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Master_Campaign_Index
@@ -46,7 +48,7 @@ chronology: active
 
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
-See also: [[12_Research/D&D_References/Phase Omega Enhanced Index]]
+See also: [[INDEX]]
 
 ### 🌍 Worldbuilding (02_Worldbuilding/)
 ```dataview
@@ -70,24 +72,24 @@ SORT file.name ASC
 #### Core Systems
 
 **Environmental**:
-- [[Aquabyssos Survival Mechanics]] - Underwater survival
-- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
-- [[Crystal Plague Mechanics]] - Corruption system
+- [[Aquabyssos Survival Mechanics (D&D_References)]] - Underwater survival
+- [[12 Research]] - Transformation mechanics
+- [[Crystal Plague Mechanics (D&D_References)]] - Corruption system
 
 **Social/Political**:
-- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
-- [[NPC Reactions]] - Social mechanics
-- [[02 Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
+- [[12 Research]] - Reputation tracking
+- [[NPC Reactions (D&D_References)]] - Social mechanics
+- [[Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
-- [[Underwater Combat Rules]] - 3D combat
-- [[Pressure Combat Modifiers]] - Environmental effects
-- [[02 Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
+- [[Underwater_Combat]] - 3D combat
+- [[Pressure_Combat_Modifiers]] - Environmental effects
+- [[Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[02 Worldbuilding/Places/Aquabyssos]] - Madness tracking
-- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
+- [[12 Research]] - Dimensional rules
+- [[Places]] - Madness tracking
+- [[Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
 
@@ -126,10 +128,10 @@ SORT length(file.inlinks) DESC
 ### Cross-System References
 
 Every major system connects to:
-- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[01 Adventures/Quest Campaign Tracker.base]] - Quest management
-- [[02 Worldbuilding/Lore/Npc Directory.base]] - Character relationships
-- [[06 Sessions/Session Log.base]] - Historical record
+- [[12 Research]] - Live faction tracking
+- [[Quest Campaign Tracker]] - Quest management
+- [[Npc]] - Character relationships
+- [[Session Log]] - Historical record
 
 ### Data Flow
 
@@ -155,16 +157,16 @@ Reality Stability → Merger Events
   "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AC "Active"
 ### Session Prep
 
-1. Check [[06 Sessions/Session Log]] for last session
-2. Update [[12_Research/D&D_References/Faction Tracker]] standings
-3. Review [[01 Adventures/Quest Campaign Tracker]] status
-4. Check [[02 Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
-5. Generate encounters with [[12_Research/D&D_References/Encounter Builder]]
+1. Check [[Session Log]] for last session
+2. Update [[12 Research]] standings
+3. Review [[Quest Campaign Tracker]] status
+4. Check [[Npc]] for active NPCs
+5. Generate encounters with [[12 Research]]
 6. Prepare scenes with [[09 Templates/Scene Framing Templates]]
 
 ### World Building
 
-1. Use [[1 DM Toolkit/DM Board]] creation buttons
+1. Use [[DM Board]] creation buttons
 2. Follow [[05 Templates|05 Templates]] for consistency
 3. Update relevant trackers
 4. Cross-reference with existing content
@@ -172,10 +174,10 @@ Reality Stability → Merger Events
 
 ### Player Management
 
-1. Direct players to [[12_Research/D&D_References/Player Portal]]
-2. Use [[Quick Start Guide]] for new players
-3. Reference [[12_Research/D&D_References/Rules Reference]] for disputes
-4. Track progress in [[06 Sessions/Session Log]]
+1. Direct players to [[12 Research]]
+2. Use [[Quick Start Guide (D&D_References)]] for new players
+3. Reference [[12 Research]] for disputes
+4. Track progress in [[Session Log]]
 
 ---
 
@@ -207,24 +209,24 @@ updated: 2025-08-13T07:59:50.321845
 #### Core Systems
 
 **Environmental**:
-- [[Aquabyssos Survival Mechanics]] - Underwater survival
-- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
-- [[Crystal Plague Mechanics]] - Corruption system
+- [[Aquabyssos Survival Mechanics (D&D_References)]] - Underwater survival
+- [[12 Research]] - Transformation mechanics
+- [[Crystal Plague Mechanics (D&D_References)]] - Corruption system
 
 **Social/Political**:
-- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
-- [[NPC Reactions]] - Social mechanics
-- [[02 Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
+- [[12 Research]] - Reputation tracking
+- [[NPC Reactions (D&D_References)]] - Social mechanics
+- [[Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
-- [[Underwater Combat Rules]] - 3D combat
-- [[Pressure Combat Modifiers]] - Environmental effects
-- [[02 Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
+- [[Underwater_Combat]] - 3D combat
+- [[Pressure_Combat_Modifiers]] - Environmental effects
+- [[Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[02 Worldbuilding/Places/Aquabyssos]] - Madness tracking
-- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
+- [[12 Research]] - Dimensional rules
+- [[Places]] - Madness tracking
+- [[Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
 
@@ -240,10 +242,10 @@ updated: 2025-08-13T07:59:50.321845
 
 ### Cross-System References
 
-- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[01 Adventures/Quest Campaign Tracker.base]] - Quest management
-- [[02 Worldbuilding/Lore/Npc Directory.base]] - Character relationships
-- [[06 Sessions/Session Log.base]] - Historical record
+- [[12 Research]] - Live faction tracking
+- [[Quest Campaign Tracker]] - Quest management
+- [[Npc]] - Character relationships
+- [[Session Log]] - Historical record
 
 ### Data Flow
 
@@ -277,16 +279,16 @@ updated: 2025-08-13T07:59:50.321845
 ## Semantic Connections
 
 *Related concepts and locations:*
-- [[02 Worldbuilding/Lore/insect-plague-xphb]]
-- [[02 Worldbuilding/Lore/secondary-tables-arcane-matters-xge]]
-- [[02 Worldbuilding/Lore/wizard-xphb-school-of-enchantment]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/githzerai-groups-githzerai-mission-purpose-mtf]]
-- [[02 Worldbuilding/Lore/trade-goods-phb]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/lists/List Spells Optional Features Gift of the Depths Xphb]]
-- [[02 Worldbuilding/Lore/Shadow Broker Maximian Darkmarket]]
-- [[02 Worldbuilding/Groups/guild-artisan-guild-merchant-variant]]
-- [[12_Research/D&D_References/Advocate Lightfight]]
-- [[02 Worldbuilding/Groups/Deputy Archmerchant Scroll Deepmind]]
+- [[Insect Plague Xphb]]
+- [[Secondary Tables Arcane Matters Xge]]
+- [[Wizard Xphb School of Enchantment]]
+- [[Groups]]
+- [[Trade_Goods]]
+- [[Optional Features]]
+- [[Shadow Broker Maximian Darkmarket]]
+- [[Groups]]
+- [[12 Research]]
+- [[Groups]]
 
 ## DM Notes
 
@@ -297,5 +299,15 @@ updated: 2025-08-13T07:59:50.321845
 - Connections to overarching campaign themes
 
 ## Related
-- [[02 Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02 Worldbuilding/Lore/Aethermoor World Guide]]
+- [[Aquabyssos World Guide]]
+- [[Aethermoor World Guide]]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

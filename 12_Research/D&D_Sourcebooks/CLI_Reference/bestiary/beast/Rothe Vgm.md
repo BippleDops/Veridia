@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rothe-vgm-rothe-vgm.svg)
 
-# [[rothe vgm|Rothé]]
+# [[rothe-vgm (beast)]]
 *Source: Volo's Guide to Monsters p. 208*  
 
 Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out to a range of 30 feet.

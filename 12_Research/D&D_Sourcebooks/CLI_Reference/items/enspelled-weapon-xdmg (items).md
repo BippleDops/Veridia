@@ -40,15 +40,15 @@ world: Both
 
 **Items in this group:**
 
-- [[enspelled weapon cantrip xdmg|Enspelled Weapon (Cantrip)]]
-- [[enspelled weapon level 1 xdmg|Enspelled Weapon (Level 1)]]
-- [[enspelled weapon level 2 xdmg|Enspelled Weapon (Level 2)]]
-- [[enspelled weapon level 3 xdmg|Enspelled Weapon (Level 3)]]
-- [[enspelled weapon level 4 xdmg|Enspelled Weapon (Level 4)]]
-- [[enspelled weapon level 5 xdmg|Enspelled Weapon (Level 5)]]
-- [[enspelled weapon level 6 xdmg|Enspelled Weapon (Level 6)]]
-- [[enspelled weapon level 7 xdmg|Enspelled Weapon (Level 7)]]
-- [[enspelled weapon level 8 xdmg|Enspelled Weapon (Level 8)]]
+- [[Enspelled Weapon Cantrip Xdmg]]
+- [[Enspelled Weapon Level 1 Xdmg]]
+- [[enspelled-weapon-level-2-xdmg (items)]]
+- [[enspelled-weapon-level-3-xdmg (items)]]
+- [[enspelled-weapon-level-4-xdmg (items)]]
+- [[enspelled-weapon-level-5-xdmg (items)]]
+- [[Enspelled Weapon Level 6 Xdmg]]
+- [[Enspelled Weapon Level 7 Xdmg]]
+- [[enspelled-weapon-level-8-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
 
@@ -91,3 +91,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

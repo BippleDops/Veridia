@@ -55,15 +55,15 @@ world: Both
 - **Components:** V, S, M (a legume seed)
 - **Duration:** Concentration, up to 1 minute
 
-A [[line-area-of-effect-xphb|Line]] of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the [[line-area-of-effect-xphb|Line]] must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the [[line-area-of-effect-xphb|Line]]. A creature that ends its turn in the [[line-area-of-effect-xphb|Line]] must make the same save.
+A [[Area of Effect Xphb]] of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the [[Area of Effect Xphb]] must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the [[Area of Effect Xphb]]. A creature that ends its turn in the [[Area of Effect Xphb]] must make the same save.
 
-Any creature in the [[line-area-of-effect-xphb|Line]] must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
+Any creature in the [[Area of Effect Xphb]] must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
 
 The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a  chance to extinguish them.
 
-As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can change the direction in which the [[line-area-of-effect-xphb|Line]] blasts from you.
+As a [[Action Xphb]] on your later turns, you can change the direction in which the [[Area of Effect Xphb]] blasts from you.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 282. Available in the SRD and the Free Rules (2024)*
 
@@ -122,3 +122,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[gust-of-wind-xphb (spells)-phb]]` in CLI_Reference/spells/

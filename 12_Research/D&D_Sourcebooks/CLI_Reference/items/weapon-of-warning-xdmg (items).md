@@ -109,7 +109,7 @@ The weapon magically awakens each subject who is sleeping naturally when combat 
 
 ## Supernatural Readiness
 
-Each subject has [[advantage xphb|Advantage]] on its [[initiative xphb|Initiative]] rolls.
+Each subject has [[Advantage Xphb]] on its [[Initiative Xphb]] rolls.
 
 **Variants**:
 - [Antimatter Rifle of Warning](#Antimatter%20Rifle%20of%20Warning)

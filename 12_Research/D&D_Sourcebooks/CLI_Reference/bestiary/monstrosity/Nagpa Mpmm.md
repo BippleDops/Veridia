@@ -45,7 +45,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nagpa-mpmm-nagpa-mpmm.svg)
 
-# [[nagpa mpmm|Nagpa]]
+# [[nagpa-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -100,14 +100,14 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\nAt will: [[detect magic xphb|detect magic]],\
-      \ [[mage hand xphb|mage hand]], [[message xphb|message]],\
-      \ [[minor illusion xphb|minor illusion]]\n\n2/day\
-      \ each: [[fireball xphb|fireball]], [[fly xphb|fly]],\
-      \ [[hold person xphb|hold person]], [[suggestion xphb|suggestion]],\
-      \ [[wall of fire xphb|wall of fire]]\n\n1/day each:\
-      \ [[dominate person xphb|dominate person]], [[etherealness xphb|etherealness]],\
-      \ [[befuddlement xphb|feeblemind]]"
+      \ spellcasting ability (spell save DC 20):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]], [[Sage Xphb]],\
+      \ [[Minor Illusion Xphb]]\n\n2/day\
+      \ each: [[fireball-xphb (spells)]], [[fly-xphb (spells)]],\
+      \ [[Hold Person Xphb]], [[Suggestion Xphb]],\
+      \ [[wall-of-fire-xphb (spells)]]\n\n1/day each:\
+      \ [[Dominate Person Xphb]], [[Etherealness Xphb]],\
+      \ [[befuddlement-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\

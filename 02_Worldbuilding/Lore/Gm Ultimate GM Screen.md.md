@@ -1,9 +1,9 @@
 ---
 
-title: Gm Ultimate GM Screen.md
+title: Gm [[Ultimate_GM_Screen]]]]
 aliases:
-- 06 GM Resources Ultimate GM Screenmd
-type: lore
+- 06 [[Gm Resources]] Ultimate GM Screenmd
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -63,7 +63,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 06_GM_Resources/Ultimate_GM_Screen.md involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 06_GM_Resources/Ultimate_GM_Screen.md trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -102,7 +102,7 @@ Connected to 06_GM_Resources/Ultimate_GM_Screen.md are various other important e
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 06_GM_Resources/Ultimate_GM_Screen.md through their own cultural lenses:
+Different [[Groups]] view 06_GM_Resources/Ultimate_GM_Screen.md through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -171,7 +171,7 @@ The current state of 06_GM_Resources/Ultimate_GM_Screen.md:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 06_GM_Resources/Ultimate_GM_Screen.md has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -204,7 +204,7 @@ Ways to incorporate 06_GM_Resources/Ultimate_GM_Screen.md into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -225,7 +225,7 @@ How to adjust for different games:
 Ways 06_GM_Resources/Ultimate_GM_Screen.md might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -244,7 +244,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -267,7 +267,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #06_gm_resources/ultimate_gm_screen.md
+*Tags*: [[#General]] #worldbuilding #06_gm_resources/ultimate_gm_screen.md
 
 ## Cultural Impact
 

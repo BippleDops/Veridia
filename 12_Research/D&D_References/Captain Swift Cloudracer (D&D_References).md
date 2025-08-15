@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Child**: [[Portrait NPC the Throne Chamber of Eternal Bubbles the Throne Chamber of Eternal Bubbles.svg]]
+- **Child**: [[Npc]]
 - **Friend**: [[Captain Marrow Drinker]]
-- **Lover**: [[Portrait NPC Financial Corruption V1 Financial Corruption.svg]]
-- **Student**: [[Quest   The Corruption Cure]]
-- **Victim**: [[Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg]]
+- **Lover**: [[Npc]]
+- **Student**: [[Quest - The Corruption Cure_1 (01_Adventures)]]
+- **Victim**: [[Npc]]
 
 ## Plot Hooks
 
@@ -71,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

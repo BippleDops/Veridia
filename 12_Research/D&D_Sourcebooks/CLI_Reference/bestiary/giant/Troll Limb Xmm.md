@@ -45,7 +45,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troll-limb-xmm-troll-limb-xmm.svg)
 
-# [[troll limb xmm|Troll Limb]]
+# [[Troll Limb Xmm]]
 *Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -91,15 +91,15 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The limb regains 5 [[hit points xphb|Hit Points]]\
+  - "desc": "The limb regains 5 [[hit-points-xphb (variant-rules)]]\
       \ at the start of each of its turns. If the limb takes Acid or Fire damage,\
       \ this trait doesn't function on the limb's next turn. The limb dies only if\
-      \ it starts its turn with 0 [[hit points xphb|Hit Points]]\
+      \ it starts its turn with 0 [[hit-points-xphb (variant-rules)]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "The limb uncannily has the same senses as a whole troll. If the limb\
       \ isn't destroyed within 24 hours, roll d12. On a 12, the limb turns into a\
-      \ [[troll xmm|Troll]]. Otherwise, the limb\
+      \ [[Troll Xmm]]. Otherwise, the limb\
       \ withers away."
     "name": "Troll Spawn"
 "actions":

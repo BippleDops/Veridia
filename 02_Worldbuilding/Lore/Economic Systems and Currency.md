@@ -1,7 +1,7 @@
 ---
 
-title: Economic Systems and Currency
-type: Lore
+title: [[Economic System]]s and Currency
+type: [[Lore]]
 tags:
 - economy
 - lore
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,23 +101,23 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Royal Crowns (Standard Currency)
 
-**Issuing Authority**: The Crystal Throne
-**Backing**: Royal treasury gold reserves and crystal reserves
+**Issuing Authority**: The [[Crystal Throne]]
+**Backing**: [[Royal Treasury]] gold reserves and crystal reserves
 **Denominations**:
 - **Platinum Crown** (1000 gp value) - Used for major transactions, property purchases
 - **Gold Crown** (100 gp value) - Standard high-value currency
 - **Silver Crown** (10 gp value) - Common daily transactions
 - **Copper Crown** (1 gp value) - Small purchases, wages
-- **Crystal Shards** (0.1 gp value) - Fractional currency, change
+- **[[Crystal Shard]]s** (0.1 gp value) - Fractional currency, change
 
 **Special Features**: 
-- Embedded with authentication crystals that glow when genuine
+- [[Embed]]ded with authentication crystals that glow when genuine
 - Magically enhanced to resist counterfeiting
 - Exchange rate fluctuates based on crystal market stability
 
 #### Crystal Notes (Trade Currency)
 
-**Issuing Authority**: [[Merchant Princes]] Council
+**Issuing Authority**: [[[[Merchant]] Princes]] Council
 **Backing**: High-grade crystal reserves held in secure vaults
 **Usage**: Preferred for long-distance trade and large transactions
 **Value**: Directly tied to crystal purity and quality ratings
@@ -128,14 +128,14 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - Self-authenticating through crystal resoce
 - Accepted across multiple kingdoms
 
-**Disadvantages**:
-- Susceptible to crystal corruption affecting value
+**[[Disadvantage]]s**:
+- Susceptible to [[Crystal Corruption]] affecting value
 - Complex authentication requires magical expertise
 - Value fluctuations based on crystal market conditions
 
 #### Goldwave Commercial Credits (Private Currency)
 
-**Issuing Authority**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]'s ficial network
+**Issuing Authority**: [[12 Research]]'s ficial network
 **Backing**: Diversified portfolio of investments and precious metals
 **Usage**: Internal transactions within Goldwave business empire
 **Special Features**: 
@@ -145,7 +145,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Imperial Pearls (Standard Currency)
 
-**Issuing Authority**: [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]]
+**Issuing Authority**: [[Thalassius the Wise]]
 **Backing**: Ancient treasure vaults and territorial control
 **Denominations**:
 - **Black Pearl** (1000 gp equivalent) - Imperial transactions
@@ -162,7 +162,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Current Bonds (Investment Currency)
 
-**Issuing Authority**: [[12_Research/D&D_Statblocks/The Current Merchants]] (Nereon Swiftcurrent)
+**Issuing Authority**: [[The Current Merchants]] (Nereon Swiftcurrent)
 **Backing**: Future transport capacity and exclusive route access
 **Usage**: Payment for premium shipping services and route investments
 **Unique Features**:
@@ -180,13 +180,13 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - Requires special equipment to verify authenticity
 - Naturally increases in value at greater depths
 
-#### The Meridian Exchange
+#### [[The Meridian Exchange]]
 
-**Location**: [[Port Meridian]]
+**[[location]]**: [[Port Meridian]]
 **Function**: Primary currency conversion hub between realms
 **Daily Volume**: 500,000+ gp equivalent in currency exchanges
 **Services**:
-- Real-time exchange rate determination
+- Real-[[Time]] exchange rate determination
 - Currency authentication and verification
 - Bulk conversion for merchant operations
 - Hedging instruments for exchange rate protection
@@ -197,7 +197,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - 1 Current Bond = Variable based on route demand
 - 1 Pressure Coin = 2-5 Pearl equivalents (depth dependent)
 
-#### Deep Vault Banking Consortium
+#### [[Deep Vault Banking Consortium]]
 
 **Controller**: [[Banker Titus Goldcurrent]]
 **Services**: 
@@ -209,11 +209,11 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Shadow Coins
 
-**Origin**: [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+**Origin**: [[The Whisper Syndicate|[[02 Worldbuilding]]/[[Groups]]/The Whisper Syndicate]]
 **Backing**: Criminal enterprise profits and stolen goods
 **Usage**: Untraceable transactions for illegal goods and services
 **Features**:
-- No magical authentication (to avoid detection)
+- No [[Magical Authenticatio]]n (to avoid detection)
 - Accepted only within criminal networks
 - Exchange rate varies dramatically based on law enforcement activity
 - Often backed by specific stolen goods or contraband
@@ -226,7 +226,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 **Dangers**:
 - Exposure causes physical and mental corruption
 - Extremely illegal in both realms
-- Sought after by dangerous cults and criminal organizations
+- Sought after by dangerous cults and [[Criminal [[Organization]]s]]
 - Can be traced by law enforcement using specialized magic
 
 #### Void Tokens
@@ -240,8 +240,8 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### House Goldwave Ficial Services
 
-**Founder**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
-**Specialty**: International trade fice and legitimate business investments
+**Founder**: [[12 Research]]
+**Specialty**: [[International Trade]] fice and legitimate business investments
 **Assets**: 2+ million gp in diversified holdings
 **Services**:
 - Trade route ficing
@@ -251,8 +251,8 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - Educational institution support
 
 **Secret Services**:
-- Funding for [[The Order of the Shattered Crown]]
-- Temporal magic research investments
+- Funding for [[The [[Order of the Shattered Crown]]]]
+- [[Temporal Magic Research]] investments
 - Shard acquisition ficing
 - Revolutionary planning support
 
@@ -285,7 +285,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - Trade route monopoly enforcement
 - Competitor acquisition or elimination
 - Government bribery and influence
-- Economic warfare coordination
+- [[Economic Warfare]] coordination
 
 #### Insurance and Risk Management
 
@@ -318,13 +318,13 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 **Route Development Bonds**
 - **Purpose**: Ficing new trade route exploration and development
 - **Returns**: Share of route profits for successful developments
-- **Risks**: Route failure, political changes, environmental hazards
-- **Major Players**: [[12_Research/D&D_Statblocks/The Current Merchants]], independent exploration companies
+- **Risks**: Route failure, political changes, [[Environmental Hazards]]
+- **Major Players**: [[The Current Merchants]], independent exploration companies
 
 **Political Stability Derivatives**
 - **Function**: Betting on political outcomes and their economic effects
 - **Usage**: Hedging against political risk, speculating on policy changes
-- **Participants**: Major merchants, criminal organizations, foreign governments
+- **Participants**: Major merchants, criminal organizations, [[Foreign Governments]]
 - **Regulation**: Technically illegal but widely practiced
 
 #### Market Cornering
@@ -341,7 +341,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 **Effects**: Can destabilize economies, benefit specific trade relationships
 **Regulation**: Minimal due to complexity and institutional power
 
-#### Information Warfare
+#### [[Information Warfare]]
 
 **Process**: Strategic release or suppression of market-moving information
 **Methods**: Rumor campaigns, intelligence networks, bribery of officials
@@ -397,20 +397,20 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - **Infrastructure Investment**: Building trade facilities and transportation networks
 - **Education Funding**: Training programs for trade skills and magical abilities
 - **Research Grants**: Supporting technological and magical advancement
-- **Diplomatic Trade Agreements**: Negotiating favorable trade terms with other regions
+- **Diplomatic Trade Agreements**: Negotiating favorable trade terms with other [[region]]s
 
-#### Crystal Coast Commercial District
+#### Crystal Coast [[Commercial District]]
 
 **Economic Focus**: Crystal processing, luxury goods manufacturing, high-end services
 **Currency Preference**: Crystal Notes and high-denomination Crowns
-**Major Players**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]], Crystal Refinement Guilds
-**Unique Features**: Premium pricing, exclusive clientele, advanced magical services
+**Major Players**: [[12 Research]], Crystal Refinement Guilds
+**Unique Features**: Premium pricing, exclusive clientele, advanced [[Magical Services]]
 
 #### Port Districts
 
-**Economic Focus**: Trade facilitation, maritime services, international commerce  
+**Economic Focus**: Trade facilitation, maritime services, [[International Commerce]]  
 **Currency Preference**: Mixed currencies with heavy exchange activity
-**Major Players**: [[Merchant Princes]], independent traders, foreign merchants
+**Major Players**: [[Merchant Princes]], independent traders, [[Foreign Merchants]]
 **Unique Features**: 24-hour operations, multi-cultural business practices, competitive pricing
 
 #### Agricultural Regions
@@ -423,7 +423,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 **Economic Focus**: Government services, luxury consumption, political commerce
 **Currency Preference**: Imperial Pearls, prestige transactions
-**Major Players**: [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]], noble houses, government contractors
+**Major Players**: [[Thalassius the Wise]], [[Noble House]]s, government contractors
 **Unique Features**: Protocol-heavy transactions, status-based pricing, political influence factors
 
 #### Deep Industrial Complexes
@@ -437,7 +437,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 **Economic Focus**: Transportation services, navigation, inter-zone commerce
 **Currency Preference**: Current Bonds, service exchange systems
-**Major Players**: [[12_Research/D&D_Statblocks/The Current Merchants]], navigation specialists, transport guilds
+**Major Players**: [[The Current Merchants]], navigation specialists, transport guilds
 **Unique Features**: Dynamic pricing based on current conditions, subscription-based services, route monopolies
 
 #### Crisis Response Protocols
@@ -468,7 +468,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 **Cause**: Military conflict disrupted major trade routes
 **Impact**: 300% increase in transport costs, food shortages in both realms
 **Resolution**: Peace treaty restored trade, but new route monopolies emerged
-**Lasting Effects**: [[12_Research/D&D_Statblocks/The Current Merchants]] domice, increased military escort costs
+**Lasting Effects**: [[The Current Merchants]] domice, increased military escort costs
 
 #### The Shadow Market Collapse (3 years ago)
 
@@ -495,7 +495,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Political Economy Adventures
 
-1. **The Trade War**: Players must navigate economic warfare between major merchant houses while protecting innocent traders caught in the crossfire.
+1. **The [[Trade War]]**: Players must navigate economic warfare between major merchant houses while protecting innocent traders caught in the crossfire.
 
 2. **The Currency Manipulation**: A foreign power is artificially manipulating exchange rates to destabilize the local economy, requiring careful investigation and diplomatic intervention.
 
@@ -507,7 +507,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 2. **The Protection Racket**: Criminal organizations are demanding payment from local merchants, and players must decide whether to pay, fight, or find alternative solutions.
 
-3. **The Black Market Investigation**: Law enforcement wants players to infiltrate criminal trading networks, requiring them to balance maintaining cover with gathering evidence.
+3. **The Black Market Investigation**: Law enforcement wants players to infiltrate criminal trading networks, requiring them to balance maintaining cover with gathering [[Evidence]].
 
 #### Random Market Events (d20)
 
@@ -520,7 +520,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 18-19: **Natural Disasters** - Weather or accidents affect economic systems
 20: **Major Crisis** - Significant economic upheaval requiring immediate attention
 
-#### Economic NPC Motivations (d12)
+#### Economic [[Npc]] Motivations (d12)
 
 1-2: **Profit Maximization** - Seeking highest possible ficial returns
 3-4: **Market Control** - Attempting to dominate specific economic sectors
@@ -534,7 +534,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 1: **Authentication Crisis** - Counterfeit currency detected in player transactions
 2: **Exchange Rate Crash** - Sudden devaluation affects player wealth
 3: **Bank Failure** - Institution holding player funds collapses
-4: **Trade Route Closure** - Political events block important commercial pathways
+4: **Trade Route Closure** - Political events block important commercial [[path]]ways
 5: **Criminal Involvement** - Players' business partners revealed as criminals
 6: **Government Investigation** - Tax authorities scrutinize player fices
 7: **Insurance Fraud** - Claims denied due to suspected fraudulent activity
@@ -550,15 +550,15 @@ The economic systems spanning Aethermoor and Aquabyssos represent a complex web 
 
 Ancient texts speak of the first currencies emerging from the depths, where pressure-forged coins were said to contain the memories of the deep-sea gods. Surface dwellers developed crystal-backed money as a response, believing that the magical resoce of crystals could protect wealth from the corrupting influence of the abyss.
 
-Legend holds that the most successful merchants are those who can speak the hidden languages of money - understanding not just exchange rates and profit margins, but the deeper currents of desire, fear, and ambition that truly drive economic systems. Some say that in the deepest vaults of the richest banks, ancient coins still whisper secrets of forgotten civilizations and lost treasures.
+Legend holds that the most successful merchants are those who can speak the hidden languages of money - understanding not just exchange rates and profit margins, but the deeper currents of de[[Sire]], fear, and ambition that truly drive economic systems. Some say that in the deepest vaults of the richest banks, ancient coins still whisper secrets of forgotten civilizations and lost treasures.
 
-## DM Notes
+## [[DM Notes]]
 
-Use the economic systems as a foundation for complex political intrigue, allowing players to engage with power structures through ficial means rather than just combat. The multi-layered currency systems provide opportunities for sophisticated plots involving market manipulation, cross-realm politics, and criminal enterprises. Consider how economic events can drive campaign storylines and create consequences that extend far beyond immediate ficial gain or loss.
+Use the economic systems as a foundation for complex political intrigue, allowing players to engage with [[Power Structures]] through ficial means rather than just combat. The multi-layered currency systems provide opportunities for sophisticated plots involving market manipulation, cross-realm politics, and criminal enterprises. Consider how economic events can drive campaign storylines and create consequences that extend far beyond immediate ficial gain or loss.
 
 The criminal ficial networks offer alternative paths for character development and plot advancement, while the legitimate economic systems provide a framework for understanding how society functions and how player actions might affect broader political and social stability.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

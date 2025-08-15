@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # 02_Worldbuilding/Items/Divination_Tools
@@ -22,7 +22,7 @@ The full nature of 02_Worldbuilding/Items/Divination_Tools involves several inte
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Items/Divination_Tools trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 02_Worldbuilding/Items/Divination_Tools are various other important
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Items/Divination_Tools through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Items/Divination_Tools through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02_Worldbuilding/Items/Divination_Tools:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Items/Divination_Tools has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02_Worldbuilding/Items/Divination_Tools into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Items/Divination_Tools might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/items/divination_tools
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/items/divination_tools

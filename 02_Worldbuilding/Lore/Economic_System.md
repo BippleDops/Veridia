@@ -13,14 +13,14 @@ improvements: 20
 ---
 
 ### Trade Route #51
-**Origin**: Port Meridian
-**Destination**: Crystal Caverns
+**Origin**: [[Port Meridian]]
+**Destination**: [[Crystal Caverns]]
 **Goods**: Rare metals
 **Hazards**: Monsters
 **Profit Margin**: 109%
 
 ### Trade Route #16
-**Origin**: The Sunken Palace
+**Origin**: [[The Sunken Palace]]
 **Destination**: The Sunken Palace
 **Goods**: Silk and textiles
 **Hazards**: Weather
@@ -166,7 +166,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -190,7 +190,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -208,7 +208,7 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -227,12 +227,12 @@ Mentioned in The Second Prophecy of Shadows
 - Strange sightings suggest a conspiracy
 - Someone is blackmailing a artifact for revenge
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_humanoid_priest-acolyte-xmm - Quick Reference
 
 ## Key Info

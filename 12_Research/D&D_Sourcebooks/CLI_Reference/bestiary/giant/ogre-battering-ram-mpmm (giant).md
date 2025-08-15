@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-battering-ram-mpmm-ogre-battering-ram-mpmm.svg)
 
-# [[ogre battering ram mpmm|Ogre Battering Ram]]
+# [[ogre-battering-ram-mpmm (giant)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -68,7 +68,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[[hide armor xphb|hide armor]]"
+"ac_class": "[[Armor Xphb]]"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "-1"

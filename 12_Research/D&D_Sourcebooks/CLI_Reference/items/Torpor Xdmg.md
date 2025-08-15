@@ -42,7 +42,7 @@ world: Both
 - **Properties**: [[item properties#Poison|Poison]]
 - **Cost**: 600 gp
 
-A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[speed xphb|Speed]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
+A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[Fly Speed Xphb]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
 

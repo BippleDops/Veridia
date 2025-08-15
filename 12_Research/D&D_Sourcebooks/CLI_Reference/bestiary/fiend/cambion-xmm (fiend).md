@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cambion-xmm-cambion-xmm.svg)
 
-# [[cambion xmm|Cambion]]
+# [[Cambion Xmm]]
 *Source: Monster Manual (2024) p. 65*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -127,11 +127,11 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
     "name": "Fire Ray"
   - "desc": "The cambion casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n2/day each: [[alter self xphb|Alter Self]],\
-      \ [[command xphb|Command]] (level 3 version), [[detect magic xphb|Detect\]]
-      \ Magic]]\n\n1/day each: [[dominate person xphb|Dominate\]]
+      \n2/day each: [[alter-self-xphb (spells)]],\
+      \ [[command-xphb (spells)]] (level 3 version), [[detect-magic-xphb (spells)]]
+      \ Magic]]\n\n1/day each: [[Dominate Person Xphb]]
       \ Person]] (level 8 version),\
-      \ [[plane shift xphb|Plane Shift]] (self only)"
+      \ [[plane-shift-xphb (spells)]] (self only)"
     "name": "Spellcasting"
 "source":
   - "XMM"

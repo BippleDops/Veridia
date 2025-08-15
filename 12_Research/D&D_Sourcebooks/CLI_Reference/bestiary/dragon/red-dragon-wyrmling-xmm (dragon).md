@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-red-dragon-wyrmling-xmm-red-dragon-wyrmling-xmm.svg)
 
-# [[red dragon wyrmling xmm|Red Dragon Wyrmling]]
+# [[Red Dragon Wyrmling Xmm]]
 *Source: Monster Manual (2024) p. 254. Available in the SRD and the Free Rules (2024)*  
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
@@ -110,7 +110,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 24 (7d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

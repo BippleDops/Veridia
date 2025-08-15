@@ -1,6 +1,6 @@
 ---
 
-title: Master Timeline
+title: Master [[[[Time]]line]]
 type: chronology
 tags:
 - timeline
@@ -50,7 +50,7 @@ improvements: 20
 ### Day +201
 
 **Event**: Political meeting
-**Location**: The Sunken Palace
+**Location**: [[The Sunken Palace]]
 **Impact**: Magic fluctuates
 
 ### Day +203
@@ -68,7 +68,7 @@ improvements: 20
 ### Day +178
 
 **Event**: Festival
-**Location**: Port Meridian
+**Location**: [[Port Meridian]]
 **Impact**: Magic fluctuates
 
 ### Day +141
@@ -80,7 +80,7 @@ improvements: 20
 ### Day +327
 
 **Event**: Festival
-**Location**: Crystal Caverns
+**Location**: [[Crystal Caverns]]
 **Impact**: Security increases
 
 ### Day +282
@@ -191,7 +191,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -235,9 +235,9 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

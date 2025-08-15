@@ -34,7 +34,7 @@ world: Both
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[dwarf xphb|Dwarf]]
+**Prerequisite**: [[Dwarf Xphb]]
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 

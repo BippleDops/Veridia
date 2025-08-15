@@ -40,7 +40,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-You regain `4d4 + 4` [[hit points xphb|Hit Points]] when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `4d4 + 4` [[hit-points-xphb (variant-rules)]] when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 

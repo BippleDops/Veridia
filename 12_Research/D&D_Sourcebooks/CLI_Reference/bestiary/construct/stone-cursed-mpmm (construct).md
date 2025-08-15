@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-cursed-mpmm-stone-cursed-mpmm.svg)
 
-# [[stone cursed mpmm|Stone Cursed]]
+# [[stone-cursed-mpmm (construct)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[conditions#Petrified|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.

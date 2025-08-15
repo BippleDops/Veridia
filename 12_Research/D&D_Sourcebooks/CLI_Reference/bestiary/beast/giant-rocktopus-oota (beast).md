@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-rocktopus-oota-giant-rocktopus-oota.svg)
 
-# [[giant rocktopus oota|Giant Rocktopus]]
+# [[giant]]
 *Source: Out of the Abyss p. 28*  
 
 ```statblock

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 03_Mechanics_Recursion_Travel_System - Quick Reference
 
 ## Key Info

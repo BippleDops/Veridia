@@ -72,7 +72,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sea Elf Training
 
-You have proficiency with the [[spear xphb|spear]], [[trident xphb|trident]], [[light crossbow xphb|light crossbow]], and [[net xphb|net]].
+You have proficiency with the [[Eldritch Spear Xphb]], [[trident-xphb (items)]], [[light-crossbow-xphb (items)]], and [[Net Xphb]].
 
 ### Child of the Sea
 

@@ -48,11 +48,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Up to six creatures of your choice that you can see within range regain [[hit-points-xphb|Hit Points]] equal to `2d4` plus your spellcasting ability modifier.
+Up to six creatures of your choice that you can see within range regain [[hit-points-xphb (variant-rules)]] equal to `2d4` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `d4` for each spell slot level above 3.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the SRD and the Free Rules (2024)*
 

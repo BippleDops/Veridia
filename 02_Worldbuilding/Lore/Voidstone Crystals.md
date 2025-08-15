@@ -1,7 +1,7 @@
 ---
 
 title: Voidstone Crystals
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ Voidstone Crystals is a void-touched element of the setting, known for impossibl
 
 Legends speak of Voidstone Crystals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Voidstone Crystals.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

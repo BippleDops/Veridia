@@ -1,7 +1,7 @@
 ---
 
 title: Screaming Gardens
-type: Location
+type: [[location]]
 tags:
 - both
 - world/both
@@ -16,7 +16,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.721580+00:00'
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ improvements: 20
 
 The Screaming Gardens sprawl across three square miles of Abyssos Prime's eastern district, a crystallized forest where every tree was formed from the death screams of drowning victims. When the current flows through the crystal branches, they resonate with the final moments of those who died, creating an endless symphony of warning and anguish.
 
-### The Great Drowning
+### The [[Great Drowning]]
 
 During the Cataclysm of Tides, thousands of children were at the Meridian Youth Academy when the waters rose. Their screams crystallized in the magical catastrophe, growing into the first trees. Over centuries, more screaming trees have been "planted" as executions, murders, and suicides add to the grove.
 
@@ -111,7 +111,7 @@ Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a 
 
 #### The Suicide Spiral
 
-**Description**: A spiral path where the desperate come to join the garden
+**Description**: A spiral [[path]] where the desperate come to join the garden
 **Tree Types**: Grey-crystal from voluntary transformation
 **Sounds**: Whispers of despair, promises of peace
 **Danger**: Compulsion effects, WIS save DC 16 or walk toward center
@@ -125,11 +125,11 @@ Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a 
 
 ### The Mother Tree
 
-The largest tree, formed from a pregt woman who drowned trying to save her children. Sometimes, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
+The largest tree, formed from a pregt woman who [[Drowned]] trying to save her children. Some[[Time]]s, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
 
 ### The Harmony Hollow
 
-A depression where screams cancel each other out, creating perfect silence. The only quiet place in the gardens, but the silence is so complete it causes madness.
+A depression where screams cancel each other out, creating perfect silence. The only quiet place in the gardens, but [[The Silence]] is so complete it causes madness.
 
 ### The Echo Chamber
 
@@ -149,7 +149,7 @@ One tree screams in reverse, speaking of events that haven't happened yet. Its p
 
 ### The Garden's Growth
 
-The gardens are expanding faster than new deaths can account for. Trees are appearing that contain screams from people who are still alive, suggesting timeline contamination.
+The gardens are expanding faster than new deaths can account for. Trees are appearing that contain screams from [[People]] who are still alive, suggesting [[Timeline]] contamination.
 
 ### Screaming Tree Guardian
 
@@ -157,7 +157,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **AC**: 16
 **HP**: 75
 **Abilities**:
-- Scream Cone: 3d6 thunder damage, 15 ft cone
+- Scream Cone: [[3d6]] thunder damage, 15 ft cone
 - Crystallizing Touch: Target must make CON save DC 14 or begin transformation
 - Rooted: Cannot move but has 15 ft reach
 - Death Chorus: When killed, releases trapped soul who may help or attack
@@ -227,11 +227,11 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Benefit**: Know which trees to avoid
 **Limitation**: Cannot protect from The Conductor
 
-### To Aethermoor
+### To [[Aethermoor]]
 
 The gardens exist partially in [[Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -241,7 +241,7 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 ### Horror Elements
 
 - Parents might recognize their children's screams
-- Trees made from people the party failed to save
+- Trees made from people [[The Party]] failed to save
 - Gradual realization that some screams are prophecies
 - The compulsion to add your own scream to the symphony
 
@@ -253,12 +253,12 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 - [[Abyssos Prime]]
 - [[Parliament of Echoes]]
 - [[Gallery of Frozen Waves]]
-- [[12_Research/D&D_Statblocks/The Memory Meadows]]
+- [[12 Research]]
 
-**Related NPCs**:
+**Related [[Npc]]s**:
 - [[The Conductor]]
-- [[The Scattered Emperor]]
-- [[Marina-Red-Tide-Coralheart]]
+- [[The Scattered [[Emperor]]]]
+- [[Marina-Red-Tide-[[Coral]]heart]]
 
 **Related Mechanics**:
 - [[Scream Saturation Rules]]
@@ -269,7 +269,7 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 
 Screaming Gardens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Screaming Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens.
 
@@ -290,6 +290,34 @@ Screaming Gardens is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Screaming Gardens:
@@ -305,7 +333,7 @@ Ongoing situations affecting Screaming Gardens:
 - A document has gone missing and truth emerges
 - Strange disappearances suggest a curse
 - A corpse reveals a conspiracy about a local noble
-- A map reveals a betrayal about the cult
+- A [[map]] reveals a betrayal about the cult
 
 ## Cultural Practices
 
@@ -336,3 +364,40 @@ Ongoing situations affecting Screaming Gardens:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

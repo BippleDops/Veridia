@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-unicorn-xmm-unicorn-xmm.svg)
 
-# [[unicorn xmm|Unicorn]]
+# [[unicorn-xmm (celestial)]]
 *Source: Monster Manual (2024). Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -95,7 +95,7 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
 "traits":
   - "desc": "If the unicorn fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The unicorn has [[advantage xphb|Advantage]]\
+  - "desc": "The unicorn has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -108,25 +108,25 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
     "name": "Radiant Horn"
   - "desc": "The unicorn casts one of the following spells, requiring no spell components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt\
-      \ will: [[detect evil and good xphb|Detect Evil and Good]],\
-      \ [[druidcraft xphb|Druidcraft]]\n\n1/day each:\
-      \ [[calm emotions xphb|Calm Emotions]], [[dispel evil and good xphb|Dispel Evil\]]
-      \ and Good]], [[entangle xphb|Entangle]],\
-      \ [[pass without trace xphb|Pass without Trace]],\
-      \ [[word of recall xphb|Word of Recall]]"
+      \ will: [[detect-evil-and-good-xphb (spells)]],\
+      \ [[druidcraft-xphb (spells)]]\n\n1/day each:\
+      \ [[Calm Emotions Xphb]], [[dispel-evil-and-good-xphb (spells)]]
+      \ and Good]], [[Entangle Xphb]],\
+      \ [[Pass Without Trace Xphb]],\
+      \ [[word-of-recall-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The unicorn touches another creature with its horn and casts [[cure wounds xphb|Cure Wounds]]\
-      \ or [[lesser restoration xphb|Lesser Restoration]]\
+  - "desc": "The unicorn touches another creature with its horn and casts [[mass-cure-wounds-xphb (spells)]]\
+      \ or [[Lesser Restoration Xphb]]\
       \ on that creature, using the same spellcasting ability as Spellcasting.\n"
     "name": "Unicorn's Blessing (3/Day)"
 "legendary_actions":
-  - "desc": "The unicorn moves up to half its [[speed xphb|Speed]]\
+  - "desc": "The unicorn moves up to half its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it makes one Radiant Horn attack."
     "name": "Charging Horn"
   - "desc": "The unicorn targets itself or one creature it can see within 60 feet\
-      \ of itself. The target gains 10 (3d6) [[temporary hit points xphb|Temporary Hit Points]],\
+      \ of itself. The target gains 10 (3d6) [[temporary-hit-points-xphb (variant-rules)]],\
       \ and its AC increases by 2 until the end of the unicorn's next turn. The unicorn\
       \ can't take this action again until the start of its next turn."
     "name": "Shimmering Shield"
@@ -134,11 +134,11 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   - "desc": "The region containing a unicorn's lair is changed by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- Obscuring Foliage. The unicorn and its allies have [[advantage xphb|Advantage]]\
+  - "desc": "- Obscuring Foliage. The unicorn and its allies have [[Advantage Xphb]]\
       \ on Dexterity ([[skills#Stealth|Stealth]]) checks while\
       \ within 1 mile of the lair.  \n- Positive Energy. Whenever a creature within\
-      \ 1 mile of the lair regains [[hit points xphb|Hit Points]]\
-      \ from a spell, it regains the maximum number of [[hit points xphb|Hit Points]]\
+      \ 1 mile of the lair regains [[hit-points-xphb (variant-rules)]]\
+      \ from a spell, it regains the maximum number of [[hit-points-xphb (variant-rules)]]\
       \ possible. Additionally, the effects of curses are suppressed within 1 mile\
       \ of the lair.  "
   - "desc": "If the unicorn dies or moves its lair elsewhere, these effects end immediately."

@@ -43,7 +43,7 @@ updated: '2025-08-13T12:34:06.031657+00:00'
 world: Both
 ---
 
-# [[guard drake blue mpmm|Guard Drake (Blue)]]
+# [[guard-drake-blue-mpmm (dragon)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock

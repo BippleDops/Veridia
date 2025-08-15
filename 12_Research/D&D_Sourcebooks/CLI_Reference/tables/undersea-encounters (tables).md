@@ -38,23 +38,23 @@ world: Both
 | d12 + d8 | Encounter |
 |----------|-----------|
 | 2 | Sunken ship covered in barnacles (25 percent chance that the ship contains treasure—roll randomly on the treasure tables in chapter 7) |
-| 3 | Sunken ship with [[reef shark xmm|reef sharks]] (shallow waters) or [[hunter shark xmm|hunter sharks]] (deep waters) circling around it (50 percent chance that the ship contains treasure—roll randomly on the treasure tables in chapter 7) |
+| 3 | Sunken ship with [[Reef Shark Xmm]] (shallow waters) or [[hunter-shark-xmm (beast)]] (deep waters) circling around it (50 percent chance that the ship contains treasure—roll randomly on the treasure tables in chapter 7) |
 | 4 | Bed of giant oysters (each oyster has a 1 percent chance of having a giant 5,000 gp pearl inside) |
 | 5 | Underwater steam vent (25 percent chance that the vent is a portal to the Elemental Plane of Fire) |
 | 6 | Sunken ruin (uninhabited) |
 | 7 | Sunken ruin (inhabited or haunted) |
 | 8 | Sunken statue or monolith |
-| 9 | Friendly and curious [[giant seahorse xmm|giant sea horse]] |
-| 10 | Patrol of friendly [[merfolk skirmisher xmm|merfolk]] |
-| 11 | Patrol of hostile [[merrow xmm|merrow]] (coastal waters) or [[sahuagin warrior xmm|sahuagin]] (deep waters) |
+| 9 | Friendly and curious [[giant]] |
+| 10 | Patrol of friendly [[Merfolk Skirmisher Xmm]] |
+| 11 | Patrol of hostile [[merrow-xmm (monstrosity)]] (coastal waters) or [[sahuagin-warrior-xmm]] (deep waters) |
 | 12 | Enormous kelp bed (roll again on the table to determine what's hidden in the kelp bed) |
 | 13 | Undersea cave (empty) |
-| 14 | Undersea cave ([[sea hag xmm|sea hag]] lair) |
-| 15 | Undersea cave ([[merfolk skirmisher xmm|merfolk]] lair) |
-| 16 | Undersea cave ([[giant octopus xmm|giant octopus]] lair) |
-| 17 | Undersea cave ([[dragon turtle xmm|dragon turtle]] lair) |
+| 14 | Undersea cave ([[sea-hag-xmm (fey)]] lair) |
+| 15 | Undersea cave ([[Merfolk Skirmisher Xmm]] lair) |
+| 16 | Undersea cave ([[giant]] lair) |
+| 17 | Undersea cave ([[dragon-turtle-xmm (dragon)]] lair) |
 | 18 | Bronze dragon searching for treasure |
-| 19 | [[storm giant xmm|Storm giant]] walking on the ocean floor |
+| 19 | [[giant]] walking on the ocean floor |
 | 20 | Sunken treasure chest (25 percent chance that it contains something of value—roll treasure randomly using the tables in chapter 7) |
 ^undersea-encounters
 
@@ -100,3 +100,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

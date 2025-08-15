@@ -279,7 +279,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[Captain Lyanna Brightshield]], [[Dawn Echo Sentinel]]
+**Key NPCs**: [[Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 

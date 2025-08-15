@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vrock-xmm-v1-vrock-xmm.svg)
 
-# [[vrock xmm|Vrock]]
+# [[vrock-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 319. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -94,10 +94,10 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
 "cr": "6"
 "traits":
   - "desc": "If the vrock dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The vrock has [[advantage xphb|Advantage]]\
+  - "desc": "The vrock has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -106,7 +106,7 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Shred"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [[Area of Effect Xphb]]\
       \ originating from the vrock. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. While [[conditions#Poisoned|Poisoned]],\

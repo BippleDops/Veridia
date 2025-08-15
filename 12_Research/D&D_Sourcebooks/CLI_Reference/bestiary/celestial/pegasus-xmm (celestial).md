@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pegasus-xmm-pegasus-xmm.svg)
 
-# [[pegasus xmm|Pegasus]]
+# [[pegasus-xmm (celestial)]]
 *Source: Monster Manual (2024) p. 235. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

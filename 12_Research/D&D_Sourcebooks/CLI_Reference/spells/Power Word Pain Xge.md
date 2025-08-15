@@ -51,7 +51,7 @@ While the target is affected by crippling pain, any speed it has can be no highe
 
 A target suffering this pain can make a Constitution saving throw at the end of each of its turns. On a successful save, the pain ends.
 
-**Classes**: [[list spells classes warlock|Warlock]]; [[list spells classes sorcerer|Sorcerer]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 163*
 

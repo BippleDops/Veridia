@@ -63,13 +63,13 @@ You learn one language of your choice, and you are proficient with one skill or 
 
 ### Martial Prodigy
 
-You are proficient with light and medium armor and with [[shortsword xphb|shortswords]], [[longsword xphb|longswords]], and [[greatsword xphb|greatswords]].
+You are proficient with light and medium armor and with [[shortsword-xphb (items)]], [[Longsword Xphb]], and [[Greatsword Xphb]].
 
 ### Githyanki Psionics
 
-You know the [[mage hand xphb|mage hand]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
+You know the [[mage-hand-xphb (spells)]] cantrip, and the hand is [[conditions#Invisible|invisible]] when you cast the cantrip with this trait.
 
-When you reach 3rd level, you can cast [[jump xphb|jump]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[misty step xphb|misty step]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast [[Long Jump Xphb]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Misty Step Xphb]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 

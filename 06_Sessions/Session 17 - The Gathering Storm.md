@@ -9,7 +9,7 @@ tags:
 title: Session 17   The Gathering Storm
 type: session
 updated: 2025-08-14
----
+- --
 
 # Session 17 - The Gathering Storm
 
@@ -25,6 +25,7 @@ Session 17 - The Gathering Storm represents a significant element within the cam
 - **Significance**: Important for understanding broader context
 
 ## Details
+
 ### Background
 Historical context and development over time.
 
@@ -48,4 +49,21 @@ This content can be adapted and expanded based on specific campaign needs.
 - Offers opportunities for player engagement
 
 ## DM Notes
-*Customize as needed for your specific campaign requirements.*
+* Customize as needed for your specific campaign requirements.*
+
+
+## Pronunciation Guide
+- **Gathering**: [GATHERING]
+- **Gathering**: [GATHERING]
+- **Gathering**: [GATHERING]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

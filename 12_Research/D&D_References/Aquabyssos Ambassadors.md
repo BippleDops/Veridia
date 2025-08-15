@@ -45,7 +45,7 @@ founded: After the Great Drowning
 updated: '2025-08-13T01:18:34.530639+00:00'
 related_entities:
 - '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-- '[[Aquabyssos Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]'
+- '[[Aquabyssos-Aethermoor Treaties]]'
 - '[[Surface Syndicate|02 Worldbuilding/Groups/Surface Syndicate]]'
 ---
 

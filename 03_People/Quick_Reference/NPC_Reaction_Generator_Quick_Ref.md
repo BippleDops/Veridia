@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Reaction_Generator - Quick Reference
 
 ## Key Info

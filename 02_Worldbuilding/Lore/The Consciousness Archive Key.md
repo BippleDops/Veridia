@@ -1,9 +1,9 @@
 ---
-title: The Consciousness Archive Key
-type: Lore
+title: [[The Consciousness Archive]] Key
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore

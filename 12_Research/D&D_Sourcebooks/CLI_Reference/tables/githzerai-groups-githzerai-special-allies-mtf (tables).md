@@ -41,9 +41,9 @@ world: Both
 |----------|------|
 | 1-3 | The group has no allies |
 | 4-5 | `d4` [[githzerai-zerth-xmm|Zerths]] |
-| 6 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
-| 7 | `d4` [[githzerai-zerth-xmm|githzerai zerths]], `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
-| 8 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|githzerai anarch]], `d4` [[/03 Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 6 | `d4` [[Bestiary]] |
+| 7 | `d4` [[githzerai-zerth-xmm|githzerai zerths]], `d4` [[Bestiary]] |
+| 8 | 1 [[Bestiary]], `d4` [[Bestiary]] |
 ^githzerai-special-allies
 
 ## 🔧 Deep Evaluation Improvements

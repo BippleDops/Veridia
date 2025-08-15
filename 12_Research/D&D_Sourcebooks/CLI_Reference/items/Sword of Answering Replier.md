@@ -38,7 +38,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-replier-sword-of-answering-replier.svg)
 
 # Sword of Answering (Replier)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a neutral creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a neutral creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

@@ -34,7 +34,7 @@ world: Both
 ---
 
 # Copper Dragon Scale Mail
-*Medium armor ([[scale mail xphb|scale mail]]), very rare (requires attunement)*  
+*Medium armor ([[Scale Mail Xphb]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -43,7 +43,7 @@ world: Both
 
 Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, Dragon Scale Mail is highly valued.
 
-While wearing this armor, you gain a +1 bonus to [[armor class xphb|Armor Class]], you have [[advantage xphb|Advantage]] on saving throws against the breath weapons of Dragons, and you have [[resistance xphb|Resistance]] to acid damage.
+While wearing this armor, you gain a +1 bonus to [[armor-class-xphb (variant-rules)]], you have [[Advantage Xphb]] on saving throws against the breath weapons of Dragons, and you have [[boon-of-energy-resistance-xphb (feats)]] to acid damage.
 
 Additionally, you can focus your senses as a [[actions#Magic|Magic]] action to discern the distance and direction to the closest copper dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 

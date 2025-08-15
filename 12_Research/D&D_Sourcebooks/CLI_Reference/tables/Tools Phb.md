@@ -37,45 +37,45 @@ world: Both
 | Item | Cost | Weight |
 |------|------|--------|
 | *Artisan's tools* |  |  |
-| &emsp;[[alchemists supplies xphb|Alchemist's supplies]] | 50 gp | 8 lb. |
-| &emsp;[[brewers supplies xphb|Brewer's supplies]] | 20 gp | 9 lb. |
-| &emsp;[[calligraphers supplies xphb|Calligrapher's supplies]] | 10 gp | 5 lb. |
-| &emsp;[[carpenters tools xphb|Carpenter's tools]] | 8 gp | 6 lb. |
-| &emsp;[[cartographers tools xphb|Cartographer's tools]] | 15 gp. | 6 lb. |
-| &emsp;[[cobblers tools xphb|Cobbler's tools]] | 5 gp | 5 lb. |
-| &emsp;[[cooks utensils xphb|Cook's utensils]] | 1 gp | 8 lb. |
-| &emsp;[[glassblowers tools xphb|Glassblower's tools]] | 30 gp | 5 lb. |
-| &emsp;[[jewelers tools xphb|Jeweler's tools]] | 25 gp | 2 lb. |
-| &emsp;[[leatherworkers tools xphb|Leatherworker's tools]] | 5 gp | 5 lb. |
-| &emsp;[[masons tools xphb|Mason's tools]] | 10 gp | 8 lb. |
-| &emsp;[[painters supplies xphb|Painter's supplies]] | 10 gp | 5 lb. |
-| &emsp;[[potters tools xphb|Potter's tools]] | 10 gp | 3 lb. |
-| &emsp;[[smiths tools xphb|Smith's tools]] | 20 gp | 8 lb. |
-| &emsp;[[tinkers tools xphb|Tinker's tools]] | 50 gp | 10 lb. |
-| &emsp;[[weavers tools xphb|Weaver's tools]] | 1 gp | 5 lb. |
-| &emsp;[[woodcarvers tools xphb|Woodcarver's tools]] | 1 gp | 5 lb. |
-| [[disguise kit xphb|Disguise Kit]] | 25 gp | 3 lb. |
-| [[forgery kit xphb|Forgery kit]] | 15 gp | 5 lb. |
+| &emsp;[[Alchemists Supplies Xphb]] | 50 gp | 8 lb. |
+| &emsp;[[Brewers Supplies Xphb]] | 20 gp | 9 lb. |
+| &emsp;[[Calligraphers Supplies Xphb]] | 10 gp | 5 lb. |
+| &emsp;[[Carpenters Tools Xphb]] | 8 gp | 6 lb. |
+| &emsp;[[Cartographers Tools Xphb]] | 15 gp. | 6 lb. |
+| &emsp;[[Cobblers Tools Xphb]] | 5 gp | 5 lb. |
+| &emsp;[[Cooks Utensils Xphb]] | 1 gp | 8 lb. |
+| &emsp;[[Glassblowers Tools Xphb]] | 30 gp | 5 lb. |
+| &emsp;[[Jewelers Tools Xphb]] | 25 gp | 2 lb. |
+| &emsp;[[leatherworkers-tools-xphb (items)]] | 5 gp | 5 lb. |
+| &emsp;[[Masons Tools Xphb]] | 10 gp | 8 lb. |
+| &emsp;[[painters-supplies-xphb (items)]] | 10 gp | 5 lb. |
+| &emsp;[[Potters Tools Xphb]] | 10 gp | 3 lb. |
+| &emsp;[[smiths-tools-xphb (items)]] | 20 gp | 8 lb. |
+| &emsp;[[tinkers-tools-xphb (items)]] | 50 gp | 10 lb. |
+| &emsp;[[Weavers Tools Xphb]] | 1 gp | 5 lb. |
+| &emsp;[[Woodcarvers Tools Xphb]] | 1 gp | 5 lb. |
+| [[disguise-kit-xphb (items)]] | 25 gp | 3 lb. |
+| [[Forgery Kit Xphb]] | 15 gp | 5 lb. |
 | *Gaming sets* |  |  |
-| &emsp;[[dice set xphb|Dice set]] | 1 sp | — |
-| &emsp;[[dragonchess set xphb|Dragonchess set]] | 1 gp | 1/2 lb. |
-| &emsp;[[playing cards xphb|Playing card set]] | 5 sp | — |
-| &emsp;[[three dragon ante set xphb|Three Dragon Ante set]] | 1 gp | — |
-| [[herbalism kit xphb|Herbalism kit]] | 5 gp | 3 lb. |
+| &emsp;[[Dice Set Xphb]] | 1 sp | — |
+| &emsp;[[Dragonchess Set Xphb]] | 1 gp | 1/2 lb. |
+| &emsp;[[Playing Cards Xphb]] | 5 sp | — |
+| &emsp;[[three-dragon-ante-set-xphb (items)]] | 1 gp | — |
+| [[Herbalism Kit Xphb]] | 5 gp | 3 lb. |
 | *Musical instruments* |  |  |
-| &emsp;[[bagpipes xphb|Bagpipes]] | 30 gp | 6 lb. |
-| &emsp;[[drum xphb|Drum]] | 6 gp | 3 lb. |
-| &emsp;[[dulcimer xphb|Dulcimer]] | 25 gp | 10 lb. |
-| &emsp;[[flute xphb|Flute]] | 2 gp | 1 lb. |
-| &emsp;[[lute xphb|Lute]] | 35 gp | 2 lb. |
-| &emsp;[[lyre xphb|Lyre]] | 30 gp | 2 lb. |
-| &emsp;[[horn xphb|Horn]] | 3 gp | 2 lb. |
-| &emsp;[[pan flute xphb|Pan flute]] | 12 gp | 2 lb. |
-| &emsp;[[shawm xphb|Shawm]] | 2 gp | 1 lb. |
-| &emsp;[[viol xphb|Viol]] | 30 gp | 1 lb. |
-| [[navigators tools xphb|Navigator's tools]] | 25 gp | 2 lb. |
-| [[poisoners kit xphb|Poisoner's kit]] | 50 gp | 2 lb. |
-| [[thieves tools xphb|Thieves' tools]] | 25 gp | 1 lb. |
+| &emsp;[[Bagpipes Xphb]] | 30 gp | 6 lb. |
+| &emsp;[[drum-xphb (items)]] | 6 gp | 3 lb. |
+| &emsp;[[Dulcimer Xphb]] | 25 gp | 10 lb. |
+| &emsp;[[flute-xphb (items)]] | 2 gp | 1 lb. |
+| &emsp;[[flute-xphb (items)]] | 35 gp | 2 lb. |
+| &emsp;[[Lyre Xphb]] | 30 gp | 2 lb. |
+| &emsp;[[Horn Xphb]] | 3 gp | 2 lb. |
+| &emsp;[[Flute Xphb]] | 12 gp | 2 lb. |
+| &emsp;[[Shawm Xphb]] | 2 gp | 1 lb. |
+| &emsp;[[Viol Xphb]] | 30 gp | 1 lb. |
+| [[Navigators Tools Xphb]] | 25 gp | 2 lb. |
+| [[Poisoners Kit Xphb]] | 50 gp | 2 lb. |
+| [[thieves-tools-xphb (items)]] | 25 gp | 1 lb. |
 | Vehicles (land or water) | * | * |
 ^item-cost-weight
 

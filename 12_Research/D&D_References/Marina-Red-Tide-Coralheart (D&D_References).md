@@ -59,7 +59,7 @@ related_quests:
 - '[[The Seven Shards Mystery]]'
 - '[[Uniting the Factions]]'
 - '[[The Bloodline Awakens]]'
-last_encounter: '[[Aethermoor   Session 01 Blood in the Harbor]]'
+last_encounter: '[[Session 01]]'
 stats:
   str: 10
   dex: 18

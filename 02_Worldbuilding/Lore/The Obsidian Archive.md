@@ -1,9 +1,9 @@
 ---
 title: The Obsidian Archive
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore

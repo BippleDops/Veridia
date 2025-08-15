@@ -38,7 +38,7 @@ sub_locations:
 - '[[The Speaker''s Throne]]'
 depth: 2200-2400 feet
 government: Undead Parliamentary Democracy
-ruler: '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The]]
+ruler: '[[People]]
   Eternal Speaker]]'
 factions:
 - '[[The Original Senators]]'
@@ -55,7 +55,7 @@ services:
 - Spectral Legal Consultation
 - Death Transition Counseling
 notable_npcs:
-- '[[02 Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal]]
+- '[[People]]
   Speaker]]'
 - '[[Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
@@ -139,7 +139,7 @@ Extensive libraries containing the complete legislative history of both pre and 
 Elaborately carved throne that serves as the seat of the Eternal Speaker, the parliament's presiding officer. The throne incorporates necromantic enchantments that allow it to accommodate speakers of any undead type while providing them with enhanced authority and mental clarity.
 
 ### The Eternal Speaker
-**[[02 Worldbuilding/People/The Eternal Speaker|Full Details]]**
+**[[People]]**
 The parliamentary leader who presides over sessions and maintains order. The current Speaker is a lich who died during the drowning but retained their political acumen and dedication to democratic principles.
 
 **Powers and Responsibilities:**

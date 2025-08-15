@@ -43,7 +43,7 @@ world: Both
 
 - **Ability.** Wisdom  
 - **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [[map xphb|Map]]  
+- **Craft.** [[Map Xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

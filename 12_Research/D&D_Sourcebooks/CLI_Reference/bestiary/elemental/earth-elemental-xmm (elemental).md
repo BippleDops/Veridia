@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-xmm-earth-elemental-xmm.svg)
 
-# [[earth elemental xmm|Earth Elemental]]
+# [[Earth Elemental Xmm]]
 *Source: Monster Manual (2024) p. 108. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

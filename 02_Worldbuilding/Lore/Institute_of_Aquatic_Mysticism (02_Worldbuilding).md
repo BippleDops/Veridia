@@ -1,10 +1,10 @@
 ---
 
-title: Institute of Aquatic Mysticism
-type: lore
+title: [[Institute of Aquatic Mysticism]]
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - active
 - bloodline
 created: '2025-08-14'
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Oral_Tradition Improvements
 
@@ -83,7 +83,7 @@ Institute of Aquatic Mysticism can be understood as a multifaceted element that 
 ### Detailed Explanation
 The full nature of Institute of Aquatic Mysticism involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Institute of Aquatic Mysticism trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -94,7 +94,7 @@ Connected to Institute of Aquatic Mysticism are various other important elements
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Institute of Aquatic Mysticism through their own cultural lenses:
+Different [[Groups]] view Institute of Aquatic Mysticism through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -163,7 +163,7 @@ The current state of Institute of Aquatic Mysticism:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Institute of Aquatic Mysticism has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -196,7 +196,7 @@ Ways to incorporate Institute of Aquatic Mysticism into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -217,7 +217,7 @@ How to adjust for different games:
 Ways Institute of Aquatic Mysticism might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -236,7 +236,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -259,7 +259,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #institute-of-aquatic-mysticism
+*Tags*: [[#General]] #worldbuilding #institute-of-aquatic-mysticism
 
 ## Cultural Impact
 

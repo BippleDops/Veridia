@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_Tools - Pre_Game_Checklist
 
----
+- --
 title: Session Tools   Pre Game Checklist
 type: Mechanic
 tags:
@@ -22,14 +22,14 @@ modified: '2025-08-14'
 status: active
 updated: '2025-08-13T04:22:10.866667+00:00'
 world: Both
----
+- --
 
 # Pre-Game Session Checklist
-*A comprehensive guide for Dungeon Masters to prepare for successful sessions*
+* A comprehensive guide for Dungeon Masters to prepare for successful sessions*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -40,9 +40,9 @@ world: Both
 - Add 12_Research-specific enhancement
 
 ## Notes Section
-*Space for session-specific reminders*
+* Space for session-specific reminders*
 
----
+- --
 
 ### Quick Contact List
 - Players: [Add contact info]
@@ -51,9 +51,9 @@ world: Both
 - Session Location: [Add details]
 - Emergency Contact: [Add info]
 
----
+- --
 
-*Remember: The best preparation is flexible preparation. This checklist is a tool, not a mandate. Adapt as needed for your group's style and needs.*
+* Remember: The best preparation is flexible preparation. This checklist is a tool, not a mandate. Adapt as needed for your group's style and needs.*
 
 ## Player-Facing Summary
 
@@ -69,7 +69,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Prophecy Connection
 
@@ -85,3 +85,18 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Depths**: [DEPTHS]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

@@ -48,11 +48,11 @@ world: Both
 - **Components:** V, S, M (a drop of bile)
 - **Duration:** Instantaneous
 
-You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes `10d4` Acid damage and another `5d4` Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
+You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius [[Area of Effect Xphb]]. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes `10d4` Acid damage and another `5d4` Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
 
 **Using a Higher-Level Spell Slot.** The initial damage increases by `2d4` for each spell slot level above 4.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 337. Available in the SRD and the Free Rules (2024)*
 
@@ -100,3 +100,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

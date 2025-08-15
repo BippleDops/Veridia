@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_01_The_Convergence_Mystery
 
----
+- --
 title: Session 01 The Convergence Mystery
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Session Overview
 
@@ -110,13 +110,13 @@ Serafina landed the killing blow with a precision strike that severed the creatu
 - Strong interest in the personal stakes being developed
 - Request for more information about Void Merchant hierarchy
 
----
+- --
 
-*This recap was written collaboratively by the players, with each contributing their character's perspective on events. The format encourages players to reflect on both plot and character development while creating a useful reference for future sessions.*
+* This recap was written collaboratively by the players, with each contributing their character's perspective on events. The format encourages players to reflect on both plot and character development while creating a useful reference for future sessions.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -128,11 +128,11 @@ Serafina landed the killing blow with a precision strike that severed the creatu
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -148,3 +148,19 @@ Serafina landed the killing blow with a precision strike that severed the creatu
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Aethermoor**: [AYTHERMOOR]
+- **Merchant's**: [MERCHANT-S]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

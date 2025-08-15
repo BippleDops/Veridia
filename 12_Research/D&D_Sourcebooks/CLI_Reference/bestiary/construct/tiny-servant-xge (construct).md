@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.854562'
 world: Both
 ---
 
-# [[tiny servant xge|Tiny Servant]]
+# [[Tiny Servant Xge (construct)]]
 *Source: Xanathar's Guide to Everything p. 169*  
 
 ```statblock

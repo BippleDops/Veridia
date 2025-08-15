@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session 4 Smuggler Base
 
----
+- --
 title: 'The Sunken Conspiracy - Session 4: Smuggler Base'
 type: Adventure
 tags:
@@ -34,14 +34,14 @@ duration: 4-5 hours
 level_range: 2-3
 updated: '2025-08-13T12:34:17.825305+00:00'
 world: Aquabyssos
----
+- --
 
 # Session 4: Smuggler Base
-*The Sunken Conspiracy - Infiltrating the Hidden Base*
+* The Sunken Conspiracy - Infiltrating the Hidden Base*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -709,9 +709,9 @@ The modified subjects represent both our greatest success and our heaviest burde
 
 [CONFIDENTIAL MEDICAL DOCUMENT]
 
----
+- --
 
-*In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.*
+* In the crushing depths where ancient wisdom sleeps and modern ambition schemes, the party discovers that some knowledge comes at too high a price, and some victories are measured not in enemies defeated but in innocents saved. As they emerge from the abyss with the weight of terrible truths, they must prepare for a final confrontation that will determine the future of two worlds.*
 
 ## Player-Facing Summary
 
@@ -735,3 +735,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

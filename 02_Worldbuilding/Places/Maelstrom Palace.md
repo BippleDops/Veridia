@@ -1,7 +1,7 @@
 ---
 
 title: Maelstrom Palace
-type: Location
+type: [[location]]
 tags:
 - aerial
 - aquatic
@@ -28,7 +28,7 @@ tags:
 created: '2025-08-10'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: 800+ (court, staff, guards, prisoners)
 age: 300 years (built post-Drowning)
 category: Government Seat/Magical Fortress
@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -121,7 +121,7 @@ improvements: 20
 
 Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[Storm Empress Tempestas Maelstrom]] and the seat of [[Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
 
-The palace itself is a marvel of elemental engineering, constructed from crystallized storm energy, enchanted metals, and living coral that has been shaped by decades of magical weather manipulation. It rises and falls through the water column as the storm moves, sometimes breaking the surface during powerful updrafts, other times diving thousands of feet beneath the waves when the tempest's fury pulls it into the depths. This constant motion, combined with the protective barrier of the surrounding storm, makes the palace virtually impossible to approach without invitation - and utterly deadly to those who try.
+The palace itself is a marvel of elemental engineering, constructed from crystallized storm energy, enchanted metals, and living [[Coral]] that has been shaped by decades of magical weather manipulation. It rises and falls through the water column as the storm moves, some[[Time]]s breaking the surface during powerful updrafts, other times diving thousands of feet beneath the waves when the tempest's fury pulls it into the depths. This constant motion, combined with the protective barrier of the surrounding storm, makes the palace virtually impossible to approach without invitation - and utterly deadly to those who try.
 
 More than just a royal residence, Maelstrom Palace serves as the command center for one of [[Aquabyssos]]'s most powerful maritime empires. From its storm-wreathed halls, the Storm Empress commands the [[Stormcaller Navy]], conducts diplomatic relations with other underwater nations, and maintains her grip on the trade routes that her mobile kingdom controls. The palace is simultaneously a fortress, a seat of government, a magical research center, and a symbol of absolute power over the forces of nature themselves.
 
@@ -187,7 +187,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Gravitational Anchors**: Magical systems that maintain consistent orientation
 **Flowing Connections**: Bridges and walkways that curve through space in impossible ways
 **Adaptive Chambers**: Rooms that reconfigure based on the palace's current depth and position
-**Emergency Protocols**: Systems for rapid reconfiguration during storm emergencies
+**[[Emergency Protocol]]s**: Systems for rapid reconfiguration during storm emergencies
 
 #### Elemental Integration
 
@@ -199,19 +199,19 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Water Features**: Continuous water circulation that provides both beauty and practical functions
 **Air Currents**: Controlled wind patterns that provide transportation and communication
 
-#### The Tempest Throne Room
+#### The Tempest [[Throne Room]]
 
 **The Heart of Power**: The most magnificent chamber in the palace:
 
 **The Storm Throne**: Carved from a single massive piece of crystallized lightning, the throne channels the storm's power directly to the Empress. The seat constantly crackles with contained electrical energy and provides the occupant with enhanced magical abilities and perfect awareness of weather conditions throughout the realm.
 
-**The Lightning Crown**: A floating crown of pure electrical energy that hovers above the throne, responding to the Empress's emotional state and magical power. During formal audiences, the crown expands into a dramatic display of controlled lightning that demonstrates her absolute command over elemental forces.
+**The Lightning Crown**: A floating crown of pure electrical energy that hovers above the throne, responding to the Empress's emotional state and magical power. During formal audiences, [[The Crown]] expands into a dramatic display of controlled lightning that demonstrates her absolute command over elemental forces.
 
-**Audience Chamber**: The throne room can accommodate over 500 courtiers and visitors, with seating areas that float at different levels around the central throne. The chamber's acoustics are magically enhanced so that every word spoken from the throne can be heard clearly throughout the space.
+**Audience Chamber**: [[The Throne Room]] can accommodate over 500 courtiers and visitors, with seating areas that float at different levels around the central throne. The chamber's acoustics are magically enhanced so that every word spoken from the throne can be heard clearly throughout the space.
 
 **Storm Viewing Windows**: Massive crystal panels provide spectacular views of the storm walls surrounding the palace, allowing visitors to witness the raw power that protects and serves the Storm Empress.
 
-#### The Royal Quarters
+#### The [[Royal Quarters]]
 
 **Private Imperial Residence**: The Storm Empress's personal living space:
 
@@ -227,7 +227,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **High Government Offices**: Where the empire's most important business is conducted:
 
-**The Admiral's War Room**: Strategic planning center for the [[Stormcaller Navy]], featuring three-dimensional maps of ocean territories and real-time communication with fleet commanders.
+**The Admiral's War Room**: Strategic planning center for the [[Stormcaller Navy]], featuring three-dimensional [[map]]s of ocean territories and real-time communication with fleet commanders.
 
 **The Chancellor's Offices**: Administrative center for managing the complex logistics of a mobile empire, including taxation, resource allocation, and diplomatic communications.
 
@@ -243,7 +243,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **The Elemental Lords' Quarters**: Homes for nobles who have achieved mastery over specific elemental forces, each customized to complement their magical specialties.
 
-**The Ambassador Wing**: Diplomatic quarters for foreign representatives, designed to accommodate different species' environmental needs while demonstrating imperial power.
+**The Ambassador Wing**: [[Diplomatic Quarters]] for foreign representatives, designed to accommodate different species' environmental needs while demonstrating imperial power.
 
 **The Visiting Dignitaries' Compound**: Temporary housing for important guests, featuring adaptable environments and enhanced security measures.
 
@@ -311,7 +311,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Extreme Research**: Scientific and magical research that requires the deepest ocean conditions:
 
-**The Pressure Chambers**: Research facilities for studying deep-sea phenomena and testing equipment designed for extreme depth operations.
+**[[The Pressure Chambers]]**: Research facilities for studying deep-sea phenomena and testing equipment designed for extreme depth operations.
 
 **The Elemental Forge**: Manufacturing facility where the unique conditions of storm and depth are used to create impossible materials and magical items.
 
@@ -325,7 +325,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **[[Storm Empress Tempestas Maelstrom]]**: Absolute ruler with complete control over the storm and palace
 - **Powers**: Command over weather, electrical immunity, perfect storm navigation
-- **Personality**: Imperious, dramatic, genuinely concerned with protecting her people
+- **Personality**: Imperious, dramatic, genuinely concerned with protecting her [[People]]
 - **Daily Routine**: Morning storm meditation, afternoon court sessions, evening strategic planning
 - **Residence**: The Royal Quarters with private access to storm energy
 
@@ -347,7 +347,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Teaching**: Trains new stormcallers in the arts of weather manipulation
 - **Secret**: Believes the storm may eventually become uncontrollable
 
-#### The Noble Houses
+#### The [[Noble House]]s
 
 **Aristocratic Families**: Hereditary nobility who serve various governmental functions:
 
@@ -369,7 +369,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Workshop**: Advanced laboratories in the magical infrastructure levels
 - **Innovation**: Constantly developing new applications for storm energy
 
-**House Tempest**: Diplomatic corps and intelligence services
+**House Tempest**: [[Diplomatic Corps]] and [[Intelligence Services]]
 - **Function**: Foreign relations and information gathering throughout [[Aquabyssos]]
 - **Leader**: [[Marquis Storm Tempest]] - Master of spies and diplomacy  
 - **Network**: Agents and informants in every major underwater city
@@ -390,7 +390,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Imperial Traditions**: Formal events that reinforce the Storm Empress's power:
 
 **The Storm Coronation**: Annual ceremony where the Empress renews her bond with the tempest
-**The Fleet Blessing**: Religious ceremony that ensures the navy's continued protection from weather
+**The Fleet [[Bless]]ing**: Religious ceremony that ensures the navy's continued protection from weather
 **The Elemental Trials**: Tests for new courtiers to prove their worthiness for court positions
 **The Diplomatic Tempests**: Formal receptions for foreign dignitaries featuring awesome weather displays
 **The Lightning Duels**: Formal combat between courtiers using channeled electrical energy
@@ -420,12 +420,12 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Specialized Units**: Different military roles within the palace guard:
 
 **The Lightning Company**: Electrical magic specialists who serve as offensive spellcasters
-**The Hurricane Company**: Wind magic experts specializing in aerial combat and reconnaissance  
-**The Tempest Company**: Water magic users focused on underwater operations and defense
+**The Hurricane Company**: Wind magic experts specializing in [[Aerial Combat]] and reconnaissance  
+**The Tempest Company**: Water [[Magic User]]s focused on underwater operations and defense
 **The Thunder Company**: Heavy combat troops with storm-enhanced physical abilities
 **The Eye Company**: Intelligence and security specialists who protect imperial secrets
 
-#### Fleet Organization
+#### Fleet [[Organization]]
 
 **Maritime Military**: The empire's primary military and territorial control force:
 
@@ -460,7 +460,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Assault Troops**: Soldiers specialized in amphibious and aerial combat:
 
 **Air Marines**: Troops trained for aerial assault using flying mounts and wind magic
-**Sea Marines**: Underwater combat specialists with enhanced swimming and breathing abilities  
+**Sea Marines**: [[Underwater Combat]] specialists with enhanced swimming and breathing abilities  
 **Storm Marines**: Elite troops capable of fighting effectively in any weather condition
 **Lightning Marines**: Soldiers who use electrical magic for both combat and utility purposes
 **Hurricane Marines**: Fast assault troops specializing in rapid deployment and mobility
@@ -517,10 +517,10 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Palace Politics**: The competitive environment of imperial court life:
 
-**Factional Conflicts**: Different noble houses compete for influence and resources:
+**[[Factional Conflicts]]**: Different [[Noble Houses]] compete for influence and resources:
 - **Political Sabotage**: Attempts to undermine rival factions through various means
-- **Information Warfare**: Using secrets and intelligence to gain political advantage
-- **Economic Manipulation**: Control of resources and trade to influence palace politics
+- **[[Information Warfare]]**: Using secrets and intelligence to gain political advantage
+- **[[Economic Manipulation]]**: Control of resources and trade to influence palace politics
 - **Military Pressure**: Using military connections to support political positions
 
 **Succession Issues**: Questions about imperial inheritance and continuity:
@@ -545,10 +545,10 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Restricted Access**: Many palace areas require special permission to enter
 - **Communication Control**: All magical messaging monitored by imperial security
 
-#### The Succession Crisis
+#### [[The Succession Crisis]]
 
 **Background**: Rumors spread that the Storm Empress may be losing control over the tempest
-**Investigation**: Evidence suggests sabotage attempts on the storm control systems
+**Investigation**: [[Evidence]] suggests sabotage attempts on the storm control systems
 **Political Tension**: Different noble houses prepare for potential succession struggle
 **Player Involvement**: Characters must navigate court politics while investigating threats
 **Stakes**: Failure could result in civil war and loss of storm control
@@ -566,7 +566,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### The Fleet in Peril
 
 **Crisis**: A significant portion of the [[Stormcaller Navy]] has gone missing
-**Search Operation**: Characters join rescue mission to locate the lost fleet
+**Search Operation**: Characters join rescue mission to locate the [[Lost Fleet]]
 **Obstacles**: Extreme weather, hostile sea creatures, and possible enemy action
 **Discovery**: Fleet may have discovered something that threatens imperial security
 **Combat**: Naval battles in extreme weather conditions
@@ -586,7 +586,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Discovery**: Strange phenomena in the deepest parts of the storm suggest hidden chambers
 **Exploration**: Characters venture into previously unknown areas of the tempest
 **Dangers**: Extreme weather, unknown magical effects, and territorial creatures
-**Revelation**: Discovery of ancient ruins that may be connected to the storm's origin
+**Revelation**: Discovery of [[Ancient Ruins]] that may be connected to the storm's origin
 **Treasure**: Powerful magical artifacts related to weather control
 **Mystery**: Evidence that the storm may not be entirely under imperial control
 
@@ -614,13 +614,13 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Defense**: Characters help defend palace while navigating weather hazards
 **Combat**: Fighting in three-dimensional environment with environmental dangers
 **Strategy**: Using weather effects as both weapons and obstacles
-**Allies**: Coordinating with imperial forces and magical weather controllers
+**[[Allies]]**: Coordinating with imperial forces and magical weather controllers
 **Victory**: Successful defense demonstrates palace's defensive capabilities
 
 #### The Storm's Secret
 
 **Investigation**: Research into the storm's origin reveals disturbing possibilities
-**Archives**: Study of historical records and magical theory
+**Archives**: Study of historical records and [[Magical Theory]]
 **Experiments**: Testing theories about storm creation and control
 **Opposition**: Forces that prefer the storm's secrets remain hidden
 **Knowledge**: Information that could revolutionize weather magic
@@ -639,10 +639,10 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Friendly Relationships**: Other underwater empires that cooperate with the [[Tempest Sovereignty]]:
 
-**[[The Coral Courts]]**: Traditional allies with mutual defense agreements
+**[[The [[Coral Courts]]]]**: Traditional allies with mutual defense agreements
 - **Trade Relations**: Exchange of unique magical resources and cultural goods
 - **Military Cooperation**: Joint naval operations against common enemies
-- **Diplomatic Exchange**: Regular ambassador visits and cultural exchanges
+- **Diplomatic Exchange**: Regular ambassador visits and [[[[Cultural Exchange]]s]]
 - **Marriage Alliances**: Intermarriage between noble families strengthens bonds
 
 **[[The Deep Republic]]**: Democratic nation that maintains cautious friendship
@@ -671,15 +671,15 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Commercial Connections**: The empire's economic ties throughout [[Aquabyssos]]:
 
-**[[The Merchant's Covet]]**: Professional trading organization
-- **Protection Services**: Imperial navy provides security for merchant vessels
+**[[[[Merchant]]'s Covet]]**: Professional trading organization
+- **Protection Services**: [[Imperial Nav]]y provides security for merchant vessels
 - **Trade Routes**: Empire controls several major commercial shipping lanes
 - **Resource Exchange**: Merchants provide rare materials in exchange for imperial protection
 - **Market Access**: Imperial territories offer valuable commercial opportunities
 
 **[[The Phosphor Markets]]**: Mobile trading hub that regularly interacts with imperial fleet
 - **Neutral Meeting**: Markets provide diplomatic neutral ground for negotiations
-- **Information Exchange**: Merchants provide intelligence about other nations' activities
+- **[[Information Exchange]]**: Merchants provide intelligence about other nations' activities
 - **Specialized Goods**: Markets offer rare materials needed for storm magic research
 - **Cultural Integration**: Imperial citizens participate in market social and cultural activities
 
@@ -697,13 +697,13 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Rare Elements**: Specific materials required for advanced weather magic
 - **Biological Resources**: Sea creatures and plants with magical properties
 - **Artificial Materials**: Magically created substances with unique properties
-- **Import Requirements**: Some materials must be obtained through international trade
+- **Import Requirements**: Some materials must be obtained through [[International Trade]]
 
 #### Academic Relationships
 
 **Scholarly Exchange**: The empire's connections with educational institutions:
 
-**[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Major repository of magical and historical knowledge
+**[[Aquabyssos|[[02 Worldbuilding]]/[[Quests]]/Aquabyssos]]**: Major repository of magical and historical knowledge
 - **Research Collaboration**: Imperial scholars contribute to library's research projects
 - **Knowledge Exchange**: Access to rare texts in exchange for unique imperial experiences
 - **Student Programs**: Young imperial nobles study at the library
@@ -711,17 +711,17 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **[[University of Current Studies]]**: Academic institution specializing in oceanography
 - **Scientific Cooperation**: Research into ocean currents and weather patterns
-- **Technology Transfer**: Sharing of navigation and weather prediction techniques
+- **[[Technology Transfer]]**: Sharing of navigation and weather prediction techniques
 - **Faculty Exchange**: Imperial weather mages serve as visiting professors
 - **Graduate Programs**: Advanced training for imperial technical specialists
 
 #### Religious Organizations
 
-**Spiritual Connections**: The empire's relationship with various religious groups:
+**Spiritual Connections**: The empire's relationship with various [[Religious [[Groups]]]]:
 
 **[[The Tempest Faithful]]**: Religious organization that worships storm deities
 - **Official Religion**: Provides spiritual legitimacy for imperial rule
-- **Palace Services**: Maintains religious ceremonies and spiritual guidance
+- **Palace Services**: Maintains religious ceremonies and spiritual [[Guidance]]
 - **Missionary Work**: Spreads imperial ideology through religious conversion
 - **Political Support**: Religious authority reinforces imperial political power
 
@@ -733,7 +733,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 #### Political Intrigue Campaigns
 
-**Court-Based Adventures**: Emphasis on social interaction and political maneuvering:
+**Court-Based Adventures**: Emphasis on social interaction and [[Political Maneuvering]]:
 
 **Palace Intrigue**: Complex relationships between noble houses and imperial favorites
 - **Information Gathering**: Characters learn court secrets through social interaction
@@ -759,7 +759,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Defense of the Realm**: Protecting imperial territory from external threats
 - **Border Patrol**: Maintaining security along extensive maritime frontiers
-- **Pirate Suppression**: Dealing with criminal organizations that threaten imperial shipping
+- **Pirate Suppression**: Dealing with [[Criminal Organizations]] that threaten imperial shipping
 - **Diplomatic Escort**: Providing security for imperial diplomats and trade missions
 - **Emergency Response**: Rapid deployment to crisis situations throughout the empire
 
@@ -767,7 +767,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Storm Exploration**: Using the palace's unique environment for adventure opportunities:
 
-**Unknown Territories**: The storm's mobility allows access to unexplored areas
+**Unknown Territories**: The storm's mobility allows access to unexp[[Lore]]d areas
 - **Deep Sea Exploration**: Investigating oceanic regions inaccessible to other explorers
 - **Ancient Ruins**: Discovering historical sites revealed by storm activity
 - **Magical Phenomena**: Studying unique magical effects created by storm environments
@@ -779,7 +779,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Technological Innovation**: Understanding the magical engineering that makes the palace possible
 - **Dangerous Experiments**: Investigating forbidden research conducted by imperial scientists
 
-#### Mid-Level (6-10): Introduction to Imperial Politics
+#### Mid-Level (6-10): [[Introduction]] to Imperial Politics
 
 **Court Newcomers**: Characters begin careers in imperial service
 - **Basic Positions**: Starting roles in military, diplomatic, or administrative functions
@@ -798,9 +798,9 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### Epic Level (16-20): Imperial Champions
 
 **Empire-Shaping Influence**: Characters affect the fate of the entire empire
-- **Strategic Leadership**: Command of major military operations or diplomatic initiatives
+- **Strategic Leadership**: Command of major military operations or diplomatic [[Initiative]]s
 - **Policy Creation**: Development of imperial law and government structure
-- **Crisis Management**: Response to threats that could destroy the empire
+- **[[Crisis Management]]**: Response to threats that could destroy the empire
 - **Historical Legacy**: Actions that define the empire's future for generations
 
 #### Storm Atmosphere
@@ -867,14 +867,14 @@ Maelstrom Palace is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Maelstrom Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Maelstrom Palace.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -897,6 +897,34 @@ Maelstrom Palace is a notable location characterized by its unique features and 
 
 ### Founding
 Maelstrom Palace was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -927,3 +955,36 @@ Mentioned in The Hidden Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements

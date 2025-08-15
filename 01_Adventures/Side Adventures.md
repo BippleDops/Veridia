@@ -1,10 +1,13 @@
 ---
+
 title: Side Adventures
 type: note
 tags:
 - auto-generated
 - linked
 created: '2025-01-15'
+modified: 2025-08-14
+status: active
 ---
 
 # Side Adventures
@@ -98,3 +101,13 @@ Further information about this topic will be developed as the campaign progresse
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

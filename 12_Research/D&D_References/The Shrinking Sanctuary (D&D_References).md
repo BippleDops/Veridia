@@ -429,7 +429,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 - [[Refugee Integration Protocols]]
 - [[Community Resource Sharing]]
 - [[Sanctuary Emergency Systems]]
-- [[Faith Stability Magical Theory]]
+- [[Faith-Stability Magical Theory]]
 
 ## Player-Facing Summary
 

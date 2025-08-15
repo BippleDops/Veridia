@@ -1,17 +1,19 @@
 ---
+
 title: NPC_Interaction_Review
 type: npc
 tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # NPC_Interaction_Review
 
 ## Portrait
 
-![[portrait_npc_interaction_review.png]]
+![[Npc]]
 
 *Portrait reference for NPC_Interaction_Review*
 
@@ -227,3 +229,13 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

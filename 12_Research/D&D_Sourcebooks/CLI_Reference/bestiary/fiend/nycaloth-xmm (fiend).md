@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nycaloth-xmm-nycaloth-xmm.svg)
 
-# [[nycaloth xmm|Nycaloth]]
+# [[nycaloth-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 229*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,10 +110,10 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 "cr": "9"
 "traits":
   - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The nycaloth has [[advantage xphb|Advantage]]\
+  - "desc": "The nycaloth has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

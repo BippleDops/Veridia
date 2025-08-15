@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
 
-# [[adult green dragon xmm|Adult Green Dragon]]
+# [[Green Dragon Xmm]]
 *Source: Monster Manual (2024) p. 153. Available in the SRD and the Free Rules (2024)*  
 
 The words of adult green dragons are as deadly as their poisonous breath. They are brilliant schemers that pride themselves on influencing communities near their lairs. They obsess over information and create vast spy networks. Many of these dragons seek magical methods of surveillance or domination, and they manipulate adventurers into hunting down lost magic to aid in such control.
@@ -112,32 +112,32 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [[mind spike xphb|Mind Spike]]\
+      \ use of Spellcasting to cast [[Pike Xphb]]\
       \ (level 3 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage\
       \ plus 7 (2d6) Poison damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [[Area of Effect Xphb]].\
       \ Failure: 56 (16d6) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[detect magic xphb|Detect Magic]], [[mind spike xphb|Mind\]]
+      \ will: [[detect-magic-xphb (spells)]], [[Pike Xphb]]
       \ Spike]] (level 3 version)\n\n1/day:\
-      \ [[geas xphb|Geas]]"
+      \ [[geas-xphb (spells)]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[mind spike xphb|Mind Spike]]\
+  - "desc": "The dragon uses Spellcasting to cast [[Pike Xphb]]\
     "name": "Mind Invasion"
   - "desc": "Constitution Saving Throw: DC 17, each creature in a 20-foot-radius\
-      \ [[sphere area of effect xphb|Sphere]] centered\
+      \ [[Area of Effect Xphb]] centered\
       \ on a point the dragon can see within 90 feet. Failure: 7 (2d6) Poison damage,\
       \ and the target takes a -2 penalty to AC until the end of its next turn. Failure\
       \ or Success: The dragon can't take this action again until the start of its\
       \ next turn."
     "name": "Noxious Miasma"
-  - "desc": "The dragon moves up to half its [[speed xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -148,7 +148,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
       \ Draconic and can communicate telepathically with the dragon while within 1\
       \ mile of the lair.  \n- Poisonous Thicket. Ordinary plants growing within\
       \ 1 mile of the lair poison the air around them. Whenever a creature other than\
-      \ the dragon or its allies finishes a [[long rest xphb|Long Rest]]\
+      \ the dragon or its allies finishes a [[long-rest-xphb]]\
       \ in that area, it must succeed on a DC 15 Constitution saving throw or have\
       \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
       \  "

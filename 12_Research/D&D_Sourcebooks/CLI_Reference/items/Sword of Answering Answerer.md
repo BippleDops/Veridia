@@ -38,7 +38,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-answerer-sword-of-answering-answerer.svg)
 
 # Sword of Answering (Answerer)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a chaotic good creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a chaotic good creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

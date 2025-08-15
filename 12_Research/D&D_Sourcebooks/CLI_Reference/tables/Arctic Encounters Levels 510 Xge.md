@@ -44,33 +44,33 @@ world: Both
 | 06-07 | `d4` [[ogrillon-ogre-xmm|half-ogres]] |
 | 08-10 | `1d3 + 1` [[brown-bear-xmm|brown bears]] |
 | 11-15 | `d3` [[polar-bear-xmm|polar bears]] |
-| 16-20 | `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
-| 21-25 | A half-orc [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] tending to an injured [[polar-bear-xmm|polar bear]]. If the characters assist the druid, she gives them a vial of antitoxin. |
-| 26-30 | `2d8` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scouts]] |
+| 16-20 | `2d4` [[Bestiary]] |
+| 21-25 | A half-orc [[Bestiary]] tending to an injured [[polar-bear-xmm|polar bear]]. If the characters assist the druid, she gives them a vial of antitoxin. |
+| 26-30 | `2d8` [[Bestiary]] |
 | 31-35 | `2d4` [[ice-mephit-xmm|ice mephits]] |
-| 36-40 | `2d6 + 1` [[zombie xmm|zombies]] aboard a galleon trapped in the ice. Searching the ship yields `2d20` days of rations. |
-| 41-45 | 1 [[manticore xmm|manticore]] |
-| 46-50 | `2d6 + 3` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
-| 51-53 | `1d6 + 2` [[ogre xmm|ogres]] |
-| 54-55 | `2d4` [[griffon xmm|griffons]] |
-| 56-57 | `d4` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
-| 58-60 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]], `d3` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]], and `2d10 + 5` [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|bandits]] |
+| 36-40 | `2d6 + 1` [[Zombie Xmm]] aboard a galleon trapped in the ice. Searching the ship yields `2d20` days of rations. |
+| 41-45 | 1 [[Manticore Xmm]] |
+| 46-50 | `2d6 + 3` [[Bestiary]] |
+| 51-53 | `1d6 + 2` [[Ogre Xmm]] |
+| 54-55 | `2d4` [[griffon-xmm (monstrosity)]] |
+| 56-57 | `d4` [[Bestiary]] |
+| 58-60 | 1 [[Bestiary]] with 1 [[Bestiary]], `d3` [[Bestiary]], and `2d10 + 5` [[Bestiary]] |
 | 61-65 | `d4` hours of extreme cold (see chapter 5 of the *Dungeon Master's Guide*) |
-| 66-68 | 1 [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhaz]] |
-| 69-72 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d6` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|orogs]] and `2d8 + 6` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
+| 66-68 | 1 [[Remorhaz Xmm]] |
+| 69-72 | 1 [[Bestiary]] with `d6` [[Bestiary]] and `2d8 + 6` [[Bestiary]] |
 | 73-75 | 1 [[revet xmm|revet]] |
 | 76-80 | A howl that echoes over the land for `d3` minutes |
-| 81-82 | `d3` [[mammoth xmm|mammoths]] |
+| 81-82 | `d3` [[mammoth-xmm (beast)]] |
 | 83-84 | 1 [[young-white-dragon-xmm|young white dragon]] |
 | 85-86 | `2d4` [[winter-wolf-xmm|winter wolves]] |
-| 87-88 | `1d6 + 2` [[yeti xmm|yetis]] |
+| 87-88 | `1d6 + 2` [[abominable-yeti-xmm]] |
 | 89-90 | `d2` [[frost-giant-xmm|frost giants]] |
-| 91-92 | `d3` [[werebear xmm|werebears]] |
-| 93-94 | `d4` [[troll xmm|trolls]] |
+| 91-92 | `d3` [[werebear-xmm (monstrosity)]] |
+| 93-94 | `d4` [[Troll Xmm]] |
 | 95-96 | 1 [[abominable-yeti-xmm|abominable yeti]] |
-| 97-98 | 1 [[remorhaz xmm|remorhaz]] |
-| 99 | 1 [[roc xmm|roc]] |
-| 00 | `2d4` [[/03 Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 97-98 | 1 [[Remorhaz Xmm]] |
+| 99 | 1 [[Roc Xmm]] |
+| 00 | `2d4` [[Remorhaz Xmm]] |
 ^arctic-encounters-levels-510
 
 ## 🔧 Deep Evaluation Improvements
@@ -112,3 +112,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

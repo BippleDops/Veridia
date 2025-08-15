@@ -65,7 +65,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[advantage xphb|Advantage]] on Charisma ([[skills#Intimidation|Intimidation]]) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[Advantage Xphb]] on Charisma ([[skills#Intimidation|Intimidation]]) checks.
 
 ## Fire Play
 
@@ -85,7 +85,7 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 333. Available in the SRD and the Free Rules (2024)*
 

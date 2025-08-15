@@ -33,16 +33,16 @@ world: Both
 # Metamagic
 *Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the SRD* 
 
-- [[careful spell xphb|Careful Spell]]
-- [[distant spell xphb|Distant Spell]]
-- [[empowered spell xphb|Empowered Spell]]
-- [[extended spell xphb|Extended Spell]]
-- [[heightened spell xphb|Heightened Spell]]
-- [[quickened spell xphb|Quickened Spell]]
-- [[seeking spell xphb|Seeking Spell]]
-- [[subtle spell xphb|Subtle Spell]]
-- [[transmuted spell xphb|Transmuted Spell]]
-- [[twinned spell xphb|Twinned Spell]]
+- [[Careful Spell Xphb]]
+- [[Distant Spell Xphb]]
+- [[Empowered Spell Xphb]]
+- [[Extended Spell Xphb]]
+- [[Heightened Spell Xphb]]
+- [[quickened-spell-xphb (optional-features)]]
+- [[Seeking Spell Xphb]]
+- [[subtle-spell-xphb (optional-features)]]
+- [[transmuted-spell-xphb (optional-features)]]
+- [[twinned-spell-xphb (optional-features)]]
 
 ## 🔧 Deep Evaluation Improvements
 

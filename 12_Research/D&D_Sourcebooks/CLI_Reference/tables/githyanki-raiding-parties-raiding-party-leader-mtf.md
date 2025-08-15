@@ -38,10 +38,10 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm|Githyanki Supreme Commander]] |
-| 2-3 | [[githyanki-knight-xmm|Githyanki Knight]] |
-| 4-5 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Githyanki Kith'rak]] |
-| 6 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Githyanki Gish]] |
+| 1 | [[Bestiary]] |
+| 2-3 | [[githyanki-knight-xmm (aberration)]] |
+| 4-5 | [[Bestiary]] |
+| 6 | [[Bestiary]] |
 ^raiding-party-leader
 
 ## 🔧 Deep Evaluation Improvements

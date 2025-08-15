@@ -1,7 +1,7 @@
 ---
 
 title: Ritual Redirection Options
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - session-notes
@@ -12,7 +12,7 @@ tags:
 - content/lore
 - quest
 - techniques
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - complete
 - content/mechanics
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,14 +91,14 @@ improvements: 20
 
 ## Overview
 
-Ritual Redirection Options represent one of the most sophisticated branches of magical theory and practice in Aethermoor - the ability to fundamentally alter the purpose, target, or effects of magical rituals while they are in progress. This discipline requires exceptional skill, precise timing, and deep understanding of magical flow patterns. Originally developed as a defensive technique against hostile ritual magic, it has evolved into a comprehensive system for maximizing magical efficiency and adapting to changing circumstances.
+Ritual Redirection Options represent one of the most sophisticated branches of [[Magical Theory]] and practice in Aethermoor - the ability to fundamentally alter the purpose, target, or effects of magical rituals while they are in progress. This discipline requires exceptional skill, precise timing, and deep understanding of magical flow patterns. Originally developed as a defensive technique against hostile ritual magic, it has evolved into a comprehensive system for maximizing magical efficiency and adapting to changing circumstances.
 
 ### The Flow Principle
 
-All magical rituals create **Etheric Currents** - streams of magical energy that follow predictable patterns as they build toward their intended effect. These currents can be visualized as rivers of power flowing from the caster through various focal points toward the ritual's target. Redirection techniques work by introducing controlled disruptions into these flows, causing them to change course without dissipating entirely.
+All magical rituals create **[[Etheric Currents]]** - streams of magical energy that follow predictable patterns as they build toward their intended effect. These currents can be visualized as rivers of power flowing from the caster through various focal points toward the ritual's target. Redirection techniques work by introducing controlled disruptions into these flows, causing them to change course without dissipating entirely.
 
 **Core Concepts:**
-- **Current Mapping**: Visualizing the path of magical energy through a ritual
+- **Current [[map]]ping**: Visualizing the [[path]] of magical energy through a ritual
 - **Flow Dynamics**: Understanding how magical currents interact with environmental factors
 - **Resoce Points**: Identifying moments when redirection is possible without ritual collapse
 - **Energy Conservation**: Ensuring that redirected power maintains its potency
@@ -106,7 +106,7 @@ All magical rituals create **Etheric Currents** - streams of magical energy that
 
 ### The Intervention Window
 
-Most rituals have specific **Intervention Windows** - brief periods during the casting process when redirection is possible. These windows typically occur:
+Most rituals have specific **[[Intervention Windows]]** - brief periods during the casting process when redirection is possible. These windows typically occur:
 - **During Preparation Phase** (40% success rate): Before magical energy begins flowing
 - **At Quarter Completion** (75% success rate): When initial patterns are established
 - **At Half Completion** (60% success rate): At the ritual's energetic midpoint
@@ -119,12 +119,12 @@ Most rituals have specific **Intervention Windows** - brief periods during the c
 **Purpose Redirection**: Altering the intended effect while maintaining the same target
 **Power Redirection**: Redirecting energy to strengthen other ongoing magical effects
 **Temporal Redirection**: Changing when the ritual's effects will manifest
-**Dimensional Redirection**: Shifting the ritual's effects to different planes or locations
+**Dimensional Redirection**: Shifting the ritual's effects to different planes or [[location]]s
 **Inverse Redirection**: Reversing the ritual's intended effects completely
 
 ### Origins in the War of Burning Skies (634-641 AR)
 
-Ritual Redirection was first developed during the **War of Burning Skies** when enemy forces began using large-scale destruction rituals against Aethermoor's floating cities. **Archmage Deflector Windturner** pioneered the first redirection techniques as a desperate measure to turn enemy fire spells into healing rain.
+Ritual Redirection was first developed during the **War of Burning Skies** when enemy forces began using large-scale destruction rituals against Aethermoor's [[Floating Cities]]. **[[Archmage Deflector Windturner]]** pioneered the first redirection techniques as a desperate measure to turn enemy fire spells into healing rain.
 
 The initial success was dramatic - a ritual intended to incinerate the city of **Nimbus Harbor** was redirected to purify the water supply and strengthen the city's defensive barriers. This victory established redirection as a legitimate magical discipline.
 
@@ -143,7 +143,7 @@ Following the war's end, **Master Windturner** established the **Academy of Redi
 
 ### The Great Redirection Disaster (723 AR)
 
-An attempt to redirect a continental weather control ritual resulted in the **Storm of Eternal Lightning**, a magical tempest that raged for three months and caused significant damage across the kingdom. This disaster led to strict regulations on redirection practice and the establishment of the **Board of Redirection Ethics**.
+An attempt to redirect a continental weather control ritual resulted in the **[[Storm of Eternal Lightning]]**, a magical tempest that raged for three months and caused significant damage across the kingdom. This disaster led to strict regulations on redirection practice and the establishment of the **Board of Redirection Ethics**.
 
 ### Modern Developments (800 AR - Present)
 
@@ -162,7 +162,7 @@ Contemporary redirection specialists have developed sophisticated techniques inc
 - **Purpose Transformation**: Changing healing spells to enhancement magic
 - **Element Conversion**: Turning fire rituals into ice effects
 - **Planar Shifting**: Redirecting effects to adjacent dimensions
-- **Time Displacement**: Delaying or accelerating when effects manifest
+- **[[Time]] Displacement**: Delaying or accelerating when effects manifest
 - Required Training: 2 years, 70% success rate with expert instruction
 
 **Level 3: Advanced Redirections**
@@ -183,14 +183,14 @@ Contemporary redirection specialists have developed sophisticated techniques inc
 - **Fundamental Force Manipulation**: Redirecting rituals that affect natural laws
 - **Consciousness Transfer**: Moving souls or minds through redirection
 - **Reality Rewriting**: Permanently altering how magic functions
-- **Divine Intervention**: Redirecting divine magic or deity attention
+- **Divine Intervention**: Redirecting [[Divine Magic]] or deity attention
 - Required Training: Theoretical only, no confirmed successful practitioners
 
 ### Specialization Schools
 
 **The Defensive School**
 Focuses on protecting against hostile rituals through redirection rather than blocking.
-- **Signature Techniques**: Reflection Redirection, Absorption Conversion, Shield Amplification
+- **Signature Techniques**: Reflection Redirection, Absorption Conversion, [[Shield]] Amplification
 - **Primary Applications**: Military defense, personal protection, area denial
 - **Notable Practitioners**: **General Barrier Stormwind**, **Guardian Sage Deflectus**
 
@@ -209,7 +209,7 @@ Concentrates on completely changing the nature and purpose of ongoing rituals.
 **The Temporal School**
 Specializes in redirecting the timing aspects of rituals and magical effects.
 - **Signature Techniques**: Time Delay, Effect Acceleration, Temporal Splitting
-- **Primary Applications**: Strategic planning, synchronized operations, historical research
+- **Primary Applications**: Strategic planning, synchronized operations, [[Historical Research]]
 - **Notable Practitioners**: **Chronomancer Whenflow**, **Time Master Momentus**
 
 **The Dimensional School**
@@ -220,7 +220,7 @@ Focuses on redirecting magical effects across different planes and dimensions.
 
 ### Military Applications
 
-**The Royal Redirection Corps**
+**The [[Royal Redirection Corps]]**
 A specialized unit of 150 trained redirectors who serve as magical defense specialists.
 
 **Standard Military Techniques:**
@@ -240,13 +240,13 @@ The **Department of Magical Infrastructure** employs 89 redirectors to maintain 
 **Infrastructure Applications:**
 - **Weather Management**: Redirecting storm energy into power generation
 - **Transportation Networks**: Optimizing teleportation circle efficiency
-- **Water Systems**: Converting purification rituals for different contamination types
+- **Water Systems**: Converting [[Purification Rituals]] for different contamination types
 - **Lighting Arrays**: Redirecting excess magical energy to illuminate dark areas
-- **Communication Networks**: Routing messages through alternative magical pathways
+- **[[Communication Networks]]**: Routing messages through alternative magical pathways
 
 ### Academic Research
 
-**The Institute of Redirection Studies**
+**The [[Institute of Redirection Studies]]**
 Houses 127 researchers studying advanced redirection theory and applications.
 
 **Current Research Projects:**
@@ -259,7 +259,7 @@ Houses 127 researchers studying advanced redirection theory and applications.
 ### Commercial Applications
 
 **The Redirector's Guild**
-A professional organization of 234 licensed redirectors who offer services to private clients.
+A professional [[Organization]] of 234 licensed redirectors who offer services to private clients.
 
 **Commercial Services:**
 - **Magical Troubleshooting**: Fixing failed or corrupted rituals
@@ -294,7 +294,7 @@ A classified government agency that uses redirection for espionage and counterin
 
 ### Experimental Programs
 
-**Project Mindbridge**
+**[[Project Mindbridge]]**
 A secret research program investigating the use of redirection to manipulate consciousness and memory.
 
 **Theoretical Applications:**
@@ -304,16 +304,16 @@ A secret research program investigating the use of redirection to manipulate con
 - **Collective Consciousness**: Creating shared mental networks through redirected mind magic
 - **Identity Protection**: Redirecting attempts to discover true identities
 
-### Emergency Protocols
+### [[Emergency Protocol]]s
 
-**The Last Resort Procedures**
+**[[The Last Resort Procedures]]**
 Highly classified techniques reserved for existential threats to the kingdom.
 
 **Ultimate Redirection Techniques:**
-- **Reality Anchor Redirection**: Preventing dimensional collapse through massive energy redirection
+- **Reality Anchor Redirection**: Preventing [[Dimensional Collapse]] through massive energy redirection
 - **Population Transfer**: Using redirection to move entire cities to safety
 - **Time Loop Creation**: Trapping enemies in redirected temporal magic
-- **Divine Intervention Requests**: Redirecting prayers and offerings to gain deity attention
+- **Divine Intervention Re[[Quests]]**: Redirecting prayers and offerings to gain deity attention
 - **Planar Evacuation**: Moving the entire kingdom to another dimension if necessary
 
 ### Magical Backlash
@@ -324,7 +324,7 @@ Practitioners who attempt redirection beyond their skill level risk **Redirectio
 **Symptoms:**
 - **Stage 1**: Occasional misfires in personal spell casting
 - **Stage 2**: Inability to complete simple magical tasks
-- **Stage 3**: Random magical discharges affecting nearby people and objects
+- **Stage 3**: Random magical discharges affecting nearby [[People]] and objects
 - **Stage 4**: Complete loss of magical ability and sensitivity
 - **Stage 5**: Permanent magical allergy - physical pain when exposed to magic
 
@@ -429,7 +429,7 @@ Characters can learn redirection as a specialized skill requiring both magical a
 - Range modifications
 
 **Intermediate Redirections** (DC 16-20)
-- Purpose transformations
+- Purpose [[Transformations]]
 - Element conversions
 - Multi-target splitting
 - Temporal adjustments
@@ -495,11 +495,11 @@ Ritual Redirection Options is a undersea element of the setting, known for biolu
 
 Legends speak of Ritual Redirection Options as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ritual Redirection Options.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

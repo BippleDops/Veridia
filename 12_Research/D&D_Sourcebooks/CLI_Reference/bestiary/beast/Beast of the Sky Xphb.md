@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-sky-xphb-beast-of-the-sky-xphb.svg)
 
-# [[beast of the sky xphb|Beast of the Sky]]
+# [[beast]]
 *Source: Player's Handbook (2024) p. 124*  
 
 ```statblock

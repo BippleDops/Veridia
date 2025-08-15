@@ -1,7 +1,7 @@
 ---
 
 title: The Cerulean Trench
-type: Location
+type: [[location]]
 tags:
 - both
 - aquatic
@@ -19,7 +19,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.854438+00:00'
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,11 +95,11 @@ improvements: 20
 
 ## Overview
 
-The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[12_Research/D&D_Statblocks/The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[12_Research/D&D_Statblocks/The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[Aquabyssos World Overview]].
+The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[Great Drownin]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[The Cerulean Breath]] in its most concentrated form. Strange creatures, [[Ancient Ruins]], and reality-warping phenomena make it one of the most dangerous regions in [[[[Aquabyssos]] [[World Overview]]]].
 
 ### The Azure Shelf (5000-7000 feet)
 
-The "shallow" entry area where [[Depth Wardens]] maintain observation posts. [[Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
+The "shallow" entry area where [[[[Depth Warden]]s]] maintain observation posts. [[Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
 
 ### The Luminous Drop (7000-10000 feet)
 
@@ -107,7 +107,7 @@ Vertical cliff faces lined with glowing crystalline formations. [[The Trencher F
 
 ### The Pressure Cathedral (10000-12000 feet)
 
-A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth Touched]] claims to receive visions from [[12_Research/D&D_Statblocks/The Deepmind]] here.
+A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[12 Research]] here.
 
 ### The Void Gardens (12000-15000 feet)
 
@@ -117,7 +117,7 @@ Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulea
 
 No one who has descended below 15000 feet has returned sane. Expedition logs speak of "singing stones" and "the dreaming city."
 
-### The Drowning Gate
+### [[The Drowning]] Gate
 
 Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
 
@@ -131,7 +131,7 @@ Collection of massive skeletons from creatures that shouldn't exist. [[Beast Mas
 
 ### The Echo Chamber
 
-Natural formation that amplifies sound across impossible distances. [[The Free Current]] uses it to send coded messages.
+Natural formation that amplifies sound across impossible distances. [[The [[Free Current]]]] uses it to send coded messages.
 
 ### The First Temple
 
@@ -149,9 +149,9 @@ Creatures mutated by concentrated exposure to the Cerulean Breath. Includes:
 - Thought-jellies that feed on memories
 - Depth angels (origin unknown, possibly hallucinations)
 
-### The Lost Expeditions
+### [[The Lost Expedition]]s
 
-Various groups that went too deep and never returned, occasionally spotted as ghostly figures in the blue glow.
+Various [[Groups]] that went too deep and never returned, occasionally spotted as ghostly figures in the blue glow.
 
 ## Current Activity
 
@@ -170,7 +170,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 > - At the bottom lies the entity's physical form, slowly awakening
 > - The Drowning Gate is counting down to something
 
-## Random Encounters (d12)
+## [[[[Random Encounter]]s]] (d12)
 
 1. Trencher Folk trading party, speaking in whispers
 2. School of glass eels phasing through area
@@ -179,7 +179,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 5. Pressure cascade approaching rapidly
 6. Lost expedition member, quite insane
 7. Depth angel hovering, watching silently
-8. Temporal eddy aging/reversing time
+8. Temporal eddy aging/reversing [[Time]]
 9. The Call attempting to lure party deeper
 10. Ancient construct, still partially functional
 11. Memory shard containing crucial information
@@ -189,20 +189,20 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 
 The Cerulean Trench is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Cerulean Trench as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cerulean Trench.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -221,6 +221,34 @@ The Cerulean Trench is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Cerulean Trench:
@@ -236,3 +264,39 @@ Ongoing situations affecting The Cerulean Trench:
 - An heirloom has gone missing and chaos spreads
 - A document has gone missing and chaos spreads
 - A map reveals the truth about the cult
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

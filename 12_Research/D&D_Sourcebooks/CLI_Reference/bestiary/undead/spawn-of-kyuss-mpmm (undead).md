@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spawn-of-kyuss-mpmm-spawn-of-kyuss-mpmm.svg)
 
-# [[spawn of kyuss mpmm|Spawn of Kyuss]]
+# [[Spawn of Kyuss Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.

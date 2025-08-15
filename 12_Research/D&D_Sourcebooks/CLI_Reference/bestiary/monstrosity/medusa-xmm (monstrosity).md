@@ -36,7 +36,7 @@ updated: '2025-08-12T23:37:34.947444'
 world: Both
 ---
 
-# [[medusa xmm|Medusa]]
+# [[medusa-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 205. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -117,8 +117,8 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
   - "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage."
     "name": "Poison Ray"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [[cone area of effect xphb|Cone]].\
-      \ If the medusa sees its reflection in the [[cone area of effect xphb|Cone]],\
+  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [[Area of Effect Xphb]].\
+      \ If the medusa sees its reflection in the [[Area of Effect Xphb]],\
       \ the medusa must make this save. 1st Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
       \ [[conditions#Restrained|Restrained]], ending the effect\

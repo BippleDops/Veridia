@@ -41,7 +41,7 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 
-A Lock comes with a key. Without the key, a creature can use [[thieves tools xphb|Thieves' Tools]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
+A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xphb (items)]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
 
 *Source: Player's Handbook (2024) p. 226. Available in the SRD and the Free Rules (2024)*
 

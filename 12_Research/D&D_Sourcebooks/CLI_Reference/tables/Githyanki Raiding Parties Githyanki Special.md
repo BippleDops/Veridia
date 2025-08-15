@@ -41,10 +41,10 @@ world: Both
 | dice: d10 | Ally |
 |-----------|------|
 | 1-3 | No special Allies |
-| 4-5 | [[githyanki-knight-xmm|Githyanki Knights]] |
-| 6-7 | [[githyanki-knight-xmm|Knights]] and [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] |
-| 8-9 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] and [[githyanki-knight-xmm|Knights]] |
-| 10 | [[/03 Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Kith'rak]] |
+| 4-5 | [[githyanki-knight-xmm (aberration)]] |
+| 6-7 | [[githyanki-knight-xmm (aberration)]] and [[Bestiary]] |
+| 8-9 | [[Bestiary]] and [[githyanki-knight-xmm (aberration)]] |
+| 10 | [[Bestiary]] |
 ^githyanki-special-allies
 
 ## 🔧 Deep Evaluation Improvements

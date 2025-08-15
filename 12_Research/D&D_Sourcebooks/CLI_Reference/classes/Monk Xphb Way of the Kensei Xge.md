@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Way of the Kensei
-*[[monk xphb|Monk]]: Monk Subclass*  
+*[[Monk Xphb Warrior of Mercy Xphb]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
@@ -90,7 +90,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 #### Way of the Brush
 
-You gain proficiency with your choice of [[calligraphers supplies xphb|calligrapher's supplies]] or [[painters supplies xphb|painter's supplies]].
+You gain proficiency with your choice of [[Calligraphers Supplies Xphb]] or [[painters-supplies-xphb (items)]].
 
 ### One with the Blade (Level 6)
 

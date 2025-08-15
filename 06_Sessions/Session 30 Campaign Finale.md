@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_30_Campaign_Finale
 
----
+- --
 title: Session 30 Campaign Finale
 type: Session Summary
 tags:
@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
----
+- --
 
 ### Epic Conclusion
 **Duration:** 6 hours (double session)  
@@ -143,13 +143,13 @@ The party successfully prevented catastrophic merger while allowing beneficial c
 **Campaign Impact:** Players still reference events years later  
 **Recommendation:** "Best campaign we've ever played"  
 
----
+- --
 
-*A successful campaign finale resolves character arcs and plot threads while honoring player agency and the collaborative story created together.*
+* A successful campaign finale resolves character arcs and plot threads while honoring player agency and the collaborative story created together.*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -161,11 +161,11 @@ The party successfully prevented catastrophic merger while allowing beneficial c
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -185,3 +185,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

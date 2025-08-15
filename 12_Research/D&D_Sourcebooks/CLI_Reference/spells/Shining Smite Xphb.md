@@ -43,11 +43,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [[bright-light-xphb|Bright Light]] in a 5-foot radius, attack rolls against it have [[advantage xphb|Advantage]], and it can't benefit from the [[conditions#Invisible|Invisible]] condition.
+The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [[Light Xphb]] in a 5-foot radius, attack rolls against it have [[Advantage Xphb]], and it can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 2.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the SRD and the Free Rules (2024)*
 

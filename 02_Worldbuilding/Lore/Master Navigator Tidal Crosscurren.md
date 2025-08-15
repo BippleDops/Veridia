@@ -1,7 +1,7 @@
 ---
 
 title: Master Navigator Tidal Crosscurren
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -65,7 +65,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -87,15 +87,15 @@ Master Navigator Tidal Crosscurren is a undersea element of the setting, known f
 
 Legends speak of Master Navigator Tidal Crosscurren as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Navigator Tidal Crosscurren.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Master Navigator Tidal Crosscurren represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -115,4 +115,4 @@ Mentioned in The First Prophecy of Shadows
 
 - The authorities needs help finding before the new moon
 - A letter reveals a betrayal about a local noble
-- A merchant needs help delivering before winter
+- A [[Merchant]] needs help delivering before winter

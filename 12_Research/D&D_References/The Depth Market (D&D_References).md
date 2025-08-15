@@ -582,7 +582,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 **Related Items and Concepts**:
 - [[Abyssal Crystals]]
-- [[Deep Sea Artifacts]]
+- [[Deep-Sea Artifacts (D&D_References)]]
 - [[Pressure Technology]]
 - [[Depth Merchant's Consortium]]
 

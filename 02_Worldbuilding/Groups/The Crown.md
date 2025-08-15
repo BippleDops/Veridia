@@ -17,7 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[02 Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The]]
+headquarters: '[[Places]]
   Crystal Palace]]'
 membership: Unknown
 MyCategory: Unknown

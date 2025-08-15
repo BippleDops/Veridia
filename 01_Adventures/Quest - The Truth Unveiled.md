@@ -1,11 +1,28 @@
 ---
+
 title: Quest - The Truth Unveiled
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
@@ -148,7 +165,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Secondary Locations
 
-**[[Port Meridian   Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
+**[[Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals ficial connections and transportation methods used by the conspiracy.
 
 **[[Parliament of Echoes]]** - The seat of government, where corrupted officials work to advance the conspiracy's agenda through legitimate political processes. Gathering evidence here requires extreme caution to avoid alerting conspiracy members to the investigation.
 
@@ -422,3 +439,36 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge

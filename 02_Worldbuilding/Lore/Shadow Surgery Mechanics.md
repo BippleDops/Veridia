@@ -4,13 +4,13 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
-title: Shadow Surgery Mechanics
+- [[Lore]]
+title: [[Shadow_Surgery]] (Shadow_Conspiracy)]] Mechanics
 type: lore
 updated: 2025-08-14
 ---
 
-# Shadow Surgery Mechanics
+# [[Shadow Surgery]] Mechanics
 
 ## Overview
 This document contains important information regarding Shadow Surgery Mechanics and its role within the greater narrative.
@@ -20,12 +20,12 @@ Shadow Surgery Mechanics represents a significant element within the campaign wo
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*

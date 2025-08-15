@@ -1,7 +1,7 @@
 ---
 
-title: The Shadowmere Purification
-type: Lore
+title: The [[Shadowmere]] Purification
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Material_Culture Improvements
 
@@ -74,17 +74,17 @@ improvements: 20
 
 ## Player-Facing Summary
 
-The Shadowmere Purification is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[[The Shadowmere]] Purification is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
 Legends speak of The Shadowmere Purification as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadowmere Purification.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -99,5 +99,5 @@ Mentioned in The Second Prophecy of Winds
 ## Plot Hooks
 
 - A letter reveals a betrayal about the government
-- A merchant needs help finding before the new moon
+- A [[Merchant]] needs help finding before the new moon
 - A journal reveals the truth about a local noble

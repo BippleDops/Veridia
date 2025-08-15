@@ -56,7 +56,7 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-knowledge-domain "class=XPHB"|Cleric (Knowledge Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 290. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and truth emerges
 - A map reveals the truth about this place
 - Someone is protecting information for revenge
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[legend-lore-xphb (spells)-phb]]` in CLI_Reference/spells/

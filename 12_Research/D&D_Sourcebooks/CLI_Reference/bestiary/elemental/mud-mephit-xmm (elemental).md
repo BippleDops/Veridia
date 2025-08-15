@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mud-mephit-xmm-mud-mephit-xmm.svg)
 
-# [[mud mephit xmm|Mud Mephit]]
+# [[Mud Mephit Xmm]]
 *Source: Monster Manual (2024) p. 207*  
 
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
@@ -99,7 +99,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-      \ creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the mephit. Failure: The target has the [[conditions#Restrained|Restrained]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"

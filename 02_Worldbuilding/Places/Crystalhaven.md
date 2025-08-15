@@ -1,7 +1,7 @@
 ---
 
 title: Crystalhaven
-type: Location
+type: [[location]]
 tags:
 - both
 - world/both
@@ -16,7 +16,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.016354+00:00'
@@ -31,7 +31,7 @@ improvements: 20
 > [!figure] View
 
 # Crystalhaven
-*The Crystal Throne, Heart of Aethermoor*
+*The [[Crystal Throne]], Heart of Aethermoor*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,15 +82,15 @@ improvements: 20
 - Describe rites of passage and adulthood markers
 
 ## Overview
-Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[Queen Seraphina Lumengarde]] and the center of crystal innovation.
+Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest [[Aether Crystal]] formation on the continent, the city serves as the seat of power for [[[[Queen Seraphina]] [[Lumengarde]]]] and the center of crystal innovation.
 
-### Sensory Immersion: The Crystal Throne
+### Sensory Immersion: [[The Crystal Throne]]
 
-**Visual Spectacle**: Crystalhaven exists in a constant state of prismatic wonder. Massive aether crystals integrated into every structure refract sunlight into rainbow cascades that paint the streets in shifting patterns of colored light. Building surfaces shimmer with embedded crystal veins that pulse with magical energy, creating a living cityscape where architecture breathes with power. At night, the city transforms into a constellation of earthbound stars as crystal formations glow with stored solar energy, creating navigation landmarks visible from miles away. The corruption veining through certain districts appears as sickly purple-black threads that seem to absorb light, creating unnatural shadows that move independently of their sources.
+**Visual Spectacle**: Crystalhaven exists in a constant state of prismatic wonder. Massive [[Aether Crystals]] integrated into every structure refract sunlight into rainbow cascades that paint the streets in shifting patterns of co[[Lore]]d light. Building surfaces shimmer with [[Embed]]ded crystal veins that pulse with magical energy, creating a living cityscape where architecture breathes with power. At night, the city transforms into a constellation of earthbound stars as crystal formations glow with stored solar energy, creating navigation landmarks visible from miles away. The corruption veining through certain districts appears as sickly purple-black threads that seem to absorb light, creating unnatural shadows that move independently of their sources.
 
-**Harmonic Atmosphere**: The city resonates with a complex symphony of crystal harmonics - each building, street, and district contributing to an ever-changing musical composition that reflects the collective mood and magical health of the population. Healthy crystal formations produce clear, bell-like tones that create feelings of peace and well-being, while corrupted areas generate discordant buzzing that causes headaches and anxiety. The Royal Palace's great crystal produces a deep, throne-like bass note that can be felt in the bones throughout the city, serving as both a symbol of royal authority and a barometer of the queen's health.
+**Harmonic Atmosphere**: The city resonates with a complex symphony of [[Crystal Harmonics]] - each building, street, and district contributing to an ever-changing musical composition that reflects the collective mood and magical health of the population. Healthy crystal formations produce clear, bell-like tones that create feelings of peace and well-being, while corrupted areas generate discordant buzzing that causes headaches and anxiety. The [[Royal Palace]]'s great crystal produces a deep, throne-like bass note that can be felt in the bones throughout the city, serving as both a symbol of royal authority and a barometer of [[The Queen]]'s health.
 
-**Atmospheric Magic**: The air itself sparkles with suspended crystal dust, creating a faint shimmer that makes everything appear slightly ethereal. Breathing in Crystalhaven feels different - the crystal-charged atmosphere provides an energizing sensation that enhances magical ability but also gradually builds toward addiction and eventual corruption. Different districts carry distinct magical flavors: the Forge District tastes of metallic ozone and industrial magic, the Scholar's Sanctum carries the crisp flavor of organized knowledge, while the Shadow Warren has a bitter, empty taste that warns of corruption.
+**Atmospheric Magic**: The air itself sparkles with suspended crystal dust, creating a faint shimmer that makes everything appear slightly ethereal. Breathing in Crystalhaven feels different - the crystal-charged atmosphere provides an energizing sensation that enhances magical ability but also gradually builds toward addiction and eventual corruption. Different districts carry distinct magical flavors: the [[Forge District]] tastes of metallic ozone and industrial magic, the Scholar's Sanctum carries the crisp flavor of organized knowledge, while [[The Shadow Warren]] has a bitter, empty taste that warns of corruption.
 
 **Tactile Enhancement**: Crystal-infused surfaces throughout the city respond to touch, providing subtle feedback about their magical charge and current function. Handrails warm to comfortable temperatures automatically, stairs adjust their friction for optimal grip, and even cobblestones pulse gently underfoot to guide lost visitors toward their destinations. However, corrupted areas feel cold and dead, with surfaces that seem to drain body heat and create an unpleasant tingling sensation that grows stronger with prolonged contact.
 
@@ -99,13 +99,13 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 ### The Radiant Quarter
 **Sensory Signature**: The most prestigious district radiates warmth and golden light from perfectly maintained crystal formations. The air shimmers with prismatic effects as sunlight refracts through architectural crystals, creating rainbow patterns that shift throughout the day. Sounds here carry with crystal clarity - conversations, footsteps, and even whispers seem amplified and purified. The temperature remains consistently pleasant through crystal-regulated climate control, while the ground itself pulses gently with contained magical energy.
 
-- **The Crystal Palace** - Home to [[Queen Seraphina Lumengarde]]
-  *Environmental Details*: The palace emanates a deep harmonic hum that resonates through visitors' bones, creating a sense of awe and authority. Hidden corruption in the throne room creates cold spots and areas where sound becomes muffled, though these effects are carefully concealed by illusion magic. Walls pulse with stored sunlight, creating an eternal golden hour effect.
+- **[[The [[Crystal Palace]]]]** - Home to [[Queen Seraphina Lumengarde]]
+  *Environmental Details*: The palace emanates a deep harmonic hum that resonates through visitors' bones, creating a sense of awe and authority. Hidden corruption in the [[Throne Room]] creates cold spots and areas where sound becomes muffled, though these effects are carefully concealed by illusion magic. Walls pulse with stored sunlight, creating an eternal golden hour effect.
 
 - **The Hall of Resoce** - Parliament building
   *Acoustic Environment*: Designed for perfect acoustics, every word spoken carries clearly throughout the chamber. Crystal formations record speeches and can replay them on command, creating an environment where political words have literal weight and permanence.
 
-- **Embassy Row** - Foreign dignitaries and [[Prince Caspian Duskwater]]'s former residence
+- **[[Embassy Row]]** - Foreign dignitaries and [[[[Prince Caspian]] Duskwater]]'s former residence
   *Cultural Atmosphere*: Each embassy maintains its own environmental bubble - foreign scents, sounds, and even lighting that help visiting dignitaries feel at home while showcasing the cultural diversity that Crystalhaven welcomes.
 
 ### The Forge District
@@ -114,7 +114,7 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 - **[[The Crystalline Foundry]]** - Largest crystal refinement facility
   *Industrial Environment*: Massive crystal formations being shaped and refined create spectacular light shows of dangerous beauty. Workers wear special protective equipment against crystal radiation. The air shimmers with heat and magical energy, while the sound of crystal formation - a combination of growing, chiming, and occasionally cracking - creates an otherworldly acoustic experience.
 
-- **[[Artificer's Row]]** - Magical item creation
+- **[[[[Artificer]]'s Row]]** - Magical item creation
   *Workshop Atmosphere*: Each workshop hums with different magical frequencies as artisans craft specialized items. The street itself sparkles with escaped magical energy from various experiments. Scents range from ozone and heated metal to exotic magical components. Window displays glow with the warm light of completed magical items.
 
 - **[[The Aether Works]]** - Run by [[Master Artificer Korvin Gearwright]]
@@ -124,9 +124,9 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 **Sensory Signature**: Quiet contemplation enhanced by crystal-amplified mental clarity. The air carries the crisp scent of preserved knowledge and organized thought. Sound here is naturally muffled to promote concentration, while crystal formations provide perfect reading light that adjusts to individual needs. Temperature control creates comfortable study environments regardless of weather.
 
 - **[[The Grand Archive]]** - Overseen by [[Keeper Elara Moonwhisper]]
-  *Library Environment*: Crystal formations preserve and organize knowledge, creating an environment where information can literally be felt in the air. Books glow softly when relevant to a reader's research, while crystal reading-lights adjust automatically for optimal comprehension. The silence here is profound but comfortable, broken only by the soft whisper of turning pages and the occasional crystal chime of discovery.
+  *Library Environment*: Crystal formations preserve and organize knowledge, creating an environment where information can literally be felt in the air. Books glow softly when relevant to a reader's research, while crystal reading-lights adjust automatically for optimal comprehension. [[The Silence]] here is profound but comfortable, broken only by the soft whisper of turning pages and the occasional crystal chime of discovery.
 
-- **[[The Crystal Academy]]** - Where [[Professor Aldric Crystalweaver]] teaches
+- **[[The [[Crystal Academy]]]]** - Where [[Professor Aldric Crystalweaver]] teaches
   *Educational Atmosphere*: Classrooms utilize crystal formations to enhance learning, creating environments where complex concepts can be visualized in three-dimensional light displays. The air carries a sense of potential and discovery, while crystal formations respond to students' understanding levels, providing feedback on comprehension.
 
 - **[[The Observatory]]** - Studies crystal formations
@@ -138,22 +138,22 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 - **[[The Gilded Shard]]** - Upscale inn run by [[Madame Rosalind Goldleaf]]
   *Luxury Environment*: Crystal formations create perfect ambient lighting and temperature control, while magical amenities provide unprecedented comfort. The air carries subtle perfumes and the sense of discreet luxury, while sound dampening ensures privacy for high-stakes conversations.
 
-- **Crystal Exchange** - Controlled by [[Merchant Lord Silas Copperfield]]
-  *Ficial Environment*: Crystal formations here evaluate and authenticate magical goods automatically, creating an environment of trust and precision. The air tastes of prosperity and careful calculation, while crystal displays show current market values and economic trends in real-time.
+- **Crystal Exchange** - Controlled by [[[[Merchant]] Lord Silas Copperfield]]
+  *Ficial Environment*: Crystal formations here evaluate and authenticate magical goods automatically, creating an environment of trust and precision. The air tastes of prosperity and careful calculation, while crystal displays show current market values and economic trends in real-[[Time]].
 
-- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three Eyes" Flint]]
+- **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three-Eyes" Flint]]
   *Information Environment*: Crystal formations enhance acoustic properties to carry whispered conversations while maintaining privacy for sensitive discussions. The air buzzes with potential secrets and valuable information, while the lighting adjusts to create intimate conversation areas within the larger social space.
 
 ### The Shadow Warren
-**Sensory Signature**: The most dangerous district, where crystal corruption creates an environment of decay and danger. Purple-black corruption veins through crystal formations, creating areas of cold, dead air that taste bitter and metallic. Sound here becomes muffled and distorted, while lighting fails unpredictably. Temperature variations create uncomfortable conditions, while the ground itself feels unstable and unreliable.
+**Sensory Signature**: The most dangerous district, where [[Crystal Corruption]] creates an environment of decay and danger. Purple-black corruption veins through crystal formations, creating areas of cold, dead air that taste bitter and metallic. Sound here becomes muffled and distorted, while lighting fails unpredictably. Temperature variations create uncomfortable conditions, while the ground itself feels unstable and unreliable.
 
-- **The Undercity** - Controlled by [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- **The Undercity** - Controlled by [[The Whisper Syndicate|[[02 Worldbuilding]]/[[Groups]]/The Whisper Syndicate]]
   *Underground Environment*: Corrupted crystal formations create an environment of perpetual twilight and hidden dangers. Air circulation is poor, creating stale, oppressive conditions. Sound echoes strangely through corrupted crystal acoustics, while navigation becomes difficult due to shifting shadows and unreliable magical lighting.
 
 - **Black Shard Market** - Illegal crystal trade
   *Criminal Environment*: Corrupted and illegal crystal goods create an atmosphere of danger and forbidden power. The air tastes of corruption and desperation, while the constant risk of crystal contamination makes every transaction potentially lethal. Lighting is deliberately dim to hide illegal activities.
 
-- **The Corroded Crown** - Tavern frequented by [[Vex Shadowthorn]]'s agents
+- **[[The Corroded Crown]]** - Tavern frequented by [[Vex Shadowthorn]]'s agents
   *Criminal Tavern Environment*: Corrupted crystal formations create an atmosphere of menace and hidden danger. Conversations are deliberately muffled to hide criminal planning, while the air carries the bitter taste of corruption and the constant tension of illegal activity.
 
 ### The Crystal Throne
@@ -162,25 +162,25 @@ Massive throne carved from a single Aether Crystal, slowly corrupting anyone who
 ### The Resoce Spire
 Tallest structure in the city, used for long-distance magical communication. Maintained by [[The Crystal Wardens]].
 
-### The Purification Gardens
-Where those suffering from crystal corruption seek healing. Run by [[High Priestess Celeste Dawnbringer]].
+### [[The Purification Gardens]]
+Where those suffering from crystal corruption seek healing. Run by [[[[High Priestess Celeste]] Dawnbringer]].
 
 ## Adventure Hooks
 1. Noble's child showing signs of corruption needs discrete help
 2. Theft from the Crystal Academy's restricted vault
 3. [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] recruiting for a heist
 4. Strange dreams plaguing those near the throne
-5. Ancient tome discovered mentioning the Seventh Shard
+5. Ancient tome discovered mentioning [[The [[Seventh Shard]]]]
 
 ## DM Secrets
 > [!warning] DM Only
-> - The Crystal Throne is actually one of the Seven Shards
+> - The Crystal Throne is actually one of [[The [[Seven Shards]]]]
 > - Queen Seraphina meets with [[The Crimson Sage]] in secret
 > - The Undercity connects to ancient pre-Shattering ruins
-> - [[Brother Marcus Steelbane]] plans to assassinate the Queen during the Crystal Festival
-> - The corruption in the throne room is spreading, affecting the palace staff
+> - [[[[Brother Marcus]] Steelbane]] plans to [[Assassin]]ate the Queen during the [[Crystal Festival]]
+> - The corruption in [[The Throne Room]] is spreading, affecting the palace staff
 
-## Random Encounters (City)
+## [[[[Random Encounter]]s]] (City)
 
 | d12 | Encounter |
 |-----|-----------|
@@ -195,7 +195,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 ### Morning Routines (Dawn to 9 AM)
 
-**The Crystal Dawn**: Crystalhaven awakens not to a rising sun, but to the gradual brightening of crystal formations throughout the city. The Great Spire at the city's heart begins the daily light cycle at 5 AM, sending harmonic pulses through the crystal network that gradually illuminate every building. Citizens can read the day's magical weather conditions from the crystal patterns - clear harmonics indicate stable magic, while discordant tones warn of magical storms or corruption events.
+**The Crystal Dawn**: Crystalhaven awakens not to a rising sun, but to the gradual brightening of crystal formations throughout the city. The Great Spire at the city's heart begins the daily light cycle at 5 AM, sending harmonic pulses through the [[Crystal Network]] that gradually illuminate every building. Citizens can read the day's magical weather conditions from the crystal patterns - clear harmonics indicate stable magic, while discordant tones warn of magical storms or corruption events.
 
 **The Resoce Greeting**: Citizens begin each day with "crystal attuning" - a brief meditation while touching household crystal formations. This practice synchronizes their magical aura with the city's crystal network, providing enhanced magical abilities and corruption resistance throughout the day. Families perform group attunements that strengthen household bonds and coordinate daily schedules through shared magical resoce.
 
@@ -213,13 +213,13 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **The Crystal Court**: Queen [[Queen Seraphina Lumengarde]]'s court operates with crystal-enhanced ceremony where every word is recorded and magical auras analyzed for deception. Courtiers learn to modulate their magical signatures to convey respect, while the Queen uses illusion magic to hide her advancing corruption from crystal detection systems.
 
-**Forge District Operations**: Master [[Master Artificer Korvin Gearwright]] oversees crystal-powered manufacturing where magical energy flows through assembly lines like electricity. Workers rotate shifts to prevent magical exhaustion, while crystal formations monitor product quality and adjust manufacturing parameters automatically. The constant sound of crystal chiming creates industrial music that guides work rhythms.
+**Forge District Operations**: Master [[Master Artificer Korvin Gearwright]] oversees crystal-powered manufacturing where magical energy flows through assembly lines like electricity. Workers rotate shifts to prevent magical [[Exhaustion]], while crystal formations monitor product quality and adjust manufacturing parameters automatically. The constant sound of crystal chiming creates industrial music that guides work rhythms.
 
 **Scholar's Sanctum Activities**: Research proceeds through crystal-enhanced learning where complex concepts are visualized in three-dimensional light displays. [[Professor Aldric Crystalweaver]] conducts experiments where crystal formations store and replay magical processes for detailed study. Students work in groups around crystal formations that amplify their collective understanding and coordinate research efforts.
 
 **Market Spiral Commerce**: Trade operates through crystal-authenticated transactions where magical verification prevents fraud. Merchants use crystal displays to showcase goods with enhanced visual effects, while customers evaluate purchases through crystal-analysis that reveals quality and magical properties. The [[The Gilded Shard]] hosts business meetings where crystal formations ensure privacy while recording agreements.
 
-**Underground Resistance**: In the Shadow Warren, [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operates using corrupted crystal networks that avoid official detection. [[Brother Marcus Steelbane]]'s [[Purist Coalition]] cells use traditional, non-crystal communication methods to coordinate resistance activities. These groups meet in corruption-shielded chambers where crystal detection fails.
+**Underground Resistance**: In the Shadow Warren, [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operates using corrupted crystal networks that avoid official detection. [[Brother Marcus Steelbane]]'s [[Purist Coalition]] cells use traditional, non-crystal communication methods to coordinate resistance activities. These groups meet in corruption-[[Shield]]ed chambers where crystal detection fails.
 
 **Crystal Maintece**: Specialized teams throughout the city perform daily crystal calibration, cleaning corruption buildup, and replacing failing formations. This essential work requires rotating shifts due to corruption exposure risks and provides employment for those whose magical abilities have been damaged by corruption contact.
 
@@ -233,15 +233,15 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 - **Scholar's Sanctum**: Evening lectures and debates held in crystal-amplified auditoria where ideas are shared through both speech and magical visualization
 - **Market Spiral**: Informal networking gatherings where merchants build relationships and share market intelligence over drinks that enhance memory and negotiation skills
 
-**Cultural Integration**: The city's diverse population maintains their traditional evening customs adapted for crystal-enhanced living. Visiting Aquabyssos diplomats gather in pressure-controlled chambers, while surface dwellers maintain sunset ceremonies using crystal formations that simulate natural lighting changes.
+**Cultural Integration**: The city's diverse population maintains their traditional evening customs adapted for crystal-enhanced living. Visiting [[Aquabyssos]] diplomats gather in pressure-controlled chambers, while surface dwellers maintain sunset ceremonies using crystal formations that simulate natural lighting changes.
 
-**Evening Markets**: Specialized markets open after regular business hours, featuring magical services, custom enchantments, and crystal-enhanced entertainment. Street performers use crystal instruments to create spectacular light and sound shows, while food vendors offer magically-enhanced cuisine that provides temporary magical abilities or corruption resistance.
+**Evening Markets**: Specialized markets open after regular business hours, featuring [[Magical Services]], custom enchantments, and crystal-enhanced entertainment. Street performers use crystal instruments to create spectacular light and sound shows, while food vendors offer magically-enhanced cuisine that provides temporary magical abilities or corruption resistance.
 
-**Information Exchange**: [[Jasper "Three Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
+**[[Information Exchange]]**: [[Jasper "Three-Eyes" Flint]]'s tavern becomes a hub where crystal-enhanced acoustic properties allow private conversations while maintaining social atmosphere. Patrons trade information, form alliances, and coordinate activities while crystal formations subtly monitor for illegal activities or corruption influence.
 
 ### Night Life (11 PM to 5 AM)
 
-**The Crystal Guard**: [[Lord Commander Gareth Steelborn]]'s patrols use crystal-powered equipment that can detect magical signatures, corruption influence, and unauthorized magical activities. Night guards wear crystal-enhanced armor that provides protection against magical attacks while amplifying their sensory abilities to detect threats in darkness.
+**The Crystal Guard**: [[[[Lord Commander Gareth]] Steelborn]]'s patrols use crystal-powered equipment that can detect magical signatures, corruption influence, and unauthorized magical activities. Night guards wear crystal-enhanced armor that provides protection against magical attacks while amplifying their sensory abilities to detect threats in darkness.
 
 **Shadow Warren Activities**: The city's criminal underground operates most actively during crystal-dimming hours when detection systems function less effectively. Corrupted crystal networks allow illegal communications while [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] conducts business in chambers where official crystal monitoring fails.
 
@@ -269,7 +269,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 **Corruption Response Cycles**: Weekly corruption assessment and containment activities involve city-wide coordination between [[Crystal Wardens]], medical personnel, and specialized cleanup teams. These essential activities follow strict protocols to prevent corruption spread while maintaining essential city functions.
 
-**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
+**[[International Relations]]**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[Cross-Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and [[[[Cultural Exchange]]s]] occur on scheduled cycles that coordinate with other cities' calendars.
 
 ## Player-Facing Summary
 
@@ -279,16 +279,16 @@ Crystalhaven is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Crystalhaven as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystalhaven.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -310,6 +310,34 @@ Crystalhaven is a notable location characterized by its unique features and stra
 ### Founding
 Crystalhaven was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Trade Importance
 
 Key stop on textiles trade route
@@ -325,3 +353,40 @@ Key stop on textiles trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

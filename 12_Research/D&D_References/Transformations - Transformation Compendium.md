@@ -134,7 +134,7 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Great Crystallization]]
 - [[Deep Mother]]
-- [[03 Mechanics/Conditions|03 Mechanics/Conditions]]
+- [[Conditions]]
 
 *"Every gift has its price. Every change leaves a scar. Every transformation tells a story."*
 

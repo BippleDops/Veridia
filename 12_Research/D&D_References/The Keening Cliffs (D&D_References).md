@@ -1,10 +1,12 @@
 ---
+
 title: The Keening Cliffs (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # The Keening Cliffs
@@ -70,3 +72,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

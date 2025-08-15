@@ -55,7 +55,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature that takes the [[actions#Study|Study]] action to examine a target can make an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb "subclass=XPHB;class=XPHB"|Ranger (Gloom Stalker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the SRD and the Free Rules (2024)*
 
@@ -104,3 +104,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[seeming-xphb (spells)-phb]]` in CLI_Reference/spells/

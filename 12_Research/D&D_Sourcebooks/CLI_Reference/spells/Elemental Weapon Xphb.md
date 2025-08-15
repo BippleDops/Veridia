@@ -54,7 +54,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to `2d4`. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to `3d4`.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 267*
 

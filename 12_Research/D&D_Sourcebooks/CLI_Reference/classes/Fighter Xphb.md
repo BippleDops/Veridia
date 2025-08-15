@@ -78,9 +78,9 @@ world: Both
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [[skills#Acrobatics|Acrobatics]], [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Perception|Perception]], [[skills#Persuasion|Persuasion]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item types#Light%20Armor|Light armor]], [[item types#Medium%20Armor|Medium armor]], [[item types#Heavy%20Armor|Heavy armor]], and [[shield xphb|Shields]]
+- **Armor Training**: [[item types#Light%20Armor|Light armor]], [[item types#Medium%20Armor|Medium armor]], [[item types#Heavy%20Armor|Heavy armor]], and [[Shield]]
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [[chain mail xphb|Chain Mail]], [[greatsword xphb|Greatsword]], [[flail xphb|Flail]], 8 [[javelin xphb|Javelins]], [[dungeoneers pack xphb|Dungeoneer's Pack]], and 4 GP; (B) [[studded leather armor xphb|Studded Leather Armor]], [[scimitar xphb|Scimitar]], [[shortsword xphb|Shortsword]], [[longbow xphb|Longbow]], [[arrows 20 xphb|20 Arrows]], [[quiver xphb|Quiver]], [[dungeoneers pack xphb|Dungeoneer's Pack]], and 11 GP; or (C) 155 GP
+**Starting Equipment:** *Choose A, B, or C:* (A) [[chain-mail-xphb (items)]], [[Greatsword Xphb]], [[Flail Xphb]], 8 [[javelin-xphb (items)]], [[dungeoneers-pack-xphb]], and 4 GP; (B) [[studded-leather-armor-xphb (items)]], [[Scimitar Xphb]], [[shortsword-xphb (items)]], [[longbow-xphb (items)]], [[arrows-20-xphb (items)]], [[Swift Quiver Xphb]], [[dungeoneers-pack-xphb]], and 11 GP; or (C) 155 GP
 
 ## Fighter
 
@@ -90,33 +90,33 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 ### Fighting Style (Level 1)
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice. [[defense xphb|Defense]] is recommended.
+You have honed your martial prowess and gain a Fighting Style feat of your choice. [[Defense Xphb]] is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
 ### Second Wind (Level 1)
 
-You have a limited well of physical and mental stamina that you can draw on. As a [[bonus action xphb|Bonus Action]], you can use it to regain [[hit points xphb|Hit Points]] equal to `d10` plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Action Xphb]], you can use it to regain [[hit-points-xphb (variant-rules)]] equal to `d10` plus your Fighter level.
 
-You can use this feature twice. You regain one expended use when you finish a [[short rest xphb|Short Rest]], and you regain all expended uses when you finish a [[long rest xphb|Long Rest]].
+You can use this feature twice. You regain one expended use when you finish a [[short-rest-xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]].
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon mastery properties xphb|mastery properties]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[long rest xphb|Long Rest]], you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb (variant-rules)]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[long-rest-xphb]], you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the [[weapon mastery properties xphb|mastery properties]] of more kinds of weapons, as shown in the [[weapon xphb|Weapon]] Mastery column of the Fighter Features table.
+When you reach certain Fighter levels, you gain the ability to use the [[weapon-mastery-properties-xphb (variant-rules)]] of more kinds of weapons, as shown in the [[Weapon Xphb]] Mastery column of the Fighter Features table.
 
 ### Action Surge (Level 2)
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [[actions#Magic|Magic]] action.
 
-Once you use this feature, you can't do so again until you finish a [[short rest xphb|Short]] or [[long rest xphb|Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Tactical Mind (Level 2)
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[hit points xphb|Hit Points]], you roll `d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[hit-points-xphb (variant-rules)]], you roll `d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Fighter Subclass (Level 3)
 
@@ -124,7 +124,7 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[ability score improvement xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [[Ability Score Improvement Xphb]] feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -132,11 +132,11 @@ You can attack twice instead of once whenever you take the [[actions#Attack|Atta
 
 ### Tactical Shift (Level 5)
 
-Whenever you activate your Second Wind with a [[bonus action xphb|Bonus Action]], you can move up to half your [[speed xphb|Speed]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
+Whenever you activate your Second Wind with a [[Action Xphb]], you can move up to half your [[Fly Speed Xphb]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Ability Score Improvement (Level 6)
 
-You gain the [[ability score improvement xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement Xphb]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 7)
 
@@ -146,9 +146,9 @@ You gain a feature from your Fighter Subclass.
 
 ### Indomitable (Level 9)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long rest xphb|Long Rest]].
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb]].
 
-You can use this feature twice before a [[long rest xphb|Long Rest]] starting at level 13 and three times before a [[long rest xphb|Long Rest]] starting at level 17.
+You can use this feature twice before a [[long-rest-xphb]] starting at level 13 and three times before a [[long-rest-xphb]] starting at level 17.
 
 ### Tactical Master (Level 9)
 
@@ -166,7 +166,7 @@ You can attack three times instead of once whenever you take the [[actions#Attac
 
 ### Studied Attacks (Level 13)
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[advantage xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[Advantage Xphb]] on your next attack roll against that creature before the end of your next turn.
 
 ### Ability Score Improvement (Level 14)
 
@@ -182,7 +182,7 @@ You study your opponents and learn from each attack you make. If you make an att
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon of combat prowess xphb|Boon of Combat Prowess]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-combat-prowess-xphb (feats)]] is recommended.
 
 ### Three Extra Attacks (Level 20)
 

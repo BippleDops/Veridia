@@ -1,10 +1,12 @@
 ---
+
 title: Campaign_Direction_Survey
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Campaign_Direction_Survey

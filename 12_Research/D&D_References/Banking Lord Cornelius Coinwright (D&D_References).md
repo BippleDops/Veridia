@@ -60,10 +60,10 @@ Mentioned in The Hidden Prophecy of Depths
 
 ## Relationships
 
-- **Ally**: [[portrait-npc-captain-valeria-captain-valeria.svg]]
-- **Friend**: [[portrait-npc-the-party-the-party.svg]]
-- **Friend**: [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg]]
-- **Friend**: [[Quest   Seeds of the Deep]]
+- **Ally**: [[Npc]]
+- **Friend**: [[The Party]]
+- **Friend**: [[Npc]]
+- **Friend**: [[Quest - Seeds of the Deep_1 (01_Adventures)]]
 - **Parent**: [[Master Artificer Coral Gemwright]]
 
 ## Related Notes

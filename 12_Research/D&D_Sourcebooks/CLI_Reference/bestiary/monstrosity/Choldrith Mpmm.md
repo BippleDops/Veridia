@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-choldrith-mpmm.svg)
 
-# [[choldrith mpmm|Choldrith]]
+# [[Choldrith Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -106,9 +106,9 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance xphb|guidance]],\
-      \ [[thaumaturgy xphb|thaumaturgy]]\n\n1/day each:\
-      \ [[bane xphb|bane]], [[hold person xphb|hold person]]"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance-xphb (spells)]],\
+      \ [[Thaumaturgy Xphb]]\n\n1/day each:\
+      \ [[Bane Xphb]], [[Hold Person Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\

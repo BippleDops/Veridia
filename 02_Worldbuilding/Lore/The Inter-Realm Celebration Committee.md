@@ -1,7 +1,7 @@
 ---
 
 title: The Inter-Realm Celebration Committee
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Death_Customs Improvements
 
@@ -71,7 +71,7 @@ The Inter-Realm Celebration Committee represents a crucial aspect of the world's
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -82,6 +82,6 @@ The Inter-Realm Celebration Committee represents a crucial aspect of the world's
 ## Plot Hooks
 
 - A corpse reveals a conspiracy about a local noble
-- A merchant needs help delivering before dawn
+- A [[Merchant]] needs help delivering before dawn
 - A prisoner has gone missing and chaos spreads
 - An heirloom has gone missing and truth emerges

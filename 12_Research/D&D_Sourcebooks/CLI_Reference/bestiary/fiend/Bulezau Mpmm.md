@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulezau-mpmm-bulezau-mpmm.svg)
 
-# [[bulezau mpmm|Bulezau]]
+# [[Bulezau Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
 
 > [!quote] A quote from Tasha  

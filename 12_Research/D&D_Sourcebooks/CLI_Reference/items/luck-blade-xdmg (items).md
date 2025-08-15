@@ -60,11 +60,11 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[d20 test xphb|D20 Test]] if you don't have the [[conditions#Incapacitated|Incapacitated]] condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[d20-test-xphb (variant-rules)]] if you don't have the [[conditions#Incapacitated|Incapacitated]] condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
-The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [[wish xphb|Wish]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [[wish-xphb (spells)]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
 - [Luck Glaive](#Luck%20Glaive)

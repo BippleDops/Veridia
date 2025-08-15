@@ -35,10 +35,10 @@ world: Both
 
 | Members | Number Present |
 |---------|----------------|
-| [[/03 Mechanics/CLI/bestiary/humanoid/spy xmm|Duergar]] | `2d6 + 5` |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar stone guards]] | `1d4 + 1` |
-| [[/03 Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | `d4` |
-| [[male-steeder-mpmm|Male steeders]] | `d4` |
+| [[Bestiary]] | `2d6 + 5` |
+| [[Bestiary]] | `1d4 + 1` |
+| [[Bestiary]] | `d4` |
+| [[Female Steeder Mpmm]] | `d4` |
 ^members-number-present
 
 ## 🔧 Deep Evaluation Improvements

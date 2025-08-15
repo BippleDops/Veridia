@@ -47,7 +47,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Using a Higher-Level Spell Slot.** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 258*
 
@@ -91,3 +91,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[cordon-of-arrows-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-skeletal-xphb-undead-spirit-skeletal-xphb.svg)
 
-# [[undead spirit skeletal xphb|Undead Spirit (Skeletal)]]
+# [[undead]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock

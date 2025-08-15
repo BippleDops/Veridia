@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:35.286916'
 world: Both
 ---
 
-# [[green hag xmm|Green Hag]]
+# [[Green Hag Xmm]]
 *Source: Monster Manual (2024) p. 156. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -109,10 +109,10 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 11): [[augury xphb|Augury]], [[find familiar xphb|Find Familiar]],\
-      \ [[identify xphb|Identify]], [[locate object xphb|Locate Object]],\
-      \ [[scrying xphb|Scrying]], or [[unseen servant xphb|Unseen Servant]].\
-      \ The hag must finish a [[long rest xphb|Long Rest]]\
+      \ save DC 11): [[augury-xphb (spells)]], [[find-familiar-xphb (spells)]],\
+      \ [[identify-xphb (spells)]], [[locate-object-xphb (spells)]],\
+      \ [[Scrying Xphb]], or [[Unseen Servant Xphb]].\
+      \ The hag must finish a [[long-rest-xphb]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "The hag can breathe air and water."
@@ -129,11 +129,11 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit\
-      \ with spell attacks):\n\nAt will: [[dancing lights xphb|Dancing Lights]],\
-      \ [[disguise self xphb|Disguise Self]] (24-hour duration),\
-      \ [[invisibility xphb|Invisibility]] (self only, and\
-      \ the hag leaves no tracks while Invisible), [[minor illusion xphb|Minor Illusion]],\
-      \ [[ray of sickness xphb|Ray of Sickness]] (level\
+      \ with spell attacks):\n\nAt will: [[dancing-lights-xphb (spells)]],\
+      \ [[disguise-self-xphb (spells)]] (24-hour duration),\
+      \ [[see-invisibility-xphb (spells)]] (self only, and\
+      \ the hag leaves no tracks while Invisible), [[Minor Illusion Xphb]],\
+      \ [[Ray of Sickness Xphb]] (level\
       \ 3 version)"
     "name": "Spellcasting"
 "source":

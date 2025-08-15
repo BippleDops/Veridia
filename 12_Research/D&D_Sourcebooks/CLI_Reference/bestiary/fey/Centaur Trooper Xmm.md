@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-centaur-trooper-xmm.svg)
 
-# [[centaur trooper xmm|Centaur Trooper]]
+# [[Centaur Trooper Xmm]]
 *Source: Monster Manual (2024) p. 67. Available in the SRD and the Free Rules (2024)*  
 
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
@@ -102,7 +102,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [[speed xphb|Speed]]\
+  - "desc": "The centaur moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. Strength\

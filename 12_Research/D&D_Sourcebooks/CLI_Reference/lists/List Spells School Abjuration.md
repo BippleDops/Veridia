@@ -45,12 +45,12 @@ world: Both
 
 ## 9th Level
 
-- [[/03 Mechanics/CLI/spells/imprisonment xphb "XPHB"|Imprisonment]]
-- [[/03 Mechanics/CLI/spells/invulnerability xge "XGE"|Invulnerability]]
-- [[/03 Mechanics/CLI/spells/mass-heal-xphb "XPHB"|Mass Heal]]
-- [[/03 Mechanics/CLI/spells/prismatic-wall-xphb "XPHB"|Prismatic Wall]]
+- [[Imprisonment Xphb]]
+- [[spells]]
+- [[spells]]
+- [[Prismatic Wall Xphb]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## Player-Facing Summary
 

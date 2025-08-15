@@ -1,12 +1,12 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 02_Worldbuilding/Groups/The Memory Keepers
+# 02_Worldbuilding/[[Groups]]/The [[Memory Keepers]]
 
 ## Overview
 
-02_Worldbuilding/Groups/The Memory Keepers represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/Groups/[[The Memory Keepers]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 
@@ -22,7 +22,7 @@ The full nature of 02_Worldbuilding/Groups/The Memory Keepers involves several i
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Groups/The Memory Keepers trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -36,7 +36,7 @@ Connected to 02_Worldbuilding/Groups/The Memory Keepers are various other import
 Different groups view 02_Worldbuilding/Groups/The Memory Keepers through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02_Worldbuilding/Groups/The Memory Keepers:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Groups/The Memory Keepers has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02_Worldbuilding/Groups/The Memory Keepers into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Groups/The Memory Keepers might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/groups/the-memory-keepers
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/groups/the-memory-keepers

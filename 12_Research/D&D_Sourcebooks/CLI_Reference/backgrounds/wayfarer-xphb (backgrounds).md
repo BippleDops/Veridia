@@ -36,10 +36,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
-- **Feat.** [[lucky xphb|Lucky]]  
+- **Feat.** [[Lucky Xphb]]  
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Stealth|Stealth]]  
-- **Tool Proficiency.** [[thieves tools xphb|Thieves' Tools]]  
-- **Equipment.** Choose A or B: (A) [[dagger xphb|2 Daggers]], [[thieves tools xphb|Thieves' Tools]], [[gaming set xphb|Gaming Set]] (any), [[bedroll xphb|Bedroll]], [[pouch xphb|2 Pouches]], [[travelers clothes xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[thieves-tools-xphb (items)]]  
+- **Equipment.** Choose A or B: (A) [[Dagger Xphb]], [[thieves-tools-xphb (items)]], [[gaming-set-xphb (items)]] (any), [[Bedroll Xphb]], [[component-pouch-xphb (items)]], [[travelers-clothes-xphb (items)]], 16 GP; or (B) 50 GP  
 
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
 

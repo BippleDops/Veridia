@@ -45,7 +45,7 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[temporary hit points xphb|Temporary Hit Points]] equal to the extra damage dealt.
+Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[temporary-hit-points-xphb (variant-rules)]] equal to the extra damage dealt.
 
 **Variants**:
 - [Executioner's Battleaxe](#Executioner's%20Battleaxe)

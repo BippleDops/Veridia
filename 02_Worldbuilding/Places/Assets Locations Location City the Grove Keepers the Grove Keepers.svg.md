@@ -177,3 +177,9 @@ Key locations marked:
 - Active Spell Effect: **Detect Magic**
   - School: Divination
   - Manifestation: Intermittent
+
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

@@ -42,7 +42,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [[basic-poison-xphb|Basic Poison]]  
+- **Craft.** [[Basic Poison Xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

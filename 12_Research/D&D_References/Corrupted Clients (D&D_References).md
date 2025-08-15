@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild artisan]]
+- [[guild-artisan (backgrounds)]]
 - [[githzerai-groups-githzerai-group-leader-mtf]]
 - [[guild-artisan-guild-merchant-variant]]
 - [[fiendish-cults-cult-organization-mtf]]
-- [[new organizations]]
+- [[new-organizations (tables)]]
 - [[Border Fortresses]]
 
 ## Related
@@ -69,10 +69,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Enemy**: [[Master Artificer Coral Gemwright 1]]
-- **Mentor**: [[Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg]]
-- **Child**: [[Portrait NPC Captain Shadowsail V2 Captain Shadowsail.svg]]
-- **Enemy**: [[Quest   The Shattered Memories]]
+- **Enemy**: [[Artificer]]
+- **Mentor**: [[Npc]]
+- **Child**: [[Npc]]
+- **Enemy**: [[Quest - The Shattered Memories_1 (01_Adventures)]]
 
 ## 12_Research Specific Content
 

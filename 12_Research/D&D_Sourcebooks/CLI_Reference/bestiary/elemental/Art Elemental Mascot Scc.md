@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-art-elemental-mascot-scc-art-elemental-mascot-scc.svg)
 
-# [[art elemental mascot scc|Art Elemental Mascot]]
+# [[Art Elemental Mascot Scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 185*  
 
 Often referred to as a "living expression," an art elemental is an aspect of creativity and emotion given physical form—making it the perfect mascot for Prismari College.

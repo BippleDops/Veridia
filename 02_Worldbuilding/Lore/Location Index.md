@@ -1,7 +1,7 @@
 ---
 
-title: Location Index
-type: Lore
+title: [[location]] Index
+type: [[Lore]]
 tags:
 - lore
 - aerial
@@ -31,7 +31,7 @@ improvements: 20
 
 # Location Index
 
-Comprehensive guide to all locations across both the Aquabyssos and Aethermoor campaigns. Organized by world, region, and location type for easy navigation and cross-referencing.
+Comprehensive guide to [[All Locations]] across both the [[Aquabyssos]] and [[Aethermoor]] campaigns. Organized by world, [[region]], and location type for easy navigation and cross-referencing.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -47,7 +47,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -92,7 +92,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ## Navigation Links
 
 - **Back to**: [[Update Indexes]] - Main navigation hub
-- **See Also**: [[Campaign Index]] - Campaign-specific content
+- **See Also**: [[INDEX]] - Campaign-specific content
 - **Related**: [[Quest Index]] - Location-based adventures
 
 ---
@@ -110,15 +110,15 @@ Location Index is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Location Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Location Index.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
 Location Index represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

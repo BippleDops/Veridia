@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
 
-# [[animated drow statue oota|Animated Drow Statue]]
+# [[Animated Drow Statue Oota]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -68,8 +68,8 @@ world: Both
 "cr": "1"
 "traits":
   - "desc": "The statue is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic field xphb|antimagic field]].\
-      \ If targeted by [[dispel magic xphb|dispel magic]],\
+      \ while in the area of an [[Antimagic Field Xphb]].\
+      \ If targeted by [[dispel-magic-xphb (spells)]],\
       \ the statue must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."

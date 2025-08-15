@@ -40,28 +40,28 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `d2` [[roc xmm|rocs]] |
-| 02-05 | 1 [[young red dragon xmm|young red dragon]] |
-| 06-10 | `2d6` [[ettin xmm|ettins]] |
-| 11-15 | `d4` [[bulette xmm|bulettes]] |
+| 01 | `d2` [[Roc Xmm]] |
+| 02-05 | 1 [[Red Dragon Xmm]] |
+| 06-10 | `2d6` [[ettin-xmm (giant)]] |
+| 11-15 | `d4` [[bulette-xmm (monstrosity)]] |
 | 16-20 | `d10` [[revet xmm|revets]] |
 | 21-25 | The white outline of an enormous horse carved into the side of a high hill |
-| 26-30 | `1d6 + 1` [[gorgon xmm|gorgons]] |
-| 31-35 | `2d4 + 1` [[troll xmm|trolls]] |
+| 26-30 | `1d6 + 1` [[Brazen Gorgon Xmm]] |
+| 31-35 | `2d4 + 1` [[Troll Xmm]] |
 | 36-40 | The scorched remains of `2d10` humanoids littering a hillside |
-| 41-45 | `2d4` [[hill giant xmm|hill giants]] |
-| 46-50 | `1d6 + 2` [[werebear xmm|werebears]] |
-| 51-55 | `2d4` [[galeb duhr xmm|galeb duhr]] |
-| 56-60 | `1d4 + 2` [[wyvern xmm|wyverns]] |
+| 41-45 | `2d4` [[giant]] |
+| 46-50 | `1d6 + 2` [[werebear-xmm (monstrosity)]] |
+| 51-55 | `2d4` [[Galeb Duhr Xmm]] |
+| 56-60 | `1d4 + 2` [[Wyvern Xmm]] |
 | 61-65 | A massive boulder partly buried in the earth as if it fell or was thrown there |
-| 66-70 | 1 [[adult copper dragon xmm|adult copper dragon]] |
-| 71-75 | `1d6 + 3` [[cyclops sentry xmm|cyclopes]] |
+| 66-70 | 1 [[adult-copper-dragon-xmm (dragon)]] |
+| 71-75 | `1d6 + 3` [[cyclops-sentry-xmm]] |
 | 76-80 | The stub of an old stone tower jutting from the top of a hill |
-| 81-85 | `2d4` [[stone giant xmm|stone giants]] |
-| 86-90 | 1 [[adult red dragon xmm|adult red dragon]] |
-| 91-96 | 1 [[ancient copper dragon xmm|ancient copper dragon]] |
-| 97-99 | 1 [[ancient red dragon xmm|ancient red dragon]] |
-| 00 | `d2` [[adult red dragon xmm|adult red dragons]] with `d3` [[young red dragon xmm|young red dragons]] |
+| 81-85 | `2d4` [[stone-giant-xmm (giant)]] |
+| 86-90 | 1 [[Red Dragon Xmm]] |
+| 91-96 | 1 [[Ancient Copper Dragon Xmm]] |
+| 97-99 | 1 [[Red Dragon Xmm]] |
+| 00 | `d2` [[Red Dragon Xmm]] with `d3` [[Red Dragon Xmm]] |
 ^hill-encounters-levels-1720
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,3 +104,38 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

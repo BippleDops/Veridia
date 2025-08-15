@@ -40,7 +40,7 @@ world: Both
 
 - **Cost**: 50 gp
 
-As a [[bonus action xphb|Bonus Action]], you can drink a vial of Antitoxin to gain [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
+As a [[Action Xphb]], you can drink a vial of Antitoxin to gain [[Advantage Xphb]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
 
 *Source: Player's Handbook (2024) p. 222. Available in the SRD and the Free Rules (2024)*
 

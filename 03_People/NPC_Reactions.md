@@ -1,4 +1,5 @@
 ---
+
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -11,13 +12,14 @@ tags:
 title: NPC Reactions
 type: npc
 updated: 2025-08-14
+status: active
 ---
 
 # NPC_Reactions
 
 ## Portrait
 
-![[portrait_npc_reactions.png]]
+![[Npc]]
 
 *Portrait reference for NPC_Reactions*
 
@@ -77,3 +79,14 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-archaic-scc-archaic-scc.svg)
 
-# [[archaic scc|Archaic]]
+# [[archaic-scc (celestial)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 184*  
 
 Archaics are towering, multi-armed creatures overflowing with magic. Despite their solitude, archaics carry vast understanding of magic and the world's history, as well as the ability to warp the fabric of the world around them. Sages who seek out archaics for their knowledge receive confusing and often contradictory answers to questions. If a supplicant successfully unwinds the tangle, the answer they seek is revealed.
@@ -115,10 +115,10 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
     "name": "Teleport"
   - "desc": "The archaic casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 22):\n\nAt will: [[detect magic xphb|detect magic]],\
-      \ [[divination xphb|divination]], [[sending xphb|sending]]\n\
-      \n1/day each: [[banishment xphb|banishment]],\
-      \ [[forcecage xphb|forcecage]]"
+      \ DC 22):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[Divination Xphb]], [[Sending Xphb]]\n\
+      \n1/day each: [[Banishment Xphb]],\
+      \ [[forcecage-xphb (spells)]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after a creature the archaic can see casts a spell of 5th\

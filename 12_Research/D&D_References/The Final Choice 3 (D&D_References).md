@@ -70,7 +70,7 @@ The Final Choice represents the culmination of every conspiracy, secret organiza
 
 Unlike conventional conspiracies driven by greed, power, or revenge, The Final Choice conspiracy is orchestrated by entities that transcend normal mortal concerns. The true conspirators include [[The Deep Mother]], ancient remts of [[The Seven Betrayers]], corrupted aspects of [[The Silverscale Conspiracy]], and even more alien intelligences that exist between dimensions. Their goal is not to control reality, but to fundamentally rewrite the rules that govern existence itself.
 
-The conspiracy operates on multiple temporal levels, with some agents working across centuries to position key individuals and events, while others manipulate moment-to-moment decisions to ensure that when The Final Choice arrives, only specific options remain available. The scope of this manipulation encompasses everything from the fall of [[God King Aetheron]] to the recent acceleration of [[The Great Crystallization]], creating a web of causality so complex that even the conspirators themselves cannot fully predict all possible outcomes.
+The conspiracy operates on multiple temporal levels, with some agents working across centuries to position key individuals and events, while others manipulate moment-to-moment decisions to ensure that when The Final Choice arrives, only specific options remain available. The scope of this manipulation encompasses everything from the fall of [[God-King Aetheron]] to the recent acceleration of [[The Great Crystallization]], creating a web of causality so complex that even the conspirators themselves cannot fully predict all possible outcomes.
 
 ### The Primordial Compact
 **Time Period: Before Recorded History**
@@ -407,7 +407,7 @@ Perhaps most importantly, The Final Choice requires moral clarity about:
 
 *"Every conspiracy, every secret, every hidden truth has been building toward this moment. The Final Choice is not just about the future of two worlds - it's about whether any future is worth preserving, whether any truth is worth knowing, whether any choice is worth making. In the end, we discover that the greatest conspiracy was convincing us that someone else would decide for us."*
 
-*- Final entry, [[Investigation Log INV 000]], The Choice Approaches*
+*- Final entry, [[Investigation Log INV-000 (D&D_References)]], The Choice Approaches*
 
 ## Player-Facing Summary
 

@@ -4,13 +4,13 @@ evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 tags:
-- lore
-title: Aquabyssos World Overview#The Great Drowning
+- [[Lore]]
+title: [[Aquabyssos]] [[World Overview]]#The [[Great Drowning]]
 type: lore
 updated: 2025-08-14
 ---
 
-# Aquabyssos World Overview#The Great Drowning
+# Aquabyssos World Overview#[[The Great Drowning]]
 
 ## Overview
 This document contains important information regarding Aquabyssos World Overview#The Great Drowning and its role within the greater narrative.
@@ -20,12 +20,12 @@ Aquabyssos World Overview#The Great Drowning represents a significant element wi
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: Linked to multiple other elements
+- **Connections**: [[Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context]] and development over [[Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,9 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

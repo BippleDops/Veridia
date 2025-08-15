@@ -1,0 +1,122 @@
+# Caelum Goldleaf the Risen
+
+*Genasi Shopkeeper (Merchants), Age 44, Non-binary*
+
+**ID**: NPC00861
+
+## Quick Reference
+- **Location**: Guild hall during a meeting
+- **Occupation**: Jeweler
+- **Disposition**: Constantly quotes ancient texts
+
+## Appearance
+Tall and athletic, with Tied back blonde hair and Green eyes. Freckled skin. Ethereal beauty that seems otherworldly.
+
+**Clothing**: Guard uniform with polished brass buttons
+**Accessories**: Multiple earrings, Leather pouch always at hip
+
+## Personality
+- **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Extremely superstitious about everything
+- **Ideal**: Tradition: The old ways are the best ways
+- **Bond**: My guild is my true family
+- **Flaw**: I have trouble trusting anyone
+- **Quirks**: Always barefoot, Speaks to animals like people, Always rhymes when speaking
+- **Fear**: Losing control
+- **Dream**: Becoming famous
+
+## Background
+Part of a merchant family with connections everywhere A family member's death has left them with unexpected responsibilities.
+
+## Current Situation
+- **Occupation**: Jeweler
+- **Resources**: Trade contacts, Caravan routes
+- **Problems**: Massive debt to dangerous people; Hunted by powerful enemies
+
+### Goals
+- **Short Term**: Survive until next week
+- **Long Term**: Overthrow the current order
+
+
+## Relationships
+### Baelor Jadeclaw the Swift (Personal - Ex-lover)
+- **Status**: Complicated history
+- **History**: United by common enemy
+- **Secret**: Both serve same hidden master
+
+### Zephyr Ironwood the Mystic (Personal - Love interest)
+- **Status**: Strong and trusting
+- **History**: Former lovers who remained friends
+
+
+### Hestara Oakenshield the Scholar (Personal - Best friend)
+- **Status**: Secretly hostile
+- **History**: Accidentally bound by magic
+
+
+### Aeliana Nightfall the Wise (Personal - Best friend)
+- **Status**: Mutually beneficial
+- **History**: Accidentally bound by magic
+- **Secret**: Actually related by blood
+
+## Secrets
+1. Running a cult from their basement
+2. Sells information to all sides
+
+## Statistics
+- **Level**: 5
+- **HP**: 50
+- **AC**: 13
+- **Speed**: 30 ft.
+- **Challenge Rating**: 2
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 14 | 13 | 10 | 12 | 14 | 14 |
+
+### Saving Throws
+INT, CHA
+
+### Skills
+Deception, Insight, Investigation
+
+### Attacks
+- Shortsword: +7 to hit, 1d6+2 slashing
+- Dagger: +6 to hit, 1d4+2 damage
+
+### Special Abilities
+- Connected: Can acquire any common item
+- Connected: Can acquire any common item
+
+## Possessions
+- 163 gold pieces
+- Letters of credit
+- Map of trade routes
+
+## Dialogue
+### Greetings
+- "Welcome! Looking to buy or sell?"
+- "Ah, a potential customer!"
+- "Business or pleasure today?"
+
+### Catchphrases
+- "In my experience..."
+- "Trust me on this one."
+
+### Knowledge
+- Market prices and trends
+- Trade route conditions
+- Competitor weaknesses
+- New business opportunities
+
+## Plot Hook
+Has map to lost treasure
+
+## DM Notes
+- Adjust stats based on party level
+- Secrets can drive major plot points
+- Relationships create web of connections
+- Use quirks for memorable roleplay
+
+---
+*Generated: 2025-08-15T03:51:03.210Z*

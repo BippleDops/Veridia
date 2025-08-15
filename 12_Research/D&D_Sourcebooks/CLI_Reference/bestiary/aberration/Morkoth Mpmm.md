@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-morkoth-mpmm-morkoth-mpmm.svg)
 
-# [[morkoth mpmm|Morkoth]]
+# [[Morkoth Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -136,11 +136,11 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[detect magic xphb|detect magic]],\
-      \ [[mage hand xphb|mage hand]]\n\n3/day each:\
-      \ [[darkness xphb|darkness]], [[dimension door xphb|dimension door]],\
-      \ [[dispel magic xphb|dispel magic]], [[lightning bolt xphb|lightning bolt]],\
-      \ [[sending xphb|sending]]"
+      \ DC 17):\n\nAt will: [[detect-magic-xphb (spells)]],\
+      \ [[mage-hand-xphb (spells)]]\n\n3/day each:\
+      \ [[darkness-xphb (variant-rules)]], [[Dimension Door Xphb]],\
+      \ [[dispel-magic-xphb (spells)]], [[Lightning Bolt Xphb]],\
+      \ [[Sending Xphb]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\

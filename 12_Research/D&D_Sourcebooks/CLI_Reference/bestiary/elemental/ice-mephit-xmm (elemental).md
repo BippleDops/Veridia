@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-mephit-xmm-ice-mephit-xmm.svg)
 
-# [[ice mephit xmm|Ice Mephit]]
+# [[ice-mephit-xmm]]
 *Source: Monster Manual (2024) p. 206. Available in the SRD and the Free Rules (2024)*  
 
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
@@ -103,7 +103,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+      \ each creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -111,10 +111,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Claw"
-  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 7 (3d4) Cold damage. Success: Half damage."
     "name": "Frost Breath (Recharge 6)"
-  - "desc": "The mephit casts [[fog cloud xphb|Fog Cloud]],\
+  - "desc": "The mephit casts [[fog-cloud-xphb (spells)]],\
       \ requiring no spell components and using Charisma as the spellcasting ability.\n"
     "name": "Fog Cloud (1/Day)"
 "source":

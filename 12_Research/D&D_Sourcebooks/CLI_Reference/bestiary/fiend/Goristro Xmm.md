@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goristro-xmm-goristro-xmm.svg)
 
-# [[goristro xmm|Goristro]]
+# [[goristro-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 150*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -105,10 +105,10 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 "cr": "17"
 "traits":
   - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The goristro has [[advantage xphb|Advantage]]\
+  - "desc": "The goristro has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The goristro deals double damage to objects and structures."
@@ -125,7 +125,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
       \ damage."
     "name": "Slam"
 "bonus_actions":
-  - "desc": "The goristro moves up to half its [[speed xphb|Speed]]\
+  - "desc": "The goristro moves up to half its [[Fly Speed Xphb]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guardian-portrait-cos-guardian-portrait-cos.svg)
 
-# [[guardian portrait cos|Guardian Portrait]]
+# [[Guardian Portrait Cos]]
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -90,9 +90,9 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 "traits":
   - "desc": "The portrait's innate spellcasting ability is Intelligence (spell save\
       \ DC 12). The portrait can innately cast the following spells, requiring no\
-      \ material components:\n\n3/day each: [[counterspell xphb|counterspell]],\
-      \ [[crown of madness xphb|crown of madness]], [[hypnotic pattern xphb|hypnotic\]]
-      \ pattern]], [[telekinesis xphb|telekinesis]]"
+      \ material components:\n\n3/day each: [[counterspell-xphb (spells)]],\
+      \ [[Crown of Madness Xphb]], [[Hypnotic Pattern Xphb]]
+      \ pattern]], [[telekinesis-xphb (spells)]]"
     "name": "Innate Spellcasting"
   - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
       \ magic that animates an object is dispelled when the construct drops to 0 hit\
@@ -100,8 +100,8 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The portrait is [[conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[antimagic field xphb|antimagic field]].\
-      \ If targeted by [[dispel magic xphb|dispel magic]],\
+      \ while in the area of an [[Antimagic Field Xphb]].\
+      \ If targeted by [[dispel-magic-xphb (spells)]],\
       \ the portrait must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or become [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."

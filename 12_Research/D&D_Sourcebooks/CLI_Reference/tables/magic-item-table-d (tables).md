@@ -39,22 +39,22 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-20 | [[potion of supreme healing xdmg|Potion of supreme healing]] |
-| 21-30 | [[potion of invisibility xdmg|Potion of invisibility]] |
-| 31-40 | [[potion of speed xdmg|Potion of speed]] |
-| 41-50 | [[spell scroll level 6 xdmg|Spell scroll (6th level)]] |
-| 51-57 | [[spell scroll level 7 xdmg|Spell scroll (7th level)]] |
-| 58-62 | [[3 ammunition xdmg|+3 ammunition]] |
-| 63-67 | [[oil of sharpness xdmg|Oil of sharpness]] |
-| 68-72 | [[potion of flying xdmg|Potion of flying]] |
-| 73-77 | [[potion of cloud giant strength xdmg|Potion of cloud giant strength]] |
-| 78-82 | [[potion of longevity xdmg|Potion of longevity]] |
-| 83-87 | [[potion of vitality xdmg|Potion of vitality]] |
-| 88-92 | [[spell scroll level 8 xdmg|Spell scroll (8th level)]] |
-| 93-95 | [[horseshoes of a zephyr xdmg|Horseshoes of a zephyr]] |
-| 96-98 | [[nolzurs marvelous pigments xdmg|Nolzur's marvelous pigments]] |
-| 99 | [[bag of devouring xdmg|Bag of devouring]] |
-| 00 | [[portable hole xdmg|Portable hole]] |
+| 01-20 | [[Potion of Supreme Healing Xdmg]] |
+| 21-30 | [[potion-of-invisibility-xdmg (items)]] |
+| 31-40 | [[potion-of-speed-xdmg (items)]] |
+| 41-50 | [[Spell Scroll Level 6 Xdmg]] |
+| 51-57 | [[spell-scroll-level-7-xdmg (items)]] |
+| 58-62 | [[3-ammunition-xdmg (items)]] |
+| 63-67 | [[oil-of-sharpness-xdmg (items)]] |
+| 68-72 | [[Potion of Flying Xdmg]] |
+| 73-77 | [[giant]] |
+| 78-82 | [[potion-of-longevity-xdmg (items)]] |
+| 83-87 | [[potion-of-vitality-xdmg (items)]] |
+| 88-92 | [[spell-scroll-level-8-xdmg (items)]] |
+| 93-95 | [[horseshoes-of-a-zephyr-xdmg (items)]] |
+| 96-98 | [[Nolzurs Marvelous Pigments Xdmg]] |
+| 99 | [[bag-of-devouring-xdmg (items)]] |
+| 00 | [[portable-hole-xdmg (items)]] |
 ^magic-item-table-d
 
 ## 🔧 Deep Evaluation Improvements

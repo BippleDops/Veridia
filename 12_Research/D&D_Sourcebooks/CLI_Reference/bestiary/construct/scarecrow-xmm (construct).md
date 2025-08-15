@@ -36,7 +36,7 @@ updated: '2025-08-12T23:37:35.866720'
 world: Both
 ---
 
-# [[scarecrow xmm|Scarecrow]]
+# [[scarecrow-xmm (construct)]]
 *Source: Monster Manual (2024) p. 269*  
 
 ## 🔧 Deep Evaluation Improvements

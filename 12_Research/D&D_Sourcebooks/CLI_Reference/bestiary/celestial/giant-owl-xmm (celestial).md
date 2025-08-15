@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-owl-xmm-giant-owl-xmm.svg)
 
-# [[giant owl xmm|Giant Owl]]
+# [[giant]]
 *Source: Monster Manual (2024) p. 358. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -58,7 +58,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Owl (XMM)"
@@ -94,9 +94,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Talons"
   - "desc": "The owl casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[detect evil and good xphb|Detect Evil\]]
-      \ and Good]], [[detect magic xphb|Detect Magic]]\n\
-      \n1/day: [[clairvoyance xphb|Clairvoyance]]"
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[detect-evil-and-good-xphb (spells)]]
+      \ and Good]], [[detect-magic-xphb (spells)]]\n\
+      \n1/day: [[clairvoyance-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

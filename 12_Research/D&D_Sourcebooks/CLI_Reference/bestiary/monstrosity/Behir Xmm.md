@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-behir-xmm-behir-xmm.svg)
 
-# [[behir xmm|Behir]]
+# [[Behir Xmm]]
 *Source: Monster Manual (2024) p. 34. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -111,7 +111,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ condition until the grapple ends."
     "name": "Constrict"
   - "desc": "Dexterity Saving Throw: DC 16, each creature in a 90-foot-long, 5-foot-wide\
-      \ [[line area of effect xphb|Line]]. Failure:\
+      \ [[Area of Effect Xphb]]. Failure:\
       \ 66 (12d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "bonus_actions":
@@ -120,7 +120,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ The behir swallows the target, which is no longer [[conditions#Grappled|Grappled]].\
       \ While swallowed, a creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, has\
-      \ [[cover xphb|Total Cover]] against attacks\
+      \ [[Cover Xphb]] against attacks\
       \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\

@@ -32,6 +32,12 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
+
 > [!figure] Portrait
 
 # Quest - The Perfect Purifier
@@ -103,6 +109,15 @@ Alchemist Master Theron Crystalline claims to have developed the Perfect Purifie
 
 ## Quest Giver
 **Master Theron Crystalline** - Brilliant but paranoid alchemist who dedicated his life to fighting corruption. Offers his entire fortune (15,000 gp) and rare alchemical formulas as reward for the device's safe return.
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## Background
 Theron spent decades studying various forms of magical corruption, developing increasingly sophisticated purification methods. His latest creation, the Perfect Purifier, represents the culmination of his life's work - a crystalline device that can allegedly neutralize any form of magical taint or disease.
@@ -326,3 +341,49 @@ Member of House Lionblood - Trait: prophecy
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

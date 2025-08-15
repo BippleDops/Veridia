@@ -235,15 +235,15 @@ The Covet has negotiated quasi-governmental status with major depth authorities:
 - [[Archmerchant Codex Goldstrea|02 Worldbuilding/Groups/Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
 - [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
 - [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
-- [[Scholar Merchant Remembrance Tidekeep]] - Historical preservation advocate
+- [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
 - [[Information Broker Whisper Goldtongu|02 Worldbuilding/Groups/Information Broker Whisper Goldtongu]] - Intelligence operations chief
 - [[Craftmaster Engineer Gearwhispe|02 Worldbuilding/Groups/Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
-- [[Metamorphosis Consultant Deep Change]] - Transformation guidance expert
+- [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
 
 **Knowledge Categories**:
 - [[Navigation & Geography]] - Physical world information
 - [[Transformation Techniques]] - Biological and psychological adaptation
-- [[Pre Drowning History]] - Ancient world records and cultural preservation
+- [[Pre-Drowning History]] - Ancient world records and cultural preservation
 - [[Faction Intelligence]] - Contemporary political and military information
 - [[Cultural Practices]] - Social customs and behavioral analysis
 - [[Economic Intelligence]] - Market analysis and ficial forecasting

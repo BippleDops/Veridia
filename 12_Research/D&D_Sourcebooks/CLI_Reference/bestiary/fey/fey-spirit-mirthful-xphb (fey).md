@@ -35,7 +35,7 @@ updated: '2025-08-12T23:37:35.269871'
 world: Both
 ---
 
-# [[fey spirit mirthful xphb|Fey Spirit (Mirthful)]]
+# [[fey-spirit-mirthful-xphb (fey)]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock

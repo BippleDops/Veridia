@@ -47,13 +47,13 @@ world: Both
 - **Components:** V, S, M (a magnifying glass)
 - **Duration:** Concentration, up to 1 minute
 
-You launch a sunbeam in a 5-foot-wide, 60-foot-long [[line-area-of-effect-xphb|Line]]. Each creature in the [[line-area-of-effect-xphb|Line]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [[conditions#Blinded|Blinded]] condition until the start of your next turn. On a successful save, it takes half as much damage only.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long [[Area of Effect Xphb]]. Each creature in the [[Area of Effect Xphb]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [[conditions#Blinded|Blinded]] condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
-Until the spell ends, you can take a [[actions#Magic|Magic]] action to create a new [[line-area-of-effect-xphb|Line]] of radiance.
+Until the spell ends, you can take a [[actions#Magic|Magic]] action to create a new [[Area of Effect Xphb]] of radiance.
 
-For the duration, a mote of brilliant radiance shines above you. It sheds [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. This light is sunlight.
+For the duration, a mote of brilliant radiance shines above you. It sheds [[Light Xphb]] in a 30-foot radius and [[Light Xphb]] for an additional 30 feet. This light is sunlight.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 329. Available in the SRD and the Free Rules (2024)*
 
@@ -92,3 +92,17 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

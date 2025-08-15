@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [[wall of fire xphb|wall of fire]].
+You can spend 5 ki points to cast [[wall-of-fire-xphb (spells)]].
 
 ## 🔧 Deep Evaluation Improvements
 

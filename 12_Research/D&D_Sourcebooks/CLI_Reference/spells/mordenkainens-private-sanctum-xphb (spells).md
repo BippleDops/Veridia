@@ -46,7 +46,7 @@ world: Both
 - **Components:** V, S, M (a thin sheet of lead)
 - **Duration:** 24 hours
 
-You make an area within range magically secure. The area is a [[cube-area-of-effect-xphb|Cube]] that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
+You make an area within range magically secure. The area is a [[Cube Area of Effect Xphb]] that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
 
@@ -59,9 +59,9 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 
-**Using a Higher-Level Spell Slot.** You can increase the size of the [[cube-area-of-effect-xphb|Cube]] by 100 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** You can increase the size of the [[Cube Area of Effect Xphb]] by 100 feet for each spell slot level above 4.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 301. Available in the SRD (as "Private Sanctum") and the Free Rules (2024)*
 
@@ -100,3 +100,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

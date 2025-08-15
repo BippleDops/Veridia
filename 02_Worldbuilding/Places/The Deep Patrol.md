@@ -1,9 +1,9 @@
 ---
 
 title: The Deep Patrol
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - military
 - content/faction
@@ -17,7 +17,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -34,7 +34,7 @@ improvements: 20
 
 # The Deep Patrol
 
-*"In the crushing depths where others fear to venture, we stand watch."*
+*"In the [[Crushing Depths]] where others fear to venture, we stand watch."*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 ## Overview
 The Deep Patrol is Aquabyssos's elite military unit specializing in extreme depth operations, protecting the city from threats originating in the deepest ocean trenches. These highly trained specialists operate in conditions that would kill ordinary soldiers.
 
-## Organization
+## [[Organization]]
 **Commander**: Captain Nereon Abyssal, veteran of deep trench warfare
 **Structure**: 4 squads of 8 members each, plus support personnel
 **Headquarters**: Fortified base at maximum safe depth below city
@@ -99,7 +99,7 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Training**: 2-year program with 60% washout rate
 
 ## Mission Profile
-**Deep Reconnaissance**: Scouting threats in unexplored ocean depths
+**Deep Reconnaissance**: Scouting threats in unexp[[Lore]]d ocean depths
 **Perimeter Defense**: Protecting city from deep-dwelling creatures
 **Rescue Operations**: Extracting civilians from extreme depth emergencies
 **Research Support**: Providing security for deep-sea scientific expeditions
@@ -107,8 +107,8 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 
 ## Equipment and Gear
 **Pressure Suits**: Advanced armor rated for crushing depths
-**Depth Vehicles**: Specialized submersibles for patrol operations
-**Communication Systems**: Long-range equipment functioning at extreme depth
+**Depth [[Vehicles]]**: Specialized submersibles for patrol operations
+**[[Communication Systems]]**: Long-range equipment functioning at extreme depth
 **Weapons**: Modified armaments effective against deep-sea creatures
 **Life Support**: Emergency breathing apparatus and pressure regulation
 
@@ -124,17 +124,17 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **The Abyssal Plains**: Deep ocean floor monitoring stations
 **Trench Networks**: Vertical canyon systems requiring specialized navigation
 **Thermal Vents**: Geologically active areas with unique hazards
-**The Deep Dark**: Unexplored regions beyond mapped territories
+**The Deep Dark**: Unexplored regions beyond [[map]]ped territories
 
 ## Notable Personnel
 **Sergeant Marina Deepdiver**: Expert in extreme depth survival techniques
 **Corporal Rex Pressureborn**: Specialist in deep-creature combat tactics
-**Scout Elena Trenchrunner**: Reconnaissance expert and pathfinder
-**Medic Dr. Coral Abyssal**: Deep-sea medical specialist
+**Scout Elena Trenchrunner**: Reconnaissance expert and [[path]]finder
+**Medic Dr. [[Coral]] Abyssal**: Deep-sea medical specialist
 **Engineer Brass Depthwright**: Equipment maintece and modification expert
 
 ## Unique Challenges
-**Environmental Hazards**: Crushing pressure, freezing temperatures, toxic gases
+**[[Environmental Hazards]]**: Crushing pressure, freezing temperatures, toxic gases
 **Creature Threats**: Massive predators adapted to extreme depths
 **Equipment Failures**: Critical system malfunctions in hostile environment
 **Psychological Stress**: Mental strain from isolation and constant danger
@@ -169,16 +169,16 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Academic Collaboration**: Research partnerships with marine science institutions
 
 ## Adventure Hooks
-1. Deep Patrol requests civilian specialists for dangerous mission
+1. Deep Patrol re[[Quests]] civilian specialists for dangerous mission
 2. Missing patrol unit needs search and rescue operation
-3. Characters discover evidence of threats requiring Deep Patrol response
+3. Characters discover [[Evidence]] of threats requiring Deep Patrol response
 4. Training accident creates emergency requiring outside assistance
 
 ## Equipment Specifications
 **Mark VII Pressure Suit**: Rated for 15,000+ foot depths
 **Deep Scout Vehicle**: Two-person submersible with 72-hour endurance
 **Abyssal Communicator**: Long-range device functioning at extreme depth
-**Pressure Spear**: Weapon designed for underwater combat effectiveness
+**Pressure Spear**: Weapon designed for [[Underwater Combat]] effectiveness
 **Emergency Beacon**: Distress signal detectable by surface rescue teams
 
 ## Future Developments
@@ -188,15 +188,15 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Research Integration**: Closer collaboration with scientific institutions
 **Base Construction**: Permanent deep-sea outposts for extended operations
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
-The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable allies or formidable opponents in appropriate scenarios.
+## [[DM Notes]]
+The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable [[Allies]] or formidable opponents in appropriate scenarios.
 
 ## Player-Facing Summary
 
@@ -225,6 +225,34 @@ The Deep Patrol is a notable location characterized by its unique features and s
 
 ### Founding
 The Deep Patrol was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -260,3 +288,40 @@ Key stop on textiles trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

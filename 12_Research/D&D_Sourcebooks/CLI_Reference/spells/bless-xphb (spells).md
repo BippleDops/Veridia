@@ -52,7 +52,7 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 247. Available in the SRD and the Free Rules (2024)*
 
@@ -90,3 +90,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a artifact for money
 - A corpse reveals ancient history about the cult
 - A merchant needs help delivering before winter
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

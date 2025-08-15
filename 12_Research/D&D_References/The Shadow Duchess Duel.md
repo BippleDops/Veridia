@@ -111,7 +111,7 @@ The Shadow Duchess Duel offers professional mediation and arbitration services t
 **Relationship**: Mutual Respect and Cooperation
 Both organizations value tradition, honor, and scholarly excellence. The Order provides astronomical timing for important ceremonies while the Duel provides conflict resolution services for scholarly disputes.
 
-#### **[[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire (D&D_References)]]**
 **Relationship**: Diplomatic Recognition
 The Empire recognizes the Duel as legitimate representatives of shadow nobility. Formal protocols exist for handling disputes between mer-folk and shadow-touched individuals.
 
@@ -251,7 +251,7 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 
 **Related Organizations**:
 - [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
-- [[Ancient Mer Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
+- [[Ancient Mer-Folk Empire (D&D_References)]]
 - [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
@@ -272,7 +272,7 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 - [[Shadow Honor System]]
 - [[Formal Dueling Protocols]]
 - [[Shadow Society Hierarchy]]
-- [[Honor Based Conflict Resolution]]
+- [[Honor-Based Conflict Resolution]]
 
 ## Player-Facing Summary
 

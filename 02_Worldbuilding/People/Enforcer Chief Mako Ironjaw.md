@@ -23,6 +23,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-enforcer-chief-mako-ironjaw.svg)
 
@@ -30,6 +42,13 @@ improvements: 20
 
 # Enforcer Chief Mako Ironjaw
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -88,7 +107,7 @@ improvements: 20
 - Add folk tales and children's stories
 
 ## Overview
-Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] and his organization, has made him legendary throughout the depths.
+Chief Mako Ironjaw is the most feared law enforcement officer in [[Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[Jasper "Three-Eyes" Flint]] and his organization, has made him legendary throughout the depths.
 
 ## Secrets
 > [!warning] DM Only
@@ -202,3 +221,40 @@ Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present c
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

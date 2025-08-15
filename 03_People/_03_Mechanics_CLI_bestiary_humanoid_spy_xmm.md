@@ -1,10 +1,16 @@
+---
+
+tags: [npc, character]
+type: npc
+- --
+
 # /03 Mechanics/CLI/bestiary/humanoid/spy xmm
 
 ## Portrait
 
-![[portrait__03_mechanics_cli_bestiary_humanoid_spy_xmm.png]]
+![[Bestiary]]
 
-*Portrait reference for _03_Mechanics_CLI_bestiary_humanoid_spy_xmm*
+* Portrait reference for _03_Mechanics_CLI_bestiary_humanoid_spy_xmm*
 
 ## Mechanic Overview
 
@@ -94,21 +100,21 @@ Determining success and degree:
 ## Examples
 
 ### Example 1: Basic Use
-*Scenario*: [Specific situation]
+* Scenario*: [Specific situation]
 - Player declares intent
 - DM sets DC 15
 - Player rolls d20+5, gets 17
 - Success achieved with described outcome
 
 ### Example 2: Complex Application
-*Scenario*: [More complex situation]
+* Scenario*: [More complex situation]
 - Multiple participants involved
 - Extended challenge requiring multiple rolls
 - Resource management element
 - Partial successes building to completion
 
 ### Example 3: Failed Attempt
-*Scenario*: [Failure situation]
+* Scenario*: [Failure situation]
 - What went wrong
 - Consequences of failure
 - Recovery options
@@ -222,8 +228,9 @@ This mechanic aims to:
 **Resources**: [If applicable]
 **Recovery**: [How resources return]
 
----
-*Tags*: #mechanics #rules #homebrew #variant #system
+- --
+* Tags*: #mechanics #rules #homebrew #variant #system
+
 ## Stats
 
 ```statblock
@@ -266,3 +273,32 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

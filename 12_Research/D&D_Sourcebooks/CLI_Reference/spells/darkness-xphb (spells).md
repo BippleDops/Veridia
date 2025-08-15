@@ -45,3 +45,17 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

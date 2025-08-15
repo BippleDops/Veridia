@@ -39,7 +39,7 @@ world: Both
 
 > [!figure] Creature
 
-# [[swarm-of-dretches-xmm|Swarm of Dretches]]
+# [[swarm-of-dretches-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 104*  
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
@@ -99,22 +99,22 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "cr": "4"
 "traits":
   - "desc": "Constitution Saving Throw: DC 12, any creature that starts its turn\
-      \ in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 10-foot [[Area of Effect Xphb]]\
       \ originating from the swarm. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. While [[conditions#Poisoned|Poisoned]],\
-      \ the target can take either an action or a [[bonus-action-xphb|Bonus Action]]\
+      \ the target can take either an action or a [[Action Xphb]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Aura"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Small creature. The\
-      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ swarm can't regain [[hit-points-xphb (variant-rules)]]\
+      \ or gain [[temporary-hit-points-xphb (variant-rules)]]."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Rend attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Slashing damage,\
-      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[bloodied xphb|Bloodied]]."
+      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[bloodied-xphb (variant-rules)]]."
     "name": "Rend"
 "source":
   - "XMM"

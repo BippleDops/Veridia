@@ -293,3 +293,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+
+## Campaign Notes
+*How this connects to the ongoing campaign*

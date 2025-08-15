@@ -52,7 +52,7 @@ world: Both
 > [!info]- Checks
 > [[02-chapter-1-playing-the-game#Vision and Light|Vision and Light]]
 > [[detect-magic-xphb|Detect Magic]]
-> [[03 Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Advantage/Disadvantage|Advantage/Disadvantage]]
+> [[02 Chapter 1 Playing the Game]]
 > [[02-chapter-1-playing-the-game#Proficiency Bonus|Proficiency Bonus]]
 > [[02-chapter-1-playing-the-game#Ability Checks|Ability Checks]]
 > [[02-chapter-1-playing-the-game#Skill List|Skill List]]
@@ -66,16 +66,16 @@ world: Both
 
 > [!info]- Misc. Combat
 > [[conditions#Surprised|Surprised]]
-> [[initiative xphb|Initiative]]
-> [[reaction xphb|Reaction]]
-> [[02-chapter-1-playing-the-game#Movement and Position|Movement and Position]]
-> [[02-chapter-1-playing-the-game#Moving around Other Creatures|Moving around Other Creatures]]
-> [[grappling xphb|Grappling]]
+> [[Initiative Xphb]]
+> [[reaction-xphb (variant-rules)]]
+> [[02 Chapter 1 Playing the Game]]
+> [[02 Chapter 1 Playing the Game#moving Around Other Creatures]]
+> [[Grappling Xphb]]
 > [[pushing-attack-xphb|Pushing Attack]]
 > [[improvised-weapons-xphb|Improvised Weapons]]
 > [[improvised-damage-xdmg|Improvised Damage]]
 > [[02-chapter-1-playing-the-game#Dropping Prone|Dropping Prone]]
-> [[02-chapter-1-playing-the-game#Ranged Attacks in Close Combat|Ranged Attacks in Close Combat]]
+> [[02 Chapter 1 Playing the Game]]
 > [[02-chapter-1-playing-the-game#Mounted Combat|Mounted Combat]]
 
 > [!info]- Movement
@@ -83,10 +83,10 @@ world: Both
 > [[02-chapter-1-playing-the-game#Travel Pace|Travel Pace]]
 > [[mounts-and-vehicles-mounts-and-other-animals-phb|03 Mechanics/CLI/tables/mounts And Vehicles Mounts And Other Animals Phb]]
 > [[mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
-> [[flying xphb|Flying]]
-> [[swimming xphb|Swimming]]
-> [[crawling xphb|Crawling]]
-> [[jumping xphb|Jumping]]
+> [[Flying Xphb]]
+> [[swimming-xphb (variant-rules)]]
+> [[Crawling Xphb]]
+> [[Jumping Xphb]]
 
 > [!info]- Resting
 > [[food-drink-and-lodging-xphb|Food, Drink and Lodging]]
@@ -96,14 +96,14 @@ world: Both
 > [!info]- Healing and Death
 > [[02-chapter-1-playing-the-game#Healing|Healing]]
 > [[02-chapter-1-playing-the-game#Death Saving Throws|Death Saving Throws]]
-> [[02-chapter-1-playing-the-game#Damage at 0 Hit Points|Damage at 0 Hit Points]]
+> [[02 Chapter 1 Playing the Game]]
 > [[02-chapter-1-playing-the-game#Instant Death|Instant Death]]
 > [[02-chapter-1-playing-the-game#Stabilizing a Character|Stabilizing a Character]]
 > [[02-chapter-1-playing-the-game#Monster Death|Monster Death]]
 
 > [!info]- Weapons and Armor
-> [[weapons xphb|Weapons]]
-> [[armor xphb|Armor]]
+> [[Weapons Xphb]]
+> [[splint-armor-xphb (items)]]
 
 > [!info]- Magic Schools
 > 

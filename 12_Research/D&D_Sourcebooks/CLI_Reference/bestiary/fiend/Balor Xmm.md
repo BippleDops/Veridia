@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-balor-xmm-balor-xmm.svg)
 
-# [[balor xmm|Balor]]
+# [[balor-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 26. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -97,19 +97,19 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
 "cr": "19"
 "traits":
   - "desc": "The balor explodes when it dies. Dexterity Saving Throw: DC 20, each\
-      \ creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
+      \ creature in a 30-foot [[Area of Effect Xphb]]\
       \ originating from the balor. Failure: 31 (9d6) Fire damage plus 31 (9d6)\
       \ Force damage. Success: Half damage. Failure or Success: If the balor dies\
-      \ outside the Abyss, it gains a new body instantly, reviving with all its [[hit points xphb|Hit\]]
+      \ outside the Abyss, it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]
       \ Points]] somewhere in the\
       \ Abyss."
     "name": "Death Throes"
-  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [[Area of Effect Xphb]]\
       \ originating from the balor takes 13 (3d8) Fire damage."
     "name": "Fire Aura"
   - "desc": "If the balor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The balor has [[advantage xphb|Advantage]]\
+  - "desc": "The balor has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

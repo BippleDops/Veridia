@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)
 
-# [[corpse flower mpmm|Corpse Flower]]
+# [[Corpse Flower Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
@@ -102,7 +102,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [[zombie xmm|zombie]]. The zombie appears\
+      \ [[Zombie Xmm]]. The zombie appears\
       \ in an unoccupied space within 5 feet of the corpse flower and acts immediately\
       \ after it in the initiative order. The zombie acts as an ally of the corpse\
       \ flower but isn't under its control, and the flower's stench clings to it (see\

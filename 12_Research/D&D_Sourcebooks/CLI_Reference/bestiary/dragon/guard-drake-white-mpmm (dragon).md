@@ -45,7 +45,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guard-drake-white-mpmm-guard-drake-white-mpmm.svg)
 
-# [[guard drake white mpmm|Guard Drake (White)]]
+# [[guard-drake-white-mpmm (dragon)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock

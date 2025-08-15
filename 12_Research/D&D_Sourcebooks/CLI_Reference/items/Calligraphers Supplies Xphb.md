@@ -44,7 +44,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [[ink xphb|Ink]], [[spell scroll xdmg|Spell Scroll]]  
+- **Craft.** [[Blink Xphb]], [[spell-scroll-xdmg (items)]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
 

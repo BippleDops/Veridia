@@ -133,7 +133,7 @@ Current Reputation: **Respected but Declining**
 **Character Arc**: Either finds redemption or tragic dissolution
 
 ### Connected Quests
-- Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy|01 Campaigns/Aquabyssos/ Investigations/The Shadow Parliament Conspiracy]]
+- Main: [[The_Shadow_Parliament_Conspiracy]]
 - Side: [[Find the Shadow Cure]]
 - Personal: [[The Senator's Last Stand|The Senator's Last Stand]]
 

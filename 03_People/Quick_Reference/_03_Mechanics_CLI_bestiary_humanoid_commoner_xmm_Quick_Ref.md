@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # _03_Mechanics_CLI_bestiary_humanoid_commoner_xmm - Quick Reference
 
 ## Key Info

@@ -1,7 +1,7 @@
 ---
 
-title: Handouts Ships Player Handout Aquabyssos Submarines
-type: lore
+title: Handouts Ships Player Handout [[Aquabyssos]] Submarines
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -197,7 +197,7 @@ Ways to incorporate 04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submar
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -237,7 +237,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience

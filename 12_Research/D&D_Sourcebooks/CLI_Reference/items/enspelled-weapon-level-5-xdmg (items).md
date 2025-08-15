@@ -190,3 +190,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

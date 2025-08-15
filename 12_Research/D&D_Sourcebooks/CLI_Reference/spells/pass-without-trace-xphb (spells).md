@@ -47,9 +47,9 @@ world: Both
 - **Components:** V, S, M (ashes from burned mistletoe)
 - **Duration:** Concentration, up to 1 hour
 
-You radiate a concealing aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([[skills#Stealth|Stealth]]) checks and leave no tracks.
+You radiate a concealing aura in a 30-foot [[Area of Effect Xphb]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([[skills#Stealth|Stealth]]) checks and leave no tracks.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the SRD and the Free Rules (2024)*
 
@@ -110,3 +110,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[pass-without-trace-xphb (spells)-phb]]` in CLI_Reference/spells/

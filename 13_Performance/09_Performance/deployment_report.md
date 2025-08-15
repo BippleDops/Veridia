@@ -62,7 +62,7 @@ curl http://127.0.0.1:8188/system_stats | jq
 
 ## Connections
 
-- See also: [[Master Timeline]]
+- See also: [[Master_Timeline]]
 - Related: [[Recent Events]]
 - Connected to: [[Side Adventures]]
 

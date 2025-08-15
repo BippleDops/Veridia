@@ -77,13 +77,13 @@ You can refine the trigger so that only creatures of certain types activate it (
 
 ## Explosive Rune
 
-When triggered, the glyph erupts with magical energy in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `5d8` Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
+When triggered, the glyph erupts with magical energy in a 20-foot-radius [[Area of Effect Xphb]] centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `5d8` Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
 
 ## Spell Glyph
 
 You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
 
-When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [[hostile-attitude-xphb|Hostile]] creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [[conditions#Concentration|Concentration]], it lasts until the end of its full duration.
+When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [[Hostile Attitude Xphb]] creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [[conditions#Concentration|Concentration]], it lasts until the end of its full duration.
 
 ## Using a Higher-Level Spell Slot
 
@@ -91,7 +91,7 @@ The damage of an explosive rune increases by `d8` for each spell slot level abov
 
 ## Summary
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 279. Available in the SRD and the Free Rules (2024)*
 

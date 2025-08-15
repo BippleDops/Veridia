@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jackalwere-xmm-jackalwere-xmm.svg)
 
-# [[jackalwere xmm|Jackalwere]]
+# [[Jackalwere Xmm]]
 *Source: Monster Manual (2024) p. 182*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,7 +104,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The jackalwere has [[advantage xphb|Advantage]]\
+  - "desc": "The jackalwere has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the jackalwere's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."

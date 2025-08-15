@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/stone-of-controlling-earth-elementals.webp#right)
 
-While touching this 5-pound stone to the ground, you can take a [[actions#Magic|Magic]] action to summon an [[earth elemental xmm|Earth Elemental]]. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your [[initiative xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus action xphb|Bonus Action]]. The stone can't be used this way again until the next dawn.
+While touching this 5-pound stone to the ground, you can take a [[actions#Magic|Magic]] action to summon an [[Earth Elemental Xmm]]. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your [[Initiative Xphb]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[Action Xphb]]. The stone can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 312. Available in the SRD and the Free Rules (2024)*
 

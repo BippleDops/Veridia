@@ -34,7 +34,7 @@ connections:
 - '[[Marina''s Echo]]'
 - '[[Memory Farmers]]'
 - '[[The Recursion Oracle]]'
-- '[[Sleep Magic]]'
+- '[[Sleep Magic (02_Worldbuilding)]]'
 - '[[Convergence Point]]'
 themes:
 - protection_through_dreams

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cockatrice-regent-xmm-cockatrice-regent-xmm.svg)
 
-# [[cockatrice regent xmm|Cockatrice Regent]]
+# [[cockatrice-regent-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 75*  
 
 Bolder than their smaller cousins, cockatrice regents brim with unstable magical energy they use to restrain distant foes.

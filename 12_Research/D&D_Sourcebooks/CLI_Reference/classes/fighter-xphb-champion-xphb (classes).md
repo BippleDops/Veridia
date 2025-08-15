@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Champion
-*[[fighter xphb|Fighter]]: Fighter Subclass*  
+*[[fighter-xphb (classes)]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -69,13 +69,13 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Improved Critical (Level 3)
 
-Your attack rolls with weapons and Unarmed Strikes can score a [[critical hit xphb|Critical Hit]] on a roll of 19 or 20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can score a [[Critical Hit Xphb]] on a roll of 19 or 20 on the `d20`.
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [[advantage xphb|Advantage]] on [[initiative xphb|Initiative]] rolls and Strength ([[skills#Athletics|Athletics]]) checks.
+Thanks to your athleticism, you have [[Advantage Xphb]] on [[Initiative Xphb]] rolls and Strength ([[skills#Athletics|Athletics]]) checks.
 
-In addition, immediately after you score a [[critical hit xphb|Critical Hit]], you can move up to half your [[speed xphb|Speed]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
+In addition, immediately after you score a [[Critical Hit Xphb]], you can move up to half your [[Fly Speed Xphb]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Additional Fighting Style (Level 7)
 
@@ -83,11 +83,11 @@ You gain another Fighting Style feat of your choice.
 
 ### Heroic Warrior (Level 10)
 
-The thrill of battle drives you toward victory. During combat, you can give yourself [[heroic inspiration xphb|Heroic Inspiration]] whenever you start your turn without it.
+The thrill of battle drives you toward victory. During combat, you can give yourself [[heroic-inspiration-xphb (variant-rules)]] whenever you start your turn without it.
 
 ### Superior Critical (Level 15)
 
-Your attack rolls with weapons and Unarmed Strikes can now score a [[critical hit xphb|Critical Hit]] on a roll of 18–20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can now score a [[Critical Hit Xphb]] on a roll of 18–20 on the `d20`.
 
 ### Survivor (Level 18)
 
@@ -95,11 +95,11 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 #### Defy Death
 
-You have [[advantage xphb|Advantage]] on Death Saving Throws. Moreover, when you roll 18–20 on a [[death saving throw xphb|Death Saving Throw]], you gain the benefit of rolling a 20 on it.
+You have [[Advantage Xphb]] on Death Saving Throws. Moreover, when you roll 18–20 on a [[Death Saving Throw Xphb]], you gain the benefit of rolling a 20 on it.
 
 #### Heroic Rally
 
-At the start of each of your turns, you regain [[hit points xphb|Hit Points]] equal to 5 plus your Constitution modifier if you are [[bloodied xphb|Bloodied]] and have at least 1 [[hit points xphb|Hit Point]].
+At the start of each of your turns, you regain [[hit-points-xphb (variant-rules)]] equal to 5 plus your Constitution modifier if you are [[bloodied-xphb (variant-rules)]] and have at least 1 [[hit-points-xphb (variant-rules)]].
 
 ## 🔧 Deep Evaluation Improvements
 

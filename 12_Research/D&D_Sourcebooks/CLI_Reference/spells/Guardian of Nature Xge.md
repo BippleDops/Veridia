@@ -78,7 +78,7 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes ranger|Ranger]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 

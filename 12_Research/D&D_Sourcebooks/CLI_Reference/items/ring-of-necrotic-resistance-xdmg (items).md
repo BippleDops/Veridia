@@ -38,7 +38,7 @@ world: Both
 # Ring of Necrotic Resistance
 *Ring, rare*  
 
-You have [[resistance xphb|Resistance]] to necrotic damage while wearing this ring. The ring is set with jet.
+You have [[boon-of-energy-resistance-xphb (feats)]] to necrotic damage while wearing this ring. The ring is set with jet.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 

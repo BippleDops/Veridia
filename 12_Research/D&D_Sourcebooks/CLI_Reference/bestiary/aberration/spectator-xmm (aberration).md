@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spectator-xmm-spectator-xmm.svg)
 
-# [[spectator xmm|Spectator]]
+# [[spectator-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 289*  
 
 ## 🔧 Deep Evaluation Improvements

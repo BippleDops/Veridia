@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-toad-xmm-giant-toad-xmm.svg)
 
-# [[giant toad xmm|Giant Toad]]
+# [[Giant Toad Xmm]]
 *Source: Monster Manual (2024) p. 360. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -59,7 +59,7 @@ world: Both
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther xmm|Panther]] stat block can also represent a mountain lion, while the [[giant goat xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Toad (XMM)"
@@ -83,8 +83,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The toad can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The toad's [[long jump xphb|Long Jump]]\
-      \ is up to 20 feet and its [[high jump xphb|High Jump]]\
+  - "desc": "The toad's [[Long Jump Xphb]]\
+      \ is up to 20 feet and its [[high-jump-xphb (variant-rules)]]\
       \ is up to 10 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
@@ -96,7 +96,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The toad swallows a Medium or smaller target it is grappling. While swallowed,\
       \ the target isn't [[conditions#Grappled|Grappled]] but has\
       \ the [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
-      \ conditions, and it has [[cover xphb|Total Cover]]\
+      \ conditions, and it has [[Cover Xphb]]\
       \ against attacks and other effects outside the toad. In addition, the target\
       \ takes 10 (3d6) Acid damage at the end of each of the toad's turns. The toad\
       \ can have only one target swallowed at a time, and it can't use Bite while\

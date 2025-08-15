@@ -215,3 +215,8 @@ Key stop on spices trade route
 - A document has gone missing and truth emerges
 - A stranger needs help investigating before the festival
 - Strange dreams suggest ancient magic
+
+## Adventure Seeds
+- Mysterious occurrence
+- Local conflict
+- Hidden treasure

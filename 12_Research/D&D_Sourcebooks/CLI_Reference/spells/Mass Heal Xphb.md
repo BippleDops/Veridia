@@ -44,9 +44,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A flood of healing energy flows from you into creatures around you. You restore up to 700 [[hit-points-xphb|Hit Points]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions removed from them.
+A flood of healing energy flows from you into creatures around you. You restore up to 700 [[hit-points-xphb (variant-rules)]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions removed from them.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the SRD and the Free Rules (2024)*
 

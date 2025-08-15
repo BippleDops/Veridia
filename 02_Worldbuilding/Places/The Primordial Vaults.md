@@ -1,7 +1,7 @@
 ---
 
 title: The Primordial Vaults
-type: Location
+type: [[location]]
 tags:
 - both
 - quest
@@ -20,7 +20,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.703469+00:00'
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -92,15 +92,15 @@ improvements: 20
 
 ## Overview
 
-Deep beneath [[Aquabyssos World Overview]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
+Deep beneath [[[[Aquabyssos]] [[World Overview]]]], older than the [[Drowned]] civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, [[Time]], and space functioning irregularly.
 
-### The Threshold Gates (8000 feet)
+### [[The Threshold]] Gates (8000 feet)
 
-Seven massive doors, each requiring different keys or rituals to open. [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
+Seven massive doors, each requiring different keys or rituals to open. [[Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
 
 ### The Hall of Untime
 
-Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[Chronomancer Paradox]] exists here in seventeen versions of himself.
+Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into [[Temporal Echo]]es. [[Chronomancer Paradox]] exists here in seventeen versions of himself.
 
 ### The Genesis Chambers
 
@@ -116,7 +116,7 @@ Central chamber containing crystallized memories of the world's creation. Touchi
 
 ### The Deepest Lock
 
-The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[12_Research/D&D_Statblocks/The Great Drowning]] was meant to keep imprisoned.
+The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[Great Drownin]] was meant to keep imprisoned.
 
 ### The Creation Tablets
 
@@ -128,7 +128,7 @@ Master key that allegedly opens any lock in existence, including metaphysical on
 
 ### The Unwater
 
-Liquid that undoes the drowning wherever it touches, but spreads madness with its use.
+Liquid that undoes [[The Drowning]] wherever it touches, but spreads madness with its use.
 
 ### The Original Sin
 
@@ -148,7 +148,7 @@ Violent distortions aging or reversing anything caught within.
 
 ### Reality Bleeds
 
-Places where other dimensions leak through, bringing alien geometries and entities.
+[[Places]] where other dimensions leak through, bringing alien geometries and entities.
 
 ### Memory Hurricanes
 
@@ -164,13 +164,13 @@ Black water that doesn't reflect anything - falling in erases you from history.
 2. Tremors suggesting something massive stirring in the Deepest Lock
 3. Vault Guardians becoming active after centuries of dormancy
 4. Reality bleeds increasing in frequency
-5. [[12_Research/D&D_Statblocks/The Deepmind]] sending psychic probes into the vaults
+5. [[12 Research]] sending psychic probes into the vaults
 
 ## Secrets
 
 > [!warning] DM Only
 > - The vaults were built to contain the entity that would eventually cause the drowning
-> - The Great Drowning was Plan B after the vaults began failing
+> - The [[Great Drowning]] was Plan B after the vaults began failing
 > - The Deepest Lock contains not one entity but a gateway to their dimension
 > - Several faction leaders know the truth and are preparing for the eventual breach
 > - The vaults are slowly rising toward the surface
@@ -183,14 +183,14 @@ Black water that doesn't reflect anything - falling in erases you from history.
 4. Lies become truth, truth becomes lies
 5. Death is temporary but madness is permanent
 
-## Random Encounters (d12)
+## [[[[Random Encounter]]s]] (d12)
 
 1. Temporal echo of future/past party
 2. Gravity suddenly reversing
 3. Door appearing in empty wall
 4. Guardian construct activating
 5. Memory hurricane approaching
-6. Lost explorer begging for death
+6. Lost exp[[Lore]]r begging for death
 7. Reality bleed opening
 8. The Unmaker's presence felt
 9. Vault rearranging around party
@@ -206,16 +206,16 @@ The Primordial Vaults is a undersea element of the setting, known for biolumines
 
 Legends speak of The Primordial Vaults as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Primordial Vaults.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -236,6 +236,34 @@ The Primordial Vaults is a notable location characterized by its unique features
 
 ### Founding
 The Primordial Vaults was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -274,3 +302,40 @@ Ongoing situations affecting The Primordial Vaults:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

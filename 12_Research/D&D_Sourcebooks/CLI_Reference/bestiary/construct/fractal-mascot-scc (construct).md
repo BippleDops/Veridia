@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)
 
-# [[fractal mascot scc|Fractal Mascot]]
+# [[fractal-mascot-scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  
 
 To an untrained eye, a fractal mascot looks like a creature made from facets of hard light. But arithmancers know that these fractals are actually living equations: artificial life forms created by extrapolating magic from the mathematical patterns in nature.

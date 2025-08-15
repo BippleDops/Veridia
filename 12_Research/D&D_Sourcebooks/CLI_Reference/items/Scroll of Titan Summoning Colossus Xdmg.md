@@ -40,9 +40,9 @@ world: Both
 # Scroll of Titan Summoning (Colossus)
 *Scroll, legendary*  
 
-When you take a [[actions#Magic|Magic]] action to read this scroll, a [[colossus xmm|Colossus]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[actions#Magic|Magic]] action to read this scroll, a [[Colossus Xmm]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [[colossus xmm|Colossus]] is [[hostile attitude xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit points xphb|Hit Points]]. If the [[colossus xmm|Colossus]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[Colossus Xmm]] is [[Hostile Attitude Xphb]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb (variant-rules)]]. If the [[Colossus Xmm]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

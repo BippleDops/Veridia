@@ -47,7 +47,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-captain-xmm-hobgoblin-captain-xmm.svg)
 
-# [[hobgoblin captain xmm|Hobgoblin Captain]]
+# [[hobgoblin-captain-xmm (fey)]]
 *Source: Monster Manual (2024) p. 171. Available in the SRD and the Free Rules (2024)*  
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
@@ -116,8 +116,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-  - "desc": "While in a 10-foot [[emanation area of effect xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage xphb|Advantage]]\
+  - "desc": "While in a 10-foot [[Area of Effect Xphb]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[Advantage Xphb]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
       \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"

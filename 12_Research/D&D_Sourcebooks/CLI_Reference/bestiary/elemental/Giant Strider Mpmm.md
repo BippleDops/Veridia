@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-strider-mpmm-giant-strider-mpmm.svg)
 
-# [[giant strider mpmm|Giant Strider]]
+# [[giant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
 
 > [!quote] A quote from Mordenkainen  

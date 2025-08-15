@@ -39,12 +39,12 @@ world: Both
 
 | dice: d20 | Hazard |
 |-----------|--------|
-| 1-3 | [[brown mold xdmg|Brown mold]] |
-| 4-8 | [[green slime xdmg|Green slime]] |
-| 9-10 | [[shrieker fungus xmm|Shrieker]] |
-| 11-15 | [[webs xdmg|Spiderwebs]] |
-| 16-17 | [[violet fungus xmm|Violet fungus]] |
-| 18-20 | [[yellow mold xdmg|Yellow mold]] |
+| 1-3 | [[brown-mold-xdmg (traps-hazards)]] |
+| 4-8 | [[green-slime-xdmg (traps-hazards)]] |
+| 9-10 | [[Shrieker Fungus Xmm]] |
+| 11-15 | [[Webs Xdmg]] |
+| 16-17 | [[violet-fungus-xmm (plant)]] |
+| 18-20 | [[yellow-mold-xdmg (traps-hazards)]] |
 ^dungeon-hazards
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,7 +1,7 @@
 ---
 
 title: Pressure Adaptation System
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -116,9 +116,9 @@ Every Aquabyssos citizen receives a Personal Adaptation Device upon reaching ada
 - **Core Component**: Crystalline pressure matrix implanted near the heart
 - **Power Source**: Biometric energy harvesting from heartbeat and breathing
 - **Pressure Range**: Capable of handling depths from surface level to 3,000 feet
-- **Response Time**: Instantaneous pressure adjustment with 0.2-second lag
+- **Response [[Time]]**: Instantaneous pressure adjustment with 0.2-second lag
 - **Backup Systems**: Secondary manual controls and emergency pressure release
-- **Monitoring**: Real-time health and pressure data transmission to medical networks
+- **Monitoring**: Real-time health and pressure [[data]] transmission to medical networks
 
 **Biological Integration:**
 PADs work by enhancing the body's natural adaptation mechanisms while providing artificial support for functions that cannot naturally adjust to extreme pressure changes:
@@ -126,7 +126,7 @@ PADs work by enhancing the body's natural adaptation mechanisms while providing 
 - **Blood Pressure Regulation**: Crystalline matrix modulates cardiovascular pressure
 - **Lung Capacity Enhancement**: Magical expansion of oxygen processing efficiency
 - **Tissue Compression Resistance**: Bio-magical strengthening of organs and bones
-- **Neural Protection**: Specialized shielding prevents pressure-induced brain damage
+- **Neural Protection**: Specialized [[Shield]]ing prevents pressure-induced brain damage
 - **Emergency Override**: Automatic life-support activation during system failures
 
 ### District Pressure Regulation Networks
@@ -142,10 +142,10 @@ Large-scale pressure management systems maintain habitable environments througho
 - **Backup Generators**: Independent power systems ensuring uninterrupted operation
 
 **Zone Management:**
-The city operates multiple pressure zones optimized for different functions:
+The city operates multiple [[Pressure Zones]] optimized for different functions:
 
 - **Residential Zones**: Standard living pressure comfortable for daily life (150-200 PSI)
-- **Commercial Districts**: Variable pressure accommodating diverse business needs (100-300 PSI)
+- **[[Commercial District]]s**: Variable pressure accommodating diverse business needs (100-300 PSI)
 - **Industrial Areas**: High-pressure zones for manufacturing and deep-sea operations (300-500 PSI)
 - **Medical Facilities**: Controlled environments for adaptation procedures (50-400 PSI variable)
 - **Emergency Shelters**: Rapid-change capabilities for crisis response (surface to 1000 PSI)
@@ -174,7 +174,7 @@ Different adaptation needs require specialized approaches:
 ### Production Facilities
 
 **The Pressure Works Industrial Complex:**
-Located in the heavy industrial district, this massive facility produces all components of the Pressure Adaptation System under the direction of [[Master Engineer Coral Pressureforge]] and her team of specialized technicians.
+Located in the heavy industrial district, this massive facility produces all components of the Pressure Adaptation System under the direction of [[Master Engineer [[Coral]] Pressureforge]] and her team of specialized technicians.
 
 **Manufacturing Capabilities:**
 - **Crystalline Matrix Cultivation**: Growing and shaping pressure-regulation crystals
@@ -198,7 +198,7 @@ The complex employs specialists in multiple technical disciplines:
 The Pressure Adaptation System depends on specialized resources that require careful sourcing and management:
 
 **Primary Resources:**
-- **Pressure Crystals**: Harvested from deep ocean crystal formations, processed by [[Crystal Harvester Guild]]
+- **[[Pressure Crystals]]**: Harvested from deep ocean crystal formations, processed by [[Crystal Harvester Guild]]
 - **Bio-Compatible Metals**: Specialized alloys that integrate safely with human biology, sourced from [[Deep Mining Consortium]]
 - **Adaptation Serums**: Magical solutions enhancing biological pressure tolerance, produced by [[Biological Enhancement Laboratory]]
 - **Emergency Compounds**: Chemical stabilizers for crisis situations, manufactured by [[Deep Chemical Works]]
@@ -208,7 +208,7 @@ The Pressure Adaptation System depends on specialized resources that require car
 - Limited availability of high-quality pressure crystals
 - Complex purification processes required for bio-compatible materials
 - Dependency on magical cultivation techniques for organic components
-- International trade negotiations for specialized elements
+- [[International Trade]] negotiations for specialized elements
 - Environmental considerations affecting resource extraction
 
 ### Personal Adaptation Device Installation
@@ -229,7 +229,7 @@ PAD implantation follows standardized protocols developed over decades of medica
 1. **Preparation Phase**: Patient preparation, anesthesia, and surgical site sterilization
 2. **Implant Positioning**: Precise placement of crystalline matrix near heart and major blood vessels
 3. **Biological Integration**: Magical bonding of device with cardiovascular and respiratory systems
-4. **Neural Connection**: Establishing control pathways between device and nervous system
+4. **Neural Connection**: Establishing control [[path]]ways between device and nervous system
 5. **Testing and Calibration**: Verifying proper function and adjusting settings
 6. **Recovery Monitoring**: Post-operative care ensuring successful integration
 
@@ -237,7 +237,7 @@ PAD implantation follows standardized protocols developed over decades of medica
 - **Initial Recovery Period**: 2-week medical supervision with gradual pressure testing
 - **Adaptation Training**: Learning to consciously control device functions
 - **Follow-up Appointments**: Regular medical check-ups monitoring device performance
-- **Emergency Protocols**: Training in emergency procedures and manual overrides
+- **[[Emergency Protocol]]s**: Training in emergency procedures and manual overrides
 - **Lifestyle Adjustment**: Counseling for adapting to pressure-regulated life
 
 ### System Maintece and Upgrades
@@ -257,7 +257,7 @@ Both personal and city-wide systems require regular maintece to ensure continued
 - **Weekly Preventive Service**: Routine maintece preventing system failures
 - **Monthly Deep Inspections**: Comprehensive evaluation of critical components
 - **Seasonal Overhauls**: Major maintece during low-activity periods
-- **Emergency Response Drills**: Regular testing of crisis management procedures
+- **Emergency Response Drills**: Regular testing of [[Crisis Management]] procedures
 
 ### Residential and Domestic Applications
 
@@ -309,7 +309,7 @@ The [[Pressure Tubes]] transportation system works closely with individual adapt
 **Travel Considerations:**
 - **Route Planning**: Selecting paths compatible with passenger adaptation levels
 - **Transit Pressure Management**: Gradual adjustment during travel between zones
-- **Emergency Protocols**: Safety procedures for pressure system failures during transport
+- **[[Emergency Protocols]]**: Safety procedures for pressure system failures during transport
 - **Tourist Services**: Adaptation assistance for visitors unfamiliar with pressure systems
 - **Commercial Transport**: Specialized services for business and cargo requiring pressure control
 
@@ -334,7 +334,7 @@ Biological integration can create health problems requiring immediate medical at
 - **Neural Integration Disorders**: Problems with nerve pathway connections
 - **Cardiovascular Stress**: Heart problems from continuous pressure regulation
 
-**Emergency Response Procedures:**
+**[[Emergency Response Procedures]]:**
 PAD failures require immediate action to prevent serious injury or death:
 
 1. **Automatic Emergency Mode**: Device switches to safe pressure settings
@@ -351,7 +351,7 @@ Large-scale pressure system failures could endanger entire districts or the whol
 **Potential Failure Modes:**
 - **Cascading System Collapse**: Failure of one district causing others to overload
 - **Power Grid Disruption**: Electrical failures disabling pressure regulation networks
-- **Crystal Network Corruption**: Magical interference disrupting crystalline systems
+- **[[Crystal Network]] Corruption**: Magical interference disrupting crystalline systems
 - **Sabotage or Attack**: Deliberate damage to critical pressure infrastructure
 - **Natural Disaster**: Earthquakes or ocean disturbances damaging system components
 
@@ -362,14 +362,14 @@ Comprehensive emergency procedures address various scenarios:
 - **District Evacuation Procedures**: Organized movement to safer pressure zones
 - **Repair Team Mobilization**: Specialized crews trained in crisis system repair
 - **Medical Emergency Response**: Mass casualty treatment for pressure-related injuries
-- **Communication Systems**: Emergency information networks for coordinating response
+- **[[Communication Systems]]**: Emergency information networks for coordinating response
 
 ### Technological Enhancement Projects
 
 **Advanced Adaptation Research:**
 Ongoing research programs promise significant improvements to current system capabilities:
 
-**Current Research Initiatives:**
+**Current Research [[Initiative]]s:**
 - **Neural Interface Enhancement**: Direct brain control of pressure adaptation systems
 - **Biological Symbiosis**: Deeper integration of devices with human biology
 - **Magical Augmentation**: Enhanced crystal technologies for superior performance
@@ -392,9 +392,9 @@ Cooperation with surface realm researchers offers mutual benefits:
 
 **Joint Development Projects:**
 - **Dual-Environment Adaptation**: Systems supporting life in both air and water
-- **Reality Transition Support**: Pressure management during dimensional travel
+- **Reality Transition Support**: Pressure management during [[Dimensional Travel]]
 - **Emergency Cross-Realm Evacuation**: Systems supporting mass population movement
-- **Cultural Exchange Programs**: Technology sharing between surface and depth civilizations
+- **[[[[Cultural Exchange]] Programs]]**: Technology sharing between surface and depth civilizations
 - **Convergence Preparation**: Adaptation systems for merged reality environment
 
 ### Medical and Therapeutic Applications
@@ -417,7 +417,7 @@ Pressure adaptation technology creates numerous business opportunities:
 **Market Expansion:**
 - **Tourism Industry**: Systems supporting surface visitor adaptation
 - **Export Markets**: Pressure-adapted goods for international trade
-- **Technology Transfer**: Licensing adaptation innovations to other underwater civilizations
+- **[[Technology Transfer]]**: Licensing adaptation innovations to other underwater civilizations
 - **Service Industries**: Specialized businesses supporting pressure-adapted lifestyles
 - **Emergency Services**: Private companies providing rapid adaptation assistance
 
@@ -430,9 +430,9 @@ The Pressure Adaptation System works closely with other critical Aquabyssos infr
 - **[[Underwater Breathing]]**: Life support systems working with adaptation devices
 - **[[Depth Effect Quick Reference]]**: Medical monitoring coordinated with adaptation status
 - **[[Crystal Forest]]**: Resource production supporting system manufacturing
-- **[[The Deep Harvest]]**: Economic systems dependent on pressure-adapted workers
+- **[[The Deep Harvest]]**: [[Economic System]]s dependent on pressure-adapted workers
 
-### Professional Networks and Organizations
+### Professional Networks and [[Organization]]s
 
 **Key Institutions:**
 Various organizations support and regulate pressure adaptation technology:
@@ -441,7 +441,7 @@ Various organizations support and regulate pressure adaptation technology:
 - **[[Adaptation Medical Society]]**: Healthcare professionals specializing in pressure-related medicine
 - **[[Citizens Adaptation Alliance]]**: Advocacy group representing pressure system users
 - **[[Emergency Response Coordination]]**: Crisis management organization for system failures
-- **[[02 Worldbuilding/Groups/Pressure Safety Authorit|02 Worldbuilding/Groups/Pressure Safety Authorit]]**: Government agency regulating system safety and standards
+- **[[Groups]]**: Government agency regulating system safety and standards
 
 ### Research and Development Partnerships
 
@@ -450,8 +450,8 @@ Multiple organizations contribute to ongoing system improvement:
 
 - **[[Aquabyssos Technical University]]**: Academic research and engineer training programs
 - **[[Deep Sciences Research Institute]]**: Advanced studies in pressure and adaptation technology
-- **[[Bio Magical Integration Laboratory]]**: Specialized research in biological device integration
-- **[[International Pressure Technology Consortium]]**: Global cooperation on adaptation innovations
+- **[[laboratory]]**: Specialized research in biological device integration
+- **[[[[International Pressure]] Technology Consortium]]**: Global cooperation on adaptation innovations
 - **[[Emergency Medical Research Foundation]]**: Crisis response and medical treatment advancement
 
 ### Adventure Scenarios
@@ -475,7 +475,7 @@ The Pressure Adaptation System provides numerous opportunities for character inv
 
 **Development and Innovation Plots:**
 - Prototype testing for new adaptation technologies
-- Diplomatic missions promoting pressure technology sharing
+- Diplomatic missions promoting [[Pressure Technology]] sharing
 - Exploration expeditions requiring advanced adaptation equipment
 - Corporate negotiations over adaptation technology rights
 - International cooperation on convergence preparation systems
@@ -509,11 +509,11 @@ Pressure Adaptation System is a undersea element of the setting, known for biolu
 
 Legends speak of Pressure Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Adaptation System.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -524,16 +524,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - An heirloom has gone missing and evil awakens
-- A merchant needs help investigating before winter
+- A [[Merchant]] needs help investigating before winter
 - A noble needs help finding before the festival
 - An heirloom has gone missing and chaos spreads
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -543,7 +543,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 

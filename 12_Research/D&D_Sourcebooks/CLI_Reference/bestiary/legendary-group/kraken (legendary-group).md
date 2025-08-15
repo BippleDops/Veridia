@@ -58,7 +58,7 @@ On initiative count 20 (losing initiative ties), the kraken takes a lair action 
 
 The region containing a kraken's lair is warped by the creature's blasphemous presence, creating the following magical effects:
 
-- The kraken can alter the weather at will in a 6-mile radius centered on its lair. The effect is identical to the [[control weather xphb|control weather]] spell.  
+- The kraken can alter the weather at will in a 6-mile radius centered on its lair. The effect is identical to the [[weather]] spell.  
 - Water elementals coalesce within 6 miles of the lair. These elementals can't leave the water and have Intelligence and Charisma scores of 1 (-5).  
 - Aquatic creatures within 6 miles of the lair that have an Intelligence score of 2 or lower are [[conditions#Charmed|charmed]] by the kraken and aggressive toward intruders in the area.  
 

@@ -47,7 +47,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phase-spider-xmm-phase-spider-xmm.svg)
 
-# [[phase spider xmm|Phase Spider]]
+# [[phase-spider-xmm (monstrosity)]]
 *Source: Monster Manual (2024) p. 239. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -113,8 +113,8 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - "desc": "The spider makes two Bite attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage\
-      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[hit points xphb|Hit Points]],\
-      \ the target becomes [[stable xphb|Stable]],\
+      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[hit-points-xphb (variant-rules)]],\
+      \ the target becomes [[Stable Xphb]],\
       \ and it has the [[conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour. While [[conditions#Poisoned|Poisoned]], the\
       \ target also has the [[conditions#Paralyzed|Paralyzed]]\

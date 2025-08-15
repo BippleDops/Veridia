@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-toad-rot-ice-toad-rot.svg)
 
-# [[ice toad rot|Ice Toad]]
+# [[Ice Toad Rot]]
 *Source: The Rise of Tiamat p. 90*  
 
 Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.

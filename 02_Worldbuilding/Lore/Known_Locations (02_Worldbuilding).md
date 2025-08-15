@@ -1,7 +1,7 @@
 ---
 
-title: Known Locations
-type: lore
+title: Known [[location]]s
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ improvements: 20
 
 ## Overview
 
-Known Locations represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+[[Known Locations]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ### Basic Information
 Known Locations can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -200,7 +200,7 @@ Ways to incorporate Known Locations into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration

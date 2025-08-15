@@ -33,7 +33,7 @@ updated: '2025-08-12T00:00:00+00:00'
 # Aquabyssos Cultural Codex
 *"In the depths, tradition flows like the eternal currents - ancient, powerful, and ever-present."*
 
-> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[02 Worldbuilding/People/Cultural Sage Deep Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]]
+> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[People]]
 
 ## 🔧 Deep Evaluation Improvements
 

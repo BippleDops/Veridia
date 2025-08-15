@@ -1,15 +1,16 @@
 ---
+
 title: Session 2 the Shadow Surgery
 type: session
 tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_2_The_Shadow_Surgery
 
----
+- --
 title: Session 2 The Shadow Surgery
 type: research
 tags:
@@ -17,14 +18,14 @@ tags:
 - research
 created: '2025-08-14'
 modified: '2025-08-14'
----
+- --
 
 # Session 2: The Shadow Surgery
-*The Shadow Conspiracy Campaign - Investigation Deepens*
+* The Shadow Conspiracy Campaign - Investigation Deepens*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -313,7 +314,9 @@ LABEL[Evidence Collected: 12/20]
 
 ### Random Complications `dice: 1d8`
 | d8 | Complication |
-|----|--------------|
+|
+status: active
+----|--------------|
 | 1-2 | Scheduled surgery arrives early |
 | 3-4 | Security patrol discovers infiltration |
 | 5-6 | Patient awakens during procedure |
@@ -325,17 +328,17 @@ LABEL[Evidence Collected: 12/20]
 - **Related**: [[Shadow Surgery Mechanics]]
 - **NPCs**: [[Dr. Umbral Voidheart]], [[Senator Marius]]
 
----
+- --
 
-*"The human mind is remarkably adaptable. With proper surgical intervention, even the most independent thinker can be made... cooperative."* - Dr. Umbral Voidheart
+* "The human mind is remarkably adaptable. With proper surgical intervention, even the most independent thinker can be made... cooperative."* - Dr. Umbral Voidheart
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Secret Connections
 
-*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+* [Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 ## Plot Hooks
 
@@ -350,3 +353,19 @@ LABEL[Evidence Collected: 12/20]
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Pronunciation Guide
+- **They'll**: [THEY-LL]
+- **Theme**: [THEME]
+- **Stealth**: [STEALTH]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

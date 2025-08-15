@@ -36,9 +36,9 @@ world: Both
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/horn-of-valhalla.webp#right)
 
-You can take a [[actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserker]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[hit-points-xphb|Hit Points]]. The spirits look like living, breathing warriors, and they have [[immunity xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
+You can take a [[actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[Bestiary]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[hit-points-xphb (variant-rules)]]. The spirits look like living, breathing warriors, and they have [[immunity-xphb (variant-rules)]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
 
-A silver horn summons 2 [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|Berserkers]]. They are [[friendly-attitude-xphb|Friendly]] to you and your allies and follow your commands.
+A silver horn summons 2 [[Bestiary]]. They are [[friendly-attitude-xphb (variant-rules)]] to you and your allies and follow your commands.
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the SRD and the Free Rules (2024)*
 

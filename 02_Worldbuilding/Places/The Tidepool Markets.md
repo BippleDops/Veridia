@@ -1,10 +1,10 @@
 ---
 
 title: The Tidepool Markets
-type: Location
+type: [[location]]
 tags:
 - mechanics/social
-- aquabyssos
+- [[Aquabyssos]]
 - trade-hub
 - status/complete
 - quest
@@ -21,9 +21,9 @@ tags:
 created: '2025-08-09'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: ~2,000 daily traders, 10,000+ daily customers
-affiliation: Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)
+affiliation: [[Independent Merchan]]ts (Loosely [[The Liminal Trading Company]] influenced)
 created_by: Claude
 danger_level: 2
 location_type: Floating Marketplace
@@ -64,7 +64,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ improvements: 20
 
 ## Overview
 
-The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial hub, consisting of dozens of interconnected floating platforms that rise and fall with the tides, creating an ever-changing marketplace landscape. Built around natural tidepool formations that create protected harbors, the markets serve as neutral ground where merchants from every faction, region, and social class come together to trade goods, services, information, and opportunities. The unique tidal architecture means that different sections of the market are accessible at different times, creating rotating specialization and ensuring that every visit offers new discoveries.
+The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial hub, consisting of dozens of interconnected floating platforms that rise and fall with the tides, creating an ever-changing marketplace landscape. Built around natural tidepool formations that create protected harbors, the markets serve as neutral ground where [[Merchant]]s from every faction, region, and social class come together to trade goods, services, information, and opportunities. The unique tidal architecture means that different sections of the market are accessible at different [[Time]]s, creating rotating specialization and ensuring that every visit offers new discoveries.
 
 #### The Tide Thief
 
@@ -120,7 +120,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 **Level**: 6-10  
 **Hook**: Escalating conflict between rival trading companies  
 **Complication**: Violence threatens neutral status of markets  
-**Stakes**: Economic warfare could destroy region's commercial center  
+**Stakes**: [[Economic Warfare]] could destroy region's commercial center  
 **Challenge**: Mediate between factions while uncovering true cause of conflict  
 **Resolution**: Discover external manipulation and restore market peace
 
@@ -128,7 +128,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 **Level**: 8-12  
 **Hook**: Mysterious shipment bringing strange effects to market  
-**Investigation**: Items causing reality distortions and unusual behavior  
+**Investigation**: Items causing [[Reality Distortion]]s and unusual behavior  
 **Danger**: Contamination spreading through tidal water systems  
 **Challenge**: Identify source and neutralize threat without causing panic  
 **Resolution**: Trace cargo to source and prevent larger catastrophe
@@ -136,13 +136,13 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 #### The Tide Prophecy
 
 **Level**: 10-15  
-**Hook**: [[Oracle Nerida the Tidereader]] predicts disaster befalling markets  
+**Hook**: [[[[Oracle]] Nerida the Tidereader]] predicts disaster befalling markets  
 **Urgency**: Limited time to prevent economic catastrophe affecting entire realm  
 **Complexity**: Multiple possible interpretations of prophetic warnings  
 **Investigation**: Determine which threat is real and how to prevent it  
 **Stakes**: Failure could destroy Aquabyssos's primary commercial hub
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -153,7 +153,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 The Tidepool Markets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Tidepool Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidepool Markets.
 
@@ -177,6 +177,34 @@ The Tidepool Markets is a notable location characterized by its unique features 
 ### Founding
 The Tidepool Markets was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Tidepool Markets:
@@ -193,5 +221,41 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ## Plot Hooks
 
-- A map reveals the truth about this place
+- A [[map]] reveals the truth about this place
 - A map reveals ancient history about the cult
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

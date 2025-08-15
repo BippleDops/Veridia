@@ -279,7 +279,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Collaborative response to dream-based magical threats
 
 ### Religious & Spiritual Connections
-**[[Sister Thalassa the Depth Touched]]**: Shared devotion to Deep Mother with different interpretations
+**[[Sister Thalassa the Depth-Touched (D&D_References)]]**: Shared devotion to Deep Mother with different interpretations
 - Regular theological discussions about divine will and proper worship methods
 - Collaboration on protecting sacred sites from commercial exploitation
 - Disagreement over awakening timeline and preparation strategies
@@ -317,7 +317,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Theological debates about whether memory preservation serves or hinders spiritual growth
 
 ### Political & Social Networks
-**[[02 Worldbuilding/People/Senator Nereon Tidecaller|02 Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
+**[[Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
 - Advocacy for legal protections for sacred memory sites and traditional practices
 - Funding for memory preservation research and ethical standards development
 - Political protection from commercial interests seeking to exploit Memory Meadows
@@ -471,7 +471,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ---
 
-### Links to [[Quest   The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+### Links to [[Quest - The Convergence Crisis]]
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
 - Divine memories serve as cosmic reference points maintaining dimensional stability
@@ -497,7 +497,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Collaboration on projects requiring access to trans-dimensional memory archives
 - Shared responsibility for maintaining cosmic memory stability during convergence events
 
-### Connection to [[The Shadow Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
+### Connection to [[Shadow Crystal]]
 **Memory-Shadow Interface**: Intersection between shadow magic and memory manipulation
 - Study of how shadow energy affects memory formation and preservation
 - Development of protective techniques preventing shadow corruption of stored memories

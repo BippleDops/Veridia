@@ -1,7 +1,7 @@
 ---
 
 title: Void Currents
-type: Location
+type: [[location]]
 tags:
 - both
 - aquatic
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:16.598192+00:00'
 world: Both
@@ -42,7 +42,7 @@ danger_level: Moderate
 
 *Where Reality Drowns in Nothingness*
 
-> *"I have sailed every current in Aquabyssos, faced leviathans and survived the deepest trenches, but the Void Currents... they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
+> *"I have sailed every current in Aquabyssos, faced [[Leviathan]]s and survived the deepest trenches, but [[The Void Currents]][[...]] they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
 > — [[Navigator Abyssal Truthseeker]], sole survivor of the Meridian Deep Expedition
 
 ## 🔧 Deep Evaluation Improvements
@@ -59,7 +59,7 @@ danger_level: Moderate
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### Temporal Disturbances
 
-**Time Dilation**: Areas where time moves at different rates  
+**[[Time]] Dilation**: Areas where time moves at different rates  
 **Temporal Loops**: Repeating time periods that trap visitors  
 **Causality Breakdown**: Effects preceding their causes  
 **Memory Echoes**: Past events replaying in the present  
@@ -135,7 +135,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### Reality Storms
 
-**Phenomenon**: Moving areas of intense reality distortion  
+**Phenomenon**: Moving areas of intense [[Reality Distortion]]  
 **Appearance**: Visible distortions in space-time creating impossible visual effects  
 **Movement**: Storms that move through the ocean following no predictable pattern  
 **Intensity**: Varying intensity levels from minor distortions to complete reality breakdown  
@@ -143,7 +143,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### Void Echoes
 
-**Nature**: Reflections or copies of objects, places, or beings from elsewhere  
+**Nature**: Reflections or copies of objects, [[Places]], or beings from elsewhere  
 **Origin**: Sources unknown, possibly from other dimensions or times  
 **Interaction**: Limited ability to interact with echo phenomena  
 **Information**: Echoes sometimes providing information about distant or past events  
@@ -160,7 +160,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 #### The Wounded Reality Theory
 
 **Hypothesis**: Reality was damaged by some ancient catastrophic event  
-**Evidence**: Consistent patterns in void phenomena suggesting systematic damage  
+**[[Evidence]]**: Consistent patterns in void phenomena suggesting systematic damage  
 **Mechanism**: Void currents as "bleeding" from reality wounds  
 **Healing**: Possibility that reality might eventually heal itself  
 **Intervention**: Theoretical methods for accelerating or guiding reality healing
@@ -171,7 +171,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Support**: Phenomena consistent with contact between different reality systems  
 **Origin**: Unknown source dimension with different physical laws  
 **Purpose**: Uncertain whether incursions are random or intentional  
-**Defense**: Potential methods for blocking or repelling dimensional incursions
+**Defense**: Potential methods for blocking or repelling [[Dimensional Incursions]]
 
 #### The Ancient Experiment Hypothesis
 
@@ -186,14 +186,14 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Concept**: Void currents as areas where universal entropy is accelerating  
 **Mechanism**: Natural processes causing reality to break down faster in certain areas  
 **Spread**: Potential for entropy acceleration to spread throughout reality  
-**Timeline**: Unknown timeline for complete reality breakdown  
+**[[Timeline]]**: Unknown timeline for complete reality breakdown  
 **Prevention**: Theoretical possibility of slowing or reversing entropy acceleration
 
 #### The First Discovery
 
 **Timeline**: 300 years ago by deep-sea mineral prospectors  
 **Initial Report**: Dismissed as hallucinations from deep-sea pressure sickness  
-**Confirmation**: Multiple independent reports forcing official recognition  
+**Confirmation**: Multiple independent [[reports]] forcing official recognition  
 **Response**: Government cover-up attempting to prevent panic  
 **Legacy**: Beginning of official void current research and monitoring
 
@@ -205,9 +205,9 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Information**: Limited information about void current nature and dangers  
 **Impact**: Establishment of void current quarantine and research restrictions
 
-#### The Reality Mapping Project
+#### The Reality [[map]]ping Project
 
-**Period**: 150-100 years ago, systematic mapping of void current locations  
+**Period**: 150-100 years ago, systematic mapping of void [[Current Location]]s  
 **Method**: Long-distance observation and measurement techniques  
 **Results**: Partial maps showing void current locations and movement patterns  
 **Cost**: High cost in lives and resources for limited information gained  
@@ -225,7 +225,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 **Technology**: Advanced sensing technology for long-distance void current monitoring  
 **Safety**: Observation from safe distances to avoid reality distortion effects  
-**Data**: Collection of data on void current behavior and patterns  
+**[[data]]**: Collection of data on void current behavior and patterns  
 **Analysis**: Analysis of collected data to understand void current nature  
 **Limitation**: Fundamental limitations of studying phenomena that defy normal observation
 
@@ -256,14 +256,14 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 #### The Institute for Reality Studies
 
 **Mission**: Leading research institution for void current and reality anomaly study  
-**Location**: Heavily shielded facility in [[Abyssos Prime]]  
+**Location**: Heavily [[Shield]]ed facility in [[Abyssos Prime]]  
 **Staff**: International staff of researchers, theorists, and support personnel  
 **Resources**: Extensive resources for studying impossible phenomena  
 **Secrecy**: High levels of secrecy and security surrounding research activities
 
 #### The Void Current Monitoring Service
 
-**Function**: International organization monitoring void current locations and movements  
+**Function**: International [[Organization]] monitoring void current locations and movements  
 **Network**: Network of monitoring stations and mobile observation platforms  
 **Warning**: Early warning system for void current approach to populated areas  
 **Response**: Coordinated response to void current threats to civilization  
@@ -282,7 +282,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Terror**: Deep-seated terror of void currents throughout [[Aquabyssos]] society  
 **Taboos**: Cultural taboos against discussing or approaching void current areas  
 **Religion**: Religious beliefs attributing void currents to divine punishment or cosmic evil  
-**Folklore**: Folklore and legends growing around void current phenomena  
+**Folk[[Lore]]**: Folklore and legends growing around void current phenomena  
 **Avoidance**: Cultural practices designed to avoid void current encounters
 
 #### Scientific Revolution
@@ -323,7 +323,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Civil Defense**: Civil defense preparations for void current emergencies  
 **International**: International cooperation costs for void current management  
 **Emergency**: Emergency response capabilities for void current incidents  
-**Prevention**: Prevention programs and public education initiatives
+**Prevention**: Prevention programs and public education [[Initiative]]s
 
 #### International Cooperation
 
@@ -387,7 +387,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Symptoms**: Symptoms including existential dread, reality dissociation, and despair  
 **Duration**: Long-term psychological effects lasting years or lifetime  
 **Treatment**: Limited effectiveness of conventional psychological treatment  
-**Support**: Specialized support groups for void current encounter survivors
+**Support**: Specialized support [[Groups]] for void current encounter survivors
 
 #### Void Madness
 
@@ -405,7 +405,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Fabrication**: Unconscious fabrication of false memories to replace traumatic ones  
 **Identity**: Impact on personal identity and sense of self
 
-#### Reality Anchoring
+#### [[Reality Anchoring]]
 
 **Concept**: Theoretical technology for anchoring local reality against void effects  
 **Development**: Ongoing development with limited success  
@@ -479,7 +479,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### Void Echoes
 
-**Encounters**: Meeting echoes of people, places, or things from elsewhere  
+**Encounters**: Meeting echoes of [[People]], places, or things from elsewhere  
 **Communication**: Limited ability to communicate with echo phenomena  
 **Information**: Potential for gaining information from echoes  
 **Danger**: Some echoes may be hostile or dangerous  
@@ -584,7 +584,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 **Attempt**: Dramatic attempt at repairing fundamental reality  
 **Consequences**: Long-term consequences of successful or failed repair attempt
 
-#### The Lost Expedition
+#### [[The Lost Expedition]]
 
 **Level**: 8-12  
 **Mission**: Rescuing survivors from lost research expedition  
@@ -689,7 +689,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 - [[Azure Citadel]]
 - [[Memory Farmers]]
 
-**Related NPCs**:
+**Related [[Npc]]s**:
 - [[Navigator Abyssal Truthseeker]]
 - [[Institute for Reality Studies Researchers]]
 - [[Void Current Survivors]]
@@ -709,7 +709,7 @@ Void Currents is a void-touched element of the setting, known for impossible ang
 
 Legends speak of Void Currents as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Currents.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -717,7 +717,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Sights**: Shadows dance across weathered stone walls
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: The tang of salt air permeates everything
 
@@ -732,6 +732,27 @@ Void Currents is a notable location characterized by its unique features and str
 
 ### Founding
 Void Currents was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
 
 ## Current Events
 
@@ -758,3 +779,40 @@ Ongoing situations affecting Void Currents:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

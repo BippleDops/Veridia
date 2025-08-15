@@ -1,3 +1,8 @@
+---
+tags: [note]
+type: note
+---
+
 # Campaign Era Timeline
 
 ## Overview

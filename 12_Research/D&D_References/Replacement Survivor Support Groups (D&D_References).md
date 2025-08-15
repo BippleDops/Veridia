@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A map reveals ancient history about the government
 - Someone is protecting information for power
+
+## Sensory Details
+- **Sight**: Visual impressions
+- **Sound**: Ambient noises
+- **Smell**: Distinctive odors

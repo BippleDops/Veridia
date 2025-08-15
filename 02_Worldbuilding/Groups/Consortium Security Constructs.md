@@ -135,7 +135,7 @@ The Consortium Security Constructs represent [[The Silverscale Consortium|02 Wor
 ### High Command
 **Executive Leadership**
 - **Supreme Commander**: [[Commander Ironprice]] - Former royal guard, corporate loyalist
-- **Deputy of Operations**: [[Colonel Crystal Core]] - Half-construct tactical genius
+- **Deputy of Operations**: [[Colonel Crystal-Core]] - Half-construct tactical genius
 - **Intelligence Director**: [[Spymaster Goldwatch]] - Information warfare specialist
 - **Chief Engineer**: [[Master Artificer Cogsworth]] - Construct design and maintece
 - **Enforcement Coordinator**: [[Captain Repossession]] - Debt collection and property seizure

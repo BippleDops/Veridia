@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-wolf-xmm-v1-winter-wolf-xmm.svg)
 
-# [[winter wolf xmm|Winter Wolf]]
+# [[winter-wolf-xmm]]
 *Source: Monster Manual (2024) p. 334. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -96,7 +96,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 "languages": "Common, Giant"
 "cr": "3"
 "traits":
-  - "desc": "The wolf has [[advantage xphb|Advantage]]\
+  - "desc": "The wolf has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the wolf's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
@@ -105,7 +105,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
     "name": "Bite"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[cone area of effect xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[Area of Effect Xphb]].\
       \ Failure: 18 (4d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

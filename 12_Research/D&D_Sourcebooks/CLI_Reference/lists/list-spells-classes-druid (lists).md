@@ -57,3 +57,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and chaos spreads
 - Someone is hunting a witness for love
 - A noble needs help investigating before the festival
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: PHB p.XXX
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-classes-druid (lists)-phb]]` in CLI_Reference/spells/

@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kenku-xmm-kenku-xmm.svg)
 
-# [[kenku xmm|Kenku]]
+# [[Kenku Xmm]]
 *Source: Monster Manual (2024) p. 183*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,7 +104,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
       \ the kenku's hand immediately after a ranged attack."
     "name": "Shadow Blade"
 "bonus_actions":
-  - "desc": "The kenku casts [[faerie fire xphb|Faerie Fire]],\
+  - "desc": "The kenku casts [[faerie-fire-xphb (spells)]],\
       \ using Intelligence as the spellcasting ability (spell save DC 10).\n"
     "name": "Eldritch Lantern (Recharge 4-6)"
 "source":

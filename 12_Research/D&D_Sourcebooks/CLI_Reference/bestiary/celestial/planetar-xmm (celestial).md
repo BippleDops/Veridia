@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-planetar-xmm-planetar-xmm.svg)
 
-# [[planetar xmm|Planetar]]
+# [[Planetar Xmm]]
 *Source: Monster Manual (2024) p. 245. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -115,10 +115,10 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "The planetar knows if it hears a lie."
     "name": "Divine Awareness"
   - "desc": "If the planetar dies outside Mount Celestia, its body disappears, and\
-      \ it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The planetar has [[advantage xphb|Advantage]]\
+  - "desc": "The planetar has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -127,21 +127,21 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "Melee Attack Roll: +12, reach 10 ft. Hit: 14 (2d6 + 7) Slashing damage\
       \ plus 18 (4d8) Radiant damage."
     "name": "Radiant Sword"
-  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [[sphere area of effect xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [[Area of Effect Xphb]]\
       \ centered on a point the planetar can see within 120 feet. Failure: 24 (7d6)\
       \ Radiant damage. Success: Half damage."
     "name": "Holy Burst"
   - "desc": "The planetar casts one of the following spells, requiring no Material\
       \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
-      \nAt will: [[detect evil and good xphb|Detect Evil and Good]]\n\
-      \n1/day each: [[commune xphb|Commune]], [[control weather xphb|Control\]]
-      \ Weather]], [[dispel evil and good xphb|Dispel Evil and\]]
-      \ Good]], [[raise dead xphb|Raise Dead]]"
+      \nAt will: [[detect-evil-and-good-xphb (spells)]]\n\
+      \n1/day each: [[Commune Xphb]], [[weather]]
+      \ Weather]], [[dispel-evil-and-good-xphb (spells)]]
+      \ Good]], [[raise-dead-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The planetar casts [[cure wounds xphb|Cure Wounds]],\
-      \ [[invisibility xphb|Invisibility]], [[lesser restoration xphb|Lesser Restoration]],\
-      \ or [[remove curse xphb|Remove Curse]], using the\
+  - "desc": "The planetar casts [[mass-cure-wounds-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]], [[Lesser Restoration Xphb]],\
+      \ or [[Remove Curse Xphb]], using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

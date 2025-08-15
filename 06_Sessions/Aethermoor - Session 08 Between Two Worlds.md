@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Aethermoor - Session 08 Between Two Worlds
 
----
+- --
 title: Between Two Worlds
 type: Lore
 tags:
@@ -47,7 +47,7 @@ quests_advanced:
 - '[[Save Both Civilizations]]'
 updated: '2025-08-13T12:34:17.853929+00:00'
 world: Aethermoor
----
+- --
 
 # Session 8: Between Two Worlds
 
@@ -55,7 +55,7 @@ world: Aethermoor
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Planning Improvements
 
@@ -141,25 +141,25 @@ Key Mechanics:
 - Reality anchor points
 
 ## Semantic Connections
-*Related concepts and locations:*
-- [[insect plague xphb]]
-- [[secondary tables arcane matters xge]]
-- [[belt of storm giant strength xdmg]]
-- [[wizard xphb school of enchantment]]
+* Related concepts and locations:*
+- [[Insect Plague Xphb]]
+- [[secondary-tables-arcane-matters-xge (tables)]]
+- [[belt-of-storm-giant-strength-xdmg (items)]]
+- [[Wizard Xphb School of Enchantment]]
 - [[List Spells Optional Features Gift of the Depths Xphb]]
 - [[Enforcement Authority Charte]]
-- [[protection from energy xphb]]
+- [[protection-from-energy-xphb (spells)]]
 - [[Advocate Lightfight]]
-- [[potion of stone giant strength xdmg]]
+- [[potion-of-stone-giant-strength-xdmg (items)]]
 - [[Nurse Nightshade]]
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## DM Notes
 
-*Private notes for campaign integration:*
+* Private notes for campaign integration:*
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -182,3 +182,19 @@ Key Mechanics:
 ### Cleric (Jamie)
 - Heal poisoned NPC child
 - Religious debate with cult leader
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |

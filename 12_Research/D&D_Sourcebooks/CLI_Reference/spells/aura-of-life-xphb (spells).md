@@ -46,9 +46,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
+An aura radiates from you in a 30-foot [[Area of Effect Xphb]] for the duration. While in the aura, you and your allies have [[boon-of-energy-resistance-xphb (feats)]] to Necrotic damage, and your [[hit-points-xphb (variant-rules)]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb (variant-rules)]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb (variant-rules)]].
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the SRD and the Free Rules (2024)*
 
@@ -90,3 +90,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[aura-of-life-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -453,8 +453,8 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 ### Network Relationships
 **[[Tide Runners Guild]]**: Professional sailors who use the tavern as meeting place
 **[[Deep Current Pirates]]**: Criminal organization with members who frequent the establishment
-**[[The Merchant's Covet]]**: Trading guild that respects tavern neutrality
-**[[Abyssal Covet]]**: Mysterious cult with occasional representatives
+**[[Merchant's Covet]]**: Trading guild that respects tavern neutrality
+**[[Abyssal_Covet]]**: Mysterious cult with occasional representatives
 
 ### Political Connections
 **[[Surface Coalition]]**: Surface-world governments seeking underwater intelligence

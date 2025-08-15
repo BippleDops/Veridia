@@ -36,7 +36,7 @@ updated: '2025-08-12T23:37:34.952322'
 world: Both
 ---
 
-# [[primeval owlbear xmm|Primeval Owlbear]]
+# [[Owlbear Xmm]]
 *Source: Monster Manual (2024) p. 234*  
 
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
@@ -103,7 +103,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The owlbear has [[advantage xphb|Advantage]]\
+  - "desc": "The owlbear has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -115,7 +115,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
       \ (2d8) Slashing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Ravage"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[Area of Effect Xphb]]\
       \ originating from the owlbear. Failure: 27 (6d8) Thunder damage, and the\
       \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. Success: Half damage only."

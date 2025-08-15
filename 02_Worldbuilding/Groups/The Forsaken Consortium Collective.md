@@ -247,8 +247,8 @@ Massive warehouse and manufacturing complex originally built by the [[Silverscal
 20. **The Legacy Decision**: Character inherits connection to pre-Collective industrial history, must decide how to honor past while building future.
 
 ## Related Quests
-- [[Quest   The Crystal Innovatio]] - Developing new crystal applications and technologies
-- [[Quest   Nature's Balance]] - Environmental restoration and sustainable development
+- [[Quest - The Crystal Innovatio]] - Developing new crystal applications and technologies
+- [[Quest - Nature]] - Environmental restoration and sustainable development
 - **The Recognition Campaign** - Achieving formal government acknowledgment and legal status
 - **The Hostile Takeover** - Defending against corporate attempts to reclaim facilities
 - **The Democratic Experiment** - Navigating internal goverce challenges and decision-making

@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flail-snail-mpmm-flail-snail-mpmm.svg)
 
-# [[flail snail mpmm|Flail Snail]]
+# [[flail-snail-mpmm (elemental)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -65,9 +65,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[spellguard shield xdmg|spellguard shield]].
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[Shield]].
 
-A flail snail shell can also be used to make a [[robe of scintillating colors xdmg|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [[robe-of-scintillating-colors-xdmg (items)]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"

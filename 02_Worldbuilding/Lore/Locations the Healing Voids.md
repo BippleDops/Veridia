@@ -1,7 +1,7 @@
 ---
 
-title: Locations the Healing Voids
-type: lore
+title: [[location]]s the Healing Voids
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -92,7 +92,7 @@ Connected to 02_Worldbuilding/Locations/The Healing Voids are various other impo
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/The Healing Voids through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/The Healing Voids through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -194,7 +194,7 @@ Ways to incorporate 02_Worldbuilding/Locations/The Healing Voids into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -263,12 +263,12 @@ Adapt as needed for:
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

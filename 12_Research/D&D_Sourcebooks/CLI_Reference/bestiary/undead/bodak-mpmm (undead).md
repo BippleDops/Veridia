@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bodak-mpmm-bodak-mpmm.svg)
 
-# [[bodak mpmm|Bodak]]
+# [[bodak-mpmm (undead)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.

@@ -61,8 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
 - [[githzerai-groups-githzerai-group-leader-mtf]]
-- [[Ambassador Warden Luna Peacegem]]
-- [[guild artisan]]
+- [[Ambassador-Warden Luna Peacegem]]
+- [[guild-artisan (backgrounds)]]
 
 ## Related
 

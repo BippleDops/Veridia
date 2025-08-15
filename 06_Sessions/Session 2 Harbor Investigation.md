@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session 2 Harbor Investigation
 
----
+- --
 title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: Adventure
 tags:
@@ -34,14 +34,14 @@ duration: 4-5 hours
 level_range: 1-3
 updated: '2025-08-13T12:34:17.828503+00:00'
 world: Aquabyssos
----
+- --
 
 # Session 2: Harbor Investigation
-*The Sunken Conspiracy - Uncovering Smuggling Operations*
+* The Sunken Conspiracy - Uncovering Smuggling Operations*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -752,9 +752,9 @@ Estimated Completion: 18 hours
 - **Terrain**: Difficult terrain from currents and obstacles
 - **Vision**: Limited visibility creates opportunities for stealth
 
----
+- --
 
-*As the conspiracy's true scope becomes clear, the party must navigate treacherous political waters where allies and enemies are not always who they seem. In the depths of Aquabyssos, even the currents carry secrets, and some truths are more dangerous than the crushing pressure of the abyss.*
+* As the conspiracy's true scope becomes clear, the party must navigate treacherous political waters where allies and enemies are not always who they seem. In the depths of Aquabyssos, even the currents carry secrets, and some truths are more dangerous than the crushing pressure of the abyss.*
 
 ## Player-Facing Summary
 
@@ -770,7 +770,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Plot Hooks
 
@@ -790,3 +790,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

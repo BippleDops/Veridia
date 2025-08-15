@@ -401,11 +401,11 @@ The sphere raises questions:
 - Challenge gods' lies
 
 ## See Also
-- [[02 Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
-- [[02 Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
-- [[02 Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
-- [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics]]
-- [[02 Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
+- [[02_Worldbuilding]]
+- [[Groups]]
+- [[People]]
+- [[Honesty_Mechanics]]
+- [[The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
 

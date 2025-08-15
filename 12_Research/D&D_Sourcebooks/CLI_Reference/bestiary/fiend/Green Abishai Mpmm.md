@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-abishai-mpmm-green-abishai-mpmm.svg)
 
-# [[green abishai mpmm|Green Abishai]]
+# [[Green Abishai Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -118,11 +118,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [[alter self xphb|alter self]], [[major image xphb|major\]]
-      \ image]]\n\n3/day each: [[charm person xphb|charm\]]
-      \ person]], [[detect thoughts xphb|detect thoughts]],\
-      \ [[fear xphb|fear]]\n\n1/day each: [[confusion xphb|confusion]],\
-      \ [[dominate person xphb|dominate person]], [[mass suggestion xphb|mass\]]
+      \nAt will: [[alter-self-xphb (spells)]], [[Major Image Xphb]]
+      \ image]]\n\n3/day each: [[Charm Person Xphb]]
+      \ person]], [[detect-thoughts-xphb (spells)]],\
+      \ [[Fear Xphb]]\n\n1/day each: [[Confusion Xphb]],\
+      \ [[Dominate Person Xphb]], [[Suggestion Xphb]]
       \ suggestion]]"
     "name": "Spellcasting"
 "source":

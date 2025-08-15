@@ -34,17 +34,17 @@ world: Both
 # Appendix C: Magic Items
 *Source: Hoard of the Dragon Queen, p. 178* 
 
-- [[dragontooth dagger rot|Dragontooth Dagger]]  
-- [[hazirawn hotdq|Hazirawn]]  
-- [[insignia of claws hotdq|Insignia of Claws]]  
-- [[tankard of plenty hotdq|Tankard of Plenty]]  
-- [[wand of winter hotdq|Wand of Winter]]  
-- [[black dragon mask hotdq|Black Dragon Mask]]  
+- [[Dragontooth Dagger Rot]]  
+- [[Hazirawn Hotdq]]  
+- [[insignia-of-claws-hotdq (items)]]  
+- [[Tankard of Plenty Hotdq]]  
+- [[Wand of Winter Hotdq]]  
+- [[black-dragon-mask-hotdq (items)]]  
 - Blue Dragon Mask  
 - Green Dragon Mask  
 - Red Dragon Mask  
 - White Dragon Mask  
-- [[mask of the dragon queen rot|Mask of the Dragon Queen]]
+- [[mask-of-the-dragon-queen-rot (items)]]
 
 ## 🔧 Deep Evaluation Improvements
 

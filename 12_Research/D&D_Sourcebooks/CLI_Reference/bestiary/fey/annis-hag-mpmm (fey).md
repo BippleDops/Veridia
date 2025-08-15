@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-annis-hag-mpmm-annis-hag-mpmm.svg)
 
-# [[annis hag mpmm|Annis Hag]]
+# [[Annis Hag Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*  
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -49,7 +49,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[ogre xmm|ogres]] and [[troll xmm|trolls]]), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[Ogre Xmm]] and [[Troll Xmm]]), ruling them through brute strength, insults, and superstition.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -114,8 +114,8 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
       \ way."
     "name": "Crushing Hug"
   - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 13):\n\n3/day each: [[disguise self xphb|disguise self]]\
-      \ (including the form of a Medium Humanoid), [[fog cloud xphb|Fog cloud]]"
+      \ ability (spell save DC 13):\n\n3/day each: [[disguise-self-xphb (spells)]]\
+      \ (including the form of a Medium Humanoid), [[fog-cloud-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

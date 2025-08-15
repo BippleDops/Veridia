@@ -151,6 +151,34 @@ Zephyr Mindweaver appears as an ethereally beautiful sea elf with silver-blue sk
 
 She dresses in robes woven from [[Abyssal Kelp]], adorned with crystalline memory orbs that hang like jewelry around her neck and wrists. These orbs glow softly with different colors, each hue representing different types of memories - golden for joy, blue for sorrow, silver for knowledge, and crimson for passion.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Personality
 
 Zephyr is intensely curious about the experiences of others, viewing each person as a library of unique memories waiting to be catalogued. She speaks in a melodious voice that carries hints of distant echoes, as if her words are filtered through countless other voices. Despite dealing in memories, she is surprisingly empathetic, understanding the weight and value of each experience she handles.
@@ -293,3 +321,40 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

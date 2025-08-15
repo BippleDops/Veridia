@@ -55,7 +55,7 @@ obsidianUIMode: preview
 - 80%: Dual-Realm Siege
 - 90%: The Final Window
 
-See pregens in [[01_Adventures/Convergence_Crisis_Scenarios/Pregenerated_Characters.md|Pregens]].
+See pregens in [[Pregenerated_Characters.md]].
 
 ## Player-Facing Summary
 

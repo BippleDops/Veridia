@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chasme-xmm-chasme-xmm.svg)
 
-# [[chasme xmm|Chasme]]
+# [[chasme-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 69*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -95,10 +95,10 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
 "cr": "6"
 "traits":
   - "desc": "If the chasme dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The chasme has [[advantage xphb|Advantage]]\
+  - "desc": "The chasme has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The chasme can climb difficult surfaces, including along ceilings, without\
@@ -106,11 +106,11 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
     "name": "Spider Climb"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 16 (4d6 + 2) Piercing damage\
-      \ plus 21 (6d6) Necrotic damage. If the target is a creature, its [[hit points xphb|Hit Point]]\
+      \ plus 21 (6d6) Necrotic damage. If the target is a creature, its [[hit-points-xphb (variant-rules)]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken."
     "name": "Proboscis"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[Area of Effect Xphb]]\
       \ originating from the chasme (demons automatically succeed on this save). Failure:\
       \ The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition and repeats the save at the end of each of its turns. The target\

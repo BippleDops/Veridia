@@ -40,7 +40,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While holding or wearing this talisman, you have [[advantage xphb|Advantage]] on any Intelligence ([[skills#Arcana|Arcana]]) check you make to control a [[sphere of annihilation xdmg|Sphere of Annihilation]]. In addition, when you start your turn in control of a [[sphere of annihilation xdmg|Sphere of Annihilation]], you can take a [[actions#Magic|Magic]] action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
+While holding or wearing this talisman, you have [[Advantage Xphb]] on any Intelligence ([[skills#Arcana|Arcana]]) check you make to control a [[Sphere of Annihilation Xdmg]]. In addition, when you start your turn in control of a [[Sphere of Annihilation Xdmg]], you can take a [[actions#Magic|Magic]] action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
 
 *Source: Dungeon Master's Guide (2024) p. 315. Available in the SRD and the Free Rules (2024)*
 

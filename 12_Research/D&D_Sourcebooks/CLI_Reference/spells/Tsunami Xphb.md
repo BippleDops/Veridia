@@ -51,7 +51,7 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 336. Available in the SRD and the Free Rules (2024)*
 

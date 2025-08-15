@@ -42,7 +42,7 @@ chronology: active
 - Thunder Sloop: Crackling lances, storm-etched hull, ozone scent.
 - Aurora Ark: Prism shields spill color; ship vanishes into dawn.
 
-Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicles   Vehicle Customization Progression]].
+Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicles - Vehicle Customization Progression]].
 
 ## 🔧 Deep Evaluation Improvements
 

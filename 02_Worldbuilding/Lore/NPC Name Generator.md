@@ -1,10 +1,10 @@
 ---
 
-title: NPC Name Generator
-type: Lore
+title: [[Npc]] Name Generator
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - status/complete
 - content/lore
 - quest
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ## Summary
 
@@ -101,9 +101,9 @@ NPC Name Generator is a undersea element of the setting, known for bioluminescen
 
 Legends speak of NPC Name Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Name Generator.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Overview
 
@@ -120,6 +120,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - A letter reveals a conspiracy about the cult
-- A merchant needs help stealing before winter
+- A [[Merchant]] needs help stealing before winter
 - Someone is searching for an heir for power
 - Strange sightings suggest ancient magic

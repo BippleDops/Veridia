@@ -38,14 +38,14 @@ world: Both
 
 | Item | Cost | Speed | Carrying Capacity |
 |------|------|-------|-------------------|
-| [[camel xphb|Camel]] | 50 gp | 50 ft. | 480 lb. |
-| [[donkey|Donkey]] or [[mule xphb|mule]] | 8 gp | 40 ft. | 420 lb. |
-| [[elephant xphb|Elephant]] | 200 gp | 40 ft. | 1,320 lb. |
-| [[draft horse xphb|Horse, draft]] | 50 gp | 40 ft. | 540 lb. |
-| [[riding horse xphb|Horse, riding]] | 75 gp | 60 ft. | 480 lb. |
-| [[mastiff xphb|Mastiff]] | 25 gp | 40 ft. | 195 lb. |
-| [[pony xphb|Pony]] | 30 gp | 40 ft. | 225 lb. |
-| [[warhorse xphb|Warhorse]] | 400 gp | 60 ft. | 540 lb. |
+| [[camel-xphb (items)]] | 50 gp | 50 ft. | 480 lb. |
+| [[donkey|Donkey]] or [[Mule Xphb]] | 8 gp | 40 ft. | 420 lb. |
+| [[elephant-xphb (items)]] | 200 gp | 40 ft. | 1,320 lb. |
+| [[draft-horse-xphb (items)]] | 50 gp | 40 ft. | 540 lb. |
+| [[riding-horse-xphb (items)]] | 75 gp | 60 ft. | 480 lb. |
+| [[mastiff-xphb (items)]] | 25 gp | 40 ft. | 195 lb. |
+| [[Pony Xphb]] | 30 gp | 40 ft. | 225 lb. |
+| [[warhorse-xphb (items)]] | 400 gp | 60 ft. | 540 lb. |
 ^mounts-and-other-animals
 
 ## 🔧 Deep Evaluation Improvements

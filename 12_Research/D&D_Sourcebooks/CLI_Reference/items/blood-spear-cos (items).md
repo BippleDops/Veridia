@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Blood Spear
-*Weapon ([[spear xphb|spear]]), uncommon (requires attunement)*  
+*Weapon ([[Eldritch Spear Xphb]]), uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blood-spear.webp#right)
 
 - **Damage**:
@@ -43,7 +43,7 @@ world: Both
 - **Properties**: [[item properties#Thrown|Thrown]], [[item properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[strahd von zarovich cos|Strahd von Zarovich]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
+Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[strahd-von-zarovich-cos (legendary-group)]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
 
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain `2d6` temporary hit points.
 

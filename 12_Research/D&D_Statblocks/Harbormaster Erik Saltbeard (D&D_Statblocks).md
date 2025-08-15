@@ -679,7 +679,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[Aethermoor]], a spr
 - [[Deputy Harbor Master Marina Stormwright]]
 
 **Related Items and Concepts**:
-- [[Crystal Powered Vessels]]
+- [[Crystal-Powered Vessels (D&D_References)]]
 - [[Crystal Storm Barriers]]
 - [[Harbor Defense Grid]]
 - [[Skyship Technology]]

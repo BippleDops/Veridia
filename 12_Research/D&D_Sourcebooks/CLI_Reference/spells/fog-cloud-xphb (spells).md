@@ -56,11 +56,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of fog centered on a point within range. The [[sphere-area-of-effect-xphb|Sphere]] is [[heavily-obscured-xphb|Heavily Obscured]]. It lasts for the duration or until a strong wind (such as one created by [[gust-of-wind-xphb|Gust of Wind]]) disperses it.
+You create a 20-foot-radius [[Area of Effect Xphb]] of fog centered on a point within range. The [[Area of Effect Xphb]] is [[Heavily Obscured Xphb]]. It lasts for the duration or until a strong wind (such as one created by [[Gust of Wind Xphb]]) disperses it.
 
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 20 feet for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the SRD and the Free Rules (2024)*
 
@@ -107,3 +107,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[fog-cloud-xphb (spells)-phb]]` in CLI_Reference/spells/

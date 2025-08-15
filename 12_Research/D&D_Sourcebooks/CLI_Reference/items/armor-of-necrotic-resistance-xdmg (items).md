@@ -50,7 +50,7 @@ world: Both
 # Armor of Necrotic Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to necrotic damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to necrotic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Necrotic Resistance](#Breastplate%20of%20Necrotic%20Resistance)

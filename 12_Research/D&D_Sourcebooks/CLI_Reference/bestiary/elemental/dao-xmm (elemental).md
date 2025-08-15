@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dao-xmm-dao-xmm.svg)
 
-# [[dao xmm|Dao]]
+# [[Dao Xmm]]
 *Source: Monster Manual (2024) p. 89*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,14 +100,14 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
       \ doing so, the dao doesn't disturb the material it moves through."
     "name": "Earth Glide"
   - "desc": "If the dao dies outside the Elemental Plane of Earth, its body dissolves\
-      \ into dirt, and it gains a new body in d4 days, reviving with all its [[hit points xphb|Hit\]]
+      \ into dirt, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb (variant-rules)]]
       \ Points]] somewhere on the\
       \ Plane of Earth."
     "name": "Elemental Restoration"
-  - "desc": "The dao has [[advantage xphb|Advantage]]\
+  - "desc": "The dao has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The dao has a 30 percent chance of knowing the [[wish xphb|Wish]]\
+  - "desc": "The dao has a 30 percent chance of knowing the [[wish-xphb (spells)]]\
       \ spell. If the dao knows it, the dao can cast it only on behalf of a non-genie\
       \ creature who communicates a wish in a way the dao can understand. If the dao\
       \ casts the spell for the creature, the dao suffers none of the spell's stress.\
@@ -123,17 +123,17 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 15 (2d8 + 6) Bludgeoning\
       \ damage. Hit or Miss: Earth explodes from the target's space, creating the\
       \ following effect. Dexterity Saving Throw: DC 16, each creature in a 10-foot\
-      \ [[emanation area of effect xphb|Emanation]]\
+      \ [[Area of Effect Xphb]]\
       \ originating from and including the target. Failure: 10 (3d6) Thunder damage."
     "name": "Earth Burst"
   - "desc": "The dao casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
-      \ will: [[detect evil and good xphb|Detect Evil and Good]],\
-      \ [[detect magic xphb|Detect Magic]], [[stone shape xphb|Stone Shape]]\n\
-      \n1/day each: [[gaseous form xphb|Gaseous Form]],\
-      \ [[invisibility xphb|Invisibility]], [[move earth xphb|Move Earth]],\
-      \ [[passwall xphb|Passwall]], [[plane shift xphb|Plane Shift]],\
-      \ [[tongues xphb|Tongues]], [[wall of stone xphb|Wall of Stone]]"
+      \ will: [[detect-evil-and-good-xphb (spells)]],\
+      \ [[detect-magic-xphb (spells)]], [[stone-shape-xphb (spells)]]\n\
+      \n1/day each: [[gaseous-form-xphb (spells)]],\
+      \ [[see-invisibility-xphb (spells)]], [[move-earth-xphb (spells)]],\
+      \ [[Passwall Xphb]], [[plane-shift-xphb (spells)]],\
+      \ [[Tongues Xphb]], [[Wall of Stone Xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -40,16 +40,16 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[gold ring set with bloodstones xdmg|Gold ring set with bloodstones]] |
-| 2 | [[carved ivory statuette xdmg|Carved ivory statuette]] |
-| 3 | [[bejeweled gold bracelet xdmg|Large gold bracelet]] |
-| 4 | [[silver necklace with a gemstone pendant xdmg|Silver necklace with a gemstone pendant]] |
-| 5 | [[bronze crown xdmg|Bronze crown]] |
-| 6 | [[silk vestments with gold embroidery xdmg|Silk robe with gold embroidery]] |
+| 1 | [[Gold Ring Set With Bloodstones Xdmg]] |
+| 2 | [[Carved Ivory Statuette Xdmg]] |
+| 3 | [[bejeweled-gold-bracelet-xdmg (items)]] |
+| 4 | [[silver-necklace-with-a-gemstone-pendant-xdmg (items)]] |
+| 5 | [[Bronze Crown Xdmg]] |
+| 6 | [[silk-vestments-with-gold-embroidery-xdmg (items)]] |
 | 7 | [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg|Large well-made tapestry]] |
-| 8 | [[brass mug with jade inlay xdmg|Brass mug with jade inlay]] |
-| 9 | [[box of turquoise animal figurines xdmg|Box of turquoise animal figurines]] |
-| 10 | [[gold birdcage with electrum filigree xdmg|Gold bird cage with electrum filigree]] |
+| 8 | [[Brass Mug With Jade Inlay Xdmg]] |
+| 9 | [[Box of Turquoise Animal Figurines Xdmg]] |
+| 10 | [[Gold Birdcage With Electrum Filigree Xdmg]] |
 ^250-gp-art-objects
 
 ## 🔧 Deep Evaluation Improvements

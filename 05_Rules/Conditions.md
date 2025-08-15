@@ -1,5 +1,6 @@
 ---
 
+
 title: Conditions
 type: conditions
 tags:
@@ -12,6 +13,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+status: active
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -137,3 +139,86 @@ Apply this rule when:
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
+
+
+## Common Mistakes
+*Frequent misunderstandings to avoid*
+
+## Common Rulings
+- Frequent situations and decisions
+
+## House Rules
+- Table-specific modifications
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition
+## Official Rules Reference
+
+### Core Rulebooks
+- **General Rules**: PHB Chapter 7-10
+- **DM Guidelines**: DMG Chapter 8
+- **Variant Rules**: DMG Chapter 9
+- **Optional Rules**: TCE p.4-8
+- **UA Playtest Material**: D&D Beyond UA Archive
+- **Expansion Content**: Check specific setting books
+
+### Optional Rules (DMG)
+- Consider variant rules from DMG Chapter 9
+- Review optional class features from TCE
+
+### Sage Advice
+- Check official rulings at [D&D Sage Advice](https://dnd.wizards.com/sage-advice)
+
+### Common Table Rulings
+- Document house rules clearly
+- Maintain consistency across sessions
+
+## Conditions Reference (PHB p.290-292)
+
+### Common Conditions
+- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Charmed**: Can't attack charmer, charmer has advantage on social checks
+- **Deafened**: Can't hear, auto-fail hearing checks
+- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Grappled**: Speed 0, ends if grappler incapacitated
+- **Incapacitated**: Can't take actions or reactions
+- **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
+- **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
+- **Poisoned**: Disadvantage on attacks and ability checks
+- **Prone**: Disadvantage on attacks, melee against has advantage
+- **Restrained**: Speed 0, disadvantage on attacks/DEX saves
+- **Stunned**: Incapacitated, can't move, can barely speak
+- **Unconscious**: Incapacitated, prone, drops everything
+
+### Exhaustion (PHB p.291)
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantage on attacks and saves
+4. HP maximum halved
+5. Speed reduced to 0
+6. Death
+
+## Variant Rules Options
+
+### From DMG Chapter 9
+- **Proficiency Dice**: Roll dice instead of flat bonus
+- **Hero Points**: Narrative currency system
+- **Honor/Sanity**: Additional ability scores
+- **Lingering Injuries**: Lasting combat effects
+- **Massive Damage**: System shock rules
+- **Morale**: When enemies flee
+
+### From Other Sources
+- **Spell Points** (DMG p.288): Alternative to slots
+- **Gritty Realism** (DMG p.267): Longer rests
+- **Side Initiative** (DMG p.270): Group turns
+- **Facing** (DMG p.252): Directional combat
+
+### Table Consideration
+Discuss with players before implementing

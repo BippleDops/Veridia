@@ -293,3 +293,9 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Pronunciation Guide
+- **Aethermoor**: [AYTHERMOOR]
+- **Python**: [PYTHON]
+- **Python**: [PYTHON]

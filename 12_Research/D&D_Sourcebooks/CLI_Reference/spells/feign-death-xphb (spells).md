@@ -52,11 +52,11 @@ world: Both
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed xphb|Speed]] is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[Fly Speed Xphb]] is 0.
 
-The target also has [[resistance xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
+The target also has [[boon-of-energy-resistance-xphb (feats)]] to all damage except Psychic damage, and it has [[immunity-xphb (variant-rules)]] to the [[conditions#Poisoned|Poisoned]] condition.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 271*
 
@@ -98,3 +98,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

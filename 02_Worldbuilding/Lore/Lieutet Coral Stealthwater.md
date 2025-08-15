@@ -3,20 +3,20 @@ title: Lieutet Coral Stealthwater
 type: note
 tags:
 - auto-generated
-- linked
+- [[Link]]ed
 created: '2025-01-15'
 ---
 
 # Lieutet Coral Stealthwater
 
 ## Overview
-This topic is referenced in [[Shadow Ambush   Optional]] and other parts of the campaign.
+This topic is referenced in [[Shadow Ambush - Optional (Criminal_[[Organization]]s)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Shadow Ambush   Optional]]
+- Referenced by: [[Shadow Ambush - Optional (Criminal_Organizations)]]
 - Related topics in the same category
 
 ## Details

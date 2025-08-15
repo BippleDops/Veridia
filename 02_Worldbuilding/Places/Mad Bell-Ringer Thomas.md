@@ -1,17 +1,17 @@
 ---
 
 title: Mad Bell Ringer Thomas
-type: Location
+type: [[location]]
 tags:
-- aquabyssos
-- oracle
+- [[Aquabyssos]]
+- [[Oracle]]
 - bell-ringer
 - status/complete
 - mad
 - community
 - content/location
 - acoustic
-- content/npc
+- content/[[Npc]]
 - place
 - active
 - location
@@ -26,7 +26,7 @@ status: complete
 race: Human
 class: Commoner/Oracle
 location: '[[Port Meridian]] Bell Tower'
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: Community Figure
 MyContainer: None
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -109,7 +109,7 @@ improvements: 20
 
 **Thomas Bellwright**, known throughout [[Port Meridian]] as "Mad Bell-Ringer Thomas," serves as the community's unofficial oracle and warning system, maintaining the ancient bell tower that has guided ships and warned citizens of danger for over two centuries. What many dismiss as the ravings of an eccentric old man often prove to be surprisingly accurate predictions about weather, danger, and significant events affecting the community.
 
-Once a respected lighthouse keeper and maritime weather expert, Thomas suffered a traumatic experience during the **Great Storm of Eighteen Years Past** when he was forced to watch helplessly as multiple ships were destroyed despite his efforts to warn them. The trauma awakened latent prophetic abilities but also left him with an obsessive need to constantly monitor for signs of danger and an eccentric communication style that many find difficult to understand.
+Once a respected [[Lighthouse Keeper]] and mari[[Time]] weather expert, Thomas suffered a traumatic experience during the **Great Storm of Eighteen Years Past** when he was forced to watch helplessly as multiple ships were destroyed despite his efforts to warn them. The trauma awakened latent prophetic abilities but also left him with an obsessive need to constantly monitor for signs of danger and an eccentric communication style that many find difficult to understand.
 
 His dedication to his self-appointed role as community guardian has made him both a beloved local character and a source of genuine comfort for many residents who have learned to interpret his cryptic warnings and appreciate his genuine care for their safety. Though his methods are unconventional, his accuracy rate for predicting weather and danger has earned him grudging respect from even skeptical officials.
 
@@ -125,7 +125,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Distinctive Traits**: 
 - **Bell Rope Burns**: Distinctive scars on his palms from years of bell-ringing
 - **Weather-Beaten Clothes**: Practical but well-worn clothing suited for tower maintece
-- **Prophetic Eyes**: Intense gaze that seems to look through people to see future events
+- **Prophetic Eyes**: Intense gaze that seems to look through [[People]] to see future events
 - **Nervous Energy**: Constant fidgeting and movement, as if listening to sounds others cannot hear
 
 **Voice and Demeanor**: Speaks in rapid bursts interspersed with long pauses, often talking to the bells as if they were living beings. His speech patterns shift between cryptic prophecy and practical warnings, making communication challenging but never meaningless.
@@ -190,7 +190,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Tower Expertise**: Expert climber and rope worker from years of bell tower maintece  
 **Maritime Knowledge**: Extensive understanding of sea conditions and shipping patterns  
 **Community Memory**: Knows detailed personal information about most local residents  
-**Crisis Management**: Skilled at organizing community responses to predicted dangers  
+**[[Crisis Management]]**: Skilled at organizing community responses to predicted dangers  
 
 ### Combat Approach
 **Non-Combatant**: Thomas avoids physical conflict, preferring to flee or hide  
@@ -223,15 +223,15 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Resource Access**: Community provides basic supplies in recognition of his services  
 
 ### Community Relationships
-**Merchant Captain Respect**: Ship captains often seek his weather predictions before departing  
+**[[Merchant]] Captain Respect**: Ship captains often seek his weather predictions before departing  
 **Children's Friend**: Local children enjoy his eccentric stories and bell demonstrations  
 **Elder Confidant**: Older residents remember his accuracy and seek his advice  
-**Official Skepticism**: Some government officials dismiss him while privately consulting his predictions  
+**Official Skepticism**: Some [[Government Officia]]ls dismiss him while privately consulting his predictions  
 
 ### Support Network
 **Market Vendors**: Provide food and supplies in exchange for weather forecasts  
 **Harbor Workers**: Rely on his warnings for scheduling dangerous activities  
-**Religious Leaders**: Some view his abilities as divine gift requiring community support  
+**[[Religious Leaders]]**: Some view his abilities as divine gift requiring community support  
 **Local Physicians**: Occasionally consult him about health trends and epidemic predictions  
 
 ### Prediction Categories
@@ -253,7 +253,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Pattern Analysis**: Scholars occasionally study his methods and results  
 
 ### The Silent Bells (Levels 1-3)
-Thomas's bells have fallen mysteriously silent, and he claims this means "the great quiet before the great noise." The party must investigate what supernatural force is interfering with his prophetic abilities while preparing for whatever danger his silence portends.
+Thomas's bells have fallen mysteriously silent, and he claims this means "the great quiet before the great noise." [[The Party]] must investigate what supernatural force is interfering with his prophetic abilities while preparing for whatever danger his silence portends.
 
 **Key Elements**:
 - Investigation into supernatural interference with prophetic abilities
@@ -274,7 +274,7 @@ A wealthy merchant offers Thomas substantial payment to predict the success of a
 Thomas predicts an unprecedented weather disaster that could destroy [[Port Meridian]], but his warnings are more cryptic than usual, speaking of "winds that carry more than water." The party must help him decode his own prophecy while preparing community defenses.
 
 **Key Elements**:
-- Natural disaster preparation requiring community organization
+- Natural disaster preparation requiring community [[Organization]]
 - Supernatural elements hidden within weather phenomena
 - Complex prophecy requiring multiple interpretation attempts
 - Large-scale consequences affecting entire community survival
@@ -309,20 +309,20 @@ While never formally appointed, Thomas's effectiveness has earned implicit offic
 
 Mad Bell Ringer Thomas is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Mad Bell Ringer Thomas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mad Bell Ringer Thomas.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
 ## Sensory Details
 
@@ -344,6 +344,34 @@ Mad Bell-Ringer Thomas is a notable location characterized by its unique feature
 ### Founding
 Mad Bell-Ringer Thomas was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting Mad Bell-Ringer Thomas:
@@ -358,7 +386,7 @@ Ongoing situations affecting Mad Bell-Ringer Thomas:
 
 Key stop on metals trade route
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -373,4 +401,41 @@ Key stop on metals trade route
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

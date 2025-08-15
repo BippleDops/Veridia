@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_10_New_Horizons
 
----
+- --
 title: Session 10 New Horizons
 type: Session
 tags:
@@ -25,14 +25,14 @@ modified: '2025-08-14'
 status: active
 updated: '2025-08-13T16:45:00.000000'
 world: Both
----
+- --
 
 # Session 10: New Horizons
-*The Seven Shards Campaign - Epic Finale*
+* The Seven Shards Campaign - Epic Finale*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -469,20 +469,20 @@ Each hero reviews their journey from Session 1 to now:
 - Technological advances from cross-world cooperation
 
 ### Final Handout: The Chronicle of Heroes
-*A beautifully illuminated manuscript recording the heroes' deeds, written by future historians and available for players to keep*
+* A beautifully illuminated manuscript recording the heroes' deeds, written by future historians and available for players to keep*
 
 ### Personal Letters
-*Individual letters from key NPCs thanking each hero for their specific contributions*
+* Individual letters from key NPCs thanking each hero for their specific contributions*
 
 ### Cosmic Map
-*A map showing all the realities the heroes helped protect, with their home reality highlighted as the starting point*
+* A map showing all the realities the heroes helped protect, with their home reality highlighted as the starting point*
 
----
+- --
 
 ## Resources
 - [[Void Lord Stat Blocks]]
 - [[Cosmic Guardian Rules]]
-- [[Campaign Legacy System]]
+- [[Campaign Legacy System (D&D_References)]]
 - [[Epilogue Generation Tables]]
 
 ```fantasy-calendar
@@ -494,7 +494,7 @@ description: Heroes complete the greatest adventure in recorded history
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Related Notes
 
@@ -502,3 +502,15 @@ description: Heroes complete the greatest adventure in recorded history
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Theme**: [THEME]
+- **Months**: [MONTHS]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

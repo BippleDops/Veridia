@@ -34,7 +34,7 @@ updated: '2025-08-11T00:00:00+00:00'
 Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides quick access to all major content categories and specialized indexes throughout the vault.
 
 ### Data Visualization
-- [[Relationship Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
+- [[Relationship_Web]] - Visual faction and character connections
 - [[Continental Connections Map]] - Geographic relationship mapping
 - [[Faction Relationship Tracker]] - Organizational standing matrix
 

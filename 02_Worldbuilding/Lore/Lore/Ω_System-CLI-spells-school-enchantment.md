@@ -116,3 +116,17 @@ Mentioned in The First Prophecy of Stars
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

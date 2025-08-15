@@ -47,12 +47,12 @@ world: Both
 | 9-10 | Passing merchant ship (galley or sailing ship) |
 | 11-12 | [[killer-whale-xmm|Killer whale]] sighting |
 | 13-14 | Floating debris |
-| 15 | Longship crewed by hostile [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|berserkers]] |
-| 16 | Hostile [[griffon xmm|griffons]] or [[harpy xmm|harpies]] |
+| 15 | Longship crewed by hostile [[Bestiary]] |
+| 16 | Hostile [[griffon-xmm (monstrosity)]] or [[harpy-xmm (monstrosity)]] |
 | 17 | Iceberg (easily avoided if seen from a distance) |
 | 18 | [[sahuagin-warrior-xmm|Sahuagin]] boarding party |
 | 19 | NPC in the water (clinging to floating debris) |
-| 20 | Sea monster (such as a [[dragon-turtle-xmm|dragon turtle]] or [[kraken xmm|kraken]]) |
+| 20 | Sea monster (such as a [[dragon-turtle-xmm (dragon)]] or [[Kraken]]) |
 ^random-encounters-at-sea
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,3 +100,38 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

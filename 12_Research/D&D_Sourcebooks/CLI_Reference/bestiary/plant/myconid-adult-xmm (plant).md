@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-adult-xmm-myconid-adult-xmm.svg)
 
-# [[myconid adult xmm|Myconid Adult]]
+# [[myconid-adult-xmm (plant)]]
 *Source: Monster Manual (2024) p. 223*  
 
 Myconid adults defend their territories and other myconids from invaders.
@@ -84,8 +84,8 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "languages": "telepathy 240 ft."
 "cr": "1/2"
 "traits":
-  - "desc": "While in sunlight, the myconid has [[disadvantage xphb|Disadvantage]]\
-      \ on [[d20 test xphb|D20 Tests]]. The myconid\
+  - "desc": "While in sunlight, the myconid has [[Advantage Xphb]]\
+      \ on [[d20-test-xphb (variant-rules)]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
@@ -97,7 +97,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Pacifying Spores (1/Day)"
-  - "desc": "The myconid expels spores in a 30-foot [[emanation area of effect xphb|Emanation]]\
+  - "desc": "The myconid expels spores in a 30-foot [[Area of Effect Xphb]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."

@@ -9,7 +9,7 @@ tags:
 - opus-4.1
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 ## 🎯 OBJECTIVE
 Transform the vault from a comprehensive reference into a living, breathing narrative ecosystem that seamlessly integrates with official D&D 5e content while creating deep, emergent storytelling opportunities through sophisticated interconnections.
@@ -25,6 +25,7 @@ Transform the vault from a comprehensive reference into a living, breathing narr
 
 #### 1.1 Monster Manual Deep Integration (1,500 enhancements)
 ```python
+
 # Script: integrate_monster_manual.py
 """
 For each creature in the vault:
@@ -58,6 +59,7 @@ For each major element:
 - Design crossover plot hooks
 
 #### 3.1 The Conspiracy Web (2,500 enhancements)
+
 # Script: weave_conspiracy_web.py
 Create multi-layered conspiracies connecting:
 - Every major organization
@@ -96,6 +98,7 @@ For every major location/event:
 - Create historical parallel adventures
 
 #### 6.1 Faction Reputation Tracker (2,500 enhancements)
+
 # Script: faction_reputation_system.py
 Create a living reputation system where:
 - Actions affect multiple faction standings
@@ -112,6 +115,7 @@ REPUTATION_EFFECTS = {
     "allied": ["military_support", "shared_resources", "inner_circle"]
 
 #### 8.1 Semantic Connection Analysis
+
 # Script: semantic_connector.py
 Use AI to find non-obvious connections:
 - Analyze all note content for themes
@@ -137,6 +141,7 @@ def analyze_semantic_connections():
 
 ### Execution Plan
 ```bash
+
 # Phase 1: Setup tracking
 echo "Initializing narrative enhancement system..."
 python3 scripts/init_narrative_tracker.py
@@ -187,6 +192,7 @@ echo "Validating all enhancements..."
 python3 scripts/validate_narrative_integrity.py
 
 ### Quality Assurance
+
 # Script: narrative_qa.py
 Verify narrative enhancements:
 - Check for plot holes
@@ -236,6 +242,24 @@ After implementing this enhancement:
 # Run this to begin the narrative deepening
 ./scripts/narrative_deepening_master.sh --phases all --enhancements 50000 --validate true --backup true
 
----
+- --
 
-*This prompt will transform your vault from a reference work into a living narrative ecosystem.*
+* This prompt will transform your vault from a reference work into a living narrative ecosystem.*
+
+## Pronunciation Guide
+- **Depth**: [DEPTH]
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

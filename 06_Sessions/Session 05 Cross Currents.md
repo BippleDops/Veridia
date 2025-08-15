@@ -5,11 +5,11 @@ tags:
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # Session_05_Cross_Currents
 
----
+- --
 title: Session 05 Cross Currents
 type: Quest
 tags:
@@ -25,15 +25,15 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T07:30:00.000000+00:00'
 world: Both
----
+- --
 
 # Session 5: Cross Currents
 
-*Level 5-6 Characters | 4-5 Hours | Exploration/Diplomacy/Mystery*
+* Level 5-6 Characters | 4-5 Hours | Exploration/Diplomacy/Mystery*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -52,9 +52,9 @@ The party's actions regarding the Fourth Shard have sent ripples across both rea
 The session begins in the newly established **Cross-Realm Embassy**, a marvel of magical engineering that exists simultaneously in both realms through ancient portal magic.
 
 ### Read Aloud
-*The embassy is a wonder to behold - coral structures that somehow support crystalline spires, with currents of both water and air flowing through the same spaces without mixing. Aquabyssos citizens swim alongside Aethermoor wind-riders in an uneasy but functional coexistence.*
+* The embassy is a wonder to behold - coral structures that somehow support crystalline spires, with currents of both water and air flowing through the same spaces without mixing. Aquabyssos citizens swim alongside Aethermoor wind-riders in an uneasy but functional coexistence.*
 
-*[[Ambassador Elena Diplomatic]], a stern woman whose robes seem to shift between flowing like water and billowing like wind, approaches your group with evident urgency.*
+* [[Ambassador Elena Diplomatic]], a stern woman whose robes seem to shift between flowing like water and billowing like wind, approaches your group with evident urgency.*
 
 ### Opening Information
 **Ambassador Elena** delivers critical news:
@@ -160,9 +160,9 @@ Through investigation, the party learns about an astronomical event that occurs 
 - The party is caught between two cosmic-level threats
 
 ### Read Aloud
-*The Oracle's eyes reflect not just starlight, but the patterns of possibility itself. When she speaks, her words seem to echo from multiple timelines.*
+* The Oracle's eyes reflect not just starlight, but the patterns of possibility itself. When she speaks, her words seem to echo from multiple timelines.*
 
-*"Child, you stand at the confluence of three currents. The Deep Mother stirs to reclaim what was hers. The Collector seeks to reshape reality in his image. And the Stellar Convergence approaches, when all barriers become permeable. Your choices in the coming days will determine whether the realms survive as separate worlds, merge into something new, or fall into eternal shadow."*
+* "Child, you stand at the confluence of three currents. The Deep Mother stirs to reclaim what was hers. The Collector seeks to reshape reality in his image. And the Stellar Convergence approaches, when all barriers become permeable. Your choices in the coming days will determine whether the realms survive as separate worlds, merge into something new, or fall into eternal shadow."*
 
 ## Major Decision: The Alliance Question
 
@@ -214,14 +214,26 @@ Rather than a fight to the death, this is a test of the party's worthiness and u
 - Multiple plot threads should be active but manageable
 - Set up the shift from investigation to more active opposition
 
----
+- --
 
-*"When currents cross, wise swimmers do not fight the flow - they use the confluence to reach deeper waters than either current alone could provide."* - Ambassador Elena Diplomatic
+* "When currents cross, wise swimmers do not fight the flow - they use the confluence to reach deeper waters than either current alone could provide."* - Ambassador Elena Diplomatic
 
 ## Related
 
-*Links to related content will be added here.*
+* Links to related content will be added here.*
 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+
+## Pronunciation Guide
+- **Both**: [BOTH]
+- **Fourth**: [FOURTH]
+- **Aethermoor**: [AYTHERMOOR]
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

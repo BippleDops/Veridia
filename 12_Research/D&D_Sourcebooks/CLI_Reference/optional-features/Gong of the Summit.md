@@ -37,7 +37,7 @@ world: Both
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [[shatter xphb|shatter]].
+You can spend 3 ki points to cast [[Shatter Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

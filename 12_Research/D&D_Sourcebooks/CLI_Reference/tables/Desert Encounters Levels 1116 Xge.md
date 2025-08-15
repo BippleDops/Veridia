@@ -43,25 +43,25 @@ world: Both
 | 01 | 1 [[young-brass-dragon-xmm|young brass dragon]] |
 | 02-05 | `4d6` [[gnoll-warrior-xmm|gnolls]] |
 | 06-10 | `3d10` [[giant-hyena-xmm|giant hyenas]] |
-| 11-12 | `1d8 + 1` [[lamia xmm|lamias]] |
+| 11-12 | `1d8 + 1` [[lamia-xmm (fiend)]] |
 | 13-14 | `2d4` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
 | 15-17 | `1d6 + 2` [[giant-scorpion-xmm|giant scorpions]] |
 | 18-20 | `2d4` [[phase-spider-xmm|phase spiders]] |
-| 21-25 | A desert caravan consisting of `d6` merchants ([[/03 Mechanics/CLI/bestiary/humanoid/noble xmm|nobles]]) with `2d6` [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|guards]] |
-| 26-27 | `1d6 + 1` [[couatl xmm|couatls]] |
+| 21-25 | A desert caravan consisting of `d6` merchants ([[Bestiary]]) with `2d6` [[Bestiary]] |
+| 26-27 | `1d6 + 1` [[Couatl Xmm]] |
 | 28-30 | `d4` [[fire-elemental-xmm|fire elementals]] |
-| 31-32 | 1 [[hobgoblin-captain-xmm|hobgoblin captain]] with `3d10 + 10` [[hobgoblin-warrior-xmm|hobgoblins]] |
-| 33-35 | `2d4` [[wight xmm|wights]] |
+| 31-32 | 1 [[hobgoblin-captain-xmm (fey)]] with `3d10 + 10` [[hobgoblin-warrior-xmm|hobgoblins]] |
+| 33-35 | `2d4` [[Wight Xmm]] |
 | 36-40 | `d6` square miles of desert glass |
 | 41-42 | 1 [[young-blue-dragon-xmm|young blue dragon]] |
-| 43-45 | `1d6 + 2` [[weretiger xmm|weretigers]] |
+| 43-45 | `1d6 + 2` [[Weretiger Xmm]] |
 | 46-48 | `d4` [[air-elemental-xmm|air elementals]] |
-| 49-50 | `1d6 + 1` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
-| 51-55 | `d4` [[medusa xmm|medusas]] |
-| 56-60 | `d4` [[revet xmm|revets]] with `3d12` [[skeleton xmm|skeletons]] |
+| 49-50 | `1d6 + 1` [[Bestiary]] |
+| 51-55 | `d4` [[medusa-xmm (monstrosity)]] |
+| 56-60 | `d4` [[revet xmm|revets]] with `3d12` [[flaming-skeleton-xmm (undead)]] |
 | 61-65 | A plundered pyramid |
 | 66-70 | `d4` [[young-brass-dragon-xmm|young brass dragons]] |
-| 71-75 | `d3` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
+| 71-75 | `d3` [[Bestiary]] |
 | 76-78 | `1d6 + 2` [[cyclops-sentry-xmm|cyclopes]] |
 | 79-82 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
 | 83-85 | 1 [[purple-worm-xmm|purple worm]] |
@@ -70,10 +70,10 @@ world: Both
 | 89 | `d3` [[guardian-naga-xmm|guardian nagas]] |
 | 90 | 1 [[adult-blue-dragon-xmm|adult blue dragon]] |
 | 91 | `d2` [[sphinx-of-lore-xmm|gynosphinxes]] |
-| 92-93 | `d3` [[efreeti xmm|efreet]] |
+| 92-93 | `d3` [[Efreeti Xmm]] |
 | 94 | 1 [[sphinx-of-valor-xmm|androsphinx]] |
-| 95 | `d4` [[roc xmm|rocs]] |
-| 96-97 | 1 [[dracolich xmm|adult blue dracolich]] |
+| 95 | `d4` [[Roc Xmm]] |
+| 96-97 | 1 [[dracolich-xmm (legendary-group)]] |
 | 98-99 | 1 [[ancient-brass-dragon-xmm|ancient brass dragon]] |
 | 00 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
 ^desert-encounters-levels-1116
@@ -123,3 +123,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Action Economy
+
+### On Your Turn (PHB p.189)
+- **Movement**: Up to your speed
+- **Action**: One action from available options
+- **Bonus Action**: If you have an ability that uses it
+- **Free Actions**: Interact with one object, speak
+
+### Actions Available (PHB p.192)
+- **Attack**: Make one attack (more with Extra Attack)
+- **Cast a Spell**: Cast time of 1 action
+- **Dash**: Double movement
+- **Disengage**: No opportunity attacks
+- **Dodge**: Disadvantage on attacks against you
+- **Help**: Give advantage to ally
+- **Hide**: Stealth check to hide
+- **Ready**: Prepare action with trigger
+- **Search**: Perception or Investigation
+- **Use an Object**: Interact with object
+
+### Reactions (PHB p.190)
+- One reaction per round
+- Resets at start of your turn
+- Common: Opportunity attacks, Counterspell, Shield
+
+### Bonus Actions
+- Only if feature/spell grants one
+- Common: Off-hand attack, Cunning Action, Healing Word

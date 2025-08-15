@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg)
 
-# [[celestial spirit defender xphb|Celestial Spirit (Defender)]]
+# [[celestial]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock

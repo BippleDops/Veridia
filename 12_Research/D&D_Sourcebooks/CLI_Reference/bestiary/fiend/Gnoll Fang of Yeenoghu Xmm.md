@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
 
-# [[gnoll fang of yeenoghu xmm|Gnoll Fang of Yeenoghu]]
+# [[gnoll-fang-of-yeenoghu-xmm (fiend)]]
 *Source: Monster Manual (2024) p. 141*  
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
@@ -106,8 +106,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 7 (1d8 + 3) Piercing damage."
     "name": "Bone Flail"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[speed xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb (variant-rules)]],\
+      \ the gnoll moves up to half its [[Fly Speed Xphb]],\
       \ and it makes one Bite attack."
     "name": "Rampage (2/Day)"
 "source":

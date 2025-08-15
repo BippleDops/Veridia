@@ -120,26 +120,26 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [[acolyte xphb|Acolyte]]  
-- [[artisan xphb|Artisan]]  
-- [[charlatan xphb|Charlatan]]  
-- [[criminal xphb|Criminal]]  
-- [[entertainer xphb|Entertainer]]  
-- [[farmer xphb|Farmer]]  
-- [[guard xphb|Guard]]  
-- [[guide xphb|Guide]]  
-- [[hermit xphb|Hermit]]  
-- [[merchant xphb|Merchant]]  
-- [[noble xphb|Noble]]  
-- [[sage xphb|Sage]]  
-- [[sailor xphb|Sailor]]  
-- [[scribe xphb|Scribe]]  
-- [[soldier xphb|Soldier]]  
-- [[wayfarer xphb|Wayfarer]]  
+- [[acolyte-xphb (backgrounds)]]  
+- [[Artisan Xphb]]  
+- [[charlatan-xphb (backgrounds)]]  
+- [[criminal-xphb (backgrounds)]]  
+- [[entertainer-xphb (backgrounds)]]  
+- [[Farmer Xphb]]  
+- [[guard-xphb (backgrounds)]]  
+- [[guide-xphb (backgrounds)]]  
+- [[hermit-xphb (backgrounds)]]  
+- [[merchant-xphb (backgrounds)]]  
+- [[noble-xphb (backgrounds)]]  
+- [[sage-xphb (backgrounds)]]  
+- [[Sailor Xphb]]  
+- [[scribe-xphb (backgrounds)]]  
+- [[soldier-xphb (backgrounds)]]  
+- [[wayfarer-xphb (backgrounds)]]  
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [[aasimar xphb|Aasimar]], [[dragonborn xphb|Dragonborn]], [[dwarf xphb|Dwarf]], [[elf xphb|Elf]], [[gnome xphb|Gnome]], [[goliath xphb|Goliath]], [[halfling xphb|Halfling]], [[human xphb|Human]], [[orc xphb|Orc]], and [[tiefling xphb|Tiefling]].
+Ten species are presented in this section in alphabetical order: [[List Spells Races Aasimar Xphb]], [[dragonborn-xphb (races)]], [[Dwarf Xphb]], [[elf-xphb (races)]], [[gnome-xphb (races)]], [[Goliath Xphb]], [[Halfling Xphb]], [[Human Xphb]], [[orc-xphb (races)]], and [[List Spells Races Tiefling Xphb]].
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)
 

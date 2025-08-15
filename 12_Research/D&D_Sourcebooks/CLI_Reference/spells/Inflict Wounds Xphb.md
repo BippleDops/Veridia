@@ -51,7 +51,7 @@ A creature you touch makes a Constitution saving throw, taking `2d10` Necrotic d
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d10` for each spell slot level above 1.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg "subclass=DMG;class=XPHB"|Paladin (Oathbreaker)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 

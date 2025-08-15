@@ -394,7 +394,7 @@ Points toward nearest Anchor Point:
 ## See Also
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 - [[The Great Drowning|02 Worldbuilding/Places/The Great Drowning]]
-- [[02 Worldbuilding/Groups/The Unsealed|02 Worldbuilding/Groups/The Unsealed]]
+- [[Groups]]
 - [[Reality Anchors|02 Worldbuilding/Lore/Reality Anchors]]
 - [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 

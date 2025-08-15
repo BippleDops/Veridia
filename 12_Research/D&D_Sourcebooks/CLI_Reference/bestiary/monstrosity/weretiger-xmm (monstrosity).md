@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-weretiger-xmm-v1-weretiger-xmm.svg)
 
-# [[weretiger xmm|Weretiger]]
+# [[Weretiger Xmm]]
 *Source: Monster Manual (2024) p. 326. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -114,8 +114,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 13. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[hit points xphb|Hit Points]],\
-      \ it instead becomes a Weretiger under the DM's control and has 10 [[hit points xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb (variant-rules)]],\
+      \ it instead becomes a Weretiger under the DM's control and has 10 [[hit-points-xphb (variant-rules)]].\
       \ Success: The target is immune to this weretiger's curse for 24 hours."
     "name": "Bite (Tiger or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
@@ -124,7 +124,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
       \ damage."
     "name": "Longbow (Humanoid or Hybrid Form Only)"
 "bonus_actions":
-  - "desc": "The weretiger moves up to its [[speed xphb|Speed]]\
+  - "desc": "The weretiger moves up to its [[Fly Speed Xphb]]\
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ At the end of this movement, the weretiger can take the Hide action."
     "name": "Prowl (Tiger or Hybrid Form Only)"

@@ -39,29 +39,29 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `d4` [[banshee xmm|banshees]] (night only) |
+| 01 | `d4` [[Banshee Xmm]] (night only) |
 | 02-04 | 1 [[cyclops-sentry-xmm|cyclops]] |
-| 05-08 | `1d6 + 2` [[manticore xmm|manticores]] |
-| 09-10 | `1d8 + 2` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 05-08 | `1d6 + 2` [[Manticore Xmm]] |
+| 09-10 | `1d8 + 2` [[Bestiary]] |
 | 11-20 | 1 [[young-blue-dragon-xmm|young blue dragon]] |
 | 21-25 | A nest of `d6` dragon turtle eggs |
 | 26-35 | `d4` [[sahuagin-baron-xmm|sahuagin barons]] |
 | 36-40 | A trident partially buried in the sand |
 | 41-50 | 1 [[young-bronze-dragon-xmm|young bronze dragon]] |
-| 51-55 | 1 [[marid xmm|marid]] |
+| 51-55 | 1 [[marid-xmm (elemental)]] |
 | 56-60 | `d6` [[water-elemental-xmm|water elementals]] |
-| 61-65 | `2d6` [[ghast xmm|ghasts]] crawling over `d6` wrecked ships and feeding on the dead |
-| 66-70 | 1 [[djinni xmm|djinni]] |
+| 61-65 | `2d6` [[ghast-xmm (undead)]] crawling over `d6` wrecked ships and feeding on the dead |
+| 66-70 | 1 [[Djinni Xmm]] |
 | 71-75 | `d3` [[young-bronze-dragon-xmm|young bronze dragons]] |
 | 76-80 | A beached whale, dead and bloated. If it takes any damage, it explodes, and each creature within 30 feet of it must make a DC 15 Dexterity saving throw, taking `5d6` bludgeoning damage on a failed save, or half as much damage on a successful one. |
 | 81-82 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
-| 83-84 | 1 [[storm-giant-xmm|storm giant]] |
+| 83-84 | 1 [[giant]] |
 | 85-86 | `d3` [[young-blue-dragon-xmm|young blue dragons]] |
-| 87-88 | 1 [[adult-bronze-dragon-xmm|adult bronze dragon]] |
+| 87-88 | 1 [[Bronze Dragon Xmm]] |
 | 89-90 | 1 [[adult-blue-dragon-xmm|adult blue dragon]] |
-| 91-93 | `d3` [[roc xmm|rocs]] |
-| 94-97 | 1 [[dragon-turtle-xmm|dragon turtle]] |
-| 98-99 | 1 [[ancient-bronze-dragon-xmm|ancient bronze dragon]] |
+| 91-93 | `d3` [[Roc Xmm]] |
+| 94-97 | 1 [[dragon-turtle-xmm (dragon)]] |
+| 98-99 | 1 [[Bronze Dragon Xmm]] |
 | 00 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
 ^coastal-encounters-levels-1116
 
@@ -100,3 +100,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty
+## Encounter Difficulty (DMG p.82)
+
+### For 4-Player Party
+| Level | Easy | Medium | Hard | Deadly |
+|-------|------|--------|------|--------|
+| 1 | 100 XP | 200 XP | 300 XP | 400 XP |
+| 3 | 300 XP | 500 XP | 750 XP | 1,100 XP |
+| 5 | 1,000 XP | 2,000 XP | 3,000 XP | 4,400 XP |
+| 10 | 2,400 XP | 4,900 XP | 7,300 XP | 10,900 XP |
+
+### Difficulty Adjustments
+- **3 Players**: Increase difficulty by 1 step
+- **5 Players**: Decrease difficulty by 1 step
+- **6+ Enemies**: Apply multiplier (DMG p.83)
+
+### Environmental Factors
+- Difficult terrain: +25% to difficulty
+- Advantage to enemies: +50% to difficulty
+- Surprise round: Double difficulty

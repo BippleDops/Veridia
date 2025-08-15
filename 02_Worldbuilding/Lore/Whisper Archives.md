@@ -1,9 +1,9 @@
 ---
 title: Whisper Archives
-type: Lore
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - content/location

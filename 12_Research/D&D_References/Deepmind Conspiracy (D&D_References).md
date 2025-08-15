@@ -63,7 +63,7 @@ The Deepmind Conspiracy represents the most sophisticated intelligence operation
 Built around a core of powerful psychic individuals, the Conspiracy maintains a hidden web of informants, analysts, and operatives whose minds are linked through complex mental bonds. They gather intelligence not through conventional means, but by reading thoughts, accessing memories, and manipulating the mental states of targets. The organization serves as the primary intelligence resource for multiple shadow organizations while maintaining its own mysterious agenda.
 
 ### The Core Mind
-**Controller**: [[Overmind Depth Thought Eternal]]
+**Controller**: [[Overmind Depth-Thought Eternal (D&D_References)]]
 **Function**: Central processing unit for all intelligence operations
 **Capacity**: Can maintain mental links with up to 500 individuals simultaneously
 
@@ -76,27 +76,27 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ### The Five Specialized Minds
 
-**The Watcher Mind**: [[Psychic Observer All Seeing Echo]]
+**The Watcher Mind**: [[Psychic Observer All-Seeing Echo]]
 - Specialty: Surveillance and information gathering
 - Network: 80-100 enhanced perception specialists
 - Operations: Continuous monitoring of targets
 
-**The Memory Mind**: [[Extractor Void Touch Recall]]
+**The Memory Mind**: [[Extractor Void-Touch Recall]]
 - Specialty: Memory extraction and analysis
 - Network: 40-60 mental manipulation experts
 - Operations: Forced memory retrieval and consciousness exploration
 
-**The Prophet Mind**: [[Future Seer Prescient]]
+**The Prophet Mind**: [[Future-Seer Prescient]]
 - Specialty: Prediction and probability analysis
 - Network: 20-30 precognitive individuals
 - Operations: Strategic forecasting and timeline analysis
 
-**The Whisper Mind**: [[Thought Speaker Silent]]
+**The Whisper Mind**: [[Thought-Speaker Silent]]
 - Specialty: Long-distance telepathic communication
 - Network: 60-80 telepathic communicators
 - Operations: Instant messaging across realms
 
-**The Shadow Mind**: [[Identity Weaver False Self]]
+**The Shadow Mind**: [[Identity Weaver False-Self]]
 - Specialty: Identity manipulation and consciousness alteration
 - Network: 30-50 personality modification specialists
 - Operations: Creating false identities and mental camouflage

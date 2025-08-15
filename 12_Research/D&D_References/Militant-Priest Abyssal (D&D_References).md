@@ -57,10 +57,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Relationships
 
 - **Debtor**: [[Captain Blackwater]]
-- **Friend**: [[portrait-npc-the-senator-the-senator.svg]]
+- **Friend**: [[Npc]]
 - **Child**: [[The Shadow Warren]]
-- **Blackmailer**: [[portrait-npc-deep-lords-deep-lords.svg]]
-- **Creditor**: [[Portrait NPC Quest Seeds of the Deep Quest Seeds of the Deep.svg]]
+- **Blackmailer**: [[Npc]]
+- **Creditor**: [[Npc]]
 
 ## Plot Hooks
 

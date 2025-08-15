@@ -45,7 +45,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-minion-xmm-goblin-minion-xmm.svg)
 
-# [[goblin minion xmm|Goblin Minion]]
+# [[Goblin Minion Xmm]]
 *Source: Monster Manual (2024) p. 142. Available in the SRD and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.

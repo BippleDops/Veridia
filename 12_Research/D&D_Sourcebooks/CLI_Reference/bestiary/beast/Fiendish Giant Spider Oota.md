@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
 
-# [[fiendish giant spider oota|Fiendish Giant Spider]]
+# [[giant]]
 *Source: Out of the Abyss p. 97*  
 
 ```statblock

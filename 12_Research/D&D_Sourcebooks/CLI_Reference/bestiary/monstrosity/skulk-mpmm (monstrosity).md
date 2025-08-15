@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-skulk-mpmm-skulk-mpmm.svg)
 
-# [[skulk mpmm|Skulk]]
+# [[skulk-mpmm (monstrosity)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
 
 > [!quote] A quote from Mordenkainen  

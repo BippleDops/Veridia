@@ -46,7 +46,7 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 1.
 
-**Classes**: [[list spells classes paladin|Paladin]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the SRD and the Free Rules (2024)*
 
@@ -101,3 +101,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[divine-smite-xphb (spells)-phb]]` in CLI_Reference/spells/

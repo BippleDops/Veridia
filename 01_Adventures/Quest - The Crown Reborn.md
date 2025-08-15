@@ -1,11 +1,19 @@
 ---
+
 title: Quest - The Crown Reborn
 type: quest
 tags:
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
+
+## Complications
+- Unexpected obstacles
+- Time pressure
+- Moral dilemmas
+
 
 # Quest - The Crown Reborn
 
@@ -40,6 +48,21 @@ obsidianUIMode: preview
 
 # Quest - The Crown Reborn
 *Unite the Seven Shards and Restore the Ancient Crown of Stars*
+
+
+## Quest Giver
+- **Name**: Local authority figure
+- **Location**: Town center
+- **Motivation**: Community safety
+
+
+## Objectives
+### Primary
+- Main quest goal
+
+### Optional
+- Secondary objectives
+- Hidden goals
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -135,7 +158,7 @@ The second and third Shards are hidden in separate locations known only through 
 
 ### Scene 5: The Tidal Throne
 **Location**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]'s deepest sanctum
-**NPCs**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]], his court, [[Duchess Marina Ever Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
+**NPCs**: [[Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]], his court, [[Duchess Marina Ever-Drowning (D&D_References)]]
 
 The Emperor agrees to parley about the Shards' locations, but his price is steep - he wants guarantees that the reformed Crown won't threaten Aquabyssos's independence.
 
@@ -395,3 +418,40 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+
+## Time Limit
+- **Deadline**: When it must be completed
+- **Consequences**: What happens if late
+
+## Opposition
+- **Enemies**: Who opposes the party
+- **Obstacles**: Environmental challenges
+
+## Moral Dilemmas
+- **Difficult Choices**: Ethical challenges
+- **Consequences**: Impact of decisions
+
+## Optional Objectives
+- **Bonus Goals**: Extra achievements
+- **Hidden Rewards**: Secret treasures
+
+## Failure Conditions
+- **What Constitutes Failure**: Clear parameters
+- **Failure Consequences**: What happens
+
+## Investigation Clues
+- **Obvious Clues**: Easy to find
+- **Hidden Clues**: Require searching
+
+## Social Encounters
+- **Key Conversations**: Important dialogues
+- **Persuasion Opportunities**: Diplomatic solutions
+
+## Environmental Hazards
+- **Natural Dangers**: Environmental threats
+- **Trap Locations**: Mechanical dangers
+
+## Scaling Options
+- **Easy Mode**: Reduced difficulty
+- **Hard Mode**: Increased challenge

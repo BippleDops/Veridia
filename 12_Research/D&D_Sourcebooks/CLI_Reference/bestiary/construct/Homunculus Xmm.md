@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-homunculus-xmm-homunculus-xmm.svg)
 
-# [[homunculus xmm|Homunculus]]
+# [[Homunculus Xmm]]
 *Source: Monster Manual (2024) p. 172. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

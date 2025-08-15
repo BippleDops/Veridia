@@ -466,10 +466,10 @@ Involvement with Peak operations provides numerous opportunities for character d
 - [[Tidal Chambers|02 Worldbuilding/Lore/Tidal Chambers]] - Complementary technology providing hydraulic capabilities
 - [[Crystal Forest|02 Worldbuilding/Lore/Crystal Forest]] - Source of crystals used in Peak operations
 - [[The Deepwatch Guard|02 Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Peak facilities
-- [[02 Worldbuilding/People/Master Resoce Architect Echo Stonewhisper|02 Worldbuilding/People/Master Resoce Architect Echo Stonewhisper]] - Chief Designer of Peak network
+- [[People]] - Chief Designer of Peak network
 - [[Senior Resoce Engineer Harmony Deepnote|02 Worldbuilding/People/Senior Resoce Engineer Harmony Deepnote]] - Acoustic engineering specialist
 - [[Crystal Master Chorus Gemgrow|02 Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
-- [[02 Worldbuilding/People/Geology Specialist Stone Soundshape|02 Worldbuilding/People/Geology Specialist Stone Soundshape]] - Mountain engineering specialist
+- [[People]] - Mountain engineering specialist
 - [[Network Coordinator Wave Linkmaster|02 Worldbuilding/People/Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
 - [[Safety Director Storm Shieldvoice|02 Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
 

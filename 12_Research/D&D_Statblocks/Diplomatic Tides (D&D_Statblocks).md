@@ -31,7 +31,7 @@ location: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 world: Aquabyssos
 quest_type: Political Negotiation
 level_range: 6-10
-quest_giver: '[[Empress Tethys the Ever Drowning|02 Worldbuilding/People/Empress Tethys]]
+quest_giver: '[[Empress Tethys the Ever-Drowning (D&D_References)]]
   The Ever Drowning]]'
 rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
 created_by: auto-stub

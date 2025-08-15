@@ -53,11 +53,11 @@ world: Both
 - **Components:** S, M (a pinch of confetti)
 - **Duration:** Concentration, up to 1 minute
 
-You create a twisting pattern of colors in a 30-foot [[cube-area-of-effect-xphb|Cube]] within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the creature has the [[conditions#Incapacitated|Incapacitated]] condition and a [[speed xphb|Speed]] of 0.
+You create a twisting pattern of colors in a 30-foot [[Cube Area of Effect Xphb]] within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the [[conditions#Charmed|Charmed]] condition for the duration. While [[conditions#Charmed|Charmed]], the creature has the [[conditions#Incapacitated|Incapacitated]] condition and a [[Fly Speed Xphb]] of 0.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Redemption)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 287. Available in the SRD and the Free Rules (2024)*
 
@@ -115,3 +115,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

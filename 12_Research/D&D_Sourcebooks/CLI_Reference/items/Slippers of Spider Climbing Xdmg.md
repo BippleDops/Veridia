@@ -37,7 +37,7 @@ world: Both
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/slippers-of-spider-climbing.webp#right)
 
-While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a [[climb speed xphb|Climb Speed]] equal to your [[speed xphb|Speed]]. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a [[Climb Speed Xphb]] equal to your [[Fly Speed Xphb]]. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
 *Source: Dungeon Master's Guide (2024) p. 304. Available in the SRD and the Free Rules (2024)*
 

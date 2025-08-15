@@ -43,8 +43,8 @@ world: Both
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [[nondetection xphb|nondetection]] (self only)  
-- **1/day each.** [[blindness deafness xphb|blindness/deafness]], [[blur xphb|blur]], [[disguise self xphb|disguise self]]  
+- **At will.** [[nondetection-xphb (spells)]] (self only)  
+- **1/day each.** [[blindness-deafness-xphb (spells)]], [[blur-xphb (spells)]], [[disguise-self-xphb (spells)]]  
 
 Intelligence is your spellcasting ability for these spells.
 

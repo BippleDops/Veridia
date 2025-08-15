@@ -46,7 +46,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warrior-xmm-hobgoblin-warrior-xmm.svg)
 
-# [[hobgoblin warrior xmm|Hobgoblin Warrior]]
+# [[hobgoblin-warrior-xmm]]
 *Source: Monster Manual (2024) p. 170. Available in the SRD and the Free Rules (2024)*  
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
@@ -114,7 +114,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-  - "desc": "The hobgoblin has [[advantage xphb|Advantage]]\
+  - "desc": "The hobgoblin has [[Advantage Xphb]]\
       \ on an attack roll against a creature if at least one of the hobgoblin's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."

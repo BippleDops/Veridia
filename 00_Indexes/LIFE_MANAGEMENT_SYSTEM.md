@@ -1,4 +1,5 @@
 ---
+
 title: Life Management System - Real World & Campaign Integration
 type: management-system
 tags:
@@ -12,6 +13,7 @@ tags:
 - scheduling
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # 🎯 Life Management System - Real World & Campaign Integration
@@ -22,99 +24,99 @@ modified: '2025-01-15'
 
 - **Change humidifier water**: Empty and refill with distilled water to prevent mineral build-up and bacteria
   - *Campaign Integration*: Like maintaining spell components, daily care prevents degradation
-  - *Quest Hook*: [[Quest   The Purification Ritual]] - parallels real-world water maintenance
+  - *Quest Hook*: [[Quest_-_The_Purification_Ritual]] - parallels real-world water maintenance
 
 - **Clean coffee grinder after each use**: Empty grounds, wipe exterior, rinse catch cup; use narrow brush/cotton swab for chute
-  - *Campaign Integration*: Similar to cleaning alchemical equipment in [[02_Worldbuilding/Items/Alchemy_Tools]]
-  - *NPC Connection*: [[03 People/Brewmaster Grindstone]] - shares grinding wisdom
+  - *Campaign Integration*: Similar to cleaning alchemical equipment in [[02_Worldbuilding]]
+  - *NPC Connection*: [[People]] - shares grinding wisdom
 
 - **Wipe VR lenses and headset**: Microfiber cloth for lenses, damp cloth for exterior after each use
-  - *Campaign Integration*: Maintaining scrying orbs in [[02_Worldbuilding/Items/Divination_Tools]]
-  - *Location*: [[04 Places/The Crystal Observatory]] - lens maintenance techniques
+  - *Campaign Integration*: Maintaining scrying orbs in [[02_Worldbuilding]]
+  - *Location*: [[04 Places]] - lens maintenance techniques
 
 - **Quick AirPods wipe**: Dry lint-free cloth after use; thorough clean every 72 hours
-  - *Campaign Integration*: Cleaning communication crystals in [[02_Worldbuilding/Items/Communication_Devices]]
-  - *Organization*: [[02 Worldbuilding/Groups/The Signal Keepers]] - audio artifact care
+  - *Campaign Integration*: Cleaning communication crystals in [[02_Worldbuilding]]
+  - *Organization*: [[The Signal Keepers]] - audio artifact care
 
 ### Weekly Tasks
 
 - **Clean humidifier thoroughly**: Unplug, disassemble, soak in white vinegar 30min, scrub, rinse, dry
   - *Campaign Integration*: Weekly temple purification rituals
-  - *Quest*: [[Quest   The Weekly Cleansing]]
+  - *Quest*: [[Quest_-_The_Weekly_Cleansing]]
 
 - **Wash VR face pads**: Remove foam/leather pads, wash with mild soap, dry completely
   - *Campaign Integration*: Cleaning armor padding techniques
-  - *NPC*: [[03 People/Armorer Padwick]] - padding maintenance expert
+  - *NPC*: [[People]] - padding maintenance expert
 
 - **Clean AirPods and case**: Lint-free cloth, cotton swabs, soft brush; 70% isopropyl alcohol disinfection
   - *Campaign Integration*: Artifact cleaning procedures
-  - *Item*: [[02_Worldbuilding/Items/Cleaning_Kit_of_the_Ancients]]
+  - *Item*: [[02_Worldbuilding]]
 
 - **Wipe computer monitors**: Microfiber cloth with distilled water/monitor-safe solution
   - *Campaign Integration*: Cleaning scrying mirrors
-  - *Location*: [[04_Places/Hall_of_Mirrors]]
+  - *Location*: [[Hall of Mirrors]]
 
 - **Dust thermostat and check display**: Remove dust, ensure level and functioning
   - *Campaign Integration*: Maintaining environmental control runes
-  - *Organization*: [[02_Worldbuilding/Groups/Climate_Control_Guild]]
+  - *Organization*: [[Climate_Control_Guild]]
 
 ### Monthly Tasks
 
 - **Clean robot vacuum parts**: Check/clean filters bi-weekly, remove hair/debris from brushes
   - *Campaign Integration*: Golem maintenance procedures
-  - *Quest*: [[01 Adventures/Quest   The Runaway Golem]] - maintenance gone wrong
+  - *Quest*: [[Quest - The Runaway Golem]] - maintenance gone wrong
 
 - **Dust lamp shades and fixtures**: Remove shades, wash glass, clean bulbs, dry thoroughly
   - *Campaign Integration*: Lighthouse maintenance in coastal campaigns
-  - *Location*: [[04_Places/Lighthouse_of_Storms]]
+  - *Location*: [[Lighthouse of Storms]]
 
 - **Inspect air purifier filters**: Check HEPA/pre-filters for dust, vacuum/wash as applicable
   - *Campaign Integration*: Maintaining air elemental binding circles
-  - *Item*: [[02_Worldbuilding/Items/Elemental_Air_Filter]]
+  - *Item*: [[elemental]]
 
 - **Monitor hard-drive health**: Check SMART status, scan errors, ensure 20% free space
   - *Campaign Integration*: Memory crystal maintenance
-  - *Organization*: [[02 Worldbuilding/Groups/The Memory Keepers]]
+  - *Organization*: [[Groups]]
 
 ### Quarterly Tasks (Every 2-3 Months)
 
 - **Recharge portable power station**: Top up battery, store cool and dry
   - *Campaign Integration*: Recharging magical batteries/power crystals
-  - *Item*: [[02_Worldbuilding/Items/Crystal_Power_Core]]
+  - *Item*: [[Crystal_Power_Core]]
 
 - **Deep-clean PS5**: Remove covers, clean vents with compressed air, empty dust traps
   - *Campaign Integration*: Cleaning complex magical devices
-  - *NPC*: [[03_People/Artificer_PlayStation]] - device maintenance master
+  - *NPC*: [[Artificer_PlayStation]] - device maintenance master
 
 - **Deep-clean coffee grinder**: Disassemble, wash parts, clean burrs dry before reassembly
   - *Campaign Integration*: Maintaining alchemical mills
-  - *Location*: [[04_Places/The_Grinding_Workshop]]
+  - *Location*: [[04 Places]]
 
 - **Replace humidifier filters**: Install new filters every 1-3 months
   - *Campaign Integration*: Replacing spell focus components
-  - *Quest*: [[Quest   The Filter Exchange]]
+  - *Quest*: [[Quest_-_The_Filter_Exchange]]
 
 - **Defragment drives and update firmware**: Run optimization tools, install updates
   - *Campaign Integration*: Reorganizing spell libraries and updating enchantments
-  - *Organization*: [[02_Worldbuilding/Groups/The_Archive_Optimizers]]
+  - *Organization*: [[Groups]]
 
 ### Yearly Tasks
 
 - **Replace HEPA filters**: Swap main filters every 6-12 months depending on usage
   - *Campaign Integration*: Annual ward renewal ceremonies
-  - *Event*: [[01_Adventures/The_Annual_Renewal]]
+  - *Event*: [[01_Adventures]]
 
 - **Schedule HVAC inspection**: Professional examination and service
   - *Campaign Integration*: Annual guild inspections
-  - *Organization*: [[02_Worldbuilding/Groups/Environmental_Engineers_Guild]]
+  - *Organization*: [[Groups]]
 
 - **Evaluate robot vacuum parts**: Check/replace mop pads, brushes, battery as needed
   - *Campaign Integration*: Annual golem overhaul
-  - *NPC*: [[03_People/Master_Golemancer]]
+  - *NPC*: [[People]]
 
 - **Review VR and audio accessories**: Replace worn foam/ear tips for comfort/hygiene
   - *Campaign Integration*: Replacing worn adventuring gear
-  - *Location*: [[04_Places/The_Outfitters_Shop]]
+  - *Location*: [[04 Places]]
 
 ## 🎮 Campaign Integration System
 
@@ -218,9 +220,33 @@ Your real-world maintenance mirrors campaign world systems:
 
 ## 🔗 Related Systems
 
-- [[00_Indexes/Master_Campaign_Index]] - Campaign management
+- [[INDEX]] - Campaign management
 - [[09_Templates/Maintenance_Checklist_Template]] - Customizable checklists
-- [[02_Worldbuilding/Lore/The_Maintenance_Codex]] - In-world maintenance lore
-- [[01 Adventures/Quest   The Great Maintenance]] - Maintenance-themed adventure
+- [[02_Worldbuilding]] - In-world maintenance lore
+- [[01_Adventures]] - Maintenance-themed adventure
 
 This system transforms mundane maintenance into engaging campaign content while ensuring both your real-world equipment and virtual adventures run smoothly!
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## DM Tips
+> 💡 **Running This Content**: Advice for game masters
+> Adjust difficulty based on party composition

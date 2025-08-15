@@ -1,10 +1,12 @@
 ---
+
 title: Social Architect Luna Newdawn (D&D_References)
 type: note
 tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Social Architect Luna Newdawn

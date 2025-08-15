@@ -36,7 +36,7 @@ world: Both
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
 
-While wearing this circlet, you can cast [[scorching ray xphb|Scorching Ray]] with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
+While wearing this circlet, you can cast [[Scorching Ray Xphb]] with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
 

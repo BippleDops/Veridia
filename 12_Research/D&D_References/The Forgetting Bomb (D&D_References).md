@@ -99,7 +99,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 
 ### Military Weaponization
 **Years 585-590 AS:**
-The potential military applications became obvious to [[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02_Worldbuilding]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -131,7 +131,7 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 Despite international condemnation and treaty obligations, multiple organizations continue developing Forgetting Bomb technology:
 
 **Known Developers:**
-- **[[02 Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
+- **[[02_Worldbuilding]]**: Estimated 12-15 devices in arsenal
 - **[[The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
 - **[[Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally

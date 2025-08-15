@@ -36,7 +36,7 @@ world: Both
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
-If the affected spell requires [[conditions#Concentration|Concentration]], you have [[advantage xphb|Advantage]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
+If the affected spell requires [[conditions#Concentration|Concentration]], you have [[Advantage Xphb]] on any saving throw you make to maintain that [[conditions#Concentration|Concentration]].
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -69,3 +69,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[extended-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/

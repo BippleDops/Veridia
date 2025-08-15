@@ -38,7 +38,7 @@ world: Both
 # Ring of Force Resistance
 *Ring, rare*  
 
-You have [[resistance xphb|Resistance]] to force damage while wearing this ring. The ring is set with sapphire.
+You have [[boon-of-energy-resistance-xphb (feats)]] to force damage while wearing this ring. The ring is set with sapphire.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 

@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-shield-of-the-silver-dragon-cos-shield-of-the-silver-dragon-cos.svg)
 
 # Shield of the Silver Dragon
-*Armor ([[shield xphb|shield]]), major, rare*  
+*Armor ([[Shield]]), major, rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

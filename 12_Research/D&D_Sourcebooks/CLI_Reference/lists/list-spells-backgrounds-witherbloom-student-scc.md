@@ -63,3 +63,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest a portal
 - A document has gone missing and truth emerges
 - Someone is blackmailing a artifact for love
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Strixhaven: Curriculum of Chaos
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[list-spells-backgrounds-witherbloom-student-scc-phb]]` in CLI_Reference/spells/

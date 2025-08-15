@@ -1,10 +1,10 @@
 ---
 
-title: Elder Sky Singer Melody Windvoice
-type: lore
+title: [[Elder Sky Singer Melody Windvoice]]
+type: [[Lore]]
 tags:
 - lore
-- aethermoor
+- [[Aethermoor]]
 - active
 - conspiracy
 created: '2025-08-14'
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Superstitions Improvements
 
@@ -75,7 +75,7 @@ Elder Sky-Singer Melody Windvoice can be understood as a multifaceted element th
 ### Detailed Explanation
 The full nature of Elder Sky-Singer Melody Windvoice involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Elder Sky-Singer Melody Windvoice trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -86,7 +86,7 @@ Connected to Elder Sky-Singer Melody Windvoice are various other important eleme
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Elder Sky-Singer Melody Windvoice through their own cultural lenses:
+Different [[Groups]] view Elder Sky-Singer Melody Windvoice through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -155,7 +155,7 @@ The current state of Elder Sky-Singer Melody Windvoice:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Elder Sky-Singer Melody Windvoice has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -188,7 +188,7 @@ Ways to incorporate Elder Sky-Singer Melody Windvoice into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -209,7 +209,7 @@ How to adjust for different games:
 Ways Elder Sky-Singer Melody Windvoice might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -228,7 +228,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -251,7 +251,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #elder-sky-singer-melody-windvoice
+*Tags*: [[#General]] #worldbuilding #elder-sky-singer-melody-windvoice
 
 ## Cultural Impact
 
@@ -263,12 +263,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A corpse reveals the truth about the cult
 - Strange disappearances suggest a curse
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -278,7 +278,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 

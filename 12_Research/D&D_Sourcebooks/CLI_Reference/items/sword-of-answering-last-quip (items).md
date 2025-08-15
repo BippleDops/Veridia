@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-last-quip-sword-of-answering-last-quip.svg)
 
 # Sword of Answering (Last Quip)
-*Weapon ([[longsword xphb|longsword]]), major, legendary (requires attunement by a chaotic neutral creature)*  
+*Weapon ([[Longsword Xphb]]), major, legendary (requires attunement by a chaotic neutral creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

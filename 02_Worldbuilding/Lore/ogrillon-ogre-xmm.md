@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # ogrillon-ogre-xmm
@@ -22,7 +22,7 @@ The full nature of ogrillon-ogre-xmm involves several interconnected components.
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of ogrillon-ogre-xmm trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to ogrillon-ogre-xmm are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view ogrillon-ogre-xmm through their own cultural lenses:
+Different [[Groups]] view ogrillon-ogre-xmm through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of ogrillon-ogre-xmm:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How ogrillon-ogre-xmm has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate ogrillon-ogre-xmm into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways ogrillon-ogre-xmm might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #ogrillon-ogre-xmm
+*Tags*: [[#General]] #worldbuilding #ogrillon-ogre-xmm

@@ -1,17 +1,17 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
-# 02 Worldbuilding/Spells/Mirror Window
+# [[02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]/Spells/[[Mirror Window]]
 
 ## Overview
 
-02 Worldbuilding/Spells/Mirror Window represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+[[The_Community_Sky-Platforms (02_Worldbuilding)]]/Spells/Mirror Window represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 
 ### Basic Information
-02 Worldbuilding/Spells/Mirror Window can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
+[[02 Worldbuilding]]/Spells/Mirror Window can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
 - Physical: A tangible thing or place
 - Conceptual: An idea or belief system
 - Event: Something that happened or will happen
@@ -22,7 +22,7 @@ The full nature of 02 Worldbuilding/Spells/Mirror Window involves several interc
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02 Worldbuilding/Spells/Mirror Window trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to 02 Worldbuilding/Spells/Mirror Window are various other important e
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02 Worldbuilding/Spells/Mirror Window through their own cultural lenses:
+Different [[Groups]] view 02 Worldbuilding/Spells/Mirror Window through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of 02 Worldbuilding/Spells/Mirror Window:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02 Worldbuilding/Spells/Mirror Window has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate 02 Worldbuilding/Spells/Mirror Window into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways 02 Worldbuilding/Spells/Mirror Window might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02-worldbuilding/spells/mirror-window
+*Tags*: [[#General]] #worldbuilding #02-worldbuilding/spells/mirror-window

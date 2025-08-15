@@ -34,7 +34,7 @@ world: Both
 # Challenge Rating
 *Source: Player's Handbook (2024) p. 363. Available in the SRD and the Free Rules (2024)* 
 
-Challenge Rating (CR) summarizes the threat a [[monster xphb|monster]] poses to a group of four [[player character xphb|player characters]]. Compare a [[monster xphb|monster's]] CR to the characters' level. If the CR is higher, the [[monster xphb|monster]] is likely a danger. If the CR is lower, the [[monster xphb|monster]] likely poses little threat. But circumstances and the number of [[player character xphb|player characters]] can significantly alter how threatening a [[monster xphb|monster]] is in actual play. The "Dungeon Master's Guide" provides guidance to the DM on using CR while planning potential combat [[encounter xphb|encounters]].
+Challenge Rating (CR) summarizes the threat a [[Charm Monster Xphb]] poses to a group of four [[Player Character Xphb]]. Compare a [[Charm Monster Xphb]] CR to the characters' level. If the CR is higher, the [[Charm Monster Xphb]] is likely a danger. If the CR is lower, the [[Charm Monster Xphb]] likely poses little threat. But circumstances and the number of [[Player Character Xphb]] can significantly alter how threatening a [[Charm Monster Xphb]] is in actual play. The "Dungeon Master's Guide" provides guidance to the DM on using CR while planning potential combat [[Encounter Xphb]].
 
 ## 🔧 Deep Evaluation Improvements
 

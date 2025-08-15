@@ -31,6 +31,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg)
 
@@ -38,6 +50,13 @@ improvements: 20
 
 # Memory Harvester Kythara
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -325,7 +344,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Collaborative response to dream-based magical threats
 
 ### Religious & Spiritual Connections
-**[[Sister Thalassa the Depth Touched]]**: Shared devotion to Deep Mother with different interpretations
+**[[Sister Thalassa the Depth-Touched (D&D_References)]]**: Shared devotion to Deep Mother with different interpretations
 - Regular theological discussions about divine will and proper worship methods
 - Collaboration on protecting sacred sites from commercial exploitation
 - Disagreement over awakening timeline and preparation strategies
@@ -363,7 +382,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Theological debates about whether memory preservation serves or hinders spiritual growth
 
 ### Political & Social Networks
-**[[02 Worldbuilding/People/Senator Nereon Tidecaller|02 Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
+**[[Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
 - Advocacy for legal protections for sacred memory sites and traditional practices
 - Funding for memory preservation research and ethical standards development
 - Political protection from commercial interests seeking to exploit Memory Meadows
@@ -517,7 +536,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ---
 
-### Links to [[Quest   The Convergence Crisis]]
+### Links to [[Quest - The Convergence Crisis]]
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
 - Divine memories serve as cosmic reference points maintaining dimensional stability
@@ -543,7 +562,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Collaboration on projects requiring access to trans-dimensional memory archives
 - Shared responsibility for maintaining cosmic memory stability during convergence events
 
-### Connection to [[The Shadow Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
+### Connection to [[Shadow Crystal]]
 **Memory-Shadow Interface**: Intersection between shadow magic and memory manipulation
 - Study of how shadow energy affects memory formation and preservation
 - Development of protective techniques preventing shadow corruption of stored memories
@@ -765,3 +784,40 @@ Mentioned in The First Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

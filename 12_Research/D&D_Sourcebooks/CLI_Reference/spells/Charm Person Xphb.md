@@ -55,11 +55,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One Humanoid you can see within range makes a Wisdom saving throw. It does so with [[advantage xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
+One Humanoid you can see within range makes a Wisdom saving throw. It does so with [[Advantage Xphb]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb (variant-rules)]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb "subclass=XPHB;class=XPHB"|Bard (College of Glamour)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb "subclass=XPHB;class=XPHB"|Ranger (Fey Wanderer)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
 

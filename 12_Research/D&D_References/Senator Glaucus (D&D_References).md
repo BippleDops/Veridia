@@ -25,7 +25,7 @@ modified: '2025-08-14'
 status: active
 race: Human (Shadow)
 class: Noble
-location: '[[Abyssos Prime   Parliament of Echoes]]'
+location: '[[Abyssos Prime]]'
 level: 7
 first_name: Glaucus
 last_name: Tidecaller
@@ -48,7 +48,7 @@ relationship_type: political
 relationships:
 - '[[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
 - '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[Marina Red Tide Coralheart   Aquabyssos]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 - '[[Original Glaucus]] (imprisoned)'
 related_quests:
 - '[[Investigate Shadow Conspiracy]]'

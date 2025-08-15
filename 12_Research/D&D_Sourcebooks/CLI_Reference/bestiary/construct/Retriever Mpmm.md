@@ -39,7 +39,7 @@ updated: '2025-08-13T12:34:06.104640+00:00'
 world: Both
 ---
 
-# [[retriever mpmm|Retriever]]
+# [[Retriever Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -109,9 +109,9 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n3/day each: [[plane shift xphb|plane shift]]\
+      \n3/day each: [[plane-shift-xphb (spells)]]\
       \ (only self and up to one incapacitated creature, which is considered willing\
-      \ for the spell), [[web xphb|web]]"
+      \ for the spell), [[web-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

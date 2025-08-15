@@ -35,7 +35,7 @@ world: Both
 # Reliquary Charm
 *Charm*  
 
-After spending a [[long rest xphb|Long Rest]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater restoration xphb|Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a [[long-rest-xphb]] in your "Bastion", you gain a magical Charm (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater-restoration-xphb (spells)]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 *Source: Dungeon Master's Guide (2024) p. 344*
 

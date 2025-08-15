@@ -1,8 +1,17 @@
+---
+
+tags: [npc, character]
+type: npc
+created: 2025-08-14
+modified: 2025-08-14
+status: active
+---
+
 # 03_Mechanics/Living_Economy_System.md
 
 ## Portrait
 
-![[portrait_03_mechanics_living_economy_system.md.png]]
+![[Living_Economy_System.md]]
 
 *Portrait reference for 03_Mechanics_Living_Economy_System.md*
 
@@ -266,3 +275,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

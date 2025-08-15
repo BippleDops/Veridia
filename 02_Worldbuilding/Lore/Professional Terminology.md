@@ -1,7 +1,7 @@
 ---
 
 title: Professional Terminology
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - both
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -70,7 +70,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -78,9 +78,9 @@ improvements: 20
 
 ## Summary
 
-Specialized vocabulary, jargon, and code words used by various professional guilds, organizations, and trades across both Aquabyssos and Aethermoor, including their secretive and protective linguistic practices.
+Specialized vocabulary, jargon, and code words used by various professional guilds, [[Organization]]s, and trades across both [[Aquabyssos]] and [[Aethermoor]], including their secretive and protective linguistic practices.
 
-### **Deep Mining Guild**
+### **[[Deep Mining Guild]]**
 
 **Core Terminology:**
 - **"Pressure-sweet"** - High-quality ore that forms only under extreme pressure
@@ -92,7 +92,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 **Safety Signals:**
 - **"Pressure drop!"** - Warning of immediate decompression danger
 - **"Current-caught!"** - Miner swept away by unexpected water flow
-- **"Void-sign"** - Evidence of dangerous otherworldly presence
+- **"Void-sign"** - [[Evidence]] of dangerous otherworldly presence
 - **"Stone-song"** - Good acoustics indicate stable tunnel conditions
 - **"Dark-water"** - Contaminated area requiring evacuation
 
@@ -104,7 +104,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-tainted"** - Potentially dangerous materials requiring special handling
 
 **Guild Secrets:**
-- **"Deep-knowing"** - Proprietary knowledge of ore locations and extraction techniques
+- **"Deep-knowing"** - Proprietary knowledge of ore [[location]]s and extraction techniques
 - **"Pressure-memory"** - Traditional mining wisdom passed down through generations
 - **"Stone-sight"** - Ability to identify valuable minerals by acoustic properties
 - **"Current-reading"** - Navigation skills for underwater mine systems
@@ -143,9 +143,9 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Memory-current navigation"** - Using inherited traditional knowledge
 
 **Route Classifications:**
-- **"Merchant-safe"** - Well-established, low-risk commercial shipping lanes
+- **"[[Merchant]]-safe"** - Well-established, low-risk commercial shipping lanes
 - **"Current-fast"** - Routes utilizing strong currents for rapid travel
-- **"Deep-passage"** - Paths through extreme depths requiring specialized equipment
+- **"Deep-passage"** - [[path]]s through extreme depths requiring specialized equipment
 - **"Void-skirting"** - Dangerous routes near otherworldly regions
 - **"Emergency-ascent"** - Backup routes to surface in case of equipment failure
 
@@ -170,7 +170,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-touched"** - Patients contaminated by otherworldly contact
 - **"Pressure-madness"** - Mental instability from depth adaptation failure
 - **"Current-fever"** - Illness from contaminated water exposure
-- **"Deep-calling"** - Compulsive desire to descend to dangerous depths
+- **"Deep-calling"** - Compulsive de[[Sire]] to descend to dangerous depths
 
 **Guild Secrets:**
 - **"Silent-scalpel"** - Surgical techniques that leave no evidence
@@ -179,10 +179,10 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-cleansing"** - Purification methods for otherworldly contamination
 - **"Deep-oath"** - Loyalty vows enforced through surgical modification
 
-### **Crystal Engineering Guild**
+### **[[[[Crystal Engineering]] Guild]]**
 
 **Technical Terminology:**
-- **"Resoce-mapping"** - Analysis of crystal harmonic properties
+- **"Resoce-[[map]]ping"** - Analysis of crystal harmonic properties
 - **"Frequency-tuning"** - Adjustment of crystal vibrational characteristics
 - **"Harmonic-amplification"** - Systems for enhancing crystal power output
 - **"Crystal-networking"** - Connecting multiple crystals for complex operations
@@ -255,13 +255,13 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Storm-shelter"** - Procedures for finding safe landing during severe weather
 - **"Equipment-failure protocols"** - Emergency procedures for mechanical breakdowns
 
-### **Sky Knight Military Orders**
+### **Sky [[Knight]] Military Orders**
 
 **Combat Terminology:**
 - **"Altitude-advantage"** - Superior tactical position through height control
 - **"Diving-strike"** - High-speed attack from elevated position
 - **"Formation-flying"** - Coordinated group combat maneuvers
-- **"Wind-jousting"** - Aerial combat using natural air currents
+- **"Wind-jousting"** - [[Aerial Combat]] using natural air currents
 - **"Storm-warfare"** - Combat techniques adapted for severe weather conditions
 
 **Tactical Classifications:**
@@ -297,7 +297,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 **Negotiation Codes:**
 - **"Pressure-discount"** - Price reduction for high-risk deep transport
 - **"Wind-premium"** - Additional cost for aerial delivery services
-- **"Current-credit"** - Extended payment terms for maritime shipping delays
+- **"Current-credit"** - Extended payment terms for mari[[Time]] shipping delays
 - **"Storm-cancellation"** - Contract termination due to weather hazards
 - **"Void-clause"** - Legal protection against otherworldly shipping risks
 
@@ -312,7 +312,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 **Professional Standards:**
 - **"Neutral-depth certification"** - Translator qualification for balanced cultural understanding
-- **"Cross-current competency"** - Ability to work in both realm communication systems
+- **"Cross-current competency"** - Ability to work in both realm [[Communication Systems]]
 - **"Emergency-interpretation"** - Rapid translation services for crisis situations
 - **"Diplomatic-immunity understanding"** - Knowledge of legal protections for international communication
 - **"Cultural-sensitivity clearance"** - Authorization to handle sensitive inter-realm negotiations
@@ -320,7 +320,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 ### **Mixed Heritage Communities**
 
 **Identity Terminology:**
-- **"Dual-adaptation"** - People capable of functioning in both realms
+- **"Dual-adaptation"** - [[People]] capable of functioning in both realms
 - **"Pressure-wind heritage"** - Mixed ancestry from both realms
 - **"Cross-current families"** - Households with members from different realms
 - **"Bridge-builders"** - Individuals who facilitate inter-realm understanding
@@ -367,7 +367,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 ---
 
-*"Every profession develops its own language not just for efficiency, but for identity. The words we use in our work define not just what we do, but who we are."* - Guild Master Artificer Nerissa Stormwright
+*"Every profession develops its own language not just for efficiency, but for identity. The words we use in our work define not just what we do, but who we are."* - Guild Master [[Artificer]] Nerissa Stormwright
 
 ## Player-Facing Summary
 
@@ -377,7 +377,7 @@ Professional Terminology is a undersea element of the setting, known for biolumi
 
 Legends speak of Professional Terminology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professional Terminology.
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -385,7 +385,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Professional Terminology represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

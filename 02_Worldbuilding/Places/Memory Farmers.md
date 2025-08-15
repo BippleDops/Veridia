@@ -31,7 +31,7 @@ founded: Second Age of Aquabyssos
 leader: '[[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
 related_entities:
 - '[[Memory Alterations]]'
-- '[[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[Aboleth Mind Mazes]]'
 - '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 specialties:
 - Memory Extraction
@@ -153,7 +153,7 @@ Today's Memory Farmers operate a complex network spanning multiple depth levels,
 - Can continue for years before subjects realize extent of memory loss
 
 **Forced Extraction**: Kidnapped victims subjected to invasive procedures
-- Utilizes techniques derived from [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Utilizes techniques derived from [[Aboleth Mind Mazes]]
 - Subjects often left as empty shells or with fabricated replacement memories
 - Most profitable method but highest risk of [[Parliament of Echoes]] intervention
 
@@ -261,6 +261,13 @@ Memory Farmers provide:
 - Potential for redemption arcs involving reformed Memory Farmers
 EOF < /dev/
 
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Player-Facing Summary
 
 Memory Farmers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -299,6 +306,20 @@ Memory Farmers is a notable location characterized by its unique features and st
 
 ### Founding
 Memory Farmers was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
 
 ## Current Events
 
@@ -365,3 +386,40 @@ Key stop on textiles trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

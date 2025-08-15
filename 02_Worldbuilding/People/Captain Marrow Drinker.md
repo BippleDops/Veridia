@@ -25,6 +25,18 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg)
 
@@ -207,10 +219,10 @@ Mentioned in The First Prophecy of Depths
 
 ## Relationships
 
-- **Lover**: [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg]]
+- **Lover**: [[Npc]]
 - **Friend**: [[Reflection Captain Vantage]]
-- **Blackmailer**: [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
-- **Lover**: [[Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg]]
+- **Blackmailer**: [[Commander Drake Pressureborn]]
+- **Lover**: [[Npc]]
 
 ## Cultural Practices
 
@@ -223,3 +235,40 @@ Mentioned in The First Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

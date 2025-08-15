@@ -90,3 +90,9 @@ improvements: 20
 - The authorities needs help investigating before dawn
 - A document has gone missing and war looms
 - A map reveals a betrayal about the cult
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

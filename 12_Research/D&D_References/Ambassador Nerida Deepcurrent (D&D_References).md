@@ -92,11 +92,11 @@ Legends speak of Ambassador Nerida Deepcurrent as a nexus where past and present
 
 ## Relationships
 
-- **Student**: [[Quest   The Voice Beneath]]
-- **Blackmailer**: [[Portrait NPC the Corroded Crown the Corroded Crown.svg]]
-- **Ally**: [[Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg]]
-- **Child**: [[Assets Symbols Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
-- **Victim**: [[Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg]]
+- **Student**: [[Quest - The Voice Beneath]]
+- **Blackmailer**: [[Npc]]
+- **Ally**: [[Ambassador Korvin Blacktide]]
+- **Child**: [[Assets]]
+- **Victim**: [[Npc]]
 
 ## 12_Research Specific Content
 

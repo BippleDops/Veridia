@@ -199,7 +199,7 @@ Ongoing conflict between different memory merchant factions:
 Investigation into missing persons whose identities have been completely erased:
 - Victims include important political figures from multiple governments
 - Evidence suggests coordinated operation spanning decades
-- May be connected to larger conspiracy involving [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- May be connected to larger conspiracy involving [[Aboleth Mind Mazes]]
 - Potential threat to stability of both surface and underwater governments
 
 ## Quest Hooks

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg)
 
-# [[cogwork archivist scc|Cogwork Archivist]]
+# [[cogwork-archivist-scc (construct)]]
 *Source: Strixhaven: A Curriculum of Chaos p. 188*  
 
 Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archivists serve as keepers of the university's various libraries. The archivists' towering metal frames are equipped with long, articulated limbs and retractable conservator tools, which they use to organize and preserve documents from throughout Strixhaven's winding history. Many cogwork archivists can be found among the towering shelves of the Biblioplex, simultaneously retrieving scrolls for curious students while keeping a stern eye on any rowdy groups that might disrupt the quiet atmosphere.
@@ -90,8 +90,8 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
     "name": "Grasping Limb"
   - "desc": "The archivist casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
-      \ [[dancing lights xphb|dancing lights]], [[prestidigitation xphb|prestidigitation]]\n\
-      \n2/day: [[silence xphb|silence]]"
+      \ [[dancing-lights-xphb (spells)]], [[Prestidigitation Xphb]]\n\
+      \n2/day: [[silence-xphb (spells)]]"
     "name": "Spellcasting"
 "source":
   - "SCC"

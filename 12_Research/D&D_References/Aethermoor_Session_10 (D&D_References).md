@@ -30,7 +30,7 @@ world: Aethermoor
 # Session Packet — Aethermoor 10
 
 handouts:
-  - [[S 201_Eclipse_Raid_Window_Player|04 Resources/Handouts/Encounters/S 201 Eclipse Raid Window Player]]
+  - [[S-201 Eclipse Raid Window Player (Encounters)]]
   - [[S-L-08_Gravity_Inversion_Storm_Player|04 Resources/Handouts/Encounters/S L 08 Gravity Inversion Storm Player]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
@@ -40,7 +40,7 @@ gm_sheets:
   - [[S-L-11_Platform_Unmooring|06 GM Resources/Travel/Encounter Sheets/S L 11 Platform Unmooring]]
 
 assets:
-  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[INDEX]]
 
 ## 🔧 Deep Evaluation Improvements
 

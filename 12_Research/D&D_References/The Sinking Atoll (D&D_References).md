@@ -435,12 +435,12 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 - [[Elder Coral Doomteller]]
 - [[Atoll Research Team]]
 - [[Displaced Atoll Residents]]
-- [[Deep Sea Rescue Operations]]
+- [[Deep-Sea Rescue Operations (D&D_References)]]
 
 **Related Items and Concepts**:
 - [[Coral Consciousness Network]]
 - [[Ancient Ocean Anchors]]
-- [[Deep Sea Cultural Protocol|02 Worldbuilding/Groups/Deep Sea Cultural Protocol]]
+- [[Deep-Sea Cultural Protocol (Cultural_Organizations)]]
 - [[Sinking Phenomenon Research]]
 
 ## Player-Facing Summary

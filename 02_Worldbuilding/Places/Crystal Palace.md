@@ -1,10 +1,10 @@
 ---
 
 title: Crystal Palace
-type: Location
+type: [[location]]
 tags:
 - both
-- world/aquabyssos
+- world/[[Aquabyssos]]
 - royal
 - complete
 - world/both
@@ -14,12 +14,12 @@ tags:
 - palace
 - location
 - status/in-progress
-- world/aethermoor
+- world/[[Aethermoor]]
 - bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: 500
 danger_level: 8
 depth: 800-1200 feet
@@ -36,7 +36,7 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-palace-crystal-palace.svg)
 
-# The Crystal Palace
+# [[The Crystal Palace]]
 *Where Light Bends to Royal Will*
 
 > *"In the Crystal Palace, even shadows are made of light, and every wall remembers what it has witnessed."*
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,15 +95,15 @@ improvements: 20
 
 ## Overview
 
-The Crystal Palace serves as the underwater royal residence of the Crystal Sovereign, a magnificent structure grown from a single massive crystal formation over centuries. Unlike the chaotic organic growth of coral cities, this palace represents absolute geometric perfection, with every surface cut to precise angles that manipulate light, sound, and even magical energy. The entire structure exists in a constant state of luminescence, its walls pulsing with inner light that responds to the emotional state of its inhabitants.
+The Crystal Palace serves as the underwater royal residence of [[The Crystal Sovereign]], a magnificent structure grown from a single massive crystal formation over centuries. Unlike the chaotic organic growth of [[Coral]] cities, this palace represents absolute geometric perfection, with every surface cut to precise angles that manipulate light, sound, and even magical energy. The entire structure exists in a constant state of luminescence, its walls pulsing with inner light that responds to the emotional state of its inhabitants.
 
 #### First Approach: Sensory Immersion
 
 **Visual Spectacle**: The palace materializes from the abyssal darkness like a fallen star, its crystalline spires reaching toward the distant surface in perfect geometric harmony. Every surface catches, bends, and amplifies available light sources—from bioluminescent creatures to magical illumination—creating an ever-shifting kaleidoscope of colors that dance across the seafloor for miles. The structure appears to be carved from a single, impossibly large gem, its faceted walls creating optical illusions where corridors seem to extend infinitely, rooms appear larger from outside than inside, and staircases spiral through impossible dimensions.
 
-**Acoustic Environment**: Crystal conducts sound with supernatural clarity, creating an environment where whispers in the throne room can be heard in distant chambers while shouts in adjacent rooms remain perfectly muffled. The palace itself generates a constant harmonic resoce—a deep, thrumming chord that changes pitch and timber based on the collective emotional state of its inhabitants. During royal audiences, the walls literally sing in harmony with the sovereign's voice, while in times of distress, the entire structure emits haunting minor keys that can be felt as much as heard.
+**Acoustic Environment**: Crystal conducts sound with supernatural clarity, creating an environment where whispers in the [[Throne Room]] can be heard in distant chambers while shouts in adjacent rooms remain perfectly muffled. The palace itself generates a constant harmonic resoce—a deep, thrumming chord that changes pitch and timber based on the collective emotional state of its inhabitants. During royal audiences, the walls literally sing in harmony with the sovereign's voice, while in [[Time]]s of distress, the entire structure emits haunting minor keys that can be felt as much as heard.
 
-**Olfactory Signature**: Crystal itself has no scent, but the palace carries the essence of whatever has been held within it—phantom aromas of ancient banquets phase in and out of perception, the metallic tang of spilled blood from past intrigues lingers in certain chambers, and the ozone-sharp smell of powerful magic permeates areas where significant spells have been cast. The throne room carries the accumulated scent-memories of centuries of petitioners: desperation, hope, fear, and ambition blended into an intoxicating and overwhelming mixture.
+**Olfactory Signature**: Crystal itself has no scent, but the palace carries the essence of whatever has been held within it—phantom aromas of ancient banquets phase in and out of perception, the metallic tang of spilled blood from past intrigues lingers in certain chambers, and the ozone-sharp smell of powerful magic permeates areas where significant spells have been cast. [[The Throne Room]] carries the accumulated scent-memories of centuries of petitioners: desperation, hope, fear, and ambition blended into an intoxicating and overwhelming mixture.
 
 **Tactile Experience**: Every crystal surface is perfectly smooth yet somehow provides natural grip—feet and hands never slip despite the glassy appearance. Temperature varies dramatically throughout the structure based on magical activity and emotional resoce: the throne room burns with an inner heat that makes breathing difficult during intense political scenes, while the dungeon levels remain ice-cold regardless of external conditions. Touching certain walls triggers synaesthetic experiences—visitors might "hear" colors or "see" sounds as the crystal responds to bio-electrical fields.
 
@@ -116,18 +116,18 @@ The Crystal Palace serves as the underwater royal residence of the Crystal Sover
 - **Hidden Features:** Pressure-sealed emergency chambers behind decorative crystal formations
 
 **Environmental Storytelling - Greeting Halls:**
-- **Petitioner Paths:** Worn grooves in crystal floors show the anxious pacing of those awaiting audiences
+- **Petitioner [[path]]s:** Worn grooves in crystal floors show the anxious pacing of those awaiting audiences
 - **Stress Indicators:** Small stress fractures in load-bearing crystals reveal structural weak points
 - **Message Systems:** Hidden crystal chambers contain pneumatic message tubes for covert communication
-- **Social Hierarchy:** Different colored crystal pathways guide visitors based on social status
+- **Social Hierarchy:** Different co[[Lore]]d crystal pathways guide visitors based on social status
 
 #### The Royal Residence (Middle Levels - 900-1000 feet depth)
-**The Living Quarters**
+**[[The Living Quarters]]**
 - **Atmospheric Pressure:** Moderate but still requiring adaptation for surface dwellers
 - **Lighting:** Warm golden radiance that shifts to match day/night cycles of surface world
 - **Sound Properties:** Selective acoustic dampening provides privacy for royal chambers
 - **Wear Patterns:** Personal chambers show individual modification—crystal shaped by decades of habitation
-- **Hidden Features:** Secret passages connecting royal quarters, hidden chambers for state treasures
+- **Hidden Features:** Secret passages connecting [[Royal Quarters]], hidden chambers for state treasures
 
 **Environmental Storytelling - Royal Quarters:**
 - **Personal Touches:** Crystal walls shaped and colored by royal preferences over generations
@@ -135,7 +135,7 @@ The Crystal Palace serves as the underwater royal residence of the Crystal Sover
 - **Servant Networks:** Hidden maintece passages allow staff movement without disturbing royalty
 - **Historical Layers:** Different crystal growth phases show architectural evolution over centuries
 
-#### The Crown Chambers (Upper Levels - 1000-1200 feet depth)
+#### [[The Crown]] Chambers (Upper Levels - 1000-1200 feet depth)
 **The Throne Room and State Apartments**
 - **Atmospheric Pressure:** Lightest pressure zone, approaching surface-world conditions
 - **Lighting:** Blinding crystalline radiance that can be focused into harmful beams
@@ -150,19 +150,19 @@ The Crystal Palace serves as the underwater royal residence of the Crystal Sover
 - **Succession Markers:** Royal portraits grown into crystal walls, showing dynastic history
 
 ### The Crystal Succession Crisis
-The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs of crystal corruption—their body slowly transforming into the same crystal that forms the palace. While this grants increasing magical power, it also threatens their humanity and decision-making capacity.
+The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs of [[Crystal Corruption]]—their body slowly transforming into the same crystal that forms the palace. While this grants increasing magical power, it also threatens their humanity and decision-making capacity.
 
 ### Political Intrigue
 1. **The Heir's Gambit** - One of the potential successors seeks outside help to expose corruption in their rivals
-2. **The Crystal Merchant's Proposal** - Powerful trade guild offers to fund palace repairs in exchange for architectural secrets
+2. **The Crystal [[Merchant]]'s Proposal** - Powerful trade guild offers to fund palace repairs in exchange for architectural secrets
 3. **The Ambassador's Dilemma** - Foreign diplomat trapped by court politics needs escort to safety
 
 ### Exploration and Discovery
-1. **The Missing Crown** - Royal regalia vanished from secured vault, requiring investigation of hidden passages
+1. **The Missing Crown** - [[Royal Regalia]] vanished from secured vault, requiring investigation of hidden passages
 2. **The Whispering Walls** - Crystal formations throughout palace beginning to relay disturbing messages
 3. **The Memory Storm** - Historical crystal imprints becoming active, threatening to rewrite current reality
 
-### Supernatural Mysteries
+### [[[[Supernatural Mysterie]]s]]
 1. **The Doppelganger Court** - Crystal reflections of courtiers acting independently and contradicting originals
 2. **The Time Loop Chambers** - Certain rooms trapping visitors in recursive temporal cycles
 3. **The Light Thief** - Something draining illumination from palace, creating expanding zones of dangerous darkness
@@ -175,14 +175,14 @@ The Crystal Palace serves as the seat of absolute royal power in the underwater 
 
 The Crystal Palace represents the ultimate expression of magical architecture, where form and function merge into something beyond mere building. Local legends claim the original crystal was a fallen star, while others insist it grew from the tears of a heartbroken sea goddess.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Emphasize the synesthetic quality of the palace—sounds have colors, lights have textures, and emotions leave visible trails in the crystal. Use the structure itself as an active participant in political intrigue, with walls that remember conversations and light patterns that reveal hidden truths.
 
@@ -205,6 +205,34 @@ Crystal Palace is a notable location characterized by its unique features and st
 
 ### Founding
 Crystal Palace was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: Path through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -245,3 +273,40 @@ Ongoing situations affecting Crystal Palace:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

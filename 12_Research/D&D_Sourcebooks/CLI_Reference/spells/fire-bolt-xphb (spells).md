@@ -50,11 +50,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes `d10` Fire damage. A flammable object hit by this spell starts [[burning xphb|burning]] if it isn't being worn or carried.
+You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes `d10` Fire damage. A flammable object hit by this spell starts [[burning-xphb (traps-hazards)]] if it isn't being worn or carried.
 
 **Cantrip Upgrade.** The damage increases by `d10` when you reach levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Land)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 274. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[fire-bolt-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -201,10 +201,10 @@ Representatives from various factions who use the garden as neutral ground:
 **The Garden Keepers:**
 A small community of individuals from both worlds who have chosen to live permanently in the garden, serving as its caretakers and guides:
 
-**[[Master Gardener Prism Tide Lyra]]:**
+**[[garden]]:**
 A former crystal mage from [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
 
-**[[Deep Root Caretaker Nereon]]:**
+**[[Deep-Root Caretaker Nereon (D&D_References)]]:**
 An Aquabyssos pressure engineer who developed aquatic adaptations that allow him to tend to the garden's underwater elements. He has formed a symbiotic relationship with the memory coral and can access historical information about the garden's development.
 
 **[[The Echo Children]]:**

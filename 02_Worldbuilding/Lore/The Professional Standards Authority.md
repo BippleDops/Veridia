@@ -1,7 +1,7 @@
 ---
 
 title: The Professional Standards Authority
-type: lore
+type: [[Lore]]
 tags:
 - lore
 - worldbuilding
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Sensory Improvements
 
@@ -75,7 +75,7 @@ The Professional Standards Authority represents a crucial aspect of the world's 
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -92,4 +92,4 @@ The Professional Standards Authority represents a crucial aspect of the world's 
 - Someone is hunting an heir for power
 - A document has gone missing and chaos spreads
 - Strange disappearances suggest a conspiracy
-- A merchant needs help finding before the new moon
+- A [[Merchant]] needs help finding before the new moon

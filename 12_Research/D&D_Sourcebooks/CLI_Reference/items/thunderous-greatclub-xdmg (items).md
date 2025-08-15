@@ -33,7 +33,7 @@ world: Both
 ---
 
 # Thunderous Greatclub
-*Weapon ([[greatclub xphb|greatclub]]), very rare (requires attunement)*  
+*Weapon ([[Greatclub Xphb]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/thunderous-greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
@@ -58,7 +58,7 @@ The weapon has the following additional properties.
 
 ## Clap of Thunder
 
-As a [[actions#Magic|Magic]] action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[cone area of effect xphb|Cone]] of thunderous energy. Each creature in the [[cone area of effect xphb|Cone]] must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition. Nonmagical objects in the [[cone area of effect xphb|Cone]] that aren't being worn or carried take `3d8` Thunder damage.
+As a [[actions#Magic|Magic]] action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[Area of Effect Xphb]] of thunderous energy. Each creature in the [[Area of Effect Xphb]] must succeed on a DC 15 Strength saving throw or have the [[conditions#prone|Prone]] condition. Nonmagical objects in the [[Area of Effect Xphb]] that aren't being worn or carried take `3d8` Thunder damage.
 
 ## Earthquake
 

@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-fuming-xphb-fey-spirit-fuming-xphb.svg)
 
-# [[fey spirit fuming xphb|Fey Spirit (Fuming)]]
+# [[fey]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock

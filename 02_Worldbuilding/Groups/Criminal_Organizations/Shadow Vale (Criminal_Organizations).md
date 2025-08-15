@@ -141,7 +141,7 @@ Shadow Vale represents [[Aquabyssos]]'s largest and most organized community of 
 - **Community Elder**: [[Community Elder Mistweave]] - Elected leader and representative
 - **Residential Coordinator**: [[Neighbor Advocate Penumbra]] - Housing and district management
 - **Social Services Director**: [[Care Coordinator Nightlight]] - Community support and welfare
-- **Education Coordinator**: [[Teacher Administrator Shadowlearn]] - Schools and knowledge preservation
+- **Education Coordinator**: [[Teacher-Administrator Shadowlearn]] - Schools and knowledge preservation
 - **Economic Development Chief**: [[Enterprise Director Duskwork]] - Employment and business development
 - **Cultural Preservation Officer**: [[Heritage Keeper Memoryshade]] - Identity and tradition maintece
 

@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-black-abishai-mpmm.svg)
 
-# [[black abishai mpmm|Black Abishai]]
+# [[Black Abishai Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -112,7 +112,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) force damage."
     "name": "Scimitar"
-  - "desc": "The abishai casts [[darkness xphb|darkness]]\
+  - "desc": "The abishai casts [[darkness-xphb (variant-rules)]]\
       \ at a point within 120 feet of it, requiring no spell components or [[conditions#Concentration|concentration]].\
       \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
       \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"

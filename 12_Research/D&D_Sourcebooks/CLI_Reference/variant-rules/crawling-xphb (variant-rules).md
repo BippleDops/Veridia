@@ -33,9 +33,9 @@ world: Both
 # Crawling
 *Source: Player's Handbook (2024) p. 364. Available in the SRD and the Free Rules (2024)* 
 
-While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [[difficult terrain xphb|difficult terrain]]).
+While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [[Difficult Terrain Xphb]]).
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -17,15 +17,15 @@ level: 1-5
 updated: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
----
+- --
 
 # Session 24: [Title]
 
-*Seven Shards Campaign - Act [X]*
+* Seven Shards Campaign - Act [X]*
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Combat Improvements
 
@@ -121,3 +121,14 @@ Mentioned in The Second Prophecy of Shadows
 1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

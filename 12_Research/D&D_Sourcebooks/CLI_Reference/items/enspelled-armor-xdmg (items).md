@@ -40,15 +40,15 @@ world: Both
 
 **Items in this group:**
 
-- [[enspelled armor cantrip xdmg|Enspelled Armor (Cantrip)]]
-- [[enspelled armor level 1 xdmg|Enspelled Armor (Level 1)]]
-- [[enspelled armor level 2 xdmg|Enspelled Armor (Level 2)]]
-- [[enspelled armor level 3 xdmg|Enspelled Armor (Level 3)]]
-- [[enspelled armor level 4 xdmg|Enspelled Armor (Level 4)]]
-- [[enspelled armor level 5 xdmg|Enspelled Armor (Level 5)]]
-- [[enspelled armor level 6 xdmg|Enspelled Armor (Level 6)]]
-- [[enspelled armor level 7 xdmg|Enspelled Armor (Level 7)]]
-- [[enspelled armor level 8 xdmg|Enspelled Armor (Level 8)]]
+- [[enspelled-armor-cantrip-xdmg (items)]]
+- [[enspelled-armor-level-1-xdmg (items)]]
+- [[Enspelled Armor Level 2 Xdmg]]
+- [[enspelled-armor-level-3-xdmg (items)]]
+- [[enspelled-armor-level-4-xdmg (items)]]
+- [[enspelled-armor-level-5-xdmg (items)]]
+- [[enspelled-armor-level-6-xdmg (items)]]
+- [[Enspelled Armor Level 7 Xdmg]]
+- [[enspelled-armor-level-8-xdmg (items)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
 
@@ -83,3 +83,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

@@ -52,11 +52,11 @@ world: Both
 - **Components:** V, S, M (a feather)
 - **Duration:** Concentration, up to 10 minutes
 
-You touch a willing creature. For the duration, the target gains a [[fly-speed-xphb|Fly Speed]] of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
+You touch a willing creature. For the duration, the target gains a [[Fly Speed Xphb]] of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 
-**Classes**: [[/03 Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the SRD and the Free Rules (2024)*
 

@@ -39,26 +39,26 @@ world: Both
 
 | dice: d100 | Protector(s) |
 |------------|--------------|
-| 1-10 | [[/03 Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captains]] and [[/03 Mechanics/CLI/bestiary/humanoid/bandit xmm|Bandits]] |
-| 11-12 | [[basilisk xmm|Basilisks]] |
+| 1-10 | [[Bestiary]] and [[Bestiary]] |
+| 11-12 | [[Basilisk Xmm]] |
 | 13-18 | [[constrictor-snake-xmm|Constrictor Snakes]] |
-| 19-26 | [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] and [[/03 Mechanics/CLI/bestiary/humanoid/cultist xmm|Cultists]] |
+| 19-26 | [[Bestiary]] and [[Bestiary]] |
 | 27-28 | [[flying-snake-xmm|Flying Snakes]] |
 | 29-35 | [[giant-constrictor-snake-xmm|Giant Constrictor Snakes]] |
 | 36-45 | [[giant-venomous-snake-xmm|Giant Poisonous Snakes]] |
-| 46-50 | [[/03 Mechanics/CLI/bestiary/humanoid/gladiator xmm|Gladiators]] |
-| 51-55 | [[/03 Mechanics/CLI/bestiary/humanoid/guard xmm|Guards]] |
-| 56-58 | [[hydra xmm|Hydras]] |
-| 59-60 | [[medusa xmm|Medusas]] |
-| 61 | [[mummy xmm|Mummies]]* |
+| 46-50 | [[Bestiary]] |
+| 51-55 | [[Bestiary]] |
+| 56-58 | [[Hydra Xmm]] |
+| 59-60 | [[medusa-xmm (monstrosity)]] |
+| 61 | [[Mummy Xmm]]* |
 | 62-63 | [[venomous-snake-xmm|Poisonous Snakes]] |
-| 64-68 | [[/03 Mechanics/CLI/bestiary/humanoid/priest xmm|Priests]] |
-| 69-70 | [[skeleton xmm|Skeletons]] |
+| 64-68 | [[Bestiary]] |
+| 69-70 | [[flaming-skeleton-xmm (undead)]] |
 | 71 | [[stone-golem-xmm|Stone Golems]] |
 | 72-81 | [[swarm-of-venomous-snakes-xmm|Swarms of Poisonous Snakes]] |
-| 82-91 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warriors]] |
-| 92-97 | [[/03 Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veterans]] |
-| 98-100 | [[zombie xmm|Zombies]] |
+| 82-91 | [[Bestiary]] |
+| 92-97 | [[Bestiary]] |
+| 98-100 | [[Zombie Xmm]] |
 ^yuan-ti-protectors
 
 * The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.

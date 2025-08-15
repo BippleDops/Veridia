@@ -45,7 +45,7 @@ current_status: Active but Underground
 updated: '2025-08-13T12:34:14.019338+00:00'
 related_entities:
 - '[[Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
-- '[[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[Aboleth Mind Mazes]]'
 - '[[Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 ---
 
@@ -111,7 +111,7 @@ Today's Memory Farmers operate a complex network spanning multiple depth levels,
 - Can continue for years before subjects realize extent of memory loss
 
 **Forced Extraction**: Kidnapped victims subjected to invasive procedures
-- Utilizes techniques derived from [[02 Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Utilizes techniques derived from [[Aboleth Mind Mazes]]
 - Subjects often left as empty shells or with fabricated replacement memories
 - Most profitable method but highest risk of [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] intervention
 

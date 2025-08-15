@@ -4,7 +4,7 @@ title: Pressure's End
 aliases:
 - The Iron Deep
 - The Last Stand
-type: Location
+type: [[location]]
 tags:
 - both
 - aquatic
@@ -23,7 +23,7 @@ tags:
 created: '2024-12-19'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: 35000 - Category/Place
 MyCategory: Unknown
 MyContainer: None
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,21 +97,21 @@ improvements: 20
 
 ## Overview
 
-Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[Aquabyssos World Overview]]. This fortress-city serves as headquarters for the [[Depth Wardens]] and stands as the last major defense against the horrors rising from [[The Hadal Depths]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
+Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[[[Aquabyssos]] [[World Overview]]]]. This fortress-city serves as headquarters for the [[[[Depth Warden]]s]] and stands as the last major defense against the horrors rising from [[The [[Hadal Depths]]]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
 
 ### The Garrison Deeps
 
-Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
+Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
 
 ### The Forge Trenches
 
-Industrial district where [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[12_Research/D&D_Statblocks/The Great Drowning]].
+Industrial district where [[Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[Great Drownin]].
 
 ### Civilian Shelf
 
 Terraced residential area for non-military citizens. [[Quartermaster Judith Steadfast]] manages supplies and ensures military families are provided for.
 
-### The Lock
+### [[The Lock]]
 
 High-security prison carved deeper into the cliff, where dangerous criminals and deep-creatures are held. [[Warden Marcus Stonehand]] maintains order through brutal efficiency.
 
@@ -121,11 +121,11 @@ Observation posts extending into the darkness below, staffed by scouts and divin
 
 ### The War College
 
-Training academy for elite Depth Wardens. [[Commander Drake Pressureborn]] instructs in deep combat techniques and psychological resistance to [[12_Research/D&D_Statblocks/The Deepmind]].
+Training academy for elite Depth Wardens. [[Commander Drake Pressureborn]] instructs in deep combat techniques and psychological resistance to [[12 Research]].
 
 ### The Depth Chapel
 
-Fortified temple where [[Battle Priest Cassius Depthshield]] blesses weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
+Fortified temple where [[Battle Priest Cassius Depth[[Shield]]]] [[Bless]]es weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
 
 ### The Pressure Chamber
 
@@ -133,19 +133,19 @@ Medical and experimental facility where [[Doctor Helena Voidwalker]] studies the
 
 ### The Strategic Archive
 
-Military intelligence center containing maps of the deep trenches and records of every deep incursion. [[Spymaster Crow]] coordinates intelligence operations from here.
+[[Military Intelligence]] center containing [[map]]s of the [[Deep Trenches]] and records of every deep incursion. [[Spymaster Crow]] coordinates intelligence operations from here.
 
 ### The Titan Dock
 
-Massive bay housing the city's war-leviathans, giant creatures trained for deep combat. [[Beast Master Krell Chainbreaker]] maintains these living weapons.
+Massive bay housing the city's war-[[Leviathan]]s, giant creatures trained for deep combat. [[Beast Master Krell Chainbreaker]] maintains these living weapons.
 
-### The Drowned Soldier Tavern
+### The [[Drowned]] Soldier Tavern
 
 Veterans' gathering place run by [[Retired Captain Bron Saltbeard]]. Information about deep threats traded freely here.
 
 ### Irondeep Supplies
 
-[[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance groups opposing military rule.
+[[[[Merchant]] Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance [[Groups]] opposing military rule.
 
 ### The Pressure Seal
 
@@ -153,7 +153,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 
 ### Deepguard Provisions
 
-[[Supplier Erikson Tidecaller]] provides specialized equipment for deep expeditions, including pressure suits and emergency ascent magic.
+[[Supplier Erikson Tidecaller]] provides specialized equipment for [[Deep Expeditions]], including pressure suits and emergency ascent magic.
 
 ## Sensory Details
 
@@ -174,22 +174,22 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 ## Secrets
 
 > [!warning] DM Only
-> - Admiral Blackwater is building a secret weapon to destroy the Deepmind
+> - Admiral Blackwater is building a secret weapon to destroy [[The Deepmind]]
 > - The Lock contains a captured herald of the Deepmind
 > - The eternal flames in the forges are souls of the drowned
 > - Several high-ranking officers are planning a coup
 > - The ward stones are weakening and will soon fail
 
-## Random Encounters (d10)
+## [[[[Random Encounter]]s]] (d10)
 
 1. Military patrol demanding papers
 2. Press gang recruiting "volunteers"
 3. Wounded scout warning of deep movement
 4. Drill sergeant training raw recruits
 5. Prisoner transport heading to The Lock
-6. War-leviathan feeding time
+6. War-leviathan feeding [[Time]]
 7. Emergency depth alarm sounding
-8. Black market dealer offering restricted items
+8. [[Black Market Deal]]er offering restricted items
 9. Spy attempting to infiltrate secure area
 10. Veterans protesting treatment
 
@@ -197,18 +197,18 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 
 Pressure's End is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Pressure's End as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure's End.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -223,6 +223,34 @@ Pressure's End is a notable location characterized by its unique features and st
 
 ### Founding
 Pressure's End was established in the distant past, growing from humble beginnings to its current state.
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Plot Hooks
 
@@ -240,3 +268,40 @@ Pressure's End was established in the distant past, growing from humble beginnin
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

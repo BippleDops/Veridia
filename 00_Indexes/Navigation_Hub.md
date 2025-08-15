@@ -1,4 +1,5 @@
 ---
+
 title: Navigation_Hub
 type: note
 tags:
@@ -6,6 +7,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+status: active
 ---
 
 # Navigation_Hub
@@ -82,10 +84,10 @@ LIMIT 20
 
 ### By Type
 
-- `type:npc` - [[02 Worldbuilding/People/All NPCs]]
-- `type:location` - [[02 Worldbuilding/Places/All Locations]]
-- `type:quest` - [[01 Adventures/All Quests]]
-- `type:session` - [[01 Adventures/All Sessions]]
+- `type:npc` - [[Npc]]
+- `type:location` - [[Places]]
+- `type:quest` - [[All Quests]]
+- `type:session` - [[All Sessions]]
 
 ---
 *Navigation hub powered by Dataview - automatically updates with vault changes*
@@ -101,3 +103,23 @@ LIMIT 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects
+
+## Random Table
+| d6 | Result |
+|----|--------|
+| 1  | Option A |
+| 2  | Option B |
+| 3  | Option C |
+| 4  | Option D |
+| 5  | Option E |
+| 6  | Option F |
+
+## Player Tips
+> 🎮 **Strategy**: How to approach this content
+> Work together and communicate

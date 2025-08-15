@@ -55,7 +55,7 @@ Characters often find coins on their adventures and can spend those coins in sho
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-![[coins-coin-values-xphb|Coins; Coin Values]]
+![[Coins Coin Values Xphb]]
 
 > [!note] Selling Equipment
 > 
@@ -72,15 +72,15 @@ The Weapons table in this section shows the game's main weapons. The table lists
 - **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the ""Properties"" section.  
 - **Mastery.** Each weapon has a mastery property, which is defined in the ""Mastery Properties"" section later in this chapter. To use that property, you must have a feature that lets you use it.  
 
-![[weapons xphb|Weapons]]
+![[Weapons Xphb]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/169-07-058-simple-melee.webp#center|Simple Melee Weapons]]
+![[Playe]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/170-07-059-simple-range.webp#center|Simple Ranged Weapons]]
+![[Playe]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/171-07-061-martial-melee.webp#center|Martial Melee Weapons]]
+![[Playe]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/172-07-060-martial-range.webp#center|Martial Ranged Weapons]]
+![[Playe]]
 
 ### Weapon Proficiency
 
@@ -100,7 +100,7 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 #### Heavy
 
-You have [[disadvantage xphb|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have [[Advantage Xphb]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 > [!note] Improvised Weapons
 > If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[improvised-weapons-xphb|Improvised Weapons]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
@@ -108,7 +108,7 @@ You have [[disadvantage xphb|Disadvantage]] on attack rolls with a Heavy weapon 
 
 #### Light
 
-When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword xphb|Shortsword]] in one hand and a [[dagger xphb|Dagger]] in the other using the [[actions#Attack|Attack]] action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb (items)]] in one hand and a [[Dagger Xphb]] in the other using the [[actions#Attack|Attack]] action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 #### Loading
 
@@ -116,7 +116,7 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 
 #### Range
 
-A Range weapon has a range in parentheses after the [[item properties#Ammunition|Ammunition]] or [[item properties#Thrown|Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[disadvantage xphb|Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
+A Range weapon has a range in parentheses after the [[item properties#Ammunition|Ammunition]] or [[item properties#Thrown|Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Advantage Xphb]] on the attack roll. You can't attack a target beyond the long range.
 
 #### Reach
 
@@ -156,7 +156,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 #### Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage xphb|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[Advantage Xphb]] on its next attack roll before the start of your next turn.
 
 #### Slow
 
@@ -168,7 +168,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 #### Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[Advantage Xphb]] on your next attack roll against that creature before the end of your next turn.
 
 ## Armor
 
@@ -179,15 +179,15 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 **Armor Class (AC**). The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
 - **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.  
-- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[disadvantage xphb|Disadvantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks.  
+- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[Advantage Xphb]] on Dexterity ([[skills#Stealth|Stealth]]) checks.  
 
-![[armor xphb|Armor]]
+![[splint-armor-xphb (items)]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/173-07-062-light-armor-and-shields.webp#center|Light Armor and Shields]]
+![[Shield]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/174-07-063-medium-armor.webp#center|Medium Armor]]
+![[Playe]]
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/175-07-064-heavy-armor.webp#center|Heavy Armor]]
+![[Playe]]
 
 ### Armor Training
 
@@ -195,7 +195,7 @@ Anyone can don armor or hold a Shield, but only those with training can use them
 
 #### Light, Medium, or Heavy Armor
 
-If you wear Light, Medium, or Heavy armor and lack training with it, you have [[disadvantage xphb|Disadvantage]] on any [[d20-test-xphb|D20 Test]] that involves Strength or Dexterity, and you can't cast spells.
+If you wear Light, Medium, or Heavy armor and lack training with it, you have [[Advantage Xphb]] on any [[d20-test-xphb (variant-rules)]] that involves Strength or Dexterity, and you can't cast spells.
 
 #### Shield
 
@@ -224,7 +224,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 ### Tool Proficiency
 
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage xphb|Advantage]] on the check too.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[Advantage Xphb]] on the check too.
 
 Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 
@@ -238,11 +238,11 @@ These tools support adventure and other pursuits.
 
 ## Adventuring Gear
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/177-07-003-arcane-focus.webp#center|A Warlock channels magic through an Arcane Focus]]
+![[Playe]]
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
-![[adventuring-gear-xphb|Adventuring Gear]]
+![[Adventuring Gear Xphb]]
 
 ### Acid (25 GP)
 
@@ -250,23 +250,23 @@ When you take the [[actions#Attack|Attack]] action, you can replace one of your 
 
 ### Alchemist's Fire (50 GP)
 
-When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `d4` Fire damage and start [[burning xphb|burning]].
+When you take the [[actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `d4` Fire damage and start [[burning-xphb (traps-hazards)]].
 
 ### Ammunition (Varies)
 
 Ammunition is required by a weapon that has the [[item properties#Ammunition|Ammunition]] property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
-![[ammunition-varies-ammunition-xphb|Ammunition (Varies); Ammunition]]
+![[Ammunition Varies Ammunition Xphb]]
 
 ### Antitoxin (50 GP)
 
-As a Bonus Action, you can drink a vial of Antitoxin to gain [[advantage xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
+As a Bonus Action, you can drink a vial of Antitoxin to gain [[Advantage Xphb]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
 
 ### Arcane Focus (Varies)
 
 An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 
-![[arcane-focus-varies-arcane-focuses-xphb|Arcane Focus (Varies); Arcane Focuses]]
+![[Arcane Focus Varies Arcane Focuses Xphb]]
 
 ### Backpack (2 GP)
 
@@ -294,7 +294,7 @@ When rung as a [[actions#Utilize|Utilize]] action, a Bell produces a sound that 
 
 ### Blanket (5 SP)
 
-While wrapped in a blanket, you have [[advantage xphb|Advantage]] on saving throws against extreme cold (see the *Dungeon Master's Guide*).
+While wrapped in a blanket, you have [[Advantage Xphb]] on saving throws against extreme cold (see the *Dungeon Master's Guide*).
 
 ### Block and Tackle (1 GP)
 
@@ -314,7 +314,7 @@ A Bucket holds up to half a cubic foot of contents.
 
 ### Burglar's Pack (16 GP)
 
-A Burglar's Pack contains the following items: [[backpack xphb|Backpack]], [[ball-bearings-xphb|Ball Bearings]], [[bell xphb|Bell]], 10 [[candle xphb|Candles]], [[crowbar xphb|Crowbar]], [[hooded-lantern-xphb|Hooded Lantern]], 7 flasks of [[oil xphb|Oil]], 5 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], and [[waterskin xphb|Waterskin]].
+A Burglar's Pack contains the following items: [[Backpack Xphb]], [[ball-bearings-xphb (items)]], [[Bell Xphb]], 10 [[Candle Xphb]], [[Crowbar Xphb]], [[Hooded Lantern Xphb]], 7 flasks of [[Oil Xphb]], 5 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], and [[waterskin-xphb (items)]].
 
 ### Caltrops (1 GP)
 
@@ -322,15 +322,15 @@ As a [[actions#Utilize|Utilize]] action, you can spread Caltrops from their bag 
 
 ### Candle (1 CP)
 
-For 1 hour, a lit Candle sheds [[bright-light-xphb|Bright Light]] in a 5-foot radius and [[dim-light-xphb|Dim Light]] for an additional 5 feet.
+For 1 hour, a lit Candle sheds [[Light Xphb]] in a 5-foot radius and [[Light Xphb]] for an additional 5 feet.
 
 ### Case, Crossbow Bolt (1 GP)
 
-A Crossbow Bolt Case holds up to 20 [[bolts-20-xphb|Bolts]].
+A Crossbow Bolt Case holds up to 20 [[Bolts 20 Xphb]].
 
 ### Case, Map or Scroll (1 GP)
 
-A Map or Scroll Case holds up to 10 sheets of [[paper xphb|paper]] or 5 sheets of [[parchment xphb|parchment]].
+A Map or Scroll Case holds up to 10 sheets of [[Paper Xphb]] or 5 sheets of [[Parchment Xphb]].
 
 ### Chain (5 GP)
 
@@ -358,33 +358,33 @@ A Component Pouch is watertight and filled with compartments that hold all the f
 
 ### Costume (5 GP)
 
-While wearing a Costume, you have [[advantage xphb|Advantage]] on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have [[Advantage Xphb]] on any ability check you make to impersonate the person or type of person it represents.
 
 ### Crowbar (2 GP)
 
-Using a Crowbar gives you [[advantage xphb|Advantage]] on Strength checks where the Crowbar's leverage can be applied.
+Using a Crowbar gives you [[Advantage Xphb]] on Strength checks where the Crowbar's leverage can be applied.
 
 ### Diplomat's Pack (39 GP)
 
-A Diplomat's Pack contains the following items: [[chest xphb|Chest]], [[fine-clothes-xphb|Fine Clothes]], [[ink xphb|Ink]], 5 [[ink-pen-xphb|Ink Pens]], [[lamp xphb|Lamp]], 2 [[map-or-scroll-case-xphb|Map or Scroll Cases]], 4 flasks of [[oil xphb|Oil]], 5 sheets of [[paper xphb|Paper]], 5 sheets of [[parchment xphb|Parchment]], [[perfume xphb|Perfume]], and [[tinderbox xphb|Tinderbox]].
+A Diplomat's Pack contains the following items: [[leomunds-secret-chest-xphb (spells)]], [[Fine Clothes Xphb]], [[Blink Xphb]], 5 [[ink-pen-xphb (items)]], [[lamp-xphb (items)]], 2 [[map-or-scroll-case-xphb (items)]], 4 flasks of [[Oil Xphb]], 5 sheets of [[Paper Xphb]], 5 sheets of [[Parchment Xphb]], [[perfume-xphb (items)]], and [[Tinderbox Xphb]].
 
 ### Druidic Focus (Varies)
 
 A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
-![[druidic-focus-varies-druidic-focuses-xphb|Druidic Focus (Varies); Druidic Focuses]]
+![[Druidic Focus Varies Druidic Focuses Xphb]]
 
 ### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer's Pack contains the following items: [[backpack xphb|Backpack]], [[caltrops xphb|Caltrops]], [[crowbar xphb|Crowbar]], 2 flasks of [[oil xphb|Oil]], 10 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], 10 [[torch xphb|Torches]], and [[waterskin xphb|Waterskin]].
+A Dungeoneer's Pack contains the following items: [[Backpack Xphb]], [[caltrops-xphb (items)]], [[Crowbar Xphb]], 2 flasks of [[Oil Xphb]], 10 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], 10 [[Torch Xphb]], and [[waterskin-xphb (items)]].
 
 ### Entertainer's Pack (40 GP)
 
-An Entertainer's Pack contains the following items: [[backpack xphb|Backpack]], [[bedroll xphb|Bedroll]], [[bell xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], 3 [[costume xphb|Costumes]], [[mirror xphb|Mirror]], 8 flasks of [[oil xphb|Oil]], 9 days of [[rations xphb|Rations]], [[tinderbox xphb|Tinderbox]], and [[waterskin xphb|Waterskin]].
+An Entertainer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], [[Bell Xphb]], [[bullseye-lantern-xphb (items)]], 3 [[costume-xphb (items)]], [[mirror-xphb (items)]], 8 flasks of [[Oil Xphb]], 9 days of [[rations-xphb (items)]], [[Tinderbox Xphb]], and [[waterskin-xphb (items)]].
 
 ### Explorer's Pack (10 GP)
 
-An Explorer's Pack contains the following items: [[backpack xphb|Backpack]], [[bedroll xphb|Bedroll]], 2 flasks of [[oil xphb|Oil]], 10 days of [[rations xphb|Rations]], [[rope xphb|Rope]], [[tinderbox xphb|Tinderbox]], 10 [[torch xphb|Torches]], and [[waterskin xphb|Waterskin]].
+An Explorer's Pack contains the following items: [[Backpack Xphb]], [[Bedroll Xphb]], 2 flasks of [[Oil Xphb]], 10 days of [[rations-xphb (items)]], [[Rope Xphb]], [[Tinderbox Xphb]], 10 [[Torch Xphb]], and [[waterskin-xphb (items)]].
 
 ### Flask (2 CP)
 
@@ -392,7 +392,7 @@ A Flask holds up to 1 pint.
 
 ### Grappling Hook (2 GP)
 
-As a [[actions#Utilize|Utilize]] action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. If you tied a [[rope xphb|Rope]] to the hook, you can then climb it.
+As a [[actions#Utilize|Utilize]] action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. If you tied a [[Rope Xphb]] to the hook, you can then climb it.
 
 ### Healer's Kit (5 GP)
 
@@ -420,7 +420,7 @@ Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 page
 
 ### Ink Pen (2 CP)
 
-Using [[ink xphb|Ink]], an Ink Pen is used to write or draw.
+Using [[Blink Xphb]], an Ink Pen is used to write or draw.
 
 ### Jug (2 CP)
 
@@ -432,31 +432,31 @@ A Ladder is 10 feet tall. You must climb to move up or down it.
 
 ### Lamp (5 SP)
 
-A Lamp burns [[oil xphb|Oil]] as fuel to cast [[bright-light-xphb|Bright Light]] in a 15-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet.
+A Lamp burns [[Oil Xphb]] as fuel to cast [[Light Xphb]] in a 15-foot radius and [[Light Xphb]] for an additional 30 feet.
 
 ### Lantern, Bullseye (10 GP)
 
-A Bullseye Lantern burns [[oil xphb|Oil]] as fuel to cast [[bright-light-xphb|Bright Light]] in a 60-foot [[cone-area-of-effect-xphb|Cone]] and [[dim-light-xphb|Dim Light]] for an additional 60 feet.
+A Bullseye Lantern burns [[Oil Xphb]] as fuel to cast [[Light Xphb]] in a 60-foot [[Area of Effect Xphb]] and [[Light Xphb]] for an additional 60 feet.
 
-![[/03 Mechanics/CLI/books/players-handbook-2024/img/178-07-004-lamp-net.webp#center|Lamp and Net]]
+![[Playe]]
 
 ### Lantern, Hooded (5 GP)
 
-A Hooded Lantern burns [[oil xphb|Oil]] as fuel to cast [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+A Hooded Lantern burns [[Oil Xphb]] as fuel to cast [[Light Xphb]] in a 30-foot radius and [[Light Xphb]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
 
 ### Lock (10 GP)
 
-A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xphb|Thieves' Tools]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
+A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xphb (items)]] to pick this Lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
 
 ### Magnifying Glass (100 GP)
 
-A Magnifying Glass grants [[advantage xphb|Advantage]] on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+A Magnifying Glass grants [[Advantage Xphb]] on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
 
 ### Manacles (2 GP)
 
-As a [[actions#Utilize|Utilize]] action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [[conditions#Grappled|Grappled]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]] condition if you succeed on a DC 13 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check. While bound, a creature has [[disadvantage xphb|Disadvantage]] on attack rolls, and the creature is [[conditions#Restrained|Restrained]] if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check as an action. Bursting them requires a successful DC 25 Strength ([[skills#Athletics|Athletics]]) check as an action.
+As a [[actions#Utilize|Utilize]] action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [[conditions#Grappled|Grappled]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]] condition if you succeed on a DC 13 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check. While bound, a creature has [[Advantage Xphb]] on attack rolls, and the creature is [[conditions#Restrained|Restrained]] if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check as an action. Bursting them requires a successful DC 25 Strength ([[skills#Athletics|Athletics]]) check as an action.
 
-Each set of Manacles comes with a key. Without the key, a creature can use [[thieves-tools-xphb|Thieves' Tools]] to pick the Manacles' lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
+Each set of Manacles comes with a key. Without the key, a creature can use [[thieves-tools-xphb (items)]] to pick the Manacles' lock with a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check.
 
 ### Map (1 GP)
 
@@ -498,7 +498,7 @@ One sheet of Parchment can hold about 250 handwritten words.
 
 ### Perfume (5 GP)
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[advantage xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an [[indifferent-attitude-xphb|Indifferent]] Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[Advantage Xphb]] on Charisma ([[skills#Persuasion|Persuasion]]) checks made to influence an [[indifferent-attitude-xphb (variant-rules)]] Humanoid within 5 feet of yourself.
 
 ### Poison, Basic (100 GP)
 
@@ -506,7 +506,7 @@ As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up t
 
 ### Pole (5 CP)
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([[skills#Athletics|Athletics]]) check as part of a [[high-jump-xphb|High]] or [[long-jump-xphb|Long Jump]], you can use the Pole to vault, giving yourself [[advantage xphb|Advantage]] on the check.
+A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([[skills#Athletics|Athletics]]) check as part of a [[high-jump-xphb (variant-rules)]] or [[Long Jump Xphb]], you can use the Pole to vault, giving yourself [[Advantage Xphb]] on the check.
 
 ### Pot, Iron (2 GP)
 
@@ -522,19 +522,19 @@ A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
 ### Priest's Pack (33 GP)
 
-A Priest's Pack contains the following items: [[backpack xphb|Backpack]], [[blanket xphb|Blanket]], [[holy-water-xphb|Holy Water]], [[lamp xphb|Lamp]], 7 days of [[rations xphb|Rations]], [[robe xphb|Robe]], and [[tinderbox xphb|Tinderbox]].
+A Priest's Pack contains the following items: [[Backpack Xphb]], [[Blanket Xphb]], [[Holy Water Xphb]], [[lamp-xphb (items)]], 7 days of [[rations-xphb (items)]], [[robe-xphb (items)]], and [[Tinderbox Xphb]].
 
 ### Quiver (1 GP)
 
-A Quiver holds up to 20 [[arrows-20-xphb|Arrows]].
+A Quiver holds up to 20 [[arrows-20-xphb (items)]].
 
 ### Ram, Portable (4 GP)
 
-You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[advantage xphb|Advantage]] on this check.
+You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[Advantage Xphb]] on this check.
 
 ### Rations (5 SP)
 
-Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[[malnutrition xphb|Malnutrition]]" in the "rules glossary" for the risks of not eating.
+Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[[malnutrition-xphb (traps-hazards)]]" in the "rules glossary" for the risks of not eating.
 
 ### Robe (1 GP)
 
@@ -552,7 +552,7 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ### Scholar's Pack (40 GP)
 
-A Scholar's Pack contains the following items: [[backpack xphb|Backpack]], [[book xphb|Book]], [[ink xphb|Ink]], [[ink-pen-xphb|Ink Pen]], [[lamp xphb|Lamp]], 10 flasks of [[oil xphb|Oil]], 10 sheets of [[parchment xphb|Parchment]], and [[tinderbox xphb|Tinderbox]].
+A Scholar's Pack contains the following items: [[Backpack Xphb]], [[Book Xphb]], [[Blink Xphb]], [[ink-pen-xphb (items)]], [[lamp-xphb (items)]], 10 flasks of [[Oil Xphb]], 10 sheets of [[Parchment Xphb]], and [[Tinderbox Xphb]].
 
 ### Shovel (2 GP)
 
@@ -570,7 +570,7 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 ### Spikes, Iron (1 GP)
 
-Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you can use a blunt object, such as a [[light-hammer-xphb|Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[rope xphb|Rope]] or [[chain xphb|Chain]] to the Spike.
+Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you can use a blunt object, such as a [[hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope Xphb]] or [[Pact of the Chain Xphb]] to the Spike.
 
 ### Spyglass (1,000 GP)
 
@@ -586,11 +586,11 @@ A Tent sleeps up to two Small or Medium creatures.
 
 ### Tinderbox (5 SP)
 
-A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[candle xphb|Candle]], [[lamp xphb|Lamp]], Lantern, or [[torch xphb|Torch]]—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[Candle Xphb]], [[lamp-xphb (items)]], Lantern, or [[Torch Xphb]]—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
 
 ### Torch (1 CP)
 
-A Torch burns for 1 hour, casting [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet. When you take the [[actions#Attack|Attack]] action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+A Torch burns for 1 hour, casting [[Light Xphb]] in a 20-foot radius and [[Light Xphb]] for an additional 20 feet. When you take the [[actions#Attack|Attack]] action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 
 ### Vial (1 GP)
 
@@ -600,7 +600,7 @@ A Vial holds up to 4 ounces.
 
 ### Waterskin (2 SP)
 
-A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk [[dehydration xphb|dehydration]].
+A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk [[Dehydration Xphb]].
 
 ## Mounts and Vehicles
 
@@ -616,7 +616,7 @@ Barding is armor designed for a mount. Any type of armor on the "Armor table" in
 
 ### Saddles
 
-A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[advantage xphb|Advantage]] on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[Advantage Xphb]] on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
 ![[mounts-and-vehicles-mounts-and-other-animals-xphb|Mounts and Vehicles; Mounts and Other Animals]]
 
@@ -640,13 +640,13 @@ The table lists the number of Small and Medium passengers the ship can accommoda
 
 #### Damage Threshold
 
-If a vehicle has a [[damage-threshold-xphb|damage threshold]], it's noted in the table.
+If a vehicle has a [[damage-threshold-xphb (variant-rules)]], it's noted in the table.
 
 #### Ship Repair
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
-![[large-vehicles-airborne-and-waterborne-vehicles-xphb|Large Vehicles; Airborne and Waterborne Vehicles]]
+![[Large Vehicles Airborne and Waterborne]]
 
 ## Services
 
@@ -698,19 +698,19 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 
 Drivers or crew hired to conduct passengers to their destinations charge the rates on the Travel table, plus any tolls or additional expenses.
 
-![[travel xphb|Travel]]
+![[boon-of-dimensional-travel-xphb (feats)]]
 
 ### Hirelings
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, an artisan, a scribe, or the like. The pay shown on the Hirelings table is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for work that requires no particular proficiencies; they include laborers and porters.
 
-![[hirelings xphb|Hirelings]]
+![[hirelings-xphb (tables)]]
 
 ### Spellcasting
 
 Most settlements contain individuals who are willing to cast spells in exchange for payment. If a spell has expensive components, add the cost of those components to the cost listed in the Spellcasting Services table. The higher the level of a desired spell, the harder it is to find someone to cast it.
 
-![[spellcasting-services-xphb|Spellcasting Services]]
+![[Spellcasting Services Xphb]]
 
 ## Magic Items
 
@@ -720,11 +720,11 @@ Adventures hold the promise—but not a guarantee—of finding magic items. Hund
 
 Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
 
-The [[identify xphb|Identify]] spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [[short-rest-xphb|Short Rest]] while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+The [[identify-xphb (spells)]] spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [[short-rest-xphb|Short Rest]] while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [[ring-of-feather-falling-xdmg|Ring of Feather Falling]].
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [[Ring of Feather Falling Xdmg]].
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [[ring-of-swimming-xdmg|Ring of Swimming]], the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
+Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [[ring-of-swimming-xdmg (items)]], the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
 
 ### Attunement
 
@@ -736,7 +736,7 @@ Attuning to an item requires you to spend a [[short-rest-xphb|Short Rest]] focus
 
 #### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring-of-protection-xdmg|Ring of Protection]] at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring-of-protection-xdmg (items)]] at a time.
 
 #### Ending Attunement
 
@@ -754,11 +754,11 @@ You can't wear more than one of certain magic items. You can't normally wear mor
 
 #### Paired Items
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a [[boots-of-striding-and-springing-xdmg|Boot of Striding and Springing]] on one foot and a [[boots-of-elvenkind-xdmg|Boot of Elvenkind]] on the other foot gains no benefit from either.
+Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a [[Boots of Striding and Springing Xdmg]] on one foot and a [[Boots of Elvenkind Xdmg]] on the other foot gains no benefit from either.
 
 ## Crafting Equipment
 
-Using the rules below, characters can make nonmagical items, [[potion-of-healing-xdmg|Potions of Healing]], and [[spell-scroll-xdmg|Spell Scrolls]].
+Using the rules below, characters can make nonmagical items, [[Potion of Healing Xdmg]], and [[spell-scroll-xdmg (items)]].
 
 ### Crafting Nonmagical Items
 
@@ -784,11 +784,11 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 ### Brewing Potions of Healing
 
-A character who has proficiency with the Herbalism Kit can create a [[potion-of-healing-xdmg|Potion of Healing]]. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
+A character who has proficiency with the Herbalism Kit can create a [[Potion of Healing Xdmg]]. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
 
 ### Scribing Spell Scrolls
 
-A spellcaster can transfer a spell to a scroll and create a [[spell-scroll-xdmg|Spell Scroll]], using the rules below.
+A spellcaster can transfer a spell to a scroll and create a [[spell-scroll-xdmg (items)]], using the rules below.
 
 #### Time and Cost
 
@@ -796,7 +796,7 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 #### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the [[skills#Arcana|Arcana]] skill or with [[calligraphers-supplies-xphb|Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [[skills#Arcana|Arcana]] skill or with [[Calligraphers Supplies Xphb]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 #### Cantrips
 

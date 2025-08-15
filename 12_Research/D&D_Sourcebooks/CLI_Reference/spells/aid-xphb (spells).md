@@ -53,11 +53,11 @@ world: Both
 - **Components:** V, S, M (a strip of white cloth)
 - **Duration:** 8 hours
 
-Choose up to three creatures within range. Each target's [[hit-points-xphb|Hit Point]] maximum and current [[hit-points-xphb|Hit Points]] increase by 5 for the duration.
+Choose up to three creatures within range. Each target's [[hit-points-xphb (variant-rules)]] maximum and current [[hit-points-xphb (variant-rules)]] increase by 5 for the duration.
 
-**Using a Higher-Level Spell Slot.** Each target's [[hit-points-xphb|Hit Points]] increase by 5 for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** Each target's [[hit-points-xphb (variant-rules)]] increase by 5 for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Devotion)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[/03 Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[/03 Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 239. Available in the SRD and the Free Rules (2024)*
 
@@ -94,3 +94,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - A prisoner has gone missing and truth emerges
 - Strange dreams suggest a curse
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

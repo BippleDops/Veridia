@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-earth-xphb-elemental-spirit-earth-xphb.svg)
 
-# [[elemental spirit earth xphb|Elemental Spirit (Earth)]]
+# [[elemental]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock

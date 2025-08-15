@@ -1,5 +1,5 @@
 ---
-tags: ['lore']
+tags: ['[[Lore]]']
 ---
 
 # Runaway_Golem_Quest
@@ -22,7 +22,7 @@ The full nature of Runaway_Golem_Quest involves several interconnected component
 
 ## Context & Connections
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of Runaway_Golem_Quest trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -33,10 +33,10 @@ Connected to Runaway_Golem_Quest are various other important elements:
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view Runaway_Golem_Quest through their own cultural lenses:
+Different [[Groups]] view Runaway_Golem_Quest through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
@@ -110,7 +110,7 @@ The current state of Runaway_Golem_Quest:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How Runaway_Golem_Quest has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -147,7 +147,7 @@ Ways to incorporate Runaway_Golem_Quest into gameplay:
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -170,7 +170,7 @@ How to adjust for different games:
 Ways Runaway_Golem_Quest might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ## References
@@ -191,7 +191,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -216,4 +216,4 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #runaway_golem_quest
+*Tags*: [[#General]] #worldbuilding #runaway_golem_quest

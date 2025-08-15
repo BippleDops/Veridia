@@ -37,7 +37,7 @@ world: Both
 *Ring, uncommon*  
 ![](/03_Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
-While wearing this ring, you cast [[water walk xphb|Water Walk]] from it, targeting only yourself.
+While wearing this ring, you cast [[water-walk-xphb (spells)]] from it, targeting only yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
 

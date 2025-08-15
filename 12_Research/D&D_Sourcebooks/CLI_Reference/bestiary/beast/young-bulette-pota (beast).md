@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-bulette-pota-v1-young-bulette-pota.svg)
 
-# [[young bulette pota|Young Bulette]]
+# [[Young Bulette Pota]]
 *Source: Princes of the Apocalypse p. 139*  
 
 ```statblock

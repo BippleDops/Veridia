@@ -48,7 +48,7 @@ An orb is an etched crystal globe about 10 inches in diameter. When used, it gro
 
 While attuned to an orb, you can take a [[actions#Magic|Magic]] action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [[conditions#Charmed|Charmed]] condition on you for as long as you remain attuned to it.
 
-While you are [[conditions#Charmed|Charmed]] by the orb, you can't voluntarily end your [[attunement xphb|Attunement]] to it, and the orb casts [[suggestion xphb|Suggestion]] on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
+While you are [[conditions#Charmed|Charmed]] by the orb, you can't voluntarily end your [[attunement-xphb (variant-rules)]] to it, and the orb casts [[Suggestion Xphb]] on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -66,9 +66,9 @@ While you are [[conditions#Charmed|Charmed]] by the orb, you can't voluntarily e
 
 An Orb of Dragonkind has the following random properties:
 
-- 2 [[artifact properties minor beneficial properties xdmg|minor beneficial]] properties  
-- 1 [[artifact properties minor detrimental properties xdmg|minor detrimental]] property  
-- 1 [[artifact properties major detrimental properties xdmg|major detrimental]] property  
+- 2 [[artifact-properties-minor-beneficial-properties]] properties  
+- 1 [[Artifact Properties Minor Detrimental Properties Xdmg]] property  
+- 1 [[Artifact Properties Major Detrimental Properties Xdmg]] property  
 
 ## Spells
 
@@ -76,20 +76,20 @@ The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If y
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cure wounds xphb|Cure Wounds]] (level 9 version) | 4 |
-| [[daylight xphb|Daylight]] | 1 |
-| [[death ward xphb|Death Ward]] | 2 |
-| [[detect magic xphb|Detect Magic]] | 0 |
-| [[scrying xphb|Scrying]] (save DC 18) | 3 |
+| [[mass-cure-wounds-xphb (spells)]] (level 9 version) | 4 |
+| [[Light Xphb]] | 1 |
+| [[Death Ward Xphb]] | 2 |
+| [[detect-magic-xphb (spells)]] | 0 |
+| [[Scrying Xphb]] (save DC 18) | 3 |
 ^spell-charge-cost
 
 ## Call Dragons
 
-While you control the orb, you can take a [[actions#Magic|Magic]] action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [[hostile attitude xphb|Hostile]] toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+While you control the orb, you can take a [[actions#Magic|Magic]] action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [[Hostile Attitude Xphb]] toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
 ## Destroying an Orb
 
-An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [[disintegrate xphb|Disintegrate]] spell. Nothing else can harm it.
+An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [[Disintegrate Xphb]] spell. Nothing else can harm it.
 
 *Source: Dungeon Master's Guide (2024) p. 283. Available in the SRD (as "Dragon Orb") and the Free Rules (2024)*
 

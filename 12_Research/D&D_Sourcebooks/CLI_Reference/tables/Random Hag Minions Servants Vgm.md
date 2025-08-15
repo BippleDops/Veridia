@@ -40,14 +40,14 @@ world: Both
 
 | dice: d8 | Servant(s) |
 |----------|------------|
-| 1 | [[flameskull xmm|Flameskulls]] |
-| 2 | [[flesh golem xmm|Flesh Golems]] |
-| 3 | [[helmed horror xmm|Helmed Horrors]] |
-| 4 | [[animated rug of smothering xmm|Rug of Smothering]] |
-| 5 | [[scarecrow xmm|Scarecrows]] |
-| 6 | [[shadow mastiff alpha mpmm|Shadow Mastiffs]] |
-| 7 | `2d4` [[swarm of insects xmm|swarms of insects]] or [[swarm of rats xmm|swarms of rats]] |
-| 8 | [[yeth hound mpmm|Yeth Hounds]] |
+| 1 | [[flameskull-xmm (undead)]] |
+| 2 | [[flesh-golem-xmm (construct)]] |
+| 3 | [[Helmed Horror Xmm]] |
+| 4 | [[animated-rug-of-smothering-xmm (construct)]] |
+| 5 | [[scarecrow-xmm (construct)]] |
+| 6 | [[Shadow Mastiff Alpha Mpmm]] |
+| 7 | `2d4` [[swarm-of-insects-xmm (beast)]] or [[swarm-of-rats-xmm (beast)]] |
+| 8 | [[yeth-hound-mpmm (fey)]] |
 ^servants
 
 ## 🔧 Deep Evaluation Improvements

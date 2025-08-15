@@ -1,13 +1,13 @@
 ---
 
 title: The Memory Storm Fields
-type: Location
+type: [[location]]
 tags:
 - environmental-hazard
-- aquabyssos
+- [[Aquabyssos]]
 - memory-phenomena
 - status/complete
-- dangerous-region
+- dangerous-[[region]]
 - quest
 - content/location
 - temporal-distortion
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ improvements: 20
 
 ## Overview
 
-The Memory Storm Fields represent one of Aquabyssos's most mysterious and dangerous phenomena: vast regions where accumulated memories from millions of beings crystallize into reality-warping weather patterns. These temporal storms manifest as swirling maelstroms of liquid memory that can trap travelers in recursive loops of past events, force them to experience lifetimes of foreign memories, or completely rewrite their personal history. Unlike normal weather, Memory Storms respond to consciousness itself—becoming more intense and dangerous when they encounter minds full of strong memories or emotional trauma.
+The Memory Storm Fields represent one of Aquabyssos's most mysterious and dangerous phenomena: vast regions where accumulated memories from millions of beings crystallize into reality-warping weather patterns. These temporal storms manifest as swirling maelstroms of liquid memory that can trap travelers in recursive loops of past events, force them to experience life[[Time]]s of foreign memories, or completely rewrite their personal history. Unlike normal weather, Memory Storms respond to consciousness itself—becoming more intense and dangerous when they encounter minds full of strong memories or emotional trauma.
 
 ### Memory Storm Effects Table
 
@@ -117,18 +117,18 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 | 9-12 | Temporary personality change | 1 hour | WIS DC 16 |
 | 13-16 | Foreign language fluency | 8 hours | WIS DC 14 |
 | 17-18 | Complete memory replacement | Until dispelled | WIS DC 20 |
-| 19-20 | Temporal displacement | Variable | WIS DC 25 |
+| 19-20 | [[Temporal Displacement]] | Variable | WIS DC 25 |
 
-#### The Lost Expedition
+#### [[The Lost Expedition]]
 
 **Level**: 6-11  
 **Hook**: Research team disappeared in memory storm three weeks ago  
-**Investigation**: Track expedition through memory trail evidence  
+**Investigation**: Track expedition through memory trail [[Evidence]]  
 **Complication**: Team members scattered across different historical periods  
 **Challenge**: Navigate multiple memory zones while avoiding temporal displacement  
-**Resolution**: Rescue survivors while recovering critical research data
+**Resolution**: Rescue survivors while recovering critical research [[data]]
 
-#### The Memory Thief
+#### [[The [[Memory Thief]]]]
 
 **Level**: 8-13  
 **Hook**: Someone is artificially creating memory storms to steal specific memories  
@@ -144,7 +144,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 **Complexity**: Refugee's presence is causing temporal paradoxes  
 **Investigation**: Determine if refugee is real, illusion, or memory construct  
 **Choice**: Help refugee return to proper time or find place in current era  
-**Consequence**: Decision affects historical timeline and future developments
+**Consequence**: Decision affects historical [[Timeline]] and future developments
 
 #### The Memory War
 
@@ -155,7 +155,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 **Innovation**: Develop new defensive techniques against weaponized memory  
 **Resolution: Prevent escalation while addressing underlying political causes
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -166,7 +166,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 The Memory Storm Fields is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of The Memory Storm Fields as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Storm Fields.
 
@@ -174,7 +174,7 @@ Legends speak of The Memory Storm Fields as a nexus where past and present conve
 
 **Sights**: Colorful banners flutter in the breeze
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Incense mingles with the scent of exotic spices
 
@@ -190,6 +190,34 @@ The Memory Storm Fields is a notable location characterized by its unique featur
 ### Founding
 The Memory Storm Fields was established in the distant past, growing from humble beginnings to its current state.
 
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
+
 ## Current Events
 
 Ongoing situations affecting The Memory Storm Fields:
@@ -204,14 +232,14 @@ Ongoing situations affecting The Memory Storm Fields:
 
 - A prisoner has gone missing and chaos spreads
 - A noble needs help investigating before dawn
-- A map reveals a betrayal about the government
+- A [[map]] reveals a betrayal about the government
 
 ## Historical Timeline
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -221,7 +249,7 @@ Ongoing situations affecting The Memory Storm Fields:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -268,3 +296,40 @@ Ongoing situations affecting The Memory Storm Fields:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

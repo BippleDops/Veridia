@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nilbog-mpmm-nilbog-mpmm.svg)
 
-# [[nilbog mpmm|Nilbog]]
+# [[Nilbog Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -77,7 +77,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[[leather armor xphb|leather armor]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -111,8 +111,8 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
       \ next turn."
     "name": "Mocking Word"
   - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[mage hand xphb|mage hand]],\
-      \ [[tashas hideous laughter xphb|Tasha's hideous laughter]]"
+      \ ability (spell save DC 12):\n\nAt will: [[mage-hand-xphb (spells)]],\
+      \ [[Tashas Hideous Laughter Xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nilbog takes the [[actions#Disengage|Disengage]]\

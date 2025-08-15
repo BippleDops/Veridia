@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Location2
 
 ## Overview
-This topic is referenced in [[NPC_Template_1 (09_Templates)]] and other parts of the campaign.
+This topic is referenced in [[Npc]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[NPC_Template_1 (09_Templates)]]
+- Referenced by: [[Npc]]
 - Related topics in the same category
 
 ## Details

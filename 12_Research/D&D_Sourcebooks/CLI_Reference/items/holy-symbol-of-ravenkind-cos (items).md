@@ -57,7 +57,7 @@ The holy symbol has 10 charges for the following properties. It regains `1d6 + 4
 
 ## Hold Vampires
 
-As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[vampire spawn xmm|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[conditions#Paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
+As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[vampire-spawn-xmm (undead)]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[conditions#Paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
 
 ## Turn Undead
 

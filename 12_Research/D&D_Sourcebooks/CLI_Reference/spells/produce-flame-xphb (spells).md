@@ -45,13 +45,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet. The spell ends if you cast it again.
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[Light Xphb]] in a 20-foot radius and [[Light Xphb]] for an additional 20 feet. The spell ends if you cast it again.
 
 Until the spell ends, you can take a [[actions#Magic|Magic]] action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes `d8` Fire damage.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[list-spells-classes-druid|Druid]]; [[/03 Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03 Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 308. Available in the SRD and the Free Rules (2024)*
 
@@ -89,3 +89,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is searching for an heir for revenge
 - The authorities needs help stealing before the new moon
 - A merchant needs help investigating before winter
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[produce-flame-xphb (spells)-phb]]` in CLI_Reference/spells/

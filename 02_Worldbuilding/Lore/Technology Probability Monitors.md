@@ -1,7 +1,7 @@
 ---
 
-title: Technology Probability Monitors
-type: lore
+title: Technology [[Probability Monitors]]
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/Technology/Probability Monitors involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Technology/Probability Monitors trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -96,10 +96,10 @@ Connected to 02_Worldbuilding/Technology/Probability Monitors are various other 
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Technology/Probability Monitors through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Technology/Probability Monitors through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- Regional variations
+- [[region]]al variations
 - Conflicting perspectives
 
 ### Defining Features
@@ -165,7 +165,7 @@ The current state of 02_Worldbuilding/Technology/Probability Monitors:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Technology/Probability Monitors has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -198,7 +198,7 @@ Ways to incorporate 02_Worldbuilding/Technology/Probability Monitors into gamepl
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -219,7 +219,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Technology/Probability Monitors might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -238,7 +238,7 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[location]]s
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
@@ -261,7 +261,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/technology/probability-monitors
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/technology/probability-monitors
 
 ## Cultural Impact
 

@@ -43,7 +43,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkling-elder-mpmm-darkling-elder-mpmm.svg)
 
-# [[darkling elder mpmm|Darkling Elder]]
+# [[Darkling Elder Mpmm]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -70,7 +70,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[[studded leather armor xphb|studded leather armor]]"
+"ac_class": "[[studded-leather-armor-xphb (items)]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "3"
@@ -108,7 +108,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Scimitar"
-  - "desc": "The darkling elder casts [[darkness xphb|darkness]],\
+  - "desc": "The darkling elder casts [[darkness-xphb (variant-rules)]],\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Darkness (Recharges after a Short or Long Rest)"
 "source":

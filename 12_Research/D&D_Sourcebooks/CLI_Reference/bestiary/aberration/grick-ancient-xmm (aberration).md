@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grick-ancient-xmm-grick-ancient-xmm.svg)
 
-# [[grick ancient xmm|Grick Ancient]]
+# [[grick-ancient-xmm (aberration)]]
 *Source: Monster Manual (2024) p. 158*  
 
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.

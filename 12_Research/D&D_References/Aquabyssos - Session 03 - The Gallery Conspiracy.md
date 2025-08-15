@@ -106,7 +106,7 @@ The party awakens to find one member replaced by their reflection from an altern
 - Marina can "taste" the difference if present
 - Memory from yesterday's temporal overlap
 
-### Location: [[Party Quarters   Inverse Palace]]
+### Location: [[Party Quarters - Inverse Palace (D&D_References)]]
 **Atmosphere**: Morning light through water creates caustic patterns. Both versions of party member perfect except for subtle differences.
 
 ### Reflection Broker's Mark
@@ -129,7 +129,7 @@ Both versions' shadows:
 3. **Keep Both**: Complications but double resources
 4. **Switch Places**: Send original to other timeline
 
-### Location: [[Screaming Gardens   Songwood Grove]]
+### Location: [[garden]]
 **Atmosphere**: Crystallized trees made from screams, each one a drowning victim's last moment preserved forever.
 
 ### The Conductor

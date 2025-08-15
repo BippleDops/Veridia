@@ -33,7 +33,7 @@ world: Both
 # Bloodied
 *Source: Player's Handbook (2024) p. 362. Available in the SRD and the Free Rules (2024)* 
 
-A creature is Bloodied while it has half its [[hit points xphb|Hit Points]] or fewer remaining.
+A creature is Bloodied while it has half its [[hit-points-xphb (variant-rules)]] or fewer remaining.
 
 ## 🔧 Deep Evaluation Improvements
 

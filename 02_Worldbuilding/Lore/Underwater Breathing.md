@@ -1,7 +1,7 @@
 ---
 
 title: Underwater Breathing
-type: Lore
+type: [[Lore]]
 tags:
 - lore
 - aquabyssos
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -70,7 +70,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Evolution Improvements
 
@@ -96,7 +96,7 @@ improvements: 20
 
 Underwater Breathing represents the collective term for the sophisticated life support technologies that enable human habitation in [[Aquabyssos]]. These systems combine magical enhancement, biological adaptation, technological innovation, and environmental manipulation to allow citizens to breathe naturally in aquatic environments while maintaining the physiological functions necessary for normal human life.
 
-The technology encompasses personal breathing apparatus, city-wide atmospheric management, emergency life support systems, and biological enhancement procedures that work together to create breathable environments throughout the underwater city. These systems integrate closely with the [[Pressure Adaptation System]] to provide comprehensive life support that addresses both pressure and respiratory needs.
+The technology encompasses personal breathing apparatus, city-wide atmospheric management, [[Emergency Life Support]] systems, and [[Biological Enhancement Procedures]] that work together to create breathable environments throughout the underwater city. These systems integrate closely with the [[Pressure Adaptation System]] to provide comprehensive life support that addresses both pressure and respiratory needs.
 
 Modern underwater breathing systems have evolved far beyond simple air supply mechanisms to include oxygen extraction from seawater, carbon dioxide processing, atmospheric composition management, and emergency backup systems that ensure citizen survival even during major system failures. The technology has become so integral to daily life that most Aquabyssos citizens give it no more thought than surface dwellers consider breathing air.
 
@@ -145,7 +145,7 @@ Large-scale systems maintain breathable conditions throughout Aquabyssos, managi
 **District-Level Management:**
 Different areas of the city require specialized atmospheric conditions:
 
-- **Residential Districts**: Comfortable breathing environments optimized for daily living
+- **[[Residential Districts]]**: Comfortable breathing environments optimized for daily living
 - **Commercial Areas**: Flexible systems accommodating diverse business needs
 - **Industrial Zones**: Enhanced filtration protecting workers from manufacturing pollutants
 - **Medical Facilities**: Precise atmospheric control for healthcare applications
@@ -210,7 +210,7 @@ Underwater breathing systems require specialized resources sourced from various 
 - Limited availability of high-quality breathing crystals
 - Stringent safety standards for bio-compatible components
 - International dependencies for specialized materials
-- Environmental protection requirements affecting resource extraction
+- [[Environmental Protection]] requirements affecting resource extraction
 
 ### Personal System Installation
 
@@ -230,7 +230,7 @@ Breathing system installation follows established medical protocols:
 1. **Preparation Phase**: Patient preparation and surgical environment setup
 2. **Gill Graft Installation**: Surgical placement of organic breathing components
 3. **Lung Enhancement**: Magical augmentation of natural respiratory capacity
-4. **Neural Interface Connection**: Establishing control pathways for breathing mode switching
+4. **Neural Interface Connection**: Establishing control [[path]]ways for breathing mode switching
 5. **Integration Testing**: Verifying proper function of all system components
 6. **Recovery Monitoring**: Post-operative care ensuring successful system integration
 
@@ -254,7 +254,7 @@ Both personal and city-wide breathing systems require regular maintece to ensure
 - **Emergency Repair**: 24/7 support for breathing system malfunctions
 
 **City Infrastructure Maintece:**
-- **Continuous Monitoring**: Real-time surveillance of all atmospheric management systems
+- **Continuous Monitoring**: Real-[[Time]] surveillance of all atmospheric management systems
 - **Daily Preventive Service**: Routine maintece preventing system failures
 - **Weekly Deep Cleaning**: Comprehensive cleaning and filtration system maintece
 - **Monthly Safety Inspections**: Complete evaluation of system safety and performance
@@ -312,12 +312,12 @@ Transportation systems throughout Aquabyssos provide breathing support for trave
 - **Public Vehicle Breathing**: Atmospheric management in boats, submersibles, and other transport
 - **Terminal Facilities**: Breathing support in transportation hubs and waiting areas
 - **Tourist Services**: Breathing assistance for visitors unfamiliar with underwater systems
-- **Emergency Transport**: Medical vehicles with advanced breathing support capabilities
+- **Emergency Transport**: Medical [[Vehicles]] with advanced breathing support capabilities
 
 **Travel Considerations:**
 Movement between different areas requires breathing system coordination:
 
-- **Depth Changes**: Breathing adjustments for different pressure zones
+- **Depth Changes**: Breathing adjustments for different [[Pressure Zones]]
 - **Environmental Variations**: Adaptation to different water conditions and quality
 - **Emergency Situations**: Breathing support during transportation emergencies
 - **Extended Travel**: Long-distance breathing support for prolonged journeys
@@ -344,7 +344,7 @@ Biological integration can create health problems requiring immediate attention:
 - **Neural Integration Disorders**: Problems with breathing control nerve pathways
 - **Systemic Integration Failure**: Multiple system components failing simultaneously
 
-**Emergency Response Procedures:**
+**[[Emergency Response Procedures]]:**
 Breathing system failures require immediate action to prevent suffocation:
 
 1. **Automatic Emergency Mode**: System switches to backup breathing support
@@ -365,14 +365,14 @@ Large-scale failures could endanger entire populations:
 - **Natural Disasters**: Earthquakes or storms damaging breathing system components
 - **Sabotage or Attack**: Deliberate damage to critical breathing infrastructure
 
-**Crisis Management Protocols:**
+**[[Crisis Management]] Protocols:**
 Comprehensive emergency procedures address various breathing crisis scenarios:
 
 - **Emergency Shelter Activation**: Rapid deployment of backup breathing systems
 - **District Evacuation**: Organized movement to areas with functional breathing support
 - **Repair Team Mobilization**: Specialized crews trained in emergency breathing system repair
 - **Medical Crisis Response**: Mass treatment for breathing-related injuries and complications
-- **Communication Networks**: Emergency information systems for coordinating breathing crisis response
+- **[[Communication Networks]]**: Emergency information systems for coordinating breathing crisis response
 
 ### Environmental and Contamination Threats
 
@@ -391,7 +391,7 @@ Comprehensive protection systems address environmental threats:
 
 - **Contamination Detection**: Monitoring systems identifying breathing hazards
 - **Rapid Response**: Emergency procedures for containing and neutralizing threats
-- **Public Warning**: Communication systems alerting citizens to breathing dangers
+- **Public Warning**: [[Communication Systems]] alerting citizens to breathing dangers
 - **Alternative Life Support**: Backup breathing systems during environmental emergencies
 - **Decontamination**: Procedures for cleaning and restoring compromised breathing systems
 
@@ -400,7 +400,7 @@ Comprehensive protection systems address environmental threats:
 **Next-Generation Breathing Systems:**
 Ongoing research programs promise significant improvements to underwater breathing technology:
 
-**Current Research Initiatives:**
+**Current Research [[Initiative]]s:**
 - **Genetic Breathing Enhancement**: Biological modifications improving natural underwater breathing
 - **Magical Breathing Augmentation**: Advanced magical techniques enhancing respiratory efficiency
 - **Neural Interface Improvement**: Better brain control of breathing system functions
@@ -423,9 +423,9 @@ Cooperation with surface realm researchers offers mutual benefits for breathing 
 
 **Joint Development Projects:**
 - **Dual-Environment Breathing**: Systems supporting life in both water and air
-- **Reality Transition Support**: Breathing management during dimensional travel
+- **Reality Transition Support**: Breathing management during [[Dimensional Travel]]
 - **Emergency Cross-Realm Evacuation**: Breathing support for mass population movement
-- **Cultural Exchange Programs**: Breathing technology sharing between realms
+- **[[[[Cultural Exchange]] Programs]]**: Breathing technology sharing between realms
 - **Convergence Preparation**: Breathing systems designed for merged reality environment
 
 ### Medical and Therapeutic Applications
@@ -447,7 +447,7 @@ Breathing technology creates numerous business possibilities:
 
 **Commercial Applications:**
 - **Tourism Industry**: Breathing systems supporting surface visitor adaptation
-- **Export Markets**: International trade in breathing technology and equipment
+- **Export Markets**: [[International Trade]] in breathing technology and equipment
 - **Technology Licensing**: Sharing breathing innovations with other underwater civilizations
 - **Service Industries**: Businesses supporting breathing-related needs
 - **Emergency Services**: Private companies providing breathing system assistance
@@ -463,7 +463,7 @@ Underwater breathing works closely with other life support systems:
 - **[[The Deep Harvest]]**: Economic activities dependent on breathing-adapted workers
 - **[[Depth Effect Quick Reference]]**: Medical monitoring of breathing and pressure interactions
 
-### Professional Networks and Organizations
+### Professional Networks and [[Organization]]s
 
 **Supporting Institutions:**
 Various organizations support underwater breathing technology:
@@ -481,7 +481,7 @@ Multiple organizations contribute to breathing technology advancement:
 
 - **[[Aquabyssos Medical University]]**: Academic research and medical training programs
 - **[[Respiratory Sciences Research Institute]]**: Advanced studies in breathing and life support technology
-- **[[Bio Integration Laboratory]]**: Specialized research in biological breathing system integration
+- **[[laboratory]]**: Specialized research in biological breathing system integration
 - **[[International Breathing Technology Consortium]]**: Global cooperation on breathing innovations
 - **[[Emergency Life Support Research Foundation]]**: Crisis response and medical treatment advancement
 
@@ -540,11 +540,11 @@ Underwater Breathing is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Underwater Breathing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Underwater Breathing.
 
-## DM Notes
+## [[DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -567,12 +567,12 @@ Mentioned in The Hidden Prophecy of Winds
 - A shipment has gone missing and truth emerges
 - A document has gone missing and truth emerges
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -582,4 +582,4 @@ Mentioned in The Hidden Prophecy of Winds
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established

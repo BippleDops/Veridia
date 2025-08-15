@@ -5,19 +5,19 @@ tags:
 - npc
 created: '2025-01-15'
 modified: '2025-01-15'
----
+- --
 
 # NPC_Generator
 
 ## Portrait
 
-![[portrait_npc_generator.png]]
+![[Npc]]
 
-*Portrait reference for NPC_Generator*
+* Portrait reference for NPC_Generator*
 
 ## Description
 
-*[Add detailed physical appearance and personality traits here]*
+* [Add detailed physical appearance and personality traits here]*
 
 ## Personality
 - **Traits**: *[Key character traits]*
@@ -29,7 +29,7 @@ modified: '2025-01-15'
 - **Speaking Style**: *[How they talk and express themselves]*
 - **Mannerisms**: *[Distinctive habits or behaviors]*
 
----
+- --
 title: NPC Generator
 type: Lore
 tags:
@@ -42,11 +42,11 @@ modified: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:35.191831+00:00'
----
+- --
 
 ## 🔧 Deep Evaluation Improvements
 
-*20 targeted improvements identified*
+* 20 targeted improvements identified*
 
 ### Connection Improvements
 
@@ -119,3 +119,14 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+
+## See Also
+- Related content
+- Similar topics
+- Connected elements
+
+## Alternate Descriptions
+- **First Impression**: Initial appearance
+- **Closer Look**: Detailed examination
+- **Hidden Details**: Secret aspects

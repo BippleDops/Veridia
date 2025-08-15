@@ -1,7 +1,7 @@
 ---
 
 title: Elder Matthias Stoneward
-type: Location
+type: [[location]]
 tags:
 - dwarf
 - aerial
@@ -9,9 +9,9 @@ tags:
 - status/complete
 - quest
 - content/location
-- content/npc
+- content/[[Npc]]
 - place
-- world/aethermoor
+- world/[[Aethermoor]]
 - active
 - elder
 - complete
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: Unknown
+[[region]]: Unknown
 population: Unknown
 MyCategory: NPC
 MyContainer: None
@@ -42,7 +42,7 @@ improvements: 20
 
 # Elder Matthias Stoneward
 
-*"The crystal gardens may shine with ethereal beauty, but it's stone and steel that keep this floating realm from tumbling into the void. Pretty magic fades - good engineering endures."*
+*"The [[Crystal Garden]]s may shine with ethereal beauty, but it's stone and steel that keep this floating realm from tumbling into the void. Pretty magic fades - good engineering endures."*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,9 +104,9 @@ improvements: 20
 
 Elder Matthias Stoneward is Aethermoor's chief structural engineer, responsible for maintaining the complex systems that keep the floating island stable in the sky. A mountain dwarf who adapted his traditional stone-working skills to the unique challenges of aerial construction, he oversees everything from the massive crystal anchors that provide lift to the intricate networks of pipes and supports that distribute weight throughout the island.
 
-Stoneward has served Aethermoor for over thirty-five years, earning his "Elder" title through both experience and the grudging respect of his peers who initially doubted a dwarf's ability to work in an aerial environment. His engineering expertise has become essential as the island's crystal corruption spreads, requiring constant structural adaptations to maintain stability.
+Stoneward has served Aethermoor for over thirty-five years, earning his "Elder" title through both experience and the grudging respect of his peers who initially doubted a dwarf's ability to work in an aerial environment. His engineering expertise has become essential as the island's [[Crystal Corruption]] spreads, requiring constant structural adaptations to maintain stability.
 
-As the Silverscale Conspiracy's influence grows, Stoneward finds himself caught between his duty to maintain the island's infrastructure and growing suspicions about who is really controlling Aethermoor's destiny.
+As [[The Silverscale Conspiracy]]'s influence grows, Stoneward finds himself caught between his duty to maintain the island's infrastructure and growing suspicions about who is really controlling Aethermoor's destiny.
 
 ## Appearance
 
@@ -139,11 +139,11 @@ He wears practical leather work clothes reinforced with crystal-woven fabric tha
 
 **Multiattack.** Matthias makes two attacks with his crystal-enhanced hammer.
 
-**Crystal-Forged Warhammer +1.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) bludgeoning damage plus 4 (1d8) force damage from embedded crystals.
+**Crystal-Forged Warhammer +1.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) bludgeoning damage plus 4 (1d8) force damage from [[Embed]]ded crystals.
 
-**Emergency Protocols (1/day).** Matthias can activate emergency systems in a 60-foot radius, creating walls of force, adjusting local gravity, or providing temporary structural support to damaged areas.
+**[[Emergency Protocol]]s (1/day).** Matthias can activate emergency systems in a 60-foot radius, creating walls of force, adjusting local gravity, or providing temporary structural support to damaged areas.
 
-**Crystal Resoce (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing 2d8 HP to crystal-based creatures) or disrupt hostile crystal magic (dispel magic effect).
+**Crystal Resoce (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing 2d8 HP to crystal-based creatures) or disrupt hostile [[Crystal Magic]] (dispel magic effect).
 
 ### Legendary Actions (3 per turn, when in engineering areas)
 
@@ -155,7 +155,7 @@ He wears practical leather work clothes reinforced with crystal-woven fabric tha
 
 Matthias arrived in Aethermoor thirty-five years ago as part of a diplomatic exchange between the mountain dwarf kingdoms and the floating realm. Initially viewed with suspicion by those who doubted a dwarf could adapt to aerial engineering, he quickly proved himself by solving critical stability issues that had plagued the island for decades.
 
-His innovative fusion of traditional dwarven engineering with Aethermoor's crystal technology revolutionized the island's infrastructure. He developed new techniques for working with living crystals, created hybrid support systems that combined stone with crystalline matrices, and established safety protocols that have prevented numerous catastrophic failures.
+His innovative fusion of traditional dwarven engineering with Aethermoor's [[Crystal Technology]] revolutionized the island's infrastructure. He developed new techniques for working with living crystals, created hybrid support systems that combined stone with crystalline matrices, and established safety protocols that have prevented numerous catastrophic failures.
 
 Throughout his career, he has maintained detailed records of every modification made to the island's structure, creating an invaluable archive of engineering knowledge that only he fully understands.
 
@@ -167,18 +167,18 @@ He's been conducting discrete investigations while maintaining his regular dutie
 
 ## Quest Hooks
 
-1. Matthias approaches the party after discovering sabotage to critical systems, needing discrete investigators who aren't part of the official power structure.
+1. Matthias approaches [[The Party]] after discovering sabotage to critical systems, needing discrete investigators who aren't part of the official power structure.
 2. The party needs access to restricted areas of Aethermoor, and Matthias can provide passage through maintece tunnels in exchange for help with his investigation.
 3. A critical system failure threatens the island's stability, requiring the party to assist Matthias with dangerous repairs while avoiding those who might want the island to fall.
 
-### Key Locations
+### [[Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM Notes]]
 
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
 
@@ -186,7 +186,7 @@ Matthias serves as a valuable source of information about Aethermoor's hidden ar
 
 Elder Matthias Stoneward is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore]] Details
 
 Legends speak of Elder Matthias Stoneward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Elder Matthias Stoneward.
 
@@ -200,7 +200,7 @@ nriched: true -->
 
 **Sights**: The architecture features sweeping arches and ornate carvings
 
-**Sounds**: Merchants hawk their wares with practiced calls
+**Sounds**: [[Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Incense mingles with the scent of exotic spices
 
@@ -212,6 +212,34 @@ Elder Matthias Stoneward is a notable location characterized by its unique featu
 **Size**: Appropriate to location type
 **Population**: Varies by type
 **Goverce**: Local authority structure
+
+
+## Demographics
+- **Population**: ~1,000
+- **Races**: Diverse mix
+- **Primary Industry**: Trade and crafts
+- **Wealth Level**: Moderate
+
+
+## Notable Locations
+- **Town Square**: Central gathering place
+- **Market District**: Commerce hub
+- **Temple Quarter**: Religious center
+- **Residential Areas**: Living quarters
+
+
+## Connections
+- **North**: Trade road to neighboring settlement
+- **South**: [[path]] through wilderness
+- **East**: River crossing
+- **West**: Mountain pass
+
+
+## Government
+- **Type**: Local council
+- **Leader**: Elected official
+- **Law Enforcement**: Town guard
+- **Justice System**: Local magistrate
 
 ## Current Events
 
@@ -230,12 +258,12 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - A stranger needs help delivering before the festival
 - Strange sightings suggest ancient magic
 
-## Historical Timeline
+## Historical [[[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -245,7 +273,7 @@ Ongoing situations affecting Elder Matthias Stoneward:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established
 
 ## Cultural Practices
 
@@ -276,3 +304,40 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+## Climate & Weather
+- **Typical Weather**: Common conditions
+- **Seasonal Changes**: Throughout the year
+
+## Local Customs
+- **Traditions**: Cultural practices
+- **Taboos**: Things to avoid
+
+## Resources
+- **Natural**: Available materials
+- **Manufactured**: Produced goods
+
+## Threats
+- **External**: Outside dangers
+- **Internal**: Local problems
+
+## Rumors & Legends
+- **Common Tales**: Stories everyone knows
+- **Hidden Truths**: Secret knowledge
+
+## Services Available
+- **Shops**: Commercial establishments
+- **Services**: Professional offerings
+
+## Law & Order
+- **Laws**: Local regulations
+- **Enforcement**: How rules are upheld
+
+## Architecture
+- **Building Style**: Common structures
+- **Notable Features**: Unique elements
+
+## Daily Life
+- **Typical Day**: Common activities
+- **Special Events**: Celebrations and gatherings

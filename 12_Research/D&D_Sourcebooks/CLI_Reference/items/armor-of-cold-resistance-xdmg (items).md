@@ -50,7 +50,7 @@ world: Both
 # Armor of Cold Resistance
 *Rare (requires attunement)*  
 
-You have [[resistance xphb|Resistance]] to cold damage while you wear this armor.
+You have [[boon-of-energy-resistance-xphb (feats)]] to cold damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Cold Resistance](#Breastplate%20of%20Cold%20Resistance)

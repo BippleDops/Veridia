@@ -41,52 +41,52 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | `d4` [[venomous-snake-xmm|poisonous snakes]] |
-| 02-05 | `3d6` [[rat xmm|rats]] |
-| 06-10 | `2d8` [[raven xmm|ravens]] |
+| 02-05 | `3d6` [[Wererat Xmm]] |
+| 06-10 | `2d8` [[Raven Xmm]] |
 | 11-12 | `3d6` [[giant-rat-xmm|giant rats]] |
-| 13 | `1d10 + 5` [[/03 Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
+| 13 | `1d10 + 5` [[Bestiary]] |
 | 14-15 | `1d8 + 1` [[giant-lizard-xmm|giant lizards]] |
-| 16-17 | 1 [[crocodile xmm|crocodile]] |
+| 16-17 | 1 [[Crocodile Xmm]] |
 | 18-19 | 1 [[swarm-of-insects-xmm|swarm of insects]] |
 | 20 | 1 [[giant-spider-xmm|giant spider]] |
 | 21-22 | `1d4 + 1` mud huts partially sunken in murky water |
 | 23-25 | `2d8 + 1` [[kobold-warrior-xmm|kobolds]] |
-| 26 | `2d4` [[mud-mephit-xmm|mud mephits]] |
+| 26 | `2d4` [[Mud Mephit Xmm]] |
 | 27-29 | `1d6 + 2` [[giant-venomous-snake-xmm|giant poisonous snakes]] |
 | 30 | `2d4` [[winged-kobold-xmm|winged kobolds]] |
-| 31-32 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|scout]] |
-| 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an [[explorers-pack-xphb|explorer's pack]] and perhaps (50% chance) a random common magic item. |
+| 31-32 | 1 [[Bestiary]] |
+| 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an [[Explorers Pack Xphb]] and perhaps (50% chance) a random common magic item. |
 | 35-38 | 1 [[giant-toad-xmm|giant toad]] |
 | 39-41 | `1d6 + 2` [[constrictor-snake-xmm|constrictor snakes]] |
 | 42-44 | `2d4` [[giant-frog-xmm|giant frogs]] |
-| 45 | `1d8 + 1` [[swarm-of-rats-xmm|swarms of rats]] or `1d6 + 2` [[swarm-of-ravens-xmm|swarms of ravens]] |
-| 46-48 | `2d10` [[stirge xmm|stirges]] |
-| 49-52 | `2d6 + 3` [[bullywug-warrior-xmm|bullywugs]] |
-| 53-54 | `1d8 + 1` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
-| 55-56 | `d4` [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 57 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/druid xmm|druid]] |
-| 58-59 | 1 yuan-ti malison: [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
+| 45 | `1d8 + 1` [[swarm-of-rats-xmm (beast)]] or `1d6 + 2` [[swarm-of-ravens-xmm|swarms of ravens]] |
+| 46-48 | `2d10` [[Stirge Xmm]] |
+| 49-52 | `2d6 + 3` [[bullywug-warrior-xmm (fey)]] |
+| 53-54 | `1d8 + 1` [[Bestiary]] |
+| 55-56 | `d4` [[Bestiary]] |
+| 57 | 1 [[Bestiary]] |
+| 58-59 | 1 yuan-ti malison: [[Bestiary]], [[Bestiary]], [[Bestiary]] |
 | 60-62 | 1 [[giant-constrictor-snake-xmm|giant constrictor snake]] |
 | 63-64 | A high-pitched shriek that lasts for `d4` minutes |
-| 65-67 | `2d4` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
-| 68-69 | `d4` [[ghoul xmm|ghouls]] |
+| 65-67 | `2d4` [[Bestiary]] |
+| 68-69 | `d4` [[ghoul-xmm (undead)]] |
 | 70-71 | 1 [[will-o-wisp-xmm|will-o'-wisp]] |
-| 72 | 1 [[wight xmm|wight]] |
-| 73 | 1 [[ghast xmm|ghast]] |
+| 72 | 1 [[Wight Xmm]] |
+| 73 | 1 [[ghast-xmm (undead)]] |
 | 74-75 | 1 [[swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]] |
 | 76-77 | A foul stench bubbling up from brackish waters |
-| 78-80 | `1d4 + 2` [[ogre xmm|ogres]] |
+| 78-80 | `1d4 + 2` [[Ogre Xmm]] |
 | 81-83 | 1 [[shambling-mound-xmm|shambling mound]] |
-| 84-86 | 1 [[lizardfolk-geomancer-xmm|lizardfolk shaman]] with `d6` [[giant-lizard-xmm|giant lizards]] and `2d10` [[/03 Mechanics/CLI/bestiary/humanoid/scout xmm|lizardfolk]] |
-| 87 | 1 [[troll xmm|troll]] |
+| 84-86 | 1 [[Lizardfolk Geomancer Xmm]] with `d6` [[giant-lizard-xmm|giant lizards]] and `2d10` [[Bestiary]] |
+| 87 | 1 [[Troll Xmm]] |
 | 88-89 | `d4` [[green-hag-xmm|green hags]] |
 | 90-91 | 1 [[revet xmm|revet]] |
 | 92-93 | 1 [[giant-crocodile-xmm|giant crocodile]] |
-| 94-95 | 1 [[/03 Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d3` [[/03 Mechanics/CLI/bestiary/humanoid/berserker xmm|orogs]] and `2d6 + 3` [[/03 Mechanics/CLI/bestiary/humanoid/tough xmm|orcs]] |
+| 94-95 | 1 [[Bestiary]] with `d3` [[Bestiary]] and `2d6 + 3` [[Bestiary]] |
 | 96-97 | 1 [[young-black-dragon-xmm|young black dragon]] |
-| 98 | 1 [[/03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] |
+| 98 | 1 [[Bestiary]] |
 | 99 | `d4` [[water-elemental-xmm|water elementals]] |
-| 00 | 1 [[hydra xmm|hydra]] |
+| 00 | 1 [[Hydra Xmm]] |
 ^swamp-encounters-levels-14
 
 ## 🔧 Deep Evaluation Improvements
@@ -134,3 +134,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Scaling by Party Level
+- **Level 1-4**: Reduce enemies
+- **Level 5-10**: Standard difficulty
+- **Level 11-15**: Add elite enemies
+- **Level 16-20**: Legendary difficulty

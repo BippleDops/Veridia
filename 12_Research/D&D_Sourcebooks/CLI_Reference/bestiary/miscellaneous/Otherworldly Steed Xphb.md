@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-xphb-otherworldly-steed-xphb.svg)
 
-# [[otherworldly steed xphb|Otherworldly Steed]]
+# [[otherworldly-steed-xphb (miscellaneous)]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock

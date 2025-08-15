@@ -38,10 +38,10 @@ danger_level: 8
 date: 
 duration_hours: 4
 encounters:
-- '[[02 Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal]]
+- '[[The Crystal Guard Elite]]
   Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
-- '[[Throne Room   Heart of Palace]]'
+- '[[Throne Room - Heart of Palace (D&D_References)]]'
 gold_gained: 0
 items_gained:
 - Royal Seal of Authority
@@ -124,7 +124,7 @@ Deeper sections partially flooded:
 - **Aquabyssos Bleed-Through**: Glimpses of underwater palace
 - **Ancient Whispers**: WIS save DC 14 or hear the Drowned calling
 
-### Location: [[Palace Courtyard   Crystal Garden]]
+### Location: [[garden]]
 **Transformation**: Royal gardens now forest of living crystal, nobles wandering in synchronized patterns.
 
 ### Stealth Challenge
@@ -148,7 +148,7 @@ Center of garden:
 - Touching water: CON save DC 16 or gain 1d3 corruption
 - Hidden beneath: Royal signet ring (bypasses throne room wards)
 
-### Location: [[Throne Room   Heart of Palace]]
+### Location: [[Throne Room - Heart of Palace (D&D_References)]]
 **Transformation**: Massive crystal growing from throne, reality fractures showing glimpses of Aquabyssos.
 
 ### Witnessing the Pre-Ritual

@@ -53,11 +53,11 @@ A target's astral form resembles its body in almost every way, replicating its g
 
 A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
 
-Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 [[hit-points-xphb|Hit Points]], the spell ends for that target. The spell ends for all the targets if you take a [[actions#Magic|Magic]] action to dismiss it.
+Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 [[hit-points-xphb (variant-rules)]], the spell ends for that target. The spell ends for all the targets if you take a [[actions#Magic|Magic]] action to dismiss it.
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes**: [[list-spells-classes-monk|Monk]]; [[list-spells-classes-warlock|Warlock]]; [[/03 Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [[List Spells Classes Monk]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 243. Available in the SRD and the Free Rules (2024)*
 

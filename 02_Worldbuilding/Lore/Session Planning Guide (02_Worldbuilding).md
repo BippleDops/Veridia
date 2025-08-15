@@ -1,10 +1,10 @@
 ---
 
-title: Session Planning Guide
-type: Lore
+title: [[Session Planning Guide]]
+type: [[Lore]]
 tags:
 - lore
-- aquabyssos
+- [[Aquabyssos]]
 - dm-tools
 - aquatic
 - campaign-management
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ improvements: 20
 
 ## Overview
 
-The Session Planning Guide provides dungeon masters with frameworks and tools for organizing adventures in the complex dual-realm setting. This guide addresses the unique challenges of managing sessions that may span both Aquabyssos and Aethermoor, including travel logistics, cultural transitions, and the integration of both surface and underwater elements.
+The Session Planning Guide provides dungeon masters with frameworks and tools for organizing adventures in the complex dual-realm setting. This guide addresses the unique challenges of managing sessions that may span both Aquabyssos and [[Aethermoor]], including travel logistics, cultural transitions, and the integration of both surface and underwater elements.
 
 ### Duration
 
@@ -108,11 +108,11 @@ Session Planning Guide is a undersea element of the setting, known for biolumine
 
 Legends speak of Session Planning Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session Planning Guide.
 
-## DM Notes
+## [[DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

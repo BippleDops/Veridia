@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-troll-rot-ice-troll-rot.svg)
 
-# [[ice troll rot|Ice Troll]]
+# [[ice-troll-rot (giant)]]
 *Source: The Rise of Tiamat p. 30*  
 
 ```statblock

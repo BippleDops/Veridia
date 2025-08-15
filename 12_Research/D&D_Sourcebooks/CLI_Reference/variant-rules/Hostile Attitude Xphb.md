@@ -34,7 +34,7 @@ world: Both
 # Hostile [Attitude]
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-A Hostile creature views you unfavorably. You have [[disadvantage xphb|Disadvantage]] on an ability check to influence a Hostile creature.
+A Hostile creature views you unfavorably. You have [[Advantage Xphb]] on an ability check to influence a Hostile creature.
 
 ## 🔧 Deep Evaluation Improvements
 

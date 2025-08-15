@@ -28,7 +28,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Inter Realm Council Chambers]]'
+headquarters: '[[The Inter-Realm Council Chambers]]'
 world: Both Aethermoor & Aquabyssos
 faction_type: Cross-Realm Political Movement
 alignment: Lawful Good (Democratic Representation)
@@ -183,10 +183,10 @@ The organization's headquarters spans both realms through magical transportation
 - [[The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 
 **Key Locations**:
-- [[The Inter Realm Council Chambers]]
-- [[Cross Realm Campaign Offices]]
+- [[The Inter-Realm Council Chambers]]
+- [[Cross-Realm Campaign Offices]]
 - [[Shadow Community Political Centers]]
-- [[Inter Realm Communication Networks]]
+- [[Communication Networks]]
 
 **Notable NPCs**:
 - [[Campaign Director Umbra Bridgeworth]]
@@ -196,9 +196,9 @@ The organization's headquarters spans both realms through magical transportation
 
 **Important Concepts**:
 - [[Shadow Political Representation]]
-- [[Cross Realm Democracy]]
+- [[Cross-Realm Democracy]]
 - [[Shadow Civil Rights Movement]]
-- [[Inter Realm Political Institutions]]
+- [[Inter-Realm Political Institutions]]
 - [[Shadow Community Political Power]]
 
 ## Player-Facing Summary

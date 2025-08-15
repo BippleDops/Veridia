@@ -33,9 +33,9 @@ world: Both
 # Jumping
 *Source: Player's Handbook (2024) p. 370. Available in the SRD and the Free Rules (2024)* 
 
-When you jump, you make either a [[long jump xphb|Long Jump]] (horizontal) or a [[high jump xphb|High Jump]] (vertical).
+When you jump, you make either a [[Long Jump Xphb]] (horizontal) or a [[high-jump-xphb (variant-rules)]] (vertical).
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
+[[DnD5e-SideScreen-2024]]
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -42,7 +42,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-xmm-air-elemental-xmm.svg)
 
-# [[air elemental xmm|Air Elemental]]
+# [[elemental]]
 *Source: Monster Manual (2024) p. 13. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

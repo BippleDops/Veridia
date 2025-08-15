@@ -33,7 +33,7 @@ world: Both
 # Hover
 *Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
-Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while [[flying xphb|flying]] prevents you from falling in certain circumstances.
+Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while [[Flying Xphb]] prevents you from falling in certain circumstances.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -1,7 +1,7 @@
 ---
 
-title: Locations Crystal Conservatory
-type: lore
+title: [[location]]s Crystal Conservatory
+type: [[Lore]]
 tags:
 - lore
 - active
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other regions
+- Describe how this culture exists in other [[region]]s
 
 ### Contradictions Improvements
 
@@ -81,7 +81,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 02_Worldbuilding/Locations/Crystal Conservatory involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### Historical Context
+### [[Historical Context]]
 The origins and development of 02_Worldbuilding/Locations/Crystal Conservatory trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -92,7 +92,7 @@ Connected to 02_Worldbuilding/Locations/Crystal Conservatory are various other i
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different groups view 02_Worldbuilding/Locations/Crystal Conservatory through their own cultural lenses:
+Different [[Groups]] view 02_Worldbuilding/Locations/Crystal Conservatory through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -161,7 +161,7 @@ The current state of 02_Worldbuilding/Locations/Crystal Conservatory:
 - Current holders or guardians
 - Present threats or opportunities
 
-### Recent Events
+### [[Recent Events]]
 How 02_Worldbuilding/Locations/Crystal Conservatory has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -194,7 +194,7 @@ Ways to incorporate 02_Worldbuilding/Locations/Crystal Conservatory into gamepla
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- Time requirements
+- [[Time]] requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -215,7 +215,7 @@ How to adjust for different games:
 Ways 02_Worldbuilding/Locations/Crystal Conservatory might evolve:
 - Through player action
 - Via story progression
-- Based on world events
+- Based on [[World Events]]
 - Through discovery
 
 ### Sources
@@ -257,7 +257,7 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: #general #worldbuilding #02_worldbuilding/locations/crystal-conservatory
+*Tags*: [[#General]] #worldbuilding #02_worldbuilding/locations/crystal-conservatory
 
 ## Cultural Impact
 
@@ -270,14 +270,14 @@ Mentioned in The Hidden Prophecy of Winds
 ## Plot Hooks
 
 - Strange disappearances suggest ancient magic
-- A merchant needs help delivering before dawn
+- A [[Merchant]] needs help delivering before dawn
 
-## Historical Timeline
+## Historical [[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous peoples
+- War with indigenous [[People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -287,4 +287,4 @@ Mentioned in The Hidden Prophecy of Winds
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures]] established

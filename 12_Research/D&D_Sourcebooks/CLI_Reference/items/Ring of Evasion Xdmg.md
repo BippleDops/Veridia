@@ -37,7 +37,7 @@ world: Both
 *Ring, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-evasion.webp#right)
 
-This ring has 3 charges, and it regains `d3` expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a [[reaction xphb|Reaction]] to expend 1 charge to succeed on that save instead.
+This ring has 3 charges, and it regains `d3` expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a [[reaction-xphb (variant-rules)]] to expend 1 charge to succeed on that save instead.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
 

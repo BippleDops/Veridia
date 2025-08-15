@@ -57,10 +57,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Relationships
 
-- **Student**: [[Assets Art Forge Master Petra Hammerdeep.png]]
-- **Creditor**: [[Portrait NPC Harbor Master Luna Freedrift V2 Harbor Master Luna Freedrift.svg]]
-- **Debtor**: [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
-- **Mentor**: [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg]]
+- **Student**: [[Forge Master Petra Hammerdeep]]
+- **Creditor**: [[Npc]]
+- **Debtor**: [[Ambassador Korvin Blacktide]]
+- **Mentor**: [[Npc]]
 
 ## Plot Hooks
 

@@ -112,7 +112,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage\
       \ plus 7 (2d6) Poison damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[Area of Effect Xphb]].\
       \ Failure: 42 (12d6) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 5-6)"
 "source":

@@ -40,17 +40,17 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[armor of invulnerability xdmg|Armor of Invulnerability]] |
-| 09–18 | [[3 armor xdmg|Armor, +3]] |
-| 19–27 | [[enspelled staff xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
-| 28–36 | [[holy avenger xdmg|Holy Avenger]] |
-| 37–45 | [[horn of valhalla iron xdmg|Horn of Valhalla (iron)]] |
-| 46–54 | [[rod of resurrection xdmg|Rod of Resurrection]] |
-| 55–63 | [[scarab of protection xdmg|Scarab of Protection]] |
-| 64–72 | [[scroll of titan summoning xdmg|Scroll of Titan Summoning]] |
-| 73–80 | [[spell scroll xdmg|Spell Scroll]] ([[spell scroll level 9 xdmg|level 9]] spell) |
-| 81–90 | [[talisman of pure good xdmg|Talisman of Pure Good]] |
-| 91–00 | [[talisman of ultimate evil xdmg|Talisman of Ultimate Evil]] |
+| 01–08 | [[armor-of-invulnerability-xdmg (items)]] |
+| 09–18 | [[3 Armor Xdmg]] |
+| 19–27 | [[enspelled-staff-xdmg (items)]] (level 6, 7, or 8 spell) |
+| 28–36 | [[Holy Avenger Xdmg]] |
+| 37–45 | [[Iron Xdmg]] |
+| 46–54 | [[Rod of Resurrection Xdmg]] |
+| 55–63 | [[scarab-of-protection-xdmg (items)]] |
+| 64–72 | [[scroll-of-titan-summoning-xdmg (items)]] |
+| 73–80 | [[spell-scroll-xdmg (items)]] ([[Spell Scroll Level 9 Xdmg]] spell) |
+| 81–90 | [[talisman-of-pure-good-xdmg (items)]] |
+| 91–00 | [[talisman-of-ultimate-evil-xdmg (items)]] |
 ^relics-legendary
 
 ## 🔧 Deep Evaluation Improvements

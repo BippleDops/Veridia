@@ -1,5 +1,5 @@
 ---
-title: The Festival Archives
+title: [[The Festival Archives]]
 type: lore
 tags:
 - lore

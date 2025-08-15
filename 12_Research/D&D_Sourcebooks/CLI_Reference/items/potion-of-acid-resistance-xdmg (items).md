@@ -40,7 +40,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance xphb|Resistance]] to acid damage for 1 hour.
+When you drink this potion, you have [[boon-of-energy-resistance-xphb (feats)]] to acid damage for 1 hour.
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
 

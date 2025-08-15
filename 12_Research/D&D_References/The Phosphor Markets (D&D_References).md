@@ -193,7 +193,7 @@ Central administrative building carved from a fossilized whale skull:
 **NPCs Present**:
 - [[Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
 - [[Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
-- [[Chronicler Depth Song]] - Mer-folk historian documenting market evolution
+- [[Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
 
 #### The Adaptation Clinic
 Medical facility specializing in aquatic modifications:
@@ -205,7 +205,7 @@ Medical facility specializing in aquatic modifications:
 
 **Staff**:
 - [[Surgeon Coral Seamender]] - Expert in bio-magical modifications
-- [[Healer Tide Touch]] - Specializes in pressure-related injuries
+- [[Healer Tide-Touch]] - Specializes in pressure-related injuries
 - [[Apprentice Bubbles]] - Young water elemental learning medical arts
 
 #### The Bioluminescent Workshops
@@ -217,7 +217,7 @@ Crafting spaces utilizing living organisms:
 - **Shell Smiths**: Fashion armor and tools from giant mollusk shells
 
 **Master Craftspeople**:
-- [[Artisan Glow Finger Nerida]] - Creates bioluminescent jewelry
+- [[Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
 - [[Coral Shaper Polyp]] - Living coral being who grows architectural structures
 - [[Pearl Empress Lustrous]] - Makes pearls that store magical energy
 
@@ -254,7 +254,7 @@ Sophisticated ficial trading for future goods delivery:
 - **Weather Derivatives**: Betting on current patterns and seasonal changes
 
 **Key Traders**:
-- [[Futures Master Economic Sense]] - Predicts market trends with supernatural accuracy
+- [[Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
 - [[Risk Assessor Probability]] - Calculates odds for any venture
 - [[Commodity Queen Abundance]] - Controls significant portions of several markets
 
@@ -284,7 +284,7 @@ Secret level where illegal goods are processed and distributed:
 
 **Key Figures**:
 - [[The Facilitator]] - Mysterious figure who arranges impossible trades
-- [[Silence Keeper Mute]] - Enforces secrecy through magical contracts
+- [[Silence-Keeper Mute]] - Enforces secrecy through magical contracts
 - [[The Cleaner]] - Eliminates evidence and witnesses when necessary
 
 ### Standard Currency

@@ -40,14 +40,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
 
-# [[mindwitness mpmm|Mindwitness]]
+# [[mindwitness-mpmm (aberration)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
 
 If a beholder is [[conditions#Stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 
 A mindwitness's primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
-If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[flumph xmm|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
+If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[Flumph Xmm]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 ```statblock
 "name": "Mindwitness (MPMM)"

@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-snow-maiden-cos-snow-maiden-cos.svg)
 
-# [[snow maiden cos|Snow Maiden]]
+# [[snow-maiden-cos (undead)]]
 *Source: Curse of Strahd p. 159*  
 
 ```statblock

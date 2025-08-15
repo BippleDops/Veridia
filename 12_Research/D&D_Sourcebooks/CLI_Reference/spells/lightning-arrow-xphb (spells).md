@@ -47,7 +47,7 @@ The weapon or ammunition then returns to its normal form.
 
 **Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by `d8` for each spell slot level above 3.
 
-**Classes**: [[list spells classes ranger|Ranger]]
+**Classes**: [[classes]]
 
 *Source: Player's Handbook (2024) p. 292*
 
@@ -97,3 +97,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class

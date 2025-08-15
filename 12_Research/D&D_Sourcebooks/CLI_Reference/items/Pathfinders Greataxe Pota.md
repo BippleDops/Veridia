@@ -37,7 +37,7 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-pathfinders-greataxe-pota-pathfinders-greataxe-pota.svg)
 
 # Pathfinder's Greataxe
-*Weapon ([[greataxe xphb|greataxe]])*  
+*Weapon ([[Greataxe Xphb]])*  
 
 - **Damage**: 1d12 slashing
 - **Properties**: [[item properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]

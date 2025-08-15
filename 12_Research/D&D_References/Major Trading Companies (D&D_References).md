@@ -35,7 +35,7 @@ updated: '2025-08-13T01:18:36.694875+00:00'
 # Major Trading Companies
 *The Corporate Powers Behind Two Realms*
 
-> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02 Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
+> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[People]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -126,7 +126,7 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 ### Deep Current Trading Company
 **Supreme Navigator**: [[The Current Merchants|02 Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
 **Founded**: 48 years ago through current-magic innovation
-**Primary Headquarters**: The Flowing Market, [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Flowing Market, [[Abyssos Prime]]
 **Estimated Value**: 2.8+ million pearl equivalents
 **Workforce**: 3,000+ current-riders, navigators, and support staff
 
@@ -139,7 +139,7 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 ### Goldcurrent Banking Consortium
 **Chief Executive**: [[Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 **Founded**: 15 years ago during the Crystal Currency Crisis
-**Primary Headquarters**: The Deep Vault, [[02 Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Deep Vault, [[Abyssos Prime]]
 **Estimated Value**: 5.1+ million pearl equivalents
 **Workforce**: 800+ ficial professionals
 

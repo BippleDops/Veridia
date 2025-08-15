@@ -20,7 +20,7 @@ modified: '2025-08-14'
 status: complete
 race: Distributed Consciousness
 class: Wizard/Aberration
-location: '[[Abyssos Prime   Throne of Bubbles]]'
+location: '[[Throne of Bubbles]]'
 level: 20
 MyCategory: Unknown
 MyContainer: None
@@ -48,12 +48,12 @@ portrait: ''
 related_quests:
 - '[[Unite the Emperor]]'
 - '[[Investigate Shadow Conspiracy]]'
-- '[[02 Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
+- '[[The Emperor]]'
 relationship_type: ruler
 relationships:
 - '[[Shadow Duchess Nyx]]'
 - '[[Parliament of Echoes]]'
-- '[[Marina Red Tide Coralheart   Aquabyssos]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
 secrets:
 - Intentionally caused the original Cataclysm
 - Can reunite but will die if maintained
@@ -73,10 +73,29 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
+## Stats
+- **AC**: 12
+- **HP**: 22 (4d8)
+- **Speed**: 30 ft.
+- **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
+- **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
+- **Skills**: Deception +4, Insight +3, Persuasion +4
+- **Senses**: passive Perception 11
+- **Languages**: Common
+- **Challenge**: 1/8 (25 XP)
+
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
 
 > [!figure] Portrait
+
+
+## Relationships
+- **Allies**: Notable allies and friends
+- **Rivals**: Competitors and rivals  
+- **Family**: Family connections
+- **Organizations**: Group affiliations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -403,3 +422,40 @@ Mentioned in The Hidden Prophecy of Stars
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+## Daily Routine
+- **Morning**: Typical activities
+- **Afternoon**: Work or duties
+- **Evening**: Leisure time
+
+## Combat Tactics
+- **Opening Move**: Initial strategy
+- **Preferred Range**: Optimal distance
+- **Retreat**: When to flee
+
+## Possessions
+- **Carried**: Items on person
+- **Stored**: Possessions elsewhere
+
+## Knowledge
+- **Expertise**: Areas of knowledge
+- **Rumors Known**: Information they have
+
+## Personality Traits
+- **Positive**: Admirable qualities
+- **Negative**: Flaws and weaknesses
+
+## Character Arc
+- **Past**: Where they came from
+- **Present**: Current situation
+- **Future**: Potential development
+
+## Dialogue Examples
+- *"Common greeting"*
+- *"When threatened"*
+- *"Offering help"*
+
+## Reputation
+- **Public Opinion**: How they're viewed
+- **Truth**: Actual nature

@@ -52,7 +52,7 @@ During character creation, players can select the following background for their
 
 ## Gothic Trinkets
 
-When rolling for a trinket, consider using the [[trinket cos|Gothic Trinkets table]], which is designed for a gothic game.
+When rolling for a trinket, consider using the [[trinket-cos (items)]], which is designed for a gothic game.
 
 ## Player-Facing Summary
 

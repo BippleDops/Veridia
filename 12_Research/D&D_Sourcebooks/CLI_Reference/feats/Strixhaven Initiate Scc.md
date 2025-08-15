@@ -47,11 +47,11 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 | College | Cantrips | 1st-Level Spell |
 |---------|----------|-----------------|
-| Lorehold | Choose two from [[light xphb|light]], [[sacred flame xphb|sacred flame]], and [[thaumaturgy xphb|thaumaturgy]]. | Choose one 1st-level cleric or wizard spell. |
-| Prismari | Choose two from [[fire bolt xphb|fire bolt]], [[prestidigitation xphb|prestidigitation]], and [[ray of frost xphb|ray of frost]]. | Choose one 1st-level bard or sorcerer spell. |
-| Quandrix | Choose two from [[druidcraft xphb|druidcraft]], [[guidance xphb|guidance]], and [[mage hand xphb|mage hand]]. | Choose one 1st-level druid or wizard spell. |
-| Silverquill | Choose two from [[sacred flame xphb|sacred flame]], [[thaumaturgy xphb|thaumaturgy]], and [[vicious mockery xphb|vicious mockery]]. | Choose one 1st-level bard or cleric spell. |
-| Witherbloom | Choose two from [[chill touch xphb|chill touch]], [[druidcraft xphb|druidcraft]], and [[spare the dying xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
+| Lorehold | Choose two from [[Fount of Moonlight Xphb]], [[sacred-flame-xphb (spells)]], and [[Thaumaturgy Xphb]]. | Choose one 1st-level cleric or wizard spell. |
+| Prismari | Choose two from [[fire-bolt-xphb (spells)]], [[Prestidigitation Xphb]], and [[ray-of-frost-xphb (spells)]]. | Choose one 1st-level bard or sorcerer spell. |
+| Quandrix | Choose two from [[druidcraft-xphb (spells)]], [[guidance-xphb (spells)]], and [[mage-hand-xphb (spells)]]. | Choose one 1st-level druid or wizard spell. |
+| Silverquill | Choose two from [[sacred-flame-xphb (spells)]], [[Thaumaturgy Xphb]], and [[Vicious Mockery Xphb]]. | Choose one 1st-level bard or cleric spell. |
+| Witherbloom | Choose two from [[chill-touch-xphb (spells)]], [[druidcraft-xphb (spells)]], and [[Spare the Dying Xphb]]. | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells
 
 ## 🔧 Deep Evaluation Improvements

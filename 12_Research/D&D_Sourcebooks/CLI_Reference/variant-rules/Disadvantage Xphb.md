@@ -34,7 +34,7 @@ world: Both
 # Disadvantage
 *Source: Player's Handbook (2024) p. 366. Available in the SRD and the Free Rules (2024)* 
 
-If you have Disadvantage on a [[d20 test xphb|D20 Test]], roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and [[advantage xphb|Advantage]] and Disadvantage on the same roll cancel each other.
+If you have Disadvantage on a [[d20-test-xphb (variant-rules)]], roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and [[Advantage Xphb]] and Disadvantage on the same roll cancel each other.
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mezzoloth-xmm-mezzoloth-xmm.svg)
 
-# [[mezzoloth xmm|Mezzoloth]]
+# [[Mezzoloth Xmm]]
 *Source: Monster Manual (2024) p. 211*  
 
 ## 🔧 Deep Evaluation Improvements
@@ -110,10 +110,10 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 "cr": "5"
 "traits":
   - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[hit points xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb (variant-rules)]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The mezzoloth has [[advantage xphb|Advantage]]\
+  - "desc": "The mezzoloth has [[Advantage Xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -132,8 +132,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
     "name": "Mercurial Trident"
   - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n1/day each: [[cloudkill xphb|Cloudkill]], [[darkness xphb|Darkness]],\
-      \ [[dispel magic xphb|Dispel Magic]]"
+      \n1/day each: [[Cloudkill Xphb]], [[darkness-xphb (variant-rules)]],\
+      \ [[dispel-magic-xphb (spells)]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\

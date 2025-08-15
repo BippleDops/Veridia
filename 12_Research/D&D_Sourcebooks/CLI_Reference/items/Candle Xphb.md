@@ -41,7 +41,7 @@ world: Both
 
 - **Cost**: 1 cp
 
-For 1 hour, a lit Candle sheds [[bright light xphb|Bright Light]] in a 5-foot radius and [[dim light xphb|Dim Light]] for an additional 5 feet.
+For 1 hour, a lit Candle sheds [[Light Xphb]] in a 5-foot radius and [[Light Xphb]] for an additional 5 feet.
 
 *Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
 

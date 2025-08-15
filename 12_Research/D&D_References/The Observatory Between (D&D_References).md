@@ -253,9 +253,9 @@ Multiple contingency plans for different types of reality failure, each requirin
 
 ## References
 
-- [[02 Worldbuilding/People/The Keeper of Between|02 Worldbuilding/People/The Keeper Of Between]] - Facility administrator
-- [[02 Worldbuilding/Groups/The Reunification Coalition|02 Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
-- [[02 Worldbuilding/Groups/The Preservation Protocol|02 Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
+- [[People]] - Facility administrator
+- [[Groups]] - Political faction favoring rejoining the realms
+- [[Groups]] - Political faction favoring continued separation
 - [[Master Index|02 Worldbuilding/Lore/Master Index]] - General world information
 
 ---

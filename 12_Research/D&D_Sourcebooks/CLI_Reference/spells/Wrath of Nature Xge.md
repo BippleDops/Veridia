@@ -76,7 +76,7 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 
 ## Summary
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes ranger|Ranger]]; [[list spells classes bard|Bard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]
 
 *Source: Xanathar's Guide to Everything p. 171*
 

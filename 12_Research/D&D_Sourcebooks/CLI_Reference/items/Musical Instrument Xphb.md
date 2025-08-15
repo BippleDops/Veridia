@@ -41,16 +41,16 @@ world: Both
 
 **Items in this group:**
 
-- [[bagpipes xphb|Bagpipes]]
-- [[drum xphb|Drum]]
-- [[dulcimer xphb|Dulcimer]]
-- [[flute xphb|Flute]]
-- [[horn xphb|Horn]]
-- [[lute xphb|Lute]]
-- [[lyre xphb|Lyre]]
-- [[pan flute xphb|Pan Flute]]
-- [[shawm xphb|Shawm]]
-- [[viol xphb|Viol]]
+- [[Bagpipes Xphb]]
+- [[drum-xphb (items)]]
+- [[Dulcimer Xphb]]
+- [[flute-xphb (items)]]
+- [[Horn Xphb]]
+- [[flute-xphb (items)]]
+- [[Lyre Xphb]]
+- [[Flute Xphb]]
+- [[Shawm Xphb]]
+- [[Viol Xphb]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

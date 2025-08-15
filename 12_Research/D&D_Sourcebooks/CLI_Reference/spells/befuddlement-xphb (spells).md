@@ -46,11 +46,11 @@ world: Both
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [[actions#Magic|Magic]] action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [[greater restoration xphb|Greater Restoration]], [[heal xphb|Heal]], or [[wish xphb|Wish]] spell.
+On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [[actions#Magic|Magic]] action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [[greater-restoration-xphb (spells)]], [[heal-xphb (spells)]], or [[wish-xphb (spells)]] spell.
 
 On a successful save, the target takes half as much damage only.
 
-**Classes**: [[list spells classes druid|Druid]]; [[list spells classes warlock|Warlock]]; [[list spells classes bard|Bard]]; [[list spells classes wizard|Wizard]]
+**Classes**: [[classes]]; [[classes]]; [[classes]]; [[classes]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the SRD and the Free Rules (2024)*
 
@@ -89,3 +89,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## Spell Components Detail
+- **Verbal**: Specific words
+- **Somatic**: Hand movements
+- **Material**: Required items
+
+## Common Uses
+- Typical applications
+- Creative uses
+
+## Counterspell Information
+- How to counter
+- Difficulty class
+## Sourcebook Reference
+- **Source**: Player's Handbook
+- **School**: See spell description
+- **Available to**: Check class spell lists
+
+### CLI Reference
+See: `[[befuddlement-xphb (spells)-phb]]` in CLI_Reference/spells/

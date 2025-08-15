@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-drow-spore-servant-oota-drow-spore-servant-oota.svg)
 
-# [[drow spore servant oota|Drow Spore Servant]]
+# [[drow-spore-servant-oota (plant)]]
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -47,7 +47,7 @@ world: Both
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[[chain shirt xphb|chain shirt]]"
+"ac_class": "[[chain-shirt-xphb (items)]]"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"

@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Crystal Cults](../../../04_Resources/Assets/Generated/Misc/crystal_cults.png)
+![Crystal Cults](../../../04_Resources/Assets/Misc/crystal_cults.png)
 
 ## 🔧 Deep Evaluation Improvements
 

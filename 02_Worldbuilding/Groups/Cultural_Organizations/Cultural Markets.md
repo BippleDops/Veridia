@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Markets](../../../04_Resources/Assets/Generated/Misc/cultural_markets.png)
+![Cultural Markets](../../../04_Resources/Assets/Misc/cultural_markets.png)
 
 ## 🔧 Deep Evaluation Improvements
 

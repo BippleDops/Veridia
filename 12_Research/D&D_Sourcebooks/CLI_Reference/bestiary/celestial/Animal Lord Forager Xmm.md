@@ -42,7 +42,7 @@ updated: '2025-08-13T12:34:06.051457+00:00'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-forager-xmm-animal-lord-forager-xmm.svg) # [[animal-lord-forager-xmm (celestial)]]
+![](04_Resources/Assets/Creatures/creature-creature-animal-lord-forager-xmm-animal-lord-forager-xmm.svg) # [[animal-lord-forager-xmm (celestial)]]
 
 *Source: Monster Manual (2024) p. 15*```statblock
 "name": "Animal Lord; Forager (XMM)"

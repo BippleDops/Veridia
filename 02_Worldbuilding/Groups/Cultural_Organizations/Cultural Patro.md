@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Patro](../../../04_Resources/Assets/Generated/Misc/cultural_patro.png)
+![Cultural Patro](../../../04_Resources/Assets/Misc/cultural_patro.png)
 
 ## 🔧 Deep Evaluation Improvements
 

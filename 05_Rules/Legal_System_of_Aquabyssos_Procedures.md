@@ -232,6 +232,6 @@ A: Supernatural abilities suppressed, mundane portions still function ## Balance
 #meta/reference
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_legal_defense_network.png]]
-![[04_Resources/Assets/Generated/Misc/cross_cultural_legal_association.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_legal_defense_network.png]]
+![[04_Resources/Assets/Misc/cross_cultural_legal_association.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_legal_education_gm.png]]

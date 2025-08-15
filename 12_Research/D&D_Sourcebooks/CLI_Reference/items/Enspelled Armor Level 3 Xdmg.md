@@ -50,7 +50,7 @@ updated: '2025-08-13T12:34:07.265217+00:00'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-armor-level-3-xdmg-enspelled-armor-level-3-xdmg.svg) # Enspelled Armor (Level 3)
+![](04_Resources/Assets/Items/item-artifact-enspelled-armor-level-3-xdmg-enspelled-armor-level-3-xdmg.svg) # Enspelled Armor (Level 3)
 
 *Rare (requires attunement)* Bound into this armor is a level 3 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains`d6`expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell. The spell's saving throw DC is 15, and its attack bonus is`+7`. **Variants**:
 - [Enspelled (Level 3) Breastplate](#Enspelled%20(Level%203)%20Breastplate)

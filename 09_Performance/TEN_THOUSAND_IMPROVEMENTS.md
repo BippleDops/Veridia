@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.101771
 aliases: [TEN THOUSAND IMPROVEMENTS]
 ---
 
-# Ten Thousand Improvements
+# [[TEN_THOUSAND_IMPROVEMENTS|Ten Thousand Improvements]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -33,8 +33,8 @@ publish: false --- # 🚀 10,000 Improvements Report ## Executive Summary ## Des
 *The air carries the scent of [appropriate smell].*nt | |----------|-------|
 | NPCs Enhanced | 807 |
 | Locations Enhanced | 1562 |
-| [[Quests|Quests]] Enhanced | 419 |
-| [[Items|Items]] Enhanced | 1 |
+| [[[[Quests|Quests]]|Quests]] Enhanced | 419 |
+| [[[[Items|Items]]|Items]] Enhanced | 1 |
 | Creatures Enhanced | 50 |
 | Sessions Enhanced | 35 |
 | Rules Enhanced | 49 |
@@ -42,7 +42,7 @@ publish: false --- # 🚀 10,000 Improvements Report ## Executive Summary ## Des
 | Cross References | 500 |
 | Variants Added | 300 |
 | Scaling Added | 351 |
-| [[Random_Tables|Random Tables]] | 200 |
+| [[Random_Tables|[[Random_Tables|Random Tables]]]] | 200 |
 | DM Tips | 400 |
 | Player Tips | 300 |
 | Metadata Enhanced | 500 | ## Total Improvements: **30,056** ## Sample Improvements (First 100) [[Lord Marcus Shadowbane|Lord Marcus Shadowbane]]: added daily routine Lord Marcus Shadowbane: added combat tactics Lord Marcus Shadowbane: added possessions Lord Marcus Shadowbane: added knowledge Lord Marcus Shadowbane: added personality traits Lord Marcus Shadowbane: added character arc Lord Marcus Shadowbane: added dialogue examples Lord Marcus Shadowbane: added reputation
@@ -59,7 +59,7 @@ young-silver-dragon-xmm: added knowledge
 young-silver-dragon-xmm: added personality traits
 young-silver-dragon-xmm: added character arc
 young-silver-dragon-xmm: added dialogue examples
-young-silver-dragon-xmm: added reputation Knight: added daily routine Knight: added combat tactics Knight: added possessions Knight: added knowledge Knight: added personality traits Knight: added character arc Knight: added dialogue examples Knight: added reputation Deep Anarchists: added daily routine Deep Anarchists: added combat tactics Deep Anarchists: added possessions Deep Anarchists: added knowledge Deep Anarchists: added personality traits Deep Anarchists: added character arc Deep Anarchists: added dialogue examples Deep Anarchists: added reputation Captain Blackwater: added daily routine Captain Blackwater: added combat tactics Captain Blackwater: added possessions Captain Blackwater: added knowledge Captain Blackwater: added personality traits Captain Blackwater: added character arc Captain Blackwater: added dialogue examples Captain Blackwater: added reputation Elder [[Whisper|Whisper]]-In-The-Dark: added daily routine Elder Whisper-In-The-Dark: added combat tactics Elder Whisper-In-The-Dark: added possessions Elder Whisper-In-The-Dark: added knowledge Elder Whisper-In-The-Dark: added personality traits Elder Whisper-In-The-Dark: added character arc Elder Whisper-In-The-Dark: added dialogue examples Elder Whisper-In-The-Dark: added reputation
+young-silver-dragon-xmm: added reputation [[Knight|Knight]]: added daily routine Knight: added combat tactics Knight: added possessions Knight: added knowledge Knight: added personality traits Knight: added character arc Knight: added dialogue examples Knight: added reputation Deep Anarchists: added daily routine Deep Anarchists: added combat tactics Deep Anarchists: added possessions Deep Anarchists: added knowledge Deep Anarchists: added personality traits Deep Anarchists: added character arc Deep Anarchists: added dialogue examples Deep Anarchists: added reputation Captain Blackwater: added daily routine Captain Blackwater: added combat tactics Captain Blackwater: added possessions Captain Blackwater: added knowledge Captain Blackwater: added personality traits Captain Blackwater: added character arc Captain Blackwater: added dialogue examples Captain Blackwater: added reputation Elder [[[[Whisper|Whisper]]|Whisper]]-In-The-Dark: added daily routine Elder Whisper-In-The-Dark: added combat tactics Elder Whisper-In-The-Dark: added possessions Elder Whisper-In-The-Dark: added knowledge Elder Whisper-In-The-Dark: added personality traits Elder Whisper-In-The-Dark: added character arc Elder Whisper-In-The-Dark: added dialogue examples Elder Whisper-In-The-Dark: added reputation
 young-white-dragon-xmm: added voice & mannerisms
 young-white-dragon-xmm: added daily routine
 young-white-dragon-xmm: added combat tactics

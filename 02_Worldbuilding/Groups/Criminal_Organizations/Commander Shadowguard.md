@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Commander Shadowguard](../../../04_Resources/Assets/Generated/Misc/commander_shadowguard.png)
+![Commander Shadowguard](../../../04_Resources/Assets/Misc/commander_shadowguard.png)
 
 ## 🔧 Deep Evaluation Improvements
 

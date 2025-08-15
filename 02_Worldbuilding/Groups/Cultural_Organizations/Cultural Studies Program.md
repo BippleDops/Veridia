@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Studies Program](../../../04_Resources/Assets/Generated/Misc/cultural_studies_program.png)
+![Cultural Studies Program](../../../04_Resources/Assets/Misc/cultural_studies_program.png)
 
 ## 🔧 Deep Evaluation Improvements
 

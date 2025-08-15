@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Instructor Combat Shadow](../../../04_Resources/Assets/Generated/Misc/instructor_combat_shadow.png)
+![Instructor Combat Shadow](../../../04_Resources/Assets/Misc/instructor_combat_shadow.png)
 
 ## 🔧 Deep Evaluation Improvements
 

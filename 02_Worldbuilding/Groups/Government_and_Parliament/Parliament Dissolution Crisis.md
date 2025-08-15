@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliament Dissolution Crisis](../../../04_Resources/Assets/Generated/Misc/parliament_dissolution_crisis.png)
+![Parliament Dissolution Crisis](../../../04_Resources/Assets/Misc/parliament_dissolution_crisis.png)
 
 ## 🔧 Deep Evaluation Improvements
 

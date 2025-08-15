@@ -16,7 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-crown-council-flagship.svg](../../04_Resources/Assets/Generated/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png)
+![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-crown-council-flagship.svg](../../04_Resources/Assets/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png)
 
 ## 🔧 Deep Evaluation Improvements
 

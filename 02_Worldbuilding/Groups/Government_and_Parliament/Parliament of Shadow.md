@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliament of Shadow](../../../04_Resources/Assets/Generated/Misc/parliament_of_shadow.png)
+![Parliament of Shadow](../../../04_Resources/Assets/Misc/parliament_of_shadow.png)
 
 ## 🔧 Deep Evaluation Improvements
 

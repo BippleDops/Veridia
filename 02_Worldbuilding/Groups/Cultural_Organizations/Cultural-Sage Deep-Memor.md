@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural-Sage Deep-Memor](../../../04_Resources/Assets/Generated/Misc/cultural_sage_deep_memor.png)
+![Cultural-Sage Deep-Memor](../../../04_Resources/Assets/Misc/cultural_sage_deep_memor.png)
 
 ## 🔧 Deep Evaluation Improvements
 

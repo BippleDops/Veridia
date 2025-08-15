@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliamentary Speaker](../../../04_Resources/Assets/Generated/Misc/parliamentary_speaker.png)
+![Parliamentary Speaker](../../../04_Resources/Assets/Misc/parliamentary_speaker.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -25,7 +25,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Windwright Academy](../../../04_Resources/Assets/Generated/Misc/windwright_academy.png)
+![Windwright Academy](../../../04_Resources/Assets/Misc/windwright_academy.png)
 
 ## 🔧 Deep Evaluation Improvements
 

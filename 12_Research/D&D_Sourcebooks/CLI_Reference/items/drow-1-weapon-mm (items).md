@@ -98,7 +98,7 @@ updated: '2025-08-12T23:37:37.509886'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-1-weapon-mm-drow-1-weapon-mm.svg) # Drow +1 Weapon You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
+![](04_Resources/Assets/Items/item-artifact-drow-1-weapon-mm-drow-1-weapon-mm.svg) # Drow +1 Weapon You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
 - [Drow +1 Antimatter Rifle](#Drow%20+1%20Antimatter%20Rifle)
 - [Drow +1 Automatic Rifle](#Drow%20+1%20Automatic%20Rifle)

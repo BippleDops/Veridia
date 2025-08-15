@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Crystal Cultivator](../../../04_Resources/Assets/Generated/Misc/crystal_cultivator.png)
+![Crystal Cultivator](../../../04_Resources/Assets/Misc/crystal_cultivator.png)
 
 ## 🔧 Deep Evaluation Improvements
 

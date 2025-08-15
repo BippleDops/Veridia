@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:37.454267'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-half-plate-armor-of-etherealness-xdmg-half-plate-armor-of-etherealness-xdmg.svg) # Plate Armor of Etherealness
+![](04_Resources/Assets/Items/item-artifact-half-plate-armor-of-etherealness-xdmg-half-plate-armor-of-etherealness-xdmg.svg) # Plate Armor of Etherealness
 
 *Heavy armor, legendary (requires attunement)* - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

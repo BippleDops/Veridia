@@ -34,7 +34,7 @@ LIMIT 10
 ## 📊 Campaign Statistics
 
 ### Player Characters
-- **Active PCs**: [[Player_Characters/Active_Roster]]
+- **Active PCs**: [[07_Player_Resources/Active_Roster]]
 - **Level Range**: 3-5
 - **Next Milestone**: 2,000 XP
 
@@ -47,8 +47,8 @@ LIMIT 10
 ## 🎯 Session Prep Tools
 
 ### Quick Generators
-- [[Generate_NPC|🧙 Generate NPC]]
-- [[Generate_Location|🏰 Generate Location]]
+- [[05_Rules/Generators/Generate_NPC|🧙 Generate NPC]]
+- [[05_Rules/Generators/Generate_Location|🏰 Generate Location]]
 - [[Generate_Quest|📜 Generate Quest]]
 - [[Generate_Encounter|⚔️ Generate Encounter]]
 

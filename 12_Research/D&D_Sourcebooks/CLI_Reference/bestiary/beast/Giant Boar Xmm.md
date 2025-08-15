@@ -43,7 +43,7 @@ updated: '2025-08-13T12:34:05.440014+00:00'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-boar-xmm-giant-boar-xmm.svg) # [[giant]]
+![](04_Resources/Assets/Creatures/creature-creature-giant-boar-xmm-giant-boar-xmm.svg) # [[giant]]
 
 *Source: Monster Manual (2024) p. 355. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Animals Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther Xmm]] stat block can also represent a mountain lion, while the [[Goat Xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.```statblock
 

@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.032672
 aliases: [NARRATIVE DEEPENING MASTER PROMPT]
 ---
 
-# Narrative Deepening Master Prompt
+# [[NARRATIVE_DEEPENING_MASTER_PROMPT|Narrative Deepening Master Prompt]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -47,7 +47,7 @@ modified: '2025-01-15'
 - Cross-reference with Bestiary Compendium entries
 - Add ecology and behavior from official sources
 - Create variant stat blocks for different CRs
-- Link to official lore and expand with custom content
+- [[Link|Link]] to official lore and expand with custom content
 - Add Legendary/Lair [[actions|actions]] where appropriate
 - Create regional effects tied to locations INTEGRATION_TASKS = { "stat_block_variants": "Create 3-5 CR variants for each creature", "ecology_expansion": "Add feeding, mating, territorial behaviors", "lair_development": "Design lairs for intelligent creatures", "regional_effects": "Define environmental impacts", "treasure_hoards": "Generate appropriate treasure tables", "encounter_tables": "Build balanced encounter groups", "roleplay_notes": "Add personality traits and motivations" }```#### 2.1 Forgotten Realms Parallels (2,000 enhancements)```markdown For each major element:
 - Find Forgotten Realms equivalent
@@ -61,7 +61,7 @@ modified: '2025-01-15'
 - Political figures
 - Economic powers
 - Religious institutions
-- Criminal networks CONSPIRACY_LAYERS = { "surface": "Public faces and obvious conflicts", "hidden": "Secret alliances and betrayals", "deep": "Ancient pacts and prophecies", "cosmic": "Extraplanar influences", "temporal": "Time-loop manipulations" def create_conspiracy_node(entity): return { "public_goals": generate_public_agenda(), "secret_goals": generate_hidden_agenda(), "allies": select_unlikely_allies(), "enemies": identify_false_enemies(), "pawns": designate_unwitting_pawns(), "masters": reveal_true_puppeteers(), "evidence": scatter_clues_across_vault(), "red_herrings": create_false_trails() } #### 4.1 Historical Echoes (2,000 enhancements) For every major [[location|location]]/event:
+- Criminal networks CONSPIRACY_LAYERS = { "surface": "Public faces and obvious conflicts", "hidden": "Secret alliances and betrayals", "deep": "Ancient pacts and prophecies", "cosmic": "Extraplanar influences", "temporal": "[[Time|Time]]-loop manipulations" def create_conspiracy_node(entity): return { "public_goals": generate_public_agenda(), "secret_goals": generate_hidden_agenda(), "allies": select_unlikely_allies(), "enemies": identify_false_enemies(), "pawns": designate_unwitting_pawns(), "masters": reveal_true_puppeteers(), "evidence": scatter_clues_across_vault(), "red_herrings": create_false_trails() } #### 4.1 Historical Echoes (2,000 enhancements) For every major [[location|location]]/event:
 - Create 3 historical periods
 - Design "history repeating" scenarios
 - Add ancient ruins beneath current structures
@@ -69,9 +69,9 @@ modified: '2025-01-15'
 - Design time-loop mysteries
 - Add ghostly reenactments
 - Create historical parallel adventures #### 6.1 Faction Reputation Tracker (2,500 enhancements) # Script: [[Faction_Reputation_System|Faction_Reputation_System]].py Create a living reputation system where:
-- Actions affect multiple faction standings
+- [[actions|Actions]] affect multiple faction standings
 - Reputation unlocks unique opportunities
-- Faction conflicts create dynamic [[Quests|Quests]]
+- Faction conflicts create dynamic [[[[Quests|Quests]]|Quests]]
 - Reputation decay over time
 - Inherited reputation from associates REPUTATION_EFFECTS = { "hostile": ["assassination_attempts", "banned_from_territories", "hunted"], "unfriendly": ["increased_prices", "denied_services", "watched"], "neutral": ["standard_interactions", "mercenary_options"], "friendly": ["discounts", "information_sharing", "safe_houses"], "allied": ["military_support", "shared_resources", "inner_circle"] #### 8.1 Semantic Connection Analysis # Script: semantic_connector.py Use AI to find non-obvious connections:
 - Analyze all note content for themes
@@ -107,11 +107,11 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 - Ensure no contradictions
 - Verify connection logic
 - Test emergence potential
-- Validate D&D compatibility def validate_narrative_integrity(): issues = [] # Check temporal consistency for event in vault.get_all_events(): if has_temporal_paradox(event): issues.append(f"Temporal paradox in {event.[[Name|Name]]}") # Verify relationship logic for npc in vault.get_all_npcs(): if has_impossible_relationships(npc): issues.append(f"Relationship conflict for {npc.name}") # Validate [[Economic Systems|Economic Systems]] if not is_economy_balanced(): issues.append("Economic system imbalance detected") return issues ## 🎯 FINAL OUTCOME After implementing this enhancement: ### Your Vault Will Have: 1. **Living World**: Every element actively influences others
+- Validate D&D compatibility def validate_narrative_integrity(): issues = [] # Check temporal consistency for event in vault.get_all_events(): if has_temporal_paradox(event): issues.append(f"Temporal paradox in {event.[[[[Name|Name]]|Name]]}") # Verify relationship logic for npc in vault.get_all_npcs(): if has_impossible_relationships(npc): issues.append(f"Relationship conflict for {npc.name}") # Validate [[Economic Systems|Economic Systems]] if not is_economy_balanced(): issues.append("Economic system imbalance detected") return issues ## 🎯 FINAL OUTCOME After implementing this enhancement: ### Your Vault Will Have: 1. **Living World**: Every element actively influences others
 2. **Infinite Stories**: Emergent narratives from any starting point
 3. **D&D Compatibility**: Seamless integration with official content
 4. **Time Depth**: Rich past, dynamic present, multiple futures
-5. **[[Relationship_Web|Relationship Web]]**: Complex character interconnections
+5. **[[Relationship_Web|[[Relationship_Web|Relationship Web]]]]**: Complex character interconnections
 6. **Mystery Layers**: Hidden plots within plots
 7. **Economic Reality**: Functioning economic simulation
 8. **Political Intrigue**: Dynamic faction interactions
@@ -120,7 +120,7 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[VAULT_NARRATIVE_COMPLETION_STATUS|Vault Narrative Completion Status]] ## Notes {#notes} *Additional notes* #mechanics/system
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[VAULT_NARRATIVE_COMPLETION_STATUS|[[VAULT_NARRATIVE_COMPLETION_STATUS|Vault Narrative Completion Status]]]] ## Notes {#notes} *Additional notes* #mechanics/system
 #story/plot
 #story/narrative
 #story/story
@@ -144,6 +144,6 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 *The adventure continues...*
 
 ## Visual References
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
+![[04_Resources/[[Assets|Assets]]/[[locations|Locations]]/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 ![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

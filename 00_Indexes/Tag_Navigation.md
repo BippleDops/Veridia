@@ -120,6 +120,6 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/aerial_navigation_guild.png]]
+![[04_Resources/Assets/Misc/aerial_navigation_guild.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_current_navigation_techniques_current_navigation_techniques_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_current_navigation_techniques_physical.png]]

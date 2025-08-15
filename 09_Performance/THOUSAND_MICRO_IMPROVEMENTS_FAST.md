@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.065366
 aliases: [THOUSAND MICRO IMPROVEMENTS FAST]
 ---
 
-# Thousand Micro Improvements Fast
+# [[THOUSAND_MICRO_IMPROVEMENTS_FAST|Thousand Micro Improvements Fast]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -34,7 +34,7 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 | NPCs Enhanced | 0 | Added stats, [[RELATIONSHIPS|RELATIONSHIPS]], motivations |
 | Locations Enhanced | 0 | Added demographics, government, notable places |
 | Quests Standardized | 200 | Added objectives, rewards, hooks, DM notes |
-| Items Detailed | 0 | Added properties, value information |
+| [[Items|Items]] Detailed | 0 | Added properties, value information |
 | [[Session Prep|Session Prep]] Added | 35 | Added preparation checklists |
 | Frontmatter Added | 200 | Added tags and metadata |
 | Formatting Fixed | 200 | Fixed markdown issues | ## Total Statistics - **Files Modified**: 200 - **Total Improvements**: 635
@@ -79,6 +79,6 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 *What happens next is up to you.*
 
 ## Visual References
-![[04_Resources/Assets/Items/Items/item_cellular_corruption_microscope_icon.png]]
+![[04_Resources/[[Assets|Assets]]/Items/Items/item_cellular_corruption_microscope_icon.png]]
 ![[04_Resources/Assets/Items/Items/item_cellular_corruption_microscope_display.png]]
-![[04_Resources/Assets/Maps/World/Continents/world_quartermaster_judith_steadfast_gm.png]]
+![[04_Resources/Assets/[[Maps|Maps]]/World/Continents/world_quartermaster_judith_steadfast_gm.png]]

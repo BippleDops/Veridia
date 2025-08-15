@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadow Academy Training Grounds](../../../04_Resources/Assets/Generated/Misc/shadow_academy_training_grounds.png)
+![Shadow Academy Training Grounds](../../../04_Resources/Assets/Misc/shadow_academy_training_grounds.png)
 
 ## 🔧 Deep Evaluation Improvements
 

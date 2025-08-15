@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliamentary Infiltration List](../../../04_Resources/Assets/Generated/Misc/parliamentary_infiltration_list.png)
+![Parliamentary Infiltration List](../../../04_Resources/Assets/Misc/parliamentary_infiltration_list.png)
 
 ## 🔧 Deep Evaluation Improvements
 

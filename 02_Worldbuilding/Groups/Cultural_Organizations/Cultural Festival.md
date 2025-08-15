@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Festival](../../../04_Resources/Assets/Generated/Misc/cultural_festival.png)
+![Cultural Festival](../../../04_Resources/Assets/Misc/cultural_festival.png)
 
 ## 🔧 Deep Evaluation Improvements
 

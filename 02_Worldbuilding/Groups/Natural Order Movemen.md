@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Groups/Natural Order Movemen](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_natural_order_movemen.png)
+![02_Worldbuilding/Groups/Natural Order Movemen](../../04_Resources/Assets/Misc/02_worldbuilding_groups_natural_order_movemen.png)
 
 ## 🔧 Deep Evaluation Improvements
 

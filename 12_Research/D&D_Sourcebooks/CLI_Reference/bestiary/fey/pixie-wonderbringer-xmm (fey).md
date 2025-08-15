@@ -42,7 +42,7 @@ updated: '2025-08-12T23:37:35.257779'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg) # [[Pixie Wonderbringer Xmm]]
+![](04_Resources/Assets/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg) # [[Pixie Wonderbringer Xmm]]
 
 *Source: Monster Manual (2024) p. 244* Energetic entertainers, wonderbringers use their magic in defense of the wilderness when they must. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Pixies *Friends of the Forest* - **Habitat.** Forest, Planar (Feywild) - **Treasure.** Arcana Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.```statblock
 

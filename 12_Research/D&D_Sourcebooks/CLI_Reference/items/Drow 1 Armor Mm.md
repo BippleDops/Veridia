@@ -61,7 +61,7 @@ updated: '2025-08-13T12:34:06.949278+00:00'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-1-armor-mm-drow-1-armor-mm.svg) # Drow +1 Armor You have a +1 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
+![](04_Resources/Assets/Items/item-artifact-drow-1-armor-mm-drow-1-armor-mm.svg) # Drow +1 Armor You have a +1 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
 - [Drow +1 Breastplate](#Drow%20+1%20Breastplate)
 - [Drow +1 Chain Mail](#Drow%20+1%20Chain%20Mail)

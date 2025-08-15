@@ -208,6 +208,6 @@ modifie
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
-![[04_Resources/Assets/Generated/Misc/faction_overview_for_players.png]]
-![[04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png]]
+![[04_Resources/Assets/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
+![[04_Resources/Assets/Misc/faction_overview_for_players.png]]
+![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]

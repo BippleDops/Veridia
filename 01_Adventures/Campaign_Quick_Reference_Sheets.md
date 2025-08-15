@@ -204,6 +204,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/_cross_campaign_organizations.png]]
-![[04_Resources/Assets/Generated/Misc/parliament_of_shadows_campaign.png]]
+![[04_Resources/Assets/Misc/_cross_campaign_organizations.png]]
+![[04_Resources/Assets/Misc/parliament_of_shadows_campaign.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_cross_campaign_locations_player.png]]

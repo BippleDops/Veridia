@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Independent Shadow Cell](../../../04_Resources/Assets/Generated/Misc/independent_shadow_cell.png)
+![Independent Shadow Cell](../../../04_Resources/Assets/Misc/independent_shadow_cell.png)
 
 ## 🔧 Deep Evaluation Improvements
 

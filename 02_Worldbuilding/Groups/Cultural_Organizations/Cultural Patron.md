@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Patron](../../../04_Resources/Assets/Generated/Misc/cultural_patron.png)
+![Cultural Patron](../../../04_Resources/Assets/Misc/cultural_patron.png)
 
 ## 🔧 Deep Evaluation Improvements
 

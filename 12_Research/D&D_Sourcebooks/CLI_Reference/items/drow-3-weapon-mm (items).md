@@ -88,7 +88,7 @@ updated: '2025-08-12T23:37:36.836554'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-weapon-mm-drow-3-weapon-mm.svg) # Drow +3 Weapon You have a +3 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
+![](04_Resources/Assets/Items/item-artifact-drow-3-weapon-mm-drow-3-weapon-mm.svg) # Drow +3 Weapon You have a +3 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
 - [Drow +3 Antimatter Rifle](#Drow%20+3%20Antimatter%20Rifle)
 - [Drow +3 Automatic Rifle](#Drow%20+3%20Automatic%20Rifle)

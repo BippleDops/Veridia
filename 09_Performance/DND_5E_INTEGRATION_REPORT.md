@@ -33,19 +33,19 @@ publish: false --- # D&D 5e Sourcebook Integration Report ## Executive Summary #
 *The air carries the scent of [appropriate smell].* ## Integration Statistics | Category | Count | |----------|-------|
 | NPCs Standardized to 5e | 324 |
 | Creatures Enhanced | 0 |
-| Spells Linked | 499 |
+| [[spells|Spells]] [[Link|Link]]ed | 499 |
 | Encounters Balanced | 76 |
 | Rules Referenced | 49 |
-| [[Action_Economy|Action Economy]] Added | 100 |
-| [[Magic [[Items|Items]]|Magic Items]] Integrated | 0 |
-| [[Conditions|Conditions]] Added | 50 |
+| [[Action_Economy|[[Action_Economy|Action Economy]]]] Added | 100 |
+| [[Magic [[[[Items|Items]]|Items]]|Magic Items]] Integrated | 0 |
+| [[[[Conditions|Conditions]]|Conditions]] Added | 50 |
 | Variant Rules Added | 20 |
 | Rules Index Created | 1 | ## Key Achievements ### ✅ Stat Block Standardization - All NPCs now use official 5e stat block format
 - Proper CR calculations and XP values
 - Action economy clearly defined
 - Legendary actions for high-CR creatures ### ✅ Sourcebook Integration - ACX page references throughout
 - WWT guidelines linked
-- Bestiary Compendium creature templates
+- [[Bestiary|Bestiary]] [[Compendium|Compendium]] creature templates
 - Xanathar's and Tasha's optional rules ### ✅ Mechanics Implementation - Encounter difficulty calculations (WWT p.82)
 - Action economy reference (ACX p.189-193)
 - Condition tracking (ACX p.290-292)
@@ -55,7 +55,7 @@ publish: false --- # D&D 5e Sourcebook Integration Report ## Executive Summary #
 - Common rulings clarified ## CLI Reference Integration The vault now seamlessly integrates with the CLI_Reference system: - Creatures link to [[Bestiary|Bestiary]] entries
 - Spells reference [[Compendium|Compendium]] data
 - Items connect to treasure tables
-- Rules cite official sources ## Sample Improvements ### NPC Stat Block```markdown Before: Basic AC/HP notation After: Full 5e stat block with abilities, actions, and CR```### Spell Reference```markdown Before: Spell [[Name|Name]] only After: Sourcebook page, school, components, CLI link```### Encounter Balance```markdown Before: Arbitrary difficulty After: XP calculations, party adjustments, WWT guidelines```## Practical Benefits ### For DMs - ✅ Official rules at fingertips
+- Rules cite official sources ## Sample Improvements ### NPC Stat Block```markdown Before: Basic AC/HP notation After: Full 5e stat block with abilities, actions, and CR```### [[Spell_Reference|Spell Reference]]```markdown Before: Spell [[[[Name|Name]]|Name]] only After: Sourcebook page, school, components, CLI link```### Encounter Balance```markdown Before: Arbitrary difficulty After: XP calculations, party adjustments, WWT guidelines```## Practical Benefits ### For DMs - ✅ Official rules at fingertips
 - ✅ Balanced encounters using WWT math
 - ✅ Standardized stat blocks for consistency
 - ✅ Variant rules clearly documented ### For Players - ✅ Rules references for disputes
@@ -88,6 +88,6 @@ publish: false --- # D&D 5e Sourcebook Integration Report ## Executive Summary #
 *The dice will decide the fate.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/cultural_integration_trade_associatio.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_integration_institute.png]]
-![[04_Resources/Assets/Generated/Misc/cultural_integration_council.png]]
+![[04_Resources/[[Assets|Assets]]/Misc/cultural_integration_trade_associatio.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_integration_institute.png]]
+![[04_Resources/Assets/Misc/cultural_integration_council.png]]

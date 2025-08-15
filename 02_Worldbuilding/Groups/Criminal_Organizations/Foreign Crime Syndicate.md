@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Foreign Crime Syndicate](../../../04_Resources/Assets/Generated/Misc/foreign_crime_syndicate.png)
+![Foreign Crime Syndicate](../../../04_Resources/Assets/Misc/foreign_crime_syndicate.png)
 
 ## 🔧 Deep Evaluation Improvements
 

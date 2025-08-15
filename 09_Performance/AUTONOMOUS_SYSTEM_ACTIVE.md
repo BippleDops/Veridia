@@ -158,6 +158,6 @@ Sit back and watch your vault become perfect! 🚀
 
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]
-![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
-![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_tube_system_pressure_tube_system_svg_player.png]]
+![[04_Resources/[[Assets|Assets]]/Misc/complete_faction_warfare_system_resource_management.png]]
+![[04_Resources/Assets/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_pressure_tube_system_pressure_tube_system_svg_player.png]]

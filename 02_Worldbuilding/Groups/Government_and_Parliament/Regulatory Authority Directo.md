@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Regulatory Authority Directo](../../../04_Resources/Assets/Generated/Misc/regulatory_authority_directo.png)
+![Regulatory Authority Directo](../../../04_Resources/Assets/Misc/regulatory_authority_directo.png)
 
 ## 🔧 Deep Evaluation Improvements
 

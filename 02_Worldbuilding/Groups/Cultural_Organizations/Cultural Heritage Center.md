@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Heritage Center](../../../04_Resources/Assets/Generated/Misc/cultural_heritage_center.png)
+![Cultural Heritage Center](../../../04_Resources/Assets/Misc/cultural_heritage_center.png)
 
 ## 🔧 Deep Evaluation Improvements
 

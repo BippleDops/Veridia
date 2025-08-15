@@ -28,9 +28,9 @@ tags:
 - Missing frontmatter added: 15660
 - Missing tags added: 4870
 - Empty files filled: 1
-- Broken [[Assets|Assets]] fixed: 12664
+- Broken [[[[Assets|Assets]]|Assets]] fixed: 12664
 - Duplicate content removed: 29794 ✅ All Systems Green:
-- Every [[Link|Link]] resolves correctly
+- Every [[[[Link|Link]]|Link]] resolves correctly
 - All files have proper frontmatter
 - No orphaned or disconnected files
 - All files have substantial content
@@ -52,13 +52,13 @@ publish: false --- --------|--------|-------|
 | Frontmatter | ✅ Perfect | 100% |
 | Content Quality | ✅ Perfect | 100% |
 | Asset References | ✅ Perfect | 100% |
-| [[Organization|Organization]] | ✅ Perfect | 100% |
+| [[[[Organization|Organization]]|Organization]] | ✅ Perfect | 100% |
 | **OVERALL** | **✅ PERFECT** | **100%** | ## Pronunciation Guide - **Health**: [HEALTH]
 - **Health**: [HEALTH] ## See Also - [[Related content|Related content]]
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate --- **Navigation**: [[[[Index|Index]]|🏠 Home]] | [[INDEX|📚 Index]] ## Notes {#notes} *Additional notes* #mechanics/system
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate --- **Navigation**: [[[[[[Index|Index]]|Index]]|🏠 Home]] | [[INDEX|📚 Index]] ## Notes {#notes} *Additional notes* #mechanics/system
 #meta/index
 #meta/navigation
 #meta/reference
@@ -68,6 +68,6 @@ publish: false --- --------|--------|-------|
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/Assets/[[Maps|Maps]]/World/Continents/world_the_vault_keepers_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

@@ -101,7 +101,7 @@ updated: '2025-08-13T12:34:06.945492+00:00'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-weapon-level-1-xdmg-enspelled-weapon-level-1-xdmg.svg) # Enspelled Weapon (Level 1)
+![](04_Resources/Assets/Items/item-artifact-enspelled-weapon-level-1-xdmg-enspelled-weapon-level-1-xdmg.svg) # Enspelled Weapon (Level 1)
 
 *Uncommon (requires attunement)* Bound into this weapon is a level 1 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains`d6`expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell. The spell's saving throw DC is 13, and its attack bonus is`+5`. **Variants**:
 - [Enspelled (Level 1) Antimatter Rifle](#Enspelled%20(Level%201)%20Antimatter%20Rifle)

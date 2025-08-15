@@ -1,3 +1,9 @@
+---
+tags: [location, place]
+type: location
+aliases: ["INDEX"]
+---
+
 # Locations Index
 
 *Total: 4486 entries*

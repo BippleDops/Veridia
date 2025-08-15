@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:29.703824
 aliases: [README]
 ---
 
-# Readme
+# [[README|Readme]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -29,12 +29,12 @@ related: []
 cssclass: standard
 publish: false --- ## Vault Purpose ## Description
 
-**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. This is a comprehensive D&D 5e campaign world featuring two interconnected realms (Aquabyssos and 
-*The [texture] surface feels [description] to the touch.*Aethermoor) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics. #### 📁 00_Indexes/ **Purpose**: Master navigation and cross-references for the entire vault
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. This is a comprehensive D&D 5e campaign world featuring two interconnected realms ([[Aquabyssos|Aquabyssos]] and 
+*The [texture] surface feels [description] to the touch.*[[Aethermoor|Aethermoor]]) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics. #### 📁 00_Indexes/ **Purpose**: Master navigation and cross-references for the entire vault
 -`Master_Campaign_Index.md`- All campaigns overview
--`Master_People_Index.md`- All NPCs catalog -`Master_Places_Index.md`- All locations directory
--`Master_Groups_Index.md`- All factions/organizations
--`Master_Lore_Index.md`- All worldbuilding elements
+-`Master_[[People|People]]_Index.md`- All NPCs catalog -`Master_[[Places|Places]]_Index.md`- All locations directory
+-`Master_[[Groups|Groups]]_Index.md`- All factions/organizations
+-`Master_[[Lore|Lore]]_Index.md`- All worldbuilding elements
 -`Generated_Indexes/`- Auto-generated thematic indexes **Current Status**: ✅ Functional - Contains master indexes --- #### 📁 01_Adventures/ **Purpose**: Campaign content, sessions, and adventure modules
 -`Seven_Shards_Campaign/`- Main 24-session cosmic campaign
 -`Shadow_Conspiracy/`- 8-session political intrigue
@@ -44,21 +44,21 @@ publish: false --- ## Vault Purpose ## Description
 -`Generated_Plot_Hooks.md`- Adventure seeds
 -`Narrative_Callbacks.md`- Campaign interconnections **Current Status**: ⚠️ Partial - Some campaigns incomplete --- #### 📁 02_Worldbuilding/ **Purpose**: Lore, NPCs, locations, factions, and world details
 -`People/`- Individual NPCs with backstories
--`Places/`- Locations with descriptions
+-`Places/`- [[locations|Locations]] with descriptions
 -`Groups/`- Organizations and factions -`Criminal_Organizations/`- Underworld groups -`Cults_and_Movements/`- Religious/ideological groups -`Cultural_Organizations/`- Social groups -`Government_and_Parliament/`- Political entities -`Guilds/`- Professional organizations -`Houses_and_Nobility/`- Noble families -`Orders/`- Military/religious orders
--`Items/`- Magical items and artifacts
+-`[[Items|Items]]/`- Magical items and artifacts
 -`Lore/`- History, culture, and background
--`Relationships/`- NPC connection webs
+-`[[RELATIONSHIPS|Relationships]]/`- NPC connection webs
 -`Generated_NPCs/`- Auto-generated characters
 -`Generated_Locations/`- Supplementary location details **Current Status**: ✅ Extensive - 3,597 files --- #### 📁 03_Mechanics/ **Purpose**: Game rules, systems, and mechanical elements
--`Transformations/`- Character transformation rules
+-`[[Transformations|Transformations]]/`- Character transformation rules
 -`Generated_Tables/`- Random tables and generators
 -`Generated_Statblocks/`- Creature statistics
 - Crystal corruption mechanics
 - Underwater/aerial combat rules
 - Faction standing systems **Current Status**: ⚠️ Minimal - Needs expansion --- #### 📁 04_Resources/ **Purpose**: Player handouts, maps, and visual assets
--`Assets/`- Images and visual resources -`Symbols/`- Heraldry and faction symbols (4,000+ files) -`Galleries/`- Organized image collections -`Maps/`- Battle maps and world maps -`Portraits/`- Character artwork
--`Handouts/`- Player-facing documents
+-`[[Assets|Assets]]/`- Images and visual resources -`Symbols/`- Heraldry and faction symbols (4,000+ files) -`Galleries/`- Organized image collections -`[[Maps|Maps]]/`- Battle maps and world maps -`Portraits/`- Character artwork
+-`[[Handouts|Handouts]]/`- Player-facing documents
 -`Generated_Maps/`- Additional map resources
 -`Generated_Handouts/`- Supplementary materials **Current Status**: ✅ Rich - 80 files + thousands of images --- #### 📁 05_Player_Resources/ **Purpose**: Materials specifically for players
 -`Character_Sheets/`- PC records
@@ -70,8 +70,8 @@ publish: false --- ## Vault Purpose ## Description
 -`[[NPC_Guides - Roleplay_Guide|NPC_Guides]]/`- Quick NPC references
 -`Reference_Cards/`- Rule quick refs
 -`Session_Tools/`- Running games
--`World_Event_Calendar.md`- Timeline of events **Current Status**: ⚠️ Minimal - 2 files --- #### 📁 07_Templates/ **Purpose**: Reusable templates for content creation
-- Should contain templates for: - NPCs - Locations - Sessions - Items - Quests **Current Status**: ❌ Empty - Needs templates --- #### 📁 08_Archive/ **Purpose**: Version history and deprecated content
+-`World_Event_Calendar.md`- [[Timeline|Timeline]] of events **Current Status**: ⚠️ Minimal - 2 files --- #### 📁 07_Templates/ **Purpose**: Reusable templates for content creation
+- Should contain templates for: - NPCs - Locations - Sessions - Items - [[Quests|Quests]] **Current Status**: ❌ Empty - Needs templates --- #### 📁 08_Archive/ **Purpose**: Version history and deprecated content
 -`content_type_standardization_backup/`- Previous versions
 -`date_standardization_backup/`- Date format updates
 -`status_standardization_backup/`- Status field updates
@@ -97,7 +97,7 @@ publish: false --- ## Vault Purpose ## Description
 - Enhancement logs #### 📁 scripts/ **Purpose**: Python automation scripts
 -`vault_optimization_comprehensive.py`- Main optimizer
 -`backup_protection_enhanced.py`- Backup management
--`fix_all_links.py`- Link repair
+-`fix_all_links.py`- [[Link|Link]] repair
 -`consolidate_directories.py`- Directory cleanup
 -`comprehensive_vault_audit.py`- Vault analysis
 -`worldbuilding_enhancer.py`- Content enhancement
@@ -117,14 +117,14 @@ publish: false --- ## Vault Purpose ## Description
 - Run`scripts/comprehensive_vault_audit.py`before major changes --- *Last Updated: 2025-08-14* *Vault Version: 2.0 (Post-Consolidation)*
 
 ## Semantic Connections {#semantic-connections} *Related concepts and locations:*
-- [[wizard-xphb-school-of-enchantment (classes)|Wizard-Xphb-School-Of-Enchantment (Classes)]]
+- [[wizard-xphb-school-of-enchantment (classes)|Wizard-Xphb-School-Of-Enchantment ([[classes|Classes]])]]
 - [[Visibility Underwater Underwater Encounter Distance Xdmg|Visibility Underwater Underwater Encounter Distance Xdmg]]
-- [[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog]]
+- [[Aquabyssos_Submarines_Catalog|[[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog]]]]
 - [[Ocean Ecosystem Management|Ocean Ecosystem Management]]
 - [[Border Territories (D&D_References)|Border Territories (D&D References)]]
-- [[aarakocra-skirmisher-xmm (elemental)|Aarakocra-Skirmisher-Xmm (Elemental)]]
-- [[create-undead-xphb (spells)|Create-Undead-Xphb (Spells)]]
-- [[summon-aberration-xphb (spells)|Summon-Aberration-Xphb (Spells)]]
+- [[aarakocra-skirmisher-xmm (elemental)|Aarakocra-Skirmisher-Xmm ([[elemental|Elemental]])]]
+- [[create-undead-xphb (spells)|Create-[[undead|Undead]]-Xphb ([[spells|Spells]])]]
+- [[summon-aberration-xphb (spells)|Summon-[[aberration|Aberration]]-Xphb (Spells)]]
 - [[Border Fortresses (D&D_References)|Border Fortresses (D&D References)]]
 - [[scroll-of-protection-undead-xdmg (items)|Scroll-Of-Protection-Undead-Xdmg (Items)]] ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level

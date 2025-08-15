@@ -125,7 +125,7 @@ title: 1 Ammunition Xdmg
 - +1 Sling Bullet
 created: 2025-07-23 12:39
 updated: '2025-08-13T12:34:07.198246+00:00'
-![](04_Resources/Assets/Generated/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg) # +1 Ammunition
+![](04_Resources/Assets/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg) # +1 Ammunition
 *Ammunition, uncommon* You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical. This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
 - [+1 Arrow](#+1%20Arrow)
 - [+1 Bolt](#+1%20Bolt)
@@ -147,7 +147,7 @@ title: 3 Ammunition Xdmg
 - +3 Needle
 - +3 Sling Bullet
 updated: '2025-08-13T12:34:07.471005+00:00'
-![](04_Resources/Assets/Generated/Items/item-artifact-3-ammunition-xdmg-3-ammunition-xdmg.svg) # +3 Ammunition
+![](04_Resources/Assets/Items/item-artifact-3-ammunition-xdmg-3-ammunition-xdmg.svg) # +3 Ammunition
 *Ammunition, very rare* You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical. This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
 - [+3 Arrow](#+3%20Arrow)
 - [+3 Bolt](#+3%20Bolt)

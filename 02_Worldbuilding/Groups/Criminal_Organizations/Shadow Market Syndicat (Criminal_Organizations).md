@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadow Market Syndicat](../../../04_Resources/Assets/Generated/Misc/shadow_market_syndicat.png)
+![Shadow Market Syndicat](../../../04_Resources/Assets/Misc/shadow_market_syndicat.png)
 
 ## 🔧 Deep Evaluation Improvements
 

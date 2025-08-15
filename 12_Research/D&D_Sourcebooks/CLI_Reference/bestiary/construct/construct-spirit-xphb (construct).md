@@ -39,7 +39,7 @@ updated: '2025-08-12T23:37:35.851860'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-construct-spirit-xphb-construct-spirit-xphb.svg) # [[construct]]
+![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-xphb-construct-spirit-xphb.svg) # [[construct]]
 
 *Source: Player's Handbook (2024) p. 324*```statblock
 "name": "Construct Spirit (XPHB)"

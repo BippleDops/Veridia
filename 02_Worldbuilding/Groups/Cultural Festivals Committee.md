@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Groups/Cultural Festivals Committee](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_festivals_committee.png)
+![02_Worldbuilding/Groups/Cultural Festivals Committee](../../04_Resources/Assets/Misc/02_worldbuilding_groups_cultural_festivals_committee.png)
 
 ## 🔧 Deep Evaluation Improvements
 

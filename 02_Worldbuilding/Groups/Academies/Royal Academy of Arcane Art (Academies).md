@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Royal Academy of Arcane Art](../../../04_Resources/Assets/Generated/Misc/royal_academy_of_arcane_art.png)
+![Royal Academy of Arcane Art](../../../04_Resources/Assets/Misc/royal_academy_of_arcane_art.png)
 
 ## 🔧 Deep Evaluation Improvements
 

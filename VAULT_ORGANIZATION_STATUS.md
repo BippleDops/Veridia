@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:30.320155
 aliases: [VAULT ORGANIZATION STATUS]
 ---
 
-# Vault Organization Status
+# [[VAULT_ORGANIZATION_STATUS|Vault [[Organization|Organization]] Status]]
 
 
 > **Content Warning**: This content contains mature themes. DM discretion advised.
@@ -39,21 +39,21 @@ modified: '2025-01-15'
 │ ├── Shadow_Conspiracy/
 │ ├── The_Sunken_Conspiracy/
 │ └── Winds_of_Rebellion/
-├── [[02_Worldbuilding|02_Worldbuilding]]/ # World lore and details │ ├── Groups/
-│ ├── [[Items|Items]]/
-│ ├── Lore/
-│ ├── [[People|People]]/
-│ ├── Places/
-│ └── [[Quests|Quests]]/
-├── 03_People/ # NPCs and characters ├── 04_Places/ # Locations and [[Maps|Maps]] ├── [[04_Resources|04_Resources]]/ # [[Assets|Assets]] and media │ └── Assets/
+├── [[02_Worldbuilding|02_Worldbuilding]]/ # World lore and details │ ├── [[Groups|Groups]]/
+│ ├── [[[[Items|Items]]|Items]]/
+│ ├── [[Lore|Lore]]/
+│ ├── [[[[People|People]]|People]]/
+│ ├── [[Places|Places]]/
+│ └── [[[[Quests|Quests]]|Quests]]/
+├── 03_People/ # NPCs and characters ├── 04_Places/ # [[locations|Locations]] and [[[[Maps|Maps]]|Maps]] ├── [[04_Resources|04_Resources]]/ # [[[[Assets|Assets]]|Assets]] and media │ └── Assets/
 │ ├── Creatures/
-│ ├── [[Handouts|Handouts]]/
+│ ├── [[[[Handouts|Handouts]]|Handouts]]/
 │ ├── Locations/
 │ ├── Maps/
 │ ├── Portraits/
 │ ├── Scenes/
-│ └── Vehicles/
-├── 05_Rules/ # Game mechanics ├── 06_Sessions/ # Session notes and planning ├── 07_Player_Resources/ # [[Player Handouts|Player handouts]] ├── 08_Archive/ # Archived content │ └── Vault_Backups/ # All backup directories ├── 09_Templates/ # Note templates ├── 10_Inspiration/ # Ideas and concepts ├── 11_References/ # External references ├── 12_Research/ # [[Research Notes|Research notes]] ├── 13_Performance/ # [[reports|Reports]] and metrics │ ├── Completion_Reports/
+│ └── [[Vehicles|Vehicles]]/
+├── 05_Rules/ # Game mechanics ├── 06_Sessions/ # Session notes and planning ├── 07_Player_Resources/ # [[Player Handouts|Player handouts]] ├── 08_Archive/ # Archived content │ └── Vault_Backups/ # All backup directories ├── 09_Templates/ # Note templates ├── 10_Inspiration/ # Ideas and concepts ├── 11_References/ # External references ├── 12_Research/ # [[Research Notes|Research notes]] ├── 13_Performance/ # [[reports|[[reports|Reports]]]] and metrics │ ├── Completion_Reports/
 │ └── Test_Files/
 └── [[scripts|scripts]]/ # Automation tools```## 🔗 Link Health ### Link Status - **Total Links Scanned**: 75,860
 - **Links Fixed**: 1,501
@@ -61,7 +61,7 @@ modified: '2025-01-15'
 - **Remaining Issues**: Complex path references may need manual review ### Common Fixes Applied 1. Case-insensitive matching for link targets
 2. Removal of redundant prefixes (Item_, NPC_, Location_)
 3. Resolution of moved files after reorganization
-4. Standardization of link formats ## 🎯 What Was Accomplished ### 1. [[DIRECTORY_STRUCTURE|Directory Structure]] Cleanup - ✅ Eliminated nested numbered directories
+4. Standardization of link formats ## 🎯 What Was Accomplished ### 1. [[DIRECTORY_STRUCTURE|[[DIRECTORY_STRUCTURE|Directory Structure]]]] Cleanup - ✅ Eliminated nested numbered directories
 - ✅ Removed duplicate folder structures
 - ✅ Consolidated content into proper top-level directories
 - ✅ Archived all backup directories ### 2. File Organization - ✅ Moved 176 misplaced files to correct directories
@@ -69,7 +69,7 @@ modified: '2025-01-15'
 - ✅ Templates gathered in 09_Templates
 - ✅ Quests and adventures in 01_Adventures ### 3. Link Repair - ✅ Fixed 1,501 broken internal links
 - ✅ Case-insensitive link resolution
-- ✅ Path simplification for cleaner links
+- ✅ [[path|Path]] simplification for cleaner links
 - ✅ Automatic detection and repair of moved files ## 📝 Best Practices Going Forward ### File Placement Guide | Content Type | Directory | Example | | status: active
 aliases: ["VAULT ORGANIZATION STATUS"]
 priority: normal
@@ -87,10 +87,10 @@ publish: false --- ----------|-----------|---------|
 | Session Notes | 06_Sessions | Session_01_Notes |
 | Game Rules | 05_Rules | Combat_Mechanics |
 | Player Handouts | 07_Player_Resources | Player_Guide |
-| Templates | 09_Templates | [[NPC_Template|NPC_Template]] | ### Linking Best Practices 1. **Use Simple Links**:`[[Note [[Name|Name]]]]`instead of full paths 2. **Let Obsidian Resolve**: Trust Obsidian's link resolution
+| Templates | 09_Templates | [[NPC_Template|NPC_Template]] | ### Linking Best Practices 1. **Use Simple Links**:`[[Note [[[[Name|Name]]|Name]]]]`instead of full paths 2. **Let Obsidian Resolve**: Trust Obsidian's link resolution
 3. **Avoid Path Prefixes**: Don't include directory names in links
 4. **Use Aliases**:`[[Real Name|Display Name]]`for custom text ### Naming Conventions 1. **Clear Names**: Use descriptive names without directory prefixes 2. **Spaces Allowed**:`Crystal Plague`not`Crystal_Plague`3. **No Redundancy**: Don't repeat category in [[filename|filename]]
-4. **Consistent Format**: Pick a style and stick with it ## 🚀 Next Steps ### Recommended [[actions|Actions]] 1. **Review Remaining Broken Links**: Some complex references may need manual attention
+4. **Consistent Format**: Pick a style and stick with it ## 🚀 Next Steps ### Recommended [[actions|[[actions|Actions]]]] 1. **Review Remaining Broken Links**: Some complex references may need manual attention
 2. **Update Bookmarks**: If you have saved locations, update them
 3. **Refresh Graph View**: Let Obsidian rebuild its connection graph
 4. **Test Navigation**: Verify your most-used links work correctly ### Maintenance Tips 1. **Regular Backups**: Now properly stored in 08_Archive
@@ -119,10 +119,10 @@ publish: false --- ----------|-----------|---------|
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## [[Conditions|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Hidden Details**: Secret aspects ## [[[[Conditions|Conditions]]|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
-- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Frightened**: [[Disadvantage|Disadvantage]] while source in sight, can't move closer
 - **Grappled**: Speed 0, ends if grappler incapacitated
 - **Incapacitated**: Can't take actions or reactions
 - **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
@@ -131,7 +131,7 @@ publish: false --- ----------|-----------|---------|
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### Exhaustion (ACX p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved

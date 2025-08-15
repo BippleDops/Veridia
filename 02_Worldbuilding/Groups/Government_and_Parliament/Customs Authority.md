@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Customs Authority](../../../04_Resources/Assets/Generated/Misc/customs_authority.png)
+![Customs Authority](../../../04_Resources/Assets/Misc/customs_authority.png)
 
 ## 🔧 Deep Evaluation Improvements
 

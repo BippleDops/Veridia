@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Pressure Safety Authority](../../../04_Resources/Assets/Generated/Misc/pressure_safety_authority.png)
+![Pressure Safety Authority](../../../04_Resources/Assets/Misc/pressure_safety_authority.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -42,7 +42,7 @@ updated: '2025-08-13T12:34:05.894406+00:00'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-vampire-xmm-v1-vampire-xmm.svg) # [[Vampire Xmm (undead)]]
+![](04_Resources/Assets/Creatures/creature-creature-vampire-xmm-v1-vampire-xmm.svg) # [[Vampire Xmm (undead)]]
 
 *Source: Monster Manual (2024) p. 317. Available in the SRD and the Free Rules (2024)* Vampires are terrifying hunters and manipulators. They use their powers to shape-shift and bend other creatures' wills as they terrorize and feed on populations over generations. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Vampires *Blood-Sucking Lords of the Night* - **Habitat.** Underdark, Urban - **Treasure.** Any Vampires disguise their accursed, immortal natures, passing as mortals to feed on the blood of the living. While the youngest vampires might be little more than bloodthirsty servants of their creators, the eldest possess incredible cunning and control over supernatural forces of the night. Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary. **Vampire Resting Places**`dice: [](vampire-xmm.md#^vampire-resting-places)`| dice: 1d6 | The Vampire's Resting Place Is... |
 

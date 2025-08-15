@@ -125,8 +125,8 @@ _____________________________________ NPC IMPROVEMENT NEEDED: What could be bett
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/faction_interaction_rules.png]]
-![[04_Resources/Assets/Generated/Misc/faction_interaction_matrix.png]]
+![[04_Resources/Assets/Misc/faction_interaction_rules.png]]
+![[04_Resources/Assets/Misc/faction_interaction_matrix.png]]
 
 
 ## Plot Hooks

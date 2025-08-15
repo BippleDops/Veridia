@@ -41,7 +41,7 @@ status: complete
 session_number: 5
 level_range: 3-4
 duration: 4-5 hours
-world: Aquabyssos
+world: [[Aquabyssos|Aquabyssos]]
 adventure: The Sunken Conspiracy
 updated: '2025-08-13T01:18:37.160710+00:00'
 - -- # Session 5: Conspiracy Revealed * The Sunken Conspiracy - Final Confrontation and Revelations* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview **Expected Duration**: 4-5 hours **Party Level**: 3rd-4th level **Adventure Type**: Climactic Finale, Diplomatic Crisis, Multiple Endings **Key Themes**: Moral choices with lasting consequences, preventing war, balancing justice with mercy, shaping the future ### 18 Hours Until Invasion **The Emergency Parliament Session**: > Port Meridian buzzes with desperate activity as Aquabyssos prepares for the unthinkable—war with the surface world. In the great Parliament chambers, hastily repaired after the recent attack, representatives from every corner of the underwater realm debate frantically. Some call for immediate mobilization, others for diplomatic solutions, while a few whisper of ancient powers that could end the threat forever. **Current Situation Assessment**:
@@ -70,11 +70,11 @@ updated: '2025-08-13T01:18:37.160710+00:00'
 - **Resources**: Communication channels, knowledge of surface world culture **The Ancient Guardian** (if party gained its alliance):
 - **Position**: Offers power to defend Aquabyssos, but at cost of isolation
 - **Concerns**: Preventing surface world domination without repeating ancient mistakes
-- **Resources**: First Throne technology, ancient knowledge, pressure control ### Presenting the Intelligence **The Full Brief** to Parliament leadership: **Surface World Invasion Plan**: > "The surface fleet isn't just coming to occupy territory—they're coming to replace our civilization with one that serves their interests. Using ancient technology stolen from the facility, they can manipulate pressure itself as a weapon. Their plan is simple: demonstrate overwhelming force, then offer 'protection' to whoever submits." **The Modified Agent Network**: Evidence from the facility reveals the extent of infiltration:
+- **Resources**: First Throne technology, ancient knowledge, pressure control ### Presenting the Intelligence **The Full Brief** to Parliament leadership: **Surface World Invasion Plan**: > "The surface fleet isn't just coming to occupy territory—they're coming to replace our civilization with one that serves their interests. Using ancient technology stolen from the facility, they can manipulate pressure itself as a weapon. Their plan is simple: demonstrate overwhelming force, then offer 'protection' to whoever submits." **The Modified Agent Network**: [[Evidence|Evidence]] from the facility reveals the extent of infiltration:
 - **Parliament Members**: At least 3 confirmed, possibly more
 - **Military Officers**: Several key positions compromised
 - **Civil Service**: Bureaucrats placed to enable invasion support
-- **Communication Systems**: Surface world has access to Aquabyssos communications **Ancient Technology Assessment**: Party must report on the status of First Throne technology:
+- **[[Communication_Systems|Communication Systems]]**: Surface world has access to Aquabyssos communications **Ancient Technology Assessment**: Party must report on the status of First Throne technology:
 - **If Secured**: Aquabyssos has access to ancient defensive systems
 - **If Destroyed**: Neither side can use the dangerous power sources - **If Compromised**: Surface world may have partial access
 - **If Activated**: Ancient systems are awake but unpredictable ### Strategic Options Presented **Military Response Options**: #### Option 3: Ancient Power Activation - **Strategy**: Use First Throne technology to create impregnable defenses
@@ -165,7 +165,7 @@ updated: '2025-08-13T01:18:37.160710+00:00'
 - **Initial Panic**: Crews aren't prepared for reality-defying phenomena
 - **Technological Countermeasures**: Attempt to use stolen ancient tech
 - **Negotiation Request**: Sudden willingness to discuss terms
-- **Escalation**: Some ships may fire on Aquabyssos cities in desperation #### Boarding Action - Surface Battleship **Environment**: Large surface vessel adapted for underwater conflict **Enemies**: - **Surface Admiral** (use Knight stats enhanced): - Advanced tactical training and equipment - Access to ship systems and crew coordination - Personal honor code may allow for surrender if beaten fairly - **Elite Surface Marines** (use Veteran stats): - Professional soldiers with underwater combat training - Advanced pressure suits and weaponry - Disciplined tactics and unit coordination - **Modified Crew Members** (use Bandit stats): - Aquabyssos citizens reprogrammed to serve surface world - Conflicted loyalties may be exploited - Advanced technical knowledge of ship systems **Ship Systems as Environmental Factors**:
+- **Escalation**: Some ships may fire on Aquabyssos cities in desperation #### Boarding Action - Surface Battleship **Environment**: Large surface vessel adapted for underwater conflict **Enemies**: - **Surface Admiral** (use [[Knight|Knight]] stats enhanced): - Advanced tactical training and equipment - Access to ship systems and crew coordination - Personal honor code may allow for surrender if beaten fairly - **Elite Surface Marines** (use [[Veteran|Veteran]] stats): - Professional soldiers with underwater combat training - Advanced pressure suits and weaponry - Disciplined tactics and unit coordination - **Modified Crew Members** (use Bandit stats): - Aquabyssos citizens reprogrammed to serve surface world - Conflicted loyalties may be exploited - Advanced technical knowledge of ship systems **Ship Systems as Environmental Factors**:
 - **Pressure Weapons**: Ancient technology integrated into ship weapons
 - **Emergency Protocols**: Hull breach procedures, pressure isolation
 - **Navigation Systems**: Can affect ship maneuverability

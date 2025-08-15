@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Advisor Coral Bridgebuilde](../../../04_Resources/Assets/Generated/Misc/cultural_advisor_coral_bridgebuilde.png)
+![Cultural Advisor Coral Bridgebuilde](../../../04_Resources/Assets/Misc/cultural_advisor_coral_bridgebuilde.png)
 
 ## 🔧 Deep Evaluation Improvements
 

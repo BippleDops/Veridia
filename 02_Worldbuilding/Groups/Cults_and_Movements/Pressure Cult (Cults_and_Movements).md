@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Pressure Cult](../../../04_Resources/Assets/Generated/Misc/pressure_cult.png)
+![Pressure Cult](../../../04_Resources/Assets/Misc/pressure_cult.png)
 
 ## 🔧 Deep Evaluation Improvements
 

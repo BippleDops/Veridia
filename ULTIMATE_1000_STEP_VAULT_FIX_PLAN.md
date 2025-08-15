@@ -19,7 +19,7 @@ A comprehensive 1000-step plan incorporating best practices from:
 1. Run complete vault file census with size, date, and connection analysis
 2. Generate heat map of most/least accessed files
 3. Identify orphaned notes with zero connections
-4. Map duplicate content patterns across directories
+4. [[map|Map]] duplicate content patterns across directories
 5. Analyze naming convention inconsistencies
 6. Document all broken internal links
 7. Catalog all image assets and their usage
@@ -32,7 +32,7 @@ A comprehensive 1000-step plan incorporating best practices from:
 14. List all templates in use
 15. Catalog all canvas files
 16. Find all daily notes
-17. Identify all MOCs (Maps of Content)
+17. Identify all MOCs ([[Maps|Maps]] of Content)
 18. List all index files
 19. Document plugin dependencies
 20. Create baseline performance metrics
@@ -356,7 +356,7 @@ A comprehensive 1000-step plan incorporating best practices from:
 
 ### Master Guide Creation (301-320)
 301. Build "Complete DM Guide" merging all DM resources
-302. Create "Player Handbook" with all player info
+302. Create "[[PLAYER_HANDBOOK|Player Handbook]]" with all player info
 303. Build "World Bible" with complete setting
 304. Create "Campaign Chronicle" with full history
 305. Build "NPC Codex" with all characters

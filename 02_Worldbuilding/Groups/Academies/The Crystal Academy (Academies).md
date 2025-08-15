@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![The Crystal Academy](../../../04_Resources/Assets/Generated/Misc/the_crystal_academy.png)
+![The Crystal Academy](../../../04_Resources/Assets/Misc/the_crystal_academy.png)
 
 ## 🔧 Deep Evaluation Improvements
 

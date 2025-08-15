@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cross-Cultural Legal Association](../../04_Resources/Assets/Generated/Misc/cross_cultural_legal_association.png)
+![Cross-Cultural Legal Association](../../04_Resources/Assets/Misc/cross_cultural_legal_association.png)
 
 ## 🔧 Deep Evaluation Improvements
 

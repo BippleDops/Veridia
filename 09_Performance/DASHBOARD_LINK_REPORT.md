@@ -18,7 +18,7 @@ generated: 2025-08-15T12:34:11.175743
 The following essential files were created:
 
 - ✅ [[Player_Characters/Active_Roster]]
-- ✅ [[02_Worldbuilding/Locations/Current_Location]]
+- ✅ [[02_Worldbuilding/[[locations|Locations]]/Current_Location]]
 - ✅ [[00_Indexes/Combat_Lookup]]
 - ✅ [[05_Rules/Conditions_Reference]]
 - ✅ [[03_Mechanics/Skill_DCs]]
@@ -34,7 +34,7 @@ The following essential files were created:
 - ✅ [[Audio/Battle_Music]]
 - ✅ [[Export/PDF_Generator]]
 - ✅ [[Export/Roll20_Package]]
-- ✅ [[World_Simulation/Events]]
+- ✅ [[World_Simulation/[[Events|Events]]]]
 
 ## Dataview Queries
 All required folders and tags have been created for dataview queries to function.

@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![The Shadow Merchant Prime](../../../04_Resources/Assets/Generated/Misc/the_shadow_merchant_prime.png)
+![The Shadow Merchant Prime](../../../04_Resources/Assets/Misc/the_shadow_merchant_prime.png)
 
 ## 🔧 Deep Evaluation Improvements
 

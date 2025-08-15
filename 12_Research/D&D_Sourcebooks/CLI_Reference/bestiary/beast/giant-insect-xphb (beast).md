@@ -39,7 +39,7 @@ updated: '2025-08-12T23:37:35.178577'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg) # [[giant]]
+![](04_Resources/Assets/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg) # [[giant]]
 
 *Source: Player's Handbook (2024) p. 279. Available in the SRD*```statblock
 "name": "Giant Insect (XPHB)"

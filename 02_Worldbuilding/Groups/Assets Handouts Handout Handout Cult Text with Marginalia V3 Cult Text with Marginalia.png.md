@@ -19,7 +19,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v3-cult-text-with-marginalia.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v3_cult_text_with_marginalia_png.png)
+![04_Resources/Assets/Handouts/handout-handout-cult-text-with-marginalia-v3-cult-text-with-marginalia.png](../../04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v3_cult_text_with_marginalia_png.png)
 
 ## 🔧 Deep Evaluation Improvements
 

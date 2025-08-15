@@ -84,4 +84,4 @@ This content explores themes of sacrifice, adding narrative depth to your campai
 ## Visual References
 ![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-v1-memorial-wall-of-names.png]]
 ![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_nameless_librarians.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_the_nameless_librarians.png]]

@@ -239,5 +239,5 @@ Discuss with players before implementing
 
 ## Visual References
 ![[04_Resources/Assets/Placeholder Images/MagicTitleBar.png]]
-![[04_Resources/Assets/Generated/Misc/royal_academy_of_magical_science.png]]
+![[04_Resources/Assets/Misc/royal_academy_of_magical_science.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_magical_engineer_reef_spellbreath_magical_engineer_reef_spellbreath_svg_player.png]]

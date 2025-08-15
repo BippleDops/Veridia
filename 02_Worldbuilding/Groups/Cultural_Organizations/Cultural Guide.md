@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Guide](../../../04_Resources/Assets/Generated/Misc/cultural_guide.png)
+![Cultural Guide](../../../04_Resources/Assets/Misc/cultural_guide.png)
 
 ## 🔧 Deep Evaluation Improvements
 

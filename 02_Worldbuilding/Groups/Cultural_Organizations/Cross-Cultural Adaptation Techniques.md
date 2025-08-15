@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cross-Cultural Adaptation Techniques](../../../04_Resources/Assets/Generated/Misc/cross_cultural_adaptation_techniques.png)
+![Cross-Cultural Adaptation Techniques](../../../04_Resources/Assets/Misc/cross_cultural_adaptation_techniques.png)
 
 ## 🔧 Deep Evaluation Improvements
 

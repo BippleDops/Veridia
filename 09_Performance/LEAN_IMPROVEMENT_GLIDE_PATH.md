@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.151424
 aliases: [LEAN IMPROVEMENT GLIDE PATH]
 ---
 
-# Lean Improvement Glide Path
+# [[LEAN_IMPROVEMENT_GLIDE_PATH|Lean Improvement Glide Path]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -21,7 +21,7 @@ category: 09 Performance
 subcategory: Lean Improvement Glide Path.Md
 related: []
 cssclass: standard
-publish: false --- # 1000 Lean Improvements Glide Path Generated: ${new Date().to ISOString()} ## Overview This glide path implements 1000 targeted improvements to optimize vault structure, navigation, and usability. ## Implementation Phases ### Phase 1: Link Optimization (200 improvements) ## Description
+publish: false --- # 1000 Lean Improvements Glide Path Generated: ${new Date().to ISOString()} ## Overview This glide path implements 1000 targeted improvements to optimize vault structure, navigation, and usability. ## Implementation Phases ### Phase 1: [[Link|Link]] Optimization (200 improvements) ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - ✅ Fix broken wiki links by creating stub placeholders
@@ -72,6 +72,6 @@ publish: false --- # 1000 Lean Improvements Glide Path Generated: ${new Date().t
 This content explores themes of loyalty, adding narrative depth to your campaign.
 
 ## Visual References
-![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_fresh_cleanwave_fresh_cleanwave_svg_physical.png]]
+![[04_Resources/[[Assets|Assets]]/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_fresh_cleanwave_fresh_cleanwave_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_cleaner_the_cleaner_svg_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_cerulean_archipelago_the_cerulean_archipelago_svg_physical.png]]

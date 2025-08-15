@@ -9,7 +9,7 @@ aliases: [WRITING QUALITY 10K REPORT]
 ## Table of Contents
 - [[#📝 Executive Summary|📝 Executive Summary]]
 - [[#📊 100 Best Practices Applied|📊 100 Best Practices Applied]]
-- [[#Structure & Organization (1-10)|Structure & Organization (1-10)]]
+- [[#Structure & [[Organization|Organization]] (1-10)|Structure & Organization (1-10)]]
 - [[#Writing Style (11-20)|Writing Style (11-20)]]
 - [[#Descriptive Excellence (21-30)|Descriptive Excellence (21-30)]]
 - [[#Information Design (31-40)|Information Design (31-40)]]
@@ -70,7 +70,7 @@ Successfully applied **11,000** writing quality improvements across the vault us
 ### Information Design (31-40)
 31. ✅ Effective bullets
 32. ✅ Numbered sequences
-33. ✅ Data tables
+33. ✅ [[data|Data]] tables
 34. ✅ Visual aid references
 35. ✅ Callout boxes
 36. ✅ Sidebar content
@@ -137,7 +137,7 @@ Successfully applied **11,000** writing quality improvements across the vault us
 87. ✅ Related links
 88. ✅ Prerequisites listed
 89. ✅ Difficulty levels
-90. ✅ Time estimates
+90. ✅ [[Time|Time]] estimates
 
 ### Polish & Refinement (91-100)
 91. ✅ Impactful openings
@@ -261,6 +261,6 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 
 
 ## Visual References
-![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_quality_inspector_reef_perfectwright_svg_political.png]]
+![[04_Resources/[[Assets|Assets]]/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_quality_inspector_reef_perfectwright_svg_political.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_quality_inspector_reef_perfectwright_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_v1_quality_inspector_reef_perfectwright_svg_physical.png]]

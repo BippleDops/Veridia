@@ -3,7 +3,7 @@ enhanced: true
 tags: [enhanced, 06_sessions]
 created: 2025-08-15T12:24:37.104855
 modified: 2025-08-15T12:24:37.104859
-aliases: [Session 2 the Shadow Surgery]
+aliases: [Session 2 the [[Shadow_Surgery|Shadow Surgery]]]
 ---
 
 # Session 2 The Shadow Surgery
@@ -33,7 +33,7 @@ tags:
 - research created: '2025-08-14'
 *Sounds of [relevant sounds] echo in the distance.*
 modified: '2025-08-14'
-- -- # Session 2: The Shadow Surgery * The Shadow Conspiracy Campaign - Investigation Deepens* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview Having discovered evidence of consciousness manipulation in Session 1, the heroes must infiltrate the abandoned medical facility where shadow surgeries are performed. They'll witness the horrifying process firsthand and uncover the true scope of the conspiracy. **Location**: Abandoned Aquabyssos Medical University - East Wing **Level**: 5th-6th **Duration**: 4-5 hours **Key Theme**: Body horror meets political thriller```dataview TABLE evidence-collected, conspiracy-exposure, trust-network FROM "Shadow_Conspiracy" WHERE contains(tags, "session-2")```### The Medical District The trail from Session 1 leads to the Medical District - a sprawling complex of hospitals, research facilities, and the prestigious Aquabyssos Medical University. The East Wing was supposedly closed for "renovation" three months ago. **Investigation DC 15**: The timing coincides with the start of unusual parliamentary voting patterns
+- -- # Session 2: The Shadow Surgery * The Shadow Conspiracy Campaign - Investigation Deepens* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview Having discovered evidence of consciousness manipulation in Session 1, the heroes must infiltrate the abandoned medical facility where shadow surgeries are performed. They'll witness the horrifying process firsthand and uncover the true scope of the conspiracy. **[[location|Location]]**: Abandoned Aquabyssos Medical University - East Wing **Level**: 5th-6th **Duration**: 4-5 hours **Key Theme**: Body horror meets political thriller```dataview TABLE evidence-collected, conspiracy-exposure, trust-network FROM "Shadow_Conspiracy" WHERE contains(tags, "session-2")```### The Medical District The trail from Session 1 leads to the Medical District - a sprawling complex of hospitals, research facilities, and the prestigious Aquabyssos Medical University. The East Wing was supposedly closed for "renovation" three months ago. **Investigation DC 15**: The timing coincides with the start of unusual parliamentary voting patterns
 **Perception DC 18**: Fresh tire tracks lead to the supposedly abandoned building **Insight DC 16**: Security guards seem nervous and avoid eye contact ### Getting Inside **Option 1: Social Infiltration** - Disguise as medical inspectors (Deception DC 16)
 - Claim to be journalists investigating closure (Persuasion DC 18)
 - Pose as family of "patients" (Performance DC 14) **Option 2: Stealth Approach** - Scale building exterior (Athletics DC 15)
@@ -41,13 +41,13 @@ modified: '2025-08-14'
 - Disable security systems (Thieves' Tools DC 16) **Option 3: Direct Confrontation**
 - Demand entry under authority (Intimidation DC 19)
 - Present forged official documents (Forgery Kit DC 18)
-- Use political connections established in Session 1 ### Layout: Abandoned Medical Wing ┌─────────────────────────────────────┐ │ E3: Recovery Ward E4: Storage │
+- Use political connections established in Session 1 ### Layout: Abandoned Medical Wing ┌─────────────────────────────────────┐ │ E3: Recovery Ward E4: [[storage|Storage]] │
 ├─────────────────┬───────────────────┤
 │ E2: Pre-Op │ E5: Central │
 │ Chambers │ Surgery │
 ├─────────────────┼───────────────────┤
 │ E1: Reception │ E6: Shadow │
-│ & Records │ Archive │
+│ & Records │ [[archive|Archive]] │
 └─────────────────┴───────────────────┘ ### E1: Reception and Records **First Impressions**: Dusty, officially abandoned, but computer systems still running **Hidden Elements** (Perception DC 15): Recent foot traffic, coffee cups still warm **Key Discoveries**:
 - Patient intake logs with government official names
 - Payment records from "Anonymous Benefactor - Account #7777"
@@ -61,7 +61,7 @@ modified: '2025-08-14'
 - Memory modification equipment active
 - Access codes for military installations visible on charts **Occupied Room C**: Empty but prepared for next patient
 - Restraints suggest unwilling subject
-- Name tag reads "Captain Marina Saltborn"
+- [[Name|Name]] tag reads "Captain Marina Saltborn"
 - Heroes have 30 minutes before she arrives **Evidence Rating**: 3 points (witnessing active procedures) **Moral Choice**: - Intervene immediately (saves patients, alerts conspiracy)
 - Gather more evidence first (patients suffer, more intel gained)
 - Attempt rescue without detection (requires skill checks) ### E3: Recovery Ward **Scene**: Post-surgery patients in various stages of consciousness integration **Patient Observations**: 1. **Royal Guard Captain**: Shadow integration complete, responding to new identity
@@ -69,12 +69,12 @@ modified: '2025-08-14'
 3. **Academy Professor**: Failed integration, in catatonic state
 4. **Unknown Noble**: Recently deceased from procedure complications **Skill Challenges**: - **Medicine DC 18**: Understand the integration process
 - **Investigation DC 16**: Find medical notes on success/failure rates
-- **Insight DC 19**: Realize some patients were willing volunteers **Key Discovery**: Integration success rate is only 60% - the conspiracy is sacrificing many for control **Evidence Rating**: 2 points, +1 if characters document everything ### E4: Storage and Supplies **Contents**: Surgical equipment, shadow essence containers, consciousness preservation devices **Shadow Essence Analysis** (Arcana DC 17): - Extracted from willing shadow creatures
+- **Insight DC 19**: Realize some patients were willing volunteers **Key Discovery**: Integration success rate is only 60% - the conspiracy is sacrificing many for control **Evidence Rating**: 2 points, +1 if characters document everything ### E4: Storage and Supplies **Contents**: Surgical equipment, shadow essence containers, consciousness preservation devices **Shadow Essence Analysis** ([[Arcana|Arcana]] DC 17): - Extracted from willing shadow creatures
 - Enhanced with Deep Mother energy signatures
 - Designed to be compatible with human consciousness **Consciousness Preservation Devices** (Investigation DC 15):
 - Contain original personalities of victims
 - Labels suggest they can be restored if devices remain intact
-- Some containers are already cracked or empty **Equipment Inventory**:
+- Some containers are already cracked or empty **[[Equipment_Inventory|Equipment Inventory]]**:
 - 15 consciousness preservation devices (3 damaged)
 - 200 doses of refined shadow essence
 - Surgical tools designed for neural interface
@@ -94,7 +94,7 @@ modified: '2025-08-14'
 - **Medicine DC 19**: Safely extract patient ### E6: Shadow Archive **The Conspiracy Database**: Complete records of the shadow operation **Archive Contents**: - **Target Lists**: Government officials, military leaders, business owners
 - **Success Reports**: Detailed analysis of successful integrations
 - **Ficial Records**: Funding sources and payment structures
-- **Future Plans**: Timeline for complete governmental takeover
+- **Future Plans**: [[Timeline|Timeline]] for complete governmental takeover
 - **Communication Logs**: Coded messages to other cells **Key Intelligence** (Investigation DC 15 each):
 - Parliament voting schedule coordinated with surgeries
 - Military exercises timed with officer integrations

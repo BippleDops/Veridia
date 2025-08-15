@@ -50,7 +50,7 @@ improvements: 20
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## References - [[Campaign_Overview_1 (01_Adventures)|Campaign Overview 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/story
+- **Hidden Details**: Secret aspects ## References - [[Campaign_Overview_1 (01_Adventures)|[[Campaign_Overview|Campaign Overview]] 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/story
 #story/lore
 #world/world
 #gameplay/session

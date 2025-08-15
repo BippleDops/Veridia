@@ -51,7 +51,7 @@ updated: '2025-08-13T12:34:07.985014+00:00'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-armor-mm-drow-3-armor-mm.svg) # Drow +3 Armor You have a +3 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
+![](04_Resources/Assets/Items/item-artifact-drow-3-armor-mm-drow-3-armor-mm.svg) # Drow +3 Armor You have a +3 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer. **Variants**:
 
 - [Drow +3 Breastplate](#Drow%20+3%20Breastplate)
 - [Drow +3 Chain Mail](#Drow%20+3%20Chain%20Mail)

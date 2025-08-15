@@ -51,7 +51,7 @@ updated: '2025-08-13T12:34:06.390624+00:00'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg) # Giant Insect
+![](04_Resources/Assets/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg) # Giant Insect
 
 *4th-level, Conjuration* - **Casting time:** 1 Action
 - **Range:** 60 feet

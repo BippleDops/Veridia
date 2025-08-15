@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Integration](../../../04_Resources/Assets/Generated/Misc/cultural_integration.png)
+![Cultural Integration](../../../04_Resources/Assets/Misc/cultural_integration.png)
 
 ## 🔧 Deep Evaluation Improvements
 

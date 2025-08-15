@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Mediation](../../../04_Resources/Assets/Generated/Misc/cultural_mediation.png)
+![Cultural Mediation](../../../04_Resources/Assets/Misc/cultural_mediation.png)
 
 ## 🔧 Deep Evaluation Improvements
 

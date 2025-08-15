@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![The Academy of Resoce](../../../04_Resources/Assets/Generated/Misc/the_academy_of_resoce.png)
+![The Academy of Resoce](../../../04_Resources/Assets/Misc/the_academy_of_resoce.png)
 
 ## 🔧 Deep Evaluation Improvements
 

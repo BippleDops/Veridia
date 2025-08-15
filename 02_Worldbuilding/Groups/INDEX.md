@@ -1,3 +1,9 @@
+---
+tags: [faction, organization]
+type: faction
+aliases: ["INDEX"]
+---
+
 # Factions Index
 
 *Total: 453 entries*

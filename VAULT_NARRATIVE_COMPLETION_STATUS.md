@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:28.932181
 aliases: [VAULT NARRATIVE COMPLETION STATUS]
 ---
 
-# Vault Narrative Completion Status
+# [[VAULT_NARRATIVE_COMPLETION_STATUS|Vault Narrative Completion Status]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -28,7 +28,7 @@ publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATI
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
-- Cultural significance ## Detailed Information ### Background The history and development of VAULT NARRATIVE COMPLETION STATUS within the campaign context. ### Current Status How this element currently functions and its present importance. ### Future Potential Possible developments and plot opportunities. ## [[RELATIONSHIPS|Relationships]] ### Direct Connections - [[00 Indexes|00 Indexes]] ### Indirect Influences - Broader campaign themes
+- Cultural significance ## Detailed Information ### Background The history and development of VAULT NARRATIVE COMPLETION STATUS within the campaign context. ### Current Status How this element currently functions and its present importance. ### Future Potential Possible developments and plot opportunities. ## [[RELATIONSHIPS|[[RELATIONSHIPS|Relationships]]]] ### Direct Connections - [[00 Indexes|00 Indexes]] ### Indirect Influences - Broader campaign themes
 - World-building elements
 - Character interactions ## Usage Guidelines ### For Players - How to interact with this element
 - Potential benefits or risks
@@ -40,7 +40,7 @@ publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATI
 - Balance factors
 - Integration tips ## References & Resources - Campaign documentation
 - Related materials
-- [[inspiration|Inspiration]] sources --- *Enhanced by Stub Enhancement System* ## Notes {#notes} *Additional notes* #mechanics/mechanics
+- [[inspiration|[[inspiration|Inspiration]]]] sources --- *Enhanced by Stub Enhancement System* ## Notes {#notes} *Additional notes* #mechanics/mechanics
 #mechanics/system
 #story/plot
 #story/narrative
@@ -57,6 +57,6 @@ publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATI
 *The adventure continues...*
 
 ## Visual References
-![[04_Resources/Assets/Maps/World/Continents/world_the_vault_keepers_player.png]]
+![[04_Resources/[[Assets|Assets]]/[[Maps|Maps]]/World/Continents/world_the_vault_keepers_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_keeper_aurelia_crownguard_vault_keeper_aurelia_crownguard_svg_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_vault_breach_vault_breach_svg_physical.png]]

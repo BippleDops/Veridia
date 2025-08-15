@@ -13,7 +13,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Faction Reputation Matrix](../../04_Resources/Assets/Generated/Misc/faction_reputation_matrix.png)
+![Faction Reputation Matrix](../../04_Resources/Assets/Misc/faction_reputation_matrix.png)
 
 ### Merchant's Guild ↔ Shadow Syndicate
 **Relationship**: Open Hostility

@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Aquabyssos Academy](../../../04_Resources/Assets/Generated/Misc/aquabyssos_academy.png)
+![Aquabyssos Academy](../../../04_Resources/Assets/Misc/aquabyssos_academy.png)
 
 ## 🔧 Deep Evaluation Improvements
 

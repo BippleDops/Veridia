@@ -54,13 +54,13 @@ status: complete
 session_number: 2
 level_range: 1-3
 duration: 4-5 hours
-world: Aquabyssos
+world: [[Aquabyssos|Aquabyssos]]
 adventure: The Sunken Conspiracy
 updated: '2025-08-13T01:18:37.159211+00:00'
 - -- # Session 2: Harbor Investigation * The Sunken Conspiracy - Uncovering Smuggling Operations* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Overview **Expected Duration**: 4-5 hours **Party Level**: 1st-2nd level **Adventure Type**: Social Investigation, Political Intrigue, Light Combat **Key Themes**: Factional politics, corruption, moral ambiguity, deeper mysteries ### Continuing from Session 1 The session begins immediately after the previous cliffhanger: > The young messenger's words hang in the water-heavy air: "*Golden Current* is under attack right now!" Through the office's crystal viewport, you can see lights moving erratically in the harbor—the telltale glow of magical combat reflecting off the sea floor. **Immediate Decision Required**: How does the party respond to this crisis? **Options and Consequences**: 1. **Rush to help**: Arrive during active combat, chance to catch attackers
 2. **Gather information first**: Miss the action but arrive with better intelligence
-3. **Split the party**: Some go, some stay—divided resources but multiple advantages ### The Active Crime Scene **Location**: Pier 12, where the merchant vessel *Golden Current* is moored. **Situation on Arrival**: - **Combat in Progress**: If party rushed (less than 10 minutes)
-- **Aftermath Investigation**: If party prepared first (15+ minutes) ### Option A: Arriving During Combat **The Scene**: > Water swirls violently around Pier 12 as shapes move beneath the surface. The *Golden Current*, a three-masted vessel designed for both surface and shallow underwater travel, lists heavily to one side. Pressure-suited figures are loading cargo from the ship onto a sleek, unmarked submersible. Sparks of magical energy light up the water as the ship's defenders fight back. **Combat Encounter: Smuggler Raid in Progress** **Enemies**:
+3. **Split the party**: Some go, some stay—divided resources but multiple advantages ### The Active Crime Scene **[[location|Location]]**: Pier 12, where the merchant vessel *Golden Current* is moored. **Situation on Arrival**: - **Combat in Progress**: If party rushed (less than 10 minutes)
+- **Aftermath Investigation**: If party prepared first (15+ minutes) ### Option A: Arriving During Combat **The Scene**: > Water swirls violently around Pier 12 as shapes move beneath the surface. The *Golden Current*, a three-masted vessel designed for both surface and shallow underwater travel, lists heavily to one side. Pressure-suited figures are loading cargo from the ship onto a sleek, unmarked submersible. Sparks of magical energy light up the water as the ship's defenders fight back. **Combat Encounter: [[Smuggler|Smuggler]] Raid in Progress** **Enemies**:
 
 
 **Summary**: Option A: Arriving During Combat **The Scene**: > Water swirls violently around Pier 12 as shapes move beneath the surface. The *Golden Current*, a three-masted vessel designed for both surface and shallow underwater travel, lists heavily to one side. Pressure-suited figures are loading cargo from the ship onto a sleek, unmarked submersible. Sparks of magical energy light up the water as the ship's defenders fight back. **Combat Encounter: Smuggler Raid in Progress** **Enemies**: - Key information at a glance.
@@ -70,7 +70,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Pressure Zones**: Moving between areas requires adaptation checks
 - **Innocent Bystanders**: Ship's crew (5 sailors) caught in crossfire **Tactical Map Description**:
 - **The Golden Current**: 80-foot merchant vessel, partially submerged
-- **Pier 12**: Coral platform with air pockets and water channels - **Smuggler Submersible**: Sleek, fast vessel positioned for quick escape
+- **Pier 12**: [[Coral|Coral]] platform with air pockets and water channels - **Smuggler Submersible**: Sleek, fast vessel positioned for quick escape
 - **Cargo Area**: Crates and barrels provide cover but can be destroyed
 - **Water Channels**: Allow underwater movement between areas **Smuggler Tactics**:
 - **Priority**: Complete cargo transfer, then escape
@@ -92,7 +92,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - Ship's manifest altereded—recent erasures visible **Medicine DC 14** (examining casualties):
 - Crew members were incapacitated, not killed when possible
 - Weapon wounds match crossbow bolts and pressure-based weapons
-- One body shows signs of memory modification magic **Arcana DC 16** (magical traces):
+- One body shows signs of memory modification magic **[[Arcana|Arcana]] DC 16** (magical traces):
 - Transmutation magic used to alter ship's appearance
 - Divination magic employed to locate specific cargo
 - Necromancy traces suggest memory extraction from survivors #### Interviewing Survivors **First Mate Sarah Ironwind** (use Scout stats): - **Condition**: Wounded but conscious
@@ -118,7 +118,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 2. **Military Response**: Admiral Thorne Blackwater wants to declare martial law
 3. **Economic Impact**: Trade routes are closing, affecting the entire region
 4. **Intelligence Sources**: Her network has identified potential conspiracy members
-5. **Time Constraint**: Parliament emergency session called for tomorrow **Luna's Dilemma**: > "I can give you official authority to investigate, but that means working within the system—and the system is compromised. Or you can work unofficially, with my resources but without legal protection. Either way, we're running out of time." ### Meeting Parliament Representative **Senator Marius Deepcurrent** (use Noble stats with adaptations): - **Race**: Human (heavily adapted—translucent skin, enlarged eyes)
+5. **[[Time|Time]] Constraint**: Parliament emergency session called for tomorrow **Luna's Dilemma**: > "I can give you official authority to investigate, but that means working within the system—and the system is compromised. Or you can work unofficially, with my resources but without legal protection. Either way, we're running out of time." ### Meeting Parliament Representative **[[Senator|Senator]] Marius Deepcurrent** (use Noble stats with adaptations): - **Race**: Human (heavily adapted—translucent skin, enlarged eyes)
 - **Appearance**: Elegant robes, multiple jewelry pieces indicating status
 - **Personality**: Intelligent, politically savvy, genuinely concerned about crisis
 - **Goals**: Find solution that doesn't damage Aquabyssos's reputation **Senator's Arrival**: > A pressure tube hisses to a stop outside the harbor office, and Senator Marius Deepcurrent emerges with a small retinue of guards and advisors. His translucent skin shows the pulsing of his modified circulatory system, and his enlarged eyes take in everything with calculating intelligence. **Senator's Proposition**: > "Harbor Master Freedrift, I understand you've been investigating these attacks with... Unofficial assistance. The Parliament is prepared to grant these individuals Temporary Investigative Authority, but we need results within 48 hours. Admiral Blackwater is pushing for a military response that could have serious diplomatic consequences." **Formal Authority Benefits**:
@@ -129,12 +129,12 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Oversight**: Must report progress regularly
 - **Restrictions**: Cannot use illegal methods or work with criminals
 - **Political Targets**: Conspiracy knows they're officially sanctioned
-- **Responsibility**: Failures reflect on Parliament's competence **Alternative: Underground Network**: Luna offers introduction to the Free Current resistance: > "If you work with my network, you'll have different resources—people the conspiracy doesn't know about, safe houses they can't find, information they can't intercept. But if you're caught, I can't protect you officially." ### The Choice of Paths This decision affects the rest of the session and future sessions: #### Parliament Intelligence Bureau **Location**: The Crystal Archive, deep beneath Parliament complex. **Chief Analyst Nerida Saltweave** (use Mage stats): - **Race**: Merfolk (Parliament loyalist)
+- **Responsibility**: Failures reflect on Parliament's competence **Alternative: Underground Network**: Luna offers introduction to the Free Current resistance: > "If you work with my network, you'll have different resources—people the conspiracy doesn't know about, safe houses they can't find, information they can't intercept. But if you're caught, I can't protect you officially." ### The Choice of Paths This decision affects the rest of the session and future sessions: #### Parliament Intelligence Bureau **Location**: The Crystal Archive, deep beneath Parliament complex. **Chief Analyst Nerida Saltweave** (use Mage stats): - **Race**: [[Merfolk|Merfolk]] (Parliament loyalist)
 - **Personality**: Methodical, suspicious, protective of state secrets
-- **Goals**: Find threat to Parliament authority, maintain security **The Intelligence Files**: > The Crystal Archive stores information in living memory corals—organisms that record and replay experiences. Chief Analyst Saltweave guides you to a restricted section where classified files pulse with bioluminescent warnings. **Information Available** (requires Persuasion DC 16 or official authority): 1. **Marcus Shadowfin's File**: - Former Harbor Authority second-in-command - Dismissed for selling security information - Has connections to radical political groups - Suspected of organizing anti-Parliament cells - Last known location: Deep Current Territories 2. **Ficial Intelligence**: - Large gold transfers to shell companies - Payments traced to off-shore accounts - Connection to surface world weapons dealers - Funding sources include stolen goods fencing 3. **Personnel Security Alerts**: - Several Harbor Authority employees under investigation - Parliament members receiving threats - Increase in adapted-human separatist activity - Reports of surface world infiltrators **The Restricted File** (requires additional Persuasion DC 20): > Nerida's expression becomes grave as she accesses a memory coral that pulses deep red. "This is classified at the highest levels. Three months ago, we intercepted communications suggesting a coordinated attack on Parliament leadership. The operation was code-named 'Deep Liberation' and involved stealing specific resources for an unspecified 'conversion process.'" **Deep Liberation Intelligence**:
+- **Goals**: Find threat to Parliament authority, maintain security **The Intelligence Files**: > The Crystal Archive stores information in living memory corals—organisms that record and replay experiences. Chief Analyst Saltweave guides you to a restricted section where classified files pulse with bioluminescent warnings. **Information Available** (requires Persuasion DC 16 or official authority): 1. **Marcus Shadowfin's File**: - Former Harbor Authority second-in-command - Dismissed for selling security information - Has connections to radical political groups - Suspected of organizing anti-Parliament cells - Last known location: Deep Current Territories 2. **Ficial Intelligence**: - Large gold transfers to shell companies - Payments traced to off-shore accounts - Connection to surface world weapons dealers - Funding sources include stolen goods fencing 3. **Personnel Security Alerts**: - Several Harbor Authority employees under investigation - Parliament members receiving threats - Increase in adapted-human separatist activity - [[reports|Reports]] of surface world infiltrators **The Restricted File** (requires additional Persuasion DC 20): > Nerida's expression becomes grave as she accesses a memory coral that pulses deep red. "This is classified at the highest levels. Three months ago, we intercepted communications suggesting a coordinated attack on Parliament leadership. The operation was code-named 'Deep Liberation' and involved stealing specific resources for an unspecified 'conversion process.'" **Deep Liberation Intelligence**:
 - **Primary Goal**: Overthrow current Parliament structure
 - **Method**: Create crisis that justifies radical response
-- **Timeline**: Major operation planned for next new moon
+- **[[Timeline|Timeline]]**: Major operation planned for next new moon
 - **Leadership**: "The Commodore" and unknown surface world contacts
 - **Resources Needed**: Memory manipulation technology, pressure adaptation equipment, modified vessels #### Official Resources Provided **Equipment Access**: - **Parliament Seal**: Grants access to restricted areas
 - **Communication Crystals**: Secure contact with harbor authority
@@ -143,7 +143,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Guard Escort**: 4 Parliament Guards available for dangerous missions
 - **Intelligence Network**: Regular updates from official sources
 - **Safe Houses**: Secure locations controlled by Parliament
-- **Emergency Response**: Backup available within 1 hour of request #### The Free Current Network **Location**: Hidden chamber beneath an abandoned kelp farm. **Contact**: **Agent Whisper** (use Spy stats): - **Race**: Unknown (heavily modified, possibly no longer entirely human)
+- **Emergency Response**: Backup available within 1 hour of request #### The Free Current Network **Location**: Hidden chamber beneath an abandoned kelp farm. **Contact**: **Agent [[Whisper|Whisper]]** (use Spy stats): - **Race**: Unknown (heavily modified, possibly no longer entirely human)
 - **Appearance**: Shrouded figure whose features shift like water
 - **Personality**: Paranoid, knowledgeable, speaks in riddles
 - **Goals**: Protect Free Current operations, gather intelligence **The Underground Meeting**: > Luna leads you through a maze of abandoned tunnels that smell of decay and old secrets. The meeting chamber is carved from living rock, walls lined with bioluminescent fungi that pulse in warning patterns. Agent Whisper emerges from shadows that seem deeper than they should be. **Whisper's Information**: > "The current runs deep, and the shadows have eyes. What you seek swims in darker waters than Parliament imagines. The Commodore is a puppet, and his strings reach to places that should not exist." **Intelligence from the Underground** (decoded from Whisper's cryptic speech): 1. **The Real Conspiracy**: - Parliament members are involved at the highest levels - Surface world agents are manipulating events - The ship thefts are preparation for something larger - Memory modification useds on Parliament officials 2. **Safe Houses and Resources**: - Hidden facilities throughout the harbor - Network of adapted humans who oppose Parliament - Access to illegal magical items and services - Underground smuggling routes to escape if needed 3. **Active Operations**: - Several Parliament members under surveillance - Counter-intelligence efforts to protect Free Current - Plans to expose corruption publicly - Preparation for potential civil war **Underground Resources Provided**: **Equipment Access**:
@@ -151,7 +151,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Smuggler's Gear**: Untraceable weapons and tools
 - **Safe Passage**: Access to hidden transportation networks
 - **Black Market Contacts**: Dealers in information and illegal goods **Personnel Support**:
-- **Underground Guides**: People who know all the hidden routes
+- **Underground Guides**: [[People|People]] who know all the hidden routes
 - **Information Brokers**: Specialists in gathering secrets
 - **Safe House Network**: Secure locations unknown to authorities
 - **Escape Routes**: Multiple ways to leave the city if discovered ### Following the Money Trail Regardless of path chosen, investigation leads to ficial corruption. #### The Silverscale Banking House **Location**: Elegant building in the Noble Quarter, constructed from rare deep-sea pearls. **Banker Titus Goldcurrent** (use Noble stats): - **Race**: Human (minor adaptations, clearly wealthy)
@@ -188,7 +188,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Strange Currents**: create stealth more difficult **The Secret Base**: > In a massive underwater cavern, illuminated by bioluminescent organisms and artificial lighting, you see the impossible: a fleet of modified ships, some you recognize as the missing vessels, others unknown. Crews of adapted humans work alongside strange, mechanical creatures, loading cargo and making modifications to vessel hulls. ### The Conspiracy Revealed **Base Description**: - **Modified Ships**: The missing vessels, altered with unknown technology
 - **Construction Areas**: Building new submersibles with surface world technology
 - **Holding Pens**: Captured crew members, some appearing blank-eyed
-- **Command Center**: Where operations are planned and coordinated **Key Figures Present**: **Commodore Marcus Shadowfin** (use Veteran stats with modifications):
+- **Command Center**: Where operations are planned and coordinated **Key Figures Present**: **Commodore Marcus Shadowfin** (use [[Veteran|Veteran]] stats with modifications):
 - **Appearance**: Heavily adapted for deep water, partially mechanical
 - **Equipment**: Advanced pressure suit, commanding presence
 - **Personality**: Bitter, charismatic, absolutely convinced he's saving Aquabyssos **Senator Octavius Darkwater**:
@@ -204,7 +204,7 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 4. **The Method**: Modified crews under mental control
 5. **The Target**: Parliament building itself ### Combat Encounter: Discovery and Escape **If Party is Discovered** (failed Stealth checks or direct approach): **Enemies**: - **Commodore Marcus Shadowfin**: Primary antagonist
 - **4 Modified Crew Members** (use Bandit stats with mental control): - Blank expressions, follow orders without question - Feel no pain, fight until destroyed - Use nets and capture weapons preferentially - **2 Guard Sharks** (use Reef Shark stats enhanced): - Mechanically augmented for improved performance - Follow complex commands from handlers - Attack to subdue rather than kill **Environmental Factors**:
-- **Underwater Combat**: All standard underwater rules apply
+- **[[Underwater_Combat|Underwater Combat]]**: All standard underwater rules apply
 - **Construction Hazards**: Loose cables, unstable structures
 - **Escape Routes**: Multiple passages, but some may be trapped
 - **Pressure Changes**: Rapid ascent could cause problems **Commodore's Tactics**:
@@ -292,8 +292,8 @@ updated: '2025-08-13T01:18:37.159211+00:00'
 - **Superheated Water**: 3d6 fire damage for direct contact
 - **Mineral Deposits**: Difficult terrain, potential for getting trapped
 - **Gas Emissions**: Constitution saves or become poisoned ### Combat Modifications for Session 2 **Underwater Combat Considerations**: - **Movement**: Swimming speed or half walking speed
-- **Attacks**: Disadvantage on ranged attacks beyond normal range
-- **Spells**: Some spells function differently or not at all
+- **Attacks**: [[Disadvantage|Disadvantage]] on ranged attacks beyond normal range
+- **[[spells|Spells]]**: Some spells function differently or not at all
 - **Equipment**: Weapons and armor may be modified for underwater use **Pressure Suit Combat**:
 - **Vulnerability**: Piercing damage can cause suit breach
 - **Suit Breach**: Requires immediate repair or character takes pressure damage

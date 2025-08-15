@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Royal Academy of Magical Science](../../../04_Resources/Assets/Generated/Misc/royal_academy_of_magical_science.png)
+![Royal Academy of Magical Science](../../../04_Resources/Assets/Misc/royal_academy_of_magical_science.png)
 
 ## 🔧 Deep Evaluation Improvements
 

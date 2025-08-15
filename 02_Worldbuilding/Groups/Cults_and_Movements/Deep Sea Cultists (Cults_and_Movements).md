@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Deep Sea Cultists](../../../04_Resources/Assets/Generated/Misc/deep_sea_cultists.png)
+![Deep Sea Cultists](../../../04_Resources/Assets/Misc/deep_sea_cultists.png)
 
 ## 🔧 Deep Evaluation Improvements
 

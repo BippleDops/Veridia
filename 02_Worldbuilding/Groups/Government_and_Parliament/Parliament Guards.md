@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliament Guards](../../../04_Resources/Assets/Generated/Misc/parliament_guards.png)
+![Parliament Guards](../../../04_Resources/Assets/Misc/parliament_guards.png)
 
 ## 🔧 Deep Evaluation Improvements
 

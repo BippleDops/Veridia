@@ -98,6 +98,6 @@ Detailed description pending.
 #meta/reference
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png]]
-![[04_Resources/Assets/Generated/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png]]
-![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
+![[04_Resources/Assets/Misc/assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png]]
+![[04_Resources/Assets/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png]]
+![[04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]

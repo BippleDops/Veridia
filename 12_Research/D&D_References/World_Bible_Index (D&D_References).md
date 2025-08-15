@@ -130,8 +130,8 @@ SORT file.mtime DESC --- *"Two worlds, seven shards, one truth: Everything is co
 
 ## Visual References
 ![[04_Resources/Assets/Maps/world-map.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_organization_md.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_cultural_organization_md.png]]
 
 
 ## Realm Connections

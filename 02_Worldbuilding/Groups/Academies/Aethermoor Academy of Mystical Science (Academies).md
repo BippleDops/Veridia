@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Aethermoor Academy of Mystical Science](../../../04_Resources/Assets/Generated/Misc/aethermoor_academy_of_mystical_science.png)
+![Aethermoor Academy of Mystical Science](../../../04_Resources/Assets/Misc/aethermoor_academy_of_mystical_science.png)
 
 ## 🔧 Deep Evaluation Improvements
 

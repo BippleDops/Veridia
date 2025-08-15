@@ -16,7 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Groups/Merchants Guild.md](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_merchants_guild_md.png)
+![02_Worldbuilding/Groups/Merchants Guild.md](../../04_Resources/Assets/Misc/02_worldbuilding_groups_merchants_guild_md.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -52,7 +52,7 @@ themes:
 - sky-vessel-combat
 - evidence-gathering
 - naval-politics updated: '2025-08-13T12:34:17.821676+00:00'
-world: Aethermoor
+world: [[Aethermoor|Aethermoor]]
 - -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## A Winds of Rebellion Adventure Session * "In the realm of the sky, the greatest treasures are often hidden not in vaults of gold, but in sealed chambers of secrets that could topple kingdoms."* - -- ## Session Overview **The Skyship Heist** escalates the adventure from political maneuvering to active espionage as the PCs attempt to infiltrate Admiral Cassandra Stormwind's flagship to steal crucial evidence about the conspiracy. This session combines stealth infiltration, aerial combat mechanics, and complex moral choices as the PCs discover that their target may not be the enemy they believed her to be. ### Session Structure 1. **The Heist Planning (60 minutes)**
 2. **Approaching the Fleet (45 minutes)**
 3. **Infiltration and Exploration (90 minutes)**
@@ -62,8 +62,8 @@ world: Aethermoor
 - **Length:** 400 feet, displacement: 8,000 tons (magical levitation)
 - **Complement:** 300 officers and crew, plus 50 marines
 - **Armament:** 20 crystal cannon, 40 wind ballistae, magical defensive barriers
-- **Current Location:** Anchored 5 miles east of Crystalhaven at 12,000 feet altitude
-- **Mission Status:** Conducting "routine maintece" while crew attends shore leave rotations **The Evidence:** Three specific items must be retrieved:
+- **Current [[location|Location]]:** Anchored 5 miles east of [[Crystalhaven|Crystalhaven]] at 12,000 feet altitude
+- **Mission Status:** Conducting "routine maintece" while crew attends shore leave rotations **The [[Evidence|Evidence]]:** Three specific items must be retrieved:
 1. **The False Orders Archive:** Sealed communication crystals containing forged naval directives
 2. **The Goldspire Correspondence:** Diplomatic letters revealing foreign naval coordination
 3. **The Admiral's Personal Investigation:** Stormwind's private research into crew loyalty and command structure anomalies #### **Gathering Intelligence** **Naval Intelligence Available:** - Ship schedules and crew rotation patterns from Merchant Prince contacts
@@ -76,7 +76,7 @@ world: Aethermoor
 - First Officer Commander Marcus Bayside (completely loyal to Stormwind)
 - Security Chief Lieutet Helena Wardwell (recently assigned, unknown loyalties) - Ship's Mage Master Edwin Crystalweaver (brother of Professor Aldric, progressive sympathies)
 - Quartermaster Jeremiah Moorfield (veteran sailor, traditionalist values)
-- Marine Captain Thaddeus Ironwind (puritan sympathies, anti-crystal bias) **Security Systems:** **Arcana DC 16 identifies:**
+- Marine Captain Thaddeus Ironwind (puritan sympathies, anti-crystal bias) **Security Systems:** **[[Arcana|Arcana]] DC 16 identifies:**
 - **Crystal Detection Grid:** Monitors magical auras throughout the ship
 - **Wind Ward Barriers:** Prevent unauthorized aerial approach
 - **Communication Intercept Array:** Records all magical and mundane messages
@@ -124,7 +124,7 @@ world: Aethermoor
 - Tools and magic for bypassing security systems
 - Exit strategy for rapid escape **Inside Agent Approach Requirements:**
 - Social manipulation and persuasion skills
-- Time to develop relationships and trust
+- [[Time|Time]] to develop relationships and trust
 - Resources to incentivize cooperation
 - Plans to protect recruited agents from discovery **Technical Approach Requirements:**
 - Advanced magical knowledge and abilities
@@ -232,9 +232,9 @@ world: Aethermoor
 - **Tactical Planning Room:** Strategy chamber with magical map displays
 - **Secure Archive:** Vault containing classified documents and communication crystals **Main Deck (Deck 3):**
 - **Officer's Mess:** Dining hall and social area for commissioned officers
-- **Ship's Library:** Navigation charts, technical manuals, historical records
+- **Ship's [[library|Library]]:** Navigation charts, technical manuals, historical records
 - **Medical Bay:** Sick bay with magical healing facilities
-- **Armory:** Personal weapons and equipment storage **Upper Gun Deck (Deck 4):**
+- **[[armory|Armory]]:** Personal weapons and equipment storage **Upper Gun Deck (Deck 4):**
 - **Primary Crystal Cannons:** 10 heavy magical artillery pieces
 - **Wind Ballista Batteries:** 20 traditional siege weapons enhanced with wind magic
 - **Ammunition Storage:** Magical crystal charges and physical projectiles
@@ -393,7 +393,7 @@ world: Aethermoor
 - Orders directing fleet coordination with "allied foreign vessels" during specific time windows
 - Instructions for Admiral Stormwind to avoid communication with certain government officials
 - Authorization for Security Chief Wardwell to monitor crew loyalty and report directly to "naval intelligence"
-- Timeline references that correspond exactly with conspiracy events in Crystalhaven **The Goldspire Correspondence Shows:**
+- [[Timeline|Timeline]] references that correspond exactly with conspiracy events in Crystalhaven **The Goldspire Correspondence Shows:**
 - Letters appear to be from Admiral Stormwind agreeing to provide naval support for Goldspire operations
 - Magical analysis reveals the letters are perfect forgeries, but not written by Stormwind
 - References to payment and political support that Stormwind never received
@@ -552,8 +552,8 @@ world: Aethermoor
 - **Pilot checks opposed:** PC vessel speed vs. Pursuer speed and pilot skill
 - **Navigation DC varies:** Use terrain, weather, or obstacles to gain advantage
 - **Endurance considerations:** Vessel system strain and crew fatigue **Combat Maneuvering:**
-- **Initiative:** Standard combat initiative for all vessels
-- **Action Economy:** Pilot, gunner, and crew actions each round
+- **[[Initiative|Initiative]]:** Standard combat initiative for all vessels
+- **[[Action_Economy|Action Economy]]:** Pilot, gunner, and crew actions each round
 - **Damage Systems:** Disable pursuit vessels without killing crews **Environmental Utilization:**
 - **Weather Magic:** Create concealment or hindrances
 - **Terrain Advantages:** Use cloud formations, air currents, or obstacles
@@ -641,7 +641,7 @@ world: Aethermoor
 - **Dogfighting:** Improved aerial maneuver and combat abilities
 - **Wind Magic:** Enhanced understanding and use of air-based magical abilities
 - **High-Altitude Survival:** Resistance to altitude effects and weather extremes
-- **Vehicle Expertise:** Specialized knowledge of flying vessels and equipment #### **Equipment and Magic Items** **Potential Rewards:** - **Naval Equipment:** Specialized tools, weapons, and magical items from ship's stores
+- **Vehicle Expertise:** Specialized knowledge of flying vessels and equipment #### **Equipment and Magic [[Items|Items]]** **Potential [[rewards|Rewards]]:** - **Naval Equipment:** Specialized tools, weapons, and magical items from ship's stores
 - **Captured Gear:** Equipment taken from conspiracy agents during conflicts
 - **Allied Gifts:** Items provided by Admiral Stormwind or other naval allies
 - **Magical Enhancements:** Improvements to existing equipment based on naval experience **Examples:**
@@ -679,7 +679,7 @@ world: Aethermoor
 - Naval equipment and weapons appropriate to PC level and class
 - Magical items related to aerial travel and combat
 - Specialized tools for ongoing espionage and investigation activities
-- Currency and valuables acquired during the mission #### **Consequence Management** **Tracking Story Impact:** The choices made during the skyship heist will have lasting consequences: - **Admiral Stormwind's Loyalty:** Affects all future naval encounters and Crown relationships
+- Currency and valuables acquired during the mission #### **Consequence Management** **Tracking Story Impact:** The choices made during the skyship heist will have lasting consequences: - **Admiral Stormwind's [[loyalty|Loyalty]]:** Affects all future naval encounters and Crown relationships
 - **Conspiracy Awareness:** Changes enemy tactics and preparation levels
 - **Evidence Dissemination:** Influences how other factions view the PCs and the crisis
 - **Political Escalation:** Accelerates timeline toward final confrontation #### **Faction Reactions** **Crown Loyalists:** - Increase security around key personnel and locations

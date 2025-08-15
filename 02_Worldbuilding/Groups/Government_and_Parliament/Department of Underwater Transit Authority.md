@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Department of Underwater Transit Authority](../../../04_Resources/Assets/Generated/Misc/department_of_underwater_transit_authority.png)
+![Department of Underwater Transit Authority](../../../04_Resources/Assets/Misc/department_of_underwater_transit_authority.png)
 
 ## 🔧 Deep Evaluation Improvements
 

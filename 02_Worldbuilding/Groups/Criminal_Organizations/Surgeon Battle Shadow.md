@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Surgeon Battle Shadow](../../../04_Resources/Assets/Generated/Misc/surgeon_battle_shadow.png)
+![Surgeon Battle Shadow](../../../04_Resources/Assets/Misc/surgeon_battle_shadow.png)
 
 ## 🔧 Deep Evaluation Improvements
 

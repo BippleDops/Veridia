@@ -24,7 +24,7 @@ updated: 2025-08-14
 **Details**: Rich sensory elements bring this to life. Session 22 - Deep Mother Rising represents a significant element within the campaign world, offering various opportunities for engagement and d
 *The air carries the scent of [appropriate smell].*evelopment. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Indeed, ## Relationships - Connected to various other elements within the vault
+- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Indeed, ## [[RELATIONSHIPS|Relationships]] - Connected to various other elements within the vault
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content ## Usage Notes This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks - Can serve as starting point for investigations
 - May provide crucial information at key moments
@@ -48,7 +48,7 @@ publish: false --- -|--------|
 | 3 | Option C |
 | 4 | Option D |
 | 5 | Option E |
-| 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[Campaign_Overview_1 (01_Adventures)|Campaign Overview 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/plot
+| 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[Campaign_Overview_1 (01_Adventures)|[[Campaign_Overview|Campaign Overview]] 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/plot
 #story/narrative
 #story/background
 #world/world

@@ -15,7 +15,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Ambassador Bridge-Builder](../../04_Resources/Assets/Generated/Misc/cultural_ambassador_bridge_builder.png)
+![Cultural Ambassador Bridge-Builder](../../04_Resources/Assets/Misc/cultural_ambassador_bridge_builder.png)
 
 ## 🔧 Deep Evaluation Improvements
 

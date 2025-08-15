@@ -88,7 +88,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safet
-*Sounds of [relevant sounds] echo in the distance.*y ![Quest - The Shadow Wa](../../../04_Resources/Assets/Generated/Misc/quest___the_shadow_wa.png) ## Objectives
+*Sounds of [relevant sounds] echo in the distance.*y ![Quest - The Shadow Wa](../../../04_Resources/Assets/Misc/quest___the_shadow_wa.png) ## Objectives
 
 
 ### Primary

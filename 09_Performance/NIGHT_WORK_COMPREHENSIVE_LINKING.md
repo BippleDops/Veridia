@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.072492
 aliases: [NIGHT WORK COMPREHENSIVE LINKING]
 ---
 
-# Night Work Comprehensive Linking
+# [[NIGHT_WORK_COMPREHENSIVE_LINKING|Night Work Comprehensive Linking]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
@@ -49,14 +49,14 @@ publish: false --- # Comprehensive Night Work - Linking Achievement Report ## �
 - ✅ PDFs referenced in related documents
 - ✅ Gallery sections created for visual content ### 5. Navigation Structure - ✅ Navigation added to files missing it
 - ✅ Breadcrumb trails implemented
-- ✅ Home and Index links universal
+- ✅ Home and [[Index|Index]] links universal
 - ✅ Contextual navigation based on file type ### 6. MOC Creation - ✅ Master MOC structure established
 - ✅ Category MOCs for major content types
 - ✅ Hub pages for navigation
 - ✅ Dataview queries for dynamic content ## 📈 Improvement Statistics ### Files Enhanced - NPCs: Comprehensive linking and navigation
-- Locations: Asset integration and cross-references
-- Quests: Related content connections
-- Items: Linked to usage contexts
+- [[locations|Locations]]: Asset integration and cross-references
+- [[Quests|Quests]]: Related content connections
+- [[Items|Items]]: Linked to usage contexts
 - Sessions: Connected to campaign flow ### Link Types Added - **Cross-references**: Between related content
 - **Asset links**: Images, audio, PDFs
 - **Navigation links**: Home, Index, MOCs
@@ -82,7 +82,7 @@ publish: false --- # Comprehensive Night Work - Linking Achievement Report ## �
 5. **Batch Processing**: Efficient file handling ### Safety Measures - Encoding error handling
 - Backup link pattern matching
 - File size validation
-- Path sanitization
+- [[path|Path]] sanitization
 - Exception handling ## 🏆 Mission Accomplished **Your directive**: "Keep your work going all night until every file in the vault is comprehensively linked to all its assets without any backup or archived files linked" **Status**: ✅ **COMPLETE** ### Specific Achievements 1. **Every file** processeded for linking opportunities
 2. **All assets** linkeded to relevant content
 3. **Zero backup links** remain in the vault
@@ -119,6 +119,6 @@ publish: false --- # Comprehensive Night Work - Linking Achievement Report ## �
 *The adventure continues...*
 
 ## Visual References
-![[04_Resources/Assets/Scenes/scene-scene-pressure-dome-festival-night-v2-pressure-dome-festival-night.png]]
+![[04_Resources/[[Assets|Assets]]/Scenes/scene-scene-pressure-dome-festival-night-v2-pressure-dome-festival-night.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-pressure-dome-festival-night-v1-pressure-dome-festival-night.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-pressure-dome-festival-night-pressure-dome-festival-night.png]]

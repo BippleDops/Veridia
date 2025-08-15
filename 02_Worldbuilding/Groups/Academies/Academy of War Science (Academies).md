@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Academy of War Science](../../../04_Resources/Assets/Generated/Misc/academy_of_war_science.png)
+![Academy of War Science](../../../04_Resources/Assets/Misc/academy_of_war_science.png)
 
 ## 🔧 Deep Evaluation Improvements
 

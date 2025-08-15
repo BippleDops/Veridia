@@ -114,7 +114,7 @@ title: 1 armor xdmg
 - +1 Studded Leather Armor
 created: 2025-07-23 12:39
 updated: '2025-08-12T23:37:36.847673'
-![](04_Resources/Assets/Generated/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg) # +1 Armor
+![](04_Resources/Assets/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg) # +1 Armor
 *Rare* You have a +1 bonus to AC while wearing this armor. **Variants**:
 
 ## Merged Content from 3-armor-xdmg (items).md
@@ -136,7 +136,7 @@ title: 3 armor xdmg
 - +3 Studded Leather Armor
 - content/lore
 updated: '2025-08-12T23:37:37.546963'
-![](04_Resources/Assets/Generated/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg) # +3 Armor
+![](04_Resources/Assets/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg) # +3 Armor
 *Legendary* You have a +3 bonus to AC while wearing this armor. **Variants**:
 - [+3 Breastplate](#+3%20Breastplate)
 

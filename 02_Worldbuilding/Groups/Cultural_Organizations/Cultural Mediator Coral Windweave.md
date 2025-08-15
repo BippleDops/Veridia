@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Mediator Coral Windweave](../../../04_Resources/Assets/Generated/Misc/cultural_mediator_coral_windweave.png)
+![Cultural Mediator Coral Windweave](../../../04_Resources/Assets/Misc/cultural_mediator_coral_windweave.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -34,7 +34,7 @@ updated: 2025-08-14
 **Details**: Rich sensory elements bring this to life. Session 18 - Queen's Gambit represents a significant element within the campaign world, offering various opportunities for engagement and devel
 *The air carries the scent of [appropriate smell].*opment. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. Subsequently, ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
+- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. Subsequently, ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## [[RELATIONSHIPS|Relationships]] - Connected to various other elements within the vault
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content ## Usage Notes This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks - Can serve as starting point for investigations
 - May provide crucial information at key moments
@@ -44,7 +44,7 @@ updated: 2025-08-14
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Campaign_Overview_1 (01_Adventures)|Campaign Overview 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/plot
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Campaign_Overview_1 (01_Adventures)|[[Campaign_Overview|Campaign Overview]] 1 (01 Adventures)]] ## Notes {#notes} *Additional notes* #story/plot
 #story/narrative
 #story/background
 #world/world

@@ -270,6 +270,6 @@ world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Char
 This content explores themes of power and corruption, adding narrative depth to your campaign.
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/cultural_guide.png]]
-![[04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png]]
-![[04_Resources/Assets/Generated/Misc/shadow_behavior_guidelines.png]]
+![[04_Resources/Assets/Misc/cultural_guide.png]]
+![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
+![[04_Resources/Assets/Misc/shadow_behavior_guidelines.png]]

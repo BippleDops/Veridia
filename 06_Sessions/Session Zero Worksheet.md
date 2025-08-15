@@ -49,7 +49,7 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
-- -- ### Player Information```Player Name: _______________________________ Contact Info: ______________________________ Available Days/Times: ______________________ Experience Level: □ New to TTRPGs □ Some experience □ Veteran player Preferred Communication:
+- -- ### Player Information```Player [[Name|Name]]: _______________________________ Contact Info: ______________________________ Available Days/Times: ______________________ Experience Level: □ New to TTRPGs □ Some experience □ [[Veteran|Veteran]] player Preferred Communication:
 □ Discord □ Text □ Email □ In-person only ### Campaign Preferences COMBAT INTENSITY: █░░░░ Light (minimal, story-focused)
 ██░░░ Moderate (balanced encounters)
 ███░░ Heavy (regular tactical combat)
@@ -76,7 +76,7 @@ world: Both
 □ X-Card system (remove content immediately)
 □ Lines & Veils (discuss boundaries)
 □ Check-ins (regular comfort assessment)
-□ Open Door policy (can leave anytime) ### Character Concept Worksheet CHARACTER BASICS: Name: ______________________________________ Race: ______________________________________ Class: _____________________________________ Background: ________________________________ Home Realm: □ Aquabyssos □ Aethermoor □ Convergence Point CORE CONCEPT (1-2 sentences):
+□ Open Door policy (can leave anytime) ### Character Concept Worksheet CHARACTER BASICS: Name: ______________________________________ Race: ______________________________________ Class: _____________________________________ Background: ________________________________ Home Realm: □ [[Aquabyssos|Aquabyssos]] □ [[Aethermoor|Aethermoor]] □ Convergence Point CORE CONCEPT (1-2 sentences):
 ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPORTANT RELATIONSHIP: SECRET OR FLAW: ### Party Dynamics PARTY ROLE PREFERENCES: □ Leader (takes charge, makes decisions) □ Face (handles social interactions)
 □ Tank (protects others, takes damage)
 □ Support (helps others, healing/buffs)

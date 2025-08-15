@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Groups/Order of the Crystal Flame](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_crystal_flame.png)
+![02_Worldbuilding/Groups/Order of the Crystal Flame](../../04_Resources/Assets/Misc/02_worldbuilding_groups_order_of_the_crystal_flame.png)
 
 ## 🔧 Deep Evaluation Improvements
 

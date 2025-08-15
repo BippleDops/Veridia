@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Practices](../../../04_Resources/Assets/Generated/Misc/cultural_practices.png)
+![Cultural Practices](../../../04_Resources/Assets/Misc/cultural_practices.png)
 
 ## 🔧 Deep Evaluation Improvements
 

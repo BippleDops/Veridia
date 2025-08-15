@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliament Members](../../../04_Resources/Assets/Generated/Misc/parliament_members.png)
+![Parliament Members](../../../04_Resources/Assets/Misc/parliament_members.png)
 
 ## 🔧 Deep Evaluation Improvements
 

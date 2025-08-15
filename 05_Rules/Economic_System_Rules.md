@@ -229,4 +229,4 @@ Discuss with players before implementing ## References - [[Economic_Ripple_Effec
 ## Visual References
 ![[04_Resources/Assets/Locations/location-city-economic-planning-economic-planning.png]]
 ![[04_Resources/Assets/Locations/location-city-economic-planning-v1-economic-planning.png]]
-![[04_Resources/Assets/Generated/Misc/economic_intelligence.png]]
+![[04_Resources/Assets/Misc/economic_intelligence.png]]

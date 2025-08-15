@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cross-Realm Cooperation Authority](../../../04_Resources/Assets/Generated/Misc/cross_realm_cooperation_authority.png)
+![Cross-Realm Cooperation Authority](../../../04_Resources/Assets/Misc/cross_realm_cooperation_authority.png)
 
 ## 🔧 Deep Evaluation Improvements
 

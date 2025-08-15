@@ -10,7 +10,7 @@ aliases: [24 7 AUTOMATION COMPLETE]
 - [[#✅ System Successfully Deployed!|✅ System Successfully Deployed!]]
 - [[#🎯 What This System Does|🎯 What This System Does]]
 - [[#Continuous Agents Running 24/7:|Continuous Agents Running 24/7:]]
-- [[#🚀 Quick Start Guide|🚀 Quick Start Guide]]
+- [[#🚀 [[Quick_Start_Guide|Quick Start Guide]]|🚀 Quick Start Guide]]
 - [[#Option 1: Simple Node.js (Recommended for Testing)|Option 1: Simple Node.js (Recommended for Testing)]]
 - [[#Option 2: PM2 Process Manager (Recommended for Production)|Option 2: PM2 Process Manager (Recommended for Production)]]
 - [[#Option 3: System Service (Most Robust)|Option 3: System Service (Most Robust)]]
@@ -64,7 +64,7 @@ Your TTRPG vault now has a fully autonomous 24/7 improvement system that continu
 7. **Quality Monitor** (Every 2 hours)
    - Scans for broken links
    - Identifies stub files
-   - Reports on vault health
+   - [[reports|Reports]] on vault health
 
 8. **Backup Manager** (Every 6 hours)
    - Creates compressed backups
@@ -262,6 +262,6 @@ The system will run indefinitely, making thousands of small improvements daily!
 
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]
-![[04_Resources/Assets/Items/Items/item_item_catalog_complete_md_display.png]]
+![[04_Resources/[[Assets|Assets]]/Misc/complete_faction_warfare_system_resource_management.png]]
+![[04_Resources/Assets/[[Items|Items]]/Items/item_item_catalog_complete_md_display.png]]
 ![[04_Resources/Assets/Items/Items/item_item_catalog_complete_md_icon.png]]

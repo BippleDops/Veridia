@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:36.040832
 aliases: [CLAUDE]
 ---
 
-# Claude
+# [[CLAUDE|Claude]]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 

@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadow Tide Syndicat](../../../04_Resources/Assets/Generated/Misc/shadow_tide_syndicat.png)
+![Shadow Tide Syndicat](../../../04_Resources/Assets/Misc/shadow_tide_syndicat.png)
 
 ## 🔧 Deep Evaluation Improvements
 

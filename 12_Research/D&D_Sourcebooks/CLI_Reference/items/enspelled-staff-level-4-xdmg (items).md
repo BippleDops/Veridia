@@ -47,7 +47,7 @@ updated: '2025-08-12T23:37:36.881463'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-4-xdmg-enspelled-staff-level-4-xdmg.svg) # Enspelled Staff (Level 4)
+![](04_Resources/Assets/Items/item-artifact-enspelled-staff-level-4-xdmg-enspelled-staff-level-4-xdmg.svg) # Enspelled Staff (Level 4)
 
 *Staff, weapon, very rare (requires attunement by a Spellcaster)* - **Damage**: - One-handed: 1d6 bludgeoning - Two-handed: 1d8 bludgeoning
 - **Properties**: [[item properties#Versatile|Versatile]]

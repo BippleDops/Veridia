@@ -28,7 +28,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cult of the Deep Mother](../../../04_Resources/Assets/Generated/Misc/cult_of_the_deep_mother.png)
+![Cult of the Deep Mother](../../../04_Resources/Assets/Misc/cult_of_the_deep_mother.png)
 
 # Cult of the Deep Mother
 

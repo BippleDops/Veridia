@@ -25,7 +25,7 @@ tags:
 modified: '2025-01-15'
 - -- # Session_Planning_Toolkit - -- ## Description {#description} Detailed description pending.
 title: Session Planning Toolkit
-type: Lore
+type: [[Lore|Lore]]
 tags:
 - lore
 - both
@@ -48,7 +48,7 @@ updated: '2025-08-13T01:18:31.118209+00:00'
 - Stakes established **Example Opening**: "You arrive at Senator Glaucus's chambers to find the door ajar, a strange shimmer in the water, and absolute silence where there should be guards. Through the crack, you see a shadow moving independently of any body." #### Investigation Phase (90 minutes) **Three-Clue Structure**:
 - Physical evidence (always findable)
 - Witness testimony (requires social)
-- Documentation (requires search/research) **Clue Locations**: 1. Crime scene: 3-4 clues
+- Documentation (requires search/research) **Clue [[location|Location]]s**: 1. Crime scene: 3-4 clues
 2. Related location: 2-3 clues
 3. NPC interactions: 2-3 clues
 4. Background research: 1-2 clues **Red Herrings** (Use Sparingly): - Point to wrong suspect
@@ -70,7 +70,7 @@ updated: '2025-08-13T01:18:31.118209+00:00'
 - Navigation tools?
 - Emergency supplies? **Information Gathering**:
 - Local guides available?
-- Maps/charts accuracy?
+- [[Maps|Maps]]/charts accuracy?
 - Recent expedition reports?
 - Environmental warnings?
 - Depth requirements? #### Journey Phase (60 minutes) **Travel Challenges**:
@@ -92,7 +92,7 @@ updated: '2025-08-13T01:18:31.118209+00:00'
 - Route changed/blocked
 - Pursued by something
 - Equipment damaged
-- Time pressure
+- [[Time|Time]] pressure
 - Environmental shift **Camp Activities**:
 - Process discoveries
 - Heal/repair
@@ -159,11 +159,11 @@ publish: false --- ------|------|-------|--------|
 - Casualties/injuries
 - Battlefield looting
 - Prisoner decisions
-- Evidence gathering **Consequences**:
+- [[Evidence|Evidence]] gathering **Consequences**:
 - Faction reactions
 - Territory changes
 - Reputation shifts
-- Future retaliation #### Name Generator **Formula**: [Descriptor] + [Given Name] + [Depth Signifier] Roll 3d6:
+- Future retaliation #### [[Name|Name]] Generator **Formula**: [Descriptor] + [Given Name] + [Depth Signifier] Roll 3d6:
 **First d6 - Descriptor**:
 1. Silent
 2. Golden
@@ -189,7 +189,7 @@ publish: false --- ------|------|-------|--------|
 - Distant sounds carry far
 - Taste of salt and life
 - Pressure barely noticeable **Set Pieces**:
-- Coral gardens with hidden predators
+- [[Coral|Coral]] gardens with hidden predators
 - Busy marketplace with faction tensions
 - Ancient ruins being excavated
 - Political rally or public execution
@@ -200,7 +200,7 @@ publish: false --- ------|------|-------|--------|
 - Metallic taste, less life
 - Pressure requires focus **Set Pieces**:
 - Abandoned research station
-- Smuggler's hidden base
+- [[Smuggler|Smuggler]]'s hidden base
 - Depth migration in progress
 - Military checkpoint
 - Reality thin spot forming #### Midnight Zone (1500-4000ft) **Sensory Details**:
@@ -210,7 +210,7 @@ publish: false --- ------|------|-------|--------|
 - Water tastes of minerals
 - Pressure constantly threatening **Set Pieces**:
 - Parasite priest temple
-- Leviathan graveyard
+- [[Leviathan|Leviathan]] graveyard
 - Memory pearl farm
 - Deep Mother shrine
 - Pressure cascade event #### Abyssal Zone (4000ft+) **Sensory Details**:
@@ -288,7 +288,7 @@ publish: false --- ------|------|-------|--------|
 **Option 3**: Bring groups together via threat
 **Option 4**: Use simultaneous challenges
 **Option 5**: Have one group watch/help other #### The Reveal Build to revelation:
-1. Plant seeds early
+1. [[plant|Plant]] seeds early
 2. Add contradictions
 3. Create false assumptions
 4. Drop bigger hints

@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadow Cultis](../../../04_Resources/Assets/Generated/Misc/shadow_cultis.png)
+![Shadow Cultis](../../../04_Resources/Assets/Misc/shadow_cultis.png)
 
 ## 🔧 Deep Evaluation Improvements
 

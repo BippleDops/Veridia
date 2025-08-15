@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cultural Ministry](../../../04_Resources/Assets/Generated/Misc/cultural_ministry.png)
+![Cultural Ministry](../../../04_Resources/Assets/Misc/cultural_ministry.png)
 
 ## 🔧 Deep Evaluation Improvements
 

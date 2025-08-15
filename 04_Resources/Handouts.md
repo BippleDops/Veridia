@@ -70,6 +70,6 @@ Detailed description pending.
 #world/world
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
-![[04_Resources/Assets/Generated/Misc/assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
-![[04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v3_council_summons_notice_png.png]]
+![[04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
+![[04_Resources/Assets/Misc/assets_handouts_handout_handout_cult_text_with_marginalia_v2_cult_text_with_marginalia_png.png]]
+![[04_Resources/Assets/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v3_council_summons_notice_png.png]]

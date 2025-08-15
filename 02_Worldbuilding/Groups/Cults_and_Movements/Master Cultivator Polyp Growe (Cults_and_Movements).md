@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Master Cultivator Polyp Growe](../../../04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.png)
+![Master Cultivator Polyp Growe](../../../04_Resources/Assets/Misc/master_cultivator_polyp_growe.png)
 
 ## 🔧 Deep Evaluation Improvements
 

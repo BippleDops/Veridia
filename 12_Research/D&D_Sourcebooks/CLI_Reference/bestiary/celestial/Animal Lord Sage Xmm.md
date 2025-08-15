@@ -42,7 +42,7 @@ updated: '2025-08-13T12:34:06.050039+00:00'
 world: Both
 
 --- > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-sage-xmm-animal-lord-sage-xmm.svg) # [[Animal Lord Sage Xmm]]
+![](04_Resources/Assets/Creatures/creature-creature-animal-lord-sage-xmm-animal-lord-sage-xmm.svg) # [[Animal Lord Sage Xmm]]
 
 *Source: Monster Manual (2024) p. 15*```statblock
 "name": "Animal Lord; Sage (XMM)"

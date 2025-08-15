@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Groups/The Silver Order](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_silver_order.png)
+![02_Worldbuilding/Groups/The Silver Order](../../04_Resources/Assets/Misc/02_worldbuilding_groups_the_silver_order.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -15,7 +15,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![02_Worldbuilding/Lore/Guild of Cross-Realm Navigators](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_lore_guild_of_cross_realm_navigators.png)
+![02_Worldbuilding/Lore/Guild of Cross-Realm Navigators](../../04_Resources/Assets/Misc/02_worldbuilding_lore_guild_of_cross_realm_navigators.png)
 
 ## 🔧 Deep Evaluation Improvements
 

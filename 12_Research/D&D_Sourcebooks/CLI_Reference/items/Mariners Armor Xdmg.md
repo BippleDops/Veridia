@@ -116,7 +116,7 @@ title: 3 Armor Xdmg
 - content/lore
 created: 2025-07-23 12:39
 updated: '2025-08-13T12:34:06.756965+00:00'
-![](04_Resources/Assets/Generated/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg) # +3 Armor
+![](04_Resources/Assets/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg) # +3 Armor
 
 ## Merged Content from 1 Armor Xdmg.md
 
@@ -136,7 +136,7 @@ title: 1 Armor Xdmg
 - +1 Splint Armor
 - +1 Studded Leather Armor
 updated: '2025-08-13T12:34:07.846144+00:00'
-![](04_Resources/Assets/Generated/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg) # +1 Armor
+![](04_Resources/Assets/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg) # +1 Armor
 *Rare* You have a +1 bonus to AC while wearing this armor. **Variants**:
 - [+1 Breastplate](#+1%20Breastplate)
 - [+1 Chain Mail](#+1%20Chain%20Mail)

@@ -34,7 +34,7 @@ improvements: 20
 - **Location**: Town center
 - **Motivation**: Community safety
 
-![Quest - Parliamentary Corruptio](../../../04_Resources/Assets/Generated/Misc/quest___parliamentary_corruptio.png)
+![Quest - Parliamentary Corruptio](../../../04_Resources/Assets/Misc/quest___parliamentary_corruptio.png)
 
 ## Objectives
 ### Primary

@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Enforcement Authority Charte](../../../04_Resources/Assets/Generated/Misc/enforcement_authority_charte.png)
+![Enforcement Authority Charte](../../../04_Resources/Assets/Misc/enforcement_authority_charte.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Crystal Cultivation Training Cente](../../../04_Resources/Assets/Generated/Misc/crystal_cultivation_training_cente.png)
+![Crystal Cultivation Training Cente](../../../04_Resources/Assets/Misc/crystal_cultivation_training_cente.png)
 
 ## 🔧 Deep Evaluation Improvements
 

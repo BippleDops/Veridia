@@ -51,7 +51,7 @@ improvements: 20
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## References - [[Mobile_Dashboard|Mobile Dashboard]] ## Notes {#notes} *Additional notes* #story/plot
+- **Hidden Details**: Secret aspects ## References - [[Mobile_Dashboard|[[Mobile_Dashboard|Mobile Dashboard]]]] ## Notes {#notes} *Additional notes* #story/plot
 #story/story
 #story/lore
 #world/world

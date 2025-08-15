@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cult of the Endless Voi](../../../04_Resources/Assets/Generated/Misc/cult_of_the_endless_voi.png)
+![Cult of the Endless Voi](../../../04_Resources/Assets/Misc/cult_of_the_endless_voi.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -38,7 +38,7 @@ updated: '2025-08-12T23:37:37.271696'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-8-xdmg-enspelled-staff-level-8-xdmg.svg) # Enspelled Staff (Level 8)
+![](04_Resources/Assets/Items/item-artifact-enspelled-staff-level-8-xdmg-enspelled-staff-level-8-xdmg.svg) # Enspelled Staff (Level 8)
 
 *Staff, weapon, legendary (requires attunement by a Spellcaster)* - **Damage**: - One-handed: 1d6 bludgeoning - Two-handed: 1d8 bludgeoning
 - **Properties**: [[item properties#Versatile|Versatile]]

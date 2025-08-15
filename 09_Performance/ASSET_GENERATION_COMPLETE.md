@@ -1,3 +1,9 @@
+---
+tags: [misc]
+type: misc
+aliases: ["ASSET GENERATION COMPLETE"]
+---
+
 # Comprehensive Asset Generation Report
 
 Generated: 2025-08-15T18:20:50.502Z
@@ -11,13 +17,13 @@ Successfully generated metadata for **31666** assets across your entire vault.
 | Type | Count | Status |
 |------|-------|--------|
 | Portraits | 3233 | ✅ Ready |
-| Locations | 6052 | ✅ Ready |
-| Items | 1944 | ✅ Ready |
+| [[location|Location]]s | 6052 | ✅ Ready |
+| [[Items|Items]] | 1944 | ✅ Ready |
 | Creatures | 551 | ✅ Ready |
-| Maps | 6052 | ✅ Ready |
+| [[Maps|Maps]] | 6052 | ✅ Ready |
 | Scenes | 1047 | ✅ Ready |
 | Tokens | 3785 | ✅ Ready |
-| Handouts | 1215 | ✅ Ready |
+| [[Handouts|Handouts]] | 1215 | ✅ Ready |
 | **TOTAL** | **31666** | **✅ Complete** |
 
 ## Coverage
@@ -37,10 +43,10 @@ The asset metadata has been generated. To create the actual images:
 2. Or use the continuous automation to gradually generate them
 3. Or integrate with your preferred AI image generation tool
 
-## Asset Locations
+## Asset [[locations|Locations]]
 
 All assets are organized in:
-`04_Resources/Assets/Generated/`
+`04_Resources/[[Assets|Assets]]/`
 
 With subdirectories for each type:
 - `Portraits/` - Character portraits

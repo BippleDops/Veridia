@@ -24,7 +24,7 @@ The vault has been comprehensively enhanced with:
 1. ✅ Deeper linkage and connections
 2. ✅ Duplicate content archival
 3. ✅ Image linking to relevant notes
-4. ✅ Unified Aethermoor/Aquabyssos narrative
+4. ✅ Unified Aethermoor/[[Aquabyssos|Aquabyssos]] narrative
 5. ✅ D&D sourcebook renaming
 6. ✅ Quality enhancements throughout
 7. ✅ Additional deep improvements

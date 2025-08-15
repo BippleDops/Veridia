@@ -35,7 +35,7 @@ updated: 2025-08-14
 **Details**: Rich sensory elements bring this to life. Session Zero Universal Guide.md represents a significant element within the campaign world, offering various opportunities for engagement and d
 *The air carries the scent of [appropriate smell].*evelopment. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Nevertheless, ## Relationships - Connected to various other elements within the vault
+- **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. Nevertheless, ## [[RELATIONSHIPS|Relationships]] - Connected to various other elements within the vault
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content ## Usage Notes This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks - Can serve as starting point for investigations
 - May provide crucial information at key moments

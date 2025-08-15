@@ -14,7 +14,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Crystal_Corruption_Cultists](../../04_Resources/Assets/Generated/Misc/crystal_corruption_cultists.png)
+![Crystal_Corruption_Cultists](../../04_Resources/Assets/Misc/crystal_corruption_cultists.png)
 
 ## 🔧 Deep Evaluation Improvements
 

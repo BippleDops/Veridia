@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Cross-Cultural Business Development Society](../../../04_Resources/Assets/Generated/Misc/cross_cultural_business_development_society.png)
+![Cross-Cultural Business Development Society](../../../04_Resources/Assets/Misc/cross_cultural_business_development_society.png)
 
 ## 🔧 Deep Evaluation Improvements
 

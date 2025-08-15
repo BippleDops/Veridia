@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Academy Mirror Researchers](../../../04_Resources/Assets/Generated/Misc/academy_mirror_researchers.png)
+![Academy Mirror Researchers](../../../04_Resources/Assets/Misc/academy_mirror_researchers.png)
 
 ## 🔧 Deep Evaluation Improvements
 

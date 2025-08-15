@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Deep-Sea Cultural Protocol](../../../04_Resources/Assets/Generated/Misc/deep_sea_cultural_protocol.png)
+![Deep-Sea Cultural Protocol](../../../04_Resources/Assets/Misc/deep_sea_cultural_protocol.png)
 
 ## 🔧 Deep Evaluation Improvements
 

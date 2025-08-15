@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Governmental Authority](../../../04_Resources/Assets/Generated/Misc/governmental_authority.png)
+![Governmental Authority](../../../04_Resources/Assets/Misc/governmental_authority.png)
 
 ## 🔧 Deep Evaluation Improvements
 

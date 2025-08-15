@@ -58,4 +58,4 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 ## Visual References
 ![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_icon.png]]
 ![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_display.png]]
-![[04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png]]
+![[04_Resources/Assets/Misc/complete_faction_warfare_system_resource_management.png]]

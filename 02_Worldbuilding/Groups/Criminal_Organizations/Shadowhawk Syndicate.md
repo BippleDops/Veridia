@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadowhawk Syndicate](../../../04_Resources/Assets/Generated/Misc/shadowhawk_syndicate.png)
+![Shadowhawk Syndicate](../../../04_Resources/Assets/Misc/shadowhawk_syndicate.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Academy of Crystalline Art](../../../04_Resources/Assets/Generated/Misc/academy_of_crystalline_art.png)
+![Academy of Crystalline Art](../../../04_Resources/Assets/Misc/academy_of_crystalline_art.png)
 
 ## 🔧 Deep Evaluation Improvements
 

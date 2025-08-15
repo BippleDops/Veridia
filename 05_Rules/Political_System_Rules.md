@@ -226,4 +226,4 @@ A: Supernatural abilities suppressed, mundane portions still function ## Quick R
 ## Visual References
 ![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-v1-political-leader-reef-crown.png]]
 ![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_political_consulting_guil.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_groups_political_consulting_guil.png]]

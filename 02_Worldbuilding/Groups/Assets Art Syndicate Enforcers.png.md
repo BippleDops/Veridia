@@ -16,7 +16,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![04_Resources/Assets/Art/Places/Syndicate_Enforcers.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png)
+![04_Resources/Assets/Art/Places/Syndicate_Enforcers.png](../../04_Resources/Assets/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png)
 
 ## 🔧 Deep Evaluation Improvements
 

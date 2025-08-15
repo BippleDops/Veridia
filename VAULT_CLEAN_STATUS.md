@@ -6,7 +6,7 @@ modified: 2025-08-15T12:24:23.377868
 aliases: [VAULT CLEAN STATUS]
 ---
 
-# Vault Clean Status
+# [[VAULT_CLEAN_STATUS|Vault Clean Status]]
 
 
 > **Content Warning**: This content contains mature themes. DM discretion advised.
@@ -35,17 +35,17 @@ tags:
 - organized
 - final created: '2024-08-14'
 modified: '2024-08-14'
-- -- ## 🏆 Root Directory: PRISTINE The vault root directory is now perfectly organized with only essential files and well-structured directories. ### Standardized [[DIRECTORY_STRUCTURE|Directory Structure]]```00_Indexes/ - Indexes and documentation ## Description
+- -- ## 🏆 Root Directory: PRISTINE The vault root directory is now perfectly organized with only essential files and well-structured directories. ### Standardized [[DIRECTORY_STRUCTURE|[[DIRECTORY_STRUCTURE|Directory Structure]]]]```00_Indexes/ - Indexes and documentation ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 [[01_Adventures|01_Adventures]]/ - Adventure modules and campaigns [[02_Worldbuilding|02_Worldbuil
-*The air carries the scent of [appropriate smell].*ding]]/ - [[Lore|Lore]], [[Groups|groups]], [[Items|Items]], world details
+*The air carries the scent of [appropriate smell].*ding]]/ - [[[[Lore|Lore]]|Lore]], [[[[Groups|Groups]]|groups]], [[[[Items|Items]]|Items]], world details
 03_People/ - NPCs and characters
-04_Places/ - Locations and [[Maps|Maps]]
-[[04_Resources|04_Resources]]/ - [[Assets|Assets]], media, and resources
+04_Places/ - [[locations|Locations]] and [[[[Maps|Maps]]|Maps]]
+[[04_Resources|04_Resources]]/ - [[[[Assets|Assets]]|Assets]], media, and resources
 05_Rules/ - Game mechanics and rules
 06_Sessions/ - [[Session Notes|Session Notes]] and [[Gm Resources|GM resources]]
-07_Player_Resources/- Player [[Handouts|Handouts]] and resources
+07_Player_Resources/- Player [[[[Handouts|Handouts]]|Handouts]] and resources
 08_Archive/ - Archived content and backups
 09_Templates/ - Note templates
 10_Inspiration/ - Ideas and [[inspiration|inspiration]]
@@ -58,7 +58,7 @@ modified: '2024-08-14'
 ║ Root Directories: 16 (organized) ║
 ║ Duplicate Folders: 0 ║
 ║ Vestigial Files: 0 ║
-║ [[Organization|Organization]] Level: PERFECT ║
+║ [[[[Organization|Organization]]|Organization]] Level: PERFECT ║
 ║ Cleanliness Score: 100% ║
 ╚══════════════════════════════════════════╝ ### From Root 1. **[[VAULT_MASTER_INDEX|VAULT_MASTER_INDEX]].md** - Start here for navigation
 2. **[[VAULT_UPDATES|VAULT_UPDATES]].md** - See what's changed
@@ -72,10 +72,10 @@ modified: '2024-08-14'
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate
 
-## [[Conditions|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+## [[[[Conditions|Conditions]]|Conditions]] Reference (ACX p.290-292) ### Common Conditions {#[[conditions|conditions]]-reference-(phb-p.290-292)-###-common-conditions} - **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
-- **Frightened**: Disadvantage while source in sight, can't move closer
+- **Frightened**: [[Disadvantage|Disadvantage]] while source in sight, can't move closer
 - **Grappled**: Speed 0, ends if grappler incapacitated
 - **Incapacitated**: Can't take [[actions|actions]] or reactions
 - **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
@@ -84,7 +84,7 @@ modified: '2024-08-14'
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
-- **Unconscious**: Incapacitated, prone, drops everything ### [[Exhaustion|Exhaustion]] (ACX p.291) 1. Disadvantage on ability checks
+- **Unconscious**: Incapacitated, prone, drops everything ### [[[[Exhaustion|Exhaustion]]|Exhaustion]] (ACX p.291) 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves
 4. HP maximum halved

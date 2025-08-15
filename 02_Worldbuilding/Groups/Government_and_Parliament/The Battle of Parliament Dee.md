@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![The Battle of Parliament Dee](../../../04_Resources/Assets/Generated/Misc/the_battle_of_parliament_dee.png)
+![The Battle of Parliament Dee](../../../04_Resources/Assets/Misc/the_battle_of_parliament_dee.png)
 
 ## 🔧 Deep Evaluation Improvements
 

@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Imperial Academy](../../../04_Resources/Assets/Generated/Misc/imperial_academy.png)
+![Imperial Academy](../../../04_Resources/Assets/Misc/imperial_academy.png)
 
 ## 🔧 Deep Evaluation Improvements
 

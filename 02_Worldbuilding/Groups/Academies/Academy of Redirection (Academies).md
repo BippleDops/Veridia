@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Academy of Redirection](../../../04_Resources/Assets/Generated/Misc/academy_of_redirection.png)
+![Academy of Redirection](../../../04_Resources/Assets/Misc/academy_of_redirection.png)
 
 ## 🔧 Deep Evaluation Improvements
 

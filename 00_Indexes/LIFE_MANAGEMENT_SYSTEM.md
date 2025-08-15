@@ -164,4 +164,4 @@ Detailed description pending.
 ## Visual References
 ![[04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-v1-bio-tech-supervisor-reef-lifeweaver.png]]
 ![[04_Resources/Assets/Locations/location-city-bio-tech-supervisor-reef-lifeweaver-bio-tech-supervisor-reef-lifeweaver.png]]
-![[04_Resources/Assets/Generated/Misc/02_worldbuilding_organizations_the_life_eternal.png]]
+![[04_Resources/Assets/Misc/02_worldbuilding_organizations_the_life_eternal.png]]

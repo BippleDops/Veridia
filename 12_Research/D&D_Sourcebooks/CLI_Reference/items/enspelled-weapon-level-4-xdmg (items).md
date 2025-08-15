@@ -90,7 +90,7 @@ updated: '2025-08-12T23:37:37.220367'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-weapon-level-4-xdmg-enspelled-weapon-level-4-xdmg.svg) # Enspelled Weapon (Level 4)
+![](04_Resources/Assets/Items/item-artifact-enspelled-weapon-level-4-xdmg-enspelled-weapon-level-4-xdmg.svg) # Enspelled Weapon (Level 4)
 
 *Very rare (requires attunement)* Bound into this weapon is a level 4 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains`d6`expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell. The spell's saving throw DC is 15, and its attack bonus is`+7`. **Variants**:
 - [Enspelled (Level 4) Antimatter Rifle](#Enspelled%20(Level%204)%20Antimatter%20Rifle)

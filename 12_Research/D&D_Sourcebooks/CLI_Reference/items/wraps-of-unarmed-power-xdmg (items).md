@@ -37,7 +37,7 @@ updated: '2025-08-12T23:37:37.150220'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-1-wraps-of-unarmed-power-xdmg-1-wraps-of-unarmed-power-xdmg.svg) # Wraps of Unarmed Power
+![](04_Resources/Assets/Items/item-artifact-1-wraps-of-unarmed-power-xdmg-1-wraps-of-unarmed-power-xdmg.svg) # Wraps of Unarmed Power
 
 *Wondrous item* **Items in this group:** - [[1-wraps-of-unarmed-power-xdmg (items)]]
 - [[2-wraps-of-unarmed-power-xdmg (items)]]
@@ -66,7 +66,7 @@ publish: false
 title: 1 wraps of unarmed power xdmg
 - +1 Wraps of Unarmed Power
 updated: '2025-08-12T23:37:37.351992'
-![](04_Resources/Assets/Generated/Items/item-artifact-1-wraps-of-unarmed-power-xdmg-1-wraps-of-unarmed-power-xdmg.svg) # +1 Wraps of Unarmed Power
+![](04_Resources/Assets/Items/item-artifact-1-wraps-of-unarmed-power-xdmg-1-wraps-of-unarmed-power-xdmg.svg) # +1 Wraps of Unarmed Power
 *Wondrous item, uncommon* While wearing these wraps, you have a +1 bonus to attack rolls and damage rolls made with your Unarmed Strikes. Those strikes deal your choice of Force damage or their normal damage type. *Source: Dungeon Master's Guide (2024) p. 325* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 1 wraps of unarmed power xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 1 wraps of unarmed power xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 wraps of unarmed power xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a witness for love
 - A stranger needs help delivering before the new moon
 - Strange disappearances suggest a curse

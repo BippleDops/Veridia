@@ -22,7 +22,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Shadow Cultist](../../../04_Resources/Assets/Generated/Misc/shadow_cultist.png)
+![Shadow Cultist](../../../04_Resources/Assets/Misc/shadow_cultist.png)
 
 ## 🔧 Deep Evaluation Improvements
 

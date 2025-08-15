@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![The Convergence Cult](../../../04_Resources/Assets/Generated/Misc/the_convergence_cult.png)
+![The Convergence Cult](../../../04_Resources/Assets/Misc/the_convergence_cult.png)
 
 ## 🔧 Deep Evaluation Improvements
 

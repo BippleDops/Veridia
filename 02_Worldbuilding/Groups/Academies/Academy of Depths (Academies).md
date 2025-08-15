@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Academy of Depths](../../../04_Resources/Assets/Generated/Misc/academy_of_depths.png)
+![Academy of Depths](../../../04_Resources/Assets/Misc/academy_of_depths.png)
 
 ## 🔧 Deep Evaluation Improvements
 

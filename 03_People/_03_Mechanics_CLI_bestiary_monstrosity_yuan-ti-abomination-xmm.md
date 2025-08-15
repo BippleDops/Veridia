@@ -165,6 +165,6 @@ publish: false --- # /03 Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/faction_loyalty_mechanics.png]]
+![[04_Resources/Assets/Misc/faction_loyalty_mechanics.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_gravity_anomaly_mechanics_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_gravity_anomaly_mechanics_gravity_anomaly_mechanics_svg_gm.png]]

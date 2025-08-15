@@ -1,7 +1,0 @@
-{
-  "name": "\" + join(map(slice(rows, 0, 3), (row) => row.file.name), \"",
-  "type": "misc",
-  "generated": "2025-08-15T18:19:20.231Z",
-  "prompt": "fantasy illustration for \" + join(map(slice(rows, 0, 3), (row) => row.file.name), \", detailed artwork, game asset",
-  "status": "pending_generation"
-}

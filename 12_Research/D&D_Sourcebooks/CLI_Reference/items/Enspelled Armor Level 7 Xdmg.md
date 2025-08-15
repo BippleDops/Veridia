@@ -61,7 +61,7 @@ updated: '2025-08-13T12:34:07.050158+00:00'
 world: Both
 
 --- > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-armor-level-7-xdmg-enspelled-armor-level-7-xdmg.svg) # Enspelled Armor (Level 7)
+![](04_Resources/Assets/Items/item-artifact-enspelled-armor-level-7-xdmg-enspelled-armor-level-7-xdmg.svg) # Enspelled Armor (Level 7)
 
 *Legendary (requires attunement)* Bound into this armor is a level 7 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains`d6`expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell. The spell's saving throw DC is 18, and its attack bonus is`+10`. **Variants**:
 - [Enspelled (Level 7) Breastplate](#Enspelled%20(Level%207)%20Breastplate)

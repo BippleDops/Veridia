@@ -241,6 +241,6 @@ Discuss with players before implementing
 
 
 ## Visual References
-![[04_Resources/Assets/Generated/Misc/filtration_systems_guild.png]]
+![[04_Resources/Assets/Misc/filtration_systems_guild.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_v1_pressure_lock_systems_svg_political.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_pressure_lock_systems_pressure_lock_systems_svg_political.png]]

@@ -23,7 +23,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Aberrant Cults](../../../04_Resources/Assets/Generated/Misc/aberrant_cults.png)
+![Aberrant Cults](../../../04_Resources/Assets/Misc/aberrant_cults.png)
 
 ## 🔧 Deep Evaluation Improvements
 
